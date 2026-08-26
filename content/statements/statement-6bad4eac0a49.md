@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:51:19](/episodes/ep-sImMM04XdWY.md#t-00-50-42) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3079);return false;">Play</a>
 
-> once I saw the article—he was blocking Tulsi's office—I lost all faith in Kash. I think he's a part of the corruption, plain and simple
+> I mean, once I saw the article—he was blocking Tulsi's office— I lost all faith in Kash. I think he's a part of the corruption, plain and simple.
 
 ## Verification
 

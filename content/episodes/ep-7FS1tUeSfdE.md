@@ -1,14 +1,14 @@
 ---
 id: "7FS1tUeSfdE"
 title: "BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338"
-description: "BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 - 71 entities, 11 events, 0 claims"
+description: "BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 - 71 entities, 11 events, 16 factual claims"
 published: "2026-05-13"
 youtube_url: "https://www.youtube.com/watch?v=7FS1tUeSfdE"
 ---
 
 **Published:** 2026-05-13 | [Watch on YouTube](https://www.youtube.com/watch?v=7FS1tUeSfdE)
 
-**Stats:** 71 entities | 11 events | 0 claims
+**Stats:** 71 entities | 11 events | 16 factual claims
 
 ---
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:53:05](/episodes/ep-2WEHTk0Xewg.md#t-00-53-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3185);return false;">Play</a>
 
-> But I know from speaking to Charlie Kirk, he felt it too. You've heard it from Charlie Kirk that he felt—and there is a layer here of nefarious pressure to have certain narratives go only one way that must be called out and must be fought.
+> But I know from speaking to Charlie (Charlie Kirk), he felt it too. You've heard it from Charlie (Charlie Kirk) that he felt—and there is a layer here of nefarious pressure to have certain narratives go only one way that must be called out and must be fought.
 
 ## Verification
 

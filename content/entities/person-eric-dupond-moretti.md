@@ -42,10 +42,10 @@ _Type: People_
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:05:52](/episodes/ep-a-e7HC6SeK8.md#ent-person-eric-dupond-moretti-t-00-05-38)**
-> "... we had been sort of interrupted in Becoming Brigitte series two, season two—we were speaking about Eric Dupond-Moretti. Eric Dupond-Moretti. And we were speaking about how he was kind of known and had made a name for h..."
+> "You remember—actually, right before we had been sort of interrupted in Becoming Brigitte (Brigitte Macron) series two, season two—we were speaking about Eric Dupond-Moretti (Eric Dupond-Moretti)."
 
 **[00:06:04](/episodes/ep-a-e7HC6SeK8.md#ent-person-eric-dupond-moretti-t-00-05-38)**
-> "...interrupted in Becoming Brigitte series two, season two—we were speaking about Eric Dupond-Moretti. Eric Dupond-Moretti. And we were speaking about how he was kind of known and had made a name for himself making an argu..."
+> "Eric Dupond-Moretti (Eric Dupond-Moretti)."
 
 </details>
 

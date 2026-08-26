@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:29:18](/episodes/ep-7RLtGgkTh9o.md#t-00-28-42) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1758);return false;">Play</a>
 
-> Christian non-denominational, but she's LDS. Born and raised LDS.
+> Then she says, "Christian non-denominational, but she's LDS." "Born and raised LDS."
 
 ## Verification
 

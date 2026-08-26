@@ -1,17 +1,23 @@
 ---
 title: "Thomas Michael Camino"
-description: "Thomas Michael Camino (People) - 3 mentions"
+description: "Thomas Michael Camino (People) - 4 mentions"
 id: "person-thomas-michael-camino"
 type: "PERSON"
+aliases:
+  - "Tom"
 ---
 
 _Type: People_
 
+**Also known as:** Tom
+
+> **Possibly overlapping entity records:** [Tom Hanson](/entities/person-tom-hanson). These records share a name or alias; compare their histories before treating either count as complete.
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47">2025-11-13 · 00:07:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-09-14">2025-11-13 · 00:09:35</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-09-14">2025-11-13 · 00:17:04</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -20,15 +26,15 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 3 mentions" title="2025-11-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47) | 3 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47) | 4 |
 
 </details>
 </section>
@@ -36,10 +42,10 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
 
 **[00:07:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-07-47)**
 > "...st one—I think—big example here, okay? This is a true story. I hope I'm saying his last name right. Thomas Michael Camino was a man who was factually put away into prison for abuse—molesting, lewd conduct toward young gir..."
@@ -49,6 +55,9 @@ _Type: People_
 
 **[00:09:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-09-14)**
 > "...by the parents of three victims." Listen to that: three victims. Okay. The article goes on. It says Thomas Michael Camino, 31 years old, of San Juan Capistrano, was convicted in May of molesting an eight-year-old girl and..."
+
+**[00:17:04](/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-michael-camino-t-00-09-14)**
+> "..., best friend, and she goes, "Tom, I got to talk to you.""
 
 </details>
 
@@ -63,7 +72,7 @@ _Type: People_
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:40](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): “Rob McCoy struck up thereafter and maintained a long friendship with Thomas Camino across decades”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino across decades.”
 
 </details>
 
@@ -87,7 +96,7 @@ _Type: People_
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:40](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): “Rob McCoy struck up thereafter and maintained a long friendship with Thomas Camino across decades”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino across decades.”
 
 </details>
 

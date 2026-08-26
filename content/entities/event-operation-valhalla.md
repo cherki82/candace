@@ -96,7 +96,7 @@ _Type: Events_
 <details>
 <summary>Based In (1)</summary>
 
-- **[Camp Ripley](/entities/gpe-camp-ripley.md)**
+- **[Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:23:57](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23): “[00:23:57] And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.”
@@ -108,7 +108,7 @@ _Type: Events_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Camp Ripley](/entities/gpe-camp-ripley.md)** location of this
+- **[Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:23:57](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23): “[00:23:57] And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.”

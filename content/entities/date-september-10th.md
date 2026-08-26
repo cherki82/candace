@@ -27,7 +27,7 @@ _Type: Dates_
 <div><span>Episodes</span><strong>33</strong></div>
 <div><span>Mentions</span><strong>79</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -330,7 +330,7 @@ _Type: Dates_
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (7 mentions)</summary>
 
 **[00:00:13](/episodes/ep-iHav0PPzUz8.md#ent-date-september-10th-t-00-00-00)**
-> "...men, I know it. Candace Owens: Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk)'s assassination. Candace Owens: And we now need to de..."
+> "Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk)'s assassination."
 
 **[00:12:53](/episodes/ep-iHav0PPzUz8.md#ent-date-september-10th-t-00-12-53)**
 > "... plane arrived on September 4th—so six days before—into Provo, Utah, and departed six days later on September 10th, they ignored the huge substance of this, which is why is this Egyptian military plane here in the ..."
@@ -375,16 +375,16 @@ _Type: Dates_
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
 
 **[00:04:08](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
-> "...elusion. I mean, I truly believed that I would be fighting for answers to what actually happened on 9/10, alongside Charlie's inner circle. I thought the band maybe was going to get back together. We were..."
+> "... to what actually happened on 9/10,"
 
 **[00:08:06](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-07-38)**
-> "...et like Sam Parker, James Lee, Ian Carroll (Ian Carroll), Zeb Boykin, many others. And a video from September 10th has gone pretty viral, okay? So let's take a look at this. It's a video of, of course, Pastor Rob M..."
+> "And a video from September 10th has gone pretty viral, okay?"
 
 **[00:28:31](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
-> "...nna keep on going and jump into a succession plan. We're gonna figure out what the hell happened on September 10th first. And I'm gonna tell you guys, Charlie had a vision. We'll get to that after a few ads. All ri..."
+> "...out what the hell happened on September 10th first."
 
 **[00:33:04](/episodes/ep-c5BcKF91iec.md#ent-date-september-10th-t-00-28-26)**
-> "... And so, yeah, I will be doing whatever I want to do until the truth is told about what happened on 9/10. We should start with Josh Hammer, by the way, because he really has now become the king of defying..."
+> "...s told about what happened on 9/10."
 
 </details>
 
@@ -439,7 +439,7 @@ _Type: Dates_
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
 
 **[00:16:38](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-10th-t-00-16-32)**
-> "...stand that, then they can't be your students. That's it. That was on September 9th, okay. Then came September 10th. Obviously Charlie (Charlie Kirk) lost his life. And a few days later, I was told—and I sensed inst..."
+> "Then came September 10th. Obviously Charlie Kirk lost his life."
 
 </details>
 
@@ -528,13 +528,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about September 10th (1)</strong></summary>
+<summary><strong class="section-title">Statements about September 10th (3)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
 
 - [00:55:06](/episodes/ep-IqHsl7d2dos.md#t-00-54-41) (Opinion) **Candace Owens**: ["Owens urged viewers not to join the U.S. military because she believed..."](/statements/statement-c5be7b30175f.md)
   - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
+
+- [00:21:09](/episodes/ep-JQjCAsfoXEE.md#t-00-21-01) (Claim) **Candace Owens**: ["On September 10th, the blue plane SU-BND was transponding at Duncan Av..."](/statements/statement-912933e172ee.md)
+  - Also about: [Duncan Aviation](/entities/org-duncan-aviation.md)
+
+- [00:26:14](/episodes/ep-JQjCAsfoXEE.md#t-00-25-34) (Claim) **Candace Owens**: ["Flight N560TW departed Scottsdale, Arizona on the morning of September..."](/statements/statement-79fcbaf25dca.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Santa Barbara](/entities/gpe-santa-barbara.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 </details>
 

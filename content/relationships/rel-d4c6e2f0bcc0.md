@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) appeared with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
@@ -25,9 +25,13 @@ object: "person-charlie-kirk"
 
 - [00:12:21](/episodes/ep-hWTdXHGQ8R4#t-00-12-21): _Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him._
 
+**[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
+
+- [00:50:06](/episodes/ep-puuMVxEu5NU#t-00-50-06): _I stood next to him. I don't believe there's a single person who did more events with Charlie Kirk than me._
+
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 
-- [00:00:09](/episodes/ep-yAIb-NuUh_U#t-00-00-09): _throwback clip from Charlie Kirk and me back when I had a show on PragerU_
+- [00:00:03](/episodes/ep-yAIb-NuUh_U#t-00-00-03): _Now somebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU._
 
 ### Related
 

@@ -11,7 +11,7 @@ date: "2025-11-05"
 
 > Pentagon grants press pass to conservative activist Laura Loomer.
 
-## Mentioned In (8 times)
+## Mentioned In (6 times)
 
 ### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
@@ -53,23 +53,7 @@ date: "2025-11-05"
 
 > weekend—this is real. A real live tweet came from Laura Loomer, our resident psycho. She tweeted this. She's been attacking me nonstop. "As p
 
-### 6. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
-
-**Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2555);return false;">▶️ Play</a>
-
-> ore Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's donors, Bob Shill
-
-### 7. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:38:36](/episodes/ep-his-JBjlkh8.md#t-00-37-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2316);return false;">▶️ Play</a>
-
-> questions. And so that's why they're being let in, most nota
-
-### 8. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 6. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:28:34](/episodes/ep-ja26iltROkM.md#t-00-28-21) 

@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:29](/episodes/ep-K5GjF53bfN4.md#t-00-08-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(509);return false;">Play</a>
 
-> Marissa has not always been open about the fact that she worked for the IDF intelligence
+> You know, Marissa (Marissa Streit) has not always been open about the fact that she worked for the IDF intelligence.
 
 ## Verification
 

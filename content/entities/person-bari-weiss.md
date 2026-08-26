@@ -24,11 +24,11 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09">2025-10-28 · 00:27:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-48-18">2026-08-14 · 02:48:18</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
 <div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,7 +38,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09" style="--pulse-height:17%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-bari-weiss-t-00-15-24" style="--pulse-height:17%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-28-48" style="--pulse-height:42%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 5 mentions" title="2025-11-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-28-48" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-bari-weiss-t-00-51-00" style="--pulse-height:25%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-bari-weiss-t-00-40-07" style="--pulse-height:17%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-11-42" style="--pulse-height:42%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 5 mentions" title="2025-12-10 · 5 mentions"><span></span></a>
@@ -73,6 +73,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-bari-weiss-t-00-29-13" style="--pulse-height:25%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-bari-weiss-t-00-29-57" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-bari-weiss-t-00-09-56" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-bari-weiss-t-00-28-10" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14" style="--pulse-height:17%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -81,7 +82,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09) | 2 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-bari-weiss-t-00-15-24) | 2 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-28-48) | 5 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-28-48) | 4 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-bari-weiss-t-00-51-00) | 3 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-bari-weiss-t-00-40-07) | 2 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-bari-weiss-t-00-11-42) | 5 |
@@ -116,6 +117,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-bari-weiss-t-00-29-13) | 3 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-bari-weiss-t-00-29-57) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-bari-weiss-t-00-09-56) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-bari-weiss-t-00-28-10) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14) | 2 |
 
 </details>
@@ -134,6 +136,14 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 
 **[02:48:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-48-18)**
 > "... that stage she sat down with Barry Weiss that that's what she believes."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:28:42](/episodes/ep-puuMVxEu5NU.md#ent-person-bari-weiss-t-00-28-10)**
+> "ready to go on Bari Weiss"
 
 </details>
 
@@ -557,22 +567,19 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:28:48](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-28-48)**
 > "...ur faces now. It's never been this in our face, you know? Before we get to what he had to say about Bari Weiss, I want to remind you that Bari Weiss started and is a part-owner, at least, of The Free Press befo..."
 
-**[00:29:30](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-28-48)**
-> "Bari Weiss started The Free Press before CBS News"
-
 **[00:32:48](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-32-20)**
 > "...ying, okay? Go after him. I'm enjoying his content. It's his fault. Here's what he had to say about Bari Weiss' installation—because that's what it was. She just installed. It's not a meritocracy. At the head o..."
 
-**[00:32:58](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-32-58)**
-> "...e just installed. It's not a meritocracy. At the head of CBS News. Take a listen. (Tim Dillon clip) Bari Weiss is basically telling people, "Why don't you pretend I'm not here to destroy this whole thing? Becau..."
-
 **[00:33:40](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-33-40)**
 > "...essel of state propaganda. It's all—it's supposed to be. It's not supposed to be anything else. And Bari Weiss—to her credit—is not pretending she's there to do anything else. She's going, "Why are there standa..."
+
+**[00:32:58](/episodes/ep-mKXdKV-OBog.md#ent-person-bari-weiss-t-00-32-58)**
+> "(Tim Dillon clip) Bari Weiss is basically telling people, "Why don't you pretend I'm not here to destroy this whole thing?"
 
 </details>
 
@@ -634,7 +641,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 - **[The New York Times](/entities/org-the-new-york-times.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:51](/episodes/ep-mKXdKV-OBog.md#t-00-29-33): “She notoriously left The New York Times and said it was biased”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): “She notoriously left The New York Times and said it was biased, and we needed to have”
 
 </details>
 
@@ -713,25 +720,12 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details>
-<summary>Works For (3)</summary>
-
-- **[CBS](/entities/org-cbs.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#t-00-15-24): “Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS.”
-
-</details>
-
-- **[The New York Times](/entities/org-the-new-york-times.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “She notoriously left The New York Times”
-
-</details>
+<summary>Works For (1)</summary>
 
 - **[CBS News](/entities/org-cbs-news.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
+- [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#t-00-15-24): “Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS.”
 - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “before she went on to CBS News”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16): “why they put Bari Weiss at CBS.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:25:00](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00): “like that i would say Bari Weiss is a perfect example like we all know she's not qualified uh to be an executive at cbs they just don't care they're just there you go Bari Weiss and this Nick Shirley thing is one of the weirdest non-beefs that i've ever had so i'm going to back up here and say i do did not follow at all the quote-unquote rise of Nick Shirley he's 24 years old um it was if i recall like very quickly after the Charlie Kirk assassination assassination”
@@ -741,7 +735,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details>
-<summary>Referenced By (12)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -759,23 +753,10 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 
 </details>
 
-- **[CBS](/entities/org-cbs.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+- **[CBS News](/entities/org-cbs-news.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#t-00-15-24): “Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS.”
-
-</details>
-
-- **[The New York Times](/entities/org-the-new-york-times.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “She notoriously left The New York Times”
-
-</details>
-
-- **[CBS News](/entities/org-cbs-news.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
-
 - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “before she went on to CBS News”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:12:16](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-16): “why they put Bari Weiss at CBS.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:25:00](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00): “like that i would say Bari Weiss is a perfect example like we all know she's not qualified uh to be an executive at cbs they just don't care they're just there you go Bari Weiss and this Nick Shirley thing is one of the weirdest non-beefs that i've ever had so i'm going to back up here and say i do did not follow at all the quote-unquote rise of Nick Shirley he's 24 years old um it was if i recall like very quickly after the Charlie Kirk assassination assassination”
@@ -785,7 +766,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 - **[The New York Times](/entities/org-the-new-york-times.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:51](/episodes/ep-mKXdKV-OBog.md#t-00-29-33): “She notoriously left The New York Times and said it was biased”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): “She notoriously left The New York Times and said it was biased, and we needed to have”
 
 </details>
 
@@ -863,7 +844,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bari Weiss (16)</strong></summary>
+<summary><strong class="section-title">Statements about Bari Weiss (21)</strong></summary>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
@@ -890,10 +871,13 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
 
 - [00:02:57](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro worked with Bari Weiss to have an article published claimi..."](/statements/statement-52ac3b9164b8.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:03:04](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Owens alleged that Ben Shapiro worked with Bari Weiss on an article sa..."](/statements/statement-9d19bddc6417.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -925,12 +909,15 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (3)</summary>
 
 - [00:06:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-05-27) (Accusation) **Candace Owens**: ["Bari Weiss is a Tel Aviv agent"](/statements/statement-ce0953603e5c.md)
 
 - [00:08:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) (Claim) **Candace Owens**: ["The Bari Weiss interview with Erika Kirk was pre-recorded from 11am to..."](/statements/statement-059669d70f62.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:08:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) (Claim) **Candace Owens** (via paraphrase): ["The CBS News town hall with Erika Kirk and Bari Weiss was pre-recorded..."](/statements/statement-c065dd4ce272.md)
+  - Also about: [CBS News](/entities/org-cbs-news.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
@@ -946,10 +933,29 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:40:41](/episodes/ep-Kmt6HgRjckU.md#t-00-40-07) (Claim) **Candace Owens**: ["A chat viewer wrote that Erika Kirk would appear with Bari Weiss on De..."](/statements/statement-6d276f41ecf7.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1)</summary>
 
 - [00:12:14](/episodes/ep-DqGNvi36ol8.md#t-00-12-03) (Claim) **Candace Owens** (via read message): ["Bari Weiss is interviewing Erika Kirk on December 13th"](/statements/statement-2caf424f7f48.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2)</summary>
+
+- [00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-48) (Claim) **Candace Owens**: ["Bari Weiss founded and held an ownership stake in The Free Press befor..."](/statements/statement-fafbd69be6fd.md)
+  - Also about: [CBS News](/entities/org-cbs-news.md), [The Free Press](/entities/org-the-free-press.md)
+
+- [00:34:33](/episodes/ep-mKXdKV-OBog.md#t-00-34-21) (Claim) **Tim Dillon** (via quoted speech): ["Larry Ellison hired Bari Weiss for CBS News"](/statements/statement-1962395d58d5.md)
+  - Also about: [CBS News](/entities/org-cbs-news.md), [Larry Ellison](/entities/person-larry-ellison.md)
 
 </details>
 

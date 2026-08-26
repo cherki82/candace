@@ -13,20 +13,20 @@ _Type: Places_
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (11 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07" style="--pulse-height:9%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-minot-t-00-39-39" style="--pulse-height:9%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11" style="--pulse-height:9%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 11 mentions" title="2025-11-21 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-16-09" style="--pulse-height:9%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07" style="--pulse-height:10%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-minot-t-00-39-39" style="--pulse-height:10%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11" style="--pulse-height:10%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 10 mentions" title="2025-11-21 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-16-09" style="--pulse-height:10%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,7 +35,7 @@ _Type: Places_
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-minot-t-00-39-39) | 1 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-minot-t-00-20-11) | 1 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45) | 11 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45) | 10 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09) | 1 |
 
 </details>
@@ -55,13 +55,10 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (11 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (10 mentions)</summary>
 
 **[00:05:58](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45)**
 > "...mber—came into the United States on September 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It pretty much is just the Air Force base, by..."
-
-**[00:06:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45)**
-> "Minot, North Dakota - Air Force base location"
 
 **[00:06:23](/episodes/ep-mKXdKV-OBog.md#ent-gpe-minot-t-00-05-45)**
 > "...y member, one of the good ones. I think one of the keys to not overlook here is SUBTT's stopover in Minot, North Dakota. Why stop there at all on the fourth? Why not fly direct to Provo? Not only does Mino..."
@@ -122,5 +119,21 @@ _Type: Places_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Minot (2)</strong></summary>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2)</summary>
+
+- [00:05:48](/episodes/ep-mKXdKV-OBog.md#t-00-05-45) (Claim) **Candace Owens**: ["The yellow plane with tail number SUBTT stopped for just one hour in M..."](/statements/statement-d3549945a6fb.md)
+  - Also about: [North Dakota](/entities/gpe-north-dakota.md), [Provo](/entities/gpe-provo.md)
+
+- [00:07:37](/episodes/ep-mKXdKV-OBog.md#t-00-07-13) (Claim) **Candace Owens**: ["North Dakota has approximately 750,000 people statewide, and Minot has..."](/statements/statement-41afec5ce47b.md)
+  - Also about: [North Dakota](/entities/gpe-north-dakota.md), [Minot Air Force Base](/entities/org-minot-air-force-base.md)
+
+</details>
 
 </details>

@@ -8,7 +8,7 @@ aliases:
 
 This folder contains timestamp pages organized by episode. Each episode has its own subfolder with individual timestamp entries.
 
-Timestamps are extracted from episode transcripts and linked to entities, events, and claims mentioned at that point in the video.
+Timestamps are extracted from episode transcripts and linked to entities, events, and canonical statements mentioned at that point in the video.
 
 ---
 

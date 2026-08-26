@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:01:57](/episodes/ep-K1tFD7FfoCU.md#t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(117);return false;">Play</a>
 
-> [21] [01:57] Lindsey Graham: I want the world to know anti-Semitism, anti-Israel rhetoric, anti-Israel thought is not the road to being elected as a Republican. [22] [02:08] Lindsey Graham: You will lose. [23] [02:11] Lindsey Graham: You can't even have an anti-Israel thought.
+> Lindsey Graham (clip): I want the world to know anti-Semitism, anti-Israel rhetoric, anti-Israel thought is not the road to being elected as a Republican. Lindsey Graham (clip): You will lose. Lindsey Graham (clip): You can't even have an anti-Israel thought.
 
 ## Verification
 

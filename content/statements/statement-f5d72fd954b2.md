@@ -4,9 +4,10 @@ description: "\"Lance Twiggs said he had never personally heard Tyler Robinson t
 statement_id: "statement-f5d72fd954b2"
 speaker: "Lance Twiggs"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Day 4 hearing transcript directly records Twiggs saying he personally had never heard Robinson talk specifically about Charlie Kirk.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 4](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
+
+*Verified: 2026-08-26T08:01:23.142061*
 
 ---
 

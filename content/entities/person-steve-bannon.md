@@ -26,8 +26,8 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-49-55">2026-05-21 · 00:49:55</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>16</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -279,7 +279,7 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Steve Bannon (4)</strong></summary>
+<summary><strong class="section-title">Statements by Steve Bannon (5)</strong></summary>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4)</summary>
@@ -298,10 +298,18 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 
 </details>
 
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:26:01](/episodes/ep-Kmt6HgRjckU.md#t-00-25-55) [✓] (Claim) ["Steve Bannon said Jeffrey Epstein was the key that picks the lock to understandi..."](/statements/statement-184fc151832a.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Steve Bannon](/entities/person-steve-bannon.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Steve Bannon (6)</strong></summary>
+<summary><strong class="section-title">Statements about Steve Bannon (7)</strong></summary>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1)</summary>
@@ -334,7 +342,10 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+
+- [00:26:01](/episodes/ep-Kmt6HgRjckU.md#t-00-25-55) (Claim) **Steve Bannon** (via paraphrase): ["Steve Bannon said Jeffrey Epstein was the key that picks the lock to u..."](/statements/statement-184fc151832a.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 - [00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01) (Claim) **Milo Yiannopoulos** (via quoted speech): ["Steve Bannon consulted for Jeffrey Epstein"](/statements/statement-4e193801261d.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)

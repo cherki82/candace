@@ -15,7 +15,7 @@ _Type: People_
 
 **Categories:** Turning Point USA donor
 
-> **Possibly overlapping entity records:** [Bob Shillman](/entities/person-bob-shillman). These records share a name or alias; compare their histories before treating either count as complete.
+> **Possibly overlapping entity records:** [Bob Shillman](/entities/person-bob-shillman) · [Robert Shillman](/entities/person-robert-shillman). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Cognex investor release verifies full canonical name; Bob is the spoken nickname.

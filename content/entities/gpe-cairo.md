@@ -26,7 +26,7 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -243,7 +243,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Cairo (3)</strong></summary>
+<summary><strong class="section-title">Statements about Cairo (4)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>
@@ -261,6 +261,14 @@ _No relationships extracted yet._
 
 - [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-15) (Claim) **Candace Owens**: ["Aircraft can trick their transponders, and the relevant flights to Pro..."](/statements/statement-c27c15b8cb80.md)
   - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Provo](/entities/gpe-provo.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:11:04](/episodes/ep-mKXdKV-OBog.md#t-00-10-47) (Claim) **Candace Owens**: ["SUBTT came from Cairo through Paris to Omaha, Nebraska on July 20th, s..."](/statements/statement-fccf29b8380b.md)
+  - Also about: [France](/entities/gpe-france.md), [Nebraska](/entities/gpe-nebraska.md)
 
 </details>
 

@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:18:16](/episodes/ep-w1oqQbR_bYs.md#t-00-17-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1096);return false;">Play</a>
 
-> You staff audiences with people that work for YAF who are told to explode into cheers when you hit the stage because you don't have the confidence anymore to go out into the world because you know people see you for what you are.
+> You staff audiences. with people that work for YAF who are told to explode into cheers when you hit the stage because you don't have the confidence anymore to go out into the world because you know people see you for what you are.
 
 ## Verification
 

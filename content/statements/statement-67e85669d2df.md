@@ -25,10 +25,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(429);return false;">Play</a>
+**Timestamp:** [00:07:29](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(449);return false;">Play</a>
 
-> But something interesting happened since our episode: Shaner completely wiped his LinkedIn page. He doesn't want us to know who he's connected to. He's also completely wiped his Facebook page entirely. And regarding his Instagram, he's privatized it, but he privatized it and then removed all of the photos of his investigation into who Charlie Kirk's (Charlie Kirk's) killer was.
+> But something interesting happened since our episode: Shaner completely wiped his LinkedIn page. ... He's also completely wiped his Facebook page entirely. ... And regarding his Instagram, he's privatized it, but he privatized it and then removed all of the photos of his investigation ... into who Charlie Kirk's killer was.
 
 ## Verification
 

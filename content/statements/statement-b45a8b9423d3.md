@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:04:18](/episodes/ep-2WEHTk0Xewg.md#t-00-03-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(258);return false;">Play</a>
 
-> the language—which many people said online, somebody actually left a very funny comment—it's like borderline poetic. He's got commas in there. It's like perfect English.
+> I also want to point out the fact that the language—which many people said online, somebody actually left a very funny comment— it's like borderline poetic. He's got commas in there. It's like perfect English.
 
 ## Verification
 

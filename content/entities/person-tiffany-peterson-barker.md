@@ -25,7 +25,7 @@ Source: [Family of 16 recounts terror after Charlie Kirk shooting at UVU - KSL](
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tiffany-peterson-barker-t-00-14-12">2026-06-22 · 00:14:12</a></strong></div>
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>21</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -101,7 +101,7 @@ Source: [Family of 16 recounts terror after Charlie Kirk shooting at UVU - KSL](
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:02:13](/episodes/ep-YA1FxrDWNIo.md#ent-person-tiffany-peterson-barker-t-00-02-13)**
-> "...Kirk). Just, he was saying and doing a little too much, and his energy was weird, and the energy of Tiffany Barker was weird. And we were clear that's potentially just because, you know, he's a politician, an aspir..."
+> "was a bit—in my opinion—too involved in the investigation of who assassinated Charlie Kirk. Just, he was saying and doing a little too much, and his energy was weird, and the energy of Tiffany Barker was weird. And we were clear that's potentially just because, you know, he's a politician, an aspiring politician. Maybe he wants to assert himself as a leader in Utah. This assassination has taken place."
 
 </details>
 
@@ -214,19 +214,21 @@ Source: [Family of 16 recounts terror after Charlie Kirk shooting at UVU - KSL](
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tiffany Peterson Barker (5)</strong></summary>
+<summary><strong class="section-title">Statements by Tiffany Peterson Barker (6)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (6)</summary>
 
 - [00:20:20](/episodes/ep-sreYYcID-QY.md#t-00-20-17) [○] (Claim) ["We had 16 of us there at the shooting—five adults and 11 children—and we instant..."](/statements/statement-569d210f4861.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:20:22](/episodes/ep-sreYYcID-QY.md#t-00-20-17) [○] (Claim) ["There was one shot that rang out, and people saw Charlie Kirk instantly get shot..."](/statements/statement-a15fc82ec1e5.md)
+- [00:20:22](/episodes/ep-sreYYcID-QY.md#t-00-20-17) [✓] (Claim) ["There was one shot that rang out, and people saw Charlie Kirk instantly get shot..."](/statements/statement-a15fc82ec1e5.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:20:30](/episodes/ep-sreYYcID-QY.md#t-00-20-17) [○] (Claim) ["We had 16 family members there - five adults and 11 children"](/statements/statement-f7b16e309f46.md)
   - About: [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)
+
+- [00:20:40](/episodes/ep-sreYYcID-QY.md#t-00-20-17) [○] (Claim) ["We had 16 of us there, so five adults and like 11 children, and we instantly got..."](/statements/statement-17e0e7b94b7a.md)
 
 - [00:22:22](/episodes/ep-sreYYcID-QY.md#t-00-22-09) [○] (Claim) ["There was one shot that rang out, and everybody instantly looked around and then..."](/statements/statement-81f527a24f36.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)

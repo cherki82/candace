@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 31 mentions"
+description: "Christ Is King (Concepts) - 37 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37">2026-01-12 · 00:20:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-christ-is-king-t-01-06-00">2026-06-26 · 01:06:30</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-01-05-19">2026-07-16 · 01:06:00</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -51,6 +51,8 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-21-55" style="--pulse-height:60%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-christ-is-king-t-00-42-42" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-christ-is-king-t-01-06-00" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-christ-is-king-t-00-57-15" style="--pulse-height:60%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-00-59-06" style="--pulse-height:60%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +75,8 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-21-55) | 3 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-christ-is-king-t-00-42-42) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-christ-is-king-t-01-06-00) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-christ-is-king-t-00-57-15) | 3 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-00-59-06) | 3 |
 
 </details>
 </section>
@@ -80,7 +84,35 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3 mentions)</summary>
+
+**[00:57:35](/episodes/ep-puuMVxEu5NU.md#ent-concept-christ-is-king-t-00-57-15)**
+> "a Christ Is King sweatshirt"
+
+**[00:47:56](/episodes/ep-puuMVxEu5NU.md#ent-concept-christ-is-king-t-00-47-33)**
+> "...Charles Maximus, Charlie Max. Christ is king. Charlie Max. That's very funny."
+
+**[00:48:16](/episodes/ep-puuMVxEu5NU.md#ent-concept-christ-is-king-t-00-48-16)**
+> "Christ is king. Yeah, I mean, that really is the the worst part ..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[00:59:15](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-00-59-06)**
+> "...nt down, even Andrew Klavan's Christ is King video, because one of the more obscure points was..."
+
+**[01:03:07](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-01-02-57)**
+> "...ge way to be a solid girl dad christ is king it's true it's there's it is such a beautiful par..."
+
+**[01:06:00](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-01-05-19)**
+> "Go Max, Christ is King, Squishmallows."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>

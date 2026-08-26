@@ -14,7 +14,7 @@ date: "1967-06-05"
 ## Mentioned In
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
-**Timestamp:** [00:46:24](/episodes/ep-ozWJz2spBcI.md#event-event-1967-06-05-six-day-war-between-israel-and-arab-states-t-00-07-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2784);return false;">▶️ Play</a>
+**Timestamp:** [00:46:28](/episodes/ep-ozWJz2spBcI.md#event-event-1967-06-05-six-day-war-between-israel-and-arab-states-t-00-46-12) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2788);return false;">▶️ Play</a>
 
-> Kirk) was going through some spiritual changes towards the end. Catholics were hoping that he'd take the next step because he was praying the rosary." I never said he converted, because he didn't. Th
+> the Six-Day War in 1967. There wasn't a narrative that was so prevalent right now with foolish

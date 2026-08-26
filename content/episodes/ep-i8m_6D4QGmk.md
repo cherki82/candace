@@ -1,14 +1,14 @@
 ---
 id: "i8m_6D4QGmk"
 title: "Donald Trump Has Betrayed America. | Candace Ep 308"
-description: "Donald Trump Has Betrayed America. | Candace Ep 308 - 127 entities, 6 events, 0 claims"
+description: "Donald Trump Has Betrayed America. | Candace Ep 308 - 127 entities, 6 events, 20 factual claims"
 published: "2026-03-09"
 youtube_url: "https://www.youtube.com/watch?v=i8m_6D4QGmk"
 ---
 
 **Published:** 2026-03-09 | [Watch on YouTube](https://www.youtube.com/watch?v=i8m_6D4QGmk)
 
-**Stats:** 127 entities | 6 events | 0 claims
+**Stats:** 127 entities | 6 events | 20 factual claims
 
 ---
 

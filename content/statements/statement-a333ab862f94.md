@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:02:46](/episodes/ep-ZAuuSq_j2_w.md#t-00-02-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(166);return false;">Play</a>
 
-> Yeah, so this is my first question, and don't laugh. Does the DoD have any evidence at all of a French military plot to assassinate Candace Owens?
+> Does the DoD have any evidence at all of a French military plot to assassinate Candace Owens?
 
 ## Verification
 

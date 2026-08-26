@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:04:50](/episodes/ep-ZAuuSq_j2_w.md#t-00-04-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(290);return false;">Play</a>
 
-> I opened the tweets, which went out from Blake Neff around midnight last night. And here's what he wrote. 'The livestream we announced on the show Wednesday has been set. At 4 p.m. Eastern, 2 p.m. local time on Monday, December 15th, a collection of Charlie (Charlie Kirk)'s friends will respond to statements made by Candace Owens to set the record straight once and for all. Prior to the opening of AmericaFest.'
+> And I opened the tweets, which went out from Blake Neff around midnight last night. And here's what he wrote. I'm like, how am I supposed to see this? "The livestream we announced on the show Wednesday has been set." That would imply to the audiences that they reached out to me and we set a time. No. He goes on. "At 4 p.m. Eastern, 2 p.m. local time on Monday, December 15th, a collection of Charlie (Charlie Kirk)'s friends will respond to statements made by Candace Owens to set the record straight once and for all." "Prior to the opening of AmericaFest."
 
 ## Verification
 

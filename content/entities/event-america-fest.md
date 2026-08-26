@@ -1,6 +1,6 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 17 mentions"
+description: "America Fest (Events) - 18 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
@@ -27,10 +27,10 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-56-42">2026-06-13 · 00:56:42</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 <a href="/episodes/ep-q7f8r-THr84.md#ent-event-america-fest-t-00-40-20" style="--pulse-height:25%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-event-america-fest-t-00-33-19" style="--pulse-height:100%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 4 mentions" title="2025-09-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33" style="--pulse-height:25%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-event-america-fest-t-00-39-16" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36" style="--pulse-height:25%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42" style="--pulse-height:75%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-10-21" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
@@ -57,6 +58,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-event-america-fest-t-00-40-20) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-event-america-fest-t-00-33-19) | 4 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-event-america-fest-t-00-43-33) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-event-america-fest-t-00-39-16) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42) | 3 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-10-21) | 2 |
@@ -69,7 +71,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
@@ -120,6 +122,14 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 
 **[00:05:18](/episodes/ep-ZAuuSq_j2_w.md#ent-event-america-fest-t-00-04-36)**
 > "...ements made by Candace Owens to set the record straight once and for all." "Prior to the opening of AmericaFest." Now, if it's gonna be once and for all, it sounds pretty final. I mean, I would assume that I wou..."
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:39:41](/episodes/ep-yAIb-NuUh_U.md#ent-event-america-fest-t-00-39-16)**
+> "...t you do not let her speak at Amfest.""
 
 </details>
 
@@ -199,7 +209,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about America Fest (5)</strong></summary>
+<summary><strong class="section-title">Statements about America Fest (7)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
@@ -218,7 +228,13 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
+
+- [00:01:27](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18) (Claim) **Candace Owens**: ["Ben Shapiro returned to the AmericaFest speaker roster in 2024 after s..."](/statements/statement-efc7dc035bce.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:02:30](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Claim) **Andrew Kolvet** (via paraphrase): ["Owens said Andrew Kolvet told her that Ben Shapiro was willing to spen..."](/statements/statement-fe94e2d72ea2.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:02:39](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro paid an offensive amount of money to be part of AmFest 202..."](/statements/statement-196a937c330b.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md)

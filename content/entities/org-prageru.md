@@ -1,6 +1,6 @@
 ---
 title: "PragerU"
-description: "PragerU (Organizations) - 37 mentions"
+description: "PragerU (Organizations) - 39 mentions"
 id: "org-prageru"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About PragerU](https://www.prageru.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-08-02">2025-09-25 · 00:08:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-prageru-t-00-13-21">2026-05-04 · 00:13:33</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05">2026-07-16 · 01:06:30</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,6 +53,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-prageru-t-00-54-53" style="--pulse-height:17%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-prageru-t-00-45-55" style="--pulse-height:17%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-prageru-t-00-12-39" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +75,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-prageru-t-00-54-53) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-prageru-t-00-45-55) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-prageru-t-00-12-39) | 2 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05) | 2 |
 
 </details>
 </section>
@@ -81,7 +83,18 @@ Source: [About PragerU](https://www.prageru.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
+
+**[01:06:15](/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05)**
+> "...tic movie on their themes and PragerU pushed it. Yeah, I have a lot to think now about ..."
+
+**[01:06:30](/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05)**
+> "...ese pastors are introduced by PragerU, and they've never lied about who they are and th..."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>
@@ -170,7 +183,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-org-prageru-t-00-47-39)**
-> "...en associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but i..."
+> "Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk, Steven Crowder."
 
 </details>
 
@@ -417,12 +430,11 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “back when I had a show on PragerU.”
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): “I obviously worked for PragerU.”
 - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:24](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “when I was working for Prager University”
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:09](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “Charlie and me back when I had a show on PragerU”
 - [Myron Gaines x Candace Owens @ 00:32:32](/episodes/ep-2T39-oADLj0.md#t-00-32-04): “So when I was working and giving the example again for PragerU, I genuinely, first off, wasn't up on the topic of Israel.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “I worked at Prager University”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:05](/episodes/ep-Wjul6YV6izo.md#t-00-54-53): “it's the same way that I say like i'm so grateful that i worked for prageru and turning point usa and um Daily Wire”
@@ -479,7 +491,15 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about PragerU (6)</strong></summary>
+<summary><strong class="section-title">Statements about PragerU (10)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [01:06:30](/episodes/ep-mLvJqdxS-FY.md#t-01-06-05) (Accusation) **Candace Owens**: ["Candace Owens accused pastors introduced through PragerU of having con..."](/statements/statement-14ebd43d1cd0.md)
+  - Also about: [Mossad](/entities/org-mossad.md), [Psychological operations](/entities/concept-psychological-operations.md)
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
@@ -508,6 +528,20 @@ Source: [About PragerU](https://www.prageru.com/about)
 
 - [00:14:18](/episodes/ep-Qfwr08Ebczo.md#t-00-14-10) (Accusation) **Candace Owens**: ["Godspeak Calvary Chapel and PragerU are part of what is described onli..."](/statements/statement-778c373f6b1e.md)
   - Also about: [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
+
+- [00:20:31](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-58) (Claim) **Candace Owens**: ["PragerU offered Candace Owens a job in early 2019 after the Hitler cli..."](/statements/statement-a90b2f3a12b4.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) (Claim) **Candace Owens**: ["Marissa Streit, the CEO of PragerU, worked intelligence in the IDF in ..."](/statements/statement-f0901d002df2.md)
+  - Also about: [Marissa Streit](/entities/person-marissa-streit.md)
+
+- [00:22:44](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-07) (Claim) **Candace Owens**: ["Candace's first episode with PragerU was in March 2019."](/statements/statement-a88f400f336d.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

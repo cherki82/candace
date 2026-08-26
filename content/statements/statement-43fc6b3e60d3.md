@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:31:35](/episodes/ep-2WEHTk0Xewg.md#t-00-31-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1895);return false;">Play</a>
 
-> Closure. He says 'closure.' 'We got him.' They already start in. He starts talking about the messages. He starts filling in the blanks.
+> Closure. He says "closure." "We got him." They already start in. He starts talking about the messages. He starts filling in the blanks.
 
 ## Verification
 

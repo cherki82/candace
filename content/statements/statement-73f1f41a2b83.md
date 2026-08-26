@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:53:14](/episodes/ep-c5BcKF91iec.md#t-00-52-57) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3194);return false;">Play</a>
 
-> Joshua Steve writes, 'Tyler Robinson appearing in court today via Zoom without having to show his face surely isn't helping any of the theories out there. It's good to have you back.'
+> Joshua Steve writes, "Tyler Robinson appearing in court today via Zoom without having to show his face surely isn't helping any of the theories out there. It's good to have you back."
 
 ## Verification
 

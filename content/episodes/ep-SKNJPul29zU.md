@@ -1,14 +1,14 @@
 ---
 id: "SKNJPul29zU"
 title: "Candace Owens x Ana Kasparian"
-description: "Candace Owens x Ana Kasparian - 140 entities, 7 events, 0 claims"
+description: "Candace Owens x Ana Kasparian - 140 entities, 7 events, 20 factual claims"
 published: "2026-05-28"
 youtube_url: "https://www.youtube.com/watch?v=SKNJPul29zU"
 ---
 
 **Published:** 2026-05-28 | [Watch on YouTube](https://www.youtube.com/watch?v=SKNJPul29zU)
 
-**Stats:** 140 entities | 7 events | 0 claims
+**Stats:** 140 entities | 7 events | 20 factual claims
 
 ---
 

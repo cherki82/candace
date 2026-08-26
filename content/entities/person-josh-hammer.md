@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 186 mentions"
+description: "Josh Hammer (People) - 188 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-41-03">2025-09-16 · 00:41:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-josh-hammer-t-00-05-23">2026-07-14 · 00:05:46</a></strong></div>
 <div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>186</strong></div>
-<div><span>Statements by</span><strong>13</strong></div>
-<div><span>Statements about</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>188</strong></div>
+<div><span>Statements by</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>35</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,7 +44,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-josh-hammer-t-00-13-12" style="--pulse-height:18%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 10 mentions" title="2025-10-07 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-josh-hammer-t-00-00-00" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 55 mentions" title="2025-10-08 · 55 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-josh-hammer-t-00-00-00" style="--pulse-height:15%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 8 mentions" title="2025-10-09 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-32-37" style="--pulse-height:9%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-32-37" style="--pulse-height:13%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 7 mentions" title="2025-10-27 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-josh-hammer-t-00-19-52" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-josh-hammer-t-00-30-48" style="--pulse-height:22%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 12 mentions" title="2025-10-30 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-josh-hammer-t-00-34-46" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
@@ -87,7 +87,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-josh-hammer-t-00-13-12) | 10 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-josh-hammer-t-00-00-00) | 55 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-josh-hammer-t-00-00-00) | 8 |
-| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-32-37) | 5 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-32-37) | 7 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-josh-hammer-t-00-19-52) | 3 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-josh-hammer-t-00-30-48) | 12 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-josh-hammer-t-00-34-46) | 1 |
@@ -124,7 +124,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+<summary><strong class="section-title">Raw mentions (188)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
@@ -427,7 +427,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
 
-**[00:06:54](/episodes/ep-ZAuuSq_j2_w.md#ent-person-josh-hammer-t-00-29-14)**
+**[00:06:52](/episodes/ep-ZAuuSq_j2_w.md#ent-person-josh-hammer-t-00-29-14)**
 > "Just really just wanted Josh Hammer's book to be sold."
 
 **[00:29:24](/episodes/ep-ZAuuSq_j2_w.md#ent-person-josh-hammer-t-00-29-14)**
@@ -563,7 +563,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (5 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (7 mentions)</summary>
 
 **[00:33:11](/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-32-37)**
 > "...ing whatever I want to do until the truth is told about what happened on 9/10. We should start with Josh Hammer, by the way, because he really has now become the king of defying no stereotypes— where we last lef..."
@@ -579,6 +579,12 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 **[00:36:19](/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-36-14)**
 > "...he way, that's a lot of words to say what I always say: like, we don't know—no, but we know. And on Josh Hammer, yeah, we know. You're not the good guy, okay? You have to believe in your gut. I keep telling you ..."
+
+**[00:35:33](/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-35-33)**
+> "Well done, Josh."
+
+**[00:35:37](/episodes/ep-c5BcKF91iec.md#ent-person-josh-hammer-t-00-35-33)**
+> "Very good, Josh."
 
 </details>
 
@@ -1023,7 +1029,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 - **[Newsweek](/entities/org-newsweek.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Josh Hammer is actually the editor at large at Newsweek.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Like these are like Josh Hammer— ... is actually the editor at large at Newsweek.”
 
 </details>
 
@@ -1079,7 +1085,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 - **[Newsweek](/entities/org-newsweek.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Josh Hammer is actually the editor at large at Newsweek.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Like these are like Josh Hammer— ... is actually the editor at large at Newsweek.”
 
 </details>
 
@@ -1149,7 +1155,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Josh Hammer (13)</strong></summary>
+<summary><strong class="section-title">Statements by Josh Hammer (18)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -1171,10 +1177,23 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (8)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1)</summary>
+
+- [00:13:24](/episodes/ep-his-JBjlkh8.md#t-00-13-03) [○] (Claim) ["Josh Hammer said 'this never happened, Charlie never blinked on Israel'."](/statements/statement-8971688f43be.md)
+
+</details>
+
+<details>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (11)</summary>
+
+- [00:12:42](/episodes/ep-2Riv3I7D0Yk.md#t-00-12-18) [○] (Claim) ["Josh Hammer tweeted in favor of public execution at 9:09 PM Eastern on September..."](/statements/statement-a384243b05f2.md)
+  - About: [Josh Hammer](/entities/person-josh-hammer.md)
 
 - [00:14:54](/episodes/ep-2Riv3I7D0Yk.md#t-00-14-29) [○] (Opinion) ["The Uvalde shooter is apparently dead, but just as with the Buffalo shooter, thi..."](/statements/statement-b8d6f0523334.md)
   - About: [Uvalde Shooter](/entities/person-uvalde-shooter.md)
+
+- [00:16:55](/episodes/ep-2Riv3I7D0Yk.md#t-00-16-36) [○] (Claim) ["Josh Hammer tweeted in 2019 that 'Jew hatred is inherent in the European DNA'"](/statements/statement-56ed5307e383.md)
+  - About: [Josh Hammer](/entities/person-josh-hammer.md)
 
 - [00:16:58](/episodes/ep-2Riv3I7D0Yk.md#t-00-16-36) [○] (Opinion) ["Jew hatred is inherent in the European DNA"](/statements/statement-b22eb278b6be.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
@@ -1184,6 +1203,8 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 - [00:21:29](/episodes/ep-2Riv3I7D0Yk.md#t-00-20-54) [○] (Claim) ["We spoke for the last time less than 24 hours before the assassination happened...."](/statements/statement-e53ce1012eb4.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [00:21:29](/episodes/ep-2Riv3I7D0Yk.md#t-00-20-54) [○] (Claim) ["We actually did speak for the last time less than 24 hours before the assassinat..."](/statements/statement-69a7e5a5c8cf.md)
 
 - [00:21:54](/episodes/ep-2Riv3I7D0Yk.md#t-00-21-29) [○] (Claim) ["The last words Charlie Kirk spoke to me were: 'You know, Josh, when the Israel q..."](/statements/statement-8c7b5a19c548.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md)
@@ -1200,10 +1221,12 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (3)</summary>
 
 - [00:24:14](/episodes/ep-5autG89PW6w.md#t-00-24-12) [○] (Claim) ["I spoke with Charlie Kirk literally the night before his tragic death, on a smal..."](/statements/statement-99f2324b8ed4.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:24:14](/episodes/ep-5autG89PW6w.md#t-00-24-12) [✓] (Claim) ["We actually spoke literally the night before his tragic and untimely death. I wa..."](/statements/statement-84a1f5eff9c9.md)
 
 - [00:24:42](/episodes/ep-5autG89PW6w.md#t-00-24-12) [○] (Accusation) ["People like Candace Owens were saying that Charlie Kirk was turning on Israel an..."](/statements/statement-f9aefe31d283.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1213,7 +1236,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Josh Hammer (32)</strong></summary>
+<summary><strong class="section-title">Statements about Josh Hammer (35)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -1296,7 +1319,7 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (15)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (18)</summary>
 
 - [00:00:18](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) (Claim) **Candace Owens**: ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a..."](/statements/statement-bcc6e400e34d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
@@ -1315,6 +1338,10 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 - [00:08:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) (Claim) **Yashar Ali** (via quoted tweet): ["Josh Hammer was sharing what many conservatives were sharing the day b..."](/statements/statement-4fb57d4251c4.md)
   - Also about: [Irina Zarutska](/entities/person-irina-zarutska.md)
 
+- [00:12:42](/episodes/ep-2Riv3I7D0Yk.md#t-00-12-18) (Claim) **Josh Hammer** (via quoted tweet): ["Josh Hammer tweeted in favor of public execution at 9:09 PM Eastern on..."](/statements/statement-a384243b05f2.md)
+
+- [00:16:55](/episodes/ep-2Riv3I7D0Yk.md#t-00-16-36) (Claim) **Josh Hammer** (via quoted tweet): ["Josh Hammer tweeted in 2019 that 'Jew hatred is inherent in the Europe..."](/statements/statement-56ed5307e383.md)
+
 - [00:16:58](/episodes/ep-2Riv3I7D0Yk.md#t-00-16-36) (Opinion) **Josh Hammer** (via quoted tweet): ["Jew hatred is inherent in the European DNA"](/statements/statement-b22eb278b6be.md)
 
 - [00:18:24](/episodes/ep-2Riv3I7D0Yk.md#t-00-18-01) (Accusation) **Candace Owens**: ["Josh Hammer lied audaciously and boldly and repeatedly and unnecessari..."](/statements/statement-f59f22b266e3.md)
@@ -1325,6 +1352,9 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 - [00:19:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-19-30) (Claim) **Candace Owens**: ["Josh Hammer and Rabbi Wolicki had a Zoom call with Charlie Kirk the ni..."](/statements/statement-ab364894ad8d.md)
   - Also about: [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [00:19:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-19-30) (Claim) **Candace Owens**: ["Josh Hammer and Rabbi Wolicki had a Zoom call with Charlie Kirk less t..."](/statements/statement-2fe2babdd69a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:21:29](/episodes/ep-2Riv3I7D0Yk.md#t-00-20-54) (Claim) **Josh Hammer** (via quoted speech): ["Josh Hammer and Charlie Kirk spoke less than 24 hours before the assas..."](/statements/statement-929484ed9f73.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

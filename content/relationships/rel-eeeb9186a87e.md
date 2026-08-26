@@ -15,7 +15,7 @@ object: "person-candace-owens"
 
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 
-- [00:04:56](/episodes/ep-yAIb-NuUh_U#t-00-04-56): _Pastor Hibbs—Jack Hibbs—has gone mask off. He's hosting 5 a.m. calls against me and Tucker Carlson_
+- [00:28:43](/episodes/ep-yAIb-NuUh_U#t-00-28-43): _And you ask yourself—I got emails from people saying that Pastor Hibbs—Jack Hibbs—has gone mask off. ... He's hosting 5 a.m. calls against me and Tucker (Tucker Carlson)._
 
 ### Related
 

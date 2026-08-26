@@ -1,8 +1,8 @@
 ---
-title: "Courtney Love was experimented on as a toddler at the Haight..."
-description: "\"Courtney Love was experimented on as a toddler at the Haight-Ashbury Clinic, where the CIA was dosing hippies with LSD to understand how to control mi...\" — Courtney Love"
+title: "The CIA intentionally dosed people in Haight-Ashbury with LS..."
+description: "\"The CIA intentionally dosed people in Haight-Ashbury with LSD to study mind control\" — Candace Owens"
 statement_id: "statement-698fdea4ccc4"
-speaker: "Courtney Love"
+speaker: "Candace Owens"
 type: "factual_claim"
 ---
 
@@ -10,15 +10,13 @@ type: "factual_claim"
 
 ## Statement
 
-> Courtney Love was experimented on as a toddler at the Haight-Ashbury Clinic, where the CIA was dosing hippies with LSD to understand how to control minds
+> The CIA intentionally dosed people in Haight-Ashbury with LSD to study mind control
 
 ## Attribution
 
-**Speaker:** [Courtney Love](/entities/person-courtney-love.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Read from message
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Messages to Candace
+**Delivery:** Made directly
 
 ## About
 
@@ -29,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:21:27](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1287);return false;">Play</a>
+**Timestamp:** [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1294);return false;">Play</a>
 
-> She explained to me that she was a toddler and she was experimented on at the Haight-Ashbury Clinic. For those of you—Haight-Ashbury—it's the intersection where they had this clinic and the hippies came. And this is when the CIA was just dosing them intentionally because they wanted to understand how to control minds.
+> And this is when the CIA was just dosing them intentionally because they wanted to understand how to control minds.
 
 ## Verification
 

@@ -26,10 +26,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
-**Timestamp:** [00:23:57](/episodes/ep-aDlhjfW6hz8.md#t-00-23-17) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1437);return false;">Play</a>
+**Timestamp:** [00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1225);return false;">Play</a>
 
-> I was even surprised. PBD—I mean, I've always been friendly with him. I've always been kind to him. I have done nothing wrong to him. And he seems to be kind of—he's the one who platformed, without any pushback, Eric Bolling.
+> I was even surprised. PBD (Patrick Bet-David)—I mean, I've always been friendly with him. I've always been kind to him. I have done nothing wrong to him. And he seems to be kind of—he's the one who platformed, without any pushback, Eric Bolling.
 
 ## Verification
 

@@ -1,14 +1,14 @@
 ---
 id: "B9TyCs-6o_0"
 title: "EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314"
-description: "EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 - 81 entities, 24 events, 0 claims"
+description: "EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 - 81 entities, 24 events, 21 factual claims"
 published: "2026-03-23"
 youtube_url: "https://www.youtube.com/watch?v=B9TyCs-6o_0"
 ---
 
 **Published:** 2026-03-23 | [Watch on YouTube](https://www.youtube.com/watch?v=B9TyCs-6o_0)
 
-**Stats:** 81 entities | 24 events | 0 claims
+**Stats:** 81 entities | 24 events | 21 factual claims
 
 ---
 

@@ -61,8 +61,8 @@ _No relationships extracted yet._
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
-- [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Michael Bloomberg gave .3 million to a Cuomo-affiliated super PAC to s..."](/statements/statement-96b210228669.md)
-  - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
+- [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to..."](/statements/statement-dad0599bcea0.md)
+  - Also about: [Andrew Cuomo](/entities/person-andrew-cuomo.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 </details>
 

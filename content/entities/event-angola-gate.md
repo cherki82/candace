@@ -18,7 +18,7 @@ _Type: Events_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -70,10 +70,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Angolagate scandal (6)</strong></summary>
+<summary><strong class="section-title">Statements about Angolagate scandal (9)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9)</summary>
 
 - [00:12:30](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the ..."](/statements/statement-680b620f8ccd.md)
   - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md)
@@ -84,14 +84,22 @@ _No relationships extracted yet._
 - [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Angola Gate involved Africa, Angola, Israel, France, the United States..."](/statements/statement-38658967ebf0.md)
   - Also about: [Angola](/entities/gpe-angola.md), [Israel](/entities/gpe-israel.md), [France](/entities/gpe-france.md)
 
+- [00:12:53](/episodes/ep-Kmt6HgRjckU.md#t-00-12-44) (Claim) **Candace Owens**: ["Pierre Falcone was involved in Angola Gate scandal involving arms traf..."](/statements/statement-891f1eea4e3e.md)
+  - Also about: [Angola](/entities/gpe-angola.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
+
 - [00:13:46](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) (Claim) **Candace Owens**: ["During the French elections dating back to 1999, it was discovered tha..."](/statements/statement-60d7c6a114d4.md)
   - Also about: [France](/entities/gpe-france.md), [Angola](/entities/gpe-angola.md), [Branko International](/entities/org-branko-international.md)
 
 - [00:15:25](/episodes/ep-Kmt6HgRjckU.md#t-00-14-48) (Claim) **Candace Owens**: ["Francois Mitterrand, the French president's son, was implicated in the..."](/statements/statement-4feac2591c94.md)
   - Also about: [François Mitterrand](/entities/person-francois-mitterrand.md), [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)
 
+- [00:15:50](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30) (Claim) **Candace Owens**: ["Owens claimed that 41 politicians were involved in the Angolagate scan..."](/statements/statement-86395511590d.md)
+
 - [00:15:53](/episodes/ep-Kmt6HgRjckU.md#t-00-15-30) (Claim) **Candace Owens**: ["Human rights groups demanded that Congress probe the Bush administrati..."](/statements/statement-aceca2e34399.md)
   - Also about: [George H.W. Bush](/entities/person-george-hw-bush.md)
+
+- [00:16:49](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13) (Claim) **Candace Owens**: ["Jean-Christophe Mitterrand, son of French President François Mitterran..."](/statements/statement-72b6f48a1049.md)
+  - Also about: [François Mitterrand](/entities/person-francois-mitterrand.md), [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)
 
 </details>
 

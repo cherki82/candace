@@ -20,11 +20,11 @@ type: "factual_claim"
 
 ## About
 
+- [Operation Mockingbird](/entities/concept-operation-mockingbird.md) (concept)
 - [JFK assassination](/entities/event-jfk-assassination.md) (event)
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency.md) (org)
-- [Operation Mockingbird](/entities/concept-operation-mockingbird.md) (concept)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
@@ -41,6 +41,14 @@ type: "factual_claim"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3);return false;">Play</a>
 
 > It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.
+
+### 3. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+
+**Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
+**Timestamp:** [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3);return false;">Play</a>
+
+> of history for you today. It was after the public execution of sitting President JFK in 1963 that the CIA established Operation Mockingbird.
 
 ## Verification
 

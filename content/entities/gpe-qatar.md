@@ -22,7 +22,7 @@ Source: [Government Communications Office | State of Qatar](https://www.gco.gov.
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -208,7 +208,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Qatar (11)</strong></summary>
+<summary><strong class="section-title">Statements about Qatar (12)</strong></summary>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
@@ -258,10 +258,13 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
 
 - [00:39:48](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Candace Owens** (via paraphrase): ["Qatar said they have a relationship with Hamas because the U.S. govern..."](/statements/statement-b9887fea08a7.md)
   - Also about: [Hamas](/entities/org-hamas.md), [United States Capitol Police](/entities/org-united-states-capitol-police.md)
+
+- [00:39:49](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Mohammed bin Abdulrahman Al Thani** (via paraphrase): ["Mohammed bin Abdulrahman Al Thani told Tucker Carlson that Qatar's rel..."](/statements/statement-7e8f3a0ab35e.md)
+  - Also about: [Hamas](/entities/org-hamas.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </details>
 

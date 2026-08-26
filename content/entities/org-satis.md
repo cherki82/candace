@@ -17,7 +17,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -172,7 +172,15 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Satis (4)</strong></summary>
+<summary><strong class="section-title">Statements about Satis (5)</strong></summary>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:38:42](/episodes/ep-mKXdKV-OBog.md#t-00-38-09) (Claim) **Candace Owens**: ["A Satis subsidiary in Hamburg, Germany had a CEO switch in late July, ..."](/statements/statement-4b1d0eb6cbc5.md)
+  - Also about: [Hamburg](/entities/gpe-hamburg.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>

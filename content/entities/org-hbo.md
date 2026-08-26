@@ -1,6 +1,6 @@
 ---
 title: "HBO"
-description: "HBO (Organizations) - 6 mentions"
+description: "HBO (Organizations) - 7 mentions"
 id: "org-hbo"
 type: "ORG"
 aliases:
@@ -23,8 +23,8 @@ Source: [About HBO | HBO Official Site](https://www.hbo.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-org-hbo-t-00-00-39">2025-10-07 · 00:01:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-hbo-t-00-43-14">2026-06-24 · 00:43:32</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [About HBO | HBO Official Site](https://www.hbo.com/about)
 <p>Highest activity: <a href="/episodes/ep-5autG89PW6w.md#ent-org-hbo-t-00-00-39">TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-hbo-t-00-00-39" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-hbo-t-00-34-06" style="--pulse-height:50%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-hbo-t-00-46-53" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-hbo-t-01-38-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-hbo-t-00-43-14" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
@@ -45,6 +46,7 @@ Source: [About HBO | HBO Official Site](https://www.hbo.com/about)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-hbo-t-00-00-39) | 2 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-hbo-t-00-34-06) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-hbo-t-00-46-53) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hbo-t-01-38-00) | 2 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-hbo-t-00-43-14) | 1 |
@@ -55,7 +57,7 @@ Source: [About HBO | HBO Official Site](https://www.hbo.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -81,6 +83,14 @@ Source: [About HBO | HBO Official Site](https://www.hbo.com/about)
 
 **[00:46:53](/episodes/ep-QdM9jLwjwLw.md#ent-org-hbo-t-00-46-53)**
 > "...e on a budget that would make HBO blush paying to transport bulls across the contin..."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
+
+**[00:34:22](/episodes/ep-c5BcKF91iec.md#ent-org-hbo-t-00-34-06)**
+> "...probably have on this show—an HBO miniseries, by the way, executively produced by m..."
 
 </details>
 

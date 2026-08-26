@@ -4,9 +4,10 @@ description: "\"Candace Owens said Lance Twiggs claimed he slept until 1 p.m. on
 statement_id: "statement-867d8fcbf2d7"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Day 4 transcript directly records Twiggs saying he got up probably between noon and 1 p.m. on September 10. Owens’s paraphrase that he claimed to have slept until 1 p.m. is a fair, slightly rounded summary.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 4](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
+
+*Verified: 2026-08-26T08:01:22.578099*
 
 ---
 

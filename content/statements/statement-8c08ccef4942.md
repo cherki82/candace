@@ -32,7 +32,7 @@ veracity: "mixed"
 **Timestamp:** [00:10:05](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(605);return false;">Play</a>
 
-> She made time, by the way, in case you don't remember, to fly to DC for Sergio to be sworn into the ambassador to India as the ambassador to India
+> She made time, by the way, in case you don't remember, to fly to DC for Sergio (Sergio Gore) to be sworn into the ambassador
 
 ### 2. BREAKING! The White House Attempted To Rescind This E-mail. ...
 

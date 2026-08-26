@@ -20,17 +20,17 @@ type: "factual_claim"
 
 ## About
 
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Donald J. Trump](/entities/person-donald-trump.md) (person)
 - [Zohran Mamdani](/entities/person-zohran-mamdani.md) (person)
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:20:44](/episodes/ep-LATnak75Si0.md#t-00-20-09) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1244);return false;">Play</a>
+**Timestamp:** [00:15:38](/episodes/ep-LATnak75Si0.md#t-00-15-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(938);return false;">Play</a>
 
-> Even Donald Trump—President Trump—dedicated 900% more Truth Social posts to ensuring that Mamdani would lose than to ensuring that Charlie's murderer was found—900% increase in messaging coming from him, since he didn't even send one message about investigating Charlie's murder.
+> Just to be clear, even Donald (Donald Trump) Trump—President Trump—dedicated 900% more ... Truth Social posts to ensuring that Mamdani would lose than to ensuring that Charlie (Charlie Kirk)'s murderer was found—900% increase in messaging coming from him, since he didn't even send one message about investigating Charlie (Charlie Kirk)'s murder.
 
 ## Verification
 

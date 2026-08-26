@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 73 mentions"
+description: "Bill Ackman (People) - 74 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40">2025-09-15 · 00:14:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33">2026-08-14 · 02:26:42</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -58,6 +58,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-bill-ackman-t-00-30-35" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-17-53" style="--pulse-height:16%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55" style="--pulse-height:16%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -86,6 +87,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-bill-ackman-t-00-30-35) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-17-53) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55) | 3 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33) | 1 |
 
 </details>
@@ -98,7 +100,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -119,6 +121,14 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 **[01:08:51](/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-01-08-31)**
 > "Bill Ackman tells you put Bibi (Benjamin Netanyahu) on the ph..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:40:01](/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47)**
+> "...enjamin Netanyahu did call at Bill Ackman's house. Her reason for Bill Ackman calling was tha..."
 
 </details>
 
@@ -601,7 +611,27 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bill Ackman (18)</strong></summary>
+<summary><strong class="section-title">Statements by Bill Ackman (1)</strong></summary>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1)</summary>
+
+- [01:03:54](/episodes/ep-q7f8r-THr84.md#t-01-03-19) [○] (Claim) ["Bill Ackman got up and gave a presentation and told them that they shouldn't own..."](/statements/statement-a7b7e588e36b.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Bill Ackman (21)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:40:01](/episodes/ep-X3VKJVJ7cN4.md#t-00-39-47) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk conceded that Netanyahu called at Bill Ackman's ..."](/statements/statement-01d4db3b682c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
@@ -640,7 +670,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
-- [00:10:22](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Bill Ackman gave .75 million to stop Mamdani"](/statements/statement-dff9a93bd8a0.md)
+- [00:10:07](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Bill Ackman donated $1.75 million to PACs opposing Zohran Mamdani in t..."](/statements/statement-e9c76e71619c.md)
   - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 </details>
@@ -654,9 +684,12 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2)</summary>
 
 - [00:03:00](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) (Claim) **Candace Owens**: ["Bill Ackman replied with a 959-word college essay in response to Canda..."](/statements/statement-3ba223e8fde0.md)
+
+- [00:03:00](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) (Accusation) **Candace Owens**: ["Bill Ackman replied with a 959-word essay in response to Candace Owens..."](/statements/statement-4ae1e19d2777.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -686,7 +719,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (4)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (5)</summary>
 
 - [00:14:29](/episodes/ep-czVBmqZP6Ss.md#t-00-14-19) (Claim) **Candace Owens**: ["Bill Ackman was on Charlie about comments that Tucker had made on that..."](/statements/statement-8f675c6de845.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
@@ -696,6 +729,9 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 - [00:15:56](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45) (Accusation) **Candace Owens**: ["Bill Ackman was very upset and threats were made at the Hamptons meeti..."](/statements/statement-9c14e05b211c.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:28](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28) (Claim) **Candace Owens**: ["Benjamin Netanyahu called Charlie Kirk and invited him to Israel after..."](/statements/statement-6ae6a11343b1.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:25:18](/episodes/ep-czVBmqZP6Ss.md#t-00-24-40) (Accusation) **Candace Owens**: ["Charlie felt he had effectively been blackmailed when he left the Hamp..."](/statements/statement-1e56aae494b0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

@@ -1,15 +1,15 @@
 ---
-title: "Bob Schulman invested in Turning Point USA"
-description: "Evidence for the relationship: Bob Schulman invested in Turning Point USA"
+title: "Robert Shillman invested in Turning Point USA"
+description: "Evidence for the relationship: Robert Shillman invested in Turning Point USA"
 relationship_id: "rel-cad05bf4609b"
-subject: "person-bob-schulman"
+subject: "person-robert-shillman"
 predicate: "invested in"
 object: "org-turning-point-usa"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Bob Schulman](/entities/person-bob-schulman) invested in [Turning Point USA](/entities/org-turning-point-usa)
+## [Robert Shillman](/entities/person-robert-shillman) invested in [Turning Point USA](/entities/org-turning-point-usa)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-turning-point-usa"
 
 ### Related
 
-- [Bob Schulman](/entities/person-bob-schulman)
+- [Robert Shillman](/entities/person-robert-shillman)
 - [Turning Point USA](/entities/org-turning-point-usa)

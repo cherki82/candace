@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Boreing"
-description: "Jeremy Boreing (People) - 79 mentions"
+description: "Jeremy Boreing (People) - 80 mentions"
 id: "person-jeremy-boreing"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-02-51">2025-11-06 · 00:03:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30">2026-07-14 · 01:06:52</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>79</strong></div>
-<div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jeremy-boreing-t-00-47-39">2026-07-16 · 00:47:52</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>80</strong></div>
+<div><span>Statements by</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>30</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-jeremy-boreing-t-00-00-01" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 31 mentions" title="2026-05-06 · 31 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-42-32" style="--pulse-height:16%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 5 mentions" title="2026-06-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jeremy-boreing-t-00-47-39" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-jeremy-boreing-t-00-00-01) | 31 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-42-32) | 5 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-jeremy-boreing-t-00-47-39) | 1 |
 
 </details>
 </section>
@@ -75,7 +77,15 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (79)</strong></summary>
+<summary><strong class="section-title">Raw mentions (80)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:47:52](/episodes/ep-mLvJqdxS-FY.md#ent-person-jeremy-boreing-t-00-47-39)**
+> "... know, one of these desperate Jeremy Boreing things where he's like hosting anybody who will s..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
@@ -354,10 +364,10 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (7 mentions)</summary>
 
 **[00:12:42](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-12-19)**
-> "...usly fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he san..."
+> "...aily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and..."
 
 **[00:13:28](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-13-00)**
-> "...tark difference from how he has spoken about Fuentes in the past. On March 25th, the Daily Wire CEO Jeremy Boreing joined Fuentes on X for a live audio chat room. Boreing told Fuentes that he listens to Fuentes' sh..."
+> "...arch 25th, the Daily Wire CEO Jeremy Boreing (Jeremy Boreing) joined Fuentes (Nick Fuentes) on..."
 
 **[00:13:35](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-13-35)**
 > "Boreing (Jeremy Boreing) told Fuentes (Nick Fuentes) that he listens to F..."
@@ -366,13 +376,13 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 > "...r in the discussion, Boreing (Jeremy Boreing) said that he'd be thrilled to have Fuentes (Nick..."
 
 **[00:14:28](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-14-05)**
-> "...orm. We can actually, we should actually take a listen to a little bit of that conversation between Jeremy Boreing, then CEO of Daily Wire, and Nick Fuentes. (Clip: Jeremy Boreing and Nick Fuentes) People can say, ..."
+> "... of that conversation between Jeremy Boreing, then CEO of Daily Wire, and Nick Fuentes. (Clip:..."
 
 **[00:21:07](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-20-55)**
-> "...because of how he treated me. But the backstory is compelling. I learned the backstory listening to Jeremy Boreing, the former CEO of Daily Wire, sit down with Nick. So right after I've been fired, and I didn't kno..."
+> "...ed the backstory listening to Jeremy Boreing, the former CEO of Daily Wire, sit down with Nick..."
 
 **[00:21:14](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-20-55)**
-> "...y out of the market and Ben has never come out and denied anything that Nick Fuentes has said, also Jeremy Boreing denied in a conversation with him. So we have to assume the story is true. And given what I know ab..."
+> "...t Nick Fuentes has said, also Jeremy Boreing denied in a conversation with him."
 
 </details>
 
@@ -393,10 +403,9 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Ceo Of (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing”
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:00](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “the CEO of the Daily Wire, at the time it was Jeremy Boreing (Jeremy Boreing)”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:42](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he sang Nick Fuentes's praises and also invited him onto the Daily Wire, okay?”
 
 </details>
 
@@ -456,7 +465,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:13:00](/episodes/ep-r1PS67aRmcA.md#t-00-13-00): “Here's a headline because the Huffington Post remembers too: "Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny."”
 
 </details>
 
@@ -619,7 +628,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** endorsed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:13:00](/episodes/ep-r1PS67aRmcA.md#t-00-13-00): “Here's a headline because the Huffington Post remembers too: "Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny."”
 
 </details>
 
@@ -671,7 +680,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** has CEO this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:42](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he sang Nick Fuentes's praises and also invited him onto the Daily Wire, okay?”
 
 </details>
 
@@ -694,7 +703,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Jeremy Boreing (14)</strong></summary>
+<summary><strong class="section-title">Statements by Jeremy Boreing (15)</strong></summary>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (7)</summary>
@@ -748,10 +757,18 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1)</summary>
+
+- [00:13:50](/episodes/ep-r1PS67aRmcA.md#t-00-13-35) [✓] (Opinion) ["I would be absolutely thrilled to have Ben speak to Nick, or anyone on my team w..."](/statements/statement-65dbbedda71f.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeremy Boreing (28)</strong></summary>
+<summary><strong class="section-title">Statements about Jeremy Boreing (30)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -864,6 +881,22 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 - [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-32) (Accusation) **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless sh..."](/statements/statement-ced70ad0f846.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) (Claim) **Candace Owens**: ["Owens says the Daily Wire showed roughly 300 employees a produced pres..."](/statements/statement-a627706b158c.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1)</summary>
+
+- [00:13:35](/episodes/ep-r1PS67aRmcA.md#t-00-13-35) (Claim) **Candace Owens**: ["On March 25th, the Daily Wire CEO Jeremy Boreing joined Fuentes on X f..."](/statements/statement-4914ec9925c9.md)
+  - Also about: [Nick Fuentes](/entities/person-nick-fuentes.md)
 
 </details>
 

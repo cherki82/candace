@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:29:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1787);return false;">Play</a>
 
-> The medical examiner, Dr. Lydia Smith-Amaro—who that would be the appropriate person to have had the conversation with—also someone that in my dream, Charlie told me I should look into. She's a major in the Army.
+> The medical examiner, Dr. Lydia Smith-Amaro—who that would be the appropriate person to have had the conversation with— also someone that in my dream, Charlie told me I should look into. She's a major in the Army.
 
 ## Verification
 

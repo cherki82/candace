@@ -12,7 +12,7 @@ _Type: Events_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-event-operation-bright-star-t-00-25-29">2025-12-02 · 00:25:29</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -65,5 +65,17 @@ _Type: Events_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Operation Bright Star (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:24:34](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09) [○] (Claim) ["On the 29th, we have Operation Bright Star, which commences—that joint operation..."](/statements/statement-036f01758863.md)
+
+</details>
 
 </details>

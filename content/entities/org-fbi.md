@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 603 mentions"
+description: "FBI (Organizations) - 617 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-02-22-33">2026-08-14 · 02:22:33</a></strong></div>
-<div><span>Episodes</span><strong>71</strong></div>
-<div><span>Mentions</span><strong>603</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>138</strong></div>
-<div><span>Relationships</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>617</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>157</strong></div>
+<div><span>Relationships</span><strong>25</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -72,7 +72,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-fbi-t-00-10-23" style="--pulse-height:20%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 6 mentions" title="2025-11-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-org-fbi-t-00-06-15" style="--pulse-height:47%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 14 mentions" title="2025-11-19 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-org-fbi-t-00-03-29" style="--pulse-height:17%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-fbi-t-00-06-30" style="--pulse-height:13%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-org-fbi-t-00-06-30" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-fbi-t-00-08-40" style="--pulse-height:33%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 10 mentions" title="2025-12-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-fbi-t-00-00-00" style="--pulse-height:30%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 9 mentions" title="2025-12-02 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-fbi-t-00-22-24" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
@@ -110,6 +110,8 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-fbi-t-00-26-05" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-fbi-t-00-09-45" style="--pulse-height:23%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 7 mentions" title="2026-06-26 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-fbi-t-00-18-05" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-10-14" style="--pulse-height:27%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-02-24" style="--pulse-height:47%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 14 mentions" title="2026-07-16 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26" style="--pulse-height:57%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -148,7 +150,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-fbi-t-00-10-23) | 6 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-fbi-t-00-06-15) | 14 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-fbi-t-00-03-29) | 5 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-fbi-t-00-06-30) | 4 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-fbi-t-00-06-30) | 3 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-fbi-t-00-08-40) | 10 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-fbi-t-00-00-00) | 9 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-fbi-t-00-22-24) | 3 |
@@ -186,6 +188,8 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-fbi-t-00-26-05) | 3 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-fbi-t-00-09-45) | 7 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-fbi-t-00-18-05) | 2 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-10-14) | 8 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-02-24) | 14 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-00-31-26) | 17 |
 
 </details>
@@ -194,7 +198,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (603)</strong></summary>
+<summary><strong class="section-title">Raw mentions (617)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -249,6 +253,82 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 **[01:59:17](/episodes/ep-nPhCKwJ6ye8.md#ent-org-fbi-t-01-59-17)**
 > "...nto evidence they took it The FBI,"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (8 mentions)</summary>
+
+**[00:10:08](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-10-14)**
+> "sent to the FBI lab for processing"
+
+**[00:10:14](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-10-14)**
+> "...er was seized was sent to the FBI lab for processing?"
+
+**[00:11:01](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-11-01)**
+> "...if that's in the notes of the FBI or the ATF, would that be inconsistent with what ..."
+
+**[00:12:10](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-12-10)**
+> "...ed and then suddenly told the feds not to test it. Do you remember telling the feds ..."
+
+**[00:15:24](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-14-51)**
+> "The feds only contacted him once a few days later. He has ..."
+
+**[00:19:08](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-19-08)**
+> "...hy it's very strange that the feds are putting out just a totally different story he..."
+
+**[00:23:52](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-23-19)**
+> "When you ask the FBI, did you ask the FBI to no longer test those item..."
+
+**[00:52:53](/episodes/ep-puuMVxEu5NU.md#ent-org-fbi-t-00-52-27)**
+> "...float and fly and rely on the FBI. I don't know."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (14 mentions)</summary>
+
+**[00:02:24](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-02-24)**
+> "And yet the FBI moved not to test those abandoned items. What hap..."
+
+**[00:02:43](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-02-24)**
+> "...probably not because it's the feds and slop is their entire brand."
+
+**[00:16:44](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-16-44)**
+> "...er was seized was sent to the FBI lab for processing?"
+
+**[00:17:31](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-17-31)**
+> "...if that's in the notes of the FBI or the ATF, would that be inconsistent with what ..."
+
+**[00:18:01](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-17-55)**
+> "... Yet they send it over to the FBI for processing and then the FBI's report and or t..."
+
+**[00:18:22](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-17-55)**
+> "And apparently the FBI listened to her, but she doesn't remember that. N..."
+
+**[00:19:05](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-18-35)**
+> ".... Here is the reason that the FBI decided that it was no longer probative."
+
+**[00:22:17](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-21-48)**
+> "And why on earth would the FBI and the SBI accept that, well, the person was on ..."
+
+**[00:22:41](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-22-31)**
+> "...? Is that a new theme for the FBI?"
+
+**[00:24:20](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-23-54)**
+> "...tting is that somebody at the FBI lab authored that we should know who that person ..."
+
+**[00:41:59](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-41-43)**
+> "...ust the government, trust the feds. That's the Christian thing to do."
+
+**[00:46:24](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-45-58)**
+> "He's like, the FBI has tools, but the footage is grainy and yada, ya..."
+
+**[00:46:37](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-46-37)**
+> "...trying to figure out when the FBI came out with this narrative and what they were i..."
+
+**[00:46:53](/episodes/ep-mLvJqdxS-FY.md#ent-org-fbi-t-00-46-53)**
+> "...of the tools available to the FBI they said that the footage was grainy how exactly..."
 
 </details>
 
@@ -1185,13 +1265,10 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:06:34](/episodes/ep-mKXdKV-OBog.md#ent-org-fbi-t-00-06-30)**
 > "...kota. Why stop there at all on the fourth? Why not fly direct to Provo? Not only does Minot have an FBI office, but it also has an Air Force base among other tenants. That Air Force base is home to the 8..."
-
-**[00:06:40](/episodes/ep-mKXdKV-OBog.md#ent-org-fbi-t-00-06-30)**
-> "Minot has an FBI office"
 
 **[00:22:36](/episodes/ep-mKXdKV-OBog.md#ent-org-fbi-t-00-21-55)**
 > "...e they have joint operations going on between the DHS and the DOJ: being the Secret Service and the FBI and the DEA. None of this is normal. We all sense that none of this is normal. And it very much fee..."
@@ -1320,28 +1397,28 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
 
 **[00:23:00](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-22-28)**
-> "...ber he shot up the Trump Miami Doral? He didn't kill anyone. But then when he sat down, he said the feds are running a cartel operation. And when people get into trouble, this is what he alleged before an..."
+> "...when he sat down, he said the feds are running a cartel operation."
 
 **[00:23:21](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-23-11)**
-> "...stand that she knew who this man was and that he had been invited to these parties. And he said the feds—you get into trouble. And then suddenly, if you wanna stay out of prison, you're now working for us..."
+> "And he said the feds—you get into trouble."
 
 **[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-23-11)**
-> "...that he knew (again, this was before Diddy got into trouble) that Diddy had been blackmailed by the feds. And that part of his deal was that he had to keep certain other people in line— Kanye. So this the..."
+> "...y had been blackmailed by the feds."
 
 **[00:42:53](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-42-33)**
-> "...s just a bad time and this is a wacko—wacko jacko—everybody's crazy. When you start questioning the feds, suddenly they want to call you crazy. And Tucker (Tucker Carlson) just annihilated it instantly. H..."
+> "...hen you start questioning the feds, suddenly they want to call you crazy. And Tucker..."
 
 **[00:45:11](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-44-34)**
-> "... we're not—we have to just stay focused on solving what happened to Charlie (Charlie Kirk). And the feds are not helping—maybe because Kash Patel is busy crying over his girlfriend. He really needs to bel..."
+> "And the feds are not helping—maybe because Kash Patel is busy ..."
 
 **[00:46:40](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-46-40)**
-> "...take it away, Tim Dillon. Can we get any of her music up or will we get a copyright strike from the FBI? If we play Kash Patel's girlfriend's country music, will we get a copyright strike from the feds? ..."
+> "...t a copyright strike from the FBI?"
 
 **[00:46:46](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-00-46-40)**
-> "...he FBI? If we play Kash Patel's girlfriend's country music, will we get a copyright strike from the feds? Because I'm curious, by the way, if— if she's a country music sensation, I would just like to know..."
+> "...t a copyright strike from the feds?"
 
 **[01:00:26](/episodes/ep-yAIb-NuUh_U.md#ent-org-fbi-t-01-00-02)**
-> "... Valley writes: "Hi, Candace (Candace Owens). Thank you for your great reporting." "Better than the FBI. Your research inspired parts of my new historical thriller novel. Their Black Vault—fiction for yo..."
+> ""Better than the FBI. Your research inspired parts of my new historica..."
 
 </details>
 
@@ -1363,7 +1440,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > "... I'm just going to put it out there. See if it bothers you as well. But I learned via tips that the feds immediately seized the footage at Timpanogos Hospital. Okay, Timpanogos Hospital. Remember, this is..."
 
 **[00:02:39](/episodes/ep-YaZfwLQ7vrI.md#ent-org-fbi-t-00-02-39)**
-> "...arlie (Charlie Kirk) was shot—for whatever reason, you know—Kash Patel injects himself into it. The feds seized all of the footage at the hospital that Charlie (Charlie Kirk) was brought to at Timpanogos...."
+> "And on the day that Charlie (Charlie Kirk) was shot—for whatever reason, you know—Kash (Kash Patel) injects himself into it. The feds seized all of the footage at the hospital that Charlie (Charlie Kirk) was brought to at Timpanogos."
 
 **[00:03:59](/episodes/ep-YaZfwLQ7vrI.md#ent-org-fbi-t-00-03-59)**
 > "...particular Charlie (Charlie Kirk) arrived at the hospital. And I feel like something's amiss if the feds move to grab the footage inside of the hospital immediately and outside of the hospital immediately..."
@@ -1466,7 +1543,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
 
 **[00:01:32](/episodes/ep-iHav0PPzUz8.md#ent-org-fbi-t-00-01-22)**
-> "...inexplicable. Candace Owens: They could very easily be explained. Candace Owens: It's just that the feds are kind of declining to do so. Candace Owens: And we don't really have much information about thos..."
+> "It's just that the feds are kind of declining to do so."
 
 **[00:09:53](/episodes/ep-iHav0PPzUz8.md#ent-org-fbi-t-00-09-53)**
 > "...le bit weird. They were saying that it was unusual that stuff that was pretty standard protocol—the feds seem to be guarding. Very strange. Now I'm not saying this to implicate Derek Maxfield or Shalane M..."
@@ -1760,7 +1837,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > "...o of them were in Utah—dispersed throughout the month. It is also interesting to note that the Utah FBI also got a brand-new set of employees—the state FBI department. Kash Patel went ahead and fired not..."
 
 **[00:32:06](/episodes/ep-YA1FxrDWNIo.md#ent-org-fbi-t-00-31-28)**
-> "...er Charlie's (Charlie Kirk's) death. “Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's (Charlie Kirk's) assassination.” That is true. He fired the chief—..."
+> "“Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's assassination.”"
 
 **[00:46:00](/episodes/ep-YA1FxrDWNIo.md#ent-org-fbi-t-00-45-44)**
 > "...m Charlie (Charlie Kirk)." "It's good; we're gonna accept the narrative." "We're just gonna let the FBI do what the FBI does, and we're just gonna pretend these glaring, obvious lies and holes mean nothi..."
@@ -1902,7 +1979,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 **[00:41:55](/episodes/ep-UBkFkg4UNY8.md#ent-org-fbi-t-00-41-49)**
 > "...A moms, too. I think I would have probably pushed back and asked, okay, but now that, you know, the feds have kind of been fumbling the ball just a little bit—a lot a bit—maybe just release everything and..."
 
-**[00:58:18](/episodes/ep-UBkFkg4UNY8.md#ent-org-fbi-t-00-58-12)**
+**[00:58:18](/episodes/ep-UBkFkg4UNY8.md#ent-org-fbi-t-00-58-02)**
 > "...d Chris. I don't know if that's another path that we could pursue. I feel like I thought it was the feds who did that? I could be incorrect. A feeling is not a fact. So I will explore that. That's a good ..."
 
 </details>
@@ -2228,19 +2305,20 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:49:25](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08): “Yeah, what it helps is for us to further understand how incompetent the people are working over at the FBI that they don't understand that you don't have to put something in quotations to summarize it.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:26:56](/episodes/ep-sKuYLNx3iRo.md#t-00-26-48): “They got FBI just got to step in and clean that up. That's not, if that's the story we're going with, there can be no cameras of what happened on the inside.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:50:03](/episodes/ep-a2bZf4fic10.md#t-00-49-53): “...more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:23:52](/episodes/ep-puuMVxEu5NU.md#t-00-23-19): “When you ask the FBI, did you ask the FBI to no longer test those items or is that the FBI is telling you that you have to now tell the public?”
 
 </details>
 
 </details>
 
 <details>
-<summary>Employs (2)</summary>
+<summary>Employs (3)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2252,7 +2330,14 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - **[Robert Bowles](/entities/person-robert-bowles.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:23](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): “it was his first week when Charlie got shot—and he's somebody who has been in D.C. for decades”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:06](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): ““Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's assassination.” ... He fired the chief—among other people—and replaced her with Robert Bowles in August. ... I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.”
+
+</details>
+
+- **[Amanda Bakker](/entities/person-amanda-bakker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:18:22](/episodes/ep-mLvJqdxS-FY.md#t-00-17-55): “And apparently the FBI listened to her, but she doesn't remember that. Now, it is likely that we're going to now hear from a different testimony from an FBI agent, Amanda Bakker, on day two, that they're referring to the exact same items.”
 
 </details>
 
@@ -2335,7 +2420,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2363,12 +2448,13 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:17:41](/episodes/ep-UYkXV9mYbT4.md#t-00-17-24): “It's inconclusive. Now the prosecution wants the corrupt FBI to conduct their own analysis, and I'm going to tell you what is very wrong with that.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:49:25](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08): “Yeah, what it helps is for us to further understand how incompetent the people are working over at the FBI that they don't understand that you don't have to put something in quotations to summarize it.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:26:56](/episodes/ep-sKuYLNx3iRo.md#t-00-26-48): “They got FBI just got to step in and clean that up. That's not, if that's the story we're going with, there can be no cameras of what happened on the inside.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:50:03](/episodes/ep-a2bZf4fic10.md#t-00-49-53): “...more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:23:52](/episodes/ep-puuMVxEu5NU.md#t-00-23-19): “When you ask the FBI, did you ask the FBI to no longer test those items or is that the FBI is telling you that you have to now tell the public?”
 
 </details>
 
@@ -2422,7 +2508,14 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - **[Robert Bowles](/entities/person-robert-bowles.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:23](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): “it was his first week when Charlie got shot—and he's somebody who has been in D.C. for decades”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:06](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): ““Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's assassination.” ... He fired the chief—among other people—and replaced her with Robert Bowles in August. ... I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.”
+
+</details>
+
+- **[Amanda Bakker](/entities/person-amanda-bakker.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:18:22](/episodes/ep-mLvJqdxS-FY.md#t-00-17-55): “And apparently the FBI listened to her, but she doesn't remember that. Now, it is likely that we're going to now hear from a different testimony from an FBI agent, Amanda Bakker, on day two, that they're referring to the exact same items.”
 
 </details>
 
@@ -2431,7 +2524,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by FBI (4)</strong></summary>
+<summary><strong class="section-title">Statements by FBI (5)</strong></summary>
 
 <details>
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3)</summary>
@@ -2448,6 +2541,13 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1)</summary>
+
+- [00:11:51](/episodes/ep-ZGxnf5cj4Uw.md#t-00-11-27) [○] (Claim) ["The Feds told Tyler Robinson's parents that if they spoke out, their lives could..."](/statements/statement-04ad10cd0c0d.md)
+
+</details>
+
+<details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1)</summary>
 
 - [00:17:49](/episodes/ep-2WEHTk0Xewg.md#t-00-17-34) [○] (Claim) ["The FBI recovered a high-powered bolt-action rifle in a wooded area where the sh..."](/statements/statement-2259f8fcf3a2.md)
@@ -2458,7 +2558,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (138)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (157)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5)</summary>
@@ -2477,6 +2577,50 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (4)</summary>
+
+- [00:10:19](/episodes/ep-puuMVxEu5NU.md#t-00-10-19) (Claim) **Jennifer Faumuina** (via quoted speech): ["Sergeant Jennifer Faumuina confirmed that the seized items were sent t..."](/statements/statement-a7b7161ba958.md)
+  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md)
+
+- [00:10:59](/episodes/ep-puuMVxEu5NU.md#t-00-10-59) (Claim) **Jennifer Faumuina** (via quoted speech): ["Sergeant Jennifer Faumuina said she did not remember communicating tha..."](/statements/statement-7fca43392e90.md)
+  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md)
+
+- [00:15:24](/episodes/ep-puuMVxEu5NU.md#t-00-14-51) (Claim) **Candace Owens**: ["Federal investigators contacted the anonymous rooftop eyewitness only ..."](/statements/statement-3baaf667faec.md)
+  - Also about: [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md)
+
+- [00:21:18](/episodes/ep-puuMVxEu5NU.md#t-00-20-59) (Opinion) **Candace Owens**: ["Owens guessed that the prosecution probably did not call the anonymous..."](/statements/statement-d62642087496.md)
+  - Also about: [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md), [.30-06 Springfield](/entities/concept-30-06-springfield.md)
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (8)</summary>
+
+- [00:03:12](/episodes/ep-mLvJqdxS-FY.md#t-00-03-06) (Claim) **Candace Owens**: ["Candace Owens said authorities had found a gun and a screwdriver beari..."](/statements/statement-52d2f19a85ca.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:16:49](/episodes/ep-mLvJqdxS-FY.md#t-00-16-49) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina testified that the items seized near the Fulton Libr..."](/statements/statement-d8f88f28b5e9.md)
+  - Also about: [Ira A. and Mary Lou Fulton Library](/entities/org-ira-a-and-mary-lou-fulton-library.md)
+
+- [00:17:53](/episodes/ep-mLvJqdxS-FY.md#t-00-17-53) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina agreed that the seized items were eventually determi..."](/statements/statement-8cc4d70e6465.md)
+
+- [00:19:50](/episodes/ep-mLvJqdxS-FY.md#t-00-19-50) (Claim) **Amanda Bakker** (via quoted speech): ["Amanda Bakker testified that the FBI initially processed the backpack ..."](/statements/statement-dcd889ffd560.md)
+  - Also about: [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [00:20:31](/episodes/ep-mLvJqdxS-FY.md#t-00-20-31) (Claim) **Amanda Bakker** (via quoted speech): ["Amanda Bakker testified that laboratory information indicated the back..."](/statements/statement-7c6557aeb02d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:24:20](/episodes/ep-mLvJqdxS-FY.md#t-00-23-54) (Accusation) **Candace Owens**: ["Candace Owens said she inferred that someone at the FBI laboratory aut..."](/statements/statement-d8b585c41a5d.md)
+
+- [00:46:16](/episodes/ep-mLvJqdxS-FY.md#t-00-45-58) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens paraphrased Dan Bongino as saying five days after Charli..."](/statements/statement-f8ae2141f9eb.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:46:53](/episodes/ep-mLvJqdxS-FY.md#t-00-46-53) (Accusation) **Candace Owens**: ["Candace Owens said the rooftop footage's apparent change from grainy t..."](/statements/statement-6330cf36ce8c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -2818,10 +2962,10 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (12)</summary>
 
 - [00:09:11](/episodes/ep-9k2xrAC0H88.md#t-00-08-48) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["Federal agents were blocking the surgeon from returning to the operati..."](/statements/statement-c2de12472215.md)
-  - Also about: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Lee Trotter](/entities/person-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:09:50](/episodes/ep-9k2xrAC0H88.md#t-00-09-19) (Claim) **Anonymous Source #3 (Ep 9k2xrAC0H88)** (via read message): ["A phone call was placed to DC at the hospital after the surgeon was bl..."](/statements/statement-b7a912d83954.md)
-  - Also about: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
+  - Also about: [Lee Trotter](/entities/person-lee-trotter.md)
 
 - [00:12:06](/episodes/ep-9k2xrAC0H88.md#t-00-11-48) (Claim) **Anonymous Source #2 (Ep 9k2xrAC0H88)** (via read message): ["The area where the gun was found had already been searched by veteran ..."](/statements/statement-d73a94a9bf4b.md)
 
@@ -2868,11 +3012,14 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
 
 - [00:08:36](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) (Claim) **Candace Owens**: ["There has been no communication from the FBI regarding the threat"](/statements/statement-d003607446f0.md)
 
 - [00:08:47](/episodes/ep-Kmt6HgRjckU.md#t-00-08-35) (Promise) **Kash Patel**: ["Any American that receives a death threat from overseas or anywhere in..."](/statements/statement-6e6f93dc9fb1.md)
+
+- [00:09:27](/episodes/ep-Kmt6HgRjckU.md#t-00-09-15) (Claim) **Candace Owens**: ["The FBI has not reached out to Candace Owens about her death threat cl..."](/statements/statement-e358f2b8ef64.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -2888,7 +3035,15 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - [00:13:33](/episodes/ep-DqGNvi36ol8.md#t-00-13-15) (Accusation) **Candace Owens** (via paraphrase): ["The FBI asked him to delete that footage"](/statements/statement-7ae6804dd8de.md)
 
 - [00:43:47](/episodes/ep-DqGNvi36ol8.md#t-00-43-37) (Claim) **Candace Owens** (via read message): ["A news station at the CK Memorial talked to attendees for three hours ..."](/statements/statement-7e27c29aa9ad.md)
-  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18) (Claim) **Candace Owens**: ["our FBI was founded by Charles Joseph Bonaparte"](/statements/statement-fcb4622dfe3b.md)
+  - Also about: [Charles Joseph Bonaparte](/entities/person-charles-joseph-bonaparte.md), [Napoleon Bonaparte](/entities/person-napoleon-bonaparte.md)
 
 </details>
 
@@ -2907,6 +3062,40 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
+
+- [00:12:18](/episodes/ep-581dILVcEE4.md#t-00-12-18) (Claim) **Anonymous UVU student (CNN report, Ep 581dILVcEE4)** (via quoted article): ["An anonymous UVU student told CNN that he saw a man on or near the Los..."](/statements/statement-be3da0054162.md)
+  - Also about: [CNN](/entities/org-cnn.md), [Losee Center](/entities/org-losee-center.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
+
+- [00:02:01](/episodes/ep-YaZfwLQ7vrI.md#t-00-01-21) (Claim) **Candace Owens**: ["the feds immediately seized the footage at Timpanogos Hospital"](/statements/statement-df3b09ed12ba.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1)</summary>
+
+- [00:09:14](/episodes/ep-t1YtLS1n8Vs.md#t-00-09-05) (Claim) **Candace Owens**: ["The ADL was training FBI agents and sharing intelligence in partnershi..."](/statements/statement-7f1377bf9031.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2)</summary>
+
+- [00:01:00](/episodes/ep-adJ4LNGp84I.md#t-00-00-36) (Claim) **Candace Owens**: ["The FBI did not release or acknowledge the existence of footage showin..."](/statements/statement-b368291101c1.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:13:37](/episodes/ep-adJ4LNGp84I.md#t-00-13-19) (Claim) **Candace Owens**: ["The FBI conducted a 33-hour manhunt for Charlie Kirk's shooter"](/statements/statement-52d8ac48c251.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
+<details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>
 
 - [00:32:13](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28) (Claim) **Candace Owens**: ["Kash Patel fired the chief of the Utah FBI bureau and other people, re..."](/statements/statement-a46ad2cc72e7.md)
@@ -2921,13 +3110,13 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:01:35](/episodes/ep-QZWSsq8ZWzw.md#t-00-01-30) (Accusation) **Anonymous Source #1 (Ep QZWSsq8ZWzw)** (via read message): ["The FBI is putting an absurd amount of pressure on the authorities in ..."](/statements/statement-f0eec06ca8a4.md)
-  - Also about: [Utah](/entities/gpe-utah.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Utah](/entities/gpe-utah.md)
 
 - [00:01:53](/episodes/ep-QZWSsq8ZWzw.md#t-00-01-30) (Accusation) **Candace Owens**: ["The FBI wants Charlie Kirk's assassination to be officially ruled lone..."](/statements/statement-30e3567646de.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:02:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-13) (Claim) **Candace Owens** (via paraphrase): ["The FBI is saying that if you don't close the case against Charlie Kir..."](/statements/statement-ace1325ce121.md)
-  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:02:31](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-13) (Claim) **Anonymous Source #1 (Ep QZWSsq8ZWzw)** (via read message): ["The FBI says that if Utah doesn't close the case against Charlie Kirk ..."](/statements/statement-826cd85e0ae9.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)

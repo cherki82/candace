@@ -229,7 +229,7 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
 
 - [00:29:16](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10) (Claim) **Charlie Kirk** (via quoted speech): ["Ghislaine Maxwell's father, Robert Maxwell, was obviously a spy of the..."](/statements/statement-a040af743a90.md)
-  - Also about: [Mossad](/entities/org-mossad.md), [Israel](/entities/gpe-israel.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Mossad](/entities/org-mossad.md)
 
 </details>
 

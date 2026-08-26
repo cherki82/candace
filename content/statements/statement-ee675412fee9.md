@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:27:12](/episodes/ep-sreYYcID-QY.md#t-00-26-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1632);return false;">Play</a>
 
-> This would definitely align with our decoy boy, right? 'I did it, I did it. Oh, actually, it turns out that I have child pornography'—is that Tyler (Tyler Robinson) and Lance could have gotten mixed up in some deep internet stuff
+> So his theory is that Tyler Robinson—and this would definitely align with our decoy boy, right? “I did it, I did it. Oh, actually, it turns out that I have child pornography”—is that Tyler (Tyler Robinson) and Lance could have gotten mixed up in some deep internet stuff, which makes sense because—as we have learned—Lance is deep on the web.
 
 ## Verification
 

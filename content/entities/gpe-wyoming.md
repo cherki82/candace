@@ -162,7 +162,7 @@ Source: [State of Wyoming - About Wyoming](https://www.wyo.gov/about-wyoming)
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
 **[00:01:17](/episodes/ep-iHav0PPzUz8.md#ent-gpe-wyoming-t-00-00-41)**
-> "...ce Owens: Welcome back to Candace (Candace Owens). Candace Owens: All right, so while I was away in Wyoming, I received a rather shocking tip. Candace Owens: There were, as I am sure you are aware, some inex..."
+> "All right, so while I was away in Wyoming, I received a rather shocking tip."
 
 </details>
 

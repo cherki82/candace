@@ -4,9 +4,10 @@ description: "\"DNA consistent with Robinson was found on the rifle trigger\" �
 statement_id: "statement-a2a35e1127ad"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -32,7 +33,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Utah County charging information directly records this fact or attribution. This verifies what investigators and witnesses reported in the filing; it does not substitute a conviction for charged allegations.
+
+**Confidence:** High
+
+**Sources:**
+
+- [State of Utah v. Tyler James Robinson — Criminal Information](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
+
+*Verified: 2026-08-26T08:28:24.787736*
 
 ---
 

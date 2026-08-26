@@ -15,7 +15,7 @@ object: "org-project-veritas"
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 
-- [00:09:42](/episodes/ep-YFmRH8p5lt0#t-00-09-42): _Charlie publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover_
+- [00:09:42](/episodes/ep-YFmRH8p5lt0#t-00-09-42): _And Charlie (Charlie Kirk) publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover._
 
 ### Related
 

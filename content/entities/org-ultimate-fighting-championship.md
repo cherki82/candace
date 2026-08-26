@@ -1,6 +1,6 @@
 ---
 title: "Ultimate Fighting Championship"
-description: "Ultimate Fighting Championship (Organizations) - 2 mentions"
+description: "Ultimate Fighting Championship (Organizations) - 3 mentions"
 id: "org-ultimate-fighting-championship"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About UFC — UFC](https://www.ufc.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-ultimate-fighting-championship-t-00-05-21">2026-06-13 · 00:05:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-ultimate-fighting-championship-t-00-00-35">2026-06-16 · 00:00:35</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-ultimate-fighting-championship-t-00-30-08">2026-07-20 · 00:30:22</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [About UFC — UFC](https://www.ufc.com/about)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-ultimate-fighting-championship-t-00-05-21" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-ultimate-fighting-championship-t-00-00-35" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-ultimate-fighting-championship-t-00-30-08" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [About UFC — UFC](https://www.ufc.com/about)
 |---|---|---:|
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-ultimate-fighting-championship-t-00-05-21) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-ultimate-fighting-championship-t-00-00-35) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-ultimate-fighting-championship-t-00-30-08) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [About UFC — UFC](https://www.ufc.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:30:22](/episodes/ep-N4uM8Jdr410.md#ent-org-ultimate-fighting-championship-t-00-30-08)**
+> "Let's start with Frank Turek versus Frank Turek, because that's my favorite UFC matchup. Frank (Frank Turek) gets so mad at the previous Frank (Frank Turek)—later Frank, previous Frank. They are not friends."
+
+</details>
 
 <details>
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>

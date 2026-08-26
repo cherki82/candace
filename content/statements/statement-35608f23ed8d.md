@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md) (person)
+- [Lee Trotter](/entities/person-lee-trotter.md) (person)
 - [Keesler Air Force Medical Center](/entities/org-keesler-afb-medical-center.md) (org)
 
 ## Source

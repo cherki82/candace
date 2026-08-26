@@ -297,19 +297,19 @@ Source: [About CNN](https://www.cnn.com/about)
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
 
 **[00:00:44](/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-00-44)**
-> "...hey're like, it's like Benjamin Netanyahu fan fiction. And on that note, I sat down with a woman on CNN, and it went about as bad as you might have expected. Fantastic clips that are making the rounds. S..."
+> "...e, I sat down with a woman on CNN, and it went about as bad as you might have expec..."
 
 **[00:32:57](/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-32-20)**
-> ".... Anyways, switching gears here, I got to show you a couple of clips are going viral right now. And CNN has cut these clips because they think they're embarrassing to me. So there's this young woman. She..."
+> "And CNN has cut these clips because they think they're em..."
 
 **[00:33:12](/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-33-04)**
-> "... after Charlie (Charlie Kirk) was killed. First interview I was giving; just worked out that it was CNN. It wasn't about Charlie (Charlie Kirk), but we had set this up before. And I decided to keep the a..."
+> "...; just worked out that it was CNN."
 
 **[00:33:37](/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-33-04)**
-> "... totally embarrasses me and shows that I'm a white nationalist. Take a listen. (Clip: Elle Reeve on CNN) You can criticize Netanyahu without being anti-Israel, and you can criticize Israel without being ..."
+> "... listen. (Clip: Elle Reeve on CNN)"
 
 **[00:34:42](/episodes/ep-r1PS67aRmcA.md#ent-org-cnn-t-00-34-42)**
-> "...ours. It's just, it's silly. But this is one of the things where I feel like it's such a lesson for CNN. This is why nobody watches it anymore. I mean, it's like you're sitting across from a Black person..."
+> "...l like it's such a lesson for CNN."
 
 </details>
 
@@ -463,8 +463,8 @@ Source: [About CNN](https://www.cnn.com/about)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:12:18](/episodes/ep-581dILVcEE4.md#t-00-11-38) (Citation) **Candace Owens**: ["CNN reported a Utah Valley University student saw a man on the Lozier ..."](/statements/statement-dd3e99fa4662.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:12:18](/episodes/ep-581dILVcEE4.md#t-00-12-18) (Claim) **Anonymous UVU student (CNN report, Ep 581dILVcEE4)** (via quoted article): ["An anonymous UVU student told CNN that he saw a man on or near the Los..."](/statements/statement-be3da0054162.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Losee Center](/entities/org-losee-center.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>
 

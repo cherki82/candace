@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 501 mentions"
+description: "God (Concepts) - 505 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -18,8 +18,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
-<div><span>Episodes</span><strong>92</strong></div>
-<div><span>Mentions</span><strong>501</strong></div>
+<div><span>Episodes</span><strong>93</strong></div>
+<div><span>Mentions</span><strong>505</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -121,6 +121,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-56-08" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 6 mentions" title="2026-06-26 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#t-00-40-48" style="--pulse-height:30%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 9 mentions" title="2026-06-26 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#t-00-51-16" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#t-00-33-49" style="--pulse-height:13%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -218,6 +219,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-56-08) | 6 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#t-00-40-48) | 9 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#t-00-51-16) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#t-00-33-49) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 
 </details>
@@ -226,7 +228,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (501)</strong></summary>
+<summary><strong class="section-title">Raw mentions (505)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -242,6 +244,23 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4 mentions)</summary>
+
+**[00:33:49](/episodes/ep-mLvJqdxS-FY.md#t-00-33-49)**
+> "talks about one of the things God hates."
+
+**[00:34:41](/episodes/ep-mLvJqdxS-FY.md#t-00-34-05)**
+> "...reminds me of when, you know, God said, let there be light."
+
+**[00:40:50](/episodes/ep-mLvJqdxS-FY.md#t-00-40-17)**
+> "...orite Superhero Movies Reveal God."
+
+**[00:50:05](/episodes/ep-mLvJqdxS-FY.md#t-00-50-05)**
+> "...make-believe of well you know god says you shouldn't question a widow and or a 30-o..."
 
 </details>
 
@@ -1703,7 +1722,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > "...those things. 'Cause I mean, those things are really the foundation of wisdom, which is the love of God, which as you say, goes through the Son, as we all know, can only go through Jesus and oikophilia, ..."
 
 **[00:48:05](/episodes/ep-r1PS67aRmcA.md#t-00-47-30)**
-> "... how awful it is. Please never stop fighting for our brother in Christ. You are in our prayers. May God bless and protect you, Candace (Candace Owens, the host)." I don't care at all about Ben trying to ..."
+> "May God bless and protect you, Candace (Candace Owens, the host).""
 
 </details>
 
@@ -1863,40 +1882,40 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (12 mentions)</summary>
 
 **[00:25:36](/episodes/ep-c5BcKF91iec.md#t-00-24-51)**
-> "...hot Charlie. They just shot Charlie. They just shot Charlie. There's your shot, Charlie. He's dead. God help him. That's the first time it was announced actually that Charlie Kirk was dead. It's kind of ..."
+> "God help him."
 
 **[00:39:39](/episodes/ep-c5BcKF91iec.md#t-00-39-39)**
-> "..., I am not sure if I will live to see the end of this revolution. I believe you were the piece that God meant me to meet that will finish the fight. Since the beginning of TPUSA, I knew in my gut that I ..."
+> "...lieve you were the piece that God meant me to meet that will finish the fight."
 
 **[00:41:37](/episodes/ep-c5BcKF91iec.md#t-00-40-59)**
-> "...ikely because you're scared now. You should be scared, but you're the wrong kind of scared. Fear of God is the beginning of wisdom. There is more. This is not it. I'm aware of that. That's why I've chose..."
+> "Fear of God is the beginning of wisdom."
 
 **[00:43:50](/episodes/ep-c5BcKF91iec.md#t-00-43-50)**
-> "...e. Infamy. So I'd come clean. I think there's a way out for you if you come clean—then you get with God. Anyways, I'd like to say something in finality to the many of you who would like to shut me up—who..."
+> "... come clean—then you get with God."
 
 **[00:51:41](/episodes/ep-c5BcKF91iec.md#t-00-51-40)**
-> "...ll see what we get. Amanda writes, "This is sick. Thank you, Candace, for always sharing the truth. God bless you." Thank you, Amanda. Kiki Mack writes, "Candace, thank you so much for helping remove the..."
+> "God bless you.""
 
 **[00:52:12](/episodes/ep-c5BcKF91iec.md#t-00-51-40)**
-> "...l power, Spice Girls—and it was never that. Never ever that. Amal writes, "I hate to be morbid, but God truly saved you by removing you from DW. I'm so grateful that you're in a most fort by God Almighty..."
+> "...es, "I hate to be morbid, but God truly saved you by removing you from DW."
 
 **[00:52:18](/episodes/ep-c5BcKF91iec.md#t-00-51-40)**
-> "...bid, but God truly saved you by removing you from DW. I'm so grateful that you're in a most fort by God Almighty." And I think you—and Amal—I know what that says. It was a dark time, but in hindsight, it..."
+> "...that you're in a most fort by God Almighty.""
 
 **[00:53:52](/episodes/ep-c5BcKF91iec.md#t-00-53-40)**
-> "... where money and greed are taking over people's lives, thank you for helping us to stay grounded in God's truth. Yes. It is worth losing money—as I did. It is worth losing fake friends—as I did—to stand ..."
+> "...elping us to stay grounded in God's truth."
 
 **[00:55:12](/episodes/ep-c5BcKF91iec.md#t-00-55-08)**
-> "...ew that I was telling the truth. And I think that that's incredible—that it truly is a testament to God and is a testament to truth. And as Ian Carroll said when I had him on my show, the truth doesn't n..."
+> "...at it truly is a testament to God and is a testament to truth."
 
 **[00:55:44](/episodes/ep-c5BcKF91iec.md#t-00-55-08)**
-> "...th even if you're fearful of the consequence because the bigger consequence is not being right with God when you pass. Tim Morgan writes, "For the investigation for Charlie—we love you. God bless. Thank ..."
+> "...uence is not being right with God when you pass."
 
 **[00:55:48](/episodes/ep-c5BcKF91iec.md#t-00-55-48)**
-> "...ng right with God when you pass. Tim Morgan writes, "For the investigation for Charlie—we love you. God bless. Thank you so much." Caitlin writes, "My brother H.M. passed away in 2021. He often spoke abo..."
+> "...tion for Charlie—we love you. God bless. Thank you so much.""
 
 **[00:58:30](/episodes/ep-c5BcKF91iec.md#t-00-58-01)**
-> "...ally, okay? They want you to think that this life is it, and this life is not it. So get right with God and tell the truth, and we'll see you guys tomorrow."
+> "So get right with God and tell the truth, and we'll see you guys tomorr..."
 
 </details>
 
@@ -2058,7 +2077,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (6 mentions)</summary>
 
 **[00:10:26](/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16)**
-> ".... And the only thing I can say is that it was an intuition. We describe it that it had to have been God. We just had no reason, no other reason to be there. And then Charlie (Charlie Kirk) set up a speak..."
+> "We describe it that it had to have been God."
 
 **[00:10:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-10-16)**
 > "it had to have been God"
@@ -2083,7 +2102,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 **[00:45:37](/episodes/ep-UBkFkg4UNY8.md#t-00-45-23)**
 > "...ying to pretend that Charlie (Charlie Kirk) and I weren't friends. It is maddening, but I know that God never gives any person more than they can handle, and I can handle it. And I am handling it. And I ..."
 
-**[00:56:40](/episodes/ep-UBkFkg4UNY8.md#t-00-56-04)**
+**[00:56:40](/episodes/ep-UBkFkg4UNY8.md#t-00-56-36)**
 > "...(Charlie Kirk)—only his physical form. Of course, Charlie (Charlie Kirk) lives on with the Lord our God in heaven forever and evermore." Yeah, we know that, but you just miss the person, you know? That's..."
 
 </details>

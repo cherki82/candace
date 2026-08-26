@@ -1,6 +1,6 @@
 ---
 title: "Bret Weinstein"
-description: "Bret Weinstein (People) - 12 mentions"
+description: "Bret Weinstein (People) - 13 mentions"
 id: "person-bret-weinstein"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [About Dr. Bret Weinstein](https://www.bretweinstein.net/about-bret-wein
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-bret-weinstein-t-00-54-13">2026-03-12 · 00:54:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-bret-weinstein-t-00-28-03">2026-05-27 · 00:28:03</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-bret-weinstein-t-00-51-41">2026-07-20 · 00:51:49</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [About Dr. Bret Weinstein](https://www.bretweinstein.net/about-bret-wein
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-bret-weinstein-t-00-11-26" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-bret-weinstein-t-00-12-27" style="--pulse-height:20%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-bret-weinstein-t-00-28-03" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-bret-weinstein-t-00-51-41" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [About Dr. Bret Weinstein](https://www.bretweinstein.net/about-bret-wein
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-bret-weinstein-t-00-11-26) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-bret-weinstein-t-00-12-27) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-bret-weinstein-t-00-28-03) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-bret-weinstein-t-00-51-41) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [About Dr. Bret Weinstein](https://www.bretweinstein.net/about-bret-wein
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:51:49](/episodes/ep-N4uM8Jdr410.md#ent-person-bret-weinstein-t-00-51-41)**
+> "Frank Turek—somebody was full of it. I'm sorry. Um, Ali (commenter; surname unverified) writes, 'Have you seen the clip where Erika says, We don't know how Charlie would feel about the Iran war?' Yeah, I saw that. That deserves way more outrage. Tucker (Tucker Carlson), Bret Weinstein, Joe (Joe Kent) have all confirmed that he was fighting hard behind the scenes to stop it. What a betrayal. It's just what Erika (Erika Kirk) is—what she is. She's reversed course on everything, everything that Charlie (Charlie Kirk) believed. I believe she had more loyalty to people that brought her in—"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -185,7 +195,15 @@ Source: [About Dr. Bret Weinstein](https://www.bretweinstein.net/about-bret-wein
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bret Weinstein (1)</strong></summary>
+<summary><strong class="section-title">Statements about Bret Weinstein (2)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:51:49](/episodes/ep-N4uM8Jdr410.md#t-00-51-41) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Tucker Carlson, Bret Weinstein, and Joe Kent had al..."](/statements/statement-c61a4715d355.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>

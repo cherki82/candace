@@ -209,7 +209,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 > "...if you're me, because I didn't know this, that exactly this satellite of countries, France, Israel, the French Legion, the United States, Egypt, were quite literally involved in exactly this sort of operation, Now, if..."
 
 **[00:12:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-12-42)**
-> "...an Israeli operative. She also suggested that Charlie Kirk's (Charlie Kirk's) assassin trained with the French Legion with multi-state involvement. The claim sounded like it belonged to the realm of conspiracy thrille..."
+> "She also suggested that Charlie Kirk's assassin trained with the French Legion with multi-state involvement."
 
 **[00:14:50](/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-14-39)**
 > "...ebody very high up who received the text message. No response. Now, I thought that the claim of the French Foreign Legion being involved in Charlie's (Charlie Kirk's) assassination, I thought the FBI might be interested. ..."
@@ -227,7 +227,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 > "...Ripley. But I typo'd on X and I wrote Camp Riley, okay? So I wrote, it's not a coincidence that the French Legionnaires were in the United States training with our Marines for three weeks. And when those three weeks end..."
 
 **[00:18:18](/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-18-18)**
-> "... the perfect way for them to attack the broader story, right? The larger story here being, hey, the French Legionnaires might have been on the ground during Charlie Kirk's (Charlie Kirk's) assassination. So what happene..."
+> "The larger story here being, hey, the French Legionnaires might have been on the ground during Charlie Kirk's assassination."
 
 **[00:18:27](/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legion-t-00-18-18)**
 > "...ing statement in France, and I'm going to quote this for you: "Tyler Robinson was never part of the French Foreign Legion. If he did not serve in an American military unit, he could not have trained with the French Foreig..."

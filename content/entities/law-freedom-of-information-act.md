@@ -1,6 +1,6 @@
 ---
 title: "Freedom of Information Act"
-description: "Freedom of Information Act (Laws & Legislation) - 48 mentions"
+description: "Freedom of Information Act (Laws & Legislation) - 50 mentions"
 id: "law-freedom-of-information-act"
 type: "LAW"
 aliases:
@@ -21,10 +21,10 @@ _Type: Laws & Legislation_
 Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-law-freedom-of-information-act-t-00-14-09">2026-02-03 · 00:14:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27">2025-10-06 · 00:26:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-law-freedom-of-information-act-t-00-44-42">2026-06-26 · 00:45:17</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-WoXd4oLwd3w.md#ent-law-freedom-of-information-act-t-00-00-41">REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27" style="--pulse-height:25%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-law-freedom-of-information-act-t-00-14-09" style="--pulse-height:12%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-law-freedom-of-information-act-t-00-26-13" style="--pulse-height:25%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-law-freedom-of-information-act-t-00-00-01" style="--pulse-height:12%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
@@ -53,6 +54,7 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-law-freedom-of-information-act-t-00-14-09) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-law-freedom-of-information-act-t-00-26-13) | 2 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-law-freedom-of-information-act-t-00-00-01) | 1 |
@@ -73,7 +75,7 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
@@ -278,6 +280,17 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 
 **[00:14:09](/episodes/ep-QRS_hR7NXaQ.md#ent-law-freedom-of-information-act-t-00-14-09)**
 > "there was this still never quite explained FOIA request"
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
+
+**[00:26:27](/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27)**
+> "...r (Tyler Robinson) to file an FOIA request, and that user wrote this:"
+
+**[00:26:50](/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27)**
+> "Like, file an FOIA; get that footage; keep it simple.""
 
 </details>
 

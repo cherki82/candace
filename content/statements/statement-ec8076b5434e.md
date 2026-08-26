@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:20:05](/episodes/ep-_dRaEO47-co.md#t-00-19-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1205);return false;">Play</a>
 
-> the person who probably was the intermediary when Trump called about Brigitte was Charlie Kirk
+> Of course, people guessed it correctly when they said, "Oh, the person who probably was the intermediary when Trump (Donald Trump) called about Brigitte (Brigitte Gabriel) was Charlie Kirk (Charlie Kirk)."
 
 ## Verification
 

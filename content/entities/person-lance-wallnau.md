@@ -1,6 +1,6 @@
 ---
 title: "Lance Wallnau"
-description: "Lance Wallnau (People) - 107 mentions"
+description: "Lance Wallnau (People) - 108 mentions"
 id: "person-lance-wallnau"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-00-45">2025-09-16 · 00:00:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-lance-wallnau-t-01-31-05">2026-04-22 · 01:31:38</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-lance-wallnau-t-00-55-10">2026-07-16 · 00:55:10</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -42,6 +42,7 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 <a href="/episodes/ep-c5BcKF91iec.md#t-00-49-29" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32" style="--pulse-height:39%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 14 mentions" title="2025-11-10 · 14 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-lance-wallnau-t-01-31-05" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-lance-wallnau-t-00-55-10" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#t-00-49-29) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32) | 14 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-lance-wallnau-t-01-31-05) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-lance-wallnau-t-00-55-10) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:55:10](/episodes/ep-puuMVxEu5NU.md#ent-person-lance-wallnau-t-00-55-10)**
+> "I'd like to hear more from Lance (Lance Wallnau)"
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
@@ -79,46 +89,46 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (14 mentions)</summary>
 
 **[00:11:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "... had to fight for justice. They went out immediately following the election results. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immed..."
+> "One person was Lance Wallnau, okay?"
 
 **[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "...esults. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immediately—just three days after the election of 2020, on November 6th—he publish..."
+> "... to remember this guy's name: Lance Wallnau."
 
 **[00:12:22](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-12-17)**
-> "... courageous." That's three days after—saying "stop the steal, be strong, be courageous." And Lance (Lance Wallnau), who is a charismatic preacher, wasn't the only charismatic preacher or pastor that instantly thre..."
+> "And Lance (Lance Wallnau), who is a charismatic preacher, wasn't the only ..."
 
 **[00:13:16](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
-> "...ooked by the House Select Committee?" this person asks, okay? NAR. I brought this up to you before. Lance Wallnau (Lance Wallnau) is in this article. So is Sean Feucht (Sean Feucht). Now you're thinking these name..."
+> "Lance Wallnau is in this article."
 
 **[00:13:31](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
-> "... up to you regarding TPUSA Faith, who started to lead these events that they were having. So who is Lance Wallnau (Lance Wallnau)? Well, he is one of these NAR preachers—like I said—who came up with their Seven Mo..."
+> "So who is Lance Wallnau?"
 
 **[00:13:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...andate. I would say like he became mesmerized by the Seven Mountain Mandate. He became friends with Lance Wallnau (Lance Wallnau). I'm going to let you listen to Lance (Lance Wallnau) himself describe this Seven M..."
+> "He became friends with Lance Wallnau."
 
 **[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...andate. He became friends with Lance Wallnau (Lance Wallnau). I'm going to let you listen to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in his own words. *(Clip from Lance Wallnau)* Hi, I'm..."
+> "...g to let you listen to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in ..."
 
 **[00:13:59](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-59)**
-> "...to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in his own words. *(Clip from Lance Wallnau)* Hi, I'm Lance Wallnau. I want to talk to you for a moment about this concept called the 7M Mandat..."
+> "*(Clip from Lance Wallnau)* Hi, I'm Lance Wallnau."
 
 **[00:17:09](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-16-39)**
-> "...terally named like a fleet of ships after his father—like there was like the McCoy naval something. Lance Wallnau (Lance Wallnau)—he's no different. He graduated from a military academy. His father, Carl Wallnau, ..."
+> "Lance Wallnau—he's no different."
 
 **[00:17:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-17-23)**
-> "...ominican Republic—places that I would argue that we caused a lot of drama in—just saying. So Lance (Lance Wallnau) fits the pattern well. And before I tell you how he is very connected to Turning Point USA Faith, ..."
+> "So Lance (Lance Wallnau) fits the pattern well."
 
 **[00:18:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-18-50)**
-> "...rlie (Charlie Kirk) about this in any way as these people began to infiltrate his organization, and Lance Wallnau (Lance Wallnau) worked his way into Turning Point USA. I had a phone call with someone, by the way,..."
+> "...iltrate his organization, and Lance Wallnau worked his way into Turning Point USA."
 
 **[00:19:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-19-33)**
-> "...ng characters. Rob McCoy leading that frontier, as we know. What people don't know publicly is that Lance Wallnau (Lance Wallnau) was working with him. He was intimately involved, and more importantly, he was fina..."
+> "...e don't know publicly is that Lance Wallnau was working with him."
 
 **[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...y, he was financially involved. Sources within Turning Point's faith department tell me that Lance (Lance Wallnau) was running the show behind the scenes through funding—that he put a ton of money into Turning Poi..."
+> "...epartment tell me that Lance (Lance Wallnau) was running the show behind the scenes through f..."
 
 **[00:20:19](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...tions. Now, I guess a better way for me to state this—because I want to be super clear here—is that Lance Wallnau (Lance Wallnau), who is from a military family and who is saying that he believes in infiltration a..."
+> "...o be super clear here—is that Lance Wallnau, who is from a military family"
 
 </details>
 
@@ -502,7 +512,7 @@ Source: [About | Lance Wallnau](https://lancewallnau.com/about/)
 - [00:17:09](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39) (Claim) **Candace Owens**: ["Lance Wallnau graduated from a military academy and his father Carl Wa..."](/statements/statement-468e84d36ae1.md)
   - Also about: [United States Air Force](/entities/org-united-states-air-force.md)
 
-- [00:20:28](/episodes/ep-YaZfwLQ7vrI.md#t-00-20-07) (Claim) **Candace Owens**: ["Lance Wallnau was privately directing large sums of money into Turning..."](/statements/statement-85f0ac94f132.md)
+- [00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-20-07) (Claim) **Candace Owens**: ["Lance Wallnau was privately directing large sums of money into Turning..."](/statements/statement-85f0ac94f132.md)
   - Also about: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
 </details>

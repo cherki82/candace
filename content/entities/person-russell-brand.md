@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -72,6 +72,19 @@ _Type: People_
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:56](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “[00:57:53] I spoke about it more at length with Russell Brand on his show, so that should be coming out soon.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Russell Brand (1)</strong></summary>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1)</summary>
+
+- [00:57:46](/episodes/ep-his-JBjlkh8.md#t-00-57-02) (Claim) **Candace Owens**: ["Candace Owens appeared on Russell Brand's show to discuss evil indoctr..."](/statements/statement-3c02ef325aba.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

@@ -21,7 +21,7 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -191,6 +191,19 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:30:48](/episodes/ep-3QJqtW_NOSI.md#t-00-30-48): “Pure Talk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about America's Warrior Partnership (1)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:47:44](/episodes/ep-w1oqQbR_bYs.md#t-00-47-24) (Claim) **Candace Owens**: ["PureTalk and its customers contributed more than half a million dollar..."](/statements/statement-2b2f04406ddd.md)
+  - Also about: [Pure Talk](/entities/org-pure-talk.md)
 
 </details>
 

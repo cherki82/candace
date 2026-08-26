@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake City"
-description: "Salt Lake City (Places) - 36 mentions"
+description: "Salt Lake City (Places) - 49 mentions"
 id: "gpe-salt-lake-city"
 type: "GPE"
 categories:
@@ -19,10 +19,10 @@ Source: [SLC.gov](https://www.slc.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53">2025-09-17 · 00:19:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09">2026-08-14 · 01:38:09</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -47,6 +47,9 @@ Source: [SLC.gov](https://www.slc.gov/)
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-salt-lake-city-t-00-09-55" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-salt-lake-city-t-00-03-49" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-salt-lake-city-t-00-06-18" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-11-36" style="--pulse-height:50%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-salt-lake-city-t-00-00-01" style="--pulse-height:33%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-salt-lake-city-t-00-36-05" style="--pulse-height:25%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -69,6 +72,9 @@ Source: [SLC.gov](https://www.slc.gov/)
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-salt-lake-city-t-00-09-55) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-salt-lake-city-t-00-03-49) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-salt-lake-city-t-00-06-18) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-11-36) | 6 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-salt-lake-city-t-00-00-01) | 4 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-salt-lake-city-t-00-36-05) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09) | 1 |
 
 </details>
@@ -77,13 +83,67 @@ Source: [SLC.gov](https://www.slc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:38:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09)**
 > "I think it's Salt Lake City,"
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
+
+**[00:21:30](/episodes/ep-N4uM8Jdr410.md#ent-gpe-salt-lake-city-t-00-36-05)**
+> "—the FBI Salt Lake City office. He fires that person and installs Robert Bohls. On September 2nd, okay, eight days before the Charlie Kirk assassination, Robert Bohls assumes that position at the Salt Lake field office."
+
+**[00:36:21](/episodes/ep-N4uM8Jdr410.md#ent-gpe-salt-lake-city-t-00-36-05)**
+> "... and says that they stayed in Salt Lake City. Salt Lake City is the true events—true version o..."
+
+**[00:37:59](/episodes/ep-N4uM8Jdr410.md#ent-gpe-salt-lake-city-t-00-37-59)**
+> "...Point staffers also flew into Salt Lake City—"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (4 mentions)</summary>
+
+**[00:00:18](/episodes/ep-puuMVxEu5NU.md#ent-gpe-salt-lake-city-t-00-00-01)**
+> "marking time in Salt Lake City"
+
+**[00:00:27](/episodes/ep-puuMVxEu5NU.md#ent-gpe-salt-lake-city-t-00-00-01)**
+> "...ere you doing that morning in Salt Lake City?"
+
+**[00:40:33](/episodes/ep-puuMVxEu5NU.md#ent-gpe-salt-lake-city-t-00-40-29)**
+> "...pp Turo in those areas. So if Salt Lake City, Utah, I would also say Las Vegas, if you have a ..."
+
+**[00:56:37](/episodes/ep-puuMVxEu5NU.md#ent-gpe-salt-lake-city-t-00-56-37)**
+> "...r gay from real housewives of salt lake city receipts proof timeline screenshots effing everyt..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (6 mentions)</summary>
+
+**[00:12:05](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-11-36)**
+> "He flies into Salt Lake City, not Provo. Blake Neff was on board that private ..."
+
+**[00:12:13](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-11-36)**
+> "...ikey McCoy rented two SUVs in Salt Lake City, which were to meet them."
+
+**[00:12:54](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-12-22)**
+> "...oke up early to go nowhere in Salt Lake City."
+
+**[00:17:50](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-17-50)**
+> "...private with Charlie to go to Salt Lake City that morning, but apparently he didn't have to as..."
+
+**[00:30:03](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-30-03)**
+> "... interview while they were in Salt Lake City. Were they renting a car? By the way, I'd like to..."
+
+**[00:30:29](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-30-29)**
+> "... rented somewhere from Provo, Salt Lake City, or Las Vegas that was a Dodge Challenger. I just..."
 
 </details>
 
@@ -278,5 +338,37 @@ Source: [SLC.gov](https://www.slc.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Salt Lake City (4)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that, to his knowledge, he stayed at basically the sam..."](/statements/statement-b592fae6969b.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>
+
+- [00:12:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) (Claim) **Candace Owens**: ["Owens said Blake Neff was aboard Kirk's private jet to Salt Lake City ..."](/statements/statement-14a313270dcd.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:13](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) (Claim) **Candace Owens**: ["Owens said Michael McCoy was also aboard the jet and rented two SUVs i..."](/statements/statement-6fda75c76aee.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:12:33](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33) (Claim) **Candace Owens**: ["Charlie Kirk flew into Salt Lake City instead of the closer Provo airp..."](/statements/statement-0fd32996450c.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Andrew K. Smith](/entities/person-andrew-k-smith.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 </details>

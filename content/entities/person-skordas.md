@@ -13,7 +13,7 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51">2025-10-02 · 00:31:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51">2025-10-02 · 00:32:29</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-32-28">2025-10-02 · 00:32:29</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -51,7 +51,7 @@ _Type: People_
 **[00:31:58](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51)**
 > "... a very rude response that only Skordas is allowed to find a representation for Tyler Robinson. So, Skordas is a guy who's running as a state prosecutor. So, here's the problem with that. State prosecutor ca..."
 
-**[00:32:29](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51)**
+**[00:32:29](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-32-28)**
 > "...ernment has presented such a crap case unless his attorney is a shill. Yes. So, what I know is that Skordas is running as a state prosecutor. He's running. Everyone can look it up. It's on his website. So, i..."
 
 </details>

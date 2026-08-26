@@ -11,7 +11,7 @@ date: "2025-12-05"
 
 > Club Candace launched a gift-membership feature on the CandaceOwens.com website (new gifting option).
 
-## Mentioned In (4 times)
+## Mentioned In (3 times)
 
 ### 1. Shocking Revelation About The Egyptian Planes... | Candace E...
 
@@ -36,11 +36,3 @@ date: "2025-12-05"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3274);return false;">▶️ Play</a>
 
 > ou can also now gift someone with a membership to Club Candace to join our book club. By the way, we're about to—when we get off—head to the book club as we conti
-
-### 4. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:56:54](/episodes/ep-his-JBjlkh8.md#t-00-56-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3414);return false;">▶️ Play</a>
-
-> ou guys can now also gift someone a membership to Club Candace or the book club on our website. Just head to the About section on the website and scroll down to "

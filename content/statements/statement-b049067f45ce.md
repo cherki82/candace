@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:19:56](/episodes/ep-c5BcKF91iec.md#t-00-19-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1196);return false;">Play</a>
 
-> He said, after I offered, 'You can just use WeTransfer,' 'I don't wanna just send the footage over the internet—that's behind Charlie's head—because I'm worried that Google might hack me.'
+> He said, after I offered, "You can just use WeTransfer," "I don't wanna just send the footage over the internet—that's behind Charlie's head—because I'm worried that Google might hack me."
 
 ## Verification
 

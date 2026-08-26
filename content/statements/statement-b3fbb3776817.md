@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:41:54](/episodes/ep-iHav0PPzUz8.md#t-00-41-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2514);return false;">Play</a>
 
-> And right up there it says, 'Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker (Tucker Carlson).'
+> And right up there it says, "Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker (Tucker Carlson)."
 
 ## Verification
 

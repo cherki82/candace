@@ -13,7 +13,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -99,6 +99,19 @@ _Type: Organizations_
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Olivia Bishop works for the Orem Police, records specialist”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Orem Police Department (1)</strong></summary>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
+
+- [00:30:07](/episodes/ep-581dILVcEE4.md#t-00-29-50) (Claim) **Brian Harpole** (via quoted speech): ["Harpole said Orem Police had an active drone unit and a mutual-aid agr..."](/statements/statement-d7a252b38663.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>
 

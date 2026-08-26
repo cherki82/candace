@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Blake Neff](/entities/person-blake-neff) criticized [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -20,6 +20,10 @@ object: "person-candace-owens"
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:43:35](/episodes/ep-2tFYJf1klgY#t-00-43-35): _I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it._
+
+**[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
+
+- [00:34:32](/episodes/ep-X3VKJVJ7cN4#t-00-34-32): _Blake Neff referred to me as a knife wielding psychopath on the subway._
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 

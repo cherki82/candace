@@ -1,6 +1,6 @@
 ---
 title: "Evangelicalism"
-description: "Evangelicalism (Concepts) - 13 mentions"
+description: "Evangelicalism (Concepts) - 14 mentions"
 id: "concept-evangelicalism"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-evangelicalism-t-00-15-44">2026-01-12 · 00:16:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-evangelicalism-t-00-13-15">2026-06-10 · 00:13:39</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46">2026-07-16 · 00:35:22</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-evangelicalism-t-01-44-41" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-evangelicalism-t-00-20-32" style="--pulse-height:33%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-evangelicalism-t-00-13-15" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-evangelicalism-t-01-44-41) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-evangelicalism-t-00-20-32) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-evangelicalism-t-00-13-15) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [Britannica: Evangelical church](https://www.britannica.com/topic/Evange
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:35:22](/episodes/ep-mLvJqdxS-FY.md#ent-concept-evangelicalism-t-00-34-46)**
+> "...r job is to persuade gullible evangelicals that it is their biblical duty to follow their go..."
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
@@ -154,7 +164,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Evangelicalism (3)</strong></summary>
+<summary><strong class="section-title">Statements about Evangelicalism (4)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [00:35:12](/episodes/ep-mLvJqdxS-FY.md#t-00-34-46) (Accusation) **Candace Owens**: ["Candace Owens accused Frank Turek of being part of a movement of Chris..."](/statements/statement-b0b87f5b3c45.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Christians](/entities/concept-christians.md)
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1)</summary>

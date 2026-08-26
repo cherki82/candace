@@ -20,8 +20,8 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-karoline-leavitt-t-00-10-08">2026-05-14 · 00:10:29</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -171,7 +171,7 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Karoline Leavitt (5)</strong></summary>
+<summary><strong class="section-title">Statements by Karoline Leavitt (6)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2)</summary>
@@ -198,10 +198,18 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 
 </details>
 
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:27:45](/episodes/ep-mKXdKV-OBog.md#t-00-27-32) [○] (Claim) ["Karoline Leavitt said the White House was not aware of Mike Huckabee's meeting w..."](/statements/statement-f609d9ebf31e.md)
+  - About: [White House](/entities/org-white-house.md), [Jonathan Pollard](/entities/person-jonathan-pollard.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Karoline Leavitt (2)</strong></summary>
+<summary><strong class="section-title">Statements about Karoline Leavitt (3)</strong></summary>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
@@ -216,6 +224,14 @@ Source: [2026 Annual Report to Congress on White House Office Personnel](https:/
 
 - [00:15:21](/episodes/ep-SubDoZWHARo.md#t-00-14-58) (Claim) **Anonymous Source #2 (Ep SubDoZWHARo)** (via read message): ["TPUSA college students and volunteers reported a recurring difficulty ..."](/statements/statement-88494b63426d.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:27:45](/episodes/ep-mKXdKV-OBog.md#t-00-27-32) (Claim) **Karoline Leavitt** (via quoted speech): ["Karoline Leavitt said the White House was not aware of Mike Huckabee's..."](/statements/statement-f609d9ebf31e.md)
+  - Also about: [White House](/entities/org-white-house.md), [Jonathan Pollard](/entities/person-jonathan-pollard.md), [Mike Huckabee](/entities/person-mike-huckabee.md)
 
 </details>
 

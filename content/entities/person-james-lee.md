@@ -55,7 +55,7 @@ _Type: People_
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
 
 **[00:07:57](/episodes/ep-c5BcKF91iec.md#ent-person-james-lee-t-00-07-38)**
-> "...the internet like Sam Parker, James Lee, Ian Carroll (Ian Carroll), Zeb Boykin, many othe..."
+> "...the internet like Sam Parker, James Lee, Ian Carroll, Zeb Boykin, many others."
 
 **[00:48:59](/episodes/ep-c5BcKF91iec.md#ent-person-james-lee-t-00-48-45)**
 > "It should not be you and James Lee and Ryan Matta—who I didn't even know before this..."

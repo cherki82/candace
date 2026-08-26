@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(746);return false;">Play</a>
 
-> Charlie Kirk was shot with .30-06 in the left side of his neck and that hes a man of steel and that the bones in his neck that are like chicken bones stopped a bullet that travels 2,500 feet a second
+> The spokesperson for TPUSA just posted two hours ago that they talked to the coroner and that Charlie Kirk (Charlie Kirk) was shot with .30-06 in the left side of his neck and that he's a man of steel and that the bones in his neck that are like chicken bones stopped a bullet that travels 2,500 feet a second out of the barrel—at 200 yards, depending on the grain of the cartridge and the rest of it.
 
 ## Verification
 

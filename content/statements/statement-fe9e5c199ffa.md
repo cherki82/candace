@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:51](/episodes/ep-aDlhjfW6hz8.md#t-00-08-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(531);return false;">Play</a>
 
-> And he said, Look, as you can see in the footage, I was sitting right to the left of Charlie when Charlie got shot.
+> And he said, "Look, as you can see in the footage, I was sitting right to the left of Charlie when Charlie got shot."
 
 ## Verification
 

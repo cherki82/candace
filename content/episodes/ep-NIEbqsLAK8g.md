@@ -1,14 +1,14 @@
 ---
 id: "NIEbqsLAK8g"
 title: "A Legal Turning Point? | Candace Ep 292"
-description: "A Legal Turning Point? | Candace Ep 292 - 122 entities, 11 events, 0 claims"
+description: "A Legal Turning Point? | Candace Ep 292 - 122 entities, 11 events, 20 factual claims"
 published: "2026-01-19"
 youtube_url: "https://www.youtube.com/watch?v=NIEbqsLAK8g"
 ---
 
 **Published:** 2026-01-19 | [Watch on YouTube](https://www.youtube.com/watch?v=NIEbqsLAK8g)
 
-**Stats:** 122 entities | 11 events | 0 claims
+**Stats:** 122 entities | 11 events | 20 factual claims
 
 ---
 

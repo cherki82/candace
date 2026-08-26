@@ -22,7 +22,7 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -159,5 +159,18 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Missouri (1)</strong></summary>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:17:22](/episodes/ep-JQjCAsfoXEE.md#t-00-16-57) (Claim) **Candace Owens**: ["The flights were majority clustered within five states: Kansas, Missou..."](/statements/statement-e1f4318d83fd.md)
+  - Also about: [Delaware](/entities/gpe-delaware.md), [Kansas](/entities/gpe-kansas.md), [Nebraska](/entities/gpe-nebraska.md)
+
+</details>
 
 </details>

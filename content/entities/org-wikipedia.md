@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia"
-description: "Wikipedia (Organizations) - 19 mentions"
+description: "Wikipedia (Organizations) - 21 mentions"
 id: "org-wikipedia"
 type: "ORG"
 aliases:
@@ -22,8 +22,8 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00">2025-10-29 · 00:00:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-09-30">2026-06-16 · 00:09:45</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,8 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 <p>Highest activity: <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00">Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00" style="--pulse-height:100%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 13 mentions" title="2025-10-29 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-wikipedia-t-00-11-02" style="--pulse-height:8%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-wikipedia-t-00-13-15" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-11" style="--pulse-height:15%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-wikipedia-t-00-37-11" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
@@ -45,6 +47,8 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00) | 13 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-wikipedia-t-00-11-02) | 1 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-wikipedia-t-00-13-15) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-11) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-wikipedia-t-00-37-11) | 1 |
@@ -56,7 +60,7 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
@@ -93,6 +97,22 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 
 **[00:01:48](/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48)**
 > "Okay, so on background, I don't know how far down various rabbit holes you have gone, but if you are a regular viewer of the show, then you are very familiar with the name Aleister Crowley. If you are not, please, in your spare time, hit Wikipedia, read maybe Hollywood Babylon, Chaos."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+
+**[00:13:15](/episodes/ep-tB5SXXmd9vU.md#ent-org-wikipedia-t-00-13-15)**
+> "..., and I'm just pulling up the Wikipedia page here, you should go read that article in its..."
+
+</details>
+
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+
+**[00:11:02](/episodes/ep-YFmRH8p5lt0.md#ent-org-wikipedia-t-00-11-02)**
+> "...aw it on his biography and on Wikipedia, by the way. So this is—I haven't done a deep div..."
 
 </details>
 

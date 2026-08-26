@@ -1,6 +1,6 @@
 ---
 title: "Israel Defense Forces"
-description: "Israel Defense Forces (Organizations) - 49 mentions"
+description: "Israel Defense Forces (Organizations) - 50 mentions"
 id: "org-israel-defense-forces"
 type: "ORG"
 aliases:
@@ -26,8 +26,8 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51">2026-01-09 · 00:08:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-israel-defense-forces-t-01-07-07">2026-07-14 · 01:07:19</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
@@ -53,6 +53,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-israel-defense-forces-t-01-16-23" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-israel-defense-forces-t-00-19-12" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-israel-defense-forces-t-01-07-07" style="--pulse-height:15%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-israel-defense-forces-t-00-48-58" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-israel-defense-forces-t-01-16-23) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-israel-defense-forces-t-00-19-12) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-israel-defense-forces-t-01-07-07) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-israel-defense-forces-t-00-48-58) | 1 |
 
 </details>
 </section>
@@ -80,7 +82,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
@@ -90,6 +92,14 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 **[01:07:19](/episodes/ep-EtLHqDbxqks.md#ent-org-israel-defense-forces-t-01-07-07)**
 > "Former IDF was receiving updates about Charlie (Charlie Kirk..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:48:58](/episodes/ep-X3VKJVJ7cN4.md#ent-org-israel-defense-forces-t-00-48-58)**
+> "...hat side happens to be former IDF people, or I don't know if you ever really leave ..."
 
 </details>
 
@@ -566,8 +576,8 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 - [01:24:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-42) (Citation) **Bassem Youssef**: ["Israeli media reported the Hannibal Directive, Israeli soldiers killin..."](/statements/statement-dffdfa972b19.md)
   - Also about: [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-the-new-york-times.md), [CNN](/entities/org-cnn.md)
 
-- [01:26:30](/episodes/ep-xjzb_t5Tk9o.md#t-01-26-30) (Claim) **Phil Tourney** (via quoted speech): ["Phil Tourney recalled that USS Liberty crew initially thought Israeli ..."](/statements/statement-4c21e1b441cd.md)
-  - Also about: [Phil Tourney](/entities/person-phil-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
+- [01:26:30](/episodes/ep-xjzb_t5Tk9o.md#t-01-26-30) (Claim) **Phillip F. Tourney** (via quoted speech): ["Phil Tourney recalled that USS Liberty crew initially thought Israeli ..."](/statements/statement-4c21e1b441cd.md)
+  - Also about: [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
 
 </details>
 

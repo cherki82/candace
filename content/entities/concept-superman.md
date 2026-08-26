@@ -1,6 +1,6 @@
 ---
 title: "Superman"
-description: "Superman (Concepts) - 21 mentions"
+description: "Superman (Concepts) - 23 mentions"
 id: "concept-superman"
 type: "CONCEPT"
 categories:
@@ -19,8 +19,8 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-superman-t-00-51-04">2026-01-05 · 00:51:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01">2026-08-14 · 00:40:01</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-superman-t-00-57-35" style="--pulse-height:67%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-superman-t-00-19-29" style="--pulse-height:33%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-concept-superman-t-00-57-31" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-superman-t-00-41-01" style="--pulse-height:67%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -63,6 +64,7 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-superman-t-00-57-35) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-superman-t-00-19-29) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-superman-t-00-57-31) | 3 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-superman-t-00-41-01) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01) | 1 |
 
 </details>
@@ -71,13 +73,24 @@ Source: [Superman - Official DC Character](https://www.dc.com/characters/superma
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:40:01](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-superman-t-00-40-01)**
 > "... sense to think that he had a Superman neck and even if he did have a Superman neck,"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
+
+**[00:41:18](/episodes/ep-mLvJqdxS-FY.md#ent-concept-superman-t-00-41-01)**
+> "... made me think of the charlie superman neck narrative man of steel the primary and the l..."
+
+**[00:50:05](/episodes/ep-mLvJqdxS-FY.md#ent-concept-superman-t-00-50-05)**
+> "...n a widow and or a 30-odd-six Superman neck."
 
 </details>
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:12:32](/episodes/ep-q7f8r-THr84.md#t-00-12-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(752);return false;">Play</a>
 
-> Hey, fascist, catch,' says one on one cartridge. 'You've got notices bulge. What's this?' on another cartridge. 'Oh, Bella ciao, Bella ciao, Bella ciao, ciao, ciao,' on a third cartridge. And on the fourth cartridge, it reads, 'If you read this, you are gay, LMAO.'
+> "Hey, fascist, catch," says one on one cartridge. "You've got notices bulge." "What's this?" on another cartridge. "Oh, Bella ciao, Bella ciao, Bella ciao, ciao, ciao," on a third cartridge. And on the fourth cartridge, it reads, "If you read this, you are gay, LMAO."
 
 ## Verification
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:35:03](/episodes/ep-c5BcKF91iec.md#t-00-34-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2103);return false;">Play</a>
 
-> Charlie writes, 'Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this. You know, I'm talking to lawyers.'
+> Charlie writes, "Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this. You know, I'm talking to lawyers."
 
 ## Verification
 

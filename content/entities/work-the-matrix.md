@@ -1,6 +1,6 @@
 ---
 title: "The Matrix"
-description: "The Matrix (Works & Media) - 25 mentions"
+description: "The Matrix (Works & Media) - 26 mentions"
 id: "work-the-matrix"
 type: "WORK"
 aliases:
@@ -23,8 +23,8 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-the-matrix-t-01-03-34">2025-09-15 · 01:03:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-the-matrix-t-01-30-34">2026-01-29 · 01:30:39</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,8 +37,9 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-the-matrix-t-01-03-34" style="--pulse-height:17%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 1 mentions" title="2025-09-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-work-the-matrix-t-00-54-45" style="--pulse-height:17%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23" style="--pulse-height:33%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-51-02" style="--pulse-height:33%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-work-the-matrix-t-00-00-00" style="--pulse-height:33%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-matrix-t-00-37-13" style="--pulse-height:17%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-work-the-matrix-t-00-55-13" style="--pulse-height:17%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-25" style="--pulse-height:83%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41" style="--pulse-height:67%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 4 mentions" title="2025-12-03 · 4 mentions"><span></span></a>
@@ -52,8 +53,9 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 |---|---|---:|
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-work-the-matrix-t-01-03-34) | 1 |
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-work-the-matrix-t-00-54-45) | 1 |
-| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23) | 2 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-51-02) | 2 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-work-the-matrix-t-00-00-00) | 2 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-matrix-t-00-37-13) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-work-the-matrix-t-00-55-13) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-25) | 5 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41) | 4 |
@@ -67,7 +69,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
@@ -157,6 +159,14 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 </details>
 
 <details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+
+**[00:37:49](/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-matrix-t-00-37-13)**
+> "...ot put your children in their matrix."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
 **[00:00:25](/episodes/ep-adJ4LNGp84I.md#ent-work-the-matrix-t-00-00-00)**
@@ -170,10 +180,10 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
 
-**[00:51:03](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23)**
+**[00:51:03](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-51-02)**
 > "We are in their matrix."
 
-**[00:51:04](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-50-23)**
+**[00:51:04](/episodes/ep-UBkFkg4UNY8.md#ent-work-the-matrix-t-00-51-02)**
 > "...s get out of the psychopathic matrix."
 
 </details>

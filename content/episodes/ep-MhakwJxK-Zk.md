@@ -1,14 +1,14 @@
 ---
 id: "MhakwJxK-Zk"
 title: "BREAKING NEWS: We've Identified \"SAM702\" At Fort Huachuca. | Ep 344"
-description: "BREAKING NEWS: We've Identified \"SAM702\" At Fort Huachuca. | Ep 344 - 169 entities, 42 events, 0 claims"
+description: "BREAKING NEWS: We've Identified \"SAM702\" At Fort Huachuca. | Ep 344 - 169 entities, 42 events, 23 factual claims"
 published: "2026-05-27"
 youtube_url: "https://www.youtube.com/watch?v=MhakwJxK-Zk"
 ---
 
 **Published:** 2026-05-27 | [Watch on YouTube](https://www.youtube.com/watch?v=MhakwJxK-Zk)
 
-**Stats:** 169 entities | 42 events | 0 claims
+**Stats:** 169 entities | 42 events | 23 factual claims
 
 ---
 

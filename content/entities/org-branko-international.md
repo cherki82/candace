@@ -3,9 +3,13 @@ title: "Branko International"
 description: "Branko International (Organizations) - 3 mentions"
 id: "org-branko-international"
 type: "ORG"
+aliases:
+  - "Brenco International"
 ---
 
 _Type: Organizations_
+
+**Also known as:** Brenco International
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-branko-international-t-00-13-24">2025-12-08 · 00:13:57</a></strong></div>
@@ -13,7 +17,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -103,13 +107,16 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Branko International (2)</strong></summary>
+<summary><strong class="section-title">Statements about Branko International (3)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
 
 - [00:13:46](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) (Claim) **Candace Owens**: ["During the French elections dating back to 1999, it was discovered tha..."](/statements/statement-60d7c6a114d4.md)
   - Also about: [France](/entities/gpe-france.md), [Angola](/entities/gpe-angola.md), [Angolagate scandal](/entities/event-angola-gate.md)
+
+- [00:13:57](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) (Claim) **Candace Owens**: ["Arkady Gaydamak and Pierre Falcone partnered through Brenco Internatio..."](/statements/statement-95e5288badc8.md)
+  - Also about: [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
 
 - [00:14:10](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05) (Claim) **Candace Owens**: ["Branko International is run by Arkady Gaidemak. He is Israeli, initial..."](/statements/statement-6f2c0ea955bb.md)
   - Also about: [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Pierre Falcone](/entities/person-pierre-falcone.md)

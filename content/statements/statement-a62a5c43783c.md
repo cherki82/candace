@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:19](/episodes/ep-aDlhjfW6hz8.md#t-00-07-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(499);return false;">Play</a>
 
-> And he says, Because the first thing that I thought was that I better secure the footage and be helpful and give that footage, hand that footage over to the feds.
+> And he says, "Because the first thing that I thought was that I better secure the footage and be helpful and give that footage, hand that footage over to the feds."
 
 ## Verification
 

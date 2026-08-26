@@ -1,14 +1,14 @@
 ---
 id: "GY6GWceEqtQ"
 title: "IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294"
-description: "IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 - 109 entities, 10 events, 0 claims"
+description: "IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 - 109 entities, 10 events, 15 factual claims"
 published: "2026-01-21"
 youtube_url: "https://www.youtube.com/watch?v=GY6GWceEqtQ"
 ---
 
 **Published:** 2026-01-21 | [Watch on YouTube](https://www.youtube.com/watch?v=GY6GWceEqtQ)
 
-**Stats:** 109 entities | 10 events | 0 claims
+**Stats:** 109 entities | 10 events | 15 factual claims
 
 ---
 

@@ -109,7 +109,7 @@ _Type: Organizations_
 > "...eem like I lied about the new DOJ department?"—when I literally shared the email fr..."
 
 **[00:39:55](/episodes/ep-ozWJz2spBcI.md#ent-org-department-of-justice-t-00-39-32)**
-> "...k) Kirk) Kirk) establishing a DOJ department."
+> "Anyways, Alex (Alex Clark) has decided to share a total half-truth PR spin on another tweet from Tyler Bowyer, where he responds to someone asking about Charlie (Charlie Kirk) establishing a DOJ department."
 
 **[00:40:13](/episodes/ep-ozWJz2spBcI.md#ent-org-department-of-justice-t-00-40-13)**
 > "...d the entirety related to the DOJ department."

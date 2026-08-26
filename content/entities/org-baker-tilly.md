@@ -13,7 +13,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,13 +44,13 @@ _Type: Organizations_
 **[00:41:13](/episodes/ep-JQjCAsfoXEE.md#ent-org-baker-tilly-t-00-41-13)**
 > "...own audit using a firm called Baker Tilly."
 
-**[00:41:34](/episodes/ep-JQjCAsfoXEE.md#ent-org-baker-tilly-t-00-41-13)**
+**[00:41:34](/episodes/ep-JQjCAsfoXEE.md#ent-org-baker-tilly-t-00-41-22)**
 > "The annual financial audit for Turning Point USA, Inc. and its affiliates was performed by an accounting firm called Baker Tilly."
 
-**[00:42:02](/episodes/ep-JQjCAsfoXEE.md#ent-org-baker-tilly-t-00-41-57)**
+**[00:42:02](/episodes/ep-JQjCAsfoXEE.md#ent-org-baker-tilly-t-00-42-02)**
 > "I wonder if Baker Tilly will provide an explanation why they can issue a ..."
 
-**[00:42:13](/episodes/ep-JQjCAsfoXEE.md#ent-org-baker-tilly-t-00-41-57)**
+**[00:42:13](/episodes/ep-JQjCAsfoXEE.md#ent-org-baker-tilly-t-00-42-02)**
 > "...RS, so there is no excuse for Baker Tilly not to mention this in their audit opinion."
 
 **[00:54:49](/episodes/ep-JQjCAsfoXEE.md#ent-org-baker-tilly-t-00-54-31)**
@@ -70,5 +70,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Baker Tilly (1)</strong></summary>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:42:01](/episodes/ep-JQjCAsfoXEE.md#t-00-41-22) (Claim) **Wolves and Finance** (via quoted speech): ["Baker Tilly issued a clean audit report for Turning Point USA even tho..."](/statements/statement-7f9e8d610ab0.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 </details>

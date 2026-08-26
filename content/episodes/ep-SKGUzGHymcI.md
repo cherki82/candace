@@ -1,14 +1,14 @@
 ---
 id: "SKGUzGHymcI"
 title: "Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268"
-description: "Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 - 96 entities, 14 events, 0 claims"
+description: "Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 - 96 entities, 14 events, 33 factual claims"
 published: "2025-11-19"
 youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 ---
 
 **Published:** 2025-11-19 | [Watch on YouTube](https://www.youtube.com/watch?v=SKGUzGHymcI)
 
-**Stats:** 96 entities | 14 events | 0 claims
+**Stats:** 96 entities | 14 events | 33 factual claims
 
 ---
 
@@ -201,7 +201,7 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 
 **<a href="/timestamps/ep-SKGUzGHymcI/t-00-46-12.md" class="timestamp-link">00:46:12</a> <a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=2772" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-org-american-financing-t-00-46-12"><a href="/entities/org-american-financing.md">American Financing</a></span> is helping homeowners access the equity in their home for instant savings. They're saving people, just like you, an average of $800 a month, and many are seeing rates in the low fives, which is a complete game changer compared to those sky-high credit cards. If you start today, you may be able to delay two mortgage payments, giving you extra breathing room for the holidays. It costs absolutely nothing to find out how much you could be saving. The holidays are going to be here before we know it, so do not wait. Call their salary-based mortgage consultants today. You can call <a href="/entities/org-american-financing.md">American Financing</a> at 800-795-1210. Again, that's 800-795-1210, or visit <a href="/entities/org-american-financing.md">americanfinancing</a>.net/owens, <a href="/entities/org-american-financing.md">americanfinancing</a>.net/owens. All right, you guys, some housekeeping. <span id="ent-org-club-candace-t-00-46-12"><a href="/entities/org-club-candace.md">Book club</a></span> is going to be tomorrow at six o'clock p.m. Eastern. ^t-00-46-12
 
-**<a href="/timestamps/ep-SKGUzGHymcI/t-00-46-56.md" class="timestamp-link">00:46:56</a> <a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=2816" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Also reminding you, we have new merch on the website. Plus we have a Black Friday sale running, so you can go to CandaceOwens.com and use code BLACK20 for 20% off store-wide. That does not include books. If you'd like to buy a book, you can head to <span id="ent-work-make-him-a-sandwich-t-00-46-56"><a href="/entities/work-make-him-a-sandwich.md">MakeHimASandwich.com</a></span> for a regular copy, or you can go to CandaceOwens.com for a signed copy. Top comment from last episode. Is from Yearning for the Truth from yesterday's episode. This person writes, There is a current propaganda campaign going on at Calvary Chapels where <span id="ent-gpe-israel-t-00-46-56"><a href="/entities/gpe-israel.md">Israel</a></span> is directly sending money to an LLC in San Diego by the name of Show Faith by Works. This LLC is working with churches to promote an <span id="ent-date-october-7th-t-00-46-56"><a href="/entities/date-october-7th.md">October 7th</a></span> experience. ^t-00-46-56
+**<a href="/timestamps/ep-SKGUzGHymcI/t-00-46-56.md" class="timestamp-link">00:46:56</a> <a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=2816" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Also reminding you, we have new merch on the website. Plus we have a Black Friday sale running, so you can go to CandaceOwens.com and use code BLACK20 for 20% off store-wide. That does not include books. If you'd like to buy a book, you can head to <span id="ent-work-make-him-a-sandwich-t-00-46-56"><a href="/entities/work-make-him-a-sandwich.md">MakeHimASandwich.com</a></span> for a regular copy, or you can go to CandaceOwens.com for a signed copy. Top comment from last episode. Is from Yearning for the Truth from yesterday's episode. This person writes, There is a current propaganda campaign going on at <span id="ent-org-calvary-chapel-t-00-46-56"><a href="/entities/org-calvary-chapel.md">Calvary Chapels</a></span> where <span id="ent-gpe-israel-t-00-46-56"><a href="/entities/gpe-israel.md">Israel</a></span> is directly sending money to an LLC in San Diego by the name of Show Faith by Works. This LLC is working with churches to promote an <span id="ent-date-october-7th-t-00-46-56"><a href="/entities/date-october-7th.md">October 7th</a></span> experience. ^t-00-46-56
 
 **<a href="/timestamps/ep-SKGUzGHymcI/t-00-47-35.md" class="timestamp-link">00:47:35</a> <a href="https://www.youtube.com/watch?v=SKGUzGHymcI&t=2855" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It includes spreading a certain narrative about what happened that day and a geofencing campaign where if you attend these churches your phone will be targeted with pro-Israel ads and much more. I sent you the official far document via email where their entire plan is laid out. Yeah, this is this is like <span id="ent-concept-mkultra-t-00-47-35"><a href="/entities/concept-mkultra.md">MK Ultra</a></span>. These are basically there's these are government and military experiments. It's like how many times can we tell you that <span id="ent-gpe-israel-t-00-47-35"><a href="/entities/gpe-israel.md">Israel</a></span> is a victim before you believe it? How many times can we tell you that <span id="ent-person-charlie-kirk-t-00-47-35"><a href="/entities/person-charlie-kirk.md">Charlie</a></span>? Nothing happened weird on that day. And it was just a lone shooter before you believe it. I think they have stretched this campaign to its max. ^t-00-47-35
 
@@ -277,32 +277,48 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 </details>
 
 <details>
-<summary><strong>Statements (25)</strong></summary>
+<summary><strong>Statements (42)</strong></summary>
 
+- [00:00:33](#t-00-00-00) [○] (Claim) **Candace Owens**: ["An Egyptian military plane (yellow jet, tail number SUBTT) left Provo on the mor..."](/statements/statement-e2f8cec84285.md)
+- [00:02:04](#t-00-01-26) [○] (Claim) **Candace Owens**: ["Egyptian plane SUBTT made frequent stops in Wilmington, Delaware"](/statements/statement-1ee63b666f8c.md)
 - [00:02:06](#t-00-02-04) [○] (Claim) **Candace Owens**: ["The Egyptian military plane SUBTT made frequent visits to Wilmington, Delaware"](/statements/statement-808505330938.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
-- [00:03:40](#t-00-03-23) [○] (Claim) **Candace Owens**: ["The yellow Egyptian plane SUBTT departed Provo, Utah on the morning of Charlie K..."](/statements/statement-be388da5f8f1.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Wilmington](/entities/gpe-wilmington.md)
+- [00:03:40](#t-00-03-23) [◐] (Claim) **Candace Owens**: ["The yellow Egyptian plane SUBTT departed Provo, Utah on the morning of Charlie K..."](/statements/statement-be388da5f8f1.md)
+  - About: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:03:55](#t-00-03-23) [✓] (Claim) **Candace Owens**: ["Charlie Kirk's gonna get shot at 12:23."](/statements/statement-cf2566b70212.md)
+- [00:04:06](#t-00-04-06) [○] (Claim) **Candace Owens**: ["The Egyptians stayed in Wilmington, Delaware overnight until the following day a..."](/statements/statement-3303f47aa333.md)
 - [00:04:18](#t-00-04-06) [○] (Claim) **Candace Owens**: ["The Egyptian plane SUBTT stayed overnight in Wilmington, Delaware from September..."](/statements/statement-f8c19f141608.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
 - [00:07:03](#t-00-06-58) [○] (Claim) **Anonymous Source #1 (Ep SKGUzGHymcI)**: ["SUBTT's arrival in Wilmington was processed under a diplomatic and dignitary cat..."](/statements/statement-9170d006228d.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
 - [00:08:02](#t-00-07-37) [○] (Claim) **Anonymous Source #1 (Ep SKGUzGHymcI)**: ["Federal vehicles arrived at and left Wilmington airport in the same window as th..."](/statements/statement-995d8794864a.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
+- [00:08:27](#t-00-08-19) [○] (Claim) **Candace Owens**: ["The Egyptian plane and vehicles are connected to 920 North King Street (also mar..."](/statements/statement-bbf892d8f0c0.md)
+- [00:10:15](#t-00-09-44) [✓] (Claim) **Candace Owens**: ["In June of 1997, the Department of Justice's own directory lists, quote, Wilming..."](/statements/statement-acc414737f5b.md)
 - [00:11:00](#t-00-10-15) [○] (Claim) **Candace Owens**: ["The DEA and United States Secret Service are both currently located at 920 North..."](/statements/statement-b9552222e57e.md)
   - About: [DEA](/entities/org-dea.md), [United States Secret Service](/entities/org-united-states-secret-service.md), [Wilmington](/entities/gpe-wilmington.md)
+- [00:11:00](#t-00-10-15) [◐] (Claim) **Candace Owens**: ["Today, if you punch that address into public directories, you will find the DEA,..."](/statements/statement-b2a8092ed21a.md)
+- [00:11:00](#t-00-10-15) [◐] (Claim) **Candace Owens**: ["The DEA (Drug Enforcement Agency) is located at 920 North King Street in Wilming..."](/statements/statement-e1951668bf1c.md)
+- [00:11:24](#t-00-11-00) [○] (Claim) **Candace Owens**: ["The Secret Service's 2025 field office list shows Wilmington, Delaware as a loca..."](/statements/statement-4e99c3430985.md)
 - [00:12:21](#t-00-11-40) [○] (Claim) **Candace Owens**: ["The Wilmington Dassault Falcon authorized service center shut down around 2021"](/statements/statement-71de6e94f148.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
+- [00:12:40](#t-00-12-23) [✓] (Claim) **Candace Owens**: ["Wilmington used to have a Dassault Falcon authorized center, but it shut down ar..."](/statements/statement-62175c77e906.md)
+- [00:12:48](#t-00-12-23) [✓] (Claim) **Candace Owens**: ["in December of 2024, a French aircraft finishing company called Satys... announc..."](/statements/statement-79f405b6bd06.md)
 - [00:13:03](#t-00-12-23) [○] (Claim) **Candace Owens**: ["In December 2024, the French aircraft finishing company Satys announced it was t..."](/statements/statement-8a833470ba1f.md)
   - About: [Satis](/entities/org-satis.md), [Wilmington](/entities/gpe-wilmington.md)
+- [00:13:27](#t-00-13-08) [✓] (Claim) **Candace Owens**: ["DRBA is a bi-state authority that operates on federally regulated waterways"](/statements/statement-853512efd0bf.md)
+- [00:13:37](#t-00-13-08) [✓] (Claim) **Candace Owens**: ["DRBA's January 2024 resolution shows it was acquiring the rights to a paint hang..."](/statements/statement-1233fe8fb4ed.md)
 - [00:14:22](#t-00-14-09) [○] (Accusation) **Anonymous Source #1 (Ep SKGUzGHymcI)**: ["If SUBTT has been making maintenance runs to Wilmington for decades, it could no..."](/statements/statement-10fa7ba55d22.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
 - [00:15:12](#t-00-14-53) [○] (Claim) **Candace Owens**: ["The FBI is stationed at 920 North King Street in Wilmington, as listed in the DO..."](/statements/statement-a571b54811ed.md)
   - About: [FBI](/entities/org-fbi.md), [Wilmington](/entities/gpe-wilmington.md)
+- [00:15:30](#t-00-14-53) [◐] (Claim) **Candace Owens**: ["When you Google FBI Wilmington Resident Agency, you should check the address in ..."](/statements/statement-ed1ff4b83a08.md)
 - [00:15:36](#t-00-14-53) [○] (Claim) **Candace Owens**: ["920 North King Street in Wilmington is a joint DOJ-DHS site that houses at least..."](/statements/statement-ecdfdd6a0965.md)
   - About: [FBI](/entities/org-fbi.md), [DEA](/entities/org-dea.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
 - [00:18:23](#t-00-18-04) [○] (Claim) **Candace Owens**: ["On November 13, 2022, SUBTT flew from Cairo to Paris to Wichita, Kansas to Wilmi..."](/statements/statement-18c05cf22929.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
+- [00:18:39](#t-00-18-04) [○] (Claim) **Candace Owens**: ["Within an hour of the Egyptian plane landing on September 10th, federal SUVs mov..."](/statements/statement-01ea8b6839be.md)
+- [00:18:47](#t-00-18-47) [○] (Claim) **Candace Owens**: ["920 North King Street has been a federal residence office since at least 1997, a..."](/statements/statement-d30e2920d33f.md)
 - [00:19:06](#t-00-18-47) [○] (Claim) **Candace Owens**: ["Four days after the November 13, 2022 flight, SUBTT made another Wilmington arri..."](/statements/statement-ec363fed26d6.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)
 - [00:21:43](#t-00-21-36) [○] (Accusation) **Candace Owens**: ["The decision to murder Charlie Kirk had to be approved by Charlie Kirk's friends"](/statements/statement-4e08901ec450.md)
@@ -315,6 +331,7 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
   - About: [global state military](/entities/concept-global-state-military.md)
 - [00:31:42](#t-00-31-36) [○] (Claim) **Frank Turek**: ["Charlie Kirk's team had drones up looking at the crowd from above before the Sep..."](/statements/statement-7cc8629a1c72.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:31:49](#t-00-31-36) [✗] (Claim) **Frank Turek**: ["his team has drones up looking at the crowd from above and they text him some vi..."](/statements/statement-13680d2dc612.md)
 - [00:32:30](#t-00-32-21) [○] (Accusation) **Candace Owens**: ["Brian Harpole lied about drones not being present on September 10th, contradicti..."](/statements/statement-9d9d0fd07c5e.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md)
 - [00:35:28](#t-00-34-52) [○] (Claim) **Candace Owens**: ["Charlie Kirk was not shot by a .30-06 caliber weapon based on the damage pattern"](/statements/statement-d52cf4336862.md)

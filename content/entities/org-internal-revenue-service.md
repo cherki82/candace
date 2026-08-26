@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 141 mentions"
+description: "Internal Revenue Service (Organizations) - 145 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-07">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-52">2026-06-26 · 00:49:52</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>141</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-internal-revenue-service-t-00-45-30">2026-07-14 · 00:45:52</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>145</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -76,6 +76,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-internal-revenue-service-t-00-35-05" style="--pulse-height:67%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-internal-revenue-service-t-00-49-57" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-08" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-internal-revenue-service-t-00-44-49" style="--pulse-height:67%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,6 +123,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-internal-revenue-service-t-00-35-05) | 4 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-internal-revenue-service-t-00-49-57) | 4 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-08) | 4 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-internal-revenue-service-t-00-44-49) | 4 |
 
 </details>
 </section>
@@ -129,7 +131,24 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+<summary><strong class="section-title">Raw mentions (145)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (4 mentions)</summary>
+
+**[00:45:25](/episodes/ep-X3VKJVJ7cN4.md#ent-org-internal-revenue-service-t-00-44-49)**
+> "...em, one thing is certain, the IRS penalties and interest keep adding up every singl..."
+
+**[00:45:30](/episodes/ep-X3VKJVJ7cN4.md#ent-org-internal-revenue-service-t-00-45-30)**
+> "...e next tax season. Before the IRS starts sending more letters, garnishing wages or ..."
+
+**[00:45:38](/episodes/ep-X3VKJVJ7cN4.md#ent-org-internal-revenue-service-t-00-45-30)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:45:52](/episodes/ep-X3VKJVJ7cN4.md#ent-org-internal-revenue-service-t-00-45-30)**
+> "... now, they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
@@ -660,10 +679,10 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 **[00:34:07](/episodes/ep-JQjCAsfoXEE.md#ent-org-internal-revenue-service-t-00-34-07)**
 > "...ning Point USA submits to the IRS every year."
 
-**[00:42:02](/episodes/ep-JQjCAsfoXEE.md#ent-org-internal-revenue-service-t-00-41-57)**
+**[00:42:02](/episodes/ep-JQjCAsfoXEE.md#ent-org-internal-revenue-service-t-00-42-02)**
 > "...rms were never filed with the IRS."
 
-**[00:42:13](/episodes/ep-JQjCAsfoXEE.md#ent-org-internal-revenue-service-t-00-41-57)**
+**[00:42:13](/episodes/ep-JQjCAsfoXEE.md#ent-org-internal-revenue-service-t-00-42-02)**
 > "...ssed the filing date with the IRS, so there is no excuse for Baker Tilly not to men..."
 
 </details>

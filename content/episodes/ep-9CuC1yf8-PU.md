@@ -1,14 +1,14 @@
 ---
 id: "9CuC1yf8-PU"
 title: "Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354"
-description: "Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 - 93 entities, 9 events, 0 claims"
+description: "Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 - 93 entities, 9 events, 15 factual claims"
 published: "2026-06-23"
 youtube_url: "https://www.youtube.com/watch?v=9CuC1yf8-PU"
 ---
 
 **Published:** 2026-06-23 | [Watch on YouTube](https://www.youtube.com/watch?v=9CuC1yf8-PU)
 
-**Stats:** 93 entities | 9 events | 0 claims
+**Stats:** 93 entities | 9 events | 15 factual claims
 
 ---
 

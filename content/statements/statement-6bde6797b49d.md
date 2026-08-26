@@ -4,9 +4,10 @@ description: "\"Assuming Brian Harpole's account was true, Candace Owens first i
 statement_id: "statement-6bde6797b49d"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode transcript directly shows Owens conditionally reasoning from Brian Harpole’s account, considering Dan Flood or Frank Turek, ruling out Turek, and concluding that Flood remained if Harpole’s story was true. This verifies the described conditional inference, not Harpole’s underlying account.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Candace Ep. 358: I’m Back! And the Tyler Robinson Show Trial Begins](https://www.youtube.com/watch?v=EtLHqDbxqks)
+
+*Verified: 2026-08-26T08:02:14.795464*
 
 ---
 

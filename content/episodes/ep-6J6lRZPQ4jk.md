@@ -1,14 +1,14 @@
 ---
 id: "6J6lRZPQ4jk"
 title: "Erika Kirk Tells Me To \"Stop\". Tyler Robinson Makes His First Appearance. | Candace Ep 279"
-description: "Erika Kirk Tells Me To \"Stop\". Tyler Robinson Makes His First Appearance. | Candace Ep 279 - 45 entities, 1 events, 0 claims"
+description: "Erika Kirk Tells Me To \"Stop\". Tyler Robinson Makes His First Appearance. | Candace Ep 279 - 45 entities, 1 events, 25 factual claims"
 published: "2025-12-12"
 youtube_url: "https://www.youtube.com/watch?v=6J6lRZPQ4jk"
 ---
 
 **Published:** 2025-12-12 | [Watch on YouTube](https://www.youtube.com/watch?v=6J6lRZPQ4jk)
 
-**Stats:** 45 entities | 1 events | 0 claims
+**Stats:** 45 entities | 1 events | 25 factual claims
 
 ---
 
@@ -247,8 +247,10 @@ youtube_url: "https://www.youtube.com/watch?v=6J6lRZPQ4jk"
 </details>
 
 <details>
-<summary><strong>Statements (28)</strong></summary>
+<summary><strong>Statements (34)</strong></summary>
 
+- [00:01:43](#t-00-01-23) [✓] (Claim) **Candace Owens**: ["Tyler Robinson made his first in-person court appearance in December 2025 for th..."](/statements/statement-b03211c3f08a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:05:17](#t-00-04-43) [○] (Claim) **Candace Owens**: ["Charlie Kirk's neck stopped a 30-06 bullet with minimal damage to the front of h..."](/statements/statement-c5d4ddbea505.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:06](#t-00-05-27) [○] (Accusation) **Candace Owens**: ["Bari Weiss is a Tel Aviv agent"](/statements/statement-ce0953603e5c.md)
@@ -259,6 +261,8 @@ youtube_url: "https://www.youtube.com/watch?v=6J6lRZPQ4jk"
   - About: [Candace Owens](/entities/person-candace-owens.md)
 - [00:08:18](#t-00-08-15) [○] (Claim) **Candace Owens**: ["The Bari Weiss interview with Erika Kirk was pre-recorded from 11am to 4pm and r..."](/statements/statement-059669d70f62.md)
   - About: [Bari Weiss](/entities/person-bari-weiss.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:08:20](#t-00-08-15) [◐] (Claim) **Candace Owens**: ["The CBS News town hall with Erika Kirk and Bari Weiss was pre-recorded with an i..."](/statements/statement-c065dd4ce272.md)
+  - About: [CBS News](/entities/org-cbs-news.md), [Bari Weiss](/entities/person-bari-weiss.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:10:20](#t-00-09-44) [○] (Claim) **Rob McCoy**: ["Mikey McCoy had blood all over him"](/statements/statement-248b306069ca.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 - [00:10:34](#t-00-10-29) [○] (Claim) **Rob McCoy**: ["Mikey McCoy called his father Rob McCoy first after the shooting"](/statements/statement-3ad8bb700479.md)
@@ -281,12 +285,20 @@ youtube_url: "https://www.youtube.com/watch?v=6J6lRZPQ4jk"
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:13:23](#t-00-12-41) [○] (Claim) **Candace Owens**: ["Tyler Robinson was suicidal but also turned himself in because he was afraid of ..."](/statements/statement-99f64e0b3f89.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:13:24](#t-00-13-24) [○] (Claim) **Candace Owens**: ["Owens said an unconfirmed photograph appeared to show Tyler Robinson at a Dairy ..."](/statements/statement-73b4c96e185e.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:14:14](#t-00-14-04) [○] (Claim) **Candace Owens**: ["Egyptian planes have been tracking Charlie Kirk and following Erika Kirk through..."](/statements/statement-a4fe6f71e591.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:14:53](#t-00-14-48) [○] (Claim) **Candace Owens**: ["The questions for Erika Kirk's CBS interview were preselected"](/statements/statement-078426a88ea1.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:15:07](#t-00-14-48) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said Turning Point USA would hold a Shabbat dinner at AmericaFest"](/statements/statement-101f3b8f7a37.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:15:40](#t-00-15-32) [✓] (Claim) **Candace Owens**: ["The CBS town hall brought in Hunter Kozak, who asked the last question to Charli..."](/statements/statement-d25303ee27b7.md)
+  - About: [CBS News](/entities/org-cbs-news.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:15:50](#t-00-15-32) [○] (Claim) **Candace Owens**: ["CBS filled the audience with college Republicans and questions selected by CBS f..."](/statements/statement-e968a2d9f448.md)
   - About: [CBS News](/entities/org-cbs-news.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:16:30](#t-00-16-17) [✓] (Claim) **Candace Owens**: ["Erika Kirk also sat down with Glenn Beck of Blaze TV for an interview about Char..."](/statements/statement-891143be14d4.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
 - [00:17:42](#t-00-17-02) [○] (Opinion) **Erika Kirk**: ["Erika Kirk believes the truth about who killed Charlie Kirk is very clear"](/statements/statement-38c1fae814f0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:20:25](#t-00-19-45) [○] (Claim) **Erika Kirk**: ["Erika Kirk stated that none of Turning Point USA or herself were involved in Cha..."](/statements/statement-6e2fdf12c4cb.md)

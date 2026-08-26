@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:34:07](/episodes/ep-ja26iltROkM.md#t-00-34-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2047);return false;">Play</a>
 
-> My livelihood was being threatened. And then eventually—obviously—I lost my job. Behind the scenes, telling me what I had to say if I wanted to—I dont know—still be welcomed into the circle.
+> My livelihood was being threatened. And then eventually—obviously—I lost my job. Behind the scenes, telling me what I had to say if I wanted to—I don't know—still be welcomed into the circle.
 
 ## Verification
 

@@ -27,7 +27,7 @@ Source: [Joint Base Andrews History](https://www.jba.af.mil/About/Fact-Sheets/Di
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -105,7 +105,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrews Air Force Base (2)</strong></summary>
+<summary><strong class="section-title">Statements about Andrews Air Force Base (3)</strong></summary>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
@@ -116,10 +116,13 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2)</summary>
 
 - [00:43:41](/episodes/ep-6DhWawD4ZiM.md#t-00-43-00) (Claim) **Candace Owens**: ["A US government VIP plane (C37A Gulfstream, tail number 99-0404) flew ..."](/statements/statement-88162d6bfd9c.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [El Paso](/entities/gpe-el-paso.md)
+
+- [00:44:00](/episodes/ep-6DhWawD4ZiM.md#t-00-43-45) (Claim) **Candace Owens** (via read message): ["Owens presented flight-tracking material identifying Air Force C-37A t..."](/statements/statement-8a03426a4ab1.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>
 

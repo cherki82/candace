@@ -45,7 +45,7 @@ _Type: People_
 > "...onna beat out all of these independent voices who are winning because they're telling the truth? So Deborah Lee asked Benjamin Netanyahu specifically about Charlie (Charlie Kirk)'s assassination and the potentia..."
 
 **[00:27:05](/episodes/ep-adJ4LNGp84I.md#ent-person-deborah-lee-t-00-26-38)**
-> "...he died and it pissed me off. Okay. Take a listen to what Deborah asks. (Following question is from Deborah Lee to Benjamin Netanyahu.) SPEAKER_4: So something I would like to raise, which was actually my first ..."
+> "Take a listen to what Deborah asks. (Following question is from Deborah Lee to Benjamin Netanyahu.)"
 
 </details>
 

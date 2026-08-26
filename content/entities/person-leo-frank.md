@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -90,6 +90,21 @@ _Type: People_
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31): “Mary Phagan was a 13-year-old girl who worked at his pencil factory.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Leo Frank (2)</strong></summary>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2)</summary>
+
+- [00:03:38](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31) (Claim) **Candace Owens**: ["This happened in 1913."](/statements/statement-59b592c94ad7.md)
+
+- [00:03:44](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31) (Claim) **Candace Owens**: ["Mary Phagan was a 13-year-old girl who worked at his pencil factory."](/statements/statement-4ee1e93104bb.md)
+  - Also about: [Mary Phagan](/entities/person-mary-phagan.md)
 
 </details>
 

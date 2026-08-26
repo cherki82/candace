@@ -24,7 +24,7 @@ type: "opinion"
 **Timestamp:** [00:49:44](/episodes/ep-ja26iltROkM.md#t-00-49-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2984);return false;">Play</a>
 
-> I can tell you that I know Jack Posobiec. He has always been very solid with me. I mean, always. And Jack Posobiec—by the way—every single time that I have been attacked publicly, particularly over the declaration that Christ is King, its like a trigger for Jack Posobiec. He goes hard in the paint.
+> Okay, so to the first portion: I can tell you that I know Jack Posobiec. He has always been very solid with me. I mean, always. And Jack Posobiec—by the way—every single time that I have been attacked publicly, particularly over the declaration that Christ is King, it's like a trigger for Jack Posobiec. He goes hard in the paint.
 
 ## Verification
 

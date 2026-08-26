@@ -592,7 +592,7 @@ Source: [State of New York](https://www.ny.gov/)
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (6 mentions)</summary>
 
 **[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
-> "...sense. It's not Tucker's (Tucker Carlson's) responsibility. Tucker (Tucker Carlson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very st..."
+> "Tucker (Tucker Carlson) doesn't live in New York City."
 
 **[00:08:09](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-t-00-07-46)**
 > "...vernment-run grocery stores gets elected. He's going to likely run our biggest city in the country. New York. And it's like, why did that happen? Is it because people are so like desperate for government-run ..."
@@ -697,7 +697,7 @@ Source: [State of New York](https://www.ny.gov/)
 > "...DL shares an office space with the FBI.” They also share an office space with the United Nations in New York now. Same building, across the hall, whatever; that's a fact. And it makes sense. You shouldn't be ..."
 
 **[00:31:02](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-30-29)**
-> "...lawyer firm, “Hey, what's the best way to go around here? Like, we need help to get the lawyer from New York who is certified to represent Tyler to get on the case.” So he said, “Whatever you do, Elizabeth, d..."
+> "Like, we need help to get the lawyer from New York who is certified to represent Tyler (Tyler Robinson) to get on the case.”"
 
 **[00:31:36](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-new-york-t-00-31-09)**
 > "...hone?” So then I said, “Listen, there is a lawyer who's qualified, and he's actually very famous in New York, wants to represent this kid. All I need is a consent from Tyler Robinson to do so.” “And we think ..."

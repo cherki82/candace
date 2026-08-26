@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4027);return false;">Play</a>
 
-> Miriam Adelson gave him 00 million, and she was explicit. The 00 million meant that he would allow them to annex—not Gaza—the West Bank.
+> Miriam Adelson gave him $100 million, and she was explicit. The $100 million meant that he would allow them to annex—not Gaza—the West Bank.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Piers Morgan"
-description: "Piers Morgan (People) - 20 mentions"
+description: "Piers Morgan (People) - 23 mentions"
 id: "person-piers-morgan"
 type: "PERSON"
 aliases:
@@ -21,10 +21,10 @@ _Type: People_
 Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37">2025-12-17 · 00:55:47</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-piers-morgan-t-01-01-35">2025-10-06 · 01:01:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-piers-morgan-t-00-25-12">2026-04-10 · 00:25:39</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -35,6 +35,8 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59">Candace x Bassem Youssef | Candace Ep 298</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-piers-morgan-t-01-01-35" style="--pulse-height:12%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-34-51" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-piers-morgan-t-00-33-05" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
@@ -46,6 +48,8 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-piers-morgan-t-01-01-35) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-34-51) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-55-37) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-piers-morgan-t-00-33-05) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59) | 8 |
@@ -59,7 +63,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
@@ -148,6 +152,25 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 **[00:57:46](/episodes/ep-9k2xrAC0H88.md#ent-person-piers-morgan-t-00-57-41)**
 > "...on writes, here is the money, Piers."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+
+**[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-34-51)**
+> "... just telling jokes—went onto Piers Morgan and decided to put Dave Smith—who I love—through ..."
+
+**[00:47:53](/episodes/ep-iHav0PPzUz8.md#ent-person-piers-morgan-t-00-47-29)**
+> "Okay, it was not Piers Morgan, right, Skyler?"
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
+
+**[01:01:50](/episodes/ep-ozWJz2spBcI.md#ent-person-piers-morgan-t-01-01-35)**
+> "... of Charlie (Charlie Kirk) on Piers Morgan's show."
 
 </details>
 

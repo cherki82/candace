@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:00:48](/episodes/ep-ja26iltROkM.md#t-00-00-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(48);return false;">Play</a>
 
-> I think it was—the most consequential speech in American history, a message that everyone needed to hear, including myself—a message of complete submission to Christ.
+> I think it was— the most consequential speech in American history, a message that everyone needed to hear, including myself—a message of complete submission to Christ.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Dana Loesch"
-description: "Dana Loesch (People) - 20 mentions"
+description: "Dana Loesch (People) - 21 mentions"
 id: "person-dana-loesch"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-dana-loesch-t-00-15-44">2025-11-05 · 00:16:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-dana-loesch-t-00-59-35">2026-06-23 · 00:59:50</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-dana-loesch-t-00-04-42">2026-07-20 · 00:05:05</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -41,6 +41,7 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-dana-loesch-t-00-00-00" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 9 mentions" title="2026-06-10 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#t-00-50-55" style="--pulse-height:11%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-dana-loesch-t-00-00-01" style="--pulse-height:22%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-dana-loesch-t-00-04-42" style="--pulse-height:11%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-dana-loesch-t-00-00-00) | 9 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-50-55) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-dana-loesch-t-00-00-01) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-dana-loesch-t-00-04-42) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:05:05](/episodes/ep-N4uM8Jdr410.md#ent-person-dana-loesch-t-00-04-42)**
+> "We could bring back Dana Loesch. She could start speaking 'widow' to Robert O'Neill. I just don't know how you respond to that."
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>

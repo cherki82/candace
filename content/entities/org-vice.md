@@ -8,7 +8,7 @@ type: "ORG"
 _Type: Organizations_
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-vice-t-00-55-20">2025-09-23 · 00:55:44</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-vice-t-00-55-09">2025-09-23 · 00:55:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-vice-t-00-04-16">2025-12-08 · 00:04:35</a></strong></div>
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
@@ -22,7 +22,7 @@ _Type: Organizations_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-vice-t-00-17-40">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-vice-t-00-55-20" style="--pulse-height:25%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-vice-t-00-55-09" style="--pulse-height:25%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-vice-t-00-35-37" style="--pulse-height:75%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-vice-t-00-09-12" style="--pulse-height:25%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-vice-t-00-45-45" style="--pulse-height:25%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
@@ -35,7 +35,7 @@ _Type: Organizations_
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-vice-t-00-55-20) | 1 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-vice-t-00-55-09) | 1 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-vice-t-00-35-37) | 3 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-vice-t-00-09-12) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-vice-t-00-45-45) | 1 |
@@ -126,7 +126,7 @@ _Type: Organizations_
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
 
-**[00:55:44](/episodes/ep-UBkFkg4UNY8.md#ent-org-vice-t-00-55-20)**
+**[00:55:44](/episodes/ep-UBkFkg4UNY8.md#ent-org-vice-t-00-55-09)**
 > "I guess that's my vice—is I always have to pull myself back consciously ..."
 
 </details>

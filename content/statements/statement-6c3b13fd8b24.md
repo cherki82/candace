@@ -4,9 +4,10 @@ description: "\"Lou Taylor started her career in a church working alongside her 
 statement_id: "statement-6c3b13fd8b24"
 speaker: "Brett Cooper"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -22,8 +23,8 @@ type: "factual_claim"
 
 ## About
 
-- [Lou Taylor](/entities/person-lou-taylor.md) (person)
 - [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md) (org)
+- [Lou Taylor](/entities/person-lou-taylor.md) (person)
 
 ## Source
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Partially confirmed: Lou Taylor's husband Rob Taylor is a Senior Pastor at Calvary Chapel Brentwood (in Tennessee, not California as claimed). Sources confirm she worked alongside him in church ministry early in her career.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Pastor's Wife Benefitted From Britney Spears' Estate](https://julieroys.com/wife-calvary-chapel-pastor-benefitted-britney-spears-church-got-money/)
+
+*Verified: 2025-12-08T16:28:50.970744*
 
 ---
 

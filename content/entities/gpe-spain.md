@@ -1,6 +1,6 @@
 ---
 title: "Spain"
-description: "Spain (Places) - 6 mentions"
+description: "Spain (Places) - 13 mentions"
 id: "gpe-spain"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-spain-t-00-48-28">2026-01-28 · 00:48:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-spain-t-00-06-13">2026-07-14 · 00:06:32</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-spain-t-00-01-24">2026-07-20 · 00:01:41</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -28,12 +28,16 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-spain-t-00-48-28">Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-spain-t-00-00-01">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-spain-t-00-48-28" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-spain-t-00-27-44" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-spain-t-00-55-48" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-spain-t-00-06-13" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-spain-t-00-48-28" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-spain-t-00-27-44" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-spain-t-00-55-48" style="--pulse-height:25%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-spain-t-00-06-13" style="--pulse-height:50%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-spain-t-00-08-22" style="--pulse-height:25%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-spain-t-00-08-46" style="--pulse-height:25%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-spain-t-00-47-39" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-spain-t-00-00-01" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 4 mentions" title="2026-07-20 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +47,10 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-spain-t-00-27-44) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-spain-t-00-55-48) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-spain-t-00-06-13) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-spain-t-00-08-22) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-spain-t-00-08-46) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-spain-t-00-47-39) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-spain-t-00-00-01) | 4 |
 
 </details>
 </section>
@@ -50,7 +58,40 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4 mentions)</summary>
+
+**[00:00:01](/episodes/ep-N4uM8Jdr410.md#ent-gpe-spain-t-00-00-01)**
+> "All right, you guys, happy Monday and congratulations are in order for Spain. You guys, I was very excited that Spain won. You have no idea."
+
+**[00:00:09](/episodes/ep-N4uM8Jdr410.md#ent-gpe-spain-t-00-00-01)**
+> "...the roughest year of my life, Spain absolutely healed me. That two week vacation was ..."
+
+**[00:01:24](/episodes/ep-N4uM8Jdr410.md#ent-gpe-spain-t-00-01-24)**
+> "...ing. And so it just felt like Spain deserved it for taking an unapologetic stance in ..."
+
+**[00:01:41](/episodes/ep-N4uM8Jdr410.md#ent-gpe-spain-t-00-01-24)**
+> "...ight need a two week reset in Spain? Frank Turek and Andrew Kolvet."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:08:46](/episodes/ep-puuMVxEu5NU.md#ent-gpe-spain-t-00-08-46)**
+> "We were on a couch in Spain"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:47:52](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-spain-t-00-47-39)**
+> "...unny memory. I, when I was in Spain, um, I saw this like, uh, you know, one of these ..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
@@ -60,6 +101,14 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 
 **[00:06:32](/episodes/ep-EtLHqDbxqks.md#ent-gpe-spain-t-00-06-13)**
 > "...n't know if it's different in Spain. I had wondered, is it different if you don't hav..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:08:49](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-spain-t-00-08-22)**
+> "... complete 180. While I was in Spain, they shifted gears and they said, no, no, no, no..."
 
 </details>
 

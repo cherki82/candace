@@ -1,14 +1,14 @@
 ---
 id: "ZZGWo6oDscc"
 title: "CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289"
-description: "CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 - 123 entities, 21 events, 0 claims"
+description: "CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 - 123 entities, 21 events, 13 factual claims"
 published: "2026-01-13"
 youtube_url: "https://www.youtube.com/watch?v=ZZGWo6oDscc"
 ---
 
 **Published:** 2026-01-13 | [Watch on YouTube](https://www.youtube.com/watch?v=ZZGWo6oDscc)
 
-**Stats:** 123 entities | 21 events | 0 claims
+**Stats:** 123 entities | 21 events | 13 factual claims
 
 ---
 

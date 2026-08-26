@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:15:13](/episodes/ep-ja26iltROkM.md#t-00-14-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(913);return false;">Play</a>
 
-> We are meticulously investigating theories and questions, including the location from where the shot was taken, the possibility of accomplices, the text message confession and related conversations, Discord chats, the angle of the shot and bullet impact, how the weapon was transported, hand gestures observed as potential signals near Charlie at the time of his assassination, and visitors to the alleged shooter's residence
+> We are meticulously investigating theories and questions, including the location from where the shot was taken, the possibility of accomplices, the text message confession and related conversations, Discord chats, the angle of the shot and bullet impact, how the weapon was transported, hand gestures observed as potential signals near Charlie (Charlie Kirk) at the time of his assassination, and visitors to the alleged shooter's residence in the hours and the days leading up to September 10, 2025.
 
 ## Verification
 

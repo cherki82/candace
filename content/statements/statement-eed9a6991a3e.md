@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:01:02](/episodes/ep-sImMM04XdWY.md#t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(62);return false;">Play</a>
 
-> it was Charlie Kirk that called me and told me that they wanted me to stop speaking about Brigitte
+> Because as you guys know, it was Charlie (Charlie Kirk) Kirk that called me and told me that they wanted me to stop speaking about Brigitte.
 
 ## Verification
 

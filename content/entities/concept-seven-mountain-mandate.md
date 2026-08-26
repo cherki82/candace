@@ -59,16 +59,16 @@ _Type: Concepts_
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
 
 **[00:13:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-01)**
-> "... Wallnau (Lance Wallnau)? Well, he is one of these NAR preachers—like I said—who came up with their Seven Mountain Mandate, okay? Charlie (Charlie Kirk) began to become very interested in the Seven Mountain Mandate. I woul..."
+> "Well, he is one of these NAR preachers—like I said—who came up with their Seven Mountain Mandate, okay?"
 
 **[00:13:41](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-01)**
 > "...h their Seven Mountain Mandate, okay? Charlie (Charlie Kirk) began to become very interested in the Seven Mountain Mandate. I would say like he became mesmerized by the Seven Mountain Mandate. He became friends with Lance ..."
 
 **[00:13:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-45)**
-> "... become very interested in the Seven Mountain Mandate. I would say like he became mesmerized by the Seven Mountain Mandate. He became friends with Lance Wallnau (Lance Wallnau). I'm going to let you listen to Lance (Lance ..."
+> "I would say like he became mesmerized by the Seven Mountain Mandate."
 
 **[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-45)**
-> "...Wallnau (Lance Wallnau). I'm going to let you listen to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in his own words. *(Clip from Lance Wallnau)* Hi, I'm Lance Wallnau. I want to talk to you for a mo..."
+> "I'm going to let you listen to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in his own words."
 
 **[00:16:02](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-16-02)**
 > "...g there—and what they believe—is that there are new prophets; there are new apostles. They have the Seven Mountain Mandate, and when he is speaking about covertly, he means that, okay? This is a philosophy of infiltration...."

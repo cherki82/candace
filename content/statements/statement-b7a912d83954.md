@@ -22,7 +22,7 @@ type: "factual_claim"
 ## About
 
 - [FBI](/entities/org-fbi.md) (org)
-- [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md) (person)
+- [Lee Trotter](/entities/person-lee-trotter.md) (person)
 
 ## Source
 

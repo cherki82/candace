@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 185 mentions"
+description: "Frank Turek (People) - 228 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-04-31">2026-07-14 · 01:04:45</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>185</strong></div>
-<div><span>Statements by</span><strong>26</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
-<div><span>Relationships</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-51-41">2026-07-20 · 00:51:49</a></strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>228</strong></div>
+<div><span>Statements by</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>45</strong></div>
+<div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,7 +46,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23" style="--pulse-height:28%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 7 mentions" title="2025-11-13 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-12" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#t-00-15-00" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-frank-turek-t-00-47-57" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-frank-turek-t-00-10-58" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-27-46" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
@@ -77,6 +77,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-frank-turek-t-00-32-36" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-frank-turek-t-00-01-20" style="--pulse-height:60%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 15 mentions" title="2026-06-26 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-03-12" style="--pulse-height:28%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22" style="--pulse-height:32%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 8 mentions" title="2026-07-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22" style="--pulse-height:24%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-25-59" style="--pulse-height:72%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 18 mentions" title="2026-07-16 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-24" style="--pulse-height:44%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,7 +96,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23) | 7 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-frank-turek-t-00-01-24) | 1 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-12) | 2 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-15-00) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-frank-turek-t-00-47-57) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-frank-turek-t-00-10-58) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-27-46) | 3 |
@@ -123,6 +127,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-frank-turek-t-00-32-36) | 5 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-frank-turek-t-00-01-20) | 15 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-03-12) | 7 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22) | 8 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22) | 6 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-25-59) | 18 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-24) | 11 |
 
 </details>
 </section>
@@ -130,7 +138,127 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (185)</strong></summary>
+<summary><strong class="section-title">Raw mentions (228)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (11 mentions)</summary>
+
+**[00:01:41](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-24)**
+> "Anyway, do you know who I think also might need a two week reset in Spain? Frank Turek and Andrew Kolvet."
+
+**[00:01:58](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-01-58)**
+> "...s weird. It was very odd. And Frank Turek wants you to know that he and Brian Harpole share..."
+
+**[00:30:22](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-30-08)**
+> "Let's start with Frank Turek versus Frank Turek, because that's my favorite UF..."
+
+**[00:30:34](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-30-08)**
+> "...nd when he—the current Frank (Frank Turek)—catches the previous Frank acting up, oh no, he ..."
+
+**[00:31:11](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-30-45)**
+> "... CPR was not performed, while Frank Turek says that it was performed in the car, is a major..."
+
+**[00:31:24](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-30-45)**
+> "But I want to listen to Frank Turek because he owns it and makes it clear it's not a ..."
+
+**[00:35:22](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-35-22)**
+> "...it is a contradiction, Frank (Frank Turek)."
+
+**[00:35:52](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-35-22)**
+> "Frank (Frank Turek), genius. Everything's so spotty. You would think..."
+
+**[00:47:19](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-46-54)**
+> "...nverified) says, 'I love when Frank Turek gets mad at Frank Turek for lying about what Fran..."
+
+**[00:47:30](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-47-30)**
+> "For lying about what Frank Turek said. I think you're quoting me on that. It's our..."
+
+**[00:51:49](/episodes/ep-N4uM8Jdr410.md#ent-person-frank-turek-t-00-51-41)**
+> "Frank Turek—somebody was full of it. I'm sorry. Um, Ali (comm..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (6 mentions)</summary>
+
+**[00:06:22](/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22)**
+> "Frank Turek also worked with Bank of America"
+
+**[00:06:56](/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-06-22)**
+> "And it turns out Frank Turek gets to join the crew. For 15 years, he worked as..."
+
+**[00:07:25](/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-07-06)**
+> "...k out this headline following Frank Turek's ouster tells us this is the Christian Post report..."
+
+**[00:07:45](/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-07-45)**
+> "And Dr. Frank Turek was also given the boot from Bank of America. Tur..."
+
+**[00:52:15](/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-51-43)**
+> "... theory. And the other one is Frank Turek getting ahead of things."
+
+**[00:52:27](/episodes/ep-puuMVxEu5NU.md#ent-person-frank-turek-t-00-52-27)**
+> "Frank Turek is on, I'm on the phone with my sons. So on a Fac..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (18 mentions)</summary>
+
+**[00:25:59](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-25-59)**
+> "... whether it was Brian Harpole Frank Turek nobody wants to take credit for calling 911 is th..."
+
+**[00:27:16](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-27-03)**
+> "...t I'd like to know that maybe Frank Turek can give us an answer that actually brings us bac..."
+
+**[00:30:48](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-30-16)**
+> "All right. So Dr. Frank Turek really, really hates me. I got to tell you guys, ..."
+
+**[00:31:21](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-31-01)**
+> "...we got to get deeper into the Frank Turek story and where his family comes from and what th..."
+
+**[00:31:51](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-31-46)**
+> "...e. And today, pastor, doctor, Frank Turek wants you to know that watching my show."
+
+**[00:32:23](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-31-46)**
+> "...onymous husband had to say to Dr. Frank Turek."
+
+**[00:32:30](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-31-46)**
+> "Frank Turek."
+
+**[00:34:59](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-34-46)**
+> "...to be honest with you, Frank (Frank Turek), you just come across as a fraud. Right. There's..."
+
+**[00:35:42](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-35-30)**
+> "...et an answer as to why Frank (Frank Turek)'s grown adult male children, two of whom I shoul..."
+
+**[00:37:06](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-37-06)**
+> "Frank (Frank Turek), I think the person who said that you were on th..."
+
+**[00:38:14](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-38-10)**
+> "... really fire it up. You go at Frank Turek. I hate when Frank Turek says things that Frank T..."
+
+**[00:38:24](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-38-10)**
+> "Frank (Frank Turek) has two high-ranking sons in the military. The f..."
+
+**[00:39:05](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-38-49)**
+> "...I don't know. Instead, Frank (Frank Turek) decided to sit in the backseat, pray and listen ..."
+
+**[00:39:34](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-39-34)**
+> "Frank (Frank Turek) didn't call 9-1-1, nor did he think to phone his..."
+
+**[00:40:50](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-40-17)**
+> "...e way. Well, fun fact, Frank (Frank Turek) and his son, Zach (Frank Zach Turek), Pentagon Z..."
+
+**[00:42:13](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-00-41-43)**
+> "... asking the questions. I find Frank Turek's entire narrative to be something worth prodding, ..."
+
+**[01:06:08](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-01-06-05)**
+> "... the same messaging as Frank (Frank Turek)'s book."
+
+**[01:07:16](/episodes/ep-mLvJqdxS-FY.md#ent-person-frank-turek-t-01-06-49)**
+> "...timing as we're talking about Frank Turek to revisit that region of the world where his fam..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (7 mentions)</summary>
@@ -155,6 +283,35 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 **[01:04:45](/episodes/ep-EtLHqDbxqks.md#ent-person-frank-turek-t-01-04-31)**
 > "So it can't be Frank (Frank Turek). You're down. Bye-bye, Brian."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (8 mentions)</summary>
+
+**[00:12:22](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-12-22)**
+> "...g Charlie and Mikey McCoy and Frank Turek and John McGovern, who works in gifts at Turning ..."
+
+**[00:31:22](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-31-22)**
+> "And beyond that, Frank Turek's story about attending the restaurantology event i..."
+
+**[00:31:43](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-31-22)**
+> "...'re trying to figure out, did Frank Turek not go to the green room with him? He admits that..."
+
+**[00:31:50](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-31-22)**
+> "And Frank Turek keeps tripping over his stories like quite a bit...."
+
+**[00:47:14](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-46-53)**
+> "...t it has something to do with Frank Turek and his FaceTiming."
+
+**[00:47:22](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-46-53)**
+> "...sterday that it's going to be Frank Turek and that live stream,"
+
+**[00:47:30](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-47-30)**
+> "...terday: that it's going to be Frank Turek and that live stream, which never made sense. The..."
+
+**[00:48:30](/episodes/ep-X3VKJVJ7cN4.md#ent-person-frank-turek-t-00-48-30)**
+> "Something's not right about Frank Turek's story as well. And he's changed it. He keeps gett..."
 
 </details>
 
@@ -733,13 +890,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
 
-**[00:15:27](/episodes/ep-mKXdKV-OBog.md#t-00-15-00)**
-> "Frank Turk, who's there for the assassination, is a nav..."
-
-**[00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00)**
-> "Frank Turk was there for the assassination, naval flight officer"
+**[00:15:27](/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00)**
+> "Frank Turek, who's there for the assassination, is a naval flight officer."
 
 </details>
 
@@ -766,25 +920,25 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (7 mentions)</summary>
 
 **[00:01:38](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "...ions; just accept the fed slop. It seems a little bit ridiculous. We should start, by the way, with Frank Turek. Frank Turek, as a reminder, he is the pastor friend who was next to Charlie (Charlie Kirk). Actual..."
+> "...hould start, by the way, with Frank Turek."
 
 **[00:01:39](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "...cept the fed slop. It seems a little bit ridiculous. We should start, by the way, with Frank Turek. Frank Turek, as a reminder, he is the pastor friend who was next to Charlie (Charlie Kirk). Actually, when he w..."
+> "Frank Turek, as a reminder, he is the pastor friend who was n..."
 
 **[00:01:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "...ped to get Charlie (Charlie Kirk) to the vehicle. He was at the hospital. Well, I just learned that Frank Turek was reacting to me. He went on CBN News recently, and here is what he had to say. (clip of Frank Tu..."
+> "Well, I just learned that Frank Turek was reacting to me."
 
 **[00:02:00](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "...nk Turek was reacting to me. He went on CBN News recently, and here is what he had to say. (clip of Frank Turek) I have not followed Candace (Candace Owens) closely. I know she was a good friend of Charlie (Char..."
+> "... what he had to say. (clip of Frank Turek)"
 
 **[00:04:50](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-04-24)**
-> "...aid, but we are only interested in getting to the truth. So here's what I did. I personally invited Frank Turek onto the show because we legitimately want answers. Now, to his second point that he is making ther..."
+> "I personally invited Frank Turek onto the show because we legitimately want answer..."
 
 **[00:06:17](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-05-45)**
-> "...ght? By not answering very simple questions and by lying to the public. So I would very much invite Frank Turek onto the show. I don't think we've ever covered Frank Turek. He hasn't really come up in this inves..."
+> "So I would very much invite Frank Turek onto the show."
 
 **[00:06:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-05-45)**
-> "...the public. So I would very much invite Frank Turek onto the show. I don't think we've ever covered Frank Turek. He hasn't really come up in this investigation. He hasn't been caught in any lies, certainly. So I..."
+> "...on't think we've ever covered Frank Turek."
 
 </details>
 
@@ -795,16 +949,16 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > "...anking military families have been around for a long time: ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his background, his naval background, psycho..."
 
 **[00:17:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-17-23)**
-> "...ore I tell you how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek (Frank Turek) stands out because he flat-out acknowledged on one of his podcasts that NAR was a cul..."
+> "And before I tell you how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek stands out because he flat-out acknowledged on one of his podcasts that NAR was a cult—actually darker than a cult."
 
 **[00:18:03](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-17-23)**
-> "...edged on one of his podcasts that NAR was a cult—actually darker than a cult. Take a listen to what Frank Turek (Frank Turek) said about NAR. *(Clip from Frank Turek)* So technically a group, and NAR stands for ..."
+> "Take a listen to what Frank Turek said about NAR."
 
 **[00:18:06](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-18-06)**
-> "...lly darker than a cult. Take a listen to what Frank Turek (Frank Turek) said about NAR. *(Clip from Frank Turek)* So technically a group, and NAR stands for what again? I'm sorry, the New Apostolic Reformation. ..."
+> "*(Clip from Frank Turek)* So technically a group, and NAR stands for what again?"
 
 **[00:18:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-18-50)**
-> "...re New Age-y or more even occult-like than they are Christian. The occult—and that is correct. Now, Frank Turek (Frank Turek)—this didn't stop him, or it didn't make him go warn Charlie (Charlie Kirk) about this..."
+> "Now, Frank Turek—this didn't stop him, or it didn't make him go warn Charlie (Charlie Kirk) about this in any way as these people began to infiltrate his organization, and Lance Wallnau worked his way into Turning Point USA."
 
 **[00:30:16](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-18-50)**
 > "And then some guy named Frank McCormick on X started circulating."
@@ -917,6 +1071,18 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
+<summary>Authored (1)</summary>
+
+- **[Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:40:50](/episodes/ep-mLvJqdxS-FY.md#t-00-40-17): “By the way. Well, fun fact, Frank (Frank Turek) and his son, Zach (Frank Zach Turek), Pentagon Zach (Frank Zach Turek), actually wrote a book together entitled Hollywood Heroes, How Your Favorite Superhero Movies Reveal God.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -934,7 +1100,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -944,13 +1110,34 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:17:14](/episodes/ep-sKuYLNx3iRo.md#t-00-17-01): “We then have to ask ourselves: what could account for Frank Turek's—and it has to be a lie according to Brian Harpole; it's a lie—Frank Turek says that he himself, Frank (Frank Turek), tried to start CPR.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:34:51](/episodes/ep-IqHsl7d2dos.md#t-00-34-15): “So I'm inclined to believe Brian Harpole, who I think is a liar too. But Frank (Frank Turek), you're getting caught in too many lies.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:01:45](/episodes/ep-a2bZf4fic10.md#t-00-01-20): “...to separate who are the good guys and who are the bad guys, right? Just because Brian Harpole tells a lie, just because Frank Turek tells a lie, does not mean that every single person at Turning Point USA is implicated, right?”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:48:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-48-30): “Something's not right about Frank Turek's story as well. And he's changed it. He keeps getting caught, and then, 'Oh, I misspoke, and this—I didn't mean that,' and, 'Oh, people are taking me out of context. I said I was on the FaceTime call forever, and now I say I'm not.' It's me versus me. Frank Turek is messy. He is messy.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:35:22](/episodes/ep-N4uM8Jdr410.md#t-00-35-22): “I think your definition of it's not a contradiction is inaccurate. And I don't think it is a contradiction, Frank (Frank Turek).”
 
 </details>
 
 </details>
 
 <details>
-<summary>Formerly Worked For (2)</summary>
+<summary>Fired By (2)</summary>
+
+- **[Bank of America](/entities/org-bank-of-america.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America.”
+
+</details>
+
+- **[Cisco Systems, Inc.](/entities/org-cisco-systems.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:25](/episodes/ep-puuMVxEu5NU.md#t-00-07-06): “Frank Turek's ouster tells us this is the Christian Post reporting back in 2011 that he was the Christian consultant and was fired over his book on gay marriage. The article tells us that just months after being fired from Cisco Systems in California over an anti-gay marriage book...”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (3)</summary>
 
 - **[U.S. Navy](/entities/org-us-navy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -960,9 +1147,17 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[United States Navy](/entities/org-united-states-navy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
+
+</details>
+
+- **[Bank of America](/entities/org-bank-of-america.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:06:56](/episodes/ep-puuMVxEu5NU.md#t-00-06-22): “And it turns out Frank Turek gets to join the crew. For 15 years, he worked as a consultant in New Jersey to Bank of America until 2011.”
 
 </details>
 
@@ -1006,18 +1201,6 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Member Of (1)</summary>
-
-- **[United States Air Force](/entities/org-united-states-air-force.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Frank Turk is a naval flight officer, his sons are in the Air Force”
-
-</details>
-
-</details>
-
-<details>
 <summary>Met With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -1025,6 +1208,25 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:46:29](/episodes/ep-CEF7gQRWYCE.md#t-00-46-11): “And per Frank, and I'm going to listen to what Frank Turek says here. He says that he went on a walk with Charlie this day at 8 o'clock p.m. He says that earlier in the day he had been with Charlie, but they then went on this long walk again because he needed advice about how to debate.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:35:50](/episodes/ep-ZzAT2xijKGQ.md#t-00-35-44): “And so we spent some time Monday and then we both went to dinner.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Parent Of (2)</summary>
+
+- **[Frank Zachary Turek](/entities/person-frank-zachary-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:38:24](/episodes/ep-mLvJqdxS-FY.md#t-00-38-10): “Frank (Frank Turek) has two high-ranking sons in the military. The first person has the same name as him. He's Frank Turek. I think he's number four, actually. But he goes by his middle name, Zach (Frank Zach Turek). Frank Zach Turek, Zachary Turek. And do you know where Zach (Frank Zach Turek) was employed and working when his father just so happened to jump on a FaceTime with his brother and by pure coincidence watch Charlie Kirk get hit and die?”
+
+</details>
+
+- **[Spencer Turek](/entities/person-spencer-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:37:30](/episodes/ep-mLvJqdxS-FY.md#t-00-37-30): “Yeah, he it was my son and daughter in law. I mean, he's 35 years old and I was just I was FaceTiming them because they love Charlie (Charlie Kirk). And I was just the first day I was FaceTiming my wife. And then I said, let me call Spencer (Spencer Turek).”
 
 </details>
 
@@ -1055,7 +1257,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Referenced By (13)</summary>
+<summary>Referenced By (18)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1071,8 +1273,29 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:40:50](/episodes/ep-mLvJqdxS-FY.md#t-00-40-17): “By the way. Well, fun fact, Frank (Frank Turek) and his son, Zach (Frank Zach Turek), Pentagon Zach (Frank Zach Turek), actually wrote a book together entitled Hollywood Heroes, How Your Favorite Superhero Movies Reveal God.”
+
+</details>
+
+- **[Frank Zachary Turek](/entities/person-frank-zachary-turek.md)** child of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:38:24](/episodes/ep-mLvJqdxS-FY.md#t-00-38-10): “Frank (Frank Turek) has two high-ranking sons in the military. The first person has the same name as him. He's Frank Turek. I think he's number four, actually. But he goes by his middle name, Zach (Frank Zach Turek). Frank Zach Turek, Zachary Turek. And do you know where Zach (Frank Zach Turek) was employed and working when his father just so happened to jump on a FaceTime with his brother and by pure coincidence watch Charlie Kirk get hit and die?”
+
+</details>
+
+- **[Spencer Turek](/entities/person-spencer-turek.md)** child of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:37:30](/episodes/ep-mLvJqdxS-FY.md#t-00-37-30): “Yeah, he it was my son and daughter in law. I mean, he's 35 years old and I was just I was FaceTiming them because they love Charlie (Charlie Kirk). And I was just the first day I was FaceTiming my wife. And then I said, let me call Spencer (Spencer Turek).”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:40:58](/episodes/ep-Wjul6YV6izo.md#t-00-40-58): “Frank Turek murder where murder when you see that act of murder and you see it in broad daylight there's probably like a synagogue of Satan hiding behind it and you guys just don't seem interested all in going on this story to figure out who killed Charlie Kirk which is giving us a little bit of intuition that something's amiss”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:40:25](/episodes/ep-ZzAT2xijKGQ.md#t-00-39-58): “I never bought that, that he was just suddenly in need of so much debate help.”
@@ -1082,6 +1305,8 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:17:14](/episodes/ep-sKuYLNx3iRo.md#t-00-17-01): “We then have to ask ourselves: what could account for Frank Turek's—and it has to be a lie according to Brian Harpole; it's a lie—Frank Turek says that he himself, Frank (Frank Turek), tried to start CPR.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:34:51](/episodes/ep-IqHsl7d2dos.md#t-00-34-15): “So I'm inclined to believe Brian Harpole, who I think is a liar too. But Frank (Frank Turek), you're getting caught in too many lies.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:01:45](/episodes/ep-a2bZf4fic10.md#t-00-01-20): “...to separate who are the good guys and who are the bad guys, right? Just because Brian Harpole tells a lie, just because Frank Turek tells a lie, does not mean that every single person at Turning Point USA is implicated, right?”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:48:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-48-30): “Something's not right about Frank Turek's story as well. And he's changed it. He keeps getting caught, and then, 'Oh, I misspoke, and this—I didn't mean that,' and, 'Oh, people are taking me out of context. I said I was on the FaceTime call forever, and now I say I'm not.' It's me versus me. Frank Turek is messy. He is messy.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:35:22](/episodes/ep-N4uM8Jdr410.md#t-00-35-22): “I think your definition of it's not a contradiction is inaccurate. And I don't think it is a contradiction, Frank (Frank Turek).”
 
 </details>
 
@@ -1094,6 +1319,20 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 </details>
 
+- **[Bank of America](/entities/org-bank-of-america.md)** fired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America.”
+
+</details>
+
+- **[Cisco Systems, Inc.](/entities/org-cisco-systems.md)** fired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:25](/episodes/ep-puuMVxEu5NU.md#t-00-07-06): “Frank Turek's ouster tells us this is the Christian Post reporting back in 2011 that he was the Christian consultant and was fired over his book on gay marriage. The article tells us that just months after being fired from Cisco Systems in California over an anti-gay marriage book...”
+
+</details>
+
 - **[U.S. Navy](/entities/org-us-navy.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1102,9 +1341,17 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 - **[United States Navy](/entities/org-united-states-navy.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
+
+</details>
+
+- **[Bank of America](/entities/org-bank-of-america.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:06:56](/episodes/ep-puuMVxEu5NU.md#t-00-06-22): “And it turns out Frank Turek gets to join the crew. For 15 years, he worked as a consultant in New Jersey to Bank of America until 2011.”
 
 </details>
 
@@ -1112,13 +1359,6 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:07:45](/episodes/ep-cPidFQDJLbo.md#t-00-07-31): “Common sense, Victor (Victor Marx). You just said you're friends with Frank Turek, friends with the security guys. You told us elsewhere in the interview that Eileen (Eileen Marx) and Erika (Erika Kirk), they got so close because.”
-
-</details>
-
-- **[United States Air Force](/entities/org-united-states-air-force.md)** has member this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Frank Turk is a naval flight officer, his sons are in the Air Force”
 
 </details>
 
@@ -1164,7 +1404,29 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Frank Turek (26)</strong></summary>
+<summary><strong class="section-title">Statements by Frank Turek (31)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:31:32](/episodes/ep-N4uM8Jdr410.md#t-00-31-32) [✓] (Claim) ["Frank Turek said no CPR was performed during most of the ride to the hospital, b..."](/statements/statement-21f69ed8e965.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:33:06](/episodes/ep-N4uM8Jdr410.md#t-00-32-59) [✓] (Opinion) ["Frank Turek said eyewitnesses disagreeing on minor details is a mark of authenti..."](/statements/statement-09e8e1de11ab.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>
+
+- [00:36:15](/episodes/ep-mLvJqdxS-FY.md#t-00-36-11) [✓] (Claim) ["Frank Turek said he was FaceTiming his son and daughter-in-law when the shot ran..."](/statements/statement-0a2597dea24e.md)
+  - About: [Spencer Turek](/entities/person-spencer-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:00](/episodes/ep-mLvJqdxS-FY.md#t-00-37-46) [✓] (Claim) ["In another interview, Frank Turek said he pulled the phone from his pocket at a ..."](/statements/statement-71116f729650.md)
+  - About: [Spencer Turek](/entities/person-spencer-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
@@ -1289,10 +1551,12 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2)</summary>
 
 - [00:31:42](/episodes/ep-SKGUzGHymcI.md#t-00-31-36) [○] (Claim) ["Charlie Kirk's team had drones up looking at the crowd from above before the Sep..."](/statements/statement-7cc8629a1c72.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:49](/episodes/ep-SKGUzGHymcI.md#t-00-31-36) [✗] (Claim) ["his team has drones up looking at the crowd from above and they text him some vi..."](/statements/statement-13680d2dc612.md)
 
 </details>
 
@@ -1331,7 +1595,65 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Frank Turek (29)</strong></summary>
+<summary><strong class="section-title">Statements about Frank Turek (45)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
+
+- [00:31:32](/episodes/ep-N4uM8Jdr410.md#t-00-31-32) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said no CPR was performed during most of the ride to the h..."](/statements/statement-21f69ed8e965.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:33:06](/episodes/ep-N4uM8Jdr410.md#t-00-32-59) (Opinion) **Frank Turek** (via quoted speech): ["Frank Turek said eyewitnesses disagreeing on minor details is a mark o..."](/statements/statement-09e8e1de11ab.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:35:22](/episodes/ep-N4uM8Jdr410.md#t-00-35-22) (Accusation) **Candace Owens**: ["Candace Owens said she thought either Frank Turek or Brian Harpole lie..."](/statements/statement-000a70eceff7.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:07:25](/episodes/ep-puuMVxEu5NU.md#t-00-07-06) (Citation) **Candace Owens**: ["The Christian Post reported in 2011 that Frank Turek had consulted for..."](/statements/statement-80cf7dd96f6d.md)
+  - Also about: [Bank of America](/entities/org-bank-of-america.md), [The Christian Post](/entities/org-christian-post.md)
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (7)</summary>
+
+- [00:32:39](/episodes/ep-mLvJqdxS-FY.md#t-00-32-32) (Claim) **Anonymous Source #3 (Ep mLvJqdxS-FY)** (via read message): ["An anonymous husband wrote that his wife had become deeply influenced ..."](/statements/statement-19a45e4545b8.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+- [00:33:17](/episodes/ep-mLvJqdxS-FY.md#t-00-33-11) (Opinion) **Anonymous Source #3 (Ep mLvJqdxS-FY)** (via read message): ["An anonymous husband wrote that he had not seen credible evidence supp..."](/statements/statement-d69519746402.md)
+
+- [00:33:25](/episodes/ep-mLvJqdxS-FY.md#t-00-33-11) (Claim) **Anonymous Source #3 (Ep mLvJqdxS-FY)** (via read message): ["An anonymous husband wrote that these beliefs had become central to co..."](/statements/statement-730c3c3c335b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:34:59](/episodes/ep-mLvJqdxS-FY.md#t-00-34-46) (Accusation) **Candace Owens**: ["Candace Owens accused Frank Turek of being a Christian fraud who sells..."](/statements/statement-d99c85888400.md)
+  - Also about: [Christianity](/entities/concept-christianity.md)
+
+- [00:35:12](/episodes/ep-mLvJqdxS-FY.md#t-00-34-46) (Accusation) **Candace Owens**: ["Candace Owens accused Frank Turek of being part of a movement of Chris..."](/statements/statement-b0b87f5b3c45.md)
+  - Also about: [Christians](/entities/concept-christians.md), [Evangelicalism](/entities/concept-evangelicalism.md)
+
+- [00:39:34](/episodes/ep-mLvJqdxS-FY.md#t-00-39-34) (Accusation) **Candace Owens**: ["Candace Owens said Frank Turek did not call 9-1-1 or phone his son who..."](/statements/statement-3d239c57d76e.md)
+  - Also about: [Frank Zachary Turek](/entities/person-frank-zachary-turek.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:40:50](/episodes/ep-mLvJqdxS-FY.md#t-00-40-17) (Citation) **Candace Owens**: ["Candace Owens said Frank Turek and Frank Zach Turek coauthored a book ..."](/statements/statement-c863ec16f769.md)
+  - Also about: [Frank Zachary Turek](/entities/person-frank-zachary-turek.md), [Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>
+
+- [00:12:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-12-22) (Claim) **Candace Owens**: ["Owens said one SUV carried Kirk, Michael McCoy, Frank Turek, and John ..."](/statements/statement-b5f0b663ee97.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Michael McCoy](/entities/person-michael-mccoy.md), [John McGovern](/entities/person-john-mcgovern.md)
+
+- [00:48:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-48-30) (Accusation) **Candace Owens**: ["Owens accused Frank Turek of repeatedly changing his account of the Fa..."](/statements/statement-23ef82d234fd.md)
+  - Also about: [FaceTime](/entities/work-facetime.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3)</summary>
@@ -1470,9 +1792,13 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4)</summary>
+
+- [00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48) (Claim) **Candace Owens**: ["Frank Turek is a former officer in the U.S. Navy who then turned to Ch..."](/statements/statement-b6216f79695e.md)
 
 - [00:23:16](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48) (Claim) **Candace Owens**: ["Frank Turek is a former officer in the U.S. Navy"](/statements/statement-62959259a65e.md)
+
+- [00:23:36](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32) (Claim) **Candace Owens**: ["Frank Turek has two sons that are in the military—fly planes—as well a..."](/statements/statement-07bca37cf243.md)
 
 - [00:50:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-50-25) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek was afraid someone would take a shot at Charlie Kirk and t..."](/statements/statement-d186552519d5.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1483,6 +1809,14 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1)</summary>
 
 - [00:56:51](/episodes/ep-c5BcKF91iec.md#t-00-56-33) (Opinion) **Candace Owens**: ["Frank Turek was the only person acting correctly by getting down to th..."](/statements/statement-fd3b0f780132.md)
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1)</summary>
+
+- [01:03:02](/episodes/ep-5autG89PW6w.md#t-01-02-32) (Claim) **Candace Owens**: ["Frank Turek shared on his podcast that Charlie Kirk told him before hi..."](/statements/statement-98610d7ed626.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

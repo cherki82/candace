@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:09:09](/episodes/ep-JQjCAsfoXEE.md#t-00-08-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(549);return false;">Play</a>
 
-> they cleared over 0 million in the first couple of weeks after Charlie (Charlie Kirk) was assassinated.
+> Thank you guys for all the support throughout these couple of weeks, these last really kind of six weeks since Charlie (Charlie Kirk) died.
 
 ## Verification
 

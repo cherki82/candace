@@ -1,6 +1,6 @@
 ---
 title: "Courtney Love"
-description: "Courtney Love (People) - 10 mentions"
+description: "Courtney Love (People) - 11 mentions"
 id: "person-courtney-love"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Courtney Love - Apple Music](https://music.apple.com/us/artist/courtney
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-12-06">2025-11-15 · 00:12:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-courtney-love-t-00-44-12">2026-05-05 · 00:44:24</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-courtney-love-t-00-26-10">2026-07-20 · 00:26:30</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>8</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [Courtney Love - Apple Music](https://music.apple.com/us/artist/courtney
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-12-06" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 9 mentions" title="2025-11-15 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-courtney-love-t-00-44-12" style="--pulse-height:11%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-courtney-love-t-00-26-10" style="--pulse-height:11%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Courtney Love - Apple Music](https://music.apple.com/us/artist/courtney
 |---|---|---:|
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-12-06) | 9 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-courtney-love-t-00-44-12) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-courtney-love-t-00-26-10) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Courtney Love - Apple Music](https://music.apple.com/us/artist/courtney
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:26:30](/episodes/ep-N4uM8Jdr410.md#ent-person-courtney-love-t-00-26-10)**
+> "Because a while ago, I told you guys that I had connected with Courtney Love and I'm talking a long time ago, back when Charlie (Charlie Kirk) was alive."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
@@ -102,12 +112,17 @@ _No relationships extracted yet._
 <summary><strong class="section-title">Statements by Courtney Love (8)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
 
-- [00:21:27](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) [○] (Claim) ["Courtney Love was experimented on as a toddler at the Haight-Ashbury Clinic, whe..."](/statements/statement-698fdea4ccc4.md)
-  - About: [Courtney Love](/entities/person-courtney-love.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [MKUltra](/entities/concept-mkultra.md)
+- [00:26:36](/episodes/ep-N4uM8Jdr410.md#t-00-26-10) [○] (Opinion) ["Courtney Love described a 'Mormon mafia' as an extension of a 'Zionist mafia,' a..."](/statements/statement-483cd75f93c0.md)
+  - About: [Mormonism](/entities/concept-mormonism.md), [Zionism](/entities/concept-zionism.md)
 
-- [00:22:07](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) [○] (Claim) ["I was experimented on as a toddler at the Haight-Ashbury Clinic and was given LS..."](/statements/statement-f9b8da2dde17.md)
+</details>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (7)</summary>
+
+- [00:22:07](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) [◐] (Claim) ["I was experimented on as a toddler at the Haight-Ashbury Clinic and was given LS..."](/statements/statement-f9b8da2dde17.md)
   - About: [Courtney Love](/entities/person-courtney-love.md)
 
 - [00:22:14](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) [○] (Claim) ["I did not kill Kurt Cobain. That was part of a psychological operation to make t..."](/statements/statement-0e0f62640500.md)
@@ -138,10 +153,10 @@ _No relationships extracted yet._
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5)</summary>
 
-- [00:12:38](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
-  - Also about: [Lou Taylor](/entities/person-lou-taylor.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)
+- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
+  - Also about: [Lindsay Lohan](/entities/person-lindsay-lohan.md), [Lou Taylor](/entities/person-lou-taylor.md)
 
-- [00:21:27](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) (Claim) **Courtney Love** (via read message): ["Courtney Love was experimented on as a toddler at the Haight-Ashbury C..."](/statements/statement-698fdea4ccc4.md)
+- [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) (Claim) **Candace Owens**: ["The CIA intentionally dosed people in Haight-Ashbury with LSD to study..."](/statements/statement-698fdea4ccc4.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [MKUltra](/entities/concept-mkultra.md)
 
 - [00:22:07](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) (Claim) **Courtney Love** (via read message): ["I was experimented on as a toddler at the Haight-Ashbury Clinic and wa..."](/statements/statement-f9b8da2dde17.md)

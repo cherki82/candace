@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 330 mentions"
+description: "Zionism (Concepts) - 333 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -28,11 +28,11 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-zionism-t-00-06-13">2026-07-14 · 00:06:42</a></strong></div>
-<div><span>Episodes</span><strong>73</strong></div>
-<div><span>Mentions</span><strong>330</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-zionism-t-00-26-10">2026-07-20 · 00:26:42</a></strong></div>
+<div><span>Episodes</span><strong>75</strong></div>
+<div><span>Mentions</span><strong>333</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -114,6 +114,8 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-zionism-t-00-39-21" style="--pulse-height:29%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-zionism-t-00-43-13" style="--pulse-height:21%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-zionism-t-00-06-13" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-zionism-t-00-44-11" style="--pulse-height:14%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-zionism-t-00-26-10" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -192,6 +194,8 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-zionism-t-00-39-21) | 4 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-zionism-t-00-43-13) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-zionism-t-00-06-13) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-zionism-t-00-44-11) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-zionism-t-00-26-10) | 1 |
 
 </details>
 </section>
@@ -199,7 +203,15 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (330)</strong></summary>
+<summary><strong class="section-title">Raw mentions (333)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:26:42](/episodes/ep-N4uM8Jdr410.md#ent-concept-zionism-t-00-26-10)**
+> "She kept saying it is an extension of the Zionist mafia, the Mormon mafia. I truly at this time just could not process that information."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
@@ -209,6 +221,17 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 **[00:06:42](/episodes/ep-EtLHqDbxqks.md#ent-concept-zionism-t-00-06-13)**
 > "Among Zionists, there is an increased sense. of the whelming hap..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:44:17](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-zionism-t-00-44-11)**
+> "With the Zionists who were peer pressuring him and growing increasi..."
+
+**[00:49:39](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-zionism-t-00-49-39)**
+> "They betrayed his legacy to Zionists, lied about the Iran war views, abandoned Massie ..."
 
 </details>
 
@@ -1170,7 +1193,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > "...e obviously just tweets a verse, trying to make it seem like—again, this is what they do. Christian Zionists—they will find a verse to be petty and like use Scripture to justify who they really—they just want..."
 
 **[00:35:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-35-35)**
-> "...w what happened to Charlie (Charlie Kirk) Kirk, okay? And why I feel like you and so many Christian Zionists just kind of wanted to turn him into a ghost—like, you know, Charlie (Charlie Kirk) the friendly gh..."
+> "And why I feel like you and so many Christian Zionists just kind of wanted to turn him into a ghost—like, you know, Charlie (Charlie Kirk) the friendly ghost—and are not interested at all."
 
 **[00:42:53](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-zionism-t-00-42-16)**
 > "...t delusional. What are you saying? Something is happening. I'm telling you guys—this is like a full Zionist crash-out since Charlie (Charlie Kirk) died. And I just feel like they sent a very real threat to t..."
@@ -1379,34 +1402,34 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (10 mentions)</summary>
 
 **[00:00:32](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-00-00)**
-> "...hy they were there. Candace Owens: This is huge. Candace Owens: Okay. Candace Owens: In other news, Zionists are going crazy like they are every day. Candace Owens: They really Candace Owens: do not want us i..."
+> "In other news, Zionists are going crazy like they are every day."
 
 **[00:11:19](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-11-19)**
-> "...ory—that there was actually a third plane, which I found to be quite odd. I reported on it, and the Zionists immediately seemed to me too panicked, right? They issued what I describe as a false debunking rega..."
+> "I reported on it, and the Zionists immediately seemed to me"
 
 **[00:29:10](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-28-43)**
-> "... or not. I most certainly do not. You've got to admit that the public representatives of Israel—the Zionists that have platforms—are insane. I'm talking clinically insane—need to be shipped off to rehab for a..."
+> "...representatives of Israel—the Zionists that have platforms—are insane."
 
 **[00:38:07](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-38-07)**
-> "...Tucker Carlson) essentially calling Charlie (Charlie Kirk) a heretic by saying that anybody who's a Christian Zionist is a heretic. I mean, that was Charlie (Charlie Kirk), was it not?" Okay, but I mean—I think obviou..."
+> "...y saying that anybody who's a Christian Zionist is a heretic."
 
 **[00:39:12](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-39-12)**
-> "...ying he was left with no choice but to leave the pro-Israel cause, which would mean he didn't die a Christian Zionist, right? Common sense: Charlie (Charlie Kirk) in his own words. And Seth Dillon, you're aware of thi..."
+> "...ch would mean he didn't die a Christian Zionist, right?"
 
 **[00:39:46](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-39-12)**
-> "...etanyahu) and Yahoo. He was hosting people to have that discussion. But, you know— I guess for some Zionists, you would say it was almost fortunate that Charlie (Charlie Kirk) is no longer here to take that l..."
+> "I guess for some Zionists, you would say it was almost fortunate that Charl..."
 
 **[00:40:07](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-39-54)**
-> "...nd then try to tell you that they're the victim because they're spending tons of money on Christian Zionists. And yes, it is absolutely a heresy to get up on stage and to lie about what is in the Bible—to try..."
+> "...ng tons of money on Christian Zionists."
 
 **[00:42:40](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-42-28)**
-> "...eatening to engulf the entire American right. They just can't stop, man. They just cannot curb that Zionism. They can't do it. We'll see. We'll keep notations on these individuals. Anyways, I wanted to read ..."
+> "They just cannot curb that Zionism."
 
 **[00:59:11](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-58-38)**
-> "...n see how much the truth impacts them. They're completely coming undone—particularly speaking about Zionists right there. Zamit writes: "Candace (Candace Owens), a tipping point in the USA." Yeah, for sure. A..."
+> "...e—particularly speaking about Zionists right there."
 
 **[01:00:15](/episodes/ep-iHav0PPzUz8.md#ent-concept-zionism-t-00-59-56)**
-> "...ing behind the scenes. The if-you-don't-do-this-then-that. This is what they do: financial threats. Zionists love financial threats. They love to force you out of the market and then to pretend that their suc..."
+> "Zionists love financial threats."
 
 </details>
 
@@ -1442,10 +1465,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
 
 **[00:34:39](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-34-06)**
-> "...a listen. How Charlie Kirk was actually feeling about the pressure he was receiving from pro-Israel Zionist donors to Turning Point USA. Charlie definitely was not someone who liked to be bullied by donors, ..."
+> "...was receiving from pro-Israel Zionist donors to Turning Point USA."
 
 **[00:35:38](/episodes/ep-c5BcKF91iec.md#ent-concept-zionism-t-00-35-33)**
-> "...rs. We'll see what happens. Well done, Josh. Well done. Very good, Josh. Try your best to curb your Zionism. I know it's hard, but do your best. Too funny. Also, I wanna shout out John Miller on X. He made m..."
+> "Try your best to curb your Zionism."
 
 </details>
 
@@ -1588,7 +1611,15 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Zionism (30)</strong></summary>
+<summary><strong class="section-title">Statements about Zionism (31)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:26:36](/episodes/ep-N4uM8Jdr410.md#t-00-26-10) (Opinion) **Courtney Love** (via read message): ["Courtney Love described a 'Mormon mafia' as an extension of a 'Zionist..."](/statements/statement-483cd75f93c0.md)
+  - Also about: [Mormonism](/entities/concept-mormonism.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

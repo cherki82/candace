@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:44:14](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2654);return false;">Play</a>
 
-> Charlie Kirk didn't hate Jews. He loved Jews. He had tons of friends who were Jews. He loved the state of Israel. He loved going there. He did. He felt that Benjamin Netanyahu was a very destructive force. He was appalled by what was happening in Gaza.
+> Charlie (Charlie Kirk) didn't hate Jews. He loved Jews. He had tons of friends who were Jews. He loved the state of Israel. He loved going there. He did. He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force. He was appalled by what was happening in Gaza.
 
 ## Verification
 

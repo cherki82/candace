@@ -1,14 +1,14 @@
 ---
 id: "1mYNOqzAdXs"
 title: "Secret Service Admits \"There Was No Threat\". ATF Releases Report. | Candace Ep 326"
-description: "Secret Service Admits \"There Was No Threat\". ATF Releases Report. | Candace Ep 326 - 93 entities, 13 events, 0 claims"
+description: "Secret Service Admits \"There Was No Threat\". ATF Releases Report. | Candace Ep 326 - 93 entities, 13 events, 17 factual claims"
 published: "2026-04-16"
 youtube_url: "https://www.youtube.com/watch?v=1mYNOqzAdXs"
 ---
 
 **Published:** 2026-04-16 | [Watch on YouTube](https://www.youtube.com/watch?v=1mYNOqzAdXs)
 
-**Stats:** 93 entities | 13 events | 0 claims
+**Stats:** 93 entities | 13 events | 17 factual claims
 
 ---
 

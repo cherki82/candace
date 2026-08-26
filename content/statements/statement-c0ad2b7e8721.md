@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:04:37](/episodes/ep-QZWSsq8ZWzw.md#t-00-04-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(277);return false;">Play</a>
 
-> the feds also don't even have any footage that explains how exactly the rifle in particular got onto the roof
+> Also, according to the individual that told me this, regarding the feds trying to push for this case closure, they also—the feds—don't even have any footage that explains how exactly the rifle in particular got onto the roof.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Nebraska"
-description: "Nebraska (Places) - 35 mentions"
+description: "Nebraska (Places) - 37 mentions"
 id: "gpe-nebraska"
 type: "GPE"
 aliases:
@@ -21,11 +21,11 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27">2025-10-31 · 00:20:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-nebraska-t-00-44-42">2026-06-26 · 00:45:09</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14">2026-07-20 · 00:46:41</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-nebraska-t-00-04-48" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-nebraska-t-00-31-55" style="--pulse-height:13%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-nebraska-t-00-44-42" style="--pulse-height:13%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14" style="--pulse-height:13%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-nebraska-t-00-04-48) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-nebraska-t-00-31-55) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-nebraska-t-00-44-42) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14) | 2 |
 
 </details>
 </section>
@@ -66,7 +68,18 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:46:14](/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14)**
+> "A widely debated conspiracy theory. Omaha, Nebraska, one of our Egyptian plane stops, the scandal involving a $40 million financial fraud, claims of abuse by high-ranking politicians and satanic ritual abuse."
+
+**[00:46:41](/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14)**
+> "... mistake, if I say not Omaha, Nebraska, but I say Omaha, Idaho, and they come out and th..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -143,11 +156,11 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 **[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-11-30)**
 > "...eparting from Lincoln, Nebraska, in particular. And this six-day stretch of what they were doing in Nebraska actually might offer us a clue because during this stretch, on July 22nd, the Nebraska Secretary of..."
 
-**[00:12:13](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-12-13)**
-> "...na let you listen to—I think we have a news clip that will show you that that happened. (News clip) Nebraska Secretary of State Bob Evnen is inviting business and industry leaders to take part in a trade miss..."
-
 **[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-12-57)**
 > "...et with, because I feel like that idea might be related to our planes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this..."
+
+**[00:12:13](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-12-13)**
+> "(News clip) Nebraska Secretary of State Bob Evnen is inviting business and industry leaders to take part in a trade mission, investment mission to Egypt later this year."
 
 </details>
 
@@ -233,13 +246,32 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nebraska (1)</strong></summary>
+<summary><strong class="section-title">Statements about Nebraska (4)</strong></summary>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
 - [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-05-01) (Citation) **Candace Owens**: ["Nebraska's Cattlemen's Ball became a separate 501(c)(3) that benefits ..."](/statements/statement-baf97d67738e.md)
   - Also about: [Cattlemen's Ball of Nebraska](/entities/org-cattlemens-ball-of-nebraska.md), [Fred & Pamela Buffett Cancer Center](/entities/org-fred-pamela-buffett-cancer-center.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2)</summary>
+
+- [00:11:04](/episodes/ep-mKXdKV-OBog.md#t-00-10-47) (Claim) **Candace Owens**: ["SUBTT came from Cairo through Paris to Omaha, Nebraska on July 20th, s..."](/statements/statement-fccf29b8380b.md)
+  - Also about: [Cairo](/entities/gpe-cairo.md), [France](/entities/gpe-france.md)
+
+- [00:11:30](/episodes/ep-mKXdKV-OBog.md#t-00-11-30) (Claim) **Candace Owens**: ["On July 22nd, the Nebraska Secretary of State, Bob Evnen, announced a ..."](/statements/statement-995235be72b7.md)
+  - Also about: [Egypt](/entities/gpe-egypt.md), [Bob Evnen](/entities/person-bob-evnen.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:17:22](/episodes/ep-JQjCAsfoXEE.md#t-00-16-57) (Claim) **Candace Owens**: ["The flights were majority clustered within five states: Kansas, Missou..."](/statements/statement-e1f4318d83fd.md)
+  - Also about: [Delaware](/entities/gpe-delaware.md), [Kansas](/entities/gpe-kansas.md), [Missouri](/entities/gpe-missouri.md)
 
 </details>
 

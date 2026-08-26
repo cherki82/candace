@@ -11,10 +11,20 @@ date: "2025-09-10"
 
 > Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
 
 **Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
 **Timestamp:** [00:06:48](/episodes/ep-a2bZf4fic10.md#event-event-2025-09-10-charlie-kirk-gave-an-interview-at-the-re-t-00-06-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(408);return false;">▶️ Play</a>
 
 > He went to Salt Lake City and he gave an interview to Restaurantology
+
+### 2. Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean Abo...
+
+**Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
+**Timestamp:** [00:11:57](/episodes/ep-X3VKJVJ7cN4.md#event-event-2025-09-10-charlie-kirk-gave-an-interview-at-the-re-t-00-11-36) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(717);return false;">▶️ Play</a>
+
+> He does this restaurant event. His last interview with a guy named Andrew Smith.

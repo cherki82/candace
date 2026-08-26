@@ -1,16 +1,17 @@
 ---
-title: "John Lewis, president of The Daily Wire, was a naval intelli..."
-description: "\"John Lewis, president of The Daily Wire, was a naval intelligence officer who decided to become a pastor\" — Candace Owens"
+title: "Jon Lewis, then president of The Daily Wire, was a naval int..."
+description: "\"Jon Lewis, then president of The Daily Wire, was a naval intelligence officer who decided to become a pastor.\" — Candace Owens"
 statement_id: "statement-018dc0f5ff80"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
-> John Lewis, president of The Daily Wire, was a naval intelligence officer who decided to become a pastor
+> Jon Lewis, then president of The Daily Wire, was a naval intelligence officer who decided to become a pastor.
 
 ## Attribution
 
@@ -20,8 +21,8 @@ type: "factual_claim"
 
 ## About
 
-- [John Lewis](/entities/person-john-lewis-daily-wire.md) (person)
 - [The Daily Wire](/entities/org-the-daily-wire.md) (org)
+- [John Lewis](/entities/person-john-lewis-daily-wire.md) (person)
 
 ## Source
 
@@ -29,11 +30,25 @@ type: "factual_claim"
 **Timestamp:** [00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1524);return false;">Play</a>
 
-> I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. That was John Lewis.
+> I then went to—obviously—the Daily Wire, and the president at the time of the Daily Wire was also a naval intelligence officer who decided to become a pastor. ... That was Jon Lewis.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Rechecked under the statement verification rules. Hillsdale College identifies Jon Lewis as a veteran Marine Sergeant, and reporting describing his intelligence role places it in the U.S. Marine Corps. That contradicts the claim that he was a naval intelligence officer: the documented rank was enlisted Sergeant and the branch was the Marine Corps, not the Navy. His religion degree does not establish that he became a pastor, and no reliable source found supports that part. The legacy false determination is preserved in provenance; this current result adds direct supporting sources.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Hillsdale College Freedom Scholarship press release](https://www.hillsdale.edu/wp-content/uploads/2016/10/PR-Freedom-Scholarship-October-10-2016.pdf)
+- [Jordan Peterson's message to Muslims is about Israel](https://www.newarab.com/opinion/jordan-petersons-message-muslims-about-israel)
+
+*Verified: 2026-08-26T10:02:05.790629*
 
 ---
 

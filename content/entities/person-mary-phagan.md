@@ -26,7 +26,7 @@ Source: [Digital Library of Georgia: Mary Phagan](https://dlg.usg.edu/record/nge
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -119,13 +119,21 @@ Source: [Digital Library of Georgia: Mary Phagan](https://dlg.usg.edu/record/nge
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mary Phagan (1)</strong></summary>
+<summary><strong class="section-title">Statements about Mary Phagan (2)</strong></summary>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
 - [00:08:34](/episodes/ep-CEF7gQRWYCE.md#t-00-08-34) (Claim) **Candace Owens**: ["B'nai B'rith became the Anti-Defamation League after the murder of Mar..."](/statements/statement-76afdd622864.md)
   - Also about: [B'nai B'rith International](/entities/org-bnai-brith-international.md), [Anti-Defamation League](/entities/org-anti-defamation-league.md)
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1)</summary>
+
+- [00:03:44](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31) (Claim) **Candace Owens**: ["Mary Phagan was a 13-year-old girl who worked at his pencil factory."](/statements/statement-4ee1e93104bb.md)
+  - Also about: [Leo Frank](/entities/person-leo-frank.md)
 
 </details>
 

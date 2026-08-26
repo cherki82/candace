@@ -24,7 +24,7 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -144,7 +144,7 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:37:20](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-phoenix-t-00-36-54)**
-> "...A orchestrated the October 15th, 2025 assassination of its founder, Charlie (Charlie Kirk) Kirk, in Phoenix, Arizona, by former volunteer Marcus Hale, who police say acted alone with no evidence." Ben Shapir..."
+> "And then it says, "Candace (Candace Owens) alleged Turning Point USA orchestrated the October 15th, 2025 assassination of its founder, Charlie (Charlie Kirk), in Phoenix, Arizona, by former volunteer Marcus Hale,"
 
 </details>
 
@@ -248,13 +248,21 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Phoenix (1)</strong></summary>
+<summary><strong class="section-title">Statements about Phoenix (2)</strong></summary>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
 
 - [00:27:52](/episodes/ep-G3zdOeHpvS0.md#t-00-27-52) (Claim) **Terryl Farnsworth** (via quoted speech): ["Taryl Farnsworth told Owens that Charlie Kirk's event was livestreamed..."](/statements/statement-df7199143c56.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
+
+- [00:01:54](/episodes/ep-ZAuuSq_j2_w.md#t-00-01-28) (Claim) **Candace Owens**: ["Turning Point USA refused to allow Candace Owens to participate virtua..."](/statements/statement-9209d1155ef3.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

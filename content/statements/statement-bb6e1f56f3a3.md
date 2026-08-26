@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:51:30](/episodes/ep-iHav0PPzUz8.md#t-00-51-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3090);return false;">Play</a>
 
-> Americans collectively owe over  trillion in credit card debt.
+> Americans collectively owe over $1 trillion in credit card debt.
 
 ## Verification
 

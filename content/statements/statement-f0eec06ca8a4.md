@@ -21,17 +21,27 @@ type: "accusation"
 
 ## About
 
-- [FBI](/entities/org-fbi.md) (org)
-- [Utah](/entities/gpe-utah.md) (gpe)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
+- [Utah](/entities/gpe-utah.md) (gpe)
+- [FBI](/entities/org-fbi.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:01:35](/episodes/ep-QZWSsq8ZWzw.md#t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(95);return false;">Play</a>
 
 > I have it now on a very well-placed, authoritative source that the FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is closed.
+
+### 2. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
+
+**Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+**Timestamp:** [00:01:35](/episodes/ep-QZWSsq8ZWzw.md#t-00-01-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(95);return false;">Play</a>
+
+> Well, I have it now on a very well-placed, authoritative source that the FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is closed.
 
 ## Verification
 

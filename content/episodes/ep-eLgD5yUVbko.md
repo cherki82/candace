@@ -1,14 +1,14 @@
 ---
 id: "eLgD5yUVbko"
 title: "Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323"
-description: "Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 - 108 entities, 25 events, 0 claims"
+description: "Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 - 108 entities, 25 events, 10 factual claims"
 published: "2026-04-13"
 youtube_url: "https://www.youtube.com/watch?v=eLgD5yUVbko"
 ---
 
 **Published:** 2026-04-13 | [Watch on YouTube](https://www.youtube.com/watch?v=eLgD5yUVbko)
 
-**Stats:** 108 entities | 25 events | 0 claims
+**Stats:** 108 entities | 25 events | 10 factual claims
 
 ---
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:03:00](/episodes/ep-K5GjF53bfN4.md#t-00-02-40) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(180);return false;">Play</a>
 
-> Bill Ackman replies with an essay. A college essay, 959 words to be precise, was his response to me speaking about that, where he himself did not actually address my point about the quote-unquote intervention
+> And Bill Ackman replies with an essay. A college essay, 959 words to be precise, was his response to me speaking about that, where he himself did not actually address my point about the quote-unquote "intervention," which is how Charlie (Charlie Kirk) described it himself.
 
 ## Verification
 

@@ -21,7 +21,7 @@ Source: [Jeff Long | Utah Valley University](https://www.uvu.edu/directory/emplo
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -106,13 +106,16 @@ Source: [Jeff Long | Utah Valley University](https://www.uvu.edu/directory/emplo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeff Long (2)</strong></summary>
+<summary><strong class="section-title">Statements about Jeff Long (3)</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3)</summary>
 
-- [00:32:48](/episodes/ep-581dILVcEE4.md#t-00-32-34) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop securit..."](/statements/statement-b5072332fbfd.md)
+- [00:26:01](/episodes/ep-581dILVcEE4.md#t-00-25-49) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop securit..."](/statements/statement-b5072332fbfd.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:28:12](/episodes/ep-581dILVcEE4.md#t-00-27-47) (Claim) **Candace Owens**: ["Jeff Long, UVU police chief, has an extensive military career"](/statements/statement-7f80d04cee3c.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
 
 - [00:36:24](/episodes/ep-581dILVcEE4.md#t-00-36-17) (Claim) **Candace Owens**: ["Jeff Long, the UVU police chief, has a very extensive military career"](/statements/statement-f6997066a6ce.md)
 

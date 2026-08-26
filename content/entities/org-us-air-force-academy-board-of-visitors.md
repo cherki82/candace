@@ -1,6 +1,6 @@
 ---
 title: "U.S. Air Force Academy Board of Visitors"
-description: "U.S. Air Force Academy Board of Visitors (Organizations) - 4 mentions"
+description: "U.S. Air Force Academy Board of Visitors (Organizations) - 5 mentions"
 id: "org-us-air-force-academy-board-of-visitors"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-air-force-academy-board-of-visitors-t-00-06-08">2026-05-14 · 00:06:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-air-force-academy-board-of-visitors-t-00-42-46">2026-06-26 · 00:42:46</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-us-air-force-academy-board-of-visitors-t-00-49-36">2026-07-16 · 00:49:55</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,7 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-air-force-academy-board-of-visitors-t-00-06-08" style="--pulse-height:100%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-us-air-force-academy-board-of-visitors-t-00-18-49" style="--pulse-height:50%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-air-force-academy-board-of-visitors-t-00-42-46" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-us-air-force-academy-board-of-visitors-t-00-49-36" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-air-force-academy-board-of-visitors-t-00-06-08) | 2 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-us-air-force-academy-board-of-visitors-t-00-18-49) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-us-air-force-academy-board-of-visitors-t-00-42-46) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-us-air-force-academy-board-of-visitors-t-00-49-36) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:49:55](/episodes/ep-puuMVxEu5NU.md#ent-org-us-air-force-academy-board-of-visitors-t-00-49-36)**
+> "appointments to the Air Force Board"
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>

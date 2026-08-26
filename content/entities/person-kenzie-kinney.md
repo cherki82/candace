@@ -60,7 +60,7 @@ _Type: People_
 - **[Potter's Fields Ministries](/entities/org-potters-fields-ministries.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:35](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “one of those students wound up blowing the whistle on what she alleges was intentional financial fraud. That student's name was Kenzie Kinney”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:25:40](/episodes/ep-yAIb-NuUh_U.md#t-00-25-16): “That student's—then student's—name was Kenzie Kinney, okay? ... She handled Potter's Fields finances.”
 
 </details>
 
@@ -72,7 +72,7 @@ _Type: People_
 - **[Potter's Fields Ministries](/entities/org-potters-fields-ministries.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:35](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “one of those students wound up blowing the whistle on what she alleges was intentional financial fraud. That student's name was Kenzie Kinney”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:25:40](/episodes/ep-yAIb-NuUh_U.md#t-00-25-16): “That student's—then student's—name was Kenzie Kinney, okay? ... She handled Potter's Fields finances.”
 
 </details>
 

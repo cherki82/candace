@@ -1,14 +1,14 @@
 ---
 id: "_dRaEO47-co"
 title: "To My Friend, Charlie Kirk."
-description: "To My Friend, Charlie Kirk. - 44 entities, 7 events, 0 claims"
+description: "To My Friend, Charlie Kirk. - 44 entities, 7 events, 33 factual claims"
 published: "2025-09-11"
 youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 ---
 
 **Published:** 2025-09-11 | [Watch on YouTube](https://www.youtube.com/watch?v=_dRaEO47-co)
 
-**Stats:** 44 entities | 7 events | 0 claims
+**Stats:** 44 entities | 7 events | 33 factual claims
 
 ---
 
@@ -130,31 +130,57 @@ youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 </details>
 
 <details>
-<summary><strong>Statements (12)</strong></summary>
+<summary><strong>Statements (38)</strong></summary>
 
+- [00:00:19](#t-00-00-01) [○] (Opinion) **Candace Owens**: ["Candace Owens did not want the moment of Charlie Kirk’s death to be the last ima..."](/statements/statement-fafcaf77c103.md)
+- [00:00:54](#t-00-00-37) [○] (Claim) **Candace Owens**: ["started Turning Point USA"](/statements/statement-a023072c94c0.md)
+- [00:01:20](#t-00-00-37) [○] (Claim) **Candace Owens**: ["I met him back in 2017, when Turning Point was this very young organization."](/statements/statement-2aaf63a7f2f0.md)
+- [00:01:20](#t-00-01-20) [✓] (Claim) **Candace Owens**: ["Candace Owens said she met Charlie Kirk in 2017, when Turning Point USA was stil..."](/statements/statement-09715d9597ad.md)
 - [00:01:24](#t-00-01-20) [○] (Claim) **Candace Owens**: ["Candace Owens met Charlie Kirk in 2017 at a conference in Florida where he hired..."](/statements/statement-44545758c2ec.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:01:45](#t-00-01-20) [○] (Claim) **Candace Owens**: ["Charlie Kirk hired Candace Owens on the spot at a conference in Florida"](/statements/statement-f3cf4cba29a5.md)
+- [00:01:46](#t-00-01-20) [○] (Claim) **Candace Owens**: ["He hired me on the spot. We were at this conference in Florida."](/statements/statement-1609487623c1.md)
+- [00:02:03](#t-00-02-03) [○] (Claim) **Candace Owens**: ["Charlie Kirk's first planning session with Candace Owens was at the Macaroni Gri..."](/statements/statement-b317204c5312.md)
+- [00:02:09](#t-00-02-03) [✓] (Claim) **Candace Owens**: ["Candace Owens recalled that, at age 23, Charlie Kirk envisioned Turning Point US..."](/statements/statement-974a571b6dfa.md)
+- [00:02:38](#t-00-02-03) [○] (Claim) **Candace Owens**: ["what he had envisioned was for Turning Point USA to become the biggest conservat..."](/statements/statement-0b3a01b40f30.md)
+- [00:02:47](#t-00-02-03) [○] (Claim) **Candace Owens**: ["he's sitting there talking to me: “But here's what we can do in the future, and ..."](/statements/statement-3bca396b8f88.md)
 - [00:02:47](#t-00-02-47) [○] (Claim) **Candace Owens**: ["Charlie Kirk's goal was for Turning Point USA to become the biggest conservative..."](/statements/statement-92127df532fd.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:02:59](#t-00-02-47) [○] (Claim) **Candace Owens**: ["he's 23 years old, right? And he's talking, speaking to me about how he's going ..."](/statements/statement-9de213207a10.md)
 - [00:02:59](#t-00-02-47) [○] (Claim) **Candace Owens**: ["Charlie Kirk told Candace he planned to take control of the RNC"](/statements/statement-7e533c557055.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RNC](/entities/org-rnc.md)
+- [00:03:05](#t-00-02-47) [○] (Claim) **Candace Owens**: ["The person that he adored the most... was Rush Limbaugh."](/statements/statement-2706e9bc081d.md)
+- [00:03:05](#t-00-02-47) [✓] (Claim) **Candace Owens**: ["Candace Owens recalled that Rush Limbaugh was the person Charlie Kirk adored mos..."](/statements/statement-d31b6fab9f82.md)
 - [00:03:14](#t-00-02-47) [○] (Claim) **Candace Owens**: ["Rush Limbaugh was Charlie Kirk's greatest influence - he was raised listening to..."](/statements/statement-8d2a086a4d0d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rush Limbaugh](/entities/person-rush-limbaugh.md)
+- [00:03:14](#t-00-02-47) [○] (Claim) **Candace Owens**: ["Charlie Kirk was raised on Rush Limbaugh and his ultimate goal was to have a sho..."](/statements/statement-6be7042ad9be.md)
+- [00:03:26](#t-00-02-47) [○] (Claim) **Candace Owens**: ["if he could have a show like Rush Limbaugh one day, he would be very happy. That..."](/statements/statement-c49d9a921f6f.md)
+- [00:03:29](#t-00-02-47) [✓] (Claim) **Candace Owens**: ["Candace Owens recalled that Charlie Kirk’s rule was never to decline Fox News, e..."](/statements/statement-b4becee7e201.md)
 - [00:03:34](#t-00-03-31) [○] (Claim) **Candace Owens**: ["Charlie Kirk's rule was to never say no to Fox News, even if the show was at 4am"](/statements/statement-76b35ead8839.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Fox News](/entities/org-fox-news.md)
+- [00:05:36](#t-00-04-56) [○] (Claim) **Candace Owens**: ["He called it the Big Three: UCLA, we're going to do Stanford, we're going to do ..."](/statements/statement-2df723d0356c.md)
+- [00:08:13](#t-00-07-52) [○] (Claim) **Candace Owens**: ["Don Jr. and Eric got him a gift certificate... to a fancy suit place to go get f..."](/statements/statement-43ea54efddd3.md)
 - [00:08:30](#t-00-07-52) [○] (Claim) **Candace Owens**: ["Don Jr. and Eric Trump got Charlie Kirk a gift certificate to a fancy suit place..."](/statements/statement-97f789a28eaf.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Eric Trump](/entities/person-eric-trump.md)
+- [00:10:09](#t-00-09-57) [✓] (Claim) **Candace Owens**: ["Kanye West tweets, “I love the way Candace Owens thinks.”"](/statements/statement-05ad1744a15a.md)
 - [00:10:19](#t-00-09-57) [✓] (Opinion) **Kanye West**: ["Kanye West tweeted 'I love the way Candace thinks'"](/statements/statement-db65a10129a1.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
+- [00:15:22](#t-00-14-52) [✓] (Claim) **Candace Owens**: ["we got chased out of a Philadelphia restaurant by Antifa, and they threw water a..."](/statements/statement-f4193c5fd914.md)
+- [00:17:00](#t-00-16-36) [✓] (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk stood beside her when she started BLEXIT"](/statements/statement-afe0db1c5ad6.md)
 - [00:17:09](#t-00-16-36) [○] (Claim) **Candace Owens**: ["Charlie Kirk was present when Candace Owens started Blexit"](/statements/statement-aff0ffe95d14.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Blexit](/entities/org-blexit.md)
 - [00:17:19](#t-00-17-19) [○] (Claim) **Candace Owens**: ["Charlie Kirk was present the night Candace met her husband George Farmer in the ..."](/statements/statement-27f89a6f2547.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [George Farmer](/entities/person-george-farmer.md)
 - [00:19:30](#t-00-18-47) [○] (Claim) **Candace Owens**: ["Candace and Charlie Kirk never stopped being friends despite public disagreement..."](/statements/statement-b78e5146c5e6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+- [00:20:05](#t-00-19-31) [○] (Claim) **Candace Owens**: ["the person who probably was the intermediary when Trump called about Brigitte wa..."](/statements/statement-3d34febf2474.md)
 - [00:20:05](#t-00-19-31) [○] (Claim) **Candace Owens**: ["Charlie Kirk was the intermediary when Trump called about Brigitte Gabriel"](/statements/statement-ec8076b5434e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Brigitte Gabriel](/entities/person-brigitte-gabriel.md)
+- [00:20:19](#t-00-20-12) [○] (Claim) **Candace Owens**: ["people thought that when I had made up my mind about Israel, that Charlie and me..."](/statements/statement-7c292200ad20.md)
+- [00:21:06](#t-00-20-54) [○] (Claim) **Candace Owens**: ["Charlie was going through a spiritual transformation. I don't think it, I know i..."](/statements/statement-8da007ad7cc6.md)
 - [00:21:16](#t-00-20-54) [○] (Opinion) **Candace Owens**: ["Charlie Kirk was going through a spiritual transformation near the end of his li..."](/statements/statement-e1604b4df347.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:22:35](#t-00-22-18) [○] (Promise) **Candace Owens**: ["Candace Owens promised never to allow Charlie Kirk’s memory to be forgotten"](/statements/statement-67c11dd68994.md)
+- [00:22:39](#t-00-22-18) [○] (Opinion) **Candace Owens**: ["Candace Owens said there was no Candace without Charlie Kirk because they came u..."](/statements/statement-b106cf6c7e80.md)
 
 </details>

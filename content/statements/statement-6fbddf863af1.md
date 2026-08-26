@@ -33,7 +33,7 @@ veracity: "true"
 **Timestamp:** [00:54:24](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3264);return false;">Play</a>
 
-> Discord says, 'In the course of our investigation, we identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident or promoted violence on Discord,' a spokesperson said in the statement.
+> Discord says, “In the course of our investigation, we identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident or promoted violence on Discord,” a spokesperson said in the statement.
 
 ### 2. Trump Attacks The Pope. The Tyler Robinson Narrative Collaps...
 

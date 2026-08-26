@@ -28,7 +28,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <div><span>Episodes</span><strong>36</strong></div>
 <div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Statements about</span><strong>29</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -536,10 +536,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
 
 **[00:24:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-24-50)**
-> "...lie (Charlie Kirk) sends out the email asking for a DOJ audit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer—who was the COO. And then we have the firs..."
+> "And he announces that Justin Strife (Justin Strife) is going to be the new COO, taking over for Tyler Bowyer (Tyler Bowyer)—who was the COO."
 
 **[00:27:13](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-26-49)**
-> "...rned that happened on the day of Charlie's (Charlie Kirk's) assassination was a rumor pertaining to Justin Strife: an oddly placed phone call that he made almost immediately—as they say—this is alleged; I wasn't o..."
+> "And a few of them had signified that one of the things that was being whispered about—that people thought was quite odd—that they learned that happened on the day of Charlie's (Charlie Kirk's) assassination was a rumor pertaining to Justin Strife (Justin Strife):"
 
 **[00:27:49](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-27-29)**
 > "They said that Justin (Justin Strife) had placed an immediate call to a donor prospect..."
@@ -558,7 +558,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
 
 **[00:40:13](/episodes/ep-ozWJz2spBcI.md#ent-person-justin-streiff-t-00-40-13)**
-> "...k) in his own words. We showed the whole email. I didn't read the paragraph where he announced that Justin Strife would be the COO, but we read the entirety related to the DOJ department. And here's what Tyler say..."
+> "I didn't read the paragraph where he announced that Justin Strife would be the COO, but we read the entirety related to the DOJ department."
 
 </details>
 
@@ -760,7 +760,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Streiff (27)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Streiff (29)</strong></summary>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
@@ -915,6 +915,17 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 
 - [00:14:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-10) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk and Justin Streiff confirmed that Andrew Kolvet spoke to th..."](/statements/statement-2934cd4da2bf.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
+
+- [00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) (Claim) **Candace Owens**: ["Justin Strife was announced as the new COO of Turning Point USA on Sep..."](/statements/statement-51eadcc75ceb.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:27:29](/episodes/ep-a-e7HC6SeK8.md#t-00-27-29) (Claim) **Candace Owens**: ["A Turning Point USA source claims Justin Strife placed a phone call to..."](/statements/statement-c1f179233d39.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pierre S. du Pont](/entities/person-pierre-s-du-pont.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles"
-description: "Los Angeles (Places) - 19 mentions"
+description: "Los Angeles (Places) - 20 mentions"
 id: "gpe-los-angeles"
 type: "GPE"
 aliases:
@@ -24,8 +24,8 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51">2025-12-17 · 00:46:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02">2026-07-14 · 01:07:25</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,6 +50,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-00-46-18" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-37-18" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-32-02" style="--pulse-height:50%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +70,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-46-18) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-37-18) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-02) | 1 |
 
 </details>
 </section>
@@ -76,7 +78,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
@@ -86,6 +88,14 @@ Source: [City of Los Angeles](https://lacity.gov/)
 
 **[01:07:25](/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02)**
 > "...a hunch of who he was with in LA when this happened, I will put up $10,000 bounty ..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:32:02](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-02)**
+> "...th—the morning of the 10th—in LA."
 
 </details>
 

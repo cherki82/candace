@@ -20,7 +20,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -137,7 +137,7 @@ _Type: Organizations_
 > "...ted in Vanity Fair, the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So she and her hus..."
 
 **[00:10:52](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-10-27)**
-> "...ug-addicted Vegas sex worker. So she and her husband, Christopher Mosley, had her killed. Both John DuPont and Mosley died in prison. Okay, great. Cool. France, France in the story. We've got an alleged mur..."
+> "Both John DuPont and Moseley died in prison."
 
 **[00:30:38](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-30-38)**
 > "...It wasn't until yesterday—after we went off air—that I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, "Oh, you figured it out. It's Pierre du Pon..."
@@ -276,7 +276,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about DuPont family (2)</strong></summary>
+<summary><strong class="section-title">Statements about DuPont family (5)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2)</summary>
@@ -286,6 +286,20 @@ _Type: Organizations_
 
 - [00:20:39](/episodes/ep-1IY2oD-_xVA.md#t-00-20-39) (Claim) **Candace Owens**: ["DuPont completed what was then the largest corporate merger in history..."](/statements/statement-1288bf793920.md)
   - Also about: [Conoco Inc.](/entities/org-conoco-inc.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3)</summary>
+
+- [00:07:03](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) (Claim) **Candace Owens** (via quoted article): ["Robert Richards the Fourth was in 2009 convicted of raping his three-y..."](/statements/statement-479c680fd9b3.md)
+  - Also about: [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)
+
+- [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) (Claim) **Candace Owens**: ["John DuPont shot Olympic wrestler David Schultz dead in the driveway o..."](/statements/statement-9a8d4a44b905.md)
+  - Also about: [David Schultz](/entities/person-david-schultz.md), [John DuPont](/entities/person-john-dupont.md)
+
+- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) (Accusation) **Candace Owens** (via paraphrase): ["the money traced back to the DuPont family. It appeared that Lisa Dean..."](/statements/statement-7c3e83eb0a33.md)
+  - Also about: [Christopher Moseley](/entities/person-christopher-moseley.md), [Lisa Dean](/entities/person-lisa-dean.md)
 
 </details>
 

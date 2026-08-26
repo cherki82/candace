@@ -15,7 +15,7 @@ object: "org-potters-fields-ministries"
 
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 
-- [00:04:35](/episodes/ep-yAIb-NuUh_U#t-00-04-35): _one of those students wound up blowing the whistle on what she alleges was intentional financial fraud. That student's name was Kenzie Kinney_
+- [00:25:40](/episodes/ep-yAIb-NuUh_U#t-00-25-40): _That student's—then student's—name was Kenzie Kinney, okay? ... She handled Potter's Fields finances._
 
 ### Related
 

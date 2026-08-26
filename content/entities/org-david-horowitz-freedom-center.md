@@ -28,7 +28,7 @@ Source: [David Horowitz Freedom Center - About](https://www.dhfcblog.com/about)
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -130,6 +130,11 @@ Source: [David Horowitz Freedom Center - About](https://www.dhfcblog.com/about)
 <summary>Funded By (1)</summary>
 
 - **[Joyce Chernick](/entities/person-joyce-chernick.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:47:01](/episodes/ep-581dILVcEE4.md#t-00-46-30): “They fund a variety of pro-Israel causes through the David Horowitz Freedom Center.”
+
+</details>
 
 </details>
 
@@ -137,13 +142,18 @@ Source: [David Horowitz Freedom Center - About](https://www.dhfcblog.com/about)
 <summary>Referenced By (1)</summary>
 
 - **[Joyce Chernick](/entities/person-joyce-chernick.md)** funded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:47:01](/episodes/ep-581dILVcEE4.md#t-00-46-30): “They fund a variety of pro-Israel causes through the David Horowitz Freedom Center.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about David Horowitz Freedom Center (3)</strong></summary>
+<summary><strong class="section-title">Statements about David Horowitz Freedom Center (4)</strong></summary>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
@@ -157,10 +167,13 @@ Source: [David Horowitz Freedom Center - About](https://www.dhfcblog.com/about)
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
 
 - [00:46:56](/episodes/ep-581dILVcEE4.md#t-00-46-30) (Claim) **Candace Owens**: ["Joyce Chernick is married to Aubrey Chernick, a software tech billiona..."](/statements/statement-ccf27b84c748.md)
   - Also about: [Joyce Chernick](/entities/person-joyce-chernick.md), [Aubrey Chernick](/entities/person-aubrey-chernick.md)
+
+- [00:47:01](/episodes/ep-581dILVcEE4.md#t-00-46-30) (Claim) **Candace Owens**: ["Aubrey Chernick and Joyce Chernick fund pro-Israel causes through the ..."](/statements/statement-a2f5bc472d3a.md)
+  - Also about: [Aubrey Chernick](/entities/person-aubrey-chernick.md), [Joyce Chernick](/entities/person-joyce-chernick.md)
 
 </details>
 

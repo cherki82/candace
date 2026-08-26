@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:30:40](/episodes/ep-LATnak75Si0.md#t-00-30-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1840);return false;">Play</a>
 
-> Not only is she stupid, but she's also disgusting, right? I mean, Candace has got to be one of the most disgusting folks whoever gets airplay on any major network.
+> "Not only is she stupid, but she's also disgusting, right? I mean, Candace (Candace Owens) has got to be one of the most disgusting folks whoever gets airplay on any major network."
 
 ## Verification
 

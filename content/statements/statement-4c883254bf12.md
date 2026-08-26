@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:13:20](/episodes/ep-MUA9ebCF4Ow.md#t-00-13-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(800);return false;">Play</a>
 
-> I can tell you another story about which donor was waiting for him once Tucker got off stage and yelled at Charlie. That was a female Jewish donor. And I will be outing her later because I don't care about anything right now.
+> And I can tell you another story about which donor was waiting for him once Tucker (Tucker Carlson) got off stage and yelled at Charlie (Charlie Kirk). That was a female Jewish donor. And I will be outing her later because I don't care about anything right now.
 
 ## Verification
 

@@ -100,10 +100,10 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:05:46](/episodes/ep-a-e7HC6SeK8.md#t-00-05-38)**
-> "... there's a lot of stories there." And these stories sound a lot like what you were covering in your Becoming Brigitte series. You remember—actually, right before we had been sort of interrupted in Becoming Brigitte series tw..."
+> "And these stories sound a lot like what you were covering in your Becoming Brigitte (Brigitte Macron) series."
 
 **[00:05:52](/episodes/ep-a-e7HC6SeK8.md#t-00-05-38)**
-> "...ur Becoming Brigitte series. You remember—actually, right before we had been sort of interrupted in Becoming Brigitte series two, season two—we were speaking about Eric Dupond-Moretti. Eric Dupond-Moretti. And we were speaki..."
+> "You remember—actually, right before we had been sort of interrupted in Becoming Brigitte (Brigitte Macron) series two, season two—we were speaking about Eric Dupond-Moretti (Eric Dupond-Moretti)."
 
 </details>
 

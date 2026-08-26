@@ -49,7 +49,7 @@ _Type: Organizations_
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
-**[00:16:14](/episodes/ep-ZAuuSq_j2_w.md#ent-org-flightradar-t-00-15-51)**
+**[00:16:12](/episodes/ep-ZAuuSq_j2_w.md#ent-org-flightradar-t-00-15-51)**
 > "So you cannot find a record of this on FlightRadar."
 
 **[00:16:19](/episodes/ep-ZAuuSq_j2_w.md#ent-org-flightradar-t-00-15-51)**
@@ -69,10 +69,10 @@ _Type: Organizations_
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (7 mentions)</summary>
 
 **[00:02:17](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-02-07)**
-> "... runway, and they made a loop. Candace Owens: I'm going to show you a screenshot here. This is from FlightRadar. Candace Owens: So you can see that loop. Candace Owens: And again, this is a military plane, a mil..."
+> "I'm going to show you a screenshot here. This is from FlightRadar."
 
 **[00:03:31](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-03-31)**
-> "...rovo Airport runway. Candace Owens: We're going to show you that again. Candace Owens: This is from FlightRadar—that dip. I should tell you, because there has been a lot of speculation about it online, Candace O..."
+> "This is from FlightRadar—that dip. I should tell you, because there has been a lot of speculation about it online,"
 
 **[00:12:49](/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-12-29)**
 > "... here is that plane. The tail number you can see here is SUBTT. And this is a screenshot again from FlightRadar. Now, of course, when I pointed out that this foreign military plane arrived on September 4th—so si..."

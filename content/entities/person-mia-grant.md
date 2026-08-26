@@ -18,7 +18,7 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-mia-grant-t-00-54-11">2026-06-24 · 00:54:29</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>12</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -173,10 +173,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Mia Grant (3)</strong></summary>
+<summary><strong class="section-title">Statements by Mia Grant (4)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4)</summary>
 
 - [00:22:09](/episodes/ep-sreYYcID-QY.md#t-00-22-06) [○] (Claim) ["We were like 15 feet away from the shooting"](/statements/statement-93c1c773c1eb.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -186,6 +186,8 @@ _Type: People_
 
 - [00:22:09](/episodes/ep-sreYYcID-QY.md#t-00-22-06) [○] (Claim) ["We were like 15 feet away, and I thought the shot was like a firecracker or some..."](/statements/statement-107711955070.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:22:12](/episodes/ep-sreYYcID-QY.md#t-00-22-09) [○] (Claim) ["We were like 15 feet away, and I thought, like, the shot was like a firecracker ..."](/statements/statement-d313b33ad651.md)
 
 </details>
 

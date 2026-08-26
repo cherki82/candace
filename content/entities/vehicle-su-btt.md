@@ -63,7 +63,7 @@ _Type: Vehicles_
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:23:24](/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12)**
-> "...e learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's (Charlie Kirk's) assassination f..."
+> "Having them at UVU would not have been on my radar at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo,"
 
 </details>
 
@@ -222,6 +222,11 @@ _Type: Vehicles_
 <summary>Operated By (1)</summary>
 
 - **[Egypt](/entities/gpe-egypt.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
+
+</details>
 
 </details>
 
@@ -229,6 +234,11 @@ _Type: Vehicles_
 <summary>Referenced By (1)</summary>
 
 - **[Egypt](/entities/gpe-egypt.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
+
+</details>
 
 </details>
 

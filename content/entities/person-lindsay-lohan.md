@@ -105,8 +105,8 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3)</summary>
 
-- [00:12:38](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
-  - Also about: [Lou Taylor](/entities/person-lou-taylor.md), [Courtney Love](/entities/person-courtney-love.md)
+- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
+  - Also about: [Courtney Love](/entities/person-courtney-love.md), [Lou Taylor](/entities/person-lou-taylor.md)
 
 - [00:14:21](/episodes/ep-7RLtGgkTh9o.md#t-00-14-12) (Accusation) **Michael Lohan** (via quoted speech): ["Sean Chapman Holly and Lou Taylor leaked Lindsay Lohan rehab informati..."](/statements/statement-87ffc4776b74.md)
   - Also about: [Lou Taylor](/entities/person-lou-taylor.md)

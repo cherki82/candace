@@ -1,16 +1,17 @@
 ---
-title: "Lou Taylor was my business manager for 18 years. We separate..."
-description: "\"Lou Taylor was my business manager for 18 years. We separated in September because the Kardashians are the slimiest pile of garbage on the planet. The...\" — Bob Bryar"
+title: "Bob Bryar wrote that the Kardashians were the slimiest pile ..."
+description: "\"Bob Bryar wrote that the Kardashians were the slimiest pile of garbage on the planet, that they had blood on their hands, and that he knew everything\" — Bob Bryar"
 statement_id: "statement-488c2abc1a03"
 speaker: "Bob Bryar"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
-> Lou Taylor was my business manager for 18 years. We separated in September because the Kardashians are the slimiest pile of garbage on the planet. They have blood on their hands and I know everything
+> Bob Bryar wrote that the Kardashians were the slimiest pile of garbage on the planet, that they had blood on their hands, and that he knew everything
 
 ## Attribution
 
@@ -19,6 +20,7 @@ type: "accusation"
 **Delivery:** Quoted from tweet
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 **Original Source:** Twitter
+**Original Date:** 2024-11-05
 
 ## About
 
@@ -28,14 +30,27 @@ type: "accusation"
 ## Source
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:25:50](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1550);return false;">Play</a>
+**Timestamp:** [00:25:55](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1555);return false;">Play</a>
 
-> Don't forget that Lou Taylor was my business manager for 18 years. We just separated in September because the Kardashians are the slimiest pile of garbage on the planet...They actually have blood on their hands, and I know everything.
+> We just separated in September because the Kardashians are the slimiest pile of garbage on the planet. ... They actually have blood on their hands, and I know everything.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified only as attribution to the quoted X post: Bob Bryar used these words about the Kardashians and asserted that they had blood on their hands and that he knew everything. No evidence in the post substantiates the blood-on-their-hands accusation, and this verification does not treat that accusation as proven.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Bob Bryar post about Lou Taylor and the Kardashians](https://x.com/bobbryar/status/1853596304884019369)
+
+*Verified: 2026-08-26T10:47:49.925269*
 
 ---
 

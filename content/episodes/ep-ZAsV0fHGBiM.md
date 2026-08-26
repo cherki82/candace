@@ -1,14 +1,14 @@
 ---
 id: "ZAsV0fHGBiM"
 title: "Bride Of Charlie: A Wrinkle In Time | Episode 1"
-description: "Bride Of Charlie: A Wrinkle In Time | Episode 1 - 129 entities, 21 events, 0 claims"
+description: "Bride Of Charlie: A Wrinkle In Time | Episode 1 - 129 entities, 21 events, 29 factual claims"
 published: "2026-02-25"
 youtube_url: "https://www.youtube.com/watch?v=ZAsV0fHGBiM"
 ---
 
 **Published:** 2026-02-25 | [Watch on YouTube](https://www.youtube.com/watch?v=ZAsV0fHGBiM)
 
-**Stats:** 129 entities | 21 events | 0 claims
+**Stats:** 129 entities | 21 events | 29 factual claims
 
 ---
 

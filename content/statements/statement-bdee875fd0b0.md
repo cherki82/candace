@@ -4,9 +4,10 @@ description: "\"Candace Owens said Samantha Karner testified that she received o
 statement_id: "statement-bdee875fd0b0"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Karner testified she received one bullet-jacket fragment and four lead fragments and had been alerted that an autopsy photo potentially showed seven fragments. She did not testify that ATF lost evidence; the package was sealed. Four lead fragments, not three, were unsuitable for microscopic comparison. Owens accurately identified a discrepancy but misstated the received count, characterized untraced fragments as disappeared, and misstated how many were unsuitable.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 4](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
+
+*Verified: 2026-08-26T08:01:28.368548*
 
 ---
 

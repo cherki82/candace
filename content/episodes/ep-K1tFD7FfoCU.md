@@ -1,14 +1,14 @@
 ---
 id: "K1tFD7FfoCU"
 title: "MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257"
-description: "MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 - 96 entities, 9 events, 0 claims"
+description: "MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 - 96 entities, 9 events, 22 factual claims"
 published: "2025-11-03"
 youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 ---
 
 **Published:** 2025-11-03 | [Watch on YouTube](https://www.youtube.com/watch?v=K1tFD7FfoCU)
 
-**Stats:** 96 entities | 9 events | 0 claims
+**Stats:** 96 entities | 9 events | 22 factual claims
 
 ---
 
@@ -251,19 +251,44 @@ youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 </details>
 
 <details>
-<summary><strong>Statements (6)</strong></summary>
+<summary><strong>Statements (24)</strong></summary>
 
 - [00:01:57](#t-00-01-30) [○] (Opinion) **Lindsey Graham**: ["Anti-Semitism, anti-Israel rhetoric, anti-Israel thought is not the road to bein..."](/statements/statement-887308af724e.md)
   - About: [Lindsey Graham](/entities/person-lindsey-graham.md)
-- [00:02:34](#t-00-02-14) [○] (Claim) **Candace Owens**: ["Randy Fine has been so disgusting in his rhetoric towards Palestinians—saying es..."](/statements/statement-254f82c97517.md)
+- [00:02:34](#t-00-02-14) [◐] (Claim) **Candace Owens**: ["Randy Fine has been so disgusting in his rhetoric towards Palestinians—saying es..."](/statements/statement-254f82c97517.md)
   - About: [Randy Fine](/entities/person-randy-fine.md)
 - [00:04:50](#t-00-04-45) [○] (Accusation) **Randy Fine**: ["Tucker Carlson is the most dangerous anti-Semite in America. He has chosen to ta..."](/statements/statement-fa457366befc.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
-- [00:06:29](#t-00-06-07) [○] (Claim) **Candace Owens**: ["They fired Tucker Carlson from Fox because he was speaking out against the Ukrai..."](/statements/statement-39a7601bc28c.md)
+- [00:06:29](#t-00-06-07) [◐] (Claim) **Candace Owens**: ["They fired Tucker Carlson from Fox because he was speaking out against the Ukrai..."](/statements/statement-39a7601bc28c.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
 - [00:07:07](#t-00-06-49) [○] (Claim) **Candace Owens**: ["The same individuals were squeezing Charlie Kirk leading up to the end of his li..."](/statements/statement-f882720cfd9d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:08:20](#t-00-08-16) [○] (Claim) **Candace Owens**: ["Before Charlie Kirk died in July, I interviewed Nick Fuentes. Charlie Kirk and I..."](/statements/statement-b04ad7a37582.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:08:20](#t-00-08-16) [○] (Claim) **Candace Owens**: ["Before Charlie died—really kind of just before he died in July—I interviewed Nic..."](/statements/statement-41ef74024513.md)
+- [00:08:20](#t-00-08-16) [○] (Claim) **Candace Owens**: ["Candace Owens interviewed Nick Fuentes in July before Charlie Kirk died"](/statements/statement-ada664cc8921.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
+- [00:08:23](#t-00-08-16) [○] (Claim) **Candace Owens**: ["Charlie Kirk and Candace Owens discussed her Nick Fuentes interview and he never..."](/statements/statement-18dd9c25886a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
+- [00:08:39](#t-00-08-16) [○] (Claim) **Candace Owens**: ["I also had a long discussion with Andrew Kolvet separately, telling them both th..."](/statements/statement-f85ea2194ee5.md)
+- [00:14:52](#t-00-14-16) [○] (Claim) **Candace Owens**: ["Charlie and Ben Shapiro did not get along. Because Charlie found out that Ben Sh..."](/statements/statement-e53c9a4a7ec9.md)
+- [00:14:52](#t-00-14-16) [○] (Claim) **Candace Owens**: ["Charlie Kirk and Ben Shapiro were not on good terms because Ben Shapiro operated..."](/statements/statement-6ee5a306df75.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:15:28](#t-00-14-56) [○] (Claim) **Ben Shapiro**: ["Ben Shapiro told Charlie that Ben Shapiro was in part upset because I made a jok..."](/statements/statement-18efbd7f67d7.md)
+- [00:16:59](#t-00-16-45) [○] (Claim) **Ben Shapiro**: ["Ben Shapiro told Charlie Kirk that Candace Owens was going to Milo her career"](/statements/statement-df1a4815365b.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:17:17](#t-00-16-59) [○] (Claim) **Candace Owens**: ["Candace Owens and Charlie Kirk were booked on Ben Shapiro's show in June 2018"](/statements/statement-0b284c91de11.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:18:55](#t-00-18-23) [○] (Claim) **Candace Owens**: ["Charlie loved Tucker Carlson... he fought for Tucker Carlson to be on the Turnin..."](/statements/statement-73d03e26fae3.md)
+- [00:20:03](#t-00-19-50) [◐] (Claim) **Candace Owens**: ["in the immediate aftermath of Charlie's death... the team reached out to host Ma..."](/statements/statement-663cee74029b.md)
+- [00:20:27](#t-00-19-50) [○] (Claim) **Candace Owens**: ["Turning Point USA reached out to Matt Walsh to host Charlie Kirk's show after hi..."](/statements/statement-e2505504e579.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:20:53](#t-00-20-31) [○] (Claim) **Candace Owens**: ["the Jerusalem Post completely fictionalized or rather published a completely der..."](/statements/statement-ca069b9c4911.md)
+- [00:22:13](#t-00-21-54) [○] (Claim) **Candace Owens**: ["Andrew Kolvet, the spokesperson for Turning Point USA, instantly came out and sl..."](/statements/statement-48a901e70967.md)
+- [00:22:18](#t-00-21-54) [○] (Claim) **Candace Owens**: ["The Jerusalem Post reported Charlie Kirk would be posthumously honored with the ..."](/statements/statement-ea44748b3547.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:23:33](#t-00-23-22) [○] (Claim) **Candace Owens**: ["he wavered in his support [for Israel]"](/statements/statement-2c528c3729ca.md)
+- [00:36:52](#t-00-36-34) [✓] (Claim) **Candace Owens**: ["Kash Patel... flew down in his FBI plane to go see her [Alexis] down in Nashvill..."](/statements/statement-8342de261be8.md)
+- [00:37:08](#t-00-36-34) [✓] (Claim) **Candace Owens**: ["there are clips of Kash Patel calling the FBI corrupt before he was in the FBI a..."](/statements/statement-eaad4a0d852d.md)
 
 </details>

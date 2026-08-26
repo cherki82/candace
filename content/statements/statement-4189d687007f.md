@@ -30,7 +30,7 @@ type: "accusation"
 **Timestamp:** [00:21:54](/episodes/ep-QZWSsq8ZWzw.md#t-00-21-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1314);return false;">Play</a>
 
-> Somebody reached out to me because I have been—obviously—leading the forefront in investigating this lone shooter as it pertains to Charlie Kirk because it's not a lone shooter. It's a hive. I feel it spiritually. And they said, 'Look, actually, I had been able to scrape everything about Thomas Matthew Crooks before the feds got rid of everything.' And it's shocking what you look at. There is no way this person was not on the federal radar.
+> Somebody reached out to me because I have been—obviously—leading the forefront in investigating this lone shooter as it pertains to Charlie Kirk because it's not a lone shooter. It's a hive. I feel it spiritually. And they said, "Look, actually, I had been able to scrape everything about Thomas Matthew Crooks before the feds got rid of everything." And it's shocking what you look at. There is no way this person was not on the federal radar.
 
 ## Verification
 

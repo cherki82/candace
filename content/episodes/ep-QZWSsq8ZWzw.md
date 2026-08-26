@@ -1,14 +1,14 @@
 ---
 id: "QZWSsq8ZWzw"
 title: "BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242"
-description: "BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 - 77 entities, 9 events, 0 claims"
+description: "BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 - 81 entities, 9 events, 59 factual claims"
 published: "2025-09-24"
 youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 ---
 
 **Published:** 2025-09-24 | [Watch on YouTube](https://www.youtube.com/watch?v=QZWSsq8ZWzw)
 
-**Stats:** 77 entities | 9 events | 0 claims
+**Stats:** 81 entities | 9 events | 59 factual claims
 
 ---
 
@@ -209,7 +209,9 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (77)</strong></summary>
+<summary><strong>Entities Mentioned (81)</strong></summary>
+
+**Anonymous Sources:** [Anonymous legacy source (claim-75a447ddd8b9)](/entities/anon-src-QZWSsq8ZWzw-legacy-82f5c626.md)
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Luciferianism](/entities/concept-luciferianism.md), [MAGA movement](/entities/concept-maga-movement.md), [MKUltra](/entities/concept-mkultra.md)
 
@@ -217,39 +219,48 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 
 **Events:** [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [JFK assassination](/entities/event-jfk-assassination.md), [Oklahoma City bombing](/entities/event-oklahoma-city-bombing.md), [Orlando nightclub shooting](/entities/event-orlando-nightclub-shooting.md)
 
-**Places:** [Arizona](/entities/gpe-arizona.md), [Canada](/entities/gpe-canada.md), [Dallas](/entities/gpe-dallas.md), [Germany](/entities/gpe-germany.md), [Iran](/entities/gpe-iran.md), [London](/entities/gpe-london.md), [United Kingdom](/entities/gpe-united-kingdom.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
+**Places:** [Arizona](/entities/gpe-arizona.md), [Canada](/entities/gpe-canada.md), [Dallas](/entities/gpe-dallas.md), [Germany](/entities/gpe-germany.md), [Iran](/entities/gpe-iran.md), [London](/entities/gpe-london.md), [New York City](/entities/gpe-new-york-city.md), [United Kingdom](/entities/gpe-united-kingdom.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [American Financing](/entities/org-american-financing.md), [Apple](/entities/org-apple.md), [CDC](/entities/org-cdc.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Club Candace](/entities/org-club-candace.md), [Discord](/entities/org-discord.md), [Etsy](/entities/org-etsy.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Google](/entities/org-google.md), [Immigration and Customs Enforcement](/entities/org-immigration-and-customs-enforcement.md), [Jezebel](/entities/org-jezebel.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Spotify](/entities/org-spotify.md), [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Vice](/entities/org-vice.md), [YouTube](/entities/org-youtube.md)
+**Organizations:** [American Financing](/entities/org-american-financing.md), [Apple](/entities/org-apple.md), [CDC](/entities/org-cdc.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Club Candace](/entities/org-club-candace.md), [Discord](/entities/org-discord.md), [Etsy](/entities/org-etsy.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Google](/entities/org-google.md), [Home Title Lock](/entities/org-home-title-lock.md), [Immigration and Customs Enforcement](/entities/org-immigration-and-customs-enforcement.md), [Jezebel](/entities/org-jezebel.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Spotify](/entities/org-spotify.md), [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Vice](/entities/org-vice.md), [YouTube](/entities/org-youtube.md)
 
-**People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Clay Travis](/entities/person-clay-travis.md), [Corey Comparatore](/entities/person-corey-comparatore.md), [Donald J. Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jesus Christ](/entities/person-jesus-christ.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Margarethe Schurz](/entities/person-margarethe-schurz.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mitch McConnell](/entities/person-mitch-mcconnell.md), [Rand Paul](/entities/person-rand-paul.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ronald Reagan](/entities/person-ronald-reagan.md), [Schuyler Pryor](/entities/person-schuyler-pryor.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Skyler](/entities/person-skyler.md), [Ted Cruz](/entities/person-ted-cruz.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Thomas Sowell](/entities/person-thomas-sowell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Clay Travis](/entities/person-clay-travis.md), [Corey Comparatore](/entities/person-corey-comparatore.md), [Donald J. Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jesus Christ](/entities/person-jesus-christ.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [Joe Biden](/entities/person-joe-biden.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Margarethe Schurz](/entities/person-margarethe-schurz.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mitch McConnell](/entities/person-mitch-mcconnell.md), [Rand Paul](/entities/person-rand-paul.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ronald Reagan](/entities/person-ronald-reagan.md), [Schuyler Pryor](/entities/person-schuyler-pryor.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Skyler](/entities/person-skyler.md), [Ted Cruz](/entities/person-ted-cruz.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Thomas Sowell](/entities/person-thomas-sowell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Works & Media:** [A Shot in the Dark](/entities/work-a-shot-in-the-dark.md), [Blackout](/entities/work-blackout.md), [Inside American Education](/entities/work-inside-american-education.md), [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md), [The Matrix](/entities/work-the-matrix.md)
 
 </details>
 
 <details>
-<summary><strong>Statements (46)</strong></summary>
+<summary><strong>Statements (81)</strong></summary>
 
 - [00:00:35](#t-00-00-01) [○] (Accusation) **Candace Owens**: ["The FBI is putting an absurd amount of pressure on authorities in Utah to come o..."](/statements/statement-cd1d8569e975.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:01:35](#t-00-01-30) [○] (Accusation) **Anonymous Source #1 (Ep QZWSsq8ZWzw)**: ["The FBI is putting an absurd amount of pressure on the authorities in Utah to sa..."](/statements/statement-f0eec06ca8a4.md)
-  - About: [FBI](/entities/org-fbi.md), [Utah](/entities/gpe-utah.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Utah](/entities/gpe-utah.md), [FBI](/entities/org-fbi.md)
+- [00:01:35](#t-00-01-30) [○] (Claim) **Candace Owens**: ["FBI is putting an absurd amount of pressure right now on the authorities in Utah..."](/statements/statement-f04591a7738c.md)
 - [00:01:53](#t-00-01-30) [○] (Accusation) **Candace Owens**: ["The FBI wants Charlie Kirk's assassination to be officially ruled lone gunman"](/statements/statement-30e3567646de.md)
-  - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [FBI](/entities/org-fbi.md)
 - [00:02:30](#t-00-02-13) [○] (Claim) **Candace Owens**: ["The FBI is saying that if you don't close the case against Charlie Kirk and rule..."](/statements/statement-ace1325ce121.md)
-  - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:02:31](#t-00-02-13) [○] (Claim) **Anonymous Source #1 (Ep QZWSsq8ZWzw)**: ["The FBI says that if Utah doesn't close the case against Charlie Kirk and rule i..."](/statements/statement-826cd85e0ae9.md)
   - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:03:18](#t-00-02-58) [○] (Claim) **Candace Owens**: ["There is absolutely no video which shows Tyler Robinson firing the weapon or eve..."](/statements/statement-ad4576213201.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:03:25](#t-00-02-58) [○] (Claim) **Candace Owens**: ["The individual who filmed the footage of the shooter on the roof told me that he..."](/statements/statement-7b581a3a420a.md)
+- [00:03:25](#t-00-02-58) [○] (Claim) **Candace Owens**: ["An eyewitness who filmed footage of the shooter on the roof said he doesn't thin..."](/statements/statement-723caf561421.md)
+- [00:03:42](#t-00-02-58) [○] (Claim) **Candace Owens**: ["Eyewitness reported the shooter on the roof to Utah on the campus was clear that..."](/statements/statement-4ae1ff9dde58.md)
+- [00:03:42](#t-00-03-42) [○] (Claim) **Candace Owens**: ["The eyewitness reported the shooter was wearing an entirely different outfit tha..."](/statements/statement-fcce817828af.md)
 - [00:03:55](#t-00-03-42) [○] (Claim) **Candace Owens**: ["The individual who filmed the footage of the shooter on the roof told me that he..."](/statements/statement-2db6f8d15172.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:04:08](#t-00-03-42) [○] (Claim) **Anonymous legacy source (claim-75a447ddd8b9)**: ["Eyewitness told me that that gun doesn't even match what I saw"](/statements/statement-db7dd4a3398e.md)
 - [00:04:37](#t-00-04-22) [○] (Claim) **Candace Owens**: ["The feds don't have any footage that explains how the rifle got onto the roof"](/statements/statement-c0ad2b7e8721.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:04:39](#t-00-04-22) [○] (Claim) **Candace Owens**: ["Feds don't even have any footage that explains how exactly the rifle in particul..."](/statements/statement-b71179b3e6bc.md)
 - [00:04:57](#t-00-04-22) [○] (Claim) **Anonymous Source #1 (Ep QZWSsq8ZWzw)**: ["The FBI doesn't have any footage that explains how the rifle got onto the roof d..."](/statements/statement-bf3b31747441.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:05:00](#t-00-04-22) [○] (Claim) **Candace Owens**: ["According to the indictment, Tyler Robinson dropped onto the roof at 12:15 PM"](/statements/statement-5d6e18f91ffc.md)
+- [00:05:08](#t-00-05-00) [○] (Claim) **Candace Owens**: ["Tyler Robinson has never confessed"](/statements/statement-3d34753449e1.md)
 - [00:05:43](#t-00-05-35) [○] (Claim) **Candace Owens**: ["The bullet was too fragmented to match Tyler's rifle"](/statements/statement-ad4e940dd065.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:05:43](#t-00-05-35) [○] (Claim) **Anonymous Source #1 (Ep QZWSsq8ZWzw)**: ["The bullet from the Charlie Kirk shooting was too fragmented to match Tyler Robi..."](/statements/statement-2c309de0ebef.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:05:50](#t-00-05-35) [○] (Claim) **Candace Owens**: ["Tyler Robinson has not confessed to anything"](/statements/statement-bf3cf32115e4.md)
@@ -257,7 +268,7 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 - [00:06:39](#t-00-06-18) [○] (Opinion) **Candace Owens**: ["I believe the feds know exactly what happened"](/statements/statement-5feabdfcc36c.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:08:02](#t-00-07-30) [○] (Claim) **Candace Owens**: ["It's not the only set of prints on that gun"](/statements/statement-bd3aff0b0a72.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:08:02](#t-00-07-30) [○] (Claim) **Anonymous Source #1 (Ep QZWSsq8ZWzw)**: ["There is more than one set of fingerprints on the gun used in the Charlie Kirk s..."](/statements/statement-3a395df3b33d.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:08:22](#t-00-08-06) [○] (Claim) **Candace Owens**: ["Tyler Robinson was told to walk and drop off his gun at a neighboring house, whi..."](/statements/statement-5b063640521b.md)
@@ -272,18 +283,26 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
   - About: [Candace Owens](/entities/person-candace-owens.md), [George Farmer](/entities/person-george-farmer.md)
 - [00:14:09](#t-00-13-38) [○] (Prediction) **Candace Owens**: ["There's imminent danger coming relating to a school. I think it's a communist un..."](/statements/statement-a7a4d573b9e8.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:17:01](#t-00-16-32) [✓] (Claim) **Candace Owens**: ["Utah recently, extraordinarily, modernized their beehive flag in 2024"](/statements/statement-4f8163001ef4.md)
 - [00:17:07](#t-00-16-32) [○] (Claim) **Candace Owens**: ["Utah recently, extraordinarily, modernized their beehive flag"](/statements/statement-18122c10dc26.md)
   - About: [Utah](/entities/gpe-utah.md)
 - [00:17:09](#t-00-16-32) [○] (Claim) **Candace Owens**: ["Utah recently modernized their beehive flag, and Utah has always been known as t..."](/statements/statement-8d437af36e74.md)
   - About: [Utah](/entities/gpe-utah.md), [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
+- [00:17:21](#t-00-17-09) [✓] (Claim) **Candace Owens**: ["Utah has always been known as the Beehive State because early Mormon pioneers fo..."](/statements/statement-0278a73d4e82.md)
 - [00:18:14](#t-00-17-52) [○] (Accusation) **Candace Owens**: ["The public school system is shaped by Soviet ideology"](/statements/statement-b569f3fcf6cc.md)
   - About: [Bolsheviks](/entities/concept-bolsheviks.md)
+- [00:18:14](#t-00-17-52) [○] (Opinion) **Candace Owens**: ["The public school system is shaped by Soviet ideology"](/statements/statement-2dca7991dfec.md)
 - [00:18:18](#t-00-17-52) [○] (Citation) **Candace Owens**: ["Inside American Education by Thomas Sowell is a must-read book that explains how..."](/statements/statement-3372ce33fa07.md)
   - About: [Inside American Education](/entities/work-inside-american-education.md), [Thomas Sowell](/entities/person-thomas-sowell.md)
-- [00:18:49](#t-00-18-36) [○] (Claim) **Candace Owens**: ["Kindergarten was established by communists who tried to overthrow Germany and fa..."](/statements/statement-b0f85a7d7026.md)
+- [00:18:49](#t-00-18-36) [◐] (Claim) **Candace Owens**: ["Kindergarten was established by communists who tried to overthrow Germany and fa..."](/statements/statement-b0f85a7d7026.md)
   - About: [Margarethe Schurz](/entities/person-margarethe-schurz.md)
 - [00:18:49](#t-00-18-36) [○] (Claim) **Candace Owens**: ["Kindergarten was established by communists who tried to overthrow Germany and fa..."](/statements/statement-4003cd63235f.md)
   - About: [Margarethe Schurz](/entities/person-margarethe-schurz.md)
+- [00:19:34](#t-00-19-14) [✓] (Accusation) **Candace Owens**: ["Charlie Kirk was assassinated"](/statements/statement-37625f051b74.md)
+- [00:20:29](#t-00-19-59) [✓] (Claim) **Candace Owens**: ["On July 13th, 2024, a 20-year-old Thomas Matthew Crooks climbed onto a roof and ..."](/statements/statement-7e837dbc815d.md)
+- [00:20:45](#t-00-20-29) [○] (Claim) **Candace Owens**: ["One Trump supporter died in the July 13, 2024 assassination attempt"](/statements/statement-d0c2e7245d4e.md)
+- [00:20:50](#t-00-20-29) [✓] (Claim) **Candace Owens**: ["A 50-year-old firefighter named Corey Comperatore lost his life trying to save h..."](/statements/statement-9d684e671e3d.md)
+- [00:21:02](#t-00-20-29) [◐] (Claim) **Candace Owens**: ["We were told that Iran did the assassination attempt on Trump"](/statements/statement-0874b1e44f66.md)
 - [00:21:14](#t-00-21-12) [○] (Claim) **Candace Owens**: ["After the Trump assassination attempt, the narrative was that Iran did this beca..."](/statements/statement-a94cb12b53e6.md)
   - About: [Iran](/entities/gpe-iran.md), [Donald J. Trump](/entities/person-donald-trump.md)
 - [00:21:29](#t-00-21-12) [○] (Claim) **Candace Owens**: ["On July 13, 2024, a 20-year-old Thomas Matthew Crooks climbed onto a roof and tr..."](/statements/statement-34c52055dd7e.md)
@@ -292,35 +311,56 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
   - About: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [FBI](/entities/org-fbi.md)
 - [00:22:15](#t-00-21-55) [○] (Claim) **Candace Owens**: ["I have an 80-page document of all the accounts and statements that Thomas Matthe..."](/statements/statement-835b982c10b2.md)
   - About: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+- [00:22:15](#t-00-21-55) [✓] (Claim) **Candace Owens**: ["Thomas Matthew Crooks started as a Trump supporter, then did a radical transform..."](/statements/statement-08336a789837.md)
+- [00:22:15](#t-00-21-55) [○] (Claim) **Candace Owens**: ["Thomas Matthew Crooks started as a Trump supporter before becoming violent"](/statements/statement-7fdf13874376.md)
+- [00:22:24](#t-00-21-55) [○] (Claim) **Candace Owens**: ["I have an 80-page document of all the accounts that Thomas Matthew Crooks made, ..."](/statements/statement-c093d6e2dd92.md)
 - [00:22:37](#t-00-21-55) [○] (Claim) **Candace Owens**: ["Thomas Matthew Crooks started as a Trump supporter and was very angry against th..."](/statements/statement-095a93d2c45f.md)
   - About: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+- [00:22:37](#t-00-21-55) [○] (Claim) **Candace Owens**: ["Thomas Matthew Crooks was at first very angry against the left, outwardly callin..."](/statements/statement-687c0a9993ad.md)
+- [00:23:35](#t-00-23-13) [◐] (Claim) **Thomas Matthew Crooks**: ["Thomas Matthew Crooks' online history shows he was extraordinarily violent, alwa..."](/statements/statement-6c0956fc1de0.md)
 - [00:24:03](#t-00-23-58) [○] (Claim) **Candace Owens**: ["Thomas Matthew Crooks started as a Trump supporter but did a radical transformat..."](/statements/statement-d7ef82e30120.md)
   - About: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Donald J. Trump](/entities/person-donald-trump.md), [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md)
+- [00:24:19](#t-00-23-58) [○] (Claim) **Candace Owens**: ["Thomas Matthew Crooks does a radical transformation around 2020 related to COVID..."](/statements/statement-fb6a3d010def.md)
+- [00:24:49](#t-00-24-41) [◐] (Claim) **Candace Owens**: ["Thomas Matthew Crooks explicitly researching on Google the history of these assa..."](/statements/statement-908b8c9727d1.md)
 - [00:24:59](#t-00-24-41) [○] (Claim) **Candace Owens**: ["Thomas Matthew Crooks searched 'best places for a mass shooting' on Google"](/statements/statement-4992a4793977.md)
   - About: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
 - [00:25:03](#t-00-24-41) [○] (Claim) **Candace Owens**: ["Thomas Matthew Crooks searched 'best places for a mass shooting' and was fascina..."](/statements/statement-08215e01f8ee.md)
   - About: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+- [00:26:42](#t-00-26-03) [○] (Opinion) **Candace Owens**: ["These people are being programmed as part of a program similar to MKUltra, which..."](/statements/statement-f974c65382f1.md)
 - [00:27:02](#t-00-26-44) [○] (Opinion) **Candace Owens**: ["Candace suspects there is a program where candidates for violence are found in s..."](/statements/statement-432f74561c7a.md)
   - About: [MKUltra](/entities/concept-mkultra.md)
 - [00:27:07](#t-00-26-44) [○] (Opinion) **Candace Owens**: ["I think they find MKUltra candidates in schools"](/statements/statement-eb1515f9d962.md)
   - About: [MKUltra](/entities/concept-mkultra.md)
+- [00:27:09](#t-00-26-44) [○] (Claim) **Candace Owens**: ["The feds are obscuring information, using journalists to obscure, putting pressu..."](/statements/statement-96c4443576e0.md)
 - [00:27:33](#t-00-27-09) [○] (Promise) **Candace Owens**: ["Candace will not let the FBI's attempt to shut down the Charlie Kirk case invest..."](/statements/statement-2e4cf1d2b491.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:28:05](#t-00-28-00) [○] (Opinion) **Rob McCoy**: ["Charlie Kirk courageously advocated for the sacred principles of freedom, constr..."](/statements/statement-0dcf734f1780.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:33:29](#t-00-32-53) [○] (Accusation) **Candace Owens**: ["The people who rule over us know who they worship and they worship Luciferianism"](/statements/statement-f3095171c3d6.md)
   - About: [Luciferianism](/entities/concept-luciferianism.md)
+- [00:33:55](#t-00-33-34) [◐] (Accusation) **Megyn Kelly**: ["Two weeks before Charlie Kirk was assassinated, the far-left website Jezebel dec..."](/statements/statement-4f4ef33bcbd0.md)
 - [00:34:12](#t-00-33-55) [○] (Claim) **Megyn Kelly**: ["Two weeks before Charlie Kirk was assassinated, the far-left website Jezebel dec..."](/statements/statement-6abe69b7c224.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jezebel](/entities/org-jezebel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:34:44](#t-00-34-32) [◐] (Accusation) **Megyn Kelly**: ["Erika Kirk and Charlie Kirk heard about these curses, which rattled Erika, and t..."](/statements/statement-03b6911bc351.md)
+- [00:35:07](#t-00-34-32) [✓] (Accusation) **Megyn Kelly**: ["she and Charlie contacted a friend, who I believe she said was a Catholic priest..."](/statements/statement-e42f1dd83df7.md)
 - [00:35:19](#t-00-35-07) [○] (Claim) **Megyn Kelly**: ["Erika Kirk and Charlie Kirk contacted a friend, who was a Catholic priest, and a..."](/statements/statement-452be7e34efb.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:35:32](#t-00-35-07) [○] (Claim) **Megyn Kelly**: ["Etsy, the website known for making arts and crafts on demand, will happily cast ..."](/statements/statement-45fe77072d7a.md)
   - About: [Etsy](/entities/org-etsy.md)
 - [00:35:58](#t-00-35-37) [○] (Claim) **Megyn Kelly**: ["Erika Kirk and Charlie Kirk heard about the curses and contacted a friend, belie..."](/statements/statement-a525f007bb40.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:36:23](#t-00-36-18) [○] (Claim) **Candace Owens**: ["I'm going to reach out to you to pay for you to put a curse on Charlie (Charlie ..."](/statements/statement-680a840bba0c.md)
+- [00:37:34](#t-00-37-34) [✗] (Claim) **Candace Owens**: ["More than one person was behind Charlie Kirk's assassination."](/statements/statement-f1ffcbfef419.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:37:58](#t-00-37-34) [○] (Claim) **Candace Owens**: ["people are going back to church, and that they had that instinct when they watch..."](/statements/statement-60707377ace4.md)
 - [00:43:15](#t-00-42-38) [○] (Claim) **Anonymous Source #3 (Ep QZWSsq8ZWzw)**: ["The media is leaving out part of the video showing Tyler Robinson walking down a..."](/statements/statement-4065976070dc.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:43:37](#t-00-43-22) [○] (Claim) **Candace Owens**: ["The media is leaving out part of the video. It also shows Tyler Robinson changin..."](/statements/statement-0ae7e6932c63.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:43:39](#t-00-43-22) [◐] (Claim) **Candace Owens**: ["The media is leaving out the part, leaving out part of that video. It also shows..."](/statements/statement-d8ff6660c026.md)
+- [00:45:30](#t-00-45-30) [○] (Accusation) **Candace Owens**: ["Freud and the early psychoanalytic community dismissed genuine patients' reports..."](/statements/statement-3c8e6888855c.md)
+  - About: [Sigmund Freud](/entities/person-sigmund-freud.md)
+- [00:46:57](#t-00-46-49) [✓] (Promise) **Candace Owens**: ["My second book will be released later in 2025."](/statements/statement-049ad1b87abd.md)
+  - About: [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md)
 
 </details>

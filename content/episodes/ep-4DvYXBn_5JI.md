@@ -1,14 +1,14 @@
 ---
 id: "4DvYXBn_5JI"
 title: "September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337"
-description: "September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 - 96 entities, 12 events, 0 claims"
+description: "September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 - 96 entities, 12 events, 20 factual claims"
 published: "2026-05-13"
 youtube_url: "https://www.youtube.com/watch?v=4DvYXBn_5JI"
 ---
 
 **Published:** 2026-05-13 | [Watch on YouTube](https://www.youtube.com/watch?v=4DvYXBn_5JI)
 
-**Stats:** 96 entities | 12 events | 0 claims
+**Stats:** 96 entities | 12 events | 20 factual claims
 
 ---
 

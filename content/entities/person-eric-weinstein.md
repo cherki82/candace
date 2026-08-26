@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -56,10 +56,13 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Eric Weinstein (1)</strong></summary>
+<summary><strong class="section-title">Statements about Eric Weinstein (2)</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
+
+- [00:12:02](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Claim) **Candace Owens**: ["Eric Weinstein reached out to Candace Owens after the April 2018 Kanye..."](/statements/statement-7fc7b222037f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
 
 - [00:12:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Opinion) **Candace Owens**: ["Eric Weinstein is a bad person"](/statements/statement-a21bb7757e62.md)
 

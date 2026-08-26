@@ -1,14 +1,14 @@
 ---
 id: "y8lak3CRwDw"
 title: "Bride Of Charlie: What Happened In Romania? | Episode 6"
-description: "Bride Of Charlie: What Happened In Romania? | Episode 6 - 130 entities, 36 events, 0 claims"
+description: "Bride Of Charlie: What Happened In Romania? | Episode 6 - 130 entities, 36 events, 33 factual claims"
 published: "2026-03-04"
 youtube_url: "https://www.youtube.com/watch?v=y8lak3CRwDw"
 ---
 
 **Published:** 2026-03-04 | [Watch on YouTube](https://www.youtube.com/watch?v=y8lak3CRwDw)
 
-**Stats:** 130 entities | 36 events | 0 claims
+**Stats:** 130 entities | 36 events | 33 factual claims
 
 ---
 

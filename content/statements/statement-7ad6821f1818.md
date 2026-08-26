@@ -1,8 +1,8 @@
 ---
 title: "I hear this loud sound and I'm like, that wasn't what I thou..."
-description: "\"I hear this loud sound and I'm like, that wasn't what I thought it was, is it? I was like, no, this can't be happening right now. And we all ducked.\" — Emmanuel Behrer"
+description: "\"I hear this loud sound and I'm like, that wasn't what I thought it was, is it? I was like, no, this can't be happening right now. And we all ducked.\" — Emmanuel Bierer"
 statement_id: "statement-7ad6821f1818"
-speaker: "Emmanuel Behrer"
+speaker: "Emmanuel Bierer"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Emmanuel Behrer](/entities/person-emmanuel-behrer.md) (Quoted)
+**Speaker:** [Emmanuel Bierer](/entities/person-emmanuel-bierer.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

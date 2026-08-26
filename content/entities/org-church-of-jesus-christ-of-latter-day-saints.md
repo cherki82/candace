@@ -1,6 +1,6 @@
 ---
 title: "The Church of Jesus Christ of Latter-day Saints"
-description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 13 mentions"
+description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 14 mentions"
 id: "org-church-of-jesus-christ-of-latter-day-saints"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09">2025-09-24 · 00:17:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39">2026-03-24 · 00:37:39</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59">2026-07-20 · 00:17:23</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:17:23](/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59)**
+> "In 2003, we found her playing basketball at a private—a private school in Hawaii. From there, she moved to Ogden, Utah, where she studied criminal justice, graduating from Weber State University, which was founded by the Mormon Church in 2008."
+
+</details>
 
 <details>
 <summary>REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 (1 mentions)</summary>
@@ -144,6 +154,18 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Founded (1)</summary>
+
+- **[Weber State University](/entities/org-weber-state-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:17:23](/episodes/ep-N4uM8Jdr410.md#t-00-16-59): “In 2003, we found her playing basketball at a private—a private school in Hawaii. From there, she moved to Ogden, Utah, where she studied criminal justice, graduating from Weber State University, which was founded by the Mormon Church in 2008.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Member (1)</summary>
 
 - **[Nick Shirley](/entities/person-nick-shirley.md)**
@@ -156,7 +178,14 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Weber State University](/entities/org-weber-state-university.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:17:23](/episodes/ep-N4uM8Jdr410.md#t-00-16-59): “In 2003, we found her playing basketball at a private—a private school in Hawaii. From there, she moved to Ogden, Utah, where she studied criminal justice, graduating from Weber State University, which was founded by the Mormon Church in 2008.”
+
+</details>
 
 - **[Nick Shirley](/entities/person-nick-shirley.md)** member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

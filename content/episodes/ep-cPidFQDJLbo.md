@@ -1,14 +1,14 @@
 ---
 id: "cPidFQDJLbo"
 title: "TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342"
-description: "TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 - 70 entities, 22 events, 0 claims"
+description: "TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 - 70 entities, 22 events, 16 factual claims"
 published: "2026-05-20"
 youtube_url: "https://www.youtube.com/watch?v=cPidFQDJLbo"
 ---
 
 **Published:** 2026-05-20 | [Watch on YouTube](https://www.youtube.com/watch?v=cPidFQDJLbo)
 
-**Stats:** 70 entities | 22 events | 0 claims
+**Stats:** 70 entities | 22 events | 16 factual claims
 
 ---
 

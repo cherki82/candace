@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:01:01](/episodes/ep-K5GjF53bfN4.md#t-00-00-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(61);return false;">Play</a>
 
-> a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA. In fact, he wanted to put together an entire department
+> So a week before Charlie (Charlie Kirk) lost his life, he expressed some concerns about the finances at Turning Point USA. In fact, he wanted to put together an entire department, a little mini-department, to address those concerns.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Old Testament"
-description: "Old Testament (Works & Media) - 1 mention"
+description: "Old Testament (Works & Media) - 2 mentions"
 id: "work-old-testament"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Old Testament | Britannica](https://www.britannica.com/topic/Old-Testam
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-work-old-testament-t-00-51-16">2026-07-14 · 00:51:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-work-old-testament-t-00-51-16">2026-07-14 · 00:51:24</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-old-testament-t-01-03-55">2026-07-16 · 01:04:28</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [Old Testament | Britannica](https://www.britannica.com/topic/Old-Testam
 <p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-work-old-testament-t-00-51-16">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-work-old-testament-t-00-51-16" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-old-testament-t-01-03-55" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-work-old-testament-t-00-51-16) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-old-testament-t-01-03-55) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Old Testament | Britannica](https://www.britannica.com/topic/Old-Testam
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[01:04:28](/episodes/ep-mLvJqdxS-FY.md#ent-work-old-testament-t-01-03-55)**
+> "..., but I am deconstructed. The Old Testament is full of genocide. How do you reconcile that?"
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>

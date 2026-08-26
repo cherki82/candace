@@ -12,7 +12,7 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-20-22">2025-09-30 · 00:20:37</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -69,7 +69,7 @@ _Type: People_
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “He said, 'My uncle, Phil Lyman.'”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:48](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “He said, "My uncle, Phil Lyman."”
 
 </details>
 
@@ -100,9 +100,21 @@ _Type: People_
 - **[Phil Lyman](/entities/person-phil-lyman.md)** uncle/aunt of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “He said, 'My uncle, Phil Lyman.'”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:48](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “He said, "My uncle, Phil Lyman."”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Shaner Broderick (1)</strong></summary>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>
+
+- [00:06:44](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12) [○] (Claim) ["Shaner Broderick literally posted that on his Instagram. He said, 'My uncle, Phi..."](/statements/statement-6da94b2d84cf.md)
 
 </details>
 
@@ -114,7 +126,7 @@ _Type: People_
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (3)</summary>
 
-- [00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55) (Claim) **Candace Owens**: ["Shaner Broderick wiped his LinkedIn page, wiped his Facebook page enti..."](/statements/statement-67e85669d2df.md)
+- [00:07:29](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55) (Claim) **Candace Owens**: ["Shaner Broderick wiped his LinkedIn page, wiped his Facebook page enti..."](/statements/statement-67e85669d2df.md)
 
 - [00:10:00](/episodes/ep-YA1FxrDWNIo.md#t-00-09-32) (Claim) **Candace Owens**: ["One of the individuals in the photo with Shaner Broderick is Gernot Om..."](/statements/statement-d9365027ae64.md)
   - Also about: [Gernot Omer](/entities/person-gernot-omer.md)

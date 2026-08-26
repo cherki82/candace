@@ -1,14 +1,14 @@
 ---
 id: "Wjul6YV6izo"
 title: "AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299"
-description: "AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 - 94 entities, 11 events, 0 claims"
+description: "AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 - 94 entities, 11 events, 11 factual claims"
 published: "2026-01-30"
 youtube_url: "https://www.youtube.com/watch?v=Wjul6YV6izo"
 ---
 
 **Published:** 2026-01-30 | [Watch on YouTube](https://www.youtube.com/watch?v=Wjul6YV6izo)
 
-**Stats:** 94 entities | 11 events | 0 claims
+**Stats:** 94 entities | 11 events | 11 factual claims
 
 ---
 

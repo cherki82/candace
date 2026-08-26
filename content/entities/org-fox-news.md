@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 87 mentions"
+description: "Fox News (Organizations) - 89 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -18,18 +18,20 @@ _Type: Organizations_
 
 **Categories:** news organization, television network
 
+> **Possibly overlapping entity records:** [Fox Rent A Car](/entities/org-fox-rent-a-car). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official network site confirms the canonical organization name.
 Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-fox-news-t-00-54-11">2026-06-24 · 00:54:50</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-fox-news-t-00-09-05">2026-07-14 · 00:09:30</a></strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>89</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -83,6 +85,7 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-19vHhjF7-NA.md#t-00-12-07" style="--pulse-height:12%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#t-00-07-15" style="--pulse-height:12%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-fox-news-t-00-54-11" style="--pulse-height:12%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-fox-news-t-00-09-05" style="--pulse-height:25%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -134,6 +137,7 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-12-07) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-fox-news-t-00-54-11) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-fox-news-t-00-09-05) | 2 |
 
 </details>
 </section>
@@ -141,7 +145,18 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:09:28](/episodes/ep-X3VKJVJ7cN4.md#ent-org-fox-news-t-00-09-05)**
+> "... 2022 after he was fired from Fox News or had to move on from Fox News because of some r..."
+
+**[00:09:30](/episodes/ep-X3VKJVJ7cN4.md#ent-org-fox-news-t-00-09-05)**
+> "... 2022 after he was fired from Fox News or had to move on from Fox News because of some r..."
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -435,7 +450,7 @@ Source: [Fox News](https://www.foxnews.com/)
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:38:28](/episodes/ep-YaZfwLQ7vrI.md#ent-org-fox-news-t-00-38-20)**
-> "...rlson) Carlson for years now. He was very happy when Tucker (Tucker Carlson) Carlson got fired from Fox News. They don't seem to be friends. And regarding Mark Levin (Mark Levin)—if a person was actually like..."
+> "He was very happy when Tucker (Tucker Carlson) got fired from Fox News."
 
 </details>
 
@@ -652,7 +667,7 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>Formerly Employed (2)</summary>
+<summary>Formerly Employed (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -666,6 +681,13 @@ Source: [Fox News](https://www.foxnews.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:07:26](/episodes/ep-BxN2-aeMYIs.md#t-00-07-10): “Pete Hegseth has certainly been one of the more deranged pro-Israel voices of this administration. Bomb Iran, go to war, war, war, war. A very far departure from the Fox News personality that viewers had grown accustomed to.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:28](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He didn't even get hired to work with Charlie at all in any capacity until 2022 after he was fired from Fox News or had to move on from Fox News because of some racist comments.”
 
 </details>
 
@@ -703,7 +725,7 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Suzanne Scott](/entities/person-suzanne-scott.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -724,6 +746,13 @@ Source: [Fox News](https://www.foxnews.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:07:26](/episodes/ep-BxN2-aeMYIs.md#t-00-07-10): “Pete Hegseth has certainly been one of the more deranged pro-Israel voices of this administration. Bomb Iran, go to war, war, war, war. A very far departure from the Fox News personality that viewers had grown accustomed to.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:28](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He didn't even get hired to work with Charlie at all in any capacity until 2022 after he was fired from Fox News or had to move on from Fox News because of some racist comments.”
 
 </details>
 

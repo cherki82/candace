@@ -22,7 +22,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -233,7 +233,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nicole Rothstein (5)</strong></summary>
+<summary><strong class="section-title">Statements about Nicole Rothstein (6)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (4)</summary>
@@ -253,9 +253,12 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
 
 - [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) (Claim) **Candace Owens**: ["Erika Kirk is half Jewish according to her cousin Nicole Rothstein"](/statements/statement-86cb14abbe01.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:44:45](/episodes/ep-w1oqQbR_bYs.md#t-00-44-30) (Claim) **Candace Owens** (via quoted post): ["Owens displayed or recounted a social-media comment she attributed to ..."](/statements/statement-c902a0c9287a.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

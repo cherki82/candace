@@ -38,7 +38,7 @@ _No relationships extracted yet._
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
 
-- [00:21:28](/episodes/ep-EtLHqDbxqks.md#t-00-21-28) [○] (Claim) ["An unidentified law-enforcement witness recalled that Ms. Noble's report describ..."](/statements/statement-a725e3d18b50.md)
+- [00:21:28](/episodes/ep-EtLHqDbxqks.md#t-00-21-28) [✓] (Claim) ["An unidentified law-enforcement witness recalled that Ms. Noble's report describ..."](/statements/statement-a725e3d18b50.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dodge Challenger](/entities/vehicle-dodge-challenger.md), [Anonymous Source #3 (Ep EtLHqDbxqks)](/entities/anon-src-EtLHqDbxqks-003.md)
 
 </details>

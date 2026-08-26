@@ -14,7 +14,7 @@ _Type: Vehicles_
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,18 +54,6 @@ _Type: Vehicles_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Owned By (1)</summary>
-
-- **[T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md)**
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md)** owns this
-
-</details>
+_No relationships extracted yet._
 
 </details>

@@ -11,7 +11,7 @@ date: "2025-08-20"
 
 > French Foreign Legion replaces leadership in six regiments.
 
-## Mentioned In (12 times)
+## Mentioned In (8 times)
 
 ### 1. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
@@ -21,31 +21,7 @@ date: "2025-08-20"
 
 > apparently paid for my assassination and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie's assassination. And we should probably be
 
-### 2. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:17:48](/episodes/ep-his-JBjlkh8.md#t-00-17-22) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1068);return false;">▶️ Play</a>
-
-> ow, of course—especially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just
-
-### 3. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:49:19](/episodes/ep-his-JBjlkh8.md#t-00-49-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2959);return false;">▶️ Play</a>
-
-> And now, of course—especially as we have learned about Delaw
-
-### 4. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:49:40](/episodes/ep-his-JBjlkh8.md#t-00-49-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2980);return false;">▶️ Play</a>
-
-> And now, of course—especially as we have learned about Delaw
-
-### 5. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+### 2. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:19:06](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-20-french-foreign-legion-replaces-leadership-in-six-r-t-00-00-57) 
@@ -53,7 +29,7 @@ date: "2025-08-20"
 
 > th the French Foreign Legion was on the ground on September 10th at Utah Valley University? And we are asking that explicit question because one of the strangest th
 
-### 6. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+### 3. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:01:12](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-20-french-foreign-legion-replaces-leadership-in-six-r-t-00-00-57) 
@@ -61,7 +37,7 @@ date: "2025-08-20"
 
 > right now? In the wake of me having learned that France apparently paid for my assassination and that the French Foreign Legion was apparently involved and
 
-### 7. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+### 4. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:05:08](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-20-french-foreign-legion-replaces-leadership-in-six-r-t-00-00-57) 
@@ -69,15 +45,7 @@ date: "2025-08-20"
 
 > apparently paid for my assassination and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie's assassinati
 
-### 8. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:41:15](/episodes/ep-his-JBjlkh8.md#t-00-40-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2475);return false;">▶️ Play</a>
-
-> Charlie's assassination. Now, I obviously reported that the
-
-### 9. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+### 5. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:20:07](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-20-french-foreign-legion-replaces-leadership-in-six-r-t-00-00-57) 
@@ -85,7 +53,7 @@ date: "2025-08-20"
 
 > the 2nd Foreign Infantry Regiment, a unit of the French Foreign Legion, did indeed take place in California from August 2nd to the 25th, as reported by Candace Owens. The
 
-### 10. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+### 6. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:59:13](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-20-french-foreign-legion-replaces-leadership-in-six-r-t-00-00-57) 
@@ -93,7 +61,7 @@ date: "2025-08-20"
 
 > me National Guard regiments that were there, some French Foreign Legionnaires that were there, and yes, some Israelis that were there, hence the 12 Israeli cell phones, an
 
-### 11. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+### 7. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:15:59](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-20-french-foreign-legion-replaces-leadership-in-six-r-t-00-00-57) 
@@ -101,7 +69,7 @@ date: "2025-08-20"
 
 > ing to the French Foreign Legion website, between August 2nd and August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment,
 
-### 12. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
+### 8. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 **Timestamp:** [00:18:42](/episodes/ep-tB5SXXmd9vU.md#event-event-2025-08-20-french-foreign-legion-replaces-leadership-in-six-r-t-00-00-57) 

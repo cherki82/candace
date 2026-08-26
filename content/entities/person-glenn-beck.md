@@ -21,7 +21,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <div><span>Episodes</span><strong>19</strong></div>
 <div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -31,7 +31,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <p>Highest activity: <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17">Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-glenn-beck-t-00-07-38" style="--pulse-height:12%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-45" style="--pulse-height:25%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-05" style="--pulse-height:25%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 8 mentions" title="2025-12-12 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-glenn-beck-t-00-05-30" style="--pulse-height:25%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-11" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
@@ -55,7 +55,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-glenn-beck-t-00-07-38) | 1 |
-| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-45) | 2 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-05) | 2 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17) | 8 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-glenn-beck-t-00-05-30) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-11) | 1 |
@@ -269,11 +269,11 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
 
-**[00:08:35](/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-45)**
-> "...r—who just deserves all of the credit on this amazing discovery. And I'm going to let you listen to Glenn Beck (Glenn Beck), who is interviewing Steve Baker, to tell you about how he came across this footage an..."
+**[00:08:35](/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-05)**
+> "...'m going to let you listen to Glenn Beck, who is interviewing Steve Baker, to tell you abo..."
 
 **[00:08:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-45)**
-> "...o tell you about how he came across this footage and how that went down. *(Clip from Steve Baker on Glenn Beck)* When I stumbled on what I stumbled on, and because, as I said, I've been pulling these threads fo..."
+> "*(Clip from Steve Baker on Glenn Beck)* When I stumbled on what I stumbled on,"
 
 </details>
 
@@ -309,7 +309,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 - **[Steve Baker](/entities/person-steve-baker.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “listen to Glenn Beck, who is interviewing Steve Baker”
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “And I'm going to let you listen to Glenn Beck, who is interviewing Steve Baker, to tell you about how he came across this footage and how that went down.”
 
 </details>
 
@@ -336,10 +336,9 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 - **[Steve Baker](/entities/person-steve-baker.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “listen to Glenn Beck, who is interviewing Steve Baker”
-- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:45](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “Glenn Beck interviewing Steve Baker about the pipe bomb discovery”
+- [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): “And I'm going to let you listen to Glenn Beck, who is interviewing Steve Baker, to tell you about how he came across this footage and how that went down.”
 
 </details>
 
@@ -358,7 +357,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Glenn Beck (4)</strong></summary>
+<summary><strong class="section-title">Statements about Glenn Beck (5)</strong></summary>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
@@ -389,6 +388,14 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 
 - [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said on Glenn Beck's show that she had Charlie's phone and ..."](/statements/statement-14d3ddbacf08.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (1)</summary>
+
+- [00:16:30](/episodes/ep-6J6lRZPQ4jk.md#t-00-16-17) (Claim) **Candace Owens**: ["Erika Kirk also sat down with Glenn Beck of Blaze TV for an interview ..."](/statements/statement-891143be14d4.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

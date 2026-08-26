@@ -91,8 +91,8 @@ _No relationships extracted yet._
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (5)</summary>
 
-- [00:05:44](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) (Claim) **Candace Owens**: ["On October 11th, I tweeted about the Egyptian military plane that left..."](/statements/statement-a8a04b25ada0.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Provo](/entities/gpe-provo.md)
+- [00:05:44](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) (Claim) **Candace Owens**: ["On October 11, 2025, Candace Owens posted about the Egyptian aircraft ..."](/statements/statement-a8a04b25ada0.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:11:06](/episodes/ep-JQjCAsfoXEE.md#t-00-10-24) (Claim) **Candace Owens**: ["I discovered that the Egyptian planes had been tracking Charlie Kirk"](/statements/statement-0e4093cf3ac5.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

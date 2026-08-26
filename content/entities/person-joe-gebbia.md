@@ -83,7 +83,7 @@ _Type: People_
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
-- [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
+- [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani."](/statements/statement-411d9c4a3eeb.md)
   - Also about: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 </details>

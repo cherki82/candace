@@ -31,7 +31,7 @@ type: "citation"
 **Timestamp:** [00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1010);return false;">Play</a>
 
-> According to all the president's men, a March 25th report on Angola Gates by Global Witness, Gaidemach funneled billions, billions of dollars in arms and oil-backed loans to Angola's government in return for lucrative oil contracts. With with Western oil companies Falcone and get a mock relying on the special access that Mitterrand had to the Angolan government managed to transfer some 63 million in arms to Angola
+> According to all the president's men, a March 25th report on Angola Gates by Global Witness, Gaidemach funneled billions, billions of dollars in arms and oil-backed loans to Angola's government in return for lucrative oil contracts. With with Western oil companies Falcone and get a mock relying on the special access that Mitterrand had to the Angolan government managed to transfer some $463 million in arms to Angola and
 
 ## Verification
 

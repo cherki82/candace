@@ -26,7 +26,7 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59">2026-08-14 · 01:39:03</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>24</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -288,7 +288,7 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Nate Brooksby (4)</strong></summary>
+<summary><strong class="section-title">Statements by Nate Brooksby (6)</strong></summary>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (4)</summary>
@@ -304,6 +304,15 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 
 - [00:42:31](/episodes/ep-7ERqbYElOfs.md#t-00-42-26) [✓] (Claim) ["Tyler Robinson agreed to come to Nate Brooksby's office after a negotiation beca..."](/statements/statement-5aebb9144a43.md)
   - About: [Nate Brooksby](/entities/person-nate-brooksby.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2)</summary>
+
+- [00:09:39](/episodes/ep-ZGxnf5cj4Uw.md#t-00-09-12) [○] (Claim) ["Tyler potentially having some suicidal ideations, was en route to a remote area ..."](/statements/statement-040c13f3a85d.md)
+
+- [00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-17-23) [○] (Claim) ["Mike Mitchell is a retired detective that worked for me for many years"](/statements/statement-681949e6d050.md)
 
 </details>
 

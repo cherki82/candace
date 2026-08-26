@@ -26,7 +26,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <div><span>Episodes</span><strong>18</strong></div>
 <div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -300,7 +300,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Elon Musk (3)</strong></summary>
+<summary><strong class="section-title">Statements about Elon Musk (4)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>
@@ -319,9 +319,11 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2)</summary>
 
 - [00:00:07](/episodes/ep-5autG89PW6w.md#t-00-00-00) (Accusation) **Candace Owens**: ["Elon Musk clearly gave Twitter/X away to the military, and we now have..."](/statements/statement-8a2b992f4e8b.md)
+
+- [00:00:07](/episodes/ep-5autG89PW6w.md#t-00-00-00) (Opinion) **Candace Owens**: ["Elon Musk gave Twitter/X to the military"](/statements/statement-40600d7f6565.md)
 
 </details>
 

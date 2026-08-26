@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:14:31](/episodes/ep-6DhWawD4ZiM.md#t-00-14-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(871);return false;">Play</a>
 
-> We actually are showing a clip of Rob defending a pedophile or trying to like launder the reputation of... That's fam. That's the CK show fam.
+> We actually are showing a clip of Rob (Rob McCoy) defending a pedophile or trying to like launder the reputation of... That's fam. That's the CK show fam.
 
 ## Verification
 

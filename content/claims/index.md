@@ -12,4 +12,4 @@ Claims are now represented as factual claims in the canonical statements dataset
 
 ---
 
-The legacy claims dataset is retained for migration history but is not published as a second, conflicting research record.
+The retired legacy claims dataset is archived for migration history and is not published as a second, conflicting research record.

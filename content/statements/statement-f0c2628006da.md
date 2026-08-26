@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:35:18](/episodes/ep-iHav0PPzUz8.md#t-00-34-51) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2118);return false;">Play</a>
 
-> And yes, this is the same Seth Dillon at that notorious Hamptons Summit—who I told you pressed Charlie (Charlie Kirk), and a couple of weeks before he died—horrific to Charlie (Charlie Kirk)—made Charlie (Charlie Kirk) feel as if he was suddenly sitting down and being told that his viewpoints had changed and it was unacceptable.
+> And yes, this is the same Seth Dillon at that notorious Hamptons Summit—who I told you pressed Charlie (Charlie Kirk), and a couple of weeks before he died— horrific to Charlie (Charlie Kirk)—made Charlie (Charlie Kirk) feel as if he was suddenly sitting down and being told that his viewpoints had changed and it was unacceptable.
 
 ## Verification
 

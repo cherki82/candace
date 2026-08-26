@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:11:47](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(707);return false;">Play</a>
 
-> Terrell was told to remove that SD card by police. That was not true. Terrell personally told me that that was not true.
+> Next page, Terrell (Terrell Farnsworth) (Terrell Farnsworth) was told to remove that SD card by police. That was not true. Terrell (Terrell Farnsworth) personally told me that that was not true.
 
 ## Verification
 

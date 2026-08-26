@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -58,6 +58,11 @@ _Type: People_
 <summary>Funded (1)</summary>
 
 - **[David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:47:01](/episodes/ep-581dILVcEE4.md#t-00-46-30): “They fund a variety of pro-Israel causes through the David Horowitz Freedom Center.”
+
+</details>
 
 </details>
 
@@ -65,22 +70,30 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:47:01](/episodes/ep-581dILVcEE4.md#t-00-46-30): “They fund a variety of pro-Israel causes through the David Horowitz Freedom Center.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Joyce Chernick (2)</strong></summary>
+<summary><strong class="section-title">Statements about Joyce Chernick (3)</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3)</summary>
 
 - [00:46:54](/episodes/ep-581dILVcEE4.md#t-00-46-30) (Claim) **Candace Owens**: ["Joyce Chernick withdrew a million dollars from Turning Point USA after..."](/statements/statement-2cc33b468008.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:46:56](/episodes/ep-581dILVcEE4.md#t-00-46-30) (Claim) **Candace Owens**: ["Joyce Chernick is married to Aubrey Chernick, a software tech billiona..."](/statements/statement-ccf27b84c748.md)
   - Also about: [Aubrey Chernick](/entities/person-aubrey-chernick.md), [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md)
+
+- [00:47:01](/episodes/ep-581dILVcEE4.md#t-00-46-30) (Claim) **Candace Owens**: ["Aubrey Chernick and Joyce Chernick fund pro-Israel causes through the ..."](/statements/statement-a2f5bc472d3a.md)
+  - Also about: [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md), [Aubrey Chernick](/entities/person-aubrey-chernick.md)
 
 </details>
 

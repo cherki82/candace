@@ -22,7 +22,7 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -125,10 +125,10 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:01:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-22)**
-> "...y for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right? Candace Owens: And despite the fact that they were heading to Montana, they decided ..."
+> "It was contracted by our military for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right?"
 
 **[00:03:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-03-31)**
-> "...lace 26 minutes after. Candace Owens: And then the plane went back home or back to the home base in El Paso. Candace Owens: Now, it's possible—just to be fair here—that the plane was running a military train..."
+> "And then the plane went back home or back to the home base in El Paso."
 
 </details>
 
@@ -142,7 +142,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about El Paso (9)</strong></summary>
+<summary><strong class="section-title">Statements about El Paso (10)</strong></summary>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
@@ -193,6 +193,14 @@ _No relationships extracted yet._
 
 - [00:46:13](/episodes/ep-6DhWawD4ZiM.md#t-00-45-47) (Claim) **Candace Owens**: ["There were weird flights coming from El Paso, Texas on the day of Char..."](/statements/statement-4f46327805eb.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
+
+- [00:01:44](/episodes/ep-iHav0PPzUz8.md#t-00-01-22) (Claim) **Candace Owens**: ["A military-contracted aircraft identified as N1098L departed Biggs Arm..."](/statements/statement-c37d3180176a.md)
+  - Also about: [N1098L](/entities/vehicle-n1098l.md), [Biggs Army Airfield](/entities/org-biggs-army-airfield.md)
 
 </details>
 

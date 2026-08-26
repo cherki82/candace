@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:19:30](/episodes/ep-_dRaEO47-co.md#t-00-18-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1170);return false;">Play</a>
 
-> never for a single minute ever did Charlie and I stop being friends
+> And I just want to say that Charlie (Charlie Kirk) and I—because I think this is important—never for a single minute ever did Charlie (Charlie Kirk) and I stop being friends.
 
 ## Verification
 

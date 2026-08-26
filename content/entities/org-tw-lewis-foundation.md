@@ -14,7 +14,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,19 +54,7 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Owns (1)</summary>
-
-- **[N560TW](/entities/vehicle-n560tw.md)**
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[N560TW](/entities/vehicle-n560tw.md)** owned by this
-
-</details>
+_No relationships extracted yet._
 
 </details>
 
@@ -76,8 +64,8 @@ _Type: Organizations_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-19-55) (Claim) **Candace Owens**: ["A plane owned by T.W. Lewis Foundation, a Turning Point USA donor, dep..."](/statements/statement-fe34067004e8.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Provo](/entities/gpe-provo.md)
+- [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-19-55) (Claim) **Candace Owens**: ["Owens said N560TW, an aircraft registered to T W Lewis-Aviation LLC, f..."](/statements/statement-fe34067004e8.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

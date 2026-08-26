@@ -1,6 +1,6 @@
 ---
 title: "Genocide"
-description: "Genocide (Concepts) - 17 mentions"
+description: "Genocide (Concepts) - 20 mentions"
 id: "concept-genocide"
 type: "CONCEPT"
 categories:
@@ -18,9 +18,9 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-genocide-t-00-14-33">2026-01-07 · 00:14:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-39-47">2026-06-10 · 00:39:59</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-01-03-55">2026-07-16 · 01:04:28</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-genocide-t-00-33-07" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-genocide-t-00-21-17" style="--pulse-height:40%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-28-56" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 5 mentions" title="2026-06-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-00-59-49" style="--pulse-height:60%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-genocide-t-00-33-07) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-genocide-t-00-21-17) | 2 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-28-56) | 5 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-00-59-49) | 3 |
 
 </details>
 </section>
@@ -61,7 +63,21 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[01:00:16](/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-00-59-49)**
+> "...d something wrong when I said genocide is always wrong. Nope, I did not."
+
+**[01:00:21](/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-00-59-49)**
+> "You doing the genocide is what's wrong. Anyway, I'm kind of going over t..."
+
+**[01:04:28](/episodes/ep-mLvJqdxS-FY.md#ent-concept-genocide-t-01-03-55)**
+> "... The Old Testament is full of genocide. How do you reconcile that?"
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (5 mentions)</summary>

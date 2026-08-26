@@ -16,7 +16,7 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-cam-higby-t-00-47-08">2025-12-05 · 00:47:14</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -47,7 +47,7 @@ _Type: People_
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (10 mentions)</summary>
 
-**[00:00:29](/episodes/ep-ZAuuSq_j2_w.md#ent-person-cam-higby-t-00-02-11)**
+**[00:00:24](/episodes/ep-ZAuuSq_j2_w.md#ent-person-cam-higby-t-00-02-11)**
 > "Cam Higby—remember that weird propagandist reporter who goes to the Pentagon press secretary"
 
 **[00:02:11](/episodes/ep-ZAuuSq_j2_w.md#ent-person-cam-higby-t-00-02-11)**
@@ -126,13 +126,20 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Cam Higby (1)</strong></summary>
+<summary><strong class="section-title">Statements by Cam Higby (2)</strong></summary>
 
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
 
 - [00:02:46](/episodes/ep-ZAuuSq_j2_w.md#t-00-02-41) [○] (Claim) ["Does the DoD have any evidence at all of a French military plot to assassinate C..."](/statements/statement-a333ab862f94.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md)
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1)</summary>
+
+- [00:42:18](/episodes/ep-his-JBjlkh8.md#t-00-42-06) [○] (Claim) ["The DoW has no evidence of a French military plot to assassinate Candace Owens"](/statements/statement-7f5842e61af1.md)
 
 </details>
 

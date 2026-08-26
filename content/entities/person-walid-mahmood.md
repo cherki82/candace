@@ -12,12 +12,12 @@ _Type: People_
 **Also known as:** Walid Mahmoud
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25">2025-12-05 · 00:03:14</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25">2025-12-05 · 00:03:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-18-21">2025-12-05 · 00:18:47</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,7 +45,7 @@ _Type: People_
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (11 mentions)</summary>
 
-**[00:03:14](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25)**
+**[00:03:13](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25)**
 > "But the name that one of those individuals was using is Walid Mahmood, okay?"
 
 **[00:14:42](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25)**
@@ -90,10 +90,16 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Walid Mahmood (3)</strong></summary>
+<summary><strong class="section-title">Statements about Walid Mahmood (5)</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5)</summary>
+
+- [00:03:22](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th, 2024 aboard Egyptian military..."](/statements/statement-9a21f286b0b6.md)
+  - Also about: [Provo](/entities/gpe-provo.md)
+
+- [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-14-25) (Claim) **Candace Owens**: ["One of the four passengers on the yellow plane to Delaware was using t..."](/statements/statement-e8ce61355fdf.md)
   - Also about: [SU-BTT](/entities/vehicle-su-btt.md)

@@ -1,14 +1,14 @@
 ---
 id: "gG4ZoYUjUc8"
 title: "Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295"
-description: "Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 - 81 entities, 9 events, 0 claims"
+description: "Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 - 81 entities, 9 events, 10 factual claims"
 published: "2026-01-22"
 youtube_url: "https://www.youtube.com/watch?v=gG4ZoYUjUc8"
 ---
 
 **Published:** 2026-01-22 | [Watch on YouTube](https://www.youtube.com/watch?v=gG4ZoYUjUc8)
 
-**Stats:** 81 entities | 9 events | 0 claims
+**Stats:** 81 entities | 9 events | 10 factual claims
 
 ---
 

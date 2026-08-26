@@ -13,7 +13,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,7 +52,7 @@ _Type: Organizations_
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:06:06](/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-08-31)**
-> "Minot Air Force Base in North Dakota"
+> "It pretty much is just the Air Force base, by the way, before making its way onto Provo."
 
 **[00:08:36](/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-08-31)**
 > "... I mean—this is what the public was told about what they were training for, okay? So this is on the Minot Air Force Base website. It says Operation Valhalla Strike was a week-long training where the 891st Squadron from M..."
@@ -71,5 +71,21 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Minot Air Force Base (2)</strong></summary>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2)</summary>
+
+- [00:07:37](/episodes/ep-mKXdKV-OBog.md#t-00-07-13) (Claim) **Candace Owens**: ["North Dakota has approximately 750,000 people statewide, and Minot has..."](/statements/statement-41afec5ce47b.md)
+  - Also about: [Minot](/entities/gpe-minot.md), [North Dakota](/entities/gpe-north-dakota.md)
+
+- [00:08:11](/episodes/ep-mKXdKV-OBog.md#t-00-07-51) (Claim) **Candace Owens**: ["Operation Valhalla Strike took place August 24th-29th, 2024, where the..."](/statements/statement-95e5b46aded2.md)
+  - Also about: [Minnesota](/entities/gpe-minnesota.md), [891st Missile Security Forces Squadron](/entities/org-891st-missile-security-forces-squadron.md)
+
+</details>
 
 </details>

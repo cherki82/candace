@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:17:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1044);return false;">Play</a>
 
-> Someone—and I believe it was someone at BuzzFeed—cut a clip of a video from the Q&A portion of that UK event. This is again over two months later. And they stripped the question that was asked of me. they were saying that I was justifying Adolf Hitler killing Jews.
+> Someone—and I believe it was someone at BuzzFeed—cut a clip of a video from the Q&A portion of that UK event. This is again over two months later. And they stripped the question that was asked of me.
 
 ## Verification
 

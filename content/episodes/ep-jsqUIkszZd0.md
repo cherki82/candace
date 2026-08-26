@@ -1,14 +1,14 @@
 ---
 id: "jsqUIkszZd0"
 title: "BREAKING: The ATF Traced A Gun On 9/10. Erika's \"Friend\" Wanted To Own Its Company. | Candace Ep 324"
-description: "BREAKING: The ATF Traced A Gun On 9/10. Erika's \"Friend\" Wanted To Own Its Company. | Candace Ep 324 - 104 entities, 25 events, 0 claims"
+description: "BREAKING: The ATF Traced A Gun On 9/10. Erika's \"Friend\" Wanted To Own Its Company. | Candace Ep 324 - 104 entities, 25 events, 21 factual claims"
 published: "2026-04-14"
 youtube_url: "https://www.youtube.com/watch?v=jsqUIkszZd0"
 ---
 
 **Published:** 2026-04-14 | [Watch on YouTube](https://www.youtube.com/watch?v=jsqUIkszZd0)
 
-**Stats:** 104 entities | 25 events | 0 claims
+**Stats:** 104 entities | 25 events | 21 factual claims
 
 ---
 

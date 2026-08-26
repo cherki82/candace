@@ -4,9 +4,10 @@ description: "\"There was one shot that rang out, and people saw Charlie Kirk in
 statement_id: "statement-a15fc82ec1e5"
 speaker: "Tiffany Peterson Barker"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -24,7 +25,9 @@ type: "factual_claim"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:20:22](/episodes/ep-sreYYcID-QY.md#t-00-20-17) 
@@ -32,9 +35,30 @@ type: "factual_claim"
 
 > There was one shot that rang out, and everybody instantly looked around and then fell to the ground. People saw Charlie (Charlie Kirk) instantly get shot in the neck, and everybody fell to the ground
 
+### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+
+**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+**Timestamp:** [00:20:22](/episodes/ep-sreYYcID-QY.md#t-00-20-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1222);return false;">Play</a>
+
+> People saw Charlie (Charlie Kirk) instantly get shot in the neck, and everybody fell to the ground, and then people started running and got run over
+
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Multiple reliable sources, including Wikipedia, BBC, and ABC News, confirm that Charlie Kirk was fatally shot in the neck with a single shot during his event at Utah Valley University in Orem, Utah on September 10, 2025. Eyewitness accounts and video footage described in news reports indicate that people in the audience saw the shooting occur instantly, with Kirk slumping in his chair and bleeding profusely from the neck wound.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+
+*Verified: 2026-08-26T08:04:38.682813*
 
 ---
 

@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:37:07](/episodes/ep-6J6lRZPQ4jk.md#t-00-36-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2227);return false;">Play</a>
 
-> Like by sending someone to follow me after I was no longer employed there to try to make me look bad on camera.
+> Like by sending someone to follow me after I was no longer employed there. to try to make me look bad on camera.
 
 ## Verification
 

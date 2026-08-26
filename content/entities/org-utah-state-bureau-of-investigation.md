@@ -1,6 +1,6 @@
 ---
 title: "Utah State Bureau of Investigation"
-description: "Utah State Bureau of Investigation (Organizations) - 7 mentions"
+description: "Utah State Bureau of Investigation (Organizations) - 10 mentions"
 id: "org-utah-state-bureau-of-investigation"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-utah-state-bureau-of-investigation-t-00-14-40">2026-04-20 · 00:14:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-state-bureau-of-investigation-t-01-33-02">2026-08-14 · 01:33:02</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,8 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-utah-state-bureau-of-investigation-t-00-14-40" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-utah-state-bureau-of-investigation-t-00-22-22" style="--pulse-height:25%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-utah-state-bureau-of-investigation-t-00-51-37" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-utah-state-bureau-of-investigation-t-00-21-48" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-utah-state-bureau-of-investigation-t-00-16-37" style="--pulse-height:50%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-state-bureau-of-investigation-t-01-33-02" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -48,6 +50,8 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-utah-state-bureau-of-investigation-t-00-14-40) | 4 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-utah-state-bureau-of-investigation-t-00-22-22) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-utah-state-bureau-of-investigation-t-00-51-37) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-utah-state-bureau-of-investigation-t-00-21-48) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-utah-state-bureau-of-investigation-t-00-16-37) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-state-bureau-of-investigation-t-01-33-02) | 1 |
 
 </details>
@@ -56,13 +60,32 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:33:02](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-state-bureau-of-investigation-t-01-33-02)**
 > "...uld not FBI combined with the SBI."
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:15:42](/episodes/ep-N4uM8Jdr410.md#ent-org-utah-state-bureau-of-investigation-t-00-16-37)**
+> "And those items, as we learned, were then recovered by Sergeant Jennifer Faumuina of the State Bureau of Investigations, her office. And I have to say this, Jennifer Faumuina rubs me the wrong way."
+
+**[00:16:37](/episodes/ep-N4uM8Jdr410.md#ent-org-utah-state-bureau-of-investigation-t-00-16-37)**
+> "I've been with the State Bureau of Investigation for eight years, but I'm also assigned full-time ..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:22:17](/episodes/ep-mLvJqdxS-FY.md#ent-org-utah-state-bureau-of-investigation-t-00-21-48)**
+> "...n earth would the FBI and the SBI accept that, well, the person was on Charlie (Cha..."
 
 </details>
 
@@ -104,12 +127,47 @@ Source: [State Bureau of Investigation](https://sbi.utah.gov/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Employs (1)</summary>
+
+- **[Jennifer Faumuina](/entities/person-jennifer-faumuina.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:14:46](/episodes/ep-mLvJqdxS-FY.md#t-00-14-20): “Now, I want you to also take a listen again, we played this for you yesterday, to Sergeant Jennifer Faumuina.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37): “I've been with the State Bureau of Investigation for eight years, but I'm also assigned full-time to the FBI as part of the Joint Terrorism Task Force.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Jennifer Faumuina](/entities/person-jennifer-faumuina.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:14:46](/episodes/ep-mLvJqdxS-FY.md#t-00-14-20): “Now, I want you to also take a listen again, we played this for you yesterday, to Sergeant Jennifer Faumuina.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37): “I've been with the State Bureau of Investigation for eight years, but I'm also assigned full-time to the FBI as part of the Joint Terrorism Task Force.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah State Bureau of Investigation (2)</strong></summary>
+<summary><strong class="section-title">Statements about Utah State Bureau of Investigation (4)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:15:42](/episodes/ep-N4uM8Jdr410.md#t-00-15-42) (Claim) **Candace Owens**: ["Candace Owens said Sergeant Jennifer Faumuina's State Bureau of Invest..."](/statements/statement-8dc2a360b06d.md)
+  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md)
+
+- [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina said she had been with the State Bureau of Investiga..."](/statements/statement-91e752cc44db.md)
+  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>

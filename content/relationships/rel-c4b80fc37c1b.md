@@ -15,7 +15,7 @@ object: "org-tp-action"
 
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 
-- [00:00:27](/episodes/ep-ozWJz2spBcI#t-00-00-27): _their TP Action COO, Tyler Boyer_
+- [00:00:27](/episodes/ep-ozWJz2spBcI#t-00-00-27): _Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge._
 
 ### Related
 

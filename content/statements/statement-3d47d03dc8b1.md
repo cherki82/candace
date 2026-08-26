@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Emmanuel Behrer](/entities/person-emmanuel-behrer.md) (person)
+- [Emmanuel Bierer](/entities/person-emmanuel-bierer.md) (person)
 - [Oracle](/entities/org-oracle.md) (org)
 
 ## Source

@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:30](/episodes/ep-_dRaEO47-co.md#t-00-07-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(510);return false;">Play</a>
 
-> Don and Eric got him a gift certificate—I think it was for his birthday—to a fancy suit place to go get fitted
+> But eventually, Don (Donald Trump Jr.) and Eric (Eric Trump) got him a gift certificate—I think it was for his birthday—to a fancy suit place to go get fitted.
 
 ## Verification
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2768);return false;">Play</a>
 
-> The American Jewish Committee called—in a statement—Charlie Kirk an anti-Semite and quote 'dangerous.'
+> The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous."
 
 ## Verification
 

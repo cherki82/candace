@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:22](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(502);return false;">Play</a>
 
-> In fact, the only thing that I have heard that made sense—which did not come from our government, did not come from the feds, did not come from the Utah government, but rather from the people that are on the ground, who believe that actually Tyler was just told to walk and drop off his gun at a neighboring house—that, for some reason, just feels like that might be honest and that was how he participated in this event.
+> In fact, the only thing that I have heard that made sense—which did not come from our government, did not come from the feds, did not come from the Utah government, but rather from the people that are on the ground, who believe that actually Tyler was just told to walk and drop off his gun at a neighboring house— that, for some reason, just feels like that might be honest and that was how he participated in this event.
 
 ## Verification
 

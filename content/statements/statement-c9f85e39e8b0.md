@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:06:25](/episodes/ep-ja26iltROkM.md#t-00-06-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(385);return false;">Play</a>
 
-> I believe that people within that company betrayed Charlie, okay? That's just what I believe right now
+> That's just what I believe right now.
 
 ## Verification
 

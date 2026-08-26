@@ -1,6 +1,6 @@
 ---
 title: "Cardiopulmonary resuscitation"
-description: "Cardiopulmonary resuscitation (Concepts) - 35 mentions"
+description: "Cardiopulmonary resuscitation (Concepts) - 47 mentions"
 id: "concept-cardiopulmonary-resuscitation"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-cardiopulmonary-resuscitation-t-00-38-48">2026-06-17 · 00:38:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-cardiopulmonary-resuscitation-t-01-18-29">2026-07-14 · 01:18:54</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-45">2026-07-20 · 00:35:10</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-cardiopulmonary-resuscitation-t-00-32-36" style="--pulse-height:75%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 9 mentions" title="2026-06-26 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-concept-cardiopulmonary-resuscitation-t-00-17-40" style="--pulse-height:17%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-cardiopulmonary-resuscitation-t-01-18-29" style="--pulse-height:25%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-01-58" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 12 mentions" title="2026-07-20 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-cardiopulmonary-resuscitation-t-00-32-36) | 9 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-concept-cardiopulmonary-resuscitation-t-00-17-40) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-cardiopulmonary-resuscitation-t-01-18-29) | 3 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-01-58) | 12 |
 
 </details>
 </section>
@@ -57,7 +59,48 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (12 mentions)</summary>
+
+**[00:01:58](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-01-58)**
+> "This is—everything's weird. It was very odd. And Frank Turek wants you to know that he and Brian Harpole share different details about what happened in the car, that entire CPR bit—well,"
+
+**[00:31:11](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-30-45)**
+> "Brian Harpole asserting that CPR was not performed, while Frank Turek says that it..."
+
+**[00:31:32](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-32)**
+> "...he ride, we weren't doing any CPR. We couldn't do CPR. We're trying to stop the ble..."
+
+**[00:31:41](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-31-32)**
+> "So no CPR was done. It wasn't until the last, say, 30 secon..."
+
+**[00:32:13](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-32-13)**
+> "...top the bleeding. I mentioned CPR because I was the one trying it."
+
+**[00:33:38](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-33-30)**
+> "...lling the truth, there was no CPR,' and then he's like, 'I gave CPR'?"
+
+**[00:33:45](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-33-30)**
+> "I gave the CPR for 30 seconds and Brian (Brian Harpole) was righ..."
+
+**[00:34:03](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-03)**
+> "Providing life-saving CPR to someone is not what most would describe as a m..."
+
+**[00:34:23](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-03)**
+> "...would you be focused on that? CPR—you're saying that you moved Charlie Kirk's body ..."
+
+**[00:34:45](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-45)**
+> "...arlie (Charlie Kirk) into the CPR position, because we were told the door was open ..."
+
+**[00:35:02](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-45)**
+> "... have someone flat to conduct CPR. How did he miss you moving the body into that po..."
+
+**[00:35:10](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-45)**
+> "...g on top of him and providing CPR. I don't—I know you're really passionate, but I a..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3 mentions)</summary>
@@ -195,5 +238,21 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Cardiopulmonary resuscitation (2)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:31:32](/episodes/ep-N4uM8Jdr410.md#t-00-31-32) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said no CPR was performed during most of the ride to the h..."](/statements/statement-21f69ed8e965.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:22](/episodes/ep-N4uM8Jdr410.md#t-00-35-22) (Accusation) **Candace Owens**: ["Candace Owens said she thought either Frank Turek or Brian Harpole lie..."](/statements/statement-000a70eceff7.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
 
 </details>

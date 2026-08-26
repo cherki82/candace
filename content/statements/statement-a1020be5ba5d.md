@@ -4,9 +4,10 @@ description: "\"Lance Twiggs said he could not identify the person in the images
 statement_id: "statement-a1020be5ba5d"
 speaker: "Lance Twiggs"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "opinion"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Day 4 hearing transcript directly records Twiggs saying he could not be 100 percent certain because of image quality, while identifying the shoes and sunglasses as resembling Robinson’s and ultimately saying the images looked like him.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 4](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
+
+*Verified: 2026-08-26T08:00:38.177865*
 
 ---
 

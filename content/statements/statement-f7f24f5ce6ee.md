@@ -29,7 +29,7 @@ type: "promise"
 **Timestamp:** [00:45:33](/episodes/ep-ja26iltROkM.md#t-00-45-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2733);return false;">Play</a>
 
-> Im not going to stop unless Erika Kirk asks me to stop—as I have said—or my father or my husband asks me to stop—because truth matters.
+> I'm not going to stop unless Erika Kirk asks me to stop—as I have said—or my father or my husband asks me to stop—because truth matters.
 
 ## Verification
 

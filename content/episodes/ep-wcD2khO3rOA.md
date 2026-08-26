@@ -1,14 +1,14 @@
 ---
 id: "wcD2khO3rOA"
 title: "The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287"
-description: "The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 - 153 entities, 17 events, 0 claims"
+description: "The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 - 153 entities, 17 events, 27 factual claims"
 published: "2026-01-09"
 youtube_url: "https://www.youtube.com/watch?v=wcD2khO3rOA"
 ---
 
 **Published:** 2026-01-09 | [Watch on YouTube](https://www.youtube.com/watch?v=wcD2khO3rOA)
 
-**Stats:** 153 entities | 17 events | 0 claims
+**Stats:** 153 entities | 17 events | 27 factual claims
 
 ---
 

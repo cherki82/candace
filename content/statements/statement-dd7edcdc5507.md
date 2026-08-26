@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:40:02](/episodes/ep-c5BcKF91iec.md#t-00-39-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2402);return false;">Play</a>
 
-> He said, 'I'm not really afraid of it, but I'm just telling you what I know to be true.'
+> He said, "I'm not really afraid of it, but I'm just telling you what I know to be true."
 
 ## Verification
 

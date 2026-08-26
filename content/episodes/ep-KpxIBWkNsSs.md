@@ -1,14 +1,14 @@
 ---
 id: "KpxIBWkNsSs"
 title: "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
-description: "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 - 103 entities, 19 events, 0 claims"
+description: "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 - 103 entities, 19 events, 8 factual claims"
 published: "2026-05-11"
 youtube_url: "https://www.youtube.com/watch?v=KpxIBWkNsSs"
 ---
 
 **Published:** 2026-05-11 | [Watch on YouTube](https://www.youtube.com/watch?v=KpxIBWkNsSs)
 
-**Stats:** 103 entities | 19 events | 0 claims
+**Stats:** 103 entities | 19 events | 8 factual claims
 
 ---
 

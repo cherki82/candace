@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:47](/episodes/ep-sImMM04XdWY.md#t-00-08-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(527);return false;">Play</a>
 
-> Xavier Poussard is the person who wrote the 'Becoming Brigitte' book. He has never been sued for defamation
+> Xavier Poussard is the person who wrote the "Becoming Brigitte" book.
 
 ## Verification
 

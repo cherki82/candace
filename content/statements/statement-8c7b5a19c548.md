@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:21:54](/episodes/ep-2Riv3I7D0Yk.md#t-00-21-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1314);return false;">Play</a>
 
-> The last words I think Charlie (Charlie Kirk) spoke to me were—he literally said, 'You know, Josh, you know, when the Israel question comes up, I'm just going to plug your book, you know, Israel and Civilization, because I think that what you write in the book basically is how I feel as well'
+> The last words I think Charlie (Charlie Kirk) spoke to me were— he literally said, 'You know, Josh, you know, when the Israel question comes up, I'm just going to plug your book, you know, Israel and Civilization, because I think that what you write in the book basically is how I feel as well.'"
 
 ## Verification
 

@@ -15,7 +15,7 @@ object: "person-david-friedman"
 
 **[Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog)**
 
-- [00:25:39](/episodes/ep-mKXdKV-OBog#t-00-25-39): _David Friedman, the former U.S. ambassador to Israel_
+- [00:25:28](/episodes/ep-mKXdKV-OBog#t-00-25-28): _Now just to go back—in case you missed it back in October—Mike Huckabee and the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform_
 
 ### Related
 

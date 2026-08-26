@@ -22,7 +22,7 @@ type: "accusation"
 
 - [Brian Harpole](/entities/person-brian-harpole.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
@@ -39,6 +39,14 @@ type: "accusation"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(597);return false;">Play</a>
 
 > This did not happen. Brian Harpole, you are lying through your teeth.
+
+### 3. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+
+**Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
+**Timestamp:** [00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">Play</a>
+
+> I know that I say that every episode is going to be explosive, but the lies and the intentional misrepresentations that are being delivered by Turning Point USA and their affiliates are really reaching a fever pitch because we can confirm that Brian Harpole lied badly to Sean Ryan in...
 
 ## Verification
 

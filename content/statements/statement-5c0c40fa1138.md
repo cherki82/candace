@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:21:35](/episodes/ep-c5BcKF91iec.md#t-00-21-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1295);return false;">Play</a>
 
-> He said, 'Yes, it is new. In fact, this was the first time we were doing it.' He said there were two people—two ops watching it back in Arizona.
+> He said, "Yes, it is new. In fact, this was the first time we were doing it." He said there were two people—two ops watching it back in Arizona.
 
 ## Verification
 

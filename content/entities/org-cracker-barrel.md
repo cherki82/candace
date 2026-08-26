@@ -44,7 +44,7 @@ _Type: Organizations_
 **[00:01:54](/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-01-27)**
 > "...e of that, by the way, is the Cracker Barrel scandal, which was hilarious, but it was a good p..."
 
-**[00:02:14](/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-02-02)**
+**[00:02:02](/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-02-02)**
 > "A very recent example of that, by the way, is the Cracker Barrel scandal, which was hilarious, but it was a good point for everybody to learn"
 
 **[00:03:11](/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-02-46)**

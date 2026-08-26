@@ -15,7 +15,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,13 +64,30 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jonathan Pollard (1)</strong></summary>
+<summary><strong class="section-title">Statements about Jonathan Pollard (5)</strong></summary>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
 
 - [01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09) (Claim) **Candace Owens**: ["Mike Huckabee notoriously supported Jonathan Pollard, an American spy."](/statements/statement-ff3e0d8d5d57.md)
   - Also about: [Mike Huckabee](/entities/person-mike-huckabee.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4)</summary>
+
+- [00:26:31](/episodes/ep-mKXdKV-OBog.md#t-00-26-11) (Claim) **Candace Owens**: ["Mike Huckabee, US Ambassador to Israel, met with Jonathan Pollard, a c..."](/statements/statement-cf5a21bab8d6.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Mike Huckabee](/entities/person-mike-huckabee.md)
+
+- [00:26:37](/episodes/ep-mKXdKV-OBog.md#t-00-26-11) (Claim) **Candace Owens**: ["Jonathan Pollard spent 30 years in prison on espionage charges after p..."](/statements/statement-b69f913bbaa6.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:27:18](/episodes/ep-mKXdKV-OBog.md#t-00-26-47) (Claim) **Candace Owens**: ["Mike Huckabee was among several pro-Israel politicians who advocated f..."](/statements/statement-6b6fc1cadba6.md)
+  - Also about: [Mike Huckabee](/entities/person-mike-huckabee.md)
+
+- [00:27:45](/episodes/ep-mKXdKV-OBog.md#t-00-27-32) (Claim) **Karoline Leavitt** (via quoted speech): ["Karoline Leavitt said the White House was not aware of Mike Huckabee's..."](/statements/statement-f609d9ebf31e.md)
+  - Also about: [White House](/entities/org-white-house.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md), [Mike Huckabee](/entities/person-mike-huckabee.md)
 
 </details>
 

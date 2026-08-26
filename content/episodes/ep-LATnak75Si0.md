@@ -1,14 +1,14 @@
 ---
 id: "LATnak75Si0"
 title: "Mamdani Wins. Charlie Kirk Questions Haunt \"MAGA\". | Candace Ep 259"
-description: "Mamdani Wins. Charlie Kirk Questions Haunt \"MAGA\". | Candace Ep 259 - 101 entities, 13 events, 0 claims"
+description: "Mamdani Wins. Charlie Kirk Questions Haunt \"MAGA\". | Candace Ep 259 - 101 entities, 13 events, 25 factual claims"
 published: "2025-11-05"
 youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 ---
 
 **Published:** 2025-11-05 | [Watch on YouTube](https://www.youtube.com/watch?v=LATnak75Si0)
 
-**Stats:** 101 entities | 13 events | 0 claims
+**Stats:** 101 entities | 13 events | 25 factual claims
 
 ---
 
@@ -157,7 +157,7 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-LATnak75Si0/t-00-20-09.md" class="timestamp-link">00:20:09</a> <a href="https://www.youtube.com/watch?v=LATnak75Si0&t=1209" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So again, it makes sense why this group is incredibly frantic. She's a voice of Gen Z, so you would think that the good thing to do here would be to listen, to break bread—for someone to reach out and invite her onto a show so they can talk about it, so they can hear their voices. You might recall <span id="ent-person-charlie-kirk-t-00-20-09"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> did this. He sat down with Gen Z and said, "I'm trying to tell them that they are pushing an entire generation away with their actions." But we know how they responded to <a href="/entities/person-charlie-kirk.md">Charlie</a> doing that. They started calling him an anti-Semite. They started squeezing him up into the last moments of his life. They were making financial threats to him. And not just financial threats—they made good on those threats. People like Bob Shulman took $2 million away from him because he let <span id="ent-person-tucker-carlson-t-00-20-09"><a href="/entities/person-tucker-carlson.md">Tucker</a></span> hit the stage. They've learned nothing. They've learned nothing. ^t-00-20-09
+**<a href="/timestamps/ep-LATnak75Si0/t-00-20-09.md" class="timestamp-link">00:20:09</a> <a href="https://www.youtube.com/watch?v=LATnak75Si0&t=1209" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So again, it makes sense why this group is incredibly frantic. She's a voice of Gen Z, so you would think that the good thing to do here would be to listen, to break bread—for someone to reach out and invite her onto a show so they can talk about it, so they can hear their voices. You might recall <span id="ent-person-charlie-kirk-t-00-20-09"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> did this. He sat down with Gen Z and said, "I'm trying to tell them that they are pushing an entire generation away with their actions." But we know how they responded to <a href="/entities/person-charlie-kirk.md">Charlie</a> doing that. They started calling him an anti-Semite. They started squeezing him up into the last moments of his life. They were making financial threats to him. And not just financial threats—they made good on those threats. People like Bob Shulman (Robert Shillman) took $2 million away from him because he let <span id="ent-person-tucker-carlson-t-00-20-09"><a href="/entities/person-tucker-carlson.md">Tucker</a></span> hit the stage. They've learned nothing. They've learned nothing. ^t-00-20-09
 
 **<a href="/timestamps/ep-LATnak75Si0/t-00-20-53.md" class="timestamp-link">00:20:53</a> <a href="https://www.youtube.com/watch?v=LATnak75Si0&t=1253" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And so rather than trying to reach across and say to Gen Z or to say to <span id="ent-person-brett-cooper-t-00-20-53"><a href="/entities/person-brett-cooper.md">Brett Cooper</a></span>, "Hey, I'd love to have you on our show," or "Hey, I'd love for you to meet this person," they're already calling her the white <span id="ent-person-candace-owens-t-00-20-53"><a href="/entities/person-candace-owens.md">Candace</a></span>. If you're <span id="ent-person-erin-wexler-t-00-20-53"><a href="/entities/person-erin-wexler.md">Erin Wexler</a></span>—here's an actual tweet. Okay: "White <a href="/entities/person-candace-owens.md">Candace</a>—what is a Nazi then?" Like, what? How does that make any sense? Why are you calling <a href="/entities/person-brett-cooper.md">Brett Cooper</a> the white <a href="/entities/person-candace-owens.md">Candace</a>? Like, why are you even thinking about the fact that <a href="/entities/person-brett-cooper.md">Brett Cooper</a> is white? Why do we keep seeing this recurring theme of Jewish supremacists constantly having to comment on white people? Like, why does she have to be the white <a href="/entities/person-candace-owens.md">Candace</a>? That's ridiculous. We don't even have the same ideas. ^t-00-20-53
 
@@ -368,31 +368,44 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 </details>
 
 <details>
-<summary><strong>Statements (24)</strong></summary>
+<summary><strong>Statements (39)</strong></summary>
 
-- [00:00:05](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Mamdani won the New York City mayoral election"](/statements/statement-70d16cea31e1.md)
+- [00:00:05](#t-00-00-00) [✓] (Claim) **Candace Owens**: ["Mamdani won the New York City mayoral election"](/statements/statement-70d16cea31e1.md)
   - About: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+- [00:00:05](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Mamdani won."](/statements/statement-b2b7e29734d2.md)
 - [00:02:33](#t-00-02-10) [○] (Claim) **Candace Owens**: ["The UVU request for Charlie Kirk to speak came in mid-July and was immediately a..."](/statements/statement-90e4798ae183.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:02:39](#t-00-02-10) [○] (Claim) **Candace Owens**: ["Turning Point received a request from UVU for Charlie Kirk to speak on their cam..."](/statements/statement-226c6de6ad1b.md)
+- [00:02:39](#t-00-02-10) [○] (Claim) **Candace Owens**: ["UVU requested Charlie Kirk to speak on campus in mid-July 2025"](/statements/statement-cd2151c40340.md)
+- [00:02:59](#t-00-02-55) [○] (Claim) **Candace Owens**: ["Turning Point USA approved the UVU request immediately and scheduled Charlie Kir..."](/statements/statement-dc1551fb9b4e.md)
 - [00:03:27](#t-00-02-55) [○] (Claim) **Candace Owens**: ["Turning Point USA campus events are typically planned months in advance, not wee..."](/statements/statement-1eb033402bb9.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:03:27](#t-00-02-55) [◐] (Claim) **Candace Owens**: ["Candace Owens and Charlie Kirk went on campus tour together in April 2024"](/statements/statement-8997436b9d65.md)
+- [00:04:02](#t-00-03-39) [○] (Claim) **Candace Owens**: ["Email came in October of 2023 for planning April 2024 campus events including Un..."](/statements/statement-ec307cb20308.md)
+- [00:04:02](#t-00-03-39) [○] (Claim) **Candace Owens**: ["Planning for Candace Owens' April 2024 campus events began in October 2023"](/statements/statement-08f42613e5ec.md)
 - [00:04:49](#t-00-04-23) [○] (Accusation) **Candace Owens**: ["The Charlie Kirk assassination was an inside job"](/statements/statement-394e38fb6410.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:05:35](#t-00-04-56) [○] (Accusation) **Candace Owens**: ["Turning Point USA is involved in the Charlie Kirk assassination at some layer or..."](/statements/statement-16edaa3ebdfe.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:42](#t-00-06-20) [○] (Accusation) **Candace Owens**: ["The plan was to assassinate Charlie Kirk after he faltered on the pro-Israel cau..."](/statements/statement-10e98b7cc902.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:10:22](#t-00-09-44) [○] (Claim) **Candace Owens**: ["Bill Ackman gave .75 million to stop Mamdani"](/statements/statement-dff9a93bd8a0.md)
+- [00:09:53](#t-00-09-44) [✓] (Claim) **Candace Owens**: ["Mamdani won against Andrew Cuomo in the NYC mayoral race"](/statements/statement-14733a48c49b.md)
+- [00:10:07](#t-00-09-44) [✓] (Claim) **Candace Owens**: ["Bill Ackman donated $1.75 million to PACs opposing Zohran Mamdani in the 2025 Ne..."](/statements/statement-e9c76e71619c.md)
   - About: [Bill Ackman](/entities/person-bill-ackman.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
-- [00:10:30](#t-00-09-44) [○] (Claim) **Candace Owens**: ["Michael Bloomberg gave .3 million to a Cuomo-affiliated super PAC to stop Mamdan..."](/statements/statement-96b210228669.md)
-  - About: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
-- [00:10:41](#t-00-10-30) [○] (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
+- [00:10:30](#t-00-09-44) [✓] (Claim) **Candace Owens**: ["Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to stop Mamd..."](/statements/statement-dad0599bcea0.md)
+  - About: [Andrew Cuomo](/entities/person-andrew-cuomo.md), [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+- [00:10:41](#t-00-10-30) [◐] (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani."](/statements/statement-411d9c4a3eeb.md)
   - About: [Joe Gebbia](/entities/person-joe-gebbia.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+- [00:10:47](#t-00-10-30) [◐] (Claim) **Candace Owens**: ["The Tisch family gave $1.2 million to stop Mamdani."](/statements/statement-5700d61fdbdd.md)
 - [00:12:35](#t-00-12-33) [○] (Opinion) **Zohran Mamdani**: ["I believe Israel has the right to exist, but not as a Jewish state—as a state wi..."](/statements/statement-d23013945481.md)
   - About: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
-- [00:14:26](#t-00-13-49) [○] (Claim) **Candace Owens**: ["New York has the largest population of Jewish people of any city in the world ne..."](/statements/statement-f894364f670d.md)
+- [00:14:26](#t-00-13-49) [✓] (Claim) **Candace Owens**: ["New York has the largest population of Jewish people of any city in the world ne..."](/statements/statement-f894364f670d.md)
+- [00:14:45](#t-00-14-30) [◐] (Claim) **Candace Owens**: ["Mamdani got 32% of the Jewish vote according to a CNN exit poll."](/statements/statement-e709079b17bf.md)
 - [00:14:52](#t-00-14-30) [○] (Citation) **Candace Owens**: ["Mamdani got 32% of the Jewish vote in New York City exit polls"](/statements/statement-2dbdb6480c36.md)
   - About: [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+- [00:15:00](#t-00-14-30) [○] (Claim) **Candace Owens**: ["CNN exit poll of about 4,700 people coming out."](/statements/statement-edc5d4e280fb.md)
+- [00:15:38](#t-00-15-11) [○] (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdani would lo..."](/statements/statement-08b3721de5cf.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 - [00:18:36](#t-00-18-27) [○] (Accusation) **Brett Cooper**: ["Randy Fine has repeatedly introduced bills to criminalize anti-Semitism, infring..."](/statements/statement-f391fd2b0af7.md)
   - About: [Randy Fine](/entities/person-randy-fine.md)
 - [00:18:46](#t-00-18-27) [○] (Opinion) **Brett Cooper**: ["Randy Fine cares more about Israel than he does about principles like free speec..."](/statements/statement-179d931a52f3.md)
@@ -401,14 +414,15 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
   - About: [Ted Cruz](/entities/person-ted-cruz.md)
 - [00:20:09](#t-00-20-02) [○] (Accusation) **Ted Cruz**: ["Trump's bombing of the Ayatollah's nuclear facilities made the little Nazi mad"](/statements/statement-ff670def82b5.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
-- [00:20:44](#t-00-20-09) [○] (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdani would lo..."](/statements/statement-08b3721de5cf.md)
-  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:28:23](#t-00-28-06) [○] (Claim) **Candace Owens**: ["Bob Shulman took  million away from Charlie Kirk because he let Tucker Carlson h..."](/statements/statement-15d3386acf60.md)
-  - About: [Bob Schulman](/entities/person-bob-schulman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+- [00:20:45](#t-00-20-09) [✓] (Claim) **Candace Owens**: ["Robert Shillman withdrew a $2 million pledge from Turning Point USA because Char..."](/statements/statement-15d3386acf60.md)
+  - About: [Robert Shillman](/entities/person-robert-shillman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+- [00:22:21](#t-00-22-10) [✓] (Claim) **Candace Owens**: ["Brett Cooper starred in the Daily Wire movie 'Lady Ballers'"](/statements/statement-eb83fcbb7f08.md)
 - [00:30:40](#t-00-30-36) [○] (Accusation) **Candace Owens**: ["Candace Owens is one of the most disgusting folks who ever gets airplay on any m..."](/statements/statement-950edc37141c.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
+- [00:31:39](#t-00-31-13) [○] (Claim) **Candace Owens**: ["Charlie Kirk was never rendered any first aid immediately; security team did not..."](/statements/statement-01280192630c.md)
 - [00:31:42](#t-00-31-13) [○] (Claim) **Candace Owens**: ["Charlie Kirk was never rendered any first aid immediately after being shot"](/statements/statement-5cd7686cb9b0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:32:30](#t-00-31-55) [○] (Claim) **Candace Owens**: ["Security guard grabbed Charlie Kirk and guided him onto the ground on top of an ..."](/statements/statement-6a70c2440a6d.md)
 - [00:42:42](#t-00-42-01) [○] (Accusation) **Candace Owens**: ["Turning Point USA is engaged in a cover-up regarding Charlie Kirk's assassinatio..."](/statements/statement-14ecc95c404d.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:43:18](#t-00-42-45) [○] (Citation) **Candace Owens**: ["Blake Neff says they got Charlie Kirk to the hospital within 25 minutes"](/statements/statement-0724ec75944f.md)
@@ -417,5 +431,6 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:44:46](#t-00-44-08) [○] (Accusation) **Candace Owens**: ["Turning Point USA is lying about the phone calls on the day Charlie Kirk was sho..."](/statements/statement-d7015a166221.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:47:44](#t-00-47-39) [✓] (Claim) **Candace Owens**: ["Conservative activist Laura Loomer has a new Pentagon press pass."](/statements/statement-5515540e535d.md)
 
 </details>

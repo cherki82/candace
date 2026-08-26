@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:47:18](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2838);return false;">Play</a>
 
-> Seth Dillon of the Babylon Bee, for example. Someone who had his own problems with free speech—who was famously canceled. I like Seth Dillon. I had him on a couple of times. I had dinner with him to show support. Seth Dillon was out there demanding that Charlie Kirk take me off the roster—pull me off stage—because I had said things that Benjamin Netanyahu didn't like or that he didn't like or whatever.
+> Seth Dillon of the Babylon Bee, for example. Someone who had his own problems with free speech—who was famously canceled. I like Seth Dillon. I had him on a couple of times. I had dinner with him to show support. Seth Dillon was out there demanding that Charlie (Charlie Kirk) take me off the roster—pull me off stage—because I had said things that Benjamin Netanyahu (Benjamin Netanyahu) didn't like or that he didn't like or whatever.
 
 ## Verification
 

@@ -17,7 +17,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -82,12 +82,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charles Joseph Bonaparte (1)</strong></summary>
+<summary><strong class="section-title">Statements about Charles Joseph Bonaparte (2)</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
 
 - [00:04:24](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18) (Claim) **Candace Owens**: ["The FBI was founded by Charles Joseph Bonaparte, whose grandfather was..."](/statements/statement-a2e517323d1a.md)
+
+- [00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18) (Claim) **Candace Owens**: ["our FBI was founded by Charles Joseph Bonaparte"](/statements/statement-fcb4622dfe3b.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Napoleon Bonaparte](/entities/person-napoleon-bonaparte.md)
 
 </details>
 

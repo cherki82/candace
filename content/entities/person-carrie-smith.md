@@ -63,13 +63,13 @@ _Type: People_
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3 mentions)</summary>
 
 **[00:44:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
-> "... out who killed Charlie (Charlie Kirk) Kirk. That's all. I want to know who killed my friend. Well, Carrie Smith, who is the host of the podcast "Deprogrammed with Carrie Smith," says that she was formerly of a c..."
+> "Well, Carrie Smith, who is the host of the podcast "Deprogrammed wit..."
 
 **[00:44:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
-> "...lie (Charlie Kirk) Kirk's assassination, then you—you at home— are in a cult. Take it away, Carrie (Carrie Smith). *(Clip from Carrie Smith)* I do think it's a cult. I think she is exhibiting several cult tactics..."
+> "Take it away, Carrie (Carrie Smith)."
 
 **[00:44:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-50)**
-> "...ssassination, then you—you at home— are in a cult. Take it away, Carrie (Carrie Smith). *(Clip from Carrie Smith)* I do think it's a cult. I think she is exhibiting several cult tactics. She's demonstrating sever..."
+> "*(Clip from Carrie Smith)* I do think it's a cult."
 
 </details>
 

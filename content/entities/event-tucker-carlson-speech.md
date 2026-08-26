@@ -46,7 +46,7 @@ _Type: Events_
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:16:20](/episodes/ep-a-e7HC6SeK8.md#t-00-16-11)**
-> "...ginning with the inflection point, which was that Tucker Carlson speech. Now, I want to say this. On that July 11th when Tucker Carlson gave that speech, I did—and I hope ..."
+> "So let's jump into our timeline, beginning with the inflection point, which was that Tucker (Tucker Carlson) speech."
 
 </details>
 

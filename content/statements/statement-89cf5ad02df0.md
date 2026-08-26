@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:32:49](/episodes/ep-ja26iltROkM.md#t-00-32-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1969);return false;">Play</a>
 
-> I can tell you the timeframe and why they wiped it: because its from 2023... The reason they stripped that and didnt put the date—that it was 2023—is because it destroys the narrative that theyre trying to put out
+> He is incensed, and he is saying, "Here are the words that we have to hear from Candace (Candace Owens)." The reason they stripped that and didn't put the date—that it was 2023—is because it destroys the narrative that they're trying to put out: that me and Charlie (Charlie Kirk) had a falling out. Because obviously I went on tour with Charlie (Charlie Kirk) at the beginning of 2024, and I spoke at their conference in the summer of 2024.
 
 ## Verification
 

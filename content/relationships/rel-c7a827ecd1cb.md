@@ -15,7 +15,7 @@ object: "org-newsweek"
 
 **[BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8)**
 
-- [00:49:38](/episodes/ep-iHav0PPzUz8#t-00-49-38): _Josh Hammer is actually the editor at large at Newsweek._
+- [00:49:38](/episodes/ep-iHav0PPzUz8#t-00-49-38): _Like these are like Josh Hammer— ... is actually the editor at large at Newsweek._
 
 ### Related
 

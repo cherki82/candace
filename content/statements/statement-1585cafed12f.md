@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3482);return false;">Play</a>
 
-> I was told Benjamin Netanyahu gave for Operation Mockingpastor. Remember when all the pastors one weekend got up on stage and were like, 'Tucker Carlson and Candace Owens?' That is what I was told. That was 150 million dollars went into that
+> I was told Benjamin Netanyahu gave for Operation Mockingpastor. Remember when all the pastors one weekend got up on stage and were like, "Tucker Carlson (Tucker Carlson) and Candace Owens (Candace Owens)?" That is what I was told. That was 150 million dollars went into that.
 
 ## Verification
 

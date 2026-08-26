@@ -1,6 +1,6 @@
 ---
 title: "United States Pentagon"
-description: "United States Pentagon (Organizations) - 35 mentions"
+description: "United States Pentagon (Organizations) - 38 mentions"
 id: "org-united-states-pentagon"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43">2025-09-18 · 00:04:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-pentagon-t-01-01-34">2026-06-26 · 01:01:34</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-40-17">2026-07-16 · 00:40:50</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-pentagon-t-00-26-01" style="--pulse-height:40%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-pentagon-t-00-41-19" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-pentagon-t-01-01-34" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-38-49" style="--pulse-height:30%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-pentagon-t-00-26-01) | 4 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-pentagon-t-00-41-19) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-pentagon-t-01-01-34) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-38-49) | 3 |
 
 </details>
 </section>
@@ -72,7 +74,21 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[00:38:49](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-38-49)**
+> "...ach Turek) was working at the Pentagon. He is today employed in Washington, D.C. at the ..."
+
+**[00:39:24](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-38-49)**
+> "... brother. Call someone at the Pentagon."
+
+**[00:40:50](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-pentagon-t-00-40-17)**
+> "...son, Zach (Frank Zach Turek), Pentagon Zach (Frank Zach Turek), actually wrote a book to..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -159,14 +175,14 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (6 mentions)</summary>
 
-**[00:00:29](/episodes/ep-ZAuuSq_j2_w.md#ent-org-united-states-pentagon-t-00-02-11)**
+**[00:00:24](/episodes/ep-ZAuuSq_j2_w.md#ent-org-united-states-pentagon-t-00-02-11)**
 > "Cam Higby—remember that weird propagandist reporter who goes to the Pentagon press secretary"
 
 **[00:02:11](/episodes/ep-ZAuuSq_j2_w.md#ent-org-united-states-pentagon-t-00-02-11)**
 > "...date you guys and let you know that Cam Higby—remember that weird propagandist reporter who goes to the Pentagon press secretary and is like, "Don't laugh." Okay, right. Don't laugh. And then proceeds to ask if t..."
 
 **[00:02:38](/episodes/ep-ZAuuSq_j2_w.md#ent-org-united-states-pentagon-t-00-02-11)**
-> "...harlie Kirk) was assassinated. Yeah, this is Cam Higby. Take a listen. (Clip: Cam Higby speaking to the Pentagon press secretary) Yeah, so this is my first question, and don't laugh. Does the DoW have any evidenc..."
+> "Yeah, this is Cam Higby. Take a listen. (Clip: Cam Higby speaking to the Pentagon press secretary)"
 
 **[00:19:20](/episodes/ep-ZAuuSq_j2_w.md#ent-org-united-states-pentagon-t-00-19-06)**
 > "...sinated Charlie (Charlie Kirk). It should be expressed by our government. It should be expressed by the Pentagon and their giggly press secretary and press members. We should be asking this question. Instead, we'..."
@@ -332,7 +348,15 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Pentagon (6)</strong></summary>
+<summary><strong class="section-title">Statements about United States Pentagon (7)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [00:38:49](/episodes/ep-mLvJqdxS-FY.md#t-00-38-49) (Claim) **Candace Owens**: ["Candace Owens said Frank Zach Turek worked at the Pentagon as Deputy D..."](/statements/statement-c2b8c8e58350.md)
+  - Also about: [Frank Zachary Turek](/entities/person-frank-zachary-turek.md), [Joint Staff](/entities/org-joint-staff.md)
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>

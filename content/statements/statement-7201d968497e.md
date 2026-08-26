@@ -1,16 +1,17 @@
 ---
-title: "Eric Bolling is lying on the PBD podcast to establish the na..."
-description: "\"Eric Bolling is lying on the PBD podcast to establish the narrative that I haven't spoken to Charlie Kirk in years\" — Candace Owens"
+title: "Owens accused Eric Bolling of lying on the PBD Podcast to pr..."
+description: "\"Owens accused Eric Bolling of lying on the PBD Podcast to promote a narrative that she and Charlie Kirk had not spoken in years\" — Candace Owens"
 statement_id: "statement-7201d968497e"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
-> Eric Bolling is lying on the PBD podcast to establish the narrative that I haven't spoken to Charlie Kirk in years
+> Owens accused Eric Bolling of lying on the PBD Podcast to promote a narrative that she and Charlie Kirk had not spoken in years
 
 ## Attribution
 
@@ -20,9 +21,9 @@ type: "accusation"
 
 ## About
 
-- [Eric Bolling](/entities/person-eric-bolling.md) (person)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Eric Bolling](/entities/person-eric-bolling.md) (person)
 
 ## Source
 
@@ -34,7 +35,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Bolling did make the reported break-up and communication-gap claims on PBD. Owens's characterization of him as knowingly lying is an accusation about intent that the public evidence does not establish.
+
+**Confidence:** High
+
+**Sources:**
+
+- [PBD Podcast Ep. 650 with Eric Bolling](https://www.youtube.com/watch?v=eqanfOo9jJs)
+- [Charlie Kirk had a break-up with Candace Owens, Eric Bolling said](https://www.yahoo.com/news/articles/charlie-kirk-had-break-candace-181702318.html)
+
+*Verified: 2026-08-26T09:01:17.415739*
 
 ---
 

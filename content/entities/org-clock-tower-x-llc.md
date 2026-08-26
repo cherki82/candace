@@ -31,7 +31,7 @@ Source: [FARA Documents: Clock Tower X LLC (Registration 7649)](https://efile.fa
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -121,6 +121,18 @@ Source: [FARA Documents: Clock Tower X LLC (Registration 7649)](https://efile.fa
 </details>
 
 <details>
+<summary>Owned By (1)</summary>
+
+- **[Brad Parscale](/entities/person-brad-parscale.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:34:49](/episodes/ep-puuMVxEu5NU.md#t-00-34-13): “the former Trump (Donald Trump) campaign manager, his firm, Clock Tower X, to conduct a digital campaign”
+
+</details>
+
+</details>
+
+<details>
 <summary>Represented By (1)</summary>
 
 - **[Dhillon Law Group](/entities/org-dhillon-law-group.md)**
@@ -133,7 +145,19 @@ Source: [FARA Documents: Clock Tower X LLC (Registration 7649)](https://efile.fa
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Worked With (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:34:49](/episodes/ep-puuMVxEu5NU.md#t-00-34-13): “Clock Tower X, we talked about this. The Israeli foreign minister quite literally hiring Brad Parscale, the former Trump (Donald Trump) campaign manager, his firm, Clock Tower X, to conduct a digital campaign on behalf of the Iranian government on behalf of the On behalf of the state of Israel,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Havas Media Germany GmbH](/entities/org-havas-media-germany.md)** hired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -146,6 +170,13 @@ Source: [FARA Documents: Clock Tower X LLC (Registration 7649)](https://efile.fa
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:17:07](/episodes/ep-eMtjzXkQrsU.md#t-00-16-57): “We had lunch at this private club in D.C. Anyway, fast forward, he's now running Clocktower X.”
+
+</details>
+
+- **[Brad Parscale](/entities/person-brad-parscale.md)** owns this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:34:49](/episodes/ep-puuMVxEu5NU.md#t-00-34-13): “the former Trump (Donald Trump) campaign manager, his firm, Clock Tower X, to conduct a digital campaign”
 
 </details>
 

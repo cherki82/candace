@@ -30,7 +30,7 @@ type: "prediction"
 **Timestamp:** [00:39:24](/episodes/ep-c5BcKF91iec.md#t-00-38-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2364);return false;">Play</a>
 
-> He said, 'If I tell you the true prophecy that I know in my gut, it's really sad, but I hope it's wrong.'
+> He said, "If I tell you the true prophecy that I know in my gut, it's really sad, but I hope it's wrong."
 
 ## Verification
 

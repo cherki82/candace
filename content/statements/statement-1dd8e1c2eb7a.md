@@ -30,7 +30,7 @@ type: "opinion"
 **Timestamp:** [00:06:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-06-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(404);return false;">Play</a>
 
-> Trump wrote on April 19th, 2013: Should be public execution for all to see. You will end this bull fast
+> "Should be public execution for all to see. You will end this bull fast."
 
 ## Verification
 

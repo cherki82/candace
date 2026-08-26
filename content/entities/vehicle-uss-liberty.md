@@ -1,6 +1,6 @@
 ---
 title: "USS Liberty"
-description: "USS Liberty (Vehicles) - 9 mentions"
+description: "USS Liberty (Vehicles) - 10 mentions"
 id: "vehicle-uss-liberty"
 type: "VEHICLE"
 aliases:
@@ -20,10 +20,10 @@ _Type: Vehicles_
 Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/middle-east/six-day-war-liberty.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59">2026-01-29 · 00:05:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41">2025-11-08 · 00:40:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-vehicle-uss-liberty-t-00-16-24">2026-06-09 · 00:16:24</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,6 +34,7 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59">Candace x Bassem Youssef | Candace Ep 298</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41" style="--pulse-height:20%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-uss-liberty-t-00-49-48" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-vehicle-uss-liberty-t-00-03-44" style="--pulse-height:20%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
@@ -44,6 +45,7 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-04-59) | 5 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-vehicle-uss-liberty-t-00-49-48) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-vehicle-uss-liberty-t-00-03-44) | 1 |
@@ -56,7 +58,7 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -107,6 +109,14 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 
 **[01:25:34](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-01-25-31)**
 > "...gree with Phil Tourney of the USS Liberty."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
+
+**[00:40:03](/episodes/ep-r1PS67aRmcA.md#ent-vehicle-uss-liberty-t-00-39-41)**
+> "...nce 1960 when they bombed the USS Liberty."
 
 </details>
 
@@ -170,13 +180,13 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
   - Also about: [Israel](/entities/gpe-israel.md)
 
 - [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) (Accusation) **Candace Owens**: ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phi..."](/statements/statement-2bff31e56fad.md)
-  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Phil Tourney](/entities/person-phil-tourney.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12) (Accusation) **Ward Boston** (via quoted document): ["The USS Liberty investigation was a cover-up and the attack was delibe..."](/statements/statement-477a982ea9ac.md)
   - Also about: [Ward Boston](/entities/person-ward-boston.md), [United States Navy](/entities/org-united-states-navy.md), [Israel](/entities/gpe-israel.md)
 
-- [01:26:30](/episodes/ep-xjzb_t5Tk9o.md#t-01-26-30) (Claim) **Phil Tourney** (via quoted speech): ["Phil Tourney recalled that USS Liberty crew initially thought Israeli ..."](/statements/statement-4c21e1b441cd.md)
-  - Also about: [Phil Tourney](/entities/person-phil-tourney.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+- [01:26:30](/episodes/ep-xjzb_t5Tk9o.md#t-01-26-30) (Claim) **Phillip F. Tourney** (via quoted speech): ["Phil Tourney recalled that USS Liberty crew initially thought Israeli ..."](/statements/statement-4c21e1b441cd.md)
+  - Also about: [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
 
 </details>
 

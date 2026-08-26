@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:17:13](/episodes/ep-iHav0PPzUz8.md#t-00-17-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1033);return false;">Play</a>
 
-> Rather extraordinarily, this person told me that it was there on some discrete mission—so discreet that this individual was scared for their life to present this information
+> Rather extraordinarily, this person told me that it was there on some discrete mission— so discreet that this individual was scared for their life to present this information, but felt compelled to present it because they too were horrified like the rest of the world.
 
 ## Verification
 

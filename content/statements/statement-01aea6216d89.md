@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:12:00](/episodes/ep-MUA9ebCF4Ow.md#t-00-11-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(720);return false;">Play</a>
 
-> Megyn actually caught very quickly...she was in that discussion...And she reveals very quickly—you were going to hear Charlie say that Tucker should go for it...he says to Tucker, 'Go max.'
+> And she reveals very quickly—you were going to hear Charlie (Charlie Kirk) say that Tucker (Tucker Carlson) should go for it.
 
 ## Verification
 

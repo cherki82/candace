@@ -46,7 +46,7 @@ _Type: Organizations_
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
 
 **[00:02:46](/episodes/ep-ZAuuSq_j2_w.md#ent-org-french-military-t-00-02-46)**
-> "...ry) Yeah, so this is my first question, and don't laugh. Does the DoW have any evidence at all of a French military plot to assassinate Candace Owens? That is an interesting question. Not that I'm aware of, but you ..."
+> "Does the DoD have any evidence at all of a French military plot to assassinate Candace Owens?"
 
 </details>
 

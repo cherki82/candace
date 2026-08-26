@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:11:36](/episodes/ep-pc3pxRyNFZk.md#t-00-11-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(696);return false;">Play</a>
 
-> I then determined that the person doing the shoving is first and foremost not a Turning Point USA employee. He is beyond that not a student at UVU. He is not a Turning Point USA student therefore either. He was actually brought in as a volunteer.
+> Well, then it's kind of interesting. You should know, but I then determined that the person doing the shoving is first and foremost not a Turning Point USA employee. He is beyond that not a student at UVU. He is not a Turning Point USA student therefore either. He was actually brought in as a volunteer,
 
 ## Verification
 

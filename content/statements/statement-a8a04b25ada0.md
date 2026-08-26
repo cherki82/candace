@@ -1,16 +1,17 @@
 ---
-title: "On October 11th, I tweeted about the Egyptian military plane..."
-description: "\"On October 11th, I tweeted about the Egyptian military plane that left Provo on the morning of Charlie Kirk's assassination\" — Candace Owens"
+title: "On October 11, 2025, Candace Owens posted about the Egyptian..."
+description: "\"On October 11, 2025, Candace Owens posted about the Egyptian aircraft SU-BTT leaving Provo on the morning of Charlie Kirk's assassination.\" — Candace Owens"
 statement_id: "statement-a8a04b25ada0"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
-> On October 11th, I tweeted about the Egyptian military plane that left Provo on the morning of Charlie Kirk's assassination
+> On October 11, 2025, Candace Owens posted about the Egyptian aircraft SU-BTT leaving Provo on the morning of Charlie Kirk's assassination.
 
 ## Attribution
 
@@ -20,9 +21,9 @@ type: "factual_claim"
 
 ## About
 
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Provo](/entities/gpe-provo.md) (gpe)
 - [Egyptian Air Force](/entities/org-egyptian-air-force.md) (org)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode is a primary on-record acknowledgment by Owens that she posted the aircraft claim on October 11 and initially converted the time zone incorrectly. The migrated proposition concerns the existence and subject of her post, not whether the aircraft inference was sound. A direct archived copy of the original X post was not recovered, so confidence is medium rather than high.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](https://www.youtube.com/watch?v=JQjCAsfoXEE)
+
+*Verified: 2026-08-26T10:24:44.495697*
 
 ---
 

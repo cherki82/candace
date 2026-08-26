@@ -27,7 +27,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
-**Timestamp:** [00:40:18](/episodes/ep-JQjCAsfoXEE.md#t-00-39-46) 
+**Timestamp:** [00:40:18](/episodes/ep-JQjCAsfoXEE.md#t-00-40-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2418);return false;">Play</a>
 
 > In my opinion, what I think is happening is I think there are fake people on the payroll. I think that paychecks are getting sent to people who do not really exist.

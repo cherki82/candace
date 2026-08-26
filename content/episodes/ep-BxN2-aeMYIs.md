@@ -1,14 +1,14 @@
 ---
 id: "BxN2-aeMYIs"
 title: "The World Is A Stage: Trump Survives...Again? | Ep 343"
-description: "The World Is A Stage: Trump Survives...Again? | Ep 343 - 116 entities, 19 events, 0 claims"
+description: "The World Is A Stage: Trump Survives...Again? | Ep 343 - 116 entities, 19 events, 20 factual claims"
 published: "2026-05-26"
 youtube_url: "https://www.youtube.com/watch?v=BxN2-aeMYIs"
 ---
 
 **Published:** 2026-05-26 | [Watch on YouTube](https://www.youtube.com/watch?v=BxN2-aeMYIs)
 
-**Stats:** 116 entities | 19 events | 0 claims
+**Stats:** 116 entities | 19 events | 20 factual claims
 
 ---
 

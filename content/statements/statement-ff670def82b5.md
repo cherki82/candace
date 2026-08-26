@@ -31,7 +31,7 @@ type: "accusation"
 **Timestamp:** [00:20:09](/episodes/ep-LATnak75Si0.md#t-00-20-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1209);return false;">Play</a>
 
-> Trump's bombing of the Ayatollah's nuclear facilities made the little Nazi mad.
+> "Trump's (Donald Trump's) bombing of the Ayatollah's nuclear facilities made the little Nazi mad."
 
 ## Verification
 

@@ -54,7 +54,7 @@ _Type: Organizations_
 <details>
 <summary>Formerly Employed (1)</summary>
 
-- **[Emmanuel Behrer](/entities/person-emmanuel-behrer.md)**
+- **[Emmanuel Bierer](/entities/person-emmanuel-bierer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:32:18](/episodes/ep-DqGNvi36ol8.md#t-00-31-57)
@@ -66,7 +66,7 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Emmanuel Behrer](/entities/person-emmanuel-behrer.md)** formerly worked for this
+- **[Emmanuel Bierer](/entities/person-emmanuel-bierer.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:32:18](/episodes/ep-DqGNvi36ol8.md#t-00-31-57)
@@ -84,10 +84,10 @@ _Type: Organizations_
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2)</summary>
 
 - [00:06:56](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) (Claim) **Candace Owens**: ["Emmanuel Behrer was a former employee of Oracle in engineering and att..."](/statements/statement-50f8be11edf4.md)
-  - Also about: [Emmanuel Behrer](/entities/person-emmanuel-behrer.md)
+  - Also about: [Emmanuel Bierer](/entities/person-emmanuel-bierer.md)
 
 - [00:17:01](/episodes/ep-DqGNvi36ol8.md#t-00-16-48) (Claim) **Candace Owens**: ["He's a former employee of Oracle, he's in engineering, I believe he's ..."](/statements/statement-3d47d03dc8b1.md)
-  - Also about: [Emmanuel Behrer](/entities/person-emmanuel-behrer.md)
+  - Also about: [Emmanuel Bierer](/entities/person-emmanuel-bierer.md)
 
 </details>
 

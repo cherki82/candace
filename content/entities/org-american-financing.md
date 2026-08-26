@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 409 mentions"
+description: "American Financing (Organizations) - 434 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-14-01">2026-07-14 · 01:14:01</a></strong></div>
-<div><span>Episodes</span><strong>100</strong></div>
-<div><span>Mentions</span><strong>409</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-american-financing-t-00-43-32">2026-07-20 · 00:43:59</a></strong></div>
+<div><span>Episodes</span><strong>104</strong></div>
+<div><span>Mentions</span><strong>434</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,19 +41,19 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-american-financing-t-01-00-07" style="--pulse-height:62%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 5 mentions" title="2025-09-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04" style="--pulse-height:50%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-org-american-financing-t-00-46-36" style="--pulse-height:50%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 4 mentions" title="2025-09-22 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-51-50" style="--pulse-height:38%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 3 mentions" title="2025-09-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-51-47" style="--pulse-height:38%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 3 mentions" title="2025-09-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-american-financing-t-00-38-57" style="--pulse-height:50%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 4 mentions" title="2025-09-24 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-47-41" style="--pulse-height:62%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 5 mentions" title="2025-09-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-47-41" style="--pulse-height:88%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 7 mentions" title="2025-09-29 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-american-financing-t-00-40-53" style="--pulse-height:38%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-40-48" style="--pulse-height:50%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 4 mentions" title="2025-10-02 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-american-financing-t-00-54-34" style="--pulse-height:38%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-40-48" style="--pulse-height:62%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 5 mentions" title="2025-10-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-american-financing-t-00-54-34" style="--pulse-height:62%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 5 mentions" title="2025-10-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-american-financing-t-00-55-38" style="--pulse-height:38%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-american-financing-t-01-02-26" style="--pulse-height:50%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-american-financing-t-00-34-17" style="--pulse-height:62%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-org-american-financing-t-00-45-54" style="--pulse-height:25%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-american-financing-t-00-45-54" style="--pulse-height:38%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-american-financing-t-00-24-05" style="--pulse-height:38%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 3 mentions" title="2025-10-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-american-financing-t-00-51-02" style="--pulse-height:38%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-american-financing-t-00-56-43" style="--pulse-height:50%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 4 mentions" title="2025-10-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-american-financing-t-00-56-43" style="--pulse-height:75%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-45-22" style="--pulse-height:38%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 3 mentions" title="2025-11-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-american-financing-t-00-51-13" style="--pulse-height:38%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 3 mentions" title="2025-11-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-american-financing-t-00-43-39" style="--pulse-height:38%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
@@ -61,8 +61,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-american-financing-t-00-22-49" style="--pulse-height:38%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 3 mentions" title="2025-11-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-org-american-financing-t-00-45-30" style="--pulse-height:38%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-american-financing-t-00-36-08" style="--pulse-height:38%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-american-financing-t-00-52-25" style="--pulse-height:50%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-org-american-financing-t-00-53-29" style="--pulse-height:38%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-american-financing-t-00-52-25" style="--pulse-height:62%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-org-american-financing-t-00-53-29" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 4 mentions" title="2025-12-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01" style="--pulse-height:38%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-american-financing-t-00-36-37" style="--pulse-height:50%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-american-financing-t-00-32-43" style="--pulse-height:62%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 5 mentions" title="2025-12-10 · 5 mentions"><span></span></a>
@@ -136,6 +136,10 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-american-financing-t-00-50-13" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-american-financing-t-00-36-49" style="--pulse-height:38%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-13-16" style="--pulse-height:50%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-american-financing-t-00-45-30" style="--pulse-height:50%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-american-financing-t-00-41-50" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-american-financing-t-00-43-53" style="--pulse-height:50%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-american-financing-t-00-43-32" style="--pulse-height:38%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -146,19 +150,19 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-american-financing-t-01-00-07) | 5 |
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04) | 4 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-org-american-financing-t-00-46-36) | 4 |
-| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-51-50) | 3 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-51-47) | 3 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-american-financing-t-00-38-57) | 4 |
-| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-47-41) | 5 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-47-41) | 7 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-american-financing-t-00-40-53) | 3 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-40-48) | 4 |
-| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-american-financing-t-00-54-34) | 3 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-40-48) | 5 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-american-financing-t-00-54-34) | 5 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-american-financing-t-00-55-38) | 3 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-american-financing-t-01-02-26) | 4 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-org-american-financing-t-00-34-17) | 5 |
-| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-american-financing-t-00-45-54) | 2 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-american-financing-t-00-45-54) | 3 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-org-american-financing-t-00-24-05) | 3 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-american-financing-t-00-51-02) | 3 |
-| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-american-financing-t-00-56-43) | 4 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-american-financing-t-00-56-43) | 6 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-american-financing-t-00-45-22) | 3 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-american-financing-t-00-51-13) | 3 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-org-american-financing-t-00-43-39) | 3 |
@@ -166,8 +170,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-american-financing-t-00-22-49) | 3 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-american-financing-t-00-45-30) | 3 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-american-financing-t-00-36-08) | 3 |
-| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-american-financing-t-00-52-25) | 4 |
-| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-american-financing-t-00-53-29) | 3 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-american-financing-t-00-52-25) | 5 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-american-financing-t-00-53-29) | 4 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01) | 3 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-american-financing-t-00-36-37) | 4 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-american-financing-t-00-32-43) | 5 |
@@ -241,6 +245,10 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-american-financing-t-00-50-13) | 4 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-american-financing-t-00-36-49) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-13-16) | 4 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-american-financing-t-00-45-30) | 4 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-american-financing-t-00-41-50) | 4 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-american-financing-t-00-43-53) | 4 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-american-financing-t-00-43-32) | 3 |
 
 </details>
 </section>
@@ -248,7 +256,55 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (409)</strong></summary>
+<summary><strong class="section-title">Raw mentions (434)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
+
+**[00:43:32](/episodes/ep-N4uM8Jdr410.md#ent-org-american-financing-t-00-43-32)**
+> "But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact."
+
+**[00:43:49](/episodes/ep-N4uM8Jdr410.md#ent-org-american-financing-t-00-43-32)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:43:59](/episodes/ep-N4uM8Jdr410.md#ent-org-american-financing-t-00-43-32)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, AmericanFinancing.net sla..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (4 mentions)</summary>
+
+**[00:42:20](/episodes/ep-puuMVxEu5NU.md#ent-org-american-financing-t-00-41-50)**
+> "remind you guys about American Financing"
+
+**[00:42:42](/episodes/ep-puuMVxEu5NU.md#ent-org-american-financing-t-00-42-35)**
+> "Well, American Financing offers a smart equity loan so that you don't have..."
+
+**[00:42:58](/episodes/ep-puuMVxEu5NU.md#ent-org-american-financing-t-00-42-35)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:43:08](/episodes/ep-puuMVxEu5NU.md#ent-org-american-financing-t-00-43-08)**
+> "...that's 800-795-1210. Or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4 mentions)</summary>
+
+**[00:44:18](/episodes/ep-mLvJqdxS-FY.md#ent-org-american-financing-t-00-43-53)**
+> "...sual, I remind you guys about American financing because it is no secret that everything is starti..."
+
+**[00:44:42](/episodes/ep-mLvJqdxS-FY.md#ent-org-american-financing-t-00-44-35)**
+> "But American Financing offers a smart equity loan so that you don't actu..."
+
+**[00:44:58](/episodes/ep-mLvJqdxS-FY.md#ent-org-american-financing-t-00-44-35)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:45:14](/episodes/ep-mLvJqdxS-FY.md#ent-org-american-financing-t-00-45-14)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (4 mentions)</summary>
@@ -264,6 +320,23 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 **[01:14:01](/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-14-01)**
 > "...that's 800-795-1210. Or visit AmericanFinancing.net slash Owens. Again, that is AmericanFinancing..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (4 mentions)</summary>
+
+**[00:46:09](/episodes/ep-X3VKJVJ7cN4.md#ent-org-american-financing-t-00-45-30)**
+> "I also remind you guys about American financing because it's no secret that everything is startin..."
+
+**[00:46:20](/episodes/ep-X3VKJVJ7cN4.md#ent-org-american-financing-t-00-46-14)**
+> "... I can't touch that. But with American Financing Smart Equity Loan, you don't have to."
+
+**[00:46:43](/episodes/ep-X3VKJVJ7cN4.md#ent-org-american-financing-t-00-46-14)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:46:53](/episodes/ep-X3VKJVJ7cN4.md#ent-org-american-financing-t-00-46-53)**
+> "...that's 800-795-1210, or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
 
 </details>
 
@@ -1546,7 +1619,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (3 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
 
 **[00:53:52](/episodes/ep-his-JBjlkh8.md#ent-org-american-financing-t-00-53-29)**
 > "...'s now possible when you call American Financing."
@@ -1557,10 +1630,13 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 **[00:54:28](/episodes/ep-his-JBjlkh8.md#ent-org-american-financing-t-00-54-11)**
 > "So call American Financing today at 800-795-1210."
 
+**[00:54:39](/episodes/ep-his-JBjlkh8.md#ent-org-american-financing-t-00-54-11)**
+> "Or simply visit americanfinancing.net/owens—americanfinancing.net/owens."
+
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (5 mentions)</summary>
 
 **[00:53:01](/episodes/ep-tB5SXXmd9vU.md#ent-org-american-financing-t-00-52-25)**
 > "...ll also remind you guys about American Financing, because what if you could delay your next two mo..."
@@ -1573,6 +1649,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 **[00:53:44](/episodes/ep-tB5SXXmd9vU.md#ent-org-american-financing-t-00-53-05)**
 > "So, call American Financing today at 800-795-1210."
+
+**[00:53:52](/episodes/ep-tB5SXXmd9vU.md#ent-org-american-financing-t-00-53-46)**
+> "Or visit AmericanFinancing.net/Owens, AmericanFinancing.net/Owens."
 
 </details>
 
@@ -1678,7 +1757,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (6 mentions)</summary>
 
 **[00:57:05](/episodes/ep-YFmRH8p5lt0.md#ent-org-american-financing-t-00-56-43)**
 > "...g in here to remind you about American Financing because what if you could delay your next two mor..."
@@ -1691,6 +1770,12 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 **[00:57:50](/episodes/ep-YFmRH8p5lt0.md#ent-org-american-financing-t-00-57-27)**
 > "So call American Financing today and start saving."
+
+**[00:57:59](/episodes/ep-YFmRH8p5lt0.md#ent-org-american-financing-t-00-57-27)**
+> "Or you can visit americanfinancing.net/Owens."
+
+**[00:58:03](/episodes/ep-YFmRH8p5lt0.md#ent-org-american-financing-t-00-57-27)**
+> "Again, that's americanfinancing.net/Owens."
 
 </details>
 
@@ -1723,13 +1808,16 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (3 mentions)</summary>
 
 **[00:46:22](/episodes/ep-c5BcKF91iec.md#ent-org-american-financing-t-00-45-54)**
 > "Also, I want to remind you guys about American Financing because the cost of everything is still out of control"
 
 **[00:47:11](/episodes/ep-c5BcKF91iec.md#ent-org-american-financing-t-00-46-37)**
 > "So call American Financing today and start saving now."
+
+**[00:47:19](/episodes/ep-c5BcKF91iec.md#ent-org-american-financing-t-00-47-19)**
+> "Or you can visit americanfinancing.net/Owens—americanfinancing.net/Owens."
 
 </details>
 
@@ -1785,7 +1873,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 </details>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (3 mentions)</summary>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (5 mentions)</summary>
 
 **[00:54:58](/episodes/ep-ozWJz2spBcI.md#ent-org-american-financing-t-00-54-34)**
 > "And I want to remind you guys about American Financing too, because the cost of everything is out of control"
@@ -1796,10 +1884,16 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 **[00:55:48](/episodes/ep-ozWJz2spBcI.md#ent-org-american-financing-t-00-55-11)**
 > "Call American Financing and start saving now."
 
+**[00:55:55](/episodes/ep-ozWJz2spBcI.md#ent-org-american-financing-t-00-55-55)**
+> "Or visit americanfinancing.net/Owens."
+
+**[00:55:58](/episodes/ep-ozWJz2spBcI.md#ent-org-american-financing-t-00-55-55)**
+> "That's americanfinancing.net/Owens."
+
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (5 mentions)</summary>
 
 **[00:41:16](/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-40-48)**
 > "Also reminding you guys about American Financing because we all see that the cost of everything is..."
@@ -1812,6 +1906,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 **[00:42:04](/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-41-27)**
 > "You can call American Financing, and you'll start saving now."
+
+**[00:42:16](/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-42-09)**
+> "Or you can visit AmericanFinancing.net/Owens, AmericanFinancing.net/Owens."
 
 </details>
 
@@ -1830,7 +1927,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 </details>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (5 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (7 mentions)</summary>
 
 **[00:48:08](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-47-41)**
 > "...rst, I want to tell you about American Financing because the Fed has finally dropped interest rate..."
@@ -1846,6 +1943,12 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 **[00:48:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-48-25)**
 > "Take control. Call American Financing today."
+
+**[00:49:03](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-48-25)**
+> "... that's 800-795-1210 or visit americanfinancing.net/Owens."
+
+**[00:49:05](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-49-05)**
+> "That's americanfinancing.net/Owens."
 
 </details>
 
@@ -1869,13 +1972,13 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (3 mentions)</summary>
 
-**[00:52:15](/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-51-50)**
+**[00:52:15](/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-51-47)**
 > "...remind you guys quickly about American Financing, because you know the cost of everything is still..."
 
-**[00:52:43](/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-52-34)**
+**[00:52:43](/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-52-22)**
 > "...reaching out to my friends in American Financing, but maybe hesitated because you don't want to gi..."
 
-**[00:53:14](/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-53-14)**
+**[00:53:14](/episodes/ep-UBkFkg4UNY8.md#ent-org-american-financing-t-00-53-06)**
 > "So call American Financing and start saving now."
 
 </details>
@@ -1974,7 +2077,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -1997,16 +2100,33 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:51:11](/episodes/ep-9CuC1yf8-PU.md#t-00-50-46): “Also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:50:13](/episodes/ep-sKuYLNx3iRo.md#t-00-50-13): “I also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families find a way out of the high interest trap.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:37:24](/episodes/ep-a2bZf4fic10.md#t-00-36-49): “At American Financing, there are never any upfront fees to find out what you qualify for. So talk to a salary-based consultant today, experts who are paid to help you save, not to sell you more than you need.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:46:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-45-30): “I also remind you guys about American financing because it's no secret that everything is starting to feel a lot more expensive.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:20](/episodes/ep-puuMVxEu5NU.md#t-00-41-50): “I'm also going to remind you guys about American Financing because it is no secret that everything is starting to feel a lot more expensive.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Includes (1)</summary>
+
+- **[SMART Equity Loan](/entities/work-smart-equity-loan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:46:20](/episodes/ep-X3VKJVJ7cN4.md#t-00-46-14): “If that debt is starting to feel heavy, you should know that you're not alone. If you're a homeowner, you've likely looked at your mortgage rate and thought, I can't touch that. But with American Financing Smart Equity Loan, you don't have to.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:42](/episodes/ep-puuMVxEu5NU.md#t-00-42-35): “Well, American Financing offers a smart equity loan so that you don't have to.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -2029,6 +2149,18 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:51:11](/episodes/ep-9CuC1yf8-PU.md#t-00-50-46): “Also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:50:13](/episodes/ep-sKuYLNx3iRo.md#t-00-50-13): “I also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families find a way out of the high interest trap.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:37:24](/episodes/ep-a2bZf4fic10.md#t-00-36-49): “At American Financing, there are never any upfront fees to find out what you qualify for. So talk to a salary-based consultant today, experts who are paid to help you save, not to sell you more than you need.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:46:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-45-30): “I also remind you guys about American financing because it's no secret that everything is starting to feel a lot more expensive.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:20](/episodes/ep-puuMVxEu5NU.md#t-00-41-50): “I'm also going to remind you guys about American Financing because it is no secret that everything is starting to feel a lot more expensive.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
+
+</details>
+
+- **[SMART Equity Loan](/entities/work-smart-equity-loan.md)** part of this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:46:20](/episodes/ep-X3VKJVJ7cN4.md#t-00-46-14): “If that debt is starting to feel heavy, you should know that you're not alone. If you're a homeowner, you've likely looked at your mortgage rate and thought, I can't touch that. But with American Financing Smart Equity Loan, you don't have to.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:42](/episodes/ep-puuMVxEu5NU.md#t-00-42-35): “Well, American Financing offers a smart equity loan so that you don't have to.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
 
 </details>
 

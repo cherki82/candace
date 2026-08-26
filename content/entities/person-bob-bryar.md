@@ -12,7 +12,7 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-55">2025-11-15 · 00:26:23</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -84,12 +84,14 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Bob Bryar (1)</strong></summary>
+<summary><strong class="section-title">Statements by Bob Bryar (2)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>
 
-- [00:25:50](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) [○] (Accusation) ["Lou Taylor was my business manager for 18 years. We separated in September becau..."](/statements/statement-488c2abc1a03.md)
+- [00:25:51](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) [✓] (Claim) ["Bob Bryar posted that Lou Taylor had been his business manager for 18 years and ..."](/statements/statement-cc9ef3230a4a.md)
+
+- [00:25:55](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) [✓] (Accusation) ["Bob Bryar wrote that the Kardashians were the slimiest pile of garbage on the pl..."](/statements/statement-488c2abc1a03.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Bob Bryar](/entities/person-bob-bryar.md)
 
 </details>
@@ -102,7 +104,7 @@ _Type: People_
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>
 
-- [00:25:50](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) (Accusation) **Bob Bryar** (via quoted tweet): ["Lou Taylor was my business manager for 18 years. We separated in Septe..."](/statements/statement-488c2abc1a03.md)
+- [00:25:55](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) (Accusation) **Bob Bryar** (via quoted tweet): ["Bob Bryar wrote that the Kardashians were the slimiest pile of garbage..."](/statements/statement-488c2abc1a03.md)
   - Also about: [Lou Taylor](/entities/person-lou-taylor.md)
 
 - [00:26:23](/episodes/ep-7RLtGgkTh9o.md#t-00-25-55) (Claim) **Candace Owens**: ["Bob Bryar died in mysterious circumstances with nitrous oxide found ne..."](/statements/statement-3850684b6644.md)

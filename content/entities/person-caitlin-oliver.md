@@ -110,22 +110,22 @@ Source: [Charlie Kirk family cites overwhelming evidence as preliminary hearing 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (6)</summary>
 
-- [00:31:26](/episodes/ep-EtLHqDbxqks.md#t-00-31-26) [○] (Claim) ["Caitlin Oliver agreed that publishing a headline saying Tyler Robinson's DNA was..."](/statements/statement-53f29db98537.md)
+- [00:31:26](/episodes/ep-EtLHqDbxqks.md#t-00-31-26) [✓] (Claim) ["Caitlin Oliver agreed that publishing a headline saying Tyler Robinson's DNA was..."](/statements/statement-53f29db98537.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
 
-- [00:32:15](/episodes/ep-EtLHqDbxqks.md#t-00-32-15) [○] (Claim) ["Caitlin Oliver agreed that she could not determine when DNA was deposited on the..."](/statements/statement-7df6c6408e17.md)
+- [00:32:15](/episodes/ep-EtLHqDbxqks.md#t-00-32-15) [✓] (Claim) ["Caitlin Oliver agreed that she could not determine when DNA was deposited on the..."](/statements/statement-7df6c6408e17.md)
   - About: [Deoxyribonucleic acid](/entities/concept-dna.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:32:29](/episodes/ep-EtLHqDbxqks.md#t-00-32-29) [○] (Claim) ["Caitlin Oliver agreed that a DNA sample described as containing at least four co..."](/statements/statement-a7598afae968.md)
+- [00:32:29](/episodes/ep-EtLHqDbxqks.md#t-00-32-29) [✓] (Claim) ["Caitlin Oliver agreed that a DNA sample described as containing at least four co..."](/statements/statement-a7598afae968.md)
   - About: [Deoxyribonucleic acid](/entities/concept-dna.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:32:52](/episodes/ep-EtLHqDbxqks.md#t-00-32-52) [○] (Claim) ["Caitlin Oliver testified that a major contributor is the person who contributed ..."](/statements/statement-2a1f2f7751a3.md)
+- [00:32:52](/episodes/ep-EtLHqDbxqks.md#t-00-32-52) [✓] (Claim) ["Caitlin Oliver testified that a major contributor is the person who contributed ..."](/statements/statement-2a1f2f7751a3.md)
   - About: [Deoxyribonucleic acid](/entities/concept-dna.md)
 
-- [00:35:42](/episodes/ep-EtLHqDbxqks.md#t-00-35-42) [○] (Claim) ["Caitlin Oliver testified that the trigger and trigger guard were swabbed togethe..."](/statements/statement-9f4e95edee8a.md)
+- [00:35:42](/episodes/ep-EtLHqDbxqks.md#t-00-35-42) [✓] (Claim) ["Caitlin Oliver testified that the trigger and trigger guard were swabbed togethe..."](/statements/statement-9f4e95edee8a.md)
   - About: [Deoxyribonucleic acid](/entities/concept-dna.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:35:53](/episodes/ep-EtLHqDbxqks.md#t-00-35-53) [○] (Claim) ["Caitlin Oliver testified that the trigger-and-trigger-guard sample showed degrad..."](/statements/statement-091ba89c67b6.md)
+- [00:35:53](/episodes/ep-EtLHqDbxqks.md#t-00-35-53) [✓] (Claim) ["Caitlin Oliver testified that the trigger-and-trigger-guard sample showed degrad..."](/statements/statement-091ba89c67b6.md)
   - About: [Deoxyribonucleic acid](/entities/concept-dna.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>

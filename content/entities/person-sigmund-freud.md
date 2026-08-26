@@ -1,6 +1,6 @@
 ---
 title: "Sigmund Freud"
-description: "Sigmund Freud (People) - 61 mentions"
+description: "Sigmund Freud (People) - 64 mentions"
 id: "person-sigmund-freud"
 type: "PERSON"
 categories:
@@ -17,11 +17,11 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-01-30">2025-09-15 · 01:01:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-sigmund-freud-t-00-32-10">2026-04-02 · 00:32:27</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>61</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-sigmund-freud-t-00-59-49">2026-07-16 · 01:00:11</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -60,6 +60,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-sigmund-freud-t-00-49-55" style="--pulse-height:11%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-sigmund-freud-t-00-59-19" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-sigmund-freud-t-00-32-10" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-sigmund-freud-t-00-59-06" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -95,6 +96,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-sigmund-freud-t-00-49-55) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-sigmund-freud-t-00-59-19) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-sigmund-freud-t-00-32-10) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-sigmund-freud-t-00-59-06) | 3 |
 
 </details>
 </section>
@@ -102,7 +104,21 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[00:59:15](/episodes/ep-mLvJqdxS-FY.md#ent-person-sigmund-freud-t-00-59-06)**
+> "...he was upset that I mentioned Sigmund Freud and me going down the Sigmund Freud rabbit hole j..."
+
+**[00:59:41](/episodes/ep-mLvJqdxS-FY.md#ent-person-sigmund-freud-t-00-59-06)**
+> "... And if I did not learn about Sigmund Freud."
+
+**[01:00:11](/episodes/ep-mLvJqdxS-FY.md#ent-person-sigmund-freud-t-00-59-49)**
+> "...w what you're doing. That's a Sigmund Freud technique."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -507,7 +523,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sigmund Freud (9)</strong></summary>
+<summary><strong class="section-title">Statements about Sigmund Freud (10)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>
@@ -553,6 +569,13 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1)</summary>
 
 - [01:01:09](/episodes/ep-iHav0PPzUz8.md#t-01-00-41) (Accusation) **Candace Owens**: ["Sigmund Freud was factually defending his pedophile friends"](/statements/statement-34da4e06d527.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1)</summary>
+
+- [00:45:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-45-30) (Accusation) **Candace Owens**: ["Freud and the early psychoanalytic community dismissed genuine patient..."](/statements/statement-3c8e6888855c.md)
 
 </details>
 

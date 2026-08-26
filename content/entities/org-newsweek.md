@@ -121,7 +121,7 @@ Source: [Newsweek - LinkedIn Company Profile](https://www.linkedin.com/company/n
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Josh Hammer is actually the editor at large at Newsweek.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Like these are like Josh Hammer— ... is actually the editor at large at Newsweek.”
 
 </details>
 
@@ -133,7 +133,7 @@ Source: [Newsweek - LinkedIn Company Profile](https://www.linkedin.com/company/n
 - **[Josh Hammer](/entities/person-josh-hammer.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Josh Hammer is actually the editor at large at Newsweek.”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33): “Like these are like Josh Hammer— ... is actually the editor at large at Newsweek.”
 
 </details>
 

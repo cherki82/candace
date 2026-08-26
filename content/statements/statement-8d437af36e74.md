@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:17:09](/episodes/ep-QZWSsq8ZWzw.md#t-00-16-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1029);return false;">Play</a>
 
-> And someone told me—and I was astonished—that Utah recently, extraordinarily, modernized their beehive flag. I had no idea that the Utah state flag is a hexagonal beehive, right? And I mean, notice to me that it has always been the Beehive State. So in 2024, they modernized their flag, but they've always been known as the Beehive State. And to be clear, it's not because they make honey. It's not because they have a high presence of bees. In fact, in terms of making honey or bee-related products, they rank number 24. It's actually the Beehive State. It relates to the Mormon Church—the Church of Jesus Christ of Latter-day Saints. Early Mormon pioneers founded that state, and they liked the idea of a beehive working toward a common good.
+> I had no idea that the Utah state flag is a hexagonal beehive, right? And I mean, notice to me that it has always been the Beehive State. So in 2024, they modernized their flag, but they've always been known as the Beehive State. And to be clear, it's not because they make honey. It's not because they have a high presence of bees. In fact, in terms of making honey or bee-related products, they rank number 24. It's actually the Beehive State. It relates to the Mormon Church—the Church of Jesus Christ of Latter-day Saints. Early Mormon pioneers founded that state, and they liked the idea of a beehive working toward a common good.
 
 ## Verification
 

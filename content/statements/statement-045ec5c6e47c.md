@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:29:04](/episodes/ep-t4U7NjnUEgc.md#t-00-28-37) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1744);return false;">Play</a>
 
-> did you see Dan Flood? No, well, that checks out because Dan Flood was with Charlie in Korea.
+> No, well, that checks out because Dan Flood (Dan Flood) was with Charlie in Korea.
 
 ## Verification
 

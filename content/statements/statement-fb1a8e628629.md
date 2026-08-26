@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:20:03](/episodes/ep-7RLtGgkTh9o.md#t-00-19-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1203);return false;">Play</a>
 
-> He was like, Are you an op, too? Are you an op, too? I was like, What on earth are you talking about?
+> he was like, "Are you an op, too?" "Are you an op, too?" I was like, "What on earth are you talking about?"
 
 ## Verification
 

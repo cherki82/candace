@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:13:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(803);return false;">Play</a>
 
-> They said Tyler was suicidal, but also turned himself in because he was afraid of being shot by police. Those two ideas seem to be running into each other.
+> They said Tyler (Tyler Robinson) was suicidal, but also turned himself in because he was afraid of being shot by police.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Thomas Matthew Crooks"
-description: "Thomas Matthew Crooks (People) - 16 mentions"
+description: "Thomas Matthew Crooks (People) - 17 mentions"
 id: "person-thomas-matthew-crooks"
 type: "PERSON"
 aliases:
@@ -21,11 +21,11 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01">2025-09-24 · 00:00:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-thomas-matthew-crooks-t-00-48-59">2026-06-18 · 00:49:26</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-thomas-matthew-crooks-t-00-29-40">2026-07-16 · 00:29:40</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-27" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-thomas-matthew-crooks-t-00-02-16" style="--pulse-height:29%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-thomas-matthew-crooks-t-00-48-59" style="--pulse-height:14%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-thomas-matthew-crooks-t-00-29-40" style="--pulse-height:14%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-27) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-thomas-matthew-crooks-t-00-02-16) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-thomas-matthew-crooks-t-00-48-59) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-thomas-matthew-crooks-t-00-29-40) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:29:40](/episodes/ep-puuMVxEu5NU.md#ent-person-thomas-matthew-crooks-t-00-29-40)**
+> "the gunman, Thomas Crooks"
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
@@ -138,7 +148,7 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 > ".... I feel it spiritually. And they said, "Look, actually, I had been able to scrape everything about Thomas Matthew Crooks before the feds got rid of everything." And it's shocking what you look at. There is no way this pe..."
 
 **[00:22:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-21-55)**
-> "...ou hate Candace (Candace Owens) because it allows them to operate in broad daylight. The reality of Thomas Matthew Crooks is going to be a story that we should get familiar with. He was... at both—on the left and on the r..."
+> "The reality of Thomas Matthew Crooks is going to be a story that we should get familiar with."
 
 **[00:22:09](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-21-55)**
 > "The reality of Thomas Matthew Crooks"
@@ -155,7 +165,27 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Thomas Matthew Crooks (16)</strong></summary>
+<summary><strong class="section-title">Statements by Thomas Matthew Crooks (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1)</summary>
+
+- [00:23:35](/episodes/ep-QZWSsq8ZWzw.md#t-00-23-13) [◐] (Claim) ["Thomas Matthew Crooks' online history shows he was extraordinarily violent, alwa..."](/statements/statement-6c0956fc1de0.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Thomas Matthew Crooks (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:29:45](/episodes/ep-puuMVxEu5NU.md#t-00-29-45) (Accusation) **Helen Comperatore** (via quoted speech): ["Helen Comperatore said she did not believe there was another shooter, ..."](/statements/statement-243f75591d51.md)
+  - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (7)</summary>

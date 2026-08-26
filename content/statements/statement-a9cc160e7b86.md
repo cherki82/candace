@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:35:21](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2121);return false;">Play</a>
 
-> when Barry asked her about the conspiracies and what she had to say to those saying them, Erica said, stop.
+> Two, when Barry (Barry Weiss) asked her about the conspiracies and what she had to say to those saying them, Erica said, stop.
 
 ## Verification
 

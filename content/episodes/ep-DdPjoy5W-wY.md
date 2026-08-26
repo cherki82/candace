@@ -1,14 +1,14 @@
 ---
 id: "DdPjoy5W-wY"
 title: "Bride Of Charlie: Crazy In Love | Episode 7"
-description: "Bride Of Charlie: Crazy In Love | Episode 7 - 125 entities, 25 events, 0 claims"
+description: "Bride Of Charlie: Crazy In Love | Episode 7 - 125 entities, 25 events, 30 factual claims"
 published: "2026-03-06"
 youtube_url: "https://www.youtube.com/watch?v=DdPjoy5W-wY"
 ---
 
 **Published:** 2026-03-06 | [Watch on YouTube](https://www.youtube.com/watch?v=DdPjoy5W-wY)
 
-**Stats:** 125 entities | 25 events | 0 claims
+**Stats:** 125 entities | 25 events | 30 factual claims
 
 ---
 

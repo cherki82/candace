@@ -189,49 +189,49 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (15 mentions)</summary>
 
 **[00:00:39](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-00-39)**
-> "...eveal those lies. Also, yesterday we asked for the public's help in identifying two individuals who Phil Lyman's nephew described as his close friends who decided to retrace the path of Charlie's (Charlie Kirk's)..."
+> "...entifying two individuals who Phil Lyman's nephew described as his close friends who decided..."
 
 **[00:01:00](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-00-39)**
-> "...ed thus far is absolutely stunning. This story couldn't get any crazier. By the way, I did speak to Phil Lyman, and I'll tell you what he told me and what he insisted that we clarify. Now, I would say that it's..."
+> "By the way, I did speak to Phil Lyman, and I'll tell you what he told me and what he in..."
 
 **[00:02:07](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-01-30)**
-> "...rday to keep you guys focused. I presented to you guys, in short, that the gubernatorial candidate, Phil Lyman, was a bit—in my opinion—too involved in the investigation of who assassinated Charlie Kirk (Charli..."
+> "... the gubernatorial candidate, Phil Lyman,"
 
 **[00:03:35](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-03-35)**
-> ".... Now, I'll let you guys know that when our episode finished yesterday, I had a message or two from Phil Lyman—despite the fact that I had reached out to him hours before we began our show—and he was understand..."
+> "..., I had a message or two from Phil Lyman—despite the fact that I had reached out to him ho..."
 
 **[00:05:48](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-05-38)**
-> "...hat would be on his list of things to do now. I am told—according to a very strong source—that what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard. That's totally random. Did not e..."
+> "... very strong source—that what Phil Lyman was doing in town on Saturday was he was meeting ..."
 
 **[00:06:48](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-06-12)**
-> "...t a minute." Actually, Shaner Broderick literally posted that on his Instagram. He said, "My uncle, Phil Lyman." But Phil seems like he's trying to distance himself for some reason from Shaner. He said, "Actual..."
+> "He said, "My uncle, Phil Lyman.""
 
 **[00:07:00](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-06-55)**
-> "...Shaner must have been very confused because it was also posted on his LinkedIn as a connection that Phil Lyman was his uncle. It's probably part of the reason—politically speaking—that he was chosen for an inte..."
+> "...LinkedIn as a connection that Phil Lyman was his uncle."
 
 **[00:08:11](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-08-11)**
-> "... video, and maybe sending me that video in general. But again, that is now a dead end. Now, I asked Phil Lyman three times via text whether or not he could help us—more importantly—identify the two individuals ..."
+> "Now, I asked Phil Lyman three times via text whether or not he could help..."
 
 **[00:11:56](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-11-29)**
-> "...w, what about the other guy, right? So, yesterday, we were kind of poking fun at the narrative that Phil Lyman seemed to be trying to spin—suggesting that, quote-unquote, "gothic girls" might have been suspicio..."
+> "...ing fun at the narrative that Phil Lyman seemed to be trying to spin—suggesting that, quot..."
 
 **[00:12:26](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-12-14)**
-> "...aos, you know? And I thought that was an interesting way to describe someone as gothic. Gratefully, Phil Lyman did send us footage of him after the shots rang out. And I am saying shots, plural, for a reason, b..."
+> "Gratefully, Phil Lyman did send us footage of him after the shots rang o..."
 
 **[00:12:56](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-12-14)**
-> "...tside when the shot rang out. Let's take a listen to what he said on Alex Jones. [Clip attribution: Phil Lyman on Alex Jones] [Clip: Phil Lyman on Alex Jones] Just yesterday, someone comes in and says, "Yeah, w..."
+> "...lex Jones. [Clip attribution: Phil Lyman on Alex Jones]"
 
 **[00:12:58](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-12-14)**
-> "...'s take a listen to what he said on Alex Jones. [Clip attribution: Phil Lyman on Alex Jones] [Clip: Phil Lyman on Alex Jones] Just yesterday, someone comes in and says, "Yeah, we've got video." He came off the ..."
+> "[Clip: Phil Lyman on Alex Jones] Just yesterday, someone comes in a..."
 
 **[00:15:02](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-12-14)**
-> "...ran out of the building after the shot rang out. So let's take a listen to that. [Clip attribution: Phil Lyman on NewsNation] [Clip: Phil Lyman on NewsNation] I walked up top. I had to go meet some people. So I..."
+> "...n to that. [Clip attribution: Phil Lyman on NewsNation]"
 
 **[00:15:04](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-12-14)**
-> "... shot rang out. So let's take a listen to that. [Clip attribution: Phil Lyman on NewsNation] [Clip: Phil Lyman on NewsNation] I walked up top. I had to go meet some people. So I was down there. When he started ..."
+> "[Clip: Phil Lyman on NewsNation] I walked up top."
 
 **[00:16:02](/episodes/ep-YA1FxrDWNIo.md#ent-person-phil-lyman-t-00-15-56)**
-> ".... Well, they're just not true. Because at 12:23—according to his metadata, because he sent it to me—Phil Lyman was inside of the building. And he must have then—immediately, according to our timeline—hit record..."
+> "...ata, because he sent it to me—Phil Lyman was inside of the building."
 
 </details>
 
@@ -416,7 +416,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 - **[Shaner Broderick](/entities/person-shaner-broderick.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “He said, 'My uncle, Phil Lyman.'”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:48](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “He said, "My uncle, Phil Lyman."”
 
 </details>
 
@@ -433,10 +433,9 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 </details>
 
 - **[George Zinn](/entities/person-george-zinn.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:39](/episodes/ep-adJ4LNGp84I.md#t-00-03-37): “George Zin writes, 'Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman...He needs our support.'”
 
 </details>
 
@@ -457,7 +456,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 - **[Shaner Broderick](/entities/person-shaner-broderick.md)** niece/nephew of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “He said, 'My uncle, Phil Lyman.'”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:48](/episodes/ep-YA1FxrDWNIo.md#t-00-06-12): “He said, "My uncle, Phil Lyman."”
 
 </details>
 

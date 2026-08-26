@@ -65,10 +65,9 @@ _Type: People_
 <summary>Founded (1)</summary>
 
 - **[Calvary Chapel](/entities/org-calvary-chapel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:29:32](/episodes/ep-yAIb-NuUh_U.md#t-00-29-27): “Chuck Smith is his name—CIA character that was close to him... who exactly started the Calvary Chapel”
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:05:00](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Chuck Smith is his name—CIA character that was close to him, who exactly started the Calvary Chapel”
 
 </details>
 

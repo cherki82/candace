@@ -20,7 +20,7 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-brett-cooper-t-00-43-58">2026-06-24 · 00:44:20</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>39</strong></div>
-<div><span>Statements by</span><strong>19</strong></div>
+<div><span>Statements by</span><strong>24</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -322,10 +322,12 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Brett Cooper (19)</strong></summary>
+<summary><strong class="section-title">Statements by Brett Cooper (24)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (17)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (22)</summary>
+
+- [00:06:14](/episodes/ep-7RLtGgkTh9o.md#t-00-05-39) [◐] (Claim) ["Brett Cooper stated that Lou Taylor became involved with Britney Spears in 2007 ..."](/statements/statement-5337fdf48eec.md)
 
 - [00:06:16](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14) [○] (Claim) ["Lou Taylor became involved with Britney Spears in 2007 after she was hired to he..."](/statements/statement-7d0fcf657936.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Britney Spears](/entities/person-britney-spears.md), [Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md)
@@ -342,11 +344,21 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 - [00:07:41](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) [○] (Claim) ["Lou Taylor's firm gave Britney's dad a loan of 40,000 dollars shortly before the..."](/statements/statement-f7fe3606068b.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Jamie Spears](/entities/person-jamie-spears.md), [Britney Spears](/entities/person-britney-spears.md)
 
+- [00:07:41](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) [◐] (Claim) ["Jamie Senior had around this time allegedly filed for bankruptcy. He had done th..."](/statements/statement-6b84306b52d3.md)
+
+- [00:07:41](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) [✓] (Claim) ["Lou Taylor's firm gave Britney Spears' father Jamie a loan of 40,000 dollars"](/statements/statement-bc85f886fa08.md)
+
 - [00:07:47](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) [○] (Claim) ["Within months of the 0,000 loan from Lou Taylor's firm, the conservatorship of B..."](/statements/statement-e74d5b9de84d.md)
   - About: [Britney Spears](/entities/person-britney-spears.md), [Lou Taylor](/entities/person-lou-taylor.md), [Jamie Spears](/entities/person-jamie-spears.md)
 
+- [00:07:57](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) [✓] (Claim) ["the conservatorship of Britney Spears was implemented. This was in February of 2..."](/statements/statement-a6c80cd0f663.md)
+
+- [00:08:07](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) [✓] (Claim) ["Britney Spears was committed to an eight-month tour named Circus months after th..."](/statements/statement-73d91d005bf1.md)
+
 - [00:08:11](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) [○] (Claim) ["Only months after arguing that Britney was incapacitated and needed to be under ..."](/statements/statement-c03afa420942.md)
   - About: [Britney Spears](/entities/person-britney-spears.md), [Jamie Spears](/entities/person-jamie-spears.md)
+
+- [00:08:15](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11) [✓] (Claim) ["Tristar—that is Lou Taylor's company—was hired to serve as the tour's business m..."](/statements/statement-182fdea37f4c.md)
 
 - [00:08:20](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11) [○] (Claim) ["The Circus tour grossed an estimated 130 million dollars that was under the cont..."](/statements/statement-7e7dcf0a3fd9.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Jamie Spears](/entities/person-jamie-spears.md)
@@ -360,23 +372,20 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 - [00:11:04](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) [○] (Claim) ["Lou Taylor had no financial background and was not an accountant despite working..."](/statements/statement-361be788a8d9.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md)
 
-- [00:11:07](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) [○] (Claim) ["Lou Taylor started her career in a church working alongside her husband, who at ..."](/statements/statement-6c3b13fd8b24.md)
-  - About: [Lou Taylor](/entities/person-lou-taylor.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md)
+- [00:11:07](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) [◐] (Claim) ["Lou Taylor started her career in a church working alongside her husband, who at ..."](/statements/statement-6c3b13fd8b24.md)
+  - About: [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Lou Taylor](/entities/person-lou-taylor.md)
 
 - [00:11:27](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) [○] (Claim) ["Lou Taylor started her career in a church working alongside her husband who was ..."](/statements/statement-a99a0c1efe32.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Calvary Chapel](/entities/org-calvary-chapel.md)
 
-- [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) [○] (Claim) ["According to financial documents in the public domain, Jamie Spears Sr. was givi..."](/statements/statement-d6a45b1203c0.md)
-  - About: [Jamie Spears](/entities/person-jamie-spears.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Lou Taylor](/entities/person-lou-taylor.md)
-
-- [00:11:45](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) [○] (Claim) ["Jamie Spears gave 10 percent of his conservatorship income to Calvary Chapel Bre..."](/statements/statement-2f38c392731f.md)
-  - About: [Jamie Spears](/entities/person-jamie-spears.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Lou Taylor](/entities/person-lou-taylor.md)
+- [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) [✓] (Claim) ["According to financial documents in the public domain, Jamie Spears Sr. was givi..."](/statements/statement-d6a45b1203c0.md)
+  - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Jamie Spears](/entities/person-jamie-spears.md)
 
 - [00:11:58](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) [○] (Claim) ["Jamie Spears gave tens of thousands of dollars in one year to the church which i..."](/statements/statement-97a53ddf7e20.md)
   - About: [Jamie Spears](/entities/person-jamie-spears.md)
 
-- [00:12:38](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) [○] (Accusation) ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conservatorships"](/statements/statement-6b6c86cc92a9.md)
-  - About: [Lou Taylor](/entities/person-lou-taylor.md), [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)
+- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) [◐] (Accusation) ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conservatorships"](/statements/statement-6b6c86cc92a9.md)
+  - About: [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md), [Lou Taylor](/entities/person-lou-taylor.md)
 
 </details>
 

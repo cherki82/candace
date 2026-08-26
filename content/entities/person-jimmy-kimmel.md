@@ -20,7 +20,7 @@ Source: [Jimmy Kimmel | ABC](https://abc.com/cast/0d86db4a-b66c-41be-85ec-e58d8f
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-person-jimmy-kimmel-t-01-00-12">2026-04-30 · 01:00:28</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>19</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -99,7 +99,7 @@ Source: [Jimmy Kimmel | ABC](https://abc.com/cast/0d86db4a-b66c-41be-85ec-e58d8f
 > "... I think that's the part—that's the reason that this sport has been created: left versus right. And Jimmy Kimmel delivered a monologue and thanked people on the right in his very Jimmy Kimmel way. And I got a sho..."
 
 **[00:31:17](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-31-17)**
-> "...y old pal Ted Cruz, who, believe it or not, said something very beautiful on my behalf. I hate what Jimmy Kimmel said. I am thrilled that he was fired. Oh, wait. No, not that. The other part. But let me tell you:..."
+> "I hate what Jimmy Kimmel said."
 
 </details>
 
@@ -228,13 +228,20 @@ Source: [Jimmy Kimmel | ABC](https://abc.com/cast/0d86db4a-b66c-41be-85ec-e58d8f
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Jimmy Kimmel (1)</strong></summary>
+<summary><strong class="section-title">Statements by Jimmy Kimmel (2)</strong></summary>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1)</summary>
 
 - [00:45:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-45-38) [○] (Opinion) ["Jimmy Kimmel joked that Melania Trump had the glow of an expected widow"](/statements/statement-6497ffdf5845.md)
   - About: [Melania Trump](/entities/person-melania-trump.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md)
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1)</summary>
+
+- [00:41:34](/episodes/ep-aDlhjfW6hz8.md#t-00-40-58) [○] (Claim) ["The day that it happened, Jimmy Kimmel posted a message on Instagram, sending lo..."](/statements/statement-251a8b383acc.md)
 
 </details>
 

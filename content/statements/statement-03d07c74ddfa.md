@@ -20,17 +20,27 @@ type: "opinion"
 
 ## About
 
-- [Donald J. Trump](/entities/person-donald-trump.md) (person)
 - [Israel](/entities/gpe-israel.md) (gpe)
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
+- [Donald J. Trump](/entities/person-donald-trump.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:36:39](/episodes/ep-aDlhjfW6hz8.md#t-00-36-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2199);return false;">Play</a>
 
-> There's no question Trump is occupied by Zionists. Okay, he's completely impotent. He's completely powerless. He cannot say anything that goes against Israel or Benjamin Netanyahu.
+> And now what's happening when we have an occupied administration? There's no question Trump (Donald Trump) is occupied by Zionists. Okay, he's completely impotent. He's completely powerless. He cannot say anything that goes against Israel or Benjamin Netanyahu.
+
+### 2. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+
+**Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+**Timestamp:** [00:36:27](/episodes/ep-aDlhjfW6hz8.md#t-00-36-12) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2187);return false;">Play</a>
+
+> He cannot say anything that goes against Israel or Benjamin Netanyahu.
 
 ## Verification
 

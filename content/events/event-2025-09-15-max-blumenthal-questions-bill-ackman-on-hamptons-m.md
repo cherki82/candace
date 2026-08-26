@@ -11,7 +11,7 @@ date: "2025-09-15"
 
 > Max Blumenthal questions Bill Ackman on Hamptons meeting
 
-## Mentioned In (22 times)
+## Mentioned In (19 times)
 
 ### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
 
@@ -109,15 +109,7 @@ date: "2025-09-15"
 
 > be stripped of their citizenship. He muses about Bill Ackman's wealth and where it comes from. We are told—even though we have not been able to confirm this wit
 
-### 13. INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Ca...
-
-**Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
-**Timestamp:** [00:32:19](/episodes/ep-YFmRH8p5lt0.md#t-00-31-52) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1939);return false;">▶️ Play</a>
-
-> along those lines. And he also muses about where Bill Ackman's wealth comes from. And yeah, it's just a speech—which, by the way, Charlie was the
-
-### 14. From Britney To Charlie. With Pastors Like These, Who Needs ...
+### 13. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:35:43](/episodes/ep-7RLtGgkTh9o.md#t-00-35-35) 
@@ -125,7 +117,7 @@ date: "2025-09-15"
 
 > Hamptons before Charlie died. But Bill Ackman gave a presentation—don't forget—and told these younger people that they shouldn't aspire to own ho
 
-### 15. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 14. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:10:07](/episodes/ep-LATnak75Si0.md#t-00-09-44) 
@@ -133,7 +125,7 @@ date: "2025-09-15"
 
 > t, to get people to vote for Cuomo somehow again. Bill Ackman almost personally ran against Mamdani, right? At times, he even demanded to have a debate with Mamd
 
-### 16. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 15. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:38:03](/episodes/ep-UBkFkg4UNY8.md#t-00-37-27) 
@@ -141,7 +133,7 @@ date: "2025-09-15"
 
 > Point? Yes, they do. The question is whether it's Bill Ackman, whether it's Bob Schulman, whether it's a ton of the donors who write big checks and are pressurin
 
-### 17. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 16. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:25:50](/episodes/ep-aDlhjfW6hz8.md#t-00-25-42) 
@@ -149,15 +141,7 @@ date: "2025-09-15"
 
 > wn the tubes because she needs to bring receipts. Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room. Andr
 
-### 18. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
-
-**Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
-**Timestamp:** [00:05:53](/episodes/ep-QZWSsq8ZWzw.md#t-00-05-35) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(353);return false;">▶️ Play</a>
-
-> And that part also didn't make sense. He said they brought h
-
-### 19. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 17. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:38:19](/episodes/ep-UBkFkg4UNY8.md#t-00-38-06) 
@@ -165,7 +149,7 @@ date: "2025-09-15"
 
 > Point? Yes, they do. The question is whether it's Bill Ackman, whether it's Bob Schulman, whether it's a ton of the donors who write big checks and are pressurin
 
-### 20. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 18. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:17:29](/episodes/ep-a-e7HC6SeK8.md#t-00-16-56) 
@@ -173,18 +157,10 @@ date: "2025-09-15"
 
 > foreign armies should be stripped of their citizenship. He m
 
-### 21. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 19. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:21:56](/episodes/ep-a-e7HC6SeK8.md#t-00-21-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1316);return false;">▶️ Play</a>
 
 > viewpoints on Israel. And we know that the influencers were
-
-### 22. They Are Lying About Tyler Robinson. | Candace Ep 244
-
-**Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
-**Timestamp:** [00:52:05](/episodes/ep-ZGxnf5cj4Uw.md#t-00-51-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3125);return false;">▶️ Play</a>
-
-> g, and this is weird, and I'm on the left maybe.” Max Blumenthal dropped a bunch of articles last week, and I think he's got more coming out. Why is Max Blumenthal—

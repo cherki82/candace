@@ -17,7 +17,7 @@ _Type: People_
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -102,7 +102,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bob Coy (2)</strong></summary>
+<summary><strong class="section-title">Statements about Bob Coy (3)</strong></summary>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
+
+- [00:42:45](/episodes/ep-581dILVcEE4.md#t-00-42-16) (Claim) **Candace Owens**: ["Benjamin Netanyahu had a relationship with Bob Coy from the Fort Laude..."](/statements/statement-edd63ae5246d.md)
+  - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>

@@ -28,7 +28,7 @@ type: "promise"
 **Timestamp:** [00:32:05](/episodes/ep-czVBmqZP6Ss.md#t-00-31-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1925);return false;">Play</a>
 
-> You put a shill in Charlie's chair, in Charlie's company, and you try to tell us to follow that individual, I will be an enemy of you. There will be nothing that can stop me, okay? And I want you guys to understand, this is not a threat, this is a promise. There will be nothing that can stop me. I will release every single text message.
+> You put a shill in Charlie’s chair, in Charlie’s company, and you try to tell us to follow that individual, I will be an enemy of you. There will be nothing that can stop me, okay? And I want you guys to understand, this is not a threat, this is a promise. There will be nothing that can stop me. I will release every single text message.
 
 ## Verification
 

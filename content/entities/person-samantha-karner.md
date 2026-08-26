@@ -102,7 +102,7 @@ Source: [UT v. Tyler Robinson Preliminary Hearing Day 4 Transcript](https://www.
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
 
-- [00:40:31](/episodes/ep-EtLHqDbxqks.md#t-00-40-31) [○] (Claim) ["Samantha Karner testified that the diameter range for the 6A bullet-jacket fragm..."](/statements/statement-af041d712150.md)
+- [00:40:31](/episodes/ep-EtLHqDbxqks.md#t-00-40-31) [✓] (Claim) ["Samantha Karner testified that the diameter range for the 6A bullet-jacket fragm..."](/statements/statement-af041d712150.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

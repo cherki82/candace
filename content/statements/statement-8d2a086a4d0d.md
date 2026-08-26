@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:03:14](/episodes/ep-_dRaEO47-co.md#t-00-02-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(194);return false;">Play</a>
 
-> The person that he adored the most was Rush Limbaugh. He was really raised on Rush Limbaugh
+> take over the RNC. The person that he adored the most—like, really, never in a million years did he think that he was going to meet him, and of course he did—was Rush Limbaugh (Rush Limbaugh).
 
 ## Verification
 

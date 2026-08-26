@@ -1,6 +1,6 @@
 ---
 title: "Africa"
-description: "Africa (Places) - 11 mentions"
+description: "Africa (Places) - 12 mentions"
 id: "gpe-africa"
 type: "GPE"
 categories:
@@ -16,10 +16,10 @@ _Type: Places_
 Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/methodology/m49/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-06-27">2025-12-08 · 00:06:35</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-africa-t-00-13-15">2025-12-01 · 00:13:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-africa-t-00-56-54">2026-06-26 · 00:57:00</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,6 +30,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-06-27">Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-africa-t-00-13-15" style="--pulse-height:20%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-06-27" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 5 mentions" title="2025-12-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-africa-t-00-18-17" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-africa-t-00-49-49" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
@@ -42,6 +43,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-africa-t-00-13-15) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-06-27) | 5 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-africa-t-00-18-17) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-africa-t-00-49-49) | 1 |
@@ -56,7 +58,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -123,6 +125,14 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 
 **[00:19:40](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-19-40)**
 > "...gers and start a civil war in Africa."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+
+**[00:13:29](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-africa-t-00-13-15)**
+> "that ran operations around Africa."
 
 </details>
 

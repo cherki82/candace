@@ -1,14 +1,14 @@
 ---
 id: "nPhCKwJ6ye8"
 title: "Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast"
-description: "Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast - 106 entities, 15 events, 0 claims"
+description: "Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast - 106 entities, 15 events, 20 factual claims"
 published: "2026-08-14"
 youtube_url: "https://www.youtube.com/watch?v=nPhCKwJ6ye8"
 ---
 
 **Published:** 2026-08-14 | [Watch on YouTube](https://www.youtube.com/watch?v=nPhCKwJ6ye8)
 
-**Stats:** 106 entities | 15 events | 0 claims
+**Stats:** 106 entities | 15 events | 20 factual claims
 
 ---
 

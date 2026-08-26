@@ -22,13 +22,23 @@ type: "opinion"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:06:03](/episodes/ep-czVBmqZP6Ss.md#t-00-05-37) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(363);return false;">Play</a>
 
 > And I want to be very clear that I believe, in fact I know, that towards the end, Charlie was fighting for custody of himself.
+
+### 2. They Are Lying About Charlie Kirk. | Candace Ep 235
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:05:56](/episodes/ep-czVBmqZP6Ss.md#t-00-05-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(356);return false;">Play</a>
+
+> And I want to be very clear that I believe, in fact I know, that towards the end, Charlie was fighting for custody of himself
 
 ## Verification
 

@@ -1,14 +1,14 @@
 ---
 id: "69A8TzAGHlU"
 title: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331"
-description: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 - 87 entities, 15 events, 0 claims"
+description: "BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 - 87 entities, 15 events, 21 factual claims"
 published: "2026-04-30"
 youtube_url: "https://www.youtube.com/watch?v=69A8TzAGHlU"
 ---
 
 **Published:** 2026-04-30 | [Watch on YouTube](https://www.youtube.com/watch?v=69A8TzAGHlU)
 
-**Stats:** 87 entities | 15 events | 0 claims
+**Stats:** 87 entities | 15 events | 21 factual claims
 
 ---
 

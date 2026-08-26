@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:52:17](/episodes/ep-2WEHTk0Xewg.md#t-00-52-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3137);return false;">Play</a>
 
-> Charlie Kirk is not the only one who's been threatened or was threatened to cut ties with you or not platform you. I too have gotten that—especially since you've been more outspoken on Israel. And I couldn't care less the amount of pressure they put on me.
+> Charlie (Charlie Kirk) is not the only one who's been threatened or was threatened to cut ties with you or not platform you. I too have gotten that—especially since you've been more outspoken on Israel. And I couldn't care less the amount of pressure they put on me.
 
 ## Verification
 

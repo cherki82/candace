@@ -29,7 +29,7 @@ type: "opinion"
 **Timestamp:** [00:21:43](/episodes/ep-2WEHTk0Xewg.md#t-00-21-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1303);return false;">Play</a>
 
-> Since Trump got into office, my dad has been pretty die-hard MAGA. There's something here for everyone if you want to take the low-hanging fruit and think of this as left versus right, right? So if you're, like, you know, on the right, you're like, 'I need to blame the left.' Then it's like, 'Whoa, the trans thing is here.' But if you're on the left that you need to blame the right—well, 'Dad was a die-hard MAGA.' It's like—it's so fed. You know, it's just so federally written.
+> "Since Trump (Donald Trump) got into office, my dad has been pretty die-hard MAGA." There's something here for everyone if you want to take the low-hanging fruit and think of this as left versus right, right? So if you're, like, you know, on the right, you're like, "I need to blame the left." Then it's like, "Whoa, the trans thing is here." But if you're on the left that you need to blame the right— well, "Dad was a die-hard MAGA." It's like—it's so fed. You know, it's just so federally written.
 
 ## Verification
 

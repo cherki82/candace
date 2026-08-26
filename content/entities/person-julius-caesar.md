@@ -13,22 +13,22 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-01-47">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-52">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-01-47" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 6 mentions" title="2025-11-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-52" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 5 mentions" title="2025-11-21 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-01-47) | 6 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-52) | 5 |
 
 </details>
 </section>
@@ -39,25 +39,22 @@ _Type: People_
 <summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
-
-**[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-01-47)**
-> "...homas Jefferson are—I think are too cliché. So one I really enjoy that I just love learning from is Julius Caesar. Um, I think he's one of the most interesting historical figures. If you want to talk about someone..."
-
-**[00:02:17](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-17)**
-> "Charlie Kirk's favorite historical figure - Julius Caesar"
-
-**[00:02:19](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-17)**
-> "... most interesting historical figures. If you want to talk about someone who lived a full life, it's Julius Caesar: from conquering northern Germania, to surviving and winning a Roman civil war, to an unusual allia..."
-
-**[00:02:43](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-17)**
-> "...ou could learn—if there's something to learn about humanity—you could learn it through the prism of Julius Caesar. Man, that sure is something to hear him say that. The people who benefited the most turned against..."
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:03:00](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-52)**
 > "...sure is something to hear him say that. The people who benefited the most turned against him. Gaius Julius Caesar—that is correct—a general who had rightfully earned the respect of the people for leading them thro..."
 
 **[00:03:41](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-03-38)**
 > "... how close they were. Of course, that didn't stop Brutus from plunging the knife into him. 23 times Julius Caesar was stabbed by senators, and of course Brutus, leading to the famed Shakespearean expression: "Et t..."
+
+**[00:01:54](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-01-47)**
+> "Yeah, exactly. It's amazing, right? That's the Mensa—I mean, it's—I'm kidding. Um, so I love the American Founding Fathers. Ben Franklin—I always really enjoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So one I really enjoy that I just love learning from is Julius Caesar. Um, I think he's one of the most"
+
+**[00:02:19](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-17)**
+> "If you want to talk about someone who lived a full life, it's Julius Caesar:"
+
+**[00:02:43](/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-02-17)**
+> "So I think it's one of the most interesting, and you could learn—if there's something to learn about humanity—you could learn it through the prism of Julius Caesar."
 
 </details>
 
@@ -67,5 +64,20 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Julius Caesar (2)</strong></summary>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2)</summary>
+
+- [00:01:29](/episodes/ep-mKXdKV-OBog.md#t-00-01-28) (Claim) **Candace Owens**: ["Julius Caesar is my favorite historical figure before 1850."](/statements/statement-216451837127.md)
+
+- [00:02:40](/episodes/ep-mKXdKV-OBog.md#t-00-02-17) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk stated that Julius Caesar was one of his favorite histori..."](/statements/statement-8386465f2af7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 </details>

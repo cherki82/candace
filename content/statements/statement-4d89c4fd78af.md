@@ -38,7 +38,7 @@ type: "accusation"
 **Timestamp:** [00:01:05](/episodes/ep-ja26iltROkM.md#t-00-00-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(65);return false;">Play</a>
 
-> Kash Patel has now come out and issued a statement fully capitulating to the public, the public insistence that they're lying to us. They are so clearly lying to us about what happened on the day that Charlie lost his life.
+> Kash Patel has now come out and issued a statement fully capitulating to the public, the public insistence that they're lying to us. They are so clearly lying to us about what happened on the day that Charlie (Charlie Kirk) lost his life.
 
 ## Verification
 

@@ -22,7 +22,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <div><span>Episodes</span><strong>20</strong></div>
 <div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -227,19 +227,19 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (29 mentions)</summary>
 
 **[00:01:53](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-01-26)**
-> "...sing any American Jew who is pro-Israel first of a pure form of anti-Semitism. That was directed at Nick Fuentes, which we'll circle back to. Also, this was a real tweet directed at Ron Paul. "Ron Paul is manifes..."
+> "That was directed at Nick Fuentes, which we'll circle back to."
 
 **[00:05:03](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-04-34)**
-> "..., I thought it was a good idea at the time. I think I felt differently after I saw what he did with Nick Fuentes and after he proceeded, in my opinion, to spend these subsequent weeks doing literally nothing to f..."
+> "... after I saw what he did with Nick Fuentes and after he proceeded, in my opinion, to spend t..."
 
 **[00:12:42](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-12-19)**
-> "...ime it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he sang Nick Fuentes's praises and also invited him onto the Daily Wire, okay? Here's a headl..."
+> "...n and had a conversation with Nick Fuentes where he sang Nick Fuentes's praises and also inv..."
 
 **[00:13:00](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-13-00)**
-> "...ere's a headline because the Huffington Post remembers too: "Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny." The article goes on: during a live-streamed conversation w..."
+> "...e CEO tells white supremacist Nick Fuentes that he's talented and he's very funny.""
 
 **[00:13:08](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-13-00)**
-> "...d he's very funny." The article goes on: during a live-streamed conversation with white supremacist Nick Fuentes last week, the CEO of the Daily Wire, a major right-wing media outlet, praised the prominent fascis..."
+> "...sation with white supremacist Nick Fuentes last week, the CEO of the Daily Wire, a major rig..."
 
 **[00:13:28](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-13-00)**
 > "...remy Boreing) joined Fuentes (Nick Fuentes) on X for a live audio chat room."
@@ -251,67 +251,67 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 > "... be thrilled to have Fuentes (Nick Fuentes) on one of the Daily Wire's shows to debate the m..."
 
 **[00:14:21](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-14-05)**
-> "...l he had one test on the show when the Daily Wire position in 2024 was that their CEO could talk to Nick Fuentes publicly, praise Nick Fuentes publicly, and also invite Nick Fuentes onto the Daily Wire platform. ..."
+> "... that their CEO could talk to Nick Fuentes publicly, praise Nick Fuentes publicly, and also ..."
 
 **[00:14:28](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-14-05)**
-> "...e a listen to a little bit of that conversation between Jeremy Boreing, then CEO of Daily Wire, and Nick Fuentes. (Clip: Jeremy Boreing and Nick Fuentes) People can say, well, I don't like what you say about this..."
+> "..., then CEO of Daily Wire, and Nick Fuentes. (Clip: Jeremy Boreing and Nick Fuentes)"
 
 **[00:15:11](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-15-11)**
 > "And I'll say this, Nick (Nick Fuentes), that I listen to your show quite often."
 
 **[00:15:45](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-15-36)**
-> "...on) did it and now it's suddenly not okay and it's the worst sin that could ever happen to speak to Nick Fuentes? Point number two I'm going to make here is the stunning hypocrisy again, okay, of him picking the ..."
+> "...could ever happen to speak to Nick Fuentes?"
 
 **[00:19:37](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-19-31)**
-> "...ted, laughing at photos of dead Palestinian babies. But I guess Tucker (Tucker Carlson) speaking to Nick Fuentes is just so much worse than celebrating, and not just celebrating, interviewing a man who is committ..."
+> "... (Tucker Carlson) speaking to Nick Fuentes is just so much worse than celebrating, and not j..."
 
 **[00:20:51](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-20-11)**
-> "...a couple of things are driving this unforced error. One, I do believe that he is actually scared of Nick Fuentes, okay? I think that fear comes from guilt. Nick's backstory—don't care what you think about him, yo..."
+> "...that he is actually scared of Nick Fuentes, okay?"
 
 **[00:20:59](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-20-55)**
-> "...mes from guilt. Nick's backstory—don't care what you think about him, you already know I don't like Nick Fuentes because of how he treated me. But the backstory is compelling. I learned the backstory listening to..."
+> "...you already know I don't like Nick Fuentes because of how he treated me."
 
 **[00:21:14](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-20-55)**
-> "...ou artificially push somebody out of the market and Ben has never come out and denied anything that Nick Fuentes has said, also Jeremy Boreing denied in a conversation with him. So we have to assume the story is ..."
+> "... out and denied anything that Nick Fuentes has said, also Jeremy Boreing denied in a convers..."
 
 **[00:21:44](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-21-35)**
-> "... whole life ahead of him, okay? And now when they did this because they wanted to rid themselves of Nick Fuentes, who then became angry about it and definitively has said very offensive things on the internet, bu..."
+> "...y wanted to rid themselves of Nick Fuentes, who then became angry about it and definitively ..."
 
 **[00:22:18](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-22-18)**
-> "...now. I don't even know who "he must not be named" is in this story, but I do know that with Ben and Nick Fuentes, it's kind of a "neither can live while the other survives," and Nick Fuentes seems to have survive..."
+> "...t I do know that with Ben and Nick Fuentes, it's kind of a "neither can live while the other..."
 
 **[00:22:52](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-22-18)**
-> "...ed. Like, how many people have lost their lives in Gaza? And you're telling me the greatest evil is Nick Fuentes? I'm sorry, I think I can survive Nick Fuentes insulting me. I don't feel the need to wheel and dea..."
+> "...lling me the greatest evil is Nick Fuentes?"
 
 **[00:22:54](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-22-18)**
-> "... in Gaza? And you're telling me the greatest evil is Nick Fuentes? I'm sorry, I think I can survive Nick Fuentes insulting me. I don't feel the need to wheel and deal behind the scenes or, you know, tell Tucker (..."
+> "... sorry, I think I can survive Nick Fuentes insulting me."
 
 **[00:23:05](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-23-01)**
-> "...I'm like, Megyn, I just don't care. Like, okay, if somebody wants to be a fan, they can be a fan of Nick Fuentes. And I sense an insecurity here in the fact that 10 years on from when Ben had this thing that happ..."
+> "...e a fan, they can be a fan of Nick Fuentes."
 
 **[00:23:07](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-23-01)**
-> "...sense an insecurity here in the fact that 10 years on from when Ben had this thing that happened to Nick Fuentes that he tells a story about, now Nick Fuentes is still here and Ben's influence is waning. It just ..."
+> "...d this thing that happened to Nick Fuentes that he tells a story about,"
 
 **[00:23:10](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-23-01)**
-> "...ears on from when Ben had this thing that happened to Nick Fuentes that he tells a story about, now Nick Fuentes is still here and Ben's influence is waning. It just factually is. Another thing that's happening h..."
+> "now Nick Fuentes is still here and Ben's (Ben Shapiro's) influence..."
 
 **[00:47:01](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-46-49)**
 > "...r Carlson) interview Fuentes (Nick Fuentes)?"
 
 **[00:47:28](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-46-49)**
-> "...s really gonna be it. And of course, it always backfires because people go, how immature, why can't Nick Fuentes tell a story? I just, I don't understand it. I'm not offended by anybody sitting down with Nick Fue..."
+> "...e go, how immature, why can't Nick Fuentes tell a story?"
 
 **[00:47:34](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-47-30)**
-> "... Fuentes tell a story? I just, I don't understand it. I'm not offended by anybody sitting down with Nick Fuentes. And I think everybody should be in the free market. If Nick Fuentes loses in the free market, I wa..."
+> "... by anybody sitting down with Nick Fuentes."
 
 **[00:47:39](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-47-30)**
-> "...d by anybody sitting down with Nick Fuentes. And I think everybody should be in the free market. If Nick Fuentes loses in the free market, I want it to be because there was better competition, not because he's ju..."
+> "If Nick Fuentes (Nick Fuentes) loses in the free market, I want i..."
 
 **[00:53:20](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-53-14)**
-> "...port, you know, baby Netanyahu, who's murderous. But oh my gosh, I can't believe you would speak to Nick Fuentes. We can speak to Nick Fuentes, but you can't speak to Nick Fuentes unless we say you can speak to N..."
+> "...'t believe you would speak to Nick Fuentes."
 
 **[00:53:24](/episodes/ep-r1PS67aRmcA.md#ent-person-nick-fuentes-t-00-53-14)**
-> "..., who's murderous. But oh my gosh, I can't believe you would speak to Nick Fuentes. We can speak to Nick Fuentes, but you can't speak to Nick Fuentes unless we say you can speak to Nick Fuentes. None of it makes ..."
+> "We can speak to Nick Fuentes, but you can't speak to Nick Fuentes unless we sa..."
 
 </details>
 
@@ -516,9 +516,8 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:09:49](/episodes/ep-ozWJz2spBcI.md#t-00-09-44): “foolish people that are so deceived, like a Candace Owens and like a Nick Fuentes”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:25](/episodes/ep-X92MllIHDzw.md#t-00-44-18): “Nick strikes me as someone who was really bright in high school. Then he got a little bit of fame and he stopped reading books.”
 
 </details>
@@ -526,7 +525,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:25](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro accusing Nick Fuentes of anti-Semitism”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:01:45](/episodes/ep-r1PS67aRmcA.md#t-00-01-26): “This is a real live tweet from Ben Shapiro accusing any American Jew who is pro-Israel first of a pure form of anti-Semitism. ... That was directed at Nick Fuentes, which we'll circle back to.”
 
 </details>
 
@@ -538,7 +537,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:13:00](/episodes/ep-r1PS67aRmcA.md#t-00-13-00): “Here's a headline because the Huffington Post remembers too: "Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny."”
 
 </details>
 
@@ -550,10 +549,10 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “Tucker Carlson hosted Nick Fuentes on his show.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49): “Tucker (Tucker Carlson) interviewed Nick Fuentes.”
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “after I saw what he did with Nick Fuentes”
 - [Myron Gaines x Candace Owens @ 00:45:26](/episodes/ep-2T39-oADLj0.md#t-00-45-26): “because when you hear nick's point has his backstory it's compelling it just is i was compelled when i heard it i actually haven't gotten around to watching his interview with tucker it's on my list this weekend”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show.”
 
 </details>
 
@@ -603,9 +602,8 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:09:49](/episodes/ep-ozWJz2spBcI.md#t-00-09-44): “foolish people that are so deceived, like a Candace Owens and like a Nick Fuentes”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:44:25](/episodes/ep-X92MllIHDzw.md#t-00-44-18): “Nick strikes me as someone who was really bright in high school. Then he got a little bit of fame and he stopped reading books.”
 
 </details>
@@ -613,7 +611,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:25](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro accusing Nick Fuentes of anti-Semitism”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:01:45](/episodes/ep-r1PS67aRmcA.md#t-00-01-26): “This is a real live tweet from Ben Shapiro accusing any American Jew who is pro-Israel first of a pure form of anti-Semitism. ... That was directed at Nick Fuentes, which we'll circle back to.”
 
 </details>
 
@@ -627,17 +625,17 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:05](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Daily Wire CEO tells white supremacist Nick Fuentes (Nick Fuentes) that he's talented and he's very funny”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:13:00](/episodes/ep-r1PS67aRmcA.md#t-00-13-00): “Here's a headline because the Huffington Post remembers too: "Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny."”
 
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “Tucker Carlson hosted Nick Fuentes on his show.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49): “Tucker (Tucker Carlson) interviewed Nick Fuentes.”
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “after I saw what he did with Nick Fuentes”
 - [Myron Gaines x Candace Owens @ 00:45:26](/episodes/ep-2T39-oADLj0.md#t-00-45-26): “because when you hear nick's point has his backstory it's compelling it just is i was compelled when i heard it i actually haven't gotten around to watching his interview with tucker it's on my list this weekend”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show.”
 
 </details>
 
@@ -699,7 +697,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nick Fuentes (14)</strong></summary>
+<summary><strong class="section-title">Statements about Nick Fuentes (19)</strong></summary>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
@@ -754,6 +752,19 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (3)</summary>
+
+- [00:01:45](/episodes/ep-r1PS67aRmcA.md#t-00-01-26) (Opinion) **Ben Shapiro** (via quoted post): ["Accusing any American Jew who is pro-Israel of being an “Israel Firste..."](/statements/statement-288a141452cd.md)
+
+- [00:13:35](/episodes/ep-r1PS67aRmcA.md#t-00-13-35) (Claim) **Candace Owens**: ["On March 25th, the Daily Wire CEO Jeremy Boreing joined Fuentes on X f..."](/statements/statement-4914ec9925c9.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+- [00:13:50](/episodes/ep-r1PS67aRmcA.md#t-00-13-35) (Opinion) **Jeremy Boreing** (via quoted article): ["I would be absolutely thrilled to have Ben speak to Nick, or anyone on..."](/statements/statement-65dbbedda71f.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
+
+<details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
 - [00:20:09](/episodes/ep-LATnak75Si0.md#t-00-20-02) (Accusation) **Ted Cruz** (via quoted tweet): ["Trump's bombing of the Ayatollah's nuclear facilities made the little ..."](/statements/statement-ff670def82b5.md)
@@ -766,6 +777,17 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 
 - [00:36:20](/episodes/ep-Qfwr08Ebczo.md#t-00-35-53) (Claim) **Tucker Carlson**: ["Tucker Carlson interviewed Nick Fuentes despite Fuentes having attacke..."](/statements/statement-3722299b36c8.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2)</summary>
+
+- [00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Candace Owens interviewed Nick Fuentes in July before Charlie Kirk die..."](/statements/statement-ada664cc8921.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:23](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) (Claim) **Candace Owens**: ["Charlie Kirk and Candace Owens discussed her Nick Fuentes interview an..."](/statements/statement-18dd9c25886a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

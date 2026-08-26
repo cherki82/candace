@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:03:10](/episodes/ep-6DhWawD4ZiM.md#t-00-02-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(190);return false;">Play</a>
 
-> Milo and a few others have asserted with absolute certainty that Charlie has not yet been buried. That's what they're saying. They say they have proof of that.
+> That question resurfaced this week in a big way because Milo (Milo Yiannopoulos) and a few others have asserted with absolute certainty that Charlie has not yet been buried. That's what they're saying. They say they have proof of that.
 
 ## Verification
 

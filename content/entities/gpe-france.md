@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 313 mentions"
+description: "France (Places) - 316 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -23,10 +23,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26">2026-08-14 · 04:01:41</a></strong></div>
-<div><span>Episodes</span><strong>47</strong></div>
-<div><span>Mentions</span><strong>313</strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>316</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>35</strong></div>
+<div><span>Statements about</span><strong>36</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -81,6 +81,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-france-t-00-35-28" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-france-t-00-02-46" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-12-22" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-france-t-00-00-42" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59" style="--pulse-height:24%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -133,6 +134,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-france-t-00-35-28) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-france-t-00-02-46) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-12-22) | 5 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-france-t-00-00-42) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59) | 17 |
 
 </details>
@@ -141,7 +143,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (313)</strong></summary>
+<summary><strong class="section-title">Raw mentions (316)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -196,6 +198,20 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[04:01:41](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26)**
 > "...ckly and to speak to me about France and to talk about this penguin receipt and my tim..."
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
+
+**[00:01:00](/episodes/ep-N4uM8Jdr410.md#ent-gpe-france-t-00-00-42)**
+> "Still love the United States, but I got to root against naked power and demons. Same with France, nothing personal."
+
+**[00:01:06](/episodes/ep-N4uM8Jdr410.md#ent-gpe-france-t-00-00-42)**
+> "You know, I love the French people. They've been so unbelievable in our inves..."
+
+**[00:01:13](/episodes/ep-N4uM8Jdr410.md#ent-gpe-france-t-00-00-42)**
+> "...lip from a while ago of those French football players looking at Brigitte (Brigitte Ma..."
 
 </details>
 
@@ -843,7 +859,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...r to be in part controlled by French American families who might have some conflicted ..."
 
 **[00:11:00](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-france-t-00-10-27)**
-> "... Christopher Mosley, had her killed. Both John DuPont and Mosley died in prison. Okay, great. Cool. France, France in the story. We've got an alleged murder for hire. I guess not an alleged murder. It's not..."
+> "France, France in the story."
 
 **[00:11:12](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-france-t-00-11-12)**
 > "... It's not alleged; it's just murder for hire. We've got incest. We've got Jeffrey Epstein's ties to France. I'm just kind of noticing a theme here, if you will—a theme here that makes me a little bit uncomf..."
@@ -974,7 +990,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...imed on X that a high-ranking French government insider warned her of an imminent plot..."
 
 **[00:12:42](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-france-t-00-12-02)**
-> "...'s) assassin trained with the French Legion with multi-state involvement."
+> "She also suggested that Charlie Kirk's assassin trained with the French Legion with multi-state involvement."
 
 **[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-france-t-00-13-15)**
 > "...erseas to handle business, and members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it tells you there that the process then led, r..."
@@ -1246,7 +1262,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
 
 **[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-france-t-00-49-18)**
-> "...ued. Tim Dillon's already included in my lawsuit with Brigitte Macron. Apparently, the president of France watches Tim Dillon, and we talked about the Brigitte case, and so he's dragged in there anyways. I'..."
+> "Apparently, the president of France watches Tim Dillon, and we talked about the Brigi..."
 
 </details>
 
@@ -1313,7 +1329,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...ador to France was found dead in a Paris hotel." Oh no, France. France. It's hot right now, France. France is... You guys already know. Look, I want to say this. I want to say this. Make sure I read all of ..."
 
 **[01:03:38](/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-01-03-04)**
-> "...cations. It shows you the power—the power of Christ, truly. I will say in closing and going back to France: if I found Brigitte's penis, I will find who killed Charlie Kirk (Charlie Kirk). We'll see you guy..."
+> "I will say in closing and going back to France: if I found Brigitte's penis, I will find who killed Charlie Kirk."
 
 </details>
 
@@ -1439,7 +1455,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (35)</strong></summary>
+<summary><strong class="section-title">Statements about France (36)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -1618,6 +1634,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28) (Claim) **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pe..."](/statements/statement-762a0183a31f.md)
   - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:11:04](/episodes/ep-mKXdKV-OBog.md#t-00-10-47) (Claim) **Candace Owens**: ["SUBTT came from Cairo through Paris to Omaha, Nebraska on July 20th, s..."](/statements/statement-fccf29b8380b.md)
+  - Also about: [Cairo](/entities/gpe-cairo.md), [Nebraska](/entities/gpe-nebraska.md)
 
 </details>
 

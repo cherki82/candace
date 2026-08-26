@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 21 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 24 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-timpanogos-regional-hospital-t-00-52-31">2026-06-26 · 00:52:57</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-timpanogos-regional-hospital-t-00-20-08">2026-07-20 · 00:20:38</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -51,6 +51,8 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-timpanogos-regional-hospital-t-00-55-06" style="--pulse-height:33%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#t-00-32-51" style="--pulse-height:33%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-timpanogos-regional-hospital-t-00-52-31" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-timpanogos-regional-hospital-t-00-25-16" style="--pulse-height:67%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-timpanogos-regional-hospital-t-00-20-08" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +74,8 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-timpanogos-regional-hospital-t-00-55-06) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#t-00-32-51) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-timpanogos-regional-hospital-t-00-52-31) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-timpanogos-regional-hospital-t-00-25-16) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-timpanogos-regional-hospital-t-00-20-08) | 1 |
 
 </details>
 </section>
@@ -79,7 +83,26 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:20:38](/episodes/ep-N4uM8Jdr410.md#ent-org-timpanogos-regional-hospital-t-00-20-08)**
+> "Remember, we have the CEO of Timpanogos Regional Hospital, Andrew Zenger. He was appointed just a couple of weeks before Charlie Kirk's assassination."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
+
+**[00:25:22](/episodes/ep-mLvJqdxS-FY.md#ent-org-timpanogos-regional-hospital-t-00-25-16)**
+> "...tip from a verified source at Timpanogos Hospital."
+
+**[00:25:28](/episodes/ep-mLvJqdxS-FY.md#ent-org-timpanogos-regional-hospital-t-00-25-16)**
+> "... difficult to find sources at Timpanogos Hospital. I've been telling you that. And this one is comp..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -229,7 +252,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <details>
 <summary>Employs (1)</summary>
 
-- **[Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)**
+- **[Lee Trotter](/entities/person-lee-trotter.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09): “Charlie gets transported to...Timpanogos Hospital. He's raced into surgery.”
@@ -257,9 +280,9 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 - **[Andrew Zenger](/entities/person-andrew-zenger.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “brand-new CEO and head surgeon named Andrew Zenger”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger”
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “our brand spanking new ceo of timpanogos don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:55](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “And also something new is that that hospital had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger—a lot of new stuff happening.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:20:38](/episodes/ep-N4uM8Jdr410.md#t-00-20-08): “Remember, we have the CEO of Timpanogos Regional Hospital, Andrew Zenger. He was appointed just a couple of weeks before Charlie Kirk's assassination.”
 
 </details>
 
@@ -271,9 +294,9 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 - **[Andrew Zenger](/entities/person-andrew-zenger.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “brand-new CEO and head surgeon named Andrew Zenger”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger”
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “our brand spanking new ceo of timpanogos don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:55](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “And also something new is that that hospital had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger—a lot of new stuff happening.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:20:38](/episodes/ep-N4uM8Jdr410.md#t-00-20-08): “Remember, we have the CEO of Timpanogos Regional Hospital, Andrew Zenger. He was appointed just a couple of weeks before Charlie Kirk's assassination.”
 
 </details>
 
@@ -285,7 +308,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 
 </details>
 
-- **[Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)** works for this
+- **[Lee Trotter](/entities/person-lee-trotter.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:08:33](/episodes/ep-9k2xrAC0H88.md#t-00-08-09): “Charlie gets transported to...Timpanogos Hospital. He's raced into surgery.”
@@ -297,7 +320,26 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (20)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (24)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:20:38](/episodes/ep-N4uM8Jdr410.md#t-00-20-08) (Claim) **Candace Owens**: ["Candace Owens said Andrew Zenger was appointed CEO of Timpanogos Regio..."](/statements/statement-0794d980a807.md)
+  - Also about: [Andrew Zenger](/entities/person-andrew-zenger.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>
+
+- [00:25:34](/episodes/ep-mLvJqdxS-FY.md#t-00-25-16) (Claim) **Anonymous Source #2 (Ep mLvJqdxS-FY)** (via read message): ["An anonymous Timpanogos Regional Hospital employee told Candace Owens ..."](/statements/statement-494941572997.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:46](/episodes/ep-mLvJqdxS-FY.md#t-00-26-46) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said the hospital staff did not know Charlie Kirk's part..."](/statements/statement-97f28cf39ba6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (7)</summary>
@@ -384,10 +426,13 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2)</summary>
 
 - [00:02:01](/episodes/ep-YaZfwLQ7vrI.md#t-00-01-21) (Claim) **Candace Owens**: ["The feds immediately seized the footage at Timpanogos Hospital on the ..."](/statements/statement-92fe542e0525.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:02:01](/episodes/ep-YaZfwLQ7vrI.md#t-00-01-21) (Claim) **Candace Owens**: ["the feds immediately seized the footage at Timpanogos Hospital"](/statements/statement-df3b09ed12ba.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

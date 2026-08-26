@@ -225,7 +225,7 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
 **[00:02:43](/episodes/ep-r1PS67aRmcA.md#ent-gpe-florida-t-00-02-10)**
-> "... that I enjoy watching. And last night he got on stage with Megyn Kelly, and she had a tour stop in Florida. And I wanna say, I was kind of impressed with Ben because instead of doing his usual thing where h..."
+> "And last night he got on stage with Megyn Kelly, and she had a tour stop in Florida."
 
 </details>
 

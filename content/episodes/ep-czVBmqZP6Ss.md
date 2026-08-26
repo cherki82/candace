@@ -1,14 +1,14 @@
 ---
 id: "czVBmqZP6Ss"
 title: "They Are Lying About Charlie Kirk. | Candace Ep 235"
-description: "They Are Lying About Charlie Kirk. | Candace Ep 235 - 66 entities, 11 events, 0 claims"
+description: "They Are Lying About Charlie Kirk. | Candace Ep 235 - 67 entities, 11 events, 63 factual claims"
 published: "2025-09-15"
 youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 ---
 
 **Published:** 2025-09-15 | [Watch on YouTube](https://www.youtube.com/watch?v=czVBmqZP6Ss)
 
-**Stats:** 66 entities | 11 events | 0 claims
+**Stats:** 67 entities | 11 events | 63 factual claims
 
 ---
 
@@ -186,9 +186,9 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 **<a href="/timestamps/ep-czVBmqZP6Ss/t-00-40-33.md" class="timestamp-link">00:40:33</a> <a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2433" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So essentially he's saying that what—that person we saw walking down the street right there arrived on campus at 8:29. I'm going to allow you to hear <span id="ent-person-spencer-cox-t-00-40-33"><a href="/entities/person-spencer-cox.md">Governor Cox</a></span> say that himself. Take a listen. ^t-00-40-33
 
 ---
-**🎤 News Reporter**
+**🎤 Governor Cox**
 
-**<a href="/timestamps/ep-czVBmqZP6Ss/t-00-40-44.md" class="timestamp-link">00:40:44</a> <a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2444" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> News Reporter:** Investigators reviewed additional video footage from <span id="ent-org-utah-valley-university-t-00-40-44"><a href="/entities/org-utah-valley-university.md">UVU</a></span> surveillance and identified <span id="ent-person-tyler-robinson-t-00-40-44"><a href="/entities/person-tyler-robinson.md">Robinson</a></span> arriving on <a href="/entities/org-utah-valley-university.md">UVU</a> campus in a gray Dodge Challenger at approximately 8:29 a.m. on <span id="ent-date-september-10th-t-00-40-44"><a href="/entities/date-september-10th.md">September 10th</a></span><span id="event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-40-44"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md" class="event-indicator" title="Timeline event">📅</a></span>, in which he is observed on video in a plain maroon t-shirt, light-colored shorts, a black hat with a white logo, and light-colored shoes. ^t-00-40-44
+**<a href="/timestamps/ep-czVBmqZP6Ss/t-00-40-44.md" class="timestamp-link">00:40:44</a> <a href="https://www.youtube.com/watch?v=czVBmqZP6Ss&t=2444" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Governor Cox:** Investigators reviewed additional video footage from <span id="ent-org-utah-valley-university-t-00-40-44"><a href="/entities/org-utah-valley-university.md">UVU</a></span> surveillance and identified <span id="ent-person-tyler-robinson-t-00-40-44"><a href="/entities/person-tyler-robinson.md">Robinson</a></span> arriving on <a href="/entities/org-utah-valley-university.md">UVU</a> campus in a gray Dodge Challenger at approximately 8:29 a.m. on <span id="ent-date-september-10th-t-00-40-44"><a href="/entities/date-september-10th.md">September 10th</a></span><span id="event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-40-44"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md" class="event-indicator" title="Timeline event">📅</a></span>, in which he is observed on video in a plain maroon t-shirt, light-colored shorts, a black hat with a white logo, and light-colored shoes. ^t-00-40-44
 
 ---
 **🎤 Candace Owens**
@@ -313,7 +313,9 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (66)</strong></summary>
+<summary><strong>Entities Mentioned (67)</strong></summary>
+
+**Anonymous Sources:** [News Reporter (Ep czVBmqZP6Ss)](/entities/anon-src-czVBmqZP6Ss-legacy-2806869a.md)
 
 **Concepts:** [God](/entities/concept-god.md), [Jewish mystical tradition](/entities/concept-jewish-mystical-tradition.md)
 
@@ -332,61 +334,122 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 </details>
 
 <details>
-<summary><strong>Statements (27)</strong></summary>
+<summary><strong>Statements (83)</strong></summary>
 
+- [00:00:21](#t-00-00-00) [✓] (Claim) **Candace Owens**: ["Charlie Kirk is dead and he was publicly executed"](/statements/statement-e7d6cbc3ac14.md)
+- [00:00:21](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Charlie Kirk, my friend, is dead."](/statements/statement-b5d14da7e3d3.md)
 - [00:00:27](#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Charlie was publicly executed before the world"](/statements/statement-b1337a03eb04.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:01:48](#t-00-01-09) [○] (Promise) **Erika Kirk**: ["Erika Kirk vowed that the movement her husband built would not die"](/statements/statement-3a7dcfd93366.md)
+- [00:02:57](#t-00-02-45) [✓] (Claim) **Candace Owens**: ["Owens said she had watched her friend Charlie Kirk get shot in the neck"](/statements/statement-57f9e1f858b9.md)
+- [00:03:02](#t-00-02-45) [✓] (Claim) **Candace Owens**: ["Charlie Kirk was shot in the neck"](/statements/statement-5366e863fa8d.md)
+- [00:04:44](#t-00-04-11) [○] (Claim) **Candace Owens**: ["Charlie Kirk was going through a spiritual transformation at the end"](/statements/statement-5e8521a46032.md)
 - [00:06:03](#t-00-05-37) [○] (Opinion) **Candace Owens**: ["Towards the end, Charlie was fighting for custody of himself"](/statements/statement-2dfac75191ef.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:07:19](#t-00-07-17) [✓] (Claim) **Benjamin Netanyahu**: ["Netanyahu said his son had lunch with Charlie and Erika Kirk during Charlie Kirk..."](/statements/statement-ae0fb91d7b8b.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:07:40](#t-00-07-17) [○] (Citation) **Benjamin Netanyahu**: ["Benjamin Netanyahu wrote me a letter on May 2nd this year saying one of my great..."](/statements/statement-be133f7096af.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
-- [00:08:02](#t-00-07-17) [○] (Claim) **Benjamin Netanyahu**: ["I called him, and I spoke to him, and I said, please come to Israel. I invited h..."](/statements/statement-bf1214ed8432.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:08:02](#t-00-07-17) [✓] (Claim) **Benjamin Netanyahu**: ["Benjamin Netanyahu said he had called Charlie Kirk and invited him to Israel sho..."](/statements/statement-bf1214ed8432.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:10:12](#t-00-09-49) [○] (Claim) **Candace Owens**: ["In May, Charlie Kirk was concerned about Israel and their influence on American ..."](/statements/statement-59322b04b43e.md)
 - [00:10:35](#t-00-10-27) [○] (Accusation) **Candace Owens**: ["Benjamin Netanyahu is severely misrepresenting the contents of the May letter. C..."](/statements/statement-4cc7249129ce.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+- [00:11:53](#t-00-11-22) [○] (Claim) **Charlie Kirk**: ["My moral character is now being put into question."](/statements/statement-ef1b8e262904.md)
 - [00:12:00](#t-00-11-22) [○] (Opinion) **Charlie Kirk**: ["My moral character is now being put into question, not my decisions, but I am a ..."](/statements/statement-0ebba97186a8.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:13:11](#t-00-12-57) [○] (Claim) **Candace Owens**: ["Charlie was under increasing pressure with threats to pull out money. Charlie wa..."](/statements/statement-2acb15ef1f21.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:13:11](#t-00-12-57) [○] (Claim) **Candace Owens**: ["They were threatening to pull out money. Charlie was getting a lot of really nas..."](/statements/statement-c62a6797763c.md)
 - [00:14:29](#t-00-14-19) [○] (Claim) **Candace Owens**: ["Bill Ackman was on Charlie about comments that Tucker had made on that stage. Tu..."](/statements/statement-8f675c6de845.md)
   - About: [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 - [00:14:58](#t-00-14-19) [○] (Accusation) **Candace Owens**: ["Israel used spyware spying on us for years"](/statements/statement-06ff49b0046c.md)
   - About: [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+- [00:15:18](#t-00-15-01) [○] (Claim) **Candace Owens**: ["Charlie was in the Hamptons and he had essentially what was staged an interventi..."](/statements/statement-945e85aaf058.md)
 - [00:15:22](#t-00-15-01) [○] (Claim) **Candace Owens**: ["Charlie was in the Hamptons and had essentially what was staged an intervention...."](/statements/statement-7dc407943663.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bill Ackman](/entities/person-bill-ackman.md), [Israel](/entities/gpe-israel.md)
+- [00:15:31](#t-00-15-01) [◐] (Claim) **Candace Owens**: ["Owens said Bill Ackman hosted a Hamptons meeting that she characterized as an in..."](/statements/statement-42db04619527.md)
+- [00:15:50](#t-00-15-45) [○] (Claim) **Candace Owens**: ["Owens said unnamed sources told her Bill Ackman was upset during the Hamptons me..."](/statements/statement-763a2514354c.md)
 - [00:15:56](#t-00-15-45) [○] (Accusation) **Candace Owens**: ["Bill Ackman was very upset and threats were made at the Hamptons meeting"](/statements/statement-9c14e05b211c.md)
   - About: [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:16:14](#t-00-15-45) [○] (Accusation) **Candace Owens**: ["It was at this time that Benjamin Netanyahu was called and Charlie was invited t..."](/statements/statement-11d2f660c33e.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+- [00:16:28](#t-00-15-45) [○] (Claim) **Candace Owens**: ["It was at this time that Benjamin Netanyahu was called and Charlie was invited t..."](/statements/statement-79c5d18157f7.md)
+  - About: [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:16:28](#t-00-16-28) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu called Charlie Kirk and invited him to Israel after Bill Ackm..."](/statements/statement-6ae6a11343b1.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:16:43](#t-00-16-28) [○] (Claim) **Candace Owens**: ["When I started asking sensible questions about Israel, I was met with pressure. ..."](/statements/statement-290de20af3ef.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+- [00:17:20](#t-00-17-05) [○] (Claim) **Candace Owens**: ["Charlie was offered a ton of money in this moment."](/statements/statement-f7eaf6861b97.md)
 - [00:17:23](#t-00-17-05) [○] (Claim) **Candace Owens**: ["Charlie was offered a ton of money at the Hamptons meeting. Benjamin would fund ..."](/statements/statement-b48675b83fd5.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+- [00:17:40](#t-00-17-05) [○] (Claim) **Candace Owens**: ["Owens said her sources showed that Charlie Kirk declined Benjamin Netanyahu’s in..."](/statements/statement-2ef0d7cc5f4f.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:17:45](#t-00-17-05) [○] (Claim) **Candace Owens**: ["Charlie denied that funding."](/statements/statement-e4842503f1ce.md)
+- [00:18:14](#t-00-17-49) [○] (Claim) **Candace Owens**: ["Charlie said no to Benjamin."](/statements/statement-dd3808759fae.md)
 - [00:18:15](#t-00-17-49) [○] (Claim) **Candace Owens**: ["Charlie said no to Benjamin Netanyahu's invitation to Israel"](/statements/statement-027a5753e1b3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+- [00:19:39](#t-00-19-14) [○] (Claim) **Candace Owens**: ["You were present when Ackman lost his mind on Charlie"](/statements/statement-e6968ec57ad3.md)
+- [00:19:39](#t-00-19-14) [○] (Claim) **Candace Owens**: ["Benjamin invited him to Israel and Charlie refused"](/statements/statement-73a4de52e95e.md)
+- [00:19:47](#t-00-19-14) [○] (Claim) **Candace Owens**: ["Text messages immediately following this meeting are circulating"](/statements/statement-65d5402078c2.md)
+- [00:21:25](#t-00-20-41) [○] (Claim) **Candace Owens**: ["Charlie Kirk was praying the rosary and going to mass"](/statements/statement-8d3310e15403.md)
 - [00:21:27](#t-00-21-25) [○] (Claim) **Candace Owens**: ["Charlie was praying the rosary. Charlie was going to mass"](/statements/statement-09e5a4c48821.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:21:28](#t-00-21-25) [○] (Claim) **Candace Owens**: ["Charlie was going to mass"](/statements/statement-c7b12a92e056.md)
+- [00:22:37](#t-00-21-58) [○] (Claim) **Candace Owens**: ["I knew exactly which donors were pressuring him and why, exactly which people th..."](/statements/statement-7f2a78cfda88.md)
+- [00:24:35](#t-00-24-03) [✓] (Claim) **Candace Owens**: ["Charlie Kirk has always loved Israel as the Holy Land. He's been here many times..."](/statements/statement-c3fcc70521ab.md)
+- [00:25:06](#t-00-24-40) [○] (Accusation) **Candace Owens**: ["Charlie was having a change of heart about the tactics that Israel was using in ..."](/statements/statement-30748dbaa1dc.md)
 - [00:25:18](#t-00-24-40) [○] (Accusation) **Candace Owens**: ["Charlie felt he had effectively been blackmailed when he left the Hamptons meeti..."](/statements/statement-1e56aae494b0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bill Ackman](/entities/person-bill-ackman.md)
-- [00:29:16](#t-00-29-10) [○] (Claim) **Charlie Kirk**: ["Ghislaine Maxwell's father, Robert Maxwell, was obviously a spy of the Israeli i..."](/statements/statement-a040af743a90.md)
-  - About: [Robert Maxwell](/entities/person-robert-maxwell.md), [Mossad](/entities/org-mossad.md), [Israel](/entities/gpe-israel.md)
+- [00:25:40](#t-00-25-24) [○] (Claim) **Candace Owens**: ["We watched Charlie get shot in the throat"](/statements/statement-d514258dc3de.md)
+- [00:29:10](#t-00-28-54) [○] (Opinion) **Charlie Kirk**: ["Epstein with his little friend Ghislaine, and Ghislaine's father Robert Maxwell ..."](/statements/statement-0780da1b8312.md)
+- [00:29:16](#t-00-29-10) [◐] (Claim) **Charlie Kirk**: ["Ghislaine Maxwell's father, Robert Maxwell, was obviously a spy of the Israeli i..."](/statements/statement-a040af743a90.md)
+  - About: [Israel](/entities/gpe-israel.md), [Mossad](/entities/org-mossad.md), [Robert Maxwell](/entities/person-robert-maxwell.md)
 - [00:29:25](#t-00-29-10) [○] (Claim) **Charlie Kirk**: ["Epstein was not some sort of whiz-kid hedge fund manager. Epstein was playing a ..."](/statements/statement-a02557b2a65f.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
-- [00:30:12](#t-00-29-49) [○] (Claim) **Charlie Kirk**: ["The evidence shows that Epstein was a creation of either Mossad, Israeli intelli..."](/statements/statement-9757aae20f06.md)
-  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Mossad](/entities/org-mossad.md)
+- [00:30:12](#t-00-29-49) [✓] (Claim) **Charlie Kirk**: ["Charlie Kirk said the evidence showed Jeffrey Epstein might have been created by..."](/statements/statement-9757aae20f06.md)
+  - About: [Mossad](/entities/org-mossad.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+- [00:30:36](#t-00-30-27) [○] (Accusation) **Charlie Kirk**: ["Members of Congress are actively being blackmailed"](/statements/statement-04ac38d2f4b6.md)
 - [00:30:39](#t-00-30-27) [○] (Claim) **Charlie Kirk**: ["Members of Congress are actively being blackmailed. The Epstein playbook is bein..."](/statements/statement-aa7605c48a8f.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 - [00:30:49](#t-00-30-27) [○] (Claim) **Charlie Kirk**: ["Jeffrey Epstein was a key player in a multi-decade blackmail operation against t..."](/statements/statement-c57f3176ff0a.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+- [00:31:54](#t-00-31-46) [○] (Promise) **Candace Owens**: ["Owens promised to release every text message if someone she considered a shill w..."](/statements/statement-86c5cf518af3.md)
 - [00:32:05](#t-00-31-46) [○] (Promise) **Candace Owens**: ["If you put a shill in Charlie's chair, in Charlie's company, and try to tell us ..."](/statements/statement-a2a9f8c9ec96.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:37:05](#t-00-36-23) [✓] (Claim) **Michael Savage**: ["Michael Savage claimed authorities were saying the shooter removed a Mauser barr..."](/statements/statement-71c1fbeb7f70.md)
 - [00:37:17](#t-00-37-05) [○] (Opinion) **Michael Savage**: ["The FBI's story doesn't add up. They're trying to claim he removed the barrel fr..."](/statements/statement-3a59ee990192.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:37:34](#t-00-37-05) [○] (Claim) **Tucker Carlson**: ["The photo of the rifle allegedly left in the woods has the barrel installed"](/statements/statement-ad849db0d227.md)
+- [00:38:25](#t-00-38-05) [○] (Claim) **Candace Owens**: ["The FBI has recently come out and said they're looking for another person."](/statements/statement-ecfdeea5d703.md)
+- [00:39:41](#t-00-39-23) [○] (Claim) **Candace Owens**: ["TMZ has footage showing a man at 8:07 a.m., hours before the shooting, wearing a..."](/statements/statement-1984010f7359.md)
+- [00:40:44](#t-00-40-33) [✓] (Claim) **Spencer Cox**: ["Tyler Robinson arrived on UVU campus in gray Dodge Challenger at 8:29 a.m. Sep 1..."](/statements/statement-c69c7e220161.md)
+- [00:41:35](#t-00-41-09) [○] (Claim) **Candace Owens**: ["TMZ has footage at 11:49 a.m. showing the shooter in a different outfit on a doo..."](/statements/statement-6b7be6197efa.md)
+- [00:42:50](#t-00-42-33) [✓] (Claim) **Candace Owens**: ["Charlie Kirk gets shot at 12:23 p.m."](/statements/statement-a9c04b4ae280.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:44:24](#t-00-43-44) [◐] (Claim) **Candace Owens**: ["Owens said George Zinn was detained after falsely signaling involvement and clai..."](/statements/statement-96810c602869.md)
+- [00:45:02](#t-00-44-29) [○] (Claim) **Candace Owens**: ["TMZ shows a person running through the backyard at 12:29 p.m., alleged to be the..."](/statements/statement-17a742c26ceb.md)
+- [00:45:39](#t-00-45-14) [○] (Claim) **Candace Owens**: ["The weapon was found in the woods wrapped by a dark towel and was fully assemble..."](/statements/statement-5b1edac23f4d.md)
+- [00:46:07](#t-00-45-56) [✓] (Claim) **Candace Owens**: ["A screwdriver was found on the roof."](/statements/statement-9c3b853b609b.md)
+- [00:48:41](#t-00-48-34) [○] (Claim) **Candace Owens**: ["Tyler Robinson was apprehended 33 hours later wearing the maroon outfit."](/statements/statement-ba43fa44b72a.md)
+- [00:50:22](#t-00-50-00) [○] (Claim) **News Reporter (Ep czVBmqZP6Ss)**: ["Tyler Robinson has not confessed to authorities and is not cooperating"](/statements/statement-397b1009bc9c.md)
 - [00:51:05](#t-00-50-22) [○] (Claim) **Spencer Cox**: ["Tyler Robinson has not confessed to authorities. He is not cooperating"](/statements/statement-14dff9533569.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:51:17](#t-00-51-05) [○] (Claim) **News Reporter (Ep czVBmqZP6Ss)**: ["His roommate was indeed a boyfriend who is transitioning from male to female and..."](/statements/statement-7242106f7815.md)
+- [00:52:25](#t-00-51-44) [○] (Claim) **News Reporter (Ep czVBmqZP6Ss)**: ["Tyler Robinson made messages on Discord about retrieving a rifle from a drop poi..."](/statements/statement-ecd1d8768496.md)
+- [00:52:25](#t-00-51-44) [○] (Claim) **News Reporter (Ep czVBmqZP6Ss)**: ["Messages from the contact “Tyler” stating a need to retrieve a rifle from a drop..."](/statements/statement-007d03befff9.md)
+- [00:54:16](#t-00-53-41) [○] (Claim) **Candace Owens**: ["Discord says, “In the course of our investigation, we identified a Discord accou..."](/statements/statement-a2578e13f016.md)
 - [00:54:24](#t-00-54-20) [✓] (Claim) **Discord**: ["Discord says there is no evidence that the suspect planned this incident or prom..."](/statements/statement-6fbddf863af1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [01:00:51](#t-01-00-47) [○] (Claim) **Candace Owens**: ["At the university when Charlie was shot, someone stood up and cheered"](/statements/statement-981c3fb9ce53.md)
+- [00:55:04](#t-00-54-20) [○] (Promise) **Candace Owens**: ["Owens promised to keep following the case and refining her timeline as new infor..."](/statements/statement-bc8250a71aa9.md)
+- [00:58:14](#t-00-57-53) [○] (Opinion) **Candace Owens**: ["Owens said Charlie Kirk’s impact was larger than people had imagined despite his..."](/statements/statement-658895a8e0ac.md)
+- [00:58:18](#t-00-57-53) [○] (Claim) **Candace Owens**: ["He inspired millions of Americans of all ages to think critically, to courageous..."](/statements/statement-09608bdcd1a9.md)
+- [01:00:51](#t-01-00-47) [✗] (Claim) **Candace Owens**: ["Owens claimed that someone in the UVU audience stood and cheered after Charlie K..."](/statements/statement-981c3fb9ce53.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [01:00:55](#t-01-00-47) [○] (Opinion) **Candace Owens**: ["there's an underground communist movement, and it is at all schools."](/statements/statement-076a46da5392.md)
+- [01:02:10](#t-01-01-30) [✓] (Citation) **Candace Owens**: ["Owens characterized The Assault on Truth as arguing that Freud suppressed patien..."](/statements/statement-9f4405ce2798.md)
+- [01:03:09](#t-01-02-48) [○] (Claim) **Candace Owens**: ["He was, I believe, a professor, a historian, at Tel Aviv University."](/statements/statement-88751852ed75.md)
+- [01:04:18](#t-01-03-34) [○] (Claim) **Candace Owens**: ["No one was more careful than Charlie Kirk, and he still got a bullet in the thro..."](/statements/statement-bd26807b5e7c.md)
+- [01:07:10](#t-01-07-02) [○] (Claim) **Candace Owens**: ["Look up Abraham Polak. He won awards for saying they were the Khazars and tracin..."](/statements/statement-308e974c1975.md)
 
 </details>

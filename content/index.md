@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>137 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-26">2026-08-26</time></p>
+<p class="kg-freshness"><strong>141 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-26">2026-08-26</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>4,849</strong><span>Claims &amp; statements</span></div>
-<div><strong>3,453</strong><span>Tracked entities</span></div>
-<div><strong>1,502</strong><span>Timeline events</span></div>
-<div><strong>1,744</strong><span>Research sources</span></div>
+<div><strong>6,337</strong><span>Claims &amp; statements</span></div>
+<div><strong>3,565</strong><span>Tracked entities</span></div>
+<div><strong>1,538</strong><span>Timeline events</span></div>
+<div><strong>2,421</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -30,23 +30,23 @@ description: "An evidence-first research workbench for imported video, audio, an
 <span>Unspecified source</span>
 </article>
 <article>
+<time datetime="2026-07-20">2026-07-20</time>
+<a href="/episodes/ep-N4uM8Jdr410">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-07-16">2026-07-16</time>
+<a href="/episodes/ep-mLvJqdxS-FY">COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-07-16">2026-07-16</time>
+<a href="/episodes/ep-puuMVxEu5NU">EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360</a>
+<span>Candace Owens</span>
+</article>
+<article>
 <time datetime="2026-07-14">2026-07-14</time>
 <a href="/episodes/ep-EtLHqDbxqks">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-06-26">2026-06-26</time>
-<a href="/episodes/ep-IqHsl7d2dos">TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-06-26">2026-06-26</time>
-<a href="/episodes/ep-a2bZf4fic10">EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-06-24">2026-06-24</time>
-<a href="/episodes/ep-sKuYLNx3iRo">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -56,46 +56,46 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>200 recent mentions · +169 vs prior window</span></a>
-<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>61 recent mentions · +56 vs prior window</span></a>
-<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>108 recent mentions · +45 vs prior window</span></a>
-<a href="/entities/gpe-israel"><strong>Israel</strong><span>58 recent mentions · +45 vs prior window</span></a>
-<a href="/entities/concept-dna"><strong>Deoxyribonucleic acid</strong><span>45 recent mentions · +45 vs prior window</span></a>
-<a href="/entities/person-brian-harpole"><strong>Brian Harpole</strong><span>68 recent mentions · +41 vs prior window</span></a>
+<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>209 recent mentions · +189 vs prior window</span></a>
+<a href="/entities/concept-dna"><strong>Deoxyribonucleic acid</strong><span>53 recent mentions · +53 vs prior window</span></a>
+<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>58 recent mentions · +50 vs prior window</span></a>
+<a href="/entities/gpe-israel"><strong>Israel</strong><span>64 recent mentions · +49 vs prior window</span></a>
+<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>103 recent mentions · +40 vs prior window</span></a>
+<a href="/entities/person-andrew-wilson"><strong>Andrew Wilson</strong><span>31 recent mentions · +31 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes
 
 <div class="verification-feed">
 <article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-6e162473d33e">Charlie Kirk said he usually turned his phone off on Saturdays to honor Shabbat but kept it on that day because he was trying to help make J.D. Vance vice president.</a>
-<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
-</article>
-<article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-1bb28086b81a">Owens said she believed the black shards visible in Charlie Kirk&#x27;s SUV were pieces of his RØDE microphone rather than sunglasses.</a>
-<small>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354</small>
-</article>
-<article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-680885110245">Owens accused Brian Harpole and the security team of incompetently carrying Charlie Kirk with his neck unsecured and flopping.</a>
-<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
+<a href="/statements/statement-7a3c360b229e">Owens said Joint Task Force Six was a brand-new command created at the border around 1990 by President George H. W. Bush with Colin Powell&#x27;s help as part of the war on drugs</a>
+<small>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-50f9f22fee7f">Owens said Frank Turek&#x27;s and Brian Harpole&#x27;s repeated public accounts of the car ride omitted the shattered-glass detail and said only that Charlie Kirk&#x27;s neck was treated.</a>
-<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
-</article>
-<article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-17d444e7a442">Owens said black tempered glass was scattered throughout the car, including where Charlie Kirk&#x27;s chest would have been.</a>
-<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
+<a href="/statements/statement-c61a4715d355">Candace Owens said Tucker Carlson, Bret Weinstein, and Joe Kent had all confirmed that Charlie Kirk was fighting behind the scenes to stop a war with Iran.</a>
+<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-ff9ceb83d1d1">Owens said Jon Aaron Bray had been convinced from the beginning that Charlie Kirk&#x27;s microphone was rigged beneath him and subsequently shattered.</a>
-<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
+<a href="/statements/statement-04ee0e537e1f">Candace Owens promised to reveal before the end of the week who had told people he was at lunch with Ben Shapiro when he received a phone call.</a>
+<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-b592fae6969b">Blake Neff said that, to his knowledge, he stayed at basically the same hotel as everyone else, thought it was in Salt Lake City, and did not remember which hotel it was.</a>
+<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-000a70eceff7">Candace Owens said she thought either Frank Turek or Brian Harpole lied about CPR, though she did not know which.</a>
+<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-09e8e1de11ab">Frank Turek said eyewitnesses disagreeing on minor details is a mark of authentic eyewitness testimony.</a>
+<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
 </article>
 </div>
 

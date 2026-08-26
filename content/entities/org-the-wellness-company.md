@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 67 mentions"
+description: "The Wellness Company (Organizations) - 74 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29">2025-09-17 · 00:59:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41">2026-08-14 · 01:18:56</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -38,6 +38,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29" style="--pulse-height:75%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31" style="--pulse-height:75%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-org-the-wellness-company-t-00-32-26" style="--pulse-height:50%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-44-31" style="--pulse-height:75%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 3 mentions" title="2025-10-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-the-wellness-company-t-00-25-13" style="--pulse-height:75%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-the-wellness-company-t-00-45-22" style="--pulse-height:75%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
@@ -62,6 +63,8 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-the-wellness-company-t-00-26-54" style="--pulse-height:50%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-31-31" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-26-36" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-the-wellness-company-t-00-29-02" style="--pulse-height:50%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-43" style="--pulse-height:75%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -70,6 +73,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 |---|---|---:|
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29) | 3 |
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31) | 3 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-org-the-wellness-company-t-00-32-26) | 2 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-the-wellness-company-t-00-44-31) | 3 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-the-wellness-company-t-00-25-13) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-the-wellness-company-t-00-45-22) | 3 |
@@ -94,6 +98,8 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-the-wellness-company-t-00-26-54) | 2 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-31-31) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-26-36) | 2 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-the-wellness-company-t-00-29-02) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-43) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41) | 1 |
 
 </details>
@@ -102,13 +108,38 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:18:56](/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41)**
 > "...ecommends Bactrim. That's why the wellness company created the medical emergency kit with generic Ba..."
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
+
+**[00:28:54](/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-43)**
+> "If you get sick, the CDC recommends Bactrim. That's why the Wellness Company created the medical emergency kit, because it comes with generic Bactrim plus seven additional prescription medications to help treat more than 25 common illnesses and medical emergencies, all prescribed before you need them."
+
+**[00:28:21](/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-09)**
+> "...want to remind you guys about the wellness company because you have probably heard that there is an ..."
+
+**[00:28:30](/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-09)**
+> "...want to remind you guys about the wellness company because you have probably heard that there is an ..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
+
+**[00:29:36](/episodes/ep-mLvJqdxS-FY.md#ent-org-the-wellness-company-t-00-29-02)**
+> "...want to remind you guys about the wellness company because Americans love sushi right now. I mean, r..."
+
+**[00:30:16](/episodes/ep-mLvJqdxS-FY.md#ent-org-the-wellness-company-t-00-30-16)**
+> "the wellness company offers a hard to access RX parasite cleanse, USA ..."
 
 </details>
 
@@ -407,6 +438,17 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 </details>
 
 <details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
+
+**[00:32:26](/episodes/ep-ozWJz2spBcI.md#ent-org-the-wellness-company-t-00-32-26)**
+> "...I want to tell you guys about The Wellness Company because did you know that most methylene blue tha..."
+
+**[00:32:42](/episodes/ep-ozWJz2spBcI.md#ent-org-the-wellness-company-t-00-32-26)**
+> "You can trust, however, The Wellness Company's Recharge, which is a doctor-formulated supplement..."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
 
 **[00:28:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31)**
@@ -456,7 +498,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -464,6 +506,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:14:48](/episodes/ep-Dkxa9OUA9K8.md#t-00-14-38): “Yes. I also want to tell you guys about the wellness company because Americans love sushi. Over the last two decades, raw fish consumption has exploded.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:31:31](/episodes/ep-sKuYLNx3iRo.md#t-00-31-31): “I also want to tell you guys about The Wellness Company, because Americans love sushi.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:27:17](/episodes/ep-a2bZf4fic10.md#t-00-27-17): “The Wellness Company offers a hard-to-access prescription parasite cleanse, the USA-compounded ivermectin and mebendazole.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:28:54](/episodes/ep-N4uM8Jdr410.md#t-00-28-43): “If you get sick, the CDC recommends Bactrim. That's why the Wellness Company created the medical emergency kit, because it comes with generic Bactrim plus seven additional prescription medications to help treat more than 25 common illnesses and medical emergencies, all prescribed before you need them.”
 
 </details>
 
@@ -473,7 +516,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -481,6 +524,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:14:48](/episodes/ep-Dkxa9OUA9K8.md#t-00-14-38): “Yes. I also want to tell you guys about the wellness company because Americans love sushi. Over the last two decades, raw fish consumption has exploded.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:31:31](/episodes/ep-sKuYLNx3iRo.md#t-00-31-31): “I also want to tell you guys about The Wellness Company, because Americans love sushi.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:27:17](/episodes/ep-a2bZf4fic10.md#t-00-27-17): “The Wellness Company offers a hard-to-access prescription parasite cleanse, the USA-compounded ivermectin and mebendazole.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:28:54](/episodes/ep-N4uM8Jdr410.md#t-00-28-43): “If you get sick, the CDC recommends Bactrim. That's why the Wellness Company created the medical emergency kit, because it comes with generic Bactrim plus seven additional prescription medications to help treat more than 25 common illnesses and medical emergencies, all prescribed before you need them.”
 
 </details>
 

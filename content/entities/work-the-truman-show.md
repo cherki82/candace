@@ -160,7 +160,7 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:37:45](/episodes/ep-YA1FxrDWNIo.md#ent-work-the-truman-show-t-00-37-35)**
-> "wondering whether Charlie's entire life was The Truman Show"
+> "I am looking around and wondering whether Charlie's (Charlie Kirk's) entire life was The Truman Show."
 
 </details>
 

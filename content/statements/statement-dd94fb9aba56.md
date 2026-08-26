@@ -22,13 +22,23 @@ type: "factual_claim"
 
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:00:32](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(32);return false;">Play</a>
 
 > We noticed that a lot of the eyewitnesses and the people that were sharing those videos weren't exactly random college students from UVU, but rather people that either had strong ties to the government or to Turning Point USA altogether.
+
+### 2. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+
+**Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
+**Timestamp:** [00:00:32](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(32);return false;">Play</a>
+
+> We noticed that a lot of the eyewitnesses and the people that were sharing those videos weren't exactly random college students from UVU, but rather people that either had strong ties to the government or to Turning Point USA altogether
 
 ## Verification
 

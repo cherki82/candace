@@ -11,7 +11,7 @@ date: "2025-09-30"
 
 > Marjorie Taylor Greene tweets she is not suicidal
 
-## Mentioned In (4 times)
+## Mentioned In (2 times)
 
 ### 1. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
 
@@ -28,19 +28,3 @@ date: "2025-09-30"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2189);return false;">▶️ Play</a>
 
 > ein files.” Wow, how do they maneuver that? Well, Marjorie Taylor Greene has been very loud about how she is against that as she has grown increasingly vocal. And she feels
-
-### 3. Ben Shapiro Is Crying Again. | Candace Ep 261
-
-**Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(330);return false;">▶️ Play</a>
-
-> on his show is once. And it was in the context of Marjorie Taylor Greene and Tucker talking about the appeal of Zohran Mamdani. Just by way of contrast, no
-
-### 4. Ben Shapiro Is Crying Again. | Candace Ep 261
-
-**Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(323);return false;">▶️ Play</a>
-
-> times that Tucker has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tuck

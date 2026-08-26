@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:31](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(451);return false;">Play</a>
 
-> Jamie Senior had around this time allegedly filed for bankruptcy. He had done this multiple times, and Lou Taylor's firm gave Britney's dad a loan of 0,000.
+> He had done this multiple times, and Lou Taylor's firm gave Britney's dad a loan of $40,000.
 
 ## Verification
 

@@ -31,7 +31,7 @@ type: "accusation"
 **Timestamp:** [00:15:19](/episodes/ep-7RLtGgkTh9o.md#t-00-14-40) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(919);return false;">Play</a>
 
-> All of the security that was hired under the name of—she's writing black box; she means Black Cube security. That was also the security that was provided for Harvey Weinstein, where it's really just the Mossad agents who now are mostly with the Kardashians.
+> "All of the security that was hired under the name of—" she's writing "black box"; she means Black Cube security. "That was also the security that was provided for Harvey Weinstein, where it's really just the Mossad agents who now are mostly with the Kardashians."
 
 ## Verification
 

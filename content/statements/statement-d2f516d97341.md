@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:56:36](/episodes/ep-sreYYcID-QY.md#t-00-56-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3396);return false;">Play</a>
 
-> There was also some artist who posted a song—he happens to be from Utah—and it was called, like, 'Charlie (Charlie Kirk), Dead at 31.' And right when people started going, 'This guy looks like the person in the photo,' suddenly the feds said, 'No, never mind; we got him. It's Tyler Robinson.'
+> There was also some artist who posted a song—he happens to be from Utah—and it was called, like, “Charlie (Charlie Kirk), Dead at 31.” And right when people started going, "This guy looks like the person in the photo," suddenly the feds said, “No, never mind; we got him. It's Tyler Robinson.”
 
 ## Verification
 

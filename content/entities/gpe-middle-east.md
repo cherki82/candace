@@ -36,7 +36,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <p>Highest activity: <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-middle-east-t-00-35-25">Donald Trump Has Betrayed America. | Candace Ep 308</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45" style="--pulse-height:12%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06" style="--pulse-height:38%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 3 mentions" title="2025-10-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52" style="--pulse-height:12%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32" style="--pulse-height:12%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-11" style="--pulse-height:50%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 4 mentions" title="2025-11-08 · 4 mentions"><span></span></a>
@@ -74,7 +74,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45) | 1 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06) | 3 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06) | 2 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-middle-east-t-00-31-52) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-middle-east-t-00-50-32) | 1 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-11) | 4 |
@@ -445,16 +445,16 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (4 mentions)</summary>
 
 **[00:41:23](/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-11)**
-> "...eli government. Here's what I'll add. Do we or do we not have phase one of a peace agreement in the Middle East right now? Nothing is ever going to be perfect, but I'll tell you what, this president works with w..."
+> "...e of a peace agreement in the Middle East right now?"
 
 **[00:41:39](/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-11)**
-> "...rks with what he has. He believes in peace through strength. And whether we're talking about in the Middle East, whether we're talking about a 40-year war like Armenia and Azerbaijan, as Eric just pointed out, a..."
+> "...er we're talking about in the Middle East, whether we're talking about a 40-year war like A..."
 
 **[00:42:28](/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-41-57)**
-> "... telling the truth. The kids are now awake. They know about Jared and his deals with Ivanka and the Middle East and how much money they're set to make. And, you know, Gaza being destroyed is actually beneficial ..."
+> "...his deals with Ivanka and the Middle East and how much money they're set to make."
 
 **[00:43:07](/episodes/ep-r1PS67aRmcA.md#ent-gpe-middle-east-t-00-42-41)**
-> "...elessness and people were not on drugs, we probably would go, okay, like we're up to no good in the Middle East, but at least look at this country. It's shining. It's amazing. What's our upside? Our upside is we..."
+> "...ke we're up to no good in the Middle East, but at least look at this country."
 
 </details>
 
@@ -475,13 +475,10 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:23:40](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06)**
 > "...ie and to explain nothing—means that they are scared and has them shook. And of course, it's in the Middle East. So I'm thinking there might've been some foreign involvement in Charlie (Charlie Kirk)'s assassina..."
-
-**[00:23:42](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-23-06)**
-> "it's in the Middle East. So I'm thinking there might've been some foreign involvement in Charlie Kirk's assassination"
 
 **[00:40:36](/episodes/ep-iHav0PPzUz8.md#ent-gpe-middle-east-t-00-40-36)**
 > "...e close to God by telling them that they won't be saved unless they support this abomination in the Middle East. So anyways, this leads us, of course, to Charlie (Charlie Kirk)'s last words in that text chain. H..."

@@ -1,6 +1,6 @@
 ---
 title: "Jack Hibbs"
-description: "Jack Hibbs (People) - 24 mentions"
+description: "Jack Hibbs (People) - 25 mentions"
 id: "person-jack-hibbs"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">2025-10-31 · 00:59:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09">2026-06-24 · 00:29:31</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11">2026-07-16 · 00:36:40</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-jack-hibbs-t-00-36-24" style="--pulse-height:20%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jack-hibbs-t-00-10-10" style="--pulse-height:20%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09" style="--pulse-height:20%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11" style="--pulse-height:20%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-jack-hibbs-t-00-36-24) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jack-hibbs-t-00-10-10) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:36:40](/episodes/ep-mLvJqdxS-FY.md#ent-person-jack-hibbs-t-00-36-11)**
+> "I called Jack Hibbs to pray and I said Dylan called me because he had..."
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -221,14 +231,14 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Pastor Hibbs—Jack Hibbs—has gone mask off. He's hosting 5 a.m. calls against me and Tucker Carlson”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:28:43](/episodes/ep-yAIb-NuUh_U.md#t-00-28-43): “And you ask yourself—I got emails from people saying that Pastor Hibbs—Jack Hibbs—has gone mask off. ... He's hosting 5 a.m. calls against me and Tucker (Tucker Carlson).”
 
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “He's hosting 5 a.m. calls against me and Tucker Carlson”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:28:52](/episodes/ep-yAIb-NuUh_U.md#t-00-28-43): “He's hosting 5 a.m. calls against me and Tucker (Tucker Carlson).”
 
 </details>
 
@@ -247,19 +257,7 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 </details>
 
 <details>
-<summary>Pastor Of (1)</summary>
-
-- **[Calvary Chapel](/entities/org-calvary-chapel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Jack Hibbs among them, Calvary Chapel pastors”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -271,14 +269,14 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Pastor Hibbs—Jack Hibbs—has gone mask off. He's hosting 5 a.m. calls against me and Tucker Carlson”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:28:43](/episodes/ep-yAIb-NuUh_U.md#t-00-28-43): “And you ask yourself—I got emails from people saying that Pastor Hibbs—Jack Hibbs—has gone mask off. ... He's hosting 5 a.m. calls against me and Tucker (Tucker Carlson).”
 
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “He's hosting 5 a.m. calls against me and Tucker Carlson”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:28:52](/episodes/ep-yAIb-NuUh_U.md#t-00-28-43): “He's hosting 5 a.m. calls against me and Tucker (Tucker Carlson).”
 
 </details>
 
@@ -286,13 +284,6 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:54:40](/episodes/ep-MUA9ebCF4Ow.md#t-00-54-17): “Pastor Hibbs—great friend of Charlie”
-
-</details>
-
-- **[Calvary Chapel](/entities/org-calvary-chapel.md)** has pastor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Jack Hibbs among them, Calvary Chapel pastors”
 
 </details>
 

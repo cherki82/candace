@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:32:05](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1925);return false;">Play</a>
 
-> Based on what I have seen—thus far the evidence, the quote-unquote receipts—that require a way deeper investigation into the apparatus, the financial apparatus at Turning Point, there was definitely some weird activity leading up to this moment happening at the organization.
+> Based on what I have seen—thus far the evidence, the quote-unquote "receipts"—that require a way deeper investigation into the apparatus, the financial apparatus at Turning Point, there was definitely some weird activity leading up to this moment happening at the organization.
 
 ## Verification
 

@@ -1,14 +1,14 @@
 ---
 id: "zSKrxIUMNqw"
 title: "DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286"
-description: "DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 - 102 entities, 15 events, 0 claims"
+description: "DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 - 102 entities, 15 events, 34 factual claims"
 published: "2026-01-07"
 youtube_url: "https://www.youtube.com/watch?v=zSKrxIUMNqw"
 ---
 
 **Published:** 2026-01-07 | [Watch on YouTube](https://www.youtube.com/watch?v=zSKrxIUMNqw)
 
-**Stats:** 102 entities | 15 events | 0 claims
+**Stats:** 102 entities | 15 events | 34 factual claims
 
 ---
 

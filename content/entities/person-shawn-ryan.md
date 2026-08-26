@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 54 mentions"
+description: "Shawn Ryan (People) - 60 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50">2025-11-05 · 00:23:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-person-shawn-ryan-t-00-15-46">2026-06-26 · 00:15:46</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-shawn-ryan-t-00-35-22">2026-07-20 · 00:35:31</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -56,6 +56,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-shawn-ryan-t-00-04-55" style="--pulse-height:30%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 3 mentions" title="2026-06-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-shawn-ryan-t-00-56-50" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-shawn-ryan-t-00-15-46" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-shawn-ryan-t-00-34-08" style="--pulse-height:10%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-shawn-ryan-t-00-53-07" style="--pulse-height:40%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-shawn-ryan-t-00-35-22" style="--pulse-height:10%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +85,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-shawn-ryan-t-00-04-55) | 3 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-shawn-ryan-t-00-56-50) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-shawn-ryan-t-00-15-46) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-shawn-ryan-t-00-34-08) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-shawn-ryan-t-00-53-07) | 4 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-shawn-ryan-t-00-35-22) | 1 |
 
 </details>
 </section>
@@ -89,7 +95,40 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:35:31](/episodes/ep-N4uM8Jdr410.md#ent-person-shawn-ryan-t-00-35-22)**
+> "I think it's a lie. And you're now conceding that you lied or Brian (Brian Harpole) lied. I don't know who lied. And now you're using he has a lawsuit so he can't speak about it. Why can't you speak about you just spoke for three hours on the Sean Ryan show?"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4 mentions)</summary>
+
+**[00:53:21](/episodes/ep-mLvJqdxS-FY.md#ent-person-shawn-ryan-t-00-53-07)**
+> "... father who just finished the Shawn Ryan interview you gave."
+
+**[00:53:34](/episodes/ep-mLvJqdxS-FY.md#ent-person-shawn-ryan-t-00-53-34)**
+> "...but hello dad who watched the sean ryan interview i haven't even been able to say to you ..."
+
+**[00:54:01](/episodes/ep-mLvJqdxS-FY.md#ent-person-shawn-ryan-t-00-53-34)**
+> "...it's also the most successful Shawn Ryan episode ever in terms of just raw numbers climbin..."
+
+**[00:55:08](/episodes/ep-mLvJqdxS-FY.md#ent-person-shawn-ryan-t-00-54-54)**
+> "...y comment section going on to Shawn Ryan's comment section, but these are just some of them."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:34:08](/episodes/ep-X3VKJVJ7cN4.md#ent-person-shawn-ryan-t-00-34-08)**
+> "...calling Erika a psychopath on Sean Ryan, which literally aired that week, that that leads..."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
@@ -391,9 +430,10 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:11](/episodes/ep-VMNWMXX1vO8.md#t-00-03-04): “I did indeed, however, sit down with Sean Ryan for a very long interview”
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:53:34](/episodes/ep-mLvJqdxS-FY.md#t-00-53-34): “question i am almost done reading make him a sandwich i'm excited for the book club tomorrow our lady of mark karma pray for candace um you didn't tell me your dad's name so i can't shout about but hello dad who watched the sean ryan interview i haven't even been able to say to you guys the comment section on the sean ryan interview we obviously did we went five hours and uh it's the most iconic comment section plausibly ever on youtube i think it could have been the impetus behind the turning point usa crash out”
 
 </details>
 
@@ -426,9 +466,10 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:11](/episodes/ep-VMNWMXX1vO8.md#t-00-03-04): “I did indeed, however, sit down with Sean Ryan for a very long interview”
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:53:34](/episodes/ep-mLvJqdxS-FY.md#t-00-53-34): “question i am almost done reading make him a sandwich i'm excited for the book club tomorrow our lady of mark karma pray for candace um you didn't tell me your dad's name so i can't shout about but hello dad who watched the sean ryan interview i haven't even been able to say to you guys the comment section on the sean ryan interview we obviously did we went five hours and uh it's the most iconic comment section plausibly ever on youtube i think it could have been the impetus behind the turning point usa crash out”
 
 </details>
 

@@ -26,10 +26,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-12">2025-09-17 · 00:56:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-rob-mccoy-t-00-59-35">2026-06-23 · 00:59:35</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-rob-mccoy-t-00-23-21">2026-07-14 · 00:23:35</a></strong></div>
 <div><span>Episodes</span><strong>42</strong></div>
 <div><span>Mentions</span><strong>172</strong></div>
-<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Statements by</span><strong>14</strong></div>
 <div><span>Statements about</span><strong>36</strong></div>
 <div><span>Relationships</span><strong>52</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -37,57 +37,56 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (13 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-12" style="--pulse-height:23%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QZWSsq8ZWzw.md#t-00-27-51" style="--pulse-height:8%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-12" style="--pulse-height:25%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-rob-mccoy-t-00-36-52" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-rob-mccoy-t-00-08-17" style="--pulse-height:77%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 10 mentions" title="2025-10-06 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-person-rob-mccoy-t-00-06-36" style="--pulse-height:15%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-rob-mccoy-t-00-22-48" style="--pulse-height:31%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-rob-mccoy-t-00-02-59" style="--pulse-height:69%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 9 mentions" title="2025-10-29 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-rob-mccoy-t-00-08-14" style="--pulse-height:85%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 11 mentions" title="2025-10-31 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-27-53" style="--pulse-height:31%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-rob-mccoy-t-00-04-10" style="--pulse-height:46%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 6 mentions" title="2025-11-04 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-rob-mccoy-t-00-07-05" style="--pulse-height:31%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-rob-mccoy-t-00-08-17" style="--pulse-height:83%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 10 mentions" title="2025-10-06 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-rob-mccoy-t-00-06-36" style="--pulse-height:17%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 2 mentions" title="2025-10-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-rob-mccoy-t-00-22-48" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-rob-mccoy-t-00-02-59" style="--pulse-height:75%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 9 mentions" title="2025-10-29 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-rob-mccoy-t-00-08-14" style="--pulse-height:92%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 11 mentions" title="2025-10-31 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-rob-mccoy-t-00-27-53" style="--pulse-height:33%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-rob-mccoy-t-00-04-10" style="--pulse-height:50%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 6 mentions" title="2025-11-04 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-rob-mccoy-t-00-07-05" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-rob-mccoy-t-00-23-38" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-rob-mccoy-t-00-16-39" style="--pulse-height:38%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-rob-mccoy-t-00-15-57" style="--pulse-height:62%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 8 mentions" title="2025-11-12 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 13 mentions" title="2025-11-13 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-03-30" style="--pulse-height:92%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 12 mentions" title="2025-11-15 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-rob-mccoy-t-00-02-06" style="--pulse-height:46%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 6 mentions" title="2025-11-17 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-rob-mccoy-t-00-00-00" style="--pulse-height:54%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 7 mentions" title="2025-11-18 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-rob-mccoy-t-00-47-57" style="--pulse-height:23%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-person-rob-mccoy-t-00-05-03" style="--pulse-height:15%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-rob-mccoy-t-00-14-31" style="--pulse-height:23%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-rob-mccoy-t-00-09-44" style="--pulse-height:15%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-rob-mccoy-t-00-10-32" style="--pulse-height:31%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-rob-mccoy-t-00-09-42" style="--pulse-height:15%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-rob-mccoy-t-00-06-24" style="--pulse-height:85%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 11 mentions" title="2026-01-09 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-rob-mccoy-t-00-16-39" style="--pulse-height:42%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-rob-mccoy-t-00-15-57" style="--pulse-height:67%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 8 mentions" title="2025-11-12 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 12 mentions" title="2025-11-13 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-03-30" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 12 mentions" title="2025-11-15 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-rob-mccoy-t-00-02-06" style="--pulse-height:50%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 6 mentions" title="2025-11-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-rob-mccoy-t-00-00-00" style="--pulse-height:58%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 7 mentions" title="2025-11-18 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-rob-mccoy-t-00-47-57" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-rob-mccoy-t-00-05-03" style="--pulse-height:17%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-rob-mccoy-t-00-14-31" style="--pulse-height:25%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-rob-mccoy-t-00-09-44" style="--pulse-height:17%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-rob-mccoy-t-00-10-32" style="--pulse-height:33%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-rob-mccoy-t-00-09-42" style="--pulse-height:17%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-rob-mccoy-t-00-06-24" style="--pulse-height:92%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 11 mentions" title="2026-01-09 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-rob-mccoy-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-53-48" style="--pulse-height:23%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-35-11" style="--pulse-height:54%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-rob-mccoy-t-00-09-46" style="--pulse-height:31%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-53-48" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-35-11" style="--pulse-height:58%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-rob-mccoy-t-00-09-46" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-rob-mccoy-t-00-12-50" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-rob-mccoy-t-00-22-52" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-rob-mccoy-t-00-12-25" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-rob-mccoy-t-00-27-33" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-rob-mccoy-t-01-03-51" style="--pulse-height:8%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-rob-mccoy-t-00-39-31" style="--pulse-height:23%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-rob-mccoy-t-00-39-31" style="--pulse-height:25%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-rob-mccoy-t-00-33-09" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#t-00-40-49" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-rob-mccoy-t-00-47-55" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-rob-mccoy-t-00-29-56" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-rob-mccoy-t-00-17-14" style="--pulse-height:31%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-33-11" style="--pulse-height:38%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 5 mentions" title="2026-06-22 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-rob-mccoy-t-00-00-49" style="--pulse-height:15%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-rob-mccoy-t-00-17-14" style="--pulse-height:33%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-33-11" style="--pulse-height:42%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 5 mentions" title="2026-06-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-rob-mccoy-t-00-00-49" style="--pulse-height:17%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-rob-mccoy-t-00-23-21" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-12) | 3 |
-| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-51) | 1 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-rob-mccoy-t-00-36-52) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-rob-mccoy-t-00-08-17) | 10 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-rob-mccoy-t-00-06-36) | 2 |
@@ -100,7 +99,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-rob-mccoy-t-00-23-38) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-rob-mccoy-t-00-16-39) | 5 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-rob-mccoy-t-00-15-57) | 8 |
-| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16) | 13 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16) | 12 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-rob-mccoy-t-00-03-30) | 12 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-rob-mccoy-t-00-02-06) | 6 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-rob-mccoy-t-00-00-00) | 7 |
@@ -128,6 +127,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-rob-mccoy-t-00-17-14) | 4 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-33-11) | 5 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-rob-mccoy-t-00-00-49) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-rob-mccoy-t-00-23-21) | 1 |
 
 </details>
 </section>
@@ -136,6 +136,14 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (172)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:23:35](/episodes/ep-X3VKJVJ7cN4.md#ent-person-rob-mccoy-t-00-23-21)**
+> "... Ukrainian family. You've got Rob McCoy who adopted a girl from Russia. Remember, there a..."
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
@@ -543,28 +551,28 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (13 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (12 mentions)</summary>
 
 **[00:07:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16)**
-> "...st the science and ignore the many lies that they have told us. What exactly is TPUSA Faith? Who is Rob McCoy? Why is it that these Calvary Chapels have a long history of weird abuse and trafficking scandals t..."
+> "Who is Rob McCoy?"
 
 **[00:07:36](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-07-16)**
-> "...story of weird abuse and trafficking scandals that seemingly get swept under the rug, right? Why is Rob McCoy adjacent to some of these scandals? I'm gonna give you just one—I think—big example here, okay? Thi..."
+> "Why is Rob McCoy adjacent to some of these scandals?"
 
 **[00:11:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-11-21)**
-> "...d in a car accident. Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thoma..."
+> "...s in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl—struck up ther..."
 
 **[00:11:41](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-11-21)**
 > "The problem comes in when Rob then decides that Camino should be involved in th..."
 
 **[00:12:06](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-06)**
-> "...tly what had happened, and raised hell about it in 2022. Now, in response to this being discovered, Rob McCoy did not apologize. No, no, no, no. That's not how this works. Instead, you are about to see Rob bas..."
+> "...nse to this being discovered, Rob McCoy did not apologize."
 
 **[00:12:11](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-06)**
 > "Instead, you are about to see Rob basically employ tactics of psychological gasligh..."
 
 **[00:12:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-47)**
-> "...e recognizing that, okay, this guy has literally spent eight years in prison for abuse. This is how Rob McCoy intros Thomas on his podcast. (clip of Rob McCoy) Take a listen. I was so compelled because of the ..."
+> "This is how Rob McCoy intros Thomas on his podcast. (clip of Rob McCoy)"
 
 **[00:17:30](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-47)**
 > "...d and brought it forward into Rob's church and said it's absurd that you are allowi..."
@@ -572,17 +580,14 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 **[00:18:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-47)**
 > "...t somehow he's the victim and Rob wants that to come across."
 
-**[00:19:12](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-12-47)**
-> "...he founder was a pastor named Rob Coy (not McCoy, to be clear), Rob Coy, who was a ..."
-
 **[00:24:10](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-23-51)**
-> "... how that is happening. And now, flipping back to—from the Diddy insinuations here—flipping back to Rob McCoy, that's not the only scandal that he's been involved in. He's been involved in a few scandals, righ..."
+> "...uations here—flipping back to Rob McCoy, that's not the only scandal that he's been invol..."
 
 **[00:27:07](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-26-34)**
-> "...Fields Ministry announced that they were shutting down. They shut down in 2019, and they brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances. And by steering the ship, I mean that the money ..."
+> "...9, and they brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances..."
 
 **[00:27:51](/episodes/ep-yAIb-NuUh_U.md#ent-person-rob-mccoy-t-00-27-15)**
-> "...ve these pastors and they feel sleazy to me. They just do, okay? They're not honest. We have caught Rob McCoy in multiple lies, so I don't see him as a person that you would want stewarding your faith. And whe..."
+> "We have caught Rob McCoy in multiple lies, so I don't see him as a person ..."
 
 </details>
 
@@ -622,7 +627,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > "...und for a long time: ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his background, his naval background, psychological operations. They're literall..."
 
 **[00:19:55](/episodes/ep-YaZfwLQ7vrI.md#ent-person-rob-mccoy-t-00-19-33)**
-> "...per-duper faithful with what I would say is an interesting cast of characters—the wrong characters. Rob McCoy leading that frontier, as we know. What people don't know publicly is that Lance Wallnau (Lance Wal..."
+> "Rob McCoy leading that frontier, as we know."
 
 **[00:20:44](/episodes/ep-YaZfwLQ7vrI.md#ent-person-rob-mccoy-t-00-20-07)**
 > "...ight?—was privately directing large sums of money into Turning Point Faith. Okay. He's friends with Rob McCoy. Um, and he eventually did tour stops with Turning Point Faith, and he knew Charlie (Charlie Kirk)...."
@@ -811,10 +816,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > "...b McCoy's church. He was attending Mass, so it registered to me again as somewhat disingenuous when Pastor Rob McCoy came out and effectively asked me to—you know—stop looking into all of the things that happened in ..."
 
 **[00:13:31](/episodes/ep-ozWJz2spBcI.md#ent-person-rob-mccoy-t-00-13-01)**
-> "...air of an interpretation—until the memorial, right? I'm going to jog your memory here. Here is what Pastor Rob McCoy (Pastor Rob McCoy) wrote on his Instagram after I exposed the now infamous Hamptons meeting which t..."
+> "Here is what Pastor Rob McCoy wrote on his Instagram after I exposed the now infamous Hamptons meeting which took place."
 
 **[00:13:39](/episodes/ep-ozWJz2spBcI.md#ent-person-rob-mccoy-t-00-13-01)**
-> "... McCoy) wrote on his Instagram after I exposed the now infamous Hamptons meeting which took place. (Pastor Rob McCoy clip:) He wrote this: "Charlie Kirk (Charlie Kirk) was my friend, and I was his pastor. I want to s..."
+> "(Pastor Rob McCoy clip:) He wrote this: "Charlie Kirk was my friend, and I was his pastor."
 
 **[00:15:10](/episodes/ep-ozWJz2spBcI.md#ent-person-rob-mccoy-t-00-13-01)**
 > "So we should zero in here on Rob and what his motivations might be."
@@ -838,14 +843,6 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 **[00:37:19](/episodes/ep-YA1FxrDWNIo.md#ent-person-rob-mccoy-t-00-36-52)**
 > "...t, may I ask, what is the name of the Jewish donor who sponsored the Hamptons weekend? Okay. And to Pastor Rob McCoy, were there any LLCs that you or your son were being paid through that sat outside of Turning Point..."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
-
-**[00:28:00](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-51)**
-> "We pay tribute to Charlie Kirk - Rob McCoy speaking"
 
 </details>
 
@@ -1005,7 +1002,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - **[Thomas Michael Camino](/entities/person-thomas-michael-camino.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:40](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): “Rob McCoy struck up thereafter and maintained a long friendship with Thomas Camino across decades”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino across decades.”
 
 </details>
 
@@ -1088,7 +1085,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:56:56](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12): “Rob McCoy. He wrote: Charlie Kirk was my friend, and I was his pastor”
-- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:08](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): “He says, 'I was his pastor.'”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:13](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): “He says, "I was his pastor."”
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:01:48](/episodes/ep-ozWJz2spBcI.md#t-00-01-27): “He was not attending Pastor Rob McCoy's church”
 
 </details>
@@ -1097,7 +1094,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:20](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): “Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino. Rob then decides that Camino should be involved in the Calvary Chapel Church”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl— ... The problem comes in when Rob then decides that Camino should be involved in the Calvary Chapel Church”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:12](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): “the beliefs and the preferences of Rob McCoy who makes my skin crawl”
 
 </details>
@@ -1170,14 +1167,13 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:08](/episodes/ep-his-JBjlkh8.md#t-00-05-36): “his own father, Rob McCoy”
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:59](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “January 3, 2024—Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact. He gets the promotion. Now you can see, I guess, the McCoys are much more involved in Turning Point USA.”
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:50](/episodes/ep-yAIb-NuUh_U.md#t-00-00-37): “Mikey McCoy son of Rob McCoy”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:13:00](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41): “Mikey (Mikey McCoy) has offered that his dad was confused.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:51](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): “And he immediately calls his dad. He calls Robin McCoy. And he says, dad, someone shot Charlie.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:43](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43): “he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy.”
@@ -1258,7 +1254,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - **[Thomas Michael Camino](/entities/person-thomas-michael-camino.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:40](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): “Rob McCoy struck up thereafter and maintained a long friendship with Thomas Camino across decades”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino across decades.”
 
 </details>
 
@@ -1295,7 +1291,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 00:56:56](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12): “Rob McCoy. He wrote: Charlie Kirk was my friend, and I was his pastor”
-- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:08](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): “He says, 'I was his pastor.'”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:15:13](/episodes/ep-YFmRH8p5lt0.md#t-00-14-58): “He says, "I was his pastor."”
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:01:48](/episodes/ep-ozWJz2spBcI.md#t-00-01-27): “He was not attending Pastor Rob McCoy's church”
 
 </details>
@@ -1304,7 +1300,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:02:20](/episodes/ep-yAIb-NuUh_U.md#t-00-02-06): “Rob McCoy—the pastor who makes my skin crawl—struck up thereafter and maintained a long friendship with Thomas Camino. Rob then decides that Camino should be involved in the Calvary Chapel Church”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl— ... The problem comes in when Rob then decides that Camino should be involved in the Calvary Chapel Church”
 
 </details>
 
@@ -1362,7 +1358,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Rob McCoy (12)</strong></summary>
+<summary><strong class="section-title">Statements by Rob McCoy (14)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2)</summary>
@@ -1406,12 +1402,17 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (3)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (5)</summary>
 
 - [00:07:20](/episodes/ep-c5BcKF91iec.md#t-00-07-11) [○] (Claim) ["Charlie Kirk at 31 years old was wise enough to put together a plan for successi..."](/statements/statement-e96d7fd8625e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:09:03](/episodes/ep-c5BcKF91iec.md#t-00-08-40) [○] (Claim) ["The minute Charlie Kirk was shot, Mikey McCoy called his father Rob McCoy and sa..."](/statements/statement-8cfaecd44f78.md)
+- [00:07:20](/episodes/ep-c5BcKF91iec.md#t-00-07-11) [✓] (Claim) ["He was wise enough at 31 to put together a plan for succession. It's very clear ..."](/statements/statement-7037a6a3a416.md)
+
+- [00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40) [✓] (Claim) ["Mikey McCoy is the chief of staff at Turning Point USA"](/statements/statement-fe3aeced710a.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:09:03](/episodes/ep-c5BcKF91iec.md#t-00-08-40) [✗] (Claim) ["Pastor Rob McCoy claimed that the minute Charlie was shot, his son Mikey called ..."](/statements/statement-0abeb4042a1a.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md)
 
 - [00:09:21](/episodes/ep-c5BcKF91iec.md#t-00-08-40) [○] (Claim) ["Mikey McCoy had blood all over him after Charlie Kirk was shot."](/statements/statement-0ae35f7afad9.md)

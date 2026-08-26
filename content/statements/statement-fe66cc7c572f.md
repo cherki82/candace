@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:23:11](/episodes/ep-sImMM04XdWY.md#t-00-23-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1391);return false;">Play</a>
 
-> we had started on September 8th, by the way, our 'Becoming Brigitte' season two. And we were looking at how unusual it was that a dog was barking a bit too loud—you know, a thief that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times struck us as odd
+> very close to something as we had started on September 8th, by the way, our "Becoming Brigitte" season two. And we were looking at how unusual it was that a dog was barking a bit too loud—you know, a thief that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times struck us as odd
 
 ## Verification
 

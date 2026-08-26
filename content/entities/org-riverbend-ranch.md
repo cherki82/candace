@@ -598,10 +598,10 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 > "...the Riverbend Ranch to spend the following summer in lush mountain pastures. When you purchase from Riverbend Ranch, you are not only supporting the 64 cowboys and their families who work on that ranch, but also sup..."
 
 **[00:26:12](/episodes/ep-t1YtLS1n8Vs.md#ent-org-riverbend-ranch-t-00-26-12)**
-> "...nd more tender than even the best Angus beef that I've ever tasted. Right now when you head over to RiverbendRanch.com you can use promo code Candace at checkout and you'll get $20 off your first order. Trust me, you'r..."
+> "Right now when you head over to RiverbendRanch.com you can use promo code Candace (Candace Owens) at checkout and you'll get $20 off your first order."
 
 **[00:26:19](/episodes/ep-t1YtLS1n8Vs.md#ent-org-riverbend-ranch-t-00-26-12)**
-> "...eckout and you'll get $20 off your first order. Trust me, you're going to be so impressed, so visit RiverbendRanch.com and use promo code Candace at checkout. Also telling you guys about Comet, because how much time do..."
+> "Trust me, you're going to be so impressed, so visit RiverbendRanch.com and use promo code Candace (Candace Owens) at checkout."
 
 </details>
 
@@ -670,13 +670,13 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 > "Riverbend Ranch—I absolutely love them"
 
 **[00:27:55](/episodes/ep-QZWSsq8ZWzw.md#ent-org-riverbend-ranch-t-00-27-51)**
-> "... Everyone has wanted to do something to try and heal and remember Charlie Kirk. Well, my friends at Riverbend Ranch put together the following tribute to honor him. Take a listen. We pay tribute to Charlie Kirk, and..."
+> "Well, my friends at Riverbend Ranch put together the following tribute to honor him."
 
 **[00:28:27](/episodes/ep-QZWSsq8ZWzw.md#ent-org-riverbend-ranch-t-00-28-00)**
-> "...sing, but what he taught us continues to resonate with even more power. A message from all of us at Riverbend Ranch. I said I met the owner of Riverbend Ranch before he was making steaks—actually with Charlie Kirk. ..."
+> "A message from all of us at Riverbend Ranch."
 
 **[00:28:31](/episodes/ep-QZWSsq8ZWzw.md#ent-org-riverbend-ranch-t-00-28-31)**
-> "...sonate with even more power. A message from all of us at Riverbend Ranch. I said I met the owner of Riverbend Ranch before he was making steaks—actually with Charlie Kirk. And so another Charlie memory there for you..."
+> "I said I met the owner of Riverbend Ranch before he was making steaks—actually with Charlie Kirk."
 
 </details>
 

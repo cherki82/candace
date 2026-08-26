@@ -1,14 +1,14 @@
 ---
 id: "q7f8r-THr84"
 title: "Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236"
-description: "Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 - 78 entities, 13 events, 0 claims"
+description: "Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 - 77 entities, 13 events, 93 factual claims"
 published: "2025-09-16"
 youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 ---
 
 **Published:** 2025-09-16 | [Watch on YouTube](https://www.youtube.com/watch?v=q7f8r-THr84)
 
-**Stats:** 78 entities | 13 events | 0 claims
+**Stats:** 77 entities | 13 events | 93 factual claims
 
 ---
 
@@ -167,9 +167,9 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 
 **<a href="/timestamps/ep-q7f8r-THr84/t-00-38-18.md" class="timestamp-link">00:38:18</a> <a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2298" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It's transparent, it's intuitive, and it makes sense. There's not some confusing system of ones and zeros. It's open source, so you can imagine GitHub, but designed for on-chain collaboration and composability. Builders actually get credit for their work and they get rewarded every time their code gets used. And that's really the value, not likes, not clout, but actual rewards. <span id="ent-org-gno-land-t-00-38-18"><a href="/entities/org-gno-land.md">Gno.land</a></span> rejected Proof of Stake, which is a system where the rich run the show. And they instead went with Proof of Authority instead, which is a DAO where contributors, and not bad actors or Silicon Valley, actually call the shots. <a href="/entities/org-gno-land.md">Gno.land</a> is open, it's fair, and honestly, it's pretty unstoppable. So if you are a builder and a freedom lover or you're just tired of rigged platforms, go ahead and check out <a href="/entities/org-gno-land.md">gno.land</a>/<span id="ent-person-candace-owens-t-00-38-18"><a href="/entities/person-candace-owens.md">Candace</a></span>. ^t-00-38-18
 
-**<a href="/timestamps/ep-q7f8r-THr84/t-00-39-02.md" class="timestamp-link">00:39:02</a> <a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2342" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Again, that's <span id="ent-org-gno-land-t-00-39-02"><a href="/entities/org-gno-land.md">gno.land</a></span>/<span id="ent-person-candace-owens-t-00-39-02"><a href="/entities/person-candace-owens.md">Candace</a></span>. Something that my team and I are always craving are beef sticks, specifically the ones from my friends over at <span id="ent-org-paleo-valley-t-00-39-02"><a href="/entities/org-paleo-valley.md">Paleo Valley</a></span>. <a href="/entities/org-paleo-valley.md">Paleo Valley</a> makes their meat sticks with 100% grass-fed beef, sourced from small-scale regenerative American farms, so you can feel good about what you're eating and what you're supporting. They stripped out all the junk, so there's no preservative, there's no gluten, there's no soy, there's no dairy, there's no sugar, there's no GMOs. Just clean, nutrient-dense fuel the way that food was meant to be, so whether you're road tripping, working late, or running around with kids, these sticks deliver high protein, energy, there's no crash. If you're keto, you're paleo, or you're carnivore, it does not matter. <a href="/entities/org-paleo-valley.md">Paleo Valley</a> will work with your lifestyle, not against it. ^t-00-39-02
+**<a href="/timestamps/ep-q7f8r-THr84/t-00-39-02.md" class="timestamp-link">00:39:02</a> <a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2342" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Again, that's <span id="ent-org-gno-land-t-00-39-02"><a href="/entities/org-gno-land.md">gno.land</a></span>/<span id="ent-person-candace-owens-t-00-39-02"><a href="/entities/person-candace-owens.md">Candace</a></span>. Something that my team and I are always craving are beef sticks, specifically the ones from my friends over at <span id="ent-org-paleovalley-t-00-39-02"><a href="/entities/org-paleovalley.md">Paleo Valley</a></span>. <a href="/entities/org-paleovalley.md">Paleo Valley</a> makes their meat sticks with 100% grass-fed beef, sourced from small-scale regenerative American farms, so you can feel good about what you're eating and what you're supporting. They stripped out all the junk, so there's no preservative, there's no gluten, there's no soy, there's no dairy, there's no sugar, there's no GMOs. Just clean, nutrient-dense fuel the way that food was meant to be, so whether you're road tripping, working late, or running around with kids, these sticks deliver high protein, energy, there's no crash. If you're keto, you're paleo, or you're carnivore, it does not matter. <a href="/entities/org-paleovalley.md">Paleo Valley</a> will work with your lifestyle, not against it. ^t-00-39-02
 
-**<a href="/timestamps/ep-q7f8r-THr84/t-00-39-40.md" class="timestamp-link">00:39:40</a> <a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2380" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** They come in multiple bold flavors, including original, jalapeño, jalapeño summer sausage, maple bacon, and teriyaki, so there's something for everyone, with over 55 million beef sticks sold. <span id="ent-org-paleo-valley-t-00-39-40"><a href="/entities/org-paleo-valley.md">Paleo Valley</a></span> is trusted, it's proven, and it's backed by a 60-day money-back guarantee. Right now, you'll get 20% off your first order at <a href="/entities/org-paleo-valley.md">paleovalley</a>.com/<span id="ent-person-candace-owens-t-00-39-40"><a href="/entities/person-candace-owens.md">Candace</a></span> with code <a href="/entities/person-candace-owens.md">Candace</a>. That's <a href="/entities/org-paleo-valley.md">paleovalley</a>.com/<a href="/entities/person-candace-owens.md">Candace</a>, promo code <a href="/entities/person-candace-owens.md">Candace</a>. Okay, so I wanna be very clear here. No one, and I mean absolutely no one, outside of my husband and <span id="ent-person-erika-kirk-t-00-39-40"><a href="/entities/person-erika-kirk.md">Erika Kirk</a></span> has the power to shut me up right now. That's it, two people. If you gotta make an appeal, you gotta go to them, okay? ^t-00-39-40
+**<a href="/timestamps/ep-q7f8r-THr84/t-00-39-40.md" class="timestamp-link">00:39:40</a> <a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2380" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** They come in multiple bold flavors, including original, jalapeño, jalapeño summer sausage, maple bacon, and teriyaki, so there's something for everyone, with over 55 million beef sticks sold. <a href="/entities/org-paleovalley.md">Paleo Valley</a> is trusted, it's proven, and it's backed by a 60-day money-back guarantee. Right now, you'll get 20% off your first order at <span id="ent-org-paleovalley-t-00-39-40"><a href="/entities/org-paleovalley.md">paleovalley</a></span>.com/<span id="ent-person-candace-owens-t-00-39-40"><a href="/entities/person-candace-owens.md">Candace</a></span> with code <a href="/entities/person-candace-owens.md">Candace</a>. That's <a href="/entities/org-paleovalley.md">paleovalley</a>.com/<a href="/entities/person-candace-owens.md">Candace</a>, promo code <a href="/entities/person-candace-owens.md">Candace</a>. Okay, so I wanna be very clear here. No one, and I mean absolutely no one, outside of my husband and <span id="ent-person-erika-kirk-t-00-39-40"><a href="/entities/person-erika-kirk.md">Erika Kirk</a></span> has the power to shut me up right now. That's it, two people. If you gotta make an appeal, you gotta go to them, okay? ^t-00-39-40
 
 **<a href="/timestamps/ep-q7f8r-THr84/t-00-40-20.md" class="timestamp-link">00:40:20</a> <a href="https://www.youtube.com/watch?v=q7f8r-THr84&t=2420" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** That's what I just said is meant to be a dig to the donors that are making frantic calls trying to politic this situation under control, because they know I'm telling the truth, okay? Frantic calls from <span id="ent-person-seth-dillon-t-00-40-20"><a href="/entities/person-seth-dillon.md">Seth Dillon</a></span>, oh my God. The truth is that <span id="ent-person-charlie-kirk-t-00-40-20"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> was under immense pressure and he was facing financial threats over his shifting stance on <span id="ent-gpe-israel-t-00-40-20"><a href="/entities/gpe-israel.md">Israel</a></span>, over who he was hosting, over—from his podcast to people that were on stage at <span id="ent-event-america-fest-t-00-40-20"><a href="/entities/event-america-fest.md">America Fest</a></span>—<span id="ent-person-dave-smith-t-00-40-20"><a href="/entities/person-dave-smith.md">Dave Smith</a></span>, <span id="ent-person-tucker-carlson-t-00-40-20"><a href="/entities/person-tucker-carlson.md">Tucker</a></span>. That is reality, my friends. Again, want those people to know your money means nothing to me. I already said no to it. ^t-00-40-20
 
@@ -317,7 +317,7 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (78)</strong></summary>
+<summary><strong>Entities Mentioned (77)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md), [Me Too](/entities/concept-me-too.md)
 
@@ -327,84 +327,182 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 
 **Places:** [Arizona](/entities/gpe-arizona.md), [Douglas, Arizona](/entities/gpe-douglas-arizona.md), [Hamptons](/entities/gpe-hamptons.md), [Israel](/entities/gpe-israel.md), [Middle East](/entities/gpe-middle-east.md), [Orem](/entities/gpe-orem.md), [Russia](/entities/gpe-russia.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Washington](/entities/gpe-washington-state.md), [Washington County](/entities/gpe-washington-county.md)
 
-**Organizations:** [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md), [American Financing](/entities/org-american-financing.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Gno.land](/entities/org-gno-land.md), [Hamas](/entities/org-hamas.md), [Internal Revenue Service](/entities/org-internal-revenue-service.md), [Mossad](/entities/org-mossad.md), [Neemee Skincare](/entities/org-neemee-skincare.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Paleo Valley](/entities/org-paleo-valley.md), [PreBorn!](/entities/org-preborn.md), [TMZ](/entities/org-tmz.md), [Tax Network USA](/entities/org-tax-network-usa.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+**Organizations:** [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md), [American Financing](/entities/org-american-financing.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Gno.land](/entities/org-gno-land.md), [Hamas](/entities/org-hamas.md), [Internal Revenue Service](/entities/org-internal-revenue-service.md), [Mossad](/entities/org-mossad.md), [Neemee Skincare](/entities/org-neemee-skincare.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Paleovalley](/entities/org-paleovalley.md), [PreBorn!](/entities/org-preborn.md), [TMZ](/entities/org-tmz.md), [Tax Network USA](/entities/org-tax-network-usa.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
 
-**People:** [Aaron Wexler](/entities/person-aaron-wexler.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Brian Mast](/entities/person-brian-mast.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Dave Smith](/entities/person-dave-smith.md), [Donald J. Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Melissa (Village Crazy Lady)](/entities/person-melissa-village-crazy-lady.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Phil Lyman](/entities/person-phil-lyman.md), [Sarah Stockton](/entities/person-sarah-stockton.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skyler](/entities/person-skyler.md), [Spencer Cox](/entities/person-spencer-cox.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Aaron Wexler](/entities/person-aaron-wexler.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Brian Mast](/entities/person-brian-mast.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Dave Smith](/entities/person-dave-smith.md), [Donald J. Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Melissa (Village Crazy Lady)](/entities/person-melissa-village-crazy-lady.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Phil Lyman](/entities/person-phil-lyman.md), [Sarah Stockton](/entities/person-sarah-stockton.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skyler](/entities/person-skyler.md), [Spencer Cox](/entities/person-spencer-cox.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Works & Media:** [PBD Podcast](/entities/work-pbd-podcast.md), [The Matrix](/entities/work-the-matrix.md)
 
 </details>
 
 <details>
-<summary><strong>Statements (34)</strong></summary>
+<summary><strong>Statements (122)</strong></summary>
 
 - [00:00:45](#t-00-00-45) [○] (Claim) **Candace Owens**: ["The indictment against Tyler Robinson was just released"](/statements/statement-ba26c141ef0b.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:00:56](#t-00-00-45) [○] (Claim) **Candace Owens**: ["I just spoke to a family member who told me a lot about Lance Twiggs because the..."](/statements/statement-e5addab043bc.md)
 - [00:00:56](#t-00-00-45) [○] (Claim) **Candace Owens**: ["I just spoke to a family member who told me a lot about Lance Twiggs"](/statements/statement-8765c46185e8.md)
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:01:14](#t-00-00-45) [○] (Claim) **Candace Owens**: ["Turning Point employees are contacting me about things that took place leading u..."](/statements/statement-7fea882a4b9a.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:01:14](#t-00-00-45) [○] (Claim) **Candace Owens**: ["Turning Point employees are contacting me about things that took place leading u..."](/statements/statement-0a71bcb5bca8.md)
 - [00:01:14](#t-00-01-14) [○] (Claim) **Candace Owens**: ["Turning Point employees are contacting me, a lot of them"](/statements/statement-1b6925192514.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:01:32](#t-00-01-14) [○] (Opinion) **Candace Owens**: ["Bill Ackman, you may have caught that he responded to me about the Hamptons. Wit..."](/statements/statement-3767fc601302.md)
+- [00:01:41](#t-00-01-14) [○] (Promise) **Candace Owens**: ["I am not done, okay? I'm coming for everybody. Charlie Kirk's (Charlie Kirk) dea..."](/statements/statement-e5787fb8498b.md)
+- [00:02:52](#t-00-02-49) [○] (Claim) **Candace Owens**: ["George Zinn is a 71-year-old man"](/statements/statement-d6f457d2212f.md)
+  - About: [George Zinn](/entities/person-george-zinn.md)
 - [00:03:09](#t-00-02-49) [○] (Claim) **Candace Owens**: ["George Zinn was arrested and is facing charges of obstruction of justice"](/statements/statement-4f9967d6f252.md)
   - About: [George Zinn](/entities/person-george-zinn.md)
+- [00:03:31](#t-00-03-19) [○] (Claim) **Candace Owens**: ["he's now facing charges of obstruction of justice because he didn't do it, right..."](/statements/statement-e84c545c66e3.md)
+- [00:03:31](#t-00-03-31) [✓] (Claim) **Candace Owens**: ["George Zinn was charged with obstruction of justice after falsely claiming respo..."](/statements/statement-af1fe595f032.md)
 - [00:03:44](#t-00-03-31) [○] (Claim) **Candace Owens**: ["George Zinn was booked in connection with images on his cell phone related to ch..."](/statements/statement-8a59fc9abc13.md)
+  - About: [George Zinn](/entities/person-george-zinn.md)
+- [00:03:44](#t-00-03-31) [○] (Claim) **Candace Owens**: ["George Zinn charged with harboring images of child abuse in addition to obstruct..."](/statements/statement-53b7a78cf13e.md)
   - About: [George Zinn](/entities/person-george-zinn.md)
 - [00:05:45](#t-00-05-31) [○] (Claim) **Candace Owens**: ["George Zinn has given interviews related to September 11th and Al Qaeda in the p..."](/statements/statement-9fb008719549.md)
   - About: [George Zinn](/entities/person-george-zinn.md)
-- [00:07:05](#t-00-06-59) [○] (Claim) **Candace Owens**: ["Tyler James Robinson surrendered to police at Washington County Sheriff's Office..."](/statements/statement-ac0e06512d64.md)
+- [00:05:45](#t-00-05-31) [○] (Claim) **Candace Owens**: ["We also figure out that in the past, he has given interviews related to Septembe..."](/statements/statement-b25d839faec6.md)
+- [00:07:05](#t-00-06-59) [✓] (Claim) **Candace Owens**: ["Tyler James Robinson surrendered to police at Washington County Sheriff's Office..."](/statements/statement-ac0e06512d64.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:07:14](#t-00-06-59) [○] (Claim) **Candace Owens**: ["DNA consistent with Robinson was found on the rifle trigger"](/statements/statement-a2a35e1127ad.md)
+- [00:07:14](#t-00-06-59) [✓] (Claim) **Candace Owens**: ["DNA consistent with Robinson was found on the rifle trigger"](/statements/statement-a2a35e1127ad.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:08:28](#t-00-08-07) [○] (Claim) **Candace Owens**: ["Charlie Kirk gets shot at 12:23 p.m."](/statements/statement-a9c04b4ae280.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:07:22](#t-00-06-59) [○] (Claim) **Tyler Robinson**: ["Tyler Robinson told his lover/roommate to delete incriminating text messages and..."](/statements/statement-666a203b4adc.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:07:22](#t-00-06-59) [○] (Claim) **Candace Owens**: ["Children were present at the time of the shooting, leading to count six charges"](/statements/statement-3fef8ac9fe5c.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:08:07](#t-00-07-39) [○] (Claim) **Candace Owens**: ["Surveillance camera recorded individual in dark clothing who crossed railing fro..."](/statements/statement-c94566f55e07.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:08:28](#t-00-08-07) [✓] (Claim) **Candace Owens**: ["Charlie Kirk gets shot at 12:23 p.m."](/statements/statement-a9c04b4ae280.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:08:28](#t-00-08-07) [○] (Claim) **Candace Owens**: ["The suspect dropped onto the roof at approximately 12:15 p.m. and Charlie Kirk w..."](/statements/statement-8007334aad66.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:08:28](#t-00-08-07) [✓] (Claim) **Candace Owens**: ["Suspect crossed railing onto roof at approximately 12:15 p.m. and Charlie Kirk w..."](/statements/statement-aebd5ec91482.md)
+- [00:08:28](#t-00-08-07) [◐] (Claim) **Candace Owens**: ["he was on that roof since 12:15 p.m., so he's setting up that shot, we can assum..."](/statements/statement-288df0a22458.md)
 - [00:09:27](#t-00-08-44) [○] (Claim) **Candace Owens**: ["The suspect entered campus at approximately 11:51 a.m."](/statements/statement-f50cfca3b118.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:09:27](#t-00-08-44) [✓] (Claim) **Candace Owens**: ["Suspect entered campus from the north at approximately 11:51 a.m. wearing black ..."](/statements/statement-04029db0325a.md)
 - [00:10:39](#t-00-10-09) [○] (Claim) **Candace Owens**: ["Governor Cox said Tyler Robinson first came in a different outfit (light shorts ..."](/statements/statement-bedcf184c3fa.md)
   - About: [Spencer Cox](/entities/person-spencer-cox.md)
 - [00:12:01](#t-00-11-34) [○] (Claim) **Candace Owens**: ["The rifle was wrapped in a towel and contained one spent round and three unspent..."](/statements/statement-b495e09f34f4.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:12:01](#t-00-11-34) [◐] (Claim) **Candace Owens**: ["Investigators found a bolt action rifle wrapped in a towel in wooded area with o..."](/statements/statement-15a49ac5fed3.md)
+- [00:12:01](#t-00-11-34) [✓] (Claim) **Candace Owens**: ["In that wooded area, investigators found a bolt action rifle wrapped in a towel."](/statements/statement-3ea73e4564df.md)
 - [00:12:32](#t-00-12-19) [○] (Claim) **Candace Owens**: ["The ammunition cartridges had memes inscribed on them: 'Hey, fascist, catch', 'Y..."](/statements/statement-a147762da546.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:12:34](#t-00-12-19) [○] (Claim) **Candace Owens**: ["'Hey, fascist, catch,' says one on one cartridge. 'You've got notices bulge.' 'W..."](/statements/statement-6ed406539d6c.md)
+- [00:13:25](#t-00-12-54) [○] (Claim) **Candace Owens**: ["on September 11th, Tyler James Robinson then walked in to the Washington County ..."](/statements/statement-794379542e52.md)
+- [00:13:46](#t-00-13-25) [✓] (Claim) **Candace Owens**: ["Robinson's mother saw photo of shooter in news and thought it looked like her so..."](/statements/statement-237b43c17d7a.md)
 - [00:13:57](#t-00-13-25) [○] (Claim) **Candace Owens**: ["Tyler Robinson's mother saw the photo of the shooter in the news and thought it ..."](/statements/statement-58abf68c5b53.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:14:23](#t-00-14-08) [○] (Claim) **Candace Owens**: ["Over the last year or so, Robinson had become increasingly more political and ha..."](/statements/statement-c18645d275c5.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:14:25](#t-00-14-08) [✓] (Claim) **Candace Owens**: ["Over the last year Robinson had become increasingly more political, leaning left..."](/statements/statement-fdfb65f0c458.md)
 - [00:14:30](#t-00-14-08) [○] (Claim) **Candace Owens**: ["Tyler Robinson's mother explained that over the last year or so, Robinson had be..."](/statements/statement-1f7336244bd0.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:14:30](#t-00-14-08) [○] (Claim) **Candace Owens**: ["over the last year or so, Robinson had become increasingly more political. He ha..."](/statements/statement-7c63013937ad.md)
+- [00:14:36](#t-00-14-08) [○] (Claim) **Candace Owens**: ["Robinson began to date his roommate, which is a biological male who was transiti..."](/statements/statement-7b45d07c2960.md)
 - [00:15:05](#t-00-14-45) [○] (Accusation) **Candace Owens**: ["Robinson accused Kirk of spreading hate"](/statements/statement-1211bbed9386.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:15:05](#t-00-14-45) [○] (Claim) **Candace Owens**: ["Tyler Robinson mentioned before the shooting that Charlie Kirk would be holding ..."](/statements/statement-616b6b4e250a.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:15:05](#t-00-14-45) [○] (Claim) **Charlie Kirk**: ["In one conversation before the shooting, Robinson mentioned that Charlie Kirk (C..."](/statements/statement-ccc7aa17a866.md)
+- [00:15:20](#t-00-14-45) [✓] (Claim) **Candace Owens**: ["He also believed that the rifle that the police had suspected the shooter had us..."](/statements/statement-1e91be18fe6a.md)
 - [00:15:35](#t-00-15-25) [○] (Claim) **Candace Owens**: ["When Tyler Robinson's father asked him to send a photo of the rifle that was gif..."](/statements/statement-85b0e60bbf2d.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:15:47](#t-00-15-25) [○] (Accusation) **Candace Owens**: ["Robinson implied that he was the shooter and stated that he could not go to jail..."](/statements/statement-ea1e0979f5cd.md)
+- [00:16:06](#t-00-15-25) [✓] (Claim) **Candace Owens**: ["When asked why he did it, Robinson explained that there was too much evil and th..."](/statements/statement-8993d11905eb.md)
+- [00:17:15](#t-00-16-49) [○] (Claim) **Candace Owens**: ["the conversations that I am having is that Tyler's classmates and the neighborho..."](/statements/statement-2783f7f48530.md)
 - [00:17:54](#t-00-17-33) [○] (Accusation) **Candace Owens**: ["Tyler Robinson could not have acted alone, this had to be a part of some wider p..."](/statements/statement-6671bc02f304.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:18:12](#t-00-17-33) [○] (Opinion) **Candace Owens**: ["there's no way he could have acted alone, that this had to be a part of some wid..."](/statements/statement-49f183fe2311.md)
+- [00:18:30](#t-00-18-12) [○] (Claim) **Candace Owens**: ["Tyler's trans boyfriend's name is Lance Twiggs."](/statements/statement-052d175ec6ab.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:19:03](#t-00-18-56) [○] (Claim) **Candace Owens**: ["Police interviewed Robinson's roommate, a biological male who was involved in a ..."](/statements/statement-6a033b8d247c.md)
+- [00:19:54](#t-00-19-40) [○] (Claim) **Candace Owens**: ["On September 10, 2025, Tyler Robinson sent text message to roommate saying 'Drop..."](/statements/statement-667c3542eeb2.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:20:14](#t-00-19-40) [○] (Claim) **Candace Owens**: ["Lance Twiggs found a note under keyboard stating 'I had the opportunity to take ..."](/statements/statement-378f6c7c2692.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:21:59](#t-00-21-52) [○] (Claim) **Candace Owens**: ["Robinson had been planning the shooting for a bit over a week"](/statements/statement-976e8ce5d5da.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:21:59](#t-00-21-52) [✓] (Claim) **Candace Owens**: ["Robinson says, 'A bit over a week, I believe.' (referring to how long he had bee..."](/statements/statement-5721b15357d2.md)
+- [00:22:17](#t-00-21-52) [○] (Claim) **Candace Owens**: ["I'm worried what my old man would do if I didn't bring back grandpa's rifle."](/statements/statement-f3c6bde56fa4.md)
+- [00:27:42](#t-00-27-31) [○] (Opinion) **Candace Owens**: ["Yeah, these messages are clearly doctored."](/statements/statement-ccd630038698.md)
 - [00:27:47](#t-00-27-42) [○] (Accusation) **Candace Owens**: ["The text messages between Robinson and his roommate are doctored or cherry-picke..."](/statements/statement-4ce8153a7e79.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:29:06](#t-00-28-27) [○] (Claim) **Candace Owens**: ["Lance Twigg's family has tried to reach out to me over the weekend."](/statements/statement-0013d36fd128.md)
 - [00:29:12](#t-00-29-06) [○] (Claim) **Candace Owens**: ["Lance Twiggs's family reached out to me and told me details about him"](/statements/statement-58d4a991d3cc.md)
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
+- [00:29:34](#t-00-29-06) [○] (Claim) **Candace Owens**: ["The house that Tyler Robinson was living in with Lance Twiggs is owned by Lance ..."](/statements/statement-53137958a430.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:29:58](#t-00-29-34) [○] (Claim) **Candace Owens**: ["The house that Tyler Robinson was living in with Lance Twiggs is owned by Twiggs..."](/statements/statement-c554632adb3e.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+- [00:29:58](#t-00-29-34) [○] (Claim) **Candace Owens**: ["House where Tyler Robinson lived with Lance Twiggs is owned by Lance Twiggs's fa..."](/statements/statement-c8d5e18bf6cc.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:30:22](#t-00-30-01) [○] (Claim) **Candace Owens**: ["Lance Twiggs's parents kicked him out junior year of high school because he was ..."](/statements/statement-4ca1e3c57b76.md)
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
+- [00:30:28](#t-00-30-01) [○] (Claim) **Lance Twiggs**: ["Lance Twiggs's family allegedly told me that his parents kicked him out during h..."](/statements/statement-007478182ea9.md)
+- [00:31:05](#t-00-30-46) [○] (Claim) **Candace Owens**: ["Christmas, approximately three years ago, he almost overdosed. He drank a bottle..."](/statements/statement-91def47132ea.md)
+- [00:31:39](#t-00-31-29) [○] (Claim) **Candace Owens**: ["Just this past Easter Sunday, they are telling me that he showed up on drugs and..."](/statements/statement-945c15ae45fd.md)
+- [00:32:16](#t-00-32-06) [○] (Opinion) **Candace Owens**: ["Lance's family is telling me that they are not buying the current story and that..."](/statements/statement-99707d14fb3a.md)
+- [00:32:38](#t-00-32-06) [○] (Claim) **Candace Owens**: ["He was quite reclusive, that he was always on his devices, that he's always on t..."](/statements/statement-5a8f9b119916.md)
+- [00:32:41](#t-00-32-06) [✓] (Claim) **Candace Owens**: ["He turned 22 back in August."](/statements/statement-4deeeaf38be1.md)
+- [00:33:01](#t-00-32-47) [○] (Claim) **Candace Owens**: ["Lance Twiggs's family allegedly told me that Tyler Robinson and Twiggs had been ..."](/statements/statement-3e68dc997abc.md)
+- [00:33:52](#t-00-33-29) [○] (Claim) **Candace Owens**: ["There was unusual traffic at this house in the weeks leading up to this shooting..."](/statements/statement-5f3d26fcb63c.md)
 - [00:33:58](#t-00-33-29) [○] (Claim) **Candace Owens**: ["There was unusual traffic with many cars outside the house where Tyler Robinson ..."](/statements/statement-a0b3fbe39aea.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:35:10](#t-00-34-45) [○] (Accusation) **Candace Owens**: ["There are very clearly more people involved in the Charlie Kirk shooting, this f..."](/statements/statement-5609549e7f0f.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:35:10](#t-00-34-45) [○] (Opinion) **Candace Owens**: ["There is very clearly more people involved."](/statements/statement-4615e548c115.md)
+- [00:35:17](#t-00-34-45) [○] (Opinion) **Candace Owens**: ["This feels to me like a conspiracy."](/statements/statement-d0690ea0440c.md)
+- [00:40:36](#t-00-40-20) [○] (Claim) **Candace Owens**: ["Charlie was under immense pressure and he was facing financial threats over his ..."](/statements/statement-5bd7580eb13e.md)
 - [00:40:52](#t-00-40-20) [○] (Accusation) **Candace Owens**: ["Charlie Kirk was under immense pressure and facing financial threats over his sh..."](/statements/statement-f5bb846ae51e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:41:31](#t-00-41-03) [○] (Claim) **Candace Owens**: ["Aaron Wexler sent out some of the invitations"](/statements/statement-f89221510af9.md)
+- [00:41:45](#t-00-41-03) [○] (Claim) **Candace Owens**: ["Charlie was pressed"](/statements/statement-5c39ee9c0cf4.md)
+- [00:42:09](#t-00-41-45) [✓] (Claim) **Candace Owens**: ["I have a first-person account that Charlie Kirk presented at the retreat and sai..."](/statements/statement-6bcca0d299cb.md)
 - [00:42:21](#t-00-41-45) [○] (Claim) **Candace Owens**: ["Charlie Kirk presented at the Hamptons retreat and explained that he felt it was..."](/statements/statement-9eb3584a322e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:42:21](#t-00-41-45) [○] (Claim) **Candace Owens**: ["If I tweeted, 'I think that Benjamin Netanyahu should resign,' that he would the..."](/statements/statement-b91af0d545ee.md)
+- [00:42:32](#t-00-42-21) [○] (Claim) **Candace Owens**: ["Seth Dillon then allegedly pipes up and goes back and forth with him quite aggre..."](/statements/statement-39724851d915.md)
 - [00:42:34](#t-00-42-21) [○] (Accusation) **Candace Owens**: ["Seth Dillon went back and forth with Charlie Kirk aggressively at the Hamptons r..."](/statements/statement-81d5d5252702.md)
   - About: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:42:42](#t-00-42-21) [○] (Claim) **Candace Owens**: ["after Charlie left, Josh Hammer was upset"](/statements/statement-4ba9d15dea5a.md)
+- [00:42:46](#t-00-42-21) [○] (Claim) **Candace Owens**: ["Josh Hammer was a part of the beehive that was swarming him about people that he..."](/statements/statement-159ef254eb36.md)
 - [00:42:55](#t-00-42-21) [○] (Accusation) **Candace Owens**: ["Josh Hammer was part of the group swarming Charlie Kirk about people he was havi..."](/statements/statement-9b83ba2b95a6.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:43:40](#t-00-43-05) [○] (Opinion) **Candace Owens**: ["what I am uncovering here is a response to what I feel was a severe misrepresent..."](/statements/statement-67ea931bbca1.md)
+- [00:44:06](#t-00-43-40) [○] (Accusation) **Benjamin Netanyahu**: ["there's no reason for Benjamin Netanyahu to have lied, as I've said many times"](/statements/statement-01a905bf7ff9.md)
 - [00:45:38](#t-00-44-59) [○] (Claim) **Candace Owens**: ["Bill Ackman responded to my episode with a 955-word response trying to claim he ..."](/statements/statement-237a37d1c256.md)
   - About: [Bill Ackman](/entities/person-bill-ackman.md)
+- [00:48:51](#t-00-48-33) [○] (Claim) **Candace Owens**: ["Charlie was offered more money and funding from Benjamin Netanyahu"](/statements/statement-9bb66a492f37.md)
+- [00:48:55](#t-00-48-33) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu invited him to Israel as a last ditch effort to reaffirm his ..."](/statements/statement-4aac972a3c5d.md)
+- [00:49:38](#t-00-49-17) [○] (Accusation) **Candace Owens**: ["Bibi lied by severe omission when he mentioned his last correspondences with Cha..."](/statements/statement-e1e9ce3b2bae.md)
+- [00:50:30](#t-00-49-58) [○] (Claim) **Candace Owens**: ["Bill Ackman hosted his meeting with Charlie on August 4th and 5th"](/statements/statement-e6450bfb2553.md)
+- [00:51:13](#t-00-51-13) [○] (Opinion) **Charlie Kirk**: ["Some in the pro-Israel camp are knee-jerk about calling you anti-Semitic if you ..."](/statements/statement-418072542b2e.md)
+- [00:55:39](#t-00-55-29) [✗] (Claim) **Candace Owens**: ["I said, 'No person, nobody, no nation anywhere in the world has a right to commi..."](/statements/statement-423f44cfee22.md)
+- [00:57:01](#t-00-56-53) [✓] (Claim) **Candace Owens**: ["Charlie Kirk said that he was receiving messages calling him an antisemite."](/statements/statement-4e7a36b20f4f.md)
+- [00:57:15](#t-00-56-53) [○] (Claim) **Candace Owens**: ["Just within 48 hours before Charlie passed away, his top Jewish donors were pull..."](/statements/statement-911c9e3ad86b.md)
+- [00:57:35](#t-00-56-53) [○] (Accusation) **Candace Owens**: ["Once Charlie was killed, they said, 'Nevermind, put it back on the building.'"](/statements/statement-3668b054cb79.md)
+- [00:57:38](#t-00-57-35) [○] (Claim) **Candace Owens**: ["Charlie himself had alluded to a tremendous loss of money coming in."](/statements/statement-8833e2a4842b.md)
+- [00:57:46](#t-00-57-35) [○] (Prediction) **Candace Owens**: ["More people are going to come out with information."](/statements/statement-53c5928c02f7.md)
+- [00:58:15](#t-00-57-35) [◐] (Claim) **Candace Owens**: ["Benjamin Netanyahu appeared on the Patrick Bet-David, Brandon Tatum, and Nelk Bo..."](/statements/statement-0c9dc1d6c4f7.md)
+- [00:58:19](#t-00-57-35) [○] (Accusation) **Candace Owens**: ["Bibi very quickly told us that Charlie was— implied that Charlie was—penning lov..."](/statements/statement-d74f5b51fdd1.md)
+- [00:59:05](#t-00-59-02) [○] (Opinion) **Candace Owens**: ["It feels, and I'm using a corporate term here, a bit like a hostile takeover."](/statements/statement-731ca0617fb4.md)
+- [01:00:19](#t-00-59-43) [○] (Claim) **Candace Owens**: ["Have you ever heard of Turning Point doing a weekend summit and not publicizing ..."](/statements/statement-aebf6d918676.md)
+- [01:01:56](#t-01-01-51) [○] (Claim) **Candace Owens**: ["A week before he died, this was her tweet to him... she tweeted this whole threa..."](/statements/statement-8f8751f67f96.md)
+- [01:03:38](#t-01-03-19) [✓] (Claim) **Candace Owens**: ["Bill Ackman made billions of dollars from a COVID-era hedge while lockdowns were..."](/statements/statement-07262e73fd9c.md)
+- [01:03:54](#t-01-03-19) [○] (Claim) **Bill Ackman**: ["Bill Ackman got up and gave a presentation and told them that they shouldn't own..."](/statements/statement-a7b7e588e36b.md)
+- [01:04:40](#t-01-03-56) [✓] (Claim) **Candace Owens**: ["Bill Ackman offered $1 million for information leading to the arrest of the pers..."](/statements/statement-3dfb547678b2.md)
+- [01:08:57](#t-01-08-17) [✓] (Claim) **Candace Owens**: ["Americans collectively owe $1 trillion in credit card debt."](/statements/statement-612ac244807b.md)
+- [01:11:17](#t-01-11-09) [○] (Prediction) **Candace Owens**: ["they're gonna sue us all"](/statements/statement-9a139cfd1360.md)
+- [01:12:37](#t-01-11-54) [○] (Promise) **Candace Owens**: ["I will look into all of those things"](/statements/statement-bf3ea72def74.md)
+- [01:12:46](#t-01-12-39) [○] (Claim) **Candace Owens**: ["most people that I spoke to in that family were saying that they were receiving ..."](/statements/statement-e24273cda794.md)
+- [01:13:09](#t-01-12-39) [○] (Claim) **Candace Owens**: ["We are horrified by this"](/statements/statement-4153aafb801f.md)
+- [01:13:54](#t-01-13-16) [○] (Opinion) **Candace Owens**: ["It feels a little fake and gay"](/statements/statement-5e6cddf67532.md)
+- [01:14:49](#t-01-14-37) [○] (Opinion) **Candace Owens**: ["I need evidence of these text messages"](/statements/statement-a44985d0a3d5.md)
+- [01:15:19](#t-01-14-37) [✓] (Claim) **Candace Owens**: ["Jamie Lee Curtis cried over the killing of Charlie Kirk despite having very diff..."](/statements/statement-3dda2b114f32.md)
+- [01:15:19](#t-01-14-37) [○] (Promise) **Candace Owens**: ["I'm going to show you guys tomorrow, like Jamie Lee Curtis"](/statements/statement-a5406719d640.md)
+- [01:16:54](#t-01-16-35) [○] (Opinion) **Candace Owens**: ["we're waking up"](/statements/statement-9620a1609ad3.md)
 
 </details>

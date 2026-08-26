@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:26](/episodes/ep-ja26iltROkM.md#t-00-08-07) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(506);return false;">Play</a>
 
-> I just spoke with the surgeon who worked on Charlie Kirk in the hospital. He said the bullet, quote, absolutely should have gone through
+> I just spoke with the surgeon who worked on Charlie (Charlie Kirk) in the hospital. He said the bullet, quote, 'absolutely should have gone through,' which is very, very normal for a high-powered, high-velocity round.
 
 ## Verification
 

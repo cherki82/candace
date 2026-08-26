@@ -31,7 +31,7 @@ type: "accusation"
 **Timestamp:** [00:06:35](/episodes/ep-ja26iltROkM.md#t-00-06-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(395);return false;">Play</a>
 
-> I believe that people within that company betrayed Charlie Kirk, okay? Thats just what I believe right now.
+> And the first thing that I think I should make abundantly clear is I am relieved that Erika Kirk is at the head of Turning Point USA, because just like I alluded to last week—and which I will double down on now—I believe that people within that company betrayed Charlie (Charlie Kirk), okay? That's just what I believe right now.
 
 ### 2. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
@@ -39,7 +39,7 @@ type: "accusation"
 **Timestamp:** [00:06:25](/episodes/ep-ja26iltROkM.md#t-00-06-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(385);return false;">Play</a>
 
-> I believe that people within that company betrayed Charlie, okay? That's just what I believe right now.
+> That's just what I believe right now.
 
 ## Verification
 

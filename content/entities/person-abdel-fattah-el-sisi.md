@@ -13,12 +13,12 @@ _Type: People_
 **Also known as:** President al-Sisi, al-Sisi
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-abdel-fattah-el-sisi-t-00-17-12">2025-12-05 · 00:03:43</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-abdel-fattah-el-sisi-t-00-17-12">2025-12-05 · 00:03:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-abdel-fattah-el-sisi-t-00-17-47">2025-12-05 · 00:17:47</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,10 +46,10 @@ _Type: People_
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
 
-**[00:03:43](/episodes/ep-ZAuuSq_j2_w.md#ent-person-abdel-fattah-el-sisi-t-00-17-12)**
+**[00:03:35](/episodes/ep-ZAuuSq_j2_w.md#ent-person-abdel-fattah-el-sisi-t-00-17-12)**
 > "The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU."
 
-**[00:16:39](/episodes/ep-ZAuuSq_j2_w.md#ent-person-abdel-fattah-el-sisi-t-00-17-12)**
+**[00:16:27](/episodes/ep-ZAuuSq_j2_w.md#ent-person-abdel-fattah-el-sisi-t-00-17-12)**
 > "The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU."
 
 **[00:17:13](/episodes/ep-ZAuuSq_j2_w.md#ent-person-abdel-fattah-el-sisi-t-00-17-12)**
@@ -70,15 +70,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Abdel Fattah el-Sisi (4)</strong></summary>
+<summary><strong class="section-title">Statements about Abdel Fattah el-Sisi (5)</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5)</summary>
 
 - [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Citation) **Candace Owens** (via quoted post): ["The Egyptian government website confirms that Egyptian President el-Si..."](/statements/statement-3bb428c91aab.md)
   - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
 
-- [00:17:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-12) (Claim) **Candace Owens**: ["President al-Sisi can be ruled out as being aboard the jet on Septembe..."](/statements/statement-7eb3c0a74fc0.md)
+- [00:16:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Claim) **Candace Owens**: ["Egyptian President el-Sisi flew aboard aircraft SUBTU on April 3rd, 20..."](/statements/statement-aa88b9c5ccfc.md)
+  - Also about: [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
+
+- [00:17:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-47) (Claim) **Candace Owens**: ["President Abdel Fattah el-Sisi could be ruled out as a passenger on th..."](/statements/statement-7eb3c0a74fc0.md)
   - Also about: [Sara Zaafarani Zenzari](/entities/person-sarah-zafrani.md)
 
 - [00:18:13](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-47) (Claim) **Candace Owens**: ["Al-Sisi can also be ruled out as being in Provo in May because he was ..."](/statements/statement-c071b6862b40.md)

@@ -11,15 +11,15 @@ date: "2025-09-18"
 
 > Wall Street Journal publishes article featuring Alex Clark at Kirk memorial.
 
-## Mentioned In (13 times)
+## Mentioned In (10 times)
 
 ### 1. TPUSA Wants Us To Stop Asking Questions About 9/10?! | Canda...
 
 **Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
-**Timestamp:** [00:36:30](/episodes/ep-ozWJz2spBcI.md#event-event-2025-09-18-wall-street-journal-publishes-article-featuring-al-t-00-00-00) 
+**Timestamp:** [00:36:30](/episodes/ep-ozWJz2spBcI.md#event-event-2025-09-18-wall-street-journal-publishes-article-featuring-al-t-00-36-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2190);return false;">▶️ Play</a>
 
-> matter what he said, we were kind of told by the journalists that it just made perfect sense and he should go to Harvard. You know, obviously to the extent that anybody suffers and survives a school
+> This is the article that was published on September 18th.
 
 ### 2. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
@@ -61,15 +61,7 @@ date: "2025-09-18"
 
 > uss Andrew Kolvet, the PR agent, close friend of Charlie, who sat down with Alex Clark to answer questions pertaining to whether or not Charlie w
 
-### 7. TPUSA Wants Us To Stop Asking Questions About 9/10?! | Canda...
-
-**Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
-**Timestamp:** [00:00:27](/episodes/ep-ozWJz2spBcI.md#event-event-2025-09-18-wall-street-journal-publishes-article-featuring-al-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(27);return false;">▶️ Play</a>
-
-> ned over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge. I don't recommend it, which was then highlighted by Alex Clark
-
-### 8. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
+### 7. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 **Timestamp:** [00:21:45](/episodes/ep-vwG1juDCQZQ.md#t-00-21-29) 
@@ -77,15 +69,7 @@ date: "2025-09-18"
 
 > Charlie—who was slated to speak at Liberty University. Okay, that's just a fact. Alex Clark also threw shade at us, and it's kind of incredible that she
 
-### 9. TPUSA Wants Us To Stop Asking Questions About 9/10?! | Canda...
-
-**Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
-**Timestamp:** [00:00:34](/episodes/ep-ozWJz2spBcI.md#event-event-2025-09-18-wall-street-journal-publishes-article-featuring-al-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(34);return false;">▶️ Play</a>
-
-> don't recommend it, which was then highlighted by Alex Clark, who has a show over there on Instagram. And I think it's therefore fair for us to turn our attenti
-
-### 10. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 8. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:30:38](/episodes/ep-UBkFkg4UNY8.md#t-00-30-03) 
@@ -93,7 +77,7 @@ date: "2025-09-18"
 
 > iend of Charlie, who sat down with Alex Clark to answer questions pertaining to whether or not Charlie was converting to Catholici
 
-### 11. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 9. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:16:05](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57) 
@@ -101,18 +85,10 @@ date: "2025-09-18"
 
 > architecture. That's a lie, told and reinforced by Alex Clar
 
-### 12. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+### 10. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:11:45](/episodes/ep-JQjCAsfoXEE.md#t-00-11-07) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(705);return false;">▶️ Play</a>
 
 > Mikey, on Rob, speaking about Andrew Kolvet, Alex Clark. Why were they kept? Why do they keep going back to Erika? What is it about these Egypt
-
-### 13. TPUSA Wants Us To Stop Asking Questions About 9/10?! | Canda...
-
-**Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
-**Timestamp:** [00:09:32](/episodes/ep-ozWJz2spBcI.md#event-event-2025-09-18-wall-street-journal-publishes-article-featuring-al-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(572);return false;">▶️ Play</a>
-
-> shared with you; they knew for a fact. So I was a bit astoni

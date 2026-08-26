@@ -21,7 +21,7 @@ type: "accusation"
 ## About
 
 - [The Daily Wire](/entities/org-the-daily-wire.md) (org)
-- [Phil Tourney](/entities/person-phil-tourney.md) (person)
+- [Phillip F. Tourney](/entities/person-phillip-f-tourney.md) (person)
 - [USS Liberty](/entities/vehicle-uss-liberty.md) (vehicle)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:46:44](/episodes/ep-sreYYcID-QY.md#t-00-46-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2804);return false;">Play</a>
 
-> You've never sued anybody for making that statement. You sue for things around it. You're suing me because you're saying, 'Well, you said I stole the identity from my sister.' I'm not a thief. You've never sued anybody for the claim that you were born male.
+> You were born a male, and you've never sued anybody for making that statement. You sue for things around it. You're suing me because you're saying, "Well, you said I stole the identity from my sister." I'm not a thief. You've never sued anybody for the claim that you were born male.
 
 ## Verification
 

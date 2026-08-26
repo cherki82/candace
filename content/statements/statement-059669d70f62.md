@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:18](/episodes/ep-6J6lRZPQ4jk.md#t-00-08-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(498);return false;">Play</a>
 
-> Obviously I told you this yesterday from about 11 o'clock to 4 p.m. I have sources just everywhere, CBS News, the people that were in the audience I showed you were emailing me and they had to do multiple takes because Bari wanted to read a prompter.
+> Obviously I told you this yesterday from about 11 o'clock to 4 p.m. I have sources just everywhere, CBS News, the people that were in the audience I showed you were emailing me and they had to do multiple takes because Bari (Bari Weiss) wanted to read a prompter.
 
 ## Verification
 

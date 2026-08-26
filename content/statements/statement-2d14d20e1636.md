@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:18:19](/episodes/ep-Qfwr08Ebczo.md#t-00-17-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1099);return false;">Play</a>
 
-> UVU has denied FOX 13 News' request for a copy of the Kirk Rally security plan. The university is citing the provision in state records laws, keeping confidential, quote, 'security measures,' end quote
+> Speaking of police, UVU has denied FOX 13 News' request for a copy of the Kirk Rally security plan. The university is citing the provision in state records laws, keeping confidential, quote, "security measures," end quote.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Federal Bureau of Investigation"
-description: "Federal Bureau of Investigation (Organizations) - 43 mentions"
+description: "Federal Bureau of Investigation (Organizations) - 55 mentions"
 id: "org-federal-bureau-of-investigation"
 type: "ORG"
 aliases:
@@ -24,37 +24,38 @@ Source: [About - FBI](https://www.fbi.gov/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17">2026-01-05 · 00:14:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-federal-bureau-of-investigation-t-01-11-06">2026-07-14 · 01:11:29</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-22-06">2026-07-20 · 00:22:39</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-07-01">A Legal Turning Point? | Candace Ep 292</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-07-42">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17" style="--pulse-height:29%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-federal-bureau-of-investigation-t-00-08-14" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-federal-bureau-of-investigation-t-00-42-37" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50" style="--pulse-height:57%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-07-01" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-36-04" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40" style="--pulse-height:43%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-federal-bureau-of-investigation-t-00-46-05" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-federal-bureau-of-investigation-t-00-14-45" style="--pulse-height:71%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-federal-bureau-of-investigation-t-00-03-40" style="--pulse-height:14%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-federal-bureau-of-investigation-t-00-38-16" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-federal-bureau-of-investigation-t-00-30-37" style="--pulse-height:43%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-federal-bureau-of-investigation-t-00-07-03" style="--pulse-height:29%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-10-40" style="--pulse-height:86%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 6 mentions" title="2026-02-28 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-federal-bureau-of-investigation-t-00-50-16" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-bureau-of-investigation-t-00-59-59" style="--pulse-height:14%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-federal-bureau-of-investigation-t-01-11-06" style="--pulse-height:29%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17" style="--pulse-height:17%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-federal-bureau-of-investigation-t-00-08-14" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-federal-bureau-of-investigation-t-00-42-37" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-07-01" style="--pulse-height:58%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-36-04" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-federal-bureau-of-investigation-t-00-46-05" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-federal-bureau-of-investigation-t-00-14-45" style="--pulse-height:42%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-federal-bureau-of-investigation-t-00-03-40" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-federal-bureau-of-investigation-t-00-38-16" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-federal-bureau-of-investigation-t-00-30-37" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-federal-bureau-of-investigation-t-00-07-03" style="--pulse-height:17%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-federal-bureau-of-investigation-t-00-10-40" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 6 mentions" title="2026-02-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-org-federal-bureau-of-investigation-t-00-50-16" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-bureau-of-investigation-t-00-59-59" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-federal-bureau-of-investigation-t-01-11-06" style="--pulse-height:17%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-07-42" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 12 mentions" title="2026-07-20 · 12 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +79,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-federal-bureau-of-investigation-t-00-50-16) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-bureau-of-investigation-t-00-59-59) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-federal-bureau-of-investigation-t-01-11-06) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-07-42) | 12 |
 
 </details>
 </section>
@@ -85,7 +87,48 @@ Source: [About - FBI](https://www.fbi.gov/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (12 mentions)</summary>
+
+**[00:08:14](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-07-42)**
+> "And do you remember when we were told by Governor Cox during an official FBI press conference, a briefing on September 12th?"
+
+**[00:10:24](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-09-51)**
+> "...to a higher standard than the FBI. Let me get a time zone calculation incorrect."
+
+**[00:12:14](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-11-41)**
+> "He's working at the FBI and has every resource at his fingertip. And here..."
+
+**[00:16:05](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-15-42)**
+> "...whether you signed off on the FBI not testing a backpack, gloves, potential tactica..."
+
+**[00:16:23](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-16-23)**
+> "...ates that she worked with the FBI's joint terrorism task force."
+
+**[00:16:37](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-16-37)**
+> "...lso assigned full-time to the FBI as part of the Joint Terrorism Task Force."
+
+**[00:18:54](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-18-54)**
+> "...g tidbit. Now, regarding that FBI press conference that we showed you earlier, Kash..."
+
+**[00:21:07](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-20-46)**
+> "... who had been serving for the FBI office over in Virginia, but suddenly and rather ..."
+
+**[00:21:46](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-21-30)**
+> "...up until that moment with the FBI all over the United States for almost 20 years."
+
+**[00:22:06](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-22-06)**
+> "...om 2004, before he joined the FBI. He was at the Provo Police Department."
+
+**[00:22:20](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-22-06)**
+> "...litary, and then he joins the FBI."
+
+**[00:22:39](/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-22-06)**
+> "...know better. And our nation's FBI has never done anything wrong. They're honorable ..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
@@ -324,6 +367,25 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details>
+<summary>Employs (2)</summary>
+
+- **[Jennifer Faumuina](/entities/person-jennifer-faumuina.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37): “I've been with the State Bureau of Investigation for eight years, but I'm also assigned full-time to the FBI as part of the Joint Terrorism Task Force.”
+
+</details>
+
+- **[Robert Bohls](/entities/person-robert-bohls.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:21:46](/episodes/ep-N4uM8Jdr410.md#t-00-21-30): “And I also want to say he had a very long tenure up until that moment with the FBI all over the United States for almost 20 years.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)**
@@ -348,7 +410,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -371,12 +433,46 @@ Source: [About - FBI](https://www.fbi.gov/about)
 
 </details>
 
+- **[Jennifer Faumuina](/entities/person-jennifer-faumuina.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37): “I've been with the State Bureau of Investigation for eight years, but I'm also assigned full-time to the FBI as part of the Joint Terrorism Task Force.”
+
+</details>
+
+- **[Robert Bohls](/entities/person-robert-bohls.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:21:46](/episodes/ep-N4uM8Jdr410.md#t-00-21-30): “And I also want to say he had a very long tenure up until that moment with the FBI all over the United States for almost 20 years.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Federal Bureau of Investigation (25)</strong></summary>
+<summary><strong class="section-title">Statements about Federal Bureau of Investigation (30)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (5)</summary>
+
+- [00:09:51](/episodes/ep-N4uM8Jdr410.md#t-00-09-51) (Accusation) **Candace Owens**: ["Candace Owens asked rhetorically whether officials completely made up ..."](/statements/statement-3ac7998c7f5d.md)
+  - Also about: [Spencer Cox](/entities/person-spencer-cox.md)
+
+- [00:11:28](/episodes/ep-N4uM8Jdr410.md#t-00-10-57) (Accusation) **Candace Owens**: ["Candace Owens asked rhetorically whether officials had already planted..."](/statements/statement-204835c0e1f6.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [00:12:59](/episodes/ep-N4uM8Jdr410.md#t-00-12-59) (Claim) **Dan Bongino** (via quoted speech): ["Dan Bongino said the suspect was not cooperating and the available vid..."](/statements/statement-94f2c908e946.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:16:37](/episodes/ep-N4uM8Jdr410.md#t-00-16-37) (Claim) **Jennifer Faumuina** (via quoted speech): ["Jennifer Faumuina said she had been with the State Bureau of Investiga..."](/statements/statement-91e752cc44db.md)
+  - Also about: [Jennifer Faumuina](/entities/person-jennifer-faumuina.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces.md)
+
+- [00:22:06](/episodes/ep-N4uM8Jdr410.md#t-00-22-06) (Citation) **Candace Owens**: ["Candace Owens said Robert Bohls began his policing career at the Provo..."](/statements/statement-c373b79f6714.md)
+  - Also about: [Robert Bohls](/entities/person-robert-bohls.md), [Provo Police Department](/entities/org-provo-police-department.md)
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>

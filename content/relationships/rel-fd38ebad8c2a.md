@@ -15,7 +15,7 @@ object: "person-candace-owens"
 
 **[DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo)**
 
-- [00:30:14](/episodes/ep-YA1FxrDWNIo#t-00-30-14): _since I started working for Charlie Kirk._
+- [00:30:08](/episodes/ep-YA1FxrDWNIo#t-00-30-08): _I have toured with them every year—with the exception of this year—since I started working for Charlie (Charlie Kirk)._
 
 ### Related
 

@@ -1,6 +1,6 @@
 ---
 title: "Beekeeper's Naturals"
-description: "Beekeeper's Naturals (Organizations) - 26 mentions"
+description: "Beekeeper's Naturals (Organizations) - 28 mentions"
 id: "org-beekeepers-naturals"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20">2025-09-17 · 00:38:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-beekeepers-naturals-t-00-28-12">2026-06-10 · 00:28:20</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-beekeepers-naturals-t-00-28-04">2026-07-14 · 00:28:18</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -44,6 +44,7 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-beekeepers-naturals-t-00-47-51" style="--pulse-height:33%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-beekeepers-naturals-t-00-27-40" style="--pulse-height:33%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-beekeepers-naturals-t-00-27-28" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-beekeepers-naturals-t-00-27-24" style="--pulse-height:33%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-beekeepers-naturals-t-00-47-51) | 2 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-beekeepers-naturals-t-00-27-40) | 2 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-beekeepers-naturals-t-00-27-28) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-beekeepers-naturals-t-00-27-24) | 2 |
 
 </details>
 </section>
@@ -65,7 +67,18 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:27:55](/episodes/ep-X3VKJVJ7cN4.md#ent-org-beekeepers-naturals-t-00-27-24)**
+> "...o want to tell you guys about Beekeeper's Naturals because if you're a parent, you know summer has a..."
+
+**[00:28:18](/episodes/ep-X3VKJVJ7cN4.md#ent-org-beekeepers-naturals-t-00-28-04)**
+> "That's why Beekeepers Naturals is always stocked in our house. I especially love..."
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2 mentions)</summary>
@@ -199,9 +212,10 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:28:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-27-40): “That's why Beekeeper's Naturals is always stocked in our house. I especially love their propolis throat spray.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:28:18](/episodes/ep-X3VKJVJ7cN4.md#t-00-28-04): “That's why Beekeepers Naturals is always stocked in our house. I especially love their propolis throat spray.”
 
 </details>
 
@@ -211,9 +225,10 @@ Source: [Bee Propolis-Powered Wellness | Beekeeper's Naturals](https://www.beeke
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:28:17](/episodes/ep-1QZ4X6q1DPg.md#t-00-27-40): “That's why Beekeeper's Naturals is always stocked in our house. I especially love their propolis throat spray.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:28:18](/episodes/ep-X3VKJVJ7cN4.md#t-00-28-04): “That's why Beekeepers Naturals is always stocked in our house. I especially love their propolis throat spray.”
 
 </details>
 

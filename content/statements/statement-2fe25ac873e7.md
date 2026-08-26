@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:11:41](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(701);return false;">Play</a>
 
-> Ben said they never had any bad blood between them. I proved that that was not true.
+> Ben (Ben Shapiro) said they never had any bad blood between them. I proved that that was not true.
 
 ## Verification
 

@@ -13,7 +13,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -79,7 +79,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Capitol Police (3)</strong></summary>
+<summary><strong class="section-title">Statements about United States Capitol Police (4)</strong></summary>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
@@ -93,10 +93,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2)</summary>
 
 - [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05) (Claim) **Candace Owens**: ["The January 6th pipe bomber was revealed to be Shawna Rae Kirkhoff, a ..."](/statements/statement-578e19c4da01.md)
   - Also about: [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md), [January 6th](/entities/event-january-6th.md)
+
+- [00:08:30](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05) (Claim) **Candace Owens**: ["Shawna Rae Kirkhoff, a 31-year-old US Capitol Police officer, was iden..."](/statements/statement-0ddb21c6b49e.md)
+  - Also about: [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md)
 
 </details>
 

@@ -1,14 +1,14 @@
 ---
 id: "q1NRQQAYS_Q"
 title: "SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321"
-description: "SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 - 97 entities, 9 events, 0 claims"
+description: "SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 - 97 entities, 9 events, 26 factual claims"
 published: "2026-04-02"
 youtube_url: "https://www.youtube.com/watch?v=q1NRQQAYS_Q"
 ---
 
 **Published:** 2026-04-02 | [Watch on YouTube](https://www.youtube.com/watch?v=q1NRQQAYS_Q)
 
-**Stats:** 97 entities | 9 events | 0 claims
+**Stats:** 97 entities | 9 events | 26 factual claims
 
 ---
 

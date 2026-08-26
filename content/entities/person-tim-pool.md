@@ -26,8 +26,8 @@ Source: [Timcast](https://timcast.com/)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30">2026-07-14 · 01:06:44</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>43</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -194,7 +194,7 @@ Source: [Timcast](https://timcast.com/)
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (11 mentions)</summary>
 
-**[00:07:02](/episodes/ep-ZAuuSq_j2_w.md#ent-person-tim-pool-t-00-31-17)**
+**[00:06:56](/episodes/ep-ZAuuSq_j2_w.md#ent-person-tim-pool-t-00-31-17)**
 > "In other news and emotional manipulation, Tim Pool was having some sort of a breakdown."
 
 **[00:31:39](/episodes/ep-ZAuuSq_j2_w.md#ent-person-tim-pool-t-00-31-17)**
@@ -406,10 +406,13 @@ Source: [Timcast](https://timcast.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tim Pool (2)</strong></summary>
+<summary><strong class="section-title">Statements by Tim Pool (3)</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
+
+- [00:32:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-32-04) [✓] (Claim) ["Tim Pool accused Candace Owens of repeatedly insinuating that Turning Point USA ..."](/statements/statement-727139744674.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tim Pool](/entities/person-tim-pool.md)
 
 - [00:32:22](/episodes/ep-ZAuuSq_j2_w.md#t-00-32-04) [○] (Accusation) ["Candace Owens continually crosses the line every day, insinuating that Turning P..."](/statements/statement-b99b976bcd6c.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -427,7 +430,7 @@ Source: [Timcast](https://timcast.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tim Pool (6)</strong></summary>
+<summary><strong class="section-title">Statements about Tim Pool (9)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -463,6 +466,30 @@ Source: [Timcast](https://timcast.com/)
 
 - [00:44:49](/episodes/ep-t4U7NjnUEgc.md#t-00-44-11) (Accusation) **Candace Owens** (via paraphrase): ["Tim Pool accused Candace Owens of being someone who benefited from Cha..."](/statements/statement-56a747cf3e7b.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:24:40](/episodes/ep-Kmt6HgRjckU.md#t-00-24-33) (Claim) **Candace Owens**: ["Owens said Tim Pool called her viewers stupid for rejecting the federa..."](/statements/statement-83419d9680c2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
+
+- [00:32:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-32-04) (Claim) **Tim Pool** (via quoted speech): ["Tim Pool accused Candace Owens of repeatedly insinuating that Turning ..."](/statements/statement-727139744674.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
+
+- [00:52:45](/episodes/ep-581dILVcEE4.md#t-00-52-11) (Claim) **Candace Owens**: ["Owens said she saw an X clip in which Tim Pool said people were invest..."](/statements/statement-4b969328c30f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

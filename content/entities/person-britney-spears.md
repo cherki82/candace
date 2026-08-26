@@ -1,6 +1,6 @@
 ---
 title: "Britney Spears"
-description: "Britney Spears (People) - 23 mentions"
+description: "Britney Spears (People) - 25 mentions"
 id: "person-britney-spears"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44">2025-11-15 · 00:00:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25">2026-01-20 · 00:40:28</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-38">2026-07-16 · 00:57:38</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -37,6 +37,7 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-britney-spears-t-00-15-52" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-britney-spears-t-00-50-02" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-15" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-britney-spears-t-00-15-52) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-britney-spears-t-00-50-02) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-15) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
+
+**[00:57:25](/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-15)**
+> "...viously what was also done to Britney Spears. You can only imagine what she lived through as a..."
+
+**[00:57:38](/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-38)**
+> "...es because I was younger than Britney Spears I did not fully appreciate when I go back and I l..."
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>

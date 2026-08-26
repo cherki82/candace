@@ -30,7 +30,7 @@ type: "opinion"
 **Timestamp:** [00:02:41](/episodes/ep-581dILVcEE4.md#t-00-02-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(161);return false;">Play</a>
 
-> We've got Eyal Yakobi, who writes, 'This is what doxing looks like. These are unparalleled levels of insanity. This is truly dangerous.'
+> We've got Eyal Yakobi, who writes, "This is what doxing looks like." "These are unparalleled levels of insanity." "This is truly dangerous."
 
 ## Verification
 

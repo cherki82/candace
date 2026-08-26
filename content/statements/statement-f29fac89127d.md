@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:00:29](/episodes/ep-Kmt6HgRjckU.md#t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(29);return false;">Play</a>
 
-> Kash has been directly asked about their potential involvement in Charlie Kirk's assassination.
+> And on that point, another interesting lead has come in regarding the potential French connection, regarding which I should mention that Kash (Kash Patel) has been directly asked about their potential involvement in Charlie Kirk's assassination.
 
 ## Verification
 

@@ -15,7 +15,7 @@ object: "person-jeremy-boreing"
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 
-- [00:12:39](/episodes/ep-r1PS67aRmcA#t-00-12-39): _the CEO of the Daily Wire, at the time it was Jeremy Boreing_
+- [00:12:42](/episodes/ep-r1PS67aRmcA#t-00-12-42): _the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he sang Nick Fuentes's praises and also invited him onto the Daily Wire, okay?_
 
 ### Related
 

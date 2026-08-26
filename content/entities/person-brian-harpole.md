@@ -1,6 +1,6 @@
 ---
 title: "Brian Harpole"
-description: "Brian Harpole (People) - 302 mentions"
+description: "Brian Harpole (People) - 315 mentions"
 id: "person-brian-harpole"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-brian-harpole-t-00-21-22">2025-11-18 · 00:21:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-brian-harpole-t-01-19-06">2026-07-14 · 01:19:06</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>302</strong></div>
-<div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>100</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-35-22">2026-07-20 · 00:35:31</a></strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>315</strong></div>
+<div><span>Statements by</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>108</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -76,6 +76,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-brian-harpole-t-00-33-32" style="--pulse-height:24%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 10 mentions" title="2026-06-26 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-brian-harpole-t-00-01-20" style="--pulse-height:24%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 10 mentions" title="2026-06-26 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-brian-harpole-t-01-01-11" style="--pulse-height:17%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-brian-harpole-t-00-51-43" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-brian-harpole-t-00-11-27" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-01-58" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 8 mentions" title="2026-07-20 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,6 +125,9 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-brian-harpole-t-00-33-32) | 10 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-brian-harpole-t-00-01-20) | 10 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-brian-harpole-t-01-01-11) | 7 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-brian-harpole-t-00-51-43) | 2 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-brian-harpole-t-00-11-27) | 3 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-01-58) | 8 |
 
 </details>
 </section>
@@ -129,7 +135,61 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (302)</strong></summary>
+<summary><strong class="section-title">Raw mentions (315)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (8 mentions)</summary>
+
+**[00:01:58](/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-01-58)**
+> "This is—everything's weird. It was very odd. And Frank Turek wants you to know that he and Brian Harpole share different details about what happened in the car, that entire CPR bit—well,"
+
+**[00:31:11](/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-30-45)**
+> "Brian Harpole asserting that CPR was not performed, while Frank..."
+
+**[00:31:32](/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-31-32)**
+> "Brian (Brian Harpole) is correct that most of the ride, we weren't doi..."
+
+**[00:32:24](/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-32-13)**
+> "... into the parking lot, Brian (Brian Harpole) was preoccupied, thinking or talking to somebody..."
+
+**[00:33:38](/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-33-30)**
+> "How do you start with 'Brian (Brian Harpole) is telling the truth, there was no CPR,' and the..."
+
+**[00:33:45](/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-33-30)**
+> "...CPR for 30 seconds and Brian (Brian Harpole) was right there, but he was like talking or some..."
+
+**[00:34:23](/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-34-03)**
+> "...ovided 30 seconds of CPR, and Brian Harpole didn't notice because he was distracted by what?"
+
+**[00:35:31](/episodes/ep-N4uM8Jdr410.md#ent-person-brian-harpole-t-00-35-22)**
+> "...eding that you lied or Brian (Brian Harpole) lied. I don't know who lied. And now you're usin..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
+
+**[00:51:43](/episodes/ep-puuMVxEu5NU.md#ent-person-brian-harpole-t-00-51-43)**
+> "Harpole (Brian Harpole)"
+
+**[00:51:50](/episodes/ep-puuMVxEu5NU.md#ent-person-brian-harpole-t-00-51-43)**
+> "...dated security. That's Brian (Brian Harpole). Why should we believe what they say? Brian (Bri..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[00:12:02](/episodes/ep-mLvJqdxS-FY.md#ent-person-brian-harpole-t-00-11-27)**
+> "... had a badge. Just giving the Brian Harpole, I saw the tattoo. But he, at least Brian Harpole..."
+
+**[00:25:59](/episodes/ep-mLvJqdxS-FY.md#ent-person-brian-harpole-t-00-25-59)**
+> "... was happening whether it was Brian Harpole Frank Turek nobody wants to take credit for calli..."
+
+**[00:26:38](/episodes/ep-mLvJqdxS-FY.md#ent-person-brian-harpole-t-00-26-38)**
+> "...rney? I'll remind you of what Brian Harpole said about that phone call. He says it."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (7 mentions)</summary>
@@ -1403,7 +1463,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <summary>Sued (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:06:40](/episodes/ep-69A8TzAGHlU.md#t-00-06-20): “Brian (Brian Harpole) wants to sue me for something that I literally never said about him. Mind you, this was actually the very first point of the letter.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41): “All of this meant to humiliate me. And then a lawsuit arrives from Brian Harpole. But then we learn it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for two years for every minor infraction.”
@@ -1415,6 +1475,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:55:34](/episodes/ep-9CuC1yf8-PU.md#t-00-55-06): “You can add that to your lawsuit claims if you need to, Brian (Brian Harpole).”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:21:08](/episodes/ep-a2bZf4fic10.md#t-00-21-08): “The audacity of Brian Harpole to sue me over his incompetence.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:01:19](/episodes/ep-EtLHqDbxqks.md#t-01-01-11): “Something is not right about this car ride to the hospital, which Brian Harpole is suing me over and using Ben Shapiro's lawyers and Ben Shapiro's brother-in-law to do so, right?”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:32:50](/episodes/ep-N4uM8Jdr410.md#t-00-32-13): “In fact, he's got a lawsuit against Candace Owens right now. So I don't think he can even talk about any of this, but someone could call him and ask him if they want to.”
 
 </details>
 
@@ -1591,7 +1652,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:06:40](/episodes/ep-69A8TzAGHlU.md#t-00-06-20): “Brian (Brian Harpole) wants to sue me for something that I literally never said about him. Mind you, this was actually the very first point of the letter.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:00:41](/episodes/ep-uC_GjKU8rs8.md#t-00-00-41): “All of this meant to humiliate me. And then a lawsuit arrives from Brian Harpole. But then we learn it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for two years for every minor infraction.”
@@ -1603,6 +1664,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:55:34](/episodes/ep-9CuC1yf8-PU.md#t-00-55-06): “You can add that to your lawsuit claims if you need to, Brian (Brian Harpole).”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:21:08](/episodes/ep-a2bZf4fic10.md#t-00-21-08): “The audacity of Brian Harpole to sue me over his incompetence.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:01:19](/episodes/ep-EtLHqDbxqks.md#t-01-01-11): “Something is not right about this car ride to the hospital, which Brian Harpole is suing me over and using Ben Shapiro's lawyers and Ben Shapiro's brother-in-law to do so, right?”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:32:50](/episodes/ep-N4uM8Jdr410.md#t-00-32-13): “In fact, he's got a lawsuit against Candace Owens right now. So I don't think he can even talk about any of this, but someone could call him and ask him if they want to.”
 
 </details>
 
@@ -1625,7 +1687,15 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Brian Harpole (18)</strong></summary>
+<summary><strong class="section-title">Statements by Brian Harpole (21)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [00:26:46](/episodes/ep-mLvJqdxS-FY.md#t-00-26-46) [✓] (Claim) ["Brian Harpole said the hospital staff did not know Charlie Kirk's party was comi..."](/statements/statement-97f28cf39ba6.md)
+  - About: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (8)</summary>
@@ -1716,20 +1786,39 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (4)</summary>
 
-- [00:32:48](/episodes/ep-581dILVcEE4.md#t-00-32-34) [○] (Claim) ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop security concerns..."](/statements/statement-b5072332fbfd.md)
+- [00:25:08](/episodes/ep-581dILVcEE4.md#t-00-25-08) [✓] (Claim) ["correspondence went to Chief Long: 'There is a student roof access pretty close ..."](/statements/statement-6f18d7b813ae.md)
+
+- [00:26:01](/episodes/ep-581dILVcEE4.md#t-00-25-49) [○] (Claim) ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop security concerns..."](/statements/statement-b5072332fbfd.md)
   - About: [Jeff Long](/entities/person-jeff-long.md), [Brian Harpole](/entities/person-brian-harpole.md)
 
-- [00:39:36](/episodes/ep-581dILVcEE4.md#t-00-38-58) [○] (Claim) ["Brian Harpole asked UVU about flying drones but was told the area lies in Provo,..."](/statements/statement-24c856b55eb8.md)
-  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Provo](/entities/gpe-provo.md)
+- [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-05) [◐] (Claim) ["Harpole said his team could not fly a drone at UVU because the site was in Provo..."](/statements/statement-24c856b55eb8.md)
+  - About: [Provo](/entities/gpe-provo.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:30:07](/episodes/ep-581dILVcEE4.md#t-00-29-50) [✓] (Claim) ["Harpole said Orem Police had an active drone unit and a mutual-aid agreement wit..."](/statements/statement-d7a252b38663.md)
+  - About: [Orem Police Department](/entities/org-orem-police-department.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (100)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (108)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
+
+- [00:31:32](/episodes/ep-N4uM8Jdr410.md#t-00-31-32) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said no CPR was performed during most of the ride to the h..."](/statements/statement-21f69ed8e965.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+- [00:33:06](/episodes/ep-N4uM8Jdr410.md#t-00-32-59) (Opinion) **Frank Turek** (via quoted speech): ["Frank Turek said eyewitnesses disagreeing on minor details is a mark o..."](/statements/statement-09e8e1de11ab.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md)
+
+- [00:35:22](/episodes/ep-N4uM8Jdr410.md#t-00-35-22) (Accusation) **Candace Owens**: ["Candace Owens said she thought either Frank Turek or Brian Harpole lie..."](/statements/statement-000a70eceff7.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Cardiopulmonary resuscitation](/entities/concept-cardiopulmonary-resuscitation.md)
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -2073,10 +2162,16 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
 
 - [00:37:47](/episodes/ep-w1oqQbR_bYs.md#t-00-37-03) (Claim) **Candace Owens**: ["Brian Harpole could have made it to Fort Huachuca for the early mornin..."](/statements/statement-712747817fac.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:37:55](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49) (Claim) **Candace Owens**: ["Owens says private travel logs made it possible for Brian Harpole to r..."](/statements/statement-b42ceeaf4f20.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:38:22](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49) (Claim) **Candace Owens**: ["Candace Owens messaged Brian Harpole twice asking for clarification ab..."](/statements/statement-9767df83f2c6.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -2141,7 +2236,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2)</summary>
+
+- [00:17:41](/episodes/ep-t4U7NjnUEgc.md#t-00-17-13) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers claimed he saw Brian Harpole at Joint Task Force Southern ..."](/statements/statement-e1f3b3a8c4ff.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 
 - [00:19:45](/episodes/ep-t4U7NjnUEgc.md#t-00-19-18) (Claim) **Candace Owens**: ["Harry Myers encountered Brian Harpole at the Joint Task Force Southern..."](/statements/statement-8ad2cb0f95b9.md)
   - Also about: [Harry Myers](/entities/person-harry-myers.md)
@@ -2149,11 +2247,20 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1)</summary>
+
+- [00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43) (Claim) **Candace Owens**: ["Brian Harpole explained on Sean Ryan's show that no first aid was give..."](/statements/statement-180b7eaf20c2.md)
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>
 
 - [00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01) (Accusation) **Candace Owens**: ["Brian Harpole lied badly to Sean Ryan in an interview"](/statements/statement-bf4a6840e928.md)
 
 - [00:33:53](/episodes/ep-sImMM04XdWY.md#t-00-33-24) (Accusation) **Candace Owens**: ["Brian Harpole presented a text message between Dan Flood and Chief Lon..."](/statements/statement-01b7ecb55bfa.md)
+
+- [00:34:44](/episodes/ep-sImMM04XdWY.md#t-00-34-41) (Opinion) **Candace Owens**: ["Brian Harpole lied in his Sean Ryan interview by misrepresenting text ..."](/statements/statement-93e937c4f898.md)
 
 </details>
 
@@ -2167,10 +2274,10 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
 
-- [00:32:48](/episodes/ep-581dILVcEE4.md#t-00-32-34) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop securit..."](/statements/statement-b5072332fbfd.md)
+- [00:26:01](/episodes/ep-581dILVcEE4.md#t-00-25-49) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole emailed UVU Police Chief Jeff Long about rooftop securit..."](/statements/statement-b5072332fbfd.md)
   - Also about: [Jeff Long](/entities/person-jeff-long.md)
 
-- [00:39:36](/episodes/ep-581dILVcEE4.md#t-00-38-58) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole asked UVU about flying drones but was told the area lies..."](/statements/statement-24c856b55eb8.md)
+- [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-05) (Claim) **Brian Harpole** (via quoted speech): ["Harpole said his team could not fly a drone at UVU because the site wa..."](/statements/statement-24c856b55eb8.md)
   - Also about: [Provo](/entities/gpe-provo.md)
 
 </details>

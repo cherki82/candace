@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:43:13](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2593);return false;">Play</a>
 
-> I was shocked and sickened by the reaction of—the ghoulish and really repulsive reaction of—the Prime Minister of Israel, Benjamin Netanyahu, to Charlie Kirk's death. Basically made it all about him and all about his country
+> I was shocked and sickened by the reaction of—the ghoulish and really repulsive reaction of—the Prime Minister of Israel, Benjamin Netanyahu (Benjamin Netanyahu), to Charlie (Charlie Kirk)'s death.
 
 ## Verification
 

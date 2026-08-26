@@ -26,7 +26,7 @@ Source: [Turning Point USA Independent Auditors' Report 2024](https://secure.nmd
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -65,5 +65,21 @@ Source: [Turning Point USA Independent Auditors' Report 2024](https://secure.nmd
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about America's Turning Point (2)</strong></summary>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
+
+- [00:36:58](/episodes/ep-JQjCAsfoXEE.md#t-00-36-17) (Claim) **Candace Owens**: ["Turning Point USA missed both the regular and extended filing deadline..."](/statements/statement-7976ab1bec7a.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point Endowment](/entities/org-turning-point-endowment.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:37:40](/episodes/ep-JQjCAsfoXEE.md#t-00-37-22) (Claim) **Wolves and Finance** (via quoted speech): ["Turning Point USA sent 8.6 million dollars to America's Turning Point,..."](/statements/statement-824229ab089f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 </details>

@@ -11,11 +11,7 @@ object: "org-the-daily-wire"
 
 ## [Ben Shapiro](/entities/person-ben-shapiro) works for [The Daily Wire](/entities/org-the-daily-wire)
 
-### Evidence (2 mentions)
-
-**[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
-
-- [00:00:30](/episodes/ep-r1PS67aRmcA#t-00-00-30): _Ben Shapiro works for the Daily Wire_
+### Evidence (1 mentions)
 
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 

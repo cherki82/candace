@@ -557,7 +557,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (8 mentions)</summary>
 
 **[00:14:40](/episodes/ep-QZWSsq8ZWzw.md#ent-org-club-candace-t-00-14-22)**
-> "... of dread. The Tuesday—Tuesday night—the night before Charlie (Charlie Kirk) got assassinated—I had book club, and I felt like I needed to emphasize to people in book club that it was time to take their kids o..."
+> "The Tuesday—Tuesday night—the night before Charlie Kirk got assassinated—I had book club, and I felt like I needed to emphasize to people in book club that it was time to take their kids out of school."
 
 **[00:14:57](/episodes/ep-QZWSsq8ZWzw.md#ent-org-club-candace-t-00-14-22)**
 > "... show you a clip. Obviously this is all behind the paywall of what I said to people that are in the book club. Take a listen. "I'm homeschooling my kids." "I'm so excited." "I'm like very excited." "I'm embark..."

@@ -38,10 +38,10 @@ _No relationships extracted yet._
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2)</summary>
 
-- [00:42:50](/episodes/ep-EtLHqDbxqks.md#t-00-42-50) [○] (Claim) ["An unidentified Exhibit 12 courtroom witness testified that the compilation cont..."](/statements/statement-36a30d7e9119.md)
+- [00:42:50](/episodes/ep-EtLHqDbxqks.md#t-00-42-50) [✓] (Claim) ["An unidentified Exhibit 12 courtroom witness testified that the compilation cont..."](/statements/statement-36a30d7e9119.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:44:35](/episodes/ep-EtLHqDbxqks.md#t-00-44-35) [○] (Claim) ["An unidentified Exhibit 12 courtroom witness testified that the enhanced version..."](/statements/statement-dc7d6ced4492.md)
+- [00:44:35](/episodes/ep-EtLHqDbxqks.md#t-00-44-35) [✓] (Claim) ["An unidentified Exhibit 12 courtroom witness testified that the enhanced version..."](/statements/statement-dc7d6ced4492.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Losee Center](/entities/org-losee-center.md)
 
 </details>

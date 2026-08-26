@@ -26,7 +26,7 @@ Source: [Director of National Intelligence — Tulsi Gabbard](https://www.dni.go
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -153,7 +153,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tulsi Gabbard (2)</strong></summary>
+<summary><strong class="section-title">Statements about Tulsi Gabbard (3)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -164,9 +164,12 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2)</summary>
 
 - [00:38:43](/episodes/ep-t4U7NjnUEgc.md#t-00-38-15) (Claim) **Candace Owens**: ["Tulsi Gabbard's office is the only government office that has responde..."](/statements/statement-006a40efdcbc.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:38:49](/episodes/ep-t4U7NjnUEgc.md#t-00-38-49) (Claim) **Candace Owens**: ["Owens said Tulsi Gabbard office was the only government office that ha..."](/statements/statement-285d039d2351.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

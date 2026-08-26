@@ -1,14 +1,14 @@
 ---
 id: "mFuno0TuuQQ"
 title: "An Open Letter To Erika Kirk | Candace Ep 303"
-description: "An Open Letter To Erika Kirk | Candace Ep 303 - 75 entities, 23 events, 0 claims"
+description: "An Open Letter To Erika Kirk | Candace Ep 303 - 75 entities, 23 events, 11 factual claims"
 published: "2026-02-05"
 youtube_url: "https://www.youtube.com/watch?v=mFuno0TuuQQ"
 ---
 
 **Published:** 2026-02-05 | [Watch on YouTube](https://www.youtube.com/watch?v=mFuno0TuuQQ)
 
-**Stats:** 75 entities | 23 events | 0 claims
+**Stats:** 75 entities | 23 events | 11 factual claims
 
 ---
 

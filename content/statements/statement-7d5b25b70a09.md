@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:09:09](/episodes/ep-7RLtGgkTh9o.md#t-00-08-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(549);return false;">Play</a>
 
-> The Potter's Field scandal—Potter's Field was actually a healthy, functional organization. This was actually a Christian ministry until—and again, I'm going to say this is alleged, but I'm looking further into this claim—until Rob McCoy got involved and then he intentionally scandalized it and staged an effective hostile takeover.
+> The Potter's Field scandal—Potter's Field was actually a healthy, functional organization. This was actually a Christian ministry until—and again, I'm going to say this is alleged, but I'm looking further into this claim—until Rob McCoy got involved and then he intentionally scandalized it and staged an effective
 
 ## Verification
 

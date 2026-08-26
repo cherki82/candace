@@ -42,7 +42,7 @@ _Type: Works & Media_
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
 **[00:05:22](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56)**
-> "...rder. I can point you guys, there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers. And that relative's name is also Mary Fagan. You should r..."
+> "I can point you guys; there's a book called The Murder of Little Mary Phagan, and it is written by a relative of hers."
 
 </details>
 

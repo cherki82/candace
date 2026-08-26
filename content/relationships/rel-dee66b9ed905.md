@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has chairman [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (14 mentions)
+### Evidence (15 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -68,6 +68,10 @@ object: "person-erika-kirk"
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 
 - [00:02:58](/episodes/ep-mFuno0TuuQQ#t-00-02-58): _plea to the courts, I don't know, I think that it stands in stark contrast to the actions that are available to Erika Kirk as the CEO and chairman of this massive organization._
+
+**[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
+
+- [00:46:04](/episodes/ep-puuMVxEu5NU#t-00-46-04): _what I expected to do when sitting down with Erika (Erika Kirk). ... You're the CEO and the chairman of an organization_
 
 ### Related
 

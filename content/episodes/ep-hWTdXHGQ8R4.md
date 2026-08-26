@@ -1,14 +1,14 @@
 ---
 id: "hWTdXHGQ8R4"
 title: "VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306"
-description: "VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 - 115 entities, 12 events, 0 claims"
+description: "VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 - 115 entities, 12 events, 24 factual claims"
 published: "2026-02-11"
 youtube_url: "https://www.youtube.com/watch?v=hWTdXHGQ8R4"
 ---
 
 **Published:** 2026-02-11 | [Watch on YouTube](https://www.youtube.com/watch?v=hWTdXHGQ8R4)
 
-**Stats:** 115 entities | 12 events | 0 claims
+**Stats:** 115 entities | 12 events | 24 factual claims
 
 ---
 

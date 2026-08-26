@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:33:37](/episodes/ep-c5BcKF91iec.md#t-00-33-21) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2017);return false;">Play</a>
 
-> Charlie gets killed. He, on the same day, starts pushing his book. Charlie's last words were, 'Buy my book. Buy Josh Hammer's book.'
+> Charlie gets killed. He, on the same day, starts pushing his book. Charlie's last words were, "Buy my book. Buy Josh Hammer's book."
 
 ## Verification
 

@@ -1,14 +1,14 @@
 ---
 id: "sImMM04XdWY"
 title: "Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269"
-description: "Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 - 100 entities, 19 events, 0 claims"
+description: "Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 - 100 entities, 19 events, 51 factual claims"
 published: "2025-11-20"
 youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 ---
 
 **Published:** 2025-11-20 | [Watch on YouTube](https://www.youtube.com/watch?v=sImMM04XdWY)
 
-**Stats:** 100 entities | 19 events | 0 claims
+**Stats:** 100 entities | 19 events | 51 factual claims
 
 ---
 
@@ -69,7 +69,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-sImMM04XdWY/t-00-15-24.md" class="timestamp-link">00:15:24</a> <a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=924" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So <span id="ent-person-tucker-carlson-t-00-15-24"><a href="/entities/person-tucker-carlson.md">Tucker</a></span> is getting to the heart: there is that we don't live in a meritocracy, right? You have people who, because of their bloodlines, are just being handed things, right? <span id="ent-person-bari-weiss-t-00-15-24"><a href="/entities/person-bari-weiss.md">Bari Weiss</a></span> is a perfect example of that. Nobody knows why she is an executive at <span id="ent-org-cbs-t-00-15-24"><a href="/entities/org-cbs.md">CBS</a></span>. She has no objective talent. I will guarantee you everyone around her is smarter than her. And yet <a href="/entities/org-cbs.md">CBS</a> picked <a href="/entities/person-bari-weiss.md">Bari Weiss</a>. There's a reason for that. There is a reason why people who are talented can be completely shut out, taken out, told that they can't even be in the system—thinking about <span id="ent-person-kanye-west-t-00-15-24"><a href="/entities/person-kanye-west.md">Kanye West</a></span>, right? Because of what he's saying. ^t-00-15-24
+**<a href="/timestamps/ep-sImMM04XdWY/t-00-15-24.md" class="timestamp-link">00:15:24</a> <a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=924" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So <span id="ent-person-tucker-carlson-t-00-15-24"><a href="/entities/person-tucker-carlson.md">Tucker</a></span> is getting to the heart: there is that we don't live in a meritocracy, right? You have people who, because of their bloodlines, are just being handed things, right? <span id="ent-person-bari-weiss-t-00-15-24"><a href="/entities/person-bari-weiss.md">Bari Weiss</a></span> is a perfect example of that. Nobody knows why she is an executive at <span id="ent-org-cbs-news-t-00-15-24"><a href="/entities/org-cbs-news.md">CBS</a></span>. She has no objective talent. I will guarantee you everyone around her is smarter than her. And yet <a href="/entities/org-cbs-news.md">CBS</a> picked <a href="/entities/person-bari-weiss.md">Bari Weiss</a>. There's a reason for that. There is a reason why people who are talented can be completely shut out, taken out, told that they can't even be in the system—thinking about <span id="ent-person-kanye-west-t-00-15-24"><a href="/entities/person-kanye-west.md">Kanye West</a></span>, right? Because of what he's saying. ^t-00-15-24
 
 **<a href="/timestamps/ep-sImMM04XdWY/t-00-16-08.md" class="timestamp-link">00:16:08</a> <a href="https://www.youtube.com/watch?v=sImMM04XdWY&t=968" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And then people who have no talent are suddenly everywhere. Billboards. We're being told this is the most beautiful person, the smartest person; this person has what it takes to have a makeup brand—whatever it is—and they have no objective talent. That is not something that they would want messaged to Generation Z, Generation Coming Up, who's recognizing that something's not fair, that perhaps this whole idea that we live in a meritocracy is one big illusion. Anyways, back to our timeline, right? <span id="ent-person-tucker-carlson-t-00-16-08"><a href="/entities/person-tucker-carlson.md">Tucker</a></span> <a href="/entities/person-tucker-carlson.md">Carlson</a> says that, and we then have on <span id="ent-date-july-11th-t-00-16-08"><a href="/entities/date-july-11th.md">July 18th</a></span> that the request from <span id="ent-org-turning-point-usa-t-00-16-08"><a href="/entities/org-turning-point-usa.md">Turning Point</a></span>'s <span id="ent-org-utah-valley-university-t-00-16-08"><a href="/entities/org-utah-valley-university.md">UVU</a></span> chapter—which we've not been able to independently verify, but that's what the local news said; that they saw it with their own eyes, but we didn't see it. That's when the request comes in for <span id="ent-person-charlie-kirk-t-00-16-08"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> to speak at <a href="/entities/org-utah-valley-university.md">UVU</a>, very late in the day—never happens this way, okay? Like I told you, they are always working at least a semester behind on requests, but this one's happening quickly. ^t-00-16-08
 
@@ -243,7 +243,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 
 **Places:** [920 North King Street](/entities/gpe-920-north-king-street.md), [Cairo](/entities/gpe-cairo.md), [Delaware](/entities/gpe-delaware.md), [Egypt](/entities/gpe-egypt.md), [France](/entities/gpe-france.md), [Hall of Flags](/entities/gpe-hall-of-flags.md), [Hamptons](/entities/gpe-hamptons.md), [Hollywood](/entities/gpe-hollywood.md), [Israel](/entities/gpe-israel.md), [London](/entities/gpe-london.md), [Mexico](/entities/gpe-mexico.md), [Nebraska](/entities/gpe-nebraska.md), [New York](/entities/gpe-new-york.md), [Omaha](/entities/gpe-omaha.md), [Paris](/entities/gpe-paris.md), [Russia](/entities/gpe-russia.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md), [Tennessee](/entities/gpe-tennessee.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Washington](/entities/gpe-washington-state.md), [Washington County](/entities/gpe-washington-county.md), [Wilmington](/entities/gpe-wilmington.md), [Wyoming](/entities/gpe-wyoming.md)
 
-**Organizations:** [American Financing](/entities/org-american-financing.md), [Beekeeper's Naturals](/entities/org-beekeepers-naturals.md), [CBS](/entities/org-cbs.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [DEA](/entities/org-dea.md), [Dairy Queen](/entities/org-dairy-queen.md), [Department of Justice](/entities/org-department-of-justice.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Financial Times](/entities/org-financial-times.md), [Google](/entities/org-google.md), [Losee Center](/entities/org-losee-center.md), [PreBorn!](/entities/org-preborn.md), [Pure Talk](/entities/org-pure-talk.md), [ROTC](/entities/org-rotc.md), [Satis](/entities/org-satis.md), [Sorensen Center](/entities/org-sorensen-center.md), [Stanford](/entities/org-stanford.md), [Stanford University](/entities/org-stanford-university.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
+**Organizations:** [American Financing](/entities/org-american-financing.md), [Beekeeper's Naturals](/entities/org-beekeepers-naturals.md), [CBS News](/entities/org-cbs-news.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [DEA](/entities/org-dea.md), [Dairy Queen](/entities/org-dairy-queen.md), [Department of Justice](/entities/org-department-of-justice.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Financial Times](/entities/org-financial-times.md), [Google](/entities/org-google.md), [Losee Center](/entities/org-losee-center.md), [PreBorn!](/entities/org-preborn.md), [Pure Talk](/entities/org-pure-talk.md), [ROTC](/entities/org-rotc.md), [Satis](/entities/org-satis.md), [Sorensen Center](/entities/org-sorensen-center.md), [Stanford](/entities/org-stanford.md), [Stanford University](/entities/org-stanford-university.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
 **People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Bari Weiss](/entities/person-bari-weiss.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brian Harpole](/entities/person-brian-harpole.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Donald J. Trump](/entities/person-donald-trump.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [George Zinn](/entities/person-george-zinn.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md), [Jeff Long](/entities/person-jeff-long.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Joe Biden](/entities/person-joe-biden.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Ron Paul](/entities/person-ron-paul.md), [Sergio Gor](/entities/person-sergio-gor.md), [Seth Dillon](/entities/person-seth-dillon.md), [Shawn Ryan](/entities/person-shawn-ryan.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md), [Xavier Poussard](/entities/person-xavier-poussard.md)
 
@@ -254,42 +254,61 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 </details>
 
 <details>
-<summary><strong>Statements (37)</strong></summary>
+<summary><strong>Statements (57)</strong></summary>
 
 - [00:00:01](#t-00-00-01) [○] (Accusation) **Candace Owens**: ["Brian Harpole lied badly to Sean Ryan in an interview"](/statements/statement-bf4a6840e928.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md)
-- [00:00:39](#t-00-00-01) [○] (Claim) **Candace Owens**: ["The French company Satis in Delaware wasn't established to provide maintenance t..."](/statements/statement-af3c0e82202b.md)
+- [00:00:39](#t-00-00-01) [◐] (Claim) **Candace Owens**: ["The French company Satis in Delaware wasn't established to provide maintenance t..."](/statements/statement-af3c0e82202b.md)
   - About: [Satis](/entities/org-satis.md)
 - [00:01:02](#t-00-00-39) [○] (Claim) **Candace Owens**: ["Charlie Kirk called Candace and told her that they wanted her to stop speaking a..."](/statements/statement-eed9a6991a3e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:01:02](#t-00-00-39) [○] (Claim) **Charlie Kirk**: ["Charlie Kirk called me and told me that they wanted me to stop speaking about Br..."](/statements/statement-e0ba885d35f5.md)
+- [00:02:55](#t-00-02-44) [○] (Claim) **Andrew Kolvet**: ["Andrew Kolvet said, and I quote, 'Candace, it was supposed to be you'"](/statements/statement-a61b9b15aa1b.md)
+- [00:02:55](#t-00-02-44) [○] (Claim) **Andrew Kolvet**: ["Andrew Kolvet told Candace Owens 'it was supposed to be you' within 72 hours of ..."](/statements/statement-95a2e0a2f071.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [00:02:58](#t-00-02-44) [○] (Claim) **Andrew Kolvet**: ["Candace, it was supposed to be you"](/statements/statement-6511a25a0478.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
+- [00:03:31](#t-00-03-29) [○] (Claim) **Candace Owens**: ["while the actual day on September 10th while Charlie Kirk was in the hospital, h..."](/statements/statement-d846b39a0b3a.md)
 - [00:04:11](#t-00-03-29) [○] (Claim) **Candace Owens**: ["On September 10th, Andrew Kolvet told Candace there was a list and that she and ..."](/statements/statement-8e92fe154014.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [00:04:38](#t-00-04-12) [○] (Claim) **Candace Owens**: ["A well-known woman married to a CIA contractor called Candace on September 10th ..."](/statements/statement-4b9fb48af609.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
 - [00:06:00](#t-00-05-36) [○] (Claim) **Candace Owens**: ["Satis had a lack of a lease since 2021, proving there was no maintenance happeni..."](/statements/statement-e5b1912dc699.md)
   - About: [Satis](/entities/org-satis.md)
+- [00:06:12](#t-00-05-36) [○] (Claim) **Candace Owens**: ["after our Egyptian plane, tail number SUBTT, landed into this federally monitore..."](/statements/statement-2a88ad32aba8.md)
 - [00:06:32](#t-00-06-16) [○] (Claim) **Candace Owens**: ["After Egyptian plane SUBTT landed in the federally monitored hangar, a foreign d..."](/statements/statement-c9c1763ba0be.md)
   - About: [920 North King Street](/entities/gpe-920-north-king-street.md)
 - [00:07:13](#t-00-06-59) [○] (Claim) **Candace Owens**: ["Candace did her first episode on Brigitte Macron on March 13th, 2024"](/statements/statement-82e2049008cc.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
 - [00:07:44](#t-00-07-38) [○] (Claim) **Candace Owens**: ["Candace was fired from Daily Wire within six days of doing the first Brigitte Ma..."](/statements/statement-b927250fcab2.md)
   - About: [DailyWire](/entities/org-dailywire.md)
+- [00:07:49](#t-00-07-38) [✗] (Claim) **Candace Owens**: ["Candace Owens was fired from Daily Wire six days after her first Brigitte Macron..."](/statements/statement-96fb1a227cf8.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+- [00:07:51](#t-00-07-38) [✗] (Claim) **Candace Owens**: ["March 13th, I do that first episode regarding Brigitte Macron. March 19th, just ..."](/statements/statement-0cdb393f5dfd.md)
+- [00:08:25](#t-00-08-18) [✓] (Claim) **Candace Owens**: ["on December 3rd, before I interview him, I receive the first ever cease-and-desi..."](/statements/statement-5e9010384e7b.md)
 - [00:08:47](#t-00-08-18) [○] (Claim) **Candace Owens**: ["Xavier Poussard wrote the book Becoming Brigitte and has never been sued for def..."](/statements/statement-c3ec8f679688.md)
   - About: [Xavier Poussard](/entities/person-xavier-poussard.md)
 - [00:08:58](#t-00-08-18) [○] (Opinion) **Candace Owens**: ["Brigitte Macron was born a man named Jean-Michel Trogneux"](/statements/statement-51d8e232faab.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
 - [00:09:07](#t-00-09-03) [○] (Claim) **Candace Owens**: ["Satis was publicly announced on December 10th, seven days after the cease-and-de..."](/statements/statement-ada7a08dfe7f.md)
   - About: [Satis](/entities/org-satis.md)
+- [00:09:08](#t-00-09-03) [✓] (Claim) **Candace Owens**: ["seven days later is when it's publicly announced that Satis, that French company..."](/statements/statement-58e96e75a8cc.md)
 - [00:09:30](#t-00-09-03) [○] (Claim) **Candace Owens**: ["On December 3rd, Candace received the first cease-and-desist letter from Brigitt..."](/statements/statement-632d91cf1d49.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
 - [00:11:31](#t-00-10-57) [○] (Claim) **Candace Owens**: ["Candace interviewed Xavier Poussard in London on December 21st"](/statements/statement-949fddad7695.md)
   - About: [Xavier Poussard](/entities/person-xavier-poussard.md)
+- [00:11:46](#t-00-11-43) [○] (Claim) **Candace Owens**: ["on February 24th, Charlie Kirk reaches out, and he tells me that the White House..."](/statements/statement-f9b80fe15521.md)
+- [00:12:06](#t-00-11-43) [✓] (Claim) **Candace Owens**: ["This is the day that Donald Trump meets with Emmanuel Macron"](/statements/statement-2f741b4cbab7.md)
+- [00:12:32](#t-00-12-26) [○] (Claim) **Charlie Kirk**: ["Charlie Kirk told Candace Owens the White House asked her to stop speaking about..."](/statements/statement-7a4f086a1875.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:12:47](#t-00-12-26) [○] (Claim) **Candace Owens**: ["On February 24th, Charlie Kirk reached out and told Candace that the White House..."](/statements/statement-c193c5245120.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:12:49](#t-00-12-26) [○] (Claim) **Candace Owens**: ["On February 25th, actually, Sergio Gor called me and asked me to stop speaking a..."](/statements/statement-b6d08fce7397.md)
 - [00:13:02](#t-00-12-26) [○] (Claim) **Candace Owens**: ["On February 24th, the same day as Charlie Kirk's call, Donald Trump met with Emm..."](/statements/statement-a6f543e1a659.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md)
+- [00:13:03](#t-00-12-26) [○] (Claim) **Candace Owens**: ["February 26th. President Donald Trump calls me and asks me to stop speaking abou..."](/statements/statement-83ea3697f1a3.md)
+- [00:13:20](#t-00-13-11) [○] (Claim) **Candace Owens**: ["On July 18th, Charlie Kirk hosted Tucker Carlson at Satis and told Tucker to go ..."](/statements/statement-35e19c389ea9.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
 - [00:14:29](#t-00-14-01) [○] (Claim) **Candace Owens**: ["On February 25th, Sergio Gor called Candace and asked her to stop speaking about..."](/statements/statement-f0470f5fa7e8.md)
   - About: [Sergio Gor](/entities/person-sergio-gor.md)
 - [00:14:48](#t-00-14-43) [○] (Claim) **Candace Owens**: ["On February 26th, President Donald Trump called Candace and asked her to stop sp..."](/statements/statement-159af4dab4b5.md)
@@ -298,8 +317,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
   - About: [Bill Ackman](/entities/person-bill-ackman.md)
 - [00:15:01](#t-00-14-43) [○] (Claim) **Tucker Carlson**: ["How did Jeffrey Epstein get four Gulfstreams, an island, a massive ranch in New ..."](/statements/statement-40f83b993639.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
-- [00:15:53](#t-00-15-24) [○] (Claim) **Candace Owens**: ["On July 18th, Charlie Kirk hosted Tucker Carlson at Satis and told Tucker to go ..."](/statements/statement-35e19c389ea9.md)
-  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
+- [00:17:22](#t-00-16-53) [✓] (Claim) **Candace Owens**: ["from the 20th to the 26th—that happens to be the period that Brigitte and Emmanu..."](/statements/statement-6406220b7901.md)
 - [00:17:24](#t-00-16-53) [○] (Claim) **Candace Owens**: ["The Egyptian plane stayed in Wilmington for six days, from July 20th to 26th, wh..."](/statements/statement-3e84e9b61491.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
 - [00:19:10](#t-00-18-58) [○] (Claim) **Candace Owens**: ["Tucker Carlson released an episode with Candace on August 1st discussing the Bri..."](/statements/statement-744c384c65c3.md)
@@ -314,15 +332,23 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
   - About: [SU-BTT](/entities/vehicle-su-btt.md)
 - [00:23:11](#t-00-23-08) [○] (Claim) **Candace Owens**: ["Candace started Becoming Brigitte season two on September 8th, discussing the MK..."](/statements/statement-fe66cc7c572f.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
+- [00:33:44](#t-00-33-24) [✓] (Claim) **Candace Owens**: ["Brian Harpole is actually presenting a text message between Dan Flood and Chief ..."](/statements/statement-d3fed1ca5537.md)
 - [00:33:53](#t-00-33-24) [○] (Accusation) **Candace Owens**: ["Brian Harpole presented a text message between Dan Flood and Chief Long, not his..."](/statements/statement-01b7ecb55bfa.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md)
+- [00:34:44](#t-00-34-41) [○] (Opinion) **Candace Owens**: ["Brian Harpole lied in his Sean Ryan interview by misrepresenting text messages a..."](/statements/statement-93e937c4f898.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md)
 - [00:34:56](#t-00-34-49) [○] (Accusation) **Candace Owens**: ["Turning Point security never did a walkthrough of the campus when they arrived"](/statements/statement-01c9f9d86a84.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:37:10](#t-00-36-51) [○] (Claim) **Candace Owens**: ["Dan Flood was primarily and only concerned with the Hall of Flags behind Charlie..."](/statements/statement-37bf53db249d.md)
   - About: [Dan Flood](/entities/person-dan-flood.md)
+- [00:37:10](#t-00-36-51) [○] (Claim) **Candace Owens**: ["Turning Point security did not walk the UVU campus when they arrived and only fo..."](/statements/statement-e5d5de91e5b0.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:38:09](#t-00-37-36) [○] (Claim) **Candace Owens**: ["Both students who posted videos of the alleged shooter on the roof were in the m..."](/statements/statement-93fbe6678eff.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:40:39](#t-00-40-25) [✓] (Claim) **Candace Owens**: ["the footage of Tyler Robinson turning himself in... is now missing"](/statements/statement-0919782fb3e7.md)
 - [00:42:03](#t-00-41-20) [○] (Claim) **Candace Owens**: ["Washington County Sheriff's Office stated the surveillance footage of Tyler Robi..."](/statements/statement-e6666665e8f5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+- [00:42:42](#t-00-42-14) [✓] (Claim) **Candace Owens**: ["Surveillance footage of Tyler Robinson turning himself in to Washington County S..."](/statements/statement-f3fd2bcfecbc.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:43:26](#t-00-42-54) [○] (Claim) **Candace Owens**: ["Tyler Robinson appears electronically for court hearings and doesn't have to put..."](/statements/statement-a2d763e2446c.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)

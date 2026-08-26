@@ -1,6 +1,6 @@
 ---
 title: "Operation Mocking Pastor"
-description: "Operation Mocking Pastor (Concepts) - 6 mentions"
+description: "Operation Mocking Pastor (Concepts) - 8 mentions"
 id: "concept-operation-mocking-pastor"
 type: "CONCEPT"
 aliases:
@@ -14,8 +14,8 @@ _Type: Concepts_
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-operation-mocking-pastor-t-00-35-39">2025-09-23 · 00:35:55</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-35-29">2026-01-19 · 00:35:34</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -28,6 +28,8 @@ _Type: Concepts_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-operation-mocking-pastor-t-00-35-39" style="--pulse-height:50%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 1 mentions" title="2025-09-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-concept-operation-mocking-pastor-t-00-38-45" style="--pulse-height:50%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-operation-mocking-pastor-t-00-55-55" style="--pulse-height:50%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-operation-mocking-pastor-t-00-27-59" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-operation-mocking-pastor-t-00-39-09" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-34-33" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 </div>
@@ -37,6 +39,8 @@ _Type: Concepts_
 |---|---|---:|
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-concept-operation-mocking-pastor-t-00-35-39) | 1 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-concept-operation-mocking-pastor-t-00-38-45) | 1 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-concept-operation-mocking-pastor-t-00-55-55) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-operation-mocking-pastor-t-00-27-59) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-operation-mocking-pastor-t-00-39-09) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-34-33) | 2 |
 
@@ -46,7 +50,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
@@ -67,6 +71,22 @@ _Type: Concepts_
 
 **[00:59:32](/episodes/ep-wcD2khO3rOA.md#ent-concept-operation-mocking-pastor-t-00-59-14)**
 > "... when we started looking into Operation Mocking Pastor,"
+
+</details>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:28:06](/episodes/ep-yAIb-NuUh_U.md#ent-concept-operation-mocking-pastor-t-00-27-59)**
+> "...were all getting on stage for Operation Mocking Pastor, where they were all saying the same thing about ..."
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
+
+**[00:56:07](/episodes/ep-ozWJz2spBcI.md#ent-concept-operation-mocking-pastor-t-00-55-55)**
+> "They missed the Operation Mocking Pastor joke."
 
 </details>
 

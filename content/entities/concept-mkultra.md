@@ -1,6 +1,6 @@
 ---
 title: "MKUltra"
-description: "MKUltra (Concepts) - 40 mentions"
+description: "MKUltra (Concepts) - 41 mentions"
 id: "concept-mkultra"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44">2025-09-24 · 00:26:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45">2026-07-14 · 01:19:45</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-mkultra-t-00-54-54">2026-07-16 · 00:55:25</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -54,6 +54,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-mkultra-t-00-31-13" style="--pulse-height:14%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-mkultra-t-00-36-48" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-mkultra-t-00-54-54" style="--pulse-height:14%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +76,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mkultra-t-00-31-13) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-mkultra-t-00-36-48) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-mkultra-t-00-54-54) | 1 |
 
 </details>
 </section>
@@ -82,7 +84,15 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:55:25](/episodes/ep-mLvJqdxS-FY.md#ent-concept-mkultra-t-00-54-54)**
+> "I took a break from my MK Ultra Lab research experiment to come watch this. I pau..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
@@ -356,7 +366,7 @@ _No relationships extracted yet._
 - [00:18:27](/episodes/ep-7RLtGgkTh9o.md#t-00-18-12) (Accusation) **Candace Owens**: ["The government employed a military-grade MKUltra program after JFK was..."](/statements/statement-0af73f1b4477.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
-- [00:21:27](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) (Claim) **Courtney Love** (via read message): ["Courtney Love was experimented on as a toddler at the Haight-Ashbury C..."](/statements/statement-698fdea4ccc4.md)
+- [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) (Claim) **Candace Owens**: ["The CIA intentionally dosed people in Haight-Ashbury with LSD to study..."](/statements/statement-698fdea4ccc4.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </details>

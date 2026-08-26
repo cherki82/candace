@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:58:22](/episodes/ep-2WEHTk0Xewg.md#t-00-57-40) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3502);return false;">Play</a>
 
-> Nobody is going to stop me from investigating what happened to Charlie Kirk because it feels to me—okay—that this is a conspiracy—a federal-level conspiracy—which means that there's gonna be somebody else, so maybe somebody close to Charlie Kirk that could be involved in this, right?
+> I mean that. Nobody is going to stop me from investigating what happened to Charlie (Charlie Kirk) because it feels to me—okay—that this is a conspiracy—a federal-level conspiracy—which means that there's gonna be somebody else, so maybe somebody close to Charlie (Charlie Kirk) that could be involved in this, right?
 
 ## Verification
 

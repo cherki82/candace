@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:22:01](/episodes/ep-sImMM04XdWY.md#t-00-21-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1321);return false;">Play</a>
 
-> This plane is now going to stay for six days, and then it's gonna go to Wilmington, Delaware. As you guys know, it's gonna stay in Wilmington, Delaware, before departing on September 11th after Charlie's assassination
+> This plane is now going to stay for six days, and then it's gonna go to Wilmington, Delaware. As you guys know, it's gonna stay in Wilmington, Delaware, before departing on September 11th after Charlie (Charlie Kirk)'s assassination.
 
 ## Verification
 

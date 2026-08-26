@@ -21,7 +21,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -83,13 +83,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Simon Wiesenthal Center (1)</strong></summary>
+<summary><strong class="section-title">Statements about Simon Wiesenthal Center (3)</strong></summary>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
 - [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-37) (Claim) **Candace Owens**: ["Johnnie Moore serves on an Anti-Defamation League task force and recei..."](/statements/statement-84b00687125f.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Anti-Defamation League](/entities/org-anti-defamation-league.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
+
+- [00:19:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-19-21) (Claim) **Candace Owens**: ["The Simon Wiesenthal Center issued a statement against Candace Owens's..."](/statements/statement-8ea09eff3ac8.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:22:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-07) (Claim) **Candace Owens**: ["Marissa Streit took Candace Owens to the Simon Wiesenthal Center after..."](/statements/statement-4ce552637a9b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Marissa Streit](/entities/person-marissa-streit.md)
 
 </details>
 

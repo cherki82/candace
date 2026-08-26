@@ -16,7 +16,7 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#t-00-04-06">2025-09-23 · 00:04:23</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -123,16 +123,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Elle Steele (3)</strong></summary>
+<summary><strong class="section-title">Statements by Elle Steele (4)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4)</summary>
 
 - [00:21:20](/episodes/ep-sreYYcID-QY.md#t-00-21-15) [○] (Claim) ["I saw the shooting and saw blood everywhere. It hit his artery"](/statements/statement-6b62c96a17cb.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:21:23](/episodes/ep-sreYYcID-QY.md#t-00-21-15) [○] (Claim) ["Elle Steele saw blood everywhere and saw that the bullet hit Charlie Kirk's arte..."](/statements/statement-e80bac4ea8ef.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:24](/episodes/ep-sreYYcID-QY.md#t-00-21-15) [○] (Claim) ["I saw it and I saw blood everywhere, and it hit his artery and then I just fell ..."](/statements/statement-15abacc00bd8.md)
 
 - [00:22:00](/episodes/ep-sreYYcID-QY.md#t-00-21-56) [○] (Claim) ["I saw blood everywhere and it hit his artery, then I just fell to the ground and..."](/statements/statement-6393541f92b4.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)

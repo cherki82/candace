@@ -1,11 +1,12 @@
 ---
 title: "Salem Media Group"
-description: "Salem Media Group (Organizations) - 29 mentions"
+description: "Salem Media Group (Organizations) - 30 mentions"
 id: "org-salem-media-group"
 type: "ORG"
 aliases:
   - "Salem network"
   - "Salem"
+  - "Salem Media Network"
 categories:
   - "media company"
   - "radio network"
@@ -13,7 +14,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Salem network, Salem
+**Also known as:** Salem network, Salem, Salem Media Network
 
 **Categories:** media company, radio network
 
@@ -23,11 +24,11 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-salem-media-group-t-00-45-32">2026-02-02 · 00:45:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-40-50">2026-06-22 · 00:40:50</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-salem-media-group-t-00-36-57">2026-07-16 · 00:36:57</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +42,7 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-salem-media-group-t-01-01-23" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-salem-media-group-t-00-25-00" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-38-00" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-salem-media-group-t-00-36-57" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +53,7 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-salem-media-group-t-01-01-23) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-salem-media-group-t-00-25-00) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-38-00) | 2 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-salem-media-group-t-00-36-57) | 1 |
 
 </details>
 </section>
@@ -58,7 +61,15 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:36:57](/episodes/ep-puuMVxEu5NU.md#ent-org-salem-media-group-t-00-36-57)**
+> "Salem Media Network properties"
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
@@ -287,7 +298,15 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Salem Media Group (6)</strong></summary>
+<summary><strong class="section-title">Statements about Salem Media Group (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:36:31](/episodes/ep-puuMVxEu5NU.md#t-00-36-14) (Citation) **Candace Owens**: ["Owens said the reported services agreement required Brad Parscale's ca..."](/statements/statement-0bdd660aafdf.md)
+  - Also about: [Brad Parscale](/entities/person-brad-parscale.md), [TikTok](/entities/org-tiktok.md), [Instagram](/entities/org-instagram.md)
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (6)</summary>

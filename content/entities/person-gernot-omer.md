@@ -68,11 +68,9 @@ _Type: People_
 <summary>Works For (2)</summary>
 
 - **[BearingPoint](/entities/org-bearingpoint.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “introduced as one of their software development teams.”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “his face also matched up in a YouTube video for a company called BearingPoint, where he is seen... as one of their software development teams”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-16): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams.”
 
 </details>
 
@@ -91,11 +89,9 @@ _Type: People_
 <summary>Referenced By (3)</summary>
 
 - **[BearingPoint](/entities/org-bearingpoint.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “introduced as one of their software development teams.”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “his face also matched up in a YouTube video for a company called BearingPoint, where he is seen... as one of their software development teams”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-16): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): “We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams—a member of one of their software development teams.”
 
 </details>
 

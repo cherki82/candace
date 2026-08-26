@@ -17,7 +17,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -76,6 +76,19 @@ _Type: People_
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): “...It appeared that Lisa Dean, who is a DuPont, didn't approve...”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Lisa Dean (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:10:32](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27) (Accusation) **Candace Owens** (via paraphrase): ["the money traced back to the DuPont family. It appeared that Lisa Dean..."](/statements/statement-7c3e83eb0a33.md)
+  - Also about: [DuPont family](/entities/org-dupont-family.md), [Christopher Moseley](/entities/person-christopher-moseley.md)
 
 </details>
 

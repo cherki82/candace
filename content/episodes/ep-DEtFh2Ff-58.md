@@ -1,14 +1,14 @@
 ---
 id: "DEtFh2Ff-58"
 title: "VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317"
-description: "VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 - 92 entities, 11 events, 0 claims"
+description: "VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 - 92 entities, 11 events, 24 factual claims"
 published: "2026-03-26"
 youtube_url: "https://www.youtube.com/watch?v=DEtFh2Ff-58"
 ---
 
 **Published:** 2026-03-26 | [Watch on YouTube](https://www.youtube.com/watch?v=DEtFh2Ff-58)
 
-**Stats:** 92 entities | 11 events | 0 claims
+**Stats:** 92 entities | 11 events | 24 factual claims
 
 ---
 

@@ -1,16 +1,17 @@
 ---
-title: "A Shulman guy said 'I want my name off of the building at Tu..."
-description: "\"A Shulman guy said 'I want my name off of the building at Turning Point' in the 48 hours leading up to Charlie Kirk's assassination\" — Candace Owens"
+title: "Owens alleged that Robert Shillman demanded that his name be..."
+description: "\"Owens alleged that Robert Shillman demanded that his name be removed from a Turning Point USA building in the 48 hours before Charlie Kirk's assassina...\" — Candace Owens"
 statement_id: "statement-6bec65e5649f"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
-> A Shulman guy said 'I want my name off of the building at Turning Point' in the 48 hours leading up to Charlie Kirk's assassination
+> Owens alleged that Robert Shillman demanded that his name be removed from a Turning Point USA building in the 48 hours before Charlie Kirk's assassination
 
 ## Attribution
 
@@ -22,18 +23,41 @@ type: "factual_claim"
 
 - [Bob Shillman](/entities/person-bob-shillman.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:43:09](/episodes/ep-sreYYcID-QY.md#t-00-42-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2589);return false;">Play</a>
 
-> This is... then suddenly he gets a Shulman guy is the one that said, 'I want my name off of the building at Turning Point,' in the 48 hours leading up to his assassination—the couple of days leading up to the assassination.
+> This is... then suddenly he gets a Shulman guy is the one that said, “I want my name off of the building at Turning Point,” in the 48 hours leading up to his assassination—the couple of days leading up to the assassination.
+
+### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+
+**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+**Timestamp:** [00:43:09](/episodes/ep-sreYYcID-QY.md#t-00-42-55) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2589);return false;">Play</a>
+
+> then suddenly he gets a Shulman guy is the one that said, “I want my name off of the building at Turning Point,” in the 48 hours leading up to his assassination—the couple of days leading up to the assassination
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The reported donor was Robert Shillman, not 'Shulman.' The Grayzone says he cancelled a planned honorary plaque and announced an end to donations on September 6, four days before Kirk's death; it does not support the specific 48-hour timing or a demand to remove an existing building name. The account relies on anonymous/private-event sources and was not confirmed by Shillman or TPUSA.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Top pro-Israel TPUSA donor terminated support for Kirk in days before death, sources say](https://thegrayzone.com/2025/09/22/israel-tpusa-donor-terminated-kirk/)
+
+*Verified: 2026-08-26T09:01:18.403614*
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** Yes

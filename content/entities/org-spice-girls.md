@@ -1,6 +1,6 @@
 ---
 title: "Spice Girls"
-description: "Spice Girls (Organizations) - 1 mention"
+description: "Spice Girls (Organizations) - 2 mentions"
 id: "org-spice-girls"
 type: "ORG"
 categories:
@@ -17,10 +17,10 @@ _Type: Organizations_
 Source: [The Spice Girls | Official Site](https://thespicegirls.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-spice-girls-t-00-55-49">2026-01-21 · 00:55:49</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-org-spice-girls-t-00-51-40">2025-10-27 · 00:52:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-spice-girls-t-00-55-49">2026-01-21 · 00:55:49</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,14 +29,16 @@ Source: [The Spice Girls | Official Site](https://thespicegirls.com/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-spice-girls-t-00-55-49">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-c5BcKF91iec.md#ent-org-spice-girls-t-00-51-40">Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-spice-girls-t-00-51-40" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-spice-girls-t-00-55-49" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-spice-girls-t-00-51-40) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-spice-girls-t-00-55-49) | 1 |
 
 </details>
@@ -45,13 +47,21 @@ Source: [The Spice Girls | Official Site](https://thespicegirls.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
 **[00:55:49](/episodes/ep-GY6GWceEqtQ.md#ent-org-spice-girls-t-00-55-49)**
 > "I grew up on the Spice Girls"
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
+
+**[00:52:09](/episodes/ep-c5BcKF91iec.md#ent-org-spice-girls-t-00-51-40)**
+> "...nking it was like girl power, Spice Girls—and it was never that. Never ever that."
 
 </details>
 

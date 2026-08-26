@@ -1,0 +1,20 @@
+---
+title: "2025-09-10: Blake Neff said Turning Point USA staff stayed at ..."
+description: "2025-09-10 - Blake Neff said Turning Point USA staff stayed at the same Salt Lake City hotel before Charlie Kirk's UVU event."
+event_id: "event-2025-09-10-blake-neff-said-turning-point-usa-staff-"
+date: "2025-09-10"
+---
+
+**Date:** 2025-09-10
+
+## Event
+
+> Blake Neff said Turning Point USA staff stayed at the same Salt Lake City hotel before Charlie Kirk's UVU event.
+
+## Mentioned In
+
+**Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
+**Timestamp:** [00:37:14](/episodes/ep-N4uM8Jdr410.md#event-event-2025-09-10-blake-neff-said-turning-point-usa-staff--t-00-37-08) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2234);return false;">▶️ Play</a>
+
+> We were all, to my knowledge, at basically the same hotel, and it was, I think, in Salt Lake.

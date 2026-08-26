@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:37:27](/episodes/ep-2Riv3I7D0Yk.md#t-00-36-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2247);return false;">Play</a>
 
-> How come there were no Mormon people, no Mormon presidents coming out and saying, 'I just want to be clear that we didn't kill Charlie (Charlie Kirk)' 24 hours after he died? 'Cause that's what Bibi (Benjamin Netanyahu) did
+> How come there were no Mormon people, no Mormon presidents coming out and saying, "I just want to be clear that we didn't kill Charlie (Charlie Kirk)" 24 hours after he died? 'Cause that's what Bibi (Benjamin Netanyahu) did.
 
 ## Verification
 

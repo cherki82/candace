@@ -23,7 +23,7 @@ object: "person-ben-shapiro"
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 
-- [00:04:40](/episodes/ep-r1PS67aRmcA#t-00-04-40): _Ben Shapiro calling what Candace Owens is doing evil_
+- [00:10:06](/episodes/ep-r1PS67aRmcA#t-00-10-06): _I think that what Candace Owens (the host) is doing right now is evil._
 
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 

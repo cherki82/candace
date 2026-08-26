@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:10:34](/episodes/ep-6J6lRZPQ4jk.md#t-00-10-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(634);return false;">Play</a>
 
-> His father also said he called his father first. Maybe Rob was confused.
+> His father also said he called his father first. Maybe Rob (Rob McCoy) was confused.
 
 ## Verification
 

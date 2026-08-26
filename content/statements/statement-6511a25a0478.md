@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:02:58](/episodes/ep-sImMM04XdWY.md#t-00-02-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(178);return false;">Play</a>
 
-> I am talking maybe 72 hours max after Charlie was killed, and he was also upset on the phone, but he said something, and it's hitting differently the more that I think about it. He said, and I quote, 'Candace, it was supposed to be you.'
+> I mean, I am talking maybe 72 hours max after Charlie (Charlie Kirk) was killed, and he was also upset on the phone, but he said something, and it's hitting differently the more that I think about it. He said, and I quote, "Candace, it was supposed to be you."
 
 ## Verification
 

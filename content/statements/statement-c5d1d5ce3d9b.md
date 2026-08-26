@@ -30,7 +30,7 @@ type: "accusation"
 **Timestamp:** [00:38:49](/episodes/ep-sreYYcID-QY.md#t-00-38-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2329);return false;">Play</a>
 
-> The New York Post—outfit of the Mossad, outfit of the deep state—ran with it.
+> But they ran with it. The New York Post— outfit of the Mossad, outfit of the deep state— ran with it.
 
 ### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
@@ -38,7 +38,7 @@ type: "accusation"
 **Timestamp:** [00:38:51](/episodes/ep-sreYYcID-QY.md#t-00-38-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2331);return false;">Play</a>
 
-> But they ran with it. The New York Post—outfit of the Mossad, outfit of the deep state—ran with it.
+> But they ran with it. The New York Post— outfit of the Mossad, outfit of the deep state— ran with it.
 
 ## Verification
 

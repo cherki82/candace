@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:44:49](/episodes/ep-t4U7NjnUEgc.md#t-00-44-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2689);return false;">Play</a>
 
-> Tim Pool doesn't even have the intellect to understand that we put him in the thumbnail because he accused me in a full episode with Milo Yiannopoulos of being someone who benefited from Charlie Kirk's assassination.
+> Secondly, Tim (Tim Pool) Pool (Tim Pool) doesn't even have the intellect to understand that we put him in the thumbnail because he accused me in a full episode with Milo (Milo Yiannopoulos) Yiannopoulos (Milo Yiannopoulos), which we showed and contextualized of being someone who benefited from Charlie Kirk's assassination.
 
 ## Verification
 

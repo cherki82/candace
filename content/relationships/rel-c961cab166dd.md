@@ -19,7 +19,7 @@ object: "person-rob-mccoy"
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 
-- [00:15:08](/episodes/ep-YFmRH8p5lt0#t-00-15-08): _He says, 'I was his pastor.'_
+- [00:15:13](/episodes/ep-YFmRH8p5lt0#t-00-15-13): _He says, "I was his pastor."_
 
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 

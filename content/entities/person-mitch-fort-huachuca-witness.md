@@ -19,7 +19,7 @@ _Type: People_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -295,16 +295,24 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mitch (2)</strong></summary>
+<summary><strong class="section-title">Statements about Mitch (5)</strong></summary>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5)</summary>
+
+- [00:32:38](/episodes/ep-w1oqQbR_bYs.md#t-00-32-19) (Claim) **Candace Owens**: ["Owens said she had verified that Mitch was where he claimed to be, tha..."](/statements/statement-614098d3d935.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:33:48](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Candace Owens**: ["Owens said paperwork she reviewed showed that Mitch had lawsuits and w..."](/statements/statement-4ba55ebd24e4.md)
 
 - [00:34:49](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25) (Claim) **Candace Owens**: ["Candace Owens verified all aspects of witness Mitch's story including ..."](/statements/statement-83ee7fdd0e12.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Witness Mitch identified Cabot Phillips as the person he saw at Fort H..."](/statements/statement-113b092b6b74.md)
   - Also about: [Cabot Phillips](/entities/person-cabot-phillips.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Mitch tentatively identified Cabot Phillips from a photo, but Owens ca..."](/statements/statement-b16f405410db.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Cabot Phillips](/entities/person-cabot-phillips.md)
 
 </details>
 

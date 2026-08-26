@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:04:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(267);return false;">Play</a>
 
-> This is April 13th, 2018. This is what I said to him just so you can kind of get the vibe of what was going on. I said, Yo, Kanye West writing a philosophy book called 'Break the Simulation.' We need him, Charlie.
+> This is April 13th, 2018. This is what I said to him just so you can kind of get the vibe of what was going on. I said, "Yo, Kanye West writing a philosophy book called 'Break the Simulation.' We need him, Charlie.
 
 ## Verification
 

@@ -28,7 +28,7 @@ type: "promise"
 **Timestamp:** [00:05:16](/episodes/ep-ja26iltROkM.md#t-00-04-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(316);return false;">Play</a>
 
-> I am now currently working on a minute-by-minute timeline, which I will have for you guys later this week, of what exactly happened in the seconds and minutes following Charlie getting shot
+> In fact, I'm now currently working on a minute-by-minute timeline, which I will have for you guys later this week, of what exactly happened in the seconds and minutes following Charlie (Charlie Kirk) getting shot.
 
 ## Verification
 

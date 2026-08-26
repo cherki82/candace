@@ -1,14 +1,14 @@
 ---
 id: "LKR94FQ5p3o"
 title: "Coming soon..."
-description: "Coming soon... - 8 entities, 2 events, 0 claims"
+description: "Coming soon... - 8 entities, 2 events, 4 factual claims"
 published: "2026-02-23"
 youtube_url: "https://www.youtube.com/watch?v=LKR94FQ5p3o"
 ---
 
 **Published:** 2026-02-23 | [Watch on YouTube](https://www.youtube.com/watch?v=LKR94FQ5p3o)
 
-**Stats:** 8 entities | 2 events | 0 claims
+**Stats:** 8 entities | 2 events | 4 factual claims
 
 ---
 

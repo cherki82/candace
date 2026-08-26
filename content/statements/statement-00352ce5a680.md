@@ -31,7 +31,7 @@ type: "citation"
 **Timestamp:** [00:34:46](/episodes/ep-sreYYcID-QY.md#t-00-34-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2086);return false;">Play</a>
 
-> One of my greatest joys as a Christian, he said, is advocating for Israel and forming alliances with Jews to protect Judeo-Christian civilization.
+> “One of my greatest joys as a Christian,” he said, “is advocating for Israel and forming alliances with Jews to protect Judeo-Christian civilization.”
 
 ## Verification
 

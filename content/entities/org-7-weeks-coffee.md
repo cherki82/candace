@@ -9,7 +9,7 @@ _Type: Organizations_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-7-weeks-coffee-t-01-01-34">2025-09-17 · 01:01:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-39-23">2025-10-02 · 00:39:41</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-39-23">2025-10-02 · 00:39:35</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -43,7 +43,7 @@ _Type: Organizations_
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
-**[00:39:41](/episodes/ep-t1YtLS1n8Vs.md#t-00-39-23)**
+**[00:39:35](/episodes/ep-t1YtLS1n8Vs.md#t-00-39-23)**
 > "First, want to throw it to Seven Weeks Coffee. You guys know I love them. It's America's pro-life coffee company."
 
 </details>

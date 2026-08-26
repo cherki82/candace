@@ -1,14 +1,14 @@
 ---
 id: "ZAuuSq_j2_w"
 title: "Shocking Revelation About The Egyptian Planes... | Candace Ep 274"
-description: "Shocking Revelation About The Egyptian Planes... | Candace Ep 274 - 90 entities, 11 events, 0 claims"
+description: "Shocking Revelation About The Egyptian Planes... | Candace Ep 274 - 90 entities, 11 events, 49 factual claims"
 published: "2025-12-05"
 youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 ---
 
 **Published:** 2025-12-05 | [Watch on YouTube](https://www.youtube.com/watch?v=ZAuuSq_j2_w)
 
-**Stats:** 90 entities | 11 events | 0 claims
+**Stats:** 90 entities | 11 events | 49 factual claims
 
 ---
 
@@ -255,14 +255,21 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 </details>
 
 <details>
-<summary><strong>Statements (22)</strong></summary>
+<summary><strong>Statements (62)</strong></summary>
 
+- [00:00:04](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Candace Owens said Blake Neff posted the debate-announcement tweets around midni..."](/statements/statement-fb1b7e74daa0.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:00:14](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Turning Point USA issued a debate confirmation and ultimatum at midnight with a ..."](/statements/statement-10acdc02b44e.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:00:47](#t-00-00-43) [○] (Accusation) **Candace Owens**: ["Egyptian military planes fly around the skies in the middle of Provo when Charli..."](/statements/statement-42c709be1b29.md)
+- [00:01:54](#t-00-01-28) [○] (Claim) **Candace Owens**: ["Turning Point USA refused to allow Candace Owens to participate virtually in the..."](/statements/statement-9209d1155ef3.md)
+  - About: [Phoenix](/entities/gpe-phoenix.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:02:46](#t-00-02-41) [○] (Claim) **Cam Higby**: ["Does the DoD have any evidence at all of a French military plot to assassinate C..."](/statements/statement-a333ab862f94.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md)
+- [00:03:22](#t-00-03-07) [○] (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th, 2024 aboard Egyptian military plane SUB..."](/statements/statement-9a21f286b0b6.md)
+  - About: [Provo](/entities/gpe-provo.md), [Walid Mahmood](/entities/person-walid-mahmood.md)
 - [00:03:33](#t-00-03-07) [○] (Claim) **Candace Owens**: ["Cam Higby is on the payroll of Turning Point USA, beginning in August of this ye..."](/statements/statement-cc415555fb69.md)
-  - About: [Cam Higby](/entities/person-cam-higby.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Cam Higby](/entities/person-cam-higby.md)
 - [00:04:50](#t-00-04-36) [○] (Claim) **Candace Owens**: ["Blake Neff announced via tweet around midnight that a livestream would occur at ..."](/statements/statement-0d205acc4067.md)
   - About: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md)
 - [00:06:56](#t-00-06-44) [○] (Claim) **Candace Owens**: ["Candace Owens offered to appear virtually at any time for the Turning Point deba..."](/statements/statement-ef830dfcaaca.md)
@@ -271,35 +278,75 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:10:47](#t-00-10-11) [○] (Accusation) **Candace Owens**: ["Turning Point USA is engaged in a cover-up"](/statements/statement-59a249d94634.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:10:47](#t-00-10-11) [○] (Opinion) **Candace Owens**: ["Turning Point is engaged in a cover up."](/statements/statement-0fed648850ad.md)
+- [00:13:44](#t-00-13-44) [○] (Claim) **Candace Owens**: ["The Egyptian plane that flew from Provo to Delaware on the morning of Charlie Ki..."](/statements/statement-433bf618ec0f.md)
+  - About: [Provo](/entities/gpe-provo.md), [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:13:56](#t-00-13-44) [○] (Claim) **Candace Owens**: ["SUBND was the one that was transponding on the ground at Duncan Aviation on the ..."](/statements/statement-fc49bf88c141.md)
+- [00:14:06](#t-00-13-44) [○] (Claim) **Candace Owens**: ["yellow plane carried on to Delaware—Wilmington, Delaware—that morning."](/statements/statement-963643639dd7.md)
+- [00:14:06](#t-00-13-44) [○] (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that flew from Pr..."](/statements/statement-4e84712d393b.md)
+  - About: [Provo](/entities/gpe-provo.md), [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:14:14](#t-00-13-44) [○] (Claim) **Candace Owens**: ["The yellow Egyptian plane flight from Provo to Delaware on September 10th had on..."](/statements/statement-5dbb401e599c.md)
   - About: [SU-BTT](/entities/vehicle-su-btt.md)
+- [00:14:14](#t-00-13-44) [○] (Claim) **Candace Owens**: ["flight from Provo to Delaware on the yellow plane had only four people on board,..."](/statements/statement-3f85d54b9561.md)
+- [00:14:20](#t-00-13-44) [○] (Claim) **Candace Owens**: ["One of which was a foreign dignitary."](/statements/statement-fe55da688db5.md)
 - [00:14:42](#t-00-14-25) [○] (Claim) **Candace Owens**: ["One of the four passengers on the yellow plane to Delaware was using the name Wa..."](/statements/statement-e8ce61355fdf.md)
   - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTT](/entities/vehicle-su-btt.md)
+- [00:14:42](#t-00-14-25) [○] (Claim) **Candace Owens**: ["one of those individuals was using the name Walid Mahmood."](/statements/statement-394e3db6f710.md)
+- [00:14:47](#t-00-14-25) [○] (Claim) **Candace Owens**: ["Of the four people that flew to Delaware, someone flew using the name Walid Mahm..."](/statements/statement-3a3287c3ee53.md)
+- [00:15:07](#t-00-14-25) [○] (Claim) **Candace Owens**: ["Candace Owens said a person using the name Walid Mahmood had flown to Provo on M..."](/statements/statement-d2b7feb9addc.md)
 - [00:15:12](#t-00-15-09) [○] (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th of this year aboard another Egyptian mil..."](/statements/statement-c65701d7dc38.md)
   - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [SU-BTU](/entities/vehicle-su-btu.md)
+- [00:15:12](#t-00-15-09) [○] (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th of this year."](/statements/statement-f44cb76ab5bf.md)
+- [00:15:18](#t-00-15-09) [○] (Claim) **Candace Owens**: ["there is no transponder data which reflects that trip."](/statements/statement-d03e89f4e772.md)
+- [00:16:04](#t-00-15-51) [○] (Claim) **Candace Owens**: ["May 27th, SUBTU flies into Provo with Walid Mahmood aboard."](/statements/statement-8c5ecd5db288.md)
+- [00:16:10](#t-00-15-51) [○] (Claim) **Candace Owens**: ["It departs on June 2nd and it is not transponding."](/statements/statement-3c371636511d.md)
 - [00:16:13](#t-00-15-51) [○] (Claim) **Candace Owens**: ["The Egyptian plane SUBTU departed on June 2nd without transponding, so there is ..."](/statements/statement-7ca87b7af6a8.md)
   - About: [SU-BTU](/entities/vehicle-su-btu.md), [FlightRadar](/entities/org-flightradar.md)
+- [00:16:27](#t-00-15-51) [○] (Claim) **Candace Owens**: ["the purple plane, SUBTU ... was once upon a time flown with the president of Egy..."](/statements/statement-854b033ff1aa.md)
 - [00:16:49](#t-00-16-27) [○] (Citation) **Candace Owens**: ["The Egyptian government website confirms that Egyptian President el-Sisi flew on..."](/statements/statement-3bb428c91aab.md)
   - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [SU-BTU](/entities/vehicle-su-btu.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
-- [00:17:47](#t-00-17-12) [○] (Claim) **Candace Owens**: ["President al-Sisi can be ruled out as being aboard the jet on September 10th bec..."](/statements/statement-7eb3c0a74fc0.md)
+- [00:16:52](#t-00-16-27) [◐] (Claim) **Candace Owens**: ["Egyptian President el-Sisi flew aboard aircraft SUBTU on April 3rd, 2023, in Riy..."](/statements/statement-aa88b9c5ccfc.md)
+  - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md)
+- [00:17:47](#t-00-17-47) [✓] (Claim) **Candace Owens**: ["President Abdel Fattah el-Sisi could be ruled out as a passenger on the Septembe..."](/statements/statement-7eb3c0a74fc0.md)
   - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [Sara Zaafarani Zenzari](/entities/person-sarah-zafrani.md)
+- [00:18:01](#t-00-17-47) [○] (Claim) **Candace Owens**: ["rule him out as having been the individual that was in Provo back in May because..."](/statements/statement-d6c2424212b2.md)
 - [00:18:13](#t-00-17-47) [○] (Claim) **Candace Owens**: ["Al-Sisi can also be ruled out as being in Provo in May because he was photograph..."](/statements/statement-c071b6862b40.md)
   - About: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)
+- [00:18:21](#t-00-17-47) [○] (Opinion) **Candace Owens**: ["Walid Mahmoud is therefore not the president of Egypt, but he is almost certainl..."](/statements/statement-e5baa8862ec8.md)
 - [00:18:38](#t-00-18-21) [○] (Opinion) **Candace Owens**: ["Walid Mahmood is not the president of Egypt, but is almost certainly well-acquai..."](/statements/statement-0c0772a6830c.md)
   - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)
+- [00:19:50](#t-00-19-50) [✓] (Claim) **Candace Owens**: ["Charlie Kirk was fatally shot while answering questions from an audience member ..."](/statements/statement-51980702b906.md)
 - [00:20:28](#t-00-19-50) [○] (Prediction) **Candace Owens**: ["I think we are getting close to uncovering what happened"](/statements/statement-a7b1e1721e6b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:23:06](#t-00-22-37) [○] (Promise) **Candace Owens**: ["Candace Owens offered to appear virtually for a Turning Point USA discussion at ..."](/statements/statement-164c9f15e74b.md)
+- [00:23:31](#t-00-23-09) [○] (Opinion) **Candace Owens**: ["We do not believe the official narrative"](/statements/statement-410bdafcaf88.md)
+- [00:24:15](#t-00-23-48) [○] (Claim) **Candace Owens**: ["the country of France tried to assassinate me"](/statements/statement-48ee987708ce.md)
 - [00:24:47](#t-00-24-28) [○] (Claim) **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pentagon has..."](/statements/statement-762a0183a31f.md)
   - About: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
+- [00:24:47](#t-00-24-28) [○] (Claim) **Candace Owens**: ["neither the White House or the Élysée Palace or even the United States Pentagon ..."](/statements/statement-473757f0ef9f.md)
 - [00:28:05](#t-00-27-46) [○] (Claim) **Frank Turek**: ["The night before Charlie Kirk was murdered, Charlie told me 'Blake is my secret ..."](/statements/statement-2200d966c588.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake Neff](/entities/person-blake-neff.md), [Frank Turek](/entities/person-frank-turek.md)
 - [00:28:32](#t-00-28-05) [○] (Opinion) **Frank Turek**: ["To suggest that anyone within TPUSA was complicit in Charlie Kirk's murder is to..."](/statements/statement-19b1c7431d4a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:29:35](#t-00-29-14) [○] (Claim) **Candace Owens**: ["except for when he texted you guys and said that he thought they were going to k..."](/statements/statement-27606d50d8cd.md)
+- [00:30:49](#t-00-30-34) [○] (Claim) **Candace Owens**: ["it's like north of 95% of murders that are committed by somebody else they know"](/statements/statement-95e817a1860f.md)
+- [00:32:12](#t-00-32-04) [✓] (Claim) **Tim Pool**: ["Tim Pool accused Candace Owens of repeatedly insinuating that Turning Point USA ..."](/statements/statement-727139744674.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tim Pool](/entities/person-tim-pool.md)
 - [00:32:22](#t-00-32-04) [○] (Accusation) **Tim Pool**: ["Candace Owens continually crosses the line every day, insinuating that Turning P..."](/statements/statement-b99b976bcd6c.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:33:59](#t-00-33-44) [○] (Claim) **Candace Owens**: ["This inconvenience that people who actually cared about Charlie and saw him as a..."](/statements/statement-a63530f586b9.md)
+- [00:34:33](#t-00-34-25) [○] (Claim) **Candace Owens**: ["Donald Trump, who's the president of the United States, and looked us in the fac..."](/statements/statement-5ebddbafaf0d.md)
+- [00:39:15](#t-00-38-42) [○] (Claim) **Candace Owens**: ["They are working with the feds to kind of bury the Charlie Kirk story."](/statements/statement-f4868afd87ea.md)
 - [00:39:19](#t-00-38-42) [○] (Accusation) **Candace Owens**: ["Turning Point USA is working with the feds to bury the Charlie Kirk story"](/statements/statement-a146d1345332.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:39:23](#t-00-39-23) [◐] (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk intentionally wanted Turning Point USA to remain..."](/statements/statement-c390c9024ada.md)
 - [00:40:18](#t-00-40-08) [○] (Claim) **Candace Owens**: ["Tyler Bowyer sent an email asking for Candace's lawyer's email, even though Turn..."](/statements/statement-e27fa1f73548.md)
   - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:42:51](#t-00-42-17) [○] (Claim) **Candace Owens**: ["I think you thought BTU was BTT, but that's actually okay, because now we can co..."](/statements/statement-a789dc939803.md)
+- [00:43:10](#t-00-42-58) [○] (Claim) **Candace Owens**: ["The assassination attempt was real."](/statements/statement-c54dbb7a593b.md)
+- [00:48:30](#t-00-47-54) [✓] (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk authentically began questioning Israel after the..."](/statements/statement-a6323aae255c.md)
+- [00:48:33](#t-00-47-54) [○] (Claim) **Candace Owens**: ["He authentically loved Israel."](/statements/statement-67b63176b94f.md)
+- [00:48:42](#t-00-48-37) [○] (Claim) **Candace Owens**: ["He was authentically angry and recognizing how much control was around him."](/statements/statement-d94e86a74d38.md)
+- [00:48:45](#t-00-48-37) [○] (Claim) **Candace Owens**: ["The infiltration happened."](/statements/statement-296c2b0abfe7.md)
 
 </details>

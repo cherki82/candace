@@ -11,7 +11,11 @@ object: "org-sorensen-center"
 
 ## [Utah Valley University](/entities/org-utah-valley-university) includes [Sorensen Center](/entities/org-sorensen-center)
 
-_No evidence recorded for this relationship._
+### Evidence (1 mentions)
+
+**[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
+
+- [00:25:18](/episodes/ep-581dILVcEE4#t-00-25-18): _"There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center."_
 
 ### Related
 

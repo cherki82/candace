@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:19](/episodes/ep-aDlhjfW6hz8.md#t-00-07-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(439);return false;">Play</a>
 
-> And he said, Look, as you can see in the footage, I was sitting right to the left of Charlie when Charlie got shot. And I instantly knew that he was not going to be OK. I instantly knew that he was dead.
+> And he said, "Look, as you can see in the footage, I was sitting right to the left of Charlie when Charlie got shot." And I instantly knew that he was not going to be OK. I instantly knew that he was dead.
 
 ## Verification
 

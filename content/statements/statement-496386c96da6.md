@@ -4,9 +4,10 @@ description: "\"Candace Owens said Tyler Robinson's family told her that he was 
 statement_id: "statement-496386c96da6"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Owens’s report of what Robinson’s family privately told her cannot be independently confirmed. Current hearing reporting says prosecutors presented surveillance they identify as Robinson on the UVU campus, while the defense disputes parts of the identification. The public record therefore conflicts with, but does not conclusively disprove, the private family account.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [AP: Takeaways from a key hearing in the Charlie Kirk murder case](https://apnews.com/article/charlie-kirk-shot-trial-takeaways-21f979ed659cbe9c216481dd9f41c56e)
+
+*Verified: 2026-08-26T08:00:37.566459*
 
 ---
 

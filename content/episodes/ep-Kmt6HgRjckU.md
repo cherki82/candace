@@ -1,14 +1,14 @@
 ---
 id: "Kmt6HgRjckU"
 title: "Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276"
-description: "Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 - 85 entities, 16 events, 0 claims"
+description: "Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 - 86 entities, 16 events, 50 factual claims"
 published: "2025-12-08"
 youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
 ---
 
 **Published:** 2025-12-08 | [Watch on YouTube](https://www.youtube.com/watch?v=Kmt6HgRjckU)
 
-**Stats:** 85 entities | 16 events | 0 claims
+**Stats:** 86 entities | 16 events | 50 factual claims
 
 ---
 
@@ -230,7 +230,9 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (85)</strong></summary>
+<summary><strong>Entities Mentioned (86)</strong></summary>
+
+**Anonymous Sources:** [Jesse (Ballistics Expert) (Ep Kmt6HgRjckU)](/entities/anon-src-Kmt6HgRjckU-legacy-00947789.md)
 
 **Concepts:** [Christians](/entities/concept-christians.md), [Doge](/entities/concept-doge.md), [MKUltra](/entities/concept-mkultra.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
@@ -249,7 +251,7 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
 </details>
 
 <details>
-<summary><strong>Statements (42)</strong></summary>
+<summary><strong>Statements (64)</strong></summary>
 
 - [00:00:29](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Kash Patel has been directly asked about French involvement in Charlie Kirk's as..."](/statements/statement-f29fac89127d.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -257,10 +259,14 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [Mossad](/entities/org-mossad.md), [JFK assassination](/entities/event-jfk-assassination.md)
 - [00:01:46](#t-00-01-20) [○] (Claim) **Charlie Kirk**: ["In the JFK files, Mossad is mentioned"](/statements/statement-bd6205f93016.md)
   - About: [Mossad](/entities/org-mossad.md), [JFK assassination](/entities/event-jfk-assassination.md)
+- [00:01:46](#t-00-01-20) [✓] (Claim) **Charlie Kirk**: ["Charlie Kirk said in May 2025 that Mossad is mentioned in the JFK files, though ..."](/statements/statement-e0e5542c1103.md)
+  - About: [Mossad](/entities/org-mossad.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
 - [00:02:07](#t-00-01-46) [○] (Accusation) **Charlie Kirk**: ["Lyndon Baines Johnson and parts of our own government and the Cubans wanted JFK ..."](/statements/statement-e4d824ed3726.md)
   - About: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [JFK assassination](/entities/event-jfk-assassination.md)
 - [00:02:07](#t-00-01-46) [○] (Accusation) **Charlie Kirk**: ["Parts of our own government and the Cubans wanted JFK dead"](/statements/statement-37435b3d356d.md)
   - About: [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md)
+- [00:02:12](#t-00-01-46) [✓] (Claim) **Charlie Kirk**: ["Charlie Kirk stated that Lyndon Baines Johnson and parts of the US government wa..."](/statements/statement-1fe9963913be.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
 - [00:02:18](#t-00-01-46) [○] (Claim) **Charlie Kirk**: ["There were 15 or 20 inexcusable things that happened on the day of JFK's assassi..."](/statements/statement-17c4af89e1a6.md)
   - About: [JFK assassination](/entities/event-jfk-assassination.md), [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
 - [00:02:37](#t-00-02-30) [○] (Claim) **Charlie Kirk**: ["We have to first acknowledge that more than one person killed JFK. Once we ackno..."](/statements/statement-13f0c447c2b7.md)
@@ -279,10 +285,14 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:06:50](#t-00-06-27) [○] (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House nor our intel agencies nor the Élysée P..."](/statements/statement-1c3fbbbdbc0f.md)
   - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
+- [00:06:55](#t-00-06-27) [○] (Opinion) **Candace Owens**: ["Candace Owens believes the Charlie Kirk assassination was a deep state operation..."](/statements/statement-0a6bde54cccf.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:58](#t-00-06-27) [○] (Claim) **Candace Owens**: ["Neither the Pentagon nor the White House or our intel agencies or the Élysée Pal..."](/statements/statement-532c5d81ba0d.md)
   - About: [United States Pentagon](/entities/org-united-states-pentagon.md), [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md)
 - [00:07:43](#t-00-07-40) [○] (Claim) **Megyn Kelly**: ["Candace Owens received a credible death threat from the French, and the French m..."](/statements/statement-0629fdc132de.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [France](/entities/gpe-france.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:08:04](#t-00-08-04) [✓] (Claim) **Kash Patel**: ["Kash Patel said the FBI would investigate any reported threat and, when asked ab..."](/statements/statement-67ca42bd16ba.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
 - [00:08:36](#t-00-08-35) [○] (Claim) **Candace Owens**: ["There has been no communication from the FBI regarding the threat"](/statements/statement-d003607446f0.md)
   - About: [FBI](/entities/org-fbi.md)
 - [00:08:47](#t-00-08-35) [○] (Promise) **Kash Patel**: ["Any American that receives a death threat from overseas or anywhere in America i..."](/statements/statement-6e6f93dc9fb1.md)
@@ -291,6 +301,8 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [France](/entities/gpe-france.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:09:15](#t-00-08-35) [○] (Accusation) **Candace Owens**: ["I have proof that the government of France was involved in Charlie Kirk's assass..."](/statements/statement-e726f9ee561e.md)
   - About: [France](/entities/gpe-france.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:09:27](#t-00-09-15) [○] (Claim) **Candace Owens**: ["The FBI has not reached out to Candace Owens about her death threat claim from F..."](/statements/statement-e358f2b8ef64.md)
+  - About: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:09:57](#t-00-09-15) [○] (Accusation) **Candace Owens**: ["Kash Patel knows that I am telling the truth about the French involvement in Cha..."](/statements/statement-183d0d63d3e0.md)
   - About: [Kash Patel](/entities/person-kash-patel.md)
 - [00:12:04](#t-00-11-24) [○] (Claim) **Candace Owens**: ["Pierre Falcone lives in Scottsdale, Arizona and is a billionaire"](/statements/statement-8ee090060b24.md)
@@ -303,10 +315,14 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md)
 - [00:12:36](#t-00-12-04) [○] (Claim) **Candace Owens**: ["Angola Gate involved Africa, Angola, Israel, France, the United States, and arms..."](/statements/statement-38658967ebf0.md)
   - About: [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md), [Israel](/entities/gpe-israel.md)
+- [00:12:53](#t-00-12-44) [◐] (Claim) **Candace Owens**: ["Pierre Falcone was involved in Angola Gate scandal involving arms trafficking to..."](/statements/statement-891f1eea4e3e.md)
+  - About: [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
 - [00:13:11](#t-00-12-44) [○] (Opinion) **Candace Owens**: ["No civil war ever was organic. Not even our civil war was organic. It's a bunch ..."](/statements/statement-844b601e127d.md)
   - About: [Freemasons](/entities/org-freemasons.md)
 - [00:13:46](#t-00-13-24) [○] (Claim) **Candace Owens**: ["During the French elections dating back to 1999, it was discovered that the Fren..."](/statements/statement-60d7c6a114d4.md)
   - About: [France](/entities/gpe-france.md), [Angola](/entities/gpe-angola.md), [Branko International](/entities/org-branko-international.md)
+- [00:13:57](#t-00-13-24) [✓] (Claim) **Candace Owens**: ["Arkady Gaydamak and Pierre Falcone partnered through Brenco International in arm..."](/statements/statement-95e5288badc8.md)
+  - About: [Branko International](/entities/org-branko-international.md), [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
 - [00:14:10](#t-00-14-05) [○] (Claim) **Candace Owens**: ["Branko International is run by Arkady Gaidemak. He is Israeli, initially born in..."](/statements/statement-6f2c0ea955bb.md)
   - About: [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Branko International](/entities/org-branko-international.md)
 - [00:14:48](#t-00-14-05) [○] (Claim) **Candace Owens**: ["Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of cor..."](/statements/statement-5dc926f61920.md)
@@ -315,23 +331,53 @@ youtube_url: "https://www.youtube.com/watch?v=Kmt6HgRjckU"
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md)
 - [00:15:25](#t-00-14-48) [○] (Claim) **Candace Owens**: ["Francois Mitterrand, the French president's son, was implicated in the Angola Ga..."](/statements/statement-4feac2591c94.md)
   - About: [François Mitterrand](/entities/person-francois-mitterrand.md), [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Angolagate scandal](/entities/event-angola-gate.md)
+- [00:15:50](#t-00-15-30) [✗] (Claim) **Candace Owens**: ["Owens claimed that 41 politicians were involved in the Angolagate scandal"](/statements/statement-86395511590d.md)
+  - About: [Angolagate scandal](/entities/event-angola-gate.md)
 - [00:15:53](#t-00-15-30) [○] (Claim) **Candace Owens**: ["Human rights groups demanded that Congress probe the Bush administration's invol..."](/statements/statement-aceca2e34399.md)
   - About: [George H.W. Bush](/entities/person-george-hw-bush.md), [Angolagate scandal](/entities/event-angola-gate.md)
+- [00:16:49](#t-00-16-13) [✓] (Claim) **Candace Owens**: ["Jean-Christophe Mitterrand, son of French President François Mitterrand, was imp..."](/statements/statement-72b6f48a1049.md)
+  - About: [Angolagate scandal](/entities/event-angola-gate.md), [François Mitterrand](/entities/person-francois-mitterrand.md), [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)
 - [00:16:50](#t-00-16-13) [○] (Citation) **Candace Owens**: ["According to a Global Witness report, Arkady Gaidemak funneled billions of dolla..."](/statements/statement-9762153ccabf.md)
   - About: [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Angola](/entities/gpe-angola.md)
 - [00:17:43](#t-00-17-32) [○] (Claim) **Candace Owens**: ["Pierre Falcone disappeared from France after winning his appeal and reappeared i..."](/statements/statement-369784a0dc5c.md)
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+- [00:17:43](#t-00-17-32) [◐] (Claim) **Candace Owens**: ["Owens said Pierre Falcone reappeared in Scottsdale after leaving France and that..."](/statements/statement-c0f9aad35580.md)
+  - About: [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
+- [00:20:20](#t-00-20-18) [○] (Claim) **Candace Owens**: ["Charlie Kirk messaged a donor and someone at Turning Point USA the night before ..."](/statements/statement-b33560a73cf5.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:20:31](#t-00-20-18) [○] (Claim) **Candace Owens**: ["Owens said she was told that Charlie Kirk allegedly messaged his security guard ..."](/statements/statement-fade9d231aff.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
 - [00:20:32](#t-00-20-18) [○] (Claim) **Candace Owens**: ["Charlie Kirk messaged Dan Flood the night before he died and explicitly said 'th..."](/statements/statement-b5378b994635.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:24:40](#t-00-24-33) [✓] (Claim) **Candace Owens**: ["Owens said Tim Pool called her viewers stupid for rejecting the federal account ..."](/statements/statement-83419d9680c2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tim Pool](/entities/person-tim-pool.md)
+- [00:26:01](#t-00-25-55) [✓] (Claim) **Steve Bannon**: ["Steve Bannon said Jeffrey Epstein was the key that picks the lock to understandi..."](/statements/statement-184fc151832a.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Steve Bannon](/entities/person-steve-bannon.md)
 - [00:26:03](#t-00-26-01) [○] (Claim) **Milo Yiannopoulos**: ["Steve Bannon consulted for Jeffrey Epstein"](/statements/statement-4e193801261d.md)
   - About: [Steve Bannon](/entities/person-steve-bannon.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 - [00:27:28](#t-00-26-53) [○] (Opinion) **Milo Yiannopoulos**: ["The moment Trump said there are no Epstein files and told people to stop asking,..."](/statements/statement-ff3443878be5.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+- [00:27:41](#t-00-27-36) [✓] (Claim) **Milo Yiannopoulos**: ["Milo Yiannopoulos said the moment Trumpism died was when Trump dismissed questio..."](/statements/statement-ee6c5c698b51.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)
+- [00:29:56](#t-00-29-14) [○] (Claim) **Candace Owens**: ["Hodge Twins said Republicans will lose the midterms because no deep state crimin..."](/statements/statement-69f2e7c8628e.md)
+  - About: [Hodge Twins](/entities/person-hodge-twins.md)
+- [00:33:10](#t-00-32-25) [✓] (Claim) **Jesse Keg**: ["Jesse reported that the .30-06 round penetrated the water jugs in his ballistic ..."](/statements/statement-abed28a75652.md)
+  - About: [One Shot TV](/entities/org-one-shot-tv.md), [Jesse Keg](/entities/person-jesse-keg.md)
 - [00:35:11](#t-00-35-04) [○] (Accusation) **Candace Owens**: ["The deep state is involved in Charlie Kirk's assassination and multiple states a..."](/statements/statement-c8cb29812aa4.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:39:48](#t-00-39-23) [○] (Claim) **Candace Owens**: ["Qatar said they have a relationship with Hamas because the U.S. government asked..."](/statements/statement-b9887fea08a7.md)
   - About: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [United States Capitol Police](/entities/org-united-states-capitol-police.md)
+- [00:39:49](#t-00-39-23) [✓] (Claim) **Mohammed bin Abdulrahman Al Thani**: ["Mohammed bin Abdulrahman Al Thani told Tucker Carlson that Qatar's relationship ..."](/statements/statement-7e8f3a0ab35e.md)
+  - About: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+- [00:40:41](#t-00-40-07) [✓] (Claim) **Candace Owens**: ["A chat viewer wrote that Erika Kirk would appear with Bari Weiss on December 13,..."](/statements/statement-6d276f41ecf7.md)
+  - About: [Bari Weiss](/entities/person-bari-weiss.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:40:45](#t-00-40-07) [✓] (Claim) **Candace Owens**: ["Turning Point USA announced a livestream responding to Owens's claims for Decemb..."](/statements/statement-96fc390f7ed0.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:40:45](#t-00-40-07) [✓] (Claim) **Candace Owens**: ["TPUSA AmericaFest scheduled for December 18th 2025"](/statements/statement-ef74ad894086.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:41:40](#t-00-41-32) [○] (Claim) **Candace Owens**: ["A life insurance policy was taken out on Charlie Kirk"](/statements/statement-8f9f7ee2947f.md)
+  - About: [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:41:46](#t-00-41-32) [○] (Claim) **Candace Owens**: ["Charlie Kirk has not yet been buried according to reports going viral"](/statements/statement-b5fcb09b0f7b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:42:07](#t-00-41-32) [○] (Claim) **Candace Owens**: ["Charlie Kirk has not yet been buried"](/statements/statement-25c84f37ce1b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)

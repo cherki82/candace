@@ -1,14 +1,14 @@
 ---
 id: "A39g5oqB_eM"
 title: "EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296"
-description: "EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 - 91 entities, 14 events, 0 claims"
+description: "EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 - 91 entities, 14 events, 28 factual claims"
 published: "2026-01-27"
 youtube_url: "https://www.youtube.com/watch?v=A39g5oqB_eM"
 ---
 
 **Published:** 2026-01-27 | [Watch on YouTube](https://www.youtube.com/watch?v=A39g5oqB_eM)
 
-**Stats:** 91 entities | 14 events | 0 claims
+**Stats:** 91 entities | 14 events | 28 factual claims
 
 ---
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:33:57](/episodes/ep-iHav0PPzUz8.md#t-00-33-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2037);return false;">Play</a>
 
-> Stop Antisemitism actually tweeted this: 'CNN platforming Anna Kasparian. Turning Point USA refusing to cut Tucker (Tucker Carlson). This is how the Holocaust started. Jew hatred normalized.'
+> Anyways, Stop Antisemitism actually tweeted this: "CNN platforming Anna Kasparian. Turning Point USA refusing to cut Tucker (Tucker Carlson). This is how the Holocaust started. Jew hatred normalized."
 
 ## Verification
 

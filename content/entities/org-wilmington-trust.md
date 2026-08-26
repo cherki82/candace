@@ -48,10 +48,10 @@ _Type: Organizations_
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:11:53](/episodes/ep-a-e7HC6SeK8.md#ent-org-wilmington-trust-t-00-11-53)**
-> "..., and we told you yesterday: we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware Avenue. We've got Brigitte's lawyers at 919 North Market Street. Also in that build..."
+> "We've got a couple of blocks here, and we told you yesterday: we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware"
 
 **[00:12:18](/episodes/ep-a-e7HC6SeK8.md#ent-org-wilmington-trust-t-00-11-53)**
-> "...at's Stacey Sheridan of Turning Point USA. We're going to talk about her in a second. We've got the Wilmington Trust actual location, which is at 1100 North Market. We told you about this crane—this red crane—at 1100..."
+> "We've got the Wilmington Trust actual location, which is at 1100 North Market."
 
 </details>
 

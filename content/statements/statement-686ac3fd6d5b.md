@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2555);return false;">Play</a>
 
-> When you end up in a world where—like—a couple of days before Charlie Kirk (Charlie Kirk) dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman
+> When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer ... is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shillman
 
 ## Verification
 

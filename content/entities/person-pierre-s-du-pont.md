@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -75,6 +75,19 @@ _Type: People_
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:28](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): “legislation was passed which would provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Pierre S. du Pont (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:27:29](/episodes/ep-a-e7HC6SeK8.md#t-00-27-29) (Claim) **Candace Owens**: ["A Turning Point USA source claims Justin Strife placed a phone call to..."](/statements/statement-c1f179233d39.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md)
 
 </details>
 

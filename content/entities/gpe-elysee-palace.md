@@ -77,7 +77,7 @@ Source: [History of presidential residences | Élysée](https://www.elysee.fr/en
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
-**[00:23:47](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-elysee-palace-t-00-24-28)**
+**[00:23:45](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-elysee-palace-t-00-24-28)**
 > "isn't it kind of strange that neither the White House nor the Élysée Palace—or even the United States Pentagon—has formally denied this quote-unquote crazy claim?"
 
 **[00:24:47](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-elysee-palace-t-00-24-28)**

@@ -1,6 +1,6 @@
 ---
 title: "Black Sea Rotational Force"
-description: "Black Sea Rotational Force (Organizations) - 15 mentions"
+description: "Black Sea Rotational Force (Organizations) - 17 mentions"
 id: "org-black-sea-rotational-force"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Marines end Romania deployment with ceremony, prepare for move to Bulga
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-black-sea-rotational-force-t-00-27-28">2026-03-03 · 00:27:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#t-00-19-07">2026-06-17 · 00:19:25</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-black-sea-rotational-force-t-00-25-22">2026-07-14 · 00:25:22</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
@@ -41,6 +41,7 @@ Source: [Marines end Romania deployment with ceremony, prepare for move to Bulga
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-black-sea-rotational-force-t-00-19-45" style="--pulse-height:29%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-black-sea-rotational-force-t-00-16-03" style="--pulse-height:14%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#t-00-19-07" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-black-sea-rotational-force-t-00-24-47" style="--pulse-height:29%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Marines end Romania deployment with ceremony, prepare for move to Bulga
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-black-sea-rotational-force-t-00-19-45) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-black-sea-rotational-force-t-00-16-03) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-19-07) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-black-sea-rotational-force-t-00-24-47) | 2 |
 
 </details>
 </section>
@@ -59,7 +61,18 @@ Source: [Marines end Romania deployment with ceremony, prepare for move to Bulga
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:24:47](/episodes/ep-X3VKJVJ7cN4.md#ent-org-black-sea-rotational-force-t-00-24-47)**
+> "...howed her around Romania, the black sea rotational force?"
+
+**[00:25:22](/episodes/ep-X3VKJVJ7cN4.md#ent-org-black-sea-rotational-force-t-00-25-22)**
+> "...ckly to show Erika around the Black Sea rotational force."
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>

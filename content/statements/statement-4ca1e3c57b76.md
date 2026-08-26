@@ -22,13 +22,23 @@ type: "factual_claim"
 
 - [Lance Twiggs](/entities/person-lance-twiggs.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [00:30:22](/episodes/ep-q7f8r-THr84.md#t-00-30-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1822);return false;">Play</a>
 
 > Again, allegedly, allegedly, allegedly, his parents kicked him out junior year of high school because he was problematic.
+
+### 2. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+
+**Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
+**Timestamp:** [00:30:35](/episodes/ep-q7f8r-THr84.md#t-00-30-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1835);return false;">Play</a>
+
+> Again, allegedly, allegedly, allegedly, his parents kicked him out junior year of high school because he was problematic
 
 ## Verification
 

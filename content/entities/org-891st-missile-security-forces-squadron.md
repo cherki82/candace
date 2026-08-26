@@ -17,7 +17,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -59,5 +59,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about 891st Missile Security Forces Squadron (1)</strong></summary>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:08:11](/episodes/ep-mKXdKV-OBog.md#t-00-07-51) (Claim) **Candace Owens**: ["Operation Valhalla Strike took place August 24th-29th, 2024, where the..."](/statements/statement-95e5b46aded2.md)
+  - Also about: [Minnesota](/entities/gpe-minnesota.md), [Minot Air Force Base](/entities/org-minot-air-force-base.md)
+
+</details>
 
 </details>

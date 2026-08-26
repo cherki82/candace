@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 101 mentions"
+description: "Tax Network USA (Organizations) - 108 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">2025-09-16 · 01:05:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-52">2026-06-26 · 00:49:58</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>101</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-tax-network-usa-t-00-45-30">2026-07-14 · 00:45:58</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <p>Highest activity: <a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24" style="--pulse-height:100%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 5 mentions" title="2025-09-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-23-33" style="--pulse-height:100%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 5 mentions" title="2025-09-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-10" style="--pulse-height:60%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-00-39" style="--pulse-height:60%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-23-20" style="--pulse-height:80%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
@@ -70,12 +71,14 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-tax-network-usa-t-00-35-05" style="--pulse-height:40%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-tax-network-usa-t-00-49-57" style="--pulse-height:20%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-08" style="--pulse-height:40%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-tax-network-usa-t-00-45-30" style="--pulse-height:40%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24) | 5 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-23-33) | 5 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-tax-network-usa-t-00-54-10) | 3 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-tax-network-usa-t-01-00-39) | 3 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-tax-network-usa-t-00-23-20) | 4 |
@@ -109,6 +112,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-tax-network-usa-t-00-35-05) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-tax-network-usa-t-00-49-57) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-08) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-tax-network-usa-t-00-45-30) | 2 |
 
 </details>
 </section>
@@ -116,7 +120,18 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (101)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:45:38](/episodes/ep-X3VKJVJ7cN4.md#ent-org-tax-network-usa-t-00-45-30)**
+> "Call Tax Network USA. They've been helping taxpayers nationwide for mo..."
+
+**[00:45:58](/episodes/ep-X3VKJVJ7cN4.md#ent-org-tax-network-usa-t-00-45-30)**
+> "So call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -566,6 +581,26 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 </details>
 
 <details>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (5 mentions)</summary>
+
+**[00:23:46](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-23-33)**
+> "Also reminding you guys about Tax Network USA because you might be someone that owes back taxes..."
+
+**[00:24:12](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-23-33)**
+> "Tax Network USA is a nationwide tax firm that has helped taxpayer..."
+
+**[00:24:25](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-24-17)**
+> "Visit tnusa.com/Candace, or you can call 1-800-958-1000 for a..."
+
+**[00:24:34](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-24-17)**
+> "...ne short call, the experts at Tax Network USA will guide you through some simple questions to d..."
+
+**[00:24:41](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-tax-network-usa-t-00-24-17)**
+> "Again, visit tnusa.com/Candace or call 1-800-958-1000."
+
+</details>
+
+<details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5 mentions)</summary>
 
 **[01:05:59](/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24)**
@@ -594,7 +629,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -602,6 +637,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:19:46](/episodes/ep--9MOUvgGyi4.md#t-01-19-18): “Stop what you're doing and call Tax Network USA. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:42:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-41-39): “Before the IRS starts sending more letters, garnishing wages, or freezing your bank account, call Tax Network USA.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:49:58](/episodes/ep-IqHsl7d2dos.md#t-00-49-52): “Call 866-686-1651 or visit TNUSA.com slash Candace. Again, that's TNUSA.com slash Candace.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:45:38](/episodes/ep-X3VKJVJ7cN4.md#t-00-45-30): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 
 </details>
 
@@ -611,7 +647,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -619,6 +655,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:19:46](/episodes/ep--9MOUvgGyi4.md#t-01-19-18): “Stop what you're doing and call Tax Network USA. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:42:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-41-39): “Before the IRS starts sending more letters, garnishing wages, or freezing your bank account, call Tax Network USA.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:49:58](/episodes/ep-IqHsl7d2dos.md#t-00-49-52): “Call 866-686-1651 or visit TNUSA.com slash Candace. Again, that's TNUSA.com slash Candace.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:45:38](/episodes/ep-X3VKJVJ7cN4.md#t-00-45-30): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 
 </details>
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:17:09](/episodes/ep-_dRaEO47-co.md#t-00-16-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1029);return false;">Play</a>
 
-> Charlie was right by my side when I started Blexit
+> Charlie (Charlie Kirk) was right by my side when I started Blexit, obviously.
 
 ## Verification
 

@@ -11,7 +11,7 @@ object: "person-tucker-carlson"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (3 mentions)
+### Evidence (2 mentions)
 
 **[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
 
@@ -20,10 +20,6 @@ object: "person-tucker-carlson"
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 
 - [00:41:07](/episodes/ep-h76ZN-xXC6c#t-00-41-07): _My friend Tucker Carlson started digging into the industry and what he found shocked both of us._
-
-**[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
-
-- [00:03:56](/episodes/ep-ozWJz2spBcI#t-00-03-56): _Why are you hearing it, though, from me and Tucker and Megyn Kelly?_
 
 ### Related
 

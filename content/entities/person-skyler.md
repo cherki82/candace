@@ -1,6 +1,6 @@
 ---
 title: "Skyler"
-description: "Skyler (People) - 12 mentions"
+description: "Skyler (People) - 13 mentions"
 id: "person-skyler"
 type: "PERSON"
 aliases:
@@ -13,9 +13,9 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-22-30">2025-09-22 · 00:22:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-16-58">2025-10-01 · 00:17:31</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-skyler-t-00-57-10">2025-11-13 · 00:57:24</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -28,6 +28,7 @@ _Type: People_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-22-30" style="--pulse-height:50%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 4 mentions" title="2025-09-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-07-42" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 8 mentions" title="2025-10-01 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-skyler-t-00-57-10" style="--pulse-height:12%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +36,7 @@ _Type: People_
 |---|---|---:|
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-22-30) | 4 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-skyler-t-00-07-42) | 8 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-skyler-t-00-57-10) | 1 |
 
 </details>
 </section>
@@ -42,7 +44,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:57:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-skyler-t-00-57-10)**
+> "...to ask me again tomorrow, but Skyler—put a note to ask me again tomorrow"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (8 mentions)</summary>

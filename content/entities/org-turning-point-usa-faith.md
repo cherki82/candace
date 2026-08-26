@@ -7,6 +7,7 @@ aliases:
   - "TPUSA Faith affiliated"
   - "TPUSA Faith"
   - "Turning Point Faith"
+  - "USA Faith"
 categories:
   - "Christian civic organization"
   - "Turning Point USA initiative"
@@ -14,7 +15,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** TPUSA Faith affiliated, TPUSA Faith, Turning Point Faith
+**Also known as:** TPUSA Faith affiliated, TPUSA Faith, Turning Point Faith, USA Faith
 
 **Categories:** Christian civic organization, Turning Point USA initiative
 
@@ -264,13 +265,13 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (8 mentions)</summary>
 
 **[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-13-01)**
-> "... names might sound familiar. Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that they were having. So who is Lance Wallnau (Lance Wallnau)? W..."
+> "Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that they were having."
 
 **[00:16:33](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-16-02)**
 > "Turning Point Faith—everywhere that I'm investigating, Turning Point ..."
 
 **[00:17:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-17-23)**
-> ".... So Lance (Lance Wallnau) fits the pattern well. And before I tell you how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek (Frank Turek) stands out because he flat-out acknowled..."
+> "And before I tell you how he is very connected to Turning Point USA Faith, I do want to also be clear that Frank Turek stands out because he flat-out acknowledged on one of his podcasts that NAR was a cult—actually darker than a cult."
 
 **[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-org-turning-point-usa-faith-t-00-20-07)**
 > "...nce Wallnau) was running the show behind the scenes through funding—that he put a ton of money into Turning Point USA Faith operations. Now, I guess a better way for me to state this—because I want to be super clear here—is..."
@@ -606,7 +607,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
 
-- [00:20:28](/episodes/ep-YaZfwLQ7vrI.md#t-00-20-07) (Claim) **Candace Owens**: ["Lance Wallnau was privately directing large sums of money into Turning..."](/statements/statement-85f0ac94f132.md)
+- [00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-20-07) (Claim) **Candace Owens**: ["Lance Wallnau was privately directing large sums of money into Turning..."](/statements/statement-85f0ac94f132.md)
   - Also about: [Lance Wallnau](/entities/person-lance-wallnau.md)
 
 </details>

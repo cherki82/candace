@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:13:14](/episodes/ep-MUA9ebCF4Ow.md#t-00-13-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(794);return false;">Play</a>
 
-> Because Charlie was done with these donors. He was done with them. He really was. And I can tell you another story about which donor was waiting for him once Tucker got off stage and yelled at Charlie. That was a female Jewish donor.
+> Because Charlie (Charlie Kirk) was done with these donors. He was done with them. He really was. And I can tell you another story about which donor was waiting for him once Tucker (Tucker Carlson) got off stage and yelled at Charlie (Charlie Kirk). That was a female Jewish donor.
 
 ## Verification
 

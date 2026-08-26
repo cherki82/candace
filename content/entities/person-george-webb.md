@@ -12,7 +12,7 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-george-webb-t-00-24-11">2025-10-28 · 00:24:31</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -52,5 +52,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by George Webb (1)</strong></summary>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [00:25:03](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39) [○] (Claim) ["Ziklag was the organization for Christian right donors of $25 million and above ..."](/statements/statement-61471533362f.md)
+  - About: [Ziklag](/entities/org-ziklag.md)
+
+</details>
 
 </details>

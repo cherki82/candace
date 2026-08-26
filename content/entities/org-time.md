@@ -1,6 +1,6 @@
 ---
 title: "TIME"
-description: "TIME (Organizations) - 2 mentions"
+description: "TIME (Organizations) - 3 mentions"
 id: "org-time"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [About TIME](https://time.com/about-time/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-time-t-01-16-26">2026-04-29 · 01:16:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-time-t-00-00-00">2026-05-13 · 00:00:33</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-time-t-00-35-03">2026-07-16 · 00:35:14</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [About TIME](https://time.com/about-time/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-time-t-01-16-26" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-time-t-00-00-00" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-time-t-00-35-03" style="--pulse-height:100%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [About TIME](https://time.com/about-time/)
 |---|---|---:|
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-time-t-01-16-26) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-time-t-00-00-00) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-time-t-00-35-03) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [About TIME](https://time.com/about-time/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:35:14](/episodes/ep-puuMVxEu5NU.md#ent-org-time-t-00-35-03)**
+> "Time did an article today"
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
@@ -75,5 +85,18 @@ Source: [About TIME](https://time.com/about-time/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about TIME (1)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:35:14](/episodes/ep-puuMVxEu5NU.md#t-00-35-03) (Citation) **Candace Owens**: ["Owens said a TIME article reported that Israel's influence campaign sp..."](/statements/statement-576141ac489b.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Brad Parscale](/entities/person-brad-parscale.md)
+
+</details>
 
 </details>

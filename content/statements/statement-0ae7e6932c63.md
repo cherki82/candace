@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:43:37](/episodes/ep-QZWSsq8ZWzw.md#t-00-43-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2617);return false;">Play</a>
 
-> The media is leaving out the part—leaving out part of that video. It also shows him changing clothes, and he is not alone. There is a woman with him
+> "The media is leaving out the part—leaving out part of that video." "It also shows him changing clothes, and he is not alone." "There is a woman with him."
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 427 mentions"
+description: "Ben Shapiro (People) - 440 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-ben-shapiro-t-01-19-06">2026-07-14 · 01:19:23</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>427</strong></div>
-<div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>74</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-ben-shapiro-t-00-46-54">2026-07-20 · 00:47:19</a></strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>440</strong></div>
+<div><span>Statements by</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>90</strong></div>
 <div><span>Relationships</span><strong>80</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,7 +44,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-ben-shapiro-t-00-00-00" style="--pulse-height:8%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 4 mentions" title="2025-11-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-ben-shapiro-t-00-00-00" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 11 mentions" title="2025-11-12 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-ben-shapiro-t-00-11-07" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-11-13" style="--pulse-height:13%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 7 mentions" title="2025-12-12 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-00" style="--pulse-height:78%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 42 mentions" title="2025-12-20 · 42 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-ben-shapiro-t-00-08-38" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
@@ -92,6 +92,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-ben-shapiro-t-00-42-01" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-ben-shapiro-t-00-01-22" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-ben-shapiro-t-00-02-02" style="--pulse-height:48%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 26 mentions" title="2026-07-14 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-ben-shapiro-t-00-00-01" style="--pulse-height:9%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-ben-shapiro-t-00-51-43" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-ben-shapiro-t-00-25-59" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-ben-shapiro-t-00-44-54" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 4 mentions" title="2026-07-20 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -106,7 +110,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-ben-shapiro-t-00-00-00) | 4 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-ben-shapiro-t-00-00-00) | 11 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-ben-shapiro-t-00-11-07) | 3 |
-| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13) | 3 |
+| 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13) | 2 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-ben-shapiro-t-00-11-13) | 7 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-00) | 42 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-ben-shapiro-t-00-08-38) | 2 |
@@ -154,6 +158,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-ben-shapiro-t-00-42-01) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-ben-shapiro-t-00-01-22) | 4 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-ben-shapiro-t-00-02-02) | 26 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-ben-shapiro-t-00-00-01) | 5 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-ben-shapiro-t-00-51-43) | 2 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-ben-shapiro-t-00-25-59) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-ben-shapiro-t-00-44-54) | 4 |
 
 </details>
 </section>
@@ -161,7 +169,46 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (427)</strong></summary>
+<summary><strong class="section-title">Raw mentions (440)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4 mentions)</summary>
+
+**[00:45:25](/episodes/ep-N4uM8Jdr410.md#ent-person-ben-shapiro-t-00-44-54)**
+> "OK, I've seen a lot of people in the chat asking me, did we find out who Ben Shapiro was at lunch with?"
+
+**[00:45:35](/episodes/ep-N4uM8Jdr410.md#ent-person-ben-shapiro-t-00-45-35)**
+> "...ple that he was at lunch with Ben Shapiro, and it opened a huge door, which requires a litt..."
+
+**[00:47:12](/episodes/ep-N4uM8Jdr410.md#ent-person-ben-shapiro-t-00-46-54)**
+> "...ecause we also know that Ben (Ben Shapiro) is extremely litigious."
+
+**[00:47:19](/episodes/ep-N4uM8Jdr410.md#ent-person-ben-shapiro-t-00-46-54)**
+> "...e than anybody else that Ben (Ben Shapiro) is extremely litigious. Anyway, top comment from..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
+
+**[00:51:50](/episodes/ep-puuMVxEu5NU.md#ent-person-ben-shapiro-t-00-51-43)**
+> "Shapiro (Ben Shapiro)"
+
+**[00:52:58](/episodes/ep-puuMVxEu5NU.md#ent-person-ben-shapiro-t-00-52-27)**
+> "...miles per hour, updating Ben (Ben Shapiro)'s security on a seven minute journey."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
+
+**[00:26:27](/episodes/ep-mLvJqdxS-FY.md#ent-person-ben-shapiro-t-00-25-59)**
+> "...omebody was on the phone with Ben Shapiro's security."
+
+**[00:39:05](/episodes/ep-mLvJqdxS-FY.md#ent-person-ben-shapiro-t-00-38-49)**
+> "... backseat, pray and listen to Ben Shapiro's security team receive updates."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (26 mentions)</summary>
@@ -243,6 +290,26 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 **[01:19:23](/episodes/ep-EtLHqDbxqks.md#ent-person-ben-shapiro-t-01-19-06)**
 > "...nd now when you add a call to Ben Shapiro's security team in those critical moments, I think ..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5 mentions)</summary>
+
+**[00:00:33](/episodes/ep-X3VKJVJ7cN4.md#ent-person-ben-shapiro-t-00-00-01)**
+> "At the same time, Ben Shapiro is getting updates, a lot going on. What we didn'..."
+
+**[00:32:02](/episodes/ep-X3VKJVJ7cN4.md#ent-person-ben-shapiro-t-00-32-02)**
+> "...ow, we got a huge lead on who Ben Shapiro was at lunch with on the 10th—the morning of the ..."
+
+**[00:47:07](/episodes/ep-X3VKJVJ7cN4.md#ent-person-ben-shapiro-t-00-46-53)**
+> "...alled 911, but someone called Ben Shapiro.'"
+
+**[00:48:58](/episodes/ep-X3VKJVJ7cN4.md#ent-person-ben-shapiro-t-00-48-58)**
+> "...se. I'm scared. Husband: Call Ben Shapiro, just for live updates.' Just for live updates to..."
+
+**[00:54:48](/episodes/ep-X3VKJVJ7cN4.md#ent-person-ben-shapiro-t-00-54-48)**
+> "...say? Tomorrow we'll have that Ben Shapiro stuff,"
 
 </details>
 
@@ -1344,10 +1411,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
-
-**[00:00:00](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
-> "Episode mentions Ben Shapiro in speakers list"
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
 **[00:25:21](/episodes/ep-ZAuuSq_j2_w.md#ent-person-ben-shapiro-t-00-25-13)**
 > "...ssassination attempt is just funny. That's just like an SNL bit. Anyways, the always relatable Ben (Ben Shapiro) is trying his luck at humor as well. Regarding my assassination attempt, he appeared on Greg Gutfe..."
@@ -1419,10 +1483,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > "...en on your side. Then there were these compounding lies, okay? Obviously, last week we watched Ben (Ben Shapiro) press Megan on stage. Very strange to see him do something like that—to see him just lie and try t..."
 
 **[00:37:38](/episodes/ep-YaZfwLQ7vrI.md#ent-person-ben-shapiro-t-00-37-38)**
-> "...in Phoenix, Arizona, by former volunteer Marcus Hale, who police say acted alone with no evidence." Ben Shapiro (Ben Shapiro) publicly condemned Owens' claims as evil. And then, yeah—it's just none of this is re..."
+> "Ben Shapiro publicly condemned Owens' claims as evil."
 
 **[00:52:17](/episodes/ep-YaZfwLQ7vrI.md#ent-person-ben-shapiro-t-00-51-56)**
-> "...canFinancing.net/Owens. All right, top comment from Friday's episode. Think Before You Type wrote, "Ben Shapiro (Ben Shapiro) was all for Candace (Candace Owens) Owens keeping it real with the black community un..."
+> "All right, top comment from Friday's episode. Think Before You Type wrote, "Ben Shapiro was all for Candace (Candace Owens) keeping it real with the black community until she started keeping it real with Israel.""
 
 </details>
 
@@ -1430,19 +1494,19 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (54 mentions)</summary>
 
 **[00:00:18](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-00-00)**
-> "...k, you gotta fall to the ground and cry victim. Well, it's my turn now, you guys, because yesterday Ben Shapiro, who was invited as a guest to join Megyn Kelly on her tour, he pretty much just goes mask off, and..."
+> "..., you guys, because yesterday Ben Shapiro, who was invited as a guest to join Megyn Kelly o..."
 
 **[00:01:21](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-00-44)**
-> "...it was the purest form of anti-Blackism that I've ever experienced. I mean, it's obvious to me that Ben Shapiro is manifestly insane. Last night, he was gripping the microphone as he would the neck of a Black wo..."
+> "...mean, it's obvious to me that Ben Shapiro is manifestly insane."
 
 **[00:01:35](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-01-26)**
-> "...k woman. I'm kidding. Obviously, those are not my quotes. Those are actually direct quotations from Ben Shapiro himself when he accuses others of anti-Semitism. Whenever he hears anything that he doesn't like ab..."
+> "...tually direct quotations from Ben Shapiro himself when he accuses others of anti-Semitism."
 
 **[00:01:45](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-01-26)**
-> "...ing that he doesn't like about Israel, those are actually his words. This is a real live tweet from Ben Shapiro accusing any American Jew who is pro-Israel first of a pure form of anti-Semitism. That was directe..."
+> "...his is a real live tweet from Ben Shapiro accusing any American Jew who is pro-Israel first..."
 
 **[00:02:28](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-02-10)**
-> "...t know what to say other than Ben (Ben Shapiro) is a funny guy."
+> "...w what to say other than Ben (Ben Shapiro) is a funny guy."
 
 **[00:02:49](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-02-49)**
 > "...s kind of impressed with Ben (Ben Shapiro) because instead of doing his usual thing where h..."
@@ -1454,7 +1518,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > "You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson)."
 
 **[00:03:54](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-03-33)**
-> "I would actually love to hear Ben (Ben Shapiro) speak about that."
+> "...ld actually love to hear Ben (Ben Shapiro) speak about that."
 
 **[00:04:12](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-04-12)**
 > "...then sent a nice text because Ben had called him."
@@ -1466,10 +1530,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > "So here is Ben (Ben Shapiro) complaining about that and then spinning it into..."
 
 **[00:04:33](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-04-12)**
-> "...cusation that Tucker (Tucker Carlson) somehow supports Mamdani. I don't know. Take a listen. (Clip: Ben Shapiro) So I texted him, and I said, "Thanks so much for calling. It means the world. It truly does. Shoul..."
+> "Take a listen. (Clip: Ben Shapiro)"
 
 **[00:06:06](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-05-58)**
-> "...) doesn't want to collab with Ben (Ben Shapiro), that's on him."
+> "...sn't want to collab with Ben (Ben Shapiro), that's on him."
 
 **[00:07:01](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-06-42)**
 > "...dge of whether you think Ben (Ben Shapiro) is being an honest person when he describes it i..."
@@ -1481,10 +1545,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > "Ben (Ben Shapiro) does not have it together; he is very insecure, ..."
 
 **[00:09:54](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-09-54)**
-> "...I said and then forcing her to react to the evil of what I never said. Here's what Ben said. (Clip: Ben Shapiro) We're in a business where people comment on what we say publicly. Again, this is why I think you a..."
+> "Here's what Ben said. (Clip: Ben Shapiro)"
 
 **[00:11:35](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-11-35)**
-> "... That's implied he's a Zionist, but there's a lot more that's happening that meets the eye, because Ben Shapiro was effectively the final boss of the pro-Israel lobby, and it's because he never comes out and say..."
+> "...g that meets the eye, because Ben Shapiro was effectively the final boss of the pro-Israel ..."
 
 **[00:12:21](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-12-19)**
 > "... about how, why, or what Ben (Ben Shapiro) is doing right here is just the stunning hypocri..."
@@ -1493,16 +1557,16 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > "...t like the guys like Shapiro (Ben Shapiro) cannot, will not say "Christ is King, America fi..."
 
 **[00:15:49](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-15-36)**
-> "... lying in defense of what's happening to Charlie (Charlie Kirk)'s widow when it is just a fact that Ben Shapiro does a lot of things behind the scenes to stop the rise of Charlie (Charlie Kirk). It's a fact. Oka..."
+> "...w when it is just a fact that Ben Shapiro does a lot of things behind the scenes to stop th..."
 
 **[00:16:25](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-16-00)**
 > "...ds of them pertaining to Ben (Ben Shapiro) sending his YAF boys, the YAF boys, National Rev..."
 
 **[00:16:42](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-16-00)**
-> "...showed in this little, our thumbnail here. We can show this conversation. Yeah, it was a headline. "Ben Shapiro's YAF launches smear campaign against Charlie (Charlie Kirk) and Candace Owens (the host)." Hey, Ch..."
+> ""Ben Shapiro's YAF launches smear campaign against Charlie (Char..."
 
 **[00:16:53](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-16-45)**
-> "...'t know why, but this is what Ben (Ben Shapiro) does."
+> "...ow why, but this is what Ben (Ben Shapiro) does."
 
 **[00:16:55](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-16-45)**
 > "...n I was telling you that Ben (Ben Shapiro) called Charlie (Charlie Kirk) and he was lamenti..."
@@ -1514,25 +1578,25 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > "... was again everything we Ben (Ben Shapiro) was going on people's shows and talking down abo..."
 
 **[00:17:20](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-16-45)**
-> "... he said, "You're bigger than Ben (Ben Shapiro) now.""
+> "...aid, "You're bigger than Ben (Ben Shapiro) now.""
 
 **[00:17:36](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-17-30)**
-> "...'s relevant right now to what Ben's (Ben Shapiro's) doing."
+> "...vant right now to what Ben's (Ben Shapiro's) doing."
 
 **[00:17:46](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-17-30)**
 > ""The Ben (Ben Shapiro) thing involves me more than he wants to admit.""
 
 **[00:19:25](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-18-49)**
-> "...ng Megyn and referring to this as an evil, the thing that I never said or did. But this is the same Ben Shapiro that roots the destruction of Gaza on. He supports and congratulated Randy Fine, who has literally ..."
+> "But this is the same Ben Shapiro that roots the destruction of Gaza on."
 
 **[00:20:00](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-19-31)**
-> "...up for debate. That's what they're trying him for. Benjamin Netanyahu is committing a genocide, and Ben Shapiro sat down with him last month. And do you guys think he pressed Benjamin Netanyahu on the point of a..."
+> "...is committing a genocide, and Ben Shapiro sat down with him last month."
 
 **[00:20:36](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-20-11)**
 > "...the question becomes, what is Ben actually doing here?"
 
 **[00:20:43](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-20-11)**
-> "... not principled. I think we can put that to bed. It's actually also risky behavior when it comes to Ben Shapiro. Like he doesn't usually come out of the gate like that. And I think a couple of things are driving..."
+> "...sky behavior when it comes to Ben Shapiro."
 
 **[00:21:10](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-20-11)**
 > "...fired, and I didn't know what Ben and Jeremy admitted that they did to him."
@@ -1544,13 +1608,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > "...tory, but I do know that with Ben and Nick Fuentes, it's kind of a "neither can liv..."
 
 **[00:23:07](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-23-01)**
-> "...at 10 years on from when Ben (Ben Shapiro) had this thing that happened to Nick Fuentes (Ni..."
+> "...at 10 years on from when Ben (Ben Shapiro) had this thing that happened to Nick Fuentes tha..."
 
 **[00:23:10](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-23-01)**
-> "...ck Fuentes) is still here and Ben's (Ben Shapiro's) influence is waning."
+> "...ntes is still here and Ben's (Ben Shapiro's) influence is waning."
 
 **[00:23:25](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-23-01)**
-> "...k to the making it sound like Ben's (Ben Shapiro's) got a popular position about me..."
+> "...e making it sound like Ben's (Ben Shapiro's) got a popular position about me."
 
 **[00:23:48](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-23-46)**
 > "Ben (Ben Shapiro) is lying right now to get what he wants."
@@ -1562,10 +1626,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > "Ben (Ben Shapiro) is morally blackmailing Megyn (Megyn Kelly), rig..."
 
 **[00:27:02](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-26-43)**
-> "...email at 10 p.m., hopped on a plane, is pretending to be a student. And so I do just want to say to Ben Shapiro, enough. Come out into the light. Really, come on. Let's do this debate. Stop sending interns to do..."
+> "...d so I do just want to say to Ben Shapiro, enough."
 
 **[00:29:00](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-28-46)**
-> "...upset. I don't care. I believe in the free market. I genuinely will say again, I will always debate Ben Shapiro. If, you know, if Tucker (Tucker Carlson) left you on read and you want to come on this show and yo..."
+> "...y again, I will always debate Ben Shapiro."
 
 **[00:47:02](/episodes/ep-r1PS67aRmcA.md#ent-person-ben-shapiro-t-00-46-49)**
 > "Ben (Ben Shapiro) is upset with Tucker (Tucker Carlson) for this."
@@ -1725,7 +1789,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
 
 **[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51)**
-> "...ve but support my right to share those beliefs anyway. People who I never would have imagined, like Ben Shapiro, Clay Travis, Candace (Candace Owens), Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, be..."
+> "like Ben Shapiro, Clay Travis, Candace Owens, Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, believe it or not, said something very beautiful on my behalf."
 
 </details>
 
@@ -1809,7 +1873,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:50](/episodes/ep-r1PS67aRmcA.md#t-00-00-44): “Ben Shapiro has a real thing for Tucker Carlson, there's something about Tucker that gets under his skin”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
@@ -1818,21 +1882,21 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:25](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro accusing Nick Fuentes of anti-Semitism”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:01:45](/episodes/ep-r1PS67aRmcA.md#t-00-01-26): “This is a real live tweet from Ben Shapiro accusing any American Jew who is pro-Israel first of a pure form of anti-Semitism. ... That was directed at Nick Fuentes, which we'll circle back to.”
 
 </details>
 
 - **[Ron Paul](/entities/person-ron-paul.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:28](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ron Paul is manifestly insane directed at Ron Paul by Ben Shapiro”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:01:57](/episodes/ep-r1PS67aRmcA.md#t-00-01-26): “Also, this was a real tweet directed at Ron Paul. ... "Ron Paul is manifestly insane.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:40](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Ben Shapiro calling what Candace Owens is doing evil”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:10:06](/episodes/ep-r1PS67aRmcA.md#t-00-09-56): “I think that what Candace Owens (the host) is doing right now is evil.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “he again... attacked me.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:39:26](/episodes/ep-QRS_hR7NXaQ.md#t-00-39-26): “Did I hear that Candace (Candace Owens) said on her show she had dreams about playing Hogwarts chess with you? ... that's weird. It's a little bit weird.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:08](/episodes/ep-uC_GjKU8rs8.md#t-00-17-08): “I think that what Candace Owens is doing right now is evil. It is evil what she is doing right now.”
@@ -2052,7 +2116,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:04:37](/episodes/ep-MUA9ebCF4Ow.md#t-00-04-35): “you had Ben Shapiro as a guest”
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:18](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro (Ben Shapiro), who was invited as a guest to join Megyn Kelly on her tour”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:18](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Well, it's my turn now, you guys, because yesterday Ben Shapiro, who was invited as a guest to join Megyn Kelly on her tour,”
 
 </details>
 
@@ -2149,9 +2213,8 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Works For (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:30](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro works for the Daily Wire”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:15:44](/episodes/ep-uC_GjKU8rs8.md#t-00-15-18): “So you cannot discount the fact that Ben Shapiro, who is considered, and this is sad for the other people on the platform, he is considered the face of the company and he developed tunnel vision.”
 
 </details>
@@ -2246,7 +2309,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:50](/episodes/ep-r1PS67aRmcA.md#t-00-00-44): “Ben Shapiro has a real thing for Tucker Carlson, there's something about Tucker that gets under his skin”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
@@ -2255,21 +2318,21 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:25](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro accusing Nick Fuentes of anti-Semitism”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:01:45](/episodes/ep-r1PS67aRmcA.md#t-00-01-26): “This is a real live tweet from Ben Shapiro accusing any American Jew who is pro-Israel first of a pure form of anti-Semitism. ... That was directed at Nick Fuentes, which we'll circle back to.”
 
 </details>
 
 - **[Ron Paul](/entities/person-ron-paul.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:28](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ron Paul is manifestly insane directed at Ron Paul by Ben Shapiro”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:01:57](/episodes/ep-r1PS67aRmcA.md#t-00-01-26): “Also, this was a real tweet directed at Ron Paul. ... "Ron Paul is manifestly insane.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:40](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “Ben Shapiro calling what Candace Owens is doing evil”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:10:06](/episodes/ep-r1PS67aRmcA.md#t-00-09-56): “I think that what Candace Owens (the host) is doing right now is evil.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “he again... attacked me.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:39:26](/episodes/ep-QRS_hR7NXaQ.md#t-00-39-26): “Did I hear that Candace (Candace Owens) said on her show she had dreams about playing Hogwarts chess with you? ... that's weird. It's a little bit weird.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:08](/episodes/ep-uC_GjKU8rs8.md#t-00-17-08): “I think that what Candace Owens is doing right now is evil. It is evil what she is doing right now.”
@@ -2328,9 +2391,8 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:30](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro works for the Daily Wire”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:15:44](/episodes/ep-uC_GjKU8rs8.md#t-00-15-18): “So you cannot discount the fact that Ben Shapiro, who is considered, and this is sad for the other people on the platform, he is considered the face of the company and he developed tunnel vision.”
 
 </details>
@@ -2478,7 +2540,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Ben Shapiro (14)</strong></summary>
+<summary><strong class="section-title">Statements by Ben Shapiro (19)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -2552,10 +2614,39 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (3)</summary>
+
+- [00:01:45](/episodes/ep-r1PS67aRmcA.md#t-00-01-26) [✓] (Opinion) ["Accusing any American Jew who is pro-Israel of being an “Israel Firster” is a pu..."](/statements/statement-288a141452cd.md)
+  - About: [Nick Fuentes](/entities/person-nick-fuentes.md)
+
+- [00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) [○] (Claim) ["The number of times that Tucker Carlson has mentioned Zohran Mamdani since Octob..."](/statements/statement-d0d731c7c32c.md)
+
+- [00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) [○] (Claim) ["Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in ..."](/statements/statement-ab436d786d5b.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2)</summary>
+
+- [00:15:28](/episodes/ep-K1tFD7FfoCU.md#t-00-14-56) [○] (Claim) ["Ben Shapiro told Charlie that Ben Shapiro was in part upset because I made a jok..."](/statements/statement-18efbd7f67d7.md)
+
+- [00:16:59](/episodes/ep-K1tFD7FfoCU.md#t-00-16-45) [○] (Claim) ["Ben Shapiro told Charlie Kirk that Candace Owens was going to Milo her career"](/statements/statement-df1a4815365b.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (74)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (90)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:45:35](/episodes/ep-N4uM8Jdr410.md#t-00-45-35) (Promise) **Candace Owens**: ["Candace Owens promised to reveal before the end of the week who had to..."](/statements/statement-04ee0e537e1f.md)
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2)</summary>
@@ -2814,16 +2905,28 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (12)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (21)</summary>
 
 - [00:00:24](/episodes/ep-w1oqQbR_bYs.md#t-00-00-00) (Accusation) **Candace Owens**: ["Ben Shapiro had no allegiance to Charlie Kirk when he was alive"](/statements/statement-239322b040f4.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:01:27](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18) (Claim) **Candace Owens**: ["Ben Shapiro returned to the AmericaFest speaker roster in 2024 after s..."](/statements/statement-efc7dc035bce.md)
+  - Also about: [America Fest](/entities/event-america-fest.md)
+
+- [00:01:30](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18) (Claim) **Candace Owens**: ["Owens said Ben Shapiro fired her in March 2024, while noting that he w..."](/statements/statement-156bb17d88bb.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+
 - [00:02:04](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to confront Candace Owens on stage at the D..."](/statements/statement-ccf7b1277237.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Young Women's Leadership Summit](/entities/org-ywls.md), [Dallas](/entities/gpe-dallas.md)
 
+- [00:02:08](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Claim) **Candace Owens**: ["Ben Shapiro sent an intern to Turning Point USA YWLS convention in Dal..."](/statements/statement-c2d7092ec8e5.md)
+  - Also about: [Dallas](/entities/gpe-dallas.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
+
 - [00:02:14](/episodes/ep-w1oqQbR_bYs.md#t-00-01-51) (Accusation) **Candace Owens**: ["Ben Shapiro worked behind the scenes to have Jewish donors threaten Ch..."](/statements/statement-2443f85d69f9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:02:30](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Claim) **Andrew Kolvet** (via paraphrase): ["Owens said Andrew Kolvet told her that Ben Shapiro was willing to spen..."](/statements/statement-fe94e2d72ea2.md)
+  - Also about: [America Fest](/entities/event-america-fest.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 - [00:02:39](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro paid an offensive amount of money to be part of AmFest 202..."](/statements/statement-196a937c330b.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md)
@@ -2831,22 +2934,37 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [00:02:57](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Ben Shapiro worked with Bari Weiss to have an article published claimi..."](/statements/statement-52ac3b9164b8.md)
   - Also about: [Bari Weiss](/entities/person-bari-weiss.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [00:03:04](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Accusation) **Candace Owens**: ["Owens alleged that Ben Shapiro worked with Bari Weiss on an article sa..."](/statements/statement-9d19bddc6417.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Bari Weiss](/entities/person-bari-weiss.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:05:37](/episodes/ep-w1oqQbR_bYs.md#t-00-05-18) (Claim) **Candace Owens**: ["A video of Ben Shapiro criticizing Candace Owens was circulating publi..."](/statements/statement-69f633501500.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
 - [00:10:14](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) (Accusation) **Candace Owens**: ["Ben Shapiro scheduled an interview with Thomas Sowell specifically to ..."](/statements/statement-68d706432609.md)
   - Also about: [Thomas Sowell](/entities/person-thomas-sowell.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:10:23](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) (Claim) **Candace Owens**: ["Ben Shapiro interview with Thomas Sowell was published on November 17,..."](/statements/statement-7abccb564d21.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Thomas Sowell](/entities/person-thomas-sowell.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) (Accusation) **Candace Owens**: ["The Daily Wire humiliated Candace Owens by hosting 300 employees at a ..."](/statements/statement-482d3b0e4ebc.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:16:56](/episodes/ep-w1oqQbR_bYs.md#t-00-16-24) (Claim) **Candace Owens**: ["Ben Shapiro has issued three court proceedings against Candace Owens f..."](/statements/statement-7df37740e4d6.md)
+- [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) (Claim) **Candace Owens**: ["Owens says the Daily Wire showed roughly 300 employees a produced pres..."](/statements/statement-a627706b158c.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+- [00:16:56](/episodes/ep-w1oqQbR_bYs.md#t-00-16-24) (Claim) **Candace Owens**: ["Candace Owens says Ben Shapiro initiated three legal proceedings again..."](/statements/statement-7df37740e4d6.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:17:26](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08) (Claim) **Candace Owens**: ["Ben Shapiro sued Candace Owens for interviewing a USS Liberty survivor..."](/statements/statement-199a3e06bdfb.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [USS Liberty incident](/entities/event-uss-liberty-incident.md)
+- [00:17:26](/episodes/ep-w1oqQbR_bYs.md#t-00-17-08) (Accusation) **Candace Owens**: ["Candace Owens says Ben Shapiro initiated legal action against her afte..."](/statements/statement-199a3e06bdfb.md)
+  - Also about: [USS Liberty incident](/entities/event-uss-liberty-incident.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:18:16](/episodes/ep-w1oqQbR_bYs.md#t-00-17-44) (Accusation) **Candace Owens**: ["Ben Shapiro staffs audiences with people who work for YAF who are told..."](/statements/statement-3eb9a38e3071.md)
 
 - [00:23:31](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) (Claim) **Candace Owens**: ["Ben Shapiro's father writes under the pen name Hank Berrien at The Dai..."](/statements/statement-7de014dde600.md)
   - Also about: [Hank Berrien](/entities/person-hank-berrien.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:23:42](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) (Accusation) **Candace Owens**: ["Owens alleged that Daily Wire writer Hank Berrien is Ben Shapiro fathe..."](/statements/statement-730b275aaa4c.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Hank Berrien](/entities/person-hank-berrien.md)
 
 - [00:30:49](/episodes/ep-w1oqQbR_bYs.md#t-00-30-16) (Accusation) **Candace Owens**: ["Ben Shapiro knows something about Erika Kirk that he is fearful will c..."](/statements/statement-3df10f2d2cce.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -2865,6 +2983,34 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1)</summary>
 
 - [00:02:33](/episodes/ep-MUA9ebCF4Ow.md#t-00-01-51) (Accusation) **Candace Owens**: ["Ben Shapiro lied to Megyn Kelly's face, claiming Candace Owens accused..."](/statements/statement-73987ede5ffb.md)
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2)</summary>
+
+- [00:13:50](/episodes/ep-r1PS67aRmcA.md#t-00-13-35) (Opinion) **Jeremy Boreing** (via quoted article): ["I would be absolutely thrilled to have Ben speak to Nick, or anyone on..."](/statements/statement-65dbbedda71f.md)
+  - Also about: [Nick Fuentes](/entities/person-nick-fuentes.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31) (Claim) **Candace Owens**: ["Ben Shapiro sat down with Benjamin Netanyahu last month."](/statements/statement-c9aae75e239e.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (4)</summary>
+
+- [00:14:52](/episodes/ep-K1tFD7FfoCU.md#t-00-14-16) (Claim) **Candace Owens**: ["Charlie Kirk and Ben Shapiro were not on good terms because Ben Shapir..."](/statements/statement-6ee5a306df75.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:59](/episodes/ep-K1tFD7FfoCU.md#t-00-16-45) (Claim) **Ben Shapiro** (via quoted speech): ["Ben Shapiro told Charlie Kirk that Candace Owens was going to Milo her..."](/statements/statement-df1a4815365b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:17](/episodes/ep-K1tFD7FfoCU.md#t-00-16-59) (Claim) **Candace Owens**: ["Candace Owens and Charlie Kirk were booked on Ben Shapiro's show in Ju..."](/statements/statement-0b284c91de11.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:20:27](/episodes/ep-K1tFD7FfoCU.md#t-00-19-50) (Claim) **Candace Owens**: ["Turning Point USA reached out to Matt Walsh to host Charlie Kirk's sho..."](/statements/statement-e2505504e579.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

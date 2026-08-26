@@ -434,10 +434,10 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:48:21](/episodes/ep-iHav0PPzUz8.md#ent-person-jd-vance-t-00-48-17)**
-> "...don't even know if I can repeat some of the things that he said—but you know, he called—he's called JD Vance names, you know—calling him fat and ugly and that he has a brown family, you know—like just his att..."
+> "...u know, he called—he's called JD Vance names, you know—calling him fat and ugly and that..."
 
 **[00:49:00](/episodes/ep-iHav0PPzUz8.md#ent-person-jd-vance-t-00-48-48)**
-> "...to be a Christian and a decent person—would have a lot of interest." Okay, I think we can all deal. JD Vance is a big boy, okay? If he got called fat, he can address that—or actually just be an adult and not ..."
+> "JD Vance is a big boy, okay?"
 
 </details>
 

@@ -1,14 +1,14 @@
 ---
 id: "VMNWMXX1vO8"
 title: "I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353"
-description: "I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 - 101 entities, 16 events, 0 claims"
+description: "I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 - 101 entities, 16 events, 24 factual claims"
 published: "2026-06-22"
 youtube_url: "https://www.youtube.com/watch?v=VMNWMXX1vO8"
 ---
 
 **Published:** 2026-06-22 | [Watch on YouTube](https://www.youtube.com/watch?v=VMNWMXX1vO8)
 
-**Stats:** 101 entities | 16 events | 0 claims
+**Stats:** 101 entities | 16 events | 24 factual claims
 
 ---
 

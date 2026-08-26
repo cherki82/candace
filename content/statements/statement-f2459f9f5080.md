@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:01:39](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(99);return false;">Play</a>
 
-> Frank Turek, as a reminder, he is the pastor friend who was next to Charlie. Actually, when he was assassinated, you remember, he was wearing the white hat. He ducks down. He is one of the people that helped to get Charlie to the vehicle. He was at the hospital.
+> Frank Turek, as a reminder, he is the pastor friend who was next to Charlie (Charlie Kirk). Actually, when he was assassinated, you remember, he was wearing the white hat. He ducks down. He is one of the people that helped to get Charlie (Charlie Kirk) to the vehicle. He was at the hospital.
 
 ## Verification
 

@@ -4,9 +4,10 @@ description: "\"Candace Owens argued that Lance Twiggs's DNA was on everything a
 statement_id: "statement-6413c876d678"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Current forensic testimony directly contradicts the claim that Twiggs’s DNA predominated over Robinson’s on the rifle. The trigger-and-trigger-guard likelihood ratio treated Robinson as the major contributor, and other rifle areas also strongly supported Robinson’s inclusion. Twiggs-related DNA on shared items is real, but the sweeping more-than-Robinson-on-the-gun claim is false.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 5](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5)
+
+*Verified: 2026-08-26T08:02:13.958766*
 
 ---
 

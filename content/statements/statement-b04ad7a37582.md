@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:20](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(500);return false;">Play</a>
 
-> [110] [08:20] Candace Owens: Before Charlie died—really kind of just before he died in July—I interviewed Nick Fuentes. [111] [08:23] Candace Owens: And Charlie and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes. [115] [08:39] Candace Owens: I also had a long discussion with Andrew Kolvet separately, telling them both that Charlie should host Nick Fuentes on his show and debate him.
+> Before Charlie (Charlie Kirk) died—really kind of just before he died in July—I interviewed Nick Fuentes (Nick Fuentes). And Charlie (Charlie Kirk) and I discussed the interview, and never once did he tell me not to speak to Nick Fuentes (Nick Fuentes). Never once did he consider it an act of betrayal. To the contrary, I had a very long discussion with him. I also had a long discussion with Andrew Kolvet (Andrew Kolvet) separately, telling them both that Charlie (Charlie Kirk) should host Nick Fuentes (Nick Fuentes) on his show and debate him. I tried to make that happen.
 
 ## Verification
 

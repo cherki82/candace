@@ -42,7 +42,7 @@ _Type: People_
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:17:14](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carl-wallnau-t-00-16-39)**
-> "... Lance Wallnau (Lance Wallnau)—he's no different. He graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton. After the war, he..."
+> "His father, Carl Wallnau, was a major in the United States Air Force."
 
 </details>
 

@@ -29,7 +29,7 @@ type: "opinion"
 **Timestamp:** [00:49:02](/episodes/ep-2WEHTk0Xewg.md#t-00-48-57) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2942);return false;">Play</a>
 
-> By the way, I'm not accusing anyone of being involved in that murder. I'm not trying to mutter darkly or imply anything. There's a lot we don't know about who murdered Charlie Kirk and why, but I don't know, and I'm not gonna pretend that I do.
+> By the way, I'm not accusing anyone of being involved in that murder. I'm not trying to mutter darkly or imply anything. There's a lot we don't know about who murdered Charlie (Charlie Kirk) and why, but I don't know, and I'm not gonna pretend that I do.
 
 ## Verification
 

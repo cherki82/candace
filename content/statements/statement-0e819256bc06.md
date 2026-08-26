@@ -32,7 +32,7 @@ type: "accusation"
 **Timestamp:** [00:15:06](/episodes/ep-7RLtGgkTh9o.md#t-00-14-40) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(906);return false;">Play</a>
 
-> I have since come to think that Rob and Lou Taylor's church is just a front for them and a ruse. I actually have many suspicions about at least Lou being tied to possibly the CIA and Mossad.
+> It says, "I have since come to think that Rob and Lou Taylor's church is just a front for them and a ruse." "I actually have many suspicions about at least Lou being tied to possibly the CIA and Mossad."
 
 ## Verification
 

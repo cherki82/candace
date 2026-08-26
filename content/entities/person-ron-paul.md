@@ -108,7 +108,7 @@ Source: [PAUL, Ronald Ernest (1935-)](https://bioguideretro.congress.gov/Home/Me
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:28](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ron Paul is manifestly insane directed at Ron Paul by Ben Shapiro”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:01:57](/episodes/ep-r1PS67aRmcA.md#t-00-01-26): “Also, this was a real tweet directed at Ron Paul. ... "Ron Paul is manifestly insane.”
 
 </details>
 
@@ -120,7 +120,7 @@ Source: [PAUL, Ronald Ernest (1935-)](https://bioguideretro.congress.gov/Home/Me
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:28](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ron Paul is manifestly insane directed at Ron Paul by Ben Shapiro”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:01:57](/episodes/ep-r1PS67aRmcA.md#t-00-01-26): “Also, this was a real tweet directed at Ron Paul. ... "Ron Paul is manifestly insane.”
 
 </details>
 

@@ -22,13 +22,23 @@ type: "factual_claim"
 
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:52:15](/episodes/ep-aDlhjfW6hz8.md#t-00-52-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3135);return false;">Play</a>
 
 > Even when he says Andrew Kolvet was there on the Hamptons—no, he wasn't. Andrew Kolvet was definitely not there in the Hamptons.
+
+### 2. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+
+**Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+**Timestamp:** [00:52:15](/episodes/ep-aDlhjfW6hz8.md#t-00-52-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3135);return false;">Play</a>
+
+> Andrew Kolvet was definitely not there in the Hamptons.
 
 ## Verification
 

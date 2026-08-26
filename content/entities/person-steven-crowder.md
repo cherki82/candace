@@ -25,7 +25,7 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -89,7 +89,7 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39)**
-> "...ning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like we're loving what she's doing th..."
+> "Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk, Steven Crowder."
 
 **[00:48:55](/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-48-53)**
 > "...nothing he is saying is true. The first thing I'd like to clarify is I have never been friends with Steven Crowder. I just feel like that is a really not-good dirt to throw on my name. I just have better intuition ..."
@@ -215,13 +215,21 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Steven Crowder (2)</strong></summary>
+<summary><strong class="section-title">Statements about Steven Crowder (3)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
 
 - [00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11) (Accusation) **Candace Owens**: ["Candace Owens says she thinks Steven Crowder knew he was distributing ..."](/statements/statement-65babe2d7be9.md)
   - Also about: [TMZ](/entities/org-tmz.md)
+
+</details>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:11:46](/episodes/ep-w1oqQbR_bYs.md#t-00-11-16) (Claim) **Candace Owens**: ["Candace Owens said Steven Crowder had obtained footage of a Daily Wire..."](/statements/statement-2a0f96bab6e9.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

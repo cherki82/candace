@@ -17,7 +17,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -69,12 +69,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about El Chapo (1)</strong></summary>
+<summary><strong class="section-title">Statements about El Chapo (2)</strong></summary>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (2)</summary>
 
 - [00:09:08](/episodes/ep-t4U7NjnUEgc.md#t-00-08-59) (Accusation) **Harry Myers** (via read message): ["U.S. military commanders and Border Patrol agents were photographed wi..."](/statements/statement-cf5d0fa41647.md)
+
+- [00:09:08](/episodes/ep-t4U7NjnUEgc.md#t-00-08-59) (Accusation) **Harry Myers** (via quoted document): ["Harry Myers alleged that photographs in the Mexican-side tunnel house ..."](/statements/statement-744afb33e8e0.md)
 
 </details>
 

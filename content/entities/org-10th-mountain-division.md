@@ -28,7 +28,7 @@ Source: [U.S. Northern Command: Joint Task Force–Southern Border assumes autho
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -135,7 +135,7 @@ Source: [U.S. Northern Command: Joint Task Force–Southern Border assumes autho
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about 10th Mountain Division (2)</strong></summary>
+<summary><strong class="section-title">Statements about 10th Mountain Division (3)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 (2)</summary>
@@ -144,6 +144,14 @@ Source: [U.S. Northern Command: Joint Task Force–Southern Border assumes autho
 
 - [00:28:44](/episodes/ep-ewBzjVe3LNQ.md#t-00-28-18) (Claim) **Anonymous Source #5 (Ep ewBzjVe3LNQ)**: ["In circa 1990, as part of JTF-6 assigned from 10th Mountain Division, ..."](/statements/statement-c361c56363e8.md)
   - Also about: [Joint Task Force Six](/entities/org-joint-task-force-six.md), [Douglas, Arizona](/entities/gpe-douglas-arizona.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
+
+- [00:40:03](/episodes/ep-6DhWawD4ZiM.md#t-00-39-28) (Claim) **Candace Owens** (via paraphrase): ["Owens said Harry Myers identified Captain Adam Neff of the 10th Mounta..."](/statements/statement-45521027afec.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 

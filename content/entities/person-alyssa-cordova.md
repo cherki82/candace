@@ -79,7 +79,7 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:33:00](/episodes/ep-YaZfwLQ7vrI.md#ent-person-alyssa-cordova-t-00-32-33)**
-> "...ut that. I very much like Allie (Allie Beth Stuckey) Stuckey. I'm very surprised she's working with Alyssa Cordova, but she's also in very rare form. I don't know what's driving that. And she kind of—I guess—I don'..."
+> "I'm very surprised she's working with Alyssa Cordova, but she's also in very rare form."
 
 </details>
 

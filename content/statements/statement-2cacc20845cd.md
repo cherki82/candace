@@ -29,7 +29,7 @@ type: "opinion"
 **Timestamp:** [00:26:45](/episodes/ep-aDlhjfW6hz8.md#t-00-26-42) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1605);return false;">Play</a>
 
-> without even being biased, there's no question that if Candace Owens wasn't involved in this very quiet breakup, she would be the logical heir. In a perfect world, if they didn't go down this rabbit hole—she would be the logical heir to the TPUSA throne, but she's not.
+> Okay, well, let's—you know—without even being biased, there's no question that if Candace Owens wasn't involved in this very quiet breakup, she would be the logical heir. In a perfect world, if they didn't go down this rabbit hole— she would be the logical heir to the TPUSA throne, but she's not.
 
 ## Verification
 

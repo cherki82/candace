@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Justice"
-description: "United States Department of Justice (Organizations) - 34 mentions"
+description: "United States Department of Justice (Organizations) - 36 mentions"
 id: "org-united-states-department-of-justice"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21">2026-01-22 · 00:13:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-united-states-department-of-justice-t-01-02-34">2026-06-16 · 01:03:02</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-department-of-justice-t-00-06-01">2026-07-20 · 00:06:20</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -52,6 +52,8 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-department-of-justice-t-00-39-59" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-department-of-justice-t-00-48-39" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-united-states-department-of-justice-t-00-00-00" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-department-of-justice-t-00-32-16" style="--pulse-height:12%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-department-of-justice-t-00-06-01" style="--pulse-height:12%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +72,8 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-department-of-justice-t-00-39-59) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-department-of-justice-t-00-48-39) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-united-states-department-of-justice-t-00-00-00) | 4 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-department-of-justice-t-00-32-16) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-department-of-justice-t-00-06-01) | 1 |
 
 </details>
 </section>
@@ -77,7 +81,23 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:06:20](/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-department-of-justice-t-00-06-01)**
+> "I'm a pilot, but we have enough training to know better than the garbage that was foisted upon us from the Justice Department."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:32:16](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-department-of-justice-t-00-32-16)**
+> "You don't need the Department of Justice"
+
+</details>
 
 <details>
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (4 mentions)</summary>
@@ -249,12 +269,19 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:53:15](/episodes/ep-h76ZN-xXC6c.md#t-00-52-57): “So I just can't express enough how embarrassing this Department of Justice has been from start to finish.”
+
+</details>
+
+- **[Blaine D. Holt](/entities/person-blaine-d-holt.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:06:20](/episodes/ep-N4uM8Jdr410.md#t-00-06-01): “I'm a pilot, but we have enough training to know better than the garbage that was foisted upon us from the Justice Department.”
 
 </details>
 
@@ -286,12 +313,19 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:53:15](/episodes/ep-h76ZN-xXC6c.md#t-00-52-57): “So I just can't express enough how embarrassing this Department of Justice has been from start to finish.”
+
+</details>
+
+- **[Blaine D. Holt](/entities/person-blaine-d-holt.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:06:20](/episodes/ep-N4uM8Jdr410.md#t-00-06-01): “I'm a pilot, but we have enough training to know better than the garbage that was foisted upon us from the Justice Department.”
 
 </details>
 
@@ -315,7 +349,14 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Justice (14)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Justice (15)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:06:20](/episodes/ep-N4uM8Jdr410.md#t-00-06-01) (Accusation) **Blaine D. Holt** (via quoted speech): ["Blaine Holt accused the Justice Department of foisting a 'garbage' acc..."](/statements/statement-8904fcb79968.md)
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (2)</summary>

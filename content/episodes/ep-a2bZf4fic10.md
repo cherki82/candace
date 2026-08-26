@@ -1,14 +1,14 @@
 ---
 id: "a2bZf4fic10"
 title: "EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357"
-description: "EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 - 71 entities, 7 events, 0 claims"
+description: "EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 - 71 entities, 7 events, 5 factual claims"
 published: "2026-06-26"
 youtube_url: "https://www.youtube.com/watch?v=a2bZf4fic10"
 ---
 
 **Published:** 2026-06-26 | [Watch on YouTube](https://www.youtube.com/watch?v=a2bZf4fic10)
 
-**Stats:** 71 entities | 7 events | 0 claims
+**Stats:** 71 entities | 7 events | 5 factual claims
 
 ---
 

@@ -11,7 +11,11 @@ object: "gpe-new-york-city"
 
 ## [33 Thomas Street](/entities/gpe-33-thomas-street) based in [New York City](/entities/gpe-new-york-city)
 
-_No evidence recorded for this relationship._
+### Evidence (1 mentions)
+
+**[Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI)**
+
+- [00:11:52](/episodes/ep-SKGUzGHymcI#t-00-11-52): _Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked._
 
 ### Related
 

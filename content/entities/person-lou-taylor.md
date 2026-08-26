@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -178,10 +178,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lou Taylor (31)</strong></summary>
+<summary><strong class="section-title">Statements about Lou Taylor (30)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (31)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (30)</summary>
 
 - [00:06:16](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor became involved with Britney Spears in 2007 after she was h..."](/statements/statement-7d0fcf657936.md)
   - Also about: [Britney Spears](/entities/person-britney-spears.md), [Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md)
@@ -217,13 +217,10 @@ _Type: People_
 - [00:11:27](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor started her career in a church working alongside her husban..."](/statements/statement-a99a0c1efe32.md)
   - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md)
 
-- [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) (Claim) **Brett Cooper** (via quoted speech): ["According to financial documents in the public domain, Jamie Spears Sr..."](/statements/statement-d6a45b1203c0.md)
-  - Also about: [Jamie Spears](/entities/person-jamie-spears.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md)
+- [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) (Claim) **Brett Cooper** (via quoted speech): ["According to financial documents in the public domain, Jamie Spears Sr..."](/statements/statement-d6a45b1203c0.md)
+  - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Jamie Spears](/entities/person-jamie-spears.md)
 
-- [00:11:45](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) (Claim) **Brett Cooper** (via quoted speech): ["Jamie Spears gave 10 percent of his conservatorship income to Calvary ..."](/statements/statement-2f38c392731f.md)
-  - Also about: [Jamie Spears](/entities/person-jamie-spears.md), [Calvary Chapel](/entities/org-calvary-chapel.md)
-
-- [00:12:38](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
+- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#t-00-12-06) (Accusation) **Brett Cooper** (via quoted speech): ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conserv..."](/statements/statement-6b6c86cc92a9.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)
 
 - [00:13:28](/episodes/ep-7RLtGgkTh9o.md#t-00-13-13) (Accusation) **Candace Owens**: ["Lou Taylor makes clients give 10 percent to the church if they want to..."](/statements/statement-4241430d8a39.md)
@@ -262,7 +259,7 @@ _Type: People_
 - [00:16:42](/episodes/ep-7RLtGgkTh9o.md#t-00-16-07) (Claim) **Candace Owens**: ["Rob and Lou Taylor were mentored by Bob Coy who has been embroiled in ..."](/statements/statement-6782e104e480.md)
   - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Bob Coy](/entities/person-bob-coy.md)
 
-- [00:25:50](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) (Accusation) **Bob Bryar** (via quoted tweet): ["Lou Taylor was my business manager for 18 years. We separated in Septe..."](/statements/statement-488c2abc1a03.md)
+- [00:25:55](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) (Accusation) **Bob Bryar** (via quoted tweet): ["Bob Bryar wrote that the Kardashians were the slimiest pile of garbage..."](/statements/statement-488c2abc1a03.md)
   - Also about: [Bob Bryar](/entities/person-bob-bryar.md)
 
 - [00:28:52](/episodes/ep-7RLtGgkTh9o.md#t-00-28-42) (Claim) **Courtney Love** (via read message): ["Lou Taylor manages Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and she ..."](/statements/statement-89caeb027e43.md)

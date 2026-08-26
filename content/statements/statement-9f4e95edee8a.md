@@ -4,9 +4,10 @@ description: "\"Caitlin Oliver testified that the trigger and trigger guard were
 statement_id: "statement-9f4e95edee8a"
 speaker: "Caitlin Oliver"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Day 5 transcript directly records Oliver saying the trigger and trigger guard were swabbed together and she therefore could not say which part supplied the DNA.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 5](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5)
+
+*Verified: 2026-08-26T08:01:26.985797*
 
 ---
 

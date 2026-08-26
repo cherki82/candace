@@ -19,7 +19,7 @@ object: "person-megyn-kelly"
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 
-- [00:00:18](/episodes/ep-r1PS67aRmcA#t-00-00-18): _Ben Shapiro (Ben Shapiro), who was invited as a guest to join Megyn Kelly on her tour_
+- [00:00:18](/episodes/ep-r1PS67aRmcA#t-00-00-18): _Well, it's my turn now, you guys, because yesterday Ben Shapiro, who was invited as a guest to join Megyn Kelly on her tour,_
 
 ### Related
 

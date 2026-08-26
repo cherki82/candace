@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:26:38](/episodes/ep-aDlhjfW6hz8.md#t-00-25-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1598);return false;">Play</a>
 
-> When's the last time she was at a Turning Point event? Not in many years.
+> Yeah. When's the last time she was at a Turning Point event?
 
 ## Verification
 

@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:02:59](/episodes/ep-sreYYcID-QY.md#t-00-02-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(179);return false;">Play</a>
 
-> He writes, 'I can get close to it, but there is a squad car parked right by it.' Squad car. Okay, yeah, no. How many times do you call a police car a squad car? Do you want to know who calls it a squad car? Someone on the squad.
+> He writes, "I can get close to it, but there is a squad car parked right by it." Squad car. Okay, yeah, no. How many times do you call a police car a squad car? Do you want to know who calls it a squad car? Someone on the squad.
 
 ## Verification
 

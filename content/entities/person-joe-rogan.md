@@ -190,7 +190,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:45:57](/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44)**
-> "...ruling the world. That's kind of been my conclusion after this year. Lucky Island writes: "Watching Joe Rogan's podcast with Yoval made me a little nervous. Joe seemed to be self-censoring himself and changing..."
+> "Lucky Island writes: "Watching Joe Rogan's podcast with Yuval made me a little nervous."
 
 **[00:46:09](/episodes/ep-mKXdKV-OBog.md#ent-person-joe-rogan-t-00-45-44)**
 > "...srael or billionaire sex offenders were mentioned." I have not watched in its entirety. I know that Joe Rogan has definitely had people on—spoken about Israel. He's really gone there. He had Ian Carroll. So th..."

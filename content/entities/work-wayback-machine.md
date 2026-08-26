@@ -1,6 +1,6 @@
 ---
 title: "Wayback Machine"
-description: "Wayback Machine (Works & Media) - 4 mentions"
+description: "Wayback Machine (Works & Media) - 5 mentions"
 id: "work-wayback-machine"
 type: "WORK"
 categories:
@@ -17,10 +17,10 @@ _Type: Works & Media_
 Source: [Internet Archive Wayback Machine](https://web.archive.org/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-work-wayback-machine-t-00-24-54">2026-01-30 · 00:25:32</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-work-wayback-machine-t-00-03-37">2025-10-01 · 00:04:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-wayback-machine-t-00-07-51">2026-03-06 · 00:08:00</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,6 +31,7 @@ Source: [Internet Archive Wayback Machine](https://web.archive.org/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-wayback-machine-t-00-07-51">Bride Of Charlie: Crazy In Love | Episode 7</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-work-wayback-machine-t-00-03-37" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-work-wayback-machine-t-00-24-54" style="--pulse-height:50%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-work-wayback-machine-t-00-32-21" style="--pulse-height:50%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-wayback-machine-t-00-07-51" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
@@ -39,6 +40,7 @@ Source: [Internet Archive Wayback Machine](https://web.archive.org/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-work-wayback-machine-t-00-03-37) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-work-wayback-machine-t-00-24-54) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-work-wayback-machine-t-00-32-21) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-work-wayback-machine-t-00-07-51) | 2 |
@@ -49,7 +51,7 @@ Source: [Internet Archive Wayback Machine](https://web.archive.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>
@@ -75,6 +77,14 @@ Source: [Internet Archive Wayback Machine](https://web.archive.org/)
 
 **[00:25:32](/episodes/ep-Wjul6YV6izo.md#ent-work-wayback-machine-t-00-24-54)**
 > "And by the way, I do want to address that lucrative RV show this weekend. I went back on Wayback Machine,"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+
+**[00:04:02](/episodes/ep-adJ4LNGp84I.md#ent-work-wayback-machine-t-00-03-37)**
+> "I did want to use Wayback Machine to see whether or not that was a new entry."
 
 </details>
 

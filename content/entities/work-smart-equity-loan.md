@@ -1,6 +1,6 @@
 ---
 title: "SMART Equity Loan"
-description: "SMART Equity Loan (Works & Media) - 57 mentions"
+description: "SMART Equity Loan (Works & Media) - 70 mentions"
 id: "work-smart-equity-loan"
 type: "WORK"
 aliases:
@@ -22,20 +22,23 @@ _Type: Works & Media_
 Source: [American Financing | National Home Mortgage Lender](https://www.americanfinancing.net/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56">2026-01-07 · 00:54:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-work-smart-equity-loan-t-00-36-49">2026-06-26 · 00:37:14</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11">2025-10-06 · 00:55:20</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-work-smart-equity-loan-t-00-43-32">2026-07-20 · 00:43:41</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11">TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-work-smart-equity-loan-t-00-46-37" style="--pulse-height:50%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-02" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-work-smart-equity-loan-t-01-15-07" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
@@ -66,11 +69,18 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-work-smart-equity-loan-t-01-10-56" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-work-smart-equity-loan-t-00-51-57" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-work-smart-equity-loan-t-00-36-49" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-work-smart-equity-loan-t-00-46-14" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-work-smart-equity-loan-t-00-42-35" style="--pulse-height:100%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-smart-equity-loan-t-00-44-35" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-work-smart-equity-loan-t-00-43-32" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11) | 2 |
+| 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-work-smart-equity-loan-t-00-46-37) | 1 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-02) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-work-smart-equity-loan-t-01-15-07) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49) | 2 |
@@ -101,6 +111,10 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-work-smart-equity-loan-t-01-10-56) | 2 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-work-smart-equity-loan-t-00-51-57) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-work-smart-equity-loan-t-00-36-49) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-work-smart-equity-loan-t-00-46-14) | 2 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-work-smart-equity-loan-t-00-42-35) | 2 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-smart-equity-loan-t-00-44-35) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-work-smart-equity-loan-t-00-43-32) | 2 |
 
 </details>
 </section>
@@ -108,7 +122,51 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:43:41](/episodes/ep-N4uM8Jdr410.md#ent-work-smart-equity-loan-t-00-43-32)**
+> "It's a surgical strike against debt. Unlike a fluctuating HELOC, the Smart Equity Loan is a fixed-rate loan, giving you a predictable monthly payment."
+
+**[00:43:32](/episodes/ep-N4uM8Jdr410.md#ent-work-smart-equity-loan-t-00-43-32)**
+> "...t American Financing offers a smart equity loan so that you don't have to. It allows you to wipe ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
+
+**[00:42:42](/episodes/ep-puuMVxEu5NU.md#ent-work-smart-equity-loan-t-00-42-35)**
+> "American Financing offers a smart equity loan"
+
+**[00:42:49](/episodes/ep-puuMVxEu5NU.md#ent-work-smart-equity-loan-t-00-42-35)**
+> "...like a fluctuating HELOC, the SMART Equity Loan is a fixed rate loan, giving you a predictable mo..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
+
+**[00:44:42](/episodes/ep-mLvJqdxS-FY.md#ent-work-smart-equity-loan-t-00-44-35)**
+> "...t American Financing offers a smart equity loan so that you don't actually have to have to. It al..."
+
+**[00:44:51](/episodes/ep-mLvJqdxS-FY.md#ent-work-smart-equity-loan-t-00-44-35)**
+> "...like a fluctuating HELOC, the SMART Equity Loan is a fixed rate loan, giving you a predictable mo..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:46:20](/episodes/ep-X3VKJVJ7cN4.md#ent-work-smart-equity-loan-t-00-46-14)**
+> ".... But with American Financing Smart Equity Loan, you don't have to."
+
+**[00:46:35](/episodes/ep-X3VKJVJ7cN4.md#ent-work-smart-equity-loan-t-00-46-14)**
+> "..., unlike a fluctuating HELOC. Smart Equity Loan is a fixed rate loan, giving you a predictable mo..."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2 mentions)</summary>
@@ -431,11 +489,67 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 </details>
 
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+
+**[00:51:38](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-02)**
+> "...w because they've created the Smart Equity Loan—"
+
+**[00:51:46](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-46)**
+> "...ave varied interest rates—the Smart Equity Loan offers a fixed rate."
+
+</details>
+
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
+
+**[00:46:55](/episodes/ep-c5BcKF91iec.md#ent-work-smart-equity-loan-t-00-46-37)**
+> "The Smart Equity Loan offers a fixed rate."
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
+
+**[00:55:20](/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11)**
+> "..., because they've created the Smart Equity Loan—which is a solution that's designed to help you t..."
+
+**[00:55:33](/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11)**
+> "the Smart Equity Loan offers a fixed rate, which means one predictable ..."
+
+</details>
+
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Part Of (1)</summary>
+
+- **[American Financing](/entities/org-american-financing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:46:20](/episodes/ep-X3VKJVJ7cN4.md#t-00-46-14): “If that debt is starting to feel heavy, you should know that you're not alone. If you're a homeowner, you've likely looked at your mortgage rate and thought, I can't touch that. But with American Financing Smart Equity Loan, you don't have to.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:42](/episodes/ep-puuMVxEu5NU.md#t-00-42-35): “Well, American Financing offers a smart equity loan so that you don't have to.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[American Financing](/entities/org-american-financing.md)** includes this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:46:20](/episodes/ep-X3VKJVJ7cN4.md#t-00-46-14): “If that debt is starting to feel heavy, you should know that you're not alone. If you're a homeowner, you've likely looked at your mortgage rate and thought, I can't touch that. But with American Financing Smart Equity Loan, you don't have to.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:42](/episodes/ep-puuMVxEu5NU.md#t-00-42-35): “Well, American Financing offers a smart equity loan so that you don't have to.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
+
+</details>
+
+</details>
 
 </details>

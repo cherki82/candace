@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
-**Timestamp:** [00:08:05](/episodes/ep-JQjCAsfoXEE.md#t-00-07-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(485);return false;">Play</a>
+**Timestamp:** [00:37:40](/episodes/ep-JQjCAsfoXEE.md#t-00-37-22) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2260);return false;">Play</a>
 
-> a lot of money—,560,625—is being sent to America's Turning Point. They are sending it to their own shell company... the financial statement for the other organization is missing. We cannot see how this .6 million is being spent.
+> We see that a lot of money—$8,560,625—is being sent to America's Turning Point. ... They are sending it to their own shell company. ... Now this is not necessarily illegal, except for the fact that the financial statement for the other organization is missing. ... We cannot see how this $8.6 million is being spent.
 
 ## Verification
 

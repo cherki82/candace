@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 232 mentions"
+description: "Megyn Kelly (People) - 238 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31">2026-08-14 · 02:47:31</a></strong></div>
-<div><span>Episodes</span><strong>65</strong></div>
-<div><span>Mentions</span><strong>232</strong></div>
-<div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>48</strong></div>
+<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>238</strong></div>
+<div><span>Statements by</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>50</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -99,6 +99,9 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-megyn-kelly-t-00-42-01" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-megyn-kelly-t-00-48-14" style="--pulse-height:9%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-megyn-kelly-t-00-59-50" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-megyn-kelly-t-00-02-41" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-megyn-kelly-t-00-45-58" style="--pulse-height:13%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-megyn-kelly-t-00-11-41" style="--pulse-height:9%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -169,6 +172,9 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-megyn-kelly-t-00-42-01) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-megyn-kelly-t-00-48-14) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-megyn-kelly-t-00-59-50) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-megyn-kelly-t-00-02-41) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-megyn-kelly-t-00-45-58) | 3 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-megyn-kelly-t-00-11-41) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46) | 2 |
 
 </details>
@@ -177,7 +183,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (232)</strong></summary>
+<summary><strong class="section-title">Raw mentions (238)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -187,6 +193,39 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 **[02:47:31](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31)**
 > "by the way, I remember even Megyn Kelly was like, you know, let's wait,"
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:12:04](/episodes/ep-N4uM8Jdr410.md#ent-person-megyn-kelly-t-00-11-41)**
+> "Well, Dan Bongino joined Megyn Kelly. I want you to understand this is on September 15th. So we're now five days removed from the assassination."
+
+**[00:12:58](/episodes/ep-N4uM8Jdr410.md#ent-person-megyn-kelly-t-00-12-58)**
+> "Megyn Kelly: Yeah, just tell us what you can. / Dan Bongino: ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:03:16](/episodes/ep-puuMVxEu5NU.md#ent-person-megyn-kelly-t-00-02-41)**
+> "Megyn Kelly"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[00:46:16](/episodes/ep-mLvJqdxS-FY.md#ent-person-megyn-kelly-t-00-45-58)**
+> "... were watching Dan Bongino on Megyn Kelly, actually. And five days after the assassination,..."
+
+**[01:00:54](/episodes/ep-mLvJqdxS-FY.md#ent-person-megyn-kelly-t-01-00-32)**
+> "... Ritchie writes, do you think Megyn Kelly will course correct and call out the paid influen..."
+
+**[01:01:10](/episodes/ep-mLvJqdxS-FY.md#ent-person-megyn-kelly-t-01-01-10)**
+> "...d see people pinging me about Megyn Kelly and saying."
 
 </details>
 
@@ -825,19 +864,19 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > "...ously hilarious. He just lies. It's so weird. He just has nothing. So he lies and tries to pressure Megyn to respond to the lies. All I can say is the pro-Israel lobby is down real bad. They're writing fan..."
 
 **[00:02:43](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-02-10)**
-> "...angry about a topic. It's just something that I enjoy watching. And last night he got on stage with Megyn Kelly, and she had a tour stop in Florida. And I wanna say, I was kind of impressed with Ben because inst..."
+> "And last night he got on stage with Megyn Kelly, and she had a tour stop in Florida."
 
 **[00:02:49](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-02-49)**
 > "...ds others to do his dirty work so he can keep his hands clean, he was like, I'm gonna peer pressure Megyn Kelly myself. I'm gonna make her disavow me, make her disavow Candace Owens (the host), I'm gonna make he..."
 
 **[00:09:42](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-09-09)**
-> "...ed moment. Ben does not have it together; he is very insecure, and he's going on the attack against Megyn Kelly by lying about what I said and then forcing her to react to the evil of what I never said. Here's w..."
+> "Ben (Ben Shapiro) does not have it together; he is very insecure, and he's going on the attack against Megyn Kelly by lying about what I said and then forcing her to react to the evil of what I never said."
 
 **[00:14:05](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-14-05)**
 > "...el like people are not appreciating how hypocritical it is that he's now trying to struggle session Megyn Kelly, because all he had one test on the show when the Daily Wire position in 2024 was that their CEO co..."
 
 **[00:18:15](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-18-11)**
-> "...rything he could to kind of stop the rise of Charlie (Charlie Kirk), now trying to struggle session Megyn, who was actually a very good friend to Charlie (Charlie Kirk). Charlie (Charlie Kirk) deeply respe..."
+> "And so you have to imagine being in my position when you see someone who did everything he could to kind of stop the rise of Charlie (Charlie Kirk), now trying to struggle session Megyn (Megyn Kelly), who was actually a very good friend to Charlie (Charlie Kirk). Charlie (Charlie Kirk) deeply respected her."
 
 **[00:19:18](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-18-49)**
 > "...to make is the stunning hypocrisy again and again when you stop and you consider that he's pressing Megyn and referring to this as an evil, the thing that I never said or did. But this is the same Ben Shap..."
@@ -846,22 +885,22 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > "... your hair on your chest and you're just like, yeah, how dare you? How dare you not make a comment, Megyn, about Tucker (Tucker Carlson)? How dare you not make a comment? I care now about Charlie (Charlie ..."
 
 **[00:23:04](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-23-01)**
-> "...Tucker (Tucker Carlson) not to host. I just don't care. It's just really not my business. I'm like, Megyn, I just don't care. Like, okay, if somebody wants to be a fan, they can be a fan of Nick Fuentes. A..."
+> "It's just really not my business. I'm like, Megyn (Megyn Kelly), I just don't care."
 
 **[00:23:25](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-23-01)**
-> "...e is waning. It just factually is. Another thing that's happening here, and this is on the point of Megyn Kelly and going back to the making it sound like Ben's got a popular position about me. I sense that the ..."
+> "Another thing that's happening here, and this is on the point of Megyn Kelly and going back to the making it sound like Ben's (Ben Shapiro's) got a popular position about me."
 
 **[00:23:42](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-23-01)**
-> "...t? And they're so desperate for allies that they're forcing them away. That's what they're doing to Megyn Kelly, right? They're showing the world right now they are willing to lie to get what they want. Ben is l..."
+> "That's what they're doing to Megyn Kelly, right?"
 
 **[00:24:02](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-23-46)**
-> "...d strategy of lying and threatening people is going to work. Now, you might be asking, well, how is Megyn Kelly being threatened here? This is exactly what Ben just did on stage. That is exactly the moral blackm..."
+> "Now, you might be asking, well, how is Megyn Kelly being threatened here?"
 
 **[00:24:09](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-23-46)**
-> "...e (Charlie Kirk) was speaking about in the last days of his life, okay? Ben is morally blackmailing Megyn, right? He's sitting across from her. The threat is her reputation. He's standing there and he's sa..."
+> "Ben (Ben Shapiro) is morally blackmailing Megyn (Megyn Kelly), right?"
 
 **[00:24:31](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-24-31)**
-> "...u disavow this evil on the spot? And he's got these fake people going, "Woo, yeah." And you can see Megyn's uncomfortable because she's like, well, did she say that, man? Like maybe that is evil. Like that..."
+> "And you can see Megyn's (Megyn Kelly's) uncomfortable because she's like, well, did she say that, man?"
 
 **[00:24:59](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-24-31)**
 > "...hat is moral blackmail. Now, speaking of on the spot, everything that you just saw happen here, and Megyn Kelly, I hope you see this. Truly, you guys, send this clip to her. This is really important. It is pre-p..."
@@ -885,7 +924,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > "... or the people around her. How embarrassing." Yeah, and I just don't think it's gonna work. I think Megyn Kelly is going to hold the line because she did right there under pressure. I just want her to know that ..."
 
 **[00:53:57](/episodes/ep-r1PS67aRmcA.md#ent-person-megyn-kelly-t-00-53-14)**
-> "...-the-scenes actions that they take and how they treat people. And I mean, what a terrible guest for Megyn. She's inviting you on her platform and you know you've planned this session. You know you planned ..."
+> "And I mean, what a terrible guest for Megyn (Megyn Kelly)."
 
 </details>
 
@@ -981,7 +1020,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (6 mentions)</summary>
 
 **[00:09:04](/episodes/ep-ozWJz2spBcI.md#ent-person-megyn-kelly-t-00-09-02)**
-> "...e day that he died. These are all indisputable facts. And it is also a fact, which was presented by Megyn Kelly, that a few weeks before his death, Erika had a priest come over to pray over them when some witche..."
+> "And it is also a fact, which was presented by Megyn Kelly, that a few weeks before his death, Erika (Erika Kirk) had a priest come over to pray over them when some witches thought it would be funny—whatever—to put a hex on him."
 
 **[00:17:56](/episodes/ep-ozWJz2spBcI.md#ent-person-megyn-kelly-t-00-17-56)**
 > "...(Charlie Kirk) and the pressure he was under, the attacks that not just me—Tucker (Tucker Carlson), Megyn Kelly—faced for trying to stand up and tell the truth about what Charlie (Charlie Kirk) was actually goin..."
@@ -1007,7 +1046,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > "...s versus them, and they're upset that we're united. By the way, I saw this when they were attacking Megyn Kelly. I think I showed you yesterday; she said, “Well, my battle is against the left.” And then they sho..."
 
 **[00:43:38](/episodes/ep-t1YtLS1n8Vs.md#ent-person-megyn-kelly-t-00-43-38)**
-> "...then they showed her a clip of me saying that it's not left or right anymore and said, “Well, look, Megyn, now you should attack Candace (Candace Owens) because she's allied with the left.” Yep, I am allie..."
+> "of me saying that it's not left or right anymore and said, “Well, look, Megyn (Megyn Kelly), now you should attack Candace (Candace Owens) because she's allied with the left.”"
 
 **[00:50:01](/episodes/ep-t1YtLS1n8Vs.md#ent-person-megyn-kelly-t-00-49-26)**
 > "... and what they were doing to him and what they do to everybody. They're going to do it right now to Megyn Kelly, like I said. Actually, I said that yesterday, and then somebody tagged me, and there are all these..."
@@ -1079,7 +1118,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > "I wanted to show you guys this clip of Megyn Kelly"
 
 **[00:33:48](/episodes/ep-QZWSsq8ZWzw.md#ent-person-megyn-kelly-t-00-33-34)**
-> "...ic priest—I didn't expect—I wish I could have given them the exact person. But take a listen to how Megyn Kelly shares what happened—a curse that was put on Charlie Kirk just before he went out to UVU. I learned..."
+> "But take a listen to how Megyn Kelly shares what happened—a curse that was put on Charlie Kirk just before he went out to UVU."
 
 </details>
 
@@ -1287,9 +1326,8 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <summary>Friend Of (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29): “Why are you hearing it, though, from me and Tucker and Megyn Kelly?”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:47](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Remember, this is still the woman who says she is friends with Candace Owens. So no, Tucker Carlson, it is not an excuse to go silent on Candace's targeting of TPUSA or to mirror her both lines of questioning because you love Candace personally.”
 
 </details>
@@ -1297,7 +1335,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:20](/episodes/ep-r1PS67aRmcA.md#t-00-05-14): “Megyn Kelly, who was actually a very good friend to Charlie Kirk. Charlie Kirk deeply respected her”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:18:15](/episodes/ep-r1PS67aRmcA.md#t-00-18-11): “And so you have to imagine being in my position when you see someone who did everything he could to kind of stop the rise of Charlie (Charlie Kirk), now trying to struggle session Megyn (Megyn Kelly), who was actually a very good friend to Charlie (Charlie Kirk). Charlie (Charlie Kirk) deeply respected her.”
 
 </details>
 
@@ -1319,23 +1357,12 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Interviewed (7)</summary>
+<summary>Interviewed (8)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:04:37](/episodes/ep-MUA9ebCF4Ow.md#t-00-04-35): “you had Ben Shapiro as a guest”
-
-</details>
-
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
-
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “...rlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha...”
-- [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk—which is important for us to discuss fo...”
-- [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:32:37](/episodes/ep-QZWSsq8ZWzw.md#t-00-32-17): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk (Charlie Kirk), which is important for ...”
-- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:03](/episodes/ep-ja26iltROkM.md#t-00-39-59): “as Megyn Kelly said...Charlie was trying to communicate that their tactics”
-- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:34:49](/episodes/ep-MhakwJxK-Zk.md#t-00-34-32): “he appeared on Megyn Kelly's podcast in the following days”
 
 </details>
 
@@ -1373,6 +1400,20 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:07:09](/episodes/ep-KpxIBWkNsSs.md#t-00-07-01): “Erika (Erika Kirk) herself told Megyn Kelly an emotional story about what she felt like watching that video for the first time. The video of Charlie (Charlie Kirk) choosing her, violating suddenly his every public statement and sentiment that he had ever expressed in the past about women working, complete 180 from his prior positions.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:13:29](/episodes/ep-1QZ4X6q1DPg.md#t-00-12-54): “Erika Kirk carefully described to Megyn Kelly—she sat down with Megyn Kelly and talked about how Charlie Kirk, look at the tears in her eye, through many tears—she saw this video three weeks before he died.”
+
+</details>
+
+- **[Nate Walker](/entities/person-nate-walker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:03:16](/episodes/ep-puuMVxEu5NU.md#t-00-02-41): “Remarkably, Megyn Kelly, man, she's kind of the ground zero of she interviewed all these people early on and now what they told her is becoming relevant. And she specifically happened to ask one of Charlie (Charlie Kirk)'s many new assistants about the freedom shirt ... Nate Walker.”
+
+</details>
+
+- **[Dan Bongino](/entities/person-dan-bongino.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:12:04](/episodes/ep-N4uM8Jdr410.md#t-00-11-41): “Well, Dan Bongino joined Megyn Kelly. I want you to understand this is on September 15th. So we're now five days removed from the assassination.”
 
 </details>
 
@@ -1437,7 +1478,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Referenced By (24)</summary>
+<summary>Referenced By (25)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1499,9 +1540,8 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29): “Why are you hearing it, though, from me and Tucker and Megyn Kelly?”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:47](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Remember, this is still the woman who says she is friends with Candace Owens. So no, Tucker Carlson, it is not an excuse to go silent on Candace's targeting of TPUSA or to mirror her both lines of questioning because you love Candace personally.”
 
 </details>
@@ -1509,7 +1549,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:20](/episodes/ep-r1PS67aRmcA.md#t-00-05-14): “Megyn Kelly, who was actually a very good friend to Charlie Kirk. Charlie Kirk deeply respected her”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:18:15](/episodes/ep-r1PS67aRmcA.md#t-00-18-11): “And so you have to imagine being in my position when you see someone who did everything he could to kind of stop the rise of Charlie (Charlie Kirk), now trying to struggle session Megyn (Megyn Kelly), who was actually a very good friend to Charlie (Charlie Kirk). Charlie (Charlie Kirk) deeply respected her.”
 
 </details>
 
@@ -1543,22 +1583,11 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 </details>
 
-- **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
-
-- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:35](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “...rlie (Charlie Kirk) into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha...”
-- [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:27:38](/episodes/ep-QZWSsq8ZWzw.md#t-00-27-09): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk—which is important for us to discuss fo...”
-- [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 @ 00:32:37](/episodes/ep-QZWSsq8ZWzw.md#t-00-32-17): “...e a pause here. We're gonna get to something that Megyn Kelly shared on her show about a hex that was put on Charlie Kirk (Charlie Kirk), which is important for ...”
-- [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:11:41](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22): “They were coming after you, after Turning Point...You're not allowed to, though.”
-- [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:34:49](/episodes/ep-MhakwJxK-Zk.md#t-00-34-32): “he appeared on Megyn Kelly's podcast in the following days”
-
-</details>
-
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:04:37](/episodes/ep-MUA9ebCF4Ow.md#t-00-04-35): “you had Ben Shapiro as a guest”
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:18](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro (Ben Shapiro), who was invited as a guest to join Megyn Kelly on her tour”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:18](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Well, it's my turn now, you guys, because yesterday Ben Shapiro, who was invited as a guest to join Megyn Kelly on her tour,”
 
 </details>
 
@@ -1599,6 +1628,20 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 </details>
 
+- **[Nate Walker](/entities/person-nate-walker.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:03:16](/episodes/ep-puuMVxEu5NU.md#t-00-02-41): “Remarkably, Megyn Kelly, man, she's kind of the ground zero of she interviewed all these people early on and now what they told her is becoming relevant. And she specifically happened to ask one of Charlie (Charlie Kirk)'s many new assistants about the freedom shirt ... Nate Walker.”
+
+</details>
+
+- **[Dan Bongino](/entities/person-dan-bongino.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:12:04](/episodes/ep-N4uM8Jdr410.md#t-00-11-41): “Well, Dan Bongino joined Megyn Kelly. I want you to understand this is on September 15th. So we're now five days removed from the assassination.”
+
+</details>
+
 - **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1632,7 +1675,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Megyn Kelly (15)</strong></summary>
+<summary><strong class="section-title">Statements by Megyn Kelly (22)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (3)</summary>
@@ -1668,18 +1711,30 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4)</summary>
 
 - [00:05:14](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-02) [○] (Claim) ["Megyn Kelly confirmed she learned Ben Shapiro's claim was not true, and that Can..."](/statements/statement-6dca395db03d.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
+- [00:05:14](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-02) [✓] (Claim) ["Megyn Kelly said Candace Owens had not claimed that Erika Kirk was behind Charli..."](/statements/statement-fa28cacb1b5e.md)
+
+- [00:12:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-12-06) [✓] (Claim) ["Megyn Kelly said her backstage video showed Charlie Kirk interrupting to tell Tu..."](/statements/statement-4542c8e4e98b.md)
+
+- [00:12:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-12-06) [○] (Claim) ["Megyn Kelly released video showing Charlie Kirk telling Tucker Carlson 'go max' ..."](/statements/statement-f7b312e59d41.md)
+
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (7)</summary>
+
+- [00:33:55](/episodes/ep-QZWSsq8ZWzw.md#t-00-33-34) [◐] (Accusation) ["Two weeks before Charlie Kirk was assassinated, the far-left website Jezebel dec..."](/statements/statement-4f4ef33bcbd0.md)
 
 - [00:34:12](/episodes/ep-QZWSsq8ZWzw.md#t-00-33-55) [○] (Claim) ["Two weeks before Charlie Kirk was assassinated, the far-left website Jezebel dec..."](/statements/statement-6abe69b7c224.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jezebel](/entities/org-jezebel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:34:44](/episodes/ep-QZWSsq8ZWzw.md#t-00-34-32) [◐] (Accusation) ["Erika Kirk and Charlie Kirk heard about these curses, which rattled Erika, and t..."](/statements/statement-03b6911bc351.md)
+
+- [00:35:07](/episodes/ep-QZWSsq8ZWzw.md#t-00-34-32) [✓] (Accusation) ["she and Charlie contacted a friend, who I believe she said was a Catholic priest..."](/statements/statement-e42f1dd83df7.md)
 
 - [00:35:19](/episodes/ep-QZWSsq8ZWzw.md#t-00-35-07) [○] (Claim) ["Erika Kirk and Charlie Kirk contacted a friend, who was a Catholic priest, and a..."](/statements/statement-452be7e34efb.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -1695,18 +1750,20 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2)</summary>
 
+- [00:33:58](/episodes/ep-ja26iltROkM.md#t-00-33-19) [○] (Claim) ["You cannot find anybody beneath the age of 30 that supports Israel"](/statements/statement-125f66849193.md)
+
 - [00:34:03](/episodes/ep-ja26iltROkM.md#t-00-33-19) [○] (Claim) ["You can't find anybody beneath the age of 30 that supports Israel"](/statements/statement-e3c5def6d2fe.md)
   - About: [Megyn Kelly](/entities/person-megyn-kelly.md)
-
-- [00:39:59](/episodes/ep-ja26iltROkM.md#t-00-39-17) [○] (Claim) ["You cannot find anybody beneath the age of 30 that supports Israel"](/statements/statement-125f66849193.md)
 
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3)</summary>
 
 - [00:52:17](/episodes/ep-2WEHTk0Xewg.md#t-00-52-13) [○] (Claim) ["Megyn Kelly has also been threatened and pressured to cut ties with Tucker Carls..."](/statements/statement-f1140a0cc49b.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:52:17](/episodes/ep-2WEHTk0Xewg.md#t-00-52-17) [○] (Claim) ["Charlie is not the only one who's been threatened or was threatened to cut ties ..."](/statements/statement-cd51e36c65c0.md)
 
 - [00:53:05](/episodes/ep-2WEHTk0Xewg.md#t-00-53-00) [○] (Claim) ["Megyn Kelly confirmed from speaking to Charlie Kirk that he felt nefarious press..."](/statements/statement-cf17a383a37d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -1716,7 +1773,14 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Megyn Kelly (18)</strong></summary>
+<summary><strong class="section-title">Statements about Megyn Kelly (20)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [01:02:17](/episodes/ep-mLvJqdxS-FY.md#t-01-02-17) (Prediction) **Candace Owens**: ["Candace Owens predicted that Megyn Kelly would change her mind when mo..."](/statements/statement-aeb3af014efe.md)
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
@@ -1826,6 +1890,14 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
 - [00:58:09](/episodes/ep-es7PWdFGoFI.md#t-00-58-00) (Claim) **Candace Owens**: ["Megyn Kelly offered to referee the conversation between Candace and Tu..."](/statements/statement-5e460b52965e.md)
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:08:04](/episodes/ep-Kmt6HgRjckU.md#t-00-08-04) (Claim) **Kash Patel** (via quoted speech): ["Kash Patel said the FBI would investigate any reported threat and, whe..."](/statements/statement-67ca42bd16ba.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Kash Patel](/entities/person-kash-patel.md)
 
 </details>
 

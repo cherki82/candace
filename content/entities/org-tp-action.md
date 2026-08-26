@@ -57,7 +57,7 @@ _Type: Organizations_
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “their TP Action COO, Tyler Boyer”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 
 </details>
 
@@ -69,7 +69,7 @@ _Type: Organizations_
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “their TP Action COO, Tyler Boyer”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 
 </details>
 

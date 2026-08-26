@@ -64,7 +64,7 @@ Source: [Saprea Annual Report 2021](https://saprea.org/wp-content/uploads/2022/0
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
 **[00:04:28](/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-04-12)**
-> "... created so much pressure that it warranted a response from one of the owners of the plane, who was Derek Maxfield. Candace Owens: He's married to Shalane Maxfield. Candace Owens: The two of them—they're a billiona..."
+> "The second mysterious flight, which was well reported on at the time—I would say this was the most reported-upon flight again by the public and which eventually created so much pressure that it warranted a response from one of the owners of the plane, who was Derek Maxfield."
 
 **[00:08:10](/episodes/ep-iHav0PPzUz8.md#ent-person-derek-maxfield-t-00-07-47)**
 > "...e, Arizona airport at approximately 1 p.m. Mountain Time. At 12:55 p.m. local time upon arrival, I, Derek Maxfield, boarded that plane along with seven additional passengers for the return trip to Provo. We departe..."

@@ -1,14 +1,14 @@
 ---
 id: "5m-Wn6Pr5rM"
 title: "Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316"
-description: "Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 - 95 entities, 22 events, 0 claims"
+description: "Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 - 95 entities, 22 events, 22 factual claims"
 published: "2026-03-25"
 youtube_url: "https://www.youtube.com/watch?v=5m-Wn6Pr5rM"
 ---
 
 **Published:** 2026-03-25 | [Watch on YouTube](https://www.youtube.com/watch?v=5m-Wn6Pr5rM)
 
-**Stats:** 95 entities | 22 events | 0 claims
+**Stats:** 95 entities | 22 events | 22 factual claims
 
 ---
 

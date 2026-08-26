@@ -15,7 +15,7 @@ object: "gpe-israel"
 
 **[Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog)**
 
-- [00:31:40](/episodes/ep-mKXdKV-OBog#t-00-31-40): _Ashley Reinsberg, he happens to live in Tel Aviv_
+- [00:31:34](/episodes/ep-mKXdKV-OBog#t-00-31-34): _Are you shocked if I tell you that Ashley Reinsberg—he happens to live in Tel Aviv?_
 
 ### Related
 

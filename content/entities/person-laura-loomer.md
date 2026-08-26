@@ -21,7 +21,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <div><span>Episodes</span><strong>33</strong></div>
 <div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>21</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>38</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -642,7 +642,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:42:35](/episodes/ep-YA1FxrDWNIo.md#ent-person-laura-loomer-t-00-42-16)**
-> "... end up in a world where—like—a couple of days before Charlie Kirk (Charlie Kirk) dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's (Charlie Kirk's) donors, Bob Shill..."
+> "When you end up in a world where—like—a couple of days before Charlie Kirk dies—someone like Laura Loomer"
 
 </details>
 
@@ -1155,7 +1155,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Laura Loomer (31)</strong></summary>
+<summary><strong class="section-title">Statements about Laura Loomer (32)</strong></summary>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
@@ -1281,6 +1281,13 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 - [00:45:40](/episodes/ep-k8ueJdPFel4.md#t-00-45-40) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer created a list of conservative influencers she believes t..."](/statements/statement-9aff611619c4.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Iran](/entities/gpe-iran.md), [Russia](/entities/gpe-russia.md)
+
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1)</summary>
+
+- [00:09:26](/episodes/ep-5autG89PW6w.md#t-00-09-04) (Claim) **Candace Owens**: ["Laura Loomer is legally not allowed to own a gun"](/statements/statement-0ceaf783c791.md)
 
 </details>
 

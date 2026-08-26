@@ -1,6 +1,6 @@
 ---
 title: "Israel lobby"
-description: "Israel lobby (Concepts) - 4 mentions"
+description: "Israel lobby (Concepts) - 13 mentions"
 id: "concept-israel-lobby"
 type: "CONCEPT"
 aliases:
@@ -20,28 +20,30 @@ _Type: Concepts_
 > **Possibly overlapping entity records:** [The Israel Lobby and U.S. Foreign Policy](/entities/work-the-israel-lobby). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-israel-lobby-t-00-00-45">2026-01-12 · 00:00:55</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-00-00">2025-11-08 · 00:00:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#t-00-30-04">2026-03-26 · 00:30:14</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-israel-lobby-t-00-00-45">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-00-00">Ben Shapiro Is Crying Again. | Candace Ep 261</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-israel-lobby-t-00-00-45" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#t-00-35-59" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#t-00-30-04" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-00-00" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 9 mentions" title="2025-11-08 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-israel-lobby-t-00-00-45" style="--pulse-height:22%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#t-00-35-59" style="--pulse-height:11%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#t-00-30-04" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-00-00) | 9 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-israel-lobby-t-00-00-45) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-35-59) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-30-04) | 1 |
@@ -52,7 +54,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -81,6 +83,38 @@ _Type: Concepts_
 
 </details>
 
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (9 mentions)</summary>
+
+**[00:00:12](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-00-00)**
+> "Like, if you're in the pro-Israel lobby and you deal with any sort of pushback or flak, y..."
+
+**[00:00:37](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-00-00)**
+> "All I can say is the pro-Israel lobby is down real bad."
+
+**[00:11:35](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-11-35)**
+> "...ctively the final boss of the pro-Israel lobby, and it's because he never comes out and says wha..."
+
+**[00:23:27](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-23-01)**
+> "I sense that the pro-Israel lobby is on the brink of collapse."
+
+**[00:23:52](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-23-46)**
+> "And for whatever reason, the pro-Israel lobby believes that this repeat failed strategy of lyin..."
+
+**[00:32:20](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-32-20)**
+> "...act same process by which the pro-Israel lobby lost Charlie (Charlie Kirk) because eventually yo..."
+
+**[00:48:15](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-48-15)**
+> "...el weird that it's always the pro-Israel lobby that's doing this."
+
+**[00:48:44](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-48-15)**
+> "Why is the pro-Israel lobby in particular so afraid of any incursion into the..."
+
+**[00:53:34](/episodes/ep-r1PS67aRmcA.md#ent-concept-israel-lobby-t-00-53-14)**
+> "...uinely, it's just because the pro-Israel lobby is on its way out."
+
+</details>
+
 </details>
 
 <details open>
@@ -91,7 +125,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel lobby (6)</strong></summary>
+<summary><strong class="section-title">Statements about Israel lobby (7)</strong></summary>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3)</summary>
@@ -128,6 +162,13 @@ _No relationships extracted yet._
 
 - [00:41:23](/episodes/ep-CMcktj3Egfo.md#t-00-40-43) (Opinion) **Candace Owens**: ["Candace Owens characterized pro-Israel pressure campaigns as gang-like..."](/statements/statement-be67c305c846.md)
   - Also about: [Freedom of speech](/entities/concept-free-speech.md)
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1)</summary>
+
+- [00:23:27](/episodes/ep-r1PS67aRmcA.md#t-00-23-01) (Prediction) **Candace Owens**: ["I sense that the pro-Israel lobby is on the brink of collapse."](/statements/statement-3b1dbe88d273.md)
 
 </details>
 

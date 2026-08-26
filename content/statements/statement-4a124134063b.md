@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:42:15](/episodes/ep-sreYYcID-QY.md#t-00-42-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2535);return false;">Play</a>
 
-> Then I get fired from The Daily Wire. Turning Point USA is the first to issue a 'Christ is King' statement of support. Then I do what was the YWLS conference right after that.
+> Okay, then I get fired from The Daily Wire. Turning Point USA is the first to issue a “Christ is King” statement of support. Then I do what was the YWLS conference right after that.
 
 ## Verification
 

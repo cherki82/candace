@@ -1,14 +1,14 @@
 ---
 id: "k1b1NDCrNFs"
 title: "Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334"
-description: "Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 - 101 entities, 8 events, 0 claims"
+description: "Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 - 101 entities, 8 events, 19 factual claims"
 published: "2026-05-06"
 youtube_url: "https://www.youtube.com/watch?v=k1b1NDCrNFs"
 ---
 
 **Published:** 2026-05-06 | [Watch on YouTube](https://www.youtube.com/watch?v=k1b1NDCrNFs)
 
-**Stats:** 101 entities | 8 events | 0 claims
+**Stats:** 101 entities | 8 events | 19 factual claims
 
 ---
 

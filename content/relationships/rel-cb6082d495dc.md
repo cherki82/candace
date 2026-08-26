@@ -11,12 +11,11 @@ object: "person-glenn-beck"
 
 ## [Steve Baker](/entities/person-steve-baker) interviewed by [Glenn Beck](/entities/person-glenn-beck)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI)**
 
-- [00:08:35](/episodes/ep-YaZfwLQ7vrI#t-00-08-35): _listen to Glenn Beck, who is interviewing Steve Baker_
-- [00:08:45](/episodes/ep-YaZfwLQ7vrI#t-00-08-45): _Glenn Beck interviewing Steve Baker about the pipe bomb discovery_
+- [00:08:35](/episodes/ep-YaZfwLQ7vrI#t-00-08-35): _And I'm going to let you listen to Glenn Beck, who is interviewing Steve Baker, to tell you about how he came across this footage and how that went down._
 
 ### Related
 

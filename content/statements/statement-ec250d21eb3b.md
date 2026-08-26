@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:00:42](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(42);return false;">Play</a>
 
-> The first term I want you to search is 'retrieve.' Look it up. When was the last time that you used the word 'retrieve' between you and a friend? Retrieve. I'm going to retrieve something. I played this game with my entire staff, and I was able to find, dating back for the last three years, two messages where someone used that term. The first person was somebody that was former military, and the second person was a cop.
+> The first term I want you to search is "retrieve." Look it up. When was the last time that you used the word "retrieve" between you and a friend? Retrieve. I'm going to retrieve something. I played this game with my entire staff, and I was able to find, dating back for the last three years, two messages where someone used that term. The first person was somebody that was former military, and the second person was a cop.
 
 ## Verification
 

@@ -1,14 +1,14 @@
 ---
 id: "G3zdOeHpvS0"
 title: "A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351"
-description: "A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 - 109 entities, 22 events, 0 claims"
+description: "A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 - 109 entities, 22 events, 18 factual claims"
 published: "2026-06-17"
 youtube_url: "https://www.youtube.com/watch?v=G3zdOeHpvS0"
 ---
 
 **Published:** 2026-06-17 | [Watch on YouTube](https://www.youtube.com/watch?v=G3zdOeHpvS0)
 
-**Stats:** 109 entities | 22 events | 0 claims
+**Stats:** 109 entities | 22 events | 18 factual claims
 
 ---
 

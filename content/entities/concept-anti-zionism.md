@@ -1,6 +1,6 @@
 ---
 title: "Anti-Zionism"
-description: "Anti-Zionism (Concepts) - 5 mentions"
+description: "Anti-Zionism (Concepts) - 6 mentions"
 id: "concept-anti-zionism"
 type: "CONCEPT"
 aliases:
@@ -18,10 +18,10 @@ _Type: Concepts_
 **Categories:** political ideology, Israel-Palestine discourse
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-anti-zionism-t-00-28-59">2026-02-11 · 00:28:59</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-concept-anti-zionism-t-00-40-02">2025-12-03 · 00:40:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-anti-zionism-t-00-18-44">2026-03-17 · 00:18:44</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ _Type: Concepts_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-anti-zionism-t-00-28-59">VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-his-JBjlkh8.md#ent-concept-anti-zionism-t-00-40-02" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-anti-zionism-t-00-28-59" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-anti-zionism-t-00-18-44" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
@@ -39,6 +40,7 @@ _Type: Concepts_
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-anti-zionism-t-00-40-02) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-anti-zionism-t-00-28-59) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-concept-anti-zionism-t-00-18-44) | 1 |
 
@@ -48,7 +50,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>
@@ -72,6 +74,14 @@ _Type: Concepts_
 
 **[00:30:23](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-anti-zionism-t-00-30-23)**
 > "As I said, anti-Zionism, by denying the right of the Jews to have their o..."
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+
+**[00:40:12](/episodes/ep-his-JBjlkh8.md#ent-concept-anti-zionism-t-00-40-02)**
+> "who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, ..."
 
 </details>
 

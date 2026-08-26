@@ -22,7 +22,7 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -149,7 +149,7 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about David Horowitz (3)</strong></summary>
+<summary><strong class="section-title">Statements about David Horowitz (4)</strong></summary>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
@@ -160,13 +160,15 @@ Source: [About Us | David Horowitz Freedom Center](https://www.dhfc.org/about-us
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
 
 - [00:11:37](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Claim) **Candace Owens**: ["David Horowitz is the father or stepfather to Andreessen Horowitz"](/statements/statement-55e762d9580e.md)
   - Also about: [Andreessen Horowitz](/entities/org-andreessen-horowitz.md)
 
 - [00:17:37](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-12) (Claim) **Candace Owens**: ["David Horowitz is the father or stepfather to Andreessen Horowitz, who..."](/statements/statement-f9977ffcb9dc.md)
   - Also about: [Andreessen Horowitz](/entities/org-andreessen-horowitz.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:18:16](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-56) (Claim) **Candace Owens**: ["David Horowitz is the father—or stepfather—to Andreessen Horowitz."](/statements/statement-a86c7dd8925a.md)
 
 </details>
 

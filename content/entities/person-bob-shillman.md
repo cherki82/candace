@@ -7,7 +7,7 @@ type: "PERSON"
 
 _Type: People_
 
-> **Possibly overlapping entity records:** [Robert J. Shillman](/entities/person-robert-j-shillman). These records share a name or alias; compare their histories before treating either count as complete.
+> **Possibly overlapping entity records:** [Robert J. Shillman](/entities/person-robert-j-shillman) · [Robert Shillman](/entities/person-robert-shillman). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-bob-shillman-t-00-42-16">2025-09-30 · 00:42:40</a></strong></div>
@@ -81,7 +81,7 @@ _No relationships extracted yet._
 <details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1)</summary>
 
-- [00:43:09](/episodes/ep-sreYYcID-QY.md#t-00-42-55) (Claim) **Candace Owens**: ["A Shulman guy said 'I want my name off of the building at Turning Poin..."](/statements/statement-6bec65e5649f.md)
+- [00:43:09](/episodes/ep-sreYYcID-QY.md#t-00-42-55) (Accusation) **Candace Owens**: ["Owens alleged that Robert Shillman demanded that his name be removed f..."](/statements/statement-6bec65e5649f.md)
 
 </details>
 

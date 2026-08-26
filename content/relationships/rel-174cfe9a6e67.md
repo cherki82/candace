@@ -11,7 +11,7 @@ object: "person-rob-mccoy"
 
 ## [Michael McCoy](/entities/person-michael-mccoy) child of [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (12 mentions)
+### Evidence (11 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -56,10 +56,6 @@ object: "person-rob-mccoy"
 **[The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA)**
 
 - [00:07:00](/episodes/ep-wcD2khO3rOA#t-00-07-00): _his father, Rob McCoy_
-
-**[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
-
-- [00:00:50](/episodes/ep-yAIb-NuUh_U#t-00-00-50): _Mikey McCoy son of Rob McCoy_
 
 ### Related
 

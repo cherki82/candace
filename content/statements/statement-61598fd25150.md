@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:12:12](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(732);return false;">Play</a>
 
-> Charlie's team did not fly drones major lie Brian told that lie
+> Shouldn't even exist Prior to Elon (Elon Musk) making that a thing about government accountability Charlie (Charlie Kirk)'s team did not fly drones major lie Brian (Brian Harpole) (Brian Harpole) told that lie Brian (Brian Harpole) (Brian Harpole) also told
 
 ## Verification
 

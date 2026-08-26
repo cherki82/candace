@@ -131,7 +131,7 @@ Source: [About ADL](https://www.adl.org/about)
 > "...nnouncement. They announced that they were going to cut ties with the ADL, right? You know what the ADL is? The Anti-Defamation League, and the reasons, well, because they had listed Charlie (Charlie Kir..."
 
 **[00:01:30](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-01-24)**
-> "... They announced that they were going to cut ties with the ADL, right? You know what the ADL is? The Anti-Defamation League, and the reasons, well, because they had listed Charlie (Charlie Kirk) (Charlie Kirk) and his organ..."
+> "The Anti-Defamation League, and the reasons, well, because they had listed Charlie (Charlie Kirk) and his organization, TPUSA,"
 
 **[00:01:40](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-01-24)**
 > "...arlie Kirk) and his organization, TPUSA, to be extremist. Everybody's an extremist according to the ADL. But I want you guys to know that this is not a subtle announcement. We need to unpack this announc..."

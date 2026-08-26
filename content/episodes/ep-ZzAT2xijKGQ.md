@@ -1,14 +1,14 @@
 ---
 id: "ZzAT2xijKGQ"
 title: "Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309"
-description: "Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 - 103 entities, 34 events, 0 claims"
+description: "Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 - 103 entities, 34 events, 20 factual claims"
 published: "2026-03-10"
 youtube_url: "https://www.youtube.com/watch?v=ZzAT2xijKGQ"
 ---
 
 **Published:** 2026-03-10 | [Watch on YouTube](https://www.youtube.com/watch?v=ZzAT2xijKGQ)
 
-**Stats:** 103 entities | 34 events | 0 claims
+**Stats:** 103 entities | 34 events | 20 factual claims
 
 ---
 

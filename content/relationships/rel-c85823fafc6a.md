@@ -13,10 +13,13 @@ object: "org-timpanogos-regional-hospital"
 
 ### Evidence (3 mentions)
 
+**[UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410)**
+
+- [00:20:38](/episodes/ep-N4uM8Jdr410#t-00-20-38): _Remember, we have the CEO of Timpanogos Regional Hospital, Andrew Zenger. He was appointed just a couple of weeks before Charlie Kirk's assassination._
+
 **[DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo)**
 
-- [00:00:30](/episodes/ep-YA1FxrDWNIo#t-00-00-30): _the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger_
-- [00:31:05](/episodes/ep-YA1FxrDWNIo#t-00-31-05): _brand-new CEO and head surgeon named Andrew Zenger_
+- [00:30:55](/episodes/ep-YA1FxrDWNIo#t-00-30-55): _And also something new is that that hospital had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger—a lot of new stuff happening._
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 

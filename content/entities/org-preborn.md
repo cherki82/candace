@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 190 mentions"
+description: "PreBorn! (Organizations) - 198 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-26-36">2026-06-26 · 00:26:36</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>190</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-28-09">2026-07-20 · 00:28:21</a></strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>198</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -96,6 +96,8 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-preborn-t-00-33-55" style="--pulse-height:43%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-preborn-t-00-31-05" style="--pulse-height:43%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54" style="--pulse-height:71%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-preborn-t-00-24-00" style="--pulse-height:43%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-27-35" style="--pulse-height:57%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 4 mentions" title="2026-07-20 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -160,6 +162,8 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-preborn-t-00-33-55) | 3 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-preborn-t-00-31-05) | 3 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54) | 5 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-preborn-t-00-24-00) | 3 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-27-35) | 4 |
 
 </details>
 </section>
@@ -167,7 +171,38 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (190)</strong></summary>
+<summary><strong class="section-title">Raw mentions (198)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4 mentions)</summary>
+
+**[00:27:51](/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-27-35)**
+> "That's why I'm making this critical request today. Give a special gift of $250 to preborn to honor our nation's milestone anniversary and to celebrate our great future ahead."
+
+**[00:28:01](/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-27-35)**
+> "...lp provide eight ultrasounds. Preborn is helping today's mothers choose life by providi..."
+
+**[00:28:09](/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-28-09)**
+> "...rthday with your $250 gift to Preborn today. To donate, simply dial pound 250 and say t..."
+
+**[00:28:21](/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-28-09)**
+> "...hat's pound 250 baby or visit preborn.com slash candace. And that's preborn.com slash C..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3 mentions)</summary>
+
+**[00:24:34](/episodes/ep-puuMVxEu5NU.md#ent-org-preborn-t-00-24-00)**
+> "...lp provide eight ultrasounds. Preborn is helping today's mothers choose life by providi..."
+
+**[00:24:43](/episodes/ep-puuMVxEu5NU.md#ent-org-preborn-t-00-24-43)**
+> "...rthday with your $250 gift to Preborn today."
+
+**[00:24:51](/episodes/ep-puuMVxEu5NU.md#ent-org-preborn-t-00-24-43)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace (Candace Owens). Again, that's ..."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (5 mentions)</summary>
@@ -910,10 +945,10 @@ Source: [PreBorn!](https://preborn.com/)
 > "...fundamentally untrue. But before we do that, I'm gonna throw it to a couple of our sponsors. First, Preborn. Because I have watched many people that I'm close with be vilified because they've stood up for tr..."
 
 **[00:30:56](/episodes/ep-ozWJz2spBcI.md#ent-org-preborn-t-00-30-32)**
-> "...sit this one out. Don't wait for permission. Be bold. Be clear. Be unapologetically pro-life. Go to preborn.org/Candace right now. Give $28. You can also give 10 times that amount if you can. This is the lin..."
+> "Go to preborn.org/Candace (Candace Owens) right now."
 
 **[00:31:09](/episodes/ep-ozWJz2spBcI.md#ent-org-preborn-t-00-30-32)**
-> "...and what is right. We have to save lives from abortion and stand firm in the gospel. Again, that is preborn.org/Candace. Provide an ultrasound for $28. Also want to tell you guys about the Comet AI browser b..."
+> "Again, that is preborn.org/Candace (Candace Owens)."
 
 </details>
 
@@ -1025,7 +1060,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
@@ -1036,6 +1071,8 @@ Source: [PreBorn!](https://preborn.com/)
 - [Candace x Hunter Biden: The Interview @ 00:26:46](/episodes/ep-Ux1kzgQxkws.md#t-00-26-38): “That's why Preborn exists through free ultrasounds, compassionate care and real support.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:30:54](/episodes/ep-sKuYLNx3iRo.md#t-00-30-24): “That is why I am making this critical request today. Give a special gift of $250 to pre-born to honor our country's 250th anniversary and to celebrate our great future ahead.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:26:01](/episodes/ep-a2bZf4fic10.md#t-00-25-54): “Give a special gift of”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:24:25](/episodes/ep-puuMVxEu5NU.md#t-00-24-00): “That's why I'm making this critical request today. Give a special gift of $250 to pre-born to honor our country's milestone anniversary and to celebrate our great future ahead.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:27:51](/episodes/ep-N4uM8Jdr410.md#t-00-27-35): “That's why I'm making this critical request today. Give a special gift of $250 to preborn to honor our nation's milestone anniversary and to celebrate our great future ahead.”
 
 </details>
 
@@ -1045,7 +1082,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
@@ -1056,6 +1093,8 @@ Source: [PreBorn!](https://preborn.com/)
 - [Candace x Hunter Biden: The Interview @ 00:26:46](/episodes/ep-Ux1kzgQxkws.md#t-00-26-38): “That's why Preborn exists through free ultrasounds, compassionate care and real support.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:30:54](/episodes/ep-sKuYLNx3iRo.md#t-00-30-24): “That is why I am making this critical request today. Give a special gift of $250 to pre-born to honor our country's 250th anniversary and to celebrate our great future ahead.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:26:01](/episodes/ep-a2bZf4fic10.md#t-00-25-54): “Give a special gift of”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:24:25](/episodes/ep-puuMVxEu5NU.md#t-00-24-00): “That's why I'm making this critical request today. Give a special gift of $250 to pre-born to honor our country's milestone anniversary and to celebrate our great future ahead.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:27:51](/episodes/ep-N4uM8Jdr410.md#t-00-27-35): “That's why I'm making this critical request today. Give a special gift of $250 to preborn to honor our nation's milestone anniversary and to celebrate our great future ahead.”
 
 </details>
 

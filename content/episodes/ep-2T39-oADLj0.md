@@ -1,14 +1,14 @@
 ---
 id: "2T39-oADLj0"
 title: "Myron Gaines x Candace Owens"
-description: "Myron Gaines x Candace Owens - 128 entities, 15 events, 0 claims"
+description: "Myron Gaines x Candace Owens - 128 entities, 15 events, 19 factual claims"
 published: "2026-01-16"
 youtube_url: "https://www.youtube.com/watch?v=2T39-oADLj0"
 ---
 
 **Published:** 2026-01-16 | [Watch on YouTube](https://www.youtube.com/watch?v=2T39-oADLj0)
 
-**Stats:** 128 entities | 15 events | 0 claims
+**Stats:** 128 entities | 15 events | 19 factual claims
 
 ---
 

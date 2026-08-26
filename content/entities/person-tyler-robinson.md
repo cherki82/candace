@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 662 mentions"
+description: "Tyler Robinson (People) - 682 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26">2026-08-14 · 04:01:26</a></strong></div>
-<div><span>Episodes</span><strong>80</strong></div>
-<div><span>Mentions</span><strong>662</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>292</strong></div>
+<div><span>Episodes</span><strong>84</strong></div>
+<div><span>Mentions</span><strong>682</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>315</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,7 +49,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-tyler-robinson-t-00-08-53" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tyler-robinson-t-00-06-18" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-tyler-robinson-t-00-18-12" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 14 mentions" title="2025-10-02 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-00-00" style="--pulse-height:15%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 15 mentions" title="2025-10-06 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-03-29" style="--pulse-height:15%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 15 mentions" title="2025-10-06 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-tyler-robinson-t-00-07-35" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 8 mentions" title="2025-10-07 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-tyler-robinson-t-00-35-41" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-tyler-robinson-t-00-52-57" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
@@ -115,6 +115,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-robinson-t-00-26-46" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 7 mentions" title="2026-06-26 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-tyler-robinson-t-00-02-38" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-tyler-robinson-t-00-00-01" style="--pulse-height:85%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 88 mentions" title="2026-07-14 · 88 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-robinson-t-00-32-47" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-08-27" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-03-06" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-09-10" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 103 mentions" title="2026-08-14 · 103 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -134,7 +138,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-tyler-robinson-t-00-08-53) | 2 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-tyler-robinson-t-00-06-18) | 3 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tyler-robinson-t-00-18-12) | 14 |
-| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-00-00) | 15 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-03-29) | 15 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-tyler-robinson-t-00-07-35) | 8 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-tyler-robinson-t-00-35-41) | 1 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-tyler-robinson-t-00-52-57) | 1 |
@@ -200,6 +204,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-robinson-t-00-26-46) | 7 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-tyler-robinson-t-00-02-38) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-tyler-robinson-t-00-00-01) | 88 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-robinson-t-00-32-47) | 2 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-08-27) | 8 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-03-06) | 4 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-09-10) | 6 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41) | 103 |
 
 </details>
@@ -208,7 +216,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (662)</strong></summary>
+<summary><strong class="section-title">Raw mentions (682)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (103 mentions)</summary>
@@ -525,6 +533,75 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (6 mentions)</summary>
+
+**[00:09:27](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-09-10)**
+> "And don't forget, I must stress, this is after they arrested Tyler Robinson, seized the text messages, had the ability to review them, and review the footage everywhere on campus, presumably."
+
+**[00:11:28](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-10-57)**
+> "...ork after that because it had Tyler Robinson's DNA on it?"
+
+**[00:48:20](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-48-13)**
+> "—of Tyler Robinson. For some reason, everything is so blurry. We can..."
+
+**[00:49:28](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-48-55)**
+> "... three TPUSA folk that Tyler (Tyler Robinson) met with before the assassination?"
+
+**[00:49:35](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-49-35)**
+> "...is going to say that they saw Tyler Robinson."
+
+**[00:49:53](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-49-35)**
+> "...aroon shirt and say, that was Tyler Robinson and this is the person that's the eyewitness, we ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (8 mentions)</summary>
+
+**[00:08:27](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-08-27)**
+> "another portion of the Tyler Robinson hearing"
+
+**[00:36:04](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-35-38)**
+> "...vidence is overwhelming. that Tyler Robinson did this, that felt like an Israel influence camp..."
+
+**[00:44:32](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-44-32)**
+> "...n that they are saying Tyler (Tyler Robinson) used to kill Charlie (Charlie Kirk)."
+
+**[00:44:39](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-44-32)**
+> "...ve just seen no evidence that Tyler Robinson had anything to do. you with Charlie (Charlie Kir..."
+
+**[00:50:55](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-50-21)**
+> "Ray Draper writes, in Tyler (Tyler Robinson)'s text messages, he says that they interrogated ..."
+
+**[00:53:54](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-53-54)**
+> "...ldn't know that. So where did Tyler Robinson learn those moves if we're supposed to go with th..."
+
+**[00:54:11](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-53-54)**
+> "...Depp are now ready to convict Tyler Robinson on that overwhelming evidence?"
+
+**[00:55:10](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-55-10)**
+> "...rer I still think it's Tyler (Tyler Robinson)"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4 mentions)</summary>
+
+**[00:03:06](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-03-06)**
+> "...know? We know that they found Tyler Robinson in just 33 hours."
+
+**[00:13:27](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-13-01)**
+> "...l you exactly, since they saw Tyler Robinson, exactly who was on that rooftop with you with th..."
+
+**[00:13:59](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-13-39)**
+> "...'s 4K HD and you're sure it's Tyler Robinson, it better be 4K HD when we figure out who went o..."
+
+**[00:45:35](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-45-14)**
+> "...t show a video of the back of Tyler Robinson in a room. They're like, look, it's Tyler Robinso..."
+
+</details>
+
+<details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (88 mentions)</summary>
 
 **[00:00:07](/episodes/ep-EtLHqDbxqks.md#ent-person-tyler-robinson-t-00-00-01)**
@@ -790,6 +867,17 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[01:20:38](/episodes/ep-EtLHqDbxqks.md#ent-person-tyler-robinson-t-01-20-21)**
 > "...are they going to take Tyler (Tyler Robinson) out? What is this weird narrative they're now tr..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:33:07](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-robinson-t-00-32-47)**
+> "...n the day, the first day of a Tyler Robinson trial of being a digital assassin."
+
+**[00:49:39](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-robinson-t-00-49-39)**
+> "...d Massie (Thomas Massie), and Tyler Robinson being found guilty does not change these facts."
 
 </details>
 
@@ -2058,17 +2146,17 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details>
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (15 mentions)</summary>
 
-**[00:00:27](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-00-00)**
-> "...t their TP Action COO, Tyler (Tyler Robinson) Bowyer, went on a little bit of an X binge."
+**[00:00:27](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-03-29)**
+> "Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge."
 
 **[00:04:03](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-03-29)**
 > "..., "So they want us to forgive Tyler Robinson, but to attack the people that are trying to solv..."
 
 **[00:23:56](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-23-46)**
-> "...ly conflicts with what Tyler (Tyler Robinson) Bowyer is about to say—what he said over this we..."
+> "But what he said actually conflicts with what Tyler Bowyer is about to say—what he said over this weekend, okay?"
 
 **[00:24:04](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-23-46)**
-> "Tyler (Tyler Robinson) Bowyer, like I said, he's a COO of Turning Point..."
+> "Tyler Bowyer, like I said, he's a COO of Turning Point Action, and he went on this kind of bender—worst kind of bender, Twitter bender—defending the organization."
 
 **[00:24:19](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-23-46)**
 > "...rried about theft, but Tyler (Tyler Robinson) says that actually"
@@ -2079,8 +2167,8 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 **[00:25:05](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-24-30)**
 > "What Tyler (Tyler Robinson) is saying is not true."
 
-**[00:25:44](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-25-06)**
-> "...before lockdown" until Tyler (Tyler Robinson) Bowyer tweeted this weekend. I don't like it, ok..."
+**[00:25:44](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-24-30)**
+> ""Police officers asked them to secure the footage before lockdown" until Tyler Bowyer tweeted this weekend. I don't like it, okay?"
 
 **[00:25:51](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-25-51)**
 > "Now, to be fair, Tyler (Tyler Robinson) is making it clear that he is responding to all ..."
@@ -2094,14 +2182,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 **[00:28:56](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-28-22)**
 > "...ce should further incriminate Tyler Robinson."
 
-**[00:39:55](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-39-32)**
-> "... on another tweet from Tyler (Tyler Robinson) Bowyer, where he responds to someone asking abou..."
+**[00:39:55](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-28-22)**
+> "Anyways, Alex (Alex Clark) has decided to share a total half-truth PR spin on another tweet from Tyler Bowyer, where he responds to someone asking about Charlie (Charlie Kirk) establishing a DOJ department."
 
 **[00:40:20](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-40-13)**
 > "And here's what Tyler (Tyler Robinson) says about that:"
 
 **[00:40:24](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-robinson-t-00-40-13)**
-> "(Tyler (Tyler Robinson) Bowyer tweet quote:) "She took a sentence and ma..."
+> "(Tyler Bowyer tweet quote:) "She took a sentence and made something up."
 
 </details>
 
@@ -2141,7 +2229,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 **[00:31:51](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tyler-robinson-t-00-31-51)**
 > "... to find a representation for Tyler Robinson."
 
-**[00:32:37](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tyler-robinson-t-00-32-35)**
+**[00:32:37](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tyler-robinson-t-00-32-28)**
 > "...m to find a lawyer for Tyler (Tyler Robinson), but it would be illegal if he was a state prose..."
 
 **[00:33:19](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tyler-robinson-t-00-32-51)**
@@ -2825,7 +2913,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tyler Robinson (3)</strong></summary>
+<summary><strong class="section-title">Statements by Tyler Robinson (5)</strong></summary>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
@@ -2846,10 +2934,25 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 </details>
 
+<details>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (1)</summary>
+
+- [00:21:43](/episodes/ep-2WEHTk0Xewg.md#t-00-21-38) [✓] (Claim) ["Since Trump got into office, my dad has been pretty die-hard MAGA"](/statements/statement-68838edab26a.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1)</summary>
+
+- [00:07:22](/episodes/ep-q7f8r-THr84.md#t-00-06-59) [○] (Claim) ["Tyler Robinson told his lover/roommate to delete incriminating text messages and..."](/statements/statement-666a203b4adc.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (292)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (315)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (22)</summary>
@@ -2916,6 +3019,38 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
+
+- [00:08:45](/episodes/ep-N4uM8Jdr410.md#t-00-08-45) (Claim) **Spencer Cox** (via quoted speech): ["Spencer Cox said the suspect wore different clothing when first spotte..."](/statements/statement-6f2386370376.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:11:28](/episodes/ep-N4uM8Jdr410.md#t-00-10-57) (Accusation) **Candace Owens**: ["Candace Owens asked rhetorically whether officials had already planted..."](/statements/statement-204835c0e1f6.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [00:12:59](/episodes/ep-N4uM8Jdr410.md#t-00-12-59) (Claim) **Dan Bongino** (via quoted speech): ["Dan Bongino said the suspect was not cooperating and the available vid..."](/statements/statement-94f2c908e946.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:44:39](/episodes/ep-puuMVxEu5NU.md#t-00-44-32) (Opinion) **Candace Owens**: ["Owens said her investigation led her to believe Tyler Robinson was on ..."](/statements/statement-dfee63606024.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Dairy Queen](/entities/org-dairy-queen.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>
+
+- [00:03:06](/episodes/ep-mLvJqdxS-FY.md#t-00-03-06) (Claim) **Candace Owens**: ["Candace Owens said Tyler Robinson was found within 33 hours."](/statements/statement-1a2bbea5b3b4.md)
+
+- [00:03:12](/episodes/ep-mLvJqdxS-FY.md#t-00-03-06) (Claim) **Candace Owens**: ["Candace Owens said authorities had found a gun and a screwdriver beari..."](/statements/statement-52d2f19a85ca.md)
+  - Also about: [FBI](/entities/org-fbi.md)
 
 </details>
 
@@ -3028,6 +3163,17 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
   - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Dairy Queen](/entities/org-dairy-queen.md)
 
 - [01:20:21](/episodes/ep-EtLHqDbxqks.md#t-01-20-21) (Prediction) **Candace Owens**: ["Candace Owens predicted that Tyler Robinson's trial would last five ye..."](/statements/statement-f5121e538466.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>
+
+- [00:33:07](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47) (Citation) **Candace Owens**: ["Owens said the NCRI report accusing her of being a digital assassin wa..."](/statements/statement-dfd655304868.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk](/entities/work-permission-to-kill-ncri-report.md)
+
+- [00:37:19](/episodes/ep-X3VKJVJ7cN4.md#t-00-37-07) (Prediction) **Candace Owens**: ["Owens asked whether her opponents might kill Tyler Robinson or fabrica..."](/statements/statement-fa9d14d2657d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -3611,11 +3757,17 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (4)</summary>
+<summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (6)</summary>
+
+- [00:01:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-01-23) (Claim) **Candace Owens**: ["Tyler Robinson made his first in-person court appearance in December 2..."](/statements/statement-b03211c3f08a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:13:11](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) (Claim) **Candace Owens**: ["Tyler Robinson was arrested at Dairy Queen following the assassination..."](/statements/statement-b87065ae62c0.md)
 
 - [00:13:23](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) (Claim) **Candace Owens** (via paraphrase): ["Tyler Robinson was suicidal but also turned himself in because he was ..."](/statements/statement-99f64e0b3f89.md)
+
+- [00:13:24](/episodes/ep-6J6lRZPQ4jk.md#t-00-13-24) (Claim) **Candace Owens** (via paraphrase): ["Owens said an unconfirmed photograph appeared to show Tyler Robinson a..."](/statements/statement-73b4c96e185e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:33:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-33-23) (Opinion) **Candace Owens**: ["Tyler Robinson was involved on the day of the shooting but was not on ..."](/statements/statement-66cbc5d50354.md)
 
@@ -3633,11 +3785,21 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:18:53](/episodes/ep-mKXdKV-OBog.md#t-00-18-21) (Opinion) **Candace Owens**: ["Multiple people at the Charlie Kirk event on September 10th were weari..."](/statements/statement-b557bb73bee9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4)</summary>
 
 - [00:38:09](/episodes/ep-sImMM04XdWY.md#t-00-37-36) (Claim) **Candace Owens**: ["Both students who posted videos of the alleged shooter on the roof wer..."](/statements/statement-93fbe6678eff.md)
 
 - [00:42:03](/episodes/ep-sImMM04XdWY.md#t-00-41-20) (Claim) **Candace Owens** (via quoted article): ["Washington County Sheriff's Office stated the surveillance footage of ..."](/statements/statement-e6666665e8f5.md)
+
+- [00:42:42](/episodes/ep-sImMM04XdWY.md#t-00-42-14) (Claim) **Candace Owens**: ["Surveillance footage of Tyler Robinson turning himself in to Washingto..."](/statements/statement-f3fd2bcfecbc.md)
 
 - [00:43:26](/episodes/ep-sImMM04XdWY.md#t-00-42-54) (Claim) **Candace Owens**: ["Tyler Robinson appears electronically for court hearings and doesn't h..."](/statements/statement-a2d763e2446c.md)
 
@@ -3670,10 +3832,18 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1)</summary>
+
+- [00:36:38](/episodes/ep-5autG89PW6w.md#t-00-36-12) (Opinion) **Candace Owens**: ["Tyler Robinson was involved in the Charlie Kirk assassination, driving..."](/statements/statement-1080c0f2a57e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (11)</summary>
 
 - [00:02:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-13) (Claim) **Candace Owens** (via paraphrase): ["The FBI is saying that if you don't close the case against Charlie Kir..."](/statements/statement-ace1325ce121.md)
-  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [FBI](/entities/org-fbi.md)
 
 - [00:02:31](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-13) (Claim) **Anonymous Source #1 (Ep QZWSsq8ZWzw)** (via read message): ["The FBI says that if Utah doesn't close the case against Charlie Kirk ..."](/statements/statement-826cd85e0ae9.md)
   - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -3708,13 +3878,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (18)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (20)</summary>
 
 - [00:02:24](/episodes/ep-sreYYcID-QY.md#t-00-02-05) (Opinion) **Candace Owens**: ["In the Tyler-Lance text messages, Tyler Robinson uses the word 'squad ..."](/statements/statement-f8d935137fcc.md)
 
 - [00:02:39](/episodes/ep-sreYYcID-QY.md#t-00-02-05) (Accusation) **Candace Owens**: ["Tyler Robinson wrote 'squad car' in his text messages to Lance, which ..."](/statements/statement-a0da34a16881.md)
 
 - [00:02:59](/episodes/ep-sreYYcID-QY.md#t-00-02-45) (Opinion) **Candace Owens**: ["Tyler Robinson used the term 'squad car' in text messages, which indic..."](/statements/statement-7f6c60923e4e.md)
+
+- [00:02:59](/episodes/ep-sreYYcID-QY.md#t-00-02-45) (Opinion) **Candace Owens**: ["Tyler Robinson's alleged text messages use language like squad car and..."](/statements/statement-a7d59b6f039c.md)
 
 - [00:03:14](/episodes/ep-sreYYcID-QY.md#t-00-02-45) (Accusation) **Candace Owens**: ["Tyler Robinson wrote 'I changed outfits' in his messages, which is fem..."](/statements/statement-57807731d94b.md)
 
@@ -3727,6 +3899,8 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 - [00:05:44](/episodes/ep-sreYYcID-QY.md#t-00-05-26) (Claim) **Candace Owens**: ["A photo allegedly taken at 6:38 PM at a nearby Dairy Queen shows Tyler..."](/statements/statement-48eba30b95a8.md)
 
 - [00:05:47](/episodes/ep-sreYYcID-QY.md#t-00-05-26) (Claim) **Candace Owens**: ["A photo of Tyler Robinson was taken at 6:38 PM at a nearby Dairy Queen"](/statements/statement-f8d65dfb2776.md)
+
+- [00:05:55](/episodes/ep-sreYYcID-QY.md#t-00-05-26) (Opinion) **Candace Owens**: ["Photo allegedly shows Tyler Robinson at Dairy Queen at 6:38pm on Septe..."](/statements/statement-b4ff9f8cf52b.md)
 
 - [00:06:14](/episodes/ep-sreYYcID-QY.md#t-00-06-07) (Claim) **Candace Owens**: ["In the Dairy Queen photo, Tyler Robinson is wearing jeans and a maroon..."](/statements/statement-b1e911c15f9a.md)
 
@@ -3750,12 +3924,15 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (21)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (22)</summary>
 
 - [00:00:42](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01) (Opinion) **Candace Owens**: ["The words 'retrieve' and 'vehicle' were used repeatedly in Tyler Robin..."](/statements/statement-ec250d21eb3b.md)
 
 - [00:02:42](/episodes/ep-2WEHTk0Xewg.md#t-00-02-22) (Accusation) **Candace Owens**: ["The text messages that were released in the indictment of Tyler Robins..."](/statements/statement-6d44fb42226a.md)
   - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:02:43](/episodes/ep-2WEHTk0Xewg.md#t-00-02-22) (Opinion) **Candace Owens**: ["The text messages released between Tyler Robinson and Lance Twiggs app..."](/statements/statement-6e09814c7e56.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 - [00:03:16](/episodes/ep-2WEHTk0Xewg.md#t-00-03-06) (Claim) **Candace Owens**: ["The text messages between Tyler Robinson and Lance Twiggs released in ..."](/statements/statement-e254be4eeea5.md)
 
@@ -3809,13 +3986,19 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (17)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (24)</summary>
 
 - [00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-45) (Claim) **Candace Owens**: ["The indictment against Tyler Robinson was just released"](/statements/statement-ba26c141ef0b.md)
 
 - [00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-06-59) (Claim) **Candace Owens** (via quoted document): ["Tyler James Robinson surrendered to police at Washington County Sherif..."](/statements/statement-ac0e06512d64.md)
 
 - [00:07:14](/episodes/ep-q7f8r-THr84.md#t-00-06-59) (Claim) **Candace Owens** (via quoted document): ["DNA consistent with Robinson was found on the rifle trigger"](/statements/statement-a2a35e1127ad.md)
+
+- [00:07:22](/episodes/ep-q7f8r-THr84.md#t-00-06-59) (Claim) **Tyler Robinson** (via quoted speech): ["Tyler Robinson told his lover/roommate to delete incriminating text me..."](/statements/statement-666a203b4adc.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:08:07](/episodes/ep-q7f8r-THr84.md#t-00-07-39) (Claim) **Candace Owens**: ["Surveillance camera recorded individual in dark clothing who crossed r..."](/statements/statement-c94566f55e07.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:09:27](/episodes/ep-q7f8r-THr84.md#t-00-08-44) (Claim) **Candace Owens** (via quoted document): ["The suspect entered campus at approximately 11:51 a.m."](/statements/statement-f50cfca3b118.md)
 
@@ -3838,11 +4021,26 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [00:17:54](/episodes/ep-q7f8r-THr84.md#t-00-17-33) (Accusation) **Candace Owens** (via paraphrase): ["Tyler Robinson could not have acted alone, this had to be a part of so..."](/statements/statement-6671bc02f304.md)
 
+- [00:18:30](/episodes/ep-q7f8r-THr84.md#t-00-18-12) (Claim) **Candace Owens**: ["Tyler's trans boyfriend's name is Lance Twiggs."](/statements/statement-052d175ec6ab.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:19:54](/episodes/ep-q7f8r-THr84.md#t-00-19-40) (Claim) **Candace Owens**: ["On September 10, 2025, Tyler Robinson sent text message to roommate sa..."](/statements/statement-667c3542eeb2.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:20:14](/episodes/ep-q7f8r-THr84.md#t-00-19-40) (Claim) **Candace Owens**: ["Lance Twiggs found a note under keyboard stating 'I had the opportunit..."](/statements/statement-378f6c7c2692.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
 - [00:21:59](/episodes/ep-q7f8r-THr84.md#t-00-21-52) (Claim) **Candace Owens** (via quoted document): ["Robinson had been planning the shooting for a bit over a week"](/statements/statement-976e8ce5d5da.md)
 
 - [00:27:47](/episodes/ep-q7f8r-THr84.md#t-00-27-42) (Accusation) **Candace Owens**: ["The text messages between Robinson and his roommate are doctored or ch..."](/statements/statement-4ce8153a7e79.md)
 
+- [00:29:34](/episodes/ep-q7f8r-THr84.md#t-00-29-06) (Claim) **Candace Owens**: ["The house that Tyler Robinson was living in with Lance Twiggs is owned..."](/statements/statement-53137958a430.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
 - [00:29:58](/episodes/ep-q7f8r-THr84.md#t-00-29-34) (Claim) **Candace Owens**: ["The house that Tyler Robinson was living in with Lance Twiggs is owned..."](/statements/statement-c554632adb3e.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [00:29:58](/episodes/ep-q7f8r-THr84.md#t-00-29-34) (Claim) **Candace Owens**: ["House where Tyler Robinson lived with Lance Twiggs is owned by Lance T..."](/statements/statement-c8d5e18bf6cc.md)
   - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 - [00:33:58](/episodes/ep-q7f8r-THr84.md#t-00-33-29) (Claim) **Candace Owens**: ["There was unusual traffic with many cars outside the house where Tyler..."](/statements/statement-a0b3fbe39aea.md)

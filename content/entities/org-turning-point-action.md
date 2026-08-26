@@ -26,7 +26,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <div><span>Episodes</span><strong>17</strong></div>
 <div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -243,7 +243,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 **[00:34:30](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-action-t-00-34-07)**
 > "...Turning Point USA lists four related entities. There is Turning Point USA, Turning Point Endowment, Turning Point Action, and America's Turning Point. All different organizations do slightly different things. The Form 99..."
 
-**[00:41:41](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-action-t-00-41-13)**
+**[00:41:41](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-action-t-00-41-22)**
 > "...accounting firm called Baker Tilly. In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch. That usually means they audited..."
 
 </details>
@@ -395,7 +395,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (17)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Action (18)</strong></summary>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
@@ -494,6 +494,14 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 - [00:50:28](/episodes/ep-zSKrxIUMNqw.md#t-00-50-17) (Accusation) **Anonymous Source #5 (Ep zSKrxIUMNqw)** (via paraphrase): ["A Turning Point USA insider alleged that substantial funds were missin..."](/statements/statement-a5d9ef0a6156.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:36:58](/episodes/ep-JQjCAsfoXEE.md#t-00-36-17) (Claim) **Candace Owens**: ["Turning Point USA missed both the regular and extended filing deadline..."](/statements/statement-7976ab1bec7a.md)
+  - Also about: [America's Turning Point](/entities/org-americas-turning-point.md), [Turning Point Endowment](/entities/org-turning-point-endowment.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

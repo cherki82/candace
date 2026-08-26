@@ -28,9 +28,9 @@ Source: [Etsy: About](https://www.etsy.com/about)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55">BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-etsy-t-00-29-12">BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55" style="--pulse-height:67%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-etsy-t-00-42-38" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-etsy-t-00-08-07" style="--pulse-height:67%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-etsy-t-00-29-12" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
@@ -39,7 +39,7 @@ Source: [Etsy: About](https://www.etsy.com/about)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55) | 3 |
+| 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-etsy-t-00-42-38) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-etsy-t-00-08-07) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-etsy-t-00-29-12) | 3 |
@@ -86,13 +86,10 @@ Source: [Etsy: About](https://www.etsy.com/about)
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
 
 **[00:34:25](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55)**
 > "... women, Jezebel is more than happy to be the hag of his nightmares." And they went onto the website Etsy—yes, Etsy—to, quote, "cast a curse on him." Yes, this is actually a thing. Etsy, the website known ..."
-
-**[00:34:30](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55)**
-> "they went onto the website Etsy to cast a curse on him"
 
 **[00:34:32](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-34-32)**
 > "...nt onto the website Etsy—yes, Etsy—to, quote, "cast a curse on him." Yes, this is actually a thing. Etsy, the website known for making arts and crafts on demand, will happily cast a hex through its witche..."

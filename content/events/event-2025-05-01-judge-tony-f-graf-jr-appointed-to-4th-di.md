@@ -11,10 +11,20 @@ date: "2025-05-01"
 
 > Judge Tony F. Graf Jr. appointed to 4th District Court by Governor Spencer Cox
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
 **Timestamp:** [00:06:32](/episodes/ep-adJ4LNGp84I.md#event-event-2025-05-01-judge-tony-f-graf-jr-appointed-to-4th-di-t-00-06-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(392);return false;">▶️ Play</a>
 
 > He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.
+
+### 2. UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witne...
+
+**Episode:** [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md)
+**Timestamp:** [00:20:46](/episodes/ep-N4uM8Jdr410.md#event-event-2025-05-01-judge-tony-f-graf-jr-appointed-to-4th-di-t-00-20-46) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1246);return false;">▶️ Play</a>
+
+> Of course, Judge Tony Graff was appointed in May 2025.

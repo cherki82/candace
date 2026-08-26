@@ -1,14 +1,14 @@
 ---
 id: "SgVcnx4Oh30"
 title: "REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315"
-description: "REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 - 78 entities, 15 events, 0 claims"
+description: "REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 - 78 entities, 15 events, 17 factual claims"
 published: "2026-03-24"
 youtube_url: "https://www.youtube.com/watch?v=SgVcnx4Oh30"
 ---
 
 **Published:** 2026-03-24 | [Watch on YouTube](https://www.youtube.com/watch?v=SgVcnx4Oh30)
 
-**Stats:** 78 entities | 15 events | 0 claims
+**Stats:** 78 entities | 15 events | 17 factual claims
 
 ---
 

@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:08:39](/episodes/ep-vwG1juDCQZQ.md#t-00-08-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(519);return false;">Play</a>
 
-> he talked about how angry he was with God. And I've never felt that. I'm not angry with God. Never have I. Never have I questioned, 'Why, Lord, are you putting me through this?'
+> And I've never felt that. I'm not angry with God. Never have I. Never have I questioned, "Why, Lord, are you putting me through this?"
 
 ## Verification
 

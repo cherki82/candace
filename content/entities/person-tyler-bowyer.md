@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 211 mentions"
+description: "Tyler Bowyer (People) - 222 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-bowyer-t-00-15-37">2026-06-26 · 00:16:07</a></strong></div>
-<div><span>Episodes</span><strong>55</strong></div>
-<div><span>Mentions</span><strong>211</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-bowyer-t-00-51-41">2026-07-20 · 00:52:16</a></strong></div>
+<div><span>Episodes</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>222</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
-<div><span>Statements about</span><strong>58</strong></div>
-<div><span>Relationships</span><strong>60</strong></div>
+<div><span>Statements about</span><strong>66</strong></div>
+<div><span>Relationships</span><strong>62</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,7 +37,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-11">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (18 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#t-00-00-00" style="--pulse-height:33%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 6 mentions" title="2025-10-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-00-00" style="--pulse-height:33%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 6 mentions" title="2025-10-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-tyler-bowyer-t-00-20-43" style="--pulse-height:11%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-tyler-bowyer-t-01-07-18" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-tyler-bowyer-t-00-20-54" style="--pulse-height:11%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
@@ -91,13 +91,17 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-tyler-bowyer-t-00-46-02" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-bowyer-t-00-06-56" style="--pulse-height:11%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-bowyer-t-00-15-37" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-19-15" style="--pulse-height:33%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-bowyer-t-00-07-06" style="--pulse-height:11%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-bowyer-t-00-49-21" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-bowyer-t-00-49-35" style="--pulse-height:11%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28) | 1 |
-| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#t-00-00-00) | 6 |
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-00-00) | 6 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-tyler-bowyer-t-00-20-43) | 2 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-tyler-bowyer-t-01-07-18) | 1 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-tyler-bowyer-t-00-20-54) | 2 |
@@ -151,6 +155,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-tyler-bowyer-t-00-46-02) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-bowyer-t-00-06-56) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-bowyer-t-00-15-37) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-19-15) | 6 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-bowyer-t-00-07-06) | 2 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-bowyer-t-00-49-21) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-bowyer-t-00-49-35) | 2 |
 
 </details>
 </section>
@@ -158,7 +166,60 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (211)</strong></summary>
+<summary><strong class="section-title">Raw mentions (222)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:50:06](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-bowyer-t-00-49-35)**
+> "I say it keeps coming back to the Mormons and the web connected to the Tyler Bowyer family who are Mormons, just pointing out how many involved are Mormon. Of course, Farnsworth's big Mormon family taking down the cameras. They go back. They go way back."
+
+**[00:52:16](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-bowyer-t-00-51-41)**
+> "—Tyler Bowyer and the Farnsworths and her mother. They go back,..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
+
+**[00:06:56](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-bowyer-t-00-07-06)**
+> "Tyler Bowyer's dad"
+
+**[00:07:06](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-bowyer-t-00-07-06)**
+> "...ering if he happened to cross Tyler Bowyer's dad who temporarily located Tyler (Tyler Bowyer) ..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:49:21](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-bowyer-t-00-49-21)**
+> "...emember it all and by the way tyler boyer even that the chats because we would also chat ab..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (6 mentions)</summary>
+
+**[00:19:22](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-19-15)**
+> "...s going to be a connection to Tyler Bowyer?"
+
+**[00:22:31](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-21-58)**
+> "...rill Lynch in Chicago, so did Tyler Bowyer's father, major executive at Bank of America Merril..."
+
+**[00:23:35](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-23-21)**
+> "... that makes sense. You've got Tyler Bowyer, you've got Elizabeth McCoy and her entire Ukrain..."
+
+**[00:24:40](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-24-01)**
+> "... at Bank of America. In fact, Tyler Bowyer's first job was at Bank of America."
+
+**[00:25:50](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-25-22)**
+> "... back and be in this orbit of Tyler Bowyer and co."
+
+**[00:49:47](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-49-39)**
+> "...e to remembering how she knew Tyler Bowyer."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -853,7 +914,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 **[00:40:12](/episodes/ep-ZAuuSq_j2_w.md#ent-person-tyler-bowyer-t-00-40-08)**
 > "...tion. Thank you so much, Deb. She wrote: "You may need some help with legal fees." Yeah, yeah. Also Tyler Bowyer—fun little update—sends a text or something. They're all just so insincere. I don't know—sent an em..."
 
-**[00:40:36](/episodes/ep-ZAuuSq_j2_w.md#ent-person-tyler-bowyer-t-00-40-08)**
+**[00:40:34](/episodes/ep-ZAuuSq_j2_w.md#ent-person-tyler-bowyer-t-00-40-08)**
 > "Also Tyler Bowyer—fun little update—sends a text or something."
 
 </details>
@@ -876,19 +937,19 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (5 mentions)</summary>
 
 **[00:13:27](/episodes/ep-a-e7HC6SeK8.md#ent-person-tyler-bowyer-t-00-13-20)**
-> "...he way, is the senior advancement director at Turning Point USA. She was brought in specifically by Tyler Bowyer to raise money and to take Turning Point to the next level. And regarding Tyler Bowyer, now we coul..."
+> "She was brought in specifically by Tyler Bowyer (Tyler Bowyer) to raise money and to take Turning Point to the next level."
 
 **[00:13:33](/episodes/ep-a-e7HC6SeK8.md#ent-person-tyler-bowyer-t-00-13-20)**
-> "...cifically by Tyler Bowyer to raise money and to take Turning Point to the next level. And regarding Tyler Bowyer, now we could say— maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump pard..."
+> "And regarding Tyler Bowyer (Tyler Bowyer), now we could say—"
 
 **[00:13:35](/episodes/ep-a-e7HC6SeK8.md#ent-person-tyler-bowyer-t-00-13-20)**
-> "...ybe a couple of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago. So we can't—that's actually not real. He's been pardoned. But he is always u..."
+> "maybe a couple of weeks ago—that he's a criminal, but actually Donald Trump (Donald Trump) pardoned him. He pardoned Tyler Bowyer (Tyler Bowyer) a couple of weeks ago."
 
 **[00:24:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-tyler-bowyer-t-00-24-50)**
-> "...dit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer—who was the COO. And then we have the first known public going out in local media that Charlie's (C..."
+> "And he announces that Justin Strife (Justin Strife) is going to be the new COO, taking over for Tyler Bowyer (Tyler Bowyer)—who was the COO."
 
 **[00:47:13](/episodes/ep-a-e7HC6SeK8.md#ent-person-tyler-bowyer-t-00-47-13)**
-> "...f our sleuths—that Turning Point might potentially now be becoming a real estate empire? Apparently Tyler Bowyer has a younger brother who—for 10 years—has worked in dental sales until Charlie (Charlie Kirk) died..."
+> "Apparently Tyler Bowyer (Tyler Bowyer) has a younger brother who—for 10 years—has worked in dental sales until Charlie (Charlie Kirk) died, because a unique opportunity presented itself at Turning Point USA where Tyler (Tyler Bowyer) had begun telling people that TPUSA plans to roll out a program to build houses for first-time home buyers."
 
 </details>
 
@@ -906,7 +967,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 **[00:34:58](/episodes/ep-JQjCAsfoXEE.md#ent-person-tyler-bowyer-t-00-34-50)**
 > "...the other three organizations. It looks like it was never turned in. This is a massive red flag. So Tyler Bowyer is being snarky on X.com and telling people to go look at the annual financial audit, but the finan..."
 
-**[00:41:22](/episodes/ep-JQjCAsfoXEE.md#ent-person-tyler-bowyer-t-00-41-13)**
+**[00:41:22](/episodes/ep-JQjCAsfoXEE.md#ent-person-tyler-bowyer-t-00-41-22)**
 > "...ey conducted their own audit using a firm called Baker Tilly. I'll let him take it away. What about Tyler Bowyer's argument that they have an annual financial audit every year? If what I am saying is true, why wo..."
 
 </details>
@@ -1040,23 +1101,23 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details>
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (6 mentions)</summary>
 
-**[00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00)**
+**[00:00:27](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-00-00)**
 > "... I've really had enough of it. Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge. I don't recommend it, which was then highlighted by Alex Clark..."
 
-**[00:23:56](/episodes/ep-ozWJz2spBcI.md#t-00-23-46)**
+**[00:23:56](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-23-46)**
 > "...g it live—whatever it is. It was being live-streamed. But what he said actually conflicts with what Tyler Bowyer is about to say—what he said over this weekend, okay? Tyler Bowyer, like I said, he's a COO of Turn..."
 
-**[00:24:04](/episodes/ep-ozWJz2spBcI.md#t-00-23-46)**
+**[00:24:04](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-23-46)**
 > "...aid actually conflicts with what Tyler Bowyer is about to say—what he said over this weekend, okay? Tyler Bowyer, like I said, he's a COO of Turning Point Action, and he went on this kind of bender—worst kind of ..."
 
-**[00:25:44](/episodes/ep-ozWJz2spBcI.md#t-00-25-06)**
-> "...icers. No one's ever heard "Police officers asked them to secure the footage before lockdown" until Tyler Bowyer tweeted this weekend. I don't like it, okay? I just don't like it. Now, to be fair, Tyler is making..."
+**[00:25:44](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-25-06)**
+> ""Police officers asked them to secure the footage before lockdown" until Tyler Bowyer tweeted this weekend. I don't like it, okay?"
 
-**[00:39:55](/episodes/ep-ozWJz2spBcI.md#t-00-39-32)**
-> "... to themselves. Anyways, Alex has decided to share a total half-truth PR spin on another tweet from Tyler Bowyer, where he responds to someone asking about Charlie (Charlie Kirk) establishing a DOJ department. Ag..."
+**[00:39:55](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-39-32)**
+> "Anyways, Alex (Alex Clark) has decided to share a total half-truth PR spin on another tweet from Tyler Bowyer, where he responds to someone asking about Charlie (Charlie Kirk) establishing a DOJ department."
 
-**[00:40:24](/episodes/ep-ozWJz2spBcI.md#t-00-40-13)**
-> "...OO, but we read the entirety related to the DOJ department. And here's what Tyler says about that: (Tyler Bowyer tweet quote:) "She took a sentence and made something up. TPUSA does an audit every year—always has..."
+**[00:40:24](/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-40-13)**
+> "(Tyler Bowyer tweet quote:) "She took a sentence and made something up."
 
 </details>
 
@@ -1077,12 +1138,11 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Coo Of (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...ing Point USA. She was brought in specifically by Tyler Bowyer to raise money and to take Turning Point to the next level. And regarding Tyler Bowyer, now we could...”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-40-46): “...d then he mentioned Governor Cox, and he mentions Tyler Bowyer of Turning Point USA and says that—again, this is according to Nick—that Tyler Bowyer and the Lyman ...”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:01:42](/episodes/ep-YFmRH8p5lt0.md#t-00-01-22): “... this random sidebar conversation that I had with Tyler Bowyer. Tyler Bowyer is the king of shady at Turning Point USA. He is the one—like I said—that has—he has h...”
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “their TP Action COO, Tyler (Tyler Robinson) Bowyer, went on a little bit of an X binge”
 
 </details>
 
@@ -1279,12 +1339,19 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Formerly Worked For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:21:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-20-50): “I received a legal letter ... for noting that a bunch of military men seem to have infiltrated Turning Point USA ... this is a fun tweet ... from Tyler Bowyer, the former COO.”
+
+</details>
+
+- **[Bank of America](/entities/org-bank-of-america.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:24:40](/episodes/ep-X3VKJVJ7cN4.md#t-00-24-01): “And his dad, who's an exec at Bank of America. In fact, Tyler Bowyer's first job was at Bank of America.”
 
 </details>
 
@@ -1316,7 +1383,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - **[Stacey Sheridan](/entities/person-stacey-sheridan.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Boyer.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Bowyer.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level.”
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:01:09](/episodes/ep-c5BcKF91iec.md#t-00-00-45): “She's like the chief money person, essentially, at Turning Point USA. She was brought in to reel in the big donors. I remember exactly when that happened. All of those people, by the way, were actually brought in by Tyler Bowyer.”
 
@@ -1325,7 +1392,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Boyer.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Bowyer.”
 
 </details>
 
@@ -1396,7 +1463,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:00](/episodes/ep-pc3pxRyNFZk.md#t-00-32-53): “This lawyer was introduced to me by Tyler Boyer at Turning Point USA.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “taking over for Tyler Boyer, who was the COO”
-- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:07](/episodes/ep-YFmRH8p5lt0.md#t-00-32-37): “Tyler Boyer is the king of shady at Turning Point USA”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:07](/episodes/ep-YFmRH8p5lt0.md#t-00-32-37): “Tyler Bowyer is the king of shady at Turning Point USA.”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-40-46): “Tyler Boyer of Turning Point USA”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “[00:24:56] And he announces that Justin Strife is going to be the new COO, taking over for Tyler Boyer, who was the COO.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:28](/episodes/ep-YFmRH8p5lt0.md#t-00-33-17): “Tyler Bowyer is the king of shady at Turning Point USA. He is the one—like I said—that has—he has hired every person around Charlie (Charlie Kirk).”
@@ -1410,7 +1477,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - **[TP Action](/entities/org-tp-action.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “their TP Action COO, Tyler Boyer”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 
 </details>
 
@@ -1426,7 +1493,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Referenced By (29)</summary>
+<summary>Referenced By (30)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1499,7 +1566,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:00](/episodes/ep-pc3pxRyNFZk.md#t-00-32-53): “This lawyer was introduced to me by Tyler Boyer at Turning Point USA.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “taking over for Tyler Boyer, who was the COO”
-- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:07](/episodes/ep-YFmRH8p5lt0.md#t-00-32-37): “Tyler Boyer is the king of shady at Turning Point USA”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:07](/episodes/ep-YFmRH8p5lt0.md#t-00-32-37): “Tyler Bowyer is the king of shady at Turning Point USA.”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-40-46): “Tyler Boyer of Turning Point USA”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “[00:24:56] And he announces that Justin Strife is going to be the new COO, taking over for Tyler Boyer, who was the COO.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:28](/episodes/ep-YFmRH8p5lt0.md#t-00-33-17): “Tyler Bowyer is the king of shady at Turning Point USA. He is the one—like I said—that has—he has hired every person around Charlie (Charlie Kirk).”
@@ -1511,7 +1578,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - **[TP Action](/entities/org-tp-action.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “their TP Action COO, Tyler Boyer”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 
 </details>
 
@@ -1543,6 +1610,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:21:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-20-50): “I received a legal letter ... for noting that a bunch of military men seem to have infiltrated Turning Point USA ... this is a fun tweet ... from Tyler Bowyer, the former COO.”
+
+</details>
+
+- **[Bank of America](/entities/org-bank-of-america.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:24:40](/episodes/ep-X3VKJVJ7cN4.md#t-00-24-01): “And his dad, who's an exec at Bank of America. In fact, Tyler Bowyer's first job was at Bank of America.”
 
 </details>
 
@@ -1605,7 +1679,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - **[Stacey Sheridan](/entities/person-stacey-sheridan.md)** hired by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Boyer.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Bowyer.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level.”
 
 </details>
@@ -1613,7 +1687,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** hired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Boyer.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Bowyer.”
 
 </details>
 
@@ -1748,7 +1822,29 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Bowyer (58)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Bowyer (66)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:51:49](/episodes/ep-N4uM8Jdr410.md#t-00-51-41) (Opinion) **Candace Owens**: ["Candace Owens said she believed Erika Kirk had more loyalty to the peo..."](/statements/statement-4595d3b96b44.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3)</summary>
+
+- [00:22:18](/episodes/ep-X3VKJVJ7cN4.md#t-00-21-58) (Claim) **Candace Owens**: ["Owens said Stephen Philip and Tyler Bowyer's father worked at Bank of ..."](/statements/statement-53880cc31dfd.md)
+  - Also about: [Stephen Philip](/entities/person-stephen-philip.md), [Bank of America](/entities/org-bank-of-america.md), [Merrill Lynch](/entities/org-merrill-lynch.md)
+
+- [00:24:40](/episodes/ep-X3VKJVJ7cN4.md#t-00-24-01) (Claim) **Candace Owens**: ["Owens said Tyler Bowyer's first job was at Bank of America."](/statements/statement-281f705d7a22.md)
+  - Also about: [Bank of America](/entities/org-bank-of-america.md)
+
+- [00:50:51](/episodes/ep-X3VKJVJ7cN4.md#t-00-50-51) (Opinion) **Candace Owens**: ["Owens said that, in her view, Turning Point USA's bleak transformation..."](/statements/statement-f4164e11df2f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>
@@ -2013,10 +2109,24 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
+
+- [00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) (Claim) **Candace Owens**: ["Justin Strife was announced as the new COO of Turning Point USA on Sep..."](/statements/statement-51eadcc75ceb.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:47:13](/episodes/ep-a-e7HC6SeK8.md#t-00-46-48) (Claim) **Candace Owens**: ["Tyler Bowyer's younger brother worked in dental sales for 10 years unt..."](/statements/statement-3776de9b0ee9.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
 
 - [00:12:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11) (Claim) **Candace Owens**: ["Tyler Bowyer was the only person with Charlie Kirk before and he intro..."](/statements/statement-04733ae2eb7f.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11) (Claim) **Candace Owens**: ["On the Turning Point USA side of the story Candace Owens was recountin..."](/statements/statement-5e9247e3fa2c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:12:48](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11) (Claim) **Candace Owens**: ["Tyler Bowyer was the only person with Charlie Kirk before and introduc..."](/statements/statement-6d2c899fed13.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -2038,6 +2148,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1)</summary>
 
 - [01:07:54](/episodes/ep-2Riv3I7D0Yk.md#t-01-07-18) (Accusation) **Candace Owens**: ["Tyler Bowyer was sloppy on X, he was accusatory and called people name..."](/statements/statement-61b7ba6f1f3c.md)
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1)</summary>
+
+- [00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00) (Claim) **Candace Owens**: ["Tyler Bowyer is COO of Turning Point Action"](/statements/statement-72906b74cf5c.md)
 
 </details>
 

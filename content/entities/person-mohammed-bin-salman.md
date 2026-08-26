@@ -12,12 +12,12 @@ _Type: People_
 **Also known as:** Saudi Crown Prince
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-mohammed-bin-salman-t-00-17-12">2025-12-05 · 00:03:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-mohammed-bin-salman-t-00-17-12">2025-12-05 · 00:03:47</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-mohammed-bin-salman-t-00-17-12">2025-12-05 · 00:17:13</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,7 +45,7 @@ _Type: People_
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
-**[00:03:48](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mohammed-bin-salman-t-00-17-12)**
+**[00:03:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mohammed-bin-salman-t-00-17-12)**
 > "President al-Sisi touched down in Riyadh aboard that same exact aircraft, tail number SU-BTU, for a high-level sit-down with the Saudi Crown Prince Mohammed bin Salman."
 
 **[00:17:13](/episodes/ep-ZAuuSq_j2_w.md#ent-person-mohammed-bin-salman-t-00-17-12)**
@@ -63,13 +63,16 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mohammed bin Salman (1)</strong></summary>
+<summary><strong class="section-title">Statements about Mohammed bin Salman (2)</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
 
 - [00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Citation) **Candace Owens** (via quoted post): ["The Egyptian government website confirms that Egyptian President el-Si..."](/statements/statement-3bb428c91aab.md)
   - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [SU-BTU](/entities/vehicle-su-btu.md)
+
+- [00:16:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27) (Claim) **Candace Owens**: ["Egyptian President el-Sisi flew aboard aircraft SUBTU on April 3rd, 20..."](/statements/statement-aa88b9c5ccfc.md)
+  - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)
 
 </details>
 

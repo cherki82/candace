@@ -22,7 +22,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -238,7 +238,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Santa Barbara (3)</strong></summary>
+<summary><strong class="section-title">Statements about Santa Barbara (4)</strong></summary>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>
@@ -256,6 +256,14 @@ _No relationships extracted yet._
 
 - [00:35:49](/episodes/ep-B9TyCs-6o_0.md#t-00-35-29) (Citation) **Candace Owens**: ["The Yrefy-associated plane flew from Scottsdale to Provo, then Provo t..."](/statements/statement-8f40df02e151.md)
   - Also about: [Yrefy](/entities/org-yrefy.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Provo](/entities/gpe-provo.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:26:14](/episodes/ep-JQjCAsfoXEE.md#t-00-25-34) (Claim) **Candace Owens**: ["Flight N560TW departed Scottsdale, Arizona on the morning of September..."](/statements/statement-79fcbaf25dca.md)
+  - Also about: [September 10th](/entities/date-september-10th.md), [Provo](/entities/gpe-provo.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 </details>
 

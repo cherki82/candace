@@ -31,7 +31,7 @@ type: "accusation"
 **Timestamp:** [00:14:21](/episodes/ep-7RLtGgkTh9o.md#t-00-14-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(861);return false;">Play</a>
 
-> Sean Chapman Holly, Sean and Lou Taylor leaked that to the press because they wanted Lindsay to get out sooner and have her in UCLA so she wouldn't spend much time in the rehab.
+> Sean "Chapman" Holly, Sean and Lou Taylor leaked that to the press because they wanted Lindsay to get out sooner and have her in UCLA so she wouldn't spend much time in the rehab.
 
 ## Verification
 

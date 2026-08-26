@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:09:59](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(599);return false;">Play</a>
 
-> She's done Hannity, she's done The Five, she's done Fox and Friends, she's done Outnumbered, she's done Megyn Live. She sat down with the New York Times.
+> She's done Hannity (Sean Hannity), she's done The Five, she's done Fox and Friends, she's done Outnumbered, she's done Megyn (Megyn Kelly) Live. She sat down with the New York Times.
 
 ## Verification
 

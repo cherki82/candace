@@ -216,13 +216,13 @@ Source: [Suffolk County Government - Towns and Villages](https://suffolkcountyny
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (3 mentions)</summary>
 
 **[00:13:31](/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-13-01)**
-> "...is what Pastor Rob McCoy (Pastor Rob McCoy) wrote on his Instagram after I exposed the now infamous Hamptons meeting which took place. (Pastor Rob McCoy clip:) He wrote this: "Charlie Kirk (Charlie Kirk) was ..."
+> "Here is what Pastor Rob McCoy wrote on his Instagram after I exposed the now infamous Hamptons meeting which took place."
 
 **[00:15:14](/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-15-14)**
 > "...here on Rob and what his motivations might be. Why did he decide to post this after I revealed that Hamptons meeting? Well, you should know—I think most people do—that both his son and his daughter-in-law wor..."
 
 **[00:17:34](/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-17-17)**
-> "...s) assassination. He was very clear, and he was very explicit, and he did not back down—not in that Hamptons meeting, which they're all lying about, nor in this text thread. I'm not going to reveal the names ..."
+> "So again, this is 48 hours before Charlie Kirk's assassination. He was very clear, and he was very explicit, and he did not back down—not in that Hamptons meeting, which they're all lying about, nor in this text thread."
 
 </details>
 

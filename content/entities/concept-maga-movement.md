@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 119 mentions"
+description: "MAGA movement (Concepts) - 120 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-maga-movement-t-00-40-31">2026-06-10 · 00:40:31</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>119</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57">2026-07-16 · 00:36:57</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>120</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,9 +50,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-26" style="--pulse-height:67%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 8 mentions" title="2025-10-30 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00" style="--pulse-height:92%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 11 mentions" title="2025-11-03 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 12 mentions" title="2025-11-05 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#t-00-41-57" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-maga-movement-t-00-41-57" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21" style="--pulse-height:42%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#t-00-33-32" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-maga-movement-t-00-33-32" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-31" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -77,6 +77,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-00-35-04" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-19-00" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-maga-movement-t-00-40-31" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -96,9 +97,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-maga-movement-t-00-31-26) | 8 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-concept-maga-movement-t-00-00-00) | 11 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-maga-movement-t-00-15-11) | 12 |
-| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#t-00-41-57) | 1 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-maga-movement-t-00-41-57) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21) | 5 |
-| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#t-00-33-32) | 1 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-maga-movement-t-00-33-32) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-31) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50) | 1 |
@@ -123,6 +124,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-maga-movement-t-00-35-04) | 4 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-19-00) | 3 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-maga-movement-t-00-40-31) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57) | 1 |
 
 </details>
 </section>
@@ -130,7 +132,15 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (119)</strong></summary>
+<summary><strong class="section-title">Raw mentions (120)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:36:57](/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57)**
+> "targeting MAGA supporters"
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
@@ -420,7 +430,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
 
-**[00:33:42](/episodes/ep-yAIb-NuUh_U.md#t-00-33-32)**
+**[00:33:42](/episodes/ep-yAIb-NuUh_U.md#ent-concept-maga-movement-t-00-33-32)**
 > "...s. They're not good. Okay, they are completely indefensible. But I already told you I was done with MAGA at the moment he looked us in the face and he said, "What files?" right? Are we still talking about..."
 
 </details>
@@ -448,8 +458,8 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
-**[00:41:58](/episodes/ep-r1PS67aRmcA.md#t-00-41-57)**
-> "... Thailand and Cambodia, this is a president of peace. I don't know. It's lost its edge, right? Like MAGA is over. You just know it's over. It's just over. And I say this, by the way, and I'm always very h..."
+**[00:41:58](/episodes/ep-r1PS67aRmcA.md#ent-concept-maga-movement-t-00-41-57)**
+> "Like MAGA is over."
 
 </details>
 
@@ -593,7 +603,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > "...fice because of Charlie (Charlie Kirk)," Clark said. So honor the feds, quick pic outside, and also MAGA—MAGA hard. That is like—I'm sorry, I get it; everybody grieves differently, okay? But not that way...."
 
 **[00:39:10](/episodes/ep-ozWJz2spBcI.md#ent-concept-maga-movement-t-00-38-56)**
-> "...t like I was being a bad mother— was, "Man, I'm sure glad Donald Trump (Donald Trump) is president. MAGA." I didn't feel that way. Didn't feel that way. In fact, I was angry. I remember feeling angry when..."
+> "MAGA.""
 
 </details>
 
@@ -617,10 +627,10 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 **[00:41:53](/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-41-49)**
 > "...ement could get it. Did I answer your MAGA question sufficiently? Yeah, OK. He loved MAGA. He loved MAGA moms, too. I think I would have probably pushed back and asked, okay, but now that, you know, the f..."
 
-**[00:53:55](/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-53-55)**
+**[00:53:55](/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-53-48)**
 > "...ever accepted the Fed slop. That's what I call it—just Fed slop. The whole message is, like I said, MAGA—my dad's extra MAGA. That's supposed to make people that are on the left go, oh my gosh, see? It's ..."
 
-**[00:54:03](/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-53-55)**
+**[00:54:03](/episodes/ep-UBkFkg4UNY8.md#ent-concept-maga-movement-t-00-53-48)**
 > "...xtra MAGA. That's supposed to make people that are on the left go, oh my gosh, see? It's because of MAGA dad. It's, like, so ridiculous. And then on the right, you're supposed to go, trans. It's a trans p..."
 
 </details>

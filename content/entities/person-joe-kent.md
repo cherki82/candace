@@ -26,7 +26,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <div><span>Episodes</span><strong>17</strong></div>
 <div><span>Mentions</span><strong>103</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -802,13 +802,21 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Joe Kent (23)</strong></summary>
+<summary><strong class="section-title">Statements about Joe Kent (24)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:25:29](/episodes/ep-nPhCKwJ6ye8.md#t-02-25-29) (Citation) **Candace Owens** (via paraphrase): ["Candace Owens cited Joe Kent as saying that 12 Israeli cell phones wer..."](/statements/statement-b5e4a547905b.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:51:49](/episodes/ep-N4uM8Jdr410.md#t-00-51-41) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Tucker Carlson, Bret Weinstein, and Joe Kent had al..."](/statements/statement-c61a4715d355.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Bret Weinstein](/entities/person-bret-weinstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

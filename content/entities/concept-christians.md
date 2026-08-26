@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 107 mentions"
+description: "Christians (Concepts) - 115 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 categories:
@@ -19,10 +19,10 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17">2025-09-17 · 00:52:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Episodes</span><strong>52</strong></div>
+<div><span>Mentions</span><strong>115</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -81,6 +81,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-christians-t-00-23-53" style="--pulse-height:30%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-concept-christians-t-00-41-51" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-christians-t-00-51-16" style="--pulse-height:10%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-31-01" style="--pulse-height:80%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34" style="--pulse-height:10%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -137,6 +138,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-christians-t-00-23-53) | 3 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-concept-christians-t-00-41-51) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-christians-t-00-51-16) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-31-01) | 8 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34) | 1 |
 
 </details>
@@ -145,13 +147,42 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (115)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:16:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34)**
 > "... you guys, nearly 2,000 years Christians When have we lived set continuously out to create..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (8 mentions)</summary>
+
+**[00:31:15](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-31-01)**
+> "operation against Christians to tie us to Israel. I mean, there's so much I co..."
+
+**[00:32:39](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-32-32)**
+> "My wife and I are both Christians, but over the past several months, she has become..."
+
+**[00:35:12](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-34-46)**
+> "...operations designed to target Christians because that was and is still a thing."
+
+**[00:41:01](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-41-01)**
+> "... book makes the argument that Christians love a cinematic theme, a cinematic masterpiece, ..."
+
+**[00:41:18](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-41-01)**
+> "... or her life for them because christians we just eat that stuff up and you know that made ..."
+
+**[00:41:54](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-41-43)**
+> "And I guess Christians were supposed to just be drawn to it and go, this..."
+
+**[00:50:05](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-00-50-05)**
+> "...ey are particularly targeting christians and this is the exact strand of christianity that..."
+
+**[01:06:15](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christians-t-01-06-05)**
+> "Christians love a cinematic movie on their themes and Prager..."
 
 </details>
 
@@ -613,10 +644,10 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
 
 **[00:40:12](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
-> "... ally to the U.S. all the way since 1960 when they bombed the USS Liberty. Israel is a nation where Christians are constantly under attack in both Gaza and the West Bank. We talk about America first and defendi..."
+> "Israel is a nation where Christians are constantly under attack in both Gaza and the ..."
 
 **[00:40:20](/episodes/ep-r1PS67aRmcA.md#ent-concept-christians-t-00-39-41)**
-> "...e constantly under attack in both Gaza and the West Bank. We talk about America first and defending Christians, but how can we do this if we align ourselves with a nation that does not do that itself? There's n..."
+> "...t America first and defending Christians, but how can we do this if we align ourselves wit..."
 
 </details>
 
@@ -655,13 +686,13 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
 **[00:38:18](/episodes/ep-iHav0PPzUz8.md#ent-concept-christians-t-00-38-18)**
-> "...lie (Charlie Kirk), was it not?" Okay, but I mean—I think obviously he's speaking about evangelical Christians in general and saying that this violates the Bible—like to make it about— Yeah, that's a circle tha..."
+> "...'s speaking about evangelical Christians in general and saying that this violates the Bibl..."
 
 **[00:38:52](/episodes/ep-iHav0PPzUz8.md#ent-concept-christians-t-00-38-52)**
-> "... is the—come on. This is like ridiculous. Yes. He's making a point that he thinks that actually the Christians who put Israel above their own government and believe that like only Jesus can come back if the Jew..."
+> "...t he thinks that actually the Christians who put Israel above their own government and bel..."
 
 **[00:40:33](/episodes/ep-iHav0PPzUz8.md#ent-concept-christians-t-00-39-54)**
-> "...ic. So I hope I'm clear about what I think you are—people of your ilk are—people that pretend to be Christians and make a ton of videos—some of them simply because they're paid to do so, some of them because th..."
+> "...are—people that pretend to be Christians"
 
 </details>
 
@@ -724,7 +755,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christians (12)</strong></summary>
+<summary><strong class="section-title">Statements about Christians (13)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [00:35:12](/episodes/ep-mLvJqdxS-FY.md#t-00-34-46) (Accusation) **Candace Owens**: ["Candace Owens accused Frank Turek of being part of a movement of Chris..."](/statements/statement-b0b87f5b3c45.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Evangelicalism](/entities/concept-evangelicalism.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3)</summary>

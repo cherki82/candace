@@ -1,14 +1,14 @@
 ---
 id: "CMcktj3Egfo"
 title: "American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288"
-description: "American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 - 115 entities, 16 events, 0 claims"
+description: "American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 - 115 entities, 16 events, 28 factual claims"
 published: "2026-01-12"
 youtube_url: "https://www.youtube.com/watch?v=CMcktj3Egfo"
 ---
 
 **Published:** 2026-01-12 | [Watch on YouTube](https://www.youtube.com/watch?v=CMcktj3Egfo)
 
-**Stats:** 115 entities | 16 events | 0 claims
+**Stats:** 115 entities | 16 events | 28 factual claims
 
 ---
 

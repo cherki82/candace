@@ -30,7 +30,7 @@ type: "accusation"
 **Timestamp:** [00:27:12](/episodes/ep-ja26iltROkM.md#t-00-26-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1632);return false;">Play</a>
 
-> As part of her grift to monetize the murder of her quote-unquote best friend, Charlie Kirk, Candace Owens is selling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo. It is a federal felony to use the CIA seal without license
+> "As part of her grift to monetize the murder of her quote-unquote best friend, Charlie Kirk (Charlie Kirk), Candace Owens (Candace Owens) is selling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo. It is a federal felony to use the CIA seal without license."
 
 ## Verification
 

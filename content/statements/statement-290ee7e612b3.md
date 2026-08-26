@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:21:26](/episodes/ep-iHav0PPzUz8.md#t-00-21-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1286);return false;">Play</a>
 
-> This is the headline that came out of the Daily Mail. 'Kash Patel shuts down Charlie (Charlie Kirk) foreign intelligence probe in an explosive feud with Trump's counter-terror chief.' It really makes you wonder what Kash Patel is hiding.
+> This is the headline that came out of the Daily Mail. "Kash Patel shuts down Charlie (Charlie Kirk) foreign intelligence probe in an explosive feud with Trump's counter-terror chief." It really makes you wonder what Kash Patel is hiding.
 
 ## Verification
 

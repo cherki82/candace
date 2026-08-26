@@ -25,7 +25,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 <div><span>Episodes</span><strong>17</strong></div>
 <div><span>Mentions</span><strong>91</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -194,19 +194,19 @@ Source: [State of Delaware official website](https://delaware.gov/)
 > "...se it's getting a little squishy in Wilmington, Delaware. I'm feeling claustrophobic in Wilmington, Delaware—and I've never even been there, okay? So here's our block. We've got a couple of blocks here, and w..."
 
 **[00:11:53](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-09-06)**
-> "...day: we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware Avenue. We've got Brigitte's lawyers at 919 North Market Street. Also in that building happens to b..."
+> "We've got a couple of blocks here, and we told you yesterday: we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware"
 
 **[00:12:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-12-37)**
 > "...y've got a French CEO. It's just a lot happening here. And again, now, having a registered agent in Delaware is—when you have an LLC, you're supposed to have a registered agent—and people tend to choose betwe..."
 
 **[00:13:00](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-12-37)**
-> "...ridan has a registered agent that's in that building too? Because I have LLCs, and I've got LLCs in Delaware, and I'm not— I'm not even in Wilmington. There's a lot to choose from. It's a whole state. But Sta..."
+> "Because I have LLCs, and I've got LLCs in Delaware, and I'm not—"
 
 **[00:15:57](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-15-27)**
 > "...eaven. And so I start asking myself, what do we all have in common? Why are we all just chilling in Delaware? That's what I'm trying to ascertain. What are we all doing over here near King Street? Who is the ..."
 
 **[00:33:21](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-32-45)**
-> "... very, very dark. It's too French, right? It's just too French. We just can't all be hanging out in Delaware. And there's one more thing that came in regarding Andrew Kolvet. A very close family friend of And..."
+> "We just can't all be hanging out in Delaware."
 
 </details>
 
@@ -217,7 +217,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 > "...hem at UVU would not have been on my radar at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the mor..."
 
 **[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-23-12)**
-> "...n the morning of Charlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French company, injected $1.5 million ost..."
+> "went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, Delaware, a lease that is way too short for that, whatever."
 
 **[00:24:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-24-24)**
 > "...t a foreign dignitary was escorted, right, from that hangar to 920 North King Street in Wilmington, Delaware, a place that we learned and confirmed had three federal agencies working together in one building...."
@@ -495,7 +495,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Delaware (2)</strong></summary>
+<summary><strong class="section-title">Statements about Delaware (3)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1)</summary>
@@ -510,6 +510,14 @@ Source: [State of Delaware official website](https://delaware.gov/)
 
 - [00:35:36](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) (Claim) **Candace Owens**: ["The Egyptian plane flew to Wilmington, Delaware on the day of Charlie ..."](/statements/statement-a2a2171aef70.md)
   - Also about: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:17:22](/episodes/ep-JQjCAsfoXEE.md#t-00-16-57) (Claim) **Candace Owens**: ["The flights were majority clustered within five states: Kansas, Missou..."](/statements/statement-e1f4318d83fd.md)
+  - Also about: [Kansas](/entities/gpe-kansas.md), [Missouri](/entities/gpe-missouri.md), [Nebraska](/entities/gpe-nebraska.md)
 
 </details>
 

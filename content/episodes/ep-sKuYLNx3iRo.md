@@ -1,14 +1,14 @@
 ---
 id: "sKuYLNx3iRo"
 title: "Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355"
-description: "Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 - 99 entities, 6 events, 0 claims"
+description: "Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 - 99 entities, 6 events, 22 factual claims"
 published: "2026-06-24"
 youtube_url: "https://www.youtube.com/watch?v=sKuYLNx3iRo"
 ---
 
 **Published:** 2026-06-24 | [Watch on YouTube](https://www.youtube.com/watch?v=sKuYLNx3iRo)
 
-**Stats:** 99 entities | 6 events | 0 claims
+**Stats:** 99 entities | 6 events | 22 factual claims
 
 ---
 

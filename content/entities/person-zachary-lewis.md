@@ -17,6 +17,8 @@ _Type: People_
 
 **Categories:** media production, Daily Wire staff
 
+> **Possibly overlapping entity records:** [Frank Zachary Turek](/entities/person-frank-zachary-turek). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > The source repeatedly gives the full name and identifies him as a former Daily Wire camera operator; an independently indexed transcript mirror corroborates the spelling. No independent finding about the allegations is recorded here.
 Source: [Brian Harpole Sends Out MORE Legal Notices — Clipto transcript](https://community.clipto.com/candace-owens/brian-harpole-sends-out-more-legal-notices-jeremy-boreing-is-still-a-creep-candace-ep-334)

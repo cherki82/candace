@@ -30,7 +30,7 @@ type: "opinion"
 **Timestamp:** [00:45:16](/episodes/ep-ja26iltROkM.md#t-00-45-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2716);return false;">Play</a>
 
-> But he also knew that politics is not the final answer. It cant answer the deepest questions, actually. That the only real solution is Jesus... Christianity—the gospel message, the message of Jesus—begins with repentance.
+> Christianity—the gospel message, the message of Jesus—begins with repentance. Christianity calls upon you to change.
 
 ## Verification
 

@@ -25,7 +25,7 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -252,7 +252,7 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pierre Falcone (15)</strong></summary>
+<summary><strong class="section-title">Statements about Pierre Falcone (18)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
@@ -291,7 +291,7 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (12)</summary>
 
 - [00:12:04](/episodes/ep-Kmt6HgRjckU.md#t-00-11-24) (Claim) **Candace Owens**: ["Pierre Falcone lives in Scottsdale, Arizona and is a billionaire"](/statements/statement-8ee090060b24.md)
   - Also about: [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
@@ -305,6 +305,12 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 - [00:12:36](/episodes/ep-Kmt6HgRjckU.md#t-00-12-04) (Claim) **Candace Owens**: ["Pierre Falcone was involved in a scandal that almost brought down the ..."](/statements/statement-8a28c81ab028.md)
   - Also about: [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md), [France](/entities/gpe-france.md)
 
+- [00:12:53](/episodes/ep-Kmt6HgRjckU.md#t-00-12-44) (Claim) **Candace Owens**: ["Pierre Falcone was involved in Angola Gate scandal involving arms traf..."](/statements/statement-891f1eea4e3e.md)
+  - Also about: [Angolagate scandal](/entities/event-angola-gate.md), [Angola](/entities/gpe-angola.md)
+
+- [00:13:57](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) (Claim) **Candace Owens**: ["Arkady Gaydamak and Pierre Falcone partnered through Brenco Internatio..."](/statements/statement-95e5288badc8.md)
+  - Also about: [Branko International](/entities/org-branko-international.md), [Arkady Gaidemak](/entities/person-arkady-gaidemak.md)
+
 - [00:14:10](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05) (Claim) **Candace Owens**: ["Branko International is run by Arkady Gaidemak. He is Israeli, initial..."](/statements/statement-6f2c0ea955bb.md)
   - Also about: [Arkady Gaidemak](/entities/person-arkady-gaidemak.md), [Branko International](/entities/org-branko-international.md)
 
@@ -317,6 +323,9 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 
 - [00:17:43](/episodes/ep-Kmt6HgRjckU.md#t-00-17-32) (Claim) **Candace Owens**: ["Pierre Falcone disappeared from France after winning his appeal and re..."](/statements/statement-369784a0dc5c.md)
   - Also about: [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+- [00:17:43](/episodes/ep-Kmt6HgRjckU.md#t-00-17-32) (Claim) **Candace Owens**: ["Owens said Pierre Falcone reappeared in Scottsdale after leaving Franc..."](/statements/statement-c0f9aad35580.md)
+  - Also about: [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

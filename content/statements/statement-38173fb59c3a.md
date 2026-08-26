@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(134);return false;">Play</a>
 
-> when he went on multiple hits doing Fox News and Greta Van Susteren's show, he lied about the contents of a letter that Charlie had written him back in May
+> It's very weird, and we should not forget how weird that is, especially because when he went on multiple hits doing Fox News and Greta Van Susteren's (Greta Van Susteren) show, he lied about the contents of a letter that Charlie (Charlie Kirk) had written him back in May.
 
 ## Verification
 

@@ -16,6 +16,8 @@ _Type: People_
 
 **Categories:** CBS News journalist, Alexander brothers trial reporter
 
+> **Possibly overlapping entity records:** [Thomas Michael Camino](/entities/person-thomas-michael-camino). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > CBS News identifies Tom Hanson as a national investigative correspondent; matches the embedded CBS report.
 Source: [Tom Hanson - CBS News](https://www.cbsnews.com/team/tom-hanson/3/)

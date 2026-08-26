@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 235 mentions"
+description: "Fort Huachuca (Places) - 240 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-fort-huachuca-t-00-43-57">2026-06-26 · 00:44:36</a></strong></div>
-<div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>235</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-42-08">2026-07-20 · 00:42:08</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>240</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>97</strong></div>
+<div><span>Statements about</span><strong>110</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -81,6 +81,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-fort-huachuca-t-00-19-00" style="--pulse-height:14%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-fort-huachuca-t-00-48-52" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-fort-huachuca-t-00-43-57" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-40-03" style="--pulse-height:24%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 5 mentions" title="2026-07-20 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -131,6 +132,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-fort-huachuca-t-00-19-00) | 3 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-fort-huachuca-t-00-48-52) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-fort-huachuca-t-00-43-57) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-40-03) | 5 |
 
 </details>
 </section>
@@ -138,7 +140,27 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (235)</strong></summary>
+<summary><strong class="section-title">Raw mentions (240)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (5 mentions)</summary>
+
+**[00:40:03](/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-40-03)**
+> "—what do you call it—telling to the public. But I guess that's his job. He thinks it's his job to lie. But he's crashing out in a way that—it's difficult. He's—he's almost in, like, a phase of delusion. He's telling me that his show is doing great, my show's crashing, my metrics are down, I'm on my way down. I don't even know what's happening. But a strange little thing took place where his brother came to his defense over Fort Huachuca. Again, they always pick—always pick these obscure things."
+
+**[00:40:30](/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-40-03)**
+> "...sed Andrew Kolvet of being at Fort Huachuca. No one ever accused his brother, to my knowledge..."
+
+**[00:41:12](/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-40-44)**
+> "And I never worked at Fort Huachuca. I only went there once for a three-day training ..."
+
+**[00:41:17](/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-40-44)**
+> "...the base military police from Huachuca."
+
+**[00:42:08](/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-42-08)**
+> "... (Andrew Kolvet) has heard of Fort Huachuca. I do. Just by the nature of where he lives, by t..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -1166,7 +1188,18 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (97)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (110)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
+
+- [00:41:12](/episodes/ep-N4uM8Jdr410.md#t-00-40-44) (Claim) **Anonymous Source #5 (Ep N4uM8Jdr410)** (via quoted post): ["Andrew Kolvet's unnamed lieutenant-colonel brother said he never worke..."](/statements/statement-00d8c92818d3.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:42:08](/episodes/ep-N4uM8Jdr410.md#t-00-42-08) (Accusation) **Candace Owens**: ["Candace Owens said she thought Andrew Kolvet had heard of Fort Huachuc..."](/statements/statement-c2aedde67d42.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3)</summary>
@@ -1476,21 +1509,32 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (9)</summary>
 
-- [00:31:54](/episodes/ep-w1oqQbR_bYs.md#t-00-31-41) (Claim) **Candace Owens**: ["Fort Huachuca has ties to Liberty University where you can attend clas..."](/statements/statement-4a1ea3561680.md)
+- [00:31:54](/episodes/ep-w1oqQbR_bYs.md#t-00-31-41) (Claim) **Candace Owens**: ["Fort Huachuca Education Center has connected students with Liberty Uni..."](/statements/statement-4a1ea3561680.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md)
+
+- [00:32:38](/episodes/ep-w1oqQbR_bYs.md#t-00-32-19) (Claim) **Candace Owens**: ["Owens said she had verified that Mitch was where he claimed to be, tha..."](/statements/statement-614098d3d935.md)
+  - Also about: [Mitch](/entities/person-mitch-fort-huachuca-witness.md)
 
 - [00:34:49](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25) (Claim) **Candace Owens**: ["Candace Owens verified all aspects of witness Mitch's story including ..."](/statements/statement-83ee7fdd0e12.md)
   - Also about: [Mitch](/entities/person-mitch-fort-huachuca-witness.md)
 
+- [00:34:57](/episodes/ep-w1oqQbR_bYs.md#t-00-34-25) (Claim) **Candace Owens**: ["The alleged meeting at Fort Huachuca was concluding around 7:30 a.m. o..."](/statements/statement-9c867c67f2e6.md)
+
 - [00:37:47](/episodes/ep-w1oqQbR_bYs.md#t-00-37-03) (Claim) **Candace Owens**: ["Brian Harpole could have made it to Fort Huachuca for the early mornin..."](/statements/statement-712747817fac.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:37:55](/episodes/ep-w1oqQbR_bYs.md#t-00-37-49) (Claim) **Candace Owens**: ["Owens says private travel logs made it possible for Brian Harpole to r..."](/statements/statement-b42ceeaf4f20.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
 - [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Witness Mitch identified Cabot Phillips as the person he saw at Fort H..."](/statements/statement-113b092b6b74.md)
   - Also about: [Mitch](/entities/person-mitch-fort-huachuca-witness.md), [Cabot Phillips](/entities/person-cabot-phillips.md)
 
-- [00:46:11](/episodes/ep-w1oqQbR_bYs.md#t-00-45-57) (Claim) **Candace Owens**: ["Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9..."](/statements/statement-81307478a879.md)
+- [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Mitch tentatively identified Cabot Phillips from a photo, but Owens ca..."](/statements/statement-b16f405410db.md)
+  - Also about: [Cabot Phillips](/entities/person-cabot-phillips.md), [Mitch](/entities/person-mitch-fort-huachuca-witness.md)
+
+- [00:46:11](/episodes/ep-w1oqQbR_bYs.md#t-00-45-57) (Accusation) **Candace Owens**: ["Lawsuits and sworn affidavits allegedly connect Fort Huachuca to prepa..."](/statements/statement-81307478a879.md)
   - Also about: [9/11](/entities/event-9-11.md)
 
 </details>
@@ -1562,7 +1606,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (8)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (11)</summary>
+
+- [00:40:03](/episodes/ep-6DhWawD4ZiM.md#t-00-39-28) (Claim) **Candace Owens** (via paraphrase): ["Owens said Harry Myers identified Captain Adam Neff of the 10th Mounta..."](/statements/statement-45521027afec.md)
+  - Also about: [10th Mountain Division](/entities/org-10th-mountain-division.md), [Harry Myers](/entities/person-harry-myers.md)
+
+- [00:41:15](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) (Claim) **Candace Owens** (via read message): ["Owens said unnamed correspondents stationed at Fort Huachuca told her ..."](/statements/statement-324865fc175a.md)
 
 - [00:41:17](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) (Claim) **Candace Owens**: ["Captain Adam Neff of the 10th Mountain Division led an interrogation o..."](/statements/statement-536d43327c41.md)
   - Also about: [Captain Adam Neff](/entities/person-captain-adam-neff.md)
@@ -1574,6 +1623,9 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 - [00:43:41](/episodes/ep-6DhWawD4ZiM.md#t-00-43-00) (Claim) **Candace Owens**: ["A US government VIP plane (C37A Gulfstream, tail number 99-0404) flew ..."](/statements/statement-88162d6bfd9c.md)
   - Also about: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [El Paso](/entities/gpe-el-paso.md)
 
+- [00:44:00](/episodes/ep-6DhWawD4ZiM.md#t-00-43-45) (Claim) **Candace Owens** (via read message): ["Owens presented flight-tracking material identifying Air Force C-37A t..."](/statements/statement-8a03426a4ab1.md)
+  - Also about: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md)
+
 - [00:46:38](/episodes/ep-6DhWawD4ZiM.md#t-00-46-23) (Claim) **Candace Owens**: ["A military source named Harry witnessed what appeared to be a finaliza..."](/statements/statement-45c985fc27c8.md)
 
 - [00:48:28](/episodes/ep-6DhWawD4ZiM.md#t-00-48-17) (Claim) **Candace Owens**: ["The VIP plane call sign changed from REACH (standard) to SAM (Special ..."](/statements/statement-03404b845b40.md)
@@ -1582,6 +1634,23 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 - [01:00:36](/episodes/ep-6DhWawD4ZiM.md#t-01-00-25) (Claim) **Candace Owens**: ["The military source Harry believes he saw Brian Harpole at the Fort Hu..."](/statements/statement-f1dc8d72a7f2.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4)</summary>
+
+- [00:16:16](/episodes/ep-t4U7NjnUEgc.md#t-00-15-57) (Claim) **Candace Owens**: ["Owens says private booking records show Harry Myers checked into the C..."](/statements/statement-7a77cc26066d.md)
+  - Also about: [Harry Myers](/entities/person-harry-myers.md)
+
+- [00:17:41](/episodes/ep-t4U7NjnUEgc.md#t-00-17-13) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers claimed he saw Brian Harpole at Joint Task Force Southern ..."](/statements/statement-e1f3b3a8c4ff.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Harry Myers](/entities/person-harry-myers.md)
+
+- [00:22:00](/episodes/ep-t4U7NjnUEgc.md#t-00-21-28) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers said Fort Huachuca personnel interrogated him for about se..."](/statements/statement-9e9c07274601.md)
+  - Also about: [Harry Myers](/entities/person-harry-myers.md)
+
+- [00:28:13](/episodes/ep-t4U7NjnUEgc.md#t-00-27-53) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers said Fort Huachuca personnel gave him incident-report numb..."](/statements/statement-610f9c7c6a76.md)
+  - Also about: [Harry Myers](/entities/person-harry-myers.md)
 
 </details>
 

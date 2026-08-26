@@ -4,9 +4,10 @@ description: "\"Rob McCoy was in Jerusalem on November 16th at an event billed a
 statement_id: "statement-33885f09bdfa"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -20,21 +21,44 @@ type: "factual_claim"
 
 ## About
 
-- [Rob McCoy](/entities/person-rob-mccoy.md) (person)
 - [Jerusalem](/entities/gpe-jerusalem.md) (gpe)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Rob McCoy](/entities/person-rob-mccoy.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2321);return false;">Play</a>
 
-> So America's Pastor Rob McCoy was in Jerusalem on November 16th, apparently. A couple days ago, he was at an event. It was billed as a celebration of the life of Charlie Kirk.
+> So America's Pastor Rob McCoy was in Jerusalem on November 16th, apparently. A couple days ago, he was at an event. It was billed as a celebration of the life of Charlie (Charlie Kirk).
+
+### 2. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
+
+**Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
+**Timestamp:** [00:38:37](/episodes/ep-581dILVcEE4.md#t-00-38-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2317);return false;">Play</a>
+
+> Chapel Church movement. So America's Pastor Rob McCoy was in Jerusalem on November 16th, apparently. A couple days ago, he was at an
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Multiple established news sources, including Israel Hayom, The Jerusalem Post, and Fox News, confirm that Pastor Rob McCoy was in Jerusalem on November 16, 2025, delivering the main address at a tribute event honoring Charlie Kirk's life, organized by The Isaiah Projects and Gideon 300 at Beit Shmuel.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Charlie Kirk Tribute Event Set for November 16 in Jerusalem | Israel Hayom](https://www.israelhayom.com/2025/11/12/charlie-kirk-tribute-november-jerusalem/)
+
+*Verified: 2026-08-26T08:04:36.861948*
 
 ---
 

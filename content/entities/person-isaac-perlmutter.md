@@ -1,6 +1,6 @@
 ---
 title: "Isaac Perlmutter"
-description: "Isaac Perlmutter (People) - 3 mentions"
+description: "Isaac Perlmutter (People) - 4 mentions"
 id: "person-isaac-perlmutter"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Walt Disney Company and Marvel Entertainment acquisition call](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-isaac-perlmutter-t-00-04-46">2026-02-05 · 00:05:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-isaac-perlmutter-t-00-21-10">2026-05-13 · 00:21:22</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-isaac-perlmutter-t-00-19-15">2026-07-14 · 00:19:45</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [The Walt Disney Company and Marvel Entertainment acquisition call](http
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-isaac-perlmutter-t-00-04-46" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-isaac-perlmutter-t-00-21-10" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-isaac-perlmutter-t-00-19-15" style="--pulse-height:50%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [The Walt Disney Company and Marvel Entertainment acquisition call](http
 |---|---|---:|
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-isaac-perlmutter-t-00-04-46) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-isaac-perlmutter-t-00-21-10) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-isaac-perlmutter-t-00-19-15) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [The Walt Disney Company and Marvel Entertainment acquisition call](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:19:45](/episodes/ep-X3VKJVJ7cN4.md#ent-person-isaac-perlmutter-t-00-19-15)**
+> "...t Charlie and I had regarding Ike Perlmutter, the check, the money, 2019, when I said I felt t..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>

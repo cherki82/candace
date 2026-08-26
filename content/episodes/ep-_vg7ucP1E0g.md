@@ -1,14 +1,14 @@
 ---
 id: "_vg7ucP1E0g"
 title: "Bride Of Charlie: Red Sparrow | Episode 8"
-description: "Bride Of Charlie: Red Sparrow | Episode 8 - 101 entities, 33 events, 0 claims"
+description: "Bride Of Charlie: Red Sparrow | Episode 8 - 101 entities, 33 events, 10 factual claims"
 published: "2026-03-18"
 youtube_url: "https://www.youtube.com/watch?v=_vg7ucP1E0g"
 ---
 
 **Published:** 2026-03-18 | [Watch on YouTube](https://www.youtube.com/watch?v=_vg7ucP1E0g)
 
-**Stats:** 101 entities | 33 events | 0 claims
+**Stats:** 101 entities | 33 events | 10 factual claims
 
 ---
 

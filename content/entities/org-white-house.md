@@ -22,7 +22,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <div><span>Episodes</span><strong>65</strong></div>
 <div><span>Mentions</span><strong>249</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>62</strong></div>
+<div><span>Statements about</span><strong>63</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -1104,7 +1104,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > "...the FBI on the American side. I did hear back from the counter-terrorism unit. I did hear back from the White House confirming that that message had been delivered on Trump's (Donald Trump's) desk. Me saying that I ..."
 
 **[00:22:30](/episodes/ep-tB5SXXmd9vU.md#ent-org-white-house-t-00-22-30)**
-> "...arlie Kirk). So I'm gonna speculate until we get some answers, some straight yes-or-no answers from the White House, from the Élysée Palace, or from the French security forces. Now, as it pertains to the French Legi..."
+> "So I'm gonna speculate until we get some answers, some straight yes-or-no answers from the White House, from the Élysée Palace, or from the French security forces."
 
 </details>
 
@@ -1153,7 +1153,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
 **[00:17:28](/episodes/ep-r1PS67aRmcA.md#ent-org-white-house-t-00-16-45)**
-> "...n about me and Charlie (Charlie Kirk). And he said, "You're bigger than Ben now." "I'm walking into the White House yesterday, I realized that." I said, "I know, he hates it." And he said, "We just have to treat him..."
+> ""I'm walking into the White House yesterday, I realized that.""
 
 </details>
 
@@ -1307,7 +1307,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:02:25](/episodes/ep-adJ4LNGp84I.md#t-00-02-10): “I was told that the White House stepped in and put in a personal phone call to the event coordinator...to book the venue for Charlie's memorial service”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:02:29](/episodes/ep-adJ4LNGp84I.md#t-00-02-10): “I was told that the White House stepped in and put in a personal phone call to the event coordinator.”
 
 </details>
 
@@ -1348,7 +1348,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:02:25](/episodes/ep-adJ4LNGp84I.md#t-00-02-10): “I was told that the White House stepped in and put in a personal phone call to the event coordinator...to book the venue for Charlie's memorial service”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:02:29](/episodes/ep-adJ4LNGp84I.md#t-00-02-10): “I was told that the White House stepped in and put in a personal phone call to the event coordinator.”
 
 </details>
 
@@ -1365,7 +1365,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (62)</strong></summary>
+<summary><strong class="section-title">Statements about White House (63)</strong></summary>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
@@ -1684,10 +1684,18 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:27:45](/episodes/ep-mKXdKV-OBog.md#t-00-27-32) (Claim) **Karoline Leavitt** (via quoted speech): ["Karoline Leavitt said the White House was not aware of Mike Huckabee's..."](/statements/statement-f609d9ebf31e.md)
+  - Also about: [Jonathan Pollard](/entities/person-jonathan-pollard.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md), [Mike Huckabee](/entities/person-mike-huckabee.md)
+
+</details>
+
+<details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
 
 - [00:13:31](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-01) (Claim) **Candace Owens**: ["Fifteen pastors and NAR leaders surrounded Trump at the White House le..."](/statements/statement-ff7c6e5f2553.md)
-  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [January 6th](/entities/event-january-6th.md)
+  - Also about: [January 6th](/entities/event-january-6th.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 

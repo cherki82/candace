@@ -1,6 +1,6 @@
 ---
 title: "Brad Parscale"
-description: "Brad Parscale (People) - 7 mentions"
+description: "Brad Parscale (People) - 10 mentions"
 id: "person-brad-parscale"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-brad-parscale-t-00-38-44">2026-05-04 · 00:38:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-brad-parscale-t-01-12-54">2026-05-28 · 01:12:54</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-brad-parscale-t-00-53-54">2026-07-16 · 00:54:22</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,6 +34,7 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-brad-parscale-t-00-38-44" style="--pulse-height:20%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-brad-parscale-t-00-16-15" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 5 mentions" title="2026-05-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-brad-parscale-t-01-12-54" style="--pulse-height:20%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-brad-parscale-t-00-34-49" style="--pulse-height:60%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-brad-parscale-t-00-38-44) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-brad-parscale-t-00-16-15) | 5 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-brad-parscale-t-01-12-54) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-brad-parscale-t-00-34-49) | 3 |
 
 </details>
 </section>
@@ -49,7 +51,21 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3 mentions)</summary>
+
+**[00:34:49](/episodes/ep-puuMVxEu5NU.md#ent-person-brad-parscale-t-00-34-49)**
+> "hiring Brad Parscale"
+
+**[00:36:14](/episodes/ep-puuMVxEu5NU.md#ent-person-brad-parscale-t-00-36-14)**
+> "...how, which I didn't know that Brad Parscale was the owner or a part owner of the company Infl..."
+
+**[00:54:22](/episodes/ep-puuMVxEu5NU.md#ent-person-brad-parscale-t-00-53-54)**
+> "Did Brad Parscale find a new propaganda source? I mean, it is prett..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -96,10 +112,11 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 <summary>Formerly Worked For (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:36:50](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20): “OK, this is 2025. It's a crazy year. OK, let's take a look at it. January 10th, Brad Parscale, Trump's former campaign manager, becomes the chief strategy officer for Salem Media Group.”
 - [Candace Owens x Ana Kasparian @ 01:12:30](/episodes/ep-SKNJPul29zU.md#t-01-12-30): “What was that guy's name? Former Trump (Donald Trump) administration official who's now like running like a propaganda arm of the Israeli government as we speak. ... Parscale yes ... Brad Parscale, I”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:34:49](/episodes/ep-puuMVxEu5NU.md#t-00-34-13): “Brad Parscale, the former Trump (Donald Trump) campaign manager”
 
 </details>
 
@@ -130,6 +147,25 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 </details>
 
 <details>
+<summary>Owns (2)</summary>
+
+- **[Clock Tower X LLC](/entities/org-clock-tower-x-llc.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:34:49](/episodes/ep-puuMVxEu5NU.md#t-00-34-13): “the former Trump (Donald Trump) campaign manager, his firm, Clock Tower X, to conduct a digital campaign”
+
+</details>
+
+- **[Influenceable](/entities/org-influenceable.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:36:14](/episodes/ep-puuMVxEu5NU.md#t-00-36-14): “which I didn't know that Brad Parscale was the owner or a part owner of the company Influenceable.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (2)</summary>
 
 - **[Salem Media Group](/entities/org-salem-media-group.md)**
@@ -149,7 +185,7 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Salem Media Group](/entities/org-salem-media-group.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -166,10 +202,11 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:36:50](/episodes/ep-eMtjzXkQrsU.md#t-00-36-20): “OK, this is 2025. It's a crazy year. OK, let's take a look at it. January 10th, Brad Parscale, Trump's former campaign manager, becomes the chief strategy officer for Salem Media Group.”
 - [Candace Owens x Ana Kasparian @ 01:12:30](/episodes/ep-SKNJPul29zU.md#t-01-12-30): “What was that guy's name? Former Trump (Donald Trump) administration official who's now like running like a propaganda arm of the Israeli government as we speak. ... Parscale yes ... Brad Parscale, I”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:34:49](/episodes/ep-puuMVxEu5NU.md#t-00-34-13): “Brad Parscale, the former Trump (Donald Trump) campaign manager”
 
 </details>
 
@@ -187,12 +224,40 @@ Source: [Inside Israel’s Esther Project | The Times of Israel](https://www.tim
 
 </details>
 
+- **[Clock Tower X LLC](/entities/org-clock-tower-x-llc.md)** owned by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:34:49](/episodes/ep-puuMVxEu5NU.md#t-00-34-13): “the former Trump (Donald Trump) campaign manager, his firm, Clock Tower X, to conduct a digital campaign”
+
+</details>
+
+- **[Influenceable](/entities/org-influenceable.md)** owned by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:36:14](/episodes/ep-puuMVxEu5NU.md#t-00-36-14): “which I didn't know that Brad Parscale was the owner or a part owner of the company Influenceable.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brad Parscale (3)</strong></summary>
+<summary><strong class="section-title">Statements about Brad Parscale (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3)</summary>
+
+- [00:34:37](/episodes/ep-puuMVxEu5NU.md#t-00-34-13) (Citation) **Candace Owens**: ["Owens cited FARA filings as showing that Israel's foreign minister hir..."](/statements/statement-22d7ca02573b.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+- [00:35:14](/episodes/ep-puuMVxEu5NU.md#t-00-35-03) (Citation) **Candace Owens**: ["Owens said a TIME article reported that Israel's influence campaign sp..."](/statements/statement-576141ac489b.md)
+  - Also about: [TIME](/entities/org-time.md), [Israel](/entities/gpe-israel.md)
+
+- [00:36:31](/episodes/ep-puuMVxEu5NU.md#t-00-36-14) (Citation) **Candace Owens**: ["Owens said the reported services agreement required Brad Parscale's ca..."](/statements/statement-0bdd660aafdf.md)
+  - Also about: [Salem Media Group](/entities/org-salem-media-group.md), [TikTok](/entities/org-tiktok.md), [Instagram](/entities/org-instagram.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

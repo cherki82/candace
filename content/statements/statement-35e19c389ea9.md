@@ -25,10 +25,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:15:53](/episodes/ep-sImMM04XdWY.md#t-00-15-24) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(953);return false;">Play</a>
+**Timestamp:** [00:13:20](/episodes/ep-sImMM04XdWY.md#t-00-13-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(800);return false;">Play</a>
 
-> On July 18th, this is where things get really interesting. Charlie Kirk hosts Tucker at Satis. This brings in the Tucker element, right? Tucker, he tells Tucker to go max: call out Israel, Jeffrey Epstein, just go max
+> On July 18th, this is where things get really interesting. Charlie (Charlie Kirk) Kirk hosts Tucker (Tucker Carlson) at Satis. ... Tucker (Tucker Carlson), he tells Tucker (Tucker Carlson) to go max: call out Israel, Jeffrey Epstein, just go max.
 
 ## Verification
 

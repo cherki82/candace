@@ -182,7 +182,7 @@ _Type: Dates_
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
 
 **[00:16:34](/episodes/ep-QZWSsq8ZWzw.md#ent-date-september-4th-t-00-16-32)**
-> "...my kids. And if you don't understand that, then they can't be your students. That's it. That was on September 9th, okay. Then came September 10th. Obviously Charlie (Charlie Kirk) lost his life. And a few days lat..."
+> "That was on September 9th, okay."
 
 </details>
 

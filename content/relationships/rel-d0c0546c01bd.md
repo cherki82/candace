@@ -11,7 +11,7 @@ object: "org-pure-talk"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (8 mentions)
+### Evidence (10 mentions)
 
 **[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
 
@@ -33,9 +33,17 @@ object: "org-pure-talk"
 
 - [00:31:30](/episodes/ep-IqHsl7d2dos#t-00-31-30): _Again, that's balanceofnature.com with code Candace at checkout. I also want to tell you guys about Pure Talk because America does not stand for 250 years as a beacon of hope without the brave men and women that are willing to put their lives on the line to defend her._
 
+**[UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410)**
+
+- [00:29:37](/episodes/ep-N4uM8Jdr410#t-00-29-37): _That's when PureTalk comes in with the same service for a tiny fraction of the cost. And now, for the first time ever, PureTalk is offering any plan at just 5 a month for your first three months. There's never been a better time to switch._
+
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 
 - [00:45:02](/episodes/ep-ZzAT2xijKGQ#t-00-45-02): _Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company._
+
+**[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
+
+- [00:25:03](/episodes/ep-puuMVxEu5NU#t-00-25-03): _I also want to tell you guys about PureTalk because you do not have to overpay for your wireless network._
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 

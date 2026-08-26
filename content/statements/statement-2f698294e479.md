@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:12:03](/episodes/ep-6DhWawD4ZiM.md#t-00-11-42) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(723);return false;">Play</a>
 
-> She has also made time for an upcoming CBS News town hall sit down with Barry, which was filmed today.
+> She has also made time for an upcoming CBS News town hall sit down with Barry (Barry Weiss), which was filmed today.
 
 ## Verification
 

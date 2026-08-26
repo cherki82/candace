@@ -1,14 +1,14 @@
 ---
 id: "SubDoZWHARo"
 title: "Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325"
-description: "Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 - 114 entities, 9 events, 0 claims"
+description: "Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 - 114 entities, 9 events, 15 factual claims"
 published: "2026-04-15"
 youtube_url: "https://www.youtube.com/watch?v=SubDoZWHARo"
 ---
 
 **Published:** 2026-04-15 | [Watch on YouTube](https://www.youtube.com/watch?v=SubDoZWHARo)
 
-**Stats:** 114 entities | 9 events | 0 claims
+**Stats:** 114 entities | 9 events | 15 factual claims
 
 ---
 

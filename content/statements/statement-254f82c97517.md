@@ -4,9 +4,10 @@ description: "\"Randy Fine has been so disgusting in his rhetoric towards Palest
 statement_id: "statement-254f82c97517"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -28,11 +29,24 @@ type: "factual_claim"
 **Timestamp:** [00:02:34](/episodes/ep-K1tFD7FfoCU.md#t-00-02-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(154);return false;">Play</a>
 
-> [30] [02:34] Candace Owens: Randy Fine, just to be clear, he has been so disgusting in his rhetoric towards Palestinians—saying essentially that they're just not even truly humans—that even AIPAC had to drop him. [31] [02:45] Candace Owens: That's saying a lot.
+> Randy Fine (Randy Fine), just to be clear, he has been so disgusting in his rhetoric towards Palestinians—saying essentially that they're just not even truly humans—that even AIPAC had to drop him.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Randy Fine made extremely inflammatory comments about Palestinians including calling for starvation and questioning their humanity. Multiple sources report AIPAC appeared to drop endorsement, but AIPAC itself denied this claim. The inflammatory rhetoric is confirmed, but AIPAC dropping him is disputed.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [AIPAC appears to drop endorsement of GOP lawmaker - Times of Israel](https://www.timesofisrael.com/liveblog_entry/aipac-appears-to-drop-endorsement-of-gop-lawmaker-who-called-to-starve-away-until-hostages-freed/)
+
+*Verified: 2025-12-08T16:29:40.420757*
 
 ---
 

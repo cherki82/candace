@@ -29,7 +29,7 @@ type: "opinion"
 **Timestamp:** [00:14:52](/episodes/ep-sImMM04XdWY.md#t-00-14-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(892);return false;">Play</a>
 
-> How did Bill Ackman get  billion? Bill Ackman—a pretty impressive guy? I know Bill Ackman. No. Bill Ackman's like well-connected and super-aggressive. That's it
+> How did Bill Ackman get $9 billion? Bill Ackman—a pretty impressive guy? I know Bill Ackman. No. Bill Ackman's like well-connected and super-aggressive. That's it.
 
 ## Verification
 

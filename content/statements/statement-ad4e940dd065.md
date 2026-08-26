@@ -20,16 +20,26 @@ type: "factual_claim"
 
 ## About
 
-- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:05:43](/episodes/ep-QZWSsq8ZWzw.md#t-00-05-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(343);return false;">Play</a>
 
 > the source says that it was too fragmented to match Tyler's rifle, so they don't have even the bullet
+
+### 2. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
+
+**Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+**Timestamp:** [00:05:35](/episodes/ep-QZWSsq8ZWzw.md#t-00-05-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(335);return false;">Play</a>
+
+> Now, regarding the bullet, the source says that it was too fragmented to match Tyler's rifle, so they don't have even the bullet.
 
 ## Verification
 

@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:46:54](/episodes/ep-581dILVcEE4.md#t-00-46-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2814);return false;">Play</a>
 
-> I told you about a woman who yelled and took away a million dollars because of the Tucker speech. That woman was Joyce Chernick.
+> I told you about a woman who yelled and took away a million dollars because of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Jean-Luc Brunel"
-description: "Jean-Luc Brunel (People) - 17 mentions"
+description: "Jean-Luc Brunel (People) - 18 mentions"
 id: "person-jean-luc-brunel"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-person-jean-luc-brunel-t-00-36-16">2026-01-16 · 00:36:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jean-luc-brunel-t-00-23-17">2026-06-26 · 00:23:35</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-jean-luc-brunel-t-00-50-23">2026-07-14 · 00:50:23</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-jean-luc-brunel-t-00-43-11" style="--pulse-height:10%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jean-luc-brunel-t-00-35-28" style="--pulse-height:10%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jean-luc-brunel-t-00-17-36" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 10 mentions" title="2026-06-26 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-jean-luc-brunel-t-00-50-23" style="--pulse-height:10%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-jean-luc-brunel-t-00-43-11) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jean-luc-brunel-t-00-35-28) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-jean-luc-brunel-t-00-17-36) | 10 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-jean-luc-brunel-t-00-50-23) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:50:23](/episodes/ep-X3VKJVJ7cN4.md#ent-person-jean-luc-brunel-t-00-50-23)**
+> "...here Epstein was hanging out. Jean-Luc Brunel was the founder of it, and I had wondered about E..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (10 mentions)</summary>
@@ -254,7 +264,15 @@ Source: [Epstein used modelling agent to recruit girls, Brazilian women tell BBC
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jean-Luc Brunel (7)</strong></summary>
+<summary><strong class="section-title">Statements about Jean-Luc Brunel (8)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:50:23](/episodes/ep-X3VKJVJ7cN4.md#t-00-50-23) (Accusation) **Candace Owens**: ["Owens said she had wondered about potential connections between Erika ..."](/statements/statement-01a2dcb9b362.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (5)</summary>

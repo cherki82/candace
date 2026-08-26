@@ -1,6 +1,6 @@
 ---
 title: "George Zinn"
-description: "George Zinn (People) - 57 mentions"
+description: "George Zinn (People) - 59 mentions"
 id: "person-george-zinn"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44">2025-09-15 · 00:44:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-george-zinn-t-00-08-06">2026-06-26 · 00:08:06</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-george-zinn-t-00-51-01">2026-07-16 · 00:51:12</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>59</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -54,6 +54,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-george-zinn-t-00-47-18" style="--pulse-height:13%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-george-zinn-t-01-09-57" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-george-zinn-t-00-08-06" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-george-zinn-t-00-14-51" style="--pulse-height:13%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +78,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-george-zinn-t-00-47-18) | 2 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-george-zinn-t-01-09-57) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-george-zinn-t-00-08-06) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-george-zinn-t-00-14-51) | 2 |
 
 </details>
 </section>
@@ -84,7 +86,18 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
+
+**[00:15:10](/episodes/ep-puuMVxEu5NU.md#ent-person-george-zinn-t-00-14-51)**
+> "decoy boy George Zinn"
+
+**[00:51:12](/episodes/ep-puuMVxEu5NU.md#ent-person-george-zinn-t-00-51-01)**
+> "... what Sam Koreshy was wearing George Zinn certainly was not wearing similar clothing I have..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -356,10 +369,9 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <summary>Endorsed (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54): “George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character.”
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:39](/episodes/ep-adJ4LNGp84I.md#t-00-03-37): “George Zin writes, 'Rare to find a more caring man with uncompromising goals to make Utah great for generations than Phil Lyman...He needs our support.'”
 
 </details>
 
@@ -380,7 +392,27 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Zinn (14)</strong></summary>
+<summary><strong class="section-title">Statements by George Zinn (1)</strong></summary>
+
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:24:18](/episodes/ep-UBkFkg4UNY8.md#t-00-24-07) [○] (Claim) ["As soon as George Zinn got arrested and that started circling, he ran to someone..."](/statements/statement-df82daead25e.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about George Zinn (18)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:19:29](/episodes/ep-puuMVxEu5NU.md#t-00-19-29) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["The anonymous eyewitness said he went to the command center about an h..."](/statements/statement-de0d228aaa9d.md)
+  - Also about: [Anonymous Losee Center Eyewitness](/entities/anon-src-puuMVxEu5NU-eyewitness.md), [Utah Valley University Department of Public Safety](/entities/org-utah-valley-university-department-of-public-safety.md)
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1)</summary>
@@ -427,9 +459,16 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1)</summary>
+
+- [00:36:05](/episodes/ep-5autG89PW6w.md#t-00-35-37) (Opinion) **Candace Owens**: ["George Zinn has connections to the federal government through familial..."](/statements/statement-e0bad1b59c55.md)
+
+</details>
+
+<details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
 
-- [00:11:48](/episodes/ep-UBkFkg4UNY8.md#t-00-11-10) (Claim) **Candace Owens**: ["George Zinn was arrested in the exact same area that Charlie Kirk's SU..."](/statements/statement-1f8ba61754a2.md)
+- [00:14:15](/episodes/ep-UBkFkg4UNY8.md#t-00-13-58) (Claim) **Candace Owens**: ["Charlie Kirk was shot; 40 seconds later he was brought to the SUV; 10 ..."](/statements/statement-f6b1cf6c660d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
@@ -448,11 +487,15 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (3)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (5)</summary>
+
+- [00:02:52](/episodes/ep-q7f8r-THr84.md#t-00-02-49) (Claim) **Candace Owens**: ["George Zinn is a 71-year-old man"](/statements/statement-d6f457d2212f.md)
 
 - [00:03:09](/episodes/ep-q7f8r-THr84.md#t-00-02-49) (Claim) **Candace Owens**: ["George Zinn was arrested and is facing charges of obstruction of justi..."](/statements/statement-4f9967d6f252.md)
 
 - [00:03:44](/episodes/ep-q7f8r-THr84.md#t-00-03-31) (Claim) **Candace Owens**: ["George Zinn was booked in connection with images on his cell phone rel..."](/statements/statement-8a59fc9abc13.md)
+
+- [00:03:44](/episodes/ep-q7f8r-THr84.md#t-00-03-31) (Claim) **Candace Owens**: ["George Zinn charged with harboring images of child abuse in addition t..."](/statements/statement-53b7a78cf13e.md)
 
 - [00:05:45](/episodes/ep-q7f8r-THr84.md#t-00-05-31) (Claim) **Candace Owens**: ["George Zinn has given interviews related to September 11th and Al Qaed..."](/statements/statement-9fb008719549.md)
 

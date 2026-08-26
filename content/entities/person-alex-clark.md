@@ -21,8 +21,8 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24">2026-06-17 · 00:56:46</a></strong></div>
 <div><span>Episodes</span><strong>26</strong></div>
 <div><span>Mentions</span><strong>63</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -288,7 +288,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 **[00:18:12](/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-17-32)**
 > "...et attacked. Turning Point just stays silent. They know he's lying, but they allow the lie to flow. Alex Clark lies; I get attacked. I'm telling the truth. Turning Point knows it, but they kind of allow this li..."
 
-**[00:35:49](/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-35-34)**
+**[00:35:49](/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-35-39)**
 > "...to establish DOGE, right? Tyler came out and lied, and he said, "This is just totally regular." And Alex Clark said, "Oh, every year since I've been here, this is what we do." And the guy starts this video by b..."
 
 </details>
@@ -357,28 +357,28 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (9 mentions)</summary>
 
 **[00:00:34](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-00-00)**
-> "...ler Bowyer, went on a little bit of an X binge. I don't recommend it, which was then highlighted by Alex Clark, who has a show over there on Instagram. And I think it's therefore fair for us to turn our attenti..."
+> "...which was then highlighted by Alex Clark, who has a show over there on Instagram."
 
 **[00:09:32](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-09-02)**
-> "...that I just shared with you; they knew for a fact. So I was a bit astonished when Andrew Kolvet and Alex Clark similarly jumped in, in this inauthentic attempt to dissuade the idea that Charlie (Charlie Kirk) w..."
+> "...nished when Andrew Kolvet and Alex Clark similarly jumped in, in this inauthentic attempt ..."
 
 **[00:09:56](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-09-56)**
-> "... in the context of all of the additional details that I just shared with you, okay? Take a listen. (Alex Clark clip:) "Was he becoming Catholic? No. But he really loved Catholic Mass. He loved the ritual of it...."
+> "(Alex Clark clip:) "Was he becoming Catholic?"
 
 **[00:29:54](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-29-48)**
-> "...k. I want to show you one more thing too, because I am quite stunned by the audacity to call me out—Alex Clark—to like call me out by sharing on her profile something that's just fundamentally untrue. But befor..."
+> "...y the audacity to call me out—Alex Clark—to like call me out by sharing on her profile som..."
 
 **[00:33:59](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-33-51)**
-> "...ht? The spin is in. I got really annoyed last night going through— somebody tagged me: "Did you see Alex Clark posted and tried to make it seem like I lied about the new DOJ department?"—when I literally shared..."
+> "...ebody tagged me: "Did you see Alex Clark posted and tried to make it seem like I lied abou..."
 
 **[00:35:59](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-35-18)**
-> "...d to believe? That the more moral thing would be for us to behave like Turning Point USA employees? Alex Clark calling me out—you're kidding me? Should I do what she did, and it would have been more moral for m..."
+> "Alex Clark calling me out—you're kidding me?"
 
 **[00:36:12](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-36-00)**
-> "...tside memorial vigil where people mourn and drop off flowers and gifts? Because that's exactly what Alex Clark did. And I thought it was icky. I thought it was gross. I didn't say anything because everybody mou..."
+> "...? Because that's exactly what Alex Clark did."
 
 **[00:37:26](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-37-26)**
-> "...tle blurb from this article. Again, published September 18th. (Wall Street Journal article quote:) "Alex Clark was about to head to the airport for a work trip to celebrate the first anniversary of her podcast ..."
+> "...reet Journal article quote:) "Alex Clark was about to head to the airport for a work trip ..."
 
 **[00:39:55](/episodes/ep-ozWJz2spBcI.md#ent-person-alex-clark-t-00-39-32)**
 > "Anyways, Alex (Alex Clark) has decided to share a total half-truth PR spin ..."
@@ -621,7 +621,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Alex Clark (3)</strong></summary>
+<summary><strong class="section-title">Statements by Alex Clark (4)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3)</summary>
@@ -637,10 +637,17 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 </details>
 
+<details>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
+
+- [00:36:10](/episodes/ep-UBkFkg4UNY8.md#t-00-36-03) [○] (Claim) ["Charlie Kirk was not offered $150 million from Israel; Turning Point USA refused..."](/statements/statement-7e9c7ba1ce4c.md)
+
+</details>
+
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Alex Clark (8)</strong></summary>
+<summary><strong class="section-title">Statements about Alex Clark (9)</strong></summary>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
@@ -692,6 +699,13 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 - [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk did not give any person the authority to say that the Catho..."](/statements/statement-6504abed6bbe.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1)</summary>
+
+- [00:00:34](/episodes/ep-ozWJz2spBcI.md#t-00-00-00) (Claim) **Candace Owens**: ["Alex Clark has a show on Instagram at Turning Point USA"](/statements/statement-b69fd3d0c651.md)
 
 </details>
 

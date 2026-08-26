@@ -1,6 +1,6 @@
 ---
 title: "Tim Ballard"
-description: "Tim Ballard (People) - 17 mentions"
+description: "Tim Ballard (People) - 18 mentions"
 id: "person-tim-ballard"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-tim-ballard-t-00-05-38">2025-09-30 · 00:05:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-person-tim-ballard-t-02-05-53">2026-04-22 · 02:06:24</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-ballard-t-01-06-05">2026-07-16 · 01:06:15</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -38,6 +38,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-tim-ballard-t-00-14-50" style="--pulse-height:75%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-tim-ballard-t-00-47-55" style="--pulse-height:25%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-tim-ballard-t-02-05-53" style="--pulse-height:25%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-ballard-t-01-06-05" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-tim-ballard-t-00-14-50) | 3 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-tim-ballard-t-00-47-55) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-tim-ballard-t-02-05-53) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-ballard-t-01-06-05) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [Operation Underground Railroad 2014 Form 990](https://ourrescue.org/rep
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[01:06:15](/episodes/ep-mLvJqdxS-FY.md#ent-person-tim-ballard-t-01-06-05)**
+> "...have a lot to think now about Tim Ballard, how I met all of these people sort of through Pr..."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:14:07](/episodes/ep-vwG1juDCQZQ.md#t-00-13-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(847);return false;">Play</a>
 
-> Tyler Bowyer said, 'We have footage in 4K—all of the stuff,' when he was tweeting
+> Tyler Bowyer said, "We have footage in 4K—all of the stuff," when he was tweeting.
 
 ## Verification
 

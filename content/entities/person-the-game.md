@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,7 +64,7 @@ _Type: People_
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (7 mentions)</summary>
 
 **[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44)**
-> "...those things. So major, major win. I am excited. Also, later on in the show, what I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have..."
+> "Also, later on in the show, what I have for you is The Game (rapper), who is releasing a song that is entitled "The Assassination of Candace Owens.""
 
 **[00:51:11](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-50-53)**
 > "...wanted to mention to you that The Game—who is a hip-hop rapper—is releasing an album, an..."
@@ -103,6 +103,27 @@ _No relationships extracted yet._
 
 - [00:22:49](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Accusation) ["His body is not yet settled in the dirt, why are you carrying on like that"](/statements/statement-c7cf4004e277.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about The Game (2)</strong></summary>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1)</summary>
+
+- [00:00:04](/episodes/ep-DqGNvi36ol8.md#t-00-00-00) (Claim) **Candace Owens**: ["The Game released a song titled The Assassination of Candace Owens tha..."](/statements/statement-7073bda25aa5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1)</summary>
+
+- [00:01:00](/episodes/ep-his-JBjlkh8.md#t-00-00-44) (Claim) **Candace Owens**: ["The Game is releasing a song titled 'The Assassination of Candace Owen..."](/statements/statement-b7e488a6b862.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Assassination of Candace Owens](/entities/work-the-assassination-of-candace-owens.md)
 
 </details>
 

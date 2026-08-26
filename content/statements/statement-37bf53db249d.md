@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:37:10](/episodes/ep-sImMM04XdWY.md#t-00-36-51) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2230);return false;">Play</a>
 
-> But also the only thing that Dan Flood apparently cared about was making sure that their SUVs had clear access behind Charlie—in and out access. So they were not concerned about any other rooftops. They were not concerned about walking to make sure that they had access to other rooftops—obviously—or to make sure that they could see what points it was that the people could just walk onto the courtyard
+> Something else that is very strange that I was told early on when all of these leaks were coming is that not only did Turning Point not walk the campus when they got there—I'm referring to the security—but also the only thing that Dan Flood apparently cared about was making sure that their SUVs had clear access behind Charlie (Charlie Kirk)—in and out access. So they were not concerned about any other rooftops. They were not concerned about walking to make sure that they had access to other rooftops—obviously—or to make sure that they could see what points it was that the people could just walk onto the courtyard.
 
 ## Verification
 

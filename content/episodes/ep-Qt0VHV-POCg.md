@@ -1,14 +1,14 @@
 ---
 id: "Qt0VHV-POCg"
 title: "Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254"
-description: "Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 - 80 entities, 8 events, 0 claims"
+description: "Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 - 80 entities, 8 events, 23 factual claims"
 published: "2025-10-29"
 youtube_url: "https://www.youtube.com/watch?v=Qt0VHV-POCg"
 ---
 
 **Published:** 2025-10-29 | [Watch on YouTube](https://www.youtube.com/watch?v=Qt0VHV-POCg)
 
-**Stats:** 80 entities | 8 events | 0 claims
+**Stats:** 80 entities | 8 events | 23 factual claims
 
 ---
 
@@ -251,15 +251,37 @@ youtube_url: "https://www.youtube.com/watch?v=Qt0VHV-POCg"
 </details>
 
 <details>
-<summary><strong>Statements (4)</strong></summary>
+<summary><strong>Statements (26)</strong></summary>
 
+- [00:00:02](#t-00-00-00) [○] (Accusation) **Candace Owens**: ["the Turning Point USA Wikipedia entry got a very interesting update the night af..."](/statements/statement-e7986d3d50a8.md)
+- [00:01:39](#t-00-01-30) [✓] (Claim) **Candace Owens**: ["Owens recalled that Charlie Kirk repeatedly told her he had been an extremely gi..."](/statements/statement-0771d4600552.md)
+- [00:01:49](#t-00-01-30) [○] (Claim) **Candace Owens**: ["Doctors wanted to put Charlie Kirk on ADHD medicine due to his hyperactivity, bu..."](/statements/statement-51b7438d981d.md)
+- [00:02:38](#t-00-02-15) [○] (Opinion) **Candace Owens**: ["Owens suspected that standardized tests exist so the government can track people..."](/statements/statement-0308f19dd71b.md)
 - [00:03:21](#t-00-02-59) [○] (Claim) **Candace Owens**: ["The Turning Point USA Wikipedia entry received an update at 10:34 p.m. Eastern o..."](/statements/statement-81e1e173feaa.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md)
+- [00:03:21](#t-00-02-59) [○] (Claim) **Candace Owens**: ["Turning Point USA Wikipedia entry was updated at 10:34 p.m. Eastern on September..."](/statements/statement-2e12d6caf5fb.md)
+- [00:03:39](#t-00-02-59) [✓] (Claim) **Candace Owens**: ["At 10:34 p.m. Eastern on September 11, 2025, less than 36 hours after Charlie Ki..."](/statements/statement-7aef3e93b0e3.md)
+- [00:03:52](#t-00-03-39) [✓] (Claim) **Candace Owens**: ["It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Fai..."](/statements/statement-2f7a3f1a3641.md)
 - [00:04:30](#t-00-04-24) [○] (Claim) **Candace Owens**: ["Rob McCoy was not the person who inspired Turning Point USA Faith - that credit ..."](/statements/statement-62cee6df940a.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md)
 - [00:05:10](#t-00-05-03) [○] (Claim) **Candace Owens**: ["The Wikipedia article cited to support Rob McCoy being called a founder is from ..."](/statements/statement-28b5eae48ab7.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md)
+- [00:05:10](#t-00-05-03) [○] (Claim) **Candace Owens**: ["Wikipedia citation for Rob McCoy's co-founder status was dated November 24th, 20..."](/statements/statement-42aa7644fff3.md)
+- [00:05:34](#t-00-05-03) [○] (Claim) **Candace Owens**: ["Wikipedia citations for Rob McCoy entry were dated September 10th, 2025"](/statements/statement-4a812ff56273.md)
 - [00:06:26](#t-00-05-47) [○] (Claim) **Candace Owens**: ["There was already a long-standing section on the Wikipedia website about Turning..."](/statements/statement-1c7931f3aa56.md)
   - About: [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
+- [00:06:26](#t-00-05-47) [✓] (Claim) **Candace Owens**: ["Before the September 11 edit, the same Wikipedia article’s TPUSA Faith section s..."](/statements/statement-ee4595f31965.md)
+- [00:06:42](#t-00-06-26) [✓] (Claim) **Candace Owens**: [""In 2021, Charlie Kirk founded TPUSA Faith, an organization that says it is dedi..."](/statements/statement-42472f635666.md)
+- [00:13:16](#t-00-12-33) [✗] (Claim) **Candace Owens**: ["Turning Point USA was clearing about $100 million per year"](/statements/statement-629a52d4395b.md)
+- [00:13:52](#t-00-13-18) [✓] (Claim) **Candace Owens**: ["President Donald Trump proclaimed October 14, 2025, Charlie Kirk’s birthday, a N..."](/statements/statement-cbfb72e4fe95.md)
+- [00:14:01](#t-00-14-01) [✓] (Claim) **Candace Owens**: ["President Trump established October 14th as National Day of Remembrance for Char..."](/statements/statement-41ee5b0b2b5b.md)
+- [00:14:01](#t-00-14-01) [✓] (Claim) **Candace Owens**: ["October 14th is Charlie Kirk's birthday"](/statements/statement-7e000e4a664c.md)
+- [00:16:25](#t-00-16-13) [○] (Claim) **Candace Owens**: [""Why was the wonderful Turning Point under investigation by deranged Jack Smith ..."](/statements/statement-fcddd9748b93.md)
+- [00:20:54](#t-00-20-35) [✓] (Citation) **Candace Owens**: ["The New York Times reported that Joe Kent’s review of FBI files in the Charlie K..."](/statements/statement-6d527c0b8a41.md)
+- [00:21:58](#t-00-21-58) [○] (Claim) **Candace Owens**: ["Kash Patel held a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and Trump o..."](/statements/statement-443aa0a88ca7.md)
+- [00:22:07](#t-00-21-58) [○] (Claim) **Candace Owens**: ["JD Vance was in the meeting with Kash Patel, Susie Wiles, Joe Kent, and Tulsi Ga..."](/statements/statement-f3d6780698a2.md)
+- [00:30:09](#t-00-29-42) [○] (Claim) **Candace Owens**: ["Charlie had a Catholic funeral Mass, and he is buried in a Catholic cemetery."](/statements/statement-52ca03e3fe71.md)
+- [00:32:26](#t-00-31-50) [○] (Claim) **Candace Owens**: ["Donald Trump Jr. was one of the most committed Trump family members to Turning P..."](/statements/statement-7a8d9ff807dd.md)
+- [00:34:16](#t-00-34-09) [○] (Claim) **Donald Trump Jr.**: ["I do have confidence."](/statements/statement-59b7451155b5.md)
 
 </details>

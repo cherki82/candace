@@ -22,7 +22,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <div><span>Episodes</span><strong>22</strong></div>
 <div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -458,7 +458,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Daily Mail (9)</strong></summary>
+<summary><strong class="section-title">Statements about Daily Mail (10)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
@@ -519,6 +519,14 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 - [00:30:52](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52) (Opinion) **Candace Owens**: ["It was reasonable for media reports to conclude from Tyler Robinson's ..."](/statements/statement-7ea974dddde8.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [MSN](/entities/org-msn.md)
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:41:40](/episodes/ep-Kmt6HgRjckU.md#t-00-41-32) (Claim) **Candace Owens**: ["A life insurance policy was taken out on Charlie Kirk"](/statements/statement-8f9f7ee2947f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

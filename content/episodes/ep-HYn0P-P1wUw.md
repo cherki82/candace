@@ -1,14 +1,14 @@
 ---
 id: "HYn0P-P1wUw"
 title: "BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285"
-description: "BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 - 117 entities, 18 events, 0 claims"
+description: "BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 - 117 entities, 18 events, 30 factual claims"
 published: "2026-01-06"
 youtube_url: "https://www.youtube.com/watch?v=HYn0P-P1wUw"
 ---
 
 **Published:** 2026-01-06 | [Watch on YouTube](https://www.youtube.com/watch?v=HYn0P-P1wUw)
 
-**Stats:** 117 entities | 18 events | 0 claims
+**Stats:** 117 entities | 18 events | 30 factual claims
 
 ---
 

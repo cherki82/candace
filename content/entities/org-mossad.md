@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 81 mentions"
+description: "Mossad (Organizations) - 83 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07">2026-07-14 · 01:07:07</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-mossad-t-01-06-05">2026-07-16 · 01:06:30</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>83</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Statements about</span><strong>29</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -68,6 +68,8 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-mossad-t-00-54-56" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-23-57" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07" style="--pulse-height:10%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-mossad-t-00-48-58" style="--pulse-height:10%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-mossad-t-01-06-05" style="--pulse-height:10%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -106,6 +108,8 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-mossad-t-00-54-56) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-23-57) | 5 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-mossad-t-00-48-58) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-mossad-t-01-06-05) | 1 |
 
 </details>
 </section>
@@ -113,13 +117,29 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+<summary><strong class="section-title">Raw mentions (83)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[01:06:30](/episodes/ep-mLvJqdxS-FY.md#ent-org-mossad-t-01-06-05)**
+> "...connection, obviously, to the Mossad."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
 
 **[01:07:07](/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07)**
 > "OK, Jeremy Boring lied through his teeth. So who on Ben (Ben Shapiro)'s IDF Israeli Mossad security apparatus team?"
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:48:58](/episodes/ep-X3VKJVJ7cN4.md#ent-org-mossad-t-00-48-58)**
+> "...ever really leave the IDF and Mossad."
 
 </details>
 
@@ -599,7 +619,15 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (27)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (29)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [01:06:30](/episodes/ep-mLvJqdxS-FY.md#t-01-06-05) (Accusation) **Candace Owens**: ["Candace Owens accused pastors introduced through PragerU of having con..."](/statements/statement-14ebd43d1cd0.md)
+  - Also about: [PragerU](/entities/org-prageru.md), [Psychological operations](/entities/concept-psychological-operations.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3)</summary>
@@ -722,13 +750,16 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
 
 - [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["In the JFK files, Mossad is mentioned. One of the reasons why Mossad i..."](/statements/statement-ee9e4c65d87d.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
 
 - [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["In the JFK files, Mossad is mentioned"](/statements/statement-bd6205f93016.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
+
+- [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said in May 2025 that Mossad is mentioned in the JFK file..."](/statements/statement-e0e5542c1103.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
 </details>
 
@@ -753,9 +784,9 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2)</summary>
 
 - [00:29:16](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10) (Claim) **Charlie Kirk** (via quoted speech): ["Ghislaine Maxwell's father, Robert Maxwell, was obviously a spy of the..."](/statements/statement-a040af743a90.md)
-  - Also about: [Robert Maxwell](/entities/person-robert-maxwell.md), [Israel](/entities/gpe-israel.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Robert Maxwell](/entities/person-robert-maxwell.md)
 
-- [00:30:12](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Claim) **Charlie Kirk** (via quoted speech): ["The evidence shows that Epstein was a creation of either Mossad, Israe..."](/statements/statement-9757aae20f06.md)
+- [00:30:12](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the evidence showed Jeffrey Epstein might have been ..."](/statements/statement-9757aae20f06.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>

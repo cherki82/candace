@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 73 mentions"
+description: "United States Air Force (Organizations) - 78 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29">2025-09-29 · 00:50:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-air-force-t-00-42-46">2026-06-26 · 00:43:01</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-air-force-t-00-05-20">2026-07-20 · 00:05:20</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -63,6 +63,8 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-air-force-t-00-09-55" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-air-force-t-00-11-23" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-air-force-t-00-08-49" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-air-force-t-00-35-30" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-air-force-t-00-05-20" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -95,6 +97,8 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-air-force-t-00-09-55) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-air-force-t-00-11-23) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-air-force-t-00-08-49) | 3 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-air-force-t-00-35-30) | 4 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-air-force-t-00-05-20) | 1 |
 
 </details>
 </section>
@@ -102,7 +106,32 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:05:20](/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-air-force-t-00-05-20)**
+> "And it just keeps getting better, that clip, because Robert O'Neill was joined by Air Force Brigadier General Blaine Holt. And here is what he had to say regarding the narrative."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4 mentions)</summary>
+
+**[00:35:42](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-air-force-t-00-35-30)**
+> "...ion served as captains in the Air Force, one of whom, I don't know if you know this."
+
+**[00:39:24](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-air-force-t-00-38-49)**
+> "...idn't Spencer (Spencer Turek) Air Force hang up? Call his brother. Call someone at the Pe..."
+
+**[00:40:17](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-air-force-t-00-40-17)**
+> "... a branch chief pilot for the Air Force. Did he have this particular Wednesday off?"
+
+**[00:42:25](/episodes/ep-mLvJqdxS-FY.md#ent-org-united-states-air-force-t-00-42-25)**
+> "... ties to the pentacon and the air force live streaming it"
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
@@ -344,7 +373,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:14:22](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05)**
-> "... one that was filming. Everyone was like, "Who's filming his casket," as it's being escorted off of Air Force Two, crying, holding that—Stacey. Like I said, I just felt spiritually that Charlie (Charlie Kirk) ..."
+> "as it's being escorted off of Air Force Two, crying, holding that—Stacey (Stacey Sheridan)."
 
 </details>
 
@@ -390,7 +419,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 > "...ed, but we are pretty solid. This is our guy who happened to be a pilot who did his residency at an Air Force base. Oh, okay, that's interesting. We told you that Deidre Amaro—Dr. Deidre Amaro—is the medical e..."
 
 **[00:15:30](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-15-00)**
-> "...fact. Frank Turk, who's there for the assassination, is a naval flight officer. His sons are in the Air Force. That's a fact. McCoys—naval intelligence, background in psychological operations because of grandd..."
+> "His sons are in the Air Force."
 
 **[00:17:26](/episodes/ep-mKXdKV-OBog.md#ent-org-united-states-air-force-t-00-17-10)**
 > "...oint. But Burton Hibbs—Butch—is the brother of Pastor Jack Hibbs. Obviously sons—I showed you—of an Air Force chief. Tyler Robinson is a Boy Scout whose Uncle Mitchell may be related. People have pulled this o..."
@@ -464,12 +493,19 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (2)</summary>
 
 - **[Carl Wallnau](/entities/person-carl-wallnau.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39): “His father, Carl Wallnau, was a major in the United States Air Force”
+
+</details>
+
+- **[Spencer Turek](/entities/person-spencer-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:39:05](/episodes/ep-mLvJqdxS-FY.md#t-00-38-49): “But I guess he decided to just keep praying in the backseat and his military son, Spencer (Spencer Turek), didn't jump into action to maybe call his brother. I don't know. Instead, Frank (Frank Turek) decided to sit in the backseat, pray and listen to Ben Shapiro's security team receive updates. ... He's also in the military, right? He works as a branch chief pilot for the Air Force. Did he have this particular Wednesday off?”
 
 </details>
 
@@ -500,25 +536,6 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details>
-<summary>Has Member (2)</summary>
-
-- **[Dr. Deidre Amaro](/entities/person-dr-deidre-amaro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:21](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Dr. Deidre Amaro is also a major in the military”
-
-</details>
-
-- **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Frank Turk is a naval flight officer, his sons are in the Air Force”
-
-</details>
-
-</details>
-
-<details>
 <summary>Headquartered In (1)</summary>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
@@ -531,7 +548,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -554,24 +571,17 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 </details>
 
-- **[Dr. Deidre Amaro](/entities/person-dr-deidre-amaro.md)** member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:21](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Dr. Deidre Amaro is also a major in the military”
-
-</details>
-
-- **[Frank Turek](/entities/person-frank-turek.md)** member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:15:30](/episodes/ep-mKXdKV-OBog.md#t-00-15-00): “Frank Turk is a naval flight officer, his sons are in the Air Force”
-
-</details>
-
 - **[Carl Wallnau](/entities/person-carl-wallnau.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39): “His father, Carl Wallnau, was a major in the United States Air Force”
+
+</details>
+
+- **[Spencer Turek](/entities/person-spencer-turek.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:39:05](/episodes/ep-mLvJqdxS-FY.md#t-00-38-49): “But I guess he decided to just keep praying in the backseat and his military son, Spencer (Spencer Turek), didn't jump into action to maybe call his brother. I don't know. Instead, Frank (Frank Turek) decided to sit in the backseat, pray and listen to Ben Shapiro's security team receive updates. ... He's also in the military, right? He works as a branch chief pilot for the Air Force. Did he have this particular Wednesday off?”
 
 </details>
 
@@ -580,7 +590,15 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Air Force (13)</strong></summary>
+<summary><strong class="section-title">Statements about United States Air Force (14)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [00:40:17](/episodes/ep-mLvJqdxS-FY.md#t-00-40-17) (Claim) **Candace Owens**: ["Candace Owens said Spencer Turek works as a branch chief pilot for the..."](/statements/statement-21a9af104909.md)
+  - Also about: [Spencer Turek](/entities/person-spencer-turek.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
@@ -657,7 +675,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
 - [00:29:28](/episodes/ep-Cq7nj9rxPdo.md#t-00-29-20) (Claim) **Candace Owens**: ["Dr. Lee Trotter might be in the Air Force"](/statements/statement-4585f0b74ba9.md)
-  - Also about: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
+  - Also about: [Lee Trotter](/entities/person-lee-trotter.md)
 
 </details>
 

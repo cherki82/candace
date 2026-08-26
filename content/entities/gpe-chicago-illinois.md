@@ -1,6 +1,6 @@
 ---
 title: "Chicago, Illinois"
-description: "Chicago, Illinois (Places) - 21 mentions"
+description: "Chicago, Illinois (Places) - 29 mentions"
 id: "gpe-chicago-illinois"
 type: "GPE"
 aliases:
@@ -23,30 +23,31 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51">2026-01-06 · 00:28:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40">2026-03-18 · 00:24:24</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-49-39">2026-07-14 · 00:49:57</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-chicago-illinois-t-00-16-31">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38">Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51" style="--pulse-height:75%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-chicago-illinois-t-00-42-29" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-chicago-illinois-t-00-08-25" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-chicago-illinois-t-00-27-58" style="--pulse-height:75%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-chicago-illinois-t-00-01-26" style="--pulse-height:25%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-chicago-illinois-t-00-16-31" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-chicago-illinois-t-00-17-00" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-chicago-illinois-t-00-15-54" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51" style="--pulse-height:38%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-chicago-illinois-t-00-42-29" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-chicago-illinois-t-00-08-25" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-chicago-illinois-t-00-27-58" style="--pulse-height:38%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-chicago-illinois-t-00-01-26" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-chicago-illinois-t-00-16-31" style="--pulse-height:50%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-chicago-illinois-t-00-17-00" style="--pulse-height:12%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-chicago-illinois-t-00-31-57" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-chicago-illinois-t-00-15-54" style="--pulse-height:25%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53" style="--pulse-height:12%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 8 mentions" title="2026-07-14 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-chicago-illinois-t-00-15-54) | 2 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38) | 8 |
 
 </details>
 </section>
@@ -70,7 +72,36 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (8 mentions)</summary>
+
+**[00:21:07](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38)**
+> "... worked there for 25 years in Chicago. Big guy, boss, very connected, very political."
+
+**[00:21:19](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-21-19)**
+> "Okay. Chicago, not an easy place to make it in. And he was the ..."
+
+**[00:22:18](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-21-58)**
+> "...k of America Merrill Lynch in Chicago, Chicago, Chicago, Chicago everywhere."
+
+**[00:22:31](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-21-58)**
+> "...k of America Merrill Lynch in Chicago, so did Tyler Bowyer's father, major executive at..."
+
+**[00:24:20](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-24-01)**
+> "...is the vice president also in Chicago."
+
+**[00:24:47](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-24-47)**
+> "... in looks like New Jersey and Chicago. At the same time as Stephen Phillips, then you'v..."
+
+**[00:25:03](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-24-47)**
+> "...guys were at Bank of America, Chicago, so was Erika Frantzve's cousin Dennis."
+
+**[00:49:57](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-49-39)**
+> "...em, Arizona, Romania, and now Chicago."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (2 mentions)</summary>
@@ -200,7 +231,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Chicago, Illinois (2)</strong></summary>
+<summary><strong class="section-title">Statements about Chicago, Illinois (4)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2)</summary>
+
+- [00:20:59](/episodes/ep-X3VKJVJ7cN4.md#t-00-20-38) (Claim) **Candace Owens**: ["Owens said Thomas H. Patrick was Merrill Lynch's executive vice chairm..."](/statements/statement-ea8474c57d48.md)
+  - Also about: [Thomas H. Patrick](/entities/person-thomas-h-patrick.md), [Merrill Lynch](/entities/org-merrill-lynch.md)
+
+- [00:22:18](/episodes/ep-X3VKJVJ7cN4.md#t-00-21-58) (Claim) **Candace Owens**: ["Owens said Stephen Philip and Tyler Bowyer's father worked at Bank of ..."](/statements/statement-53880cc31dfd.md)
+  - Also about: [Stephen Philip](/entities/person-stephen-philip.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Bank of America](/entities/org-bank-of-america.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>

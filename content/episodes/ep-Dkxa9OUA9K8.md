@@ -1,14 +1,14 @@
 ---
 id: "Dkxa9OUA9K8"
 title: "LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341"
-description: "LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 - 102 entities, 10 events, 0 claims"
+description: "LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 - 102 entities, 10 events, 23 factual claims"
 published: "2026-05-19"
 youtube_url: "https://www.youtube.com/watch?v=Dkxa9OUA9K8"
 ---
 
 **Published:** 2026-05-19 | [Watch on YouTube](https://www.youtube.com/watch?v=Dkxa9OUA9K8)
 
-**Stats:** 102 entities | 10 events | 0 claims
+**Stats:** 102 entities | 10 events | 23 factual claims
 
 ---
 

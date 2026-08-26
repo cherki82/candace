@@ -23,7 +23,7 @@ object: "person-tucker-carlson"
 
 **[BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8)**
 
-- [00:29:34](/episodes/ep-iHav0PPzUz8#t-00-29-34): _Tucker Carlson hosted Nick Fuentes on his show._
+- [00:29:34](/episodes/ep-iHav0PPzUz8#t-00-29-34): _The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show._
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 

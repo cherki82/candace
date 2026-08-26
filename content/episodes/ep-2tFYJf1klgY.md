@@ -1,14 +1,14 @@
 ---
 id: "2tFYJf1klgY"
 title: "Bride Of Charlie: The Lost Years... | Episode 5"
-description: "Bride Of Charlie: The Lost Years... | Episode 5 - 117 entities, 34 events, 0 claims"
+description: "Bride Of Charlie: The Lost Years... | Episode 5 - 117 entities, 34 events, 22 factual claims"
 published: "2026-03-03"
 youtube_url: "https://www.youtube.com/watch?v=2tFYJf1klgY"
 ---
 
 **Published:** 2026-03-03 | [Watch on YouTube](https://www.youtube.com/watch?v=2tFYJf1klgY)
 
-**Stats:** 117 entities | 34 events | 0 claims
+**Stats:** 117 entities | 34 events | 22 factual claims
 
 ---
 

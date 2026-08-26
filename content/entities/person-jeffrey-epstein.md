@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 422 mentions"
+description: "Jeffrey Epstein (People) - 427 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-59-01">2026-06-26 · 00:59:20</a></strong></div>
-<div><span>Episodes</span><strong>86</strong></div>
-<div><span>Mentions</span><strong>422</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-50-23">2026-07-14 · 00:50:23</a></strong></div>
+<div><span>Episodes</span><strong>87</strong></div>
+<div><span>Mentions</span><strong>427</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>107</strong></div>
-<div><span>Relationships</span><strong>38</strong></div>
+<div><span>Statements about</span><strong>113</strong></div>
+<div><span>Relationships</span><strong>40</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -121,6 +121,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jeffrey-epstein-t-00-59-35" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-16-54" style="--pulse-height:81%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 21 mentions" title="2026-06-26 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-jeffrey-epstein-t-00-51-43" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-25-22" style="--pulse-height:19%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -212,6 +213,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeffrey-epstein-t-00-59-35) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-16-54) | 21 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-jeffrey-epstein-t-00-51-43) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-25-22) | 5 |
 
 </details>
 </section>
@@ -219,7 +221,27 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (422)</strong></summary>
+<summary><strong class="section-title">Raw mentions (427)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5 mentions)</summary>
+
+**[00:25:59](/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-25-22)**
+> "...America actually settled with Epstein victims in March of this year."
+
+**[00:26:06](/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-26-06)**
+> "..., Merrill Lynch, of the major Epstein associate Leon Black."
+
+**[00:26:15](/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-26-06)**
+> "...ard of him. He's all over the Epstein files."
+
+**[00:26:19](/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-26-06)**
+> "...uld have led to the fact that Jeffrey Epstein was involved in a trafficking ring."
+
+**[00:50:23](/episodes/ep-X3VKJVJ7cN4.md#ent-person-jeffrey-epstein-t-00-50-23)**
+> "Uh, where Epstein was hanging out. Jean-Luc Brunel was the founder ..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (21 mentions)</summary>
@@ -1941,7 +1963,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Close Associate Of (1)</summary>
+<summary>Close Associate Of (2)</summary>
 
 - **[Faith Kates](/entities/person-faith-kates.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1949,6 +1971,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “Faith Kates was unbelievably close to Jeffrey Epstein.”
+
+</details>
+
+- **[Leon Black](/entities/person-leon-black.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:25:59](/episodes/ep-X3VKJVJ7cN4.md#t-00-25-22): “By the way, funny story, I don't know if you knew this, but Bank of America actually settled with Epstein victims in March of this year. Yeah, they were sued because they were managing wealth, Bank of America, Merrill Lynch, of the major Epstein associate Leon Black.”
 
 </details>
 
@@ -2112,7 +2141,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Referenced By (19)</summary>
+<summary>Referenced By (20)</summary>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2134,6 +2163,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “Faith Kates was unbelievably close to Jeffrey Epstein.”
+
+</details>
+
+- **[Leon Black](/entities/person-leon-black.md)** close associate of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:25:59](/episodes/ep-X3VKJVJ7cN4.md#t-00-25-22): “By the way, funny story, I don't know if you knew this, but Bank of America actually settled with Epstein victims in March of this year. Yeah, they were sued because they were managing wealth, Bank of America, Merrill Lynch, of the major Epstein associate Leon Black.”
 
 </details>
 
@@ -2280,7 +2316,21 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (107)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (113)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3)</summary>
+
+- [00:26:19](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-06) (Accusation) **Candace Owens**: ["Owens said Bank of America moved $170 million to Jeffrey Epstein and t..."](/statements/statement-e4c8e1cea3ed.md)
+  - Also about: [Bank of America](/entities/org-bank-of-america.md)
+
+- [00:26:35](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-06) (Claim) **Candace Owens**: ["Owens said she thought Bank of America settled with Epstein victims fo..."](/statements/statement-f894ab76c27d.md)
+  - Also about: [Bank of America](/entities/org-bank-of-america.md)
+
+- [00:50:23](/episodes/ep-X3VKJVJ7cN4.md#t-00-50-23) (Accusation) **Candace Owens**: ["Owens said she had wondered about potential connections between Erika ..."](/statements/statement-01a2dcb9b362.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (6)</summary>
@@ -2715,13 +2765,26 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+
+- [00:06:21](/episodes/ep-t4U7NjnUEgc.md#t-00-05-54) (Claim) **Candace Owens**: ["Owens asserted that Jeffrey Epstein was involved in the Iran-Contra af..."](/statements/statement-2dac8539e8c3.md)
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4)</summary>
+
+- [00:26:01](/episodes/ep-Kmt6HgRjckU.md#t-00-25-55) (Claim) **Steve Bannon** (via paraphrase): ["Steve Bannon said Jeffrey Epstein was the key that picks the lock to u..."](/statements/statement-184fc151832a.md)
+  - Also about: [Steve Bannon](/entities/person-steve-bannon.md)
 
 - [00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01) (Claim) **Milo Yiannopoulos** (via quoted speech): ["Steve Bannon consulted for Jeffrey Epstein"](/statements/statement-4e193801261d.md)
   - Also about: [Steve Bannon](/entities/person-steve-bannon.md)
 
 - [00:27:28](/episodes/ep-Kmt6HgRjckU.md#t-00-26-53) (Opinion) **Milo Yiannopoulos** (via quoted speech): ["The moment Trump said there are no Epstein files and told people to st..."](/statements/statement-ff3443878be5.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:27:41](/episodes/ep-Kmt6HgRjckU.md#t-00-27-36) (Claim) **Milo Yiannopoulos** (via quoted speech): ["Milo Yiannopoulos said the moment Trumpism died was when Trump dismiss..."](/statements/statement-ee6c5c698b51.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)
 
 </details>
 
@@ -2748,7 +2811,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 - [00:29:25](/episodes/ep-czVBmqZP6Ss.md#t-00-29-10) (Claim) **Charlie Kirk** (via quoted speech): ["Epstein was not some sort of whiz-kid hedge fund manager. Epstein was ..."](/statements/statement-a02557b2a65f.md)
 
-- [00:30:12](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Claim) **Charlie Kirk** (via quoted speech): ["The evidence shows that Epstein was a creation of either Mossad, Israe..."](/statements/statement-9757aae20f06.md)
+- [00:30:12](/episodes/ep-czVBmqZP6Ss.md#t-00-29-49) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the evidence showed Jeffrey Epstein might have been ..."](/statements/statement-9757aae20f06.md)
   - Also about: [Mossad](/entities/org-mossad.md)
 
 - [00:30:39](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27) (Claim) **Charlie Kirk** (via quoted speech): ["Members of Congress are actively being blackmailed. The Epstein playbo..."](/statements/statement-aa7605c48a8f.md)

@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:33:29](/episodes/ep-QZWSsq8ZWzw.md#t-00-32-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2009);return false;">Play</a>
 
-> But these people who rule over us—they know who they worship. They know they worship Luciferianism.
+> they know who they worship. They know they worship Luciferianism.
 
 ## Verification
 

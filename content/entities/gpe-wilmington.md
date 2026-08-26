@@ -20,7 +20,7 @@ _Type: Places_
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>87</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -115,13 +115,13 @@ _Type: Places_
 > "...ap now because it's getting a little squishy in Wilmington, Delaware. I'm feeling claustrophobic in Wilmington, Delaware—and I've never even been there, okay? So here's our block. We've got a couple of blocks here, and w..."
 
 **[00:11:53](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wilmington-t-00-11-12)**
-> "..., and we told you yesterday: we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware Avenue. We've got Brigitte's lawyers at 919 North Market Street. Also in that..."
+> "We've got a couple of blocks here, and we told you yesterday: we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware"
 
 **[00:12:18](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wilmington-t-00-11-12)**
-> "...at's Stacey Sheridan of Turning Point USA. We're going to talk about her in a second. We've got the Wilmington Trust actual location, which is at 1100 North Market. We told you about this crane—this red crane—a..."
+> "We've got the Wilmington Trust actual location, which is at 1100 North Market."
 
 **[00:13:05](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wilmington-t-00-12-37)**
-> "...that building too? Because I have LLCs, and I've got LLCs in Delaware, and I'm not— I'm not even in Wilmington. There's a lot to choose from. It's a whole state. But Stacey Sheridan's registered agent is there ..."
+> "I'm not even in Wilmington."
 
 **[00:15:05](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-wilmington-t-00-14-43)**
 > "... she's there. And she's there in this squishy block. In this one block, we are all just chilling in Wilmington, right? And we would have never gotten to this block, by the way, had it not been for the Egyptian ..."
@@ -144,7 +144,7 @@ _Type: Places_
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (17 mentions)</summary>
 
 **[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-wilmington-t-00-23-42)**
-> "...h departed on the morning of Charlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French company, injected $1.5 million ost..."
+> "went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, Delaware, a lease that is way too short for that, whatever."
 
 **[00:24:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-wilmington-t-00-24-24)**
 > "...a source that a foreign dignitary was escorted, right, from that hangar to 920 North King Street in Wilmington, Delaware, a place that we learned and confirmed had three federal agencies working together in one building...."
@@ -425,6 +425,11 @@ _Type: Places_
 </details>
 
 - **[920 North King Street](/entities/gpe-920-north-king-street.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-11-00): “Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 </details>
 
@@ -460,6 +465,11 @@ _Type: Places_
 </details>
 
 - **[920 North King Street](/entities/gpe-920-north-king-street.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-11-00): “Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 - **[Delaware](/entities/gpe-delaware.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -475,13 +485,32 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Wilmington (14)</strong></summary>
+<summary><strong class="section-title">Statements about Wilmington (17)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
 
 - [00:35:36](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) (Claim) **Candace Owens**: ["The Egyptian plane flew to Wilmington, Delaware on the day of Charlie ..."](/statements/statement-a2a2171aef70.md)
   - Also about: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Delaware](/entities/gpe-delaware.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
+
+- [00:13:44](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["The Egyptian plane that flew from Provo to Delaware on the morning of ..."](/statements/statement-433bf618ec0f.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
+  - Also about: [Provo](/entities/gpe-provo.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Walid Mahmood](/entities/person-walid-mahmood.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20) (Claim) **Candace Owens**: ["Stacey Sheridan's registered agent for Cloverstone Ventures is in the ..."](/statements/statement-15658318a1f2.md)
+  - Also about: [Cloverstone Ventures](/entities/org-cloverstone-ventures.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Stacey Sheridan](/entities/person-stacey-sheridan.md)
 
 </details>
 

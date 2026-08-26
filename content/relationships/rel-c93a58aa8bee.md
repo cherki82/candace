@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Blake Neff](/entities/person-blake-neff) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
@@ -29,6 +29,10 @@ object: "org-turning-point-usa"
 **[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
 
 - [00:00:57](/episodes/ep-ZAuuSq_j2_w#t-00-00-57): _I opened the tweets, which went out from Blake Neff around midnight last night_
+
+**[COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY)**
+
+- [00:01:48](/episodes/ep-mLvJqdxS-FY#t-00-01-48): _Five minutes after we get off air and he's like, oh, somebody sent this to me. We all know that Blake Neff is a closeted standist. He's working at Turning Point._
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 

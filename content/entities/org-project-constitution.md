@@ -17,7 +17,7 @@ _Type: Organizations_
 Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after Charlie’s death](https://www.the-independent.com/life-style/erika-kirk-dating-charlie-death-tpusa-b2986504.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27">2025-12-05 · 00:03:39</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27">2025-12-05 · 00:03:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-project-constitution-t-00-52-31">2026-06-26 · 00:52:31</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
@@ -89,7 +89,7 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
 
-**[00:03:39](/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27)**
+**[00:03:35](/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27)**
 > "This tweet came from Project Constitution."
 
 **[00:16:42](/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27)**

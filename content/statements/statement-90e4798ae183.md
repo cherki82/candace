@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:02:33](/episodes/ep-LATnak75Si0.md#t-00-02-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(153);return false;">Play</a>
 
-> Turning Point—as we learned—having received a request from UVU for Charlie to speak on their campus in mid-July...And then they immediately approve that request, and they schedule it as his first stop some six weeks later.
+> The absolute absurdity of Turning Point—as we learned—having received a request from Charlie (Charlie Kirk)—I'm sorry—from UVU for Charlie (Charlie Kirk) to speak on their campus in mid-July, okay? Just a few weeks before he dies. In mid-July, they get a request. "Can Charlie (Charlie Kirk) speak on campus?" And then they immediately approve that request, and they schedule it as his first stop some six weeks later.
 
 ## Verification
 

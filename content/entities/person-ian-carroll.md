@@ -41,7 +41,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-07-38" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 7 mentions" title="2025-10-27 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02" style="--pulse-height:43%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44" style="--pulse-height:29%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44" style="--pulse-height:14%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18" style="--pulse-height:29%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22" style="--pulse-height:43%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-07" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
@@ -66,7 +66,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-07-38) | 7 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ian-carroll-t-00-40-02) | 3 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11) | 2 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44) | 1 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22) | 3 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-07) | 1 |
@@ -227,13 +227,10 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
 
 **[00:46:13](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44)**
 > "...now that Joe Rogan has definitely had people on—spoken about Israel. He's really gone there. He had Ian Carroll. So that would be unusual. Yeah, Joe Rogan has definitely taken a lot of risks. I haven't seen it. ..."
-
-**[00:46:14](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44)**
-> "Joe Rogan had Ian Carroll on the show"
 
 </details>
 
@@ -266,25 +263,25 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (7 mentions)</summary>
 
 **[00:07:57](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-07-38)**
-> "... harder for truth. And it is, in fact, thanks to people on the internet like Sam Parker, James Lee, Ian Carroll (Ian Carroll), Zeb Boykin, many others. And a video from September 10th has gone pretty viral, okay..."
+> "...t like Sam Parker, James Lee, Ian Carroll, Zeb Boykin, many others."
 
 **[00:48:53](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-48-45)**
-> "...at checkout, and you'll get 10% off your order. That's N-I-M-I-skincare.com. Well, I'm hearing that Ian Carroll is in the chat. Ian Carroll, thank you. It should not be you and James Lee and Ryan Matta—who I did..."
+> "Well, I'm hearing that Ian Carroll is in the chat."
 
 **[00:48:58](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-48-45)**
-> "...10% off your order. That's N-I-M-I-skincare.com. Well, I'm hearing that Ian Carroll is in the chat. Ian Carroll, thank you. It should not be you and James Lee and Ryan Matta—who I didn't even know before this—wh..."
+> "Ian Carroll, thank you."
 
 **[00:49:49](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-49-29)**
-> "...people to write something nice about you—like, 'Yeah, this is amazing, and I love her,' da-da-da-da—Ian Carroll or something." And I just thought it would be so much more fun to go on the internet and to look at..."
+> "... and I love her,' da-da-da-da—Ian Carroll or something.""
 
 **[00:51:25](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-50-56)**
-> "...of power in changing history. And so I wanted to say that. Getting into some of your comments here. Ian Carroll wrote, "Right? Fishing takes time. You got to set the bait." It's so good to have you back, Candace..."
+> "Ian Carroll wrote, "Right?"
 
 **[00:55:15](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-55-08)**
-> "...hink that that's incredible—that it truly is a testament to God and is a testament to truth. And as Ian Carroll said when I had him on my show, the truth doesn't need to be repeated over and over again. It's the..."
+> "And as Ian Carroll said when I had him on my show, the truth doesn't..."
 
 **[00:56:49](/episodes/ep-c5BcKF91iec.md#ent-person-ian-carroll-t-00-56-33)**
-> "...ecord yourself, right? Or you go run towards your friend, and you help. In fact, the only person—as Ian Carroll pointed out in one of his videos, and you should subscribe to Ian Carroll's channel— as well. He po..."
+> "In fact, the only person—as Ian Carroll pointed out in one of his videos, and you should ..."
 
 </details>
 

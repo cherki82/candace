@@ -21,7 +21,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37">2026-06-16 · 00:11:37</a></strong></div>
 <div><span>Episodes</span><strong>15</strong></div>
 <div><span>Mentions</span><strong>37</strong></div>
-<div><span>Statements by</span><strong>7</strong></div>
+<div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -229,13 +229,13 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (3 mentions)</summary>
 
 **[00:12:48](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14)**
-> "...remembered him painting a picture that he was outside. That certainly seems to be what he told both Alex Jones and NewsNation: that he was outside when the shot rang out. Let's take a listen to what he said on ..."
+> "...seems to be what he told both Alex Jones and NewsNation: that he was outside when the shot..."
 
 **[00:12:56](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14)**
-> "... and NewsNation: that he was outside when the shot rang out. Let's take a listen to what he said on Alex Jones. [Clip attribution: Phil Lyman on Alex Jones] [Clip: Phil Lyman on Alex Jones] Just yesterday, some..."
+> "...e a listen to what he said on Alex Jones. [Clip attribution: Phil Lyman on Alex Jones]"
 
 **[00:12:58](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14)**
-> "...en to what he said on Alex Jones. [Clip attribution: Phil Lyman on Alex Jones] [Clip: Phil Lyman on Alex Jones] Just yesterday, someone comes in and says, "Yeah, we've got video." He came off the roof. He walke..."
+> "[Clip: Phil Lyman on Alex Jones] Just yesterday, someone comes in and says, "Yeah..."
 
 </details>
 
@@ -363,7 +363,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Alex Jones (7)</strong></summary>
+<summary><strong class="section-title">Statements by Alex Jones (9)</strong></summary>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2)</summary>
@@ -388,7 +388,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (3)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (5)</summary>
 
 - [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) [○] (Claim) ["A .30-06 bullet traveling at 1,900 feet per second would create a tiny entrance ..."](/statements/statement-8b12eca4362f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
@@ -397,6 +397,11 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) [○] (Claim) ["Alex Jones stated that a .30-06 bullet at approximately 1,900 feet per second sh..."](/statements/statement-c47b113fbac1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) [○] (Opinion) ["Charlie Kirk was shot with .30-06 in the left side of his neck and that he's a m..."](/statements/statement-d6b74a7d0b7a.md)
+
+- [00:12:26](/episodes/ep-ja26iltROkM.md#t-00-12-16) [○] (Claim) ["TPUSA spokesperson reported that Charlie Kirk was shot with .30-06 in the left s..."](/statements/statement-cb15289e1ede.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

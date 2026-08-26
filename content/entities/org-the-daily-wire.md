@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 249 mentions"
+description: "The Daily Wire (Organizations) - 250 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-the-daily-wire-t-01-00-30">2026-07-14 · 01:00:55</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>249</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-the-daily-wire-t-00-58-23">2026-07-16 · 00:58:23</a></strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>250</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>82</strong></div>
+<div><span>Statements about</span><strong>92</strong></div>
 <div><span>Relationships</span><strong>54</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -91,6 +91,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-the-daily-wire-t-00-11-12" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-the-daily-wire-t-00-01-22" style="--pulse-height:26%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 10 mentions" title="2026-06-24 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-the-daily-wire-t-01-00-30" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-the-daily-wire-t-00-58-23" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -150,6 +151,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-the-daily-wire-t-00-11-12) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-daily-wire-t-00-01-22) | 10 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-the-daily-wire-t-01-00-30) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-the-daily-wire-t-00-58-23) | 1 |
 
 </details>
 </section>
@@ -157,7 +159,15 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (249)</strong></summary>
+<summary><strong class="section-title">Raw mentions (250)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:58:23](/episodes/ep-mLvJqdxS-FY.md#ent-org-the-daily-wire-t-00-58-23)**
+> "... the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could hav..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
@@ -990,7 +1000,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:47:57](/episodes/ep-tB5SXXmd9vU.md#ent-org-the-daily-wire-t-00-47-39)**
-> "...rned every bridge she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on ..."
+> "Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk, Steven Crowder."
 
 **[00:49:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-the-daily-wire-t-00-48-53)**
 > "...estigation into what actually happened on that day. Now, you seem to be naming employers. Regarding The Daily Wire, I am still friends with every single one of my colleagues that I was friends with when I went in t..."
@@ -1020,52 +1030,52 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (17 mentions)</summary>
 
 **[00:03:56](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-03-33)**
-> "...ove to hear Ben speak about that. I mean, people have a Daily Wire non-compete when they're leaving the Daily Wire; they have to sign agreements that they're not going to go work for Tucker (Tucker Carlson) for six..."
+> "...-compete when they're leaving the Daily Wire; they have to sign agreements that they're not go..."
 
 **[00:12:33](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-12-19)**
-> "...mory is getting a little fuzzy, but I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an..."
+> "...t I was gloriously fired from the Daily Wire."
 
 **[00:12:42](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-12-19)**
-> "...remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversa..."
+> "the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto a..."
 
 **[00:13:00](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-13-00)**
-> "...nvited him onto the Daily Wire, okay? Here's a headline because the Huffington Post remembers too: "Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny." The article goes ..."
+> "...ffington Post remembers too: "Daily Wire CEO tells white supremacist Nick Fuentes that he'..."
 
 **[00:13:08](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-13-00)**
-> "...s on: during a live-streamed conversation with white supremacist Nick Fuentes last week, the CEO of the Daily Wire, a major right-wing media outlet, praised the prominent fascist influencer and offered only mild cr..."
+> "...Fuentes last week, the CEO of the Daily Wire, a major right-wing media outlet, praised the pro..."
 
 **[00:13:28](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-13-00)**
-> "...olitical views, a stark difference from how he has spoken about Fuentes in the past. On March 25th, the Daily Wire CEO Jeremy Boreing joined Fuentes on X for a live audio chat room. Boreing told Fuentes that he lis..."
+> "On March 25th, the Daily Wire CEO Jeremy Boreing (Jeremy Boreing) joined Fuente..."
 
 **[00:13:50](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-13-35)**
-> "...Fuentes says. Later in the discussion, Boreing said that he'd be thrilled to have Fuentes on one of the Daily Wire's shows to debate the media company's popular pundits, some of whom have millions of viewers. This ..."
+> "...ntes (Nick Fuentes) on one of the Daily Wire's shows to debate the media company's popular pundi..."
 
 **[00:14:05](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-14-05)**
-> "... that he's now trying to struggle session Megyn Kelly, because all he had one test on the show when the Daily Wire position in 2024 was that their CEO could talk to Nick Fuentes publicly, praise Nick Fuentes public..."
+> "...had one test on the show when the Daily Wire position in 2024"
 
 **[00:14:21](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-14-05)**
-> "...ould talk to Nick Fuentes publicly, praise Nick Fuentes publicly, and also invite Nick Fuentes onto the Daily Wire platform. We can actually, we should actually take a listen to a little bit of that conversation be..."
+> "...also invite Nick Fuentes onto the Daily Wire platform."
 
 **[00:14:28](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-14-05)**
-> "...uld actually take a listen to a little bit of that conversation between Jeremy Boreing, then CEO of Daily Wire, and Nick Fuentes. (Clip: Jeremy Boreing and Nick Fuentes) People can say, well, I don't like what ..."
+> "...n Jeremy Boreing, then CEO of Daily Wire, and Nick Fuentes. (Clip: Jeremy Boreing and Nick..."
 
 **[00:15:45](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-15-36)**
-> "...ybody want to help me out why it's now different? What could be different now that it was okay when the Daily Wire was open to doing it and then Tucker (Tucker Carlson) did it and now it's suddenly not okay and it'..."
+> "...ent now that it was okay when the Daily Wire was open to doing it and then Tucker (Tucker Carl..."
 
 **[00:21:07](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-20-55)**
-> "...the backstory is compelling. I learned the backstory listening to Jeremy Boreing, the former CEO of Daily Wire, sit down with Nick. So right after I've been fired, and I didn't know what Ben and Jeremy admitted..."
+> "...my Boreing, the former CEO of Daily Wire, sit down with Nick."
 
 **[00:25:18](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-25-16)**
-> "...us. You might remember, maybe you forgot, but I spoke at YWLS in 2024, right after I was fired from the Daily Wire, and a big thing happened and we should never forget it, okay? While I was heading to speak at this..."
+> "... right after I was fired from the Daily Wire, and a big thing happened and we should never for..."
 
 **[00:25:25](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-25-16)**
-> "...get it, okay? While I was heading to speak at this event, we learned because there was an intern at the Daily Wire who had a conscience and she felt very uncomfortable with the secret mission that she was put on. W..."
+> "...ecause there was an intern at the Daily Wire who had a conscience and she felt very uncomforta..."
 
 **[00:26:25](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-25-57)**
-> "...hey called me and they said, "Candace (Candace Owens, the host), something very weird is happening. The Daily Wire has sent somebody secretly to record you, an intern, a PR intern, to secretly record you, to catch ..."
+> "The Daily Wire has sent somebody secretly to record you, an inte..."
 
 **[00:28:12](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-28-09)**
-> "...s and they will have people applaud. That was orchestrated by Alyssa Cordova. Now that she's not at the Daily Wire, I can say that who I was calling out yesterday, but it's so important for people to get this. What..."
+> "Now that she's not at the Daily Wire,"
 
 **[00:52:55](/episodes/ep-r1PS67aRmcA.md#ent-org-the-daily-wire-t-00-28-09)**
 > "...ani (Zohran Mamdani), yet the DW was all about sabotaging all the other conservati..."
@@ -1249,9 +1259,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:30](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro works for the Daily Wire”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:15:44](/episodes/ep-uC_GjKU8rs8.md#t-00-15-18): “So you cannot discount the fact that Ben Shapiro, who is considered, and this is sad for the other people on the platform, he is considered the face of the company and he developed tunnel vision.”
 
 </details>
@@ -1277,7 +1286,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:47](/episodes/ep-ja26iltROkM.md#t-00-40-37): “I was happy to be canceled from anything to say what I felt in my heart to be true”
@@ -1293,6 +1302,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Candace Owens x Ana Kasparian @ 00:10:23](/episodes/ep-SKNJPul29zU.md#t-00-10-14): “I got banned from Australia, got fired from a daily wire.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:05:13](/episodes/ep-h76ZN-xXC6c.md#t-00-04-55): “Once I got fired from a daily wire, I didn't bend the knee.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58): “They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs”
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:58:23](/episodes/ep-mLvJqdxS-FY.md#t-00-58-23): “One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth and that maybe it's time to listen.”
 
 </details>
 
@@ -1407,7 +1417,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:42](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he sang Nick Fuentes's praises and also invited him onto the Daily Wire, okay?”
 
 </details>
 
@@ -1491,10 +1501,9 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Referenced By (27)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** CEO of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing”
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:00](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “the CEO of the Daily Wire, at the time it was Jeremy Boreing (Jeremy Boreing)”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:42](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he sang Nick Fuentes's praises and also invited him onto the Daily Wire, okay?”
 
 </details>
 
@@ -1547,7 +1556,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
@@ -1562,6 +1571,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Candace Owens x Ana Kasparian @ 00:10:23](/episodes/ep-SKNJPul29zU.md#t-00-10-14): “I got banned from Australia, got fired from a daily wire.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:05:13](/episodes/ep-h76ZN-xXC6c.md#t-00-04-55): “Once I got fired from a daily wire, I didn't bend the knee.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58): “They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs”
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:58:23](/episodes/ep-mLvJqdxS-FY.md#t-00-58-23): “One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth and that maybe it's time to listen.”
 
 </details>
 
@@ -1708,9 +1718,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:30](/episodes/ep-r1PS67aRmcA.md#t-00-00-00): “Ben Shapiro works for the Daily Wire”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:15:44](/episodes/ep-uC_GjKU8rs8.md#t-00-15-18): “So you cannot discount the fact that Ben Shapiro, who is considered, and this is sad for the other people on the platform, he is considered the face of the company and he developed tunnel vision.”
 
 </details>
@@ -1757,7 +1766,18 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (82)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (92)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>
+
+- [00:58:23](/episodes/ep-mLvJqdxS-FY.md#t-00-58-23) (Claim) **Candace Owens**: ["Candace Owens said one reason the Daily Wire fired her was that she su..."](/statements/statement-297152783cfb.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Michael Jackson](/entities/person-michael-jackson.md)
+
+- [00:58:29](/episodes/ep-mLvJqdxS-FY.md#t-00-58-23) (Opinion) **Candace Owens**: ["Candace Owens said being fired for suggesting there might be a Jewish ..."](/statements/statement-3837681f1eb2.md)
+  - Also about: [Jewish people](/entities/concept-jewish-people.md), [Hollywood](/entities/gpe-hollywood.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (10)</summary>
@@ -1916,7 +1936,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
   - Also about: [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
 - [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) (Accusation) **Candace Owens**: ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phi..."](/statements/statement-2bff31e56fad.md)
-  - Also about: [Phil Tourney](/entities/person-phil-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [01:06:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-12) (Accusation) **Candace Owens**: ["The media company where Candace Owens worked used her to appear commit..."](/statements/statement-2a737a7f8122.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -2058,12 +2078,30 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (10)</summary>
+
+- [00:01:30](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18) (Claim) **Candace Owens**: ["Owens said Ben Shapiro fired her in March 2024, while noting that he w..."](/statements/statement-156bb17d88bb.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:01:50](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18) (Claim) **Candace Owens**: ["Charlie Kirk publicly supported Candace Owens immediately after she wa..."](/statements/statement-98f49f0b38fa.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:02:30](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30) (Claim) **Andrew Kolvet** (via paraphrase): ["Owens said Andrew Kolvet told her that Ben Shapiro was willing to spen..."](/statements/statement-fe94e2d72ea2.md)
+  - Also about: [America Fest](/entities/event-america-fest.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:11:46](/episodes/ep-w1oqQbR_bYs.md#t-00-11-16) (Claim) **Candace Owens**: ["Candace Owens said Steven Crowder had obtained footage of a Daily Wire..."](/statements/statement-2a0f96bab6e9.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Steven Crowder](/entities/person-steven-crowder.md)
 
 - [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) (Accusation) **Candace Owens**: ["The Daily Wire humiliated Candace Owens by hosting 300 employees at a ..."](/statements/statement-482d3b0e4ebc.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md)
 
+- [00:12:42](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00) (Claim) **Candace Owens**: ["Owens says the Daily Wire showed roughly 300 employees a produced pres..."](/statements/statement-a627706b158c.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
 - [00:23:31](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) (Claim) **Candace Owens**: ["Ben Shapiro's father writes under the pen name Hank Berrien at The Dai..."](/statements/statement-7de014dde600.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hank Berrien](/entities/person-hank-berrien.md)
+
+- [00:23:42](/episodes/ep-w1oqQbR_bYs.md#t-00-23-20) (Accusation) **Candace Owens**: ["Owens alleged that Daily Wire writer Hank Berrien is Ben Shapiro fathe..."](/statements/statement-730b275aaa4c.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hank Berrien](/entities/person-hank-berrien.md)
 
 - [00:42:59](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27) (Claim) **Candace Owens**: ["Cabot Phillips is missing from the Morning Wire show from September 4t..."](/statements/statement-88ef12af870f.md)
@@ -2086,9 +2124,20 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2)</summary>
+
+- [00:13:50](/episodes/ep-r1PS67aRmcA.md#t-00-13-35) (Opinion) **Jeremy Boreing** (via quoted article): ["I would be absolutely thrilled to have Ben speak to Nick, or anyone on..."](/statements/statement-65dbbedda71f.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
+
+- [00:25:18](/episodes/ep-r1PS67aRmcA.md#t-00-25-16) (Claim) **Candace Owens**: ["I spoke at TPUSA’s 2024 Young Women’s Leadership Summit on June 7, abo..."](/statements/statement-88c57051e040.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05) (Claim) **Candace Owens**: ["John Lewis, president of The Daily Wire, was a naval intelligence offi..."](/statements/statement-018dc0f5ff80.md)
+- [00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05) (Claim) **Candace Owens**: ["Jon Lewis, then president of The Daily Wire, was a naval intelligence ..."](/statements/statement-018dc0f5ff80.md)
   - Also about: [John Lewis](/entities/person-john-lewis-daily-wire.md)
 
 </details>

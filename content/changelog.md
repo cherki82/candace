@@ -5,6 +5,29 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-26 14:19:43
+
+**Added 4 episode(s):**
+  - `N4uM8Jdr410`: UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362
+  - `X3VKJVJ7cN4`: Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359
+  - `mLvJqdxS-FY`: COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361
+  - `puuMVxEu5NU`: EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360
+**Added 122 new entity/entities**
+**Removed 10 entity/entities**
+**Added 38 new event(s)**
+**Removed 2 event(s)**
+**Added 6338 new statement(s)**
+**Added 128 new relationship(s)**
+
+**Totals:**
+- Episodes: 141
+- Entities: 3565
+- Events: 1538
+- Statements: 6338
+- Relationships: 3905
+
+---
+
 ## 2026-08-26 07:56:06
 
 **Added 12 episode(s):**

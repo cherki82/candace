@@ -1,6 +1,6 @@
 ---
 title: "David Duke"
-description: "David Duke (People) - 1 mention"
+description: "David Duke (People) - 2 mentions"
 id: "person-david-duke"
 type: "PERSON"
 categories:
@@ -17,10 +17,10 @@ _Type: People_
 Source: [David Duke - Southern Poverty Law Center](https://www.splcenter.org/resources/extremist-files/david-duke/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-david-duke-t-01-03-30">2026-04-29 · 01:03:43</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-david-duke-t-00-39-54">2025-11-10 · 00:40:33</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-david-duke-t-01-03-30">2026-04-29 · 01:03:43</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,14 +29,16 @@ Source: [David Duke - Southern Poverty Law Center](https://www.splcenter.org/res
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-david-duke-t-01-03-30">TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-david-duke-t-00-39-54">Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-david-duke-t-00-39-54" style="--pulse-height:100%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-david-duke-t-01-03-30" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-david-duke-t-00-39-54) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-david-duke-t-01-03-30) | 1 |
 
 </details>
@@ -45,13 +47,21 @@ Source: [David Duke - Southern Poverty Law Center](https://www.splcenter.org/res
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
 
 **[01:03:43](/episodes/ep-qZ8RWfyuewQ.md#ent-person-david-duke-t-01-03-30)**
 > "To communicate David Duke talking points, was the SPLC paying Candace Owens..."
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+
+**[00:40:33](/episodes/ep-YaZfwLQ7vrI.md#ent-person-david-duke-t-00-39-54)**
+> ""You're the modern-day David Duke.""
 
 </details>
 

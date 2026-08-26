@@ -25,7 +25,7 @@ Source: [United States Senate: John McCain biography](https://www.mccain.senate.
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -93,16 +93,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about John McCain (2)</strong></summary>
+<summary><strong class="section-title">Statements about John McCain (3)</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3)</summary>
 
 - [00:03:38](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) (Claim) **Candace Owens**: ["In 2014, John McCain went over to Ukraine and led the protesters in th..."](/statements/statement-2657ec89fb0f.md)
   - Also about: [Ukraine](/entities/gpe-ukraine.md)
 
 - [00:11:35](/episodes/ep-DqGNvi36ol8.md#t-00-11-19) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was about as organic as John McCain leadi..."](/statements/statement-6873b7794fe9.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:18:12](/episodes/ep-DqGNvi36ol8.md#t-00-17-32) (Accusation) **Candace Owens**: ["In discussing Ukraine’s 2014 revolution, Owens played John McCain’s De..."](/statements/statement-f5f41417afd9.md)
 
 </details>
 

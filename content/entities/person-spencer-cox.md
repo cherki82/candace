@@ -1,6 +1,6 @@
 ---
 title: "Spencer Cox"
-description: "Spencer Cox (People) - 47 mentions"
+description: "Spencer Cox (People) - 50 mentions"
 id: "person-spencer-cox"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-spencer-cox-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-spencer-cox-t-00-44-22">2026-04-21 · 00:44:40</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-50-58">2026-07-20 · 00:51:06</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Statements by</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-spencer-cox-t-00-48-39" style="--pulse-height:11%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-31-03" style="--pulse-height:56%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-spencer-cox-t-00-44-22" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-07-42" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-spencer-cox-t-00-48-39) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-spencer-cox-t-00-31-03) | 5 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-spencer-cox-t-00-44-22) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-07-42) | 3 |
 
 </details>
 </section>
@@ -72,7 +74,21 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
+
+**[00:08:14](/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-07-42)**
+> "And do you remember when we were told by Governor Cox during an official FBI press conference, a briefing on September 12th?"
+
+**[00:19:13](/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-18-54)**
+> "... 19th, 2025, by Governor Cox (Spencer Cox)."
+
+**[00:51:06](/episodes/ep-N4uM8Jdr410.md#ent-person-spencer-cox-t-00-50-58)**
+> "Zamet writes, Governor Cox has a grainy truth problem, not just the video. Y..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -278,12 +294,19 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appointed (1)</summary>
+<summary>Appointed (2)</summary>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
+
+</details>
+
+- **[Beau Mason](/entities/person-beau-mason.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:19:13](/episodes/ep-N4uM8Jdr410.md#t-00-18-54): “That's Beau Mason. You should know that Beau Mason was appointed to that position—commissioner of the Utah Department of Public Safety—on June 19th, 2025, by Governor Cox (Spencer Cox).”
 
 </details>
 
@@ -316,12 +339,19 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)** appointed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18): “the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.”
+
+</details>
+
+- **[Beau Mason](/entities/person-beau-mason.md)** appointed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:19:13](/episodes/ep-N4uM8Jdr410.md#t-00-18-54): “That's Beau Mason. You should know that Beau Mason was appointed to that position—commissioner of the Utah Department of Public Safety—on June 19th, 2025, by Governor Cox (Spencer Cox).”
 
 </details>
 
@@ -346,7 +376,15 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Spencer Cox (5)</strong></summary>
+<summary><strong class="section-title">Statements by Spencer Cox (9)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:08:45](/episodes/ep-N4uM8Jdr410.md#t-00-08-45) [✓] (Claim) ["Spencer Cox said the suspect wore different clothing when first spotted, changed..."](/statements/statement-6f2386370376.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
@@ -365,13 +403,19 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (5)</summary>
+
+- [00:27:57](/episodes/ep-2WEHTk0Xewg.md#t-00-27-33) [✓] (Accusation) ["We got him. On the evening of September 11th, a family member of Tyler Robinson ..."](/statements/statement-f23854d7f9ab.md)
 
 - [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) [○] (Claim) ["Governor Cox stated at a press conference that Tyler Robinson was observed in co..."](/statements/statement-d27725df2957.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
+- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) [✓] (Claim) ["Tyler Robinson arrived on UVU campus in gray Dodge Challenger at 8:29 a.m. Sep 1..."](/statements/statement-c69c7e220161.md)
+
 - [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] (Claim) ["Tyler Robinson was encountered by investigators in Washington County in the earl..."](/statements/statement-551743034477.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:29:01](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [✓] (Claim) ["When encountered in person by investigators in Washington County on September 12..."](/statements/statement-ed82b8064acc.md)
 
 </details>
 
@@ -386,7 +430,21 @@ Source: [About Utah Gov. Spencer J. Cox](https://governor.utah.gov/about-utah-go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Spencer Cox (11)</strong></summary>
+<summary><strong class="section-title">Statements about Spencer Cox (14)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>
+
+- [00:09:14](/episodes/ep-N4uM8Jdr410.md#t-00-09-10) (Claim) **Candace Owens**: ["Candace Owens said Kash Patel and Beau Mason did not correct Spencer C..."](/statements/statement-d1e2c308b5f7.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Beau Mason](/entities/person-beau-mason.md)
+
+- [00:09:51](/episodes/ep-N4uM8Jdr410.md#t-00-09-51) (Accusation) **Candace Owens**: ["Candace Owens asked rhetorically whether officials completely made up ..."](/statements/statement-3ac7998c7f5d.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+
+- [00:19:13](/episodes/ep-N4uM8Jdr410.md#t-00-18-54) (Claim) **Candace Owens**: ["Candace Owens said Spencer Cox appointed Beau Mason commissioner of th..."](/statements/statement-15793b17e1c7.md)
+  - Also about: [Beau Mason](/entities/person-beau-mason.md), [Utah Department of Public Safety](/entities/org-utah-department-of-public-safety.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>

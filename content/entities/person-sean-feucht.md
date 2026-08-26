@@ -63,10 +63,10 @@ _Type: People_
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
 
 **[00:13:18](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
-> "...okay? NAR. I brought this up to you before. Lance Wallnau (Lance Wallnau) is in this article. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Fe..."
+> "So is Sean Feucht."
 
 **[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
-> "...e. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that..."
+> "Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that they were having."
 
 </details>
 
@@ -110,7 +110,7 @@ _Type: People_
 > "...who formerly worked at Turning Point USA say the same thing: that there's something not right about Sean Feucht. And despite all of this—and this breaks down the very many properties that they say are owned by h..."
 
 **[00:31:02](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-30-24)**
-> "...buh buh—this is when things start to get a little spicy for Charlie (Charlie Kirk), okay? So that's Sean Feucht. That's June 2024—money's looking funny, according to multiple people and organizations that have w..."
+> "So that's Sean Feucht. That's June 2024—money's looking funny, according to multiple people and organizations that have worked with him."
 
 **[01:00:54](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-01-00-21)**
 > "...Point USA Faith sideways—especially because like he doesn't even care about the allegations against Sean Feucht. And what are they doing? It doesn't matter. We're just gonna keep on continuing working with him—R..."

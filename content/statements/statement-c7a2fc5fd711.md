@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:19:20](/episodes/ep-MUA9ebCF4Ow.md#t-00-18-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1160);return false;">Play</a>
 
-> It was July 18th—according to the local Utah news, they found this out. It was July 18th that UVU Turning Point chapter requested to have Charlie speak. That is very late in the day for a request...Within two weeks—they had boots on the ground, and they were scouting for a location.
+> So going back to our timeline, I will remind you: it was July 18th—according to the local Utah news, they found this out. It was July 18th that UVU Turning Point chapter requested to have Charlie (Charlie Kirk) speak. That is very late in the day for a request.
 
 ## Verification
 

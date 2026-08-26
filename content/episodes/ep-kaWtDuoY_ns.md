@@ -1,14 +1,14 @@
 ---
 id: "kaWtDuoY_ns"
 title: "EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327"
-description: "EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 - 105 entities, 13 events, 0 claims"
+description: "EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 - 105 entities, 13 events, 16 factual claims"
 published: "2026-04-20"
 youtube_url: "https://www.youtube.com/watch?v=kaWtDuoY_ns"
 ---
 
 **Published:** 2026-04-20 | [Watch on YouTube](https://www.youtube.com/watch?v=kaWtDuoY_ns)
 
-**Stats:** 105 entities | 13 events | 0 claims
+**Stats:** 105 entities | 13 events | 16 factual claims
 
 ---
 

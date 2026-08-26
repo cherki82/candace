@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 317 mentions"
+description: "Michael McCoy (People) - 322 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-54-28">2026-06-26 · 00:54:35</a></strong></div>
-<div><span>Episodes</span><strong>62</strong></div>
-<div><span>Mentions</span><strong>317</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-31-22">2026-07-14 · 00:31:22</a></strong></div>
+<div><span>Episodes</span><strong>63</strong></div>
+<div><span>Mentions</span><strong>322</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>58</strong></div>
+<div><span>Statements about</span><strong>68</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -99,6 +99,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-michael-mccoy-t-00-10-10" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-michael-mccoy-t-00-28-30" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52" style="--pulse-height:44%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 17 mentions" title="2026-06-26 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-11-36" style="--pulse-height:13%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -166,6 +167,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-michael-mccoy-t-00-10-10) | 2 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-michael-mccoy-t-00-28-30) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52) | 17 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-11-36) | 5 |
 
 </details>
 </section>
@@ -173,7 +175,27 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (317)</strong></summary>
+<summary><strong class="section-title">Raw mentions (322)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5 mentions)</summary>
+
+**[00:12:13](/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-11-36)**
+> "Mikey McCoy was also aboard that jet. Mikey McCoy rented two ..."
+
+**[00:12:22](/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-12-22)**
+> "... one was carrying Charlie and Mikey McCoy and Frank Turek and John McGovern, who works in g..."
+
+**[00:16:53](/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-16-32)**
+> "...y moons ago when we discussed Mikey McCoy's call logs before Charlie got shot at 1202."
+
+**[00:17:09](/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-16-32)**
+> "And Mikey McCoy was on the phone with Danny Phillips. I thought t..."
+
+**[00:31:22](/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-31-22)**
+> "...cGovern was with him. We know Mikey McCoy was with him and we're trying to figure out and w..."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (17 mentions)</summary>
@@ -821,7 +843,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
 
-**[00:06:51](/episodes/ep-ZAuuSq_j2_w.md#ent-person-michael-mccoy-t-00-29-14)**
+**[00:06:44](/episodes/ep-ZAuuSq_j2_w.md#ent-person-michael-mccoy-t-00-29-14)**
 > "Can you tell us, Blake Neff? Can you tell us, Mikey McCoy?"
 
 **[00:29:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-michael-mccoy-t-00-29-14)**
@@ -842,7 +864,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > "...rk)'s closest friends and against some of his most dedicated employees. Yes. She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy ..."
 
 **[00:04:51](/episodes/ep-his-JBjlkh8.md#ent-person-michael-mccoy-t-00-04-35)**
-> "...t his real name. It is. I have seen his birth certificate myself. She has called it suspicious that Mikey's wife, who works at Turning Point, helped plan the campus tour event where Charlie (Charlie Kirk) ..."
+> "She has called it suspicious that Mikey (Mikey McCoy)'s wife, who works at Turning Point, helped plan the campus tour event where Charlie (Charlie Kirk) was murdered, which she didn't, by the way. She doesn't work on campus events."
 
 **[00:05:07](/episodes/ep-his-JBjlkh8.md#ent-person-michael-mccoy-t-00-05-03)**
 > "...t and foremost, I actually never said that she helped plan the event. I said it was suspicious that Mikey McCoy's wife—that we never found out who did plan the event. That was one of the answers that we wanted t..."
@@ -851,7 +873,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > "...wanted to know. And I said that she works in events. Still was not clear on what happened regarding Mikey McCoy. I think the entire world believes that his actions are suspicious, because we have eyes. And you d..."
 
 **[00:05:48](/episodes/ep-his-JBjlkh8.md#ent-person-michael-mccoy-t-00-05-36)**
-> "...a good guy, and you're not gonna make us forget those things because you are trying to pretend that Mikey's actions were totally normal that day. They weren't. That's why I didn't make the public feel that..."
+> "I don't think he's a good guy, and you're not gonna make us forget those things because you are trying to pretend that Mikey (Mikey McCoy)'s actions were totally normal that day."
 
 **[00:06:01](/episodes/ep-his-JBjlkh8.md#ent-person-michael-mccoy-t-00-05-36)**
 > "..., okay? I may have voiced how they felt—which everyone else is refusing to do—but I do believe that Mikey McCoy should have to answer for who he had on the phone right when the shot went off. So yeah, his father..."
@@ -1355,70 +1377,70 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (22 mentions)</summary>
 
 **[00:00:41](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-00-00)**
-> "...rlie's death within minutes. There was a video that is currently circulating of his chief of staff, Mikey McCoy. It's going viral for a lot of reasons. We're gonna go through that video, and buckle up because I ..."
+> "...lating of his chief of staff, Mikey McCoy."
 
 **[00:08:18](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-07-38)**
-> "...okay? So let's take a look at this. It's a video of, of course, Pastor Rob McCoy's son. His name is Mikey McCoy. And you're gonna see what he does not in the seconds following Charlie getting shot, but in less t..."
+> "His name is Mikey McCoy."
 
 **[00:08:32](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-08-20)**
-> "...second after Charlie gets shot. These are not seconds—less than one second. You're gonna watch what Mikey McCoy does. First, let's hear his daddy's version of the events. Take it away, Pastor McCoy. As a father,..."
+> "You're gonna watch what Mikey McCoy does."
 
 **[00:08:57](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-08-40)**
-> "... what? I'm looking at my son who's 24 years old. Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff. And I'm watching. The minute Charlie was shot, he called me. Says, "Dad, Char..."
+> "...O—chief financial officer—and Mikey's the chief of staff."
 
 **[00:09:34](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-09-25)**
-> "...ay have caught that, but he said, "I was watching." And the minute Charlie got shot, he called. And Mikey McCoy says to his dad, "Charlie's been shot. Pray for him." He says "the minute." Maybe he's being a litt..."
+> "And Mikey McCoy says to his dad, "Charlie's been shot. Pray for h..."
 
 **[00:09:54](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-09-25)**
-> "... tell you why that's rubbing me the wrong way in a little bit. But the bigger thing is that he says Mikey had blood all over him. Except Mikey did not have blood anywhere near him because Mikey was behind ..."
+> "is that he says Mikey had blood all over him."
 
 **[00:09:57](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-09-57)**
-> "...rong way in a little bit. But the bigger thing is that he says Mikey had blood all over him. Except Mikey did not have blood anywhere near him because Mikey was behind the tent when Charlie got shot, and M..."
+> "Except Mikey did not have blood anywhere near him because Mike..."
 
 **[00:10:49](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-10-34)**
-> "... it is exactly 834 milliseconds from the time that you hear the shot. That is how long it takes for Mikey McCoy to put the phone to his ear. Now why is that precise timing so important? Because there's no dialin..."
+> "That is how long it takes for Mikey McCoy to put the phone to his ear."
 
 **[00:11:00](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-10-34)**
-> "... put the phone to his ear. Now why is that precise timing so important? Because there's no dialing. Mikey didn't have time to dial, okay? You can't dial and put your phone to your ear in 0.834 seconds. The..."
+> "Mikey didn't have time to dial, okay?"
 
 **[00:11:06](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-10-34)**
-> "...You can't dial and put your phone to your ear in 0.834 seconds. The next time that you're gonna see Mikey McCoy, as we just showed you, is in just under two and a half seconds on the other side of the tent. He's..."
+> "...xt time that you're gonna see Mikey McCoy, as we just showed you, is in just under two and ..."
 
 **[00:11:16](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-11-16)**
-> "...t under two and a half seconds on the other side of the tent. He's on a phone call. So we can track Mikey, but let's watch the clip again in milliseconds so you really grasp how quickly this transpires. So..."
+> "So we can track Mikey, but let's watch the clip again in milliseconds s..."
 
 **[00:11:36](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-11-16)**
-> "... my attention, I obviously have a file—a big folder of files—of every angle, and I decided to track Mikey from every angle available to see like maybe we just missed it and he did at some point put that ph..."
+> "...angle, and I decided to track Mikey from every angle available to see like maybe we j..."
 
 **[00:12:24](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-11-59)**
-> "...at this. Don't worry. We'll slow it down for you. See him in the background with the backpack? It's Mikey McCoy. Okay. So what are we to make of that? The only logical conclusion that I can come up with—and many..."
+> "It's Mikey McCoy."
 
 **[00:12:37](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-11-59)**
-> "...th—and many others, because I've pressed—I said, "Play devil's advocate. I want you to advocate for Mikey McCoy. I want you to play lawyer, and you are representing your client, Mikey McCoy. What was he doing? H..."
+> "I want you to advocate for Mikey McCoy."
 
 **[00:12:41](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-12-41)**
-> "...t you to advocate for Mikey McCoy. I want you to play lawyer, and you are representing your client, Mikey McCoy. What was he doing? How did he do it this quickly? No one could do this. The only logical conclusio..."
+> "...are representing your client, Mikey McCoy."
 
 **[00:12:48](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-12-41)**
-> "...d he do it this quickly? No one could do this. The only logical conclusion we come up with was that Mikey was already on a phone call at 12:23 p.m. He was already on a phone call. So I said, "Let's go back..."
+> "...sion we come up with was that Mikey was already on a phone call at 12:23 p.m."
 
 **[00:13:33](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-13-24)**
-> "...ne minute and 45 seconds approximately before that shot goes off. And we can watch that here. I see Mikey's on his phone here. And you're gonna see he pulls it up, and he starts to cover his ear again. Now..."
+> "I see Mikey's on his phone here."
 
 **[00:14:02](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-14-02)**
-> "...y could just be open, and they could be honest about everything. Okay, I obviously went out to both Mikey McCoy and Andrew Kolvet for a statement—asked those two questions: "Hey, who were you on the phone with? ..."
+> "... I obviously went out to both Mikey McCoy and Andrew Kolvet for a statement—asked those two..."
 
 **[00:23:18](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-23-12)**
-> "...four minutes, by the way, before he takes those cameras down. So he's next to—and he is in front of—Mikey McCoy when Charlie gets shot. Now to his credit, he actually did see Charlie get shot. He saw—like a spli..."
+> "...next to—and he is in front of—Mikey McCoy when Charlie gets shot."
 
 **[00:27:13](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-27-03)**
-> "...de me so upset that I was like mad at other people—you know, like I was like mad at Savannah. I saw Mikey McCoy's reaction. Now I'm looking at this guy's reaction—like, "Savannah, like one of the homies." I get ..."
+> "I saw Mikey McCoy's reaction."
 
 **[00:38:56](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-38-56)**
-> "...was. I also want to say—obviously—I am not making up these messages. Okay, Turning Point. Actually, Mikey McCoy has access to all of Charlie Kirk's messages. They can tell you that these ones are real. Here's wh..."
+> "Actually, Mikey McCoy has access to all of Charlie Kirk's messages."
 
 **[00:56:58](/episodes/ep-c5BcKF91iec.md#ent-person-michael-mccoy-t-00-56-33)**
-> "...hing you do is get down, right? Because you don't know if there's going to be another shot. How was Mikey McCoy confident enough to stay standing and walking? Nobody knows. You don't know where the shot's coming..."
+> "How was Mikey McCoy confident enough to stay standing and walking?"
 
 </details>
 
@@ -1471,14 +1493,13 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary>Child Of (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:06:08](/episodes/ep-his-JBjlkh8.md#t-00-05-36): “his own father, Rob McCoy”
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:02:11](/episodes/ep-c5BcKF91iec.md#t-00-01-39): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:59](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “January 3, 2024—Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact. He gets the promotion. Now you can see, I guess, the McCoys are much more involved in Turning Point USA.”
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:50](/episodes/ep-yAIb-NuUh_U.md#t-00-00-37): “Mikey McCoy son of Rob McCoy”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:13:00](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41): “Mikey (Mikey McCoy) has offered that his dad was confused.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:05:51](/episodes/ep-es7PWdFGoFI.md#t-00-05-30): “And he immediately calls his dad. He calls Robin McCoy. And he says, dad, someone shot Charlie.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:43](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43): “he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy.”
@@ -1791,7 +1812,24 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (58)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (68)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (4)</summary>
+
+- [00:12:13](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) (Claim) **Candace Owens**: ["Owens said Michael McCoy was also aboard the jet and rented two SUVs i..."](/statements/statement-6fda75c76aee.md)
+  - Also about: [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+- [00:12:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-12-22) (Claim) **Candace Owens**: ["Owens said one SUV carried Kirk, Michael McCoy, Frank Turek, and John ..."](/statements/statement-b5f0b663ee97.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [John McGovern](/entities/person-john-mcgovern.md)
+
+- [00:16:53](/episodes/ep-X3VKJVJ7cN4.md#t-00-16-32) (Claim) **Candace Owens**: ["Owens said Michael McCoy was on the phone with Danny Phillips before K..."](/statements/statement-51956540dc6f.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:19](/episodes/ep-X3VKJVJ7cN4.md#t-00-17-15) (Claim) **Candace Owens**: ["Owens said Michael McCoy spoke with Danny Phillips for ten minutes aft..."](/statements/statement-1ed068dbc753.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2)</summary>
@@ -2020,6 +2058,16 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2)</summary>
+
+- [00:04:46](/episodes/ep-his-JBjlkh8.md#t-00-04-35) (Claim) **Blake Neff** (via quoted speech): ["Michael McCoy is his real name. I have seen his birth certificate myse..."](/statements/statement-ed9c1f92cd17.md)
+
+- [00:05:03](/episodes/ep-his-JBjlkh8.md#t-00-04-35) (Claim) **Blake Neff** (via quoted speech): ["Mikey McCoy's wife works at Turning Point but does not work on campus ..."](/statements/statement-f527d0a349f8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
 
 - [00:09:54](/episodes/ep-JQjCAsfoXEE.md#t-00-09-18) (Claim) **Candace Owens**: ["A witness came forward saying Mikey never went into the hospital - he ..."](/statements/statement-98302774bb16.md)
@@ -2027,7 +2075,10 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (6)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (7)</summary>
+
+- [00:02:26](/episodes/ep-Qfwr08Ebczo.md#t-00-02-07) (Claim) **Candace Owens**: ["Mikey McCoy is the chief of staff at Turning Point USA"](/statements/statement-324ca19a66a3.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:05:02](/episodes/ep-Qfwr08Ebczo.md#t-00-04-53) (Opinion) **Erika Kirk**: ["Mikey McCoy is 23 years old (or 24), is wise beyond his years, and was..."](/statements/statement-a87b6ac0370a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -2050,12 +2101,15 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4)</summary>
 
 - [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) (Claim) **Turning Point USA** (via quoted post): ["Charlie Kirk told Mikey McCoy exactly what he should do in the circums..."](/statements/statement-6f894cffc27b.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) (Claim) **Candace Owens**: ["Turning Point USA says Charlie Kirk told Mikey McCoy to walk away afte..."](/statements/statement-676915e9616c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) (Claim) **Candace Owens**: ["TPUSA says the reason Mikey McCoy walked away swiftly after Charlie Ki..."](/statements/statement-f23ead9db33c.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03) (Opinion) **Frank Turek** (via quoted speech): ["Mikey McCoy was a hero on the day Charlie Kirk was shot and there is n..."](/statements/statement-5a976d59a3e6.md)
@@ -2064,17 +2118,23 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (7)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (9)</summary>
 
-- [00:09:03](/episodes/ep-c5BcKF91iec.md#t-00-08-40) (Claim) **Rob McCoy** (via quoted speech): ["The minute Charlie Kirk was shot, Mikey McCoy called his father Rob Mc..."](/statements/statement-8cfaecd44f78.md)
+- [00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40) (Claim) **Rob McCoy** (via quoted speech): ["Mikey McCoy is the chief of staff at Turning Point USA"](/statements/statement-fe3aeced710a.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:09:03](/episodes/ep-c5BcKF91iec.md#t-00-08-40) (Claim) **Rob McCoy** (via quoted speech): ["Pastor Rob McCoy claimed that the minute Charlie was shot, his son Mik..."](/statements/statement-0abeb4042a1a.md)
 
 - [00:09:21](/episodes/ep-c5BcKF91iec.md#t-00-08-40) (Claim) **Rob McCoy** (via quoted speech): ["Mikey McCoy had blood all over him after Charlie Kirk was shot."](/statements/statement-0ae35f7afad9.md)
 
 - [00:09:52](/episodes/ep-c5BcKF91iec.md#t-00-09-25) (Accusation) **Candace Owens**: ["Mikey McCoy did not have blood anywhere near him because he was behind..."](/statements/statement-dbe6d6f295a4.md)
 
-- [00:10:49](/episodes/ep-c5BcKF91iec.md#t-00-10-34) (Claim) **Candace Owens**: ["It takes exactly 834 milliseconds from the time of the shot for Mikey ..."](/statements/statement-0f8f736a8d97.md)
+- [00:10:34](/episodes/ep-c5BcKF91iec.md#t-00-09-57) (Claim) **Candace Owens**: ["It is exactly 834 milliseconds from the time that you hear the shot. T..."](/statements/statement-bc1f36199087.md)
 
 - [00:11:02](/episodes/ep-c5BcKF91iec.md#t-00-10-34) (Claim) **Candace Owens**: ["You cannot dial and put your phone to your ear in 0.834 seconds."](/statements/statement-a90b519070c4.md)
+
+- [00:11:06](/episodes/ep-c5BcKF91iec.md#t-00-10-34) (Claim) **Candace Owens**: ["In video footage, Mikey McCoy appeared on the other side of the tent i..."](/statements/statement-a73712f03995.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:12:57](/episodes/ep-c5BcKF91iec.md#t-00-12-41) (Accusation) **Candace Owens**: ["The only logical conclusion is that Mikey McCoy was already on a phone..."](/statements/statement-6445328c93cc.md)
 

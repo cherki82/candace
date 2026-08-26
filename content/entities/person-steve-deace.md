@@ -70,7 +70,7 @@ _No relationships extracted yet._
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
 
-- [00:08:38](/episodes/ep-EtLHqDbxqks.md#t-00-08-38) [○] (Claim) ["Steve Deace said Tyler Robinson made three confessions: one to his parents, one ..."](/statements/statement-b092d5dd493a.md)
+- [00:08:38](/episodes/ep-EtLHqDbxqks.md#t-00-08-38) [✓] (Claim) ["Steve Deace said Tyler Robinson made three confessions: one to his parents, one ..."](/statements/statement-b092d5dd493a.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Discord](/entities/org-discord.md)
 
 </details>

@@ -20,7 +20,7 @@ _Type: People_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -110,7 +110,15 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George H.W. Bush (1)</strong></summary>
+<summary><strong class="section-title">Statements about George H.W. Bush (2)</strong></summary>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+
+- [00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35) (Claim) **Candace Owens**: ["Owens said Joint Task Force Six was a brand-new command created at the..."](/statements/statement-7a3c360b229e.md)
+  - Also about: [Colin Powell](/entities/person-colin-powell.md)
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>

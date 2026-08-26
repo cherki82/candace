@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:03](/episodes/ep-SKGUzGHymcI.md#t-00-06-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(423);return false;">Play</a>
 
-> I tried to pull non-public movement data, and it came up empty. For me, this means that the arrival was processed under a diplomatic and dignitary category, which would not show up in the usual places.
+> "I tried to pull non-public movement data, and it came up empty." "For me, this means that the arrival was processed under a diplomatic and dignitary category, which would not show up in the usual places."
 
 ## Verification
 

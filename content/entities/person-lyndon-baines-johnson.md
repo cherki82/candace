@@ -29,7 +29,7 @@ Source: [Lyndon B. Johnson - Biography](https://www.lbjlibrary.org/life-and-lega
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -152,16 +152,19 @@ Source: [Lyndon B. Johnson - Biography](https://www.lbjlibrary.org/life-and-lega
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lyndon Baines Johnson (4)</strong></summary>
+<summary><strong class="section-title">Statements about Lyndon Baines Johnson (5)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5)</summary>
 
 - [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Lyndon Baines Johnson and parts of our own government and the Cubans w..."](/statements/statement-e4d824ed3726.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md)
 
 - [00:02:07](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Accusation) **Charlie Kirk** (via quoted speech): ["Parts of our own government and the Cubans wanted JFK dead"](/statements/statement-37435b3d356d.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md)
+
+- [00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk stated that Lyndon Baines Johnson and parts of the US gov..."](/statements/statement-1fe9963913be.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
 - [00:02:18](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Claim) **Charlie Kirk** (via quoted speech): ["There were 15 or 20 inexcusable things that happened on the day of JFK..."](/statements/statement-17c4af89e1a6.md)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md)

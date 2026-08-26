@@ -1,6 +1,6 @@
 ---
 title: "Johnnie Moore"
-description: "Johnnie Moore (People) - 45 mentions"
+description: "Johnnie Moore (People) - 48 mentions"
 id: "person-johnnie-moore"
 type: "PERSON"
 aliases:
@@ -25,12 +25,12 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-26-42">2026-05-27 · 00:26:56</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-39-11">2026-07-14 · 00:39:37</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-johnnie-moore-t-00-22-41" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-19-53" style="--pulse-height:18%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-32-47" style="--pulse-height:11%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-johnnie-moore-t-00-22-41) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-19-53) | 5 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-32-47) | 3 |
 
 </details>
 </section>
@@ -66,7 +68,21 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3 mentions)</summary>
+
+**[00:32:47](/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-32-47)**
+> "...didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner, John..."
+
+**[00:35:45](/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-35-20)**
+> "...ure she was on the phone with Johnny Moore cooking this one up."
+
+**[00:39:37](/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-39-11)**
+> "...ew and the Kairos company and Johnny Moore, Andrew Kolvet during his crash out was still try..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (5 mentions)</summary>
@@ -273,6 +289,18 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
+<summary>Board Member Of (1)</summary>
+
+- **[Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:32:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47): “Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner, Johnnie Moore on the board of NCRI when the Christ is King report was published.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Chairman Of (1)</summary>
 
 - **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)**
@@ -386,7 +414,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Aspen Institute](/entities/org-aspen-institute.md)** advised by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -447,6 +475,13 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 
 </details>
 
+- **[Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md)** has board member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:32:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47): “Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner, Johnnie Moore on the board of NCRI when the Christ is King report was published.”
+
+</details>
+
 - **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)** has chairman this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -465,6 +500,13 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:32:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47): “Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner, Johnnie Moore on the board of NCRI when the Christ is King report was published.”
 
 </details>
 
@@ -489,7 +531,15 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Johnnie Moore (16)</strong></summary>
+<summary><strong class="section-title">Statements about Johnnie Moore (17)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:32:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47) (Claim) **Candace Owens**: ["Owens said Kirk strongly criticized the NCRI 'Christ is King' report w..."](/statements/statement-ae19a66fd71e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>

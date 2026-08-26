@@ -1,14 +1,14 @@
 ---
 id: "aDlhjfW6hz8"
 title: "Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239"
-description: "Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 - 77 entities, 6 events, 0 claims"
+description: "Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 - 76 entities, 6 events, 76 factual claims"
 published: "2025-09-19"
 youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 ---
 
 **Published:** 2025-09-19 | [Watch on YouTube](https://www.youtube.com/watch?v=aDlhjfW6hz8)
 
-**Stats:** 77 entities | 6 events | 0 claims
+**Stats:** 76 entities | 6 events | 76 factual claims
 
 ---
 
@@ -285,7 +285,7 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (77)</strong></summary>
+<summary><strong>Entities Mentioned (76)</strong></summary>
 
 **Concepts:** [Bolsheviks](/entities/concept-bolsheviks.md), [Zionism](/entities/concept-zionism.md)
 
@@ -299,12 +299,12 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 
 **Organizations:** [ABC](/entities/org-abc.md), [American Financing](/entities/org-american-financing.md), [American Israel Public Affairs Committee](/entities/org-aipac.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [CDC](/entities/org-cdc.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Daily Mail](/entities/org-daily-mail.md), [Dairy Queen](/entities/org-dairy-queen.md), [FBI](/entities/org-fbi.md), [Federal Communications Commission](/entities/org-fcc.md), [Federal Reserve](/entities/org-federal-reserve.md), [GNOLand](/entities/org-gnoland.md), [Gno.land](/entities/org-gno-land.md), [Holocaust Museum](/entities/org-holocaust-museum.md), [Insight](/entities/org-insight.md), [Instagram](/entities/org-instagram.md), [PreBorn!](/entities/org-preborn.md), [Pure Talk](/entities/org-pure-talk.md), [Silver Lake](/entities/org-silver-lake.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [The Decentralized Intelligence Agency](/entities/org-decentralized-intelligence-agency.md), [The Wellness Company](/entities/org-the-wellness-company.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Senate](/entities/org-us-senate.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md), [YouTube](/entities/org-youtube.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Benny Johnson](/entities/person-benny-johnson.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brendan Carr](/entities/person-brendan-carr.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Chris Olsen](/entities/person-chris-olsen.md), [Donald J. Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Floyd](/entities/person-george-floyd.md), [Harley Pasternak](/entities/person-harley-pasternak.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Kanye West](/entities/person-kanye-west.md), [Katie Miller](/entities/person-katie-miller.md), [Kyrie Irving](/entities/person-kyrie-irving.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Marc Andreessen](/entities/person-marc-andreessen.md), [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Pam Bondi](/entities/person-pam-bondi.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Sarah Milgram](/entities/person-sarah-milgram.md), [Schuyler Pryor](/entities/person-schuyler-pryor.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Victoria Churchill](/entities/person-victoria-churchill.md), [Yaron Lechinsky](/entities/person-yaron-lechinsky.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Benny Johnson](/entities/person-benny-johnson.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brendan Carr](/entities/person-brendan-carr.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Chris Olsen](/entities/person-chris-olsen.md), [Donald J. Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Floyd](/entities/person-george-floyd.md), [Harley Pasternak](/entities/person-harley-pasternak.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Kanye West](/entities/person-kanye-west.md), [Katie Miller](/entities/person-katie-miller.md), [Kyrie Irving](/entities/person-kyrie-irving.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Marc Andreessen](/entities/person-marc-andreessen.md), [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Pam Bondi](/entities/person-pam-bondi.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Sarah Milgram](/entities/person-sarah-milgram.md), [Schuyler Pryor](/entities/person-schuyler-pryor.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Victoria Churchill](/entities/person-victoria-churchill.md), [Yaron Lechinsky](/entities/person-yaron-lechinsky.md)
 
 </details>
 
 <details>
-<summary><strong>Statements (73)</strong></summary>
+<summary><strong>Statements (125)</strong></summary>
 
 - [00:00:07](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Two men appeared mere minutes after Charlie Kirk was shot, moved his chair, and ..."](/statements/statement-35b5db0a6a50.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -315,15 +315,22 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 - [00:01:04](#t-00-00-55) [○] (Accusation) **Candace Owens**: ["They are definitely insisting that we stop investigating this"](/statements/statement-623f5c40b6fe.md)
 - [00:01:09](#t-00-00-55) [○] (Claim) **Candace Owens**: ["The Senate has voted to pass a bipartisan resolution to designate October 14th a..."](/statements/statement-4fb121a16230.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:01:09](#t-00-00-55) [○] (Claim) **Candace Owens**: ["The Senate has voted and passed a bipartisan resolution to designate October 14t..."](/statements/statement-b7af7171a6de.md)
+- [00:01:09](#t-00-00-55) [✓] (Claim) **Candace Owens**: ["The Senate has voted and passed a bipartisan resolution to designate October 14t..."](/statements/statement-b7af7171a6de.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:03:31](#t-00-03-03) [○] (Claim) **Candace Owens**: ["that same individual appears alongside another individual, and he moves Charlie'..."](/statements/statement-81f06fb90f2a.md)
+- [00:05:49](#t-00-05-13) [✓] (Claim) **Candace Owens**: ["Footage showed a TPUSA staffer remove the camera above Charlie Kirk’s seat and a..."](/statements/statement-b2e6d34da8ba.md)
+- [00:06:41](#t-00-06-33) [○] (Claim) **Candace Owens**: ["This person's been around Turning Point for quite some time, for years... back w..."](/statements/statement-c3c4f7820f00.md)
 - [00:07:19](#t-00-07-14) [○] (Claim) **Anonymous Source #1 (Ep aDlhjfW6hz8)**: ["I was sitting right to the left of Charlie when Charlie got shot and I instantly..."](/statements/statement-8235c7f3befe.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:07:29](#t-00-07-14) [○] (Claim) **Candace Owens**: ["The individual who took down the camera was sitting right to the left of Charlie..."](/statements/statement-5b327fca8908.md)
+- [00:07:29](#t-00-07-14) [○] (Claim) **Candace Owens**: ["he said, look, as you can see in the footage, I was sitting right to the left of..."](/statements/statement-6b8dbc0b587c.md)
+- [00:07:29](#t-00-07-14) [○] (Claim) **Candace Owens**: ["The individual who took down the camera was sitting right to the left of Charlie..."](/statements/statement-2990902ac5f2.md)
 - [00:08:18](#t-00-07-53) [○] (Claim) **Anonymous Source #1 (Ep aDlhjfW6hz8)**: ["The first thing that I thought was that I better secure the footage and be helpf..."](/statements/statement-23f3f32e636d.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:08:19](#t-00-07-53) [○] (Claim) **Anonymous Source #2 (Ep aDlhjfW6hz8)**: ["I secured the footage to hand it over to the feds because I thought that was the..."](/statements/statement-a62a5c43783c.md)
   - About: [FBI](/entities/org-fbi.md)
+- [00:08:23](#t-00-07-53) [○] (Claim) **Candace Owens**: ["he says, because the first thing that I thought is that I better secure the foot..."](/statements/statement-30bac0489ce4.md)
+- [00:08:23](#t-00-07-53) [○] (Claim) **Candace Owens**: ["The individual who took down the camera said he secured the footage to hand it o..."](/statements/statement-7cfe0c40c6ab.md)
 - [00:08:24](#t-00-07-53) [○] (Opinion) **Candace Owens**: ["We don't trust the feds"](/statements/statement-7f8a64e2d2a5.md)
   - About: [FBI](/entities/org-fbi.md)
 - [00:08:48](#t-00-08-33) [○] (Citation) **Candace Owens**: ["People that certainly have the credibility are ballistics experts that are sayin..."](/statements/statement-aeca98e406f8.md)
@@ -332,15 +339,20 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:08:55](#t-00-08-33) [○] (Citation) **Candace Owens**: ["Ballistics experts are saying that Charlie Kirk's visible wound appears to be an..."](/statements/statement-250dcecc9a29.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:08:55](#t-00-08-33) [○] (Claim) **Candace Owens**: ["People are doing very... credible videos. People that certainly have the credibi..."](/statements/statement-df0ff2cac0b5.md)
 - [00:09:06](#t-00-08-33) [○] (Claim) **Anonymous Source #2 (Ep aDlhjfW6hz8)**: ["I knew instantly when Charlie was shot that he was dead"](/statements/statement-6c6da80a0ce4.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:10:36](#t-00-09-54) [○] (Claim) **Candace Owens**: ["I watched the footage... there is nothing gory about this shot at all... there's..."](/statements/statement-2d6d5458fb95.md)
+- [00:11:16](#t-00-10-36) [○] (Claim) **Candace Owens**: ["Candace Owens viewed the camera footage from behind Charlie Kirk via FaceTime an..."](/statements/statement-f5afa8bc5798.md)
 - [00:11:24](#t-00-11-21) [○] (Claim) **Candace Owens**: ["There is nothing gory about this shot at all. There's no blood from the back. Th..."](/statements/statement-46f4ca227132.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:11:33](#t-00-11-21) [○] (Claim) **Candace Owens**: ["There is no blood from the back of Charlie Kirk in the footage from the camera b..."](/statements/statement-4a849a2310f6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:11:33](#t-00-11-21) [○] (Claim) **Candace Owens**: ["In the camera footage from behind Charlie Kirk's head during the assassination, ..."](/statements/statement-6f1653d1b172.md)
+- [00:11:42](#t-00-11-21) [○] (Claim) **Candace Owens**: ["there's no blood from the back. There is no blood"](/statements/statement-02a700b194dd.md)
 - [00:11:47](#t-00-11-21) [○] (Claim) **Candace Owens**: ["The feds were at some point looking for a bullet in Charlie Kirk's assassination..."](/statements/statement-179c2626f6cd.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:11:51](#t-00-11-21) [○] (Claim) **Candace Owens**: ["the feds were saying they were looking for a bullet"](/statements/statement-8057bd992e0e.md)
 - [00:13:14](#t-00-12-47) [○] (Accusation) **Candace Owens**: ["The feds are lying about everything, so they should not be the only people that ..."](/statements/statement-31bcbc19c474.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:14:03](#t-00-13-24) [○] (Claim) **Candace Owens**: ["At no point did I ever speculate that any other country was involved and never s..."](/statements/statement-3b0b2b80bcfc.md)
@@ -353,8 +365,11 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
   - About: [Caldera Engineering](/entities/org-caldera-engineering.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:14:54](#t-00-14-44) [○] (Claim) **Candace Owens**: ["The doorbell cam footage that TMZ obtained was from a street where multiple empl..."](/statements/statement-49f4d943fc58.md)
   - About: [Caldera Engineering](/entities/org-caldera-engineering.md)
+- [00:14:54](#t-00-14-44) [○] (Opinion) **Candace Owens**: ["there is very clearly... a government-level conspiracy that is involved"](/statements/statement-3a56c2c213f9.md)
+- [00:14:54](#t-00-14-44) [◐] (Claim) **Candace Owens**: ["Owens said the TMZ doorbell footage came from a West Street area where many Cald..."](/statements/statement-c50d639bb47a.md)
 - [00:14:59](#t-00-14-44) [○] (Claim) **Candace Owens**: ["We all believe there's very clearly a government-level conspiracy that is involv..."](/statements/statement-9c6948ca7285.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:15:06](#t-00-14-44) [○] (Opinion) **Candace Owens**: ["There's no other way to assess those disastrous text messages, absolute disaster..."](/statements/statement-1f930226b54d.md)
 - [00:15:54](#t-00-15-25) [○] (Citation) **Candace Owens**: ["This is a very niche industry that implies major government contracts, likely th..."](/statements/statement-2219fec80e3a.md)
   - About: [Caldera Engineering](/entities/org-caldera-engineering.md), [Israel](/entities/gpe-israel.md)
 - [00:16:16](#t-00-16-10) [○] (Accusation) **Candace Owens**: ["The feds are lying about everything regarding Charlie Kirk's assassination"](/statements/statement-e222e54913e1.md)
@@ -364,6 +379,7 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
   - About: [Caldera Engineering](/entities/org-caldera-engineering.md), [Israel](/entities/gpe-israel.md)
 - [00:16:38](#t-00-16-10) [○] (Claim) **Candace Owens**: ["Caldera Engineering's website shows they have done engineering projects in Israe..."](/statements/statement-95026ee865b6.md)
   - About: [Caldera Engineering](/entities/org-caldera-engineering.md)
+- [00:16:38](#t-00-16-10) [✗] (Claim) **Candace Owens**: ["on Caldera's website, they noted that they have worked in Israel. They have a ma..."](/statements/statement-64722191619d.md)
 - [00:16:48](#t-00-16-10) [○] (Claim) **Candace Owens**: ["Caldera Engineering has worked in Israel, with a map noting every country where ..."](/statements/statement-df99a5a87789.md)
   - About: [Caldera Engineering](/entities/org-caldera-engineering.md), [Israel](/entities/gpe-israel.md)
 - [00:18:04](#t-00-17-31) [○] (Opinion) **Candace Owens**: ["There is very clearly a government-level conspiracy involved in Charlie Kirk's a..."](/statements/statement-aea73a0ccb75.md)
@@ -374,7 +390,7 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:19:52](#t-00-19-43) [○] (Accusation) **Candace Owens**: ["It's almost as if they all received an email from somebody who said, I don't car..."](/statements/statement-2c5e81c6fc8f.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
-- [00:23:57](#t-00-23-17) [○] (Accusation) **Candace Owens**: ["Patrick Bet-David platformed lies about Candace Owens without any pushback"](/statements/statement-3d057bfb5038.md)
+- [00:20:25](#t-00-19-43) [○] (Accusation) **Candace Owens**: ["Patrick Bet-David platformed lies about Candace Owens without any pushback"](/statements/statement-3d057bfb5038.md)
   - About: [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:26:38](#t-00-25-59) [○] (Claim) **Andrew Kolvet**: ["When's the last time Candace Owens was at a Turning Point event? Not in many yea..."](/statements/statement-07a52df894d0.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -385,12 +401,21 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 - [00:28:05](#t-00-27-56) [○] (Claim) **Candace Owens**: ["I spoke at Turning Point's conference—two conferences—last year"](/statements/statement-1f61a9b66007.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:28:05](#t-00-27-56) [○] (Claim) **Candace Owens**: ["Candace Owens spoke at Turning Point's conferences twice last year, including a ..."](/statements/statement-c009f0c25377.md)
+- [00:28:05](#t-00-27-56) [✓] (Claim) **Candace Owens**: ["I spoke at Turning Point's conference—two conferences—last year... I went on tou..."](/statements/statement-c01fc3957c62.md)
 - [00:29:17](#t-00-29-16) [○] (Claim) **Candace Owens**: ["Charlie got in trouble for the stuff that I said on stage. Then they came in and..."](/statements/statement-97895d2c5c6d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:29:22](#t-00-29-16) [○] (Claim) **Candace Owens**: ["they came inward and told that I was not allowed to speak at AmFest. The donors ..."](/statements/statement-d552748dab38.md)
+- [00:29:27](#t-00-29-16) [○] (Claim) **Candace Owens**: ["I went on tour with Turning Point last year. It's still on their website."](/statements/statement-57a54edc2f2e.md)
 - [00:30:01](#t-00-29-16) [○] (Accusation) **Candace Owens**: ["Victoria Churchill has a connection to AIPAC. So AIPAC is pushing this"](/statements/statement-d8ab84f09c9d.md)
   - About: [American Israel Public Affairs Committee](/entities/org-aipac.md)
 - [00:30:03](#t-00-30-01) [○] (Claim) **Candace Owens**: ["Victoria Churchill, the Daily Mail journalist who wrote the hit piece, has a con..."](/statements/statement-357b4428dc9b.md)
   - About: [American Israel Public Affairs Committee](/entities/org-aipac.md)
+- [00:30:03](#t-00-30-01) [○] (Claim) **Candace Owens**: ["when you look into who's writing these articles, like Victoria Churchill, you no..."](/statements/statement-652926133082.md)
+- [00:30:24](#t-00-30-01) [○] (Opinion) **Candace Owens**: ["They are all ultra-Zionists"](/statements/statement-d18a42c3466f.md)
+- [00:30:43](#t-00-30-01) [○] (Opinion) **Candace Owens**: ["Benjamin Netanyahu is spending a lot of money right now. He is just way too invo..."](/statements/statement-1f51e6e693a1.md)
+- [00:30:49](#t-00-30-43) [○] (Opinion) **Candace Owens**: ["I think something sinister is going on here."](/statements/statement-b02940b3e7b7.md)
+- [00:30:54](#t-00-30-43) [○] (Claim) **Candace Owens**: ["I have had a flood of Turning Point employees reach out to me."](/statements/statement-8c15a8d60647.md)
+- [00:31:54](#t-00-31-27) [○] (Opinion) **Candace Owens**: ["I believe that people within that company betrayed Charlie Kirk"](/statements/statement-21cfcd292585.md)
 - [00:31:55](#t-00-31-27) [○] (Accusation) **Candace Owens**: ["Charlie Kirk was betrayed by people who are close to him"](/statements/statement-8ce5194ff7d7.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:31:55](#t-00-31-27) [○] (Accusation) **Candace Owens**: ["I believe that Charlie Kirk was betrayed by people who are close to him, and the..."](/statements/statement-fb3c99d5c16d.md)
@@ -401,10 +426,16 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:32:05](#t-00-31-27) [○] (Claim) **Candace Owens**: ["There was weird activity at Turning Point USA leading up to Charlie Kirk's assas..."](/statements/statement-ab173afa64c9.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:32:05](#t-00-31-27) [○] (Claim) **Candace Owens**: ["there was definitely some weird activity leading up to this moment happening at ..."](/statements/statement-21b6976a2b4e.md)
+- [00:32:16](#t-00-32-05) [○] (Promise) **Candace Owens**: ["Owens said she had been given names and intended to begin a longer investigation..."](/statements/statement-d52497279994.md)
+- [00:32:53](#t-00-32-45) [○] (Claim) **Candace Owens**: ["I've never stopped talking to Charlie."](/statements/statement-a42181f2f95a.md)
+- [00:33:10](#t-00-32-45) [○] (Opinion) **Candace Owens**: ["Charlie was concerned about the speech that he felt, the restrictions, and inevi..."](/statements/statement-42a02ce31c50.md)
+- [00:33:18](#t-00-32-45) [○] (Claim) **Candace Owens**: ["This message is from May... Charlie sent me his tweet... And he wrote back—as yo..."](/statements/statement-957d1bf2a3d9.md)
 - [00:33:53](#t-00-33-27) [○] (Claim) **Candace Owens**: ["Charlie Kirk was concerned about Israel coming after free speech in America in t..."](/statements/statement-df194a5dec5d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:34:18](#t-00-34-12) [○] (Claim) **Candace Owens**: ["In May 2024, Turning Point had some big changes with certain departments having ..."](/statements/statement-5342de16590c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:34:27](#t-00-34-12) [○] (Claim) **Turning Point USA**: ["back in May, Turning Point had some big changes, some odd changes as they are de..."](/statements/statement-627be61e5322.md)
 - [00:35:25](#t-00-34-55) [○] (Opinion) **Pam Bondi**: ["There's free speech and then there's hate speech. There is no place—especially n..."](/statements/statement-e29412474eb3.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:35:25](#t-00-34-55) [○] (Opinion) **Pam Bondi**: ["There's free speech and then there's hate speech, and there is no place especial..."](/statements/statement-7dad1d739783.md)
@@ -416,32 +447,53 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [00:36:16](#t-00-36-12) [○] (Citation) **Candace Owens**: ["Benjamin Netanyahu said on record that he was working with the government of Ame..."](/statements/statement-57f59352c97c.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+- [00:36:19](#t-00-36-12) [○] (Claim) **Benjamin Netanyahu**: ["Benjamin Netanyahu said that he was passing laws against speech in America. That..."](/statements/statement-31f5f2016c63.md)
+- [00:36:23](#t-00-36-12) [○] (Opinion) **Candace Owens**: ["Trump is occupied by Zionists and is completely powerless to say anything agains..."](/statements/statement-f7180c7f382a.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:36:27](#t-00-36-12) [○] (Claim) **Candace Owens**: ["Donors were making threats after Candace's Turning Point speech where she said I..."](/statements/statement-4f713fb11c41.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md)
 - [00:36:39](#t-00-36-12) [○] (Opinion) **Candace Owens**: ["There's no question Trump is occupied by Zionists. He's completely impotent. He'..."](/statements/statement-03d07c74ddfa.md)
-  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+  - About: [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md)
+- [00:37:17](#t-00-36-57) [○] (Claim) **Candace Owens**: ["People that are under 30 are anti-Israel"](/statements/statement-070e1797a422.md)
+- [00:37:21](#t-00-36-57) [○] (Prediction) **Candace Owens**: ["Owens predicted that the future of America would be anti-Israel, based on her ch..."](/statements/statement-d7a35ae51ad4.md)
+- [00:37:28](#t-00-36-57) [○] (Prediction) **Candace Owens**: ["Owens predicted that actors she described as pro-Israel would seek speech restri..."](/statements/statement-05d5d1b138c4.md)
+- [00:37:37](#t-00-36-57) [○] (Prediction) **Candace Owens**: ["Owens predicted that critics would be arrested for saying they did not support I..."](/statements/statement-60f8885160d9.md)
+- [00:37:40](#t-00-36-57) [○] (Claim) **Candace Owens**: ["Something that Charlie was passionately against"](/statements/statement-0a6c8139c39d.md)
+- [00:37:41](#t-00-36-57) [○] (Promise) **Candace Owens**: ["Owens said she could show clips the following week of Charlie Kirk hosting a deb..."](/statements/statement-9d031f83ac59.md)
+- [00:37:44](#t-00-37-41) [○] (Claim) **Candace Owens**: ["He was very clear in his perception that this is going to increase antisemitism,..."](/statements/statement-d98dc95fd35f.md)
+- [00:37:49](#t-00-37-41) [○] (Opinion) **Candace Owens**: ["The feds are obviously lying? And I would say at some level, in a very big way, ..."](/statements/statement-138a19c05c11.md)
+- [00:38:08](#t-00-37-41) [✓] (Claim) **Candace Owens**: ["ABC announced on September 17, 2025 that Jimmy Kimmel Live would be preempted in..."](/statements/statement-73a7b5c52259.md)
 - [00:39:20](#t-00-39-12) [○] (Claim) **Candace Owens**: ["Jimmy Kimmel has been pulled off air indefinitely over his comments about Charli..."](/statements/statement-785ff25a8e6e.md)
   - About: [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:40:47](#t-00-40-16) [○] (Accusation) **Candace Owens**: ["Benjamin Netanyahu is spending a lot of money to attack Candace Owens and is too..."](/statements/statement-6e49276bdd27.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:41:31](#t-00-40-58) [✓] (Claim) **Candace Owens**: ["Jimmy Kimmel called Charlie Kirk’s killing a senseless murder in a September 11,..."](/statements/statement-68e23d373338.md)
+- [00:41:34](#t-00-40-58) [○] (Claim) **Jimmy Kimmel**: ["The day that it happened, Jimmy Kimmel posted a message on Instagram, sending lo..."](/statements/statement-251a8b383acc.md)
 - [00:42:18](#t-00-41-34) [○] (Claim) **Candace Owens**: ["FCC Chairman Brendan Carr threatened federal action against ABC affiliates who c..."](/statements/statement-f27d17128da3.md)
   - About: [Brendan Carr](/entities/person-brendan-carr.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md)
-- [00:43:07](#t-00-43-02) [○] (Opinion) **Candace Owens**: ["Trump is occupied by Zionists and is completely powerless to say anything agains..."](/statements/statement-f7180c7f382a.md)
-  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+- [00:42:18](#t-00-41-34) [○] (Claim) **Candace Owens**: ["The chairman of the Federal Communications Commission, Brendan Carr, jumped up a..."](/statements/statement-923eab84e713.md)
+- [00:43:08](#t-00-43-02) [○] (Claim) **Candace Owens**: ["They're also calling for him to make a meaningful personal donation to the Kirk ..."](/statements/statement-a6c73d626efc.md)
 - [00:43:41](#t-00-43-02) [○] (Accusation) **Candace Owens**: ["TikTok is being taken over by Israel through a deal involving Marc Andreessen an..."](/statements/statement-1ef10698d9db.md)
   - About: [Israel](/entities/gpe-israel.md)
+- [00:43:41](#t-00-43-02) [○] (Opinion) **Candace Owens**: ["Israel's pretty much taking over TikTok"](/statements/statement-12167a503532.md)
+- [00:43:51](#t-00-43-41) [○] (Claim) **Candace Owens**: ["Marc Andreessen, in on a deal with, I think it's Silver Lake Capital"](/statements/statement-606abd900a93.md)
 - [00:43:56](#t-00-43-41) [○] (Accusation) **Candace Owens**: ["TikTok was going pro-Palestine, and a bunch of hedge fund people who are pro-Isr..."](/statements/statement-bd0d31f71f0b.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
+- [00:43:57](#t-00-43-41) [○] (Opinion) **Candace Owens**: ["TikTok was going pro-Palestine and a bunch of hedge fund people who are pro-Isra..."](/statements/statement-420cdd1a2123.md)
+- [00:44:02](#t-00-43-41) [○] (Opinion) **Candace Owens**: ["Trump pretended that he was going to rescue speech. No, he's handing it over to ..."](/statements/statement-b2c4f1454689.md)
 - [00:44:37](#t-00-44-23) [○] (Claim) **Benjamin Netanyahu**: ["Benjamin Netanyahu said on record that he was working with the government of Ame..."](/statements/statement-be7df0c04a1d.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+- [00:44:37](#t-00-44-23) [○] (Opinion) **Candace Owens**: ["Owens argued that Trump had ceded substantial influence to Israel and predicted ..."](/statements/statement-61b2c135c55a.md)
 - [00:50:36](#t-00-49-57) [○] (Claim) **Candace Owens**: ["The Dairy Queen footage showing the suspect is from August 31st or later, not Ju..."](/statements/statement-5f18102c3830.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:50:38](#t-00-49-57) [○] (Claim) **Candace Owens**: ["Owens said Dairy Queen began using the depicted Maple Cookie Shake advertisement..."](/statements/statement-02c1b411f966.md)
 - [00:51:15](#t-00-50-39) [○] (Claim) **Candace Owens**: ["Andrew Kolvet was definitely not in the Hamptons despite PBD saying he was"](/statements/statement-e63e7f9ac5f6.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md)
 - [00:51:29](#t-00-51-24) [○] (Citation) **Candace Owens**: ["People are telling me about CIA action at UVU, some programs that they had been ..."](/statements/statement-33863972dab6.md)
 - [00:51:29](#t-00-51-24) [○] (Citation) **Candace Owens**: ["People are sending tips about CIA activity at UVU and a pipeline from UVU to peo..."](/statements/statement-5428a2dab9bb.md)
 - [00:51:32](#t-00-51-24) [○] (Promise) **Candace Owens**: ["I am going to solve the murder of my friend Charlie Kirk"](/statements/statement-106bb560d959.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:51:33](#t-00-51-24) [○] (Claim) **Candace Owens**: ["There's a pipeline from people at UVU to people that go and work for the CIA"](/statements/statement-bfcf832a9431.md)
 - [00:52:15](#t-00-52-10) [○] (Claim) **Candace Owens**: ["Andrew Kolvet was definitely not there in the Hamptons"](/statements/statement-a4c7a3f6c50a.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 

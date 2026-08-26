@@ -1,14 +1,14 @@
 ---
 id: "7RLtGgkTh9o"
 title: "From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265"
-description: "From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 - 103 entities, 11 events, 0 claims"
+description: "From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 - 103 entities, 11 events, 44 factual claims"
 published: "2025-11-15"
 youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
 ---
 
 **Published:** 2025-11-15 | [Watch on YouTube](https://www.youtube.com/watch?v=7RLtGgkTh9o)
 
-**Stats:** 103 entities | 11 events | 0 claims
+**Stats:** 103 entities | 11 events | 44 factual claims
 
 ---
 
@@ -69,7 +69,7 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-7RLtGgkTh9o/t-00-12-38.md" class="timestamp-link">00:12:38</a> <a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=758" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Oh, we're going to get there because as I started following the <span id="ent-org-calvary-chapel-t-00-12-38"><a href="/entities/org-calvary-chapel.md">Calvary Chapel</a></span> again—suddenly involved in that part that she's mentioning about the tithing. Since I put onto my <span id="ent-org-instagram-t-00-12-38"><a href="/entities/org-instagram.md">Instagram</a></span> stories that—what is this? You're telling me that this woman <span id="ent-person-lou-taylor-t-00-12-38"><a href="/entities/person-lou-taylor.md">Lou Taylor</a></span> also was involved in the <a href="/entities/org-calvary-chapel.md">Calvary Chapel</a>? And I was not paying attention to anything that was going on with <span id="ent-person-britney-spears-t-00-12-38"><a href="/entities/person-britney-spears.md">Britney Spears</a></span> at all. And I've arrived at this same conclusion that there's some sort of an infiltration that seems to be happening with Calvary Chapels. And here's where we are. That's ridiculous. This can't be a coincidence. There can't be this many people that are having this experience and have this much scandal involving this church. This doesn't make sense to me. ^t-00-12-38
+**<a href="/timestamps/ep-7RLtGgkTh9o/t-00-12-38.md" class="timestamp-link">00:12:38</a> <a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=758" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Oh, we're going to get there because as I started following the <span id="ent-org-calvary-chapel-t-00-12-38"><a href="/entities/org-calvary-chapel.md">Calvary Chapel</a></span> again—suddenly involved in that part that she's mentioning about the tithing. Since I put onto my <span id="ent-org-instagram-t-00-12-38"><a href="/entities/org-instagram.md">Instagram</a></span> stories that—what is this? You're telling me that this woman <span id="ent-person-lou-taylor-t-00-12-38"><a href="/entities/person-lou-taylor.md">Lou Taylor</a></span> also was involved in the <a href="/entities/org-calvary-chapel.md">Calvary Chapel</a>? And I was not paying attention to anything that was going on with <span id="ent-person-britney-spears-t-00-12-38"><a href="/entities/person-britney-spears.md">Britney Spears</a></span> at all. And I've arrived at this same conclusion that there's some sort of an infiltration that seems to be happening with <a href="/entities/org-calvary-chapel.md">Calvary Chapels</a>. And here's where we are. That's ridiculous. This can't be a coincidence. There can't be this many people that are having this experience and have this much scandal involving this church. This doesn't make sense to me. ^t-00-12-38
 
 **<a href="/timestamps/ep-7RLtGgkTh9o/t-00-13-13.md" class="timestamp-link">00:13:13</a> <a href="https://www.youtube.com/watch?v=7RLtGgkTh9o&t=793" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Well, I put this up on my stories this morning, and two other people reached out to me who worked with <span id="ent-person-lou-taylor-t-00-13-13"><a href="/entities/person-lou-taylor.md">Lou Taylor</a></span> and described exactly what she's referring to—this system of tithing that <a href="/entities/person-lou-taylor.md">Lou Taylor</a> makes them say 10% has to go to the church if they want to be blessed. I'm not kidding. 10% has to go to the church if they want God to bless them. This is why they should do this. And then also directing them to invest in other companies without necessarily revealing that they're involved in those other companies and that God will bless them and they'll pray over them. What is happening? How can there be this many <span id="ent-org-calvary-chapel-t-00-13-13"><a href="/entities/org-calvary-chapel.md">Calvary Chapel</a></span> scandals and stories? She also mentioned <span id="ent-person-lindsay-lohan-t-00-13-13"><a href="/entities/person-lindsay-lohan.md">Lindsay Lohan</a></span>. She's not lying there. ^t-00-13-13
 
@@ -270,7 +270,7 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
 </details>
 
 <details>
-<summary><strong>Statements (70)</strong></summary>
+<summary><strong>Statements (81)</strong></summary>
 
 - [00:00:01](#t-00-00-00) [○] (Claim) **Candace Owens**: ["All of my investigations are converging - the Chaos book, the Brigitte Macron ca..."](/statements/statement-1492732e1321.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Kanye West](/entities/person-kanye-west.md)
@@ -279,6 +279,7 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
 - [00:02:03](#t-00-01-21) [○] (Claim) **Candace Owens**: ["Brigitte and Emmanuel Macron brought up MKUltra 18 times in the lawsuit against ..."](/statements/statement-369f6a5a3bab.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [MKUltra](/entities/concept-mkultra.md)
+- [00:02:12](#t-00-02-03) [○] (Claim) **Candace Owens**: ["Brigitte Macron and Emmanuel had a heart attack when I started discussing MKUltr..."](/statements/statement-ac30f138ef61.md)
 - [00:02:44](#t-00-02-03) [○] (Accusation) **Candace Owens**: ["Kanye West was put on a psych 5150 hold, which was effectively MKUltra"](/statements/statement-522dc96f8fe8.md)
   - About: [Kanye West](/entities/person-kanye-west.md)
 - [00:02:44](#t-00-02-03) [○] (Accusation) **Candace Owens**: ["Kanye West was put on a psych 5150 hold, which is one of their strategies, and h..."](/statements/statement-08c3cea838b4.md)
@@ -291,6 +292,7 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Israel](/entities/gpe-israel.md), [Zionism](/entities/concept-zionism.md)
 - [00:04:56](#t-00-04-14) [○] (Claim) **Candace Owens**: ["The Calvary Chapel was involved in Britney Spears' conservatorship"](/statements/statement-a6c091beb979.md)
   - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Britney Spears](/entities/person-britney-spears.md)
+- [00:06:14](#t-00-05-39) [◐] (Claim) **Brett Cooper**: ["Brett Cooper stated that Lou Taylor became involved with Britney Spears in 2007 ..."](/statements/statement-5337fdf48eec.md)
 - [00:06:16](#t-00-06-14) [○] (Claim) **Brett Cooper**: ["Lou Taylor became involved with Britney Spears in 2007 after she was hired to he..."](/statements/statement-7d0fcf657936.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Britney Spears](/entities/person-britney-spears.md), [Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md)
 - [00:06:33](#t-00-06-14) [○] (Claim) **Brett Cooper**: ["By 2008, less than a year later, Lou Taylor was going on TV shows as the Spears ..."](/statements/statement-e4feb1dd1740.md)
@@ -301,10 +303,15 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Jamie Spears](/entities/person-jamie-spears.md), [Lou Taylor](/entities/person-lou-taylor.md), [Britney Spears](/entities/person-britney-spears.md)
 - [00:07:41](#t-00-07-26) [○] (Claim) **Brett Cooper**: ["Lou Taylor's firm gave Britney's dad a loan of 40,000 dollars shortly before the..."](/statements/statement-f7fe3606068b.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Jamie Spears](/entities/person-jamie-spears.md), [Britney Spears](/entities/person-britney-spears.md)
+- [00:07:41](#t-00-07-26) [◐] (Claim) **Brett Cooper**: ["Jamie Senior had around this time allegedly filed for bankruptcy. He had done th..."](/statements/statement-6b84306b52d3.md)
+- [00:07:41](#t-00-07-26) [✓] (Claim) **Brett Cooper**: ["Lou Taylor's firm gave Britney Spears' father Jamie a loan of 40,000 dollars"](/statements/statement-bc85f886fa08.md)
 - [00:07:47](#t-00-07-26) [○] (Claim) **Brett Cooper**: ["Within months of the 0,000 loan from Lou Taylor's firm, the conservatorship of B..."](/statements/statement-e74d5b9de84d.md)
   - About: [Britney Spears](/entities/person-britney-spears.md), [Lou Taylor](/entities/person-lou-taylor.md), [Jamie Spears](/entities/person-jamie-spears.md)
+- [00:07:57](#t-00-07-26) [✓] (Claim) **Brett Cooper**: ["the conservatorship of Britney Spears was implemented. This was in February of 2..."](/statements/statement-a6c80cd0f663.md)
+- [00:08:07](#t-00-07-26) [✓] (Claim) **Brett Cooper**: ["Britney Spears was committed to an eight-month tour named Circus months after th..."](/statements/statement-73d91d005bf1.md)
 - [00:08:11](#t-00-07-26) [○] (Claim) **Brett Cooper**: ["Only months after arguing that Britney was incapacitated and needed to be under ..."](/statements/statement-c03afa420942.md)
   - About: [Britney Spears](/entities/person-britney-spears.md), [Jamie Spears](/entities/person-jamie-spears.md)
+- [00:08:15](#t-00-08-11) [✓] (Claim) **Brett Cooper**: ["Tristar—that is Lou Taylor's company—was hired to serve as the tour's business m..."](/statements/statement-182fdea37f4c.md)
 - [00:08:20](#t-00-08-11) [○] (Claim) **Brett Cooper**: ["The Circus tour grossed an estimated 130 million dollars that was under the cont..."](/statements/statement-7e7dcf0a3fd9.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Jamie Spears](/entities/person-jamie-spears.md)
 - [00:08:21](#t-00-08-11) [○] (Claim) **Brett Cooper**: ["Tristar (Lou Taylor's company) was hired to serve as the Circus tour's business ..."](/statements/statement-63cd62fcf8da.md)
@@ -317,18 +324,16 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Lou Taylor](/entities/person-lou-taylor.md)
 - [00:11:04](#t-00-10-43) [○] (Claim) **Brett Cooper**: ["Lou Taylor had no financial background and was not an accountant despite working..."](/statements/statement-361be788a8d9.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md)
-- [00:11:07](#t-00-10-43) [○] (Claim) **Brett Cooper**: ["Lou Taylor started her career in a church working alongside her husband, who at ..."](/statements/statement-6c3b13fd8b24.md)
-  - About: [Lou Taylor](/entities/person-lou-taylor.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md)
+- [00:11:07](#t-00-10-43) [◐] (Claim) **Brett Cooper**: ["Lou Taylor started her career in a church working alongside her husband, who at ..."](/statements/statement-6c3b13fd8b24.md)
+  - About: [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Lou Taylor](/entities/person-lou-taylor.md)
 - [00:11:27](#t-00-10-43) [○] (Claim) **Brett Cooper**: ["Lou Taylor started her career in a church working alongside her husband who was ..."](/statements/statement-a99a0c1efe32.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Calvary Chapel](/entities/org-calvary-chapel.md)
-- [00:11:28](#t-00-10-43) [○] (Claim) **Brett Cooper**: ["According to financial documents in the public domain, Jamie Spears Sr. was givi..."](/statements/statement-d6a45b1203c0.md)
-  - About: [Jamie Spears](/entities/person-jamie-spears.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Lou Taylor](/entities/person-lou-taylor.md)
-- [00:11:45](#t-00-11-28) [○] (Claim) **Brett Cooper**: ["Jamie Spears gave 10 percent of his conservatorship income to Calvary Chapel Bre..."](/statements/statement-2f38c392731f.md)
-  - About: [Jamie Spears](/entities/person-jamie-spears.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Lou Taylor](/entities/person-lou-taylor.md)
+- [00:11:28](#t-00-11-28) [✓] (Claim) **Brett Cooper**: ["According to financial documents in the public domain, Jamie Spears Sr. was givi..."](/statements/statement-d6a45b1203c0.md)
+  - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Jamie Spears](/entities/person-jamie-spears.md)
 - [00:11:58](#t-00-11-28) [○] (Claim) **Brett Cooper**: ["Jamie Spears gave tens of thousands of dollars in one year to the church which i..."](/statements/statement-97a53ddf7e20.md)
   - About: [Jamie Spears](/entities/person-jamie-spears.md)
-- [00:12:38](#t-00-12-06) [○] (Accusation) **Brett Cooper**: ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conservatorships"](/statements/statement-6b6c86cc92a9.md)
-  - About: [Lou Taylor](/entities/person-lou-taylor.md), [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md)
+- [00:12:30](#t-00-12-06) [◐] (Accusation) **Brett Cooper**: ["Lou Taylor tried to place Courtney Love and Lindsay Lohan into conservatorships"](/statements/statement-6b6c86cc92a9.md)
+  - About: [Courtney Love](/entities/person-courtney-love.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md), [Lou Taylor](/entities/person-lou-taylor.md)
 - [00:13:28](#t-00-13-13) [○] (Accusation) **Candace Owens**: ["Lou Taylor makes clients give 10 percent to the church if they want to be blesse..."](/statements/statement-4241430d8a39.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md)
 - [00:13:28](#t-00-13-13) [○] (Accusation) **Anonymous Source #3 (Ep 7RLtGgkTh9o)**: ["Lou Taylor makes clients say 10% has to go to the church if they want to be bles..."](/statements/statement-e484aed1011f.md)
@@ -357,6 +362,7 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Britney Spears](/entities/person-britney-spears.md), [Thousand Oaks](/entities/gpe-thousand-oaks.md), [Justin Bieber](/entities/person-justin-bieber.md)
 - [00:16:07](#t-00-15-24) [○] (Opinion) **Candace Owens**: ["Lou Taylor built a house in Thousand Oaks and I would find it hard to believe sh..."](/statements/statement-134d0948eca4.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Thousand Oaks](/entities/gpe-thousand-oaks.md)
+- [00:16:32](#t-00-16-07) [✓] (Claim) **Candace Owens**: ["Bob Coy... who has since been embroiled in scandal for sexual allegations... had..."](/statements/statement-1bfe1de1f7bb.md)
 - [00:16:40](#t-00-16-07) [○] (Claim) **Anonymous Source #3 (Ep 7RLtGgkTh9o)**: ["Rob McCoy and Lou Taylor were mentored by Bob Coy, who has since been embroiled ..."](/statements/statement-b494cb92a8cb.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Lou Taylor](/entities/person-lou-taylor.md), [Bob Coy](/entities/person-bob-coy.md)
 - [00:16:42](#t-00-16-07) [○] (Claim) **Candace Owens**: ["Rob and Lou Taylor were mentored by Bob Coy who has been embroiled in scandal fo..."](/statements/statement-6782e104e480.md)
@@ -367,9 +373,9 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Kanye West](/entities/person-kanye-west.md)
 - [00:20:33](#t-00-20-23) [○] (Opinion) **Candace Owens**: ["There are literally psychological operatives in your life meant to control you a..."](/statements/statement-5405c19756b8.md)
   - About: [Kanye West](/entities/person-kanye-west.md)
-- [00:21:27](#t-00-21-04) [○] (Claim) **Courtney Love**: ["Courtney Love was experimented on as a toddler at the Haight-Ashbury Clinic, whe..."](/statements/statement-698fdea4ccc4.md)
+- [00:21:34](#t-00-21-04) [○] (Claim) **Candace Owens**: ["The CIA intentionally dosed people in Haight-Ashbury with LSD to study mind cont..."](/statements/statement-698fdea4ccc4.md)
   - About: [Courtney Love](/entities/person-courtney-love.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [MKUltra](/entities/concept-mkultra.md)
-- [00:22:07](#t-00-21-47) [○] (Claim) **Courtney Love**: ["I was experimented on as a toddler at the Haight-Ashbury Clinic and was given LS..."](/statements/statement-f9b8da2dde17.md)
+- [00:22:07](#t-00-21-47) [◐] (Claim) **Courtney Love**: ["I was experimented on as a toddler at the Haight-Ashbury Clinic and was given LS..."](/statements/statement-f9b8da2dde17.md)
   - About: [Courtney Love](/entities/person-courtney-love.md)
 - [00:22:14](#t-00-21-47) [○] (Claim) **Courtney Love**: ["I did not kill Kurt Cobain. That was part of a psychological operation to make t..."](/statements/statement-0e0f62640500.md)
   - About: [Courtney Love](/entities/person-courtney-love.md), [Kurt Cobain](/entities/person-kurt-cobain.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
@@ -381,10 +387,13 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Harley Pasternak](/entities/person-harley-pasternak.md), [Kanye West](/entities/person-kanye-west.md)
 - [00:24:26](#t-00-23-52) [○] (Accusation) **Candace Owens**: ["They lied to us about Michael Jackson and the pedophilia"](/statements/statement-e60a89193e80.md)
   - About: [Michael Jackson](/entities/person-michael-jackson.md)
-- [00:25:50](#t-00-25-15) [○] (Accusation) **Bob Bryar**: ["Lou Taylor was my business manager for 18 years. We separated in September becau..."](/statements/statement-488c2abc1a03.md)
+- [00:25:51](#t-00-25-15) [✓] (Claim) **Bob Bryar**: ["Bob Bryar posted that Lou Taylor had been his business manager for 18 years and ..."](/statements/statement-cc9ef3230a4a.md)
+- [00:25:55](#t-00-25-15) [✓] (Accusation) **Bob Bryar**: ["Bob Bryar wrote that the Kardashians were the slimiest pile of garbage on the pl..."](/statements/statement-488c2abc1a03.md)
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [Bob Bryar](/entities/person-bob-bryar.md)
 - [00:26:23](#t-00-25-55) [○] (Claim) **Candace Owens**: ["Bob Bryar died in mysterious circumstances with nitrous oxide found near his bod..."](/statements/statement-3850684b6644.md)
   - About: [Bob Bryar](/entities/person-bob-bryar.md)
+- [00:26:23](#t-00-25-55) [✓] (Claim) **Candace Owens**: ["My Chemical Romance rocker Bob Bryar's cause of death ruled undetermined; nitrou..."](/statements/statement-9caf123c961a.md)
+- [00:26:23](#t-00-25-55) [○] (Claim) **Candace Owens**: ["Bob Bryar's cause of death was ruled undetermined with nitrous oxide found near ..."](/statements/statement-2ea2a1fd987b.md)
 - [00:27:42](#t-00-27-13) [○] (Accusation) **Courtney Love**: ["You need to look into the Mormon mafia which sits above Hollywood and even sits ..."](/statements/statement-00312b7eeca5.md)
   - About: [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
 - [00:28:52](#t-00-28-42) [○] (Claim) **Courtney Love**: ["Lou Taylor manages Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and she also owns ..."](/statements/statement-89caeb027e43.md)
@@ -393,6 +402,7 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
   - About: [Lou Taylor](/entities/person-lou-taylor.md), [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
 - [00:30:38](#t-00-30-07) [○] (Accusation) **Candace Owens**: ["The hippie movement was not organic. It was a psychological operation to attack ..."](/statements/statement-5c07c647dbdc.md)
   - About: [Christians](/entities/concept-christians.md)
+- [00:30:38](#t-00-30-07) [◐] (Claim) **Candace Owens**: ["the hippie movement was not organic. It was not real. It was a psychological ope..."](/statements/statement-c535f825fd35.md)
 - [00:32:02](#t-00-31-33) [○] (Accusation) **Candace Owens**: ["Rob McCoy is up here trying to launder the reputation of somebody who spent year..."](/statements/statement-2868997284d8.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md)
 - [00:32:34](#t-00-32-07) [○] (Opinion) **Candace Owens**: ["Turning Point USA Faith looks like an infiltration"](/statements/statement-08c2b9841c5a.md)

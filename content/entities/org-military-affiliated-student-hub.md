@@ -1,6 +1,6 @@
 ---
 title: "Military-Affiliated Student Hub"
-description: "Military-Affiliated Student Hub (Organizations) - 1 mention"
+description: "Military-Affiliated Student Hub (Organizations) - 2 mentions"
 id: "org-military-affiliated-student-hub"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ _Type: Organizations_
 Source: [Military-Affiliated Student Hub | Utah Valley University](https://www.uvu.edu/military-affiliated/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-military-affiliated-student-hub-t-00-15-50">2026-07-14 · 00:16:22</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-military-affiliated-student-hub-t-00-10-28">2026-07-14 · 00:10:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-military-affiliated-student-hub-t-00-15-50">2026-07-14 · 00:16:22</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,12 +38,14 @@ Source: [Military-Affiliated Student Hub | Utah Valley University](https://www.u
 <p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-military-affiliated-student-hub-t-00-15-50">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-military-affiliated-student-hub-t-00-15-50" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-military-affiliated-student-hub-t-00-10-28" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-military-affiliated-student-hub-t-00-15-50) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-military-affiliated-student-hub-t-00-10-28) | 1 |
 
 </details>
 </section>
@@ -51,13 +53,21 @@ Source: [Military-Affiliated Student Hub | Utah Valley University](https://www.u
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
 
 **[00:16:22](/episodes/ep-EtLHqDbxqks.md#ent-org-military-affiliated-student-hub-t-00-15-50)**
 > "Speaking of which, I think I forgot to mention to you guys that on the top floor of the Losee Center, of all things, it's UVU's military affiliated student hub, known as their MASH Center."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:10:28](/episodes/ep-X3VKJVJ7cN4.md#ent-org-military-affiliated-student-hub-t-00-10-28)**
+> "...itary affiliated student hub, MASH, as a part of the conspiracy."
 
 </details>
 

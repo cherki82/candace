@@ -1,6 +1,6 @@
 ---
 title: "Phoenix, Arizona"
-description: "Phoenix, Arizona (Places) - 13 mentions"
+description: "Phoenix, Arizona (Places) - 15 mentions"
 id: "gpe-phoenix-arizona"
 type: "GPE"
 aliases:
@@ -24,12 +24,12 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-phoenix-arizona-t-00-25-18">2026-02-05 · 00:25:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-phoenix-arizona-t-00-45-29">2026-05-04 · 00:45:29</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-phoenix-arizona-t-00-37-08">2026-07-20 · 00:37:08</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,7 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-34-48" style="--pulse-height:67%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00" style="--pulse-height:67%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-phoenix-arizona-t-00-41-16" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-phoenix-arizona-t-00-37-08" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-phoenix-arizona-t-00-34-48) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-phoenix-arizona-t-00-21-00) | 2 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-phoenix-arizona-t-00-41-16) | 3 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-phoenix-arizona-t-00-37-08) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:37:08](/episodes/ep-N4uM8Jdr410.md#ent-gpe-phoenix-arizona-t-00-37-08)**
+> "...?' as opposed to returning to Phoenix, where I live. And I stayed in Utah that night."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (3 mentions)</summary>
@@ -157,12 +167,31 @@ Source: [City of Phoenix](https://www.phoenix.gov/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Residence Of (1)</summary>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:37:08](/episodes/ep-N4uM8Jdr410.md#t-00-37-08): “—interpreted as, 'Did you stay in Utah that night?' as opposed to returning to Phoenix, where I live. And I stayed in Utah that night.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Dream City Church](/entities/org-dream-city-church.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:45:29](/episodes/ep-uC_GjKU8rs8.md#t-00-45-29): “The Dream City Church they hosted Trump (Donald Trump) at in Phoenix. That's what I'm referring to.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:37:08](/episodes/ep-N4uM8Jdr410.md#t-00-37-08): “—interpreted as, 'Did you stay in Utah that night?' as opposed to returning to Phoenix, where I live. And I stayed in Utah that night.”
 
 </details>
 

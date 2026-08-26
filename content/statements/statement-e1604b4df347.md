@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:21:16](/episodes/ep-_dRaEO47-co.md#t-00-20-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1276);return false;">Play</a>
 
-> Charlie was going through a spiritual transformation. I do not think it; I know it
+> And I think, in the end, Charlie (Charlie Kirk) was going through a spiritual transformation. I don't think it; I know it.
 
 ## Verification
 

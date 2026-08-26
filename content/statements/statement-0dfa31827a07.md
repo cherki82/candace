@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:10:01](/episodes/ep-MUA9ebCF4Ow.md#t-00-09-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(601);return false;">Play</a>
 
-> I was mad thinking about the effort by the neocons in the United States to draw us into another forever war with Iran...I said, 'You know, probably not going to talk about that. I'm not going to torture you. I know your donors hate this when I say that.' And he looked at me—I'll never forget it—and said, 'Go all the way. Do it.'
+> And Tucker (Tucker Carlson) was like, "No, Charlie (Charlie Kirk) asked me explicitly in July to go on stage and to go after Israel, trying to drag us into the Iran war."
 
 ## Verification
 

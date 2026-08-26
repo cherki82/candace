@@ -30,7 +30,7 @@ type: "accusation"
 **Timestamp:** [00:03:09](/episodes/ep-581dILVcEE4.md#t-00-02-51) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(189);return false;">Play</a>
 
-> Erin Wexler—now this is the girl that was at the now infamous Hamptons retreat—She wrote this: 'Candace started her career by doxing teenagers. Old habits die hard.'
+> Erin Wexler—now this is the girl that was at the now infamous Hamptons retreat— She wrote this: "Candace (Candace Owens) started her career by doxing teenagers." "Old habits die hard."
 
 ## Verification
 

@@ -1,14 +1,14 @@
 ---
 id: "WoXd4oLwd3w"
 title: "REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348"
-description: "REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 - 97 entities, 16 events, 0 claims"
+description: "REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 - 97 entities, 16 events, 20 factual claims"
 published: "2026-06-13"
 youtube_url: "https://www.youtube.com/watch?v=WoXd4oLwd3w"
 ---
 
 **Published:** 2026-06-13 | [Watch on YouTube](https://www.youtube.com/watch?v=WoXd4oLwd3w)
 
-**Stats:** 97 entities | 16 events | 0 claims
+**Stats:** 97 entities | 16 events | 20 factual claims
 
 ---
 

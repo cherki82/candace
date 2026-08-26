@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:19:26](/episodes/ep-sImMM04XdWY.md#t-00-18-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1166);return false;">Play</a>
 
-> in very early August; we know that that is when Turning Point is beginning to scout this location for their events. The school is telling them, 'This is not a great place for you to host this because there's no traffic control here.' Turning Point employees insist that it is the best location
+> Then what we have is in very early August; we know that that is when Turning Point is beginning to scout this location for their events. The school is telling them, "This is not a great place for you to host this because there's no traffic control here." Turning Point employees insist that it is the best location.
 
 ## Verification
 

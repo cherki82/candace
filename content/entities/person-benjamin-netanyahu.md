@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 364 mentions"
+description: "Benjamin Netanyahu (People) - 375 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -29,10 +29,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41">2026-08-14 · 02:52:41</a></strong></div>
-<div><span>Episodes</span><strong>83</strong></div>
-<div><span>Mentions</span><strong>364</strong></div>
-<div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>108</strong></div>
+<div><span>Episodes</span><strong>85</strong></div>
+<div><span>Mentions</span><strong>375</strong></div>
+<div><span>Statements by</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>123</strong></div>
 <div><span>Relationships</span><strong>53</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -123,6 +123,8 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-benjamin-netanyahu-t-00-08-50" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-benjamin-netanyahu-t-00-42-23" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-benjamin-netanyahu-t-01-07-50" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-39-11" style="--pulse-height:32%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 9 mentions" title="2026-07-14 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-benjamin-netanyahu-t-00-50-18" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -211,6 +213,8 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-benjamin-netanyahu-t-00-08-50) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-benjamin-netanyahu-t-00-42-23) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-benjamin-netanyahu-t-01-07-50) | 4 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-39-11) | 9 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-benjamin-netanyahu-t-00-50-18) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32) | 3 |
 
 </details>
@@ -219,7 +223,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (364)</strong></summary>
+<summary><strong class="section-title">Raw mentions (375)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -232,6 +236,17 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[02:52:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41)**
 > "...ld take a supporter like owen benjamin he called you bad names and one and called your h..."
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:50:18](/episodes/ep-N4uM8Jdr410.md#ent-person-benjamin-netanyahu-t-00-50-18)**
+> "How far back? Generational. It is generational. We got Bibi (Benjamin Netanyahu), we got Romney (Mitt Romney). There's a lot of people in the mix here."
+
+**[00:00:26](/episodes/ep-N4uM8Jdr410.md#ent-person-benjamin-netanyahu-t-00-00-01)**
+> "...r Ben-Gvir) rooting for them, Bibi Netanyahu. In general, we hate psychopathic genoc..."
 
 </details>
 
@@ -249,6 +264,38 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[01:14:56](/episodes/ep-EtLHqDbxqks.md#ent-person-benjamin-netanyahu-t-01-14-40)**
 > "...ting with Bobo, I mean, Bibi (Benjamin Netanyahu), and couldn't be negotiated into supporting Isra..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (9 mentions)</summary>
+
+**[00:39:37](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-39-11)**
+> "...still trying to protect Bibi (Benjamin Netanyahu), but in the process admitted that I was telling ..."
+
+**[00:40:01](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-39-47)**
+> "And she conceded that, yes, Benjamin Netanyahu did call at Bill Ackman's house. Her reason for B..."
+
+**[00:40:31](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-40-31)**
+> "...mmunicated to me on the Bibi (Benjamin Netanyahu) front—that's all he said—but he also communicate..."
+
+**[00:40:49](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-40-31)**
+> "So how did I know that Bibi (Benjamin Netanyahu) called? If I'm not telling the truth, how did I ..."
+
+**[00:40:55](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-40-31)**
+> "...harlie declined to have Bibi (Benjamin Netanyahu) on, which demonstrates the state of Charlie's mi..."
+
+**[00:42:09](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-41-49)**
+> "..., we politely declined having Netanyahu on the show. So what? And yes, months later, CK t..."
+
+**[00:42:23](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-42-23)**
+> "... her next ridiculous leap and Netanyahu offered to take TPSA to the next level and that I..."
+
+**[00:43:27](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-43-27)**
+> "...th? Was it weird for you when Benjamin Netanyahu was pretending that Charlie had no issues with hi..."
+
+**[00:44:49](/episodes/ep-X3VKJVJ7cN4.md#ent-person-benjamin-netanyahu-t-00-44-49)**
+> "You did tell me that Benjamin Netanyahu called and offered to take Turning Point to Next ..."
 
 </details>
 
@@ -1108,19 +1155,19 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (5 mentions)</summary>
 
 **[00:22:11](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-21-56)**
-> "...ntially coming on as a donor for Turning Point USA. We have what I do think is a big deal, which is Benjamin Netanyahu calling Charlie (Charlie Kirk) and offering to take Turning Point to the next level. And that, my f..."
+> "what I do think is a big deal, which is Benjamin Netanyahu (Benjamin Netanyahu) calling Charlie (Charlie Kirk) and offering to take Turning Point to the next level."
 
 **[00:22:42](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-22-38)**
-> "...ing Point to the next level." In exchange for what and through who? Because I'm going to guess that Benjamin Netanyahu is not just going to write a check signed by Benjamin Netanyahu and just do that as an act of chari..."
+> "Because I'm going to guess that Benjamin Netanyahu (Benjamin Netanyahu) is not just going to write a check signed by Benjamin Netanyahu (Benjamin Netanyahu) and just do that as an act of charity."
 
 **[00:25:55](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-25-29)**
-> "...udit— and I want to be clear, this part is speculation—because something that he maybe learned when Benjamin Netanyahu asked to take it to the next level made him think, "Maybe I should look through Turning Point's fin..."
+> "when Benjamin Netanyahu (Benjamin Netanyahu) asked to take it to the next level made him think, "Maybe I should look through Turning Point's finances—like, where is this money coming in from and where is it going?""
 
 **[00:33:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-33-24)**
-> "...ey had mentioned that specifically Andrew had told them that when Charlie (Charlie Kirk) said no to Benjamin Netanyahu, he lost out on millions. Now, I'm going to say allegedly because this is a tip, but I have that ti..."
+> "Andrew (Andrew Kolvet) had told them that when Charlie (Charlie Kirk) said no to Benjamin Netanyahu (Benjamin Netanyahu), he lost out on millions."
 
 **[00:58:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-57-57)**
-> "...es. You know—America lost its way when we decided that we would do anything for money—which is what Benjamin Netanyahu said on camera. You know—"America is something you can move very easily with money." Not this Ameri..."
+> "You know—America lost its way when we decided that we would do anything for money—which is what Benjamin Netanyahu (Benjamin Netanyahu) said on camera."
 
 </details>
 
@@ -1185,7 +1232,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:43:55](/episodes/ep-YaZfwLQ7vrI.md#ent-person-benjamin-netanyahu-t-00-43-42)**
-> "... I typically think of people who say like, "Oh, you're going to get into heaven if you defend Bibi (Benjamin Netanyahu)." It says it right here in the Bible that if you don't unfollow Candace (Candace Owens) Owens, you..."
+> "Now when I think of a cult, I typically think of people who say like, "Oh, you're going to get into heaven if you defend Bibi (Benjamin Netanyahu).""
 
 </details>
 
@@ -1287,7 +1334,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
 **[00:39:38](/episodes/ep-iHav0PPzUz8.md#ent-person-benjamin-netanyahu-t-00-39-12)**
-> "...n the Hamptons. What was it—August 5th and 6th? Pressing him on the things that he said about Bibi (Benjamin Netanyahu) and Yahoo. He was hosting people to have that discussion. But, you know— I guess for some Zionists..."
+> "Pressing him on the things that he said about Bibi (Benjamin Netanyahu)."
 
 </details>
 
@@ -1379,13 +1426,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > "...of these independent voices who are winning because they're telling the truth? So Deborah Lee asked Benjamin Netanyahu specifically about Charlie (Charlie Kirk)'s assassination and the potential loss of evangelical sup..."
 
 **[00:27:05](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-26-38)**
-> "...pissed me off. Okay. Take a listen to what Deborah asks. (Following question is from Deborah Lee to Benjamin Netanyahu.) SPEAKER_4: So something I would like to raise, which was actually my first published paper, was h..."
+> "Take a listen to what Deborah asks. (Following question is from Deborah Lee to Benjamin Netanyahu.)"
 
 **[00:28:13](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-27-51)**
 > "...ace Owens). Tucker (Tucker Carlson) and Candace (Candace Owens), over and over again. But listen to Benjamin Netanyahu's response, because prepare yourself. What he is saying is that they are about to launch a psycholo..."
 
 **[00:28:23](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-27-51)**
-> "...about to launch a psychological war on Americans. Take a listen to what he says. (Following clip is Benjamin Netanyahu speaking.) SPEAKER_5: Christian influencers. SPEAKER_5: He said, he talked about the woke right. SP..."
+> "Take a listen to what he says. (Following clip is Benjamin Netanyahu speaking.)"
 
 **[00:32:17](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-32-10)**
 > "...strikes. You can't say anything bad right now about Israel on TikTok. And this is because it's what Benjamin Netanyahu as well, right? They want to censor speech, which was something that Charlie (Charlie Kirk) was ver..."
@@ -1435,7 +1482,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 **[00:37:56](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-37-27)**
 > "...ind of a working around it, right? Do I think that in the Turning Point accounts it would have said Benjamin Netanyahu wrote, you know, wants this money to go to...? Probably not. Do I know for a fact that there are fo..."
 
-**[00:53:48](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-53-14)**
+**[00:53:48](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-53-48)**
 > "...n the genocide and Netanyahu (Benjamin Netanyahu), however, are the things that changed before his..."
 
 </details>
@@ -1973,10 +2020,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Prime Minister Of (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:57](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “All these people are scoring interviews with the prime minister of Israel, the sitting prime minister of Israel.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:41:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-05): “That's the prime minister of Israel.”
 
 </details>
 
@@ -2071,10 +2119,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Israel](/entities/gpe-israel.md)** has prime minister this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:30:40](/episodes/ep-eMtjzXkQrsU.md#t-00-30-00): “The Ministry of Foreign Affairs. Yeah, you know who would be in charge of that? Bibi (Benjamin Netanyahu). He's the Prime Minister of Israel.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:57](/episodes/ep-MhakwJxK-Zk.md#t-00-03-21): “All these people are scoring interviews with the prime minister of Israel, the sitting prime minister of Israel.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:41:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-05): “That's the prime minister of Israel.”
 
 </details>
 
@@ -2197,7 +2246,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Benjamin Netanyahu (17)</strong></summary>
+<summary><strong class="section-title">Statements by Benjamin Netanyahu (25)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -2233,7 +2282,16 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:58:08](/episodes/ep-a-e7HC6SeK8.md#t-00-57-57) [◐] (Claim) ["Benjamin Netanyahu said on camera, America is something you can move very easily..."](/statements/statement-b5bc9a238af0.md)
+
+</details>
+
+<details>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2)</summary>
+
+- [00:36:19](/episodes/ep-aDlhjfW6hz8.md#t-00-36-12) [○] (Claim) ["Benjamin Netanyahu said that he was passing laws against speech in America. That..."](/statements/statement-31f5f2016c63.md)
 
 - [00:44:37](/episodes/ep-aDlhjfW6hz8.md#t-00-44-23) [○] (Claim) ["Benjamin Netanyahu said on record that he was working with the government of Ame..."](/statements/statement-be7df0c04a1d.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
@@ -2241,7 +2299,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (8)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (12)</summary>
 
 - [00:00:06](/episodes/ep-sreYYcID-QY.md#t-00-00-00) [○] (Claim) ["Benjamin Netanyahu denied murdering Charlie Kirk"](/statements/statement-6f5fbb8ec8cb.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
@@ -2249,13 +2307,21 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 - [00:33:12](/episodes/ep-sreYYcID-QY.md#t-00-33-10) [○] (Claim) ["Somebody has fabricated a monstrous big lie that Israel had something to do with..."](/statements/statement-768519578741.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
+- [00:33:19](/episodes/ep-sreYYcID-QY.md#t-00-33-10) [✓] (Claim) ["somebody has fabricated a monstrous big lie that Israel had something to do with..."](/statements/statement-6a237dc8504e.md)
+
+- [00:33:27](/episodes/ep-sreYYcID-QY.md#t-00-33-10) [✓] (Claim) ["Israel had something to do with Charlie Kirk's horrific murder. This is insane. ..."](/statements/statement-b6a0e70ec35a.md)
+
 - [00:33:37](/episodes/ep-sreYYcID-QY.md#t-00-33-10) [○] (Claim) ["Somebody has fabricated a monstrous big lie that Israel had something to do with..."](/statements/statement-a6bbdc9f7b90.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:33:42](/episodes/ep-sreYYcID-QY.md#t-00-33-10) [✓] (Claim) ["Charlie loved Israel. He loved the Jewish people. He told me so in a letter that..."](/statements/statement-78ebbf4726a0.md)
+
+- [00:33:46](/episodes/ep-sreYYcID-QY.md#t-00-33-10) [✓] (Claim) ["He told me so in a letter that he sent me just a few months ago. “One of my grea..."](/statements/statement-8e70c0851651.md)
 
 - [00:34:24](/episodes/ep-sreYYcID-QY.md#t-00-33-49) [○] (Claim) ["Charlie Kirk sent me a letter just a few months ago saying 'One of my greatest j..."](/statements/statement-e79521697bf3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:34:33](/episodes/ep-sreYYcID-QY.md#t-00-33-49) [○] (Claim) ["A few weeks before his death, I spoke to Charlie Kirk and invited him to visit I..."](/statements/statement-4db88c8e215f.md)
+- [00:34:33](/episodes/ep-sreYYcID-QY.md#t-00-33-49) [✓] (Claim) ["A few weeks before his death, I spoke to Charlie Kirk and invited him to visit I..."](/statements/statement-4db88c8e215f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:34:36](/episodes/ep-sreYYcID-QY.md#t-00-34-35) [○] (Accusation) ["Some are peddling these disgusting rumors—perhaps out of obsession, perhaps with..."](/statements/statement-d1343ba869f4.md)
@@ -2270,20 +2336,30 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1)</summary>
+
+- [00:44:06](/episodes/ep-q7f8r-THr84.md#t-00-43-40) [○] (Accusation) ["there's no reason for Benjamin Netanyahu to have lied, as I've said many times"](/statements/statement-01a905bf7ff9.md)
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3)</summary>
+
+- [00:07:19](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17) [✓] (Claim) ["Netanyahu said his son had lunch with Charlie and Erika Kirk during Charlie Kirk..."](/statements/statement-ae0fb91d7b8b.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:07:40](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17) [○] (Citation) ["Benjamin Netanyahu wrote me a letter on May 2nd this year saying one of my great..."](/statements/statement-be133f7096af.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:08:02](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17) [○] (Claim) ["I called him, and I spoke to him, and I said, please come to Israel. I invited h..."](/statements/statement-bf1214ed8432.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+- [00:08:02](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17) [✓] (Claim) ["Benjamin Netanyahu said he had called Charlie Kirk and invited him to Israel sho..."](/statements/statement-bf1214ed8432.md)
+  - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (108)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (123)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2)</summary>
@@ -2293,6 +2369,26 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 - [01:08:39](/episodes/ep-EtLHqDbxqks.md#t-01-08-31) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Erika Kirk acknowledged in a private conversation t..."](/statements/statement-eaf83590e5e9.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5)</summary>
+
+- [00:40:01](/episodes/ep-X3VKJVJ7cN4.md#t-00-39-47) (Claim) **Candace Owens** (via paraphrase): ["Owens said Andrew Kolvet told her that Benjamin Netanyahu offered to t..."](/statements/statement-17d21fac6aca.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:01](/episodes/ep-X3VKJVJ7cN4.md#t-00-39-47) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk conceded that Netanyahu called at Bill Ackman's ..."](/statements/statement-01d4db3b682c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:31](/episodes/ep-X3VKJVJ7cN4.md#t-00-40-31) (Claim) **Candace Owens** (via paraphrase): ["Owens said Kolvet told her that Kirk had declined to have Netanyahu on..."](/statements/statement-63d48560d4da.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-49) (Claim) **Andrew Kolvet** (via quoted tweet): ["Kolvet said Turning Point USA politely declined having Netanyahu on Ki..."](/statements/statement-6ab8a4f8c585.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:42:23](/episodes/ep-X3VKJVJ7cN4.md#t-00-42-23) (Claim) **Andrew Kolvet** (via quoted tweet): ["Kolvet denied that Netanyahu offered to take Turning Point USA to the ..."](/statements/statement-d2c62ee0b38f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
@@ -2619,6 +2715,30 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:22:11](/episodes/ep-a-e7HC6SeK8.md#t-00-21-56) (Claim) **Candace Owens**: ["Benjamin Netanyahu calling Charlie Kirk and offering to take Turning P..."](/statements/statement-f3c564c3421e.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
+
+- [00:42:45](/episodes/ep-581dILVcEE4.md#t-00-42-16) (Claim) **Candace Owens**: ["Benjamin Netanyahu had a relationship with Bob Coy from the Fort Laude..."](/statements/statement-edd63ae5246d.md)
+  - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md), [Bob Coy](/entities/person-bob-coy.md)
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1)</summary>
+
+- [00:20:01](/episodes/ep-r1PS67aRmcA.md#t-00-19-31) (Claim) **Candace Owens**: ["Ben Shapiro sat down with Benjamin Netanyahu last month."](/statements/statement-c9aae75e239e.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</details>
+
+<details>
 <summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1)</summary>
 
 - [00:50:37](/episodes/ep-Qfwr08Ebczo.md#t-00-50-14) (Claim) **Candace Owens**: ["TikTok is hitting videos talking about the Egyptian planes, which is s..."](/statements/statement-3d124fcd364b.md)
@@ -2654,7 +2774,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details>
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>
 
-- [00:01:30](/episodes/ep-YA1FxrDWNIo.md#t-00-01-30) (Accusation) **Candace Owens**: ["Benjamin Netanyahu, with maybe a little help from Turning Point USA, i..."](/statements/statement-bf7c75cc8265.md)
+- [00:01:30](/episodes/ep-YA1FxrDWNIo.md#t-00-01-30) (Claim) **Candace Owens**: ["Benjamin Netanyahu, perhaps with help from Turning Point USA, was rele..."](/statements/statement-5143b742a16b.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
@@ -2671,7 +2791,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4)</summary>
 
-- [00:40:05](/episodes/ep-ja26iltROkM.md#t-00-39-59) (Opinion) **Charlie Kirk** (via quoted speech): ["If you call everyone an anti-Semite for not taking a puritanical view ..."](/statements/statement-46d3e292d339.md)
+- [00:37:35](/episodes/ep-ja26iltROkM.md#t-00-37-23) (Opinion) **Charlie Kirk** (via quoted speech): ["If you call everyone an anti-Semite for not taking a puritanical view ..."](/statements/statement-46d3e292d339.md)
 
 - [00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53) (Claim) **Candace Owens**: ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpasto..."](/statements/statement-1585cafed12f.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -2693,14 +2813,14 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 - [00:36:16](/episodes/ep-aDlhjfW6hz8.md#t-00-36-12) (Citation) **Candace Owens** (via paraphrase): ["Benjamin Netanyahu said on record that he was working with the governm..."](/statements/statement-57f59352c97c.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
-- [00:36:39](/episodes/ep-aDlhjfW6hz8.md#t-00-36-12) (Opinion) **Candace Owens**: ["There's no question Trump is occupied by Zionists. He's completely imp..."](/statements/statement-03d07c74ddfa.md)
+- [00:36:23](/episodes/ep-aDlhjfW6hz8.md#t-00-36-12) (Opinion) **Candace Owens**: ["Trump is occupied by Zionists and is completely powerless to say anyth..."](/statements/statement-f7180c7f382a.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
+
+- [00:36:39](/episodes/ep-aDlhjfW6hz8.md#t-00-36-12) (Opinion) **Candace Owens**: ["There's no question Trump is occupied by Zionists. He's completely imp..."](/statements/statement-03d07c74ddfa.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 - [00:40:47](/episodes/ep-aDlhjfW6hz8.md#t-00-40-16) (Accusation) **Candace Owens**: ["Benjamin Netanyahu is spending a lot of money to attack Candace Owens ..."](/statements/statement-6e49276bdd27.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:43:07](/episodes/ep-aDlhjfW6hz8.md#t-00-43-02) (Opinion) **Candace Owens**: ["Trump is occupied by Zionists and is completely powerless to say anyth..."](/statements/statement-f7180c7f382a.md)
-  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
 
 - [00:44:37](/episodes/ep-aDlhjfW6hz8.md#t-00-44-23) (Claim) **Benjamin Netanyahu** (via quoted speech): ["Benjamin Netanyahu said on record that he was working with the governm..."](/statements/statement-be7df0c04a1d.md)
   - Also about: [Israel](/entities/gpe-israel.md)
@@ -2708,7 +2828,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (11)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (12)</summary>
 
 - [00:00:06](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Claim) **Candace Owens**: ["Benjamin Netanyahu is again denying that he murdered Charlie Kirk"](/statements/statement-22f427641aa0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -2717,6 +2837,9 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:00:06](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Opinion) **Candace Owens**: ["Benjamin Netanyahu is again denying that he murdered Charlie Kirk desp..."](/statements/statement-be0af7cad0e7.md)
+
+- [00:33:23](/episodes/ep-sreYYcID-QY.md#t-00-33-10) (Claim) **Candace Owens**: ["Benjamin Netanyahu made a second public statement denying involvement ..."](/statements/statement-6dd27d6da5b5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:34:46](/episodes/ep-sreYYcID-QY.md#t-00-34-35) (Citation) **Benjamin Netanyahu** (via quoted speech): ["Charlie Kirk sent Netanyahu a letter saying 'One of my greatest joys a..."](/statements/statement-00352ce5a680.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -2741,9 +2864,12 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (5)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (7)</summary>
 
 - [00:43:13](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) (Accusation) **Tucker Carlson** (via quoted speech): ["Tucker Carlson was shocked and sickened by Benjamin Netanyahu's ghouli..."](/statements/statement-c7fb4aa3da2f.md)
+
+- [00:43:21](/episodes/ep-2WEHTk0Xewg.md#t-00-43-13) (Opinion) **Tucker Carlson** (via quoted speech): ["Benjamin Netanyahu lied about his relationship with Charlie Kirk and t..."](/statements/statement-20e48e5d4780.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:44:02](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) (Accusation) **Tucker Carlson** (via quoted speech): ["Benjamin Netanyahu tried to hijack Charlie Kirk's memory and use it fo..."](/statements/statement-f25d19d5a641.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -2756,10 +2882,15 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 - [00:55:58](/episodes/ep-2WEHTk0Xewg.md#t-00-55-27) (Accusation) **Candace Owens** (via paraphrase): ["A source told Candace that 150 million dollars was spent on an operati..."](/statements/statement-fe1b7d2be712.md)
 
+- [00:55:58](/episodes/ep-2WEHTk0Xewg.md#t-00-55-27) (Claim) **Candace Owens**: ["A source claims 50 million was spent on attacks against Tucker Carlson..."](/statements/statement-65468093a0be.md)
+
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (5)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (9)</summary>
+
+- [00:07:19](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17) (Claim) **Benjamin Netanyahu** (via quoted speech): ["Netanyahu said his son had lunch with Charlie and Erika Kirk during Ch..."](/statements/statement-ae0fb91d7b8b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:10:35](/episodes/ep-czVBmqZP6Ss.md#t-00-10-27) (Accusation) **Candace Owens**: ["Benjamin Netanyahu is severely misrepresenting the contents of the May..."](/statements/statement-4cc7249129ce.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
@@ -2770,7 +2901,16 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 - [00:16:14](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45) (Accusation) **Candace Owens**: ["It was at this time that Benjamin Netanyahu was called and Charlie was..."](/statements/statement-11d2f660c33e.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
+- [00:16:28](/episodes/ep-czVBmqZP6Ss.md#t-00-15-45) (Claim) **Candace Owens**: ["It was at this time that Benjamin Netanyahu was called and Charlie was..."](/statements/statement-79c5d18157f7.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:28](/episodes/ep-czVBmqZP6Ss.md#t-00-16-28) (Claim) **Candace Owens**: ["Benjamin Netanyahu called Charlie Kirk and invited him to Israel after..."](/statements/statement-6ae6a11343b1.md)
+  - Also about: [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 - [00:17:23](/episodes/ep-czVBmqZP6Ss.md#t-00-17-05) (Claim) **Candace Owens**: ["Charlie was offered a ton of money at the Hamptons meeting. Benjamin w..."](/statements/statement-b48675b83fd5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:40](/episodes/ep-czVBmqZP6Ss.md#t-00-17-05) (Claim) **Candace Owens** (via paraphrase): ["Owens said her sources showed that Charlie Kirk declined Benjamin Neta..."](/statements/statement-2ef0d7cc5f4f.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:18:15](/episodes/ep-czVBmqZP6Ss.md#t-00-17-49) (Claim) **Candace Owens**: ["Charlie said no to Benjamin Netanyahu's invitation to Israel"](/statements/statement-027a5753e1b3.md)

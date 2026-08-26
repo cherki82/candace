@@ -11,7 +11,7 @@ object: "org-paleovalley"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Paleovalley](/entities/org-paleovalley)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE)**
 
@@ -24,6 +24,10 @@ object: "org-paleovalley"
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 
 - [01:09:43](/episodes/ep-YeEtS7nix3o#t-01-09-43): _Paleo Valley is still with us. It is the one snack that you'll always find in my bag._
+
+**[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
+
+- [00:41:27](/episodes/ep-puuMVxEu5NU#t-00-41-27): _All right, you guys, one snack that you will always find in my bag is Paleo Valley beef sticks_
 
 ### Related
 

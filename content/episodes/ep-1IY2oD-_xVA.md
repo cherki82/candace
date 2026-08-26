@@ -1,14 +1,14 @@
 ---
 id: "1IY2oD-_xVA"
 title: "Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2"
-description: "Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 - 136 entities, 16 events, 0 claims"
+description: "Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 - 136 entities, 16 events, 47 factual claims"
 published: "2026-02-27"
 youtube_url: "https://www.youtube.com/watch?v=1IY2oD-_xVA"
 ---
 
 **Published:** 2026-02-27 | [Watch on YouTube](https://www.youtube.com/watch?v=1IY2oD-_xVA)
 
-**Stats:** 136 entities | 16 events | 0 claims
+**Stats:** 136 entities | 16 events | 47 factual claims
 
 ---
 

@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1563);return false;">Play</a>
 
-> Oh, you're going to quote Bannon who consulted for Epstein?
+> Oh, you're going to quote Bannon (Steve Bannon) who consulted for Epstein?
 
 ## Verification
 

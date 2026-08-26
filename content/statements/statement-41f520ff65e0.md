@@ -4,9 +4,10 @@ description: "\"Candace Owens said the messages attributed to Tyler Robinson and
 statement_id: "statement-41f520ff65e0"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The apparent reference is to Cellebrite. Cellebrite is an Israeli digital-forensics company, but its current official headquarters address is Petah Tikva, not Tel Aviv. Publicly accessible hearing material reviewed did not independently establish that Cellebrite performed the specific message extraction, so the company-location portion is broadly right but imprecise and the case-specific portion remains unconfirmed.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Cellebrite Investor FAQ: headquarters location](https://investors.cellebrite.com/resources/investor-faqs/)
+
+*Verified: 2026-08-26T08:01:21.427285*
 
 ---
 

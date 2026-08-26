@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 250 mentions"
+description: "Nimi Skincare (Organizations) - 266 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -40,9 +40,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-nimi-skincare-t-00-51-30">2025-09-18 · 00:51:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-nimi-skincare-t-00-51-15">2026-06-26 · 00:51:15</a></strong></div>
-<div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>250</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-nimi-skincare-t-00-44-54">2026-07-20 · 00:45:20</a></strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>266</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -61,8 +61,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-c5BcKF91iec.md#ent-org-nimi-skincare-t-00-47-19" style="--pulse-height:56%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-nimi-skincare-t-01-02-49" style="--pulse-height:11%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-51-46" style="--pulse-height:44%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-nimi-skincare-t-00-57-27" style="--pulse-height:44%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 4 mentions" title="2025-10-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-nimi-skincare-t-00-57-27" style="--pulse-height:56%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 5 mentions" title="2025-10-31 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-04" style="--pulse-height:44%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-nimi-skincare-t-00-35-24" style="--pulse-height:22%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-nimi-skincare-t-00-54-11" style="--pulse-height:67%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-nimi-skincare-t-00-35-53" style="--pulse-height:56%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
@@ -109,6 +110,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-nimi-skincare-t-00-33-50" style="--pulse-height:33%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 3 mentions" title="2026-06-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-nimi-skincare-t-00-01-45" style="--pulse-height:89%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 8 mentions" title="2026-06-26 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-nimi-skincare-t-00-37-33" style="--pulse-height:44%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-26-44" style="--pulse-height:33%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-nimi-skincare-t-00-28-23" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-nimi-skincare-t-00-44-54" style="--pulse-height:56%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 5 mentions" title="2026-07-20 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,8 +126,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-nimi-skincare-t-00-47-19) | 5 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-nimi-skincare-t-01-02-49) | 1 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-nimi-skincare-t-00-51-46) | 4 |
-| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-nimi-skincare-t-00-57-27) | 4 |
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-nimi-skincare-t-00-57-27) | 5 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09) | 3 |
+| 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-04) | 4 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-nimi-skincare-t-00-35-24) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-nimi-skincare-t-00-54-11) | 6 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-nimi-skincare-t-00-35-53) | 5 |
@@ -170,6 +175,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-nimi-skincare-t-00-33-50) | 3 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-nimi-skincare-t-00-01-45) | 8 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-nimi-skincare-t-00-37-33) | 4 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-44) | 3 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-nimi-skincare-t-00-28-23) | 3 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-nimi-skincare-t-00-44-54) | 5 |
 
 </details>
 </section>
@@ -177,7 +185,55 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (250)</strong></summary>
+<summary><strong class="section-title">Raw mentions (266)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (5 mentions)</summary>
+
+**[00:45:11](/episodes/ep-N4uM8Jdr410.md#ent-org-nimi-skincare-t-00-44-54)**
+> "So if you've been curious about Tallow skincare, now is the perfect time to try it. Visit NimiSkincare.com to save an additional 10% off your order with promo code Candace10 at checkout."
+
+**[00:44:11](/episodes/ep-N4uM8Jdr410.md#ent-org-nimi-skincare-t-00-44-11)**
+> "...o have to tell you guys about Nimi Skincare. You know I love them. What makes their skin prod..."
+
+**[00:44:26](/episodes/ep-N4uM8Jdr410.md#ent-org-nimi-skincare-t-00-44-11)**
+> "...ll tallow is created equally. Nimi has focused on sourcing exceptional ingredients a..."
+
+**[00:44:35](/episodes/ep-N4uM8Jdr410.md#ent-org-nimi-skincare-t-00-44-11)**
+> "That's why I've been using Nimi's Sunshine Tallow Cream and their Bison Tallow Ba..."
+
+**[00:45:20](/episodes/ep-N4uM8Jdr410.md#ent-org-nimi-skincare-t-00-44-54)**
+> "Again, that's NimiSkincare.com promo code Candace10 at checkout."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[00:28:23](/episodes/ep-mLvJqdxS-FY.md#ent-org-nimi-skincare-t-00-28-23)**
+> "...lso, I've told you guys about Nimi skincare. You know, I love them. They make the best tallow..."
+
+**[00:28:38](/episodes/ep-mLvJqdxS-FY.md#ent-org-nimi-skincare-t-00-28-23)**
+> "...ll tallow is created equally. Nimi has focused on sourcing exceptional ingredients a..."
+
+**[00:28:47](/episodes/ep-mLvJqdxS-FY.md#ent-org-nimi-skincare-t-00-28-23)**
+> "That's why I've been using Nimi's Sunshine Tallow Cream and their Buzzin Tallow B..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3 mentions)</summary>
+
+**[00:26:44](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-44)**
+> "...a break. All right, you guys, Nimi makes the best tallow skincare products I've ever..."
+
+**[00:27:00](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-44)**
+> "...ll tallow is created equally. Nimi has focused on sourcing exceptional ingredients a..."
+
+**[00:27:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-44)**
+> "That's why I've been using Nimi's Sunshine Tallow Cream and their Buzzin Tallow B..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (8 mentions)</summary>
@@ -1016,6 +1072,23 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 </details>
 
 <details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (4 mentions)</summary>
+
+**[00:50:04](/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-04)**
+> "...ve heard me speak a lot about Nimi Skincare."
+
+**[00:50:11](/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-04)**
+> "...h is why I am so excited that Nimi Skincare now has a complete body line as well."
+
+**[00:50:36](/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-04)**
+> "...ke their facial skincare, the Nimi body line is made with clean, clinically proven i..."
+
+**[00:50:55](/episodes/ep-yAIb-NuUh_U.md#ent-org-nimi-skincare-t-00-50-46)**
+> "Go to nimiSkincare.com, and you can use my code CANDACE10 at checkout, a..."
+
+</details>
+
+<details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
 
 **[00:53:38](/episodes/ep-vwG1juDCQZQ.md#ent-org-nimi-skincare-t-00-53-09)**
@@ -1030,7 +1103,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (5 mentions)</summary>
 
 **[00:58:05](/episodes/ep-YFmRH8p5lt0.md#ent-org-nimi-skincare-t-00-57-27)**
 > "...urse, I always tell you about Nimi Skincare."
@@ -1043,6 +1116,9 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 **[00:58:40](/episodes/ep-YFmRH8p5lt0.md#ent-org-nimi-skincare-t-00-58-11)**
 > "Nimi has two products from their tallow line that you ..."
+
+**[00:59:23](/episodes/ep-YFmRH8p5lt0.md#ent-org-nimi-skincare-t-00-58-56)**
+> "... you'd like to order, head to nemiskincare.com, explore their tallow line, and use my code CANDA..."
 
 </details>
 
@@ -1215,7 +1291,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#t-00-00-00): “[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -1232,6 +1308,8 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [Candace x Hunter Biden: The Interview @ 00:28:14](/episodes/ep-Ux1kzgQxkws.md#t-00-27-58): “check out Nimi Skin Care today at nimiskincare.com and use code Candace10 at checkout for a special discount.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:01:45](/episodes/ep-IqHsl7d2dos.md#t-00-01-45): “Foremost, quick shout out to Nimi Skin Care for supporting today's episode. I'm very intentional about the brands that I work with and Nimi is one that I actually use. Clean, simple skin care made here in America.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:37:47](/episodes/ep-a2bZf4fic10.md#t-00-37-33): “I also want to remind you guys about Neemi Skin Care because Neemi makes the best tallow skincare products that I've ever used.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:27:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-44): “That's why I've been using Nimi's Sunshine Tallow Cream and their Buzzin Tallow Balm.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:44:11](/episodes/ep-N4uM8Jdr410.md#t-00-44-11): “I also have to tell you guys about Nimi Skincare. You know I love them. What makes their skin products so great is that their tallow comes from grass-fed, grass-finished cattle.”
 
 </details>
 
@@ -1241,7 +1319,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#t-00-00-00): “[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -1258,6 +1336,8 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [Candace x Hunter Biden: The Interview @ 00:28:14](/episodes/ep-Ux1kzgQxkws.md#t-00-27-58): “check out Nimi Skin Care today at nimiskincare.com and use code Candace10 at checkout for a special discount.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:01:45](/episodes/ep-IqHsl7d2dos.md#t-00-01-45): “Foremost, quick shout out to Nimi Skin Care for supporting today's episode. I'm very intentional about the brands that I work with and Nimi is one that I actually use. Clean, simple skin care made here in America.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:37:47](/episodes/ep-a2bZf4fic10.md#t-00-37-33): “I also want to remind you guys about Neemi Skin Care because Neemi makes the best tallow skincare products that I've ever used.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:27:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-26-44): “That's why I've been using Nimi's Sunshine Tallow Cream and their Buzzin Tallow Balm.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:44:11](/episodes/ep-N4uM8Jdr410.md#t-00-44-11): “I also have to tell you guys about Nimi Skincare. You know I love them. What makes their skin products so great is that their tallow comes from grass-fed, grass-finished cattle.”
 
 </details>
 

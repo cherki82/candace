@@ -17,7 +17,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,7 +49,7 @@ _Type: People_
 > "...s is hardly the first time that the DuPont family has found itself the focus of unsavory headlines. John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996. Two years..."
 
 **[00:10:52](/episodes/ep-a-e7HC6SeK8.md#ent-person-john-dupont-t-00-10-27)**
-> "... a drug-addicted Vegas sex worker. So she and her husband, Christopher Mosley, had her killed. Both John DuPont and Mosley died in prison. Okay, great. Cool. France, France in the story. We've got an alleged mur..."
+> "Both John DuPont and Moseley died in prison."
 
 </details>
 
@@ -59,5 +59,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about John DuPont (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) (Claim) **Candace Owens**: ["John DuPont shot Olympic wrestler David Schultz dead in the driveway o..."](/statements/statement-9a8d4a44b905.md)
+  - Also about: [DuPont family](/entities/org-dupont-family.md), [David Schultz](/entities/person-david-schultz.md)
+
+</details>
 
 </details>

@@ -1,14 +1,14 @@
 ---
 id: "ZIH5-V6UPkg"
 title: "An Open Letter To President Donald Trump (My Response) | Candace Ep 322"
-description: "An Open Letter To President Donald Trump (My Response) | Candace Ep 322 - 82 entities, 15 events, 0 claims"
+description: "An Open Letter To President Donald Trump (My Response) | Candace Ep 322 - 82 entities, 15 events, 10 factual claims"
 published: "2026-04-10"
 youtube_url: "https://www.youtube.com/watch?v=ZIH5-V6UPkg"
 ---
 
 **Published:** 2026-04-10 | [Watch on YouTube](https://www.youtube.com/watch?v=ZIH5-V6UPkg)
 
-**Stats:** 82 entities | 15 events | 0 claims
+**Stats:** 82 entities | 15 events | 10 factual claims
 
 ---
 

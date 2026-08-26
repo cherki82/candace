@@ -3,9 +3,13 @@ title: "John Lewis"
 description: "John Lewis (People) - 2 mentions"
 id: "person-john-lewis-daily-wire"
 type: "PERSON"
+aliases:
+  - "Jon Lewis"
 ---
 
 _Type: People_
+
+**Also known as:** Jon Lewis
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-john-lewis-daily-wire-t-00-25-05">2025-10-28 · 00:23:56</a></strong></div>
@@ -64,7 +68,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05) (Claim) **Candace Owens**: ["John Lewis, president of The Daily Wire, was a naval intelligence offi..."](/statements/statement-018dc0f5ff80.md)
+- [00:25:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-25-05) (Claim) **Candace Owens**: ["Jon Lewis, then president of The Daily Wire, was a naval intelligence ..."](/statements/statement-018dc0f5ff80.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>

@@ -531,10 +531,10 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:01:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-01-22)**
-> "...tever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right? Candace Owens: And despite the fact that they were heading to Montana, they decided to make..."
+> "It was contracted by our military for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right?"
 
 **[00:03:11](/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-02-48)**
-> "...on to Kalispell, Montana, and then it lands for just under an hour before it again departs back for Texas once again on its return trip. Candace Owens: It dips again to just over 300 feet over the Provo Ai..."
+> "Okay, so it continued on to Kalispell, Montana, and then it lands for just under an hour before it again departs back for Texas once again on its return trip."
 
 </details>
 

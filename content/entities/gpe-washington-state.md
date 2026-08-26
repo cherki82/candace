@@ -5,11 +5,12 @@ id: "gpe-washington-state"
 type: "GPE"
 aliases:
   - "Washington"
+  - "Washington State"
 ---
 
 _Type: Places_
 
-**Also known as:** Washington
+**Also known as:** Washington, Washington State
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-washington-state-t-00-17-40">2025-10-01 · 00:17:58</a></strong></div>
@@ -56,7 +57,7 @@ _Type: Places_
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
 
 **[00:17:58](/episodes/ep-adJ4LNGp84I.md#ent-gpe-washington-state-t-00-17-40)**
-> "Well, then we did get another hit on him, and a handful of you similarly found the same person that we did, a person going by the name Robbie Hilde, who was allegedly from Washington."
+> "...Hilde, who was allegedly from Washington."
 
 **[00:18:19](/episodes/ep-adJ4LNGp84I.md#ent-gpe-washington-state-t-00-18-19)**
 > "... just some kid who grew up in Washington and went to school in Utah, my inbox would be flo..."

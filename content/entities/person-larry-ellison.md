@@ -21,17 +21,17 @@ Source: [Oracle executive biography: Larry Ellison](https://www.oracle.com/il-en
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-46-04">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21" style="--pulse-height:50%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-46-04" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -39,7 +39,7 @@ Source: [Oracle executive biography: Larry Ellison](https://www.oracle.com/il-en
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-larry-ellison-t-00-30-42) | 1 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-46-04) | 2 |
 
 </details>
@@ -62,13 +62,10 @@ Source: [Oracle executive biography: Larry Ellison](https://www.oracle.com/il-en
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
 
 **[00:34:31](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21)**
 > "...tates propaganda, by the way. She is there to deliver Israeli propaganda. She knows it. We know it. Larry Ellison hired her to do it. That's okay. They've already got a blacklist of actors who will never work at P..."
-
-**[00:34:33](/episodes/ep-mKXdKV-OBog.md#ent-person-larry-ellison-t-00-34-21)**
-> "Larry Ellison hired Bari Weiss"
 
 </details>
 
@@ -131,13 +128,21 @@ Source: [Oracle executive biography: Larry Ellison](https://www.oracle.com/il-en
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Larry Ellison (1)</strong></summary>
+<summary><strong class="section-title">Statements about Larry Ellison (2)</strong></summary>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
 
 - [00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04) (Accusation) **Bassem Youssef**: ["Peter Thiel, Alex Karp, and Larry Ellison use technology to kill Pales..."](/statements/statement-ae788c4a1be2.md)
   - Also about: [Peter Thiel](/entities/person-peter-thiel.md), [Alexander Karp](/entities/person-alex-karp.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:34:33](/episodes/ep-mKXdKV-OBog.md#t-00-34-21) (Claim) **Tim Dillon** (via quoted speech): ["Larry Ellison hired Bari Weiss for CBS News"](/statements/statement-1962395d58d5.md)
+  - Also about: [CBS News](/entities/org-cbs-news.md), [Bari Weiss](/entities/person-bari-weiss.md)
 
 </details>
 

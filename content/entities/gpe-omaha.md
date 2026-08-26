@@ -1,6 +1,6 @@
 ---
 title: "Omaha"
-description: "Omaha (Places) - 8 mentions"
+description: "Omaha (Places) - 10 mentions"
 id: "gpe-omaha"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [City of Omaha](https://www.cityofomaha.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-omaha-t-00-20-27">2025-10-31 · 00:20:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-omaha-t-00-31-55">2026-05-27 · 00:32:24</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-omaha-t-00-46-14">2026-07-20 · 00:46:41</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [City of Omaha](https://www.cityofomaha.org/)
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-omaha-t-00-10-47" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-omaha-t-00-23-23" style="--pulse-height:33%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-omaha-t-00-31-55" style="--pulse-height:33%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-omaha-t-00-46-14" style="--pulse-height:67%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [City of Omaha](https://www.cityofomaha.org/)
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-omaha-t-00-10-47) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-omaha-t-00-23-23) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-omaha-t-00-31-55) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-omaha-t-00-46-14) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [City of Omaha](https://www.cityofomaha.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:46:14](/episodes/ep-N4uM8Jdr410.md#ent-gpe-omaha-t-00-46-14)**
+> "A widely debated conspiracy theory. Omaha, Nebraska, one of our Egyptian plane stops, the scandal involving a $40 million financial fraud, claims of abuse by high-ranking politicians and satanic ritual abuse."
+
+**[00:46:41](/episodes/ep-N4uM8Jdr410.md#ent-gpe-omaha-t-00-46-14)**
+> "...ake one mistake, if I say not Omaha, Nebraska, but I say Omaha, Idaho, and they come ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>

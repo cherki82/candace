@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:56:51](/episodes/ep-c5BcKF91iec.md#t-00-56-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3411);return false;">Play</a>
 
-> In fact, the only person—as Ian Carroll pointed out in one of his videos, and you should subscribe to Ian Carroll's channel as well. He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot.
+> In fact, the only person—as Ian Carroll pointed out in one of his videos, and you should subscribe to Ian Carroll's channel— as well. He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be another shot.
 
 ## Verification
 

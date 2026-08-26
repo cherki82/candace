@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:28:05](/episodes/ep-ZAuuSq_j2_w.md#t-00-27-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1685);return false;">Play</a>
 
-> The night before Charlie (Charlie Kirk) was murdered—I'm not just saying this, but I went into his office. This was after we had a meeting. You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks. And he was going to dinner, and he said, 'Hey, you're going to dinner with Blake and Danny.' He said, 'Blake is my secret weapon. He's the smartest man I know.' And, uh, he loved you.
+> The night before Charlie (Charlie Kirk) was murdered— I'm not just saying this, but I went into his office. This was after we had a meeting. You were in the meeting, Blake: me, you, Charlie (Charlie Kirk), and some other folks. And he was going to dinner, and he said, "Hey, you're going to dinner with Blake and Danny." He said, "Blake is my secret weapon. He's the smartest man I know." And, uh, he loved you.
 
 ## Verification
 

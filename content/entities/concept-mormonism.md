@@ -1,6 +1,6 @@
 ---
 title: "Mormonism"
-description: "Mormonism (Concepts) - 33 mentions"
+description: "Mormonism (Concepts) - 44 mentions"
 id: "concept-mormonism"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29">2026-02-27 · 00:12:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29">2026-06-23 · 00:19:29</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-49-35">2026-07-20 · 00:50:06</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-mormonism-t-00-14-14" style="--pulse-height:9%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-mormonism-t-00-06-56" style="--pulse-height:18%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29" style="--pulse-height:9%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-08" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-concept-mormonism-t-00-14-14) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-mormonism-t-00-06-56) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-08) | 11 |
 
 </details>
 </section>
@@ -70,7 +72,45 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (11 mentions)</summary>
+
+**[00:24:34](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-08)**
+> "Even more curious, was Jennifer (Jennifer Faumuina)'s father asserting in the press that his brother, her uncle, was a devout Mormon?"
+
+**[00:24:45](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-08)**
+> "Again, I'm just going: devout Mormon, gang member. We can take a peek at this together..."
+
+**[00:24:54](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-54)**
+> "...culate. He was also a devoted Mormon who attended church in Waipahu every Sunday."
+
+**[00:25:41](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-25-30)**
+> "... he was about to go on to his Mormon mission."
+
+**[00:26:10](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-26-10)**
+> "... because he was going on this Mormon mission. The ward members would speak out denying..."
+
+**[00:26:24](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-26-10)**
+> "Just the entire story here, Mormons, gangs, it got me thinking."
+
+**[00:26:36](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-26-10)**
+> "... she was describing to me the Mormon mafia."
+
+**[00:26:42](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-26-10)**
+> "...ion of the Zionist mafia, the Mormon mafia. I truly at this time just could not proces..."
+
+**[00:27:20](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-26-52)**
+> "...e assassination took place in Mormon territory makes it curious."
+
+**[00:50:02](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-49-35)**
+> "...d it keeps coming back to the Mormons and TPUSA. Today—'"
+
+**[00:50:06](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-49-35)**
+> "...ing out how many involved are Mormon. Of course, Farnsworth's big Mormon family taking..."
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
@@ -241,7 +281,15 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mormonism (4)</strong></summary>
+<summary><strong class="section-title">Statements about Mormonism (5)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:26:36](/episodes/ep-N4uM8Jdr410.md#t-00-26-10) (Opinion) **Courtney Love** (via read message): ["Courtney Love described a 'Mormon mafia' as an extension of a 'Zionist..."](/statements/statement-483cd75f93c0.md)
+  - Also about: [Zionism](/entities/concept-zionism.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>

@@ -28,7 +28,7 @@ Source: [Colin Luther Powell | Office of the Historian](https://history.state.go
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -112,13 +112,21 @@ Source: [Colin Luther Powell | Office of the Historian](https://history.state.go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Colin Powell (1)</strong></summary>
+<summary><strong class="section-title">Statements about Colin Powell (2)</strong></summary>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>
 
 - [00:08:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-08-46) (Claim) **Candace Owens**: ["Colin Powell publicly stated that Iraq possessed weapons of mass destr..."](/statements/statement-48f6fe8501d2.md)
   - Also about: [Iraq](/entities/gpe-iraq.md), [United Nations Security Council](/entities/org-united-nations-security-council.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+
+- [00:05:00](/episodes/ep-t4U7NjnUEgc.md#t-00-04-35) (Claim) **Candace Owens**: ["Owens said Joint Task Force Six was a brand-new command created at the..."](/statements/statement-7a3c360b229e.md)
+  - Also about: [George H.W. Bush](/entities/person-george-hw-bush.md)
 
 </details>
 

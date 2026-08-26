@@ -1,14 +1,14 @@
 ---
 id: "uC_GjKU8rs8"
 title: "Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332"
-description: "Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 - 114 entities, 15 events, 0 claims"
+description: "Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 - 114 entities, 15 events, 11 factual claims"
 published: "2026-05-04"
 youtube_url: "https://www.youtube.com/watch?v=uC_GjKU8rs8"
 ---
 
 **Published:** 2026-05-04 | [Watch on YouTube](https://www.youtube.com/watch?v=uC_GjKU8rs8)
 
-**Stats:** 114 entities | 15 events | 0 claims
+**Stats:** 114 entities | 15 events | 11 factual claims
 
 ---
 

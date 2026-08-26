@@ -20,16 +20,16 @@ type: "factual_claim"
 
 ## About
 
-- [Lance Wallnau](/entities/person-lance-wallnau.md) (person)
 - [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (org)
+- [Lance Wallnau](/entities/person-lance-wallnau.md) (person)
 
 ## Source
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:20:28](/episodes/ep-YaZfwLQ7vrI.md#t-00-20-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1228);return false;">Play</a>
+**Timestamp:** [00:20:07](/episodes/ep-YaZfwLQ7vrI.md#t-00-20-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1207);return false;">Play</a>
 
-> Sources within Turning Point's faith department tell me that Lance was running the show behind the scenes through funding—that he put a ton of money into Turning Point USA Faith operations.
+> Sources within Turning Point's faith department tell me that Lance (Lance Wallnau) was running the show behind the scenes through funding—that he put a ton of money into Turning Point USA Faith operations. ... however, he just described that, right?—was privately directing large sums of money into Turning Point Faith.
 
 ## Verification
 

@@ -41,8 +41,8 @@ _No relationships extracted yet._
 - [00:11:07](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor started her career in a church working alongside her husban..."](/statements/statement-6c3b13fd8b24.md)
   - Also about: [Lou Taylor](/entities/person-lou-taylor.md)
 
-- [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) (Claim) **Brett Cooper** (via quoted speech): ["According to financial documents in the public domain, Jamie Spears Sr..."](/statements/statement-d6a45b1203c0.md)
-  - Also about: [Jamie Spears](/entities/person-jamie-spears.md), [Lou Taylor](/entities/person-lou-taylor.md)
+- [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) (Claim) **Brett Cooper** (via quoted speech): ["According to financial documents in the public domain, Jamie Spears Sr..."](/statements/statement-d6a45b1203c0.md)
+  - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md), [Jamie Spears](/entities/person-jamie-spears.md), [Lou Taylor](/entities/person-lou-taylor.md)
 
 </details>
 

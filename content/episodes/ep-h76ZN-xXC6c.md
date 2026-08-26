@@ -1,14 +1,14 @@
 ---
 id: "h76ZN-xXC6c"
 title: "The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350"
-description: "The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 - 97 entities, 6 events, 0 claims"
+description: "The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 - 97 entities, 6 events, 21 factual claims"
 published: "2026-06-16"
 youtube_url: "https://www.youtube.com/watch?v=h76ZN-xXC6c"
 ---
 
 **Published:** 2026-06-16 | [Watch on YouTube](https://www.youtube.com/watch?v=h76ZN-xXC6c)
 
-**Stats:** 97 entities | 6 events | 0 claims
+**Stats:** 97 entities | 6 events | 21 factual claims
 
 ---
 

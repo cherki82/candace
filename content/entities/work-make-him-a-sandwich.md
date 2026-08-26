@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 79 mentions"
+description: "Make Him a Sandwich (Works & Media) - 80 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -25,11 +25,11 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29">2025-10-27 · 00:49:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-make-him-a-sandwich-t-00-37-47">2026-06-18 · 00:37:56</a></strong></div>
-<div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>79</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-make-him-a-sandwich-t-00-53-34">2026-07-16 · 00:53:34</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>80</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -87,6 +87,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-work-make-him-a-sandwich-t-01-13-52" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-work-make-him-a-sandwich-t-00-59-50" style="--pulse-height:25%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-make-him-a-sandwich-t-00-32-06" style="--pulse-height:50%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-make-him-a-sandwich-t-00-53-34" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -141,6 +142,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-work-make-him-a-sandwich-t-01-13-52) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-work-make-him-a-sandwich-t-00-59-50) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-work-make-him-a-sandwich-t-00-32-06) | 2 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-make-him-a-sandwich-t-00-53-34) | 1 |
 
 </details>
 </section>
@@ -148,7 +150,15 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (79)</strong></summary>
+<summary><strong class="section-title">Raw mentions (80)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:53:34](/episodes/ep-mLvJqdxS-FY.md#ent-work-make-him-a-sandwich-t-00-53-34)**
+> "...tion i am almost done reading make him a sandwich i'm excited for the book club tomorrow our lady o..."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
@@ -577,13 +587,13 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
 **[00:53:59](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-44)**
-> "...now. I told you we restocked them. I think we still have some online. Also the book. I am so happy. Make Him a Sandwich is finally out. It really was a labor of love. You guys can head to makehimasandwich.com. If you wo..."
+> "Make Him a Sandwich is finally out."
 
 **[00:54:01](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-44)**
-> "...m so happy. Make Him a Sandwich is finally out. It really was a labor of love. You guys can head to makehimasandwich.com. If you would like to support my work—my independent work—I am not yet funded by Qatar. I'm despera..."
+> "You guys can head to makehimasandwich.com."
 
 **[00:54:11](/episodes/ep-iHav0PPzUz8.md#ent-work-make-him-a-sandwich-t-00-53-44)**
-> "...funded by Qatar. I'm desperate to be funded by Qatar. I don't know why they won't call me. Anyways, makehimasandwich.com. If you would like to read the book, it's a good one. I promise you—you're gonna really enjoy it. A..."
+> "Anyways, makehimasandwich.com."
 
 </details>
 
@@ -675,6 +685,18 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:37:56](/episodes/ep-3QJqtW_NOSI.md#t-00-37-47): “I'm reading my book right now, Make Him a Sandwich, and I describe these two competing and both wrong viewpoints of modern feminism”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Make Him a Sandwich (1)</strong></summary>
+
+<details>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1)</summary>
+
+- [00:46:57](/episodes/ep-QZWSsq8ZWzw.md#t-00-46-49) (Promise) **Candace Owens**: ["My second book will be released later in 2025."](/statements/statement-049ad1b87abd.md)
 
 </details>
 

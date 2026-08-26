@@ -1,14 +1,14 @@
 ---
 id: "YeEtS7nix3o"
 title: "I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345"
-description: "I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 - 125 entities, 12 events, 0 claims"
+description: "I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 - 125 entities, 12 events, 34 factual claims"
 published: "2026-06-09"
 youtube_url: "https://www.youtube.com/watch?v=YeEtS7nix3o"
 ---
 
 **Published:** 2026-06-09 | [Watch on YouTube](https://www.youtube.com/watch?v=YeEtS7nix3o)
 
-**Stats:** 125 entities | 12 events | 0 claims
+**Stats:** 125 entities | 12 events | 34 factual claims
 
 ---
 

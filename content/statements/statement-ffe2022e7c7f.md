@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:03:57](/episodes/ep-581dILVcEE4.md#t-00-03-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(237);return false;">Play</a>
 
-> This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie Kirk's assassination.
+> This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.
 
 ## Verification
 

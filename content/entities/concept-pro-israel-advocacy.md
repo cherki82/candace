@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 50 mentions"
+description: "Pro-Israel advocacy (Concepts) - 58 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -21,12 +21,12 @@ _Type: Concepts_
 Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/Zionism)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29">2026-01-06 · 00:12:39</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27">2025-10-31 · 00:12:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12">2026-08-14 · 00:28:48</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,6 +35,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41">The World Is A Stage: Trump Survives...Again? | Ep 343</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27" style="--pulse-height:86%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55" style="--pulse-height:29%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -57,12 +58,14 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-pro-israel-advocacy-t-00-42-32" style="--pulse-height:29%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-pro-israel-advocacy-t-00-42-01" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-pro-israel-advocacy-t-00-36-04" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-41-05" style="--pulse-height:29%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27) | 6 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36) | 2 |
@@ -85,6 +88,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-pro-israel-advocacy-t-00-42-32) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-concept-pro-israel-advocacy-t-00-42-01) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-pro-israel-advocacy-t-00-36-04) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-41-05) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12) | 1 |
 
 </details>
@@ -93,13 +97,24 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:48](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12)**
 > "...me no choice but to leave the pro-Israel cause."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:41:05](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-41-05)**
+> "...ter of Israel. If Charlie was pro-Israel when he died, that'd be a pretty good guy to have..."
+
+**[00:43:27](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-43-27)**
+> "... no choice but to abandon the pro-Israel cause,"
 
 </details>
 
@@ -360,6 +375,29 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 </details>
 
+<details>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (6 mentions)</summary>
+
+**[00:12:40](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27)**
+> "She's not pro-Israel."
+
+**[00:33:51](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-33-17)**
+> "...ill never—will just always be pro-Israel. Like we're just never not gonna be pro-Israel.""
+
+**[00:34:00](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-33-17)**
+> "...do you mean it will always be pro-Israel?"
+
+**[00:34:01](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-34-01)**
+> "...hat's just what we are. We're pro-Israel."
+
+**[00:34:28](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-34-01)**
+> "...is just never going to not be pro-Israel. Actually, in retrospect—"
+
+**[00:35:03](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-34-46)**
+> "And you have to be pro-Israel.""
+
+</details>
+
 </details>
 
 <details open>
@@ -370,7 +408,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (23)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (24)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:43:27](/episodes/ep-X3VKJVJ7cN4.md#t-00-43-27) (Accusation) **Candace Owens**: ["Owens accused Kolvet of knowing the night before Kirk's death that Kir..."](/statements/statement-b3c1aea5671d.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>

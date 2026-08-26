@@ -1,14 +1,14 @@
 ---
 id: "3QJqtW_NOSI"
 title: "The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352"
-description: "The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 - 116 entities, 14 events, 0 claims"
+description: "The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 - 116 entities, 14 events, 17 factual claims"
 published: "2026-06-18"
 youtube_url: "https://www.youtube.com/watch?v=3QJqtW_NOSI"
 ---
 
 **Published:** 2026-06-18 | [Watch on YouTube](https://www.youtube.com/watch?v=3QJqtW_NOSI)
 
-**Stats:** 116 entities | 14 events | 0 claims
+**Stats:** 116 entities | 14 events | 17 factual claims
 
 ---
 

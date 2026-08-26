@@ -27,7 +27,7 @@ date: "2023-10-07"
 **Timestamp:** [00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(323);return false;">▶️ Play</a>
 
-> eople who were just absurdly making claims that I attacked Erika. And I know what these organic movements look like. I know how they operate behind the scenes. And I know Ben plays a part in this. And
+> The number of times that Tucker has mentioned Zohran Mamdani since October 7th on
 
 ### 3. Shocking Revelation About The Egyptian Planes... | Candace E...
 

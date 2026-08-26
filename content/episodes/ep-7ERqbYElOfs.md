@@ -1,14 +1,14 @@
 ---
 id: "7ERqbYElOfs"
 title: "The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318"
-description: "The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 - 123 entities, 7 events, 0 claims"
+description: "The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 - 123 entities, 7 events, 28 factual claims"
 published: "2026-03-30"
 youtube_url: "https://www.youtube.com/watch?v=7ERqbYElOfs"
 ---
 
 **Published:** 2026-03-30 | [Watch on YouTube](https://www.youtube.com/watch?v=7ERqbYElOfs)
 
-**Stats:** 123 entities | 7 events | 0 claims
+**Stats:** 123 entities | 7 events | 28 factual claims
 
 ---
 

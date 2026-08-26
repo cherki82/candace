@@ -6,11 +6,12 @@ type: "PERSON"
 aliases:
   - "Arcady Gaidemac"
   - "Gademak"
+  - "Arkady Gaydamak"
 ---
 
 _Type: People_
 
-**Also known as:** Arcady Gaidemac, Gademak
+**Also known as:** Arcady Gaidemac, Gademak, Arkady Gaydamak
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-arkady-gaidemak-t-00-14-05">2025-12-08 · 00:14:05</a></strong></div>
@@ -18,7 +19,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -86,10 +87,13 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Arkady Gaidemak (2)</strong></summary>
+<summary><strong class="section-title">Statements about Arkady Gaidemak (3)</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
+
+- [00:13:57](/episodes/ep-Kmt6HgRjckU.md#t-00-13-24) (Claim) **Candace Owens**: ["Arkady Gaydamak and Pierre Falcone partnered through Brenco Internatio..."](/statements/statement-95e5288badc8.md)
+  - Also about: [Branko International](/entities/org-branko-international.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
 
 - [00:14:10](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05) (Claim) **Candace Owens**: ["Branko International is run by Arkady Gaidemak. He is Israeli, initial..."](/statements/statement-6f2c0ea955bb.md)
   - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md), [Branko International](/entities/org-branko-international.md)

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:36:44](/episodes/ep-UBkFkg4UNY8.md#t-00-36-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2204);return false;">Play</a>
 
-> Charlie (Charlie Kirk) would not accept foreign money. Exactly. We only took American money. There was money sent to us—like, practically in multiple instances where they're trying to cram it down our bank account—and we said no.
+> Charlie (Charlie Kirk) would not accept foreign money. Exactly. We only took American money. There was money sent to us—like, practically in multiple instances where they're trying to cram it down our bank account—
 
 ## Verification
 

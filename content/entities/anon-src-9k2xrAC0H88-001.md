@@ -39,7 +39,7 @@ _No relationships extracted yet._
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
 - [00:06:35](/episodes/ep-9k2xrAC0H88.md#t-00-06-10) [○] (Claim) ["Dr. Lee Trotter communicated that a frangible bullet was likely used in the Char..."](/statements/statement-25910712e44c.md)
-  - About: [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Lee Trotter](/entities/person-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

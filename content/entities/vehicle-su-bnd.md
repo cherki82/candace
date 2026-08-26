@@ -115,6 +115,11 @@ _Type: Vehicles_
 <summary>Operated By (1)</summary>
 
 - **[Egypt](/entities/gpe-egypt.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
+
+</details>
 
 </details>
 
@@ -122,6 +127,11 @@ _Type: Vehicles_
 <summary>Referenced By (1)</summary>
 
 - **[Egypt](/entities/gpe-egypt.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
+
+</details>
 
 </details>
 

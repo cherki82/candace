@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:08:24](/episodes/ep-aDlhjfW6hz8.md#t-00-07-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(504);return false;">Play</a>
 
-> Well, obviously that's where things get into a pickle with me because we don't trust the feds. I'm like, No, we don't trust the feds, so we don't gotta do that.
+> Well, obviously that's where things get into a pickle with me because we don't trust the feds. I'm like, "No, we don't trust the feds, so we don't gotta do that."
 
 ## Verification
 

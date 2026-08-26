@@ -16,6 +16,8 @@ _Type: People_
 
 **Categories:** Utah County prosecutor, Tyler Robinson prosecution team
 
+> **Possibly overlapping entity records:** [Sarah McBride](/entities/person-sarah-mcbride). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official Utah County Attorney page names Ryan McBride on the Tyler Robinson trial team; transcript's Mr. McBride is this prosecutor.
 Source: [Tyler Robinson Trial Team](https://atty.utahcounty.gov/media/62)

@@ -1,14 +1,14 @@
 ---
 id: "X92MllIHDzw"
 title: "OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291"
-description: "OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 - 128 entities, 9 events, 0 claims"
+description: "OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 - 128 entities, 9 events, 25 factual claims"
 published: "2026-01-16"
 youtube_url: "https://www.youtube.com/watch?v=X92MllIHDzw"
 ---
 
 **Published:** 2026-01-16 | [Watch on YouTube](https://www.youtube.com/watch?v=X92MllIHDzw)
 
-**Stats:** 128 entities | 9 events | 0 claims
+**Stats:** 128 entities | 9 events | 25 factual claims
 
 ---
 

@@ -11,15 +11,11 @@ object: "person-tucker-carlson"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) interviewed by [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (4 mentions)
+### Evidence (3 mentions)
 
 **[Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow)**
 
 - [00:01:06](/episodes/ep-MUA9ebCF4Ow#t-00-01-06): _...ce of what Charlie (Charlie Kirk) said to Tucker (Tucker Carlson) backstage at the Student Action Summit in July. We're gonna get to that. Also, do you guys remembe..._
-
-**[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
-
-- [00:04:26](/episodes/ep-ozWJz2spBcI#t-00-04-26): _gratefully, Tucker instantly responded with a much more sensible approach_
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 

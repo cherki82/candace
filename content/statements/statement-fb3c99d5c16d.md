@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:31:55](/episodes/ep-aDlhjfW6hz8.md#t-00-31-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1915);return false;">Play</a>
 
-> I believe that Charlie Kirk was betrayed by people who are close to him. Based on what I have seen—thus far the evidence, the quote-unquote 'receipts'—that require a way deeper investigation into the apparatus, the financial apparatus at Turning Point, there was definitely some weird activity leading up to this moment happening at the organization.
+> I believe that Charlie Kirk was betrayed by people who are close to him. Based on what I have seen—thus far the evidence, the quote-unquote "receipts"—that require a way deeper investigation into the apparatus, the financial apparatus at Turning Point, there was definitely some weird activity leading up to this moment happening at the organization.
 
 ## Verification
 

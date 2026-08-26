@@ -20,9 +20,9 @@ type: "factual_claim"
 
 ## About
 
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 - [FBI](/entities/org-fbi.md) (org)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
-- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source
 
@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:02:30](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(150);return false;">Play</a>
 
-> What they're actually saying instead is essentially, If you don't close the case against Charlie Kirk and rule it a lone gunman, then it might mess up our prosecution against Tyler Robinson
+> What they're actually saying instead is essentially, "If you don't close the case against Charlie Kirk and rule it a lone gunman, then it might mess up our prosecution against Tyler Robinson."
 
 ## Verification
 

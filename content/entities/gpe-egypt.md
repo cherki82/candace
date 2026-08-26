@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 242 mentions"
+description: "Egypt (Places) - 244 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -21,11 +21,11 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-egypt-t-00-44-42">2026-06-26 · 00:45:09</a></strong></div>
-<div><span>Episodes</span><strong>47</strong></div>
-<div><span>Mentions</span><strong>242</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-egypt-t-00-46-14">2026-07-20 · 00:46:14</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>244</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -81,6 +81,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-egypt-t-00-19-44" style="--pulse-height:17%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-egypt-t-00-57-39" style="--pulse-height:17%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 3 mentions" title="2026-06-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-egypt-t-00-44-42" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-egypt-t-00-25-30" style="--pulse-height:11%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -133,6 +134,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-egypt-t-00-19-44) | 3 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-egypt-t-00-57-39) | 3 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-egypt-t-00-44-42) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-egypt-t-00-25-30) | 2 |
 
 </details>
 </section>
@@ -140,7 +142,18 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (242)</strong></summary>
+<summary><strong class="section-title">Raw mentions (244)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:25:51](/episodes/ep-N4uM8Jdr410.md#ent-gpe-egypt-t-00-25-30)**
+> "There's just a lot here. A lot here. That Sid Rosen character, if I told you he was connected to Egypt and Israel, you wouldn't even believe me. So I'll skip that portion."
+
+**[00:46:14](/episodes/ep-N4uM8Jdr410.md#ent-gpe-egypt-t-00-46-14)**
+> ".... Omaha, Nebraska, one of our Egyptian plane stops, the scandal involving a $40 million ..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -723,7 +736,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > "...ary partnerships. I just don't love the timing of all of these things. I just don't love France and Egypt and the United States together for the whole month leading up to the assassination of Charlie Kirk ..."
 
 **[00:23:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-egypt-t-00-23-12)**
-> "...r at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's (Charlie Kirk's) a..."
+> "Having them at UVU would not have been on my radar at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo,"
 
 **[00:40:44](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-egypt-t-00-40-44)**
 > "... internet sleuths like you have never seen before. Where was Brigitte Macron on the dates that that Egyptian plane was—from 9/4 through to 9/11? Where was Brigitte Macron? I would just like to know, I need to..."
@@ -751,9 +764,6 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 **[00:12:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-12-13)**
 > "... and industry leaders to take part in a trade mission, investment mission to Egypt later this year. Egypt's position in North Africa makes it an ideal gateway to doing business in the greater Middle East r..."
 
-**[00:12:47](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-12-13)**
-> "...November 2. However, the dates are subject to change. Those interested in joining the delegation to Egypt can visit the Secretary of State's website or contact the office to learn more. And I wanna say to ..."
-
 **[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-12-57)**
 > "...anes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this plane that comes in—literally comes in on the exact same day...."
 
@@ -762,6 +772,9 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 **[00:22:17](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-21-55)**
 > "...f panic, and we're getting a lot of phone calls now from people telling us it has caused panic. The Egyptian planes definitively were pulled into Satis, and that person was then escorted for whatever reason. ..."
+
+**[00:12:47](/episodes/ep-mKXdKV-OBog.md#ent-gpe-egypt-t-00-12-13)**
+> "Those interested in joining the delegation to Egypt can visit the Secretary of State's website or contact the office to learn more."
 
 </details>
 
@@ -965,7 +978,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
 
 **[00:37:01](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-egypt-t-00-36-27)**
-> "...S that we've heard. I also want to say to you guys, I know that I promised you we would discuss the Egyptian Plains. What we have discovered is actually so big that I had to go through the proper channels to ..."
+> "...ised you we would discuss the Egyptian planes."
 
 </details>
 
@@ -1046,7 +1059,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (14 mentions)</summary>
 
 **[00:00:13](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-00-00)**
-> "...new it. Candace Owens: And now, ladies and gentlemen, I know it. Candace Owens: Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk..."
+> "Oh, there were some Egyptian military men that were on the ground on September 10th in Utah, on the day of Charlie (Charlie Kirk)'s assassination."
 
 **[00:12:21](/episodes/ep-iHav0PPzUz8.md#ent-gpe-egypt-t-00-00-00)**
 > "...ey're hiding something. So I reported that on the day of Charlie (Charlie Kirk)'s assassination, an Egyptian Air Force plane took off from Provo, Utah airport. I reported that even more curiously that Egyptia..."
@@ -1124,8 +1137,18 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <summary>Operates (2)</summary>
 
 - **[SU-BTT](/entities/vehicle-su-btt.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
+
+</details>
 
 - **[SU-BND](/entities/vehicle-su-bnd.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
+
+</details>
 
 </details>
 
@@ -1140,15 +1163,25 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 - **[SU-BTT](/entities/vehicle-su-btt.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:51](/episodes/ep-581dILVcEE4.md#t-00-03-33): “This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination.”
+
+</details>
 
 - **[SU-BND](/entities/vehicle-su-bnd.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:09:14](/episodes/ep-581dILVcEE4.md#t-00-09-05): “They waited for that anchor plane, SU-BND, the other Egyptian military plane, to take them back home.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Egypt (13)</strong></summary>
+<summary><strong class="section-title">Statements about Egypt (17)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -1214,6 +1247,27 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
 
 - [00:48:24](/episodes/ep-9k2xrAC0H88.md#t-00-48-20) (Claim) **Candace Owens**: ["The Egyptian planes are linked to Israel"](/statements/statement-c7387ec82294.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3)</summary>
+
+- [00:04:52](/episodes/ep-mKXdKV-OBog.md#t-00-04-21) (Claim) **Candace Owens**: ["Candace Owens was informed that there is real panic in government rega..."](/statements/statement-ad03d9041867.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:11:30](/episodes/ep-mKXdKV-OBog.md#t-00-11-30) (Claim) **Candace Owens**: ["On July 22nd, the Nebraska Secretary of State, Bob Evnen, announced a ..."](/statements/statement-995235be72b7.md)
+  - Also about: [Nebraska](/entities/gpe-nebraska.md), [Bob Evnen](/entities/person-bob-evnen.md)
+
+- [00:18:04](/episodes/ep-mKXdKV-OBog.md#t-00-17-38) (Claim) **Candace Owens**: ["SUBTT and SUBNT are Egyptian military planes."](/statements/statement-f7652a22a27f.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:32:12](/episodes/ep-JQjCAsfoXEE.md#t-00-31-45) (Claim) **Candace Owens**: ["Israel attacked the USS Liberty ship, not Egypt as originally claimed"](/statements/statement-f05e558fb3d6.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>

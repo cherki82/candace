@@ -16,8 +16,8 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46">2025-12-01 · 00:54:03</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,10 +52,10 @@ _Type: People_
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
 
 **[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
-> "...and by the way, on the subject of who the kind of people that he's referring to, it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie Kirk (Charlie Kirk) and lied and said ..."
+> "No, and by the way, on the subject of who the kind of people that he's referring to, it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie Kirk and lied and said that I hadn't been friends with Charlie Kirk since 2017."
 
 **[00:51:10](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56)**
-> "...nd said that I hadn't been friends with Charlie Kirk (Charlie Kirk) since 2017. After that episode, Eric Bolling sent me an email and apologized and said it was Adam's fault. He didn't even know Adam's name. I th..."
+> "After that episode, Eric Bolling sent me an email and apologized and said it was Adam's fault."
 
 **[00:54:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46)**
 > "...s. If I don't post a receipt, they'll say it never happened. So we're going to pull that email that Eric Bolling sent about Adam because it really demonstrates the fickleness of politics. First, getting to the po..."
@@ -215,7 +215,14 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Eric Bolling (2)</strong></summary>
+<summary><strong class="section-title">Statements by Eric Bolling (3)</strong></summary>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1)</summary>
+
+- [00:56:27](/episodes/ep-tB5SXXmd9vU.md#t-00-55-54) [○] (Claim) ["Eric Bolling sent me an email and apologized and said it was Adam's fault"](/statements/statement-de0ea7286edb.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2)</summary>
@@ -231,16 +238,18 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Eric Bolling (3)</strong></summary>
+<summary><strong class="section-title">Statements about Eric Bolling (4)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (3)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4)</summary>
 
-- [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Accusation) **Candace Owens**: ["Eric Bolling is lying on the PBD podcast to establish the narrative th..."](/statements/statement-7201d968497e.md)
+- [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Accusation) **Candace Owens**: ["Owens accused Eric Bolling of lying on the PBD Podcast to promote a na..."](/statements/statement-7201d968497e.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Accusation) **Candace Owens**: ["Eric Bolling is lying on the PBD podcast to establish the narrative th..."](/statements/statement-06bd3137a057.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:00:33](/episodes/ep-sreYYcID-QY.md#t-00-00-00) (Accusation) **Candace Owens**: ["Eric Bolling lied on PBD podcast by claiming Candace Owens had not spo..."](/statements/statement-9581eaed0f2e.md)
 
 - [00:40:50](/episodes/ep-sreYYcID-QY.md#t-00-40-44) (Claim) **Candace Owens**: ["Candace Owens went on tour with Turning Point USA on college campuses ..."](/statements/statement-bd87e1eac306.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)

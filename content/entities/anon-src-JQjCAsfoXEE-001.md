@@ -41,7 +41,7 @@ _No relationships extracted yet._
 - [00:34:50](/episodes/ep-JQjCAsfoXEE.md#t-00-34-07) [○] (Claim) ["The Form 990 for fiscal year 2024 is missing for three of Turning Point USA's fo..."](/statements/statement-6831b4cf33cf.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:40:18](/episodes/ep-JQjCAsfoXEE.md#t-00-39-46) [○] (Accusation) ["I think there are fake people on the payroll at America's Turning Point, paychec..."](/statements/statement-55019ede2600.md)
+- [00:40:18](/episodes/ep-JQjCAsfoXEE.md#t-00-40-12) [○] (Accusation) ["I think there are fake people on the payroll at America's Turning Point, paychec..."](/statements/statement-55019ede2600.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

@@ -32,7 +32,7 @@ type: "opinion"
 **Timestamp:** [00:16:58](/episodes/ep-2Riv3I7D0Yk.md#t-00-16-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1018);return false;">Play</a>
 
-> Here was a tweet from him in 2019 that he then erased regarding white people. Here's what he said: Jew hatred is inherent in the European DNA
+> "Jew hatred is inherent in the European DNA."
 
 ### 2. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 

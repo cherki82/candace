@@ -90,7 +90,7 @@ _Type: Events_
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
 **[00:27:40](/episodes/ep-t1YtLS1n8Vs.md#ent-event-jfk-assassination-t-00-27-37)**
-> "...plx.ai/Candace. Okay, so it's looking like an operation, right? We are right now living through the JFK assassination. We weren't there for that. The majority of us weren't there for that. I wasn't there for that. But..."
+> "We are right now living through the JFK assassination."
 
 </details>
 
@@ -151,7 +151,7 @@ _No relationships extracted yet._
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 - [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["After the public execution of sitting President JFK in 1963, the CIA e..."](/statements/statement-0533f01c5c5b.md)
-  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+  - Also about: [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </details>
 

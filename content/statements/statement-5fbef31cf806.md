@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:52:05](/episodes/ep-t4U7NjnUEgc.md#t-00-51-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3125);return false;">Play</a>
 
-> Kash Patel is just not interested and it is a struggle for me to believe that they didn't know about this French angle and the Charlie Kirk assassination. They did know.
+> I hope that I can be in safe hands that way because Kash Patel (Kash Patel) is just not interested and it is a struggle for me to believe that they didn't know about this French angle and the Charlie Kirk assassination. They did know.
 
 ## Verification
 

@@ -24,13 +24,23 @@ type: "factual_claim"
 
 - [Jeffrey Epstein](/entities/person-jeffrey-epstein.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:30:49](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1849);return false;">Play</a>
 
 > Jeffrey Epstein was not a financier. He was not a hedge fund manager. Jeffrey Epstein was a key player in a multi-decade blackmail operation against the most powerful people on the planet.
+
+### 2. They Are Lying About Charlie Kirk. | Candace Ep 235
+
+**Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
+**Timestamp:** [00:30:44](/episodes/ep-czVBmqZP6Ss.md#t-00-30-27) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1844);return false;">Play</a>
+
+> Jeffrey Epstein was a key player in a multi-decade blackmail operation against the most powerful people on the planet
 
 ## Verification
 

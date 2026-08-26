@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 139 mentions"
+description: "YouTube (Organizations) - 143 mentions"
 id: "org-youtube"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About YouTube](https://about.youtube/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-youtube-t-01-00-17">2026-06-26 · 01:00:17</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>139</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-youtube-t-00-48-55">2026-07-20 · 00:49:00</a></strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>143</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -88,6 +88,10 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-youtube-t-00-15-42" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-youtube-t-00-51-15" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-youtube-t-00-57-00" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-youtube-t-00-03-23" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-youtube-t-00-36-57" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-youtube-t-00-53-34" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-youtube-t-00-48-55" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -150,6 +154,10 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-youtube-t-00-15-42) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-youtube-t-00-51-15) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-youtube-t-00-57-00) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-youtube-t-00-03-23) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-youtube-t-00-36-57) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-youtube-t-00-53-34) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-youtube-t-00-48-55) | 1 |
 
 </details>
 </section>
@@ -157,7 +165,39 @@ Source: [About YouTube](https://about.youtube/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (139)</strong></summary>
+<summary><strong class="section-title">Raw mentions (143)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:49:00](/episodes/ep-N4uM8Jdr410.md#ent-org-youtube-t-00-48-55)**
+> "But what would I know? What would he know? We have, you know, Graham Allen telling us that that's the case, and these people are the true experts. These little sissy boys that are on YouTube all day telling us what to believe. Real—the real tough guys in the military, the ones that are on YouTube channels going after girls. Yeah, we totally, totally believe you guys. Kendra Brown writes, 'Sniper nudist Tyler.'"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:36:57](/episodes/ep-puuMVxEu5NU.md#ent-org-youtube-t-00-36-57)**
+> "TikTok, Instagram, YouTube"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:53:34](/episodes/ep-mLvJqdxS-FY.md#ent-org-youtube-t-00-53-34)**
+> "...ent section plausibly ever on youtube i think it could have been the impetus behind the..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:03:37](/episodes/ep-X3VKJVJ7cN4.md#ent-org-youtube-t-00-03-23)**
+> "...t we were receiving. Here's a YouTube comment that came in. Really bad internet here."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -793,7 +833,7 @@ Source: [About YouTube](https://about.youtube/)
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
 
 **[00:34:50](/episodes/ep-ozWJz2spBcI.md#ent-org-youtube-t-00-34-36)**
-> "... (Charlie Kirk's) assassination? It would be insane for a person to suggest that if a random guy on YouTube catches a million views discussing ballistics—which there have been many gun guys who have done vid..."
+> "It would be insane for a person to suggest that if a random guy on YouTube catches a million views discussing ballistics—which there have been many gun guys who have done videos on ballistics and caught a million views—that that's somehow immoral because they're maybe gonna make $10,000 if they keep that up for an entire month."
 
 </details>
 
@@ -812,10 +852,10 @@ Source: [About YouTube](https://about.youtube/)
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:10:52](/episodes/ep-YA1FxrDWNIo.md#ent-org-youtube-t-00-10-52)**
-> "...re were a few photos of him that were available. We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced ..."
+> "...his face also matched up in a YouTube video for a company called BearingPoint, where he..."
 
 **[00:11:09](/episodes/ep-YA1FxrDWNIo.md#ent-org-youtube-t-00-10-52)**
-> "...teams—a member of one of their software development teams. So let's take a listen to that clip from YouTube. [Clip attribution: BearingPoint narrator] [Clip: BearingPoint narrator] This is the BearingPoint o..."
+> "...ke a listen to that clip from YouTube. [Clip attribution: BearingPoint narrator]"
 
 </details>
 
@@ -871,7 +911,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about YouTube (13)</strong></summary>
+<summary><strong class="section-title">Statements about YouTube (14)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:36:31](/episodes/ep-puuMVxEu5NU.md#t-00-36-14) (Citation) **Candace Owens**: ["Owens said the reported services agreement required Brad Parscale's ca..."](/statements/statement-0bdd660aafdf.md)
+  - Also about: [Brad Parscale](/entities/person-brad-parscale.md), [Salem Media Group](/entities/org-salem-media-group.md), [TikTok](/entities/org-tiktok.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>

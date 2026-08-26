@@ -1,14 +1,14 @@
 ---
 id: "19vHhjF7-NA"
 title: "OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347"
-description: "OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 - 123 entities, 11 events, 0 claims"
+description: "OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 - 123 entities, 11 events, 22 factual claims"
 published: "2026-06-11"
 youtube_url: "https://www.youtube.com/watch?v=19vHhjF7-NA"
 ---
 
 **Published:** 2026-06-11 | [Watch on YouTube](https://www.youtube.com/watch?v=19vHhjF7-NA)
 
-**Stats:** 123 entities | 11 events | 0 claims
+**Stats:** 123 entities | 11 events | 22 factual claims
 
 ---
 

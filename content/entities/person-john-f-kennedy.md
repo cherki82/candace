@@ -29,7 +29,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <div><span>Episodes</span><strong>53</strong></div>
 <div><span>Mentions</span><strong>99</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -528,7 +528,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
-**[00:48:09](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
+**[00:48:07](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
 > "JFK asked too many questions as well."
 
 **[00:48:11](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
@@ -749,7 +749,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about John F. Kennedy (11)</strong></summary>
+<summary><strong class="section-title">Statements about John F. Kennedy (14)</strong></summary>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
@@ -816,7 +816,21 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+
+- [00:01:46](/episodes/ep-Kmt6HgRjckU.md#t-00-01-20) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said in May 2025 that Mossad is mentioned in the JFK file..."](/statements/statement-e0e5542c1103.md)
+  - Also about: [Mossad](/entities/org-mossad.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:02:12](/episodes/ep-Kmt6HgRjckU.md#t-00-01-46) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk stated that Lyndon Baines Johnson and parts of the US gov..."](/statements/statement-1fe9963913be.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md)
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
+
+- [00:50:21](/episodes/ep-581dILVcEE4.md#t-00-50-03) (Claim) **Candace Owens**: ["JFK tried to make Israel follow FARA (Foreign Agents Registration Act)..."](/statements/statement-340721c28095.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
 
 - [00:50:36](/episodes/ep-581dILVcEE4.md#t-00-50-03) (Accusation) **Candace Owens**: ["When JFK tried to make Israel comply with FARA requirements, they shot..."](/statements/statement-e5bea1b3e8b6.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Foreign Agents Registration Act](/entities/law-fara.md)

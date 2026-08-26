@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (26 mentions)
+### Evidence (28 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -81,6 +81,10 @@ object: "person-candace-owens"
 
 - [00:02:02](/episodes/ep-UYkXV9mYbT4#t-00-02-02): _I have to go back to the beginning to fully comprehend how this case fell apart so quickly for Turning Point USA, for Erica Kirk, and what I think is fair to refer to as also their federal accomplices, because that's what it looks like to me._
 
+**[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
+
+- [00:07:50](/episodes/ep-X3VKJVJ7cN4#t-00-07-50): _Moving on to Turning Point USA and their affiliates, they are obviously losing their minds right now._
+
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 
 - [00:38:18](/episodes/ep-YeEtS7nix3o#t-00-38-18): _now we have to talk about Turning Point's disastrous Women's Leadership Summit. It was just, man, it's just sad to see what this once bright organization has become._
@@ -104,6 +108,10 @@ object: "person-candace-owens"
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 
 - [01:00:57](/episodes/ep-kaWtDuoY_ns#t-01-00-57): _it is for some reason very hard for Turning Point to surround themselves with pastors that do not have complicated pasts or presents._
+
+**[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
+
+- [00:48:44](/episodes/ep-puuMVxEu5NU#t-00-48-44): _The Turning Point USA went from capitalism to commies real quick, right?_
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 

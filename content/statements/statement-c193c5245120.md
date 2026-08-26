@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:12:47](/episodes/ep-sImMM04XdWY.md#t-00-12-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(767);return false;">Play</a>
 
-> A couple of days later, on February 24th, Charlie reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal in Ukraine
+> A couple of days later, on February 24th, Charlie (Charlie Kirk) reaches out, and he tells me that the White House is asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal in Ukraine.
 
 ## Verification
 

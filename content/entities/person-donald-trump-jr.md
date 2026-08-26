@@ -25,7 +25,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44">2026-07-14 · 00:05:02</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>38</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -413,6 +413,18 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:10:50](/episodes/ep-I0OaY6Gryqk.md#t-00-10-50): “they're playing like monopoly right they like figurines on a board they don't care okay how many do we need out here okay how many like they're like they're playing battleship it's not real it's not real because they have never had any true stake in the game right they don't have any skin in the game If does he have sons who know how to shoot? Yeah, actually, Don does.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Donald Trump Jr. (1)</strong></summary>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1)</summary>
+
+- [00:34:16](/episodes/ep-Qt0VHV-POCg.md#t-00-34-09) [○] (Claim) ["I do have confidence."](/statements/statement-59b7451155b5.md)
 
 </details>
 

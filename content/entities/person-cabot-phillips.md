@@ -26,7 +26,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -279,7 +279,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Cabot Phillips (8)</strong></summary>
+<summary><strong class="section-title">Statements about Cabot Phillips (10)</strong></summary>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
@@ -314,10 +314,13 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (6)</summary>
 
 - [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Witness Mitch identified Cabot Phillips as the person he saw at Fort H..."](/statements/statement-113b092b6b74.md)
   - Also about: [Mitch](/entities/person-mitch-fort-huachuca-witness.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:42:19](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49) (Claim) **Candace Owens**: ["Mitch tentatively identified Cabot Phillips from a photo, but Owens ca..."](/statements/statement-b16f405410db.md)
+  - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Mitch](/entities/person-mitch-fort-huachuca-witness.md)
 
 - [00:42:59](/episodes/ep-w1oqQbR_bYs.md#t-00-42-27) (Claim) **Candace Owens**: ["Cabot Phillips is missing from the Morning Wire show from September 4t..."](/statements/statement-88ef12af870f.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
@@ -326,6 +329,9 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 
 - [00:44:04](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46) (Claim) **Candace Owens**: ["Erika Kirk previously dated Cabot Phillips, a Daily Wire employee, in ..."](/statements/statement-b153bb3657cc.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:44:04](/episodes/ep-w1oqQbR_bYs.md#t-00-43-46) (Accusation) **Candace Owens**: ["Owens alleged, based on social-media material, that Erika Kirk and Cab..."](/statements/statement-fa70a647a5e4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

@@ -22,7 +22,7 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <div><span>Episodes</span><strong>18</strong></div>
 <div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -441,7 +441,7 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (22)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (23)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
@@ -537,9 +537,12 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3)</summary>
 
 - [00:03:03](/episodes/ep-JQjCAsfoXEE.md#t-00-02-35) (Claim) **Candace Owens**: ["Terrell Farnsworth doesn't do college campus events, only big events l..."](/statements/statement-ef4522af828e.md)
+
+- [00:12:08](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52) (Claim) **Candace Owens**: ["Terrell Farnsworth was at the Utah Valley University event on Septembe..."](/statements/statement-6bd3adc0a9ae.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:12:18](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52) (Claim) **Candace Owens**: ["Terrell Farnsworth does not do college campus events, he only does big..."](/statements/statement-13d527412b06.md)
   - Also about: [America Fest](/entities/event-america-fest.md)

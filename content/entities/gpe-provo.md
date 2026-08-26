@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 127 mentions"
+description: "Provo (Places) - 132 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -24,11 +24,11 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-provo-t-00-06-18">2026-06-26 · 00:06:48</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>127</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-provo-t-00-37-31">2026-07-20 · 00:37:47</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>132</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,7 +39,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-gpe-provo-t-00-18-54" style="--pulse-height:28%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 5 mentions" title="2025-09-30 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-07" style="--pulse-height:94%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 17 mentions" title="2025-10-30 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40" style="--pulse-height:94%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 17 mentions" title="2025-10-30 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-05-35" style="--pulse-height:56%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 10 mentions" title="2025-10-31 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-provo-t-00-05-44" style="--pulse-height:39%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 7 mentions" title="2025-11-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00" style="--pulse-height:28%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 5 mentions" title="2025-11-18 · 5 mentions"><span></span></a>
@@ -63,6 +63,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-provo-t-00-26-42" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-provo-t-00-17-04" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-provo-t-00-06-18" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-provo-t-00-11-36" style="--pulse-height:17%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-provo-t-00-37-31" style="--pulse-height:11%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,7 +72,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 |---|---|---:|
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15) | 1 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-provo-t-00-18-54) | 5 |
-| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-07) | 17 |
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40) | 17 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-05-35) | 10 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-provo-t-00-05-44) | 7 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-provo-t-00-05-00) | 5 |
@@ -94,6 +96,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-provo-t-00-26-42) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-provo-t-00-17-04) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-provo-t-00-06-18) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-provo-t-00-11-36) | 3 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-provo-t-00-37-31) | 2 |
 
 </details>
 </section>
@@ -101,7 +105,32 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (127)</strong></summary>
+<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:22:06](/episodes/ep-N4uM8Jdr410.md#ent-gpe-provo-t-00-37-31)**
+> "Of all places, he began at the Provo Police Department back in the early 2000s. Check out this article from 2004, before he joined the FBI. He was at the Provo Police Department."
+
+**[00:37:47](/episodes/ep-N4uM8Jdr410.md#ent-gpe-provo-t-00-37-31)**
+> "...Charlie Kirk) was in Orem, in Provo. I don't understand why you would make a journey."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3 mentions)</summary>
+
+**[00:11:57](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-provo-t-00-11-36)**
+> "...ey didn't want him to land in Provo. He does this restaurant event. His last intervie..."
+
+**[00:12:05](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-provo-t-00-11-36)**
+> "...lies into Salt Lake City, not Provo. Blake Neff was on board that private jet with Ch..."
+
+**[00:30:29](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-provo-t-00-30-29)**
+> "...s a car rented somewhere from Provo, Salt Lake City, or Las Vegas that was a Dodge Ch..."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
@@ -405,7 +434,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:23:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-provo-t-00-23-12)**
-> "...r yellow plane, which departed on the morning of Charlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
+> "Having them at UVU would not have been on my radar at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo,"
 
 </details>
 
@@ -530,14 +559,14 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (17 mentions)</summary>
 
-**[00:02:09](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-07)**
-> "...g all this in mountain time. Candace Owens: They dipped down to just 300 feet above ground over the Provo airport runway, and they made a loop. Candace Owens: I'm going to show you a screenshot here. This ..."
+**[00:02:09](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40)**
+> "They dipped down to just 300 feet above ground over the Provo airport runway, and they made a loop."
 
-**[00:03:23](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-02-48)**
-> "...or Texas once again on its return trip. Candace Owens: It dips again to just over 300 feet over the Provo Airport runway. Candace Owens: We're going to show you that again. Candace Owens: This is from Flig..."
+**[00:03:23](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40)**
+> "It dips again to just over 300 feet over the Provo Airport runway."
 
 **[00:05:46](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-05-40)**
-> "... take you through what that was doing. It caught a ton of attention because the plane departed from Provo, Utah at 1:20 p.m. local time. Candace Owens: In theory then, of course, yes, a person could have shot Ch..."
+> "But I will say that the Baugh-Maxfield plane—I'm gonna take you through what that was doing. It caught a ton of attention because the plane departed from Provo, Utah at 1:20 p.m. local time."
 
 **[00:06:34](/episodes/ep-iHav0PPzUz8.md#ent-gpe-provo-t-00-06-25)**
 > "...ot of the online conspiracies that were taking shape, the plane was actually empty when it departed Provo en route to Arizona, where he and some of his friends were picked up, and they were turned home to ..."
@@ -646,7 +675,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Provo (22)</strong></summary>
+<summary><strong class="section-title">Statements about Provo (28)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -730,24 +759,52 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3)</summary>
+
+- [00:03:22](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th, 2024 aboard Egyptian military..."](/statements/statement-9a21f286b0b6.md)
+  - Also about: [Walid Mahmood](/entities/person-walid-mahmood.md)
+
+- [00:13:44](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["The Egyptian plane that flew from Provo to Delaware on the morning of ..."](/statements/statement-433bf618ec0f.md)
+  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
+  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Walid Mahmood](/entities/person-walid-mahmood.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:05:48](/episodes/ep-mKXdKV-OBog.md#t-00-05-45) (Claim) **Candace Owens**: ["The yellow plane with tail number SUBTT stopped for just one hour in M..."](/statements/statement-d3549945a6fb.md)
+  - Also about: [Minot](/entities/gpe-minot.md), [North Dakota](/entities/gpe-north-dakota.md)
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
 
-- [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-19-55) (Claim) **Candace Owens**: ["A plane owned by T.W. Lewis Foundation, a Turning Point USA donor, dep..."](/statements/statement-fe34067004e8.md)
-  - Also about: [T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-19-55) (Claim) **Candace Owens**: ["Owens said N560TW, an aircraft registered to T W Lewis-Aviation LLC, f..."](/statements/statement-fe34067004e8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:39:36](/episodes/ep-581dILVcEE4.md#t-00-38-58) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole asked UVU about flying drones but was told the area lies..."](/statements/statement-24c856b55eb8.md)
+- [00:29:39](/episodes/ep-581dILVcEE4.md#t-00-29-05) (Claim) **Brian Harpole** (via quoted speech): ["Harpole said his team could not fly a drone at UVU because the site wa..."](/statements/statement-24c856b55eb8.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (4)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (6)</summary>
 
-- [00:05:44](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) (Claim) **Candace Owens**: ["On October 11th, I tweeted about the Egyptian military plane that left..."](/statements/statement-a8a04b25ada0.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
+- [00:05:44](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) (Claim) **Candace Owens**: ["On October 11, 2025, Candace Owens posted about the Egyptian aircraft ..."](/statements/statement-a8a04b25ada0.md)
+  - Also about: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:05:47](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) (Claim) **Candace Owens**: ["On September 10th, flight N560TW departed Scottsdale for Provo at 10:0..."](/statements/statement-c9cb25ecf21d.md)
   - Also about: [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
+
+- [00:12:33](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33) (Claim) **Candace Owens**: ["Charlie Kirk flew into Salt Lake City instead of the closer Provo airp..."](/statements/statement-0fd32996450c.md)
+  - Also about: [Salt Lake City](/entities/gpe-salt-lake-city.md), [Andrew K. Smith](/entities/person-andrew-k-smith.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:14](/episodes/ep-JQjCAsfoXEE.md#t-00-25-34) (Claim) **Candace Owens**: ["Flight N560TW departed Scottsdale, Arizona on the morning of September..."](/statements/statement-79fcbaf25dca.md)
+  - Also about: [September 10th](/entities/date-september-10th.md), [Santa Barbara](/entities/gpe-santa-barbara.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md)
 
 - [00:26:27](/episodes/ep-JQjCAsfoXEE.md#t-00-26-14) (Claim) **Candace Owens**: ["A plane with tail number N560TW departed Scottsdale on September 10th ..."](/statements/statement-d3981124cc21.md)
   - Also about: [Scottsdale, Arizona](/entities/gpe-scottsdale.md)

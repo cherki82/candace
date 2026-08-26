@@ -21,8 +21,8 @@ Source: [State of Minnesota](https://mn.gov/)
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -177,16 +177,9 @@ Source: [State of Minnesota](https://mn.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Location Of (2)</summary>
+<summary>Location Of (1)</summary>
 
 - **[Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09): “...that joint exercise took place in Minnesota at Camp Ripley...”
-
-</details>
-
-- **[Camp Ripley](/entities/gpe-camp-ripley.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09): “...Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Ope...”
@@ -197,16 +190,9 @@ Source: [State of Minnesota](https://mn.gov/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md)** based in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09): “...that joint exercise took place in Minnesota at Camp Ripley...”
-
-</details>
-
-- **[Camp Ripley](/entities/gpe-camp-ripley.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#t-00-16-09): “...Force Base. And that joint exercise took place in Minnesota at Camp Ripley, and that ran just for a couple of days until August 27th, and that was known as Ope...”
@@ -219,13 +205,21 @@ Source: [State of Minnesota](https://mn.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Minnesota (1)</strong></summary>
+<summary><strong class="section-title">Statements about Minnesota (2)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
 
 - [00:51:21](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-55) (Claim) **Candace Owens**: ["John T. Golle incorporated Education Alternatives in Minnesota and lat..."](/statements/statement-ccf81f332955.md)
   - Also about: [John T. Golle](/entities/person-john-t-golle.md), [Education Alternatives, Inc.](/entities/org-education-alternatives-inc.md), [Jeb Bush](/entities/person-jeb-bush.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:08:11](/episodes/ep-mKXdKV-OBog.md#t-00-07-51) (Claim) **Candace Owens**: ["Operation Valhalla Strike took place August 24th-29th, 2024, where the..."](/statements/statement-95e5b46aded2.md)
+  - Also about: [891st Missile Security Forces Squadron](/entities/org-891st-missile-security-forces-squadron.md), [Minot Air Force Base](/entities/org-minot-air-force-base.md)
 
 </details>
 

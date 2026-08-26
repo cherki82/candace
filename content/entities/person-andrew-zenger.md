@@ -1,6 +1,6 @@
 ---
 title: "Andrew Zenger"
-description: "Andrew Zenger (People) - 11 mentions"
+description: "Andrew Zenger (People) - 12 mentions"
 id: "person-andrew-zenger"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44">2025-09-30 · 00:30:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-47-40">2026-04-01 · 00:48:06</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-zenger-t-00-20-08">2026-07-20 · 00:20:38</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,6 +34,7 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 2 mentions" title="2025-09-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34" style="--pulse-height:12%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-58" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 8 mentions" title="2026-04-01 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-zenger-t-00-20-08" style="--pulse-height:12%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-person-andrew-zenger-t-00-30-44) | 2 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-andrew-zenger-t-00-05-34) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-andrew-zenger-t-00-23-58) | 8 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-zenger-t-00-20-08) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:20:38](/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-zenger-t-00-20-08)**
+> "Remember, we have the CEO of Timpanogos Regional Hospital, Andrew Zenger. He was appointed just a couple of weeks before Charlie Kirk's assassination."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (8 mentions)</summary>
@@ -110,9 +120,9 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 - **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “brand-new CEO and head surgeon named Andrew Zenger”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger”
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “our brand spanking new ceo of timpanogos don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:55](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “And also something new is that that hospital had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger—a lot of new stuff happening.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:20:38](/episodes/ep-N4uM8Jdr410.md#t-00-20-08): “Remember, we have the CEO of Timpanogos Regional Hospital, Andrew Zenger. He was appointed just a couple of weeks before Charlie Kirk's assassination.”
 
 </details>
 
@@ -188,9 +198,9 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 - **[Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)** has CEO this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:31:05](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “brand-new CEO and head surgeon named Andrew Zenger”
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): “the hospital that Charlie was taken to... had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger”
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:23:30](/episodes/ep-rupRLXmSndU.md#t-00-23-21): “our brand spanking new ceo of timpanogos don't think i forgot about andrew zenger remember he was appointed the ceo of timpanogos just ahead of charlie's assassination”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:30:55](/episodes/ep-YA1FxrDWNIo.md#t-00-30-44): “And also something new is that that hospital had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger—a lot of new stuff happening.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:20:38](/episodes/ep-N4uM8Jdr410.md#t-00-20-08): “Remember, we have the CEO of Timpanogos Regional Hospital, Andrew Zenger. He was appointed just a couple of weeks before Charlie Kirk's assassination.”
 
 </details>
 
@@ -206,7 +216,15 @@ Source: [Andrew Zenger named CEO of Timpanogos Regional Hospital](https://www.mo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Zenger (3)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Zenger (4)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:20:38](/episodes/ep-N4uM8Jdr410.md#t-00-20-08) (Claim) **Candace Owens**: ["Candace Owens said Andrew Zenger was appointed CEO of Timpanogos Regio..."](/statements/statement-0794d980a807.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>

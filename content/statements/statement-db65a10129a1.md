@@ -33,7 +33,7 @@ veracity: "true"
 **Timestamp:** [00:10:19](/episodes/ep-_dRaEO47-co.md#t-00-09-57) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(619);return false;">Play</a>
 
-> Kanye West tweets, I love the way Candace thinks
+> So you can only imagine when just a couple of months later, we've been listening to Kanye's old albums on repeat, suddenly Kanye West tweets, “I love the way Candace (Candace Owens) thinks.”
 
 ### 2. Bride Of Charlie: Red Sparrow | Episode 8
 

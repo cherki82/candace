@@ -12,7 +12,7 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-james-comey-t-00-09-05">2025-10-02 · 00:09:33</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -52,5 +52,17 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by James Comey (1)</strong></summary>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1)</summary>
+
+- [00:09:33](/episodes/ep-t1YtLS1n8Vs.md#t-00-09-05) [✓] (Claim) ["James Comey wrote love letters to the ADL and embedded FBI agents with them."](/statements/statement-de90f486daf4.md)
+
+</details>
 
 </details>

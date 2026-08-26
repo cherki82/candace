@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:06:06](/episodes/ep-6J6lRZPQ4jk.md#t-00-05-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(366);return false;">Play</a>
 
-> And Bari is obviously just a Tel Aviv agent. Her entire background story, her rise, her studying in Tel Aviv, her family ties, the hand of Midas pulling her through the ranks
+> And Bari (Bari Weiss) is obviously just a Tel Aviv agent. Her entire background story, her rise, her studying in Tel Aviv, her family ties,
 
 ## Verification
 

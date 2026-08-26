@@ -1,14 +1,14 @@
 ---
 id: "K5GjF53bfN4"
 title: "Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243"
-description: "Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 - 73 entities, 8 events, 0 claims"
+description: "Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 - 74 entities, 8 events, 42 factual claims"
 published: "2025-09-25"
 youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 ---
 
 **Published:** 2025-09-25 | [Watch on YouTube](https://www.youtube.com/watch?v=K5GjF53bfN4)
 
-**Stats:** 73 entities | 8 events | 0 claims
+**Stats:** 74 entities | 8 events | 42 factual claims
 
 ---
 
@@ -214,7 +214,9 @@ youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (73)</strong></summary>
+<summary><strong>Entities Mentioned (74)</strong></summary>
+
+**Anonymous Sources:** [Anonymous legacy source (claim-e980f3d2e962)](/entities/anon-src-K5GjF53bfN4-legacy-7c117fc2.md)
 
 **Concepts:** [Christians](/entities/concept-christians.md), [Doge](/entities/concept-doge.md), [God](/entities/concept-god.md), [Operation Mocking Pastor](/entities/concept-operation-mocking-pastor.md), [Zionism](/entities/concept-zionism.md)
 
@@ -226,28 +228,77 @@ youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 
 **Organizations:** [Amazon](/entities/org-amazon.md), [Better Business Bureau](/entities/org-better-business-bureau.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Freemasons](/entities/org-freemasons.md), [Google](/entities/org-google.md), [Hamas](/entities/org-hamas.md), [IDF](/entities/org-idf.md), [Instagram](/entities/org-instagram.md), [Just Thrive](/entities/org-just-thrive.md), [Orem Police Department](/entities/org-orem-police-department.md), [PDS Debt](/entities/org-pds-debt.md), [PragerU](/entities/org-prageru.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Trustpilot](/entities/org-trustpilot.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Twitter](/entities/org-twitter.md), [Wendy's](/entities/org-wendys.md), [YouTube](/entities/org-youtube.md), [the federal government](/entities/org-the-federal-government.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Tate](/entities/person-andrew-tate.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Emily (Emily Saves America)](/entities/person-emily-saves-america.md), [Erika Kirk](/entities/person-erika-kirk.md), [Greta Van Susteren](/entities/person-greta-van-susteren.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Bieber](/entities/person-justin-bieber.md), [Justin Streiff](/entities/person-justin-streiff.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Marissa Streit](/entities/person-marissa-streit.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Natasha Hausdorff](/entities/person-natasha-hausdorff.md), [Nikki Haley](/entities/person-nikki-haley.md), [Schuyler Pryor](/entities/person-schuyler-pryor.md), [Seth Dillon](/entities/person-seth-dillon.md), [Spencer Cox](/entities/person-spencer-cox.md), [Taylor Lorenz](/entities/person-taylor-lorenz.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md), [Xavier DeRusso](/entities/person-xavier-derusso.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Tate](/entities/person-andrew-tate.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Emily (Emily Saves America)](/entities/person-emily-saves-america.md), [Erika Kirk](/entities/person-erika-kirk.md), [Greta Van Susteren](/entities/person-greta-van-susteren.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Bieber](/entities/person-justin-bieber.md), [Justin Streiff](/entities/person-justin-streiff.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Marissa Streit](/entities/person-marissa-streit.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Natasha Hausdorff](/entities/person-natasha-hausdorff.md), [Nikki Haley](/entities/person-nikki-haley.md), [Schuyler Pryor](/entities/person-schuyler-pryor.md), [Seth Dillon](/entities/person-seth-dillon.md), [Spencer Cox](/entities/person-spencer-cox.md), [Taylor Lorenz](/entities/person-taylor-lorenz.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md), [Xavier DeRusso](/entities/person-xavier-derusso.md)
 
 **Works & Media:** [Blackout](/entities/work-blackout.md), [Chaos](/entities/work-chaos.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
 
 </details>
 
 <details>
-<summary><strong>Statements (7)</strong></summary>
+<summary><strong>Statements (50)</strong></summary>
 
+- [00:00:01](#t-00-00-01) [○] (Claim) **Candace Owens**: ["A week before Charlie Kirk died, he expressed concerns about the finances at Tur..."](/statements/statement-94f874cbe6e9.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:00:01](#t-00-00-01) [○] (Claim) **Candace Owens**: ["a week before Charlie Kirk lost his life, he expressed some concerns about the f..."](/statements/statement-598d907e231a.md)
+- [00:00:08](#t-00-00-01) [○] (Claim) **Candace Owens**: ["Charlie Kirk wanted to put together an entire department, a little mini-departme..."](/statements/statement-e22de4edd098.md)
 - [00:01:01](#t-00-00-45) [○] (Claim) **Candace Owens**: ["A week before Charlie Kirk lost his life, he expressed concerns about the financ..."](/statements/statement-02df53a31888.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:01:53](#t-00-01-27) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu tweeted before the president of the United States that Charli..."](/statements/statement-23ebffb50664.md)
+- [00:01:53](#t-00-01-27) [✗] (Claim) **Candace Owens**: ["Benjamin Netanyahu tweeted before the president of the United States that Charli..."](/statements/statement-23ebffb50664.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+- [00:01:58](#t-00-01-58) [◐] (Accusation) **Candace Owens**: ["Benjamin Netanyahu lied about the contents of a letter that Charlie Kirk had wri..."](/statements/statement-c2590b3560dd.md)
 - [00:02:14](#t-00-01-58) [○] (Accusation) **Candace Owens**: ["Benjamin Netanyahu lied about the contents of a letter that Charlie Kirk had wri..."](/statements/statement-38173fb59c3a.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:02:23](#t-00-01-58) [○] (Accusation) **Candace Owens**: ["Josh Hammer and Seth Dillon have not been honest or forthcoming about the pressu..."](/statements/statement-352decbb4217.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
+- [00:02:23](#t-00-01-58) [○] (Claim) **Candace Owens**: ["They have not yet been honest or forthcoming about the pressure that they and ot..."](/statements/statement-4a3091721785.md)
+- [00:02:50](#t-00-02-40) [✓] (Claim) **Candace Owens**: ["Bill Ackman replies with an essay. A college essay, 959 words to be precise, was..."](/statements/statement-33e57d9a6cb9.md)
+- [00:02:52](#t-00-02-40) [✓] (Claim) **Candace Owens**: ["Benjamin Netanyahu calling Charlie Kirk and inviting him to Israel."](/statements/statement-e2ac98a9fa45.md)
+- [00:02:52](#t-00-02-40) [○] (Claim) **Candace Owens**: ["It was at this time that Benjamin Netanyahu was called and Charlie was invited t..."](/statements/statement-79c5d18157f7.md)
+  - About: [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:03:00](#t-00-02-40) [○] (Claim) **Candace Owens**: ["Bill Ackman replied with a 959-word college essay in response to Candace discuss..."](/statements/statement-3ba223e8fde0.md)
   - About: [Bill Ackman](/entities/person-bill-ackman.md)
+- [00:03:00](#t-00-02-40) [○] (Accusation) **Candace Owens**: ["Bill Ackman replied with a 959-word essay in response to Candace Owens speaking ..."](/statements/statement-4ae1e19d2777.md)
+  - About: [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:03:15](#t-00-02-40) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu and the offer to take Turning Point to the next level financi..."](/statements/statement-a73fbc4b7385.md)
+- [00:03:47](#t-00-03-26) [✓] (Accusation) **Candace Owens**: ["Xaviaer DuRousseau was at the Hamptons weekend meeting and confirmed that Charli..."](/statements/statement-9dd67b93ebbf.md)
 - [00:04:02](#t-00-03-26) [○] (Claim) **Candace Owens**: ["Xavier DeRusso was at the weekend meeting in the Hamptons and said Charlie Kirk ..."](/statements/statement-f5903981266a.md)
   - About: [Xavier DeRusso](/entities/person-xavier-derusso.md)
+- [00:05:11](#t-00-05-05) [○] (Claim) **Candace Owens**: ["Natasha Hausdorff and Seth Dillon were at the Hamptons meeting, and Seth Dillon ..."](/statements/statement-db58e00a8ec8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Seth Dillon](/entities/person-seth-dillon.md)
+- [00:05:11](#t-00-05-11) [◐] (Claim) **Candace Owens**: ["Seth Dillon was the one that was applying pressure to him, and Seth Dillon and J..."](/statements/statement-0d37b073c27f.md)
+- [00:06:17](#t-00-05-39) [○] (Claim) **Candace Owens**: ["This weekend was kept hush-hush, which is extraordinarily unusual for a Turning ..."](/statements/statement-9b2321558d38.md)
 - [00:08:29](#t-00-08-02) [○] (Claim) **Candace Owens**: ["Marissa Streit worked for IDF intelligence"](/statements/statement-a79cac0024e9.md)
   - About: [Marissa Streit](/entities/person-marissa-streit.md)
+- [00:08:33](#t-00-08-02) [○] (Claim) **Candace Owens**: ["Marissa Streit worked for the Israeli government according to Candace Owens"](/statements/statement-660dd72a4e76.md)
+- [00:08:33](#t-00-08-02) [◐] (Claim) **Candace Owens**: ["Marissa Streit has not always been open about the fact that she worked for the I..."](/statements/statement-bec4c82c5d40.md)
+- [00:08:35](#t-00-08-02) [○] (Claim) **Candace Owens**: ["Charlie was literally facing financial threats over his speech."](/statements/statement-15bc0ebd9bec.md)
+- [00:09:08](#t-00-08-44) [○] (Claim) **Candace Owens**: ["Turning Point will not release the footage"](/statements/statement-a88064bb3306.md)
+- [00:11:34](#t-00-11-24) [○] (Claim) **Candace Owens**: ["We haven't received any updates whatsoever on the raid that took place of Lance'..."](/statements/statement-baa1d7d044f1.md)
+- [00:13:53](#t-00-13-28) [○] (Claim) **Candace Owens**: ["Neither the feds nor the local police had ever reached out to him, never."](/statements/statement-ed3b814e7988.md)
+- [00:14:12](#t-00-13-28) [○] (Claim) **Candace Owens**: ["neither the feds nor the local police had ever reached out to the person who fil..."](/statements/statement-e9997e021f7a.md)
+- [00:15:40](#t-00-15-27) [○] (Claim) **Candace Owens**: ["The feds never reached out to him until the 15th. After Governor Cox said the in..."](/statements/statement-53096453b56a.md)
+- [00:15:46](#t-00-15-27) [○] (Claim) **Candace Owens**: ["he walked in and gave the footage to the Orem Police Department... the feds neve..."](/statements/statement-8d714cd769f7.md)
+- [00:19:25](#t-00-19-04) [○] (Claim) **Candace Owens**: ["there arrived a moment when Charlie felt that the money was disappearing"](/statements/statement-473610f0022f.md)
+- [00:19:32](#t-00-19-04) [✓] (Claim) **Candace Owens**: ["something that big, you're clearing $100 million a year"](/statements/statement-1396859df459.md)
+- [00:19:45](#t-00-19-04) [○] (Claim) **Candace Owens**: ["He felt that, again, according to sources, that the company was burning through ..."](/statements/statement-0accd77e1209.md)
+- [00:20:19](#t-00-19-45) [○] (Claim) **Candace Owens**: ["on September 2nd... Charlie Kirk surprised the company by announcing that he was..."](/statements/statement-4141aa25f059.md)
+- [00:21:06](#t-00-20-28) [○] (Claim) **Candace Owens**: ["effective immediately, Justin Strief is taking on a new elevated role with Turni..."](/statements/statement-4e425a7be618.md)
+- [00:21:13](#t-00-21-13) [○] (Claim) **Charlie Kirk**: ["A purported internal memo attributed to Charlie Kirk announced Justin Streiff as..."](/statements/statement-2ac1c1599c51.md)
+- [00:21:13](#t-00-21-13) [○] (Claim) **Candace Owens**: ["On September 2nd, Charlie Kirk signed an internal memo announcing Justin Strief ..."](/statements/statement-c432fe4f7d42.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:23:20](#t-00-22-38) [○] (Claim) **Candace Owens**: ["There are journalists, forensic accountants, that have been hired. And what I ha..."](/statements/statement-5263a81a332f.md)
+- [00:23:26](#t-00-23-23) [○] (Claim) **Anonymous legacy source (claim-e980f3d2e962)**: ["sources at Turning Point said that Charlie Kirk wasn't just concerned about wher..."](/statements/statement-97030e83c446.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:24:00](#t-00-24-00) [○] (Promise) **Candace Owens**: ["I've seen a lot, and I'm going to allow the reports to come out next week"](/statements/statement-f4fbbbb93a9a.md)
+- [00:31:11](#t-00-30-54) [○] (Claim) **Candace Owens**: ["there was more footage which showed the person that they alleged, Tyler Robinson..."](/statements/statement-1e7b981a88e3.md)
+- [00:32:42](#t-00-32-22) [○] (Claim) **Candace Owens**: ["she is stepping into a role: a CEO and the chairman of a company"](/statements/statement-8eccacfa95db.md)
+- [00:34:34](#t-00-33-50) [○] (Claim) **Candace Owens**: ["This is a woman who consulted a priest and prayed when she felt that somebody ha..."](/statements/statement-1fdacb0ea9c0.md)
+- [00:38:03](#t-00-37-25) [○] (Claim) **Candace Owens**: ["investigating Charlie's murder"](/statements/statement-171200301d35.md)
+- [00:38:34](#t-00-38-08) [○] (Claim) **Candace Owens**: ["there were a lot of pastors that were around Charlie who weren't exactly honest ..."](/statements/statement-84d7a1ee8f40.md)
+- [00:38:45](#t-00-38-08) [○] (Opinion) **Candace Owens**: ["a lot of these organizations that are like Christian and Jews, organizations, fu..."](/statements/statement-e8287001fbeb.md)
+- [00:39:18](#t-00-38-45) [○] (Claim) **Candace Owens**: ["Operation Mockingpastor is a real thing."](/statements/statement-dc6e6c2d5f88.md)
+- [00:40:46](#t-00-40-06) [○] (Claim) **Candace Owens**: ["Amazon came out and said that it was a technical error because I guess you can a..."](/statements/statement-9365c02102b6.md)
+- [00:41:57](#t-00-41-28) [✓] (Claim) **Candace Owens**: ["like Nikki Haley signing bombs, people going over there to sign bombs that are g..."](/statements/statement-fcfb657e0f6a.md)
+- [00:43:27](#t-00-42-54) [○] (Opinion) **Candace Owens**: ["that is very suspect. Like I said, it's starting to feel like a government signa..."](/statements/statement-75f7ba25fc3c.md)
 
 </details>

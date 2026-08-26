@@ -23,7 +23,7 @@ type: "factual_claim"
 - [Calvary Chapel](/entities/org-calvary-chapel.md) (org)
 - [Britney Spears](/entities/person-britney-spears.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
@@ -40,6 +40,14 @@ type: "factual_claim"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(276);return false;">Play</a>
 
 > the Calvary Chapel was also involved in Britney Spears' conservatorship.
+
+### 3. From Britney To Charlie. With Pastors Like These, Who Needs ...
+
+**Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
+**Timestamp:** [00:04:40](/episodes/ep-7RLtGgkTh9o.md#t-00-04-14) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(280);return false;">Play</a>
+
+> Thank you guys—telling me to stay the course because the Calvary Chapel was also involved in Britney Spears' conservatorship
 
 ## Verification
 

@@ -83,16 +83,16 @@ _Type: People_
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
 
 **[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ted-cruz-t-00-30-51)**
-> "... like Ben Shapiro, Clay Travis, Candace (Candace Owens), Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, believe it or not, said something very beautiful on my behalf. I hate what Jimmy Kimmel said...."
+> "like Ben Shapiro, Clay Travis, Candace Owens, Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, believe it or not, said something very beautiful on my behalf."
 
 **[00:31:17](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ted-cruz-t-00-30-51)**
 > "even my old pal Ted Cruz, who, believe it or not, said something very beautiful"
 
-**[00:31:45](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ted-cruz-t-00-31-45)**
-> "...hat we like." That will end up bad for conservatives. I don't think I've ever said this before, but Ted Cruz is right. He's absolutely right. This affects all of us, including him. I mean, think about it. If ..."
-
 **[00:31:56](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ted-cruz-t-00-31-45)**
 > "... is right. He's absolutely right. This affects all of us, including him. I mean, think about it. If Ted Cruz can't speak freely, then he can't cast spells on the Smurfs. Even though I don't agree with many of..."
+
+**[00:31:45](/episodes/ep-QZWSsq8ZWzw.md#ent-person-ted-cruz-t-00-31-45)**
+> "I don't think I've ever said this before, but Ted Cruz is right."
 
 </details>
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:53:06](/episodes/ep-sreYYcID-QY.md#t-00-52-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3186);return false;">Play</a>
 
-> Not until there's this memorial thing in Arizona,' which is not a funeral; it's a memorial event. That is, by the way, in large part—from what I understand—being controlled by the White House. Donald Trump (Donald Trump) is controlled by Zionists
+> Not until there's this memorial thing in Arizona,” which is not a funeral; it's a memorial event. That is, by the way, in large part—from what I understand—being controlled by the White House.
 
 ## Verification
 

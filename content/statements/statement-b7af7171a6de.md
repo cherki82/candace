@@ -4,9 +4,10 @@ description: "\"The Senate has voted and passed a bipartisan resolution to desig
 statement_id: "statement-b7af7171a6de"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -42,7 +43,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Official Senate statements and multiple news sources (e.g., ABC News, The Hill, Axios) confirm the U.S. Senate passed a resolution by unanimous consent designating October 14—Charlie Kirk's birthday—as the National Day of Remembrance for Charlie Kirk. The passage is described as a rare bipartisan recognition, with no opposition from any senators, though sponsorship was primarily Republican.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Sen. Rick Scott Leads Unanimous Passage of Resolution Designating October 14th National Day of Remembrance for Charlie Kirk](https://www.rickscott.senate.gov/2025/9/sen-rick-scott-leads-unanimous-passage-of-resolution-designating-october-14th-national-day-of-remembrance-for-charlie-kirk)
+
+*Verified: 2026-08-26T08:07:07.475244*
 
 ---
 

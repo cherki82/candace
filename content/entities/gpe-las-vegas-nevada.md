@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas, Nevada"
-description: "Las Vegas, Nevada (Places) - 64 mentions"
+description: "Las Vegas, Nevada (Places) - 67 mentions"
 id: "gpe-las-vegas-nevada"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49">2026-06-23 · 00:01:06</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29">2026-07-16 · 00:40:33</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -60,6 +60,8 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-las-vegas-nevada-t-00-36-41" style="--pulse-height:10%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49" style="--pulse-height:10%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-03" style="--pulse-height:20%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29" style="--pulse-height:10%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +89,8 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26) | 4 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-las-vegas-nevada-t-00-36-41) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-03) | 2 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29) | 1 |
 
 </details>
 </section>
@@ -94,7 +98,26 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:40:33](/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29)**
+> "I would also say Las Vegas"
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:30:03](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-03)**
+> "... maybe just in the area—maybe Las Vegas, around Salt Lake City—"
+
+**[00:30:29](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-29)**
+> "...rom Provo, Salt Lake City, or Las Vegas that was a Dodge Challenger. I just find that tha..."
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
@@ -352,10 +375,10 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > "...tz dead in the driveway of the family's mansion in 1996. Two years later, the decomposing body of a Las Vegas prostitute was found stuffed in the air conditioner of a seedy motel. She was killed by three hired..."
 
 **[00:10:39](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-10-27)**
-> "...eared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So she and her husband, Christopher Mosley, had her killed. Both John DuPont and Mosley..."
+> "It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker."
 
 **[00:12:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-las-vegas-nevada-t-00-12-37)**
-> "...pposed to have a registered agent—and people tend to choose between Wyoming and Delaware, sometimes Las Vegas, to form their own corporations. But wow—what are the chances that Stacey Sheridan has a registered..."
+> "now, having a registered agent in Delaware is—when you have an LLC, you're supposed to have a registered agent—and people tend to choose between Wyoming and Delaware, sometimes Las Vegas, to form their own corporations."
 
 </details>
 
@@ -451,7 +474,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Las Vegas, Nevada (11)</strong></summary>
+<summary><strong class="section-title">Statements about Las Vegas, Nevada (12)</strong></summary>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>
@@ -500,9 +523,11 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
 
 - [00:34:20](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Candace Owens**: ["The 702 call sign on military flights may reference Las Vegas area cod..."](/statements/statement-9f738f51f413.md)
+
+- [00:34:23](/episodes/ep-w1oqQbR_bYs.md#t-00-33-40) (Claim) **Candace Owens**: ["The number 702 in the aircraft call signs is also the Las Vegas area c..."](/statements/statement-f1340a1c50d0.md)
 
 </details>
 

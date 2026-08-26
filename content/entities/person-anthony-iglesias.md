@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,5 +52,17 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Anthony Iglesias (1)</strong></summary>
+
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1)</summary>
+
+- [00:20:40](/episodes/ep-yAIb-NuUh_U.md#t-00-20-23) (Claim) **Candace Owens**: ["Anthony L. Iglesias had been convicted of sexually abusing two Kootena..."](/statements/statement-1d418557affc.md)
+
+</details>
 
 </details>

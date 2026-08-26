@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:28:52](/episodes/ep-7RLtGgkTh9o.md#t-00-28-42) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1732);return false;">Play</a>
 
-> Lou Taylor for Kim Kardashian and Diddy. Jay-Z, Beyoncé—and she also owns the home church, Churchome, to get Bieber from Hillsong.
+> "Jay-Z, Beyoncé—and she also owns the home church, Churchome, to get Bieber from Hillsong."
 
 ## Verification
 

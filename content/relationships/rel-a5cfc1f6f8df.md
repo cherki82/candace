@@ -19,7 +19,7 @@ object: "person-tyler-bowyer"
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 
-- [00:04:43](/episodes/ep-c5BcKF91iec#t-00-04-43): _All of those people, by the way, were actually brought in by Tyler Boyer._
+- [00:04:43](/episodes/ep-c5BcKF91iec#t-00-04-43): _All of those people, by the way, were actually brought in by Tyler Bowyer._
 
 ### Related
 

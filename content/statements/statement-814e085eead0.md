@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:35:49](/episodes/ep-t4U7NjnUEgc.md#t-00-35-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2149);return false;">Play</a>
 
-> Pierre Falcone had a partner named Arkady Gaidemach. Didn't expect that to be relevant to anything, but they were both involved in Angola Gate, which was global trafficking at the highest levels of government.
+> I had mentioned that he had a partner, Pierre Falcone (Pierre Falcone) had a partner named Arkady Gaidemach (Arkady Gaidemach). Didn't expect that to be relevant to anything, but they were both involved in Angola Gate, which was global trafficking at the highest levels of government.
 
 ## Verification
 

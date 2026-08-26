@@ -1,14 +1,14 @@
 ---
 id: "es7PWdFGoFI"
 title: "Erika And I Sat Down. Here’s What Happened. | Candace Ep 280"
-description: "Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 - 25 entities, 3 events, 0 claims"
+description: "Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 - 25 entities, 3 events, 103 factual claims"
 published: "2025-12-16"
 youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
 ---
 
 **Published:** 2025-12-16 | [Watch on YouTube](https://www.youtube.com/watch?v=es7PWdFGoFI)
 
-**Stats:** 25 entities | 3 events | 0 claims
+**Stats:** 25 entities | 3 events | 103 factual claims
 
 ---
 

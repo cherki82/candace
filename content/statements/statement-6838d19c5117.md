@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:55:58](/episodes/ep-2WEHTk0Xewg.md#t-00-55-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3358);return false;">Play</a>
 
-> a source told me—and I would love to get this confirmed—I'm going to find this out—that $150 million was spent on that. And it came from Benjamin Netanyahu
+> I'm going to find this out—that $150 million was spent on that. And it came from Benjamin Netanyahu (Benjamin Netanyahu).
 
 ## Verification
 

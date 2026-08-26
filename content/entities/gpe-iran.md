@@ -24,10 +24,10 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54">2026-08-14 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
 <div><span>Mentions</span><strong>215</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>85</strong></div>
+<div><span>Statements about</span><strong>86</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,7 +42,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-5autG89PW6w.md#ent-gpe-iran-t-00-00-00" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09" style="--pulse-height:30%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 7 mentions" title="2025-11-08 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09" style="--pulse-height:22%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 5 mentions" title="2025-11-08 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-59" style="--pulse-height:26%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 6 mentions" title="2025-11-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32" style="--pulse-height:65%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 15 mentions" title="2026-01-13 · 15 mentions"><span></span></a>
@@ -84,6 +84,8 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iran-t-00-48-20" style="--pulse-height:9%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-iran-t-00-47-18" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-iran-t-00-38-09" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-iran-t-00-49-39" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-iran-t-00-51-41" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -96,7 +98,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-gpe-iran-t-00-00-00) | 1 |
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-iran-t-00-04-45) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-iran-t-00-50-59) | 1 |
-| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09) | 7 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09) | 5 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iran-t-00-08-59) | 6 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32) | 15 |
@@ -138,6 +140,8 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iran-t-00-48-20) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-iran-t-00-47-18) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-iran-t-00-38-09) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-iran-t-00-49-39) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-iran-t-00-51-41) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
 
 </details>
@@ -153,6 +157,22 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 **[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
 > "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:51:49](/episodes/ep-N4uM8Jdr410.md#ent-gpe-iran-t-00-51-41)**
+> "Frank Turek—somebody was full of it. I'm sorry. Um, Ali (commenter; surname unverified) writes, 'Have you seen the clip where Erika says, We don't know how Charlie would feel about the Iran war?' Yeah, I saw that. That deserves way more outrage. Tucker (Tucker Carlson), Bret Weinstein, Joe (Joe Kent) have all confirmed that he was fighting hard behind the scenes to stop it. What a betrayal. It's just what Erika (Erika Kirk) is—what she is. She's reversed course on everything, everything that Charlie (Charlie Kirk) believed. I believe she had more loyalty to people that brought her in—"
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:49:39](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-iran-t-00-49-39)**
+> "...y to Zionists, lied about the Iran war views, abandoned Massie (Thomas Massie), and ..."
 
 </details>
 
@@ -953,28 +973,22 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (7 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
 
 **[00:07:30](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09)**
-> "...ame week that everybody in D.C. has focused thousands of miles away on the greatest threat we face, Iran's nuclear program. I don't want Iran to have the bomb. I'm not pro-Iran, obviously. No, we're not p..."
+> "... the greatest threat we face, Iran's nuclear program."
 
 **[00:07:39](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09)**
-> "...ocused thousands of miles away on the greatest threat we face, Iran's nuclear program. I don't want Iran to have the bomb. I'm not pro-Iran, obviously. No, we're not pro-Iran. Like, why do we have to say ..."
-
-**[00:07:41](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09)**
-> "...he greatest threat we face, Iran's nuclear program. I don't want Iran to have the bomb. I'm not pro-Iran, obviously. No, we're not pro-Iran. Like, why do we have to say it? No, right. It's dumb. But at th..."
-
-**[00:07:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-09)**
-> "...nuclear program. I don't want Iran to have the bomb. I'm not pro-Iran, obviously. No, we're not pro-Iran. Like, why do we have to say it? No, right. It's dumb. But at the same time that everybody was look..."
+> "I don't want Iran to have the bomb."
 
 **[00:07:46](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-07-46)**
-> "... why do we have to say it? No, right. It's dumb. But at the same time that everybody was looking to Iran, our largest city had a Democratic primary, effectively the mayor's race, and a 32-year-old sociali..."
+> "...that everybody was looking to Iran, our largest city had a Democratic primary, effec..."
 
 **[00:39:46](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-39-41)**
-> "...ionship with Israel. He's taken over $230 million from pro-Israel groups. During the summer against Iran, even though he advised against it, Israel still attacked Iran and the U.S. still bombed on behalf ..."
+> "During the summer against Iran, even though he advised against it, Israel still ..."
 
 **[00:41:01](/episodes/ep-r1PS67aRmcA.md#ent-gpe-iran-t-00-41-01)**
-> "...weapon against the Western way of life. There's no question about it. In response to the nukes from Iran, Israel has nuclear weapons and is not a part of the IAEA, unlike Iran. And it's just sad to see be..."
+> "In response to the nukes from Iran, Israel has nuclear weapons and is not a part of ..."
 
 </details>
 
@@ -1160,7 +1174,15 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (85)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (86)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:51:49](/episodes/ep-N4uM8Jdr410.md#t-00-51-41) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Tucker Carlson, Bret Weinstein, and Joe Kent had al..."](/statements/statement-c61a4715d355.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Bret Weinstein](/entities/person-bret-weinstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>

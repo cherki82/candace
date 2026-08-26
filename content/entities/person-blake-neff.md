@@ -1,11 +1,12 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 225 mentions"
+description: "Blake Neff (People) - 260 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
   - "Neff"
   - "Blakey Neff"
+  - "Blakey Poo"
 categories:
   - "political media"
   - "The Charlie Kirk Show"
@@ -13,7 +14,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Neff, Blakey Neff
+**Also known as:** Neff, Blakey Neff, Blakey Poo
 
 **Categories:** political media, The Charlie Kirk Show
 
@@ -23,12 +24,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-01-15-59">2026-07-14 · 01:15:59</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>225</strong></div>
-<div><span>Statements by</span><strong>22</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
-<div><span>Relationships</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-47-30">2026-07-20 · 00:47:30</a></strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>260</strong></div>
+<div><span>Statements by</span><strong>36</strong></div>
+<div><span>Statements about</span><strong>34</strong></div>
+<div><span>Relationships</span><strong>29</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -87,6 +88,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45" style="--pulse-height:56%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 9 mentions" title="2026-06-22 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-25-15" style="--pulse-height:12%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-00-21-46" style="--pulse-height:12%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-00-42" style="--pulse-height:88%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 14 mentions" title="2026-07-14 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-00-01" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-00-56" style="--pulse-height:38%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05" style="--pulse-height:44%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 7 mentions" title="2026-07-20 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -143,6 +148,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45) | 9 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-25-15) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-00-21-46) | 2 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-00-42) | 14 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-00-01) | 8 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-00-56) | 6 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05) | 7 |
 
 </details>
 </section>
@@ -150,7 +159,85 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (225)</strong></summary>
+<summary><strong class="section-title">Raw mentions (260)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (7 mentions)</summary>
+
+**[00:36:16](/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05)**
+> "And Blake Neff, man, this guy."
+
+**[00:36:21](/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05)**
+> "Blake Neff doesn't remember what city. At first, he says he ..."
+
+**[00:37:59](/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-37-59)**
+> "...nt, full stop, because Blake (Blake Neff) didn't go. But he flew with Charlie, but we know..."
+
+**[00:38:46](/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-38-34)**
+> "..., and I'd like to help Blake (Blake Neff). I think that that's really sad, that he can't r..."
+
+**[00:39:18](/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-39-18)**
+> "... might be able to help Blake (Blake Neff) out."
+
+**[00:39:30](/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-39-18)**
+> "...ow interesting because Blake (Blake Neff) has developed—"
+
+**[00:47:30](/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-47-30)**
+> ".... Next up, Antarctica wrote, 'Blake Neff acts like he lost his Squishmallow.' He does. Uh,..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (8 mentions)</summary>
+
+**[00:00:27](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-00-01)**
+> "Blakey Poo (Blake Neff)."
+
+**[00:00:34](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-00-01)**
+> "... And it turns out that Blake (Blake Neff) isn't the only person that is drawing blanks reg..."
+
+**[00:40:53](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-40-29)**
+> "where Blake (Blake Neff) and them landed, there is a, in the airport, the..."
+
+**[00:41:01](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-40-29)**
+> "... if maybe that's where Blake (Blake Neff) blacked out."
+
+**[00:41:07](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-41-07)**
+> "...ing to do this to help Blake (Blake Neff), by the way. That's it. We just want to help thi..."
+
+**[00:45:31](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-45-31)**
+> "...ew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet)..."
+
+**[00:47:24](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-46-48)**
+> "...he morning of September 10th, Blake Neff? Why would I even remember such a thing?"
+
+**[00:49:07](/episodes/ep-puuMVxEu5NU.md#ent-person-blake-neff-t-00-48-58)**
+> "... and Andrew Kolvet and Blake (Blake Neff)."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (6 mentions)</summary>
+
+**[00:01:23](/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-00-56)**
+> "...September 10th. We got Blakey Neff, who, by the way, wants us to believe that he nev..."
+
+**[00:01:40](/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-01-40)**
+> "... this to me. We all know that Blake Neff is a closeted standist."
+
+**[00:01:48](/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-01-40)**
+> "...lon says, friend of the show, Blake Neff is definitely a friend of the show."
+
+**[00:05:35](/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-05-13)**
+> "...m just died. It was just like Blake Neff. It was like, I don't know what I'm, I don't reme..."
+
+**[00:32:15](/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-31-46)**
+> "...f this script is not actually Blake Neff."
+
+**[00:32:23](/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-31-46)**
+> "And even if it were Blake Neff, he probably wouldn't remember. Anyway, here is w..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
@@ -160,6 +247,53 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 **[01:15:59](/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-01-15-59)**
 > "...wait. cannot wait to get into Blake Neff not remembering a lot of important things regardi..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (14 mentions)</summary>
+
+**[00:00:42](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-00-42)**
+> "...ery interesting. Also, Blakey Neff. Man, he is drawing, I guess, a very interesting ..."
+
+**[00:09:05](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-09-05)**
+> "... from Andrew Kolvet and oddly Blake Neff, who I also feel that I haven't made this clear t..."
+
+**[00:09:14](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-09-05)**
+> "I don't know that creature. Blake Neff and me, we don't go back because he had nothing t..."
+
+**[00:09:49](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-09-49)**
+> "Blake Neff did not return that loyalty. Blake Neff doesn't h..."
+
+**[00:12:05](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-11-36)**
+> "...to Salt Lake City, not Provo. Blake Neff was on board that private jet with Charlie to Sal..."
+
+**[00:12:41](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-12-22)**
+> "...UV, when they landed, carried Blake Neff to—he doesn't know."
+
+**[00:13:03](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-13-03)**
+> "...re they doing? I kid you not, Blake Neff jumped onto an X space and is trying to sell, but..."
+
+**[00:18:04](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-17-50)**
+> "...ust went to go mark time with Blake Neff? How old is this guy? 21, 22 years old."
+
+**[00:18:26](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-17-50)**
+> "...ate plane so you can go watch Blake Neff breathe?"
+
+**[00:18:53](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-18-34)**
+> "...t by any means. The fact that Blake Neff was reticent to say he was with Danny Phillips ma..."
+
+**[00:30:03](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-30-03)**
+> "Blake Neff just blacked out, guys. Doesn't remember. He just..."
+
+**[00:30:29](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-30-29)**
+> "...omebody rented—I'm not saying Blake Neff, although there was a bald guy seen with three pe..."
+
+**[00:31:58](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-31-22)**
+> "Was he in the car with Blake Neff? Like I said, everybody's memory is hazy. We're h..."
+
+**[00:34:32](/episodes/ep-X3VKJVJ7cN4.md#ent-person-blake-neff-t-00-34-08)**
+> "...ort on like Andrew Kolvet and Blake Neff? Blake Neff referred to me as a knife wielding ps..."
 
 </details>
 
@@ -898,7 +1032,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (14 mentions)</summary>
 
-**[00:00:57](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36)**
+**[00:00:55](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36)**
 > "I opened the tweets, which went out from Blake Neff around midnight last night."
 
 **[00:04:44](/episodes/ep-ZAuuSq_j2_w.md#ent-person-blake-neff-t-00-04-36)**
@@ -1107,13 +1241,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:25:50](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-37): “And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I'm speaking the truth rather than lies.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:34:32](/episodes/ep-X3VKJVJ7cN4.md#t-00-34-08): “Blake Neff referred to me as a knife wielding psychopath on the subway.”
 
 </details>
 
@@ -1144,7 +1279,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1159,19 +1294,36 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08): “Blake Neff is a liar. He is a coward. He is a backstabber”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:30:03](/episodes/ep-X3VKJVJ7cN4.md#t-00-30-03): “Blake Neff just blacked out, guys. Doesn't remember. He just doesn't really—I mean, they were just marking time. He doesn't remember who was in the car, who was driving, what they did for that entire interview while they were in Salt Lake City. Were they renting a car? By the way, I'd like to see if maybe there was another decoy vehicle. If you work at a rental car place, maybe just in the area—maybe Las Vegas, around Salt Lake City—”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:45:31](/episodes/ep-puuMVxEu5NU.md#t-00-45-09): “Top comment from yesterday's episode came from chewing the void this person writes nobody dismantles Andrew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet) and Blake (Blake Neff) could not agree more”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:36:21](/episodes/ep-N4uM8Jdr410.md#t-00-36-05): “Blake Neff doesn't remember what city. At first, he says he stayed in Orem. Then he has another discussion and changes his mind and says that they stayed in Salt Lake City. Salt Lake City is the true events—true version of events. The entire Turning Point team stayed in Salt Lake City, but Blake (Blake Neff) does not remember what hotel they stayed in. It's a lot, and I want you to hear him in his own words.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Formerly Worked For (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:44:59](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... he used to work for Tucker Carlson”
+
+</details>
+
+- **[Fox News](/entities/org-fox-news.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:28](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He didn't even get hired to work with Charlie at all in any capacity until 2022 after he was fired from Fox News or had to move on from Fox News because of some racist comments.”
+
+</details>
+
+- **[Stew Peters](/entities/person-stew-peters.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He then went to work for Stu Peters and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.”
 
 </details>
 
@@ -1190,10 +1342,34 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
+<summary>Lives In (1)</summary>
+
+- **[Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:37:08](/episodes/ep-N4uM8Jdr410.md#t-00-37-08): “—interpreted as, 'Did you stay in Utah that night?' as opposed to returning to Phoenix, where I live. And I stayed in Utah that night.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He then went to work for Stu Peters and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:54](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to Mikey McCoy”
@@ -1201,6 +1377,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:03:53](/episodes/ep-DqGNvi36ol8.md#t-00-03-41)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:00:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00): “But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff”
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:01:48](/episodes/ep-mLvJqdxS-FY.md#t-00-01-40): “Five minutes after we get off air and he's like, oh, somebody sent this to me. We all know that Blake Neff is a closeted standist. He's working at Turning Point.”
 
 </details>
 
@@ -1216,7 +1393,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (14)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1233,7 +1410,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1248,17 +1425,21 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08): “Blake Neff is a liar. He is a coward. He is a backstabber”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:30:03](/episodes/ep-X3VKJVJ7cN4.md#t-00-30-03): “Blake Neff just blacked out, guys. Doesn't remember. He just doesn't really—I mean, they were just marking time. He doesn't remember who was in the car, who was driving, what they did for that entire interview while they were in Salt Lake City. Were they renting a car? By the way, I'd like to see if maybe there was another decoy vehicle. If you work at a rental car place, maybe just in the area—maybe Las Vegas, around Salt Lake City—”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:45:31](/episodes/ep-puuMVxEu5NU.md#t-00-45-09): “Top comment from yesterday's episode came from chewing the void this person writes nobody dismantles Andrew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet) and Blake (Blake Neff) could not agree more”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:36:21](/episodes/ep-N4uM8Jdr410.md#t-00-36-05): “Blake Neff doesn't remember what city. At first, he says he stayed in Orem. Then he has another discussion and changes his mind and says that they stayed in Salt Lake City. Salt Lake City is the true events—true version of events. The entire Turning Point team stayed in Salt Lake City, but Blake (Blake Neff) does not remember what hotel they stayed in. It's a lot, and I want you to hear him in his own words.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:25:50](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-37): “And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I'm speaking the truth rather than lies.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:34:32](/episodes/ep-X3VKJVJ7cN4.md#t-00-34-08): “Blake Neff referred to me as a knife wielding psychopath on the subway.”
 
 </details>
 
@@ -1284,11 +1465,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:00:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00): “But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff”
+- [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:01:48](/episodes/ep-mLvJqdxS-FY.md#t-00-01-40): “Five minutes after we get off air and he's like, oh, somebody sent this to me. We all know that Blake Neff is a closeted standist. He's working at Turning Point.”
 
 </details>
 
@@ -1309,10 +1491,31 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Fox News](/entities/org-fox-news.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:28](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He didn't even get hired to work with Charlie at all in any capacity until 2022 after he was fired from Fox News or had to move on from Fox News because of some racist comments.”
+
+</details>
+
+- **[Stew Peters](/entities/person-stew-peters.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:09:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-09-05): “He then went to work for Stu Peters and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.”
+
+</details>
+
 - **[Kash Patel](/entities/person-kash-patel.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
+
+</details>
+
+- **[Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)** residence of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:37:08](/episodes/ep-N4uM8Jdr410.md#t-00-37-08): “—interpreted as, 'Did you stay in Utah that night?' as opposed to returning to Phoenix, where I live. And I stayed in Utah that night.”
 
 </details>
 
@@ -1321,7 +1524,35 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (22)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (36)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08) [✓] (Claim) ["Blake Neff said that, to his knowledge, he stayed at basically the same hotel as..."](/statements/statement-b592fae6969b.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5)</summary>
+
+- [00:13:33](/episodes/ep-X3VKJVJ7cN4.md#t-00-13-33) [○] (Claim) ["Neff said he was not at the Savory Fund interview and was in the other SUV."](/statements/statement-a73cdc4d447e.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Savory Fund](/entities/org-savory-fund.md)
+
+- [00:13:46](/episodes/ep-X3VKJVJ7cN4.md#t-00-13-46) [○] (Claim) ["Neff said he had no idea where the other SUV was parked."](/statements/statement-d8a343694a50.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:14:33](/episodes/ep-X3VKJVJ7cN4.md#t-00-14-33) [○] (Opinion) ["Neff said he was a key witness to Kirk's life but not a particularly important w..."](/statements/statement-1c8ea876c91c.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:52](/episodes/ep-X3VKJVJ7cN4.md#t-00-14-52) [○] (Claim) ["Neff said the SUV drove somewhere, parked, and marked time until the Utah Valley..."](/statements/statement-64efeb38f46e.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:15:06](/episodes/ep-X3VKJVJ7cN4.md#t-00-15-06) [○] (Claim) ["Neff said he did not remember the specific people in his car."](/statements/statement-2aa58dfa59e9.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
@@ -1423,10 +1654,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
 
 - [00:01:08](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) [○] (Claim) ["I made the initial statement at the request of Erika. All of this has been at th..."](/statements/statement-5d921b2d7320.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:05:42](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) [✓] (Claim) ["The initial TPUSA response and subsequent plan concerning Candace Owens were mad..."](/statements/statement-f833b3c11253.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Blake Neff](/entities/person-blake-neff.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:05:45](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) [○] (Claim) ["I made it at the request of Erika"](/statements/statement-b869c1fdd88e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -1434,15 +1668,68 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [00:05:47](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) [○] (Claim) ["All of this has been at the direction and approval of Erika because she heads th..."](/statements/statement-4c707e5d4f97.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:10:59](/episodes/ep-DqGNvi36ol8.md#t-00-10-37) [○] (Accusation) ["We are not booking a guest and never said that we were. We are delivering a resp..."](/statements/statement-201657009b78.md)
+- [00:46:42](/episodes/ep-DqGNvi36ol8.md#t-00-46-35) [○] (Accusation) ["We are not booking a guest and never said that we were. We are delivering a resp..."](/statements/statement-201657009b78.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (7)</summary>
+
+- [00:04:46](/episodes/ep-his-JBjlkh8.md#t-00-04-35) [○] (Claim) ["Michael McCoy is his real name. I have seen his birth certificate myself"](/statements/statement-ed9c1f92cd17.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:04:51](/episodes/ep-his-JBjlkh8.md#t-00-04-35) [○] (Accusation) ["Mikey's wife, who works at Turning Point, helped plan the campus tour event wher..."](/statements/statement-05f287cc8583.md)
+
+- [00:05:03](/episodes/ep-his-JBjlkh8.md#t-00-04-35) [○] (Claim) ["She doesn't work on campus events."](/statements/statement-f3f89bfa1766.md)
+
+- [00:05:03](/episodes/ep-his-JBjlkh8.md#t-00-04-35) [○] (Claim) ["Mikey McCoy's wife works at Turning Point but does not work on campus events"](/statements/statement-f527d0a349f8.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+- [00:06:47](/episodes/ep-his-JBjlkh8.md#t-00-06-37) [○] (Opinion) ["The Utah Valley University event was unusual and its details suggested an inside..."](/statements/statement-255355aae357.md)
+
+- [00:14:34](/episodes/ep-his-JBjlkh8.md#t-00-14-26) [◐] (Claim) ["Charlie Kirk made sure the organization was audited by a third party every year...."](/statements/statement-2ce3746c3cd8.md)
+
+- [00:29:01](/episodes/ep-his-JBjlkh8.md#t-00-28-45) [✗] (Promise) ["In the near future, there will be a live stream here in Phoenix where we address..."](/statements/statement-58d182e7f9e2.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (22)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (34)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that, to his knowledge, he stayed at basically the sam..."](/statements/statement-b592fae6969b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (7)</summary>
+
+- [00:11:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-10-56) (Claim) **Candace Owens**: ["Owens said Neff's background was in military strategy and that he supp..."](/statements/statement-e1f5e5356bd2.md)
+  - Also about: [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+- [00:12:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) (Claim) **Candace Owens**: ["Owens said Blake Neff was aboard Kirk's private jet to Salt Lake City ..."](/statements/statement-14a313270dcd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+- [00:13:33](/episodes/ep-X3VKJVJ7cN4.md#t-00-13-33) (Claim) **Blake Neff**: ["Neff said he was not at the Savory Fund interview and was in the other..."](/statements/statement-a73cdc4d447e.md)
+  - Also about: [Savory Fund](/entities/org-savory-fund.md)
+
+- [00:13:46](/episodes/ep-X3VKJVJ7cN4.md#t-00-13-46) (Claim) **Blake Neff**: ["Neff said he had no idea where the other SUV was parked."](/statements/statement-d8a343694a50.md)
+
+- [00:14:33](/episodes/ep-X3VKJVJ7cN4.md#t-00-14-33) (Opinion) **Blake Neff**: ["Neff said he was a key witness to Kirk's life but not a particularly i..."](/statements/statement-1c8ea876c91c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:52](/episodes/ep-X3VKJVJ7cN4.md#t-00-14-52) (Claim) **Blake Neff**: ["Neff said the SUV drove somewhere, parked, and marked time until the U..."](/statements/statement-64efeb38f46e.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:15:06](/episodes/ep-X3VKJVJ7cN4.md#t-00-15-06) (Claim) **Blake Neff**: ["Neff said he did not remember the specific people in his car."](/statements/statement-2aa58dfa59e9.md)
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
@@ -1538,9 +1825,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4)</summary>
 
 - [00:01:50](/episodes/ep-DqGNvi36ol8.md#t-00-01-33) (Claim) **Candace Owens** (via paraphrase): ["Blake Neff says it's intuitive that it is critical to be in person if ..."](/statements/statement-e8f58d37a660.md)
+
+- [00:05:42](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) (Claim) **Blake Neff** (via quoted speech): ["The initial TPUSA response and subsequent plan concerning Candace Owen..."](/statements/statement-f833b3c11253.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:10:43](/episodes/ep-DqGNvi36ol8.md#t-00-10-37) (Claim) **Candace Owens**: ["Blake Neff used to work for Tucker Carlson when Tucker Carlson was on ..."](/statements/statement-8db909ffb8cd.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Fox News](/entities/org-fox-news.md)
@@ -1551,7 +1841,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3)</summary>
+
+- [00:00:04](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00) (Claim) **Candace Owens**: ["Candace Owens said Blake Neff posted the debate-announcement tweets ar..."](/statements/statement-fb1b7e74daa0.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:04:50](/episodes/ep-ZAuuSq_j2_w.md#t-00-04-36) (Claim) **Candace Owens**: ["Blake Neff announced via tweet around midnight that a livestream would..."](/statements/statement-0d205acc4067.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md)
@@ -1562,7 +1855,17 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1)</summary>
+
+- [00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14) (Claim) **Candace Owens**: ["Blake Neff is the producer of The Charlie Kirk Show"](/statements/statement-3551bdfb67f6.md)
+  - Also about: [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+
+</details>
+
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>
+
+- [00:36:04](/episodes/ep-581dILVcEE4.md#t-00-35-34) (Claim) **Candace Owens**: ["Blake Neff's phone log shows he called his mom at 11:24 AM Arizona tim..."](/statements/statement-f3a5b0547f55.md)
 
 - [00:36:36](/episodes/ep-581dILVcEE4.md#t-00-36-17) (Claim) **Candace Owens**: ["Blake Neff called his mom at 11:24 Arizona time (12:24 Utah time), app..."](/statements/statement-1dd2119a179a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

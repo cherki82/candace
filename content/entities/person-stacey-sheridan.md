@@ -25,7 +25,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -184,28 +184,28 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (8 mentions)</summary>
 
 **[00:12:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
-> "...venue. We've got Brigitte's lawyers at 919 North Market Street. Also in that building happens to be Stacey Sheridan's registered agent. That's Stacey Sheridan of Turning Point USA. We're going to talk about her in a..."
+> "Also in that building happens to be Stacey Sheridan's (Stacey Sheridan's) registered agent."
 
 **[00:12:14](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
-> "...North Market Street. Also in that building happens to be Stacey Sheridan's registered agent. That's Stacey Sheridan of Turning Point USA. We're going to talk about her in a second. We've got the Wilmington Trust act..."
+> "That's Stacey Sheridan (Stacey Sheridan) of Turning Point USA."
 
 **[00:12:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-12-37)**
-> "...nd Delaware, sometimes Las Vegas, to form their own corporations. But wow—what are the chances that Stacey Sheridan has a registered agent that's in that building too? Because I have LLCs, and I've got LLCs in Delaw..."
+> "But wow—what are the chances that Stacey Sheridan (Stacey Sheridan) has a registered agent that's in that building too?"
 
 **[00:13:09](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-12-37)**
-> "...are, and I'm not— I'm not even in Wilmington. There's a lot to choose from. It's a whole state. But Stacey Sheridan's registered agent is there too. People had noted, by the way, that she had a few LLCs which she wa..."
+> "But Stacey Sheridan's (Stacey Sheridan's) registered agent is there too."
 
 **[00:13:23](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
-> "...ld all be above board. I don't really know. But the one I'm speaking about is Cloverstone Ventures. Stacey, by the way, is the senior advancement director at Turning Point USA. She was brought in specifical..."
+> "Stacey (Stacey Sheridan), by the way, is the senior advancement director at Turning Point USA."
 
 **[00:13:50](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
-> "...eal. He's been pardoned. But he is always up to no good, I can tell you that. And he brings in this Stacey Sheridan. I gotta tell you, I did not like her at all. Just the vibe was off. I did not like her, and I expr..."
+> "And he brings in this Stacey Sheridan (Stacey Sheridan). I gotta tell you, I did not like her at all. Just the vibe was off."
 
 **[00:14:17](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
-> "... feel great about the fact that she was so involved after Charlie's (Charlie Kirk's) assassination. Stacey Sheridan is the one that was filming. Everyone was like, "Who's filming his casket," as it's being escorted ..."
+> "Stacey Sheridan (Stacey Sheridan) is the one that was filming."
 
 **[00:14:22](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
-> "...like, "Who's filming his casket," as it's being escorted off of Air Force Two, crying, holding that—Stacey. Like I said, I just felt spiritually that Charlie (Charlie Kirk) hiring her was a mistake. She did..."
+> "as it's being escorted off of Air Force Two, crying, holding that—Stacey (Stacey Sheridan)."
 
 </details>
 
@@ -290,7 +290,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Boyer.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Bowyer.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level.”
 
 </details>
@@ -368,7 +368,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** hired this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Boyer.”
+- [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): “All of those people, by the way, were actually brought in by Tyler Bowyer.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level.”
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:01:09](/episodes/ep-c5BcKF91iec.md#t-00-00-45): “She's like the chief money person, essentially, at Turning Point USA. She was brought in to reel in the big donors. I remember exactly when that happened. All of those people, by the way, were actually brought in by Tyler Bowyer.”
 
@@ -379,7 +379,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Stacey Sheridan (7)</strong></summary>
+<summary><strong class="section-title">Statements about Stacey Sheridan (8)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
@@ -421,6 +421,14 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 - [00:20:25](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09) (Claim) **Candace Owens**: ["Stacey Sheridan is not Erika Kirk's biological mother; Lori Frantzve i..."](/statements/statement-8d0169d15c59.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20) (Claim) **Candace Owens**: ["Stacey Sheridan's registered agent for Cloverstone Ventures is in the ..."](/statements/statement-15658318a1f2.md)
+  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Cloverstone Ventures](/entities/org-cloverstone-ventures.md), [Brigitte Macron](/entities/person-brigitte-macron.md)
 
 </details>
 

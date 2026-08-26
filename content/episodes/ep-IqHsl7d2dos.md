@@ -1,14 +1,14 @@
 ---
 id: "IqHsl7d2dos"
 title: "TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356"
-description: "TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 - 156 entities, 6 events, 0 claims"
+description: "TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 - 156 entities, 6 events, 14 factual claims"
 published: "2026-06-26"
 youtube_url: "https://www.youtube.com/watch?v=IqHsl7d2dos"
 ---
 
 **Published:** 2026-06-26 | [Watch on YouTube](https://www.youtube.com/watch?v=IqHsl7d2dos)
 
-**Stats:** 156 entities | 6 events | 0 claims
+**Stats:** 156 entities | 6 events | 14 factual claims
 
 ---
 

@@ -29,9 +29,9 @@ Source: [New Zealand Government](https://www.govt.nz/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-29">Myron Gaines x Candace Owens</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51" style="--pulse-height:67%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-29" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-new-zealand-t-00-46-11" style="--pulse-height:33%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-new-zealand-t-01-15-21" style="--pulse-height:33%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
@@ -40,7 +40,7 @@ Source: [New Zealand Government](https://www.govt.nz/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51) | 3 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-29) | 3 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-new-zealand-t-00-46-11) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-new-zealand-t-01-15-21) | 1 |
@@ -84,16 +84,13 @@ Source: [New Zealand Government](https://www.govt.nz/)
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:42:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51)**
 > "...a used to be a program out in New Zealand."
 
 **[00:42:57](/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51)**
 > "...re out that it's a program in New Zealand, it's not a good program, right?"
-
-**[00:45:37](/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51)**
-> "Valhalla was a program out in New Zealand"
 
 </details>
 

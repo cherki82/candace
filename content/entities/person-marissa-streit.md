@@ -22,7 +22,7 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -301,12 +301,18 @@ Source: [Marissa Streit | PragerU](https://www.prageru.com/presenters/marissa-st
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Marissa Streit (2)</strong></summary>
+<summary><strong class="section-title">Statements about Marissa Streit (4)</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
+
+- [00:20:56](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) (Claim) **Candace Owens**: ["Marissa Streit, the CEO of PragerU, worked intelligence in the IDF in ..."](/statements/statement-f0901d002df2.md)
+  - Also about: [PragerU](/entities/org-prageru.md)
 
 - [00:20:58](/episodes/ep-Cq7nj9rxPdo.md#t-00-20-40) (Claim) **Candace Owens**: ["Marissa Streit worked intelligence in the IDF in Israel"](/statements/statement-2b3c03076075.md)
+
+- [00:22:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-07) (Claim) **Candace Owens**: ["Marissa Streit took Candace Owens to the Simon Wiesenthal Center after..."](/statements/statement-4ce552637a9b.md)
+  - Also about: [Simon Wiesenthal Center](/entities/org-simon-wiesenthal-center.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

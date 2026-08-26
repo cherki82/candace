@@ -1,14 +1,14 @@
 ---
 id: "t4U7NjnUEgc"
 title: "Charlie Kirk’s Last Trip To Asia… | Candace Ep 277"
-description: "Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 - 94 entities, 16 events, 0 claims"
+description: "Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 - 94 entities, 16 events, 24 factual claims"
 published: "2025-12-09"
 youtube_url: "https://www.youtube.com/watch?v=t4U7NjnUEgc"
 ---
 
 **Published:** 2025-12-09 | [Watch on YouTube](https://www.youtube.com/watch?v=t4U7NjnUEgc)
 
-**Stats:** 94 entities | 16 events | 0 claims
+**Stats:** 94 entities | 16 events | 24 factual claims
 
 ---
 
@@ -253,43 +253,73 @@ youtube_url: "https://www.youtube.com/watch?v=t4U7NjnUEgc"
 </details>
 
 <details>
-<summary><strong>Statements (18)</strong></summary>
+<summary><strong>Statements (33)</strong></summary>
 
+- [00:05:00](#t-00-04-35) [◐] (Claim) **Candace Owens**: ["Owens said Joint Task Force Six was a brand-new command created at the border ar..."](/statements/statement-7a3c360b229e.md)
+  - About: [Colin Powell](/entities/person-colin-powell.md), [George H.W. Bush](/entities/person-george-hw-bush.md)
 - [00:06:04](#t-00-05-54) [○] (Claim) **Candace Owens**: ["The CIA was trafficking drugs and weapons throughout South America during the Ir..."](/statements/statement-f1ea6159d614.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+- [00:06:21](#t-00-05-54) [○] (Claim) **Candace Owens**: ["Owens asserted that Jeffrey Epstein was involved in the Iran-Contra affair"](/statements/statement-2dac8539e8c3.md)
+  - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 - [00:07:15](#t-00-07-02) [○] (Claim) **Harry Myers**: ["Harry Myers discovered the first ever Sinaloa cartel underground rail tunnel in ..."](/statements/statement-96ac90d3e1bb.md)
+  - About: [Harry Myers](/entities/person-harry-myers.md)
+- [00:08:17](#t-00-08-14) [◐] (Claim) **Harry Myers**: ["Harry Myers said he helped pinpoint the sophisticated cross-border drug tunnel d..."](/statements/statement-dd2c430ad0af.md)
   - About: [Harry Myers](/entities/person-harry-myers.md)
 - [00:09:08](#t-00-08-59) [○] (Accusation) **Harry Myers**: ["U.S. military commanders and Border Patrol agents were photographed with El Chap..."](/statements/statement-cf5d0fa41647.md)
   - About: [El Chapo](/entities/person-el-chapo.md)
+- [00:09:08](#t-00-08-59) [○] (Accusation) **Harry Myers**: ["Harry Myers alleged that photographs in the Mexican-side tunnel house showed U.S..."](/statements/statement-744afb33e8e0.md)
+  - About: [El Chapo](/entities/person-el-chapo.md)
 - [00:12:05](#t-00-11-53) [○] (Accusation) **Harry Myers**: ["Harry Myers' classified information was leaked to the Sinaloa cartel by someone ..."](/statements/statement-afa89a82bcd9.md)
+  - About: [Harry Myers](/entities/person-harry-myers.md)
+- [00:13:22](#t-00-13-08) [○] (Claim) **Harry Myers**: ["Harry Myers said a military nondisclosure gag order barred him from discussing t..."](/statements/statement-a3aefc715880.md)
   - About: [Harry Myers](/entities/person-harry-myers.md)
 - [00:13:49](#t-00-13-08) [○] (Claim) **Candace Owens**: ["Harry Myers was placed under a military NDA gag order dated 1990 that expired in..."](/statements/statement-4bfaa2731b53.md)
   - About: [Harry Myers](/entities/person-harry-myers.md)
+- [00:16:16](#t-00-15-57) [○] (Claim) **Candace Owens**: ["Owens says private booking records show Harry Myers checked into the Candlewood ..."](/statements/statement-7a77cc26066d.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 - [00:16:45](#t-00-16-39) [○] (Claim) **Candace Owens**: ["Harry Myers checked into Candlewood Suites at Fort Huachuca on September 8th at ..."](/statements/statement-393421b3a097.md)
   - About: [Harry Myers](/entities/person-harry-myers.md)
+- [00:17:41](#t-00-17-13) [○] (Claim) **Harry Myers**: ["Harry Myers claimed he saw Brian Harpole at Joint Task Force Southern Border hea..."](/statements/statement-e1f3b3a8c4ff.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Brian Harpole](/entities/person-brian-harpole.md), [Harry Myers](/entities/person-harry-myers.md)
 - [00:19:45](#t-00-19-18) [○] (Claim) **Candace Owens**: ["Harry Myers encountered Brian Harpole at the Joint Task Force Southern Border he..."](/statements/statement-8ad2cb0f95b9.md)
   - About: [Harry Myers](/entities/person-harry-myers.md), [Brian Harpole](/entities/person-brian-harpole.md)
+- [00:22:00](#t-00-21-28) [○] (Claim) **Harry Myers**: ["Harry Myers said Fort Huachuca personnel interrogated him for about seven hours ..."](/statements/statement-9e9c07274601.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 - [00:22:01](#t-00-21-28) [○] (Claim) **Candace Owens**: ["Harry Myers was interrogated for seven hours by military personnel who suspected..."](/statements/statement-1276c9b8f3eb.md)
   - About: [Harry Myers](/entities/person-harry-myers.md)
 - [00:25:04](#t-00-24-21) [○] (Claim) **Candace Owens**: ["The commander who interrogated Harry Myers was named Captain Neff, approximately..."](/statements/statement-589fd050ef6f.md)
   - About: [Harry Myers](/entities/person-harry-myers.md)
+- [00:28:13](#t-00-27-53) [○] (Claim) **Harry Myers**: ["Harry Myers said Fort Huachuca personnel gave him incident-report number 8611-20..."](/statements/statement-610f9c7c6a76.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 - [00:28:18](#t-00-27-53) [○] (Claim) **Candace Owens**: ["The incident report number for Harry Myers' interrogation is 8611-2025-MPC446"](/statements/statement-4475a4a14955.md)
   - About: [Harry Myers](/entities/person-harry-myers.md)
+- [00:28:57](#t-00-28-37) [○] (Claim) **Candace Owens**: ["Owens said Dan Flood accompanied Charlie Kirk during the South Korea portion of ..."](/statements/statement-56b98c77bcf2.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
 - [00:29:04](#t-00-28-37) [○] (Claim) **Candace Owens**: ["Dan Flood was with Charlie Kirk in Korea on September 5th and 6th, which is why ..."](/statements/statement-045ec5c6e47c.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:29:19](#t-00-28-37) [✓] (Claim) **Candace Owens**: ["Charlie Kirk appeared at Build Up Korea on September 5-6, 2025, then spoke at a ..."](/statements/statement-63c30899ddce.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:29:31](#t-00-29-22) [○] (Claim) **Candace Owens**: ["Charlie Kirk was in Japan on September 7th and spoke on CNN News Japan"](/statements/statement-c19aa7be7123.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:35:49](#t-00-35-36) [○] (Claim) **Candace Owens**: ["Arkady Gaidemach was Pierre Falcone's partner and both were involved in Angola G..."](/statements/statement-814e085eead0.md)
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md)
 - [00:37:07](#t-00-36-51) [○] (Accusation) **Candace Owens**: ["Seven people emailed Candace claiming that Arkady Gaidemach is living in Nashvil..."](/statements/statement-302e42317b70.md)
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md)
+- [00:37:07](#t-00-36-51) [○] (Accusation) **Candace Owens**: ["Seven anonymous correspondents told Owens they believed Arkady Gaydamak was livi..."](/statements/statement-e0b3d63ba191.md)
+  - About: [Nashville](/entities/gpe-nashville.md)
 - [00:38:43](#t-00-38-15) [○] (Claim) **Candace Owens**: ["Tulsi Gabbard's office is the only government office that has responded to and t..."](/statements/statement-006a40efdcbc.md)
   - About: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:38:49](#t-00-38-49) [○] (Claim) **Candace Owens**: ["Owens said Tulsi Gabbard office was the only government office that had responde..."](/statements/statement-285d039d2351.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
 - [00:41:47](#t-00-41-29) [○] (Accusation) **Candace Owens**: ["There was coordination of an assassination attempt against Candace Owens involvi..."](/statements/statement-f38ac6eda7ba.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 - [00:44:49](#t-00-44-11) [○] (Accusation) **Candace Owens**: ["Tim Pool accused Candace Owens of being someone who benefited from Charlie Kirk'..."](/statements/statement-56a747cf3e7b.md)
   - About: [Tim Pool](/entities/person-tim-pool.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:52:05](#t-00-51-47) [○] (Accusation) **Candace Owens**: ["Kash Patel is not interested in investigating the French angle in Charlie Kirk's..."](/statements/statement-5fbef31cf806.md)
   - About: [Kash Patel](/entities/person-kash-patel.md)
+- [00:53:08](#t-00-52-32) [○] (Accusation) **Candace Owens**: ["Owens alleged that Turning Point USA had hired former cartel weapons traffickers..."](/statements/statement-93a096d488d8.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:53:47](#t-00-53-08) [○] (Claim) **Charlie Kirk**: ["They are going to kill me"](/statements/statement-ac56cb786f19.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

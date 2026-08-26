@@ -4,9 +4,10 @@ description: "\"The yellow Egyptian plane SUBTT departed Provo, Utah on the morn
 statement_id: "statement-be388da5f8f1"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -20,8 +21,8 @@ type: "factual_claim"
 
 ## About
 
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Wilmington](/entities/gpe-wilmington.md) (gpe)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
@@ -33,7 +34,22 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Available flight-tracking material supports that SU-BTT is an Egyptian government Falcon 7X and that it flew from Provo to Wilmington on September 10, 2025. The accessible sources do not independently establish the exact 7:14 a.m. departure, 11:51 a.m. arrival, or the resulting approximately 2.5-hour interval as stated. The route is supported; the precise timing remains unconfirmed. Missing public raw tracking data is not treated as evidence that the flight did not occur.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [FlightAware photo record for SU-BTT](https://www.flightaware.com/photos/view/368798-e85205b675d19858ba372fc79099bea105c863b1)
+- [Archived flight-tracking screenshot for SU-BTT](https://whoassassinatedcharliekirk.com/Photos/Aircraft/Img_Photo_fbd473)
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](https://www.youtube.com/watch?v=SKGUzGHymcI)
+
+*Verified: 2026-08-26T10:51:32.603577*
 
 ---
 

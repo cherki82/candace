@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:04:11](/episodes/ep-sImMM04XdWY.md#t-00-03-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(251);return false;">Play</a>
 
-> while the actual day on September 10th while Charlie was in the hospital, he told me that there was a list and that me and Tucker Carlson were on it and that we had to lay low
+> Andrew trying to maybe communicate to me after, especially given the fact that I told you that while the actual day on September 10th while Charlie (Charlie Kirk) was in the hospital, he told me that there was a list and that me and Tucker (Tucker Carlson) Carlson were on it and that we had to lay low, but he never told me who told him that.
 
 ## Verification
 

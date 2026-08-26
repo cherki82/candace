@@ -1,6 +1,6 @@
 ---
 title: "Howard Lutnick"
-description: "Howard Lutnick (People) - 5 mentions"
+description: "Howard Lutnick (People) - 6 mentions"
 id: "person-howard-lutnick"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Howard Lutnick | U.S. Department of Commerce](https://www.commerce.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-howard-lutnick-t-00-43-52">2026-02-13 · 00:44:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-howard-lutnick-t-00-17-56">2026-04-10 · 00:18:05</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-howard-lutnick-t-00-00-42">2026-07-20 · 00:00:48</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -39,6 +39,7 @@ Source: [Howard Lutnick | U.S. Department of Commerce](https://www.commerce.gov/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-howard-lutnick-t-00-43-52" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-howard-lutnick-t-00-17-56" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-howard-lutnick-t-00-00-42" style="--pulse-height:25%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Howard Lutnick | U.S. Department of Commerce](https://www.commerce.gov/
 |---|---|---:|
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-howard-lutnick-t-00-43-52) | 4 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-howard-lutnick-t-00-17-56) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-howard-lutnick-t-00-00-42) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Howard Lutnick | U.S. Department of Commerce](https://www.commerce.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:00:48](/episodes/ep-N4uM8Jdr410.md#ent-person-howard-lutnick-t-00-00-42)**
+> "It was like they were the underdogs. But as soon as the corrupt Howard Lutnick and President Trump (Donald Trump) got involved—the 9/11 crew getting back together—"
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>

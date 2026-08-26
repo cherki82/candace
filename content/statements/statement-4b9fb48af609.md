@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:04:38](/episodes/ep-sImMM04XdWY.md#t-00-04-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(278);return false;">Play</a>
 
-> Another person was a very well-known woman who happens to be married to a CIA contractor. Same exact message. 'You and Tucker Carlson.' But, of course, we cannot tell you who we are getting this information from.
+> Another person was a very well-known woman who happens to be married to a CIA contractor. Same exact message. "You and Tucker (Tucker Carlson) Carlson." But, of course, we cannot tell you who we are getting this information from.
 
 ## Verification
 

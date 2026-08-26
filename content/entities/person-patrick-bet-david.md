@@ -296,7 +296,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2)</summary>
 
-- [00:23:57](/episodes/ep-aDlhjfW6hz8.md#t-00-23-17) (Accusation) **Candace Owens**: ["Patrick Bet-David platformed lies about Candace Owens without any push..."](/statements/statement-3d057bfb5038.md)
+- [00:20:25](/episodes/ep-aDlhjfW6hz8.md#t-00-19-43) (Accusation) **Candace Owens**: ["Patrick Bet-David platformed lies about Candace Owens without any push..."](/statements/statement-3d057bfb5038.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:51:15](/episodes/ep-aDlhjfW6hz8.md#t-00-50-39) (Claim) **Candace Owens**: ["Andrew Kolvet was definitely not in the Hamptons despite PBD saying he..."](/statements/statement-e63e7f9ac5f6.md)

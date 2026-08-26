@@ -1,6 +1,6 @@
 ---
 title: "Psychological operations"
-description: "Psychological operations (Concepts) - 29 mentions"
+description: "Psychological operations (Concepts) - 32 mentions"
 id: "concept-psychological-operations"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03">2026-01-12 · 00:02:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-psychological-operations-t-00-35-00">2026-06-26 · 00:35:04</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-psychological-operations-t-01-06-05">2026-07-16 · 01:06:38</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-psychological-operations-t-01-05-47" style="--pulse-height:20%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-psychological-operations-t-00-13-49" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-psychological-operations-t-00-35-00" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-psychological-operations-t-00-34-46" style="--pulse-height:30%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-psychological-operations-t-01-05-47) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-psychological-operations-t-00-13-49) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-psychological-operations-t-00-35-00) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-psychological-operations-t-00-34-46) | 3 |
 
 </details>
 </section>
@@ -72,7 +74,21 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[00:34:53](/episodes/ep-mLvJqdxS-FY.md#ent-concept-psychological-operations-t-00-34-46)**
+> "...re we doing? Like this is the psyop just has to end. It has to end. It has failed."
+
+**[00:49:43](/episodes/ep-mLvJqdxS-FY.md#ent-concept-psychological-operations-t-00-49-21)**
+> "...usion, literal attempt to run psychological operations on our mind, which if you have not yet read that ..."
+
+**[01:06:38](/episodes/ep-mLvJqdxS-FY.md#ent-concept-psychological-operations-t-01-06-05)**
+> "So it is, in my view, a full psychological operation."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -231,7 +247,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Psychological operations (8)</strong></summary>
+<summary><strong class="section-title">Statements about Psychological operations (9)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [01:06:30](/episodes/ep-mLvJqdxS-FY.md#t-01-06-05) (Accusation) **Candace Owens**: ["Candace Owens accused pastors introduced through PragerU of having con..."](/statements/statement-14ebd43d1cd0.md)
+  - Also about: [PragerU](/entities/org-prageru.md), [Mossad](/entities/org-mossad.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2)</summary>

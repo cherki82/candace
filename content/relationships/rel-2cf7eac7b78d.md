@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) met with [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (15 mentions)
+### Evidence (16 mentions)
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
@@ -52,6 +52,10 @@ object: "person-erika-kirk"
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 
 - [00:52:41](/episodes/ep-SgVcnx4Oh30#t-00-52-41): _i do want to remind you that i met with Erika (Erika Kirk) just a couple of months ago_
+
+**[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
+
+- [00:39:47](/episodes/ep-X3VKJVJ7cN4#t-00-39-47): _My source was Andrew Kolvet. It was, I told Erika that when we met face to face._
 
 **[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
 

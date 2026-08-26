@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Donald J. Trump](/entities/person-donald-trump) political ally of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (5 mentions)
+### Evidence (4 mentions)
 
 **[Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk)**
 
@@ -25,10 +25,6 @@ object: "person-charlie-kirk"
 
 - [00:00:19](/episodes/ep-ZGxnf5cj4Uw#t-00-00-19): _...f their choosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conservatives..._
 - [00:03:13](/episodes/ep-ZGxnf5cj4Uw#t-00-03-13): _...hoosing. I am told that they are fans of Charlie (Charlie Kirk) and they are fans of Donald Trump. Although this source noted that Tyler, like many other conserva..._
-
-**[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
-
-- [00:08:17](/episodes/ep-ozWJz2spBcI#t-00-08-17): _I remember feeling angry when Trump moved to kind of do a same-time post_
 
 ### Related
 

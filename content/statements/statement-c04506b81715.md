@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:11:09](/episodes/ep-ja26iltROkM.md#t-00-10-50) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(669);return false;">Play</a>
 
-> That aside, the statement objectively feels to me like the manipulation of a Christian audience, right? They know Charlie's audience is Christian. And therefore what they're selling to us is: 'We—you should believe. You're a believer, right?'
+> That aside, the statement objectively feels to me like the manipulation of a Christian audience, right? They know Charlie's (Charlie Kirk's) audience is Christian. And therefore what they're selling to us is: "We—you should believe. You're a believer, right?
 
 ## Verification
 

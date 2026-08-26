@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 619 mentions"
+description: "Tucker Carlson (People) - 625 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07">2026-08-14 · 00:36:36</a></strong></div>
-<div><span>Episodes</span><strong>92</strong></div>
-<div><span>Mentions</span><strong>619</strong></div>
-<div><span>Statements by</span><strong>56</strong></div>
-<div><span>Statements about</span><strong>75</strong></div>
+<div><span>Episodes</span><strong>95</strong></div>
+<div><span>Mentions</span><strong>625</strong></div>
+<div><span>Statements by</span><strong>76</strong></div>
+<div><span>Statements about</span><strong>86</strong></div>
 <div><span>Relationships</span><strong>104</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -62,7 +62,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-tucker-carlson-t-00-24-14" style="--pulse-height:16%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 9 mentions" title="2025-11-17 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-person-tucker-carlson-t-00-38-23" style="--pulse-height:18%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 10 mentions" title="2025-11-18 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-tucker-carlson-t-00-03-29" style="--pulse-height:29%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 16 mentions" title="2025-11-20 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-47-39" style="--pulse-height:11%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 6 mentions" title="2025-12-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-tucker-carlson-t-00-16-11" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 6 mentions" title="2025-12-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tucker-carlson-t-00-37-50" style="--pulse-height:18%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 10 mentions" title="2025-12-05 · 10 mentions"><span></span></a>
@@ -126,6 +126,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-tucker-carlson-t-00-42-01" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-tucker-carlson-t-00-41-04" style="--pulse-height:9%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 5 mentions" title="2026-06-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-tucker-carlson-t-00-56-23" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-tucker-carlson-t-00-09-05" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tucker-carlson-t-01-02-57" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-tucker-carlson-t-00-11-41" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -159,7 +162,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-tucker-carlson-t-00-24-14) | 9 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-tucker-carlson-t-00-38-23) | 10 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-tucker-carlson-t-00-03-29) | 16 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57) | 2 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-47-39) | 6 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-tucker-carlson-t-00-16-11) | 6 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-tucker-carlson-t-00-37-50) | 10 |
@@ -223,6 +226,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-tucker-carlson-t-00-42-01) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-tucker-carlson-t-00-41-04) | 5 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-tucker-carlson-t-00-56-23) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tucker-carlson-t-00-09-05) | 3 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-tucker-carlson-t-01-02-57) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-tucker-carlson-t-00-11-41) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54) | 3 |
 
 </details>
@@ -231,7 +237,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (619)</strong></summary>
+<summary><strong class="section-title">Raw mentions (625)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -248,10 +254,43 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:11:57](/episodes/ep-N4uM8Jdr410.md#ent-person-tucker-carlson-t-00-11-41)**
+> "—then came out and did a news hit. You know, he's the tough guy who's going to beat up Tucker Carlson. Yeah, I could beat him in a fight."
+
+**[00:51:49](/episodes/ep-N4uM8Jdr410.md#ent-person-tucker-carlson-t-00-51-41)**
+> "Frank Turek—somebody was full of it. I'm sorry. Um, Ali (commenter; surname unverified) writes, 'Have you seen the clip where Erika says, We don't know how Charlie would feel about the Iran war?' Yeah, I saw that. That deserves way more outrage. Tucker (Tucker Carlson), Bret Weinstein, Joe (Joe Kent) have all confirmed that he was fighting hard behind the scenes to stop it. What a betrayal. It's just what Erika (Erika Kirk) is—what she is. She's reversed course on everything, everything that Charlie (Charlie Kirk) believed. I believe she had more loyalty to people that brought her in—"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[01:02:57](/episodes/ep-mLvJqdxS-FY.md#ent-person-tucker-carlson-t-01-02-57)**
+> "I feel like her and Tucker Carlson were the only two people that had the courage to ..."
+
+</details>
+
+<details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
 
 **[00:56:43](/episodes/ep-EtLHqDbxqks.md#ent-person-tucker-carlson-t-00-56-23)**
 > "I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3 mentions)</summary>
+
+**[00:09:30](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tucker-carlson-t-00-09-05)**
+> "...rt working with Charlie after Tucker Carlson recommended him because he's loyal."
+
+**[00:37:48](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tucker-carlson-t-00-37-48)**
+> "...ng spent. I am listed, me and Tucker Carlson, in the FARA documents."
+
+**[00:37:54](/episodes/ep-X3VKJVJ7cN4.md#ent-person-tucker-carlson-t-00-37-48)**
+> "...ding it. We have the takedown Tucker and Candace Owens, and we're willing to spend the..."
 
 </details>
 
@@ -1511,13 +1550,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
 
 **[00:13:19](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57)**
 > "...ly comes in on the exact same day. And also minor correction: I think yesterday I said that Tucker (Tucker Carlson) spoke on July 18th; he actually spoke on July 11th. I just kind of copy-and-pasted that wrong, so ..."
-
-**[00:13:36](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57)**
-> "Tucker spoke on July 11th"
 
 </details>
 
@@ -1645,31 +1681,31 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (9 mentions)</summary>
 
 **[00:28:06](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-27-59)**
-> "... stage for Operation Mocking Pastor, where they were all saying the same thing about me and Tucker (Tucker Carlson)—they were the number one offenders. I am not kidding. You start to ask yourself, what is guiding t..."
+> "...me thing about me and Tucker (Tucker Carlson)—they were the number one offenders."
 
 **[00:28:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-28-43)**
-> "...s—has gone mask off. He seems to be coming undone. He's hosting 5 a.m. calls against me and Tucker (Tucker Carlson). And they're realizing, "Am I in a church or did I sign up for something completely different?" Th..."
+> "... calls against me and Tucker (Tucker Carlson)."
 
 **[00:29:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-29-27)**
-> "...told to stop speaking about Jeffrey Epstein, and he was pushing back on that. He then tells Tucker (Tucker Carlson) to go max against Jeffrey Epstein. For whatever reason, this guy—similar to these characters—had a..."
+> "He then tells Tucker (Tucker Carlson) to go max against Jeffrey Epstein."
 
 **[00:39:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-39-16)**
-> "...tement against her." Charlie (Charlie Kirk) said no. "Megyn Kelly, it's your career or it's Tucker (Tucker Carlson)?" "You decide, right?" "I'm your friend." "I just want to help you." "Tucker (Tucker Carlson), he'..."
+> "...s your career or it's Tucker (Tucker Carlson)?""
 
 **[00:39:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-39-16)**
-> "...cker (Tucker Carlson)?" "You decide, right?" "I'm your friend." "I just want to help you." "Tucker (Tucker Carlson), he's really going a bad way." She said no. This is how it goes. It just made me so happy yesterda..."
+> ""Tucker (Tucker Carlson), he's really going a bad way.""
 
 **[00:40:14](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-40-00)**
-> "...ou see this psychology employed and someone just completely annihilates it immediately. And Tucker (Tucker Carlson) did just that yesterday—or at least yesterday when the clip went live. He completely embarrassed t..."
+> "And Tucker (Tucker Carlson) did just that yesterday—or at least yesterday wh..."
 
 **[00:40:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-40-00)**
-> "...p of Tucker Carlson) English reporter who was effectively playing this game with him—asking Tucker (Tucker Carlson) to condemn me live on his show. Take a listen to this awesome clip. Your good friend Candace (Cand..."
+> "... game with him—asking Tucker (Tucker Carlson) to condemn me live on his show."
 
 **[00:42:53](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-42-33)**
-> "...ody's crazy. When you start questioning the feds, suddenly they want to call you crazy. And Tucker (Tucker Carlson) just annihilated it instantly. He's like, "Get out of here. I don't know where you're from, okay? ..."
+> "...o call you crazy. And Tucker (Tucker Carlson) just annihilated it instantly. He's like, "Get o..."
 
 **[00:43:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-43-17)**
-> "...tom of this thing. It just reeks. It reeks to high heaven. And so I just—I absolutely adore Tucker (Tucker Carlson) for that. I adore him for just standing up for me. And obviously he's seasoned, so he sees right t..."
+> "...st—I absolutely adore Tucker (Tucker Carlson) for that."
 
 </details>
 
@@ -1733,34 +1769,34 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (11 mentions)</summary>
 
 **[00:24:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-24-13)**
-> "...nd I am not convinced that these people that stand on stages and tell you to stop following Tucker (Tucker Carlson) Carlson are working on behalf of the Lord, okay? I don't think that's the case. I think these peop..."
+> "The faith element is compelling, and I am not convinced that these people that stand on stages and tell you to stop following Tucker Carlson are working on behalf of the Lord, okay?"
 
 **[00:28:16](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-28-16)**
-> "...o be petty and like use Scripture to justify who they really—they just want to insult me or Tucker (Tucker Carlson) Carlson. "What do you benefit if you gain the whole world but lose your own soul?" Okay, like that..."
+> "He obviously just tweets a verse, trying to make it seem like—again, this is what they do. Christian Zionists—they will find a verse to be petty and like use Scripture to justify who they really—they just want to insult me or Tucker Carlson."
 
 **[00:29:06](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-29-00)**
 > "...abylon Bee—he's a real funny guy—wrote this. "In the last year, Candace (Candace Owens) and Tucker (Tucker Carlson) have given our side nothing but demoralization, division, confusion, and conflict." "Their impact ..."
 
 **[00:38:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-38-20)**
-> "...rom Mark Levin (Mark Levin), who has been kind of psychopathically obsessed with destroying Tucker (Tucker Carlson) Carlson for years now. He was very happy when Tucker (Tucker Carlson) Carlson got fired from Fox N..."
+> "Anyways, the oddest response came from Mark Levin, who has been kind of psychopathically obsessed with destroying Tucker (Tucker Carlson) for years now."
 
 **[00:38:28](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-38-20)**
-> "...essed with destroying Tucker (Tucker Carlson) Carlson for years now. He was very happy when Tucker (Tucker Carlson) Carlson got fired from Fox News. They don't seem to be friends. And regarding Mark Levin (Mark Lev..."
+> "He was very happy when Tucker (Tucker Carlson) got fired from Fox News."
 
 **[00:38:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-38-20)**
-> "...Mark Levin (Mark Levin), okay? Turning Point USA—credit to them—said, "We are not canceling Tucker (Tucker Carlson) Carlson," despite the peer pressure—despite them sending out every queen and pawn on the board to ..."
+> "Turning Point USA—credit to them—said, "We are not canceling Tucker (Tucker Carlson)," despite the peer pressure—despite them sending out every queen and pawn on the board to make that happen."
 
 **[00:39:00](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-38-20)**
-> "...ing, and not only is he speaking, but why don't you debate, Mark Levin (Mark Levin)? Debate Tucker (Tucker Carlson) Carlson on stage. And this is how Mark Levin (Mark Levin) responded. It's incredible. And I'm actu..."
+> "Debate Tucker (Tucker Carlson) on stage."
 
 **[00:39:10](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-39-10)**
-> "...'s about two and a half minutes, but I want you guys to listen to him. *(Clip of Mark Levin reading Tucker Carlson text exchange)* I got a very strange text this morning from Tucker (Tucker Carlson) Carlson—10:16 a..."
+> "*(Clip of Mark Levin reading Tucker Carlson text exchange)* I got a very strange text this morning from Tucker (Tucker Carlson)—10:16 a.m."
 
 **[00:42:21](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-42-16)**
-> "...an you." Is he good? Is everybody okay? Like what? This would be your opportunity to reveal Tucker (Tucker Carlson) Carlson to the world since you say like that he's a fraud and he's lying and all of this stuff. Li..."
+> "This would be your opportunity to reveal Tucker (Tucker Carlson) to the world since you say like that he's a fraud and he's lying and all of this stuff."
 
 **[00:42:33](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-42-16)**
-> "... are you so focused on canceling him? And LOL to you saying that you don't want to platform Tucker (Tucker Carlson) Carlson. Yeah, you know what? I decided on this podcast: I'm not going to platform Taylor Swift. Y..."
+> "And LOL to you saying that you don't want to platform Tucker (Tucker Carlson)."
 
 **[00:49:32](/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-49-03)**
 > "...ooking at the real power apparatus that sits behind. So to that extent, I do understand why Tucker (Tucker Carlson) and I have become threat number one—showing that you can survive outside of their matrix, not taki..."
@@ -1774,13 +1810,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > "... make her disavow me, make her disavow Candace Owens (the host), I'm gonna make her disavow Tucker (Tucker Carlson) by putting her on the spot and asking her to respond to things that Tucker Carlson never did and C..."
 
 **[00:03:39](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-03-33)**
-> "...are because you're saying stuff that never happened. So we'll start with what he said about Tucker (Tucker Carlson). You should know Ben has a real thing for Tucker (Tucker Carlson). I don't understand it. It is ju..."
+> "So we'll start with what he said about Tucker (Tucker Carlson)."
 
 **[00:03:42](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-03-33)**
-> "...t with what he said about Tucker (Tucker Carlson). You should know Ben has a real thing for Tucker (Tucker Carlson). I don't understand it. It is just, I don't know. It's been going on for a long time. There's some..."
+> "You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson)."
 
 **[00:03:50](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-03-33)**
-> "...d it. It is just, I don't know. It's been going on for a long time. There's something about Tucker (Tucker Carlson) that gets under his skin. I'm not clear on it. I would actually love to hear Ben speak about that...."
+> "There's something about Tucker (Tucker Carlson) that gets under his skin."
 
 **[00:03:56](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-03-33)**
 > "... leaving the Daily Wire; they have to sign agreements that they're not going to go work for Tucker (Tucker Carlson) for six months. It's strange. Anyways, he jumps into this, explaining his upset that, like, Tucker..."
@@ -1792,13 +1828,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > "...s, explaining his upset that, like, Tucker (Tucker Carlson) left him on read. I don't know. Tucker (Tucker Carlson) and him had a nice conversation on the day that Charlie (Charlie Kirk) died, and Tucker (Tucker Ca..."
 
 **[00:04:23](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-04-12)**
-> "...wasn't. So here is Ben complaining about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani. I don't know. Take a listen. (Clip: Ben Shapiro) So I texted him, and I ..."
+> "So here is Ben (Ben Shapiro) complaining about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani (Zohran Mamdani)."
 
 **[00:04:48](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-04-34)**
 > "...py to do whatever it takes to bring everyone back together for the fight that matters." And Tucker (Tucker Carlson) then wrote back, "Thanks, man. I appreciate it. I'm going to spend the next week or two thinking a..."
-
-**[00:05:14](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-14)**
-> "...ent weeks doing literally nothing to fight the left. Again, I say this with sadness because Tucker (Tucker Carlson) used to be, I think, a deeply important part of the conservative push to win. The number of times ..."
 
 **[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-14)**
 > "... I think, a deeply important part of the conservative push to win. The number of times that Tucker (Tucker Carlson) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of M..."
@@ -1806,17 +1839,14 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 **[00:05:30](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-14)**
 > "...ce October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tucker (Tucker Carlson) talking about the appeal of Zohran Mamdani. Just by way of contrast, not because I'm a perfect rep..."
 
-**[00:05:58](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-58)**
-> "...e left. So this just makes no sense. It makes entirely no sense. He's upset because I guess Tucker (Tucker Carlson) doesn't want to do a show with him in the future. A lot of stuff goes on in the background that yo..."
-
 **[00:06:05](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-58)**
-> "... lot of stuff goes on in the background that you guys don't understand. So, okay, that's on Tucker (Tucker Carlson). If Tucker (Tucker Carlson) doesn't want to collab with Ben, that's on him. Also, it's Tucker's (T..."
+> "So, okay, that's on Tucker (Tucker Carlson)."
 
 **[00:06:06](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-58)**
-> "... background that you guys don't understand. So, okay, that's on Tucker (Tucker Carlson). If Tucker (Tucker Carlson) doesn't want to collab with Ben, that's on him. Also, it's Tucker's (Tucker Carlson's) platform. S..."
+> "If Tucker (Tucker Carlson) doesn't want to collab with Ben (Ben Shapiro), that's on him."
 
 **[00:06:09](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-58)**
-> "...n). If Tucker (Tucker Carlson) doesn't want to collab with Ben, that's on him. Also, it's Tucker's (Tucker Carlson's) platform. So what it means when you have your own show, which I don't know why the shock is, is ..."
+> "Also, it's Tucker's (Tucker Carlson's) platform."
 
 **[00:06:15](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-58)**
 > "... own show, which I don't know why the shock is, is you can talk about whatever you want. If Tucker (Tucker Carlson) wants to do six months and he just wants to cover sports, it's his prerogative, and people can tun..."
@@ -1831,10 +1861,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > "...actually just makes entirely no sense. It's not Tucker's (Tucker Carlson's) responsibility. Tucker (Tucker Carlson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamd..."
 
 **[00:06:51](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-06-42)**
-> "...is platform to speak about Mamdani 17 times. It's very strange. But to the insinuation that Tucker (Tucker Carlson) somehow supported Mamdani and said like nice things about him when he sat down with Marjorie Taylo..."
-
-**[00:07:07](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-06-42)**
-> "...eing an honest person when he describes it in the manner that he just did. Take a listen to Tucker (Tucker Carlson). (Clip: Tucker Carlson) It's interesting. You said a second ago that when people are really frustr..."
+> "But to the insinuation that Tucker (Tucker Carlson) somehow supported Mamdani (Zohran Mamdani) and said like nice things about him when he sat down with Marjorie Taylor Greene, here's actually what Tucker (Tucker Carlson) said with Marjorie Taylor Greene."
 
 **[00:09:20](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-09-09)**
 > "...o many domestic ones to prove from. You got to learn why you lose elections, and it's not Tucker's (Tucker Carlson's) job to get people elected, least of all in cities that he doesn't live in. Now, I wanna also sho..."
@@ -1858,7 +1885,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > "...ut also he was 18, 19 years old. Now you see him on Tucker (Tucker Carlson). You don't like Tucker (Tucker Carlson). And I think... it makes him uncomfortable. I think we're in Harry Potter, right? And Lord Voldemo..."
 
 **[00:23:00](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-22-18)**
-> "... insulting me. I don't feel the need to wheel and deal behind the scenes or, you know, tell Tucker (Tucker Carlson) not to host. I just don't care. It's just really not my business. I'm like, Megyn, I just don't ca..."
+> "to wheel and deal behind the scenes or, you know, tell Tucker (Tucker Carlson) not to host."
 
 **[00:28:19](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-28-09)**
 > "... will guarantee you people coming and asking her questions and trying to get her to disavow Tucker (Tucker Carlson). That is not organic, okay? That is pro-Israel people that are paid to do it. Honestly, Megyn, if ..."
@@ -1873,13 +1900,22 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > "... I just would never do this. I wouldn't even flash in my mind as an idea that I should text Tucker (Tucker Carlson) and tell him who he should or should not have on his platform or how he should use his platform. I..."
 
 **[00:47:01](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-46-49)**
-> "...t/owens. All right, jumping into some of your comments here. RN Explorer writes, "Why can't Tucker (Tucker Carlson) interview Fuentes? Ben is upset with Tucker (Tucker Carlson) for this. I have seen this kind of im..."
+> "RN Explorer writes, "Why can't Tucker (Tucker Carlson) interview Fuentes (Nick Fuentes)?"
 
 **[00:47:02](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-46-49)**
-> "...RN Explorer writes, "Why can't Tucker (Tucker Carlson) interview Fuentes? Ben is upset with Tucker (Tucker Carlson) for this. I have seen this kind of immaturity in high school between teenage girls. I'm mad at her..."
+> "Ben (Ben Shapiro) is upset with Tucker (Tucker Carlson) for this."
 
 **[00:47:21](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-46-49)**
 > "...y truly thought this was it. Like I know it's every week they renew their efforts to cancel Tucker (Tucker Carlson), but I think they thought they had him. Like this was really gonna be it. And of course, it always..."
+
+**[00:05:14](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-14)**
+> "Again, I say this with sadness because Tucker (Tucker Carlson) used to be, I think, a deeply important part of the conservative push to win."
+
+**[00:07:07](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-06-42)**
+> "Take a listen to Tucker (Tucker Carlson). (Clip: Tucker Carlson)"
+
+**[00:05:58](/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-05-58)**
+> "He's upset because I guess Tucker (Tucker Carlson) doesn't want to do a show with him in the future."
 
 </details>
 
@@ -2113,94 +2149,94 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (30 mentions)</summary>
 
 **[00:00:47](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-00-41)**
-> "...ry that they're trying to sell us. Candace Owens: And now they're up in arms demanding that Tucker (Tucker Carlson) gets canceled from all future Turning Point USA conferences. Candace Owens: And you're never going..."
+> "...n arms demanding that Tucker (Tucker Carlson) gets canceled from all future Turning Point USA ..."
 
 **[00:23:48](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-23-48)**
-> "...le session to explain to you that the best way to honor Charlie (Charlie Kirk) is to cancel Tucker (Tucker Carlson) or something. Anyways, we'll be right back. Jumping in here to tell you guys about PreBorn! You kn..."
+> "...ie Kirk) is to cancel Tucker (Tucker Carlson) or something."
 
 **[00:29:27](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-29-27)**
-> "...mething. And they have come undone. They've never actually really been done on the topic of Tucker (Tucker Carlson) or myself, but this is exceptional. The backstory here is that Tucker (Tucker Carlson)—in case you..."
+> "... done on the topic of Tucker (Tucker Carlson) or myself, but this is exceptional."
 
 **[00:29:34](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-29-27)**
-> "...c of Tucker (Tucker Carlson) or myself, but this is exceptional. The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show. And to be clear, I've hosted Nick Fuentes o..."
+> "...ackstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his..."
 
 **[00:29:57](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-29-27)**
 > "...amut that I went through—that Tucker's going through right now."
 
 **[00:30:14](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-30-03)**
-> "...een clear about that, and that person should get a second chance to explain their story. So Tucker (Tucker Carlson) invited him on to have a conversation. And this has led to people insisting that Tucker (Tucker Ca..."
+> "So Tucker (Tucker Carlson) invited him on to have a conversation."
 
 **[00:30:20](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-30-03)**
-> "...r Carlson) invited him on to have a conversation. And this has led to people insisting that Tucker (Tucker Carlson) gets canceled from all Turning Point future events. Now, why are they saying he should be canceled..."
+> "that Tucker (Tucker Carlson) gets canceled from all Turning Point future even..."
 
 **[00:30:38](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-30-03)**
-> "...arial to Charlie (Charlie Kirk). Charlie (Charlie Kirk) didn't like Nick Fuentes. So why is Tucker (Tucker Carlson) speaking to him? Like that's their logic. I spoke to him. I don't like Nick Fuentes. I speak to pe..."
+> "So why is Tucker (Tucker Carlson) speaking to him?"
 
 **[00:31:09](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-30-48)**
-> "...hat's not AI. He wrote an op-ed in the Daily Mail—which they actually published—calling for Tucker (Tucker Carlson) to be neutralized. Yeah, this is him: the guy who mysteriously calls for public executions the nig..."
+> "...published—calling for Tucker (Tucker Carlson) to be neutralized."
 
 **[00:31:26](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-31-26)**
-> "...t what I meant. That's not what I meant when I said that. He actually published his op-ed: "Tucker (Tucker Carlson) just hit a new low with this heinous betrayal of my friend Charlie (Charlie Kirk), who is surely n..."
+> "...published his op-ed: "Tucker (Tucker Carlson) just hit a new low with this heinous betrayal of..."
 
 **[00:31:46](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-31-26)**
-> "...over again—plus tried to sell his book. Is he actually writing an op-ed claiming that it is Tucker (Tucker Carlson) who is apparently heinous? Yes, he's doing that. This is a direct quote from that op-ed. He wrote,..."
+> "...d claiming that it is Tucker (Tucker Carlson)"
 
 **[00:32:06](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-32-06)**
 > "Carlson and his clan had declared their jihad—not on the ..."
 
 **[00:33:14](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-32-49)**
-> "...hey support Trump (Donald Trump) and that they're super MAGA by demanding that MAGA cancels Tucker (Tucker Carlson), who is adored and loved by the MAGA base, of course. Now, if you think I can't get any more ridic..."
+> "...ing that MAGA cancels Tucker (Tucker Carlson), who is adored and loved by the MAGA base, of co..."
 
 **[00:33:57](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-33-30)**
-> "...m actually tweeted this: "CNN platforming Anna Kasparian. Turning Point USA refusing to cut Tucker (Tucker Carlson). This is how the Holocaust started. Jew hatred normalized." I don't know—is that actually how the ..."
+> "...t USA refusing to cut Tucker (Tucker Carlson)."
 
 **[00:34:23](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-34-12)**
-> "...asking—I'm asking for a friend. Maybe I need to be re-educated here. Is that what happened? Tucker (Tucker Carlson)—someone like Tucker (Tucker Carlson)—has had a conversation with someone that he disagrees with. A..."
+> "Tucker (Tucker Carlson)—someone like Tucker (Tucker Carlson)—has had a c..."
 
 **[00:35:56](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-35-53)**
-> "...responsible thing and a good thing for the conservative movement if someone as prominent as Tucker (Tucker Carlson)—with his large audience he has—if he was standing in the way of Nick Fuentes becoming more mainstr..."
+> "...meone as prominent as Tucker (Tucker Carlson)—with his large audience he has—if he was standin..."
 
 **[00:37:55](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-37-39)**
-> "...)'s friend and now trying to use Charlie (Charlie Kirk)'s legacy by pretending that somehow Tucker (Tucker Carlson) is not a true friend to Charlie (Charlie Kirk) because Charlie (Charlie Kirk) didn't like Nick Fue..."
+> "Tucker (Tucker Carlson) is not a true friend to Charlie (Charlie Kirk) b..."
 
 **[00:38:07](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-38-07)**
-> "...al operation. These people are nutty. Take a listen. "I want to know what Dave thinks about Tucker (Tucker Carlson) essentially calling Charlie (Charlie Kirk) a heretic by saying that anybody who's a Christian Zion..."
+> "...hat Dave thinks about Tucker (Tucker Carlson) essentially calling Charlie (Charlie Kirk) a her..."
 
 **[00:39:47](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-39-12)**
-> "... no longer here to take that last step that you knew he was taking. You didn't want another Tucker (Tucker Carlson) or Candace (Candace Owens)—people who were very much in the pro-Israel camp and left it because we..."
+> "...u didn't want another Tucker (Tucker Carlson) or Candace (Candace Owens)—people who were very ..."
 
 **[00:40:19](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-39-54)**
-> "...late people and tell them that what's right here in the Bible is that they shouldn't follow Tucker (Tucker Carlson) or Candace (Candace Owens). And yes, I would deem you to be therefore a heretic. So I hope I'm cle..."
+> "...they shouldn't follow Tucker (Tucker Carlson) or Candace (Candace Owens)."
 
 **[00:41:10](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-40-36)**
-> "... (Charlie Kirk)'s last words in that text chain. He fought tooth and nail to make sure that Tucker (Tucker Carlson) stayed on the Turning Point USA speaking list. That's the reality, okay? That's the reality. Those..."
+> "that Tucker (Tucker Carlson) stayed on the Turning Point USA speaking list."
 
 **[00:41:22](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-41-22)**
-> "...ally his last public words that we can read from his private text exchanges: that he wanted Tucker (Tucker Carlson). And now you're trying to convince us that the best way to honor him would be not to listen to wha..."
+> "...anges: that he wanted Tucker (Tucker Carlson)."
 
 **[00:41:51](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-41-45)**
 > "It's like, well, maybe Tucker's going to give two speeches now at AmFest.""
 
 **[00:41:57](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-41-45)**
-> "...re it says, "Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker (Tucker Carlson)." And I'm thinking of inviting Candace (Candace Owens). Whoa! It brings me no pleasure to criticiz..."
+> "...cause we won't cancel Tucker (Tucker Carlson).""
 
 **[00:42:15](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-41-45)**
-> "...m thinking of inviting Candace (Candace Owens). Whoa! It brings me no pleasure to criticize Tucker (Tucker Carlson) as much as I have been doing. But he has become the leading tip of the spear of what can only be d..."
+> "...pleasure to criticize Tucker (Tucker Carlson) as much as I have been doing."
 
 **[00:45:00](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-44-47)**
-> "...single second. Do I believe that Charlie (Charlie Kirk) would have considered shutting down Tucker (Tucker Carlson) because he sat down with Nick Fuentes. It is so beyond the realm of possibility that it is sickeni..."
+> "...sidered shutting down Tucker (Tucker Carlson) because he sat down with Nick Fuentes."
 
 **[00:48:34](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-48-17)**
-> "...hat he said—the glorification of Hitler, you know—these are all things that you would think Tucker (Tucker Carlson)—claiming to be a Christian and a decent person—would have a lot of interest." Okay, I think we can..."
+> "... that you would think Tucker (Tucker Carlson)—claiming to be a Christian and a decent person—w..."
 
 **[00:49:19](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-48-48)**
-> "...ot deal with somebody calling you names—just so you know—the internet is optional. Watching Tucker (Tucker Carlson) sit down with Nick Fuentes is optional. If you don't like someone, you are not required by law to ..."
+> "Watching Tucker (Tucker Carlson) sit down with Nick Fuentes is optional."
 
 **[00:59:25](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-59-20)**
-> "...g Turning Point, I can't think of a worse executive decision that could be made than to ban Tucker (Tucker Carlson) from future events. Like literally people are going to perceive that as ignoring Charlie (Charlie ..."
+> "...d be made than to ban Tucker (Tucker Carlson) from future events."
 
 **[01:01:45](/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-01-01-25)**
-> "...nd that's why they demand we shut up. That's why they demand cancellation. They demand that Tucker (Tucker Carlson) is not given a platform because he's telling the truth, and it's resonating with people. And he's ..."
+> "They demand that Tucker (Tucker Carlson) is not given a platform because he's telling the..."
 
 </details>
 
@@ -2309,37 +2345,37 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (11 mentions)</summary>
 
 **[00:16:50](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-16-33)**
-> "...group chat, "Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker (Tucker Carlson). I'm thinking of inviting Candace (Candace Owens)." Somebody writes, "Oh." Charlie (Charlie Kirk) ..."
+> "...cause we won't cancel Tucker (Tucker Carlson)."
 
 **[00:17:56](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-17-56)**
-> "...ng about Charlie (Charlie Kirk) and the pressure he was under, the attacks that not just me—Tucker (Tucker Carlson), Megyn Kelly—faced for trying to stand up and tell the truth about what Charlie (Charlie Kirk) was..."
+> "...acks that not just me—Tucker (Tucker Carlson), Megyn Kelly—faced"
 
 **[00:18:23](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-17-56)**
-> "...rlie (Charlie Kirk) was actually going through. Why are you hearing it, though, from me and Tucker (Tucker Carlson) and Megyn Kelly? Is that weird? You got people that are hosting a show. Have they in like one hono..."
+> "..., though, from me and Tucker (Tucker Carlson) and Megyn Kelly?"
 
 **[00:21:21](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-21-14)**
-> "...piracies. Now that's exactly what was communicated by Andrew Kolvet when he sat across from Tucker (Tucker Carlson), who was hosting Charlie Kirk's (Charlie Kirk's) show. And gratefully, Tucker (Tucker Carlson) ins..."
+> "...en he sat across from Tucker (Tucker Carlson), who was hosting Charlie Kirk's show."
 
 **[00:21:30](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-21-14)**
-> "...ker (Tucker Carlson), who was hosting Charlie Kirk's (Charlie Kirk's) show. And gratefully, Tucker (Tucker Carlson) instantly responded with a much more sensible approach. Take a listen. (Andrew Kolvet / Tucker Car..."
+> "And gratefully, Tucker (Tucker Carlson) instantly responded with a much more sensible ap..."
 
 **[00:21:37](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-21-37)**
-> "...er Carlson) instantly responded with a much more sensible approach. Take a listen. (Andrew Kolvet / Tucker Carlson clip:) "By the way, just one other conspiracy theory I just want to snuff out here. One of our dear..."
+> "(Andrew Kolvet / Tucker Carlson clip:) "By the way, just one other conspiracy the..."
 
 **[00:22:42](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-22-42)**
-> "... you know? And so I'm so glad he did that. But Charlie (Charlie Kirk) knew the existence of evil." (Tucker Carlson:) "Can I say, I think that people can feel the existence of evil in that—just to put in a sympathet..."
+> "(Tucker Carlson:) "Can I say, I think that people can feel the ex..."
 
 **[00:23:11](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-23-09)**
-> "...hey're the victims of it." That's a good point. Thank you for saying that. Yeah, thank you, Tucker (Tucker Carlson), for saying that. And this is the reason why Tucker (Tucker Carlson) is so big, because he has thi..."
+> "Yeah, thank you, Tucker (Tucker Carlson), for saying that."
 
 **[00:23:13](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-23-09)**
-> "...that. Yeah, thank you, Tucker (Tucker Carlson), for saying that. And this is the reason why Tucker (Tucker Carlson) is so big, because he has this perspective. He understands what the average person is thinking her..."
+> "...his is the reason why Tucker (Tucker Carlson) is so big, because he has this perspective."
 
 **[00:46:13](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-46-12)**
-> "...listen. (Pastor clip:) "Why am I bringing this up? Because I was watching an interview with Tucker (Tucker Carlson) and Megyn Kelly, and this is what they said: everyone under 30 in America is against Israel. The o..."
+> "...ing an interview with Tucker (Tucker Carlson) and Megyn Kelly, and this is what they said: eve..."
 
 **[01:01:02](/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-01-00-55)**
-> "...d of attacking people for asking the most basic of questions. And again, I'm so grateful to Tucker (Tucker Carlson). I think he's also one of our voices. He immediately interjects, and he's like, "Well, let's be fa..."
+> "...n, I'm so grateful to Tucker (Tucker Carlson)."
 
 </details>
 
@@ -2347,40 +2383,40 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (12 mentions)</summary>
 
 **[00:00:36](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-00-36)**
-> "...uess they're surrounding Megyn Kelly and demanding that she make a statement against me and Tucker (Tucker Carlson), of course, Candace (Candace Owens) and Tucker (Tucker Carlson). It is so bonkers. I got to show y..."
+> "...tement against me and Tucker (Tucker Carlson), of course, Candace (Candace Owens) and Tucker (..."
 
 **[00:22:56](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-22-22)**
-> "...act, by the way, that Charlie (Charlie Kirk) was on a hit list. I also was on the hit list. Tucker (Tucker Carlson) was on the hit list, and actually, I forgot the name of the individual that worked for Alex Jones ..."
+> "Tucker (Tucker Carlson) was on the hit list, and actually,"
 
 **[00:27:33](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-27-09)**
-> "... assassination and with the kind of trajectory that we see with Candace (Candace Owens) and Tucker (Tucker Carlson), I guess I'm curious about what's another game plan if we lose evangelical support for the state o..."
+> "...e (Candace Owens) and Tucker (Tucker Carlson), I guess I'm curious about what's another game p..."
 
 **[00:27:51](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-27-51)**
-> "... to be strong outside of the diaspora? Okay, first off, I don't know why it's always me and Tucker (Tucker Carlson). Why? Why is it always Tucker (Tucker Carlson) and Candace (Candace Owens)? Can it be anybody else..."
+> "...hy it's always me and Tucker (Tucker Carlson)."
 
 **[00:27:54](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-27-51)**
-> "...rst off, I don't know why it's always me and Tucker (Tucker Carlson). Why? Why is it always Tucker (Tucker Carlson) and Candace (Candace Owens)? Can it be anybody else? We have nothing to do with one another. I've ..."
+> "Why is it always Tucker (Tucker Carlson) and Candace (Candace Owens)?"
 
 **[00:28:04](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-27-51)**
-> "...o with one another. I've been on his show twice. Twice on his independent show. I just love Tucker (Tucker Carlson). I do. I'm a fan. I'm not gonna lie. But I feel like they're starting to think we're the same pers..."
+> "I just love Tucker (Tucker Carlson)."
 
 **[00:28:09](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-27-51)**
-> "... a fan. I'm not gonna lie. But I feel like they're starting to think we're the same person. Tucker (Tucker Carlson) and Candace (Candace Owens). Tucker (Tucker Carlson) and Candace (Candace Owens), over and over ag..."
+> "Tucker (Tucker Carlson) and Candace (Candace Owens)."
 
 **[00:28:10](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-27-51)**
-> "...arting to think we're the same person. Tucker (Tucker Carlson) and Candace (Candace Owens). Tucker (Tucker Carlson) and Candace (Candace Owens), over and over again. But listen to Benjamin Netanyahu's response, bec..."
+> "Tucker (Tucker Carlson) and Candace (Candace Owens), over and over again..."
 
 **[00:35:37](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-35-01)**
-> "... decide what and what not to opine on. If you need me to condemn Candace (Candace Owens) or Tucker (Tucker Carlson) for their opinions in order to listen to me, then I may not be for you. He's a close friend and sh..."
+> "...ce (Candace Owens) or Tucker (Tucker Carlson) for their opinions in order to listen to me, the..."
 
 **[00:35:53](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-35-44)**
-> "...ith the left, not these two. Like, kudos to Megyn Kelly. What? And yes, she is friends with Tucker (Tucker Carlson). They've been friends for a very long time. And yeah, I'm kind of taking a lot of bullets right no..."
+> "..., she is friends with Tucker (Tucker Carlson)."
 
 **[00:36:32](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-36-19)**
-> "...en to become the face of the entire movement. If you agree with Candace (Candace Owens) and Tucker (Tucker Carlson), people will respect that. But to many of us, their behavior is so extreme and so deranged that th..."
+> "...e (Candace Owens) and Tucker (Tucker Carlson), people will respect that."
 
 **[00:39:01](/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-38-34)**
-> "... will buck. And you will buck by making a strong statement against Candace (Candace Owens), Tucker (Tucker Carlson), when we demand it. Then they will send the next layer, which is a full-blown press attack, the pr..."
+> "...dace (Candace Owens), Tucker (Tucker Carlson), when we demand it."
 
 </details>
 
@@ -2388,7 +2424,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:38:27](/episodes/ep-YA1FxrDWNIo.md#ent-person-tucker-carlson-t-00-38-04)**
-> "...le didn't want to take that risk that he was kind of—what— become Candace Owens (Candace Owens) and Tucker Carlson (Tucker Carlson) at Turning Point USA—with all of those presences, so much presence across college ..."
+> "become Candace Owens and Tucker Carlson at Turning Point USA—with all of those presences,"
 
 </details>
 
@@ -2689,7 +2725,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:50](/episodes/ep-r1PS67aRmcA.md#t-00-00-44): “Ben Shapiro has a real thing for Tucker Carlson, there's something about Tucker that gets under his skin”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
@@ -2698,7 +2734,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “He's hosting 5 a.m. calls against me and Tucker Carlson”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:28:52](/episodes/ep-yAIb-NuUh_U.md#t-00-28-43): “He's hosting 5 a.m. calls against me and Tucker (Tucker Carlson).”
 
 </details>
 
@@ -2814,9 +2850,8 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Friend Of (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29): “Why are you hearing it, though, from me and Tucker and Megyn Kelly?”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:09:45](/episodes/ep-es7PWdFGoFI.md#t-01-09-35): “I had never had beef with Tucker. That's why I was at his Christmas party.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
@@ -2863,10 +2898,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “Tucker Carlson hosted Nick Fuentes on his show.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49): “Tucker (Tucker Carlson) interviewed Nick Fuentes.”
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “after I saw what he did with Nick Fuentes”
 - [Myron Gaines x Candace Owens @ 00:45:26](/episodes/ep-2T39-oADLj0.md#t-00-45-26): “because when you hear nick's point has his backstory it's compelling it just is i was compelled when i heard it i actually haven't gotten around to watching his interview with tucker it's on my list this weekend”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show.”
 
 </details>
 
@@ -2880,7 +2915,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#t-00-21-14): “Andrew Kolvet when he sat across from Tucker Carlson”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:21](/episodes/ep-ozWJz2spBcI.md#t-00-21-14): “Now that's exactly what was communicated by Andrew Kolvet when he sat across from Tucker (Tucker Carlson), who was hosting Charlie Kirk's show.”
 
 </details>
 
@@ -3100,7 +3135,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:00:50](/episodes/ep-r1PS67aRmcA.md#t-00-00-44): “Ben Shapiro has a real thing for Tucker Carlson, there's something about Tucker that gets under his skin”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
@@ -3109,7 +3144,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Jack Hibbs](/entities/person-jack-hibbs.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:56](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “He's hosting 5 a.m. calls against me and Tucker Carlson”
+- [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:28:52](/episodes/ep-yAIb-NuUh_U.md#t-00-28-43): “He's hosting 5 a.m. calls against me and Tucker (Tucker Carlson).”
 
 </details>
 
@@ -3240,9 +3275,8 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29): “Why are you hearing it, though, from me and Tucker and Megyn Kelly?”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
 
@@ -3302,12 +3336,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:04:12](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “... had a nice conversation on the day that Charlie (Charlie Kirk) died, and Tucker (Tucker Carlson) then sent a nice text because Ben had called him. And I guess Be...”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:31:58](/episodes/ep-sreYYcID-QY.md#t-00-31-15): “...n Netanyahu (Bibi) murdered Charlie Kirk. Tucker (Tucker Carlson) never said that. Megyn Kelly never said that. Dave Smith never said that. Instead what we are doin...”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:01:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-40): “...ce of what Charlie (Charlie Kirk) said to Tucker (Tucker Carlson) backstage at the Student Action Summit in July. We're gonna get to that. Also, do you guys remembe...”
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:04:26](/episodes/ep-ozWJz2spBcI.md#t-00-04-15): “gratefully, Tucker instantly responded with a much more sensible approach”
 
 </details>
 
@@ -3324,10 +3357,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “Tucker Carlson hosted Nick Fuentes on his show.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49): “Tucker (Tucker Carlson) interviewed Nick Fuentes.”
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#t-00-04-34): “after I saw what he did with Nick Fuentes”
 - [Myron Gaines x Candace Owens @ 00:45:26](/episodes/ep-2T39-oADLj0.md#t-00-45-26): “because when you hear nick's point has his backstory it's compelling it just is i was compelled when i heard it i actually haven't gotten around to watching his interview with tucker it's on my list this weekend”
+- [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27): “The backstory here is that Tucker (Tucker Carlson)—in case you missed it—hosted Nick Fuentes on his show.”
 
 </details>
 
@@ -3341,7 +3374,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#t-00-21-14): “Andrew Kolvet when he sat across from Tucker Carlson”
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:21](/episodes/ep-ozWJz2spBcI.md#t-00-21-14): “Now that's exactly what was communicated by Andrew Kolvet when he sat across from Tucker (Tucker Carlson), who was hosting Charlie Kirk's show.”
 
 </details>
 
@@ -3421,7 +3454,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tucker Carlson (56)</strong></summary>
+<summary><strong class="section-title">Statements by Tucker Carlson (76)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3)</summary>
@@ -3540,7 +3573,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
 
 - [00:25:05](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [○] (Opinion) ["Charlie Kirk died for his belief in free debate and giving people platforms to s..."](/statements/statement-dccdb57ef266.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -3548,19 +3581,28 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - [00:25:07](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [○] (Claim) ["Charlie Kirk spent the last several months of his life under immense pressure fr..."](/statements/statement-5e3f12bf081d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
+- [00:25:32](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) [✓] (Claim) ["Tucker Carlson's speech at AmFest was requested by Charlie Kirk during the summe..."](/statements/statement-1a4a4c5dc840.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (9)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (12)</summary>
 
 - [00:23:54](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [○] (Opinion) ["Tucker Carlson does not understand the official story of Charlie Kirk's assassin..."](/statements/statement-7225bca90297.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+- [00:24:16](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [✓] (Claim) ["Tucker Carlson said Owens’s claim that Egyptian-registered aircraft had followed..."](/statements/statement-289fd3bfad4f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:24:24](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [○] (Claim) ["Egyptian registered aircraft were following Charlie Kirk's widow around for a nu..."](/statements/statement-3cc73c12b1d9.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:24:24](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) [○] (Claim) ["Tucker Carlson confirms that Egyptian-registered aircraft were following Charlie..."](/statements/statement-0351e28ffd11.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
+
+- [00:25:00](/episodes/ep-6DhWawD4ZiM.md#t-00-24-33) [✓] (Claim) ["Tucker Carlson said Owens’s claim that a disproportionately large number of fore..."](/statements/statement-bd9f6a09be67.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:25:16](/episodes/ep-6DhWawD4ZiM.md#t-00-24-33) [○] (Claim) ["There were a disproportionately large number of foreign registered cell phones a..."](/statements/statement-055dc03b47ad.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -3575,6 +3617,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:28:28](/episodes/ep-6DhWawD4ZiM.md#t-00-27-51) [○] (Opinion) ["Tucker Carlson questions the claim that Charlie Kirk's assassin acted alone and ..."](/statements/statement-4ed785cea2fa.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:40](/episodes/ep-6DhWawD4ZiM.md#t-00-28-35) [✓] (Accusation) ["Tucker Carlson said people had posted on X that Charlie Kirk would be killed on ..."](/statements/statement-bdfe3eb4c4ee.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:29:12](/episodes/ep-6DhWawD4ZiM.md#t-00-28-35) [○] (Claim) ["The FBI claims to have both a confession from the killer in texts to his boyfrie..."](/statements/statement-46d01b80aec8.md)
@@ -3594,7 +3639,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2)</summary>
+
+- [00:09:46](/episodes/ep-MUA9ebCF4Ow.md#t-00-09-46) [✓] (Claim) ["Tucker Carlson said Charlie Kirk told him backstage before his July speech to “g..."](/statements/statement-2b4a8f23bd35.md)
 
 - [00:10:01](/episodes/ep-MUA9ebCF4Ow.md#t-00-09-46) [○] (Claim) ["Tucker Carlson said Charlie Kirk explicitly asked him in July to go on stage and..."](/statements/statement-0dfa31827a07.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -3635,10 +3682,19 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (12)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (26)</summary>
 
 - [00:43:13](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) [○] (Accusation) ["Tucker Carlson was shocked and sickened by Benjamin Netanyahu's ghoulish and rep..."](/statements/statement-c7fb4aa3da2f.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:43:21](/episodes/ep-2WEHTk0Xewg.md#t-00-43-13) [○] (Opinion) ["Benjamin Netanyahu lied about his relationship with Charlie Kirk and tried to re..."](/statements/statement-20e48e5d4780.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:44](/episodes/ep-2WEHTk0Xewg.md#t-00-43-13) [✓] (Claim) ["Bibi is despised by many people in Israel"](/statements/statement-f1da06cc1619.md)
+
+- [00:43:50](/episodes/ep-2WEHTk0Xewg.md#t-00-43-13) [✓] (Claim) ["There are huge divisions within the Israeli government"](/statements/statement-93a7834de851.md)
+
+- [00:43:52](/episodes/ep-2WEHTk0Xewg.md#t-00-43-13) [○] (Claim) ["there are certain parts of the intel world in Israel that do not support some th..."](/statements/statement-3fbadc87993a.md)
 
 - [00:44:02](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) [○] (Accusation) ["Benjamin Netanyahu tried to hijack Charlie Kirk's memory and use it for his own ..."](/statements/statement-f25d19d5a641.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -3646,23 +3702,42 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - [00:44:14](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) [○] (Claim) ["Charlie Kirk loved Jews and the state of Israel but felt that Benjamin Netanyahu..."](/statements/statement-205de0b2a45b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:44:14](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) [○] (Claim) ["Charlie didn't hate Jews. He loved Jews. He had tons of friends who were Jews. H..."](/statements/statement-466236d25570.md)
+
+- [00:44:20](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) [○] (Claim) ["He did not like Benjamin Netanyahu and he said that to me many times and he said..."](/statements/statement-87c096bc5d28.md)
+
+- [00:44:25](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) [✓] (Claim) ["He felt that Benjamin Netanyahu was a very destructive force"](/statements/statement-6cd5eaf0cdb7.md)
+
+- [00:44:30](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) [○] (Claim) ["He was appalled by what was happening in Gaza"](/statements/statement-02ab36dfcb44.md)
+
 - [00:44:34](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) [○] (Claim) ["Charlie Kirk felt that Benjamin Netanyahu was a destructive force and was using ..."](/statements/statement-7c129c0ec2de.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 - [00:44:34](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) [○] (Claim) ["Charlie Kirk resented that Benjamin Netanyahu was using the United States to pro..."](/statements/statement-ff9af4655fef.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:45:04](/episodes/ep-2WEHTk0Xewg.md#t-00-44-34) [✓] (Claim) ["enough text messages exist that I think it can probably be verified in pretty sh..."](/statements/statement-3943c1a49754.md)
+
 - [00:45:18](/episodes/ep-2WEHTk0Xewg.md#t-00-44-34) [○] (Claim) ["Charlie Kirk had 100 million dollars worth of donors and was tormented by a smal..."](/statements/statement-a1249f5e6503.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:45:45](/episodes/ep-2WEHTk0Xewg.md#t-00-45-18) [○] (Claim) ["Charlie Kirk lost a two million dollar donation two days before he died because ..."](/statements/statement-328e668b0208.md)
+- [00:45:45](/episodes/ep-2WEHTk0Xewg.md#t-00-45-18) [✓] (Claim) ["Charlie Kirk lost a two million dollar donation two days before he died because ..."](/statements/statement-328e668b0208.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:45:45](/episodes/ep-2WEHTk0Xewg.md#t-00-45-18) [○] (Claim) ["Two days before Charlie Kirk died, he lost a two million dollar donation because..."](/statements/statement-aa4981a589b6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
+- [00:45:53](/episodes/ep-2WEHTk0Xewg.md#t-00-45-18) [✓] (Claim) ["he told me over the past couple of months he was losing a lot of donations over ..."](/statements/statement-21525e203f99.md)
+
 - [00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) [○] (Claim) ["The American Jewish Committee called Charlie Kirk an anti-Semite and 'dangerous'..."](/statements/statement-08bf483d695c.md)
   - About: [American Jewish Committee](/entities/org-american-jewish-committee.md)
+
+- [00:46:14](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) [○] (Claim) ["Charlie Kirk, an anti-Semite. He was not an anti-Semite. He was the opposite"](/statements/statement-bc97728eac66.md)
+
+- [00:46:32](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) [✓] (Claim) ["Charlie was deeply offended by that and expressed some of those feelings on Megy..."](/statements/statement-acc9b5c49b99.md)
+
+- [00:46:34](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) [✗] (Claim) ["The American Jewish Committee called Charlie Kirk an anti-Semite and dangerous i..."](/statements/statement-b1f4c6ad85fd.md)
+  - About: [American Jewish Committee](/entities/org-american-jewish-committee.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:46:48](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47) [○] (Claim) ["The American Jewish Committee called Charlie Kirk an anti-Semite and dangerous i..."](/statements/statement-a95ec70f4a36.md)
   - About: [American Jewish Committee](/entities/org-american-jewish-committee.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -3670,15 +3745,40 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - [00:47:18](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47) [○] (Accusation) ["Seth Dillon of the Babylon Bee was demanding that Charlie Kirk take Tucker Carls..."](/statements/statement-b6186ebec191.md)
   - About: [Seth Dillon](/entities/person-seth-dillon.md)
 
+- [00:47:18](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47) [✓] (Claim) ["Seth Dillon was out there demanding that Charlie Kirk take me off the roster, pu..."](/statements/statement-7c1e4de2a6fb.md)
+
 - [00:49:02](/episodes/ep-2WEHTk0Xewg.md#t-00-48-57) [○] (Opinion) ["Tucker Carlson is not accusing anyone of being involved in Charlie Kirk's murder..."](/statements/statement-9c8a2a30295c.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
+<details>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
+
+- [00:37:34](/episodes/ep-czVBmqZP6Ss.md#t-00-37-05) [○] (Claim) ["The photo of the rifle allegedly left in the woods has the barrel installed"](/statements/statement-ad849db0d227.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (75)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (86)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:51:49](/episodes/ep-N4uM8Jdr410.md#t-00-51-41) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Tucker Carlson, Bret Weinstein, and Joe Kent had al..."](/statements/statement-c61a4715d355.md)
+  - Also about: [Bret Weinstein](/entities/person-bret-weinstein.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:37:48](/episodes/ep-X3VKJVJ7cN4.md#t-00-37-48) (Citation) **Candace Owens**: ["Owens said tens of millions of dollars were being spent and that FARA ..."](/statements/statement-590118494132.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Foreign Agents Registration Act](/entities/law-fara.md)
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (5)</summary>
@@ -3884,10 +3984,19 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (4)</summary>
+
+- [00:07:59](/episodes/ep-w1oqQbR_bYs.md#t-00-07-19) (Claim) **Candace Owens**: ["Tucker Carlson interview with Candace Owens was published on November ..."](/statements/statement-88817b6774ea.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:10:23](/episodes/ep-w1oqQbR_bYs.md#t-00-09-55) (Claim) **Candace Owens**: ["Ben Shapiro interview with Thomas Sowell was published on November 17,..."](/statements/statement-7abccb564d21.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Thomas Sowell](/entities/person-thomas-sowell.md)
 
 - [00:25:07](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) (Claim) **Tucker Carlson**: ["Charlie Kirk spent the last several months of his life under immense p..."](/statements/statement-5e3f12bf081d.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:25:32](/episodes/ep-w1oqQbR_bYs.md#t-00-25-01) (Claim) **Tucker Carlson** (via quoted speech): ["Tucker Carlson's speech at AmFest was requested by Charlie Kirk during..."](/statements/statement-1a4a4c5dc840.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -3899,13 +4008,30 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5)</summary>
+
+- [00:24:16](/episodes/ep-6DhWawD4ZiM.md#t-00-23-49) (Claim) **Tucker Carlson** (via quoted speech): ["Tucker Carlson said Owens’s claim that Egyptian-registered aircraft ha..."](/statements/statement-289fd3bfad4f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:25:00](/episodes/ep-6DhWawD4ZiM.md#t-00-24-33) (Claim) **Tucker Carlson** (via quoted speech): ["Tucker Carlson said Owens’s claim that a disproportionately large numb..."](/statements/statement-bd9f6a09be67.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:14](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Tucker Carlson had learned after his father’s death..."](/statements/statement-8c2934247604.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 - [00:26:26](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) (Claim) **Candace Owens**: ["Tucker Carlson grew up with CIA agents in Virginia because his father ..."](/statements/statement-2c6779af2174.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 - [00:26:36](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) (Claim) **Candace Owens**: ["Tucker Carlson's father was on the payroll of the CIA"](/statements/statement-2fdb991794fa.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:39:49](/episodes/ep-Kmt6HgRjckU.md#t-00-39-23) (Claim) **Mohammed bin Abdulrahman Al Thani** (via paraphrase): ["Mohammed bin Abdulrahman Al Thani told Tucker Carlson that Qatar's rel..."](/statements/statement-7e8f3a0ab35e.md)
+  - Also about: [Qatar](/entities/gpe-qatar.md), [Hamas](/entities/org-hamas.md)
 
 </details>
 
@@ -3925,7 +4051,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 - [00:04:38](/episodes/ep-sImMM04XdWY.md#t-00-04-12) (Claim) **Candace Owens**: ["A well-known woman married to a CIA contractor called Candace on Septe..."](/statements/statement-4b9fb48af609.md)
 
-- [00:15:53](/episodes/ep-sImMM04XdWY.md#t-00-15-24) (Claim) **Candace Owens**: ["On July 18th, Charlie Kirk hosted Tucker Carlson at Satis and told Tuc..."](/statements/statement-35e19c389ea9.md)
+- [00:13:20](/episodes/ep-sImMM04XdWY.md#t-00-13-11) (Claim) **Candace Owens**: ["On July 18th, Charlie Kirk hosted Tucker Carlson at Satis and told Tuc..."](/statements/statement-35e19c389ea9.md)
 
 - [00:19:10](/episodes/ep-sImMM04XdWY.md#t-00-18-58) (Claim) **Candace Owens**: ["Tucker Carlson released an episode with Candace on August 1st discussi..."](/statements/statement-744c384c65c3.md)
 
@@ -3940,13 +4066,16 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (4)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (5)</summary>
 
 - [00:05:18](/episodes/ep-JQjCAsfoXEE.md#t-00-05-00) (Claim) **Candace Owens**: ["Andrew Kolvet told Candace in the hospital that there was a credible t..."](/statements/statement-231c049e30b6.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:05:34](/episodes/ep-JQjCAsfoXEE.md#t-00-05-00) (Accusation) **Candace Owens**: ["People tied to Israel are making threats against Candace and Tucker Ca..."](/statements/statement-1f569949f9f9.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:24:14](/episodes/ep-JQjCAsfoXEE.md#t-00-23-29) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace in the hospital that there was a credible t..."](/statements/statement-7e6e912a9127.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:24:14](/episodes/ep-JQjCAsfoXEE.md#t-00-24-14) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told me in the hospital that there was a credible threat..."](/statements/statement-c3b5d32f3b51.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -3957,9 +4086,12 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2)</summary>
 
 - [00:39:10](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-04) (Accusation) **Mark Levin** (via quoted speech): ["Mark Levin called Tucker Carlson a Nazi promoter and the modern-day Da..."](/statements/statement-a4f61d3f83e5.md)
+  - Also about: [Mark Levin](/entities/person-mark-levin.md)
+
+- [00:40:31](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-54) (Accusation) **Mark Levin** (via quoted speech): ["Tucker Carlson is a “Nazi promoter” and “the modern-day David Duke.”"](/statements/statement-fb82b64afba2.md)
   - Also about: [Mark Levin](/entities/person-mark-levin.md)
 
 </details>
@@ -3967,8 +4099,8 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
-- [00:28:23](/episodes/ep-LATnak75Si0.md#t-00-28-06) (Claim) **Candace Owens**: ["Bob Shulman took  million away from Charlie Kirk because he let Tucker..."](/statements/statement-15d3386acf60.md)
-  - Also about: [Bob Schulman](/entities/person-bob-schulman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:20:45](/episodes/ep-LATnak75Si0.md#t-00-20-09) (Claim) **Candace Owens**: ["Robert Shillman withdrew a $2 million pledge from Turning Point USA be..."](/statements/statement-15d3386acf60.md)
+  - Also about: [Robert Shillman](/entities/person-robert-shillman.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

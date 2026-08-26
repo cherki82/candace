@@ -30,7 +30,7 @@ type: "accusation"
 **Timestamp:** [00:27:42](/episodes/ep-7RLtGgkTh9o.md#t-00-27-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1662);return false;">Play</a>
 
-> She kept insisting to me through many messages that I needed to look into the quote-unquote Mormon mafia, which she said sits above Hollywood and even sits above many Zionist Jews.
+> Curiously—and I'm going to read this to you or else you won't believe me—she kept insisting to me through many messages that I needed to look into the quote-unquote "Mormon mafia," which she said sits above Hollywood and even sits above many Zionist Jews.
 
 ## Verification
 

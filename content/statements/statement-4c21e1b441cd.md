@@ -1,8 +1,8 @@
 ---
 title: "Phil Tourney recalled that USS Liberty crew initially though..."
-description: "\"Phil Tourney recalled that USS Liberty crew initially thought Israeli boats were coming to help before his captain warned they were about to be torped...\" — Phil Tourney"
+description: "\"Phil Tourney recalled that USS Liberty crew initially thought Israeli boats were coming to help before his captain warned they were about to be torped...\" — Phillip F. Tourney"
 statement_id: "statement-4c21e1b441cd"
-speaker: "Phil Tourney"
+speaker: "Phillip F. Tourney"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Phil Tourney](/entities/person-phil-tourney.md) (Quoted)
+**Speaker:** [Phillip F. Tourney](/entities/person-phillip-f-tourney.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
@@ -23,7 +23,7 @@ veracity: "true"
 
 ## About
 
-- [Phil Tourney](/entities/person-phil-tourney.md) (person)
+- [Phillip F. Tourney](/entities/person-phillip-f-tourney.md) (person)
 - [USS Liberty](/entities/vehicle-uss-liberty.md) (vehicle)
 - [Israel Defense Forces](/entities/org-israel-defense-forces.md) (org)
 

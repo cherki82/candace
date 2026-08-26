@@ -17,7 +17,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,7 +46,7 @@ _Type: Organizations_
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:13:20](/episodes/ep-a-e7HC6SeK8.md#ent-org-cloverstone-ventures-t-00-13-20)**
-> "...g paid through. It could all be above board. I don't really know. But the one I'm speaking about is Cloverstone Ventures. Stacey, by the way, is the senior advancement director at Turning Point USA. She was brought in sp..."
+> "But the one I'm speaking about is Cloverstone Ventures."
 
 </details>
 
@@ -56,5 +56,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Cloverstone Ventures (1)</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1)</summary>
+
+- [00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20) (Claim) **Candace Owens**: ["Stacey Sheridan's registered agent for Cloverstone Ventures is in the ..."](/statements/statement-15658318a1f2.md)
+  - Also about: [Wilmington](/entities/gpe-wilmington.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Stacey Sheridan](/entities/person-stacey-sheridan.md)
+
+</details>
 
 </details>

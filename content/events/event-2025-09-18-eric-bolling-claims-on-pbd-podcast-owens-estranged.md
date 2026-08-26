@@ -11,7 +11,7 @@ date: "2025-09-18"
 
 > Eric Bolling claims on PBD podcast Owens estranged from Kirk for years.
 
-## Mentioned In (5 times)
+## Mentioned In (4 times)
 
 ### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
@@ -37,15 +37,7 @@ date: "2025-09-18"
 
 > harlie and I had a breakup, right? Eric Bolling did this. He said—I even... I don't know if he was even sober on that program because he said he ha
 
-### 4. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
-
-**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
-**Timestamp:** [00:50:56](/episodes/ep-tB5SXXmd9vU.md#t-00-50-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3056);return false;">▶️ Play</a>
-
-> people that he's referring to, it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie Kirk and lied and said
-
-### 5. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 4. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:29:00](/episodes/ep-ja26iltROkM.md#t-00-28-21) 

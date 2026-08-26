@@ -27,7 +27,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div><span>Episodes</span><strong>61</strong></div>
 <div><span>Mentions</span><strong>167</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>56</strong></div>
+<div><span>Statements about</span><strong>57</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -1158,7 +1158,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (56)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (57)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
@@ -1396,7 +1396,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4)</summary>
+
+- [00:26:14](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Tucker Carlson had learned after his father’s death..."](/statements/statement-8c2934247604.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:26:26](/episodes/ep-6DhWawD4ZiM.md#t-00-26-00) (Claim) **Candace Owens**: ["Tucker Carlson grew up with CIA agents in Virginia because his father ..."](/statements/statement-2c6779af2174.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
@@ -1431,7 +1434,7 @@ Source: [About CIA](https://www.cia.gov/about/)
   - Also about: [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
 - [00:00:03](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) (Claim) **Candace Owens**: ["After the public execution of sitting President JFK in 1963, the CIA e..."](/statements/statement-0533f01c5c5b.md)
-  - Also about: [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+  - Also about: [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [JFK assassination](/entities/event-jfk-assassination.md)
 
 </details>
 
@@ -1444,7 +1447,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 - [00:15:14](/episodes/ep-7RLtGgkTh9o.md#t-00-14-40) (Accusation) **Anonymous Source #1 (Ep 7RLtGgkTh9o)** (via read message): ["I have suspicions about Lou Taylor being tied to possibly the CIA and ..."](/statements/statement-5cfb93122d3a.md)
   - Also about: [Lou Taylor](/entities/person-lou-taylor.md), [Mossad](/entities/org-mossad.md)
 
-- [00:21:27](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) (Claim) **Courtney Love** (via read message): ["Courtney Love was experimented on as a toddler at the Haight-Ashbury C..."](/statements/statement-698fdea4ccc4.md)
+- [00:21:34](/episodes/ep-7RLtGgkTh9o.md#t-00-21-04) (Claim) **Candace Owens**: ["The CIA intentionally dosed people in Haight-Ashbury with LSD to study..."](/statements/statement-698fdea4ccc4.md)
   - Also about: [Courtney Love](/entities/person-courtney-love.md), [MKUltra](/entities/concept-mkultra.md)
 
 - [00:22:14](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) (Claim) **Courtney Love** (via read message): ["I did not kill Kurt Cobain. That was part of a psychological operation..."](/statements/statement-0e0f62640500.md)

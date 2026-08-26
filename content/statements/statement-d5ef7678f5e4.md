@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Irina Zarutska](/entities/person-irina-zarutska.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
@@ -39,6 +39,14 @@ type: "factual_claim"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(524);return false;">Play</a>
 
 > Irina was murdered on August 22nd. Her perpetrator was arrested that same day, and the footage was released and trended on X on September 5th
+
+### 3. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+
+**Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
+**Timestamp:** [00:08:41](/episodes/ep-2Riv3I7D0Yk.md#t-00-08-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(521);return false;">Play</a>
+
+> Her perpetrator was arrested that same day, and the footage was released and trended on X on September 5th
 
 ## Verification
 

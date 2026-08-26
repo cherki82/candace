@@ -62,7 +62,7 @@ _Type: People_
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:32:13](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13)**
-> "...e Kirk's) assassination.” That is true. He fired the chief—among other people—and replaced her with Robert Bowles in August. I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got sh..."
+> "He fired the chief—among other people—and replaced her with Robert Bowles in August."
 
 **[00:32:20](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13)**
 > "... true. He fired the chief—among other people—and replaced her with Robert Bowles in August. I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been..."
@@ -106,7 +106,7 @@ _Type: People_
 - **[FBI](/entities/org-fbi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:23](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): “it was his first week when Charlie got shot—and he's somebody who has been in D.C. for decades”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:06](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): ““Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's assassination.” ... He fired the chief—among other people—and replaced her with Robert Bowles in August. ... I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.”
 
 </details>
 
@@ -128,7 +128,7 @@ _Type: People_
 - **[FBI](/entities/org-fbi.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:23](/episodes/ep-YA1FxrDWNIo.md#t-00-32-13): “it was his first week when Charlie got shot—and he's somebody who has been in D.C. for decades”
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:32:06](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28): ““Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's assassination.” ... He fired the chief—among other people—and replaced her with Robert Bowles in August. ... I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.”
 
 </details>
 

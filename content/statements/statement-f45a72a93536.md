@@ -30,7 +30,7 @@ type: "accusation"
 **Timestamp:** [00:22:30](/episodes/ep-7RLtGgkTh9o.md#t-00-21-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1350);return false;">Play</a>
 
-> She then told me through a lot of messages that at the core of all of this is ownership...the best way to understand it is that when companies or individuals get too big and become too powerful, they send their agents to control them.
+> And she then told me through a lot of messages that at the core of all of this is ownership. You know, goodbye to your idea of a meritocracy that you can climb the ladder and become a billionaire yourself—actually the best way to understand it is that when companies or individuals get too big and become too powerful, they send their agents to control them—to control them—to make sure that they are able to control their messaging.
 
 ## Verification
 

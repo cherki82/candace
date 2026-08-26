@@ -28,7 +28,7 @@ type: "prediction"
 **Timestamp:** [00:14:09](/episodes/ep-QZWSsq8ZWzw.md#t-00-13-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(849);return false;">Play</a>
 
-> There's imminent danger coming, okay? It is relating to a school. I think it's a communist underground, and I don't know why, but it has something to do with bees
+> And so in a sentence, I just said, "There's imminent danger coming, okay?" "It is relating to a school." "I think it's a communist underground, and I don't know why, but it has something to do with bees."
 
 ## Verification
 

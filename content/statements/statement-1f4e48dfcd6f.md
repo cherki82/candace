@@ -4,9 +4,10 @@ description: "\"Candace Owens promised to continue investigating what happened i
 statement_id: "statement-1f4e48dfcd6f"
 speaker: "Candace Owens"
 type: "promise"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -32,7 +33,20 @@ type: "promise"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode directly records Owens committing to continue investigating the car and urging that the investigation not stop. This verifies the promise; it does not establish later fulfillment.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Candace Ep. 358: I’m Back! And the Tyler Robinson Show Trial Begins](https://www.youtube.com/watch?v=EtLHqDbxqks)
+
+*Verified: 2026-08-26T08:02:32.997719*
 
 ---
 

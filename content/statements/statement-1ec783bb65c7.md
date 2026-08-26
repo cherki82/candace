@@ -4,9 +4,10 @@ description: "\"Candace Owens said Tyler Robinson's gun was not fired that day a
 statement_id: "statement-1ec783bb65c7"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The official charging record identifies Robinson’s .30-06 as the suspected murder weapon and alleges that he fired it; hearing evidence also described a fired casing and strong DNA support on the rifle. Firearm comparison of the damaged bullet was inconclusive, so this does not prove guilt, but the categorical claim that the gun was not fired and was not used is directly contradicted by the official evidentiary record.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Utah County Attorney charging Criminal Information in State v. Robinson](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
+
+*Verified: 2026-08-26T08:00:36.311403*
 
 ---
 

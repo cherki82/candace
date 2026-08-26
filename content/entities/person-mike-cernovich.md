@@ -16,8 +16,8 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-mike-cernovich-t-00-15-00">2025-10-28 · 00:15:36</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -77,5 +77,30 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Mike Cernovich (1)</strong></summary>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [00:07:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) [○] (Claim) ["Mike Cernovich tweeted on April 16, 2018 about feeling an 'energy shift' and tha..."](/statements/statement-a086d29b3892.md)
+  - About: [Mike Cernovich](/entities/person-mike-cernovich.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Mike Cernovich (1)</strong></summary>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [00:07:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) (Claim) **Mike Cernovich** (via quoted tweet): ["Mike Cernovich tweeted on April 16, 2018 about feeling an 'energy shif..."](/statements/statement-a086d29b3892.md)
+
+</details>
 
 </details>

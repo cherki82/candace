@@ -23,13 +23,23 @@ type: "factual_claim"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:44:34](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2674);return false;">Play</a>
 
-> He was—above all—resentful that he believed Benjamin Netanyahu was using the United States to prosecute his wars for the benefit of his country, and that it was shameful and embarrassing and bad for the United States. And he resented it.
+> He was—above all—resentful that he believed Benjamin Netanyahu (Benjamin Netanyahu) was using the United States to prosecute his wars for the benefit of his country, and that it was shameful and embarrassing and bad for the United States. And he resented it.
+
+### 2. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+
+**Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
+**Timestamp:** [00:44:34](/episodes/ep-2WEHTk0Xewg.md#t-00-43-52) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2674);return false;">Play</a>
+
+> He was—above all—resentful that he believed Benjamin Netanyahu (Benjamin Netanyahu) was using the United States to prosecute his wars for the benefit of his country, and that it was shameful and embarrassing and bad for the United States
 
 ## Verification
 

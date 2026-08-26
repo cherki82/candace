@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:21:43](/episodes/ep-SKGUzGHymcI.md#t-00-21-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1303);return false;">Play</a>
 
-> I just want to know why the decision was made to murder Charlie (Charlie Kirk), a decision that very clearly had to be approved by Charlie (Charlie Kirk)'s friends.
+> I want to know why the decision was made to murder Charlie (Charlie Kirk), a decision that very clearly had to be approved by Charlie (Charlie Kirk)'s friends.
 
 ## Verification
 

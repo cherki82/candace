@@ -8,7 +8,7 @@ type: "ORG"
 _Type: Organizations_
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-50">2025-09-23 · 00:52:03</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47">2025-09-23 · 00:52:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-29-32">2025-11-05 · 00:30:04</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>16</strong></div>
@@ -22,7 +22,7 @@ _Type: Organizations_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48">Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-50" style="--pulse-height:29%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47" style="--pulse-height:29%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-32-46" style="--pulse-height:86%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 6 mentions" title="2025-10-07 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 7 mentions" title="2025-11-05 · 7 mentions"><span></span></a>
 </div>
@@ -30,7 +30,7 @@ _Type: Organizations_
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-50) | 2 |
+| 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47) | 2 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-org-saunaspace-t-00-32-46) | 6 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-org-saunaspace-t-00-28-48) | 7 |
 
@@ -94,10 +94,10 @@ _Type: Organizations_
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
 
-**[00:52:03](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-50)**
+**[00:52:03](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47)**
 > "...heck out Sauna Space. Head to SaunaSpace.com/Candace and use code Candace, and you'll get ..."
 
-**[00:52:09](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-50)**
+**[00:52:09](/episodes/ep-UBkFkg4UNY8.md#ent-org-saunaspace-t-00-51-47)**
 > "Again, that's SaunaSpace.com/Candace—use code Candace at checkout."
 
 </details>

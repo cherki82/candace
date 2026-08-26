@@ -1,6 +1,6 @@
 ---
 title: "Dennis Frantzve"
-description: "Dennis Frantzve (People) - 8 mentions"
+description: "Dennis Frantzve (People) - 9 mentions"
 id: "person-dennis-frantzve"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-person-dennis-frantzve-t-00-15-54">2026-03-04 · 00:16:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-dennis-frantzve-t-00-23-16">2026-03-11 · 00:23:16</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-dennis-frantzve-t-00-24-47">2026-07-14 · 00:24:47</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,6 +33,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-dennis-frantzve-t-00-15-54" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 7 mentions" title="2026-03-04 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-dennis-frantzve-t-00-23-16" style="--pulse-height:14%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-dennis-frantzve-t-00-24-47" style="--pulse-height:14%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 |---|---|---:|
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-dennis-frantzve-t-00-15-54) | 7 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-person-dennis-frantzve-t-00-23-16) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-dennis-frantzve-t-00-24-47) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
+
+**[00:24:47](/episodes/ep-X3VKJVJ7cN4.md#ent-person-dennis-frantzve-t-00-24-47)**
+> "...ps, then you've got, remember Dennis Frantzve, Erika's cousin who showed her around Romania, th..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
@@ -92,21 +102,56 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 <summary>Cousin Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:21:32](/episodes/ep-y8lak3CRwDw.md#t-00-21-32): “So Romania is the halfway drop off base from Afghanistan. Interesting. Elsewhere in that same interview, Erika reflects upon her distant cousin. She means Dennis Frantzve, who shows her around the base in Romania. When she gets there, take a listen to Erika in her own words.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:24:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-24-47): “At the same time as Stephen Phillips, then you've got, remember Dennis Frantzve, Erika's cousin who showed her around Romania, the black sea rotational force?”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Formerly Worked For (2)</summary>
 
-- **[Erika Kirk](/entities/person-erika-kirk.md)** cousin of this
+- **[Merrill Lynch](/entities/org-merrill-lynch.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:25:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-25-22): “After he left the military, he went to work for Bank of America Merrill Lynch and then stopped quickly to show Erika around the Black Sea rotational force.”
+
+</details>
+
+- **[Bank of America](/entities/org-bank-of-america.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:25:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-25-22): “After he left the military, he went to work for Bank of America Merrill Lynch and then stopped quickly to show Erika around the Black Sea rotational force.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** cousin of this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:21:32](/episodes/ep-y8lak3CRwDw.md#t-00-21-32): “So Romania is the halfway drop off base from Afghanistan. Interesting. Elsewhere in that same interview, Erika reflects upon her distant cousin. She means Dennis Frantzve, who shows her around the base in Romania. When she gets there, take a listen to Erika in her own words.”
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:24:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-24-47): “At the same time as Stephen Phillips, then you've got, remember Dennis Frantzve, Erika's cousin who showed her around Romania, the black sea rotational force?”
+
+</details>
+
+- **[Merrill Lynch](/entities/org-merrill-lynch.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:25:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-25-22): “After he left the military, he went to work for Bank of America Merrill Lynch and then stopped quickly to show Erika around the Black Sea rotational force.”
+
+</details>
+
+- **[Bank of America](/entities/org-bank-of-america.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:25:22](/episodes/ep-X3VKJVJ7cN4.md#t-00-25-22): “After he left the military, he went to work for Bank of America Merrill Lynch and then stopped quickly to show Erika around the Black Sea rotational force.”
 
 </details>
 
@@ -115,7 +160,15 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dennis Frantzve (3)</strong></summary>
+<summary><strong class="section-title">Statements about Dennis Frantzve (4)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:25:12](/episodes/ep-X3VKJVJ7cN4.md#t-00-24-47) (Claim) **Candace Owens**: ["Owens said Dennis Frantzve was involved in the military and then worke..."](/statements/statement-18d3d69b0176.md)
+  - Also about: [Bank of America](/entities/org-bank-of-america.md), [Merrill Lynch](/entities/org-merrill-lynch.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3)</summary>

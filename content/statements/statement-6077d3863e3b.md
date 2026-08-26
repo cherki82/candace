@@ -25,8 +25,8 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
-**Timestamp:** [00:08:06](/episodes/ep-c5BcKF91iec.md#t-00-07-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(486);return false;">Play</a>
+**Timestamp:** [00:07:57](/episodes/ep-c5BcKF91iec.md#t-00-07-38) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(477);return false;">Play</a>
 
 > And it is, in fact, thanks to people on the internet like Sam Parker, James Lee, Ian Carroll, Zeb Boykin, many others.
 

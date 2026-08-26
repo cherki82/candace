@@ -4,9 +4,10 @@ description: "\"Candace Owens argued that Samantha Karner's stated bullet-fragme
 statement_id: "statement-f6414808c5f1"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Karner’s formal conclusion was that the damaged .30-caliber-class jacket fragment could neither be identified nor excluded as having been fired from the recovered .30-06 rifle; the comparison was inconclusive. That directly contradicts Owens’s categorical conclusion that the measurement proved it was not Robinson’s gun.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 4](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
+
+*Verified: 2026-08-26T08:02:09.876220*
 
 ---
 

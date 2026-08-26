@@ -16,8 +16,8 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-jesse-keg-t-00-30-35">2025-12-08 · 00:30:52</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -82,6 +82,32 @@ _Type: People_
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:30:19](/episodes/ep-Kmt6HgRjckU.md#t-00-29-56): “there is a YouTuber named Jesse keg, who has a channel called one shot TV”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Jesse Keg (1)</strong></summary>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:33:10](/episodes/ep-Kmt6HgRjckU.md#t-00-32-25) [✓] (Claim) ["Jesse reported that the .30-06 round penetrated the water jugs in his ballistic ..."](/statements/statement-abed28a75652.md)
+  - About: [One Shot TV](/entities/org-one-shot-tv.md), [Jesse Keg](/entities/person-jesse-keg.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jesse Keg (1)</strong></summary>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:33:10](/episodes/ep-Kmt6HgRjckU.md#t-00-32-25) (Claim) **Jesse Keg** (via quoted speech): ["Jesse reported that the .30-06 round penetrated the water jugs in his ..."](/statements/statement-abed28a75652.md)
+  - Also about: [One Shot TV](/entities/org-one-shot-tv.md)
 
 </details>
 

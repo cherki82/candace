@@ -17,7 +17,7 @@ time: "12:00"
 ### 1. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:11:56](/episodes/ep-581dILVcEE4.md#event-event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o-t-00-12-18) 
+**Timestamp:** [00:11:56](/episodes/ep-581dILVcEE4.md#event-event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o-t-00-10-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(716);return false;">▶️ Play</a>
 
 > ot. You know, a lot of these American pastors do. And he went there the other day to, of course, honor Charlie. We're going to talk about that. And I want to just say Zionists are confu
@@ -25,7 +25,7 @@ time: "12:00"
 ### 2. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:10:38](/episodes/ep-581dILVcEE4.md#event-event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o-t-00-12-18) 
+**Timestamp:** [00:10:38](/episodes/ep-581dILVcEE4.md#event-event-2025-09-03-uvu-student-and-professor-witness-suspicious-man-o-t-00-10-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(638);return false;">▶️ Play</a>
 
-> d the day after the assassination, and it reads, "Utah Valley University student recalls seeing man walking on or near the Lozier Center roof twice in two weeks." And from
+> And I also want to add here something that I have always suspected that makes perfect sense to me,

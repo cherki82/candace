@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:45:18](/episodes/ep-2WEHTk0Xewg.md#t-00-44-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2718);return false;">Play</a>
 
-> I have no donors. He had 00 million worth of donors. And so, because he was involved in a different project from just yapping on the internet—which is what I do for a living—he was dependent to a great extent on his donors. Of course, it's a nonprofit. And they went after him and tormented him—not all, of course; many were supportive—but the ones who were offended by my speech—and there was a small, very intense group who tormented Charlie Kirk until the day he died.
+> But on him. I have no donors. He had $100 million worth of donors. And so, because he was involved in a different project from just yapping on the internet—which is what I do for a living— he was dependent to a great extent on his donors. Of course, it's a nonprofit. And they went after him and tormented him—not all, of course; many were supportive—but the ones who were offended by my speech—and there was a small, very intense group who tormented Charlie (Charlie Kirk) until the day he died. Two days before he died,
 
 ## Verification
 

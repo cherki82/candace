@@ -87,22 +87,22 @@ _Type: Works & Media_
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (6 mentions)</summary>
 
 **[00:06:39](/episodes/ep-c5BcKF91iec.md#ent-work-succession-t-00-06-36)**
-> "...ike, in the event that he had been horrifically assassinated in front of the world, JFK maybe had a succession plan. Now, if these terms I'm using here sound familiar to you, it's because they should sound fami..."
+> "...of the world, JFK maybe had a succession plan."
 
 **[00:06:57](/episodes/ep-c5BcKF91iec.md#ent-work-succession-t-00-06-36)**
-> "...y just four days after Charlie was murdered. In front of his congregation, he spoke about Charlie's succession plan that he was somehow privy to. I don't know why, but he knew four days later and announced to t..."
+> "...ion, he spoke about Charlie's succession plan that he was somehow privy to."
 
 **[00:07:29](/episodes/ep-c5BcKF91iec.md#ent-work-succession-t-00-07-11)**
-> "...s worried about the leadership of TPUSA. Don't. He was wise enough at 31 to put together a plan for succession. It's very clear what they decided, and they're implementing it now. Amazing. I mean, amazing. So o..."
+> "a plan for succession."
 
 **[00:07:40](/episodes/ep-c5BcKF91iec.md#ent-work-succession-t-00-07-38)**
-> "...'re implementing it now. Amazing. I mean, amazing. So on September 14th, we were made aware of this succession plan. And I find that to be fascinating. The people who didn't even know Charlie all around the wor..."
+> "...h, we were made aware of this succession plan."
 
 **[00:27:25](/episodes/ep-c5BcKF91iec.md#ent-work-succession-t-00-27-03)**
-> "... of the homies." I get assassinated. You film yourself. I get assassinated. You're talking about my succession plan. A couple of days later, I get assassinated. You're lying about little things about me. Everyt..."
+> "You're talking about my succession plan."
 
 **[00:28:26](/episodes/ep-c5BcKF91iec.md#ent-work-succession-t-00-28-26)**
-> "...he rest of the world that all of this is normal. We're not just gonna keep on going and jump into a succession plan. We're gonna figure out what the hell happened on September 10th first. And I'm gonna tell you..."
+> "...keep on going and jump into a succession plan."
 
 </details>
 

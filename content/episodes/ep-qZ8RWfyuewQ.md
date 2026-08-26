@@ -1,14 +1,14 @@
 ---
 id: "qZ8RWfyuewQ"
 title: "TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330"
-description: "TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 - 117 entities, 12 events, 0 claims"
+description: "TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 - 117 entities, 12 events, 13 factual claims"
 published: "2026-04-29"
 youtube_url: "https://www.youtube.com/watch?v=qZ8RWfyuewQ"
 ---
 
 **Published:** 2026-04-29 | [Watch on YouTube](https://www.youtube.com/watch?v=qZ8RWfyuewQ)
 
-**Stats:** 117 entities | 12 events | 0 claims
+**Stats:** 117 entities | 12 events | 13 factual claims
 
 ---
 

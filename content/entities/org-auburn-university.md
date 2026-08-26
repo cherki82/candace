@@ -42,7 +42,7 @@ _Type: Organizations_
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
 **[00:39:11](/episodes/ep-r1PS67aRmcA.md#ent-org-auburn-university-t-00-39-03)**
-> "...in, in case you guys missed this going around, Eric and Lara Trump spoke at a recent TPUSA event at Auburn University. And it's a different era, okay? The post-Charlie (Charlie Kirk) era at Turning Point USA. My guess..."
+> "spoke at a recent TPUSA event at Auburn University."
 
 </details>
 

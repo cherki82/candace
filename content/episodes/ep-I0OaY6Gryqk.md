@@ -1,14 +1,14 @@
 ---
 id: "I0OaY6Gryqk"
 title: "HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313"
-description: "HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 - 117 entities, 10 events, 0 claims"
+description: "HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 - 117 entities, 10 events, 16 factual claims"
 published: "2026-03-17"
 youtube_url: "https://www.youtube.com/watch?v=I0OaY6Gryqk"
 ---
 
 **Published:** 2026-03-17 | [Watch on YouTube](https://www.youtube.com/watch?v=I0OaY6Gryqk)
 
-**Stats:** 117 entities | 10 events | 0 claims
+**Stats:** 117 entities | 10 events | 16 factual claims
 
 ---
 

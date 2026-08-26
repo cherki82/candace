@@ -99,7 +99,7 @@ Source: [Encyclopaedia Britannica: Kabbala](https://www.britannica.com/topic/Kab
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (3 mentions)</summary>
 
 **[00:57:06](/episodes/ep-ozWJz2spBcI.md#ent-concept-kabbalah-t-00-56-38)**
-> "Melissa Forberg, similarly, with a really nice donation here: 'Spent the weekend researching the Kabbalah. It was, to say the absolute least, terrifying.'"
+> "Melissa Forberg, similarly, with a really nice donation here: "Spent the weekend researching the Kabbalah."
 
 **[00:57:43](/episodes/ep-ozWJz2spBcI.md#ent-concept-kabbalah-t-00-57-20)**
 > "That book will dive into the Kabbalah."

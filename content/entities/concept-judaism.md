@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 155 mentions"
+description: "Judaism (Concepts) - 158 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -22,8 +22,8 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23">2026-01-12 · 00:22:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>155</strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>158</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -70,6 +70,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-00" style="--pulse-height:46%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 11 mentions" title="2026-06-09 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-judaism-t-00-39-33" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-concept-judaism-t-00-41-51" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-judaism-t-00-58-23" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -112,6 +113,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-00) | 11 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-judaism-t-00-39-33) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-concept-judaism-t-00-41-51) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-judaism-t-00-58-23) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12) | 1 |
 
 </details>
@@ -120,13 +122,27 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (155)</strong></summary>
+<summary><strong class="section-title">Raw mentions (158)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12)**
 > "... sent a text message reading, Jewish donors play into all the stereotypes."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[00:58:29](/episodes/ep-mLvJqdxS-FY.md#ent-concept-judaism-t-00-58-23)**
+> "... to whether or not there is a Jewish gang operating in Hollywood when you get fired fo..."
+
+**[00:58:48](/episodes/ep-mLvJqdxS-FY.md#ent-concept-judaism-t-00-58-23)**
+> "... one cares. You say there's a Jewish gang in Hollywood and they're like, this is on yo..."
+
+**[00:58:59](/episodes/ep-mLvJqdxS-FY.md#ent-concept-judaism-t-00-58-23)**
+> "... was literally established by Jewish gangs."
 
 </details>
 

@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:35:23](/episodes/ep-6DhWawD4ZiM.md#t-00-34-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2123);return false;">Play</a>
 
-> not about Candice, but she talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.
+> Three, not about Candace, but she talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.
 
 ## Verification
 

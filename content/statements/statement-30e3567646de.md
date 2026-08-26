@@ -20,16 +20,26 @@ type: "accusation"
 
 ## About
 
-- [FBI](/entities/org-fbi.md) (org)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
+- [FBI](/entities/org-fbi.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:01:53](/episodes/ep-QZWSsq8ZWzw.md#t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(113);return false;">Play</a>
 
 > They want Charlie Kirk's assassination to be officially ruled lone gunman
+
+### 2. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
+
+**Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+**Timestamp:** [00:01:59](/episodes/ep-QZWSsq8ZWzw.md#t-00-01-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(119);return false;">Play</a>
+
+> They want Charlie Kirk's assassination to be officially ruled lone gunman.
 
 ## Verification
 

@@ -4,9 +4,10 @@ description: "\"An unidentified Exhibit 12 courtroom witness testified that the 
 statement_id: "statement-dc7d6ced4492"
 speaker: "Anonymous Source #7 (Ep EtLHqDbxqks)"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Day 2 transcript directly records Agent Hull describing the differences between Exhibits 12.1 and 12.4: red circles or ovals identifying people, blurred faces in parking-garage footage, and zooming focused on the Losee rooftop sequence.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 2](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-2)
+
+*Verified: 2026-08-26T08:02:11.204385*
 
 ---
 

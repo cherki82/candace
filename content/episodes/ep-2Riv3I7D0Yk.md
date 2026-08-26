@@ -1,14 +1,14 @@
 ---
 id: "2Riv3I7D0Yk"
 title: "Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250"
-description: "Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 - 91 entities, 9 events, 0 claims"
+description: "Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 - 92 entities, 9 events, 38 factual claims"
 published: "2025-10-08"
 youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
 ---
 
 **Published:** 2025-10-08 | [Watch on YouTube](https://www.youtube.com/watch?v=2Riv3I7D0Yk)
 
-**Stats:** 91 entities | 9 events | 0 claims
+**Stats:** 92 entities | 9 events | 38 factual claims
 
 ---
 
@@ -341,7 +341,9 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (91)</strong></summary>
+<summary><strong>Entities Mentioned (92)</strong></summary>
+
+**Anonymous Sources:** [Rabbi Pesach Wolicki (Ep 2Riv3I7D0Yk)](/entities/anon-src-2Riv3I7D0Yk-legacy-30741686.md)
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Zionism](/entities/concept-zionism.md)
 
@@ -360,12 +362,12 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
 </details>
 
 <details>
-<summary><strong>Statements (43)</strong></summary>
+<summary><strong>Statements (59)</strong></summary>
 
 - [00:00:18](#t-00-00-00) [○] (Claim) **Candace Owens**: ["16 hours before Charlie Kirk was assassinated, Josh Hammer retweeted a 2013 twee..."](/statements/statement-bcc6e400e34d.md)
-  - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:00:38](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Josh Hammer and a rabbi in Israel had a long talk with Charlie Kirk the night be..."](/statements/statement-d795dae62311.md)
-  - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:04:07](#t-00-03-33) [○] (Accusation) **Candace Owens**: ["Josh Hammer lied about the Hamptons meeting"](/statements/statement-ca3c3407c7bf.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:04:14](#t-00-03-33) [○] (Accusation) **Candace Owens**: ["Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's defiance a..."](/statements/statement-a81ef1a260d0.md)
@@ -378,32 +380,50 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
   - About: [Jesus Christ](/entities/person-jesus-christ.md)
 - [00:06:20](#t-00-06-13) [○] (Claim) **Candace Owens**: ["Josh Hammer retweeted a 2013 Donald Trump tweet saying 'Should be public executi..."](/statements/statement-b31e58c6f471.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+- [00:06:41](#t-00-06-13) [○] (Claim) **Candace Owens**: ["Trump wrote on April 19th, 2013: 'Should be public execution for all to see. You..."](/statements/statement-39163e4e9a86.md)
+- [00:06:41](#t-00-06-13) [✓] (Claim) **Donald J. Trump**: ["Donald Trump tweeted on April 19th, 2013 calling for public executions"](/statements/statement-b004e7f18f83.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
 - [00:06:44](#t-00-06-13) [○] (Opinion) **Donald J. Trump**: ["Should be public execution for all to see. You will end this bull fast"](/statements/statement-1dd8e1c2eb7a.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md)
+- [00:06:59](#t-00-06-13) [○] (Claim) **Candace Owens**: ["that's about 9:05 p.m. Eastern time."](/statements/statement-ddd7a9f5939d.md)
 - [00:07:23](#t-00-06-59) [○] (Accusation) **Candace Owens**: ["Yashar Ali is paid to do PR for Zionists on the right and on the left"](/statements/statement-53e850ee9850.md)
   - About: [Yashar Ali](/entities/person-yashar-ali.md)
 - [00:08:20](#t-00-08-16) [○] (Claim) **Yashar Ali**: ["Josh Hammer was sharing what many conservatives were sharing the day before abou..."](/statements/statement-4fb57d4251c4.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Irina Zarutska](/entities/person-irina-zarutska.md)
+- [00:08:41](#t-00-08-16) [✓] (Accusation) **Candace Owens**: ["Irina Zarutska was murdered on August 22nd"](/statements/statement-765b279a3965.md)
+- [00:08:44](#t-00-08-16) [✓] (Claim) **Candace Owens**: ["The perpetrator of Irina Zarutska's murder was arrested on August 22nd, the same..."](/statements/statement-8cf9c16733eb.md)
+- [00:08:44](#t-00-08-16) [○] (Claim) **Candace Owens**: ["Footage of Irina Zarutska's murder was released and trended on X on September 5t..."](/statements/statement-0e5cb9cebc42.md)
 - [00:08:46](#t-00-08-16) [○] (Claim) **Candace Owens**: ["Irina Zarutska was murdered on August 22nd, her perpetrator was arrested that sa..."](/statements/statement-d5ef7678f5e4.md)
   - About: [Irina Zarutska](/entities/person-irina-zarutska.md)
+- [00:11:22](#t-00-11-05) [✓] (Claim) **Candace Owens**: ["Israel bombed Qatar on September 9th, violating international law"](/statements/statement-72b470641d27.md)
+  - About: [Israel](/entities/gpe-israel.md)
 - [00:11:23](#t-00-11-05) [○] (Accusation) **Candace Owens**: ["On September 9th, Israel bombed Qatar for no reason, violating international law"](/statements/statement-22525ed3d536.md)
   - About: [Israel](/entities/gpe-israel.md), [Qatar](/entities/gpe-qatar.md)
+- [00:12:42](#t-00-12-18) [○] (Claim) **Josh Hammer**: ["Josh Hammer tweeted in favor of public execution at 9:09 PM Eastern on September..."](/statements/statement-a384243b05f2.md)
+  - About: [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:13:40](#t-00-13-03) [○] (Opinion) **Matt Walsh**: ["The only solution is ruthless punishment, public execution for violent criminals..."](/statements/statement-3ede5cbe0da0.md)
   - About: [Irina Zarutska](/entities/person-irina-zarutska.md)
 - [00:14:54](#t-00-14-29) [○] (Opinion) **Josh Hammer**: ["The Uvalde shooter is apparently dead, but just as with the Buffalo shooter, thi..."](/statements/statement-b8d6f0523334.md)
   - About: [Uvalde Shooter](/entities/person-uvalde-shooter.md)
+- [00:16:48](#t-00-16-36) [○] (Claim) **Candace Owens**: ["Here was a tweet from him in 2019 that he then erased regarding white people. He..."](/statements/statement-85bdc17b1858.md)
+- [00:16:55](#t-00-16-36) [○] (Claim) **Josh Hammer**: ["Josh Hammer tweeted in 2019 that 'Jew hatred is inherent in the European DNA'"](/statements/statement-56ed5307e383.md)
+  - About: [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:16:58](#t-00-16-36) [○] (Opinion) **Josh Hammer**: ["Jew hatred is inherent in the European DNA"](/statements/statement-b22eb278b6be.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:18:24](#t-00-18-01) [○] (Accusation) **Candace Owens**: ["Josh Hammer lied audaciously and boldly and repeatedly and unnecessarily about t..."](/statements/statement-f59f22b266e3.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:19:21](#t-00-18-44) [○] (Claim) **Candace Owens**: ["Josh Hammer and Rabbi Wolicki had a Zoom call with Charlie Kirk the night before..."](/statements/statement-328b9cbfdd3f.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:19:34](#t-00-19-30) [○] (Claim) **Candace Owens**: ["he proudly went around and he promoted to everyone that would listen that he spo..."](/statements/statement-9b6b75187fcf.md)
 - [00:19:41](#t-00-19-30) [○] (Claim) **Candace Owens**: ["Josh Hammer and Rabbi Wolicki had a Zoom call with Charlie Kirk the night before..."](/statements/statement-ab364894ad8d.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:19:41](#t-00-19-30) [○] (Claim) **Candace Owens**: ["Josh Hammer and Rabbi Wolicki had a Zoom call with Charlie Kirk less than 24 hou..."](/statements/statement-2fe2babdd69a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:21:29](#t-00-20-54) [○] (Claim) **Josh Hammer**: ["Josh Hammer and Charlie Kirk spoke less than 24 hours before the assassination o..."](/statements/statement-929484ed9f73.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:21:29](#t-00-20-54) [○] (Claim) **Josh Hammer**: ["We spoke for the last time less than 24 hours before the assassination happened...."](/statements/statement-e53ce1012eb4.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+- [00:21:29](#t-00-20-54) [○] (Claim) **Josh Hammer**: ["We actually did speak for the last time less than 24 hours before the assassinat..."](/statements/statement-69a7e5a5c8cf.md)
 - [00:21:54](#t-00-21-29) [○] (Claim) **Josh Hammer**: ["The last words Charlie Kirk spoke to me were: 'You know, Josh, when the Israel q..."](/statements/statement-8c7b5a19c548.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md)
 - [00:22:45](#t-00-22-12) [○] (Accusation) **Josh Hammer**: ["Candace Owens has chosen to hijack Charlie Kirk's death to blame it on Israel"](/statements/statement-097b1ff3920f.md)
@@ -418,12 +438,15 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:29:05](#t-00-28-30) [○] (Claim) **Rabbi Pesach Wolicki**: ["Charlie Kirk was in touch with Rabbi Wolicki on an almost daily basis for months..."](/statements/statement-1f32478dd69e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Israel](/entities/gpe-israel.md)
+- [00:29:05](#t-00-28-30) [○] (Claim) **Rabbi Pesach Wolicki (Ep 2Riv3I7D0Yk)**: ["I was in touch with Charlie Kirk on an almost daily basis for months, ... the me..."](/statements/statement-16b83026642f.md)
+- [00:32:48](#t-00-32-20) [○] (Claim) **Candace Owens**: ["I have text messages to that effect [Charlie was particularly worried that Israe..."](/statements/statement-153feeedbe91.md)
 - [00:33:43](#t-00-33-35) [○] (Opinion) **Candace Owens**: ["Charlie Kirk was genuinely over supporting Israel towards the end because of Jew..."](/statements/statement-c8ca27a62ead.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:34:14](#t-00-34-11) [○] (Claim) **Candace Owens**: ["Charlie Kirk was frustrated by Jewish donors and their behavior, stating he had ..."](/statements/statement-6ddfb0e5206d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:35:12](#t-00-34-57) [○] (Claim) **Candace Owens**: ["On the same day as the Zoom call with Josh Hammer, Charlie Kirk was texting peop..."](/statements/statement-38cd84ed6fe1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:35:12](#t-00-34-57) [○] (Claim) **Candace Owens**: ["he was texting people saying they are gonna kill me. On the same day that he's o..."](/statements/statement-fdf040cc3bc8.md)
 - [00:35:15](#t-00-34-57) [○] (Claim) **Candace Owens**: ["On the same day Charlie Kirk had a Zoom call with Josh Hammer and Rabbi Wolicki ..."](/statements/statement-a6014ccc10d0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md), [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md)
 - [00:37:27](#t-00-36-55) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu released a statement 24 hours after Charlie Kirk died saying ..."](/statements/statement-1f34d67b8827.md)

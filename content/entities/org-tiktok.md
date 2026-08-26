@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
-description: "TikTok (Organizations) - 57 mentions"
+description: "TikTok (Organizations) - 58 mentions"
 id: "org-tiktok"
 type: "ORG"
 categories:
@@ -19,10 +19,10 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-tiktok-t-00-43-02">2025-09-19 · 00:43:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27">2026-08-14 · 00:27:46</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -56,6 +56,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-tiktok-t-00-17-37" style="--pulse-height:11%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-tiktok-t-00-07-33" style="--pulse-height:11%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-tiktok-t-00-30-15" style="--pulse-height:11%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-tiktok-t-00-36-57" style="--pulse-height:11%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -87,6 +88,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-tiktok-t-00-17-37) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-tiktok-t-00-07-33) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-tiktok-t-00-30-15) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-tiktok-t-00-36-57) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27) | 1 |
 
 </details>
@@ -95,13 +97,21 @@ Source: [About TikTok](https://www.tiktok.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:27:46](/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27)**
 > "from TikTok invasions, debates,"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:36:57](/episodes/ep-puuMVxEu5NU.md#ent-org-tiktok-t-00-36-57)**
+> "Gen Z across TikTok"
 
 </details>
 
@@ -334,10 +344,10 @@ Source: [About TikTok](https://www.tiktok.com/about)
 > "...rve not sending us videos and TikToks and links, but rather, if you have information, p..."
 
 **[00:29:53](/episodes/ep-adJ4LNGp84I.md#ent-org-tiktok-t-00-29-09)**
-> "...EAKER_5: And the most important purchase that is going on right now is SPEAKER_5: class? SPEAKER_5: TikTok. SPEAKER_5: TikTok. SPEAKER_5: Number one. SPEAKER_5: Number one. SPEAKER_5: And I hope it goes thr..."
+> "TikTok."
 
 **[00:29:54](/episodes/ep-adJ4LNGp84I.md#ent-org-tiktok-t-00-29-54)**
-> "...st important purchase that is going on right now is SPEAKER_5: class? SPEAKER_5: TikTok. SPEAKER_5: TikTok. SPEAKER_5: Number one. SPEAKER_5: Number one. SPEAKER_5: And I hope it goes through because it can..."
+> "TikTok."
 
 **[00:31:00](/episodes/ep-adJ4LNGp84I.md#ent-org-tiktok-t-00-30-42)**
 > "... (Donald Trump) right now. Okay, all of the acting. We don't want China. We don't want China to own TikTok. And I'm worried about your data. No, you wanted to hand it over to your Zionist friends. It was al..."
@@ -409,7 +419,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 - **[Erica Mindel](/entities/person-erica-mindel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#t-00-44-06): “Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:21](/episodes/ep-adJ4LNGp84I.md#t-00-44-06): “And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier”
 
 </details>
 
@@ -454,7 +464,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 - **[Erica Mindel](/entities/person-erica-mindel.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:18](/episodes/ep-adJ4LNGp84I.md#t-00-44-06): “Erika Mendl... currently serving as the public policy manager of hate speech. And she's been at TikTok since July of this year”
+- [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:44:21](/episodes/ep-adJ4LNGp84I.md#t-00-44-06): “And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier”
 
 </details>
 
@@ -463,7 +473,15 @@ Source: [About TikTok](https://www.tiktok.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about TikTok (4)</strong></summary>
+<summary><strong class="section-title">Statements about TikTok (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:36:31](/episodes/ep-puuMVxEu5NU.md#t-00-36-14) (Citation) **Candace Owens**: ["Owens said the reported services agreement required Brad Parscale's ca..."](/statements/statement-0bdd660aafdf.md)
+  - Also about: [Brad Parscale](/entities/person-brad-parscale.md), [Salem Media Group](/entities/org-salem-media-group.md), [Instagram](/entities/org-instagram.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>

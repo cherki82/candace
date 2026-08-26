@@ -4,9 +4,10 @@ description: "\"Steve Deace said Tyler Robinson made three confessions: one to h
 statement_id: "statement-b092d5dd493a"
 speaker: "Steve Deace"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Current official and hearing records document three alleged admissions: an implication or confession to family, statements to roommate Lance Twiggs, and a Discord message saying it was him. This verifies Deace’s description of reported confessions, not Robinson’s guilt; Robinson remains accused and has not entered a plea.
+
+**Confidence:** High
+
+**Sources:**
+
+- [AP: Takeaways from a key hearing in the Charlie Kirk murder case](https://apnews.com/article/charlie-kirk-shot-trial-takeaways-21f979ed659cbe9c216481dd9f41c56e)
+
+*Verified: 2026-08-26T08:00:34.086444*
 
 ---
 

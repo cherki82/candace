@@ -1,14 +1,14 @@
 ---
 id: "Qfwr08Ebczo"
 title: "EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258"
-description: "EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 - 88 entities, 7 events, 0 claims"
+description: "EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 - 89 entities, 7 events, 38 factual claims"
 published: "2025-11-04"
 youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 ---
 
 **Published:** 2025-11-04 | [Watch on YouTube](https://www.youtube.com/watch?v=Qfwr08Ebczo)
 
-**Stats:** 88 entities | 7 events | 0 claims
+**Stats:** 89 entities | 7 events | 38 factual claims
 
 ---
 
@@ -244,7 +244,7 @@ youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (88)</strong></summary>
+<summary><strong>Entities Mentioned (89)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Palestinians](/entities/concept-palestinians.md), [Zionism](/entities/concept-zionism.md), [devil](/entities/concept-devil.md)
 
@@ -256,15 +256,18 @@ youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 
 **Organizations:** [American Financing](/entities/org-american-financing.md), [American Israel Public Affairs Committee](/entities/org-aipac.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Club Candace](/entities/org-club-candace.md), [DailyWire](/entities/org-dailywire.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fortune](/entities/org-fortune.md), [Fox News](/entities/org-fox-news.md), [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md), [IDF](/entities/org-idf.md), [Instagram](/entities/org-instagram.md), [Internal Revenue Service](/entities/org-internal-revenue-service.md), [Liberty University](/entities/org-liberty-university.md), [PragerU](/entities/org-prageru.md), [PreBorn!](/entities/org-preborn.md), [Tax Network USA](/entities/org-tax-network-usa.md), [The Daily Wire](/entities/org-the-daily-wire.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Congress](/entities/org-united-states-congress.md), [University of Utah](/entities/org-university-of-utah.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Blake Neff](/entities/person-blake-neff.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald J. Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Mark Levin](/entities/person-mark-levin.md), [Melissa (Village Crazy Lady)](/entities/person-melissa-village-crazy-lady.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sam Parker](/entities/person-sam-parker.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Wilks Brothers](/entities/person-wilks-brothers.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Blake Neff](/entities/person-blake-neff.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald J. Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Mark Levin](/entities/person-mark-levin.md), [Melissa (Village Crazy Lady)](/entities/person-melissa-village-crazy-lady.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Nate Carlisle](/entities/person-nate-carlisle.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sam Parker](/entities/person-sam-parker.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Wilks Brothers](/entities/person-wilks-brothers.md)
 
 **Works & Media:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [Succession](/entities/work-succession.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
 
 </details>
 
 <details>
-<summary><strong>Statements (30)</strong></summary>
+<summary><strong>Statements (50)</strong></summary>
 
+- [00:02:26](#t-00-02-07) [✓] (Claim) **Candace Owens**: ["Mikey McCoy is the chief of staff at Turning Point USA"](/statements/statement-324ca19a66a3.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+- [00:03:06](#t-00-02-50) [○] (Claim) **Erika Kirk**: ["Mikey McCoy was 23 years old at the time Charlie Kirk was shot"](/statements/statement-b7d9eda26663.md)
 - [00:05:02](#t-00-04-53) [○] (Opinion) **Erika Kirk**: ["Mikey McCoy is 23 years old (or 24), is wise beyond his years, and was an absolu..."](/statements/statement-a87b6ac0370a.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:05:58](#t-00-05-34) [○] (Opinion) **Erika Kirk**: ["Mikey McCoy's path was pretty much like Charlie Kirk's path"](/statements/statement-5a6933a866bb.md)
@@ -279,32 +282,50 @@ youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:09:03](#t-00-08-19) [○] (Accusation) **Candace Owens**: ["Mikey McCoy seemed all too happy to assume Charlie Kirk's position after his dea..."](/statements/statement-c622d580c7a3.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:09:27](#t-00-09-04) [○] (Opinion) **Candace Owens**: ["According to Candace Owens, Mikey McCoy was interested in capturing behind-the-s..."](/statements/statement-8534b0f067c4.md)
 - [00:10:25](#t-00-10-04) [○] (Claim) **Michael McCoy**: ["Mikey McCoy never traveled with a camera before but decided it would be a good i..."](/statements/statement-6c2dab39f4e0.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:11:01](#t-00-10-40) [○] (Claim) **Candace Owens**: ["According to Eliza McCoy, she and Mikey went on their first vacation together a ..."](/statements/statement-6575fd23bddb.md)
+- [00:13:35](#t-00-13-27) [✓] (Claim) **Candace Owens**: ["Rob McCoy was the senior pastor of Godspeak Calvary Chapel in Thousand Oaks, Cal..."](/statements/statement-52a9f87103ba.md)
+- [00:13:44](#t-00-13-27) [✓] (Claim) **Candace Owens**: ["his church was funded by the Wilks Brothers down in Texas."](/statements/statement-5bb3f019eee6.md)
 - [00:13:54](#t-00-13-27) [○] (Claim) **Candace Owens**: ["Rob McCoy's church (Godspeak Calvary Chapel) was funded by the Wilks Brothers"](/statements/statement-b34373d9586c.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md), [Wilks Brothers](/entities/person-wilks-brothers.md)
+- [00:13:54](#t-00-13-27) [✓] (Claim) **Candace Owens**: ["The Wilks Brothers are the ones that fund DailyWire, the initial seed money behi..."](/statements/statement-384067fd3298.md)
 - [00:14:01](#t-00-13-27) [○] (Claim) **Candace Owens**: ["The Wilks Brothers fund DailyWire with the initial seed money and majorly fund P..."](/statements/statement-aa3c0c80962c.md)
   - About: [Wilks Brothers](/entities/person-wilks-brothers.md), [DailyWire](/entities/org-dailywire.md), [PragerU](/entities/org-prageru.md)
 - [00:14:18](#t-00-14-10) [○] (Accusation) **Candace Owens**: ["Godspeak Calvary Chapel and PragerU are part of what is described online as a cu..."](/statements/statement-778c373f6b1e.md)
   - About: [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md), [PragerU](/entities/org-prageru.md)
+- [00:14:25](#t-00-14-10) [◐] (Claim) **Candace Owens**: ["after 17 years as the head pastor of that church, Rob McCoy—it was publicly anno..."](/statements/statement-428189d42de6.md)
+- [00:14:25](#t-00-14-10) [○] (Claim) **Candace Owens**: ["After 17 years as head pastor, Rob McCoy stepped down in January 2025 to assume ..."](/statements/statement-779455ce1439.md)
 - [00:14:58](#t-00-14-54) [○] (Claim) **Candace Owens**: ["Rob McCoy stepped down as head pastor of Godspeak Calvary Chapel in mid-July 202..."](/statements/statement-8c9de0cef11e.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)
+- [00:15:02](#t-00-14-54) [✓] (Claim) **Candace Owens**: ["That transition took effect in mid-July of this year."](/statements/statement-45fe938e633b.md)
+- [00:15:47](#t-00-15-33) [○] (Claim) **Candace Owens**: ["Rob McCoy and his wife sold their home in Thousand Oaks and bought a home in the..."](/statements/statement-a9267ee9539d.md)
 - [00:15:57](#t-00-15-33) [○] (Claim) **Candace Owens**: ["When Rob McCoy's responsibilities grew at Turning Point USA, he and his wife sol..."](/statements/statement-622c27897f74.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:16:14](#t-00-15-33) [○] (Claim) **Candace Owens**: ["Rob McCoy put his home in Coronado up for sale on August 24th, 2025"](/statements/statement-4245a7803a56.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md)
+- [00:16:14](#t-00-15-33) [○] (Claim) **Candace Owens**: ["Rob actually put that secondary home in Coronado up for sale on August 24th, 202..."](/statements/statement-81bef3334ce6.md)
 - [00:16:56](#t-00-16-17) [○] (Claim) **Candace Owens**: ["Tucker Carlson gave a speech on July 11th where he calls out Bill Ackman and sta..."](/statements/statement-d4a427ecdd05.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Bill Ackman](/entities/person-bill-ackman.md), [Israel](/entities/gpe-israel.md)
+- [00:17:15](#t-00-16-56) [○] (Claim) **Candace Owens**: ["Turning Point USA receives a request from UVU for Charlie Kirk to hold an event ..."](/statements/statement-fb76a69facdd.md)
 - [00:17:24](#t-00-16-56) [○] (Claim) **Candace Owens**: ["Turning Point USA received a request from UVU for Charlie Kirk to hold an event ..."](/statements/statement-7b382f6790e9.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+- [00:18:05](#t-00-17-43) [✓] (Claim) **Nate Carlisle**: ["It's the application submitted mid-July by the UVU chapter of Kirk's Turning Poi..."](/statements/statement-bffd888a7c1a.md)
 - [00:18:19](#t-00-17-43) [○] (Claim) **Candace Owens**: ["UVU denied FOX 13 News' request for a copy of the Charlie Kirk rally security pl..."](/statements/statement-2d14d20e1636.md)
   - About: [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:18:32](#t-00-18-24) [○] (Claim) **Candace Owens**: ["Tyler Robinson is charged with Charlie Kirk's murder"](/statements/statement-ab9f909061a1.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:18:52](#t-00-18-24) [✓] (Claim) **Nate Carlisle**: ["Tyler Robinson is charged with Kirk's murder."](/statements/statement-7a8fb662e2f0.md)
 - [00:19:10](#t-00-19-04) [○] (Claim) **Candace Owens**: ["A request going in that late in July being honored and becoming stop number one ..."](/statements/statement-e78d3f1402f4.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:19:41](#t-00-19-04) [○] (Claim) **Candace Owens**: ["There was no ambulance on standby at the Charlie Kirk UVU event, which is agains..."](/statements/statement-df26c623196c.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+- [00:19:41](#t-00-19-04) [○] (Claim) **Candace Owens**: ["there was no ambulance on standby, and that's against Utah law."](/statements/statement-ab11eb4545bf.md)
+- [00:21:51](#t-00-21-39) [○] (Accusation) **Candace Owens**: ["there were—for whatever reason—12 Israeli cell phones on the ground at Utah Vall..."](/statements/statement-c8c8090ed1a8.md)
+- [00:21:51](#t-00-21-39) [○] (Accusation) **Candace Owens**: ["There were 12 Israeli cell phones on the ground at Utah Valley University the da..."](/statements/statement-74d4dcd23566.md)
+- [00:22:30](#t-00-22-17) [○] (Claim) **Candace Owens**: ["The cell phone accounts were opened in Israel and were on the ground at Utah Val..."](/statements/statement-332430d6a2d1.md)
+- [00:22:41](#t-00-22-17) [○] (Claim) **Candace Owens**: ["The NSA knows this. Kash Patel knows this."](/statements/statement-8682cd70d2ab.md)
 - [00:33:11](#t-00-33-02) [○] (Opinion) **Tucker Carlson**: ["Virtue and sin are not transmitted genetically, there is no such thing as blood ..."](/statements/statement-964024e18cdb.md)
   - About: [God](/entities/concept-god.md)
 - [00:33:51](#t-00-33-47) [○] (Accusation) **Tucker Carlson**: ["Israel does not have a Western position on collective punishment, the Israeli go..."](/statements/statement-2ad50b65c574.md)

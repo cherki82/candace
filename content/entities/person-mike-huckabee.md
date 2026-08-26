@@ -13,26 +13,26 @@ _Type: People_
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27" style="--pulse-height:17%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 6 mentions" title="2025-11-21 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-mike-huckabee-t-00-13-47" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-mike-huckabee-t-00-51-47" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27" style="--pulse-height:20%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 5 mentions" title="2025-11-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-mike-huckabee-t-00-13-47" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-mike-huckabee-t-00-51-47" style="--pulse-height:40%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27) | 1 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49) | 6 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49) | 5 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-mike-huckabee-t-00-13-47) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-mike-huckabee-t-00-51-47) | 2 |
 
@@ -64,13 +64,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:25:20](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49)**
 > "...serve the state of Israel. So let me show you a couple of these headlines. I guess let's start with Mike Huckabee. He is the ambassador to Israel and apparently is completely shameless. Now just to go back—in case..."
-
-**[00:25:22](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-24-49)**
-> "Mike Huckabee is ambassador to Israel"
 
 **[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-person-mike-huckabee-t-00-25-28)**
 > "...l and apparently is completely shameless. Now just to go back—in case you missed it back in October—Mike Huckabee and the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to..."
@@ -105,7 +102,7 @@ _Type: People_
 - **[Israel](/entities/gpe-israel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:22](/episodes/ep-mKXdKV-OBog.md#t-00-24-49): “Mike Huckabee is the ambassador to Israel”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:22](/episodes/ep-mKXdKV-OBog.md#t-00-24-49): “He is the ambassador to Israel and apparently is completely shameless.”
 
 </details>
 
@@ -160,7 +157,7 @@ _Type: People_
 - **[Israel](/entities/gpe-israel.md)** has ambassador from this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:22](/episodes/ep-mKXdKV-OBog.md#t-00-24-49): “Mike Huckabee is the ambassador to Israel”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:25:22](/episodes/ep-mKXdKV-OBog.md#t-00-24-49): “He is the ambassador to Israel and apparently is completely shameless.”
 
 </details>
 
@@ -183,13 +180,30 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mike Huckabee (1)</strong></summary>
+<summary><strong class="section-title">Statements about Mike Huckabee (5)</strong></summary>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1)</summary>
 
 - [01:03:09](/episodes/ep-I0OaY6Gryqk.md#t-01-03-09) (Claim) **Candace Owens**: ["Mike Huckabee notoriously supported Jonathan Pollard, an American spy."](/statements/statement-ff3e0d8d5d57.md)
   - Also about: [Jonathan Pollard](/entities/person-jonathan-pollard.md)
+
+</details>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4)</summary>
+
+- [00:25:28](/episodes/ep-mKXdKV-OBog.md#t-00-25-28) (Claim) **Candace Owens**: ["Mike Huckabee and David Friedman performed 'Sweet Home Alabama' rewrit..."](/statements/statement-ec774afe20f3.md)
+  - Also about: [Jerusalem](/entities/gpe-jerusalem.md), [David Friedman](/entities/person-david-friedman.md)
+
+- [00:26:31](/episodes/ep-mKXdKV-OBog.md#t-00-26-11) (Claim) **Candace Owens**: ["Mike Huckabee, US Ambassador to Israel, met with Jonathan Pollard, a c..."](/statements/statement-cf5a21bab8d6.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Jonathan Pollard](/entities/person-jonathan-pollard.md)
+
+- [00:27:18](/episodes/ep-mKXdKV-OBog.md#t-00-26-47) (Claim) **Candace Owens**: ["Mike Huckabee was among several pro-Israel politicians who advocated f..."](/statements/statement-6b6fc1cadba6.md)
+  - Also about: [Jonathan Pollard](/entities/person-jonathan-pollard.md)
+
+- [00:27:45](/episodes/ep-mKXdKV-OBog.md#t-00-27-32) (Claim) **Karoline Leavitt** (via quoted speech): ["Karoline Leavitt said the White House was not aware of Mike Huckabee's..."](/statements/statement-f609d9ebf31e.md)
+  - Also about: [White House](/entities/org-white-house.md), [Jonathan Pollard](/entities/person-jonathan-pollard.md), [Karoline Leavitt](/entities/person-karoline-leavitt.md)
 
 </details>
 

@@ -1,14 +1,14 @@
 ---
 id: "1QZ4X6q1DPg"
 title: "Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340"
-description: "Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 - 95 entities, 12 events, 0 claims"
+description: "Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 - 95 entities, 12 events, 14 factual claims"
 published: "2026-05-18"
 youtube_url: "https://www.youtube.com/watch?v=1QZ4X6q1DPg"
 ---
 
 **Published:** 2026-05-18 | [Watch on YouTube](https://www.youtube.com/watch?v=1QZ4X6q1DPg)
 
-**Stats:** 95 entities | 12 events | 0 claims
+**Stats:** 95 entities | 12 events | 14 factual claims
 
 ---
 

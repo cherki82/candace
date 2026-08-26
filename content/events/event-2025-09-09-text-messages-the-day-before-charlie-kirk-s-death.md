@@ -11,25 +11,9 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (39 times)
+## Mentioned In (23 times)
 
-### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:12:28](/episodes/ep-his-JBjlkh8.md#t-00-12-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(748);return false;">▶️ Play</a>
-
-> Everybody, stay calm. After yesterday's episode, where we we
-
-### 2. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
-
-**Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:00:13](/episodes/ep-iHav0PPzUz8.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(13);return false;">▶️ Play</a>
-
-> men that were on the ground on September 10th in Utah, on th
-
-### 3. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
+### 1. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 **Timestamp:** [00:00:51](/episodes/ep-vwG1juDCQZQ.md#t-00-00-45) 
@@ -37,7 +21,7 @@ date: "2025-09-09"
 
 > he heavily anticipated interview with Erika Kirk on Fox News with Jesse Watters. So let's get started. Okay, first things first. Welcome to
 
-### 4. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 2. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:00:02](/episodes/ep-ja26iltROkM.md#t-00-00-00) 
@@ -45,7 +29,7 @@ date: "2025-09-09"
 
 > All right, you guys. Happy Monday. Erika Kirk, man. That—she really is just the moment. The speech that she gave—everybody was just wowed
 
-### 5. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 3. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:07:01](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49) 
@@ -53,31 +37,7 @@ date: "2025-09-09"
 
 > especially sickening. They're now trying to roll Charlie Kirk's legacy into this. We all know—as I proved—that these same individuals were squeezi
 
-### 6. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
-
-**Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:00:14](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(14);return false;">▶️ Play</a>
-
-> carefully woven tapestry of deception in all of our lives. A
-
-### 7. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
-
-**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:01:30](/episodes/ep-adJ4LNGp84I.md#t-00-00-36) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
-
-> chatter going around about the renting of the State Farm Sta
-
-### 8. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:39:49](/episodes/ep-his-JBjlkh8.md#t-00-39-20) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2389);return false;">▶️ Play</a>
-
-> probably been one of the more prominent gaslighters when it
-
-### 9. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 4. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:43:45](/episodes/ep-sreYYcID-QY.md#t-00-43-40) 
@@ -85,7 +45,7 @@ date: "2025-09-09"
 
 > in Orem. Here is what these particular Steeles told Good Mor
 
-### 10. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 5. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:15:13](/episodes/ep-ja26iltROkM.md#t-00-14-38) 
@@ -93,7 +53,7 @@ date: "2025-09-09"
 
 > All right, you guys. Happy Monday. Erika Kirk, man. That—she really is just the moment. The speech that she gave—everybody was just wowed by her. I fel
 
-### 11. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 6. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:07:35](/episodes/ep-K1tFD7FfoCU.md#t-00-07-32) 
@@ -101,23 +61,7 @@ date: "2025-09-09"
 
 > right now though is especially sickening. They're now trying
 
-### 12. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
-
-**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
-**Timestamp:** [00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1404);return false;">▶️ Play</a>
-
-> harlie Kirk's assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French
-
-### 13. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
-
-**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
-**Timestamp:** [00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1422);return false;">▶️ Play</a>
-
-> harlie Kirk's assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French
-
-### 14. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 7. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:13:36](/episodes/ep-ja26iltROkM.md#t-00-13-34) 
@@ -125,7 +69,7 @@ date: "2025-09-09"
 
 >  "Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is
 
-### 15. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 8. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:33:32](/episodes/ep-sreYYcID-QY.md#t-00-33-10) 
@@ -133,7 +77,7 @@ date: "2025-09-09"
 
 > spread. Well, somebody has fabricated a monstrous big lie th
 
-### 16. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 9. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:33:42](/episodes/ep-sreYYcID-QY.md#t-00-33-10) 
@@ -141,15 +85,7 @@ date: "2025-09-09"
 
 > spread. Well, somebody has fabricated a monstrous big lie th
 
-### 17. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
-
-**Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:05:20](/episodes/ep-iHav0PPzUz8.md#t-00-04-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(320);return false;">▶️ Play</a>
-
-> Egyptian military men that were on the ground on September 1
-
-### 18. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 10. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:10:43](/episodes/ep-sreYYcID-QY.md#t-00-10-23) 
@@ -157,7 +93,7 @@ date: "2025-09-09"
 
 > cam footage, right? Because that mysteriously made its way t
 
-### 19. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 11. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:56:12](/episodes/ep-sreYYcID-QY.md#t-00-55-46) 
@@ -165,23 +101,7 @@ date: "2025-09-09"
 
 > Martin, did you see the book about Charlie's assassination o
 
-### 20. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
-
-**Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:32:02](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1922);return false;">▶️ Play</a>
-
-> t also some other people. You can see this in the Daily Mail article. They recount this after Charlie's death. “Kash Patel questions grow as it
-
-### 21. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
-
-**Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2555);return false;">▶️ Play</a>
-
-> ore Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's donors, Bob Shill
-
-### 22. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 12. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:14:01](/episodes/ep-Qt0VHV-POCg.md#t-00-13-18) 
@@ -189,55 +109,7 @@ date: "2025-09-09"
 
 > stablished, rather—a holiday. And he decided that October 14th, which is Charlie Kirk's birthday, would be a National Day of Remembrance for Charlie Kirk. Okay? A
 
-### 23. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:40:51](/episodes/ep-his-JBjlkh8.md#t-00-40-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2451);return false;">▶️ Play</a>
-
-> the day of Charlie's assassination. So here is Cam Higby—who
-
-### 24. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:41:15](/episodes/ep-his-JBjlkh8.md#t-00-40-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2475);return false;">▶️ Play</a>
-
-> Charlie's assassination. Now, I obviously reported that the
-
-### 25. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
-
-**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
-**Timestamp:** [00:01:12](/episodes/ep-tB5SXXmd9vU.md#t-00-00-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(72);return false;">▶️ Play</a>
-
-> that France apparently paid for my assassination and that th
-
-### 26. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
-
-**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(319);return false;">▶️ Play</a>
-
-> State Bureau. He then installs a person that has a long tenu
-
-### 27. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
-
-**Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:42:40](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2560);return false;">▶️ Play</a>
-
-> nded by one of Charlie's donors, Bob Shillman—who then does a 180 and is now pretending that she is morally fighting me to stop researching into
-
-### 28. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
-
-**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:27:09](/episodes/ep-adJ4LNGp84I.md#t-00-26-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1629);return false;">▶️ Play</a>
-
-> independent voices who are winning because they're telling t
-
-### 29. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 13. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13) 
@@ -245,7 +117,7 @@ date: "2025-09-09"
 
 > ed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion. The full weight of America's law enforcement agen
 
-### 30. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 14. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:53:40](/episodes/ep-ja26iltROkM.md#t-00-53-40) 
@@ -253,7 +125,7 @@ date: "2025-09-09"
 
 > is evil." Yes, we did this left and right—you know—forcing the FBI's hand and saying, "Okay, maybe these messages didn't happen." Marzi continues: "Netanyahu is using Charlie's death
 
-### 31. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 15. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-43) 
@@ -261,7 +133,7 @@ date: "2025-09-09"
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's s
 
-### 32. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 16. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59) 
@@ -269,7 +141,7 @@ date: "2025-09-09"
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
 
-### 33. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
+### 17. VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Canda...
 
 **Episode:** [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md)
 **Timestamp:** [00:21:15](/episodes/ep-hWTdXHGQ8R4.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-21-15) 
@@ -277,7 +149,7 @@ date: "2025-09-09"
 
 > messaged multiple people saying that he thought they were going to kill him the night before.
 
-### 34. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+### 18. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:30:12](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-29-36) 
@@ -285,7 +157,7 @@ date: "2025-09-09"
 
 > Remind them that they are there for one person's security only, because I'm somewhat worried
 
-### 35. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
+### 19. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:29:36](/episodes/ep-nPhCKwJ6ye8.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-29-36) 
@@ -293,7 +165,7 @@ date: "2025-09-09"
 
 > never-before-seen messages from Charlie Kirk to his security team on September 9, 2025.
 
-### 36. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
+### 20. Erika No-Shows JD Vance. Public Relations Lies About Why. | ...
 
 **Episode:** [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md)
 **Timestamp:** [00:32:57](/episodes/ep-SubDoZWHARo.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-32-38) 
@@ -301,7 +173,7 @@ date: "2025-09-09"
 
 > texted me and the security team day before saying he thought he was going to be killed
 
-### 37. A Tale of Two PR Disasters: Blake Lively & Turning Point USA...
+### 21. A Tale of Two PR Disasters: Blake Lively & Turning Point USA...
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:04:39](/episodes/ep-eMtjzXkQrsU.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-04-32) 
@@ -309,7 +181,7 @@ date: "2025-09-09"
 
 > He texted Andrew Kolvet. He texted Dan Flood, and he said they are going to kill me.
 
-### 38. TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizar...
+### 22. TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizar...
 
 **Episode:** [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md)
 **Timestamp:** [00:23:19](/episodes/ep-cPidFQDJLbo.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-22-59) 
@@ -317,7 +189,7 @@ date: "2025-09-09"
 
 > they're going to kill me. Tomorrow, I think I am going to be killed.
 
-### 39. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
+### 23. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
 
 **Episode:** [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md)
 **Timestamp:** [00:35:38](/episodes/ep-MhakwJxK-Zk.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-35-16) 

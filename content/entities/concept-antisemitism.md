@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 100 mentions"
+description: "Antisemitism (Concepts) - 117 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -24,12 +24,12 @@ _Type: Concepts_
 Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/antisemitism)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00">2026-01-07 · 00:00:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58">2026-06-24 · 00:44:02</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>100</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00">2025-10-01 · 00:00:21</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-32-02">2026-07-14 · 00:32:34</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>117</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,10 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-00-13">Candace x Bassem Youssef | Candace Ep 298</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00" style="--pulse-height:21%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-04-15" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-01-26" style="--pulse-height:57%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 8 mentions" title="2025-11-08 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-antisemitism-t-00-38-43" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-37" style="--pulse-height:36%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-44" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
@@ -69,11 +73,16 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-00-26-29" style="--pulse-height:21%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-06-10" style="--pulse-height:14%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-19-58" style="--pulse-height:21%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00) | 3 |
+| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-04-15) | 2 |
+| 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-01-26) | 8 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-antisemitism-t-00-38-43) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-37) | 5 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-44) | 1 |
@@ -105,6 +114,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-00-26-29) | 3 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-06-10) | 2 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-19-58) | 3 |
 
 </details>
 </section>
@@ -112,7 +122,21 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+<summary><strong class="section-title">Raw mentions (117)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3 mentions)</summary>
+
+**[00:19:58](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-19-58)**
+> "...his smear campaign calling me anti-Semitic."
+
+**[00:32:21](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-32-02)**
+> "...brought you Christ is King as anti-Semitic. The NCRI."
+
+**[00:32:34](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-32-02)**
+> "...rs ago that Christ is King is anti-Semitic. They released this report during Lent. It backfi..."
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -566,6 +590,68 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 </details>
 
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+
+**[00:38:43](/episodes/ep-tB5SXXmd9vU.md#ent-concept-antisemitism-t-00-38-43)**
+> "So I'm not being anti-Semitic."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (8 mentions)</summary>
+
+**[00:01:35](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-01-26)**
+> "...elf when he accuses others of anti-Semitism."
+
+**[00:01:45](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-01-26)**
+> "...srael first of a pure form of anti-Semitism."
+
+**[00:06:24](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-05-58)**
+> "...eople that have called him an anti-Semite, then get to dictate what he speaks about on his ..."
+
+**[00:09:09](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-09-09)**
+> "...ny times you call somebody an anti-Semite; people appreciate it."
+
+**[00:33:42](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-33-42)**
+> "...riticize Israel without being anti-Semitic, but some of the themes, talking points, concepts..."
+
+**[00:35:51](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-35-25)**
+> "... evil or white supremacist or anti-Semitic because you've lost the argument on the merits."
+
+**[00:43:34](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-43-11)**
+> "You're getting stricter on anti-Semitism laws."
+
+**[00:52:25](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-51-48)**
+> "...say they, it's a long-running anti-Semitic word, that word "they.""
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+
+**[00:04:47](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-04-15)**
+> "“He is actually a victim of antisemitism.”"
+
+**[00:10:35](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-antisemitism-t-00-10-35)**
+> "... of an unprecedented surge of anti-Semitism, we remain more committed than ever to our core p..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
+
+**[00:00:21](/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00)**
+> ""Megyn Kelly is flirting with anti-Semitism.""
+
+**[00:25:54](/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-25-54)**
+> "...dia, that would be considered anti-Semitic."
+
+**[00:39:13](/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-38-34)**
+> "That's anti-Semitic."
+
+</details>
+
 </details>
 
 <details open>
@@ -576,7 +662,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Antisemitism (19)</strong></summary>
+<summary><strong class="section-title">Statements about Antisemitism (20)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:32:34](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-02) (Accusation) **Candace Owens**: ["Owens said NCRI had previously promoted the claim that 'Christ is King..."](/statements/statement-60a53fcc8ce5.md)
+  - Also about: [Network Contagion Research Institute](/entities/org-network-contagion-research-institute.md), [Christianity](/entities/concept-christianity.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>

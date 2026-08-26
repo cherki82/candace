@@ -18,13 +18,23 @@ type: "citation"
 
 **Delivery:** Paraphrased
 
-## Source
+## Appearances (2)
+
+### 1. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:16:16](/episodes/ep-aDlhjfW6hz8.md#t-00-16-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(976);return false;">Play</a>
 
 > Maybe I'm just ignorant, but you let me know that this is a very niche industry. And by niche, I mean that you asserted that it implies major government contracts, likely the CIA.
+
+### 2. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+
+**Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+**Timestamp:** [00:16:15](/episodes/ep-aDlhjfW6hz8.md#t-00-16-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(975);return false;">Play</a>
+
+> Maybe I'm just ignorant, but you let me know that this is a very niche industry.
 
 ## Verification
 

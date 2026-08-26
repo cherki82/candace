@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:19:10](/episodes/ep-sImMM04XdWY.md#t-00-18-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1150);return false;">Play</a>
 
-> moving on to August 1st—same week—Tucker releases an episode with me. And what goes viral from that episode is that we are discussing the Brigitte case
+> Anyways, moving on to August 1st—same week—Tucker (Tucker Carlson) releases an episode with me. And what goes viral from that episode is that we are discussing the Brigitte case.
 
 ## Verification
 

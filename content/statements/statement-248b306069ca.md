@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:10:20](/episodes/ep-6J6lRZPQ4jk.md#t-00-09-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(620);return false;">Play</a>
 
-> You know, Mikey had blood all over him. Okay, Mikey has offered that his dad was confused. I'll accept that. Well, I didn't lie about that. Rob lied.
+> You know, Mikey (Mikey McCoy) had blood all over him. Okay, Mikey (Mikey McCoy) has offered that his dad was confused. I'll accept that. Well, I didn't lie about that. Rob (Rob McCoy) lied.
 
 ## Verification
 

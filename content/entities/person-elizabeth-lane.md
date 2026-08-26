@@ -21,7 +21,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-elizabeth-lane-t-00-38-15">2026-06-13 · 00:38:25</a></strong></div>
 <div><span>Episodes</span><strong>13</strong></div>
 <div><span>Mentions</span><strong>25</strong></div>
-<div><span>Statements by</span><strong>7</strong></div>
+<div><span>Statements by</span><strong>8</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -266,7 +266,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Elizabeth Lane (7)</strong></summary>
+<summary><strong class="section-title">Statements by Elizabeth Lane (8)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>
@@ -296,6 +296,13 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 - [00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44) [✓] (Claim) ["Just days after Charlie Kirk's death, Erika Kirk was laying out ambitious plans ..."](/statements/statement-abcccb467cb0.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1)</summary>
+
+- [00:32:29](/episodes/ep-t1YtLS1n8Vs.md#t-00-32-28) [○] (Claim) ["Skordas is running as a state prosecutor."](/statements/statement-4b249edbf2c4.md)
 
 </details>
 

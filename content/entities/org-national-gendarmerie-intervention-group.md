@@ -12,7 +12,7 @@ _Type: Organizations_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-national-gendarmerie-intervention-group-t-00-12-02">2025-12-01 · 00:12:30</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -45,7 +45,7 @@ _Type: Organizations_
 > "..., you read that correctly. More specifically, that the green light was given to a small team in the National Gendarmerie Intervention Group. I am told there is one Israeli that is on the assassination squad and that plans were formalized. ..."
 
 **[00:12:30](/episodes/ep-tB5SXXmd9vU.md#ent-org-national-gendarmerie-intervention-group-t-00-12-02)**
-> "...uel Macron and his wife Brigitte had authorized and financed the operation, assigning it to a small National Gendarmerie Intervention Group team that included an Israeli operative. She also suggested that Charlie Kirk's (Charlie Kirk's) as..."
+> "President Emmanuel Macron and his wife Brigitte had authorized and financed the operation, assigning it to a small National Gendarmerie Intervention Group team that included an Israeli operative."
 
 </details>
 
@@ -55,5 +55,17 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by National Gendarmerie Intervention Group (1)</strong></summary>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1)</summary>
+
+- [00:03:25](/episodes/ep-tB5SXXmd9vU.md#t-00-03-07) [○] (Claim) ["the green light was given to a small team in the National Gendarmerie Interventi..."](/statements/statement-d2fe1a2c7252.md)
+
+</details>
 
 </details>

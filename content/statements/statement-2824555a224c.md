@@ -23,7 +23,7 @@ type: "accusation"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md) (person)
 - [Lee Trotter](/entities/person-lee-trotter.md) (person)
-- [Health Insurance Portability and Accountability Act](/entities/law-health-insurance-portability-accountability-act.md) (law)
+- [HIPAA](/entities/law-hipaa.md) (law)
 
 ## Appearances (2)
 

@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:06:42](/episodes/ep-LATnak75Si0.md#t-00-06-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(402);return false;">Play</a>
 
-> This is looking to me—and you can let me know if you agree—it's looking to me like the apparent plan was to assassinate Charlie, who had at long last faltered on the pro-Israel cause...And then to stage a hostile takeover of his brand and of his legacy
+> This is looking to me—and you can let me know if you agree—it's looking to me like the apparent plan was to assassinate Charlie (Charlie Kirk), who had at long last faltered on the pro-Israel cause. Okay, his words, not mine. And then to stage a hostile takeover of his brand and of his legacy by pretending that his best friends in the world were like Susie Wiles.
 
 ## Verification
 

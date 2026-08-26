@@ -9,11 +9,11 @@ _Type: Organizations_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-34-07">2025-11-17 · 00:34:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-41-13">2025-11-17 · 00:41:41</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-41-22">2025-11-17 · 00:41:41</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,13 +44,13 @@ _Type: Organizations_
 **[00:34:30](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-34-07)**
 > "There is Turning Point USA, Turning Point Endowment, Turning Point Action, and America's Turning Poin..."
 
-**[00:38:29](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-38-23)**
+**[00:38:29](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-38-06)**
 > "...rs they were sending money to Turning Point Endowment."
 
-**[00:41:27](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-41-13)**
+**[00:41:27](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-41-22)**
 > "In the notes, they explain that they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch."
 
-**[00:41:41](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-41-13)**
+**[00:41:41](/episodes/ep-JQjCAsfoXEE.md#ent-org-turning-point-endowment-t-00-41-22)**
 > "...nt USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA Merch."
 
 </details>
@@ -61,5 +61,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Turning Point Endowment (1)</strong></summary>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:36:58](/episodes/ep-JQjCAsfoXEE.md#t-00-36-17) (Claim) **Candace Owens**: ["Turning Point USA missed both the regular and extended filing deadline..."](/statements/statement-7976ab1bec7a.md)
+  - Also about: [America's Turning Point](/entities/org-americas-turning-point.md), [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 </details>

@@ -4,9 +4,10 @@ description: "\"Candace Owens maintained that Tyler Robinson's parents did not t
 statement_id: "statement-7fc3cdf26310"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The official charging record directly contradicts the categorical claim that Robinson’s parents did not turn him in: it says they recognized him, confronted him, persuaded him to meet a retired-deputy family friend, and participated in convincing him to surrender. The friend facilitated law-enforcement contact, so the simplified phrase parents turned him in is substantively supported.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Utah County Attorney charging Criminal Information in State v. Robinson](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
+
+*Verified: 2026-08-26T08:00:34.754581*
 
 ---
 

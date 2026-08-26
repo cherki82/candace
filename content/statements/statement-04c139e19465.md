@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:49:38](/episodes/ep-iHav0PPzUz8.md#t-00-49-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2978);return false;">Play</a>
 
-> Like these are like Josh Hammer—is actually the editor at large at Newsweek.
+> Like these are like Josh Hammer— is actually the editor at large at Newsweek.
 
 ## Verification
 

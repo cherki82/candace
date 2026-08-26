@@ -26,7 +26,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <div><span>Episodes</span><strong>15</strong></div>
 <div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -328,7 +328,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about TMZ (2)</strong></summary>
+<summary><strong class="section-title">Statements about TMZ (3)</strong></summary>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
@@ -343,6 +343,14 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 
 - [00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11) (Accusation) **Candace Owens**: ["Candace Owens says she thinks Steven Crowder knew he was distributing ..."](/statements/statement-65babe2d7be9.md)
   - Also about: [Steven Crowder](/entities/person-steven-crowder.md)
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1)</summary>
+
+- [00:13:21](/episodes/ep-adJ4LNGp84I.md#t-00-13-19) (Claim) **Candace Owens**: ["TMZ had doorbell cam footage on the morning of September 11th"](/statements/statement-7a53712c1938.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 

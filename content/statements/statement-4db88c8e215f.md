@@ -4,9 +4,10 @@ description: "\"A few weeks before his death, I spoke to Charlie Kirk and invite
 statement_id: "statement-4db88c8e215f"
 speaker: "Benjamin Netanyahu"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -24,7 +25,9 @@ type: "factual_claim"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:34:33](/episodes/ep-sreYYcID-QY.md#t-00-33-49) 
@@ -32,9 +35,30 @@ type: "factual_claim"
 
 > A few weeks before his death, I spoke to Charlie (Charlie Kirk). I invited him to visit Israel again.
 
+### 2. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+
+**Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
+**Timestamp:** [00:34:28](/episodes/ep-sreYYcID-QY.md#t-00-33-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2068);return false;">Play</a>
+
+> A few weeks before his death, I spoke to Charlie (Charlie Kirk)
+
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+A fact-check article and other news reports from reliable outlets like The Times of Israel and Israel Hayom confirm that Israeli Prime Minister Benjamin Netanyahu extended a personal invitation to Charlie Kirk to visit Israel shortly before his death in September 2025. While some sources attribute a similar invitation to Minister Amichai Chikli for a January conference, the fact-check specifically verifies Netanyahu's involvement, supporting the claim of a conversation and invitation a few weeks prior. The exact details of the 'speech' (e.g., phone call vs. other communication) are not contradicted but not fully detailed in all sources, leading to medium confidence.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Fact Check: Who extended the invitation to Charlie Kirk to visit I...](https://factually.co/fact-checks/politics/charlie-kirk-israel-visit-2025-f493d0)
+
+*Verified: 2026-08-26T08:04:38.675408*
 
 ---
 

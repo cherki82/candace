@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:24:03](/episodes/ep-QZWSsq8ZWzw.md#t-00-23-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1443);return false;">Play</a>
 
-> So you go, 'Okay, this guy was a Trump supporter.' Then he does a radical transformation around 2020. And this had something to do with COVID. He got very angry at Trump
+> So you go, "Okay, this guy was a Trump supporter." Then he does a radical transformation around 2020. And this had something to do with COVID. He got very angry at Trump, and
 
 ## Verification
 

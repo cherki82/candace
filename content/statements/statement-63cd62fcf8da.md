@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:21](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(501);return false;">Play</a>
 
-> Tristar—that is Lou Taylor's company—was hired to serve as the tour's business manager, handling its finances and accounting, and the tour grossed an estimated 30 million—money that was now under the control of Lou Taylor and Jamie Spears
+> Tristar—that is Lou Taylor's company—was hired to serve as the tour's business manager, handling its finances and accounting, and the tour grossed an estimated $130 million—money that was now under the control of Lou Taylor and Jamie Spears, the father.
 
 ## Verification
 

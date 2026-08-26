@@ -1,14 +1,14 @@
 ---
 id: "-9MOUvgGyi4"
 title: "Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329"
-description: "Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 - 84 entities, 22 events, 0 claims"
+description: "Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 - 84 entities, 22 events, 12 factual claims"
 published: "2026-04-22"
 youtube_url: "https://www.youtube.com/watch?v=-9MOUvgGyi4"
 ---
 
 **Published:** 2026-04-22 | [Watch on YouTube](https://www.youtube.com/watch?v=-9MOUvgGyi4)
 
-**Stats:** 84 entities | 22 events | 0 claims
+**Stats:** 84 entities | 22 events | 12 factual claims
 
 ---
 

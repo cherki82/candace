@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:43:56](/episodes/ep-aDlhjfW6hz8.md#t-00-43-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2636);return false;">Play</a>
 
-> TikTok was going pro-Palestine, and a bunch of hedge fund people who are pro-Israel got involved. Trump pretended that he was going to rescue speech. No, he's handing it over to Israel.
+> No, TikTok was going pro-Palestine, and a bunch of hedge fund people who are pro-Israel got involved. Trump (Donald Trump) pretended that he was going to rescue speech. No, he's handing it over to Israel.
 
 ## Verification
 

@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md) (person)
+- [Lee Trotter](/entities/person-lee-trotter.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

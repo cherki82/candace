@@ -15,7 +15,7 @@ object: "person-bari-weiss"
 
 **[Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog)**
 
-- [00:29:51](/episodes/ep-mKXdKV-OBog#t-00-29-51): _She notoriously left The New York Times and said it was biased_
+- [00:29:00](/episodes/ep-mKXdKV-OBog#t-00-29-00): _She notoriously left The New York Times and said it was biased, and we needed to have_
 
 ### Related
 

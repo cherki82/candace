@@ -4,9 +4,10 @@ description: "\"Samantha Karner testified that the diameter range for the 6A bul
 statement_id: "statement-af041d712150"
 speaker: "Samantha Karner"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Day 4 hearing transcript directly records Karner reading the measured diameter range for Exhibit 6A as 0.286 to 0.301 inches.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 4](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
+
+*Verified: 2026-08-26T08:02:09.262498*
 
 ---
 

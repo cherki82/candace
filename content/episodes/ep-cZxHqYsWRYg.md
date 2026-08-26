@@ -1,14 +1,14 @@
 ---
 id: "cZxHqYsWRYg"
 title: "Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3"
-description: "Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 - 111 entities, 37 events, 0 claims"
+description: "Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 - 111 entities, 37 events, 26 factual claims"
 published: "2026-02-28"
 youtube_url: "https://www.youtube.com/watch?v=cZxHqYsWRYg"
 ---
 
 **Published:** 2026-02-28 | [Watch on YouTube](https://www.youtube.com/watch?v=cZxHqYsWRYg)
 
-**Stats:** 111 entities | 37 events | 0 claims
+**Stats:** 111 entities | 37 events | 26 factual claims
 
 ---
 

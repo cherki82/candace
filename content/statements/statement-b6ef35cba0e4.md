@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:06:47](/episodes/ep-ja26iltROkM.md#t-00-06-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(407);return false;">Play</a>
 
-> We were unpacking the footage that was going viral of the guy that was taking down the camera—which was directly behind Charlie's head—a mere four minutes after Charlie was shot.
+> We were unpacking the footage that was going viral of the guy that was taking down the camera—which was directly behind Charlie's (Charlie Kirk's) head—a mere four minutes after Charlie (Charlie Kirk) was shot.
 
 ## Verification
 

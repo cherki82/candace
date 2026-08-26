@@ -26,7 +26,7 @@ type: "factual_claim"
 **Timestamp:** [00:39:27](/episodes/ep-ja26iltROkM.md#t-00-39-17) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2367);return false;">Play</a>
 
-> I actually think theres probably like 20 representatives between Senate and the House who I think are actually fully doing the work of the American people and dont have the interests of some group pulling their sway.
+> I actually think there's probably like 20 representatives between Senate and the House who I think are actually fully doing the work of the American people and don't have the interests of some group pulling their sway."
 
 ## Verification
 

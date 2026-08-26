@@ -1,6 +1,6 @@
 ---
 title: "Butler, Pennsylvania"
-description: "Butler, Pennsylvania (Places) - 32 mentions"
+description: "Butler, Pennsylvania (Places) - 37 mentions"
 id: "gpe-butler-pennsylvania"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [City of Butler](https://cityofbutler.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31">2026-01-20 · 00:42:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-butler-pennsylvania-t-00-40-48">2026-06-26 · 00:41:08</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-28-54">2026-07-16 · 00:29:19</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [City of Butler](https://cityofbutler.org/)
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-butler-pennsylvania-t-00-01-16" style="--pulse-height:55%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 6 mentions" title="2026-06-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-butler-pennsylvania-t-00-49-07" style="--pulse-height:9%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-butler-pennsylvania-t-00-40-48" style="--pulse-height:9%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-00-43" style="--pulse-height:45%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [City of Butler](https://cityofbutler.org/)
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-butler-pennsylvania-t-00-01-16) | 6 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-butler-pennsylvania-t-00-49-07) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-butler-pennsylvania-t-00-40-48) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-00-43) | 5 |
 
 </details>
 </section>
@@ -69,7 +71,27 @@ Source: [City of Butler](https://cityofbutler.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (5 mentions)</summary>
+
+**[00:00:55](/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-00-43)**
+> "the Butler shooting"
+
+**[00:01:10](/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-00-43)**
+> "...ened on that fateful night in Butler, Pennsylvania."
+
+**[00:28:10](/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-28-10)**
+> "...just trusted the narrative on Butler. People who supported Trump (Donald Trump) are go..."
+
+**[00:28:17](/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-28-10)**
+> "...this question. We revisit the Butler assassination and speculated that Corey Comperato..."
+
+**[00:29:19](/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-28-54)**
+> "What year was Butler? 2000. Somebody remind me about Eric. I can't eve..."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
@@ -232,7 +254,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Butler, Pennsylvania (9)</strong></summary>
+<summary><strong class="section-title">Statements about Butler, Pennsylvania (10)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:28:17](/episodes/ep-puuMVxEu5NU.md#t-00-28-10) (Opinion) **Candace Owens**: ["Owens said she had speculated that Corey Comperatore, the sole person ..."](/statements/statement-9429aeb35a27.md)
+  - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md)
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (8)</summary>

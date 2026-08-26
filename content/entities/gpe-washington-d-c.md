@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 69 mentions"
+description: "Washington, D.C. (Places) - 70 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -28,11 +28,11 @@ Source: [District of Columbia official website](https://dc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-washington-d-c-t-00-45-23">2026-06-26 · 00:45:45</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-washington-d-c-t-00-38-49">2026-07-16 · 00:38:49</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -75,6 +75,7 @@ Source: [District of Columbia official website](https://dc.gov/)
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-washington-d-c-t-00-19-47" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 6 mentions" title="2026-05-21 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#t-00-42-24" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-washington-d-c-t-00-45-23" style="--pulse-height:17%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-washington-d-c-t-00-38-49" style="--pulse-height:17%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -114,6 +115,7 @@ Source: [District of Columbia official website](https://dc.gov/)
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-washington-d-c-t-00-19-47) | 6 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-washington-d-c-t-00-45-23) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-washington-d-c-t-00-38-49) | 1 |
 
 </details>
 </section>
@@ -121,7 +123,15 @@ Source: [District of Columbia official website](https://dc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:38:49](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-washington-d-c-t-00-38-49)**
+> "...agon. He is today employed in Washington, D.C. at the Pentagon, serving as the Deputy Division C..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -504,7 +514,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Washington, D.C. (11)</strong></summary>
+<summary><strong class="section-title">Statements about Washington, D.C. (13)</strong></summary>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
@@ -569,9 +579,15 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
 
 - [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Mark Amodei missed two roll calls in the morning on September 9th and ..."](/statements/statement-1708c00a71da.md)
+  - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
+
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Official committee records omit Mark Amodei from roll calls 1 and 2 on..."](/statements/statement-14390b402a8a.md)
+  - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
+
+- [00:36:52](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Candace Owens**: ["According to official committee records, Mark Amodei first appears in ..."](/statements/statement-b9a86ad8ed2a.md)
   - Also about: [Mark Amodei](/entities/person-mark-amodei.md)
 
 </details>

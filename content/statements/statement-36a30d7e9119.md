@@ -4,9 +4,10 @@ description: "\"An unidentified Exhibit 12 courtroom witness testified that the 
 statement_id: "statement-36a30d7e9119"
 speaker: "Anonymous Source #7 (Ep EtLHqDbxqks)"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Day 2 hearing transcript directly records the judge asking whether the compilation included footage of the alleged shooting and the prosecutor answering that it did not.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 2](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-2)
+
+*Verified: 2026-08-26T08:02:10.491332*
 
 ---
 

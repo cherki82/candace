@@ -11,7 +11,11 @@ object: "person-dennis-frantzve"
 
 ## [Erika Kirk](/entities/person-erika-kirk) cousin of [Dennis Frantzve](/entities/person-dennis-frantzve)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
+
+- [00:24:47](/episodes/ep-X3VKJVJ7cN4#t-00-24-47): _At the same time as Stephen Phillips, then you've got, remember Dennis Frantzve, Erika's cousin who showed her around Romania, the black sea rotational force?_
 
 **[Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw)**
 

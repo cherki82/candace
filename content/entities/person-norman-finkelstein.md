@@ -143,13 +143,13 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
 **[00:45:48](/episodes/ep-iHav0PPzUz8.md#ent-person-norman-finkelstein-t-00-45-27)**
-> "...your comments that tomorrow we're going to be dropping this amazing episode—me having sat down with Norm Finkelstein. So take a listen. "The Economist magazine—it describes Gaza as quote, a human rubbish heap. The le..."
+> "...isode—me having sat down with Norm Finkelstein. So take a listen."
 
 **[01:02:21](/episodes/ep-iHav0PPzUz8.md#ent-person-norman-finkelstein-t-01-02-03)**
-> "...uldn't do that look. Anyways, you guys—thank you so much for all of your support. And tomorrow is a Norm Finkelstein interview. Enjoy that, and then we'll see you live on Monday. Anyways, you guys, thank you so much ..."
+> "...ur support. And tomorrow is a Norm Finkelstein interview."
 
 **[01:02:24](/episodes/ep-iHav0PPzUz8.md#ent-person-norman-finkelstein-t-01-02-03)**
-> "...you live on Monday. Anyways, you guys, thank you so much for all of your support, and tomorrow is a Norm Finkelstein interview. Enjoy that, and then we'll see you live on Monday."
+> "...ur support, and tomorrow is a Norm Finkelstein interview."
 
 </details>
 

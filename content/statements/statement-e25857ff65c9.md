@@ -4,9 +4,10 @@ description: "\"Candace Owens said Tyler Robinson was not political and came fro
 statement_id: "statement-e25857ff65c9"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The family-background portion is supported: public records and reporting describe Robinson’s parents as Republican and his father as strongly pro-Trump. The claim that Robinson was not political is contradicted by the charging record and family reports that he had become more political and discussed Kirk and political issues. The composite statement is therefore mixed.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Utah County Attorney charging Criminal Information in State v. Robinson](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
+
+*Verified: 2026-08-26T08:00:35.697169*
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 id: "Pb7UlpRdW6U"
 title: "SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339"
-description: "SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 - 107 entities, 9 events, 0 claims"
+description: "SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 - 107 entities, 9 events, 24 factual claims"
 published: "2026-05-14"
 youtube_url: "https://www.youtube.com/watch?v=Pb7UlpRdW6U"
 ---
 
 **Published:** 2026-05-14 | [Watch on YouTube](https://www.youtube.com/watch?v=Pb7UlpRdW6U)
 
-**Stats:** 107 entities | 9 events | 0 claims
+**Stats:** 107 entities | 9 events | 24 factual claims
 
 ---
 

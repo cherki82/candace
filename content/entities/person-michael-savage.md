@@ -12,7 +12,7 @@ _Type: People_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-michael-savage-t-00-56-35">2025-10-08 · 00:56:57</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -126,10 +126,12 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Michael Savage (1)</strong></summary>
+<summary><strong class="section-title">Statements by Michael Savage (2)</strong></summary>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2)</summary>
+
+- [00:37:05](/episodes/ep-czVBmqZP6Ss.md#t-00-36-23) [✓] (Claim) ["Michael Savage claimed authorities were saying the shooter removed a Mauser barr..."](/statements/statement-71c1fbeb7f70.md)
 
 - [00:37:17](/episodes/ep-czVBmqZP6Ss.md#t-00-37-05) [○] (Opinion) ["The FBI's story doesn't add up. They're trying to claim he removed the barrel fr..."](/statements/statement-3a59ee990192.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

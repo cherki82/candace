@@ -19,7 +19,7 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,7 +34,7 @@ _Type: Concepts_
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-doge-t-00-55-35" style="--pulse-height:20%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-concept-doge-t-00-17-25" style="--pulse-height:40%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-doge-t-00-05-06" style="--pulse-height:20%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-concept-doge-t-00-35-34" style="--pulse-height:60%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-concept-doge-t-00-35-39" style="--pulse-height:60%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-concept-doge-t-00-54-00" style="--pulse-height:20%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-doge-t-00-15-43" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 5 mentions" title="2025-12-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-doge-t-00-37-59" style="--pulse-height:20%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
@@ -51,7 +51,7 @@ _Type: Concepts_
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-doge-t-00-55-35) | 1 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-concept-doge-t-00-17-25) | 2 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-doge-t-00-05-06) | 1 |
-| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-concept-doge-t-00-35-34) | 3 |
+| 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-concept-doge-t-00-35-39) | 3 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-concept-doge-t-00-54-00) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-doge-t-00-15-43) | 5 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-doge-t-00-37-59) | 1 |
@@ -124,10 +124,10 @@ _Type: Concepts_
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
 
-**[00:35:39](/episodes/ep-JQjCAsfoXEE.md#ent-concept-doge-t-00-35-34)**
+**[00:35:39](/episodes/ep-JQjCAsfoXEE.md#ent-concept-doge-t-00-35-39)**
 > "...was unusual that seven days before Charlie (Charlie Kirk) died, he said that he wanted to establish DOGE, right? Tyler came out and lied, and he said, "This is just totally regular." And Alex Clark said, ..."
 
-**[00:36:01](/episodes/ep-JQjCAsfoXEE.md#ent-concept-doge-t-00-35-34)**
+**[00:36:01](/episodes/ep-JQjCAsfoXEE.md#ent-concept-doge-t-00-35-39)**
 > "...cept that as an answer," of course, doing an audit has nothing to do with internally establishing a DOGE, right? He recognized that something was wrong at the organization. And as I told you—okay, because..."
 
 **[00:40:32](/episodes/ep-JQjCAsfoXEE.md#ent-concept-doge-t-00-40-32)**
@@ -214,13 +214,21 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Doge (1)</strong></summary>
+<summary><strong class="section-title">Statements about Doge (2)</strong></summary>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>
 
 - [00:22:59](/episodes/ep-cPidFQDJLbo.md#t-00-22-59) (Claim) **Candace Owens**: ["Charlie Kirk said $10 million was missing from Turning Point USA, and ..."](/statements/statement-2ac0e37e2684.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1)</summary>
+
+- [00:36:19](/episodes/ep-JQjCAsfoXEE.md#t-00-36-17) (Claim) **Wolves and Finance** (via quoted speech): ["Charlie Kirk wanted to establish DOGE seven days before he died"](/statements/statement-5bad017dfe02.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

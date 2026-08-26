@@ -11,7 +11,7 @@ object: "org-prageru"
 
 ## [Candace Owens](/entities/person-candace-owens) formerly worked for [PragerU](/entities/org-prageru)
 
-### Evidence (9 mentions)
+### Evidence (8 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -44,7 +44,6 @@ object: "org-prageru"
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 
 - [00:00:03](/episodes/ep-yAIb-NuUh_U#t-00-00-03): _back when I had a show on PragerU._
-- [00:00:09](/episodes/ep-yAIb-NuUh_U#t-00-00-09): _Charlie and me back when I had a show on PragerU_
 
 ### Related
 

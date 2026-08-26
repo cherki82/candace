@@ -83,10 +83,10 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (5 mentions)</summary>
 
 **[00:39:07](/episodes/ep-r1PS67aRmcA.md#ent-person-eric-trump-t-00-39-03)**
-> "...a real live tweet from Ben Shapiro accusing any American Jew who is pro-Israel first of a pure form of anti-Semitism. That was directed at Nick Fuentes, which w..."
+> "...ssed this going around, Eric (Eric Trump) and Lara Trump"
 
 **[00:39:27](/episodes/ep-r1PS67aRmcA.md#ent-person-eric-trump-t-00-39-03)**
-> "...g about the guests like Eric (Eric Trump) and Lara Trump (Lara Trump) because they are get..."
+> "...g about the guests like Eric (Eric Trump) and Lara Trump because they are getting pressed ..."
 
 **[00:41:39](/episodes/ep-r1PS67aRmcA.md#ent-person-eric-trump-t-00-41-11)**
 > "...enia and Azerbaijan, as Eric (Eric Trump) just pointed out, a five-day war in Thailand and..."
@@ -121,7 +121,7 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:25](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): “Eric Trump works running the Trump organization”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:42:14](/episodes/ep-r1PS67aRmcA.md#t-00-41-57): “And Eric (Eric Trump), by the way, works very hard, you know, running the Trump organization. ... Certainly, while his father has to go and be president, he took over.”
 
 </details>
 
@@ -164,7 +164,7 @@ Source: [Eric Trump Official Biography](https://www.trump.com/leadership/eric-tr
 - **[Donald J. Trump](/entities/person-donald-trump.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:25](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): “Eric Trump works running the Trump organization”
+- [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:42:14](/episodes/ep-r1PS67aRmcA.md#t-00-41-57): “And Eric (Eric Trump), by the way, works very hard, you know, running the Trump organization. ... Certainly, while his father has to go and be president, he took over.”
 
 </details>
 

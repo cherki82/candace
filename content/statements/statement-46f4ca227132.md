@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:11:24](/episodes/ep-aDlhjfW6hz8.md#t-00-11-21) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(684);return false;">Play</a>
 
-> First and foremost, there is nothing gory about this shot at all. The thing that really stood out to me—and I just kept asking him to replay it over and over and over again—is that there's no blood. There's no blood from the back. There is no blood.
+> There's nothing gory about this footage from the back. The thing that really stood out to me—and I just kept asking him to replay it over and over and over again—is that there's no blood.
 
 ## Verification
 

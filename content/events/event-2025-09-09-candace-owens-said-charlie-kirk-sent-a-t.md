@@ -12,7 +12,7 @@ time: "15:54"
 
 > Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -53,3 +53,11 @@ time: "15:54"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2127);return false;">▶️ Play</a>
 
 > Charlie sends a message declaring he has left the pro-Israel cause
+
+### 6. Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean Abo...
+
+**Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
+**Timestamp:** [00:41:17](/episodes/ep-X3VKJVJ7cN4.md#event-event-2025-09-09-candace-owens-said-charlie-kirk-sent-a-t-t-00-41-05) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2477);return false;">▶️ Play</a>
+
+> It wasn't a joke when he texted the night before that he was done with Israel.

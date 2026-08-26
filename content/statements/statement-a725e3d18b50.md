@@ -4,9 +4,10 @@ description: "\"An unidentified law-enforcement witness recalled that Ms. Noble'
 statement_id: "statement-a725e3d18b50"
 speaker: "Anonymous Source #6 (Ep EtLHqDbxqks)"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode transcript directly captures the courtroom witness agreeing that the description of a bald driver appeared in Ms. Noble’s report. The witness is not identified in the extracted statement, so confidence is limited to medium even though the quoted exchange is clear.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Candace Ep. 358: I’m Back! And the Tyler Robinson Show Trial Begins](https://www.youtube.com/watch?v=EtLHqDbxqks)
+
+*Verified: 2026-08-26T08:00:39.088573*
 
 ---
 

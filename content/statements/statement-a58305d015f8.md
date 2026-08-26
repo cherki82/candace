@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:12:15](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(735);return false;">Play</a>
 
-> Brian also told a major lie when he said that the security had communicated with UVU police to secure those rooftops. That was a lie. It was actually the walkway behind.
+> a major lie when he said that the security had communicated with UVU police to secure those rooftops. That was a lie. It was actually the walkway behind.
 
 ## Verification
 

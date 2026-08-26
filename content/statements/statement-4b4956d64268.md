@@ -1,16 +1,17 @@
 ---
-title: "They did not recover a bullet from a .30-06. If they had fou..."
-description: "\"They did not recover a bullet from a .30-06. If they had found a .30-06 bullet, Charlie Kirk's death certificate certainly would have reflected that. ...\" — Candace Owens"
+title: "Owens argued that investigators had not recovered a .30-06 p..."
+description: "\"Owens argued that investigators had not recovered a .30-06 projectile because Kirk’s death certificate did not identify one, and claimed that known fi...\" — Candace Owens"
 statement_id: "statement-4b4956d64268"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
-> They did not recover a bullet from a .30-06. If they had found a .30-06 bullet, Charlie Kirk's death certificate certainly would have reflected that. In suicide situations, when the gun and the bullet are known, they are reflected onto the death certificate.
+> Owens argued that investigators had not recovered a .30-06 projectile because Kirk’s death certificate did not identify one, and claimed that known firearms and projectiles are recorded on death certificates.
 
 ## Attribution
 
@@ -25,14 +26,29 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [00:05:36](/episodes/ep-pc3pxRyNFZk.md#t-00-04-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(336);return false;">Play</a>
+**Timestamp:** [00:05:34](/episodes/ep-pc3pxRyNFZk.md#t-00-04-59) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(334);return false;">Play</a>
 
-> They did not recover a bullet from a .30-06. If they had found a .30-06 bullet, Charlie Kirk's death certificate certainly would have reflected that.
+> They did not recover a bullet from a .30-06. ... If they had found a .30-06 bullet, Charlie Kirk's (Charlie Kirk's) death certificate certainly would have reflected that. ... when the gun and the bullet are known, they are reflected onto the death certificate, okay? ... There is not one reflected onto Charlie Kirk's (Charlie Kirk's) death certificate because they did not recover a bullet from a .30-06.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Owens accurately made this argument, but its forensic inference is not established. Current court reporting confirms projectile fragments were recovered at autopsy; ATF analysis could not identify the recovered material to the alleged rifle. CDC guidance requires cause, injury, and circumstances on death certificates but does not make a specific caliber entry a universal requirement. Absence of a caliber on a certificate therefore cannot prove that no .30-06 projectile was recovered.
+
+**Confidence:** High
+
+**Sources:**
+
+- [REVELATIONS: The Truth About Charlie’s Medical Report | Candace Ep 251](https://www.youtube.com/watch?v=pc3pxRyNFZk)
+- [CDC Physician’s Handbook on Medical Certification of Death](https://www.cdc.gov/nchs/data/nvss/handbook/2023-physicians-mcod-handbook.pdf)
+- [Charlie Kirk accused assassin’s lawyers question link between autopsy bullet and rifle](https://www.cbsnews.com/amp/news/charlie-kirks-tyler-robinson-lawyers-question-bullet-rifle-link/)
+
+*Verified: 2026-08-26T10:37:06.848416*
 
 ---
 

@@ -13,18 +13,18 @@ _Type: Places_
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-19-07" style="--pulse-height:20%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-north-dakota-t-00-24-03" style="--pulse-height:60%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 5 mentions" title="2025-11-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-19-07" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-north-dakota-t-00-24-03" style="--pulse-height:75%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 3 mentions" title="2025-10-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -32,7 +32,7 @@ _Type: Places_
 |---|---|---:|
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-19-07) | 1 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-north-dakota-t-00-24-03) | 3 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45) | 5 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45) | 4 |
 
 </details>
 </section>
@@ -43,7 +43,7 @@ _Type: Places_
 <summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:05:58](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-05-45)**
 > "...me into the United States on September 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It pretty much is just the Air Force base, by the way, befo..."
@@ -53,9 +53,6 @@ _Type: Places_
 
 **[00:07:33](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-07-13)**
 > "...e are telling you. I didn't know anything, by the way, about the city of Minot. I can tell you that North Dakota in general is not a very populous state. Approximately 750,000 people statewide, okay? And in Minot..."
-
-**[00:08:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-07-13)**
-> "North Dakota - not a very populous state"
 
 **[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-gpe-north-dakota-t-00-08-31)**
 > "...ration Valhalla Strike was a week-long training where the 891st Squadron from Minot Air Force Base, North Dakota, traveled to Camp Ripley Training Center in Minnesota, August 24, 2024. The advanced training focus..."
@@ -90,5 +87,21 @@ _Type: Places_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about North Dakota (2)</strong></summary>
+
+<details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2)</summary>
+
+- [00:05:48](/episodes/ep-mKXdKV-OBog.md#t-00-05-45) (Claim) **Candace Owens**: ["The yellow plane with tail number SUBTT stopped for just one hour in M..."](/statements/statement-d3549945a6fb.md)
+  - Also about: [Minot](/entities/gpe-minot.md), [Provo](/entities/gpe-provo.md)
+
+- [00:07:37](/episodes/ep-mKXdKV-OBog.md#t-00-07-13) (Claim) **Candace Owens**: ["North Dakota has approximately 750,000 people statewide, and Minot has..."](/statements/statement-41afec5ce47b.md)
+  - Also about: [Minot](/entities/gpe-minot.md), [Minot Air Force Base](/entities/org-minot-air-force-base.md)
+
+</details>
 
 </details>

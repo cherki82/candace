@@ -1,14 +1,14 @@
 ---
 id: "FFQ9675oqRI"
 title: "STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335"
-description: "STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 - 93 entities, 8 events, 0 claims"
+description: "STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 - 93 entities, 8 events, 9 factual claims"
 published: "2026-05-07"
 youtube_url: "https://www.youtube.com/watch?v=FFQ9675oqRI"
 ---
 
 **Published:** 2026-05-07 | [Watch on YouTube](https://www.youtube.com/watch?v=FFQ9675oqRI)
 
-**Stats:** 93 entities | 8 events | 0 claims
+**Stats:** 93 entities | 8 events | 9 factual claims
 
 ---
 

@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (30 mentions)
+### Evidence (32 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -52,6 +52,14 @@ object: "person-charlie-kirk"
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
 - [00:44:52](/episodes/ep-H9p2ZGHAs9A#t-00-44-52): _There just isn't a shred of proof for the idea that he was anything but my brother and that we fought a lot of battles together, even when we disagreed on topics, which there were some topics that we did disagree on and then eventually we sort of met back up in the middle._
+
+**[UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410)**
+
+- [00:53:45](/episodes/ep-N4uM8Jdr410#t-00-53-45): _I don't team up behind the scenes. Nothing. I just investigate when I'm interested, and right now it is the assassination of my friend Charlie Kirk._
+
+**[BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw)**
+
+- [00:08:37](/episodes/ep-QZWSsq8ZWzw#t-00-08-37): _You know, rather relatedly, something that I want to tell you: yesterday we had showed you a clip of Charlie Kirk discussing our friendship and how he was feeling morally blackmailed over it._
 
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 
@@ -112,7 +120,7 @@ object: "person-charlie-kirk"
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 
-- [00:04:00](/episodes/ep-r1PS67aRmcA#t-00-04-00): _Charlie Kirk and I had this friendship_
+- [00:16:55](/episodes/ep-r1PS67aRmcA#t-00-16-55): _And it is also interesting that when I was telling you that Ben (Ben Shapiro) called Charlie (Charlie Kirk) and he was lamenting the fact that Charlie (Charlie Kirk) and I had this friendship and warning him that he shouldn't have me._
 
 **[EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY)**
 

@@ -39,10 +39,10 @@ _No relationships extracted yet._
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>
 
 - [00:09:11](/episodes/ep-9k2xrAC0H88.md#t-00-08-48) [○] (Claim) ["Federal agents were blocking the surgeon from returning to the operating room af..."](/statements/statement-c2de12472215.md)
-  - About: [FBI](/entities/org-fbi.md), [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [FBI](/entities/org-fbi.md), [Lee Trotter](/entities/person-lee-trotter.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:09:50](/episodes/ep-9k2xrAC0H88.md#t-00-09-19) [○] (Claim) ["A phone call was placed to DC at the hospital after the surgeon was blocked by f..."](/statements/statement-b7a912d83954.md)
-  - About: [FBI](/entities/org-fbi.md), [Dr. Lee Trotter](/entities/person-dr-lee-trotter.md)
+  - About: [FBI](/entities/org-fbi.md), [Lee Trotter](/entities/person-lee-trotter.md)
 
 </details>
 

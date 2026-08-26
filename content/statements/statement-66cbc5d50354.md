@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:33:39](/episodes/ep-6J6lRZPQ4jk.md#t-00-33-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2019);return false;">Play</a>
 
-> I think Tyler was involved on that day. I think there were multiple people that are involved in that day. Obviously, most people were involved. I think he took clothes and hid them in the cemetery or whatever next to the Dairy Queen. But I don't think that he was on campus that day. I do not believe Tyler was on campus that day.
+> I think Tyler (Tyler Robinson) was involved on that day. I think there were multiple people that are involved in that day. Obviously, most people were involved. I think he took clothes and hid them in the cemetery or whatever next to the Dairy Queen. But I don't think that he was on campus that day. I do not believe Tyler (Tyler Robinson) was on campus that day.
 
 ## Verification
 

@@ -1,14 +1,14 @@
 ---
 id: "CEF7gQRWYCE"
 title: "BAAL SO HARD: The Epstein Files | Candace Ep 300"
-description: "BAAL SO HARD: The Epstein Files | Candace Ep 300 - 165 entities, 16 events, 0 claims"
+description: "BAAL SO HARD: The Epstein Files | Candace Ep 300 - 165 entities, 16 events, 20 factual claims"
 published: "2026-02-02"
 youtube_url: "https://www.youtube.com/watch?v=CEF7gQRWYCE"
 ---
 
 **Published:** 2026-02-02 | [Watch on YouTube](https://www.youtube.com/watch?v=CEF7gQRWYCE)
 
-**Stats:** 165 entities | 16 events | 0 claims
+**Stats:** 165 entities | 16 events | 20 factual claims
 
 ---
 

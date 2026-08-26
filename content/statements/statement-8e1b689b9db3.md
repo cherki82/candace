@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:26](/episodes/ep-ja26iltROkM.md#t-00-08-07) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(506);return false;">Play</a>
 
-> I just spoke with the surgeon who worked on Charlie in the hospital. He said the bullet, quote, 'absolutely should have gone through,' which is very, very normal for a high-powered, high-velocity round... But it didn't go through. Charlie's body stopped it... His bone—referring to Charlie—was so healthy and the density was so, so impressive that he's like the Man of Steel. It should have just gone through and through... In the end, the coroner did find the bullet just beneath the skin
+> His bone—referring to Charlie (Charlie Kirk)—was so healthy and the density was so, so impressive that he's like the Man of Steel. It should have just gone through and through. It likely would have killed those standing behind him too. In the end, the coroner did find the bullet just beneath the skin.
 
 ## Verification
 

@@ -28,7 +28,7 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -170,7 +170,7 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mark Amodei (3)</strong></summary>
+<summary><strong class="section-title">Statements about Mark Amodei (5)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
@@ -180,9 +180,15 @@ Source: [AMODEI, Mark E. | U.S. House of Representatives](https://history.house.
 </details>
 
 <details>
-<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3)</summary>
 
 - [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Mark Amodei missed two roll calls in the morning on September 9th and ..."](/statements/statement-1708c00a71da.md)
+  - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+- [00:36:17](/episodes/ep-w1oqQbR_bYs.md#t-00-35-37) (Claim) **Candace Owens**: ["Official committee records omit Mark Amodei from roll calls 1 and 2 on..."](/statements/statement-14390b402a8a.md)
+  - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
+
+- [00:36:52](/episodes/ep-w1oqQbR_bYs.md#t-00-36-19) (Claim) **Candace Owens**: ["According to official committee records, Mark Amodei first appears in ..."](/statements/statement-b9a86ad8ed2a.md)
   - Also about: [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </details>

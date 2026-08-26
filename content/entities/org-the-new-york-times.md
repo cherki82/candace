@@ -26,7 +26,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <div><span>Mentions</span><strong>66</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -488,24 +488,12 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details>
-<summary>Employs (1)</summary>
-
-- **[Bari Weiss](/entities/person-bari-weiss.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “She notoriously left The New York Times”
-
-</details>
-
-</details>
-
-<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:51](/episodes/ep-mKXdKV-OBog.md#t-00-29-33): “She notoriously left The New York Times and said it was biased”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): “She notoriously left The New York Times and said it was biased, and we needed to have”
 
 </details>
 
@@ -528,7 +516,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -540,7 +528,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 - **[Bari Weiss](/entities/person-bari-weiss.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:51](/episodes/ep-mKXdKV-OBog.md#t-00-29-33): “She notoriously left The New York Times and said it was biased”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:00](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): “She notoriously left The New York Times and said it was biased, and we needed to have”
 
 </details>
 
@@ -552,13 +540,6 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:23:25](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14): “After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:27](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14): “that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie's apartment, and here is what they published verbatim. They wrote, it had been miss...”
-
-</details>
-
-- **[Bari Weiss](/entities/person-bari-weiss.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-14): “She notoriously left The New York Times”
 
 </details>
 

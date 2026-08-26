@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 77 mentions"
+description: "Bible (Works & Media) - 83 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -21,10 +21,10 @@ _Type: Works & Media_
 Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.britannica.com/topic/Bible)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-54-48">2026-01-16 · 00:55:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16">2026-07-14 · 00:51:24</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>77</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18">2025-10-30 · 00:38:18</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-bible-t-00-50-45">2026-07-16 · 00:50:45</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>83</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15">Bride Of Charlie: The Ties That Bind | Episode 4</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18" style="--pulse-height:26%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14" style="--pulse-height:26%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-23" style="--pulse-height:16%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-bible-t-01-06-57" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
@@ -55,11 +56,13 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-17-29" style="--pulse-height:21%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53" style="--pulse-height:11%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-bible-t-00-50-45" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18) | 5 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14) | 5 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-23) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-bible-t-01-06-57) | 1 |
@@ -80,6 +83,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-17-29) | 4 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-bible-t-00-50-45) | 1 |
 
 </details>
 </section>
@@ -87,7 +91,15 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+<summary><strong class="section-title">Raw mentions (83)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[00:50:45](/episodes/ep-mLvJqdxS-FY.md#ent-work-bible-t-00-50-45)**
+> "...not manipulate people using a bible um and only because you want them to support isra..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
@@ -417,6 +429,26 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 **[00:56:39](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14)**
 > "And if anybody using the Bible to tell you not to pursue truth,"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
+
+**[00:38:18](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18)**
+> "...saying that this violates the Bible—like to make it about—"
+
+**[00:40:10](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-39-54)**
+> "...d to lie about what is in the Bible—to try to use it to manipulate people and tell th..."
+
+**[00:43:02](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-42-46)**
+> "...iendship with Jonathan in the Bible."
+
+**[00:43:15](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-42-46)**
+> "...ere biblical figures from the Bible who shared a deep and profound friendship—forming..."
+
+**[00:43:41](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-43-28)**
+> "The Bible describes Jonathan's loving David as quote, his o..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "NewsNation"
-description: "NewsNation (Organizations) - 6 mentions"
+description: "NewsNation (Organizations) - 7 mentions"
 id: "org-newsnation"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Networks | Nexstar Media Group](https://www.nexstar.tv/networks/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-12-14">2025-09-30 · 00:12:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03">2025-10-02 · 00:21:20</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-newsnation-t-00-29-32">2026-07-16 · 00:29:32</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [Networks | Nexstar Media Group](https://www.nexstar.tv/networks/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-12-14" style="--pulse-height:100%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 4 mentions" title="2025-09-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-newsnation-t-00-29-32" style="--pulse-height:25%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Networks | Nexstar Media Group](https://www.nexstar.tv/networks/)
 |---|---|---:|
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-12-14) | 4 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-newsnation-t-00-21-03) | 1 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-newsnation-t-00-29-32) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Networks | Nexstar Media Group](https://www.nexstar.tv/networks/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:29:32](/episodes/ep-puuMVxEu5NU.md#ent-org-newsnation-t-00-29-32)**
+> "an interview on NewsNation"
+
+</details>
 
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
@@ -61,16 +71,16 @@ Source: [Networks | Nexstar Media Group](https://www.nexstar.tv/networks/)
 <summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (4 mentions)</summary>
 
 **[00:12:48](/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-12-14)**
-> "...painting a picture that he was outside. That certainly seems to be what he told both Alex Jones and NewsNation: that he was outside when the shot rang out. Let's take a listen to what he said on Alex Jones. [Cl..."
+> "...t he told both Alex Jones and NewsNation: that he was outside when the shot rang out."
 
 **[00:14:51](/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-14-25)**
-> "...hindsight, as I've watched that over and over, it's like these people were not afraid. Okay, and on NewsNation, I want you to listen carefully because he at first says that he was about to walk into the buildin..."
+> "Okay, and on NewsNation, I want you to listen carefully because he at fir..."
 
 **[00:15:02](/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-14-25)**
-> "... building after the shot rang out. So let's take a listen to that. [Clip attribution: Phil Lyman on NewsNation] [Clip: Phil Lyman on NewsNation] I walked up top. I had to go meet some people. So I was down ther..."
+> "...ip attribution: Phil Lyman on NewsNation]"
 
 **[00:15:04](/episodes/ep-YA1FxrDWNIo.md#ent-org-newsnation-t-00-14-25)**
-> ".... So let's take a listen to that. [Clip attribution: Phil Lyman on NewsNation] [Clip: Phil Lyman on NewsNation] I walked up top. I had to go meet some people. So I was down there. When he started talking, I tho..."
+> "[Clip: Phil Lyman on NewsNation] I walked up top."
 
 </details>
 

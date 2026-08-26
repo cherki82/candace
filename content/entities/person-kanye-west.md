@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 163 mentions"
+description: "Kanye West (People) - 170 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-kanye-west-t-00-46-13">2026-05-26 · 00:46:48</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>163</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-57-38">2026-07-16 · 00:58:09</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>170</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -70,6 +70,8 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15" style="--pulse-height:46%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 16 mentions" title="2026-03-18 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kanye-west-t-01-02-08" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-kanye-west-t-00-43-38" style="--pulse-height:9%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-kanye-west-t-00-50-51" style="--pulse-height:9%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-56-39" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -108,6 +110,8 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-kanye-west-t-00-20-15) | 16 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-kanye-west-t-01-02-08) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-kanye-west-t-00-43-38) | 3 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-kanye-west-t-00-50-51) | 3 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-56-39) | 4 |
 
 </details>
 </section>
@@ -115,7 +119,38 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (163)</strong></summary>
+<summary><strong class="section-title">Raw mentions (170)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4 mentions)</summary>
+
+**[00:56:52](/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-56-39)**
+> "...by if you go into what Kanye (Kanye West) was telling you forcing um psychological cocktai..."
+
+**[00:57:05](/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-56-39)**
+> "... his last name, did to Kanye (Kanye West). Right. He put him on a 5150 hold."
+
+**[00:57:15](/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-57-15)**
+> "I can't believe Kanye (Kanye West)'s wife at the time allowed that to happen. His t..."
+
+**[00:58:09](/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-57-38)**
+> "... life, similar to what Kanye (Kanye West) said when he tweeted that, but there were specif..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3 mentions)</summary>
+
+**[00:51:09](/episodes/ep-X3VKJVJ7cN4.md#ent-person-kanye-west-t-00-50-51)**
+> "...there were handlers after the Kanye moment and I told you Erika was playing both side..."
+
+**[00:51:23](/episodes/ep-X3VKJVJ7cN4.md#ent-person-kanye-west-t-00-50-51)**
+> "...t she's got people inside the Kanye thing and Charlie and I had no idea."
+
+**[00:51:31](/episodes/ep-X3VKJVJ7cN4.md#ent-person-kanye-west-t-00-51-31)**
+> "...ficially dating her when that Kanye stuff happened."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3 mentions)</summary>
@@ -913,7 +948,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Kanye West (5)</strong></summary>
+<summary><strong class="section-title">Statements by Kanye West (6)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (2)</summary>
@@ -943,6 +978,14 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+
+- [00:07:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) [✓] (Claim) ["On April 21, 2018, Kanye West tweeted 'I love the way Candace Owens thinks.'"](/statements/statement-57cf55100c82.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
+
+</details>
+
+<details>
 <summary>To My Friend, Charlie Kirk. (1)</summary>
 
 - [00:10:19](/episodes/ep-_dRaEO47-co.md#t-00-09-57) [✓] (Opinion) ["Kanye West tweeted 'I love the way Candace thinks'"](/statements/statement-db65a10129a1.md)
@@ -953,7 +996,15 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kanye West (27)</strong></summary>
+<summary><strong class="section-title">Statements about Kanye West (32)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:51:09](/episodes/ep-X3VKJVJ7cN4.md#t-00-50-51) (Accusation) **Candace Owens**: ["Owens said she felt handlers were involved after the Kanye moment, tha..."](/statements/statement-5e26530a94d2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (6)</summary>
@@ -1038,7 +1089,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (9)</summary>
 
 - [00:03:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-02-49) (Claim) **Candace Owens**: ["Charlie Kirk and Candace Owens were convinced they could manifest Kany..."](/statements/statement-829000f44845.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -1048,9 +1099,21 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 - [00:06:59](/episodes/ep-Cq7nj9rxPdo.md#t-00-06-20) (Prediction) **Charlie Kirk** (via read message): ["I'm listening to Kanye and just running my streets. Are you ready for ..."](/statements/statement-121946f7b4bc.md)
 
+- [00:07:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-07-05) (Claim) **Kanye West** (via quoted tweet): ["On April 21, 2018, Kanye West tweeted 'I love the way Candace Owens th..."](/statements/statement-57cf55100c82.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:12:02](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Claim) **Candace Owens**: ["Eric Weinstein reached out to Candace Owens after the April 2018 Kanye..."](/statements/statement-7fc7b222037f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Eric Weinstein](/entities/person-eric-weinstein.md)
+
 - [00:14:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["Kanye West's handlers told him he would lose everything if he didn't a..."](/statements/statement-1312ea6aaf18.md)
 
+- [00:14:19](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["In October 2018, Kanye helped Candace design the logo for Blexit befor..."](/statements/statement-0bb06161f44b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
 - [00:14:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["Kanye West never wrote the statement distancing himself from Blexit - ..."](/statements/statement-fcbab06d38d1.md)
+
+- [00:18:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-56) (Claim) **Candace Owens**: ["Rick Rubin got involved to facilitate meetings between Candace/Charlie..."](/statements/statement-de37231349d4.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Rubin](/entities/person-rick-rubin.md)
 
 </details>
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:12:48](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(768);return false;">Play</a>
 
-> Tyler Bowyer—who I could do a whole episode on; he's so relevant that I can't fit him into just one episode—he was the only person that was with Charlie before. He introduced him to every person that Charlie knows.
+> On the Turning Point USA side, Tyler Bowyer—who I could do a whole episode on; he's so relevant that I can't fit him into just one episode— he was the only person that was with Charlie before. He introduced him to every person that Charlie knows.
 
 ## Verification
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:37:58](/episodes/ep-581dILVcEE4.md#t-00-37-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2278);return false;">Play</a>
 
-> Charlie Kirk was shot at 12:23, right?
+> Charlie (Charlie Kirk) was shot at 12:23, right?
 
 ## Verification
 

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:51:15](/episodes/ep-2WEHTk0Xewg.md#t-00-50-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3075);return false;">Play</a>
 
-> I have personal knowledge as to many of the claims Tucker Carlson is making here. They are 100% true.
+> "I have personal knowledge as to many of the claims Tucker (Tucker Carlson) is making here. They are 100% true."
 
 ## Verification
 

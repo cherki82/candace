@@ -94,7 +94,7 @@ _Type: Organizations_
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40): “Charlie publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40): “And Charlie (Charlie Kirk) publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover.”
 
 </details>
 
@@ -121,7 +121,7 @@ _Type: Organizations_
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40): “Charlie publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover”
+- [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40): “And Charlie (Charlie Kirk) publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover.”
 
 </details>
 

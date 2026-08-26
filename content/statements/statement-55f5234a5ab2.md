@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:20:22](/episodes/ep-sImMM04XdWY.md#t-00-19-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1222);return false;">Play</a>
 
-> From August 5th to the 6th, that's the notorious Hamptons retreat that took place. Charlie himself described it as an intervention, and Bill Ackman disputes that narrative. Seth Dillon disputes that narrative. Bibi offers to take Turning Point to the next level financially. Charlie declines that offer
+> From August 5th to the 6th, that's the notorious Hamptons retreat that took place. Charlie (Charlie Kirk) himself described it as an intervention, and Bill Ackman disputes that narrative. Seth Dillon disputes that narrative. Bibi (Benjamin Netanyahu) offers to take Turning Point to the next level financially.
 
 ## Verification
 

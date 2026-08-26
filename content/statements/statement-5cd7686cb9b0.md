@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:31:42](/episodes/ep-LATnak75Si0.md#t-00-31-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1902);return false;">Play</a>
 
-> Charlie was never rendered any first aid immediately. I know the security team. I know that one of them is supposed to administer first aid immediately. We don't see that happening.
+> Charlie (Charlie Kirk) was never rendered any first aid immediately. I know the security team. I know that one of them is supposed to administer first aid immediately. We don't see that happening.
 
 ## Verification
 

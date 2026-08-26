@@ -13,7 +13,7 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -82,12 +82,15 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about American Jewish Committee (2)</strong></summary>
+<summary><strong class="section-title">Statements about American Jewish Committee (3)</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3)</summary>
 
 - [00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) (Claim) **Tucker Carlson** (via quoted speech): ["The American Jewish Committee called Charlie Kirk an anti-Semite and '..."](/statements/statement-08bf483d695c.md)
+
+- [00:46:34](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) (Claim) **Tucker Carlson** (via quoted speech): ["The American Jewish Committee called Charlie Kirk an anti-Semite and d..."](/statements/statement-b1f4c6ad85fd.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:46:48](/episodes/ep-2WEHTk0Xewg.md#t-00-46-47) (Claim) **Tucker Carlson** (via quoted speech): ["The American Jewish Committee called Charlie Kirk an anti-Semite and d..."](/statements/statement-a95ec70f4a36.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

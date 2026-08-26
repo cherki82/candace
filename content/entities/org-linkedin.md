@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn"
-description: "LinkedIn (Organizations) - 18 mentions"
+description: "LinkedIn (Organizations) - 21 mentions"
 id: "org-linkedin"
 type: "ORG"
 categories:
@@ -17,12 +17,12 @@ _Type: Organizations_
 Source: [About LinkedIn](https://about.linkedin.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01">2026-01-19 · 00:07:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-39">2026-05-11 · 00:19:02</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42">2025-10-01 · 00:08:05</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-22-42">2026-07-14 · 00:22:42</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -31,6 +31,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41" style="--pulse-height:20%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
@@ -42,11 +43,13 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-linkedin-t-00-02-10" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-linkedin-t-00-52-23" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 5 mentions" title="2026-05-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-18-34" style="--pulse-height:40%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41) | 1 |
@@ -58,6 +61,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-linkedin-t-00-02-10) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-linkedin-t-00-52-23) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00) | 5 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-18-34) | 2 |
 
 </details>
 </section>
@@ -65,7 +69,18 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
+
+**[00:18:39](/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-18-34)**
+> "...May of 2025. According to his LinkedIn, he graduated from Ohio State University."
+
+**[00:22:42](/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-22-42)**
+> "...s cleaned the Internet of his LinkedIn, graduated from Arizona State University. Another..."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (5 mentions)</summary>
@@ -176,6 +191,14 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 </details>
 
+<details>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+
+**[00:08:05](/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42)**
+> "...and just outright deleted his LinkedIn page because I asked him a question before we eve..."
+
+</details>
+
 </details>
 
 <details open>
@@ -208,7 +231,15 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about LinkedIn (6)</strong></summary>
+<summary><strong class="section-title">Statements about LinkedIn (7)</strong></summary>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>
+
+- [00:18:39](/episodes/ep-X3VKJVJ7cN4.md#t-00-18-34) (Citation) **Candace Owens**: ["Owens said Danny Phillips was hired in May 2025 and, according to Link..."](/statements/statement-cf1f81a2c74b.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [The Ohio State University](/entities/org-ohio-state-university.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3)</summary>

@@ -23,11 +23,21 @@ type: "factual_claim"
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:28:05](/episodes/ep-aDlhjfW6hz8.md#t-00-27-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1685);return false;">Play</a>
+
+> For context, just so you can realize how odd this is: I spoke at Turning Point's conference—two conferences—last year.
+
+### 2. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+
+**Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
+**Timestamp:** [00:28:11](/episodes/ep-aDlhjfW6hz8.md#t-00-27-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1691);return false;">Play</a>
 
 > For context, just so you can realize how odd this is: I spoke at Turning Point's conference—two conferences—last year.
 

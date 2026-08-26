@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:02:59](/episodes/ep-_dRaEO47-co.md#t-00-02-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(179);return false;">Play</a>
 
-> here is how, and then I am going to probably take control of the RNC
+> He kind of scrawled and scribbled, and wrote that his structure is currently a 501(c)(3), and he's sitting there talking to me: “But here's what we can do in the future, and here's how, and then I'm going to probably take control of the RNC.”
 
 ## Verification
 

@@ -20,6 +20,7 @@ type: "factual_claim"
 
 ## About
 
+- [Daily Mail](/entities/org-daily-mail.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

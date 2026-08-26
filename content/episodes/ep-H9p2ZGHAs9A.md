@@ -1,14 +1,14 @@
 ---
 id: "H9p2ZGHAs9A"
 title: "EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310"
-description: "EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 - 94 entities, 7 events, 0 claims"
+description: "EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 - 94 entities, 7 events, 22 factual claims"
 published: "2026-03-11"
 youtube_url: "https://www.youtube.com/watch?v=H9p2ZGHAs9A"
 ---
 
 **Published:** 2026-03-11 | [Watch on YouTube](https://www.youtube.com/watch?v=H9p2ZGHAs9A)
 
-**Stats:** 94 entities | 7 events | 0 claims
+**Stats:** 94 entities | 7 events | 22 factual claims
 
 ---
 

@@ -100,7 +100,7 @@ Source: [Marjorie Taylor Greene | Office of the Clerk, U.S. House](https://clerk
 > "...n) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tucker (Tucker Carlson) talking about the appeal of Zohran Mamdani. Just by way of contrast, no..."
 
 **[00:06:51](/episodes/ep-r1PS67aRmcA.md#ent-person-marjorie-taylor-greene-t-00-06-42)**
-> "...Tucker Carlson) somehow supported Mamdani and said like nice things about him when he sat down with Marjorie Taylor Greene, here's actually what Tucker (Tucker Carlson) said with Marjorie Taylor Greene. And you be the judg..."
+> "But to the insinuation that Tucker (Tucker Carlson) somehow supported Mamdani (Zohran Mamdani) and said like nice things about him when he sat down with Marjorie Taylor Greene, here's actually what Tucker (Tucker Carlson) said with Marjorie Taylor Greene."
 
 </details>
 

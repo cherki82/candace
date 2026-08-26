@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:42:43](/episodes/ep-sreYYcID-QY.md#t-00-42-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2563);return false;">Play</a>
 
-> The Zionists started circling Charlie (Charlie Kirk) and trying to control things. This was actually in around September or whatever, and I was always very honest that Charlie (Charlie Kirk) and I had a conversation, and they were putting pressure on me. 'You can't talk to her. She's talking about Israel.'
+> This was actually in around September or whatever, and I was always very honest that Charlie (Charlie Kirk) and I had a conversation, and they were putting pressure on me. “You can't talk to her. She's talking about Israel.”
 
 ## Verification
 

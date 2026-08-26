@@ -1,6 +1,6 @@
 ---
 title: "Harley Pasternak"
-description: "Harley Pasternak (People) - 3 mentions"
+description: "Harley Pasternak (People) - 5 mentions"
 id: "person-harley-pasternak"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25">2025-09-19 · 00:15:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-harley-pasternak-t-00-40-19">2026-01-20 · 00:40:20</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-harley-pasternak-t-00-57-15">2026-07-16 · 00:57:15</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-harley-pasternak-t-00-40-19" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-harley-pasternak-t-00-56-39" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 |---|---|---:|
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-harley-pasternak-t-00-40-19) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-harley-pasternak-t-00-56-39) | 2 |
 
 </details>
 </section>
@@ -47,7 +49,18 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
+
+**[00:57:05](/episodes/ep-mLvJqdxS-FY.md#ent-person-harley-pasternak-t-00-56-39)**
+> "This gets into what Harley (Harley Pasternak), blanking on his last name, did to Kanye (Kanye ..."
+
+**[00:57:15](/episodes/ep-mLvJqdxS-FY.md#ent-person-harley-pasternak-t-00-57-15)**
+> "...u need you need sleep because Harley Pasternak, your gym trainer says so."
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>

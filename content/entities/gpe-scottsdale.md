@@ -27,7 +27,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <div><span>Episodes</span><strong>21</strong></div>
 <div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -545,7 +545,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Scottsdale, Arizona (15)</strong></summary>
+<summary><strong class="section-title">Statements about Scottsdale, Arizona (17)</strong></summary>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
@@ -613,7 +613,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4)</summary>
 
 - [00:12:04](/episodes/ep-Kmt6HgRjckU.md#t-00-11-24) (Claim) **Candace Owens**: ["Pierre Falcone lives in Scottsdale, Arizona and is a billionaire"](/statements/statement-8ee090060b24.md)
   - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md)
@@ -624,13 +624,19 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 - [00:17:43](/episodes/ep-Kmt6HgRjckU.md#t-00-17-32) (Claim) **Candace Owens**: ["Pierre Falcone disappeared from France after winning his appeal and re..."](/statements/statement-369784a0dc5c.md)
   - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md)
 
+- [00:17:43](/episodes/ep-Kmt6HgRjckU.md#t-00-17-32) (Claim) **Candace Owens**: ["Owens said Pierre Falcone reappeared in Scottsdale after leaving Franc..."](/statements/statement-c0f9aad35580.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
+
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3)</summary>
 
 - [00:05:47](/episodes/ep-JQjCAsfoXEE.md#t-00-05-44) (Claim) **Candace Owens**: ["On September 10th, flight N560TW departed Scottsdale for Provo at 10:0..."](/statements/statement-c9cb25ecf21d.md)
   - Also about: [Provo](/entities/gpe-provo.md)
+
+- [00:26:14](/episodes/ep-JQjCAsfoXEE.md#t-00-25-34) (Claim) **Candace Owens**: ["Flight N560TW departed Scottsdale, Arizona on the morning of September..."](/statements/statement-79fcbaf25dca.md)
+  - Also about: [September 10th](/entities/date-september-10th.md), [Provo](/entities/gpe-provo.md), [Santa Barbara](/entities/gpe-santa-barbara.md)
 
 - [00:26:27](/episodes/ep-JQjCAsfoXEE.md#t-00-26-14) (Claim) **Candace Owens**: ["A plane with tail number N560TW departed Scottsdale on September 10th ..."](/statements/statement-d3981124cc21.md)
   - Also about: [Provo](/entities/gpe-provo.md)

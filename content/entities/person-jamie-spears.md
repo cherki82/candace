@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -78,10 +78,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jamie Spears (9)</strong></summary>
+<summary><strong class="section-title">Statements about Jamie Spears (8)</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (9)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8)</summary>
 
 - [00:07:31](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) (Claim) **Brett Cooper** (via quoted speech): ["Jamie Spears Sr. had filed for bankruptcy multiple times, and Lou Tayl..."](/statements/statement-bbd02df2ff7f.md)
   - Also about: [Lou Taylor](/entities/person-lou-taylor.md), [Britney Spears](/entities/person-britney-spears.md)
@@ -101,11 +101,8 @@ _Type: People_
 - [00:08:21](/episodes/ep-7RLtGgkTh9o.md#t-00-08-11) (Claim) **Brett Cooper** (via quoted speech): ["Tristar (Lou Taylor's company) was hired to serve as the Circus tour's..."](/statements/statement-63cd62fcf8da.md)
   - Also about: [Tristar](/entities/org-tristar.md), [Lou Taylor](/entities/person-lou-taylor.md)
 
-- [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-10-43) (Claim) **Brett Cooper** (via quoted speech): ["According to financial documents in the public domain, Jamie Spears Sr..."](/statements/statement-d6a45b1203c0.md)
-  - Also about: [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Lou Taylor](/entities/person-lou-taylor.md)
-
-- [00:11:45](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) (Claim) **Brett Cooper** (via quoted speech): ["Jamie Spears gave 10 percent of his conservatorship income to Calvary ..."](/statements/statement-2f38c392731f.md)
-  - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md), [Lou Taylor](/entities/person-lou-taylor.md)
+- [00:11:28](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) (Claim) **Brett Cooper** (via quoted speech): ["According to financial documents in the public domain, Jamie Spears Sr..."](/statements/statement-d6a45b1203c0.md)
+  - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md), [Calvary Chapel Brentwood](/entities/org-calvary-chapel-brentwood.md), [Lou Taylor](/entities/person-lou-taylor.md)
 
 - [00:11:58](/episodes/ep-7RLtGgkTh9o.md#t-00-11-28) (Claim) **Brett Cooper** (via quoted speech): ["Jamie Spears gave tens of thousands of dollars in one year to the chur..."](/statements/statement-97a53ddf7e20.md)
 

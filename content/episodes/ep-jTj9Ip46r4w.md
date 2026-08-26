@@ -1,14 +1,14 @@
 ---
 id: "jTj9Ip46r4w"
 title: "Bride Of Charlie: The Ties That Bind | Episode 4"
-description: "Bride Of Charlie: The Ties That Bind | Episode 4 - 127 entities, 21 events, 0 claims"
+description: "Bride Of Charlie: The Ties That Bind | Episode 4 - 127 entities, 21 events, 23 factual claims"
 published: "2026-03-02"
 youtube_url: "https://www.youtube.com/watch?v=jTj9Ip46r4w"
 ---
 
 **Published:** 2026-03-02 | [Watch on YouTube](https://www.youtube.com/watch?v=jTj9Ip46r4w)
 
-**Stats:** 127 entities | 21 events | 0 claims
+**Stats:** 127 entities | 21 events | 23 factual claims
 
 ---
 

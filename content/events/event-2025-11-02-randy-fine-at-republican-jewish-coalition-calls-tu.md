@@ -11,7 +11,7 @@ date: "2025-11-02"
 
 > Randy Fine at Republican Jewish Coalition calls Tucker Carlson dangerous anti-Semite, not MAGA.
 
-## Mentioned In (60 times)
+## Mentioned In (39 times)
 
 ### 1. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
@@ -21,15 +21,7 @@ date: "2025-11-02"
 
 > All right, you guys. Happy Monday. MAGA civil war—at least that's what they are trying to brand it as. They say that's what's going on. But really, we all know it's more like Never Trumpers have now i
 
-### 2. Ben Shapiro Is Crying Again. | Candace Ep 261
-
-**Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:04:12](/episodes/ep-r1PS67aRmcA.md#t-00-03-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(252);return false;">▶️ Play</a>
-
-> had a nice conversation on the day that Charlie died, and Tucker then sent a nice text because Ben had called him. And I guess Be
-
-### 3. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 2. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:00:36](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-11-02-randy-fine-at-republican-jewish-coalition-calls-tu-t-00-00-00) 
@@ -37,7 +29,7 @@ date: "2025-11-02"
 
 > ith the Lindsey Graham shade, which he threw at American voters. So what happened was he was on stage at the Republican Jewish Coalition. He and many others, by
 
-### 4. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 3. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:10:02](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-11-02-randy-fine-at-republican-jewish-coalition-calls-tu-t-00-00-00) 
@@ -45,7 +37,7 @@ date: "2025-11-02"
 
 > Ben Shapiro: You see, Tucker Carlson a few weeks back had on
 
-### 5. They Are Lying About Charlie Kirk. | Candace Ep 235
+### 4. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:13:18](/episodes/ep-czVBmqZP6Ss.md#t-00-12-57) 
@@ -53,23 +45,7 @@ date: "2025-11-02"
 
 > and many of them pertaining to Tucker and Candace, but Tucke
 
-### 6. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
-
-**Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:00:36](/episodes/ep-adJ4LNGp84I.md#t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(36);return false;">▶️ Play</a>
-
-> and Tucker, of course, Candace and Tucker. It is so bonkers. I got to show you what they are saying to her. Befo
-
-### 7. Ben Shapiro Is Crying Again. | Candace Ep 261
-
-**Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:03:02](/episodes/ep-r1PS67aRmcA.md#t-00-02-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(182);return false;">▶️ Play</a>
-
-> . I'm gonna make her disavow me, make her disavow Candace Owens, I'm gonna make her disavow Tucker by putting her on the spot and askin
-
-### 8. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+### 5. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 **Timestamp:** [00:00:34](/episodes/ep-sImMM04XdWY.md#t-00-00-01) 
@@ -77,15 +53,7 @@ date: "2025-11-02"
 
 > with the DEA. I mean, that's weird. So what does France have to do with it, right? What does Tucker have to do with it? Rationally, when I
 
-### 9. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
-
-**Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:00:47](/episodes/ep-iHav0PPzUz8.md#t-00-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(47);return false;">▶️ Play</a>
-
-> er gets canceled from all future Turning Point USA conferences. And you're never going to guess how they're trying to spin this. Well, you probably wi
-
-### 10. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 6. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:07:07](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-11-02-randy-fine-at-republican-jewish-coalition-calls-tu-t-00-00-00) 
@@ -93,7 +61,7 @@ date: "2025-11-02"
 
 > cker Carlson to be gone, no longer allowed on the Turning Point USA stage because Tucker is the natural heir to the populist movement. And they want h
 
-### 11. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 7. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:32:06](/episodes/ep-sreYYcID-QY.md#t-00-31-58) 
@@ -101,7 +69,7 @@ date: "2025-11-02"
 
 > Netanyahu murdered Charlie. Tucker never said that. Megyn Ke
 
-### 12. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 8. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:34:09](/episodes/ep-aDlhjfW6hz8.md#t-00-33-27) 
@@ -109,15 +77,7 @@ date: "2025-11-02"
 
 > f this year— "It totally is." Okay. Me and Megyn and Tucker are not lying to you. Charlie was concerned about the speech that he f
 
-### 13. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
-
-**Episode:** [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
-**Timestamp:** [01:00:02](/episodes/ep-pc3pxRyNFZk.md#t-00-59-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3602);return false;">▶️ Play</a>
-
-> many pastors—"get up on a stage and preach about Megyn Kelly and Tucker Carlson?" That is leading to broader questions. And I thi
-
-### 14. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+### 9. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 **Timestamp:** [00:13:25](/episodes/ep-sImMM04XdWY.md#t-00-13-11) 
@@ -125,23 +85,7 @@ date: "2025-11-02"
 
 > cker to go max: call out Israel, Jeffrey Epstein, just go max. And guess what? Tucker really did go max. I want to actually play fo
 
-### 15. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
-
-**Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:38:58](/episodes/ep-581dILVcEE4.md#t-00-38-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2338);return false;">▶️ Play</a>
-
-> ns from the audience about—you guessed it—Tucker and Candace. Take it away, Israel. We see
-
-### 16. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
-
-**Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:24:13](/episodes/ep-YaZfwLQ7vrI.md#t-00-23-28) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1453);return false;">▶️ Play</a>
-
-> on stages and tell you to stop following Tucker Carlson are working on behalf of the Lord, okay? I don't think that's the case. I think these peop
-
-### 17. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+### 10. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:37:11](/episodes/ep-2WEHTk0Xewg.md#t-00-36-35) 
@@ -149,7 +93,7 @@ date: "2025-11-02"
 
 > I'm going to show you some stuff. I mean, Tucker completely destroyed the Benjamin Netanyahu narrative. Megyn Kelly, Dave Smit
 
-### 18. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 11. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:31:58](/episodes/ep-sreYYcID-QY.md#t-00-31-15) 
@@ -157,7 +101,7 @@ date: "2025-11-02"
 
 > Netanyahu murdered Charlie. Tucker never said that. Megyn Ke
 
-### 19. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+### 12. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 **Timestamp:** [00:03:31](/episodes/ep-sImMM04XdWY.md#t-00-03-29) 
@@ -165,7 +109,7 @@ date: "2025-11-02"
 
 > me that there was a list and that me and Tucker Carlson were on it and that we had to lay low, but he never told me who told him that. I never got
 
-### 20. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
+### 13. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:04:33](/episodes/ep-5autG89PW6w.md#t-00-04-11) 
@@ -173,7 +117,7 @@ date: "2025-11-02"
 
 > cer Conrad Flynn that recently went on to Tucker's show, and he discussed that phenomenon in the context of the persecution of Christ. He's talking
 
-### 21. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
+### 14. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 **Timestamp:** [00:03:55](/episodes/ep-vwG1juDCQZQ.md#t-00-03-35) 
@@ -181,15 +125,7 @@ date: "2025-11-02"
 
 > ank you so much. You are here in my book. Tucker, I don't know. I feel like I should thank you because a lot happened because people thought that w
 
-### 22. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
-
-**Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:28:06](/episodes/ep-yAIb-NuUh_U.md#t-00-27-59) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1686);return false;">▶️ Play</a>
-
-> re all saying the same thing about me and Tucker—they were the number one offenders. I am not kidding. You start to ask yourself, what is guiding t
-
-### 23. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 15. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:01:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-40) 
@@ -197,7 +133,7 @@ date: "2025-11-02"
 
 > ce of what Charlie said to Tucker backstage at the Student Action Summit in July. We're gonna get to that. Also, do you guys remembe
 
-### 24. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 16. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:02:14](/episodes/ep-ja26iltROkM.md#t-00-02-10) 
@@ -205,7 +141,7 @@ date: "2025-11-02"
 
 > they should watch that speech. They should watch Tucker Carlson's speech. I don't think even showing you clips of it—I'm gonna show you one—could
 
-### 25. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+### 17. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [00:40:36](/episodes/ep-q7f8r-THr84.md#t-00-40-20) 
@@ -213,7 +149,7 @@ date: "2025-11-02"
 
 > were on stage at America Fest—Dave Smith, Tucker. That is reality, my friends. Again, want those people to know your money means nothing to me. I a
 
-### 26. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 18. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:00:22](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-11-02-randy-fine-at-republican-jewish-coalition-calls-tu-t-00-00-00) 
@@ -221,7 +157,7 @@ date: "2025-11-02"
 
 > and chose violence. He put me in his anti-Tucker montage monologue. We'll see what he had to say in a little bit. And it just so happens to be exac
 
-### 27. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
+### 19. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:03:58](/episodes/ep-Qfwr08Ebczo.md#t-00-03-25) 
@@ -229,7 +165,7 @@ date: "2025-11-02"
 
 > how strange it would be if on this show, every time I cover
 
-### 28. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 20. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:16:20](/episodes/ep-a-e7HC6SeK8.md#t-00-16-11) 
@@ -237,7 +173,7 @@ date: "2025-11-02"
 
 > timeline, beginning with the inflection point, which was tha
 
-### 29. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+### 21. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:24:17](/episodes/ep-JQjCAsfoXEE.md#t-00-24-14) 
@@ -245,31 +181,7 @@ date: "2025-11-02"
 
 > here was a credible threat against me and Tucker. Specifically, you told me that me and Tucker were on a list and that you were ju
 
-### 30. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
-
-**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
-**Timestamp:** [00:48:15](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2895);return false;">▶️ Play</a>
-
-> lonely. No, I think she's very close with Tucker. I do think she has a group of friends. How many more can you name, though? Other than Tucker, gen
-
-### 31. INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Ca...
-
-**Episode:** [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md)
-**Timestamp:** [00:31:42](/episodes/ep-YFmRH8p5lt0.md#t-00-31-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1902);return false;">▶️ Play</a>
-
-> back to that. Let me just get through this. Okay, so we have
-
-### 32. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
-
-**Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:38:27](/episodes/ep-YA1FxrDWNIo.md#t-00-38-04) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2307);return false;">▶️ Play</a>
-
-> of—what— become Candace Owens and Tucker Carlson at Turning Point USA—with all of those presences, so much presence across college
-
-### 33. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 22. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:03:02](/episodes/ep-2Riv3I7D0Yk.md#t-00-02-54) 
@@ -277,7 +189,7 @@ date: "2025-11-02"
 
 > this letter a few months ago, and I read it at that time. Tu
 
-### 34. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 23. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:09:05](/episodes/ep-LATnak75Si0.md#t-00-08-28) 
@@ -285,23 +197,7 @@ date: "2025-11-02"
 
 > think that he would want us to be mad at Tucker Carlson and that he would want us to stop speaking about his murder and to instead unite and to ge
 
-### 35. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
-
-**Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
-**Timestamp:** [00:13:19](/episodes/ep-mKXdKV-OBog.md#t-00-12-57) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(799);return false;">▶️ Play</a>
-
-> correction: I think yesterday I said that Tucker spoke on July 18th; he actually spoke on July 11th. I just kind of copy-and-pasted that wrong, so
-
-### 36. TPUSA Wants Us To Stop Asking Questions About 9/10?! | Canda...
-
-**Episode:** [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
-**Timestamp:** [00:16:50](/episodes/ep-ozWJz2spBcI.md#t-00-16-33) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1010);return false;">▶️ Play</a>
-
-> huge Jewish donor—two million a year—because we won't cancel
-
-### 37. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 24. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:35:48](/episodes/ep-UBkFkg4UNY8.md#t-00-35-39) 
@@ -309,7 +205,7 @@ date: "2025-11-02"
 
 > 150 million, or I didn't say the number. Tucker didn't. I don't know where the 150 million number came from. If I'm being honest, I said 150 milli
 
-### 38. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 25. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:34:12](/episodes/ep-aDlhjfW6hz8.md#t-00-33-27) 
@@ -317,7 +213,7 @@ date: "2025-11-02"
 
 > year— "It totally is." Okay. Me and Megyn and Tucker are not
 
-### 39. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 26. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:35:55](/episodes/ep-UBkFkg4UNY8.md#t-00-35-39) 
@@ -325,7 +221,7 @@ date: "2025-11-02"
 
 > 150 million, or I didn't say the number. Tucker didn't. I don't know where the 150 million number came from. If I'm being honest, I said 150 milli
 
-### 40. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+### 27. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:43:13](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) 
@@ -333,7 +229,7 @@ date: "2025-11-02"
 
 > stuff. I mean, Tucker completely destroyed the Benjamin Neta
 
-### 41. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 28. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:00:18](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-11-02-randy-fine-at-republican-jewish-coalition-calls-tu-t-00-00-00) 
@@ -341,7 +237,7 @@ date: "2025-11-02"
 
 > ictate the terms like we didn't notice. Randomly, Ben Shapiro apparently woke up this morning and chose violence. He put me in his anti-Tucker m
 
-### 42. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 29. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:45:18](/episodes/ep-sreYYcID-QY.md#t-00-45-07) 
@@ -349,7 +245,7 @@ date: "2025-11-02"
 
 > e. I was not invited to speak alongside President Donald Trump and JD Vance on the stage with Tucker at a memorial event. What doe
 
-### 43. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 30. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:04:51](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-11-02-randy-fine-at-republican-jewish-coalition-calls-tu-t-00-00-00) 
@@ -357,7 +253,7 @@ date: "2025-11-02"
 
 > of Israel, to defend Hamas, to even criticize President Trum
 
-### 44. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 31. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:45:19](/episodes/ep-sreYYcID-QY.md#t-00-45-07) 
@@ -365,15 +261,7 @@ date: "2025-11-02"
 
 > right. You got me. I was not invited to speak alongside Pres
 
-### 45. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
-
-**Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:38:20](/episodes/ep-YaZfwLQ7vrI.md#t-00-37-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2300);return false;">▶️ Play</a>
-
-> people are going to be on the run. Anyways, the oddest respo
-
-### 46. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
+### 32. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:16:45](/episodes/ep-Qfwr08Ebczo.md#t-00-16-17) 
@@ -381,7 +269,7 @@ date: "2025-11-02"
 
 > that Tucker Carlson gave where he calls out Bill Ackman. He
 
-### 47. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+### 33. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [00:40:54](/episodes/ep-q7f8r-THr84.md#t-00-40-20) 
@@ -389,7 +277,7 @@ date: "2025-11-02"
 
 > cast to people that were on stage at America Fest—Dave Smith, Tucker. That is reality, my friends. Again, want those people to know your money
 
-### 48. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
+### 34. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:32:39](/episodes/ep-Qfwr08Ebczo.md#t-00-32-18) 
@@ -397,15 +285,7 @@ date: "2025-11-02"
 
 > together. Tucker Carlson joined Dave Smith. I kind of want t
 
-### 49. BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. |...
-
-**Episode:** [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
-**Timestamp:** [00:29:34](/episodes/ep-iHav0PPzUz8.md#t-00-29-27) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1774);return false;">▶️ Play</a>
-
-> ker—in case you missed it—hosted Nick Fuentes on his show. And to be clear, I've hosted Nick Fuentes on my show. I don't like Nick Fuentes, and t
-
-### 50. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 35. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:07:28](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-11-02-randy-fine-at-republican-jewish-coalition-calls-tu-t-00-00-00) 
@@ -413,7 +293,7 @@ date: "2025-11-02"
 
 > So recently, Tucker interviewed Nick Fuentes. The reason he did that, I've heard, is because it happens to be a free country, and it's his platf
 
-### 51. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 36. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:16:31](/episodes/ep-a-e7HC6SeK8.md#t-00-16-11) 
@@ -421,7 +301,7 @@ date: "2025-11-02"
 
 > which was that Tucker speech. Now, I want to say this. On th
 
-### 52. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 37. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:01:30](/episodes/ep-K1tFD7FfoCU.md#event-event-2025-11-02-randy-fine-at-republican-jewish-coalition-calls-tu-t-00-00-00) 
@@ -429,7 +309,7 @@ date: "2025-11-02"
 
 > ters. So what happened was he was on stage at the Republican Jewish Coalition. He and many others, by the way—many other treasonous congressmen—basically directed their fire and
 
-### 53. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 38. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:18:27](/episodes/ep-LATnak75Si0.md#t-00-17-51) 
@@ -437,58 +317,10 @@ date: "2025-11-02"
 
 > na let you listen to what Brett Cooper said about Randy Fine. And let me know if you're just so offended that you think that she needs to be canceled and destro
 
-### 54. Ben Shapiro Is Crying Again. | Candace Ep 261
-
-**Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:06:42](/episodes/ep-r1PS67aRmcA.md#t-00-05-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(402);return false;">▶️ Play</a>
-
-> sibility. Tucker doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very strange
-
-### 55. Ben Shapiro Is Crying Again. | Candace Ep 261
-
-**Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(330);return false;">▶️ Play</a>
-
-> on his show is once. And it was in the context of Marjorie Taylor Greene and Tucker talking about the appeal of Zohran Mamdani. Just by way of contrast, no
-
-### 56. Ben Shapiro Is Crying Again. | Candace Ep 261
-
-**Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(323);return false;">▶️ Play</a>
-
-> times that Tucker has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tuck
-
-### 57. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+### 39. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:51:08](/episodes/ep-2WEHTk0Xewg.md#t-00-50-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3068);return false;">▶️ Play</a>
 
 > Netanyahu." It's wrong, and we have to stand up to that narr
-
-### 58. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
-
-**Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:46:56](/episodes/ep-581dILVcEE4.md#t-00-46-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2816);return false;">▶️ Play</a>
-
-> ion dollars because of the Tucker speech. That woman was Joyce Chernick. Joyce Chernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a variety of pro
-
-### 59. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
-
-**Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:46:52](/episodes/ep-581dILVcEE4.md#t-00-46-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2812);return false;">▶️ Play</a>
-
-> Charlie said to Tucker. I told you about a woman who yelled
-
-### 60. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
-
-**Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
-**Timestamp:** [00:48:34](/episodes/ep-tB5SXXmd9vU.md#t-00-48-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2914);return false;">▶️ Play</a>
-
-> a name. No, she's got a lot of them. I'm sure that there's a Twitter army out there, but what famous names, advocates, are saying, I'm with Candace. Tucker, maybe? Who

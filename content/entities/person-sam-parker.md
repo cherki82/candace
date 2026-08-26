@@ -95,7 +95,7 @@ Source: [Sam Parker (@BasedSamParker) / X](https://x.com/BasedSamParker)
 <summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
 
 **[00:07:57](/episodes/ep-c5BcKF91iec.md#ent-person-sam-parker-t-00-07-38)**
-> "...arder for him, fighting harder for truth. And it is, in fact, thanks to people on the internet like Sam Parker, James Lee, Ian Carroll (Ian Carroll), Zeb Boykin, many others. And a video from September 10th has..."
+> "...o people on the internet like Sam Parker, James Lee, Ian Carroll, Zeb Boykin, many others."
 
 </details>
 

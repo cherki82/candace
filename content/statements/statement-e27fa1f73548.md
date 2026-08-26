@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:40:18](/episodes/ep-ZAuuSq_j2_w.md#t-00-40-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2418);return false;">Play</a>
 
-> Also Tyler Bowyer—fun little update—sends a text or something. They're all just so insincere. I don't know—sent an email and was like, 'What's your lawyer's email?' What do you mean, 'What is my lawyer's email?' You guys have my lawyer's email. We were in communication two days ago, right?
+> Also Tyler Bowyer—fun little update—sends a text or something. They're all just so insincere. I don't know—sent an email and was like, "What's your lawyer's email?" What do you mean, "What is my lawyer's email?" You guys have my lawyer's email. We were in communication two days ago, right?
 
 ## Verification
 

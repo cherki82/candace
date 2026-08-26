@@ -42,7 +42,7 @@ _Type: People_
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
 
 **[00:01:29](/episodes/ep-mKXdKV-OBog.md#ent-person-milton-friedman-t-00-01-28)**
-> "...—I already know this; you kind of retouched on this—your all-time favorite historical figure? Is it Milton Friedman, or is there someone else? Jesus Christ? Yeah, I would say—I gotta always say—Jesus Christ, probabl..."
+> "(Clip from past interview with Charlie Kirk) Okay, who is—I already know this; you kind of retouched on this—your all-time favorite historical figure? Is it Milton Friedman, or is there someone else?"
 
 </details>
 

@@ -110,6 +110,11 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 <summary>Part Of (1)</summary>
 
 - **[Utah Valley University](/entities/org-utah-valley-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:25:18](/episodes/ep-581dILVcEE4.md#t-00-25-08): “"There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center."”
+
+</details>
 
 </details>
 
@@ -117,6 +122,11 @@ Source: [Sorensen Student Center | Utah Valley University](https://www.uvu.edu/s
 <summary>Referenced By (1)</summary>
 
 - **[Utah Valley University](/entities/org-utah-valley-university.md)** includes this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:25:18](/episodes/ep-581dILVcEE4.md#t-00-25-08): “"There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center."”
+
+</details>
 
 </details>
 

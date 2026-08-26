@@ -4,9 +4,10 @@ description: "\"Candace Owens said testimony showed Lance Twiggs's prints were o
 statement_id: "statement-40e48c22d0eb"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Hearing testimony supports inclusion of Twiggs’s DNA on parts of the Dremel and other evidence, and current reporting documents Twiggs-linked DNA on the towel. Owens repeatedly called this prints, but the testimony concerned DNA profiles, not fingerprints, and the record does not support her sweeping formulation that his prints were on the towel, gun, and Dremel. The statement is partly supported but materially imprecise.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 5](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5)
+
+*Verified: 2026-08-26T08:01:21.986815*
 
 ---
 

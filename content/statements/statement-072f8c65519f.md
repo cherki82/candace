@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:56:51](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3411);return false;">Play</a>
 
-> Charlie Kirk was my friend, and I was his pastor. I want to simply say this regarding Candace Owens. Charlie Kirk was a friend to Candace Owens and never publicly spoke poorly of her, though he disagreed with her. He never operated nor entertained gossip or innuendo concerning Candace Owens. My only comment I offer regarding Candace Owens is this. I only wish at this tragic time of mourning she would be the friend to Charlie Kirk that he was to her.
+> Rob McCoy. He wrote: "Charlie (Charlie Kirk) was my friend, and I was his pastor. I want to simply say this regarding Candace (Candace Owens). Charlie (Charlie Kirk) was a friend to Candace (Candace Owens) and never publicly spoke poorly of her, though he disagreed with her. He never operated nor entertained gossip or innuendo concerning Candace (Candace Owens). My only comment I offer regarding Candace (Candace Owens) is this. I only wish at this tragic time of mourning she would be the friend to Charlie (Charlie Kirk) that he was to her.
 
 ## Verification
 

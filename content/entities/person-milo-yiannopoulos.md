@@ -25,8 +25,8 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-milo-yiannopoulos-t-00-28-22">2026-05-07 · 00:28:30</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>22</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -354,7 +354,7 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Milo Yiannopoulos (5)</strong></summary>
+<summary><strong class="section-title">Statements by Milo Yiannopoulos (6)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2)</summary>
@@ -376,7 +376,7 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3)</summary>
 
 - [00:26:03](/episodes/ep-Kmt6HgRjckU.md#t-00-26-01) [○] (Claim) ["Steve Bannon consulted for Jeffrey Epstein"](/statements/statement-4e193801261d.md)
   - About: [Steve Bannon](/entities/person-steve-bannon.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
@@ -384,12 +384,15 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 - [00:27:28](/episodes/ep-Kmt6HgRjckU.md#t-00-26-53) [○] (Opinion) ["The moment Trump said there are no Epstein files and told people to stop asking,..."](/statements/statement-ff3443878be5.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
+- [00:27:41](/episodes/ep-Kmt6HgRjckU.md#t-00-27-36) [✓] (Claim) ["Milo Yiannopoulos said the moment Trumpism died was when Trump dismissed questio..."](/statements/statement-ee6c5c698b51.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Milo Yiannopoulos (4)</strong></summary>
+<summary><strong class="section-title">Statements about Milo Yiannopoulos (5)</strong></summary>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
@@ -420,6 +423,14 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 
 - [00:03:10](/episodes/ep-6DhWawD4ZiM.md#t-00-02-53) (Claim) **Candace Owens**: ["Milo Yiannopoulos and others assert with absolute certainty that Charl..."](/statements/statement-b837814f2afd.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:27:41](/episodes/ep-Kmt6HgRjckU.md#t-00-27-36) (Claim) **Milo Yiannopoulos** (via quoted speech): ["Milo Yiannopoulos said the moment Trumpism died was when Trump dismiss..."](/statements/statement-ee6c5c698b51.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>
 

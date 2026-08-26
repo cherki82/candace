@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 157 mentions"
+description: "Pure Talk (Organizations) - 169 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-47">2025-09-15 · 00:55:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-pure-talk-t-00-31-51">2026-06-26 · 00:32:27</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>157</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-30-08">2026-07-20 · 00:30:13</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>169</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -68,6 +68,8 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-pure-talk-t-00-20-12" style="--pulse-height:86%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 6 mentions" title="2026-06-11 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-pure-talk-t-00-30-04" style="--pulse-height:86%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 6 mentions" title="2026-06-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-pure-talk-t-00-31-12" style="--pulse-height:71%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43" style="--pulse-height:86%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27" style="--pulse-height:86%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +106,8 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-pure-talk-t-00-20-12) | 6 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-pure-talk-t-00-30-04) | 6 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-pure-talk-t-00-31-12) | 5 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43) | 6 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27) | 6 |
 
 </details>
 </section>
@@ -111,7 +115,53 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (157)</strong></summary>
+<summary><strong class="section-title">Raw mentions (169)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (6 mentions)</summary>
+
+**[00:29:27](/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27)**
+> "Again, that's twc.health slash Candace. Kits are available for U.S. residents only. I also want to remind you guys about PureTalk because you do not have to overpay for your wireless network."
+
+**[00:29:37](/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27)**
+> "That's when PureTalk comes in with the same service for a tiny fractio..."
+
+**[00:29:47](/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27)**
+> "...er been a better time to take PureTalk for a test drive. It's fast, it's reliable, and y..."
+
+**[00:29:53](/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27)**
+> "You can now get any PureTalk plan, including their unlimited data plans and ev..."
+
+**[00:30:08](/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-30-08)**
+> "Switch to PureTalk and enjoy your first three months of talk, text, ..."
+
+**[00:30:13](/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-30-08)**
+> "Head to puretalk.com slash Owens to make the switch to PureTalk. A..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (6 mentions)</summary>
+
+**[00:25:03](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43)**
+> "tell you guys about PureTalk"
+
+**[00:25:08](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43)**
+> "Not when PureTalk comes in with the same service for a tiny fractio..."
+
+**[00:25:18](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43)**
+> "...er been a better time to take PureTalk for a test drive. It's fast. It's reliable. You a..."
+
+**[00:25:24](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-25-24)**
+> "Any PureTalk plan, including their unlimited data plans and ev..."
+
+**[00:25:31](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-25-24)**
+> "...remely short-lived. Switch to Pure Talk and enjoy your first three months of talk, text, ..."
+
+**[00:25:43](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-25-24)**
+> "...h Owens to make the switch to Pure Talk. Again, that's puretalk.com slash Owens to start ..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (5 mentions)</summary>
@@ -668,7 +718,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (7 mentions)</summary>
 
 **[00:52:51](/episodes/ep-ozWJz2spBcI.md#ent-org-pure-talk-t-00-52-25)**
-> "First, I want to tell you guys about PureTalk. And that's a principle that PureTalk proudly supports."
+> "First, I want to tell you guys about PureTalk."
 
 **[00:53:02](/episodes/ep-ozWJz2spBcI.md#ent-org-pure-talk-t-00-52-25)**
 > "And that's a principle that PureTalk proudly supports."
@@ -760,7 +810,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -770,6 +820,8 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:28:06](/episodes/ep-1mYNOqzAdXs.md#t-00-27-54): “Also telling you guys about Pure Talk because they were one of the first companies that I ever endorsed almost five years ago.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:27:18](/episodes/ep-xi8SYJTUXPM.md#t-00-27-18): “PureTalk's U.S.-based customer support team is available whenever you need assistance. To get started, visit puretalk.com slash Owens and take advantage of unlimited high-speed data for just $34.99 per month.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:31:30](/episodes/ep-IqHsl7d2dos.md#t-00-31-12): “Again, that's balanceofnature.com with code Candace at checkout. I also want to tell you guys about Pure Talk because America does not stand for 250 years as a beacon of hope without the brave men and women that are willing to put their lives on the line to defend her.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:25:03](/episodes/ep-puuMVxEu5NU.md#t-00-24-43): “I also want to tell you guys about PureTalk because you do not have to overpay for your wireless network.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:29:37](/episodes/ep-N4uM8Jdr410.md#t-00-29-27): “That's when PureTalk comes in with the same service for a tiny fraction of the cost. And now, for the first time ever, PureTalk is offering any plan at just 5 a month for your first three months. There's never been a better time to switch.”
 
 </details>
 
@@ -808,7 +860,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -818,6 +870,8 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:28:06](/episodes/ep-1mYNOqzAdXs.md#t-00-27-54): “Also telling you guys about Pure Talk because they were one of the first companies that I ever endorsed almost five years ago.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:27:18](/episodes/ep-xi8SYJTUXPM.md#t-00-27-18): “PureTalk's U.S.-based customer support team is available whenever you need assistance. To get started, visit puretalk.com slash Owens and take advantage of unlimited high-speed data for just $34.99 per month.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:31:30](/episodes/ep-IqHsl7d2dos.md#t-00-31-12): “Again, that's balanceofnature.com with code Candace at checkout. I also want to tell you guys about Pure Talk because America does not stand for 250 years as a beacon of hope without the brave men and women that are willing to put their lives on the line to defend her.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:25:03](/episodes/ep-puuMVxEu5NU.md#t-00-24-43): “I also want to tell you guys about PureTalk because you do not have to overpay for your wireless network.”
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:29:37](/episodes/ep-N4uM8Jdr410.md#t-00-29-27): “That's when PureTalk comes in with the same service for a tiny fraction of the cost. And now, for the first time ever, PureTalk is offering any plan at just 5 a month for your first three months. There's never been a better time to switch.”
 
 </details>
 
@@ -846,6 +900,19 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:30:48](/episodes/ep-3QJqtW_NOSI.md#t-00-30-48): “Pure Talk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Pure Talk (1)</strong></summary>
+
+<details>
+<summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
+
+- [00:47:44](/episodes/ep-w1oqQbR_bYs.md#t-00-47-24) (Claim) **Candace Owens**: ["PureTalk and its customers contributed more than half a million dollar..."](/statements/statement-2b2f04406ddd.md)
+  - Also about: [America's Warrior Partnership](/entities/org-americas-warrior-partnership.md)
 
 </details>
 

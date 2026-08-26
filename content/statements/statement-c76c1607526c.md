@@ -4,9 +4,10 @@ description: "\"Allie Beth Stuckey said Tyler Robinson's parents identified him 
 statement_id: "statement-c76c1607526c"
 speaker: "Allie Beth Stuckey"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Current official and news records say Robinson’s mother recognized him in released images, his father agreed, and Robinson then surrendered after his parents and a family friend persuaded and accompanied him. This verifies the sequence without treating any allegation as proof of guilt.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Utah County Attorney charging Criminal Information in State v. Robinson](https://atty.utahcounty.gov/cms/uploads/TJR_Information_49872215e3.pdf)
+
+*Verified: 2026-08-26T08:00:33.525652*
 
 ---
 

@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
@@ -20,6 +20,10 @@ object: "person-blake-neff"
 **[A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0)**
 
 - [00:55:26](/episodes/ep-G3zdOeHpvS0#t-00-55-26): _the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff_
+
+**[COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY)**
+
+- [00:01:48](/episodes/ep-mLvJqdxS-FY#t-00-01-48): _Five minutes after we get off air and he's like, oh, somebody sent this to me. We all know that Blake Neff is a closeted standist. He's working at Turning Point._
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 

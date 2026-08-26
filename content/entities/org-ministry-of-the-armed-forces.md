@@ -19,7 +19,7 @@ _Type: Organizations_
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-39-28">2025-12-01 · 00:39:53</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -55,7 +55,7 @@ _Type: Organizations_
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
 
 **[00:18:27](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-18-18)**
-> "... ground during Charlie Kirk's (Charlie Kirk's) assassination. So what happened is the Ministry, the Minister of the Armed Forces issued the following statement in France, and I'm going to quote this for you: "Tyler Robinson was ..."
+> "So what happened is the Ministry, the Minister of the Armed Forces issued the following statement in France, and I'm going to quote this for you: "Tyler Robinson was never part of the French Foreign Legion."
 
 **[00:20:07](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-19-45)**
 > ".... Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreig..."
@@ -122,5 +122,21 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Ministry of the Armed Forces (3)</strong></summary>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3)</summary>
+
+- [00:18:27](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) [✓] (Claim) ["Tyler Robinson was never part of the French Foreign Legion. If he did not serve ..."](/statements/statement-3e634b3fcfa8.md)
+
+- [00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45) [✓] (Claim) ["The Ministry of the Armed Forces confirms that a training exercise by the 2nd Fo..."](/statements/statement-5740dee09638.md)
+
+- [00:20:36](/episodes/ep-tB5SXXmd9vU.md#t-00-20-29) [✓] (Claim) ["The Ministry of the Armed Forces formally denies that another Foreign Legion tra..."](/statements/statement-55f0acee2b24.md)
+
+</details>
 
 </details>

@@ -20,16 +20,34 @@ type: "factual_claim"
 
 ## About
 
-- [Cam Higby](/entities/person-cam-higby.md) (person)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Cam Higby](/entities/person-cam-higby.md) (person)
 
-## Source
+## Appearances (3)
+
+### 1. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:03:33](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(213);return false;">Play</a>
 
 > Well, Cam Higby is on the payroll of Turning Point USA, beginning in August of this year.
+
+### 2. Shocking Revelation About The Egyptian Planes... | Candace E...
+
+**Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+**Timestamp:** [00:03:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(210);return false;">Play</a>
+
+> Well, Cam Higby is on the payroll of Turning Point USA, beginning in August of this year.
+
+### 3. Shocking Revelation About The Egyptian Planes... | Candace E...
+
+**Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
+**Timestamp:** [00:00:43](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(43);return false;">Play</a>
+
+> When the clock struck midnight last night and Cinderella's carriage turned back into a pumpkin, Turning Point USA decided it was a good time to issue a confirmation plus an ultimatum—a time and a date for our debate
 
 ## Verification
 

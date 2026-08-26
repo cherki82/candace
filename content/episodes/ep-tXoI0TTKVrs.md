@@ -1,14 +1,14 @@
 ---
 id: "tXoI0TTKVrs"
 title: "Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346"
-description: "Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 - 129 entities, 18 events, 0 claims"
+description: "Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 - 129 entities, 18 events, 18 factual claims"
 published: "2026-06-10"
 youtube_url: "https://www.youtube.com/watch?v=tXoI0TTKVrs"
 ---
 
 **Published:** 2026-06-10 | [Watch on YouTube](https://www.youtube.com/watch?v=tXoI0TTKVrs)
 
-**Stats:** 129 entities | 18 events | 0 claims
+**Stats:** 129 entities | 18 events | 18 factual claims
 
 ---
 

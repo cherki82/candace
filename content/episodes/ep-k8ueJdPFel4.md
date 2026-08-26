@@ -1,14 +1,14 @@
 ---
 id: "k8ueJdPFel4"
 title: "WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312"
-description: "WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 - 109 entities, 1 events, 0 claims"
+description: "WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 - 109 entities, 1 events, 9 factual claims"
 published: "2026-03-17"
 youtube_url: "https://www.youtube.com/watch?v=k8ueJdPFel4"
 ---
 
 **Published:** 2026-03-17 | [Watch on YouTube](https://www.youtube.com/watch?v=k8ueJdPFel4)
 
-**Stats:** 109 entities | 1 events | 0 claims
+**Stats:** 109 entities | 1 events | 9 factual claims
 
 ---
 

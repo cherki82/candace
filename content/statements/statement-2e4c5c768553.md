@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:22:59](/episodes/ep-c5BcKF91iec.md#t-00-22-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1379);return false;">Play</a>
 
-> It's also the reason that I knew that Tyler Bowyer was lying when he tweeted, 'And this guy was commanded by the police to take down the cameras.'
+> It's also the reason that I knew that Tyler Bowyer was lying when he tweeted, "And this guy was commanded by the police to take down the cameras."
 
 ## Verification
 

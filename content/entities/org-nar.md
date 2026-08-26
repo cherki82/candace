@@ -25,7 +25,7 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,7 +36,7 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-nar-t-00-24-39" style="--pulse-height:23%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-nar-t-00-11-43" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 13 mentions" title="2025-10-31 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-13-01" style="--pulse-height:54%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 7 mentions" title="2025-11-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-13-01" style="--pulse-height:46%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 6 mentions" title="2025-11-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-nar-t-01-32-09" style="--pulse-height:15%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -45,7 +45,7 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-nar-t-00-24-39) | 3 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-nar-t-00-11-43) | 13 |
-| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-13-01) | 7 |
+| 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-13-01) | 6 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-nar-t-01-32-09) | 2 |
 
 </details>
@@ -68,16 +68,13 @@ Source: [Pneuma 43 (2021): New Apostolic Reformation](https://brill.com/view/jou
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (7 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
 
 **[00:13:14](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-13-01)**
 > "NAR. I brought this up to you before."
 
 **[00:13:32](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-13-01)**
 > "Well, he is one of these NAR preachers—like I said—who came up with their Seve..."
-
-**[00:15:32](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-13-01)**
-> "NAR - New Apostolic Reformation described as aberrant theology bordering on occult"
 
 **[00:17:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-17-23)**
 > "...d on one of his podcasts that NAR was a cult—actually darker than a cult."
@@ -161,10 +158,13 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about NAR (1)</strong></summary>
+<summary><strong class="section-title">Statements about NAR (2)</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2)</summary>
+
+- [00:13:05](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-01) (Claim) **Candace Owens**: ["Four out of six protest permits issued on January 6th were issued to i..."](/statements/statement-de79ed3beb78.md)
+  - Also about: [January 6th](/entities/event-january-6th.md)
 
 - [00:18:05](/episodes/ep-YaZfwLQ7vrI.md#t-00-17-23) (Opinion) **Frank Turek** (via quoted speech): ["Frank Turek acknowledged that the New Apostolic Reformation (NAR) is a..."](/statements/statement-62a4fad8eff8.md)
   - Also about: [Frank Turek](/entities/person-frank-turek.md)

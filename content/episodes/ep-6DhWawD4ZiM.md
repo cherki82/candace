@@ -1,14 +1,14 @@
 ---
 id: "6DhWawD4ZiM"
 title: "UH-OH! Erika Kirk Goes Off On \"Conspiracy Theorists\". | Candace Ep 278"
-description: "UH-OH! Erika Kirk Goes Off On \"Conspiracy Theorists\". | Candace Ep 278 - 90 entities, 9 events, 0 claims"
+description: "UH-OH! Erika Kirk Goes Off On \"Conspiracy Theorists\". | Candace Ep 278 - 89 entities, 9 events, 40 factual claims"
 published: "2025-12-10"
 youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
 ---
 
 **Published:** 2025-12-10 | [Watch on YouTube](https://www.youtube.com/watch?v=6DhWawD4ZiM)
 
-**Stats:** 90 entities | 9 events | 0 claims
+**Stats:** 89 entities | 9 events | 40 factual claims
 
 ---
 
@@ -273,7 +273,7 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (90)</strong></summary>
+<summary><strong>Entities Mentioned (89)</strong></summary>
 
 **Concepts:** [God](/entities/concept-god.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
 
@@ -283,7 +283,7 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
 
 **Places:** [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [Arizona](/entities/gpe-arizona.md), [Canada](/entities/gpe-canada.md), [Colorado](/entities/gpe-colorado.md), [Colorado Springs](/entities/gpe-colorado-springs.md), [Delaware](/entities/gpe-delaware.md), [Egypt](/entities/gpe-egypt.md), [El Paso](/entities/gpe-el-paso.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [France](/entities/gpe-france.md), [India](/entities/gpe-india.md), [Israel](/entities/gpe-israel.md), [New York](/entities/gpe-new-york.md), [Tampa](/entities/gpe-tampa.md), [Texas](/entities/gpe-texas.md), [Tucson](/entities/gpe-tucson.md), [United States](/entities/gpe-united-states.md), [Virginia](/entities/gpe-virginia.md), [Washington, D.C.](/entities/gpe-washington-d-c.md), [Wilmington](/entities/gpe-wilmington.md)
 
-**Organizations:** [10th Mountain Division](/entities/org-10th-mountain-division.md), [Amazon](/entities/org-amazon.md), [America's Warrior Partnership](/entities/org-americas-warrior-partnership.md), [American Financing](/entities/org-american-financing.md), [CBS](/entities/org-cbs.md), [CBS News](/entities/org-cbs-news.md), [Candlewood Suites](/entities/org-candlewood-suites.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [French Foreign Legion](/entities/org-french-foreign-legion.md), [Goldman Sachs](/entities/org-goldman-sachs.md), [Instagram](/entities/org-instagram.md), [Mar-a-Lago](/entities/org-mar-a-lago.md), [National Security Agency](/entities/org-national-security-agency.md), [PreBorn!](/entities/org-preborn.md), [Pure Talk](/entities/org-pure-talk.md), [PurgeStore](/entities/org-purge-store.md), [The New York Times](/entities/org-the-new-york-times.md), [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [United States Air Force](/entities/org-united-states-air-force.md), [United States Congress](/entities/org-united-states-congress.md), [Vice](/entities/org-vice.md), [YouTube](/entities/org-youtube.md)
+**Organizations:** [10th Mountain Division](/entities/org-10th-mountain-division.md), [Amazon](/entities/org-amazon.md), [America's Warrior Partnership](/entities/org-americas-warrior-partnership.md), [American Financing](/entities/org-american-financing.md), [CBS News](/entities/org-cbs-news.md), [Candlewood Suites](/entities/org-candlewood-suites.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [French Foreign Legion](/entities/org-french-foreign-legion.md), [Goldman Sachs](/entities/org-goldman-sachs.md), [Instagram](/entities/org-instagram.md), [Mar-a-Lago](/entities/org-mar-a-lago.md), [National Security Agency](/entities/org-national-security-agency.md), [PreBorn!](/entities/org-preborn.md), [Pure Talk](/entities/org-pure-talk.md), [PurgeStore](/entities/org-purge-store.md), [The New York Times](/entities/org-the-new-york-times.md), [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [United States Air Force](/entities/org-united-states-air-force.md), [United States Congress](/entities/org-united-states-congress.md), [Vice](/entities/org-vice.md), [YouTube](/entities/org-youtube.md)
 
 **People:** [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Bari Weiss](/entities/person-bari-weiss.md), [Bethany Frankel](/entities/person-bethany-frankel.md), [Blake Neff](/entities/person-blake-neff.md), [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md), [Captain Adam Neff](/entities/person-captain-adam-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Emma Goldman](/entities/person-emma-goldman.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Floyd](/entities/person-george-floyd.md), [George Soros](/entities/person-george-soros.md), [Harris Faulkner](/entities/person-harris-faulkner.md), [Harry](/entities/person-harry.md), [Harry Myers](/entities/person-harry-myers.md), [Jesus Christ](/entities/person-jesus-christ.md), [Jordan Peterson](/entities/person-jordan-peterson.md), [Josh Hammer](/entities/person-josh-hammer.md), [Judas](/entities/person-judas.md), [Meghan Markle](/entities/person-meghan-markle.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Nehemiah](/entities/person-nehemiah.md), [Pam Bondi](/entities/person-pam-bondi.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sean Hannity](/entities/person-sean-hannity.md), [Sergio Gore](/entities/person-sergio-gore.md), [Theo Vaughn](/entities/person-theo-vaughn.md), [Tim Pool](/entities/person-tim-pool.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
@@ -292,7 +292,7 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
 </details>
 
 <details>
-<summary><strong>Statements (44)</strong></summary>
+<summary><strong>Statements (53)</strong></summary>
 
 - [00:02:28](#t-00-02-09) [○] (Claim) **Candace Owens**: ["Charlie Kirk's posthumous book about the Sabbath is being released, prompting Er..."](/statements/statement-2ca6a8ddbfcd.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -300,6 +300,8 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
   - About: [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:03:44](#t-00-03-31) [○] (Promise) **Erika Kirk**: ["Erika Kirk will build a museum-style memorial for Charlie Kirk at Turning Point ..."](/statements/statement-fb9da7c3ef24.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+- [00:03:58](#t-00-03-31) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said Turning Point USA would build a museum-style memorial for Charli..."](/statements/statement-ddbcea5fe35b.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:04:00](#t-00-03-31) [○] (Opinion) **Erika Kirk**: ["Erika Kirk claims to want to keep Charlie Kirk's burial location private to prot..."](/statements/statement-cf628fe3f593.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:04:58](#t-00-04-36) [○] (Opinion) **Candace Owens**: ["Erika Kirk is exhibiting Meghan Markle syndrome - wanting privacy when convenien..."](/statements/statement-ba5226e265d4.md)
@@ -320,6 +322,8 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bari Weiss](/entities/person-bari-weiss.md)
 - [00:13:13](#t-00-13-05) [○] (Claim) **Candace Owens**: ["Turning Point USA has made more than $100 million since Charlie Kirk was killed,..."](/statements/statement-785afbd27dae.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:13:16](#t-00-13-05) [○] (Claim) **Candace Owens**: ["Candace Owens asserted that Turning Point USA had received more than $100 millio..."](/statements/statement-b15a2acda18b.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:13:16](#t-00-13-05) [○] (Claim) **Candace Owens**: ["Turning Point USA has made more than 100 million dollars since Charlie Kirk's as..."](/statements/statement-ce0624c94ffe.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Mar-a-Lago](/entities/org-mar-a-lago.md)
 - [00:13:33](#t-00-13-05) [○] (Accusation) **Candace Owens**: ["A coordinated psychological operation is being employed by mockingbird influence..."](/statements/statement-3434d55c1c2d.md)
@@ -330,16 +334,22 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:23:54](#t-00-23-49) [○] (Opinion) **Tucker Carlson**: ["Tucker Carlson does not understand the official story of Charlie Kirk's assassin..."](/statements/statement-7225bca90297.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+- [00:24:16](#t-00-23-49) [✓] (Claim) **Tucker Carlson**: ["Tucker Carlson said Owens’s claim that Egyptian-registered aircraft had followed..."](/statements/statement-289fd3bfad4f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 - [00:24:24](#t-00-23-49) [○] (Claim) **Tucker Carlson**: ["Egyptian registered aircraft were following Charlie Kirk's widow around for a nu..."](/statements/statement-3cc73c12b1d9.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:24:24](#t-00-23-49) [○] (Claim) **Tucker Carlson**: ["Tucker Carlson confirms that Egyptian-registered aircraft were following Charlie..."](/statements/statement-0351e28ffd11.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md)
+- [00:25:00](#t-00-24-33) [✓] (Claim) **Tucker Carlson**: ["Tucker Carlson said Owens’s claim that a disproportionately large number of fore..."](/statements/statement-bd9f6a09be67.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 - [00:25:16](#t-00-24-33) [○] (Claim) **Tucker Carlson**: ["There were a disproportionately large number of foreign registered cell phones a..."](/statements/statement-055dc03b47ad.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:25:16](#t-00-24-33) [○] (Claim) **Tucker Carlson**: ["There were a disproportionately large number of foreign registered cell phones a..."](/statements/statement-af7370c9b513.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:25:25](#t-00-25-17) [○] (Opinion) **Tucker Carlson**: ["Tucker Carlson does not have confidence in the FBI or the men who run it regardi..."](/statements/statement-ffcbd0183325.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:26:14](#t-00-26-00) [○] (Claim) **Candace Owens**: ["Candace Owens said Tucker Carlson had learned after his father’s death that his ..."](/statements/statement-8c2934247604.md)
+  - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 - [00:26:26](#t-00-26-00) [○] (Claim) **Candace Owens**: ["Tucker Carlson grew up with CIA agents in Virginia because his father was connec..."](/statements/statement-2c6779af2174.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 - [00:26:36](#t-00-26-00) [○] (Claim) **Candace Owens**: ["Tucker Carlson's father was on the payroll of the CIA"](/statements/statement-2fdb991794fa.md)
@@ -349,6 +359,8 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
 - [00:27:58](#t-00-27-51) [○] (Claim) **Tucker Carlson**: ["People posted on X that Charlie Kirk was going to be killed on the date he was k..."](/statements/statement-70882181c1f8.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:28:28](#t-00-27-51) [○] (Opinion) **Tucker Carlson**: ["Tucker Carlson questions the claim that Charlie Kirk's assassin acted alone and ..."](/statements/statement-4ed785cea2fa.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:28:40](#t-00-28-35) [✓] (Accusation) **Tucker Carlson**: ["Tucker Carlson said people had posted on X that Charlie Kirk would be killed on ..."](/statements/statement-bdfe3eb4c4ee.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:29:12](#t-00-28-35) [○] (Claim) **Tucker Carlson**: ["The FBI claims to have both a confession from the killer in texts to his boyfrie..."](/statements/statement-46d01b80aec8.md)
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -360,6 +372,10 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md)
 - [00:35:36](#t-00-35-31) [○] (Claim) **Candace Owens**: ["The Egyptian plane flew to Wilmington, Delaware on the day of Charlie Kirk's ass..."](/statements/statement-a2a2171aef70.md)
   - About: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Wilmington](/entities/gpe-wilmington.md), [Delaware](/entities/gpe-delaware.md)
+- [00:40:03](#t-00-39-28) [○] (Claim) **Candace Owens**: ["Owens said Harry Myers identified Captain Adam Neff of the 10th Mountain Divisio..."](/statements/statement-45521027afec.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [10th Mountain Division](/entities/org-10th-mountain-division.md), [Harry Myers](/entities/person-harry-myers.md)
+- [00:41:15](#t-00-40-53) [○] (Claim) **Candace Owens**: ["Owens said unnamed correspondents stationed at Fort Huachuca told her that Joint..."](/statements/statement-324865fc175a.md)
+  - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:41:17](#t-00-40-53) [○] (Claim) **Candace Owens**: ["Captain Adam Neff of the 10th Mountain Division led an interrogation of a milita..."](/statements/statement-536d43327c41.md)
   - About: [Captain Adam Neff](/entities/person-captain-adam-neff.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:41:25](#t-00-40-53) [○] (Claim) **Candace Owens**: ["A building at Fort Huachuca has been converted into a SCIF (Sensitive Compartmen..."](/statements/statement-3e770fcf90d6.md)
@@ -368,6 +384,8 @@ youtube_url: "https://www.youtube.com/watch?v=6DhWawD4ZiM"
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:43:41](#t-00-43-00) [○] (Claim) **Candace Owens**: ["A US government VIP plane (C37A Gulfstream, tail number 99-0404) flew from Andre..."](/statements/statement-88162d6bfd9c.md)
   - About: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [El Paso](/entities/gpe-el-paso.md)
+- [00:44:00](#t-00-43-45) [◐] (Claim) **Candace Owens**: ["Owens presented flight-tracking material identifying Air Force C-37A tail 99-040..."](/statements/statement-8a03426a4ab1.md)
+  - About: [Andrews Air Force Base](/entities/gpe-andrews-air-force-base.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:46:13](#t-00-45-47) [○] (Claim) **Candace Owens**: ["There were weird flights coming from El Paso, Texas on the day of Charlie Kirk's..."](/statements/statement-4f46327805eb.md)
   - About: [El Paso](/entities/gpe-el-paso.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:46:38](#t-00-46-23) [○] (Claim) **Candace Owens**: ["A military source named Harry witnessed what appeared to be a finalization meeti..."](/statements/statement-45c985fc27c8.md)

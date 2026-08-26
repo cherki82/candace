@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [01:11:47](/episodes/ep-2Riv3I7D0Yk.md#t-01-11-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4307);return false;">Play</a>
 
-> I wasn't even going to speak about Israel—like nothing. And yet the Zionist lobby grows up and like she can't speak. I was going to speak about homeschooling and children and my backstory and race issues. And they were like, You can't come in
+> I wasn't even going to speak about Israel—like nothing. And yet the Zionist lobby grows up and like she can't speak. I was going to speak about homeschooling and children and my backstory and race issues. And they were like, "You can't come in."
 
 ## Verification
 

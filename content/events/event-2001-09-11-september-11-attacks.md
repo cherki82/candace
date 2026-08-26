@@ -11,7 +11,7 @@ date: "2001-09-11"
 
 > September 11 attacks
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
@@ -44,3 +44,11 @@ date: "2001-09-11"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1457);return false;">▶️ Play</a>
 
 > was so raw. It was so scary. The way they made us stand up at 9-11 every day
+
+### 5. Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean Abo...
+
+**Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
+**Timestamp:** [00:38:26](/episodes/ep-X3VKJVJ7cN4.md#event-event-2001-09-11-september-11-attacks-t-00-38-26) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2306);return false;">▶️ Play</a>
+
+> Think of it like 9-11. 9-11 happens and then it's like, well, we got to take away your freedom.

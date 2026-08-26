@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (16 mentions)
+### Evidence (17 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -68,6 +68,10 @@ object: "person-erika-kirk"
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 
 - [00:44:46](/episodes/ep-ZzAT2xijKGQ#t-00-44-46): _I don't buy anything really that Erika (Erika Kirk) says. She lies a lot._
+
+**[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
+
+- [00:46:23](/episodes/ep-puuMVxEu5NU#t-00-46-23): _she lied to my face. I can't come back from that when people try to sell her to me or say like, maybe it's like, no guys, she lied to my face._
 
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 

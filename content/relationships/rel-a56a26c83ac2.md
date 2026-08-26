@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (46 mentions)
+### Evidence (48 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -93,6 +93,10 @@ object: "person-candace-owens"
 
 - [00:17:21](/episodes/ep-KpxIBWkNsSs#t-00-17-21): _Welcome to the program, ladies and gentlemen. Virtually Erika (Erika Kirk)'s entire educational background has sort of just been fictionalized. And when people began pointing this out, we got yelled at. This is just par for the Erika (Erika Kirk) course._
 
+**[UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410)**
+
+- [00:51:49](/episodes/ep-N4uM8Jdr410#t-00-51-49): _Frank Turek—somebody was full of it. I'm sorry. Um, Ali (commenter; surname unverified) writes, 'Have you seen the clip where Erika says, We don't know how Charlie would feel about the Iran war?' Yeah, I saw that. That deserves way more outrage. Tucker (Tucker Carlson), Bret Weinstein, Joe (Joe Kent) have all confirmed that he was fighting hard behind the scenes to stop it. What a betrayal. It's just what Erika (Erika Kirk) is—what she is. She's reversed course on everything, everything that Charlie (Charlie Kirk) believed. I believe she had more loyalty to people that brought her in—_
+
 **[SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U)**
 
 - [00:24:31](/episodes/ep-Pb7UlpRdW6U#t-00-24-31): _Erika (Erika Kirk), not a grieving widow, okay? She's a piece of, as far as I'm concerned, military technology that's intended to socially engineer on behalf of the military._
@@ -116,6 +120,10 @@ object: "person-candace-owens"
 **[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
 
 - [00:28:55](/episodes/ep-WoXd4oLwd3w#t-00-28-55): _And when I look at that and I plot that on the timeline, it convinces me that Erika (Erika Kirk) is a psychopath, genuinely convinces me that Eric is a psychopath_
+
+**[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
+
+- [00:34:08](/episodes/ep-X3VKJVJ7cN4#t-00-34-08): _What do you say about the fact that they've researched and saw that it's because of you. Saying Erika is a psychopath was one of their points, calling Erika a psychopath on Sean Ryan, which literally aired that week, that that leads to people wanting to kill Erika Kirk._
 
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 

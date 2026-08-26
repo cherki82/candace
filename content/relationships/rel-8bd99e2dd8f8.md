@@ -15,7 +15,7 @@ object: "person-megyn-kelly"
 
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 
-- [00:05:20](/episodes/ep-r1PS67aRmcA#t-00-05-20): _Megyn Kelly, who was actually a very good friend to Charlie Kirk. Charlie Kirk deeply respected her_
+- [00:18:15](/episodes/ep-r1PS67aRmcA#t-00-18-15): _And so you have to imagine being in my position when you see someone who did everything he could to kind of stop the rise of Charlie (Charlie Kirk), now trying to struggle session Megyn (Megyn Kelly), who was actually a very good friend to Charlie (Charlie Kirk). Charlie (Charlie Kirk) deeply respected her._
 
 ### Related
 

@@ -20,8 +20,8 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-mark-levin-t-00-28-30">2026-06-09 · 00:28:53</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>24</strong></div>
-<div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -166,22 +166,22 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
 
 **[00:38:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
-> "...planes, I think some more people are going to be on the run. Anyways, the oddest response came from Mark Levin (Mark Levin), who has been kind of psychopathically obsessed with destroying Tucker (Tucker Carlson..."
+> "...the oddest response came from Mark Levin, who has been kind of psychopathically obsessed w..."
 
 **[00:38:34](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
-> "...cker (Tucker Carlson) Carlson got fired from Fox News. They don't seem to be friends. And regarding Mark Levin (Mark Levin)—if a person was actually like, "You should move to Israel because it would make you ha..."
+> "And regarding Mark Levin—if a person was actually like, "You should move t..."
 
 **[00:38:41](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
-> "... "You should move to Israel because it would make you happier"— if that was a person, that would be Mark Levin (Mark Levin), okay? Turning Point USA—credit to them—said, "We are not canceling Tucker (Tucker Car..."
+> "...t was a person, that would be Mark Levin, okay?"
 
 **[00:38:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
-> "... that happen. They said he's still speaking, and not only is he speaking, but why don't you debate, Mark Levin (Mark Levin)? Debate Tucker (Tucker Carlson) Carlson on stage. And this is how Mark Levin (Mark Lev..."
+> "...ng, but why don't you debate, Mark Levin?"
 
 **[00:39:01](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
-> "...u debate, Mark Levin (Mark Levin)? Debate Tucker (Tucker Carlson) Carlson on stage. And this is how Mark Levin (Mark Levin) responded. It's incredible. And I'm actually going to roll the whole thing. It's about..."
+> "And this is how Mark Levin responded."
 
 **[00:39:10](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-39-10)**
-> "...the whole thing. It's about two and a half minutes, but I want you guys to listen to him. *(Clip of Mark Levin reading Tucker Carlson text exchange)* I got a very strange text this morning from Tucker (Tucker C..."
+> "*(Clip of Mark Levin reading Tucker Carlson text exchange)* I got a ve..."
 
 </details>
 
@@ -262,7 +262,7 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Mark Levin (3)</strong></summary>
+<summary><strong class="section-title">Statements by Mark Levin (4)</strong></summary>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2)</summary>
@@ -276,17 +276,20 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2)</summary>
 
 - [00:39:10](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-04) [○] (Accusation) ["Mark Levin called Tucker Carlson a Nazi promoter and the modern-day David Duke a..."](/statements/statement-a4f61d3f83e5.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Mark Levin](/entities/person-mark-levin.md)
+
+- [00:40:31](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-54) [✓] (Accusation) ["Tucker Carlson is a “Nazi promoter” and “the modern-day David Duke.”"](/statements/statement-fb82b64afba2.md)
+  - About: [Mark Levin](/entities/person-mark-levin.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mark Levin (3)</strong></summary>
+<summary><strong class="section-title">Statements about Mark Levin (4)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>
@@ -305,9 +308,12 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2)</summary>
 
 - [00:39:10](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-04) (Accusation) **Mark Levin** (via quoted speech): ["Mark Levin called Tucker Carlson a Nazi promoter and the modern-day Da..."](/statements/statement-a4f61d3f83e5.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:40:31](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-54) (Accusation) **Mark Levin** (via quoted speech): ["Tucker Carlson is a “Nazi promoter” and “the modern-day David Duke.”"](/statements/statement-fb82b64afba2.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </details>

@@ -1,14 +1,14 @@
 ---
 id: "4YgrOhhy708"
 title: "Halftime Wars: TPUSA vs The NFL | Candace Ep 304"
-description: "Halftime Wars: TPUSA vs The NFL | Candace Ep 304 - 109 entities, 15 events, 0 claims"
+description: "Halftime Wars: TPUSA vs The NFL | Candace Ep 304 - 109 entities, 15 events, 19 factual claims"
 published: "2026-02-09"
 youtube_url: "https://www.youtube.com/watch?v=4YgrOhhy708"
 ---
 
 **Published:** 2026-02-09 | [Watch on YouTube](https://www.youtube.com/watch?v=4YgrOhhy708)
 
-**Stats:** 109 entities | 15 events | 0 claims
+**Stats:** 109 entities | 15 events | 19 factual claims
 
 ---
 

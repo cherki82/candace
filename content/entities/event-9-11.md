@@ -125,7 +125,7 @@ _No relationships extracted yet._
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (1)</summary>
 
-- [00:46:11](/episodes/ep-w1oqQbR_bYs.md#t-00-45-57) (Claim) **Candace Owens**: ["Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9..."](/statements/statement-81307478a879.md)
+- [00:46:11](/episodes/ep-w1oqQbR_bYs.md#t-00-45-57) (Accusation) **Candace Owens**: ["Lawsuits and sworn affidavits allegedly connect Fort Huachuca to prepa..."](/statements/statement-81307478a879.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>

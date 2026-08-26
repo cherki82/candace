@@ -4,9 +4,10 @@ description: "\"Lance Twiggs said he and Tyler Robinson did not really discuss g
 statement_id: "statement-2f79a060275a"
 speaker: "Lance Twiggs"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Day 4 hearing transcript directly records Twiggs saying they did not really discuss gender identity or LGBTQ rights and that Robinson’s occasional political talk was usually about Trump or current policies.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 4](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-4)
+
+*Verified: 2026-08-26T08:01:23.674919*
 
 ---
 

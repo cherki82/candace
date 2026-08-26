@@ -171,19 +171,19 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (5 mentions)</summary>
 
 **[00:35:05](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-34-51)**
-> "...on a time that he was like a funny guy just telling jokes—went onto Piers Morgan and decided to put Dave Smith—who I love—through a struggle session, explaining why. And yes, this is the same Seth Dillon at tha..."
+> "...ers Morgan and decided to put Dave Smith—who I love—through a struggle session, explaining..."
 
 **[00:35:46](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-00-35-27)**
-> "...ck on questioning Charlie (Charlie Kirk) on his changing views. Anyways, he has the audacity to put Dave Smith through a struggle session discussing this interview. Let's watch a clip of it. "I think that it wo..."
+> "...s, he has the audacity to put Dave Smith through a struggle session discussing this interv..."
 
 **[01:01:48](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
-> "...nd he's giving people the courage—more people the courage—to tell the truth, right? They don't want Dave Smith platformed at Turning Point USA. Josh Hammer was angry after he got destroyed by Dave Smith on Turn..."
+> "They don't want Dave Smith platformed at Turning Point USA."
 
 **[01:01:56](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
-> "...'t want Dave Smith platformed at Turning Point USA. Josh Hammer was angry after he got destroyed by Dave Smith on Turning Point USA stage. So he privately started the struggle session because he knew that when ..."
+> "after he got destroyed by Dave Smith on Turning Point USA stage."
 
 **[01:01:58](/episodes/ep-iHav0PPzUz8.md#ent-person-dave-smith-t-01-01-25)**
-> "...hat when they were on stage—these students that were there—were impacted, and they wanted to follow Dave Smith. People know truth when they hear it, and they know lies when they see it. And in Josh Hammer's cas..."
+> "...ed, and they wanted to follow Dave Smith."
 
 </details>
 

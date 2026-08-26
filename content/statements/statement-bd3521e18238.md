@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:19:01](/episodes/ep-2WEHTk0Xewg.md#t-00-18-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1141);return false;">Play</a>
 
-> They publish at 9:21 a.m., two hours after that first press conference, and say 'exclusive.' They are the ones that drop the trans narrative. They say these things are found on the bullets.
+> They publish at 9:21 a.m., two hours after that first press conference, and say "exclusive." They are the ones that drop the trans narrative. They say these things are found on the bullets.
 
 ## Verification
 

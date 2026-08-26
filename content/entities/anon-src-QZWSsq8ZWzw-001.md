@@ -39,7 +39,7 @@ _No relationships extracted yet._
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (5)</summary>
 
 - [00:01:35](/episodes/ep-QZWSsq8ZWzw.md#t-00-01-30) [○] (Accusation) ["The FBI is putting an absurd amount of pressure on the authorities in Utah to sa..."](/statements/statement-f0eec06ca8a4.md)
-  - About: [FBI](/entities/org-fbi.md), [Utah](/entities/gpe-utah.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Utah](/entities/gpe-utah.md), [FBI](/entities/org-fbi.md)
 
 - [00:02:31](/episodes/ep-QZWSsq8ZWzw.md#t-00-02-13) [○] (Claim) ["The FBI says that if Utah doesn't close the case against Charlie Kirk and rule i..."](/statements/statement-826cd85e0ae9.md)
   - About: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)

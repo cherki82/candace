@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:41](/episodes/ep-7RLtGgkTh9o.md#t-00-07-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(461);return false;">Play</a>
 
-> He had just filed for bankruptcy, and this woman gave him 0,000. Now, within months of this loan, the conservatorship of Britney Spears was implemented.
+> Now, we don't know why, but he had just filed for bankruptcy, and this woman gave him $40,000. Now, within months of this loan, the conservatorship of Britney Spears was implemented.
 
 ## Verification
 

@@ -48,7 +48,7 @@ _Type: People_
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (9 mentions)</summary>
 
 **[00:04:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-04-12)**
-> "...g about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani. I don't know. Take a listen. (Clip: Ben Shapiro) So I texted him, and I said, "Thanks so much for ..."
+> "So here is Ben (Ben Shapiro) complaining about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani (Zohran Mamdani)."
 
 **[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
 > "...art of the conservative push to win. The number of times that Tucker (Tucker Carlson) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tuck..."
@@ -63,16 +63,16 @@ _Type: People_
 > "... talked about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in the last week before the election. Because when you're orienting against the lef..."
 
 **[00:06:44](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-06-42)**
-> "...lson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very strange. But to the insinuation that Tucker (Tucker Carlson) somehow supported ..."
+> "It's not his responsibility to use his platform to speak about Mamdani (Zohran Mamdani) 17 times."
 
 **[00:06:51](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-06-42)**
-> "... 17 times. It's very strange. But to the insinuation that Tucker (Tucker Carlson) somehow supported Mamdani and said like nice things about him when he sat down with Marjorie Taylor Greene, here's actually w..."
+> "But to the insinuation that Tucker (Tucker Carlson) somehow supported Mamdani (Zohran Mamdani) and said like nice things about him when he sat down with Marjorie Taylor Greene, here's actually what Tucker (Tucker Carlson) said with Marjorie Taylor Greene."
 
 **[00:09:02](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-08-31)**
-> "...d everyone else is talking about foreign policy. So he said what I said. I am describing to you why Mamdani won, and you're angry that people are assessing why that happened. Doesn't matter how many times yo..."
+> "So he said what I said. I am describing to you why Mamdani (Zohran Mamdani) won, and you're angry that people are assessing why that happened."
 
 **[00:52:55](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-52-33)**
-> "...s of engagement with the Geneva Convention. Also, Ben says Republicans should work together against Mamdani, yet the DW was all about sabotaging all the other conservative media." Like I said in general, eve..."
+> "Also, Ben (Ben Shapiro) says Republicans should work together against Mamdani (Zohran Mamdani), yet the DW was all about sabotaging all the other conservative media.""
 
 </details>
 
@@ -228,21 +228,21 @@ _Type: People_
 
 - [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) (Claim) **Candace Owens**: ["Mamdani won the New York City mayoral election"](/statements/statement-70d16cea31e1.md)
 
-- [00:10:22](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Bill Ackman gave .75 million to stop Mamdani"](/statements/statement-dff9a93bd8a0.md)
+- [00:10:07](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Bill Ackman donated $1.75 million to PACs opposing Zohran Mamdani in t..."](/statements/statement-e9c76e71619c.md)
   - Also about: [Bill Ackman](/entities/person-bill-ackman.md)
 
-- [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Michael Bloomberg gave .3 million to a Cuomo-affiliated super PAC to s..."](/statements/statement-96b210228669.md)
-  - Also about: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
+- [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-09-44) (Claim) **Candace Owens**: ["Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to..."](/statements/statement-dad0599bcea0.md)
+  - Also about: [Andrew Cuomo](/entities/person-andrew-cuomo.md), [Michael Bloomberg](/entities/person-michael-bloomberg.md)
 
-- [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
+- [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani."](/statements/statement-411d9c4a3eeb.md)
   - Also about: [Joe Gebbia](/entities/person-joe-gebbia.md)
 
 - [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) (Opinion) **Zohran Mamdani** (via quoted speech): ["I believe Israel has the right to exist, but not as a Jewish state—as ..."](/statements/statement-d23013945481.md)
 
 - [00:14:52](/episodes/ep-LATnak75Si0.md#t-00-14-30) (Citation) **Candace Owens**: ["Mamdani got 32% of the Jewish vote in New York City exit polls"](/statements/statement-2dbdb6480c36.md)
 
-- [00:20:44](/episodes/ep-LATnak75Si0.md#t-00-20-09) (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdan..."](/statements/statement-08b3721de5cf.md)
-  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:15:38](/episodes/ep-LATnak75Si0.md#t-00-15-11) (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdan..."](/statements/statement-08b3721de5cf.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>
 

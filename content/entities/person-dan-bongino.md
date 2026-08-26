@@ -1,6 +1,6 @@
 ---
 title: "Dan Bongino"
-description: "Dan Bongino (People) - 35 mentions"
+description: "Dan Bongino (People) - 41 mentions"
 id: "person-dan-bongino"
 type: "PERSON"
 aliases:
@@ -21,13 +21,13 @@ _Type: People_
 Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gallery/deputy-director-bongino-swearing-in)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22">2025-12-17 · 00:24:52</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10">2025-10-06 · 00:38:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32">2026-08-14 · 02:36:32</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
-<div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Statements by</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,24 +35,30 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16">REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10" style="--pulse-height:8%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22" style="--pulse-height:37%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 7 mentions" title="2025-12-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-dan-bongino-t-01-01-04" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 19 mentions" title="2026-06-13 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-16" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-dan-bongino-t-00-45-58" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-dan-bongino-t-00-11-41" style="--pulse-height:16%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22) | 7 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-dan-bongino-t-01-01-04) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16) | 19 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-16) | 2 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-dan-bongino-t-00-45-58) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-dan-bongino-t-00-11-41) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24) | 2 |
 
 </details>
@@ -61,7 +67,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -71,6 +77,31 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 **[02:36:32](/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32)**
 > "Dan Bongino"
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
+
+**[00:11:41](/episodes/ep-N4uM8Jdr410.md#ent-person-dan-bongino-t-00-11-41)**
+> "Tying him to this rooftop. So we're just going to say he took it out as he was changing. Forget the changing part. Of course, when these questions started coming in about how nothing that the public officials were telling us made any sense, Dan Bongino—"
+
+**[00:12:04](/episodes/ep-N4uM8Jdr410.md#ent-person-dan-bongino-t-00-11-41)**
+> "Well, Dan Bongino joined Megyn Kelly. I want you to understand this..."
+
+**[00:12:58](/episodes/ep-N4uM8Jdr410.md#ent-person-dan-bongino-t-00-12-58)**
+> "... just tell us what you can. / Dan Bongino: The suspect—"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
+
+**[00:46:16](/episodes/ep-mLvJqdxS-FY.md#ent-person-dan-bongino-t-00-45-58)**
+> "We were watching Dan Bongino on Megyn Kelly, actually. And five days after the..."
+
+**[00:46:53](/episodes/ep-mLvJqdxS-FY.md#ent-person-dan-bongino-t-00-46-53)**
+> "... was tampered with Because if Dan Bongino, who is the assistant director to the FBI,"
 
 </details>
 
@@ -200,6 +231,14 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 </details>
 
+<details>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
+
+**[00:38:26](/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10)**
+> "...r, Kash Patel, and his deputy Dan Bongino for their leadership in the hunt for the suspect."
+
+</details>
+
 </details>
 
 <details open>
@@ -269,7 +308,19 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:12:04](/episodes/ep-N4uM8Jdr410.md#t-00-11-41): “Well, Dan Bongino joined Megyn Kelly. I want you to understand this is on September 15th. So we're now five days removed from the assassination.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (7)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -314,12 +365,27 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 </details>
 
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:12:04](/episodes/ep-N4uM8Jdr410.md#t-00-11-41): “Well, Dan Bongino joined Megyn Kelly. I want you to understand this is on September 15th. So we're now five days removed from the assassination.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Dan Bongino (6)</strong></summary>
+<summary><strong class="section-title">Statements by Dan Bongino (7)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:12:59](/episodes/ep-N4uM8Jdr410.md#t-00-12-59) [✓] (Claim) ["Dan Bongino said the suspect was not cooperating and the available video was gra..."](/statements/statement-94f2c908e946.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (6)</summary>
@@ -347,7 +413,15 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Bongino (10)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Bongino (11)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [00:46:16](/episodes/ep-mLvJqdxS-FY.md#t-00-45-58) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens paraphrased Dan Bongino as saying five days after Charli..."](/statements/statement-f8ae2141f9eb.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>

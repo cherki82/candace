@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:34:03](/episodes/ep-ja26iltROkM.md#t-00-33-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2043);return false;">Play</a>
 
-> Gen Z—as Megyn Kelly said—you can't find anybody beneath the age of 30 that supports Israel
+> Gen Z—as Megyn Kelly (Megyn Kelly) said—you can't find anybody beneath the age of 30 that supports Israel.
 
 ## Verification
 

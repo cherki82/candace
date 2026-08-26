@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:03:15](/episodes/ep-sreYYcID-QY.md#t-00-02-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(195);return false;">Play</a>
 
-> He says to Lance, allegedly, quote, 'I worry about prints. I had to leave it,' referring to the rifle, 'in a bush where I changed outfits.' Wait, changed outfits. Somebody commented, 'Men don't say outfits.' That's a woman thing.
+> He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush where I changed outfits." Wait, changed outfits. Somebody commented, "Men don't say outfits." That's a woman thing.
 
 ## Verification
 

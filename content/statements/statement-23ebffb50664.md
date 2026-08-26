@@ -4,9 +4,10 @@ description: "\"Benjamin Netanyahu tweeted before the president of the United St
 statement_id: "statement-23ebffb50664"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "false"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✗ False
 
 ## Statement
 
@@ -28,11 +29,26 @@ type: "factual_claim"
 **Timestamp:** [00:01:53](/episodes/ep-K5GjF53bfN4.md#t-00-01-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(113);return false;">Play</a>
 
-> He tweeted before the president of the United States that Charlie had lost his life
+> He tweeted before the president of the United States that Charlie (Charlie Kirk) had lost his life.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Rechecked against the two primary posts and an Associated Press timeline. Trump's Truth Social announcement was posted at 4:40 PM Eastern on September 10, 2025 (2:40 PM Mountain). Netanyahu's death post was created at 21:21:16 UTC (5:21 PM Eastern), about 41 minutes later. Netanyahu had posted a prayer message earlier, but the statement specifically concerns his post saying Kirk had died. The inherited true determination was incorrect; its original note remains preserved in legacy_claim_provenance.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Benjamin Netanyahu X post mourning Charlie Kirk](https://x.com/netanyahu/status/1965888327938158764)
+- [Trump's Truth archive of Donald Trump's Charlie Kirk death announcement](https://trumpstruth.org/statuses/32921)
+- [A timeline of Charlie Kirk's assassination and the arrest of a suspect](https://apnews.com/article/bab1ccce01dbacb449b79fd52c3de94f)
+
+*Verified: 2026-08-26T09:22:49.009303*
 
 ---
 

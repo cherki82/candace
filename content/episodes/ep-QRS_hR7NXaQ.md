@@ -1,14 +1,14 @@
 ---
 id: "QRS_hR7NXaQ"
 title: "CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301"
-description: "CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 - 129 entities, 18 events, 0 claims"
+description: "CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 - 129 entities, 18 events, 28 factual claims"
 published: "2026-02-03"
 youtube_url: "https://www.youtube.com/watch?v=QRS_hR7NXaQ"
 ---
 
 **Published:** 2026-02-03 | [Watch on YouTube](https://www.youtube.com/watch?v=QRS_hR7NXaQ)
 
-**Stats:** 129 entities | 18 events | 0 claims
+**Stats:** 129 entities | 18 events | 28 factual claims
 
 ---
 

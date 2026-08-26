@@ -4,9 +4,10 @@ description: "\"Tyler James Robinson surrendered to police at Washington County 
 statement_id: "statement-ac0e06512d64"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -32,7 +33,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Tyler James Robinson surrendered to Washington County Sheriff's Office on September 11, 2025, about 33 hours after shooting
+
+**Confidence:** High
+
+**Sources:**
+
+- [Utah manhunt ends as suspected Charlie Kirk shooter Tyler Robinson surrenders](https://www.foxnews.com/us/timeline-charlie-kirk-alleged-assassin-from-campus-shooting-sheriffs-office-surrender)
+
+*Verified: 2025-12-08T16:35:50.634337*
 
 ---
 

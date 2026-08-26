@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:13:11](/episodes/ep-6J6lRZPQ4jk.md#t-00-12-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">Play</a>
 
-> Never revealed, uh, that Tyler was at the Dairy Queen following the assassination. He was throwing clothes away as I presented to you guys in the cemetery.
+> Never revealed, uh, that Tyler (Tyler Robinson) was at the Dairy Queen following the assassination. He was throwing clothes away as I presented to you guys in the cemetery.
 
 ## Verification
 

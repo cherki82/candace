@@ -1,14 +1,14 @@
 ---
 id: "Ux1kzgQxkws"
 title: "Candace x Hunter Biden: The Interview"
-description: "Candace x Hunter Biden: The Interview - 145 entities, 7 events, 0 claims"
+description: "Candace x Hunter Biden: The Interview - 145 entities, 7 events, 19 factual claims"
 published: "2026-05-21"
 youtube_url: "https://www.youtube.com/watch?v=Ux1kzgQxkws"
 ---
 
 **Published:** 2026-05-21 | [Watch on YouTube](https://www.youtube.com/watch?v=Ux1kzgQxkws)
 
-**Stats:** 145 entities | 7 events | 0 claims
+**Stats:** 145 entities | 7 events | 19 factual claims
 
 ---
 

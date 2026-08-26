@@ -87,7 +87,7 @@ _Type: People_
 > "...aughable at this moment, of people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and ..."
 
 **[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
-> "... Bolling that sat across from Adam when they attacked me over Charlie Kirk (Charlie ..."
+> "No, and by the way, on the subject of who the kind of people that he's referring to, it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie Kirk and lied and said that I hadn't been friends with Charlie Kirk since 2017."
 
 **[00:51:10](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
 > "...nd apologized and said it was Adam's fault."

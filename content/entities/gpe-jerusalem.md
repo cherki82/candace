@@ -22,7 +22,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,7 +36,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 4 mentions" title="2025-11-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16" style="--pulse-height:25%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 2 mentions" title="2025-11-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28" style="--pulse-height:50%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 4 mentions" title="2025-11-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28" style="--pulse-height:38%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18" style="--pulse-height:75%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 6 mentions" title="2026-02-25 · 6 mentions"><span></span></a>
@@ -55,7 +55,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-jerusalem-t-00-21-15) | 4 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-jerusalem-t-00-43-16) | 2 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23) | 2 |
-| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28) | 4 |
+| 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02) | 2 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18) | 6 |
@@ -177,13 +177,10 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:25:28](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
 > "...ike Huckabee and the former U.S. ambassador to Israel—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean "Sweet Home Jerusalem" in Hebr..."
-
-**[00:25:39](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
-> "Mike Huckabee performed 'Sweet Home Jerusalem'"
 
 **[00:25:41](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28)**
 > "...stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean "Sweet Home Jerusalem" in Hebrew or something. Just watch it, and hey—challenge: no cringing. I'm starting to think that ..."
@@ -280,7 +277,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jerusalem (5)</strong></summary>
+<summary><strong class="section-title">Statements about Jerusalem (6)</strong></summary>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
@@ -305,10 +302,18 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 </details>
 
 <details>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1)</summary>
+
+- [00:25:28](/episodes/ep-mKXdKV-OBog.md#t-00-25-28) (Claim) **Candace Owens**: ["Mike Huckabee and David Friedman performed 'Sweet Home Alabama' rewrit..."](/statements/statement-ec774afe20f3.md)
+  - Also about: [David Friedman](/entities/person-david-friedman.md), [Mike Huckabee](/entities/person-mike-huckabee.md)
+
+</details>
+
+<details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
 - [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-23) (Claim) **Candace Owens**: ["Rob McCoy was in Jerusalem on November 16th at an event billed as a ce..."](/statements/statement-33885f09bdfa.md)
-  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>
 

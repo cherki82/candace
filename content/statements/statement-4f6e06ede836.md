@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:01:18](/episodes/ep-ja26iltROkM.md#t-00-00-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(78);return false;">Play</a>
 
-> They are so clearly lying to us about what happened on the day that Charlie lost his life
+> They are so clearly lying to us about what happened on the day that Charlie (Charlie Kirk) lost his life.
 
 ## Verification
 

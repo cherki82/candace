@@ -13,7 +13,7 @@ _Type: Works & Media_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -55,7 +55,7 @@ _Type: Works & Media_
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (3 mentions)</summary>
 
 **[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-00-44)**
-> "...on in the show, what I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have more questions. I've got questions. Am I allowed to have questions? Welcome back to Ca..."
+> "Also, later on in the show, what I have for you is The Game (rapper), who is releasing a song that is entitled "The Assassination of Candace Owens.""
 
 **[00:51:11](/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-50-53)**
 > "...—is releasing an album, and he has a song on his track list in this upcoming album that's entitled "The Assassination of Candace Owens." I'm having like the best year ever or something. I don't know. Why? Why? Why, The Game? Why's it ..."
@@ -71,5 +71,18 @@ _Type: Works & Media_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about The Assassination of Candace Owens (1)</strong></summary>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1)</summary>
+
+- [00:01:00](/episodes/ep-his-JBjlkh8.md#t-00-00-44) (Claim) **Candace Owens**: ["The Game is releasing a song titled 'The Assassination of Candace Owen..."](/statements/statement-b7e488a6b862.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Game](/entities/person-the-game.md)
+
+</details>
 
 </details>

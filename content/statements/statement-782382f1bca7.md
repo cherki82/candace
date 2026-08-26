@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:51](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(471);return false;">Play</a>
 
-> it's not until, by the way, 5:30 p.m.—because he mentioned that second suspect—and he curiously says in that correspondence that he's wearing similar clothing, which I find to be strange. We don't know what that second suspect is wearing until 5:30 p.m., when Governor Cox—12 minutes into a press conference; the press conference began at 5:30 p.m.—mentions that the second suspect, who is a person of interest, is wearing all dark clothing.
+> But it's not until, by the way, 5:30 p.m.—because he mentioned that second suspect— and he curiously says in that correspondence that he's wearing similar clothing, which I find to be strange. We don't know what that second suspect is wearing until 5:30 p.m., when Governor Cox—12 minutes into a press conference; the press conference began at 5:30 p.m.—mentions that the second suspect, who is a person of interest, is wearing all dark clothing.
 
 ## Verification
 

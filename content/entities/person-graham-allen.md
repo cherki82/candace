@@ -1,6 +1,6 @@
 ---
 title: "Graham Allen"
-description: "Graham Allen (People) - 11 mentions"
+description: "Graham Allen (People) - 13 mentions"
 id: "person-graham-allen"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-graham-allen-t-00-08-03">2026-05-07 · 00:08:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-graham-allen-t-00-04-44">2026-07-14 · 00:04:44</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-48-55">2026-07-20 · 00:49:00</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
@@ -37,6 +37,7 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-graham-allen-t-00-26-23" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-graham-allen-t-00-39-35" style="--pulse-height:33%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-graham-allen-t-00-00-46" style="--pulse-height:67%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-13-41" style="--pulse-height:67%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-graham-allen-t-00-26-23) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-graham-allen-t-00-39-35) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-graham-allen-t-00-00-46) | 2 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-13-41) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:13:49](/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-13-41)**
+> "That is a tricky one. So are we to believe that our nation's top brass couldn't rush to get some of that 4K HD, 4D chess, super D duper, crystal clear, overwhelming footage that was made available to Benny Johnson, Graham Allen and his wife 10 months later and some other influencers."
+
+**[00:49:00](/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-48-55)**
+> "...d he know? We have, you know, Graham Allen telling us that that's the case, and these people..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>

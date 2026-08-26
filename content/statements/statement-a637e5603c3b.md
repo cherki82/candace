@@ -20,8 +20,8 @@ type: "accusation"
 
 ## About
 
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Israel](/entities/gpe-israel.md) (gpe)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:00:20](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(20);return false;">Play</a>
 
-> Charlie (Charlie Kirk) gets assassinated, and the very people who were threatening him reputationally and financially are now trying to memorialize him as having died as a friend of Israel.
+> Charlie (Charlie Kirk) gets assassinated, and the very people who were threatening him reputationally and financially are now trying to memorialize him as having died as a friend of Israel
 
 ## Verification
 

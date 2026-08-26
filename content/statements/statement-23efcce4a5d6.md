@@ -1,22 +1,26 @@
 ---
-title: "The team grabbed SD cards from cameras because they wanted t..."
-description: "\"The team grabbed SD cards from cameras because they wanted to preserve evidence and prevent them from being stolen before law enforcement could get th...\" — Andrew Kolvet"
+title: "Andrew Kolvet said the team removed camera SD cards because ..."
+description: "\"Andrew Kolvet said the team removed camera SD cards because the footage would be evidence, could be stolen, and should reach law enforcement\" — Andrew Kolvet"
 statement_id: "statement-23efcce4a5d6"
 speaker: "Andrew Kolvet"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
-> The team grabbed SD cards from cameras because they wanted to preserve evidence and prevent them from being stolen before law enforcement could get them
+> Andrew Kolvet said the team removed camera SD cards because the footage would be evidence, could be stolen, and should reach law enforcement
 
 ## Attribution
 
 **Speaker:** [Andrew Kolvet](/entities/person-andrew-kolvet.md) (Quoted)
 
-**Delivery:** Made directly
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Culture Apothecary with Alex Clark
+**Original Date:** 2025-09-23
 
 ## About
 
@@ -32,7 +36,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as an attribution claim. In the original Culture Apothecary recording, Andrew Kolvet says he spoke with the team and reports that camera cards were removed because the footage was evidence, could be stolen, and should reach law enforcement. This confirms that Kolvet gave the explanation; it does not independently prove the staff member subjective motive or the later physical chain of custody.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Who Charlie Kirk Really Was | Andrew Kolvet interview](https://www.youtube.com/watch?v=Mkt6SAqkdSQ)
+- [Bearing False Witness | Candace Ep 241](https://www.youtube.com/watch?v=UBkFkg4UNY8)
+
+*Verified: 2026-08-26T10:43:23.165987*
 
 ---
 

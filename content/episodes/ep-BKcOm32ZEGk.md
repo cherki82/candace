@@ -1,14 +1,14 @@
 ---
 id: "BKcOm32ZEGk"
 title: "PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290"
-description: "PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 - 89 entities, 8 events, 0 claims"
+description: "PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 - 89 entities, 8 events, 13 factual claims"
 published: "2026-01-14"
 youtube_url: "https://www.youtube.com/watch?v=BKcOm32ZEGk"
 ---
 
 **Published:** 2026-01-14 | [Watch on YouTube](https://www.youtube.com/watch?v=BKcOm32ZEGk)
 
-**Stats:** 89 entities | 8 events | 0 claims
+**Stats:** 89 entities | 8 events | 13 factual claims
 
 ---
 

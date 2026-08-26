@@ -1,16 +1,17 @@
 ---
-title: "A plane owned by T.W. Lewis Foundation, a Turning Point USA ..."
-description: "\"A plane owned by T.W. Lewis Foundation, a Turning Point USA donor, departed Scottsdale at 8 AM and landed in Provo at about 10 AM local time on the da...\" — Candace Owens"
+title: "Owens said N560TW, an aircraft registered to T W Lewis-Aviat..."
+description: "\"Owens said N560TW, an aircraft registered to T W Lewis-Aviation LLC, flew from Scottsdale to Provo on September 10, 2025, and said the T.W. Lewis Foun...\" — Candace Owens"
 statement_id: "statement-fe34067004e8"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
-> A plane owned by T.W. Lewis Foundation, a Turning Point USA donor, departed Scottsdale at 8 AM and landed in Provo at about 10 AM local time on the day of Charlie Kirk's assassination
+> Owens said N560TW, an aircraft registered to T W Lewis-Aviation LLC, flew from Scottsdale to Provo on September 10, 2025, and said the T.W. Lewis Foundation funds Turning Point USA.
 
 ## Attribution
 
@@ -20,9 +21,10 @@ type: "factual_claim"
 
 ## About
 
-- [T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md) (org)
-- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Provo](/entities/gpe-provo.md) (gpe)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md) (org)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
@@ -30,11 +32,26 @@ type: "factual_claim"
 **Timestamp:** [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-19-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1220);return false;">Play</a>
 
-> We were able to determine that that plane that departed Scottsdale at eight local time and landed at about 10 a.m. local time into Provo was owned by a Turning Point USA donor, T.W. Lewis.
+> We were able to determine that that plane that departed Scottsdale at eight local time and landed at about 10 a.m. local time into Provo was owned by a Turning Point USA donor, T.W. ... Lewis. ... Actually, Turning Point USA is featured on T.W. ... Lewis's foundation website as something—as someone that they fund.
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as an attributed claim and in its documented ownership/funding details. The episode records Owens saying the aircraft flew Scottsdale-to-Provo and linking it to T.W. Lewis. The FAA registry lists N560TW to T W LEWIS-AVIATION LLC, and IRS-derived Form 990-PF records document T.W. Lewis Foundation grants to Turning Point USA. These records do not identify the passengers or purpose and imply no wrongdoing.
+
+**Confidence:** High
+
+**Sources:**
+
+- [The Great Exodus From Utah? Where Did The Egyptians Go On 9/10? | Candace Ep 267](https://www.youtube.com/watch?v=581dILVcEE4)
+- [FAA Registry: N560TW](https://registry.faa.gov/AircraftInquiry/Search/NNumberResult?nNumberTxt=560TW)
+- [T W Lewis Foundation - Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/860989236)
+
+*Verified: 2026-08-26T10:32:01.433881*
 
 ---
 

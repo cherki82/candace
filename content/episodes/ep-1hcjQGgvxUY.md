@@ -1,14 +1,14 @@
 ---
 id: "1hcjQGgvxUY"
 title: "Okay…These Text Messages Are Crazy! | Candace Ep 307"
-description: "Okay…These Text Messages Are Crazy! | Candace Ep 307 - 120 entities, 25 events, 0 claims"
+description: "Okay…These Text Messages Are Crazy! | Candace Ep 307 - 120 entities, 25 events, 25 factual claims"
 published: "2026-02-13"
 youtube_url: "https://www.youtube.com/watch?v=1hcjQGgvxUY"
 ---
 
 **Published:** 2026-02-13 | [Watch on YouTube](https://www.youtube.com/watch?v=1hcjQGgvxUY)
 
-**Stats:** 120 entities | 25 events | 0 claims
+**Stats:** 120 entities | 25 events | 25 factual claims
 
 ---
 

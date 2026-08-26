@@ -23,7 +23,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -331,7 +331,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Miriam Adelson (13)</strong></summary>
+<summary><strong class="section-title">Statements about Miriam Adelson (14)</strong></summary>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2)</summary>
@@ -399,9 +399,12 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
 
 - [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) (Claim) **Candace Owens**: ["Miriam Adelson gave Donald Trump 100 million dollars and was explicit ..."](/statements/statement-c5319102ec05.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [01:07:07](/episodes/ep-Cq7nj9rxPdo.md#t-01-07-05) (Claim) **Candace Owens**: ["Miriam Adelson gave Trump $100 million with the explicit understanding..."](/statements/statement-794eecb6af0b.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>

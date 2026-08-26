@@ -23,7 +23,7 @@ Source: [Nashville.gov](https://www.nashville.gov/)
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -169,7 +169,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nashville (2)</strong></summary>
+<summary><strong class="section-title">Statements about Nashville (3)</strong></summary>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
@@ -184,6 +184,13 @@ _No relationships extracted yet._
 
 - [00:48:51](/episodes/ep-kaWtDuoY_ns.md#t-00-48-51) (Accusation) **Laura Loomer** (via quoted tweet): ["Laura Loomer alleged that George Farmer drunkenly crashed into Tracy R..."](/statements/statement-33fe67e0a1d9.md)
   - Also about: [George Farmer](/entities/person-george-farmer.md), [Tracy Robinson](/entities/person-tracy-robinson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+
+- [00:37:07](/episodes/ep-t4U7NjnUEgc.md#t-00-36-51) (Accusation) **Candace Owens**: ["Seven anonymous correspondents told Owens they believed Arkady Gaydama..."](/statements/statement-e0b3d63ba191.md)
 
 </details>
 

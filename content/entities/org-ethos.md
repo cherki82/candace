@@ -1,6 +1,6 @@
 ---
 title: "Ethos"
-description: "Ethos (Organizations) - 21 mentions"
+description: "Ethos (Organizations) - 24 mentions"
 id: "org-ethos"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Ethos](https://www.ethos.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-ethos-t-00-46-15">2026-03-23 · 00:46:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-ethos-t-01-12-33">2026-07-14 · 01:13:00</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-ethos-t-00-43-53">2026-07-16 · 00:44:06</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-ethos-t-00-29-19" style="--pulse-height:100%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 5 mentions" title="2026-06-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-ethos-t-00-50-10" style="--pulse-height:60%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 3 mentions" title="2026-06-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-ethos-t-01-12-33" style="--pulse-height:60%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-ethos-t-00-43-10" style="--pulse-height:60%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-ethos-t-00-29-19) | 5 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-ethos-t-00-50-10) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-ethos-t-01-12-33) | 3 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-ethos-t-00-43-10) | 3 |
 
 </details>
 </section>
@@ -59,7 +61,21 @@ Source: [About Ethos](https://www.ethos.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
+
+**[00:43:38](/episodes/ep-mLvJqdxS-FY.md#ent-org-ethos-t-00-43-10)**
+> "...ly realize. That's why I love Ethos because with Ethos, you can apply online in just ..."
+
+**[00:43:53](/episodes/ep-mLvJqdxS-FY.md#ent-org-ethos-t-00-43-53)**
+> "...ally stands out to me is that ethos helps match you with coverage that actually fits ..."
+
+**[00:44:06](/episodes/ep-mLvJqdxS-FY.md#ent-org-ethos-t-00-43-53)**
+> "...y with life insurance through ethos. Get your free quote at ethos.com slash Candice. ..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3 mentions)</summary>

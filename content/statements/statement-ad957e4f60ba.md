@@ -4,9 +4,10 @@ description: "\"Candace Owens asserted that Tyler Robinson's DNA was the most de
 statement_id: "statement-ad957e4f60ba"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Oliver agreed that the major profile had the greatest degradation in the combined trigger-and-trigger-guard sample, and that sample’s likelihood ratio treated Robinson as the major contributor. Owens broadened this to Robinson’s DNA being the most degraded among all profiles on the gun. The specific sample point is supported, but the gun-wide generalization is not.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Rev transcript: UT v. Tyler Robinson Preliminary Hearing Day 5](https://www.rev.com/transcripts/ut-v-tyler-robinson-preliminary-hearing-day-5)
+
+*Verified: 2026-08-26T08:01:26.451187*
 
 ---
 

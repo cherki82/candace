@@ -24,7 +24,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:29](/episodes/ep-aDlhjfW6hz8.md#t-00-07-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(449);return false;">Play</a>
 
-> This person's been around Turning Point for quite some time, for years. Like I said, back when I was working at Turning Point, early days. So I'm like, 'I'm just gonna reach out.'
+> This person's been around Turning Point for quite some time, for years. Like I said, back when I was working at Turning Point, early days.
 
 ## Verification
 

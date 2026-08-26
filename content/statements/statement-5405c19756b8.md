@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:20:33](/episodes/ep-7RLtGgkTh9o.md#t-00-20-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1233);return false;">Play</a>
 
-> Where you start to realize there are literally psychological operatives in your life. He was asking me—Ye—Are you a part of the psychological operation that is meant to control me?
+> psychological operatives in your life. He was asking me—Ye (Kanye West)—"Are you a part of the psychological operation that is meant to control me?"
 
 ## Verification
 

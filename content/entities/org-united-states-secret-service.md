@@ -1,6 +1,6 @@
 ---
 title: "United States Secret Service"
-description: "United States Secret Service (Organizations) - 26 mentions"
+description: "United States Secret Service (Organizations) - 29 mentions"
 id: "org-united-states-secret-service"
 type: "ORG"
 aliases:
@@ -21,12 +21,12 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00">2025-11-19 · 00:11:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-45-23">2026-06-26 · 00:45:23</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-31-08">2026-07-16 · 00:31:08</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,7 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-united-states-secret-service-t-00-07-26" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-secret-service-t-00-11-05" style="--pulse-height:17%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-42-11" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-29-32" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +68,7 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-united-states-secret-service-t-00-07-26) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-secret-service-t-00-11-05) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-42-11) | 2 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-29-32) | 3 |
 
 </details>
 </section>
@@ -74,7 +76,21 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3 mentions)</summary>
+
+**[00:29:19](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-29-32)**
+> "all of the Secret Service failures"
+
+**[00:29:32](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-29-32)**
+> "...on and spoke about all of the Secret Service failures and here's what she had to say."
+
+**[00:31:08](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-31-08)**
+> "...says it was a year before the Secret Service actually reached out to her. The questions that s..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -240,11 +256,35 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 </details>
 
 - **[920 North King Street](/entities/gpe-920-north-king-street.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-11-00): “Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Helen Comperatore](/entities/person-helen-comperatore.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:29:32](/episodes/ep-puuMVxEu5NU.md#t-00-28-54): “And so she sat down for an interview on NewsNation and spoke about all of the Secret Service failures and here's what she had to say.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Helen Comperatore](/entities/person-helen-comperatore.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:29:32](/episodes/ep-puuMVxEu5NU.md#t-00-28-54): “And so she sat down for an interview on NewsNation and spoke about all of the Secret Service failures and here's what she had to say.”
+
+</details>
 
 - **[Wilmington](/entities/gpe-wilmington.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -254,13 +294,26 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 </details>
 
 - **[920 North King Street](/entities/gpe-920-north-king-street.md)** location of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-11-00): “Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801.”
+
+</details>
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Secret Service (10)</strong></summary>
+<summary><strong class="section-title">Statements about United States Secret Service (11)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
+
+- [00:31:08](/episodes/ep-puuMVxEu5NU.md#t-00-31-08) (Claim) **Unidentified NewsNation Reporter** (via quoted speech): ["A NewsNation reporter said the Secret Service waited a year to contact..."](/statements/statement-3ae5539c937f.md)
+  - Also about: [Helen Comperatore](/entities/person-helen-comperatore.md)
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>

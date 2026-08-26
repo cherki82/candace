@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Blake Neff](/entities/person-blake-neff) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (13 mentions)
+### Evidence (16 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -25,6 +25,10 @@ object: "person-candace-owens"
 
 - [00:35:14](/episodes/ep-I0OaY6Gryqk#t-00-35-14): _that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even_
 
+**[UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410)**
+
+- [00:36:21](/episodes/ep-N4uM8Jdr410#t-00-36-21): _Blake Neff doesn't remember what city. At first, he says he stayed in Orem. Then he has another discussion and changes his mind and says that they stayed in Salt Lake City. Salt Lake City is the true events—true version of events. The entire Turning Point team stayed in Salt Lake City, but Blake (Blake Neff) does not remember what hotel they stayed in. It's a lot, and I want you to hear him in his own words._
+
 **[SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U)**
 
 - [00:35:56](/episodes/ep-Pb7UlpRdW6U#t-00-35-56): _Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything._
@@ -36,6 +40,10 @@ object: "person-candace-owens"
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
 - [00:48:08](/episodes/ep-VMNWMXX1vO8#t-00-48-08): _Blake Neff is a liar. He is a coward. He is a backstabber_
+
+**[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
+
+- [00:30:03](/episodes/ep-X3VKJVJ7cN4#t-00-30-03): _Blake Neff just blacked out, guys. Doesn't remember. He just doesn't really—I mean, they were just marking time. He doesn't remember who was in the car, who was driving, what they did for that entire interview while they were in Salt Lake City. Were they renting a car? By the way, I'd like to see if maybe there was another decoy vehicle. If you work at a rental car place, maybe just in the area—maybe Las Vegas, around Salt Lake City—_
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 
@@ -52,6 +60,10 @@ object: "person-candace-owens"
 **[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
 
 - [00:14:48](/episodes/ep-k8ueJdPFel4#t-00-14-48): _Actually, I just got mad, okay? He's a liar. Blake (Blake Neff), you are a liar and you should be ashamed of yourself._
+
+**[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
+
+- [00:45:31](/episodes/ep-puuMVxEu5NU#t-00-45-31): _Top comment from yesterday's episode came from chewing the void this person writes nobody dismantles Andrew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet) and Blake (Blake Neff) could not agree more_
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 

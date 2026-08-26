@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:25:31](/episodes/ep-ja26iltROkM.md#t-00-25-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1531);return false;">Play</a>
 
-> over the weekend, somebody reported me to the FBI and the CIA... She then CCs and tags the Director of the CIA.
+> But over the weekend, somebody reported me to the FBI and the CIA.
 
 ## Verification
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:07](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(427);return false;">Play</a>
 
-> [97] [07:05] Candace Owens: We all know—as I proved—that these same individuals were squeezing Charlie leading up to the end of his life. [98] [07:07] Candace Owens: They wanted—again—Tucker Carlson to be gone, no longer allowed on the Turning Point USA stage because Tucker is the natural heir to the populist movement.
+> We all know—as I proved—that these same individuals were squeezing Charlie (Charlie Kirk) leading up to the end of his life. They wanted—again—Tucker Carlson (Tucker Carlson) to be gone, no longer allowed on the Turning Point USA stage because Tucker (Tucker Carlson) is the natural heir to the populist movement.
 
 ## Verification
 

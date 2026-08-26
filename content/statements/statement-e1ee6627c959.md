@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:06:36](/episodes/ep-6J6lRZPQ4jk.md#t-00-06-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(396);return false;">Play</a>
 
-> This actually, what I'm saying about Bari Weiss, this gets into Tucker's quote-unquote problematic speech at SAS when he jumped on stage and basically asked that question. How are all of these sub-par people becoming billionaires?
+> This actually, what I'm saying about Bari Weiss, this gets into Tucker (Tucker Carlson)'s quote-unquote problematic speech at SAS when he jumped on stage and basically asked that question. How are all of these sub-par people becoming billionaires?
 
 ## Verification
 

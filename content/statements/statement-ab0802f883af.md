@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:23:14](/episodes/ep-7RLtGgkTh9o.md#t-00-22-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1394);return false;">Play</a>
 
-> Ye, he said he was just reading a Bible, and Harley Pasternak—and we got into his backstory and MKUltra—suddenly puts him in a hospital on a psych 5150 hold.
+> "Ye (Kanye West), he said he was just reading a Bible, and Harley Pasternak—and we got into his backstory and MKUltra—suddenly puts him in a hospital on a psych 5150 hold."
 
 ## Verification
 

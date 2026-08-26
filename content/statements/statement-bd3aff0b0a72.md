@@ -20,16 +20,26 @@ type: "factual_claim"
 
 ## About
 
-- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
 
 **Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 **Timestamp:** [00:08:02](/episodes/ep-QZWSsq8ZWzw.md#t-00-07-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(482);return false;">Play</a>
 
 > from my sources, it's not the only set of prints that are on that gun
+
+### 2. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
+
+**Episode:** [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
+**Timestamp:** [00:08:02](/episodes/ep-QZWSsq8ZWzw.md#t-00-07-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(482);return false;">Play</a>
+
+> And from my sources, it's not the only set of prints that are on that gun.
 
 ## Verification
 

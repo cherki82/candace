@@ -356,7 +356,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
 
 **[00:06:42](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42)**
-> "...sense. It's not Tucker's (Tucker Carlson's) responsibility. Tucker (Tucker Carlson) doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very strange..."
+> "Tucker (Tucker Carlson) doesn't live in New York City."
 
 **[00:08:22](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-07-46)**
 > "...e like foreign-born midwits running their cities? Probably not. That guy was the only person in the New York City mayor's debate to say he wanted to focus on New York City. All the candidates were asked, if you co..."
@@ -416,6 +416,11 @@ Source: [City of New York](https://www.nyc.gov/)
 <summary>Location Of (3)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
+
+</details>
 
 - **[The Ansonia](/entities/gpe-the-ansonia.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -449,6 +454,11 @@ Source: [City of New York](https://www.nyc.gov/)
 <summary>Referenced By (6)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:52](/episodes/ep-SKGUzGHymcI.md#t-00-11-40): “Seriously, if you Google image 33 Thomas Street in New York City, that's the building that Snowden leaked.”
+
+</details>
 
 - **[The Ansonia](/entities/gpe-the-ansonia.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

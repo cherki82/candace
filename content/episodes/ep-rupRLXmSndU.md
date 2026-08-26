@@ -1,14 +1,14 @@
 ---
 id: "rupRLXmSndU"
 title: "Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320"
-description: "Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 - 98 entities, 25 events, 0 claims"
+description: "Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 - 98 entities, 25 events, 22 factual claims"
 published: "2026-04-01"
 youtube_url: "https://www.youtube.com/watch?v=rupRLXmSndU"
 ---
 
 **Published:** 2026-04-01 | [Watch on YouTube](https://www.youtube.com/watch?v=rupRLXmSndU)
 
-**Stats:** 98 entities | 25 events | 0 claims
+**Stats:** 98 entities | 25 events | 22 factual claims
 
 ---
 

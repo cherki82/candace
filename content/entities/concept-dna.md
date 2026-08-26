@@ -1,6 +1,6 @@
 ---
 title: "Deoxyribonucleic acid"
-description: "Deoxyribonucleic acid (Concepts) - 67 mentions"
+description: "Deoxyribonucleic acid (Concepts) - 75 mentions"
 id: "concept-dna"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59">2026-02-04 · 00:03:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-03-32-34">2026-08-14 · 03:32:48</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>75</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,9 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-dna-t-00-11-41" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-dna-t-00-36-59" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-09-56" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 26 mentions" title="2026-07-14 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-dna-t-00-10-29" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-dna-t-00-03-06" style="--pulse-height:19%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-dna-t-00-10-57" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25" style="--pulse-height:73%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 19 mentions" title="2026-08-14 · 19 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -61,6 +64,9 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-dna-t-00-11-41) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-concept-dna-t-00-36-59) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-09-56) | 26 |
+| 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-dna-t-00-10-29) | 1 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-dna-t-00-03-06) | 5 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-dna-t-00-10-57) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25) | 19 |
 
 </details>
@@ -69,7 +75,7 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (75)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (19 mentions)</summary>
@@ -130,6 +136,45 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 
 **[03:32:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-03-32-34)**
 > "...ar this. has My CSTNA his own DNA told me what on it said about Charlie."
+
+</details>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
+
+**[00:11:28](/episodes/ep-N4uM8Jdr410.md#ent-concept-dna-t-00-10-57)**
+> "Did they not think that part through? Did they already plant the evidence and they had to just sort of make it work after that because it had Tyler Robinson's DNA on it?"
+
+**[00:12:23](/episodes/ep-N4uM8Jdr410.md#ent-concept-dna-t-00-12-23)**
+> "... building, and they found his DNA on it, leading many to believe he had disassemble..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
+
+**[00:10:29](/episodes/ep-puuMVxEu5NU.md#ent-concept-dna-t-00-10-29)**
+> "requesting that both DNA and other type of analysis get done"
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (5 mentions)</summary>
+
+**[00:03:12](/episodes/ep-mLvJqdxS-FY.md#ent-concept-dna-t-00-03-06)**
+> "...d a screwdriver which had his DNA on it. That was announced by Kash Patel a couple ..."
+
+**[00:03:47](/episodes/ep-mLvJqdxS-FY.md#ent-concept-dna-t-00-03-47)**
+> "...hey rushed so much to say his DNA was on there, but now it makes no sense at all th..."
+
+**[00:16:59](/episodes/ep-mLvJqdxS-FY.md#ent-concept-dna-t-00-16-59)**
+> "...you were requesting that both DNA and other type of analysis get done?"
+
+**[00:19:50](/episodes/ep-mLvJqdxS-FY.md#ent-concept-dna-t-00-19-50)**
+> "...e are items that are good for DNA. Not having any information from the investigator..."
+
+**[00:22:31](/episodes/ep-mLvJqdxS-FY.md#ent-concept-dna-t-00-22-31)**
+> "...dn't you continue testing for DNA, confirming it's somebody on Charlie (Charlie Kir..."
 
 </details>
 
@@ -337,7 +382,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Deoxyribonucleic acid (17)</strong></summary>
+<summary><strong class="section-title">Statements about Deoxyribonucleic acid (19)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
+
+- [00:11:28](/episodes/ep-N4uM8Jdr410.md#t-00-10-57) (Accusation) **Candace Owens**: ["Candace Owens asked rhetorically whether officials had already planted..."](/statements/statement-204835c0e1f6.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
+
+- [00:19:50](/episodes/ep-mLvJqdxS-FY.md#t-00-19-50) (Claim) **Amanda Bakker** (via quoted speech): ["Amanda Bakker testified that the FBI initially processed the backpack ..."](/statements/statement-dcd889ffd560.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (10)</summary>

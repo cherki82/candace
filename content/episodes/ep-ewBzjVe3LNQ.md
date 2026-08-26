@@ -1,14 +1,14 @@
 ---
 id: "ewBzjVe3LNQ"
 title: "EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282"
-description: "EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 - 57 entities, 8 events, 0 claims"
+description: "EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 - 57 entities, 8 events, 45 factual claims"
 published: "2025-12-18"
 youtube_url: "https://www.youtube.com/watch?v=ewBzjVe3LNQ"
 ---
 
 **Published:** 2025-12-18 | [Watch on YouTube](https://www.youtube.com/watch?v=ewBzjVe3LNQ)
 
-**Stats:** 57 entities | 8 events | 0 claims
+**Stats:** 57 entities | 8 events | 45 factual claims
 
 ---
 

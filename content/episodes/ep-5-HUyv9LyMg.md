@@ -1,14 +1,14 @@
 ---
 id: "5-HUyv9LyMg"
 title: "EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311"
-description: "EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 - 134 entities, 12 events, 0 claims"
+description: "EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 - 134 entities, 12 events, 16 factual claims"
 published: "2026-03-12"
 youtube_url: "https://www.youtube.com/watch?v=5-HUyv9LyMg"
 ---
 
 **Published:** 2026-03-12 | [Watch on YouTube](https://www.youtube.com/watch?v=5-HUyv9LyMg)
 
-**Stats:** 134 entities | 12 events | 0 claims
+**Stats:** 134 entities | 12 events | 16 factual claims
 
 ---
 

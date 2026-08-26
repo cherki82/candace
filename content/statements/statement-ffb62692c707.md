@@ -30,7 +30,7 @@ type: "prediction"
 **Timestamp:** [00:39:05](/episodes/ep-c5BcKF91iec.md#t-00-38-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2345);return false;">Play</a>
 
-> Charlie wrote to me, 'You're going to be the Iron Lady of America.' He had such a political vision for me. I never wanted that sort of a thing. 'I see it so freaking clearly. I might be Moses though. I might not see this whole thing through, LMAO. If that is the case, be my David.'
+> Charlie wrote to me, "You're going to be the Iron Lady of America." He had such a political vision for me. I never wanted that sort of a thing. "I see it so freaking clearly. I might be Moses though. I might not see this whole thing through, LMAO. If that is the case, be my David."
 
 ## Verification
 

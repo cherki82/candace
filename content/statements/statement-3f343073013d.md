@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:11:49](/episodes/ep-6J6lRZPQ4jk.md#t-00-11-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(709);return false;">Play</a>
 
-> Terrell removed the SD cards because people were stealing hats. Again, not what Terrell himself told me
+> Terrell removed the SD cards because people were stealing hats.
 
 ## Verification
 

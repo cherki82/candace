@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 244 mentions"
+description: "Arizona (Places) - 250 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-46-05">2026-06-26 · 00:46:05</a></strong></div>
-<div><span>Episodes</span><strong>65</strong></div>
-<div><span>Mentions</span><strong>244</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-arizona-t-00-42-08">2026-07-20 · 00:42:27</a></strong></div>
+<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>250</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -99,6 +99,9 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-9CuC1yf8-PU.md#t-00-39-22" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-26-23" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-arizona-t-00-07-00" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-arizona-t-00-23-21" style="--pulse-height:16%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-arizona-t-01-07-29" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-arizona-t-00-42-08" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -169,6 +172,9 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-39-22) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-26-23) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-arizona-t-00-07-00) | 1 |
+| 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-arizona-t-00-23-21) | 3 |
+| 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-arizona-t-01-07-29) | 1 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-arizona-t-00-42-08) | 1 |
 
 </details>
 </section>
@@ -176,7 +182,37 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (244)</strong></summary>
+<summary><strong class="section-title">Raw mentions (250)</strong></summary>
+
+<details>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
+
+**[00:42:27](/episodes/ep-N4uM8Jdr410.md#ent-gpe-arizona-t-00-42-08)**
+> "...n the military and we live in Arizona, but we just weren't aware of this massive intel ..."
+
+</details>
+
+<details>
+<summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
+
+**[01:07:29](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-arizona-t-01-07-29)**
+> "... military people raytheon air arizona it's just it's a lot it's a lot to take in and i ..."
+
+</details>
+
+<details>
+<summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3 mentions)</summary>
+
+**[00:22:42](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-arizona-t-00-23-21)**
+> "... his LinkedIn, graduated from Arizona State University. Another coincidence is that Dan..."
+
+**[00:23:55](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-arizona-t-00-23-21)**
+> "...n so many Russian speakers in Arizona. I bet."
+
+**[00:49:57](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-arizona-t-00-49-39)**
+> "...tern Europe, the two of them, Arizona, Romania, and now Chicago."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -1106,7 +1142,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:37:20](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-arizona-t-00-36-54)**
-> "...rated the October 15th, 2025 assassination of its founder, Charlie (Charlie Kirk) Kirk, in Phoenix, Arizona, by former volunteer Marcus Hale, who police say acted alone with no evidence." Ben Shapiro (Ben Sh..."
+> "And then it says, "Candace (Candace Owens) alleged Turning Point USA orchestrated the October 15th, 2025 assassination of its founder, Charlie (Charlie Kirk), in Phoenix, Arizona, by former volunteer Marcus Hale,"
 
 </details>
 
@@ -1209,7 +1245,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
 
 **[00:33:55](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-arizona-t-00-33-55)**
-> "...ed—a curse that was put on Charlie Kirk just before he went out to UVU. I learned when I was out in Arizona last week that two weeks before Charlie Kirk was assassinated, the far-left website Jezebel declare..."
+> "I learned when I was out in Arizona last week that two weeks before Charlie Kirk was assassinated, the far-left website Jezebel declared that it had a mission to cast bad luck or a curse on Charlie."
 
 </details>
 

@@ -86,7 +86,7 @@ Source: [Air Force One — The White House](https://www.whitehouse.gov/about-the
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:14:22](/episodes/ep-a-e7HC6SeK8.md#ent-org-air-force-two-t-00-14-05)**
-> "... one that was filming. Everyone was like, "Who's filming his casket," as it's being escorted off of Air Force Two, crying, holding that—Stacey. Like I said, I just felt spiritually that Charlie (Charlie Kirk) hiri..."
+> "as it's being escorted off of Air Force Two, crying, holding that—Stacey (Stacey Sheridan)."
 
 </details>
 

@@ -18,7 +18,7 @@ _Type: People_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -83,10 +83,13 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Robert Richards the Fourth (2)</strong></summary>
+<summary><strong class="section-title">Statements about Robert Richards the Fourth (3)</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3)</summary>
+
+- [00:07:03](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) (Claim) **Candace Owens** (via quoted article): ["Robert Richards the Fourth was in 2009 convicted of raping his three-y..."](/statements/statement-479c680fd9b3.md)
+  - Also about: [DuPont family](/entities/org-dupont-family.md)
 
 - [00:07:12](/episodes/ep-a-e7HC6SeK8.md#t-00-07-02) (Claim) **Candace Owens** (via quoted article): ["Robert Richards the Fourth was convicted in 2009 of raping his three-y..."](/statements/statement-74c0801ae1cf.md)
 

@@ -11,7 +11,7 @@ date: "1967-06-08"
 
 > Israel attacks USS Liberty, falsely blamed on Egypt
 
-## Mentioned In (3 times)
+## Mentioned In (2 times)
 
 ### 1. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
@@ -28,11 +28,3 @@ date: "1967-06-08"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2403);return false;">▶️ Play</a>
 
 > how this works, right? Like, if you're in the pro-Israel lobby and you deal with any sort of pushback or flak, you gotta fall to the ground and cry victim. Well, it's my turn now, you guys, because ye
-
-### 3. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [01:03:57](/episodes/ep-his-JBjlkh8.md#t-01-03-25) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3837);return false;">▶️ Play</a>
-
-> expenses—groceries, gas bill, it's all piling up— then you are not alone, because most Americans are putting these expenses on credit cards, and credit card rates are insane. They're in the 20s or eve
