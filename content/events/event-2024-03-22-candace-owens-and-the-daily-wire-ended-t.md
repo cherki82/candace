@@ -11,7 +11,7 @@ date: "2024-03-22"
 
 > Candace Owens and The Daily Wire ended their relationship.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -36,3 +36,11 @@ date: "2024-03-22"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(667);return false;">▶️ Play</a>
 
 > In March of 2024, they parted ways with Candace Owens. She walked into the open market
+
+### 4. Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neithe...
+
+**Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
+**Timestamp:** [00:44:02](/episodes/ep-sKuYLNx3iRo.md#event-event-2024-03-22-candace-owens-and-the-daily-wire-ended-t-t-00-43-58) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2642);return false;">▶️ Play</a>
+
+> They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing

@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 17 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 21 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-timpanogos-regional-hospital-t-00-57-43">2026-04-20 · 00:57:54</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-timpanogos-regional-hospital-t-00-52-31">2026-06-26 · 00:52:57</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -47,6 +47,10 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <a href="/episodes/ep-rupRLXmSndU.md#t-00-04-38" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-timpanogos-regional-hospital-t-00-57-43" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-timpanogos-regional-hospital-t-01-10-33" style="--pulse-height:33%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-timpanogos-regional-hospital-t-00-55-06" style="--pulse-height:33%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#t-00-32-51" style="--pulse-height:33%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-timpanogos-regional-hospital-t-00-52-31" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +68,10 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-04-38) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-timpanogos-regional-hospital-t-00-57-43) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-timpanogos-regional-hospital-t-01-10-33) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-timpanogos-regional-hospital-t-00-55-06) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#t-00-32-51) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-timpanogos-regional-hospital-t-00-52-31) | 1 |
 
 </details>
 </section>
@@ -71,7 +79,39 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:52:57](/episodes/ep-IqHsl7d2dos.md#ent-org-timpanogos-regional-hospital-t-00-52-31)**
+> "...kdoor to get information from Timpanogos Regional Hospital?"
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:33:12](/episodes/ep-sKuYLNx3iRo.md#t-00-32-51)**
+> "anybody at Timpanogos who recalls this incredible scene"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:55:40](/episodes/ep-9CuC1yf8-PU.md#ent-org-timpanogos-regional-hospital-t-00-55-06)**
+> "Timpanogos Regional Hospital itself should come out and dispute it"
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[01:10:44](/episodes/ep-h76ZN-xXC6c.md#ent-org-timpanogos-regional-hospital-t-01-10-33)**
+> "They very clearly were interning together at the BILT Incorporated and then we find out that Connor was working at the hospital, Timpanogos Regional Hospital, interning in the emergency department and"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
@@ -202,9 +242,10 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <summary>Formerly Employed (1)</summary>
 
 - **[Connor Henderson](/entities/person-connor-henderson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41): “Connor had been working as an emergency room department scribe. I can confirm. Go ahead. Tippinogos. Tippinogos emergency room.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “we find out that Connor was working at the hospital, Timpanogos Regional Hospital, interning in the emergency department”
 
 </details>
 
@@ -237,9 +278,10 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 - **[Connor Henderson](/entities/person-connor-henderson.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41): “Connor had been working as an emergency room department scribe. I can confirm. Go ahead. Tippinogos. Tippinogos emergency room.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “we find out that Connor was working at the hospital, Timpanogos Regional Hospital, interning in the emergency department”
 
 </details>
 
@@ -255,7 +297,41 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (12)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (20)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (7)</summary>
+
+- [00:00:41](/episodes/ep-sKuYLNx3iRo.md#t-00-00-41) (Accusation) **Candace Owens**: ["Owens said, "I think Brian Harpole is a liar," and asserted that the e..."](/statements/statement-11818d372668.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:11](/episodes/ep-sKuYLNx3iRo.md#t-00-05-59) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said that on reaching the hospital, the group put Charli..."](/statements/statement-dded00e9291a.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:23](/episodes/ep-sKuYLNx3iRo.md#t-00-06-23) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said he got on top of Charlie Kirk and cut off Kirk's wh..."](/statements/statement-5878fdc2a1bc.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:49](/episodes/ep-sKuYLNx3iRo.md#t-00-06-23) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said he spoke with hospital staff about administering dr..."](/statements/statement-4820e138f191.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:09](/episodes/ep-sKuYLNx3iRo.md#t-00-07-00) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said he left the treatment room and stood guard outside ..."](/statements/statement-5aeb714e8329.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:26:05](/episodes/ep-sKuYLNx3iRo.md#t-00-26-05) (Claim) **Candace Owens**: ["Owens said Kash Patel's FBI team seized cameras from outside and insid..."](/statements/statement-e00e1d0a2cf0.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:13](/episodes/ep-sKuYLNx3iRo.md#t-00-28-13) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said Charlie Kirk was shot at about 12:20 and that the gro..."](/statements/statement-4c633d7116b1.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>
+
+- [00:05:52](/episodes/ep-9CuC1yf8-PU.md#t-00-05-52) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said he cut Charlie Kirk's white Freedom shirt off at th..."](/statements/statement-4ed72d01c5bb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (5)</summary>

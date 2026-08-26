@@ -1,6 +1,6 @@
 ---
 title: "Republican Party"
-description: "Republican Party (Organizations) - 15 mentions"
+description: "Republican Party (Organizations) - 16 mentions"
 id: "org-republican-party"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [Republican National Committee](https://gop.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38">2026-01-05 · 00:07:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14">2026-08-14 · 00:33:52</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -47,6 +47,7 @@ Source: [Republican National Committee](https://gop.com/)
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-republican-party-t-01-40-08" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#t-00-37-55" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-republican-party-t-00-03-42" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#t-00-32-49" style="--pulse-height:50%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14" style="--pulse-height:50%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -64,6 +65,7 @@ Source: [Republican National Committee](https://gop.com/)
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-republican-party-t-01-40-08) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#t-00-37-55) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-republican-party-t-00-03-42) | 2 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#t-00-32-49) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14) | 1 |
 
 </details>
@@ -72,13 +74,21 @@ Source: [Republican National Committee](https://gop.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:33:52](/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14)**
 > "She's harming Republicans in an election year"
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:33:03](/episodes/ep-3QJqtW_NOSI.md#t-00-32-49)**
+> "Republican"
 
 </details>
 

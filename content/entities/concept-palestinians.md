@@ -1,6 +1,6 @@
 ---
 title: "Palestinians"
-description: "Palestinians (Concepts) - 14 mentions"
+description: "Palestinians (Concepts) - 16 mentions"
 id: "concept-palestinians"
 type: "CONCEPT"
 aliases:
@@ -18,9 +18,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-concept-palestinians-t-00-46-58">2025-10-09 · 00:47:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-concept-palestinians-t-00-39-31">2026-05-28 · 00:39:50</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-concept-palestinians-t-00-31-31">2026-06-13 · 00:31:40</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,6 +36,8 @@ _Type: Concepts_
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-palestinians-t-00-30-37" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-palestinians-t-00-07-58" style="--pulse-height:80%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-concept-palestinians-t-00-05-37" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 5 mentions" title="2026-05-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-palestinians-t-00-33-19" style="--pulse-height:20%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-concept-palestinians-t-00-31-31" style="--pulse-height:20%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +48,8 @@ _Type: Concepts_
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-palestinians-t-00-30-37) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-palestinians-t-00-07-58) | 4 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-palestinians-t-00-05-37) | 5 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-palestinians-t-00-33-19) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-concept-palestinians-t-00-31-31) | 1 |
 
 </details>
 </section>
@@ -53,7 +57,23 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:31:40](/episodes/ep-WoXd4oLwd3w.md#ent-concept-palestinians-t-00-31-31)**
+> "These like terrible Palestinians, they don't have a right to any land."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:33:45](/episodes/ep-tXoI0TTKVrs.md#ent-concept-palestinians-t-00-33-19)**
+> "...knowledged that. I'm sure the Palestinians would like to live like that, but they can't."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (5 mentions)</summary>

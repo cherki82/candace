@@ -1,6 +1,6 @@
 ---
 title: "California"
-description: "California (Places) - 49 mentions"
+description: "California (Places) - 50 mentions"
 id: "gpe-california"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-california-t-00-04-56">2025-09-11 · 00:05:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-california-t-01-18-13">2026-05-28 · 01:18:13</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#t-00-19-44">2026-06-13 · 00:19:44</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -56,6 +56,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-california-t-00-42-49" style="--pulse-height:20%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#t-00-30-35" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-california-t-00-27-30" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-19-44" style="--pulse-height:20%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-california-t-00-42-49) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#t-00-30-35) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-california-t-00-27-30) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44) | 1 |
 
 </details>
 </section>
@@ -94,7 +96,15 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44)**
+> "Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. She's got Katherine Locastro. It's a young woman who works for Turning Point USA."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 247 mentions"
+description: "Brigitte Macron (People) - 250 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -25,8 +25,8 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-19-31">2025-09-11 · 00:19:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16">2026-08-14 · 02:22:25</a></strong></div>
-<div><span>Episodes</span><strong>55</strong></div>
-<div><span>Mentions</span><strong>247</strong></div>
+<div><span>Episodes</span><strong>58</strong></div>
+<div><span>Mentions</span><strong>250</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>34</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -91,6 +91,9 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-00-44" style="--pulse-height:23%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 10 mentions" title="2026-05-13 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-brigitte-macron-t-00-50-40" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-brigitte-macron-t-00-00-01" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 6 mentions" title="2026-05-26 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-brigitte-macron-t-00-24-54" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-brigitte-macron-t-00-49-35" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-brigitte-macron-t-00-57-37" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -151,6 +154,9 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-brigitte-macron-t-00-00-44) | 10 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-brigitte-macron-t-00-50-40) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-brigitte-macron-t-00-00-01) | 6 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-brigitte-macron-t-00-24-54) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-brigitte-macron-t-00-49-35) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-brigitte-macron-t-00-57-37) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16) | 2 |
 
 </details>
@@ -159,7 +165,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (247)</strong></summary>
+<summary><strong class="section-title">Raw mentions (250)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -169,6 +175,30 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 **[02:22:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16)**
 > "...ke I can't hack into Emmanuel Macron's bank accounts and say whether or not the informat..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:57:37](/episodes/ep-IqHsl7d2dos.md#ent-person-brigitte-macron-t-00-57-37)**
+> "... wants me to be bankrupted by Brigitte Macron who harmed a child."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:50:00](/episodes/ep-sKuYLNx3iRo.md#ent-person-brigitte-macron-t-00-49-35)**
+> "Brigitte Macron's hands"
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:25:17](/episodes/ep-19vHhjF7-NA.md#ent-person-brigitte-macron-t-00-24-54)**
+> "...hat did you do with Brigitte (Brigitte Macron)? You said you were calling Brigitte (Brigitte Ma..."
 
 </details>
 

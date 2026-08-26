@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 61 mentions"
+description: "The Wellness Company (Organizations) - 67 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29">2025-09-17 · 00:59:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41">2026-08-14 · 01:18:56</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>61</strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -59,6 +59,9 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-the-wellness-company-t-00-41-36" style="--pulse-height:50%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-the-wellness-company-t-00-27-33" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-the-wellness-company-t-00-14-38" style="--pulse-height:50%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-the-wellness-company-t-00-26-54" style="--pulse-height:50%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-31-31" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-26-36" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -88,6 +91,9 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-the-wellness-company-t-00-41-36) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-the-wellness-company-t-00-27-33) | 2 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-the-wellness-company-t-00-14-38) | 2 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-the-wellness-company-t-00-26-54) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-31-31) | 2 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-26-36) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41) | 1 |
 
 </details>
@@ -96,13 +102,46 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:18:56](/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41)**
 > "...ecommends Bactrim. That's why the wellness company created the medical emergency kit with generic Ba..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2 mentions)</summary>
+
+**[00:26:36](/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-26-36)**
+> "...o want to tell you guys about The Wellness Company, because right now Americans love sushi."
+
+**[00:27:17](/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-27-17)**
+> "The Wellness Company offers a hard-to-access prescription parasite cle..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2 mentions)</summary>
+
+**[00:31:31](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-31-31)**
+> "I also want to tell you guys about The Wellness Company"
+
+**[00:32:13](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-32-13)**
+> "The wellness company offers a hard-to-access Rx parasite cleanse, USA ..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2 mentions)</summary>
+
+**[00:26:54](/episodes/ep-tXoI0TTKVrs.md#ent-org-the-wellness-company-t-00-26-54)**
+> "...want to remind you guys about the wellness company because Americans love sushi. Over the last two d..."
+
+**[00:27:28](/episodes/ep-tXoI0TTKVrs.md#ent-org-the-wellness-company-t-00-27-28)**
+> "...ar as a preventative measure. The wellness company offers a hard to access RX parasite cleanse, USA ..."
 
 </details>
 
@@ -417,12 +456,14 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:27:58](/episodes/ep-7FS1tUeSfdE.md#t-00-27-33): “that's why i recommend having the contagion emergency kit from the wellness company already at home before you need it”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:14:48](/episodes/ep-Dkxa9OUA9K8.md#t-00-14-38): “Yes. I also want to tell you guys about the wellness company because Americans love sushi. Over the last two decades, raw fish consumption has exploded.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:31:31](/episodes/ep-sKuYLNx3iRo.md#t-00-31-31): “I also want to tell you guys about The Wellness Company, because Americans love sushi.”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:27:17](/episodes/ep-a2bZf4fic10.md#t-00-27-17): “The Wellness Company offers a hard-to-access prescription parasite cleanse, the USA-compounded ivermectin and mebendazole.”
 
 </details>
 
@@ -432,12 +473,14 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:27:58](/episodes/ep-7FS1tUeSfdE.md#t-00-27-33): “that's why i recommend having the contagion emergency kit from the wellness company already at home before you need it”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:14:48](/episodes/ep-Dkxa9OUA9K8.md#t-00-14-38): “Yes. I also want to tell you guys about the wellness company because Americans love sushi. Over the last two decades, raw fish consumption has exploded.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:31:31](/episodes/ep-sKuYLNx3iRo.md#t-00-31-31): “I also want to tell you guys about The Wellness Company, because Americans love sushi.”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:27:17](/episodes/ep-a2bZf4fic10.md#t-00-27-17): “The Wellness Company offers a hard-to-access prescription parasite cleanse, the USA-compounded ivermectin and mebendazole.”
 
 </details>
 

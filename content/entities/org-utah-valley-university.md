@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley University"
-description: "Utah Valley University (Organizations) - 188 mentions"
+description: "Utah Valley University (Organizations) - 193 mentions"
 id: "org-utah-valley-university"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-utah-valley-university-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-02-01-40">2026-08-14 · 02:02:13</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>188</strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>193</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -93,6 +93,9 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43" style="--pulse-height:22%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-07-03" style="--pulse-height:44%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-utah-valley-university-t-00-31-11" style="--pulse-height:22%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-utah-valley-university-t-00-22-58" style="--pulse-height:22%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-utah-valley-university-t-00-03-39" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-utah-valley-university-t-00-15-50" style="--pulse-height:22%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -152,6 +155,9 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-utah-valley-university-t-00-11-43) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-utah-valley-university-t-00-07-03) | 4 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-utah-valley-university-t-00-31-11) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-utah-valley-university-t-00-22-58) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-utah-valley-university-t-00-03-39) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-utah-valley-university-t-00-15-50) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-01-08-52) | 2 |
 
 </details>
@@ -160,7 +166,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (188)</strong></summary>
+<summary><strong class="section-title">Raw mentions (193)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -170,6 +176,36 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 **[02:02:13](/episodes/ep-nPhCKwJ6ye8.md#ent-org-utah-valley-university-t-02-01-40)**
 > "UVU's washed their hands of it. And what he's saying ..."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[00:16:22](/episodes/ep-EtLHqDbxqks.md#ent-org-utah-valley-university-t-00-15-50)**
+> "Speaking of which, I think I forgot to mention to you guys that on the top floor of the Losee Center, of all things, it's UVU's military affiliated student hub, known as their MASH Center."
+
+**[00:42:18](/episodes/ep-EtLHqDbxqks.md#ent-org-utah-valley-university-t-00-42-18)**
+> "... Robinson (Tyler Robinson) on Utah Valley University campus, uh arriving and leaving in a vehicle, arr..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:04:00](/episodes/ep-IqHsl7d2dos.md#ent-org-utah-valley-university-t-00-03-39)**
+> "...t would make sense. But nope, UVU's colors, it turns out, are green and white."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:23:24](/episodes/ep-WoXd4oLwd3w.md#ent-org-utah-valley-university-t-00-22-58)**
+> "like off the Israel train immediately. Right after this on July 18th, that's when the request goes in for UVU."
+
+**[00:24:35](/episodes/ep-WoXd4oLwd3w.md#ent-org-utah-valley-university-t-00-24-23)**
+> "...he first one's going to be at UVU and me the CEO is going to travel with you at thi..."
 
 </details>
 
@@ -1056,16 +1092,23 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>Includes (2)</summary>
+<summary>Includes (3)</summary>
 
-- **[Lozier Center](/entities/org-lozier-center.md)**
+- **[Losee Center](/entities/org-losee-center.md)**
 
 - **[Sorensen Center](/entities/org-sorensen-center.md)**
+
+- **[Military-Affiliated Student Hub](/entities/org-military-affiliated-student-hub.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:16:22](/episodes/ep-EtLHqDbxqks.md#t-00-15-50): “Speaking of which, I think I forgot to mention to you guys that on the top floor of the Losee Center, of all things, it's UVU's military affiliated student hub, known as their MASH Center.”
+
+</details>
 
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Orem](/entities/gpe-orem.md)** headquarters of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1088,9 +1131,16 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 
 </details>
 
-- **[Lozier Center](/entities/org-lozier-center.md)** part of this
+- **[Losee Center](/entities/org-losee-center.md)** part of this
 
 - **[Sorensen Center](/entities/org-sorensen-center.md)** part of this
+
+- **[Military-Affiliated Student Hub](/entities/org-military-affiliated-student-hub.md)** part of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:16:22](/episodes/ep-EtLHqDbxqks.md#t-00-15-50): “Speaking of which, I think I forgot to mention to you guys that on the top floor of the Losee Center, of all things, it's UVU's military affiliated student hub, known as their MASH Center.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke at this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1112,13 +1162,38 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley University (21)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley University (26)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [01:58:01](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) (Claim) **Candace Owens** (via paraphrase): ["An unnamed source told Candace Owens that Tyler Robinson did not set f..."](/statements/statement-82eb250891a7.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3)</summary>
+
+- [00:13:44](/episodes/ep-EtLHqDbxqks.md#t-00-13-44) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Tyler Robinson's family told her that he was around..."](/statements/statement-496386c96da6.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:23:33](/episodes/ep-EtLHqDbxqks.md#t-00-23-01) (Claim) **Candace Owens**: ["Candace Owens argued that Tyler Robinson could not have been monitorin..."](/statements/statement-06f27f97bf32.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md)
+
+- [01:20:10](/episodes/ep-EtLHqDbxqks.md#t-01-19-45) (Claim) **Candace Owens**: ["Candace Owens said she believes Tyler Robinson was around the Utah Val..."](/statements/statement-d29a36876919.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dairy Queen](/entities/org-dairy-queen.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2)</summary>
+
+- [00:23:24](/episodes/ep-WoXd4oLwd3w.md#t-00-22-58) (Claim) **Candace Owens**: ["Candace Owens said a request for Charlie Kirk to speak at Utah Valley ..."](/statements/statement-c58dc6ef33c5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:24:35](/episodes/ep-WoXd4oLwd3w.md#t-00-24-23) (Claim) **Candace Owens**: ["Candace Owens claimed Yrefy expanded an existing sponsorship agreement..."](/statements/statement-78614a23d7e1.md)
+  - Also about: [Yrefy](/entities/org-yrefy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

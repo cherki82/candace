@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (401 times)
+## Mentioned In (402 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -3220,3 +3220,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1088);return false;">▶️ Play</a>
 
 > In another report, they argue that distrust surrounding Charlie Kirk's assassination
+
+### 402. I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 3...
+
+**Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
+**Timestamp:** [00:27:32](/episodes/ep-EtLHqDbxqks.md#t-00-27-19) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1652);return false;">▶️ Play</a>
+
+> that day when Charlie was shot or had an exploding mic

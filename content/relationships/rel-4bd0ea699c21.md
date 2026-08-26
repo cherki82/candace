@@ -11,7 +11,7 @@ object: "org-balance-of-nature"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Balance of Nature](/entities/org-balance-of-nature)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -20,6 +20,10 @@ object: "org-balance-of-nature"
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:34:19](/episodes/ep-2tFYJf1klgY#t-00-34-19): _I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition_
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:31:12](/episodes/ep-IqHsl7d2dos#t-00-31-12): _It includes fruits and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com and get 10% off their fruits and veggie supplements with the promo code Candace at checkout._
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 

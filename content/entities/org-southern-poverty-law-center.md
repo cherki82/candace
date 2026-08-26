@@ -1,6 +1,6 @@
 ---
 title: "Southern Poverty Law Center"
-description: "Southern Poverty Law Center (Organizations) - 4 mentions"
+description: "Southern Poverty Law Center (Organizations) - 5 mentions"
 id: "org-southern-poverty-law-center"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About | Southern Poverty Law Center](https://www.splcenter.org/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-org-southern-poverty-law-center-t-00-40-07">2026-01-16 · 00:40:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-southern-poverty-law-center-t-01-03-30">2026-04-29 · 01:03:52</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-org-southern-poverty-law-center-t-00-25-37">2026-06-11 · 00:25:46</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [About | Southern Poverty Law Center](https://www.splcenter.org/about/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-southern-poverty-law-center-t-00-40-07" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-southern-poverty-law-center-t-01-03-30" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-southern-poverty-law-center-t-00-25-37" style="--pulse-height:33%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [About | Southern Poverty Law Center](https://www.splcenter.org/about/)
 |---|---|---:|
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-southern-poverty-law-center-t-00-40-07) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-southern-poverty-law-center-t-01-03-30) | 3 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-southern-poverty-law-center-t-00-25-37) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [About | Southern Poverty Law Center](https://www.splcenter.org/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:25:46](/episodes/ep-19vHhjF7-NA.md#ent-org-southern-poverty-law-center-t-00-25-37)**
+> "...g on here? I am funded by the SPLC. Larry (Laura Loomer), please no. As I reported, ..."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (3 mentions)</summary>

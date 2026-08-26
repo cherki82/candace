@@ -6,6 +6,8 @@ type: "WORK"
 aliases:
   - "The Ties That Bind"
   - "Ties That Bind"
+  - "The Bride of Charlie"
+  - "Bride of Charlie"
 categories:
   - "video series"
   - "Candace Owens"
@@ -13,7 +15,7 @@ categories:
 
 _Type: Works & Media_
 
-**Also known as:** The Ties That Bind, Ties That Bind
+**Also known as:** The Ties That Bind, Ties That Bind, The Bride of Charlie, Bride of Charlie
 
 **Categories:** video series, Candace Owens
 
@@ -23,7 +25,7 @@ Source: [Bride Of Charlie: The Ties That Bind | Episode 4](https://www.youtube.c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#t-00-01-59">2026-03-02 · 00:02:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#t-00-50-18">2026-05-13 · 00:50:40</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-work-bride-of-charlie-the-ties-that-bind-t-00-50-18">2026-05-13 · 00:50:40</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -38,7 +40,7 @@ Source: [Bride Of Charlie: The Ties That Bind | Episode 4](https://www.youtube.c
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jTj9Ip46r4w.md#t-00-01-59" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#t-00-19-59" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#t-00-50-18" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-work-bride-of-charlie-the-ties-that-bind-t-00-50-18" style="--pulse-height:100%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,7 +48,7 @@ Source: [Bride Of Charlie: The Ties That Bind | Episode 4](https://www.youtube.c
 |---|---|---:|
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-01-59) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#t-00-19-59) | 1 |
-| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#t-00-50-18) | 1 |
+| 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-work-bride-of-charlie-the-ties-that-bind-t-00-50-18) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,7 @@ Source: [Bride Of Charlie: The Ties That Bind | Episode 4](https://www.youtube.c
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
 
-**[00:50:40](/episodes/ep-4DvYXBn_5JI.md#t-00-50-18)**
+**[00:50:40](/episodes/ep-4DvYXBn_5JI.md#ent-work-bride-of-charlie-the-ties-that-bind-t-00-50-18)**
 > "Bride of Charlie"
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Zachariah Qureshi"
-description: "Zachariah Qureshi (People) - 13 mentions"
+description: "Zachariah Qureshi (People) - 16 mentions"
 id: "person-zachariah-qureshi"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-zachariah-qureshi-t-00-38-41">2026-03-30 · 00:38:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10">2026-04-02 · 00:02:33</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-zachariah-qureshi-t-01-10-56">2026-06-16 · 01:10:56</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-zachariah-qureshi-t-00-38-41" style="--pulse-height:10%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-zachariah-qureshi-t-00-07-03" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 10 mentions" title="2026-04-01 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-01-20" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-zachariah-qureshi-t-01-10-33" style="--pulse-height:30%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 3 mentions" title="2026-06-16 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-zachariah-qureshi-t-00-38-41) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-zachariah-qureshi-t-00-07-03) | 10 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-01-20) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-zachariah-qureshi-t-01-10-33) | 3 |
 
 </details>
 </section>
@@ -53,7 +55,21 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3 mentions)</summary>
+
+**[01:10:33](/episodes/ep-h76ZN-xXC6c.md#ent-person-zachariah-qureshi-t-01-10-33)**
+> "We're looking into Zachariah Qureshi. His father was one half of the built organizatio..."
+
+**[01:10:56](/episodes/ep-h76ZN-xXC6c.md#ent-person-zachariah-qureshi-t-01-10-56)**
+> "that Zachariah Qureshi gets pulled they both attended BYU at the same ti..."
+
+**[01:10:08](/episodes/ep-h76ZN-xXC6c.md#ent-person-zachariah-qureshi-t-01-09-57)**
+> "But what is interesting is that our our decoy boy number two. is longtime friends with Connor Henderson we talked about how those are the sons of the the BILT Incorporated you'd have to go back and watch the episode but we did unpack that I can't think of the name of decoy boy number two it was George Zinn and then it was that like Sam he had like Zachariah Qureshi, that's right."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
@@ -115,12 +131,19 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Attended (1)</summary>
+<summary>Attended (2)</summary>
 
 - **[BYU](/entities/org-byu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+
+</details>
+
+- **[Brigham Young University](/entities/org-brigham-young-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:56](/episodes/ep-h76ZN-xXC6c.md#t-01-10-56): “that Zachariah Qureshi gets pulled they both attended BYU at the same time”
 
 </details>
 
@@ -142,16 +165,29 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 <summary>Formerly Worked For (1)</summary>
 
 - **[BILT Incorporated](/entities/org-bilt-incorporated.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:14](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “They very clearly were interning together at the BILT Incorporated”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Friend Of (1)</summary>
+
+- **[Connor Henderson](/entities/person-connor-henderson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:08](/episodes/ep-h76ZN-xXC6c.md#t-01-09-57): “But what is interesting is that our our decoy boy number two. is longtime friends with Connor Henderson we talked about how those are the sons of the the BILT Incorporated you'd have to go back and watch the episode but we did unpack that I can't think of the name of decoy boy number two it was George Zinn and then it was that like Sam he had like Zachariah Qureshi, that's right.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
 
 - **[BYU](/entities/org-byu.md)** attended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -160,10 +196,25 @@ Source: [Parents blame sloppy police work for son's brief detainment | Salt Lake
 
 </details>
 
-- **[BILT Incorporated](/entities/org-bilt-incorporated.md)** formerly employed this
+- **[Brigham Young University](/entities/org-brigham-young-university.md)** attended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:56](/episodes/ep-h76ZN-xXC6c.md#t-01-10-56): “that Zachariah Qureshi gets pulled they both attended BYU at the same time”
+
+</details>
+
+- **[BILT Incorporated](/entities/org-bilt-incorporated.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:14](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “They very clearly were interning together at the BILT Incorporated”
+
+</details>
+
+- **[Connor Henderson](/entities/person-connor-henderson.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:08](/episodes/ep-h76ZN-xXC6c.md#t-01-09-57): “But what is interesting is that our our decoy boy number two. is longtime friends with Connor Henderson we talked about how those are the sons of the the BILT Incorporated you'd have to go back and watch the episode but we did unpack that I can't think of the name of decoy boy number two it was George Zinn and then it was that like Sam he had like Zachariah Qureshi, that's right.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Iran–Contra affair"
-description: "Iran–Contra affair (Events) - 10 mentions"
+description: "Iran–Contra affair (Events) - 11 mentions"
 id: "event-iran-contra-affair"
 type: "EVENT"
 aliases:
@@ -8,17 +8,21 @@ aliases:
   - "Iran-Contra"
   - "Iran-Contra scandal"
   - "Iran-Contra Affair"
+categories:
+  - "United States political scandal"
 ---
 
 _Type: Events_
 
 **Also known as:** Iran-Contra affair, Iran-Contra, Iran-Contra scandal, Iran-Contra Affair
 
+**Categories:** United States political scandal
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-14">2025-12-09 · 00:00:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-51-36">2026-01-09 · 00:52:11</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-event-iran-contra-affair-t-00-40-06">2026-06-26 · 00:40:06</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,6 +35,7 @@ _Type: Events_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-14" style="--pulse-height:67%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-48-07" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-event-iran-contra-affair-t-00-40-06" style="--pulse-height:17%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -38,6 +43,7 @@ _Type: Events_
 |---|---|---:|
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-14) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-48-07) | 6 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-event-iran-contra-affair-t-00-40-06) | 1 |
 
 </details>
 </section>
@@ -45,7 +51,15 @@ _Type: Events_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:40:06](/episodes/ep-IqHsl7d2dos.md#ent-event-iran-contra-affair-t-00-40-06)**
+> "...with weapons trafficking, the Iran-Contra scandal brought in by Ghislaine Maxwell's father."
+
+</details>
 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (6 mentions)</summary>

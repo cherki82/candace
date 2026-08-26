@@ -1,6 +1,6 @@
 ---
 title: "Stacy Sheridan"
-description: "Stacy Sheridan (People) - 29 mentions"
+description: "Stacy Sheridan (People) - 30 mentions"
 id: "person-stacy-sheridan"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#t-00-17-07">2026-01-21 · 00:17:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-stacy-sheridan-t-00-53-01">2026-04-02 · 00:53:01</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-stacy-sheridan-t-00-29-50">2026-06-13 · 00:29:50</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
@@ -39,6 +39,7 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-stacy-sheridan-t-00-06-56" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-stacy-sheridan-t-00-08-12" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-stacy-sheridan-t-00-53-01" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-stacy-sheridan-t-00-29-50" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-stacy-sheridan-t-00-06-56) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-stacy-sheridan-t-00-08-12) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-stacy-sheridan-t-00-53-01) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-stacy-sheridan-t-00-29-50) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [At This Trump-Favored Charity, Financial Reporting Is Questionable and 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:29:50](/episodes/ep-WoXd4oLwd3w.md#ent-person-stacy-sheridan-t-00-29-50)**
+> "I'm a Catholic if I'm in the back of a church and I'm with this donor who's got a lot of money and Stacy Sheridan taps on their shoulder and I share how Charlie (Charlie Kirk) was about to become Catholic."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Foreign Agents Registration Act"
-description: "Foreign Agents Registration Act (Laws & Legislation) - 33 mentions"
+description: "Foreign Agents Registration Act (Laws & Legislation) - 34 mentions"
 id: "law-fara"
 type: "LAW"
 aliases:
@@ -23,9 +23,9 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-law-fara-t-00-40-37">2025-09-22 · 00:40:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-law-fara-t-00-06-53">2026-06-09 · 00:06:53</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-law-fara-t-00-52-15">2026-07-14 · 00:52:54</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,6 +48,7 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-law-fara-t-00-14-21" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 14 mentions" title="2026-05-05 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-law-fara-t-00-01-56" style="--pulse-height:21%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-law-fara-t-00-06-53" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-law-fara-t-00-52-15" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-law-fara-t-00-14-21) | 14 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-law-fara-t-00-01-56) | 3 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-law-fara-t-00-06-53) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-law-fara-t-00-52-15) | 1 |
 
 </details>
 </section>
@@ -72,7 +74,15 @@ Source: [Foreign Agents Registration Act - DOJ](https://www.justice.gov/nsd-fara
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:52:54](/episodes/ep-EtLHqDbxqks.md#ent-law-fara-t-00-52-15)**
+> "And now I get why they had to file for FARA, right? Like, I mean, people are getting paid."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Doug DeGroote"
-description: "Doug DeGroote (People) - 6 mentions"
+description: "Doug DeGroote (People) - 7 mentions"
 id: "person-doug-degroote"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Our Mission to Save America's Culture | Turning Point USA](https://tpus
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-doug-degroote-t-00-08-46">2026-01-28 · 00:09:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-doug-degroote-t-00-31-37">2026-05-20 · 00:31:55</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-person-doug-degroote-t-00-32-13">2026-06-26 · 00:32:45</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -35,6 +35,7 @@ Source: [Our Mission to Save America's Culture | Turning Point USA](https://tpus
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-doug-degroote-t-00-23-00" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-doug-degroote-t-00-59-28" style="--pulse-height:33%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-doug-degroote-t-00-31-37" style="--pulse-height:33%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-doug-degroote-t-00-32-13" style="--pulse-height:33%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Our Mission to Save America's Culture | Turning Point USA](https://tpus
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-doug-degroote-t-00-23-00) | 3 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-doug-degroote-t-00-59-28) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-doug-degroote-t-00-31-37) | 1 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-doug-degroote-t-00-32-13) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Our Mission to Save America's Culture | Turning Point USA](https://tpus
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:32:45](/episodes/ep-a2bZf4fic10.md#ent-person-doug-degroote-t-00-32-13)**
+> "...like, the meetings with Doug DeGroote, talking about investments and what you're going ..."
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>

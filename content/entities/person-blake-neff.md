@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 203 mentions"
+description: "Blake Neff (People) - 225 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36">2026-06-09 · 01:00:36</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>203</strong></div>
-<div><span>Statements by</span><strong>21</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-01-15-59">2026-07-14 · 01:15:59</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>225</strong></div>
+<div><span>Statements by</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -80,6 +80,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-06" style="--pulse-height:19%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-blake-neff-t-01-03-29" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-blake-neff-t-00-16-41" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-31-11" style="--pulse-height:12%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-30-41" style="--pulse-height:12%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-04-32" style="--pulse-height:25%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45" style="--pulse-height:56%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 9 mentions" title="2026-06-22 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-25-15" style="--pulse-height:12%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-00-21-46" style="--pulse-height:12%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -129,6 +136,13 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-blake-neff-t-00-40-06) | 3 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-blake-neff-t-01-03-29) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-blake-neff-t-00-16-41) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-31-11) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-30-41) | 2 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-04-32) | 4 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45) | 9 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-25-15) | 2 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-00-21-46) | 2 |
 
 </details>
 </section>
@@ -136,7 +150,108 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (203)</strong></summary>
+<summary><strong class="section-title">Raw mentions (225)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[00:21:46](/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-00-21-46)**
+> "Forgot to mention when we showed you this evidence of Tyler Robinson's car that the person who captured it said that they saw a bald man and three other people. By the way, paging Blake Neff."
+
+**[01:15:59](/episodes/ep-EtLHqDbxqks.md#ent-person-blake-neff-t-01-15-59)**
+> "...wait. cannot wait to get into Blake Neff not remembering a lot of important things regardi..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2 mentions)</summary>
+
+**[00:25:24](/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-25-15)**
+> "Your move, Blake Neff, your move, Charlie Kirk's real friends, to make ..."
+
+**[00:40:04](/episodes/ep-a2bZf4fic10.md#ent-person-blake-neff-t-00-39-35)**
+> "... do too. Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (9 mentions)</summary>
+
+**[00:44:59](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45)**
+> "Anyway, Blakey (Blake Neff) responded. I want you to know why it's important..."
+
+**[00:45:06](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45)**
+> "...er Carlson) was so nice about Blake Neff. So nice. So nice about Erika (Erika Kirk). So ni..."
+
+**[00:45:14](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45)**
+> "Of course, Blakey (Blake Neff). You can see how quickly he would have stabbed C..."
+
+**[00:45:31](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-45-22)**
+> "No, Blake Neff, you're lying. And some audio is going to show th..."
+
+**[00:46:41](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-46-41)**
+> "...se. Anyway, countering Blake (Blake Neff), obviously, is the fact that the exact opposite ..."
+
+**[00:48:08](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-48-08)**
+> "Blake Neff is a liar. He is a coward. He is a backstabber an..."
+
+**[00:49:11](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-48-45)**
+> "Every time Blake Neff opens his mouth, a conspiracy theorist gets his w..."
+
+**[00:58:45](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-58-35)**
+> "...f I had to guess, it would be Blake Neff because he's a weasel."
+
+**[01:00:33](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-01-00-33)**
+> "...e saying that we need Blakey (Blake Neff) merch. I don't know what I said that people want..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (4 mentions)</summary>
+
+**[00:04:39](/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-04-32)**
+> "... have put Mikey McCoy, Blakey Neff, and the entire team that were on board that jet ..."
+
+**[00:50:55](/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-50-55)**
+> "...d we'll just keep sending out Blake Neff to tweet and scream and we'll send out Dana Lash ..."
+
+**[00:55:46](/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-55-46)**
+> "...staff, the Michael McCoy, the Blake Neff, the Andrew Seifer, another person who's been wit..."
+
+**[00:59:25](/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-59-25)**
+> "...ly wrong by the day. The more Blake Neff talks, the more guilty they look, the more that t..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
+
+**[00:31:09](/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-30-41)**
+> "Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it."
+
+**[00:35:00](/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-35-00)**
+> "...fe and he didn't call 911 and Blake Neff didn't call 911. He called his mother and neither..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:31:35](/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-31-11)**
+> "And Andrew Kolvet and Blake Neff went on to Charlie Kirk Show, shame it's still ca..."
+
+**[00:34:25](/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-34-03)**
+> "They send out Blake Neff because he's not an official, he's not at all act..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:16:51](/episodes/ep-tXoI0TTKVrs.md#ent-person-blake-neff-t-00-16-41)**
+> ".... Thank you. And to be clear, Blake Neff does not work for Turning Point USA."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -970,7 +1085,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared With (2)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -979,10 +1094,17 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:31:35](/episodes/ep-19vHhjF7-NA.md#t-00-31-11): “Andrew Kolvet and Blake Neff went on to Charlie Kirk Show”
+
+</details>
+
 </details>
 
 <details>
-<summary>Criticized (3)</summary>
+<summary>Criticized (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
@@ -1009,13 +1131,20 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... Actually, those of us who knew Charlie (Charlie Kirk) best—a group that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker (Tucker Carlson) is lying.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1027,6 +1156,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:02](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “So I hope that helps. I know it's difficult. Like I said, when you lie, you have to have a good memory.”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:24:27](/episodes/ep-1QZ4X6q1DPg.md#t-00-24-20): “I called out Blake Neff. He writes this long tweet thinking that this was the booyah, booyah boy Blake (Blake Neff) over here.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08): “Blake Neff is a liar. He is a coward. He is a backstabber”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
 
 </details>
 
@@ -1036,9 +1168,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Formerly Worked For (1)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:44:59](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... he used to work for Tucker Carlson”
 
 </details>
 
@@ -1060,13 +1193,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:54](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to Mikey McCoy”
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:00:57](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-43): “I opened the tweets, which went out from Blake Neff around midnight last night”
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:03:53](/episodes/ep-DqGNvi36ol8.md#t-00-03-41)
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:00:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00): “But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff”
 
 </details>
 
@@ -1082,7 +1216,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1091,8 +1225,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:31:35](/episodes/ep-19vHhjF7-NA.md#t-00-31-11): “Andrew Kolvet and Blake Neff went on to Charlie Kirk Show”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (13)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1104,6 +1245,9 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:02](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “So I hope that helps. I know it's difficult. Like I said, when you lie, you have to have a good memory.”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:24:27](/episodes/ep-1QZ4X6q1DPg.md#t-00-24-20): “I called out Blake Neff. He writes this long tweet thinking that this was the booyah, booyah boy Blake (Blake Neff) over here.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08): “Blake Neff is a liar. He is a coward. He is a backstabber”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
 
 </details>
 
@@ -1132,11 +1276,19 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 </details>
 
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... Actually, those of us who knew Charlie (Charlie Kirk) best—a group that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker (Tucker Carlson) is lying.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:31:31](/episodes/ep-581dILVcEE4.md#t-00-31-27): “Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:00:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-00-00): “But I'm still wondering how Blake Neff is still employed. Blake Neff, he is my favorite of the shady bunch over at Turning Point USA because I just don't know how he does it, right?”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff”
 
 </details>
 
@@ -1150,9 +1302,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:44:59](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... he used to work for Tucker Carlson”
 
 </details>
 
@@ -1168,7 +1321,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (21)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (22)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
+
+- [00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45) [✓] (Accusation) ["Those of us who knew Charlie Kirk best—a group that does not include Tucker Carl..."](/statements/statement-607e9bf642ac.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
@@ -1281,7 +1442,31 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (19)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (22)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
+
+- [00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08) (Accusation) **Candace Owens**: ["Blake Neff is lying and betraying Charlie Kirk by pretending Charlie w..."](/statements/statement-3284f665487f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+
+- [00:34:55](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19) (Accusation) **Candace Owens**: ["Owens said Blake Neff called his mother rather than 911 after Charlie ..."](/statements/statement-ea591d600db9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:34:25](/episodes/ep-19vHhjF7-NA.md#t-00-34-03) (Claim) **Candace Owens**: ["Owens said Blake Neff is not an employee of Turning Point USA."](/statements/statement-2e2f77e5a151.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>

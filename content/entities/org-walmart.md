@@ -1,6 +1,6 @@
 ---
 title: "Walmart"
-description: "Walmart (Organizations) - 7 mentions"
+description: "Walmart (Organizations) - 9 mentions"
 id: "org-walmart"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About Walmart](https://corporate.walmart.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-walmart-t-00-57-10">2026-01-21 · 00:57:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-walmart-t-00-28-54">2026-05-18 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-org-walmart-t-00-44-44">2026-06-26 · 00:45:06</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,8 @@ Source: [About Walmart](https://corporate.walmart.com/about)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-walmart-t-00-48-32" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-walmart-t-01-16-29" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-walmart-t-00-28-54" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-walmart-t-00-28-56" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-org-walmart-t-00-44-44" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +52,8 @@ Source: [About Walmart](https://corporate.walmart.com/about)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-walmart-t-00-48-32) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-walmart-t-01-16-29) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-walmart-t-00-28-54) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-walmart-t-00-28-56) | 1 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-walmart-t-00-44-44) | 1 |
 
 </details>
 </section>
@@ -57,7 +61,23 @@ Source: [About Walmart](https://corporate.walmart.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:45:06](/episodes/ep-a2bZf4fic10.md#ent-org-walmart-t-00-44-44)**
+> "...to you guys the early morning Walmart stuff when your suitcase didn't go through a brok..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:29:03](/episodes/ep-tXoI0TTKVrs.md#ent-org-walmart-t-00-28-56)**
+> "...lable at Target, Whole Foods, Walmart, Amazon, CVS, and Walgreens."
+
+</details>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>

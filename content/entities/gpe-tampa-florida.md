@@ -1,6 +1,6 @@
 ---
 title: "Tampa, Florida"
-description: "Tampa, Florida (Places) - 3 mentions"
+description: "Tampa, Florida (Places) - 4 mentions"
 id: "gpe-tampa-florida"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [About Us - City of Tampa](https://www.tampa.gov/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-tampa-florida-t-00-13-22">2026-02-05 · 00:13:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-tampa-florida-t-00-38-20">2026-02-05 · 00:38:58</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-tampa-florida-t-00-15-59">2026-06-11 · 00:15:59</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,12 +38,14 @@ Source: [About Us - City of Tampa](https://www.tampa.gov/about-us)
 <p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-tampa-florida-t-00-38-20">An Open Letter To Erika Kirk | Candace Ep 303</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-tampa-florida-t-00-38-20" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-tampa-florida-t-00-15-59" style="--pulse-height:33%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-tampa-florida-t-00-38-20) | 3 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-tampa-florida-t-00-15-59) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [About Us - City of Tampa](https://www.tampa.gov/about-us)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:15:59](/episodes/ep-19vHhjF7-NA.md#ent-gpe-tampa-florida-t-00-15-59)**
+> "...ntral Command Headquarters in Tampa, Florida yesterday, just kind of sounding in general like ..."
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (3 mentions)</summary>

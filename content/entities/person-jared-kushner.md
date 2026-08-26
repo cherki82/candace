@@ -1,6 +1,6 @@
 ---
 title: "Jared Kushner"
-description: "Jared Kushner (People) - 33 mentions"
+description: "Jared Kushner (People) - 43 mentions"
 id: "person-jared-kushner"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58">2025-10-09 · 00:47:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-12-53">2026-05-21 · 01:13:13</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jared-kushner-t-00-42-32">2026-06-24 · 00:42:42</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,9 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jared-kushner-t-00-13-37" style="--pulse-height:12%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-jared-kushner-t-00-02-36" style="--pulse-height:12%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-11-13" style="--pulse-height:38%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-28-56" style="--pulse-height:62%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 5 mentions" title="2026-06-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-jared-kushner-t-00-02-01" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jared-kushner-t-00-42-32" style="--pulse-height:12%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +65,9 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jared-kushner-t-00-13-37) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-jared-kushner-t-00-02-36) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-11-13) | 3 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-28-56) | 5 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-jared-kushner-t-00-02-01) | 4 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jared-kushner-t-00-42-32) | 1 |
 
 </details>
 </section>
@@ -69,7 +75,52 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:42:42](/episodes/ep-sKuYLNx3iRo.md#ent-person-jared-kushner-t-00-42-32)**
+> "if it's Jared Kushner"
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (4 mentions)</summary>
+
+**[00:02:13](/episodes/ep-19vHhjF7-NA.md#ent-person-jared-kushner-t-00-02-01)**
+> "... it, she swam, her and Jared (Jared Kushner) then ran barefoot on the island like Adam and Ev..."
+
+**[00:08:21](/episodes/ep-19vHhjF7-NA.md#ent-person-jared-kushner-t-00-07-57)**
+> "... her beautiful retelling. But Jared Kushner did explain what happened on that yacht and it fe..."
+
+**[00:17:55](/episodes/ep-19vHhjF7-NA.md#ent-person-jared-kushner-t-00-17-29)**
+> "... She was barefoot with Jared (Jared Kushner). Did I mention they were barefoot? Doesn't that ..."
+
+**[00:39:38](/episodes/ep-19vHhjF7-NA.md#ent-person-jared-kushner-t-00-39-33)**
+> "...Albania. I don't believe that Jared Kushner never heard of the country."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (5 mentions)</summary>
+
+**[00:29:17](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-28-56)**
+> "...So Ivanka Trump is married to Jared Kushner. Jared Kushner is obviously evil."
+
+**[00:33:19](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-33-19)**
+> "...ing to people like, you know, Jared Kushner and Bibi (Benjamin Netanyahu) Netanyahu."
+
+**[00:35:41](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-35-15)**
+> "...ust swimming and she was like jared"
+
+**[00:35:50](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-35-50)**
+> "...should we swim over there and jared turned over to nat rothschild and he was like do ..."
+
+**[00:38:12](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-38-01)**
+> "... to Donald Trump's son-in-law Jared Kushner in a region known for its rich biodiversity."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (3 mentions)</summary>
@@ -231,6 +282,18 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Affiliated With (1)</summary>
+
+- **[Affinity Partners](/entities/org-affinity-partners.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:38:43](/episodes/ep-tXoI0TTKVrs.md#t-00-38-43): “The multi-billion euro project spearheaded by Kushner's investment firm Affinity Partners aims to build two ultra luxury resort complexes, one in the wildlife reserve of the Nata Lagoon area and the other on a remote island that served as a secret military base during the communist regime. On site construction has barely begun but the installation of barbed wire on this beach last week sparked outrage among local residents.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Hunter Biden](/entities/person-hunter-biden.md)**
@@ -243,13 +306,38 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 </details>
 
 <details>
+<summary>Friend Of (1)</summary>
+
+- **[Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:08:50](/episodes/ep-19vHhjF7-NA.md#t-00-08-42): “We were on our friend Nat Rothschild's boat.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (1)</summary>
+
+- **[Edi Rama](/entities/person-edi-rama.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:08:59](/episodes/ep-19vHhjF7-NA.md#t-00-08-42): “Prime Minister Rama (Edi Rama) came to the boat. I had not met him when I was in government”
+
+</details>
+
+</details>
+
+<details>
 <summary>Son-In-Law Of (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31): “the president of the United States, likely under the instruction of his son-in-law, Jared Kushner”
 - [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “he is the ambassador at large on behalf of the Trump administration, not as a political pointy, but simply as a son-in-law of the president.”
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:38:12](/episodes/ep-tXoI0TTKVrs.md#t-00-38-01): “The bird has become a symbol of intensifying protests against a vast real estate project linked to Donald Trump's son-in-law Jared Kushner in a region known for its rich biodiversity.”
 
 </details>
 
@@ -269,7 +357,7 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Hunter Biden](/entities/person-hunter-biden.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -286,11 +374,33 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 </details>
 
+- **[Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:08:50](/episodes/ep-19vHhjF7-NA.md#t-00-08-42): “We were on our friend Nat Rothschild's boat.”
+
+</details>
+
+- **[Ivanka Trump](/entities/person-ivanka-trump.md)** married to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:29:17](/episodes/ep-tXoI0TTKVrs.md#t-00-28-56): “Okay, let's talk about Ivanka Trump. So Ivanka Trump is married to Jared Kushner. Jared Kushner is obviously evil.”
+
+</details>
+
+- **[Edi Rama](/entities/person-edi-rama.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:08:59](/episodes/ep-19vHhjF7-NA.md#t-00-08-42): “Prime Minister Rama (Edi Rama) came to the boat. I had not met him when I was in government”
+
+</details>
+
 - **[Donald J. Trump](/entities/person-donald-trump.md)** parent-in-law of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:10:38](/episodes/ep-5-HUyv9LyMg.md#t-00-10-31): “the president of the United States, likely under the instruction of his son-in-law, Jared Kushner”
 - [Candace x Hunter Biden: The Interview @ 01:13:13](/episodes/ep-Ux1kzgQxkws.md#t-01-12-53): “he is the ambassador at large on behalf of the Trump administration, not as a political pointy, but simply as a son-in-law of the president.”
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:38:12](/episodes/ep-tXoI0TTKVrs.md#t-00-38-01): “The bird has become a symbol of intensifying protests against a vast real estate project linked to Donald Trump's son-in-law Jared Kushner in a region known for its rich biodiversity.”
 
 </details>
 
@@ -301,12 +411,78 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 
 </details>
 
+- **[Ivanka Trump](/entities/person-ivanka-trump.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:31:10](/episodes/ep-tXoI0TTKVrs.md#t-00-31-10): “I'm working on an incredible project ... with my husband. ... in the Mediterranean. It's massive in scale.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jared Kushner (7)</strong></summary>
+<summary><strong class="section-title">Statements by Jared Kushner (2)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
+
+- [00:08:42](/episodes/ep-19vHhjF7-NA.md#t-00-08-42) [✓] (Claim) ["Jared Kushner said that in summer 2021 he and others vacationed on Nat Rothschil..."](/statements/statement-eebe22a2c12a.md)
+  - About: [Jared Kushner](/entities/person-jared-kushner.md), [Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md), [Montenegro](/entities/gpe-montenegro.md)
+
+- [00:08:59](/episodes/ep-19vHhjF7-NA.md#t-00-08-42) [✓] (Claim) ["Jared Kushner said that Albanian Prime Minister Edi Rama came aboard Nat Rothsch..."](/statements/statement-93d17edc311f.md)
+  - About: [Jared Kushner](/entities/person-jared-kushner.md), [Edi Rama](/entities/person-edi-rama.md), [Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jared Kushner (18)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
+
+- [00:08:42](/episodes/ep-19vHhjF7-NA.md#t-00-08-42) (Claim) **Jared Kushner** (via quoted speech): ["Jared Kushner said that in summer 2021 he and others vacationed on Nat..."](/statements/statement-eebe22a2c12a.md)
+  - Also about: [Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md), [Montenegro](/entities/gpe-montenegro.md), [Corfu](/entities/gpe-corfu.md)
+
+- [00:08:59](/episodes/ep-19vHhjF7-NA.md#t-00-08-42) (Claim) **Jared Kushner** (via quoted speech): ["Jared Kushner said that Albanian Prime Minister Edi Rama came aboard N..."](/statements/statement-93d17edc311f.md)
+  - Also about: [Edi Rama](/entities/person-edi-rama.md), [Nathaniel Rothschild](/entities/person-nathaniel-rothschild.md), [Albania](/entities/gpe-albania.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (9)</summary>
+
+- [00:29:24](/episodes/ep-tXoI0TTKVrs.md#t-00-28-56) (Accusation) **Candace Owens**: ["Jared Kushner invested in a genocide before it happened and presented ..."](/statements/statement-46ee3a5ee5a8.md)
+  - Also about: [Genocide](/entities/concept-genocide.md), [Gaza](/entities/gpe-gaza.md)
+
+- [00:29:44](/episodes/ep-tXoI0TTKVrs.md#t-00-29-30) (Accusation) **Candace Owens**: ["The Kushner family is benefiting financially from the genocide in Gaza..."](/statements/statement-f996f7744bfb.md)
+  - Also about: [Ivanka Trump](/entities/person-ivanka-trump.md), [Gaza](/entities/gpe-gaza.md), [Genocide](/entities/concept-genocide.md)
+
+- [00:31:25](/episodes/ep-tXoI0TTKVrs.md#t-00-31-25) (Claim) **Ivanka Trump** (via quoted speech): ["Ivanka Trump and Jared Kushner found a 1,400-hectare private Mediterra..."](/statements/statement-e5c9353f9d71.md)
+  - Also about: [Ivanka Trump](/entities/person-ivanka-trump.md), [Sazan Island](/entities/gpe-sazan-island.md), [Mediterranean Sea](/entities/gpe-mediterranean-sea.md)
+
+- [00:33:28](/episodes/ep-tXoI0TTKVrs.md#t-00-33-19) (Accusation) **Candace Owens**: ["Jared Kushner and Benjamin Netanyahu had a plan to stage a fake Octobe..."](/statements/statement-1d581fd36cc6.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md), [Palestine](/entities/gpe-palestine.md)
+
+- [00:38:01](/episodes/ep-tXoI0TTKVrs.md#t-00-38-01) (Claim) **Anonymous Source #2 (Ep tXoI0TTKVrs)** (via quoted speech): ["For a fourth consecutive day, thousands protested in Albania against t..."](/statements/statement-dfb95cb002ad.md)
+  - Also about: [Albania](/entities/gpe-albania.md), [Affinity Partners](/entities/org-affinity-partners.md)
+
+- [00:38:43](/episodes/ep-tXoI0TTKVrs.md#t-00-38-43) (Claim) **Anonymous Source #2 (Ep tXoI0TTKVrs)** (via quoted speech): ["Affinity Partners' multi-billion-euro project aims to build two ultra-..."](/statements/statement-27070ac995e8.md)
+  - Also about: [Affinity Partners](/entities/org-affinity-partners.md), [Narta Lagoon](/entities/gpe-narta-lagoon.md), [Sazan Island](/entities/gpe-sazan-island.md)
+
+- [00:39:35](/episodes/ep-tXoI0TTKVrs.md#t-00-39-35) (Claim) **Anonymous Source #2 (Ep tXoI0TTKVrs)** (via quoted speech): ["Albania's state anti-corruption agency opened an investigation into th..."](/statements/statement-6f8d48ef9952.md)
+  - Also about: [Special Prosecution Office Against Corruption and Organized Crime](/entities/org-special-prosecution-office-albania.md), [Affinity Partners](/entities/org-affinity-partners.md)
+
+- [00:43:00](/episodes/ep-tXoI0TTKVrs.md#t-00-42-55) (Accusation) **Candace Owens**: ["Donald Trump has completely sold out the American people for Israel an..."](/statements/statement-29639a540191.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:43:00](/episodes/ep-tXoI0TTKVrs.md#t-00-42-55) (Prediction) **Candace Owens**: ["Donald Trump's family will become billionaires and buy islands."](/statements/statement-bb2c09119ffb.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Ivanka Trump](/entities/person-ivanka-trump.md)
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Jack Hibbs"
-description: "Jack Hibbs (People) - 21 mentions"
+description: "Jack Hibbs (People) - 24 mentions"
 id: "person-jack-hibbs"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-jack-hibbs-t-00-59-37">2025-10-31 · 00:59:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-jack-hibbs-t-00-53-05">2026-05-20 · 00:53:05</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09">2026-06-24 · 00:29:31</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,9 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-47-57" style="--pulse-height:40%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-jack-hibbs-t-00-53-05" style="--pulse-height:20%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-jack-hibbs-t-00-36-24" style="--pulse-height:20%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jack-hibbs-t-00-10-10" style="--pulse-height:20%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09" style="--pulse-height:20%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +59,9 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jack-hibbs-t-00-19-58) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-jack-hibbs-t-00-47-57) | 2 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-jack-hibbs-t-00-53-05) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-jack-hibbs-t-00-36-24) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jack-hibbs-t-00-10-10) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09) | 1 |
 
 </details>
 </section>
@@ -63,7 +69,31 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:29:31](/episodes/ep-sKuYLNx3iRo.md#ent-person-jack-hibbs-t-00-29-09)**
+> "Jack Hibbs says, of course you got rid of your clothes"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:10:44](/episodes/ep-9CuC1yf8-PU.md#ent-person-jack-hibbs-t-00-10-10)**
+> "Nobody really understands how he called Jack Hibbs"
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:36:45](/episodes/ep-h76ZN-xXC6c.md#ent-person-jack-hibbs-t-00-36-24)**
+> "Well, Pastor Jack Hibbs accidentally kind of disrupted that narrative recently when he sat down with Frank Turek and was recapping the events of that day."
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
@@ -174,6 +204,18 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:36:45](/episodes/ep-h76ZN-xXC6c.md#t-00-36-24): “Well, Pastor Jack Hibbs accidentally kind of disrupted that narrative recently when he sat down with Frank Turek and was recapping the events of that day.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -217,7 +259,14 @@ Source: [About Jack Hibbs - Real Life with Jack Hibbs](https://jackhibbs.com/abo
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:36:45](/episodes/ep-h76ZN-xXC6c.md#t-00-36-24): “Well, Pastor Jack Hibbs accidentally kind of disrupted that narrative recently when he sat down with Frank Turek and was recapping the events of that day.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Colorado Springs"
-description: "Colorado Springs (Places) - 16 mentions"
+description: "Colorado Springs (Places) - 18 mentions"
 id: "gpe-colorado-springs"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-colorado-springs-t-00-43-45">2025-12-10 · 00:44:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-springs-t-01-28-05">2026-04-22 · 01:28:05</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-colorado-springs-t-00-44-18">2026-06-13 · 00:44:40</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-springs-t-00-21-26" style="--pulse-height:33%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-springs-t-00-30-16" style="--pulse-height:17%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-springs-t-00-05-00" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-colorado-springs-t-00-44-18" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-colorado-springs-t-00-21-26) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-colorado-springs-t-00-30-16) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-colorado-springs-t-00-05-00) | 3 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-colorado-springs-t-00-44-18) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [City of Colorado Springs](https://coloradosprings.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:44:40](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-colorado-springs-t-00-44-18)**
+> "Colorado Springs was the second longest overnight stop. That was 16 hours. Okay."
+
+**[00:42:24](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-colorado-springs-t-00-42-24)**
+> "... of dc um and then he flew to colorado springs but he went from colorado springs uh and flew fle..."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (3 mentions)</summary>

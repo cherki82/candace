@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 166 mentions"
+description: "PreBorn! (Organizations) - 190 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-preborn-t-00-29-14">2026-05-26 · 00:29:14</a></strong></div>
-<div><span>Episodes</span><strong>52</strong></div>
-<div><span>Mentions</span><strong>166</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-26-36">2026-06-26 · 00:26:36</a></strong></div>
+<div><span>Episodes</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>190</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -89,6 +89,13 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-preborn-t-00-13-56" style="--pulse-height:57%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 4 mentions" title="2026-05-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-preborn-t-00-26-38" style="--pulse-height:29%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-preborn-t-00-29-14" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-preborn-t-00-18-09" style="--pulse-height:43%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-preborn-t-00-34-51" style="--pulse-height:43%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-preborn-t-00-33-16" style="--pulse-height:43%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 3 mentions" title="2026-06-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-preborn-t-00-28-44" style="--pulse-height:43%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-preborn-t-00-33-55" style="--pulse-height:43%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-preborn-t-00-31-05" style="--pulse-height:43%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54" style="--pulse-height:71%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -146,6 +153,13 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-preborn-t-00-13-56) | 4 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-preborn-t-00-26-38) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-preborn-t-00-29-14) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-preborn-t-00-18-09) | 3 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-preborn-t-00-34-51) | 3 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-preborn-t-00-33-16) | 3 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-preborn-t-00-28-44) | 3 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-preborn-t-00-33-55) | 3 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-preborn-t-00-31-05) | 3 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54) | 5 |
 
 </details>
 </section>
@@ -153,7 +167,111 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (166)</strong></summary>
+<summary><strong class="section-title">Raw mentions (190)</strong></summary>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (5 mentions)</summary>
+
+**[00:26:01](/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54)**
+> "...ive a special gift of $250 to PreBorn to honor our country's milestone anniversary and ..."
+
+**[00:26:11](/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54)**
+> "...lp provide eight ultrasounds. PreBorn is helping today's mothers choose life by providi..."
+
+**[00:26:20](/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54)**
+> "... birthday with a $250 gift to Preborn today to donate."
+
+**[00:26:28](/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54)**
+> "...s pound 250, 'baby,' or visit preborn.com/Candace."
+
+**[00:26:36](/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-26-36)**
+> "And that's preborn.com/Candace. I also want to tell you guys about T..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (3 mentions)</summary>
+
+**[00:31:05](/episodes/ep-sKuYLNx3iRo.md#ent-org-preborn-t-00-31-05)**
+> "...lp provide eight ultrasounds. Preborn is helping today's mothers choose life by providi..."
+
+**[00:31:13](/episodes/ep-sKuYLNx3iRo.md#ent-org-preborn-t-00-31-05)**
+> "...rthday with your $250 gift to Preborn today."
+
+**[00:31:21](/episodes/ep-sKuYLNx3iRo.md#ent-org-preborn-t-00-31-05)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
+
+**[00:34:30](/episodes/ep-VMNWMXX1vO8.md#ent-org-preborn-t-00-33-55)**
+> "...nd that's where my friends at Preborn step in. Through Preborn Network Clinics, expecta..."
+
+**[00:34:55](/episodes/ep-VMNWMXX1vO8.md#ent-org-preborn-t-00-34-38)**
+> "That's why your support of Preborn matters so much, and for just $28, Preborn can pr..."
+
+**[00:35:04](/episodes/ep-VMNWMXX1vO8.md#ent-org-preborn-t-00-34-38)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3 mentions)</summary>
+
+**[00:28:44](/episodes/ep-3QJqtW_NOSI.md#ent-org-preborn-t-00-28-44)**
+> "Preborn"
+
+**[00:29:09](/episodes/ep-3QJqtW_NOSI.md#ent-org-preborn-t-00-28-44)**
+> "That's why your support of Preborn matters so much. For just $28, Preborn can provid..."
+
+**[00:29:19](/episodes/ep-3QJqtW_NOSI.md#ent-org-preborn-t-00-29-19)**
+> "...t's pound 250, BABY, or visit preborn.com/candace. Again, that's preborn.com/candace."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (3 mentions)</summary>
+
+**[00:33:16](/episodes/ep-G3zdOeHpvS0.md#ent-org-preborn-t-00-33-16)**
+> "...e? That's where my friends at Preborn step in. Through Preborn network clinics, expecta..."
+
+**[00:33:41](/episodes/ep-G3zdOeHpvS0.md#ent-org-preborn-t-00-33-16)**
+> "That's why your support of Preborn matters so much. For just $28, Preborn can provid..."
+
+**[00:33:50](/episodes/ep-G3zdOeHpvS0.md#ent-org-preborn-t-00-33-50)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace preborn.com slash Candace."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3 mentions)</summary>
+
+**[00:35:10](/episodes/ep-WoXd4oLwd3w.md#ent-org-preborn-t-00-34-51)**
+> "That's where my friends at Preborn step in."
+
+**[00:35:33](/episodes/ep-WoXd4oLwd3w.md#ent-org-preborn-t-00-35-33)**
+> "That's why your support of Preborn matters so much. For just $28, Preborn can provid..."
+
+**[00:35:43](/episodes/ep-WoXd4oLwd3w.md#ent-org-preborn-t-00-35-33)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (3 mentions)</summary>
+
+**[00:18:40](/episodes/ep-19vHhjF7-NA.md#ent-org-preborn-t-00-18-09)**
+> "...d that is where my friends at Preborn step in. Through Preborn Network Clinics, expecta..."
+
+**[00:19:05](/episodes/ep-19vHhjF7-NA.md#ent-org-preborn-t-00-18-48)**
+> "That's why your support of Preborn matters so much. For just $28, Preborn can provid..."
+
+**[00:19:14](/episodes/ep-19vHhjF7-NA.md#ent-org-preborn-t-00-18-48)**
+> "...t's pound 250, baby, or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
@@ -907,7 +1025,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
@@ -916,6 +1034,8 @@ Source: [PreBorn!](https://preborn.com/)
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:19](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “Donate, simply dial pound 250 and say the keyword baby. That's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:13:56](/episodes/ep-Dkxa9OUA9K8.md#t-00-13-16): “All right, you guys, some moments change everything. And for a woman facing an unexpected pregnancy, seeing her baby on an ultrasound and hearing that tiny heartbeat can turn fear into hope.”
 - [Candace x Hunter Biden: The Interview @ 00:26:46](/episodes/ep-Ux1kzgQxkws.md#t-00-26-38): “That's why Preborn exists through free ultrasounds, compassionate care and real support.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:30:54](/episodes/ep-sKuYLNx3iRo.md#t-00-30-24): “That is why I am making this critical request today. Give a special gift of $250 to pre-born to honor our country's 250th anniversary and to celebrate our great future ahead.”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:26:01](/episodes/ep-a2bZf4fic10.md#t-00-25-54): “Give a special gift of”
 
 </details>
 
@@ -925,7 +1045,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
@@ -934,6 +1054,8 @@ Source: [PreBorn!](https://preborn.com/)
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:19](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “Donate, simply dial pound 250 and say the keyword baby. That's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:13:56](/episodes/ep-Dkxa9OUA9K8.md#t-00-13-16): “All right, you guys, some moments change everything. And for a woman facing an unexpected pregnancy, seeing her baby on an ultrasound and hearing that tiny heartbeat can turn fear into hope.”
 - [Candace x Hunter Biden: The Interview @ 00:26:46](/episodes/ep-Ux1kzgQxkws.md#t-00-26-38): “That's why Preborn exists through free ultrasounds, compassionate care and real support.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:30:54](/episodes/ep-sKuYLNx3iRo.md#t-00-30-24): “That is why I am making this critical request today. Give a special gift of $250 to pre-born to honor our country's 250th anniversary and to celebrate our great future ahead.”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:26:01](/episodes/ep-a2bZf4fic10.md#t-00-25-54): “Give a special gift of”
 
 </details>
 

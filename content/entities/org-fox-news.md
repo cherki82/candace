@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 84 mentions"
+description: "Fox News (Organizations) - 87 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-fox-news-t-01-20-00">2026-05-28 · 01:20:03</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>84</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-fox-news-t-00-54-11">2026-06-24 · 00:54:50</a></strong></div>
+<div><span>Episodes</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -80,6 +80,9 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-fox-news-t-00-34-18" style="--pulse-height:25%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-fox-news-t-00-07-10" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-fox-news-t-00-26-06" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#t-00-12-07" style="--pulse-height:12%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-07-15" style="--pulse-height:12%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-fox-news-t-00-54-11" style="--pulse-height:12%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -128,6 +131,9 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-fox-news-t-00-34-18) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-fox-news-t-00-07-10) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-fox-news-t-00-26-06) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-12-07) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-fox-news-t-00-54-11) | 1 |
 
 </details>
 </section>
@@ -135,7 +141,31 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:54:50](/episodes/ep-sKuYLNx3iRo.md#ent-org-fox-news-t-00-54-11)**
+> "Erika (Erika Kirk)'s interview on Fox News"
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:07:25](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15)**
+> "But we did a full interview with Brooke Singman from Fox, which to all the people who, by the way, think Tucker (Tucker Carlson)'s for real, if you think I'm doctoring any of this, please go look this article up yourself."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:12:15](/episodes/ep-19vHhjF7-NA.md#t-00-12-07)**
+> "...ump (Donald J. Trump) said on Fox and Friends."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
@@ -654,7 +684,7 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>Interviewed (1)</summary>
+<summary>Interviewed (2)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -663,10 +693,17 @@ Source: [Fox News](https://www.foxnews.com/)
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:54:50](/episodes/ep-sKuYLNx3iRo.md#t-00-54-11): “Jungle Mike writes, Erika (Erika Kirk)'s interview on Fox News where she says Shabbat Shalom, daddy's home.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Suzanne Scott](/entities/person-suzanne-scott.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -697,6 +734,13 @@ Source: [Fox News](https://www.foxnews.com/)
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:54:50](/episodes/ep-sKuYLNx3iRo.md#t-00-54-11): “Jungle Mike writes, Erika (Erika Kirk)'s interview on Fox News where she says Shabbat Shalom, daddy's home.”
+
+</details>
+
 - **[Jesse Watters](/entities/person-jesse-watters.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -709,7 +753,15 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fox News (7)</strong></summary>
+<summary><strong class="section-title">Statements about Fox News (8)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
+
+- [00:07:44](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15) (Citation) **Dan Bongino**: ["Dan Bongino cited a Fox News report saying the FBI concluded Thomas Cr..."](/statements/statement-5023467dd2c1.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>

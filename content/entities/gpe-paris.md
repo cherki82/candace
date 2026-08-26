@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 32 mentions"
+description: "Paris (Places) - 37 mentions"
 id: "gpe-paris"
 type: "GPE"
 categories:
@@ -19,11 +19,11 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35">2025-10-06 · 01:01:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11">2026-05-28 · 00:43:11</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-18-51">2026-06-26 · 00:19:15</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,8 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-03-31" style="--pulse-height:83%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 5 mentions" title="2026-03-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-07-58" style="--pulse-height:83%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-paris-t-00-19-54" style="--pulse-height:17%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-17-36" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +63,8 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-paris-t-00-03-31) | 5 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-paris-t-00-07-58) | 5 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-paris-t-00-19-54) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-17-36) | 4 |
 
 </details>
 </section>
@@ -68,7 +72,32 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
+
+**[00:18:02](/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-17-36)**
+> "... Charles de Gaulle airport in Paris, obviously. Down went Epstein, down went his netw..."
+
+**[00:18:51](/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-18-51)**
+> "...out 12-year-old triplets from Paris to Epstein to have his way with them."
+
+**[00:19:11](/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-18-51)**
+> "12-year-old triplets from Paris, okay?"
+
+**[00:19:15](/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-18-51)**
+> "...rt the modeling agency MC2 in Paris."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:20:06](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-paris-t-00-19-54)**
+> "Paris"
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -236,7 +265,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Paris (2)</strong></summary>
+<summary><strong class="section-title">Statements about Paris (3)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:19:15](/episodes/ep-IqHsl7d2dos.md#t-00-18-51) (Claim) **Candace Owens**: ["Owens said Epstein gave Brunel seed money in 2005 to start MC2 Model M..."](/statements/statement-8221da959d69.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md), [MC2 Model Management](/entities/org-mc2-model-management.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>

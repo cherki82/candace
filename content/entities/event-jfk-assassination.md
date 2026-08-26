@@ -1,17 +1,21 @@
 ---
 title: "JFK assassination"
-description: "JFK assassination (Events) - 9 mentions"
+description: "JFK assassination (Events) - 11 mentions"
 id: "event-jfk-assassination"
 type: "EVENT"
+categories:
+  - "United States political assassination"
 ---
 
 _Type: Events_
 
+**Categories:** United States political assassination
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-event-jfk-assassination-t-00-43-43">2025-09-30 · 00:44:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-event-jfk-assassination-t-00-34-20">2025-12-08 · 00:34:43</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-event-jfk-assassination-t-01-01-34">2026-06-26 · 01:01:34</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -26,6 +30,7 @@ _Type: Events_
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-event-jfk-assassination-t-00-27-37" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-event-jfk-assassination-t-00-05-02" style="--pulse-height:25%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-event-jfk-assassination-t-00-00-00" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-event-jfk-assassination-t-01-00-50" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +40,7 @@ _Type: Events_
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-event-jfk-assassination-t-00-27-37) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-event-jfk-assassination-t-00-05-02) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-event-jfk-assassination-t-00-00-00) | 4 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-event-jfk-assassination-t-01-00-50) | 2 |
 
 </details>
 </section>
@@ -42,7 +48,18 @@ _Type: Events_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[01:01:21](/episodes/ep-IqHsl7d2dos.md#ent-event-jfk-assassination-t-01-00-50)**
+> "...e same exact blueprint of the JFK assassination. So many people and too many moving parts to wher..."
+
+**[01:01:34](/episodes/ep-IqHsl7d2dos.md#ent-event-jfk-assassination-t-01-01-34)**
+> "JFK assassination happened during a time where media was different...."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>

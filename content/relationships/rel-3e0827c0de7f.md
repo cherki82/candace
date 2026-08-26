@@ -11,7 +11,11 @@ object: "org-turning-point-usa"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (27 mentions)
+### Evidence (30 mentions)
+
+**[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
+
+- [00:33:56](/episodes/ep-19vHhjF7-NA#t-00-33-56): _You are the official spokesperson of Turning Point USA._
 
 **[TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w)**
 
@@ -73,6 +77,10 @@ object: "org-turning-point-usa"
 
 - [00:01:45](/episodes/ep-ZAuuSq_j2_w#t-00-01-45): _today on their show, they had Andrew Kolvet joining them virtually_
 
+**[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
+
+- [00:29:55](/episodes/ep-a2bZf4fic10#t-00-29-55): _Andrew Kolvet, you're the spokesperson of Turning Point USA._
+
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 
 - [00:03:24](/episodes/ep-es7PWdFGoFI#t-00-03-24): _So this is quite literally the PR guy who's calling the surgeon._
@@ -98,6 +106,10 @@ object: "org-turning-point-usa"
 **[REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk)**
 
 - [00:10:03](/episodes/ep-pc3pxRyNFZk#t-00-10-03): _Is this Andrew Kolvet from Turning Point USA hiding under a hat?_
+
+**[Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs)**
+
+- [00:14:54](/episodes/ep-tXoI0TTKVrs#t-00-14-54): _So I intentionally addressed my email where I asked, was this doctored to Justin Streiff, who is the COO, to Andrew Kolvet, who is the official spokesperson of Turning Point USA and to their lawyer._
 
 **[What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs)**
 

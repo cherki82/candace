@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 477 mentions"
+description: "God (Concepts) - 501 mentions"
 id: "concept-god"
 type: "CONCEPT"
 categories:
@@ -18,8 +18,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
-<div><span>Episodes</span><strong>86</strong></div>
-<div><span>Mentions</span><strong>477</strong></div>
+<div><span>Episodes</span><strong>92</strong></div>
+<div><span>Mentions</span><strong>501</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -115,6 +115,12 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-Dkxa9OUA9K8.md#t-00-02-27" style="--pulse-height:33%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 10 mentions" title="2026-05-19 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-00-03-45" style="--pulse-height:43%" aria-label="Candace x Hunter Biden: The Interview: 13 mentions" title="2026-05-21 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#t-00-09-41" style="--pulse-height:23%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 7 mentions" title="2026-06-09 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#t-00-01-25" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-21-28" style="--pulse-height:13%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 4 mentions" title="2026-06-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#t-00-47-36" style="--pulse-height:10%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#t-00-56-08" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 6 mentions" title="2026-06-26 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#t-00-40-48" style="--pulse-height:30%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 9 mentions" title="2026-06-26 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#t-00-51-16" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -206,6 +212,12 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#t-00-02-27) | 10 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-03-45) | 13 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-00-09-41) | 7 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#t-00-01-25) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-21-28) | 4 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#t-00-47-36) | 3 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-56-08) | 6 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#t-00-40-48) | 9 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#t-00-51-16) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
 
 </details>
@@ -214,7 +226,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (477)</strong></summary>
+<summary><strong class="section-title">Raw mentions (501)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -230,6 +242,108 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:51:42](/episodes/ep-EtLHqDbxqks.md#t-00-51-16)**
+> "Thank you. God bless you."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (6 mentions)</summary>
+
+**[00:56:08](/episodes/ep-IqHsl7d2dos.md#t-00-56-08)**
+> "...mic exploding, what an act of God. Charlie (Charlie Kirk) knew his life would be tu..."
+
+**[00:59:01](/episodes/ep-IqHsl7d2dos.md#t-00-59-01)**
+> "... bold, stay fearless and love God."
+
+**[01:03:09](/episodes/ep-IqHsl7d2dos.md#t-01-02-53)**
+> "...olly Midget writes, 'Candace, God bless you and your family. I'm happy to hear that..."
+
+**[01:03:12](/episodes/ep-IqHsl7d2dos.md#t-01-02-53)**
+> "...I've been trying for a while. God knows best, but that doesn't make it any easier o..."
+
+**[01:03:32](/episodes/ep-IqHsl7d2dos.md#t-01-03-32)**
+> "I don't know why God does that so often. so often, but you also hear s..."
+
+**[01:03:42](/episodes/ep-IqHsl7d2dos.md#t-01-03-32)**
+> "... keep praying and never doubt God's timing with these things. I will actually say a..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (9 mentions)</summary>
+
+**[00:41:08](/episodes/ep-a2bZf4fic10.md#t-00-40-48)**
+> "...ell. You know, Erika Kirk and God, always at the right moments. Charlie Kirk had sh..."
+
+**[00:41:33](/episodes/ep-a2bZf4fic10.md#t-00-41-33)**
+> "...her one of these visions from God."
+
+**[00:42:08](/episodes/ep-a2bZf4fic10.md#t-00-42-08)**
+> "...ife, was like, 'Yeah, I think God wants you to have your phone on today.' I was lik..."
+
+**[00:42:23](/episodes/ep-a2bZf4fic10.md#t-00-42-23)**
+> "...just so plugged in this way. 'God wants your phone on,' and wow, he probably was li..."
+
+**[00:42:41](/episodes/ep-a2bZf4fic10.md#t-00-42-23)**
+> "... who in her phone is saved as God as a contact. Is it Bibi (Benjamin Netanyahu)?"
+
+**[00:42:47](/episodes/ep-a2bZf4fic10.md#t-00-42-23)**
+> "...n, I'm just, I do think maybe God told her to have your phone on that day."
+
+**[00:42:53](/episodes/ep-a2bZf4fic10.md#t-00-42-23)**
+> "...who she saved in her phone as God."
+
+**[00:47:01](/episodes/ep-a2bZf4fic10.md#t-00-46-37)**
+> "...t's in the office get to work god told me"
+
+**[00:57:00](/episodes/ep-a2bZf4fic10.md#t-00-57-00)**
+> "...his platform for however long God wills it."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3 mentions)</summary>
+
+**[00:47:56](/episodes/ep-3QJqtW_NOSI.md#t-00-47-36)**
+> "God"
+
+**[00:48:00](/episodes/ep-3QJqtW_NOSI.md#t-00-47-36)**
+> "...re that you will find it. May God bless you. Thank you so much. And I'm just gratef..."
+
+**[00:53:29](/episodes/ep-3QJqtW_NOSI.md#t-00-53-29)**
+> "...e people. Candace, I pray for God's guidance, power, and grace to be ceaseless. Chr..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4 mentions)</summary>
+
+**[00:22:00](/episodes/ep-WoXd4oLwd3w.md#t-00-21-28)**
+> "And it's not the peace that their military brings. It's the only type of peace that God can grant true, true peace where there's lasting prosperity and the people can flourish."
+
+**[00:11:46](/episodes/ep-WoXd4oLwd3w.md#t-00-11-46)**
+> "... must have been a reason that God saved him."
+
+**[00:22:11](/episodes/ep-WoXd4oLwd3w.md#t-00-22-11)**
+> "...is this, praise and prayer to God because of who he is, not just what he gives."
+
+**[00:55:11](/episodes/ep-WoXd4oLwd3w.md#t-00-54-44)**
+> "...ip Summit. We're so grateful. God bless you all."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:01:55](/episodes/ep-tXoI0TTKVrs.md#t-00-01-25)**
+> "...s on their body that say fear God."
 
 </details>
 

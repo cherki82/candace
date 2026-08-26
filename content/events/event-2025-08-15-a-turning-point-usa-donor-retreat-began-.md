@@ -11,7 +11,7 @@ date: "2025-08-15"
 
 > A Turning Point USA donor retreat began in Aspen.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Candace x Baron Coleman LIVE!! | Candace Ep 293
 
@@ -44,3 +44,11 @@ date: "2025-08-15"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(809);return false;">▶️ Play</a>
 
 > she saw this video three weeks before he died. Charlie Kirk was in Aspen with some donors
+
+### 5. REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Na...
+
+**Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
+**Timestamp:** [00:34:15](/episodes/ep-WoXd4oLwd3w.md#t-00-34-15) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2055);return false;">▶️ Play</a>
+
+> Then August 15th, Erika goes to the Aspen Investor Retreat

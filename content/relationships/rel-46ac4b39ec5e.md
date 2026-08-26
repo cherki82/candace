@@ -1,0 +1,23 @@
+---
+title: "Arnaud Brunel founded NEXT Management"
+description: "Evidence for the relationship: Arnaud Brunel founded NEXT Management"
+relationship_id: "rel-46ac4b39ec5e"
+subject: "person-arnaud-brunel"
+predicate: "founded"
+object: "org-next-management"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Arnaud Brunel](/entities/person-arnaud-brunel) founded [NEXT Management](/entities/org-next-management)
+
+### Evidence (1 mentions)
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:20:02](/episodes/ep-IqHsl7d2dos#t-00-20-02): _alongside his brother Arnaud Brunel, of a modeling agency in New York City, one called Next Model Management._
+
+### Related
+
+- [Arnaud Brunel](/entities/person-arnaud-brunel)
+- [NEXT Management](/entities/org-next-management)

@@ -1,6 +1,6 @@
 ---
 title: "Alexander Dugin"
-description: "Alexander Dugin (People) - 7 mentions"
+description: "Alexander Dugin (People) - 8 mentions"
 id: "person-alexander-dugin"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Treasury Sanctions Russians Bankrolling Putin and Russia-Backed Influen
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-alexander-dugin-t-00-39-00">2026-03-25 · 00:39:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-alexander-dugin-t-00-14-58">2026-06-09 · 00:15:23</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-person-alexander-dugin-t-00-43-47">2026-06-11 · 00:43:53</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Treasury Sanctions Russians Bankrolling Putin and Russia-Backed Influen
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-alexander-dugin-t-00-39-00" style="--pulse-height:17%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-alexander-dugin-t-00-00-00" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 6 mentions" title="2026-06-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-alexander-dugin-t-00-43-47" style="--pulse-height:17%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Treasury Sanctions Russians Bankrolling Putin and Russia-Backed Influen
 |---|---|---:|
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-alexander-dugin-t-00-39-00) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-alexander-dugin-t-00-00-00) | 6 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-alexander-dugin-t-00-43-47) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Treasury Sanctions Russians Bankrolling Putin and Russia-Backed Influen
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:43:53](/episodes/ep-19vHhjF7-NA.md#ent-person-alexander-dugin-t-00-43-47)**
+> "You know, the Alexander Dugin ones, that's good. put her on top of some russian..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (6 mentions)</summary>

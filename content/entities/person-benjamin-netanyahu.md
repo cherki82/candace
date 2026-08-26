@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 352 mentions"
+description: "Benjamin Netanyahu (People) - 364 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -29,10 +29,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41">2026-08-14 · 02:52:41</a></strong></div>
-<div><span>Episodes</span><strong>77</strong></div>
-<div><span>Mentions</span><strong>352</strong></div>
+<div><span>Episodes</span><strong>83</strong></div>
+<div><span>Mentions</span><strong>364</strong></div>
 <div><span>Statements by</span><strong>17</strong></div>
-<div><span>Statements about</span><strong>103</strong></div>
+<div><span>Statements about</span><strong>108</strong></div>
 <div><span>Relationships</span><strong>53</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -117,6 +117,12 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-02-47" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 14 mentions" title="2026-05-27 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-00-21-44" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 8 mentions" title="2026-05-28 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-benjamin-netanyahu-t-00-32-35" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-benjamin-netanyahu-t-00-33-19" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-benjamin-netanyahu-t-00-32-58" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-benjamin-netanyahu-t-00-28-25" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-benjamin-netanyahu-t-00-08-50" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-benjamin-netanyahu-t-00-42-23" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-benjamin-netanyahu-t-01-07-50" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -199,6 +205,12 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-benjamin-netanyahu-t-00-02-47) | 14 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-benjamin-netanyahu-t-00-21-44) | 8 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-benjamin-netanyahu-t-00-32-35) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-benjamin-netanyahu-t-00-33-19) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-benjamin-netanyahu-t-00-32-58) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-benjamin-netanyahu-t-00-28-25) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-benjamin-netanyahu-t-00-08-50) | 2 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-benjamin-netanyahu-t-00-42-23) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-benjamin-netanyahu-t-01-07-50) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-00-35-32) | 3 |
 
 </details>
@@ -207,7 +219,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (352)</strong></summary>
+<summary><strong class="section-title">Raw mentions (364)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -220,6 +232,69 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[02:52:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-benjamin-netanyahu-t-02-52-41)**
 > "...ld take a supporter like owen benjamin he called you bad names and one and called your h..."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (4 mentions)</summary>
+
+**[01:08:04](/episodes/ep-EtLHqDbxqks.md#ent-person-benjamin-netanyahu-t-01-07-50)**
+> "Is it fair to ask if it's plausible that when Charlie (Charlie Kirk) was taken to the Hamptons, the phone call no one wants to address from Bibi (Benjamin Netanyahu), is it fair to ask the question if it was literally supposed to be me who was supposed to be back on tour with Charlie (Charlie Kirk)?"
+
+**[01:08:31](/episodes/ep-EtLHqDbxqks.md#ent-person-benjamin-netanyahu-t-01-08-31)**
+> "...ie Kirk) turn down from Bibi (Benjamin Netanyahu) while Erika (Erika Kirk) was there?"
+
+**[01:08:51](/episodes/ep-EtLHqDbxqks.md#ent-person-benjamin-netanyahu-t-01-08-31)**
+> "...ll Ackman tells you put Bibi (Benjamin Netanyahu) on the phone? He's just like, hey, I got your le..."
+
+**[01:14:56](/episodes/ep-EtLHqDbxqks.md#ent-person-benjamin-netanyahu-t-01-14-40)**
+> "...ting with Bobo, I mean, Bibi (Benjamin Netanyahu), and couldn't be negotiated into supporting Isra..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:42:41](/episodes/ep-a2bZf4fic10.md#ent-person-benjamin-netanyahu-t-00-42-23)**
+> "...God as a contact. Is it Bibi (Benjamin Netanyahu)?"
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:09:30](/episodes/ep-3QJqtW_NOSI.md#ent-person-benjamin-netanyahu-t-00-08-50)**
+> "Bibi Netanyahu"
+
+**[00:48:38](/episodes/ep-3QJqtW_NOSI.md#ent-person-benjamin-netanyahu-t-00-48-20)**
+> "...enly finding himself on Bibi (Benjamin Netanyahu)'s bad side for walking away from Iran?"
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:28:37](/episodes/ep-h76ZN-xXC6c.md#ent-person-benjamin-netanyahu-t-00-28-25)**
+> "...s looking at Israel and Bibi (Benjamin Netanyahu) comes out and says they didn't do it. Then there..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:33:32](/episodes/ep-WoXd4oLwd3w.md#ent-person-benjamin-netanyahu-t-00-32-58)**
+> "Bibi (Benjamin Netanyahu) calls him, offers to take turning point to the next level in exchange for what we still don't know. But Charlie (Charlie Kirk) declines."
+
+**[00:33:39](/episodes/ep-WoXd4oLwd3w.md#ent-person-benjamin-netanyahu-t-00-33-39)**
+> "...harlie Kirk) says no to Bibi (Benjamin Netanyahu). Trump (Donald Trump), I believe, said yes. Trum..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:33:19](/episodes/ep-tXoI0TTKVrs.md#ent-person-benjamin-netanyahu-t-00-33-19)**
+> "...know, Jared Kushner and Bibi (Benjamin Netanyahu) Netanyahu."
 
 </details>
 
@@ -1732,10 +1807,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <summary>Friend Of (1)</summary>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:06](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu).”
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:30](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Mitt Romney and Bibi Netanyahu became best friends over there.”
 
 </details>
 
@@ -1971,10 +2047,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:06](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu).”
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:30](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Mitt Romney and Bibi Netanyahu became best friends over there.”
 
 </details>
 
@@ -2206,7 +2283,37 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (103)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (108)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2)</summary>
+
+- [01:08:04](/episodes/ep-EtLHqDbxqks.md#t-01-07-50) (Accusation) **Candace Owens**: ["Candace Owens asked rhetorically whether, during Charlie Kirk's Hampto..."](/statements/statement-a2f2a8a8f4b6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [01:08:39](/episodes/ep-EtLHqDbxqks.md#t-01-08-31) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Erika Kirk acknowledged in a private conversation t..."](/statements/statement-eaf83590e5e9.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2)</summary>
+
+- [00:33:32](/episodes/ep-WoXd4oLwd3w.md#t-00-32-58) (Claim) **Candace Owens**: ["Candace Owens claimed Benjamin Netanyahu offered to take Turning Point..."](/statements/statement-03f9e207cbc8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:33:39](/episodes/ep-WoXd4oLwd3w.md#t-00-33-39) (Opinion) **Candace Owens**: ["Candace Owens said it was her opinion that Donald Trump said yes to Be..."](/statements/statement-dad369f32bff.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:33:28](/episodes/ep-tXoI0TTKVrs.md#t-00-33-19) (Accusation) **Candace Owens**: ["Jared Kushner and Benjamin Netanyahu had a plan to stage a fake Octobe..."](/statements/statement-1d581fd36cc6.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Israel](/entities/gpe-israel.md), [Palestine](/entities/gpe-palestine.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2)</summary>

@@ -12,7 +12,7 @@ _Type: People_
 
 **Categories:** United States Army officer, military engineering
 
-> **Possibly overlapping entity records:** [Otto Busher III](/entities/person-otto-busher-iii). These records share a name or alias; compare their histories before treating either count as complete.
+> **Possibly overlapping entity records:** [Otto Busher III](/entities/person-otto-busher-iii) · [Otto A. Busher III](/entities/person-otto-a-busher-iii). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Official Defense Visual Information Distribution Service record verifies Lt. Col. Otto Busher's spelling and U.S. Army role; transcript's 'Otto Buescher' is treated as ASR spelling and manually linked without adding a false alias.

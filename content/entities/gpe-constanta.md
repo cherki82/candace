@@ -1,6 +1,6 @@
 ---
 title: "Constanța"
-description: "Constanța (Places) - 17 mentions"
+description: "Constanța (Places) - 19 mentions"
 id: "gpe-constanta"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Primăria Municipiului Constanța](https://portal.primaria-constanta.ro
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LKR94FQ5p3o.md#ent-gpe-constanta-t-00-01-09">2026-02-23 · 00:01:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-constanta-t-00-17-45">2026-03-12 · 00:17:59</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-constanta-t-00-15-37">2026-06-26 · 00:16:07</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -41,6 +41,7 @@ Source: [Primăria Municipiului Constanța](https://portal.primaria-constanta.ro
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-constanta-t-00-18-32" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 4 mentions" title="2026-03-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-constanta-t-00-12-32" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-constanta-t-00-16-09" style="--pulse-height:75%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-constanta-t-00-13-00" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Primăria Municipiului Constanța](https://portal.primaria-constanta.ro
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-constanta-t-00-18-32) | 4 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-constanta-t-00-12-32) | 4 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-constanta-t-00-16-09) | 3 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-constanta-t-00-13-00) | 2 |
 
 </details>
 </section>
@@ -59,7 +61,18 @@ Source: [Primăria Municipiului Constanța](https://portal.primaria-constanta.ro
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:13:20](/episodes/ep-IqHsl7d2dos.md#ent-gpe-constanta-t-00-13-00)**
+> "...Force 82 at the joint base in Constanța, the one that we're familiar with, Mihail Kogălni..."
+
+**[00:16:07](/episodes/ep-IqHsl7d2dos.md#ent-gpe-constanta-t-00-15-37)**
+> "...that. It's what he claimed in Constanța, right where the military base is."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (3 mentions)</summary>

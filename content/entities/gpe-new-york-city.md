@@ -1,6 +1,6 @@
 ---
 title: "New York City"
-description: "New York City (Places) - 41 mentions"
+description: "New York City (Places) - 52 mentions"
 id: "gpe-new-york-city"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [City of New York](https://www.nyc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10">2025-09-22 · 00:02:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-city-t-00-24-26">2026-06-09 · 00:24:43</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-city-t-00-19-29">2026-06-26 · 00:20:02</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -56,6 +56,12 @@ Source: [City of New York](https://www.nyc.gov/)
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-new-york-city-t-00-21-53" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-city-t-00-24-26" style="--pulse-height:20%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-new-york-city-t-00-08-47" style="--pulse-height:20%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-new-york-city-t-00-42-31" style="--pulse-height:20%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-new-york-city-t-00-04-45" style="--pulse-height:40%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-city-t-00-01-34" style="--pulse-height:80%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-new-york-city-t-00-45-12" style="--pulse-height:20%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-city-t-00-19-29" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +88,12 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-city-t-00-10-26) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-new-york-city-t-00-21-53) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-city-t-00-24-26) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-new-york-city-t-00-08-47) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-new-york-city-t-00-42-31) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-new-york-city-t-00-04-45) | 2 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-city-t-00-01-34) | 4 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-new-york-city-t-00-45-12) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-city-t-00-19-29) | 1 |
 
 </details>
 </section>
@@ -89,7 +101,67 @@ Source: [City of New York](https://www.nyc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:20:02](/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-city-t-00-19-29)**
+> "...unel, of a modeling agency in New York City, one called Next Model Management."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:45:30](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-new-york-city-t-00-45-12)**
+> "New York City specialized in distressed debt"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (4 mentions)</summary>
+
+**[00:01:34](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-city-t-00-01-34)**
+> "the one working in New York City in Jeffrey Epstein's modeling orbit."
+
+**[00:28:58](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-city-t-00-28-38)**
+> "...ember Erika Frantzve from her New York City days and our earlier reports about her."
+
+**[00:36:41](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-city-t-00-36-41)**
+> "...She was a casting director in New York City, a real estate agent in New York City, a pageant ..."
+
+**[00:36:57](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-city-t-00-36-41)**
+> "...lothing line while she was in New York City. She was also a reality TV star while she was in ..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:05:02](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-new-york-city-t-00-04-45)**
+> "living in New York City"
+
+**[00:05:53](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-new-york-city-t-00-04-45)**
+> "New York"
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:42:42](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-new-york-city-t-00-42-31)**
+> "living in New York City, why all of them are somehow connected to Eastern..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:09:16](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-new-york-city-t-00-08-47)**
+> "...ver at Nexmodel Management in New York City."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -341,7 +413,7 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details>
-<summary>Location Of (2)</summary>
+<summary>Location Of (3)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)**
 
@@ -349,6 +421,13 @@ Source: [City of New York](https://www.nyc.gov/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:26:44](/episodes/ep-YeEtS7nix3o.md#t-00-26-29): “the Hammer family soon moved from their modest home in the Bronx to luxurious quarters in the Hotel Ansonia in Manhattan”
+
+</details>
+
+- **[NEXT Management](/entities/org-next-management.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:20:02](/episodes/ep-IqHsl7d2dos.md#t-00-19-29): “alongside his brother Arnaud Brunel, of a modeling agency in New York City, one called Next Model Management.”
 
 </details>
 
@@ -367,7 +446,7 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[33 Thomas Street](/entities/gpe-33-thomas-street.md)** based in this
 
@@ -375,6 +454,13 @@ Source: [City of New York](https://www.nyc.gov/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:26:44](/episodes/ep-YeEtS7nix3o.md#t-00-26-29): “the Hammer family soon moved from their modest home in the Bronx to luxurious quarters in the Hotel Ansonia in Manhattan”
+
+</details>
+
+- **[NEXT Management](/entities/org-next-management.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:20:02](/episodes/ep-IqHsl7d2dos.md#t-00-19-29): “alongside his brother Arnaud Brunel, of a modeling agency in New York City, one called Next Model Management.”
 
 </details>
 
@@ -404,7 +490,15 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York City (8)</strong></summary>
+<summary><strong class="section-title">Statements about New York City (9)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:19:59](/episodes/ep-IqHsl7d2dos.md#t-00-19-29) (Claim) **Candace Owens**: ["Owens said Jean-Luc and Arnaud Brunel founded Next Model Corporation i..."](/statements/statement-b0df389ca5b9.md)
+  - Also about: [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md), [Arnaud Brunel](/entities/person-arnaud-brunel.md), [NEXT Management](/entities/org-next-management.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

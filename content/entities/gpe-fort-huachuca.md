@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 210 mentions"
+description: "Fort Huachuca (Places) - 235 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-53-23">2026-05-27 · 00:53:23</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>210</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-fort-huachuca-t-00-43-57">2026-06-26 · 00:44:36</a></strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>235</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>88</strong></div>
+<div><span>Statements about</span><strong>97</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -75,6 +75,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-fort-huachuca-t-00-36-51" style="--pulse-height:24%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-07-52" style="--pulse-height:38%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 8 mentions" title="2026-05-26 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-01-31" style="--pulse-height:43%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 9 mentions" title="2026-05-27 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-fort-huachuca-t-00-46-17" style="--pulse-height:14%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-00-41" style="--pulse-height:67%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 14 mentions" title="2026-06-13 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-fort-huachuca-t-00-08-17" style="--pulse-height:14%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-fort-huachuca-t-00-19-00" style="--pulse-height:14%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-fort-huachuca-t-00-48-52" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-fort-huachuca-t-00-43-57" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -119,6 +125,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-fort-huachuca-t-00-36-51) | 5 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-fort-huachuca-t-00-07-52) | 8 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-fort-huachuca-t-00-01-31) | 9 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-fort-huachuca-t-00-46-17) | 3 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-00-41) | 14 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-fort-huachuca-t-00-08-17) | 3 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-fort-huachuca-t-00-19-00) | 3 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-fort-huachuca-t-00-48-52) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-fort-huachuca-t-00-43-57) | 1 |
 
 </details>
 </section>
@@ -126,7 +138,112 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (210)</strong></summary>
+<summary><strong class="section-title">Raw mentions (235)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:44:36](/episodes/ep-IqHsl7d2dos.md#ent-gpe-fort-huachuca-t-00-43-57)**
+> "... was on the plane with him in Fort Huachuca."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:49:25](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-fort-huachuca-t-00-48-52)**
+> "your Fort Huachuca searches"
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
+
+**[00:19:00](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-fort-huachuca-t-00-19-00)**
+> "...rom people telling me that at Fort Huachuca they could have put together this rigged mic. I'm..."
+
+**[00:19:21](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-fort-huachuca-t-00-19-00)**
+> "... assemble things like this at Fort Huachuca, things are going to get a lot more interesting."
+
+**[00:53:33](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-fort-huachuca-t-00-53-00)**
+> "...a look at what happens at the Fort Huachuca base. We need to do a little bit of research. But..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3 mentions)</summary>
+
+**[00:08:42](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-fort-huachuca-t-00-08-17)**
+> "Fort Huachuca plane"
+
+**[00:08:50](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-fort-huachuca-t-00-08-50)**
+> "...rried on to the intel base in Fort Huachuca, Arizona, where it stayed overnight."
+
+**[00:09:40](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-fort-huachuca-t-00-09-33)**
+> "...action that we experienced to Fort Huachuca tells me he saw somebody important."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (14 mentions)</summary>
+
+**[00:00:59](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-00-41)**
+> "That's that Fort Huachuca plane that was carrying one person that we can identify, Bradley Hansell, the undersecretary of war just under Pete Hegseth."
+
+**[00:41:36](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-41-19)**
+> "... what exactly was he doing at Fort Huachuca in September just before Charlie (Charlie Kirk)'s..."
+
+**[00:41:42](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-41-19)**
+> "Now, Fort Huachuca is not just some army base. It is a major hub for..."
+
+**[00:41:50](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-41-19)**
+> "...leg trip that revolved around Fort Huachuca."
+
+**[00:42:52](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-42-24)**
+> "...d then he flew from Tucson to Fort Huachuca on a most crucial date, September 8th."
+
+**[00:43:05](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-43-05)**
+> "...the brief stop in Tucson when Fort Huachuca is just like 50 miles away from Tucson, by the wa..."
+
+**[00:43:17](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-43-05)**
+> "...ansell pick up to continue to Fort Huachuca on September 8th?"
+
+**[00:43:32](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-43-32)**
+> "then flies from Fort Huachuca to El Paso and arrives at 1 20 p.m local remains ..."
+
+**[00:43:57](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-43-32)**
+> "Makes Fort Huachuca stand out as the center of a trip, for one, becau..."
+
+**[00:44:33](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-44-18)**
+> "...for a very long time. He's at Fort Huachuca."
+
+**[00:44:46](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-44-18)**
+> "...ced that he saw Erika Kirk at Fort Huachuca leaving a hotel."
+
+**[00:44:53](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-44-53)**
+> "...id Bradley Hansell stay at on Fort Huachuca on the 8th? That's interesting. We'd like to know..."
+
+**[00:45:24](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-45-24)**
+> "...radley Hansell from tucson to fort huachuca it reads quote"
+
+**[00:48:56](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-fort-huachuca-t-00-48-41)**
+> "Fort Huachuca absolutely stunning truly stunning i can't be wra..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (3 mentions)</summary>
+
+**[00:46:34](/episodes/ep-19vHhjF7-NA.md#ent-gpe-fort-huachuca-t-00-46-17)**
+> "...n the plane with him to go to Fort Huachuca."
+
+**[00:46:42](/episodes/ep-19vHhjF7-NA.md#ent-gpe-fort-huachuca-t-00-46-17)**
+> "...ps in Tucson, then he goes to Fort Huachuca on the 8th. That's the day that Mitch Snow, who h..."
+
+**[00:47:15](/episodes/ep-19vHhjF7-NA.md#ent-gpe-fort-huachuca-t-00-46-56)**
+> "...The point is, as we return to Fort Huachuca, Brad Hansell, this FOIA request, because we have..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (9 mentions)</summary>
@@ -1049,7 +1166,49 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (88)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (97)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3)</summary>
+
+- [00:08:50](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50) (Claim) **Candace Owens**: ["Owens said SAM 702 flew to Tucson on September 8, two days before Char..."](/statements/statement-4d68bee53713.md)
+  - Also about: [SAM 702](/entities/vehicle-sam-702.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [El Paso](/entities/gpe-el-paso.md)
+
+- [00:09:33](/episodes/ep-3QJqtW_NOSI.md#t-00-09-33) (Claim) **Candace Owens** (via paraphrase): ["Owens reported that Mitch Snow believed he saw Brian Harpole at a meet..."](/statements/statement-9bca08c6ec7a.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Brian Harpole](/entities/person-brian-harpole.md), [SAM 702](/entities/vehicle-sam-702.md)
+
+- [00:09:58](/episodes/ep-3QJqtW_NOSI.md#t-00-09-33) (Claim) **Candace Owens** (via paraphrase): ["Owens reported that Mitch Snow believed he saw Erika Kirk leaving a Fo..."](/statements/statement-c1393cd1eab6.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4)</summary>
+
+- [00:42:52](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24) (Claim) **Candace Owens**: ["Candace Owens said Bradley Hansell flew from Tucson to Fort Huachuca o..."](/statements/statement-89b879fbd0ce.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Davis-Monthan Air Force Base](/entities/org-davis-monthan-air-force-base.md)
+
+- [00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Claim) **Candace Owens**: ["Candace Owens said the plane flew from Fort Huachuca to El Paso on Sep..."](/statements/statement-79d5830ec2de.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [SAM 702](/entities/vehicle-sam-702.md), [El Paso](/entities/gpe-el-paso.md)
+
+- [00:43:57](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Claim) **Candace Owens**: ["Candace Owens said Bradley Hansell's Fort Huachuca stop lasted 19 hour..."](/statements/statement-d6c687dfc5c6.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [El Paso](/entities/gpe-el-paso.md)
+
+- [00:44:46](/episodes/ep-WoXd4oLwd3w.md#t-00-44-18) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Mitch Snow was convinced he saw Erika Kirk at Fort ..."](/statements/statement-6b1bfe0cc033.md)
+  - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
+
+- [00:46:34](/episodes/ep-19vHhjF7-NA.md#t-00-46-17) (Citation) **Candace Owens**: ["Owens said her team had won a Freedom of Information Act request conce..."](/statements/statement-de9847b41d86.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+- [00:46:42](/episodes/ep-19vHhjF7-NA.md#t-00-46-17) (Claim) **Candace Owens**: ["Owens said Bradley D. Hansell stopped in Tucson and then traveled to F..."](/statements/statement-adfcef26fad7.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>

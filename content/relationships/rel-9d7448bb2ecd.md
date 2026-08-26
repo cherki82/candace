@@ -11,7 +11,7 @@ object: "person-kash-patel"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Kash Patel](/entities/person-kash-patel)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
@@ -20,6 +20,10 @@ object: "person-kash-patel"
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:38:53](/episodes/ep-7ERqbYElOfs#t-00-38-53): _Kash Patel is central in delaying everything that happened on that day._
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:44:08](/episodes/ep-IqHsl7d2dos#t-00-44-08): _Not saying he did anything wrong. I am saying he did everything wrong on the 10th._
 
 **[SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U)**
 

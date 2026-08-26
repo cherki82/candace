@@ -347,7 +347,7 @@ youtube_url: "https://www.youtube.com/watch?v=nPhCKwJ6ye8"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-nPhCKwJ6ye8/t-00-42-53.md" class="timestamp-link">00:42:53</a> <a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=2573" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, so just to start with your point about saying that the gun was found near him, I mean near. Losey Center or I guess off in the woods. That gun, did you watch the testimony? Did you, ^t-00-42-53
+**<a href="/timestamps/ep-nPhCKwJ6ye8/t-00-42-53.md" class="timestamp-link">00:42:53</a> <a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=2573" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, so just to start with your point about saying that the gun was found near him, I mean near. <span id="ent-org-losee-center-t-00-42-53"><a href="/entities/org-losee-center.md">Losey Center</a></span> or I guess off in the woods. That gun, did you watch the testimony? Did you, ^t-00-42-53
 
 ---
 **🎤 Andrew Wilson / Candace Owens (overlap)**

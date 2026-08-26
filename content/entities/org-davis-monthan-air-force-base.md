@@ -1,6 +1,6 @@
 ---
 title: "Davis-Monthan Air Force Base"
-description: "Davis-Monthan Air Force Base (Organizations) - 2 mentions"
+description: "Davis-Monthan Air Force Base (Organizations) - 3 mentions"
 id: "org-davis-monthan-air-force-base"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Davis-Monthan Air Force Base official website](https://www.dm.af.mil/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-davis-monthan-air-force-base-t-00-38-07">2026-01-06 · 00:38:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-davis-monthan-air-force-base-t-00-38-31">2026-01-06 · 00:38:38</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#t-00-42-24">2026-06-13 · 00:42:52</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,12 +37,14 @@ Source: [Davis-Monthan Air Force Base official website](https://www.dm.af.mil/)
 <p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-davis-monthan-air-force-base-t-00-38-07">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-davis-monthan-air-force-base-t-00-38-07" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-42-24" style="--pulse-height:50%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-davis-monthan-air-force-base-t-00-38-07) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [Davis-Monthan Air Force Base official website](https://www.dm.af.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:42:52](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24)**
+> "the Air Force Base at Davis-Monthan, and then he flew from Tucson to Fort Huachuca on a most crucial date, September 8th."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
@@ -73,7 +83,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Davis-Monthan Air Force Base (1)</strong></summary>
+<summary><strong class="section-title">Statements about Davis-Monthan Air Force Base (2)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
+
+- [00:42:52](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24) (Claim) **Candace Owens**: ["Candace Owens said Bradley Hansell flew from Tucson to Fort Huachuca o..."](/statements/statement-89b879fbd0ce.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>

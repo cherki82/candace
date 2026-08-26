@@ -15,6 +15,8 @@ _Type: Organizations_
 
 **Categories:** Utah higher education
 
+> **Possibly overlapping entity records:** [Brigham Young University](/entities/org-brigham-young-university). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Official university site confirms BYU as the standard abbreviation for Brigham Young University.
 Source: [Brigham Young University](https://www.byu.edu/)

@@ -11,7 +11,11 @@ object: "org-dose"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Dose](/entities/org-dose)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU)**
+
+- [00:30:38](/episodes/ep-9CuC1yf8-PU#t-00-30-38): _I believe in products that are actually backed by research ... that's why I take Dose for your liver._
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 

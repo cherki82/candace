@@ -1,6 +1,6 @@
 ---
 title: "El Paso"
-description: "El Paso (Places) - 10 mentions"
+description: "El Paso (Places) - 15 mentions"
 id: "gpe-el-paso"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-22">2025-10-30 · 00:01:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-el-paso-t-00-12-35">2026-05-27 · 00:12:52</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-el-paso-t-00-08-50">2026-06-18 · 00:09:09</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,6 +35,8 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27" style="--pulse-height:75%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-el-paso-t-00-09-55" style="--pulse-height:100%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-el-paso-t-00-12-35" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-el-paso-t-00-43-32" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 4 mentions" title="2026-06-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-el-paso-t-00-08-50" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27) | 3 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-el-paso-t-00-09-55) | 4 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-el-paso-t-00-12-35) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-el-paso-t-00-43-32) | 4 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-el-paso-t-00-08-50) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,32 @@ Source: [City of El Paso](https://www.elpasotexas.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:09:09](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-el-paso-t-00-08-50)**
+> "departing for El Paso, Texas"
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4 mentions)</summary>
+
+**[00:43:32](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-el-paso-t-00-43-32)**
+> "then flies from Fort Huachuca to El Paso and arrives at 1 20 p.m local remains on the ground for four hours and 10 minutes and then it returns back to Joint Base Andrews just outside of DC um who did he drop off in Texas that's another question right these these are registering to me like pick up and drop off maybe he's landing for a meeting who's in those meetings now the timing of this"
+
+**[00:43:57](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-el-paso-t-00-43-32)**
+> "...re departing the next day for El Paso. He did a quick little 20-minute helicopter tour ..."
+
+**[00:44:18](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-el-paso-t-00-44-18)**
+> "before he departed for El Paso. What was he doing there on the 8th? What was he ..."
+
+**[00:44:24](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-el-paso-t-00-44-18)**
+> "...est of his trip in Tucson and El Paso, he was only on the ground for four hours."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -113,7 +142,26 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about El Paso (6)</strong></summary>
+<summary><strong class="section-title">Statements about El Paso (9)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:08:50](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50) (Claim) **Candace Owens**: ["Owens said SAM 702 flew to Tucson on September 8, two days before Char..."](/statements/statement-4d68bee53713.md)
+  - Also about: [SAM 702](/entities/vehicle-sam-702.md), [Tucson, Arizona](/entities/gpe-tucson-arizona.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2)</summary>
+
+- [00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Claim) **Candace Owens**: ["Candace Owens said the plane flew from Fort Huachuca to El Paso on Sep..."](/statements/statement-79d5830ec2de.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [SAM 702](/entities/vehicle-sam-702.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+- [00:43:57](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32) (Claim) **Candace Owens**: ["Candace Owens said Bradley Hansell's Fort Huachuca stop lasted 19 hour..."](/statements/statement-d6c687dfc5c6.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>

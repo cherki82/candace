@@ -1,26 +1,28 @@
 ---
 title: "James Li"
-description: "James Li (People) - 1 mention"
+description: "James Li (People) - 2 mentions"
 id: "person-james-li-journalist"
 type: "PERSON"
 categories:
   - "independent journalist"
   - "Epstein files"
+  - "political commentary"
+  - "51-49"
 ---
 
 _Type: People_
 
-**Categories:** independent journalist, Epstein files
+**Categories:** independent journalist, Epstein files, political commentary, 51-49
 
 **Entity verification:** verified
-> Podcast listing verifies independent journalist James Li; cleaned transcript's James Lee is an ASR spelling error.
-Source: [The Free Thought Project Podcast: James Li](https://podcasts.apple.com/us/podcast/guest-james-li-the-epstein-files-cover-up-how-maga/id1439014279?i=1000699490866)
+> The commentator's official 51-49 site confirms the canonical spelling James Li; the cleaned transcript's James Lee is an ASR spelling error and is not retained as an alias.
+Source: [51-49 with James Li](https://5149jamesli.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-james-li-journalist-t-00-15-26">2026-02-02 · 00:15:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-james-li-journalist-t-00-15-26">2026-02-02 · 00:15:59</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#t-00-54-56">2026-06-24 · 00:55:08</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +34,14 @@ Source: [The Free Thought Project Podcast: James Li](https://podcasts.apple.com/
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-james-li-journalist-t-00-15-26">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-james-li-journalist-t-00-15-26" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#t-00-54-56" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-james-li-journalist-t-00-15-26) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#t-00-54-56) | 1 |
 
 </details>
 </section>
@@ -45,7 +49,15 @@ Source: [The Free Thought Project Podcast: James Li](https://podcasts.apple.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:55:08](/episodes/ep-sKuYLNx3iRo.md#t-00-54-56)**
+> "James Lee sort of made that"
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

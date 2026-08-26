@@ -11,7 +11,11 @@ object: "org-pure-talk"
 
 ## [America's Warrior Partnership](/entities/org-americas-warrior-partnership) funded by [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (4 mentions)
+### Evidence (6 mentions)
+
+**[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
+
+- [00:20:40](/episodes/ep-19vHhjF7-NA#t-00-20-40): _PureTalk and its customers will raise $250,000 for America's Warrior Partnership by the end of July._
 
 **[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
 
@@ -20,6 +24,10 @@ object: "org-pure-talk"
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
 - [00:23:55](/episodes/ep-DEtFh2Ff-58#t-00-23-55): _PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership._
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:32:11](/episodes/ep-IqHsl7d2dos#t-00-32-11): _PureTalk will match that donation until they hit $250,000. So enjoy unlimited talk, unlimited text, and unlimited high-speed data for just $34.99 a month._
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 

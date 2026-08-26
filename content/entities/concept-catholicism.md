@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 167 mentions"
+description: "Catholicism (Concepts) - 186 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -21,11 +21,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-catholicism-t-00-13-56">2026-01-06 · 00:14:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-50-16">2026-06-09 · 00:50:30</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>167</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-catholicism-t-00-58-12">2026-06-24 · 00:58:12</a></strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>186</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -78,6 +78,13 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-00-09-12" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 9 mentions" title="2026-05-21 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-catholicism-t-00-38-33" style="--pulse-height:22%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-11-23" style="--pulse-height:28%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 5 mentions" title="2026-06-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-catholicism-t-00-12-34" style="--pulse-height:17%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-concept-catholicism-t-00-29-50" style="--pulse-height:17%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-concept-catholicism-t-00-54-59" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-catholicism-t-00-41-56" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-catholicism-t-00-40-10" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-45-59" style="--pulse-height:28%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 5 mentions" title="2026-06-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-catholicism-t-00-53-29" style="--pulse-height:17%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -127,6 +134,13 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-catholicism-t-00-09-12) | 9 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-catholicism-t-00-38-33) | 4 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-catholicism-t-00-11-23) | 5 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-catholicism-t-00-12-34) | 3 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-concept-catholicism-t-00-29-50) | 3 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-concept-catholicism-t-00-54-59) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-concept-catholicism-t-00-41-56) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-catholicism-t-00-40-10) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-45-59) | 5 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-catholicism-t-00-53-29) | 3 |
 
 </details>
 </section>
@@ -134,7 +148,96 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (167)</strong></summary>
+<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (3 mentions)</summary>
+
+**[00:54:05](/episodes/ep-sKuYLNx3iRo.md#ent-concept-catholicism-t-00-53-29)**
+> "Catholic Lebanese"
+
+**[00:53:40](/episodes/ep-sKuYLNx3iRo.md#ent-concept-catholicism-t-00-53-29)**
+> "...me unverified) writes, 'I'm a Catholic Lebanese born in Australia. Thank you for speakin..."
+
+**[00:58:12](/episodes/ep-sKuYLNx3iRo.md#ent-concept-catholicism-t-00-58-12)**
+> "To get Catholic donations, she acts Catholic. She charms Tucker (..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (5 mentions)</summary>
+
+**[00:45:59](/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-45-59)**
+> "she presented herself as Catholic"
+
+**[00:46:13](/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-45-59)**
+> "...rk) a relic and she's totally Catholic."
+
+**[00:46:27](/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-45-59)**
+> "...ian and there's no mention of Catholicism and she's a totally different person."
+
+**[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-47-18)**
+> "... Vance drops a book about his catholicism it's a bit dizzying i think for a lot of people a..."
+
+**[00:47:30](/episodes/ep-9CuC1yf8-PU.md#ent-concept-catholicism-t-00-47-18)**
+> "... Vance drops a book about his Catholicism. It's a bit dizzying, I think, for a lot of peopl..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:40:24](/episodes/ep-VMNWMXX1vO8.md#ent-concept-catholicism-t-00-40-10)**
+> "...ch. Maybe I'm going to become Catholic. Yeah, I love this, by the way."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:42:18](/episodes/ep-3QJqtW_NOSI.md#ent-concept-catholicism-t-00-41-56)**
+> "Catholic"
+
+**[00:42:45](/episodes/ep-3QJqtW_NOSI.md#ent-concept-catholicism-t-00-42-36)**
+> "...ks, even works that dive into Catholic social teaching and the kingship of Christ in tod..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:55:08](/episodes/ep-h76ZN-xXC6c.md#ent-concept-catholicism-t-00-54-59)**
+> "...s because I told you we had a Catholic family that was hosting us."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3 mentions)</summary>
+
+**[00:29:50](/episodes/ep-WoXd4oLwd3w.md#ent-concept-catholicism-t-00-29-50)**
+> "I'm a Catholic if I'm in the back of a church and I'm with this donor who's got a lot of money and Stacy Sheridan taps on their shoulder and I share how Charlie (Charlie Kirk) was about to become Catholic."
+
+**[00:20:10](/episodes/ep-WoXd4oLwd3w.md#ent-concept-catholicism-t-00-20-10)**
+> "...Kirk) bounces sometimes she's catholic sometimes she's you know jewish sometimes she's u..."
+
+**[00:30:06](/episodes/ep-WoXd4oLwd3w.md#ent-concept-catholicism-t-00-29-50)**
+> "...a (Erika Kirk) is so hardcore Catholic. And then she blinks and she instructs Andrew Kol..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (3 mentions)</summary>
+
+**[00:12:38](/episodes/ep-tXoI0TTKVrs.md#ent-concept-catholicism-t-00-12-34)**
+> "...elling them not to attend the Catholic for Catholics event that I did back in March. She..."
+
+**[00:12:59](/episodes/ep-tXoI0TTKVrs.md#ent-concept-catholicism-t-00-12-34)**
+> "Despite denying being Catholic and attendees alike, telling them not to attend a..."
+
+**[00:13:28](/episodes/ep-tXoI0TTKVrs.md#ent-concept-catholicism-t-00-12-34)**
+> "...lie Kirk)'s attendance at the Catholic church. He just likes the architecture."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (5 mentions)</summary>
@@ -867,7 +970,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholicism (12)</strong></summary>
+<summary><strong class="section-title">Statements about Catholicism (13)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
+
+- [00:30:06](/episodes/ep-WoXd4oLwd3w.md#t-00-29-50) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of approving Andrew Kolvet's denial o..."](/statements/statement-daece6035533.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Alex Clark](/entities/person-alex-clark.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

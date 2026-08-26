@@ -1,14 +1,20 @@
 ---
 title: "Club America"
-description: "Club America (Organizations) - 7 mentions"
+description: "Club America (Organizations) - 8 mentions"
 id: "org-club-america"
 type: "ORG"
+aliases:
+  - "TPUSA Club America"
+  - "Turning Point Club America"
+  - "Turning Points Club America"
 categories:
   - "Turning Point USA"
   - "student activism"
 ---
 
 _Type: Organizations_
+
+**Also known as:** TPUSA Club America, Turning Point Club America, Turning Points Club America
 
 **Categories:** Turning Point USA, student activism
 
@@ -18,9 +24,9 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-club-america-t-00-00-44">2026-03-06 · 00:01:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-club-america-t-00-06-54">2026-05-18 · 00:07:29</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-club-america-t-00-06-08">2026-06-18 · 00:06:38</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -35,6 +41,7 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-club-america-t-00-13-16" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 4 mentions" title="2026-03-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-club-america-t-00-30-07" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-club-america-t-00-06-54" style="--pulse-height:25%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-club-america-t-00-06-08" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +51,7 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-club-america-t-00-13-16) | 4 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-club-america-t-00-30-07) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-club-america-t-00-06-54) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-club-america-t-00-06-08) | 1 |
 
 </details>
 </section>
@@ -51,7 +59,15 @@ Source: [Club America — Official Website](https://www.clubamerica.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:06:38](/episodes/ep-3QJqtW_NOSI.md#ent-org-club-america-t-00-06-08)**
+> "Turning Points Club America"
+
+</details>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>

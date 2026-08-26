@@ -1,6 +1,6 @@
 ---
 title: "Joan of Arc"
-description: "Joan of Arc (People) - 3 mentions"
+description: "Joan of Arc (People) - 6 mentions"
 id: "person-joan-of-arc"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-joan-of-arc-t-01-13-24">2026-04-29 · 01:13:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-joan-of-arc-t-00-59-08">2026-05-04 · 00:59:08</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15">2026-06-26 · 00:49:36</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,10 +34,11 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-joan-of-arc-t-01-13-24">TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15">EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-joan-of-arc-t-01-13-24" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-joan-of-arc-t-00-59-08" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-joan-of-arc-t-01-13-24" style="--pulse-height:67%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-joan-of-arc-t-00-59-08" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 |---|---|---:|
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-joan-of-arc-t-01-13-24) | 2 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-joan-of-arc-t-00-59-08) | 1 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15) | 3 |
 
 </details>
 </section>
@@ -52,7 +54,21 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (3 mentions)</summary>
+
+**[00:49:19](/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15)**
+> "...ace Owens. Our modern-day St. Joan of Arc.' St...."
+
+**[00:49:26](/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15)**
+> "Joan of Arc is behind me, actually."
+
+**[00:49:36](/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15)**
+> "...iously, you guys know I chose St. Joan for my confirmation."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>

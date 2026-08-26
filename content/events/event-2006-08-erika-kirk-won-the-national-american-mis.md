@@ -11,7 +11,7 @@ date: "2006-08"
 
 > Erika Kirk won the National American Miss Teen pageant
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3
 
@@ -28,3 +28,11 @@ date: "2006-08"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(800);return false;">▶️ Play</a>
 
 > We know Erica is going to win the National American Miss Teen pageant.
+
+### 3. A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. ...
+
+**Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
+**Timestamp:** [00:17:59](/episodes/ep-G3zdOeHpvS0.md#t-00-17-59) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1079);return false;">▶️ Play</a>
+
+> back in 2006 when Erika was getting her teen Miss America crown

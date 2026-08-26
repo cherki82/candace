@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 97 mentions"
+description: "Antisemitism (Concepts) - 100 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00">2026-01-07 · 00:00:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-01-18-25">2026-06-09 · 01:19:04</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>97</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58">2026-06-24 · 00:44:02</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>100</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -67,6 +67,8 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-antisemitism-t-00-34-32" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-concept-antisemitism-t-00-09-55" style="--pulse-height:21%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-00-26-29" style="--pulse-height:21%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-06-10" style="--pulse-height:14%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -101,6 +103,8 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-antisemitism-t-00-34-32) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-antisemitism-t-00-09-55) | 3 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-00-26-29) | 3 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-06-10) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58) | 1 |
 
 </details>
 </section>
@@ -108,7 +112,26 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (97)</strong></summary>
+<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:44:02](/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58)**
+> "she's anti-Semitic"
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:06:10](/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-06-10)**
+> "... themselves, noticing that as anti-Semitic, despite, again, concrete evidence in the form of..."
+
+**[00:17:43](/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-17-29)**
+> "...now any of this. It's low-key anti-Semitic. Knowledge is anti-Semitic. You know, where they'..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>

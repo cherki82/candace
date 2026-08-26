@@ -1,6 +1,6 @@
 ---
 title: "Croatia"
-description: "Croatia (Places) - 6 mentions"
+description: "Croatia (Places) - 7 mentions"
 id: "gpe-croatia"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55">2025-10-08 · 00:01:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-croatia-t-00-11-42">2026-03-18 · 00:12:08</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-croatia-t-00-19-10">2026-06-18 · 00:19:10</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,6 +35,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-croatia-t-00-12-10" style="--pulse-height:33%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-croatia-t-00-45-22" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-croatia-t-00-11-42" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-croatia-t-00-19-10" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-croatia-t-00-12-10) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-croatia-t-00-45-22) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-croatia-t-00-11-42) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-croatia-t-00-19-10) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:19:10](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-croatia-t-00-19-10)**
+> "Croatia"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
@@ -101,7 +111,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Croatia (2)</strong></summary>
+<summary><strong class="section-title">Statements about Croatia (3)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:19:10](/episodes/ep-3QJqtW_NOSI.md#t-00-19-10) (Citation) **Candace Owens**: ["Owens said Kathryn Bolkovac's book reported that trafficked underage w..."](/statements/statement-d76fc4d29782.md)
+  - Also about: [Kathryn Bolkovac](/entities/person-kathryn-bolkovac.md), [Ukraine](/entities/gpe-ukraine.md), [Bosnia and Herzegovina](/entities/gpe-bosnia-and-herzegovina.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (1)</summary>

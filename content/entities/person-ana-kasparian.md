@@ -1,6 +1,6 @@
 ---
 title: "Ana Kasparian"
-description: "Ana Kasparian (People) - 10 mentions"
+description: "Ana Kasparian (People) - 11 mentions"
 id: "person-ana-kasparian"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-33-30">2025-10-30 · 00:33:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#t-01-12-43">2026-06-09 · 01:13:20</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#t-00-59-43">2026-06-26 · 01:00:05</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>45</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
@@ -35,6 +35,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-ana-kasparian-t-00-54-05" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-ana-kasparian-t-00-00-00" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 5 mentions" title="2026-05-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#t-01-12-43" style="--pulse-height:40%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#t-00-59-43" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-ana-kasparian-t-00-54-05) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-ana-kasparian-t-00-00-00) | 5 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-01-12-43) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-59-43) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[01:00:05](/episodes/ep-IqHsl7d2dos.md#t-00-59-43)**
+> "Ali writes, I'm watching your interview with Anna Kasparian."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
@@ -124,10 +134,11 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Candace Owens x Ana Kasparian @ 00:00:29](/episodes/ep-SKNJPul29zU.md#t-00-00-29): “Ana Kasparian, welcome to The Candace Show.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:13:09](/episodes/ep-YeEtS7nix3o.md#t-01-12-43): “Anyways, the last episode, I think, was our interview with Anna Kasparian.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:05](/episodes/ep-IqHsl7d2dos.md#t-00-59-43): “Ali writes, I'm watching your interview with Anna Kasparian. I realize many people don't know lots of huge things that you have discovered.”
 
 </details>
 
@@ -177,10 +188,11 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Candace Owens x Ana Kasparian @ 00:00:29](/episodes/ep-SKNJPul29zU.md#t-00-00-29): “Ana Kasparian, welcome to The Candace Show.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:13:09](/episodes/ep-YeEtS7nix3o.md#t-01-12-43): “Anyways, the last episode, I think, was our interview with Anna Kasparian.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:05](/episodes/ep-IqHsl7d2dos.md#t-00-59-43): “Ali writes, I'm watching your interview with Anna Kasparian. I realize many people don't know lots of huge things that you have discovered.”
 
 </details>
 

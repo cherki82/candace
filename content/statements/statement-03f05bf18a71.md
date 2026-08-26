@@ -25,13 +25,23 @@ veracity: "true"
 - [RØDE Microphones](/entities/org-rode-microphones.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace...
 
 **Episode:** [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md)
 **Timestamp:** [00:38:00](/episodes/ep-5-HUyv9LyMg.md#t-00-38-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2280);return false;">Play</a>
 
 > he has a theory—and I think I would say it's a well-adopted theory, a well-adapted theory—that the RØDE microphone is what was shattered in the back seat of the car.
+
+### 2. The FBI Crashes Out. We Examine The Exploding Microphone The...
+
+**Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
+**Timestamp:** [00:25:01](/episodes/ep-h76ZN-xXC6c.md#t-00-24-48) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1501);return false;">Play</a>
+
+> that he was looking for what would have been shards of the ABS plastic that is used on the RØDE mic. ... And this is in the back seat. So Charlie (Charlie Kirk) gets brought in. We're not talking about the driver's seat. We're talking about the middle, I guess you could say the middle captain chairs behind the driver's seat. ... Just behind the driver's seat is where Charlie (Charlie Kirk)'s body was pulled in.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Balance of Nature"
-description: "Balance of Nature (Organizations) - 19 mentions"
+description: "Balance of Nature (Organizations) - 23 mentions"
 id: "org-balance-of-nature"
 type: "ORG"
 categories:
@@ -20,9 +20,9 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-38-39">2026-01-19 · 00:39:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-org-balance-of-nature-t-00-46-16">2026-05-20 · 00:46:29</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-balance-of-nature-t-00-30-30">2026-06-26 · 00:30:42</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -42,6 +42,8 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-balance-of-nature-t-00-35-23" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-balance-of-nature-t-00-54-59" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-balance-of-nature-t-00-46-16" style="--pulse-height:25%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-balance-of-nature-t-00-41-46" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-balance-of-nature-t-00-30-30" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +58,8 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-balance-of-nature-t-00-35-23) | 2 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-balance-of-nature-t-00-54-59) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-balance-of-nature-t-00-46-16) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-balance-of-nature-t-00-41-46) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-balance-of-nature-t-00-30-30) | 2 |
 
 </details>
 </section>
@@ -63,7 +67,29 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:30:30](/episodes/ep-IqHsl7d2dos.md#ent-org-balance-of-nature-t-00-30-30)**
+> "...o want to tell you guys about Balance of Nature because you know those days when you just feel of..."
+
+**[00:30:42](/episodes/ep-IqHsl7d2dos.md#ent-org-balance-of-nature-t-00-30-30)**
+> "...be missing from my nutrition. Balance of Nature makes it simple."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
+
+**[00:42:18](/episodes/ep-h76ZN-xXC6c.md#ent-org-balance-of-nature-t-00-41-46)**
+> "That's why I started paying attention to what might be missing from my nutrition. Balance of nature makes it simple."
+
+**[00:42:02](/episodes/ep-h76ZN-xXC6c.md#ent-org-balance-of-nature-t-00-41-46)**
+> "...want to remind you guys about balance of nature because you know those days when you just feel of..."
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
@@ -176,12 +202,13 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:30:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-30-41): “I also want to tell you guys about Balance of Nature because what if the reason that you're feeling off some days has to do with what's missing from your nutrition.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:36:39](/episodes/ep--9MOUvgGyi4.md#t-00-36-39): “It includes fruit and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you are hearing about them, I recommend that you go to balanceofnature.com and order the whole health system supplements as a preferred customer today.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:46:29](/episodes/ep-cPidFQDJLbo.md#t-00-46-16): “That's why I started paying close attention to what might be missing from my nutrition. Balance of Nature makes it very simple.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:31:12](/episodes/ep-IqHsl7d2dos.md#t-00-31-12): “It includes fruits and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com and get 10% off their fruits and veggie supplements with the promo code Candace at checkout.”
 
 </details>
 
@@ -191,12 +218,13 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:34:19](/episodes/ep-2tFYJf1klgY.md#t-00-34-08): “I also want to tell you guys about balance of nature because what if the reason you feel off some days has to do with what's missing from your nutrition”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:30:48](/episodes/ep-ZzAT2xijKGQ.md#t-00-30-41): “I also want to tell you guys about Balance of Nature because what if the reason that you're feeling off some days has to do with what's missing from your nutrition.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 00:36:39](/episodes/ep--9MOUvgGyi4.md#t-00-36-39): “It includes fruit and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you are hearing about them, I recommend that you go to balanceofnature.com and order the whole health system supplements as a preferred customer today.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:46:29](/episodes/ep-cPidFQDJLbo.md#t-00-46-16): “That's why I started paying close attention to what might be missing from my nutrition. Balance of Nature makes it very simple.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:31:12](/episodes/ep-IqHsl7d2dos.md#t-00-31-12): “It includes fruits and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com and get 10% off their fruits and veggie supplements with the promo code Candace at checkout.”
 
 </details>
 

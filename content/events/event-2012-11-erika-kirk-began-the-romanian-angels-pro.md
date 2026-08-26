@@ -11,7 +11,7 @@ date: "2012-11"
 
 > Erika Kirk began the Romanian Angels Project in November 2012; an earlier source gave late 2012 or early 2013.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
 
@@ -36,3 +36,11 @@ date: "2012-11"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1202);return false;">▶️ Play</a>
 
 > right after winning, we know she is going to establish this working partnership with the U.S. Marines
+
+### 4. A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. ...
+
+**Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
+**Timestamp:** [00:23:43](/episodes/ep-G3zdOeHpvS0.md#t-00-23-43) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1423);return false;">▶️ Play</a>
+
+> In late 2012, we all we know that Erika begins her Romanian Angels project

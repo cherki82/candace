@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legion"
-description: "French Foreign Legion (Organizations) - 40 mentions"
+description: "French Foreign Legion (Organizations) - 42 mentions"
 id: "org-french-foreign-legion"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39">2025-11-21 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52">2026-08-14 · 02:36:52</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-french-foreign-legion-t-00-14-04" style="--pulse-height:11%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-french-foreign-legion-t-01-00-54" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-french-foreign-legion-t-00-07-30" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-46-47" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -62,6 +63,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-french-foreign-legion-t-00-14-04) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-french-foreign-legion-t-01-00-54) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-french-foreign-legion-t-00-07-30) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-46-47) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25) | 4 |
 
 </details>
@@ -70,7 +72,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -86,6 +88,17 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 
 **[02:36:52](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52)**
 > "...it was saying that it was the French foreign legion that was on the ground that"
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:47:12](/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-46-47)**
+> "...'ve always said also that the french foreign legion was there on the ground that day this has never b..."
+
+**[00:48:02](/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-48-02)**
+> "...at is a facet of being in the French Foreign Legion is that you get a new identity."
 
 </details>
 
@@ -253,6 +266,18 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Based In (1)</summary>
+
+- **[Romania](/entities/gpe-romania.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:47:31](/episodes/ep-IqHsl7d2dos.md#t-00-47-31): “who you guys will be shocked to know, has been at various times based in Romania on that very base.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Member (4)</summary>
 
 - **[4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md)**
@@ -298,7 +323,14 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
+
+- **[Romania](/entities/gpe-romania.md)** former base of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:47:31](/episodes/ep-IqHsl7d2dos.md#t-00-47-31): “who you guys will be shocked to know, has been at various times based in Romania on that very base.”
+
+</details>
 
 - **[4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md)** member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -340,7 +372,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about French Foreign Legion (4)</strong></summary>
+<summary><strong class="section-title">Statements about French Foreign Legion (5)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -350,6 +382,14 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 
 - [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:47:12](/episodes/ep-IqHsl7d2dos.md#t-00-46-47) (Accusation) **Candace Owens**: ["Owens said she stood by her claim that the French Foreign Legion was p..."](/statements/statement-6f5c31201036.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 

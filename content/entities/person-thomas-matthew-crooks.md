@@ -1,6 +1,6 @@
 ---
 title: "Thomas Matthew Crooks"
-description: "Thomas Matthew Crooks (People) - 13 mentions"
+description: "Thomas Matthew Crooks (People) - 16 mentions"
 id: "person-thomas-matthew-crooks"
 type: "PERSON"
 aliases:
@@ -21,11 +21,11 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-matthew-crooks-t-00-00-01">2025-09-24 · 00:00:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-31">2026-05-28 · 00:47:31</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-thomas-matthew-crooks-t-00-48-59">2026-06-18 · 00:49:26</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 <a href="/episodes/ep-581dILVcEE4.md#ent-person-thomas-matthew-crooks-t-00-30-43" style="--pulse-height:29%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-51-40" style="--pulse-height:14%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-27" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-thomas-matthew-crooks-t-00-02-16" style="--pulse-height:29%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-thomas-matthew-crooks-t-00-48-59" style="--pulse-height:14%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +51,8 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-thomas-matthew-crooks-t-00-30-43) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-51-40) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-thomas-matthew-crooks-t-00-47-27) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-thomas-matthew-crooks-t-00-02-16) | 2 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-thomas-matthew-crooks-t-00-48-59) | 1 |
 
 </details>
 </section>
@@ -56,7 +60,26 @@ Source: [Thomas Crooks Part 03 | FBI Vault](https://vault.fbi.gov/thomas-crooks/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:49:26](/episodes/ep-3QJqtW_NOSI.md#ent-person-thomas-matthew-crooks-t-00-48-59)**
+> "Thomas Crooks"
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:02:34](/episodes/ep-WoXd4oLwd3w.md#ent-person-thomas-matthew-crooks-t-00-02-16)**
+> "I beg your pardon, of accidentally came into possession of a lot of the social media posts that we were told didn't exist that were posted by Thomas Crooks in the months and years before the shooting."
+
+**[00:04:20](/episodes/ep-WoXd4oLwd3w.md#ent-person-thomas-matthew-crooks-t-00-03-54)**
+> "That story was that we, the people, what was communicated to us was that this Matt Crooks character, Matthew Crooks had absolutely no or Thomas Crooks, Matthew Thomas Crooks or Thomas Matthew Crooks had absolutely no social media history. And it turned out that he had a very long."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
@@ -132,7 +155,33 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Thomas Matthew Crooks (9)</strong></summary>
+<summary><strong class="section-title">Statements about Thomas Matthew Crooks (16)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (7)</summary>
+
+- [00:02:34](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) (Claim) **Tucker Carlson**: ["Tucker Carlson said he accidentally obtained many Thomas Crooks social..."](/statements/statement-773d5f9511dc.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:02:45](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) (Accusation) **Tucker Carlson**: ["Tucker Carlson accused the FBI of lying about Thomas Crooks's social-m..."](/statements/statement-4942c6d10244.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Christopher Wray](/entities/person-christopher-wray.md)
+
+- [00:02:59](/episodes/ep-WoXd4oLwd3w.md#t-00-02-59) (Claim) **Tucker Carlson**: ["Tucker Carlson said Dan Bongino became hysterical and appeared terrifi..."](/statements/statement-286001fdfc9f.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md)
+
+- [00:07:44](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15) (Citation) **Dan Bongino**: ["Dan Bongino cited a Fox News report saying the FBI concluded Thomas Cr..."](/statements/statement-5023467dd2c1.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Fox News](/entities/org-fox-news.md)
+
+- [00:08:03](/episodes/ep-WoXd4oLwd3w.md#t-00-07-56) (Claim) **Brooke Singman** (via quoted article): ["Brooke Singman's Fox News article reported that the Thomas Crooks case..."](/statements/statement-75dae1833baa.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:08:26](/episodes/ep-WoXd4oLwd3w.md#t-00-08-26) (Claim) **Brooke Singman** (via quoted article): ["Brooke Singman's Fox News article reported that an investigator called..."](/statements/statement-4dc7daa643f5.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:12:08](/episodes/ep-WoXd4oLwd3w.md#t-00-11-46) (Opinion) **Candace Owens**: ["Candace Owens said she was inclined to believe the Butler shooting was..."](/statements/statement-1ddd7e1e4748.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2)</summary>

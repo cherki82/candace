@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 214 mentions"
+description: "Jesus Christ (People) - 238 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-jesus-christ-t-01-05-10">2026-06-09 · 01:05:10</a></strong></div>
-<div><span>Episodes</span><strong>71</strong></div>
-<div><span>Mentions</span><strong>214</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-jesus-christ-t-01-16-43">2026-07-14 · 01:16:43</a></strong></div>
+<div><span>Episodes</span><strong>79</strong></div>
+<div><span>Mentions</span><strong>238</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -106,6 +106,14 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-BxN2-aeMYIs.md#t-00-21-55" style="--pulse-height:21%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-jesus-christ-t-00-07-10" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-jesus-christ-t-01-05-10" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-jesus-christ-t-00-02-48" style="--pulse-height:21%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-jesus-christ-t-00-18-48" style="--pulse-height:21%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-jesus-christ-t-00-58-39" style="--pulse-height:21%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-jesus-christ-t-00-33-16" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-jesus-christ-t-00-28-44" style="--pulse-height:29%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-jesus-christ-t-00-34-38" style="--pulse-height:36%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 5 mentions" title="2026-06-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jesus-christ-t-00-43-58" style="--pulse-height:21%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-jesus-christ-t-01-16-43" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -182,6 +190,14 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#t-00-21-55) | 3 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-jesus-christ-t-00-07-10) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-jesus-christ-t-01-05-10) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-jesus-christ-t-00-02-48) | 3 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-jesus-christ-t-00-18-48) | 3 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-jesus-christ-t-00-58-39) | 3 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-jesus-christ-t-00-33-16) | 2 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-jesus-christ-t-00-28-44) | 4 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-jesus-christ-t-00-34-38) | 5 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jesus-christ-t-00-43-58) | 3 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-jesus-christ-t-01-16-43) | 1 |
 
 </details>
 </section>
@@ -189,7 +205,119 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (214)</strong></summary>
+<summary><strong class="section-title">Raw mentions (238)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:16:43](/episodes/ep-EtLHqDbxqks.md#ent-person-jesus-christ-t-01-16-43)**
+> "Christos vincit, Christos regnat, Christos imperat. Christ conquers, Christ reigns, and Christ commands. And I really need to work on my Latin."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (3 mentions)</summary>
+
+**[00:44:02](/episodes/ep-sKuYLNx3iRo.md#ent-person-jesus-christ-t-00-43-58)**
+> "Christ is king"
+
+**[00:48:14](/episodes/ep-sKuYLNx3iRo.md#ent-person-jesus-christ-t-00-48-14)**
+> "... having a position and saying Christ is King, but now we're gonna trick you into getti..."
+
+**[00:54:11](/episodes/ep-sKuYLNx3iRo.md#ent-person-jesus-christ-t-00-54-11)**
+> "Love you, Candace. Christ is King. Yes, I'm aware I got banned from Austral..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (5 mentions)</summary>
+
+**[00:34:38](/episodes/ep-VMNWMXX1vO8.md#ent-person-jesus-christ-t-00-34-38)**
+> "...out the hope that is found in Jesus Christ. And when a mother and father see their baby on t..."
+
+**[00:47:15](/episodes/ep-VMNWMXX1vO8.md#ent-person-jesus-christ-t-00-47-15)**
+> "[Tucker Carlson] Jesus and his love for Jesus and— [Candace Owens, overl..."
+
+**[00:47:17](/episodes/ep-VMNWMXX1vO8.md#ent-person-jesus-christ-t-00-47-17)**
+> "... he did to spread the word of Jesus throughout the world."
+
+**[00:56:56](/episodes/ep-VMNWMXX1vO8.md#ent-person-jesus-christ-t-00-56-33)**
+> "...ngratulations, Queen Candace. Christ is King indeed. What a blessing.""
+
+**[00:57:30](/episodes/ep-VMNWMXX1vO8.md#ent-person-jesus-christ-t-00-57-17)**
+> "...nderestimate Candace. Go Max! Christ is King." Yes, you know, this world is crazy, and..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (4 mentions)</summary>
+
+**[00:28:44](/episodes/ep-3QJqtW_NOSI.md#ent-person-jesus-christ-t-00-28-44)**
+> "Jesus Christ"
+
+**[00:42:45](/episodes/ep-3QJqtW_NOSI.md#ent-person-jesus-christ-t-00-42-36)**
+> "... teaching and the kingship of Christ in today's world."
+
+**[00:43:00](/episodes/ep-3QJqtW_NOSI.md#ent-person-jesus-christ-t-00-42-36)**
+> "...ch actually taught, and what 'Christ is King' really means, head to lorettopubs.org. A..."
+
+**[00:53:29](/episodes/ep-3QJqtW_NOSI.md#ent-person-jesus-christ-t-00-53-29)**
+> "...r, and grace to be ceaseless. Christ is King. We need you, a voice for the people, and..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (2 mentions)</summary>
+
+**[00:33:16](/episodes/ep-G3zdOeHpvS0.md#ent-person-jesus-christ-t-00-33-16)**
+> "...bout the hope that's found in Jesus Christ."
+
+**[00:38:08](/episodes/ep-G3zdOeHpvS0.md#ent-person-jesus-christ-t-00-38-08)**
+> "...are not committed to the word jesus christ that is not what they are in the business of they..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3 mentions)</summary>
+
+**[00:59:09](/episodes/ep-WoXd4oLwd3w.md#ent-person-jesus-christ-t-00-58-39)**
+> "Totally agree. Christ is King. Truth is winning. and they are angry and on the run."
+
+**[00:35:17](/episodes/ep-WoXd4oLwd3w.md#ent-person-jesus-christ-t-00-34-51)**
+> "machine of care, parenting resources, and a conversation about the hope that's found in Jesus Christ. And when a mother and father see their baby on that ultrasound screen for the very first time, everything can change."
+
+**[00:59:02](/episodes/ep-WoXd4oLwd3w.md#ent-person-jesus-christ-t-00-58-39)**
+> "...op is half the battle. Go Max Christ is King."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (3 mentions)</summary>
+
+**[00:18:48](/episodes/ep-19vHhjF7-NA.md#ent-person-jesus-christ-t-00-18-48)**
+> "...ation about the hope found in Jesus Christ. When a mother and father see their baby on that ..."
+
+**[00:32:34](/episodes/ep-19vHhjF7-NA.md#ent-person-jesus-christ-t-00-32-34)**
+> "...ave with your Lord and Savior Jesus Christ."
+
+**[00:42:49](/episodes/ep-19vHhjF7-NA.md#ent-person-jesus-christ-t-00-32-34)**
+> "...st office temporarily lost my Christ is King mug and she immediately sent me a new one..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (3 mentions)</summary>
+
+**[00:02:48](/episodes/ep-tXoI0TTKVrs.md#ent-person-jesus-christ-t-00-02-48)**
+> "... depiction of the Madonna and Jesus as an infant in her arms. He revealed this extens..."
+
+**[00:56:12](/episodes/ep-tXoI0TTKVrs.md#ent-person-jesus-christ-t-00-55-39)**
+> "...endent thinking from Houston. Jesus is king."
+
+**[00:57:46](/episodes/ep-tXoI0TTKVrs.md#ent-person-jesus-christ-t-00-57-46)**
+> "...g the truth and your dignity. Jesus is king. Praying for you and the family. Thank yo..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>

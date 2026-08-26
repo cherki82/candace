@@ -1,6 +1,6 @@
 ---
 title: "Nicolás Maduro"
-description: "Nicolás Maduro (People) - 7 mentions"
+description: "Nicolás Maduro (People) - 8 mentions"
 id: "person-nicolas-maduro"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [After ousting Maduro in Venezuela - Associated Press](https://apnews.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicolas-maduro-t-01-03-08">2026-01-05 · 01:03:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-nicolas-maduro-t-00-38-27">2026-03-09 · 00:38:27</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-person-nicolas-maduro-t-00-26-46">2026-06-11 · 00:26:46</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [After ousting Maduro in Venezuela - Associated Press](https://apnews.co
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicolas-maduro-t-01-03-08" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-nicolas-maduro-t-00-05-01" style="--pulse-height:20%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-nicolas-maduro-t-00-38-27" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-nicolas-maduro-t-00-26-46" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [After ousting Maduro in Venezuela - Associated Press](https://apnews.co
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-nicolas-maduro-t-01-03-08) | 5 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-nicolas-maduro-t-00-05-01) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-nicolas-maduro-t-00-38-27) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-nicolas-maduro-t-00-26-46) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [After ousting Maduro in Venezuela - Associated Press](https://apnews.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:26:46](/episodes/ep-19vHhjF7-NA.md#ent-person-nicolas-maduro-t-00-26-46)**
+> "...l Diaz-Canel like he did with Maduro in"
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>

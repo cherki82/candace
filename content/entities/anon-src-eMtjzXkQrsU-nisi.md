@@ -1,6 +1,6 @@
 ---
 title: "Nisi (independent-media creator; full name unverified)"
-description: "Nisi (independent-media creator; full name unverified) (Anonymous Sources) - 1 mention"
+description: "Nisi (independent-media creator; full name unverified) (Anonymous Sources) - 2 mentions"
 id: "anon-src-eMtjzXkQrsU-nisi"
 type: "ANONYMOUS_SOURCE"
 aliases:
@@ -22,9 +22,9 @@ Source: [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-anon-src-eMtjzXkQrsU-nisi-t-01-09-30">2026-05-05 · 01:09:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-anon-src-eMtjzXkQrsU-nisi-t-01-09-30">2026-05-05 · 01:09:45</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#t-00-52-57">2026-06-17 · 00:53:32</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace
 <p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-anon-src-eMtjzXkQrsU-nisi-t-01-09-30">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-anon-src-eMtjzXkQrsU-nisi-t-01-09-30" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#t-00-52-57" style="--pulse-height:100%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-anon-src-eMtjzXkQrsU-nisi-t-01-09-30) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-52-57) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:53:32](/episodes/ep-G3zdOeHpvS0.md#t-00-52-57)**
+> "Nisi did great work"
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>

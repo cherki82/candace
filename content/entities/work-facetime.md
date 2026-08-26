@@ -1,6 +1,6 @@
 ---
 title: "FaceTime"
-description: "FaceTime (Works & Media) - 5 mentions"
+description: "FaceTime (Works & Media) - 15 mentions"
 id: "work-facetime"
 type: "WORK"
 categories:
@@ -18,22 +18,25 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-facetime-t-00-02-39">2026-04-21 · 00:02:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-work-facetime-t-00-34-26">2026-05-26 · 00:34:58</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-work-facetime-t-01-04-31">2026-07-14 · 01:04:31</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-facetime-t-00-02-39">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-35-43">The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-facetime-t-00-02-39" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-facetime-t-00-11-43" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-work-facetime-t-00-34-26" style="--pulse-height:33%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-facetime-t-00-02-39" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-facetime-t-00-11-43" style="--pulse-height:17%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-work-facetime-t-00-34-26" style="--pulse-height:17%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-35-43" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 6 mentions" title="2026-06-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-work-facetime-t-00-41-24" style="--pulse-height:17%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-work-facetime-t-01-03-52" style="--pulse-height:33%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +45,9 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-work-facetime-t-00-02-39) | 3 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-work-facetime-t-00-11-43) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-work-facetime-t-00-34-26) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-35-43) | 6 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-work-facetime-t-00-41-24) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-work-facetime-t-01-03-52) | 2 |
 
 </details>
 </section>
@@ -49,7 +55,49 @@ Source: [Use FaceTime on your iPhone or iPad - Apple Support](https://support.ap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[01:04:24](/episodes/ep-EtLHqDbxqks.md#ent-work-facetime-t-01-03-52)**
+> "But it couldn't have been Frank Turek. I'm sorry, I've lost my mind. Frank Turek left his kids on FaceTime."
+
+**[01:04:31](/episodes/ep-EtLHqDbxqks.md#ent-work-facetime-t-01-04-31)**
+> "...ere just left on the phone on FaceTime because that's what he was doing."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:41:32](/episodes/ep-G3zdOeHpvS0.md#ent-work-facetime-t-00-41-24)**
+> "...bs why were his kids still on FaceTime the whole time"
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (6 mentions)</summary>
+
+**[00:35:51](/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-35-43)**
+> "... was like, oh, daddy, can you FaceTime me so I can watch Charlie Kirk answer questions f..."
+
+**[00:36:11](/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-35-43)**
+> "Please FaceTime me. I can try to get off my lunch break to watch ..."
+
+**[00:36:24](/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-36-24)**
+> "...on, his family just stayed on FaceTime the entire time, all through the hospital."
+
+**[00:36:34](/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-36-24)**
+> "...lize that he had left them on FaceTime until he left the hospital and got to the hotel."
+
+**[00:37:32](/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-00-37-32)**
+> "... Kelly that your phone was on FaceTime the entire time with your kids."
+
+**[01:12:45](/episodes/ep-h76ZN-xXC6c.md#ent-work-facetime-t-01-12-23)**
+> "...east writes, when you're on a FaceTime call, both parties are on speaker, are they not?"
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
@@ -91,7 +139,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FaceTime (1)</strong></summary>
+<summary><strong class="section-title">Statements about FaceTime (2)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+
+- [00:37:53](/episodes/ep-h76ZN-xXC6c.md#t-00-37-51) (Claim) **Frank Turek**: ["Frank Turek said he was FaceTiming his son and daughter-in-law during ..."](/statements/statement-4b8acb618d02.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>

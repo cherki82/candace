@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 233 mentions"
+description: "Arizona (Places) - 244 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-arizona-t-00-29-56">2026-05-27 · 00:30:09</a></strong></div>
-<div><span>Episodes</span><strong>58</strong></div>
-<div><span>Mentions</span><strong>233</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-46-05">2026-06-26 · 00:46:05</a></strong></div>
+<div><span>Episodes</span><strong>65</strong></div>
+<div><span>Mentions</span><strong>244</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -92,6 +92,13 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-arizona-t-00-16-13" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-arizona-t-00-20-57" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-arizona-t-00-29-56" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-arizona-t-00-42-24" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-arizona-t-00-17-14" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-arizona-t-00-01-18" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-arizona-t-00-06-56" style="--pulse-height:16%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#t-00-39-22" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-26-23" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-arizona-t-00-07-00" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -155,6 +162,13 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-arizona-t-00-16-13) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-gpe-arizona-t-00-20-57) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-arizona-t-00-29-56) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-arizona-t-00-42-24) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-arizona-t-00-17-14) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-arizona-t-00-01-18) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-arizona-t-00-06-56) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-39-22) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-26-23) | 2 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-arizona-t-00-07-00) | 1 |
 
 </details>
 </section>
@@ -162,7 +176,75 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (233)</strong></summary>
+<summary><strong class="section-title">Raw mentions (244)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:26:38](/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-26-23)**
+> "Now he's allegedly moved to Arizona to full-time assist Turning Point USA in their in..."
+
+**[00:46:05](/episodes/ep-IqHsl7d2dos.md#ent-gpe-arizona-t-00-46-05)**
+> "...ng as though he's actually in Arizona. And then sure enough, the next day. The Epstein ..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:07:29](/episodes/ep-a2bZf4fic10.md#ent-gpe-arizona-t-00-07-00)**
+> "... to Erika Kirk's apartment in Arizona by the security."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:39:57](/episodes/ep-9CuC1yf8-PU.md#t-00-39-22)**
+> "When Erika (Erika Kirk) was Miss Arizona."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
+
+**[00:07:20](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-arizona-t-00-06-56)**
+> "...those government contracts in Arizona. This is before Erika (Erika Kirk) met Charlie (C..."
+
+**[00:07:39](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-arizona-t-00-07-39)**
+> "...recorded if you look into the Arizona congressional files. You can see Lori (Lori Frant..."
+
+**[00:12:07](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-arizona-t-00-11-54)**
+> "and then moved to Arizona, has been working in, you know, obviously in audi..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:01:36](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-arizona-t-00-01-18)**
+> "present as though he was in Arizona"
+
+**[00:08:50](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-arizona-t-00-08-50)**
+> "...he plane that flew to Tucson, Arizona on September 8th, two days before Charlie (Charli..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:17:48](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-arizona-t-00-17-14)**
+> "He is a pastor in Arizona. And I asked my team to figure out just like basi..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:42:24](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-arizona-t-00-42-24)**
+> "openly and kindly reaching out to brian harpole asking for that information what we got was a lawsuit okay anyways this is Bradley Hansell's itinerary for you guys that you guys tracking this can take a look um and to see where he went he went from joint base andrews in maryland obviously that's right outside of dc um and then he flew to colorado springs but he went from colorado springs uh and flew flew to Tucson, Arizona,"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>

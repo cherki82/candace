@@ -1,6 +1,6 @@
 ---
 title: "United States Air Force"
-description: "United States Air Force (Organizations) - 70 mentions"
+description: "United States Air Force (Organizations) - 73 mentions"
 id: "org-united-states-air-force"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-united-states-air-force-t-00-50-29">2025-09-29 · 00:50:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-air-force-t-00-11-23">2026-05-27 · 00:11:23</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>70</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-air-force-t-00-42-46">2026-06-26 · 00:43:01</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -62,6 +62,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <a href="/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-air-force-t-00-09-55" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-air-force-t-00-11-23" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-air-force-t-00-08-49" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -93,6 +94,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-air-force-t-00-09-55) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-air-force-t-00-11-23) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-air-force-t-00-08-49) | 3 |
 
 </details>
 </section>
@@ -100,7 +102,21 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
+
+**[00:09:09](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-air-force-t-00-08-49)**
+> "...se I thought anything air was Air Force. It is not. The Army has an air division and they..."
+
+**[00:42:46](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-air-force-t-00-42-46)**
+> "... she's not qualified for, the Air Force Board, and it might even give her perks that we d..."
+
+**[00:43:01](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-air-force-t-00-42-46)**
+> "Does this allow her to fly on Air Force planes and go undetected? I don't know. But that'..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -564,7 +580,15 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Air Force (12)</strong></summary>
+<summary><strong class="section-title">Statements about United States Air Force (13)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:42:40](/episodes/ep-IqHsl7d2dos.md#t-00-42-11) (Accusation) **Candace Owens**: ["Owens said she thought there was extensive coordination between Erika ..."](/statements/statement-1bead4d203a1.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (5)</summary>

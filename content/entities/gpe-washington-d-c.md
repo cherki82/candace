@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 66 mentions"
+description: "Washington, D.C. (Places) - 69 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -28,9 +28,9 @@ Source: [District of Columbia official website](https://dc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-washington-d-c-t-01-19-50">2026-05-21 · 01:19:50</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>66</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-washington-d-c-t-00-45-23">2026-06-26 · 00:45:45</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -73,6 +73,8 @@ Source: [District of Columbia official website](https://dc.gov/)
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-washington-d-c-t-00-23-30" style="--pulse-height:17%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-washington-d-c-t-00-06-44" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-washington-d-c-t-00-19-47" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 6 mentions" title="2026-05-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-42-24" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-washington-d-c-t-00-45-23" style="--pulse-height:17%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -110,6 +112,8 @@ Source: [District of Columbia official website](https://dc.gov/)
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-washington-d-c-t-00-23-30) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-washington-d-c-t-00-06-44) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-washington-d-c-t-00-19-47) | 6 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-washington-d-c-t-00-45-23) | 1 |
 
 </details>
 </section>
@@ -117,7 +121,26 @@ Source: [District of Columbia official website](https://dc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:45:45](/episodes/ep-IqHsl7d2dos.md#ent-gpe-washington-d-c-t-00-45-23)**
+> "...ve hours via a flight away in Washington, D.C., in the executive office building."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:42:24](/episodes/ep-WoXd4oLwd3w.md#t-00-42-24)**
+> "openly and kindly reaching out to brian harpole asking for that information what we got was a lawsuit okay anyways this is Bradley Hansell's itinerary for you guys that you guys tracking this can take a look um and to see where he went he went from joint base andrews in maryland obviously that's right outside of dc um and then he flew to colorado springs but he went from colorado springs uh and flew flew to Tucson, Arizona,"
+
+**[00:43:32](/episodes/ep-WoXd4oLwd3w.md#t-00-43-32)**
+> "... Base Andrews just outside of DC um who did he drop off in Texas that's another qu..."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (6 mentions)</summary>

@@ -11,10 +11,20 @@ date: "2026-01-29"
 
 > Candace Owens said Andrew Kolvet visited the White House the day before the January 30, 2026 Epstein-files release.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 3...
 
 **Episode:** [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md)
 **Timestamp:** [00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2018);return false;">▶️ Play</a>
 
 > Andrew visited the White House the day before the Epstein files were released
+
+### 2. The Whistleblower: Did Epstein’s Network Reemerge In Charlie...
+
+**Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
+**Timestamp:** [00:01:18](/episodes/ep-3QJqtW_NOSI.md#event-event-2026-01-29-candace-owens-said-andrew-kolvet-visited-t-00-01-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(78);return false;">▶️ Play</a>
+
+> Andrew Kolvet was mysteriously seen at the White House, particularly in the executive office

@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 198 mentions"
+description: "Tyler Bowyer (People) - 211 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-tyler-bowyer-t-01-04-20">2026-06-09 · 01:04:20</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>198</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-bowyer-t-00-15-37">2026-06-26 · 00:16:07</a></strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>211</strong></div>
 <div><span>Statements by</span><strong>12</strong></div>
 <div><span>Statements about</span><strong>58</strong></div>
-<div><span>Relationships</span><strong>58</strong></div>
+<div><span>Relationships</span><strong>60</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -87,6 +87,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-tyler-bowyer-t-00-17-01" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-tyler-bowyer-t-00-56-00" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-tyler-bowyer-t-01-04-20" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-14-14" style="--pulse-height:44%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 8 mentions" title="2026-06-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-tyler-bowyer-t-00-46-02" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-bowyer-t-00-06-56" style="--pulse-height:11%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-bowyer-t-00-15-37" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -143,6 +147,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-tyler-bowyer-t-00-17-01) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-bowyer-t-00-56-00) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-tyler-bowyer-t-01-04-20) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-14-14) | 8 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-tyler-bowyer-t-00-46-02) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-bowyer-t-00-06-56) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-bowyer-t-00-15-37) | 1 |
 
 </details>
 </section>
@@ -150,7 +158,66 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (198)</strong></summary>
+<summary><strong class="section-title">Raw mentions (211)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:16:07](/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-bowyer-t-00-15-37)**
+> "Tyler Bowyer, having lived in Romania, particularly partying w..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:07:13](/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-bowyer-t-00-06-56)**
+> "Grew up with Tyler Bowyer's family, Chandler, Arizona. They all went to high ..."
+
+**[00:07:31](/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-bowyer-t-00-06-56)**
+> "...k) and the Farnsworth family, Tyler Bowyer, their relationships predate Erika (Erika Kirk)'s..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:46:08](/episodes/ep-3QJqtW_NOSI.md#ent-person-tyler-bowyer-t-00-46-02)**
+> "Tyler Bowyer"
+
+**[00:46:12](/episodes/ep-3QJqtW_NOSI.md#ent-person-tyler-bowyer-t-00-46-02)**
+> "... know any of this stuff about Tyler Bowyer. I didn't know any of this stuff about Andrew Kol..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (8 mentions)</summary>
+
+**[00:14:14](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-14-14)**
+> "... Kirk series, he grew up with Tyler Bowyer."
+
+**[00:14:25](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-14-14)**
+> "Him and Tyler (Tyler Bowyer)'s families grew up together. Him and Tyler (Tyle..."
+
+**[00:14:33](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-14-14)**
+> "...s like Mormon clan and Tyler (Tyler Bowyer) was the one that was hiring everybody that was a..."
+
+**[00:20:44](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-20-35)**
+> "...2006, 2005, this is also when Tyler Bowyer is out doing missionary work in this exact same r..."
+
+**[00:23:00](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-23-00)**
+> "...other. I mean, we know Tyler (Tyler Bowyer) and Erika (Erika Kirk) and Taryl Farnsworth cert..."
+
+**[00:23:43](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-23-43)**
+> "...nered with them. As she says, Tyler Bowyer, we know in 2011, went to Romania to work."
+
+**[00:24:08](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-24-08)**
+> "...e romanian government uh 2013 tyler boyer posts a photo of himself with a ukrainian orphan ..."
+
+**[00:25:14](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-25-14)**
+> "Tyler Bowyer holds a degree in Russian studies. He's fluent in..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -1139,9 +1206,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Close Associate Of (1)</summary>
 
 - **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32): “I should tell you guys that Terryl Farnsworth and Tyler Bowyer go back. They go way back. I'm talking generationally back, okay? Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona. And then Tyler Bowyer and Terryl Farnsworth went to high school together.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:14:14](/episodes/ep-G3zdOeHpvS0.md#t-00-14-14): “he grew up with Tyler Bowyer ... Him and Tyler (Tyler Bowyer)'s families grew up together. Him and Tyler (Tyler Bowyer)'s families went to high school together. They go back generations”
 
 </details>
 
@@ -1191,12 +1259,20 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Formerly Lived In (1)</summary>
+<summary>Formerly Lived In (2)</summary>
 
 - **[Russia](/entities/gpe-russia.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “But I don't know if it's true whether he was using a different name. It's something a narrative that I am prodding, but he did do his mission for two years in Russia. He's fluent in Russian.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:25:14](/episodes/ep-G3zdOeHpvS0.md#t-00-25-14): “Tyler Bowyer holds a degree in Russian studies. He's fluent in Russian, and he lived in Russia for two years”
+
+</details>
+
+- **[Romania](/entities/gpe-romania.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:16:07](/episodes/ep-IqHsl7d2dos.md#t-00-15-37): “Tyler Bowyer, having lived in Romania, particularly partying with models, showed you that. It's what he claimed in Constanța, right where the military base is.”
 
 </details>
 
@@ -1350,7 +1426,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Referenced By (28)</summary>
+<summary>Referenced By (29)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1391,9 +1467,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)** close associate of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32): “I should tell you guys that Terryl Farnsworth and Tyler Bowyer go back. They go way back. I'm talking generationally back, okay? Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona. And then Tyler Bowyer and Terryl Farnsworth went to high school together.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:14:14](/episodes/ep-G3zdOeHpvS0.md#t-00-14-14): “he grew up with Tyler Bowyer ... Him and Tyler (Tyler Bowyer)'s families grew up together. Him and Tyler (Tyler Bowyer)'s families went to high school together. They go back generations”
 
 </details>
 
@@ -1448,9 +1525,17 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Russia](/entities/gpe-russia.md)** former residence of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “But I don't know if it's true whether he was using a different name. It's something a narrative that I am prodding, but he did do his mission for two years in Russia. He's fluent in Russian.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:25:14](/episodes/ep-G3zdOeHpvS0.md#t-00-25-14): “Tyler Bowyer holds a degree in Russian studies. He's fluent in Russian, and he lived in Russia for two years”
+
+</details>
+
+- **[Romania](/entities/gpe-romania.md)** former residence of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:16:07](/episodes/ep-IqHsl7d2dos.md#t-00-15-37): “Tyler Bowyer, having lived in Romania, particularly partying with models, showed you that. It's what he claimed in Constanța, right where the military base is.”
 
 </details>
 

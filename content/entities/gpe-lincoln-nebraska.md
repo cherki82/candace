@@ -1,6 +1,6 @@
 ---
 title: "Lincoln, Nebraska"
-description: "Lincoln, Nebraska (Places) - 3 mentions"
+description: "Lincoln, Nebraska (Places) - 4 mentions"
 id: "gpe-lincoln-nebraska"
 type: "GPE"
 aliases:
@@ -24,9 +24,9 @@ Source: [City Information - City of Lincoln, NE](https://www.lincoln.ne.gov/City
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-lincoln-nebraska-t-00-28-43">2026-01-27 · 00:28:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-lincoln-nebraska-t-00-31-55">2026-05-27 · 00:32:24</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-lincoln-nebraska-t-00-44-42">2026-06-26 · 00:45:03</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [City Information - City of Lincoln, NE](https://www.lincoln.ne.gov/City
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-lincoln-nebraska-t-00-28-43" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-lincoln-nebraska-t-00-31-55" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-lincoln-nebraska-t-00-44-42" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [City Information - City of Lincoln, NE](https://www.lincoln.ne.gov/City
 |---|---|---:|
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-lincoln-nebraska-t-00-28-43) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-lincoln-nebraska-t-00-31-55) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-lincoln-nebraska-t-00-44-42) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [City Information - City of Lincoln, NE](https://www.lincoln.ne.gov/City
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:45:03](/episodes/ep-IqHsl7d2dos.md#ent-gpe-lincoln-nebraska-t-00-44-42)**
+> "...t might have been Nebraska or Lincoln."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>

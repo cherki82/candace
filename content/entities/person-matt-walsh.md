@@ -1,6 +1,6 @@
 ---
 title: "Matt Walsh"
-description: "Matt Walsh (People) - 25 mentions"
+description: "Matt Walsh (People) - 27 mentions"
 id: "person-matt-walsh"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03">2025-10-08 · 00:13:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-matt-walsh-t-00-21-55">2026-05-26 · 00:21:55</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-matt-walsh-t-01-00-30">2026-07-14 · 01:00:44</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -45,6 +45,8 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-matt-walsh-t-00-10-44" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-matt-walsh-t-00-35-32" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-matt-walsh-t-00-21-55" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-matt-walsh-t-00-42-32" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-matt-walsh-t-01-00-30" style="--pulse-height:25%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +66,8 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-matt-walsh-t-00-10-44) | 2 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-matt-walsh-t-00-35-32) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-matt-walsh-t-00-21-55) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-matt-walsh-t-00-42-32) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-matt-walsh-t-01-00-30) | 1 |
 
 </details>
 </section>
@@ -71,7 +75,23 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:00:44](/episodes/ep-EtLHqDbxqks.md#ent-person-matt-walsh-t-01-00-30)**
+> "What is actually happening here? Then there was this really strange phone call that I had with Matt Walsh, and I did not know that Ben Shapiro was in town on this date when I had the phone call."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:42:32](/episodes/ep-VMNWMXX1vO8.md#ent-person-matt-walsh-t-00-42-32)**
+> "...m. This isn't like, you know, Matt Walsh in what is a woman crime."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>

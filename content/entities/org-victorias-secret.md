@@ -1,6 +1,6 @@
 ---
 title: "Victoria's Secret"
-description: "Victoria's Secret (Organizations) - 4 mentions"
+description: "Victoria's Secret (Organizations) - 6 mentions"
 id: "org-victorias-secret"
 type: "ORG"
 aliases:
@@ -22,23 +22,24 @@ Source: [Our Company | Victoria's Secret & Co.](https://www.victoriassecretandco
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#t-00-21-02">2026-01-16 · 00:21:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-victorias-secret-t-00-43-04">2026-05-28 · 00:43:04</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-victorias-secret-t-00-34-34">2026-06-18 · 00:34:34</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#t-00-21-02">Myron Gaines x Candace Owens</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-victorias-secret-t-00-04-45">The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2T39-oADLj0.md#t-00-21-02" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-victorias-secret-t-00-31-05" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-victorias-secret-t-00-16-37" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-org-victorias-secret-t-00-43-04" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#t-00-21-02" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-victorias-secret-t-00-31-05" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-victorias-secret-t-00-16-37" style="--pulse-height:50%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-victorias-secret-t-00-43-04" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-victorias-secret-t-00-04-45" style="--pulse-height:100%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Our Company | Victoria's Secret & Co.](https://www.victoriassecretandco
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-victorias-secret-t-00-31-05) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-victorias-secret-t-00-16-37) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-victorias-secret-t-00-43-04) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-victorias-secret-t-00-04-45) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Our Company | Victoria's Secret & Co.](https://www.victoriassecretandco
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:04:45](/episodes/ep-3QJqtW_NOSI.md#ent-org-victorias-secret-t-00-04-45)**
+> "Victoria's Secret runways"
+
+**[00:34:34](/episodes/ep-3QJqtW_NOSI.md#ent-org-victorias-secret-t-00-34-34)**
+> "... a model and she's walking in Victoria's Secret when in reality what she's selling is her body at..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -99,7 +112,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Victoria's Secret (1)</strong></summary>
+<summary><strong class="section-title">Statements about Victoria's Secret (2)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:04:15](/episodes/ep-3QJqtW_NOSI.md#t-00-04-15) (Accusation) **Candace Owens**: ["Owens alleged that Jeffrey Epstein's trafficking network was deeply em..."](/statements/statement-4c7d2e66ad06.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Eastern Europe](/entities/gpe-eastern-europe.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>

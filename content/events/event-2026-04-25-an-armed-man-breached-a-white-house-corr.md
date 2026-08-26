@@ -11,7 +11,7 @@ date: "2026-04-25"
 
 > An armed man breached a White House Correspondents' Dinner security checkpoint and Secret Service agents opened fire.
 
-## Mentioned In (6 times)
+## Mentioned In (7 times)
 
 ### 1. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
 
@@ -60,3 +60,11 @@ date: "2026-04-25"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(248);return false;">▶️ Play</a>
 
 > last almost assassination attempt and our questions regarding the White House Correspondents Dinner
+
+### 7. Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quit...
+
+**Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
+**Timestamp:** [00:08:22](/episodes/ep-tXoI0TTKVrs.md#event-event-2026-04-25-an-armed-man-breached-a-white-house-corr-t-00-08-03) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(502);return false;">▶️ Play</a>
+
+> the cameras, of course, after the Secret Service fired at one another.

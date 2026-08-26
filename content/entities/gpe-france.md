@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 303 mentions"
+description: "France (Places) - 313 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -23,10 +23,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26">2026-08-14 · 04:01:41</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>303</strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>313</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>34</strong></div>
+<div><span>Statements about</span><strong>35</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -77,6 +77,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-france-t-00-22-17" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-36-35" style="--pulse-height:14%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 10 mentions" title="2026-05-27 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-france-t-01-13-52" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-france-t-00-06-37" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-france-t-00-35-28" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-france-t-00-02-46" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-12-22" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59" style="--pulse-height:24%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -125,6 +129,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-france-t-00-22-17) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-france-t-00-36-35) | 10 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-france-t-01-13-52) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-france-t-00-06-37) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-france-t-00-35-28) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-france-t-00-02-46) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-12-22) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59) | 17 |
 
 </details>
@@ -133,7 +141,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (303)</strong></summary>
+<summary><strong class="section-title">Raw mentions (313)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -188,6 +196,56 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[04:01:41](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26)**
 > "...ckly and to speak to me about France and to talk about this penguin receipt and my tim..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (5 mentions)</summary>
+
+**[00:12:34](/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-12-22)**
+> "...se, other nations, right? UK, France, NATO, just countries that are in NATO, put it th..."
+
+**[00:23:08](/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-22-32)**
+> "...e threads here, the themes of France, of course, the United States, and Israel."
+
+**[00:23:17](/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-23-17)**
+> "...ployers, Jeffrey Epstein, his French Ghislaine Maxwell, the Maxwell family, his modeli..."
+
+**[00:48:26](/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-48-26)**
+> "...bly put a special emphasis on France I believe early on I thought one person might hav..."
+
+**[00:57:00](/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-56-54)**
+> "...om Africa, from Romania, from France, from Italy, from wherever it is, and have people..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:03:15](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-france-t-00-02-46)**
+> "I'm in France"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:35:44](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-france-t-00-35-28)**
+> "the one with Jean-Luc Brunel in France"
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (3 mentions)</summary>
+
+**[00:06:37](/episodes/ep-19vHhjF7-NA.md#ent-gpe-france-t-00-06-37)**
+> "... best said that Rothschild in France so best that they actually like excommunicate mem..."
+
+**[00:37:08](/episodes/ep-19vHhjF7-NA.md#ent-gpe-france-t-00-36-50)**
+> "...ere just literally picking uh french presidents the rothschild's family picking them f..."
+
+**[00:38:04](/episodes/ep-19vHhjF7-NA.md#ent-gpe-france-t-00-37-34)**
+> "...child upon him. I'm sure that France is not the only country where that is happening b..."
 
 </details>
 
@@ -1381,13 +1439,21 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (34)</strong></summary>
+<summary><strong class="section-title">Statements about France (35)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
   - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:37:08](/episodes/ep-19vHhjF7-NA.md#t-00-36-50) (Accusation) **Candace Owens**: ["Owens alleged that the Rothschild family had selected French president..."](/statements/statement-27b184bddf56.md)
+  - Also about: [Rothschild family](/entities/org-rothschild-family.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md)
 
 </details>
 

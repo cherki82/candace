@@ -11,11 +11,15 @@ object: "org-corcoran-group"
 
 ## [Erika Kirk](/entities/person-erika-kirk) formerly worked for [The Corcoran Group](/entities/org-corcoran-group)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
 - [00:05:55](/episodes/ep-DdPjoy5W-wY#t-00-05-55): _She's also working in real estate for the Corcoran Real Estate Group_
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:39:35](/episodes/ep-IqHsl7d2dos#t-00-39-35): _which is where Erika gets her real estate license under. And yet, despite that, we only ever can find two listings that have ever gone up under Erika Frantzve._
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 

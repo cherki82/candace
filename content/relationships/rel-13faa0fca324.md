@@ -11,7 +11,11 @@ object: "person-andrew-kolvet"
 
 ## [Kash Patel](/entities/person-kash-patel) interviewed by [Andrew Kolvet](/entities/person-andrew-kolvet)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:45:23](/episodes/ep-IqHsl7d2dos#t-00-45-23): _We are also asking the Secret Service and the DHS for Andrew Kolvet's White House meeting that we told you about, that strange coincidence of the day before the Epstein files were released, Andrew Kolvet appeared to be live in studio on the Charlie Kirk show hosting of all people, Kash Patel._
 
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 

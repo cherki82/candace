@@ -11,7 +11,7 @@ object: "org-pure-talk"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
 
@@ -28,6 +28,10 @@ object: "org-pure-talk"
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
 - [00:28:52](/episodes/ep-I0OaY6Gryqk#t-00-28-52): _Head to puretalk.com slash Owens and you'll save 50% off your first month. Again, that is puretalk.com slash Owens and switch to a wireless company that shares your values._
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:31:30](/episodes/ep-IqHsl7d2dos#t-00-31-30): _Again, that's balanceofnature.com with code Candace at checkout. I also want to tell you guys about Pure Talk because America does not stand for 250 years as a beacon of hope without the brave men and women that are willing to put their lives on the line to defend her._
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 

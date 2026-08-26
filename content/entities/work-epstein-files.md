@@ -1,6 +1,6 @@
 ---
 title: "Epstein Files"
-description: "Epstein Files (Works & Media) - 32 mentions"
+description: "Epstein Files (Works & Media) - 35 mentions"
 id: "work-epstein-files"
 type: "WORK"
 aliases:
@@ -22,11 +22,11 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05">2026-01-16 · 00:18:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-01-01-51">2026-05-21 · 01:02:08</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-46-05">2026-06-26 · 00:46:13</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -47,6 +47,7 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-work-epstein-files-t-00-50-39" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50" style="--pulse-height:17%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-35-04" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-45-23" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-work-epstein-files-t-00-50-39) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-35-04) | 4 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-45-23) | 3 |
 
 </details>
 </section>
@@ -71,7 +73,21 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
+
+**[00:45:23](/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-45-23)**
+> "...cidence of the day before the Epstein files were released, Andrew Kolvet appeared to be live ..."
+
+**[00:46:05](/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-46-05)**
+> "...ure enough, the next day. The Epstein files get dropped."
+
+**[00:46:13](/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-46-05)**
+> "...ting with Kash Patel over the Epstein files? I don't know. Who was he meeting with in the EEO..."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (4 mentions)</summary>
@@ -239,7 +255,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Epstein Files (14)</strong></summary>
+<summary><strong class="section-title">Statements about Epstein Files (15)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:45:23](/episodes/ep-IqHsl7d2dos.md#t-00-45-23) (Claim) **Candace Owens**: ["Owens said Andrew Kolvet only appeared to be live in Arizona on The Ch..."](/statements/statement-5aba01ede390.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Kash Patel](/entities/person-kash-patel.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1)</summary>

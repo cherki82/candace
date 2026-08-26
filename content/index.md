@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>125 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-25">2026-08-25</time></p>
+<p class="kg-freshness"><strong>137 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-26">2026-08-26</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>4,361</strong><span>Claims &amp; statements</span></div>
-<div><strong>3,214</strong><span>Tracked entities</span></div>
-<div><strong>1,410</strong><span>Timeline events</span></div>
-<div><strong>1,588</strong><span>Research sources</span></div>
+<div><strong>4,849</strong><span>Claims &amp; statements</span></div>
+<div><strong>3,453</strong><span>Tracked entities</span></div>
+<div><strong>1,502</strong><span>Timeline events</span></div>
+<div><strong>1,744</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -30,23 +30,23 @@ description: "An evidence-first research workbench for imported video, audio, an
 <span>Unspecified source</span>
 </article>
 <article>
-<time datetime="2026-06-09">2026-06-09</time>
-<a href="/episodes/ep-YeEtS7nix3o">I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</a>
+<time datetime="2026-07-14">2026-07-14</time>
+<a href="/episodes/ep-EtLHqDbxqks">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-05-28">2026-05-28</time>
-<a href="/episodes/ep-SKNJPul29zU">Candace Owens x Ana Kasparian</a>
+<time datetime="2026-06-26">2026-06-26</time>
+<a href="/episodes/ep-IqHsl7d2dos">TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-05-27">2026-05-27</time>
-<a href="/episodes/ep-MhakwJxK-Zk">BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344</a>
+<time datetime="2026-06-26">2026-06-26</time>
+<a href="/episodes/ep-a2bZf4fic10">EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</a>
 <span>Candace Owens</span>
 </article>
 <article>
-<time datetime="2026-05-26">2026-05-26</time>
-<a href="/episodes/ep-BxN2-aeMYIs">The World Is A Stage: Trump Survives...Again? | Ep 343</a>
+<time datetime="2026-06-24">2026-06-24</time>
+<a href="/episodes/ep-sKuYLNx3iRo">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -56,12 +56,12 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>112 recent mentions · +108 vs prior window</span></a>
-<a href="/entities/gpe-israel"><strong>Israel</strong><span>124 recent mentions · +101 vs prior window</span></a>
-<a href="/entities/gpe-russia"><strong>Russia</strong><span>80 recent mentions · +76 vs prior window</span></a>
-<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>217 recent mentions · +66 vs prior window</span></a>
-<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>35 recent mentions · +34 vs prior window</span></a>
-<a href="/entities/gpe-united-states"><strong>United States</strong><span>76 recent mentions · +31 vs prior window</span></a>
+<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>200 recent mentions · +169 vs prior window</span></a>
+<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>61 recent mentions · +56 vs prior window</span></a>
+<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>108 recent mentions · +45 vs prior window</span></a>
+<a href="/entities/gpe-israel"><strong>Israel</strong><span>58 recent mentions · +45 vs prior window</span></a>
+<a href="/entities/concept-dna"><strong>Deoxyribonucleic acid</strong><span>45 recent mentions · +45 vs prior window</span></a>
+<a href="/entities/person-brian-harpole"><strong>Brian Harpole</strong><span>68 recent mentions · +41 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes
@@ -69,33 +69,33 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="verification-feed">
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-e41168e9935c">Turning Point USA wrote that the succession video was real, Charlie Kirk was not kidding, and Candace Owens had known about it for seven months.</a>
-<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-99cf1977d5ee">Candace Owens said definitively that she believed the Charlie Kirk succession clip was doctored.</a>
-<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-71dc7ef1f4b7">Charlie Kirk said he appointed his wife to run Turning Point USA if something happened to him and that Erika would do a great job.</a>
-<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-90899baf09f5">Candace Owens said Turning Point USA showed the succession video privately to Daily Mail reporters instead of releasing it in full.</a>
-<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
+<a href="/statements/statement-6e162473d33e">Charlie Kirk said he usually turned his phone off on Saturdays to honor Shabbat but kept it on that day because he was trying to help make J.D. Vance vice president.</a>
+<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
 </article>
 <article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-140c58cb593e">Candace Owens said Erika Kirk included a personal letter from Charlie Kirk in a fundraising email.</a>
-<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
+<a href="/statements/statement-1bb28086b81a">Owens said she believed the black shards visible in Charlie Kirk&#x27;s SUV were pieces of his RØDE microphone rather than sunglasses.</a>
+<small>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354</small>
+</article>
+<article>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-680885110245">Owens accused Brian Harpole and the security team of incompetently carrying Charlie Kirk with his neck unsecured and flopping.</a>
+<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-ba7ebcd808b1">Candace Owens said Turning Point USA recreated the tent under which Charlie Kirk died so people could take selfies beneath it.</a>
-<small>I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</small>
+<a href="/statements/statement-50f9f22fee7f">Owens said Frank Turek&#x27;s and Brian Harpole&#x27;s repeated public accounts of the car ride omitted the shattered-glass detail and said only that Charlie Kirk&#x27;s neck was treated.</a>
+<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
+</article>
+<article>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-17d444e7a442">Owens said black tempered glass was scattered throughout the car, including where Charlie Kirk&#x27;s chest would have been.</a>
+<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-ff9ceb83d1d1">Owens said Jon Aaron Bray had been convinced from the beginning that Charlie Kirk&#x27;s microphone was rigged beneath him and subsequently shattered.</a>
+<small>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357</small>
 </article>
 </div>
 

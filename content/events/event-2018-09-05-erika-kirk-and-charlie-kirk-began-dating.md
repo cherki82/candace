@@ -11,7 +11,7 @@ date: "2018-09-05"
 
 > Erika Kirk and Charlie Kirk went on their first date on September 5, 2018.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. An Open Letter To Erika Kirk | Candace Ep 303
 
@@ -36,3 +36,11 @@ date: "2018-09-05"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(307);return false;">▶️ Play</a>
 
 > she goes on her first official date with Charlie in September of 2018.
+
+### 4. The Whistleblower: Did Epstein’s Network Reemerge In Charlie...
+
+**Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
+**Timestamp:** [00:03:05](/episodes/ep-3QJqtW_NOSI.md#event-event-2018-09-05-erika-kirk-and-charlie-kirk-began-dating-t-00-03-05) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(185);return false;">▶️ Play</a>
+
+> went on their first date. In August of 2018, that was the exact same time frame

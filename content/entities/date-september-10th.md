@@ -1,6 +1,6 @@
 ---
 title: "September 10th"
-description: "September 10th (Dates) - 77 mentions"
+description: "September 10th (Dates) - 79 mentions"
 id: "date-september-10th"
 type: "DATE"
 aliases:
@@ -9,21 +9,25 @@ aliases:
   - "9/10"
   - "September 10th (9/10)"
   - "September 10, 2025"
+categories:
+  - "Charlie Kirk assassination timeline"
 ---
 
 _Type: Dates_
 
 **Also known as:** 9-10, September 10th, 9/10, September 10th (9/10), September 10, 2025
 
+**Categories:** Charlie Kirk assassination timeline
+
 > **Possibly overlapping entity records:** [September 10, 2025](/entities/date-september-10-2025). These records share a name or alias; compare their histories before treating either count as complete.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-date-september-10th-t-00-40-44">2025-09-15 · 00:40:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-date-september-10th-t-00-42-27">2025-12-20 · 00:43:06</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>77</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-date-september-10th-t-00-54-41">2026-06-26 · 00:55:17</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>79</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +68,7 @@ _Type: Dates_
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-date-september-10th-t-00-17-47" style="--pulse-height:14%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#t-00-47-35" style="--pulse-height:14%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-date-september-10th-t-00-42-27" style="--pulse-height:43%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-date-september-10th-t-00-00-01" style="--pulse-height:29%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -101,6 +106,7 @@ _Type: Dates_
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-date-september-10th-t-00-17-47) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#t-00-47-35) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-date-september-10th-t-00-42-27) | 3 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-date-september-10th-t-00-00-01) | 2 |
 
 </details>
 </section>
@@ -108,7 +114,18 @@ _Type: Dates_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+<summary><strong class="section-title">Raw mentions (79)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:00:27](/episodes/ep-IqHsl7d2dos.md#ent-date-september-10th-t-00-00-01)**
+> "...I had noticed an oddity about September 10th regarding the amount of young men who were alone ..."
+
+**[00:55:17](/episodes/ep-IqHsl7d2dos.md#ent-date-september-10th-t-00-54-41)**
+> "...g to do with what happened on September 10th. If you want to honor Charlie (Charlie Kirk)."
+
+</details>
 
 <details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (3 mentions)</summary>
@@ -507,5 +524,18 @@ _Type: Dates_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about September 10th (1)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:55:06](/episodes/ep-IqHsl7d2dos.md#t-00-54-41) (Opinion) **Candace Owens**: ["Owens urged viewers not to join the U.S. military because she believed..."](/statements/statement-c5be7b30175f.md)
+  - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 </details>

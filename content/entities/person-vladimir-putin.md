@@ -1,6 +1,6 @@
 ---
 title: "Vladimir Putin"
-description: "Vladimir Putin (People) - 32 mentions"
+description: "Vladimir Putin (People) - 35 mentions"
 id: "person-vladimir-putin"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-vladimir-putin-t-00-36-34">2025-11-03 · 00:36:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-vladimir-putin-t-01-20-35">2026-06-09 · 01:20:35</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-vladimir-putin-t-01-00-26">2026-06-16 · 01:00:42</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,8 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-vladimir-putin-t-00-01-06" style="--pulse-height:28%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-vladimir-putin-t-00-04-54" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-vladimir-putin-t-00-00-44" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 18 mentions" title="2026-06-09 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-vladimir-putin-t-00-40-47" style="--pulse-height:11%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-vladimir-putin-t-01-00-26" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +54,8 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-vladimir-putin-t-00-01-06) | 5 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-vladimir-putin-t-00-04-54) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-vladimir-putin-t-00-00-44) | 18 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-vladimir-putin-t-00-40-47) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-vladimir-putin-t-01-00-26) | 1 |
 
 </details>
 </section>
@@ -59,7 +63,26 @@ Source: [Vladimir Putin | Biography, KGB, Political Career, & Facts | Britannica
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[01:00:42](/episodes/ep-h76ZN-xXC6c.md#ent-person-vladimir-putin-t-01-00-26)**
+> "Vladimir Putin shouldn't be the person taking care of American troops. But thank you to everyone in Russia. I can't wait to get back to all of you guys. I'm going to pick up some Russian words next time and I will also learn how to say swag in Russia and in Russian."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2 mentions)</summary>
+
+**[00:40:56](/episodes/ep-tXoI0TTKVrs.md#ent-person-vladimir-putin-t-00-40-47)**
+> "..., I'm not in love with Putin (Vladimir Putin) all the time."
+
+**[00:53:31](/episodes/ep-tXoI0TTKVrs.md#ent-person-vladimir-putin-t-00-53-21)**
+> "Putin (Vladimir Putin) was not in studio. I lied just a little bit, lik..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (18 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Boreing"
-description: "Jeremy Boreing (People) - 73 mentions"
+description: "Jeremy Boreing (People) - 79 mentions"
 id: "person-jeremy-boreing"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-02-51">2025-11-06 · 00:03:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-jeremy-boreing-t-01-06-30">2026-05-06 · 01:06:30</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30">2026-07-14 · 01:06:52</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>79</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>30</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -47,6 +47,8 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-eLgD5yUVbko.md#t-00-18-22" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-jeremy-boreing-t-00-11-19" style="--pulse-height:10%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-jeremy-boreing-t-00-00-01" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 31 mentions" title="2026-05-06 · 31 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-42-32" style="--pulse-height:16%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 5 mentions" title="2026-06-24 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +66,8 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-18-22) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-jeremy-boreing-t-00-11-19) | 3 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-jeremy-boreing-t-00-00-01) | 31 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-42-32) | 5 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) | 1 |
 
 </details>
 </section>
@@ -71,7 +75,35 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (79)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:06:52](/episodes/ep-EtLHqDbxqks.md#t-01-06-30)**
+> "Jeremy Boring, who just wanted to insert himself, jumped in and tried to pretend that it was my security that was getting those updates."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (5 mentions)</summary>
+
+**[00:42:57](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-42-32)**
+> "Jeremy Boreing's pet project"
+
+**[00:43:38](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-43-14)**
+> "...hat is mania. That is Jeremy (Jeremy Boreing)'s mania. Okay. That is the single greatest contr..."
+
+**[00:43:47](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-43-14)**
+> "Jeremy Boreing constantly needing to fulfill his childhood fanta..."
+
+**[00:44:02](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-43-58)**
+> "... public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs, taking a mor..."
+
+**[00:44:20](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-43-58)**
+> "...at same year, also because of Jeremy Boreing and his mania."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (31 mentions)</summary>
@@ -406,11 +438,13 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:28:09](/episodes/ep-k1b1NDCrNFs.md#t-00-27-59): “The former CEO of Daily Wire, you will recall he got forced out of the company, generally speaking, because he's a deranged psycho.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:43:47](/episodes/ep-sKuYLNx3iRo.md#t-00-43-14): “Jeremy Boreing constantly needing to fulfill his childhood fantasies. Now, he tried to scrape back some of that price tag by getting rid of me.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:07:07](/episodes/ep-EtLHqDbxqks.md#t-01-07-07): “OK, Jeremy Boring lied through his teeth. So who on Ben (Ben Shapiro)'s IDF Israeli Mossad security apparatus team?”
 
 </details>
 
@@ -557,11 +591,13 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:28:09](/episodes/ep-k1b1NDCrNFs.md#t-00-27-59): “The former CEO of Daily Wire, you will recall he got forced out of the company, generally speaking, because he's a deranged psycho.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:43:47](/episodes/ep-sKuYLNx3iRo.md#t-00-43-14): “Jeremy Boreing constantly needing to fulfill his childhood fantasies. Now, he tried to scrape back some of that price tag by getting rid of me.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:07:07](/episodes/ep-EtLHqDbxqks.md#t-01-07-07): “OK, Jeremy Boring lied through his teeth. So who on Ben (Ben Shapiro)'s IDF Israeli Mossad security apparatus team?”
 
 </details>
 
@@ -715,7 +751,29 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeremy Boreing (24)</strong></summary>
+<summary><strong class="section-title">Statements about Jeremy Boreing (28)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [01:06:52](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) (Accusation) **Candace Owens**: ["Candace Owens accused Jeremy Boreing of falsely claiming that Owens's ..."](/statements/statement-20e9b9fc4537.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (3)</summary>
+
+- [00:43:09](/episodes/ep-sKuYLNx3iRo.md#t-00-42-32) (Citation) **Candace Owens**: ["Owens cited reporting that The Daily Wire spent $50 million on seven e..."](/statements/statement-6e9fc11e875d.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [The Pendragon Cycle](/entities/work-the-pendragon-cycle.md)
+
+- [00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58) (Accusation) **Candace Owens**: ["Owens accused Jeremy Boreing and The Daily Wire of firing her in hopes..."](/statements/statement-10f0a353d64c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:44:20](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58) (Accusation) **Candace Owens**: ["Owens asserted that Brett Cooper's departure from The Daily Wire was c..."](/statements/statement-a109514307d7.md)
+  - Also about: [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (12)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "United States Marine Corps"
-description: "United States Marine Corps (Organizations) - 54 mentions"
+description: "United States Marine Corps (Organizations) - 57 mentions"
 id: "org-united-states-marine-corps"
 type: "ORG"
 aliases:
@@ -26,8 +26,8 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-02">2025-09-22 · 00:55:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07">2026-08-14 · 03:04:07</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -57,6 +57,9 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12" style="--pulse-height:22%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-04-30" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 9 mentions" title="2026-05-19 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-united-states-marine-corps-t-00-23-43" style="--pulse-height:11%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-united-states-marine-corps-t-00-36-41" style="--pulse-height:11%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-marine-corps-t-00-15-37" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -82,6 +85,9 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-united-states-marine-corps-t-00-23-01) | 3 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-united-states-marine-corps-t-00-15-12) | 2 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-united-states-marine-corps-t-00-04-30) | 9 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-united-states-marine-corps-t-00-23-43) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-united-states-marine-corps-t-00-36-41) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-marine-corps-t-00-15-37) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07) | 1 |
 
 </details>
@@ -90,13 +96,37 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:04:07](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07)**
 > "...ing forward uh we have former marines that have gotten on and said it looks to me like ..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:15:55](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-marine-corps-t-00-15-37)**
+> "...he military to do so with the Marines on that very base."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:36:41](/episodes/ep-9CuC1yf8-PU.md#ent-org-united-states-marine-corps-t-00-36-41)**
+> "a charity for Romanian angels alongside the United States Marine Corps"
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:23:43](/episodes/ep-G3zdOeHpvS0.md#ent-org-united-states-marine-corps-t-00-23-43)**
+> "...ome capacity because the U.S. Marines is where she's doing this on the U.S. Marine base..."
 
 </details>
 
@@ -409,9 +439,11 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <summary>Referenced By (9)</summary>
 
 - **[Romanian Angels Project](/entities/org-romanian-angels-project.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: What Happened In Romania? | Episode 6 @ 00:30:42](/episodes/ep-y8lak3CRwDw.md#t-00-30-42): “The Romanian Angels Project officially begins in partnership with the U.S. Marines and she is working. Working with Colonel Otto Busher III.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:23:43](/episodes/ep-G3zdOeHpvS0.md#t-00-23-43): “Erika (Erika Kirk) begins her Romanian Angels project ... the U.S. Marines is where she's doing this on the U.S. Marine base partnered with them.”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:36:41](/episodes/ep-9CuC1yf8-PU.md#t-00-36-10): “a woman running a charity for Romanian angels alongside the United States Marine Corps”
 
 </details>
 
@@ -459,13 +491,14 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:17:16](/episodes/ep-X92MllIHDzw.md#t-00-17-16): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the army”
 - [A Legal Turning Point? | Candace Ep 292 @ 00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “began to phase that into working with the Marine Corps and the Army”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “began to phase that into working with the Marine Corps and the Army”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:18:54](/episodes/ep-H9p2ZGHAs9A.md#t-00-18-54): “We just have a borderless heart to help people and to give back. And, you know, I have been to Romania and teamed up with the Marine Corps to open up and sustain an orphanage with 75 beautiful children.”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:36:41](/episodes/ep-9CuC1yf8-PU.md#t-00-36-10): “a woman running a charity for Romanian angels alongside the United States Marine Corps”
 
 </details>
 

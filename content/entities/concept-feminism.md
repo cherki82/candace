@@ -1,6 +1,6 @@
 ---
 title: "Feminism"
-description: "Feminism (Concepts) - 20 mentions"
+description: "Feminism (Concepts) - 25 mentions"
 id: "concept-feminism"
 type: "CONCEPT"
 categories:
@@ -15,10 +15,10 @@ _Type: Concepts_
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29">2026-01-16 · 00:01:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41">2026-08-14 · 02:58:41</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -31,6 +31,7 @@ _Type: Concepts_
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-feminism-t-00-23-59" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-feminism-t-00-01-29" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-feminism-t-01-07-48" style="--pulse-height:15%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-feminism-t-00-32-49" style="--pulse-height:38%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 5 mentions" title="2026-06-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -41,6 +42,7 @@ _Type: Concepts_
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-feminism-t-00-23-59) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-feminism-t-00-01-29) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-feminism-t-01-07-48) | 2 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-concept-feminism-t-00-32-49) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41) | 1 |
 
 </details>
@@ -49,13 +51,33 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:58:41](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41)**
 > "...i'm still just as critical of feminism inside of tp usa as i've always been and i'm just..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (5 mentions)</summary>
+
+**[00:32:49](/episodes/ep-3QJqtW_NOSI.md#ent-concept-feminism-t-00-32-49)**
+> "feminism"
+
+**[00:33:09](/episodes/ep-3QJqtW_NOSI.md#ent-concept-feminism-t-00-32-49)**
+> "And with feminism, one of the things that made me want to write the..."
+
+**[00:33:37](/episodes/ep-3QJqtW_NOSI.md#ent-concept-feminism-t-00-33-17)**
+> "...ne of these emblems of modern feminism—the one that she just published for The Cut."
+
+**[00:37:56](/episodes/ep-3QJqtW_NOSI.md#ent-concept-feminism-t-00-37-47)**
+> "...th wrong viewpoints of modern feminism, one which encourages women to behave like sluts ..."
+
+**[00:39:53](/episodes/ep-3QJqtW_NOSI.md#ent-concept-feminism-t-00-39-53)**
+> "...ing that is wrong with modern feminism, everything that is wrong with this idea that you..."
 
 </details>
 
@@ -176,7 +198,14 @@ _Type: Concepts_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Feminism (7)</strong></summary>
+<summary><strong class="section-title">Statements about Feminism (8)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:37:56](/episodes/ep-3QJqtW_NOSI.md#t-00-37-47) (Opinion) **Candace Owens**: ["Owens argued that modern feminism's portrayal of promiscuity as empowe..."](/statements/statement-e070f384fb3e.md)
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (7)</summary>

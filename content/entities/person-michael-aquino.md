@@ -1,6 +1,6 @@
 ---
 title: "Michael Aquino"
-description: "Michael Aquino (People) - 10 mentions"
+description: "Michael Aquino (People) - 11 mentions"
 id: "person-michael-aquino"
 type: "PERSON"
 categories:
@@ -19,9 +19,9 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-michael-aquino-t-01-20-11">2026-01-09 · 01:20:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35">2026-04-15 · 00:49:03</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-person-michael-aquino-t-00-38-50">2026-06-11 · 00:39:16</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
@@ -37,6 +37,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-48-12" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-aquino-t-01-40-02" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35" style="--pulse-height:40%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-michael-aquino-t-00-38-50" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-48-12) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-michael-aquino-t-01-40-02) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-michael-aquino-t-00-48-35) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-michael-aquino-t-00-38-50) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:39:16](/episodes/ep-19vHhjF7-NA.md#ent-person-michael-aquino-t-00-38-50)**
+> "...cal father is none other than Michael Aquino."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>

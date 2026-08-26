@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 69 mentions"
+description: "Turning Point USA Faith (Organizations) - 73 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50">2025-10-01 · 00:43:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-turning-point-usa-faith-t-01-04-20">2026-06-09 · 01:04:20</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>69</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-turning-point-usa-faith-t-00-58-53">2026-06-24 · 00:59:22</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -54,6 +54,8 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-turning-point-usa-faith-t-00-16-13" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-turning-point-usa-faith-t-00-01-24" style="--pulse-height:29%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 5 mentions" title="2026-05-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-turning-point-usa-faith-t-01-03-16" style="--pulse-height:12%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-turning-point-usa-faith-t-00-21-32" style="--pulse-height:18%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-turning-point-usa-faith-t-00-58-53" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +76,8 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-turning-point-usa-faith-t-00-16-13) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-turning-point-usa-faith-t-00-01-24) | 5 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-turning-point-usa-faith-t-01-03-16) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-turning-point-usa-faith-t-00-21-32) | 3 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-turning-point-usa-faith-t-00-58-53) | 1 |
 
 </details>
 </section>
@@ -81,7 +85,29 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:59:22](/episodes/ep-sKuYLNx3iRo.md#ent-org-turning-point-usa-faith-t-00-58-53)**
+> "involved with Turning Point Faith"
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
+
+**[00:21:32](/episodes/ep-VMNWMXX1vO8.md#ent-org-turning-point-usa-faith-t-00-21-32)**
+> "...sible with Turning Point USA, TPUSA Faith, and other programs within the Turning Point USA ..."
+
+**[00:31:32](/episodes/ep-VMNWMXX1vO8.md#ent-org-turning-point-usa-faith-t-00-31-21)**
+> "...sible with Turning Point USA, TPUSA Faith, other programs within the Turning Point USA umbr..."
+
+**[00:33:21](/episodes/ep-VMNWMXX1vO8.md#ent-org-turning-point-usa-faith-t-00-33-11)**
+> "...t for helping out with faith, TPUSA faith, bringing on the crappy pastors who lie about eve..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
@@ -537,7 +563,15 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA Faith (6)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA Faith (7)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
+
+- [00:21:32](/episodes/ep-VMNWMXX1vO8.md#t-00-21-32) (Claim) **Erika Kirk** (via quoted speech): ["Charlie Kirk involved me in nearly everything across Turning Point USA..."](/statements/statement-36d8e0886311.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1)</summary>

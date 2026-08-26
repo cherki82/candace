@@ -11,7 +11,7 @@ date: "2025-09-16"
 
 > Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.
 
-## Mentioned In (6 times)
+## Mentioned In (8 times)
 
 ### 1. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
@@ -60,3 +60,19 @@ date: "2025-09-16"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2157);return false;">▶️ Play</a>
 
 > six days later be on a Zoom call laughing about emojis. Like we should all say, nope.
+
+### 7. The FBI Crashes Out. We Examine The Exploding Microphone The...
+
+**Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
+**Timestamp:** [00:21:33](/episodes/ep-h76ZN-xXC6c.md#t-00-21-21) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1293);return false;">▶️ Play</a>
+
+> Erika is laughing at the emojis six days after the assassination
+
+### 8. I Survive My First Death Hoax, Erika Kirk Makes Human Histor...
+
+**Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
+**Timestamp:** [00:09:06](/episodes/ep-VMNWMXX1vO8.md#t-00-08-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(546);return false;">▶️ Play</a>
+
+> She's at the office in the Charlie Kirk building and it is Terrell that is

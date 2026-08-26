@@ -1,6 +1,6 @@
 ---
 title: "Cozy Earth"
-description: "Cozy Earth (Organizations) - 28 mentions"
+description: "Cozy Earth (Organizations) - 38 mentions"
 id: "org-cozy-earth"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00">2026-01-13 · 00:39:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-org-cozy-earth-t-00-30-13">2026-05-20 · 00:30:31</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-58-27">2026-07-14 · 00:58:51</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,8 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-cozy-earth-t-00-51-19" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 6 mentions" title="2026-03-24 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-28-36" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 6 mentions" title="2026-04-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-cozy-earth-t-00-29-34" style="--pulse-height:83%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 5 mentions" title="2026-05-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35" style="--pulse-height:83%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 5 mentions" title="2026-06-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48" style="--pulse-height:83%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +54,8 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-cozy-earth-t-00-51-19) | 6 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-cozy-earth-t-00-28-36) | 6 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-cozy-earth-t-00-29-34) | 5 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35) | 5 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48) | 5 |
 
 </details>
 </section>
@@ -59,7 +63,47 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (5 mentions)</summary>
+
+**[00:58:03](/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48)**
+> "That's dosedaily.co slash candice for 35% off your first month's subscription. And I want to remind you guys about Cozy Earth because being pregnant in the middle of the summer, it's no joke."
+
+**[00:58:18](/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48)**
+> "...at's why I've been loving our Cozy Earth sheets because they are unbelievable. It's unbeli..."
+
+**[00:58:27](/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-58-27)**
+> "...le, and the best part is that Cozy Earth stands behind everything that they make with a 10..."
+
+**[00:58:42](/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-58-27)**
+> "...and built for summer. Head to CozyEarth.com and use my code CANDICE for an exclusive 20% off."
+
+**[00:58:51](/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-58-27)**
+> "... mention that you heard about Cozy Earth right here."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (5 mentions)</summary>
+
+**[00:37:35](/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35)**
+> "They're the kind of pieces that you reach for again and again and the best part is Cozy Earth stands behind everything they make a 100 night sleep trial on the sheets, a lifetime warranty on the clothing and hassle-free returns if anything is not right."
+
+**[00:36:57](/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-36-57)**
+> "...and you guys know that i love cozy earth because you know how hard it can be to get a fath..."
+
+**[00:37:47](/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35)**
+> "...sy for everyone in the house. Cozy Earth's bamboo sheet set. It's that everywhere pants and ..."
+
+**[00:37:56](/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35)**
+> "So head to cozyearth.com and use my code CANDACE for an exclusive 20% off...."
+
+**[00:38:01](/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35)**
+> "... mention that you heard about cozy earth right here."
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (5 mentions)</summary>
@@ -184,10 +228,11 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:58:42](/episodes/ep-EtLHqDbxqks.md#t-00-58-27): “Made from viscose, bamboo, breathable, soft, and built for summer. Head to CozyEarth.com and use my code CANDICE for an exclusive 20% off.”
 
 </details>
 
@@ -197,10 +242,11 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:58:42](/episodes/ep-EtLHqDbxqks.md#t-00-58-27): “Made from viscose, bamboo, breathable, soft, and built for summer. Head to CozyEarth.com and use my code CANDICE for an exclusive 20% off.”
 
 </details>
 

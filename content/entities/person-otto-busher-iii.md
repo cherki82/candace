@@ -22,7 +22,7 @@ _Type: People_
 
 **Categories:** United States Army officer, Romania military deployment, United States Army, military engineering
 
-> **Possibly overlapping entity records:** [Otto Busher](/entities/person-otto-busher). These records share a name or alias; compare their histories before treating either count as complete.
+> **Possibly overlapping entity records:** [Otto Busher](/entities/person-otto-busher) · [Otto A. Busher III](/entities/person-otto-a-busher-iii). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > Washington Post identifies Otto Albert Busher III as a U.S. Army Corps of Engineers lieutenant colonel; corroborating professional biography identifies his later Romania garrison command. Transcript spelling 'Buescher' is an ASR/name variant of Busher.

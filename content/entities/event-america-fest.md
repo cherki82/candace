@@ -1,6 +1,6 @@
 ---
 title: "America Fest"
-description: "America Fest (Events) - 15 mentions"
+description: "America Fest (Events) - 17 mentions"
 id: "event-america-fest"
 type: "EVENT"
 aliases:
@@ -26,9 +26,9 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-america-fest-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-event-america-fest-t-01-00-36">2026-06-09 · 01:01:10</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-56-42">2026-06-13 · 00:56:42</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -47,6 +47,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42" style="--pulse-height:75%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-10-21" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-event-america-fest-t-01-00-36" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-40-41" style="--pulse-height:50%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-event-america-fest-t-00-00-42) | 3 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-event-america-fest-t-00-10-21) | 2 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-event-america-fest-t-01-00-36) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-40-41) | 2 |
 
 </details>
 </section>
@@ -67,7 +69,18 @@ Source: [Home | AmericaFest](https://www.amfest.com/home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:40:46](/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-40-41)**
+> "Hey, Ben (Ben Shapiro), you want to open an AmFest? We're going big. We're going into a deeper partnership with international fellowship of Christian and Jews."
+
+**[00:56:42](/episodes/ep-WoXd4oLwd3w.md#ent-event-america-fest-t-00-56-42)**
+> "They had to keep him for AmFest 2025 because Charlie (Charlie Kirk) publicly foug..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>

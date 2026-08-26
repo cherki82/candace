@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 198 mentions"
+description: "Iran (Places) - 215 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -24,11 +24,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54">2026-08-14 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>198</strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>215</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>79</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>85</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -79,6 +79,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-07-10" style="--pulse-height:30%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 7 mentions" title="2026-05-26 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-08-33" style="--pulse-height:35%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 8 mentions" title="2026-05-27 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-01-12" style="--pulse-height:57%" aria-label="Candace Owens x Ana Kasparian: 13 mentions" title="2026-05-28 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-iran-t-00-22-33" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-11-23" style="--pulse-height:52%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 12 mentions" title="2026-06-11 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iran-t-00-48-20" style="--pulse-height:9%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-iran-t-00-47-18" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-iran-t-00-38-09" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -128,6 +133,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-iran-t-00-07-10) | 7 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-iran-t-00-08-33) | 8 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-iran-t-00-01-12) | 13 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-iran-t-00-22-33) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-11-23) | 12 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iran-t-00-48-20) | 2 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-iran-t-00-47-18) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-iran-t-00-38-09) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
 
 </details>
@@ -136,13 +146,89 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (198)</strong></summary>
+<summary><strong class="section-title">Raw mentions (215)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
 > "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:38:19](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-iran-t-00-38-09)**
+> "the Iran war"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-iran-t-00-47-18)**
+> "everything that we've just lived through with iran"
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:48:38](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iran-t-00-48-20)**
+> "Iran"
+
+**[00:49:13](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iran-t-00-48-59)**
+> "...at took place long before the Iran thing, so I don't think it does. Tony Hill writes..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (12 mentions)</summary>
+
+**[00:11:23](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-11-23)**
+> "...Trump) has been obsessed with Iran bombing, Iran absent a vote from Congress, absent..."
+
+**[00:12:15](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-12-07)**
+> "That's off the coast of Iran and therefore rightfully controlled by Iran. Take..."
+
+**[00:14:38](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-14-38)**
+> "...ery day that we have defeated Iran we have been defeating Iran every day it feels li..."
+
+**[00:16:10](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-16-10)**
+> "...Trump said we will be hitting Iran hard and we will be because Iran has a chance."
+
+**[00:16:50](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-16-50)**
+> "in Iran from the United States of America. And"
+
+**[00:16:59](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-16-53)**
+> "...ach that end state, which is: Iran will never have a nuclear weapon, which they say ..."
+
+**[00:23:43](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-23-43)**
+> "...ll undertaking to ensure that Iran never gets a nuclear weapon, which everyone here ..."
+
+**[00:24:11](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-24-11)**
+> "...ut him, of course, and die in Iran."
+
+**[00:28:45](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-24-11)**
+> "Check this out. Bombing Iran is the perfect way to celebrate pride. Now, when ..."
+
+**[00:29:25](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-29-13)**
+> "...ously strained ceasefire with Iran, it is worth reminding ourselves just what a horr..."
+
+**[00:30:33](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-30-33)**
+> "...ne can question what we do in Iran any further."
+
+**[00:40:48](/episodes/ep-19vHhjF7-NA.md#ent-gpe-iran-t-00-40-44)**
+> "It was Russia and Persia."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:23:08](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-iran-t-00-22-33)**
+> "... don't want to go to war with Iran, we're going to bomb their bridges."
 
 </details>
 
@@ -1013,7 +1099,19 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Threatened By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:16:10](/episodes/ep-19vHhjF7-NA.md#t-00-16-10): “President Trump said we will be hitting Iran hard”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1050,12 +1148,47 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 </details>
 
+- **[Donald J. Trump](/entities/person-donald-trump.md)** threatened this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:16:10](/episodes/ep-19vHhjF7-NA.md#t-00-16-10): “President Trump said we will be hitting Iran hard”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (79)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (85)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:48:53](/episodes/ep-3QJqtW_NOSI.md#t-00-48-20) (Citation) **Candace Owens**: ["Owens clarified that the New York Times account concerned events at th..."](/statements/statement-8f05212df149.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (5)</summary>
+
+- [00:16:10](/episodes/ep-19vHhjF7-NA.md#t-00-16-10) (Promise) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said that U.S. Central Command would hit Iran hard that n..."](/statements/statement-724594ed0b2f.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [Donald J. Trump](/entities/person-donald-trump.md), [United States Central Command](/entities/org-united-states-central-command.md)
+
+- [00:16:39](/episodes/ep-19vHhjF7-NA.md#t-00-16-10) (Promise) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said that U.S. bombs would fall on key facilities in Iran..."](/statements/statement-d732564307bc.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+- [00:16:53](/episodes/ep-19vHhjF7-NA.md#t-00-16-52) (Claim) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said that Operation Epic Fury and the blockade had create..."](/statements/statement-88084df39e60.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [Brad Cooper](/entities/person-brad-cooper.md), [United States Central Command](/entities/org-united-states-central-command.md)
+
+- [00:27:38](/episodes/ep-19vHhjF7-NA.md#t-00-27-16) (Promise) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said the United States would strike Iran hard that night."](/statements/statement-447ec3abfa35.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [United States](/entities/gpe-united-states.md)
+
+- [00:40:29](/episodes/ep-19vHhjF7-NA.md#t-00-40-03) (Claim) **Candace Owens**: ["Owens claimed that Russia and Persia brought an end to the Khazar Khag..."](/statements/statement-3cd995f2be54.md)
+  - Also about: [Russia](/entities/gpe-russia.md), [Khazar Khaganate](/entities/gpe-khazar-khaganate.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (9)</summary>

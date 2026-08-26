@@ -1,6 +1,6 @@
 ---
 title: "New Zealand"
-description: "New Zealand (Places) - 6 mentions"
+description: "New Zealand (Places) - 8 mentions"
 id: "gpe-new-zealand"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [New Zealand Government](https://www.govt.nz/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51">2025-11-21 · 00:42:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-59">2026-01-16 · 00:39:59</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-new-zealand-t-01-15-21">2026-07-14 · 01:15:45</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,8 @@ Source: [New Zealand Government](https://www.govt.nz/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-29" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-new-zealand-t-00-46-11" style="--pulse-height:33%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-new-zealand-t-01-15-21" style="--pulse-height:33%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +42,8 @@ Source: [New Zealand Government](https://www.govt.nz/)
 |---|---|---:|
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-29) | 3 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-new-zealand-t-00-46-11) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-new-zealand-t-01-15-21) | 1 |
 
 </details>
 </section>
@@ -47,7 +51,23 @@ Source: [New Zealand Government](https://www.govt.nz/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:15:45](/episodes/ep-EtLHqDbxqks.md#ent-gpe-new-zealand-t-01-15-21)**
+> "And I appreciate you guys for that. Amy Riddle writes, I'm from New Zealand. I have a first class honors law degree and accounting degree, so I am not stupid."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:46:22](/episodes/ep-a2bZf4fic10.md#ent-gpe-new-zealand-t-00-46-11)**
+> "...ke witness protection in like New Zealand or something like I just needed to find a pocket ..."
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (3 mentions)</summary>

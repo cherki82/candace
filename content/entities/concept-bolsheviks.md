@@ -1,6 +1,6 @@
 ---
 title: "Bolsheviks"
-description: "Bolsheviks (Concepts) - 12 mentions"
+description: "Bolsheviks (Concepts) - 15 mentions"
 id: "concept-bolsheviks"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-bolsheviks-t-00-56-19">2025-10-29 · 00:56:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-bolsheviks-t-00-12-33">2026-03-30 · 00:13:01</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32">2026-06-18 · 00:26:40</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -43,6 +43,8 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-bolsheviks-t-00-57-26" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-bolsheviks-t-00-59-19" style="--pulse-height:50%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-bolsheviks-t-00-12-33" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-bolsheviks-t-00-26-01" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32" style="--pulse-height:100%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +59,8 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-bolsheviks-t-00-57-26) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-concept-bolsheviks-t-00-59-19) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-bolsheviks-t-00-12-33) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-bolsheviks-t-00-26-01) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32) | 2 |
 
 </details>
 </section>
@@ -64,7 +68,26 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:26:32](/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32)**
+> "Bolsheviks"
+
+**[00:26:40](/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32)**
+> "... tell you that we escaped the Bolsheviks, but now we're millionaires by the time we got he..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:26:25](/episodes/ep-19vHhjF7-NA.md#ent-concept-bolsheviks-t-00-26-01)**
+> "...ith Larry (Laura Loomer), the Bolsheviks are back, baby."
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>

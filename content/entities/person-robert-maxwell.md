@@ -1,6 +1,6 @@
 ---
 title: "Robert Maxwell"
-description: "Robert Maxwell (People) - 11 mentions"
+description: "Robert Maxwell (People) - 12 mentions"
 id: "person-robert-maxwell"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10">2025-09-15 · 00:29:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-robert-maxwell-t-01-12-09">2026-06-09 · 01:12:09</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-robert-maxwell-t-00-40-06">2026-06-26 · 00:40:25</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -43,6 +43,7 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-robert-maxwell-t-00-23-12" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-maxwell-t-00-10-39" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-robert-maxwell-t-01-12-09" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-robert-maxwell-t-00-40-06" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-robert-maxwell-t-00-23-12) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-robert-maxwell-t-00-10-39) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-robert-maxwell-t-01-12-09) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-robert-maxwell-t-00-40-06) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [Encyclopaedia Britannica: Robert Maxwell](https://www.britannica.com/bi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:40:25](/episodes/ep-IqHsl7d2dos.md#ent-person-robert-maxwell-t-00-40-06)**
+> "Robert Maxwell and the society just thought he was dumb, but the..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "World War II"
-description: "World War II (Events) - 5 mentions"
+description: "World War II (Events) - 6 mentions"
 id: "event-world-war-ii"
 type: "EVENT"
 aliases:
@@ -22,11 +22,11 @@ Source: [The National WWII Museum: World War II](https://www.nationalww2museum.o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-12-00">2026-01-29 · 00:12:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-event-world-war-ii-t-00-24-28">2026-02-02 · 00:24:28</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-event-world-war-ii-t-00-40-44">2026-06-11 · 00:41:05</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [The National WWII Museum: World War II](https://www.nationalww2museum.o
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-37-51" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-event-world-war-ii-t-00-24-28" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-event-world-war-ii-t-00-40-44" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [The National WWII Museum: World War II](https://www.nationalww2museum.o
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-37-51) | 4 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-event-world-war-ii-t-00-24-28) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-event-world-war-ii-t-00-40-44) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [The National WWII Museum: World War II](https://www.nationalww2museum.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:41:05](/episodes/ep-19vHhjF7-NA.md#ent-event-world-war-ii-t-00-40-44)**
+> "get all of these books after World War II. It was like a great reset. They didn't want anyb..."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
@@ -88,7 +98,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about World War II (2)</strong></summary>
+<summary><strong class="section-title">Statements about World War II (3)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:41:05](/episodes/ep-19vHhjF7-NA.md#t-00-40-44) (Accusation) **Candace Owens**: ["Owens alleged that after World War II, unnamed actors translated and e..."](/statements/statement-1c3acbbac80a.md)
+  - Also about: [Russia](/entities/gpe-russia.md), [Western world](/entities/concept-western-world.md)
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>

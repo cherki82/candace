@@ -1,6 +1,6 @@
 ---
 title: "Mia Grant"
-description: "Mia Grant (People) - 11 mentions"
+description: "Mia Grant (People) - 12 mentions"
 id: "person-mia-grant"
 type: "PERSON"
 aliases:
@@ -15,12 +15,12 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-mia-grant-t-00-19-52">2025-09-18 · 00:20:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04">2025-12-16 · 00:02:35</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-mia-grant-t-00-54-11">2026-06-24 · 00:54:29</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -31,6 +31,7 @@ _Type: People_
 <a href="/episodes/ep-sreYYcID-QY.md#ent-person-mia-grant-t-00-19-52" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-mia-grant-t-00-03-13" style="--pulse-height:100%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 4 mentions" title="2025-09-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04" style="--pulse-height:50%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-mia-grant-t-00-54-11" style="--pulse-height:25%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +40,7 @@ _Type: People_
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-person-mia-grant-t-00-19-52) | 4 |
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-person-mia-grant-t-00-03-13) | 4 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-mia-grant-t-00-02-04) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-mia-grant-t-00-54-11) | 1 |
 
 </details>
 </section>
@@ -46,7 +48,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:54:29](/episodes/ep-sKuYLNx3iRo.md#ent-person-mia-grant-t-00-54-11)**
+> "cousin Mia (Mia Grant)'s opinion"
+
+</details>
 
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (2 mentions)</summary>
@@ -111,6 +121,18 @@ _Type: People_
 </details>
 
 <details>
+<summary>Cousin Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:54:29](/episodes/ep-sKuYLNx3iRo.md#t-00-54-11): “Ashley (commenter; surname unverified) writes, 'Hi, Candace. Congratulations. Also curious what cousin Mia (Mia Grant)'s opinion is about Erika (Erika Kirk) when you both walked out of that meeting months ago.'”
+
+</details>
+
+</details>
+
+<details>
 <summary>Niece/Nephew Of (1)</summary>
 
 - **[Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md)**
@@ -123,12 +145,19 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Elle Steele](/entities/person-elle-steele.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:04:05](/episodes/ep-sreYYcID-QY.md#t-00-03-26): “We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yesterday afternoon.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** cousin of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:54:29](/episodes/ep-sKuYLNx3iRo.md#t-00-54-11): “Ashley (commenter; surname unverified) writes, 'Hi, Candace. Congratulations. Also curious what cousin Mia (Mia Grant)'s opinion is about Erika (Erika Kirk) when you both walked out of that meeting months ago.'”
 
 </details>
 

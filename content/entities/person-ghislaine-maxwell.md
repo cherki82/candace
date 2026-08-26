@@ -1,6 +1,6 @@
 ---
 title: "Ghislaine Maxwell"
-description: "Ghislaine Maxwell (People) - 14 mentions"
+description: "Ghislaine Maxwell (People) - 18 mentions"
 id: "person-ghislaine-maxwell"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-28-54">2025-09-15 · 00:29:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-ghislaine-maxwell-t-00-10-39">2026-05-27 · 00:11:06</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-40-06">2026-06-26 · 00:40:06</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,8 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-39-05" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-ghislaine-maxwell-t-00-10-39" style="--pulse-height:33%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-ghislaine-maxwell-t-00-03-05" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-18-12" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +56,8 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-39-05) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-ghislaine-maxwell-t-00-10-39) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-ghislaine-maxwell-t-00-03-05) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-18-12) | 3 |
 
 </details>
 </section>
@@ -61,7 +65,29 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
+
+**[00:18:27](/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-18-12)**
+> "... Virginia Giuffre had against Ghislaine Maxwell"
+
+**[00:23:17](/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-23-17)**
+> "..., Jeffrey Epstein, his French Ghislaine Maxwell, the Maxwell family, his modeling world through w..."
+
+**[00:40:06](/episodes/ep-IqHsl7d2dos.md#ent-person-ghislaine-maxwell-t-00-40-06)**
+> "...-Contra scandal brought in by Ghislaine Maxwell's father."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:03:05](/episodes/ep-3QJqtW_NOSI.md#ent-person-ghislaine-maxwell-t-00-03-05)**
+> "Ghislaine Maxwell"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -170,7 +196,19 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Sued By (1)</summary>
+
+- **[Virginia Giuffre](/entities/person-virginia-giuffre.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:18:27](/episodes/ep-IqHsl7d2dos.md#t-00-18-12): “Now, when that court case—which they tried to hush up—that Virginia Giuffre had against Ghislaine Maxwell”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Robert Maxwell](/entities/person-robert-maxwell.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -181,12 +219,35 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 
 </details>
 
+- **[Virginia Giuffre](/entities/person-virginia-giuffre.md)** sued this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:18:27](/episodes/ep-IqHsl7d2dos.md#t-00-18-12): “Now, when that court case—which they tried to hush up—that Virginia Giuffre had against Ghislaine Maxwell”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ghislaine Maxwell (4)</strong></summary>
+<summary><strong class="section-title">Statements about Ghislaine Maxwell (6)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:18:27](/episodes/ep-IqHsl7d2dos.md#t-00-18-12) (Accusation) **Virginia Giuffre** (via quoted document): ["Virginia Giuffre said Epstein had bragged that he had slept with more ..."](/statements/statement-3a7dec624dc7.md)
+  - Also about: [Virginia Giuffre](/entities/person-virginia-giuffre.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:03:05](/episodes/ep-3QJqtW_NOSI.md#t-00-02-42) (Claim) **Candace Owens**: ["Owens clarified that Charlie Kirk and Erika Kirk had their first date ..."](/statements/statement-6a944e08057e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>

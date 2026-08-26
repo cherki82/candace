@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 373 mentions"
+description: "American Financing (Organizations) - 409 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-11-40">2026-06-09 · 01:11:40</a></strong></div>
-<div><span>Episodes</span><strong>91</strong></div>
-<div><span>Mentions</span><strong>373</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-14-01">2026-07-14 · 01:14:01</a></strong></div>
+<div><span>Episodes</span><strong>100</strong></div>
+<div><span>Mentions</span><strong>409</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -127,6 +127,15 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-american-financing-t-00-45-41" style="--pulse-height:62%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-american-financing-t-01-09-50" style="--pulse-height:62%" aria-label="Candace Owens x Ana Kasparian: 5 mentions" title="2026-05-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-17" style="--pulse-height:62%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 5 mentions" title="2026-06-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-51-57" style="--pulse-height:75%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 6 mentions" title="2026-06-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-american-financing-t-00-35-23" style="--pulse-height:38%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-american-financing-t-01-01-53" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-american-financing-t-00-47-51" style="--pulse-height:50%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-american-financing-t-00-50-41" style="--pulse-height:50%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-american-financing-t-00-50-46" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-american-financing-t-00-50-13" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-org-american-financing-t-00-36-49" style="--pulse-height:38%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-13-16" style="--pulse-height:50%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -223,6 +232,15 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-american-financing-t-00-45-41) | 5 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-american-financing-t-01-09-50) | 5 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-17) | 5 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-51-57) | 6 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-american-financing-t-00-35-23) | 3 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-american-financing-t-01-01-53) | 4 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-american-financing-t-00-47-51) | 4 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-american-financing-t-00-50-41) | 4 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-american-financing-t-00-50-46) | 4 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-american-financing-t-00-50-13) | 4 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-american-financing-t-00-36-49) | 3 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-13-16) | 4 |
 
 </details>
 </section>
@@ -230,7 +248,160 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (373)</strong></summary>
+<summary><strong class="section-title">Raw mentions (409)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (4 mentions)</summary>
+
+**[01:13:16](/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-13-16)**
+> "I also want to remind you guys about American Financing, because it is no secret that everything is starting to feel a lot more expensive."
+
+**[01:13:33](/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-13-16)**
+> "But with American Financing's smart equity loan, you should know that you don't..."
+
+**[01:13:50](/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-13-16)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[01:14:01](/episodes/ep-EtLHqDbxqks.md#ent-org-american-financing-t-01-14-01)**
+> "...that's 800-795-1210. Or visit AmericanFinancing.net slash Owens. Again, that is AmericanFinancing..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (3 mentions)</summary>
+
+**[00:37:07](/episodes/ep-a2bZf4fic10.md#ent-org-american-financing-t-00-36-49)**
+> "But with American Financing's Smart Equity Loan, you don't have to. It allows y..."
+
+**[00:37:24](/episodes/ep-a2bZf4fic10.md#ent-org-american-financing-t-00-36-49)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:37:33](/episodes/ep-a2bZf4fic10.md#ent-org-american-financing-t-00-37-33)**
+> "...that's 800-795-1210, or visit americanfinancing.net/Owens. Again, that's americanfinancing.net/Ow..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (4 mentions)</summary>
+
+**[00:50:13](/episodes/ep-sKuYLNx3iRo.md#ent-org-american-financing-t-00-50-13)**
+> "American financing"
+
+**[00:50:40](/episodes/ep-sKuYLNx3iRo.md#ent-org-american-financing-t-00-50-13)**
+> "It's an exhausting cycle, but American financing understands that 2026 requires requires a real st..."
+
+**[00:50:59](/episodes/ep-sKuYLNx3iRo.md#ent-org-american-financing-t-00-50-55)**
+> "...wo mortgage payments. So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+**[00:51:08](/episodes/ep-sKuYLNx3iRo.md#ent-org-american-financing-t-00-50-55)**
+> "1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (4 mentions)</summary>
+
+**[00:51:11](/episodes/ep-9CuC1yf8-PU.md#ent-org-american-financing-t-00-50-46)**
+> "Also want to remind you guys about American financing"
+
+**[00:51:38](/episodes/ep-9CuC1yf8-PU.md#ent-org-american-financing-t-00-51-31)**
+> "It's an exhausting cycle, but American financing understands. And that 2026 requires a real strate..."
+
+**[00:51:57](/episodes/ep-9CuC1yf8-PU.md#ent-org-american-financing-t-00-51-31)**
+> "...wo mortgage payments. So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+**[00:52:07](/episodes/ep-9CuC1yf8-PU.md#ent-org-american-financing-t-00-52-07)**
+> "Or visit AmericanFinancing.net slash Owens. AmericanFinancing.net slash Owen..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (4 mentions)</summary>
+
+**[00:50:51](/episodes/ep-VMNWMXX1vO8.md#ent-org-american-financing-t-00-50-41)**
+> "Also, I remind you guys about American financing because in today's uncertain economy, American fi..."
+
+**[00:51:14](/episodes/ep-VMNWMXX1vO8.md#ent-org-american-financing-t-00-51-14)**
+> "It's an exhausting cycle, but American Financing understands that 2026 requires a real strategy. T..."
+
+**[00:51:33](/episodes/ep-VMNWMXX1vO8.md#ent-org-american-financing-t-00-51-14)**
+> "...wo mortgage payments. So call American Financing today at 800-795-1210."
+
+**[00:51:41](/episodes/ep-VMNWMXX1vO8.md#ent-org-american-financing-t-00-51-14)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (4 mentions)</summary>
+
+**[00:48:03](/episodes/ep-G3zdOeHpvS0.md#ent-org-american-financing-t-00-47-51)**
+> "...want to remind you guys about American financing because in today's uncertain economy, American fi..."
+
+**[00:48:30](/episodes/ep-G3zdOeHpvS0.md#ent-org-american-financing-t-00-48-30)**
+> "It's an exhausting cycle, but American financing understands that 2026 requires a real strategy. T..."
+
+**[00:48:50](/episodes/ep-G3zdOeHpvS0.md#ent-org-american-financing-t-00-48-30)**
+> "...wo mortgage payments. So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+**[00:49:03](/episodes/ep-G3zdOeHpvS0.md#ent-org-american-financing-t-00-48-30)**
+> "That's AmericanFinancing.net slash Owens."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (4 mentions)</summary>
+
+**[01:02:25](/episodes/ep-h76ZN-xXC6c.md#ent-org-american-financing-t-01-01-53)**
+> "It's an exhausting cycle, but American Financing understands that 2026 requires a real strategy. T..."
+
+**[01:02:45](/episodes/ep-h76ZN-xXC6c.md#ent-org-american-financing-t-01-02-34)**
+> "...wo mortgage payments. So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+**[01:02:57](/episodes/ep-h76ZN-xXC6c.md#ent-org-american-financing-t-01-02-34)**
+> "That's AmericanFinancing.net slash Owens."
+
+**[01:02:02](/episodes/ep-h76ZN-xXC6c.md#ent-org-american-financing-t-01-01-53)**
+> "I also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families find a way out of high interest drops."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (3 mentions)</summary>
+
+**[00:35:44](/episodes/ep-19vHhjF7-NA.md#ent-org-american-financing-t-00-35-23)**
+> "...o want to tell you guys about American financing because in today's uncertain economy, American fi..."
+
+**[00:36:08](/episodes/ep-19vHhjF7-NA.md#ent-org-american-financing-t-00-36-08)**
+> "It's an exhausting cycle, but American Financing understands that 2026 requires a real strategy. T..."
+
+**[00:36:27](/episodes/ep-19vHhjF7-NA.md#ent-org-american-financing-t-00-36-08)**
+> "...wo mortgage payments. So call American Financing today at 800-795-1210. Again, that's 800-795-1210..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (6 mentions)</summary>
+
+**[00:52:05](/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-51-57)**
+> "...oing to remind you guys about American financing because between groceries, travel and higher pric..."
+
+**[00:52:22](/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-51-57)**
+> "...ve considered reaching out to American financing but hesitated because you don't want to give up y..."
+
+**[00:52:27](/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-51-57)**
+> "Well, that's why American financing created the smart equity loan because it's a simp..."
+
+**[00:52:47](/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-52-41)**
+> "...d out if you qualify, so call American Financing today at 800-795-1210."
+
+**[00:52:54](/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-52-41)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+**[00:53:03](/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-52-41)**
+> "American Financing, America's home for home loans."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (5 mentions)</summary>
@@ -1803,7 +1974,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -1823,6 +1994,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:47:58](/episodes/ep-cPidFQDJLbo.md#t-00-47-31): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
 - [Candace x Hunter Biden: The Interview @ 01:26:30](/episodes/ep-Ux1kzgQxkws.md#t-01-26-21): “Call American Financing today at 800-795-7460.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:10:56](/episodes/ep-YeEtS7nix3o.md#t-01-10-17): “if you're a homeowner, you might have considered reaching out to American financing”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:51:11](/episodes/ep-9CuC1yf8-PU.md#t-00-50-46): “Also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:50:13](/episodes/ep-sKuYLNx3iRo.md#t-00-50-13): “I also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families find a way out of the high interest trap.”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:37:24](/episodes/ep-a2bZf4fic10.md#t-00-36-49): “At American Financing, there are never any upfront fees to find out what you qualify for. So talk to a salary-based consultant today, experts who are paid to help you save, not to sell you more than you need.”
 
 </details>
 
@@ -1832,7 +2006,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -1852,6 +2026,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:47:58](/episodes/ep-cPidFQDJLbo.md#t-00-47-31): “There are no upfront fees to find out if you qualify, so call American Financing today at 800-795-1210.”
 - [Candace x Hunter Biden: The Interview @ 01:26:30](/episodes/ep-Ux1kzgQxkws.md#t-01-26-21): “Call American Financing today at 800-795-7460.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:10:56](/episodes/ep-YeEtS7nix3o.md#t-01-10-17): “if you're a homeowner, you might have considered reaching out to American financing”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:51:11](/episodes/ep-9CuC1yf8-PU.md#t-00-50-46): “Also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:50:13](/episodes/ep-sKuYLNx3iRo.md#t-00-50-13): “I also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families find a way out of the high interest trap.”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:37:24](/episodes/ep-a2bZf4fic10.md#t-00-36-49): “At American Financing, there are never any upfront fees to find out what you qualify for. So talk to a salary-based consultant today, experts who are paid to help you save, not to sell you more than you need.”
 
 </details>
 

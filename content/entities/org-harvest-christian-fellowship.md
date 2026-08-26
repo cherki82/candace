@@ -1,6 +1,6 @@
 ---
 title: "Harvest Christian Fellowship"
-description: "Harvest Christian Fellowship (Organizations) - 13 mentions"
+description: "Harvest Christian Fellowship (Organizations) - 14 mentions"
 id: "org-harvest-christian-fellowship"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-harvest-christian-fellowship-t-00-13-35">2026-01-09 · 00:13:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-harvest-christian-fellowship-t-00-39-58">2026-06-09 · 00:40:07</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-harvest-christian-fellowship-t-00-24-35">2026-06-17 · 00:24:35</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,6 +42,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-harvest-christian-fellowship-t-00-50-33" style="--pulse-height:14%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-harvest-christian-fellowship-t-00-47-18" style="--pulse-height:14%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-harvest-christian-fellowship-t-00-39-58" style="--pulse-height:14%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-harvest-christian-fellowship-t-00-24-35" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-harvest-christian-fellowship-t-00-50-33) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-harvest-christian-fellowship-t-00-47-18) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-harvest-christian-fellowship-t-00-39-58) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-harvest-christian-fellowship-t-00-24-35) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:24:35](/episodes/ep-G3zdOeHpvS0.md#ent-org-harvest-christian-fellowship-t-00-24-35)**
+> "... Pastor Greg Laurie's church, Harvest Church. Immediately, Erika (Erika Kirk) went on tour aft..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -200,10 +210,11 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <summary>Has Pastor (1)</summary>
 
 - **[Greg Laurie](/entities/person-greg-laurie.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53): “Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35): “Pastor Greg Laurie's church, Harvest Church.”
 
 </details>
 
@@ -262,10 +273,11 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 </details>
 
 - **[Greg Laurie](/entities/person-greg-laurie.md)** pastor of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53): “Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35): “Pastor Greg Laurie's church, Harvest Church.”
 
 </details>
 
@@ -274,7 +286,15 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Harvest Christian Fellowship (7)</strong></summary>
+<summary><strong class="section-title">Statements about Harvest Christian Fellowship (8)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+
+- [00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35) (Accusation) **Candace Owens**: ["Owens said Harvest Christian Fellowship was facing litigation over wha..."](/statements/statement-9acfc16209dd.md)
+  - Also about: [Greg Laurie](/entities/person-greg-laurie.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

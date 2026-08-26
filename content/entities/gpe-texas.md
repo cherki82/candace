@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 100 mentions"
+description: "Texas (Places) - 104 mentions"
 id: "gpe-texas"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12">2025-10-09 · 00:37:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35">2026-05-27 · 00:12:52</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>100</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-43-12">2026-06-18 · 00:43:12</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>104</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -56,6 +56,8 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-texas-t-01-04-41" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-texas-t-00-09-55" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-texas-t-00-43-32" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-08-50" style="--pulse-height:12%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +89,8 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-texas-t-01-04-41) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-texas-t-00-09-55) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-texas-t-00-43-32) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-08-50) | 3 |
 
 </details>
 </section>
@@ -94,7 +98,29 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3 mentions)</summary>
+
+**[00:09:09](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-08-50)**
+> "departing for El Paso, Texas"
+
+**[00:18:49](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-18-27)**
+> "She was trained in Texas, in the Dallas-Fort Worth area. And when they exp..."
+
+**[00:43:12](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-43-12)**
+> "...omments. This person, Israel, Texas, writes, a woman with a headband in her basement ..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:43:32](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-texas-t-00-43-32)**
+> "then flies from Fort Huachuca to El Paso and arrives at 1 20 p.m local remains on the ground for four hours and 10 minutes and then it returns back to Joint Base Andrews just outside of DC um who did he drop off in Texas that's another question right these these are registering to me like pick up and drop off maybe he's landing for a meeting who's in those meetings now the timing of this"
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>

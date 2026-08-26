@@ -1,6 +1,6 @@
 ---
 title: "X"
-description: "X (Organizations) - 25 mentions"
+description: "X (Organizations) - 30 mentions"
 id: "org-x-platform"
 type: "ORG"
 aliases:
@@ -18,14 +18,14 @@ _Type: Organizations_
 > **Possibly overlapping entity records:** [Twitter](/entities/org-twitter). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
-> Official company page confirms canonical current name; matching the one-character name is intentionally avoided by mention backfill.
-Source: [X — About](https://about.x.com/)
+> Official X company site identifies the X platform and X Corp.; the episode's 'on X' references this platform.
+Source: [About X — X Corp.](https://about.x.com/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#t-00-20-03">2026-01-06 · 00:20:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-04-01-26">2026-08-14 · 04:02:03</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,6 +50,9 @@ Source: [X — About](https://about.x.com/)
 <a href="/episodes/ep-eLgD5yUVbko.md#t-00-35-25" style="--pulse-height:20%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-x-platform-t-00-09-19" style="--pulse-height:40%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-x-platform-t-00-46-22" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-00-00" style="--pulse-height:20%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-x-platform-t-00-00-00" style="--pulse-height:40%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#t-00-38-45" style="--pulse-height:20%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -70,6 +73,9 @@ Source: [X — About](https://about.x.com/)
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-x-platform-t-00-09-19) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-x-platform-t-00-46-22) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-00-00) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-x-platform-t-00-00-00) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#t-00-38-45) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06) | 5 |
 
 </details>
@@ -78,7 +84,7 @@ Source: [X — About](https://about.x.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5 mentions)</summary>
@@ -97,6 +103,33 @@ Source: [X — About](https://about.x.com/)
 
 **[04:02:03](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-04-01-26)**
 > "... every single day trending on Twitter."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:39:10](/episodes/ep-VMNWMXX1vO8.md#t-00-38-45)**
+> "You can't just be out there saying stuff like that. Even even X had to clock him on the lie."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
+
+**[00:00:00](/episodes/ep-h76ZN-xXC6c.md#ent-org-x-platform-t-00-00-00)**
+> "...ning the FBI's Rapid Response Twitter account."
+
+**[00:48:27](/episodes/ep-h76ZN-xXC6c.md#ent-org-x-platform-t-00-48-27)**
+> "...nsome again. We wrote that on Twitter. We wrote like they they denied our 20 day reques..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:00:26](/episodes/ep-WoXd4oLwd3w.md#t-00-00-00)**
+> "On X, I mean, Tucker (Tucker Carlson) did this interview with Mario Nawfal, and it's got me really wondering about Butler."
 
 </details>
 

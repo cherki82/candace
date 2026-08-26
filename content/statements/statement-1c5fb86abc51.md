@@ -25,13 +25,23 @@ veracity: "mixed"
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 
-## Source
+## Appearances (2)
+
+### 1. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:52:26](/episodes/ep-KpxIBWkNsSs.md#t-00-52-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3146);return false;">Play</a>
 
 > Paramount Tactical he says okay fine they have now just admitted over the weekend that the boy in the Fort Huachuca alibi photo is not Erika (Erika Kirk)'s
+
+### 2. OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. |...
+
+**Episode:** [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md)
+**Timestamp:** [00:46:56](/episodes/ep-19vHhjF7-NA.md#t-00-46-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2816);return false;">Play</a>
+
+> Andrew (Andrew Kolvet) tried to through Paramount Not So Tactical, but then Paramount Not So Tactical debunked that alibi and said it doesn't really matter whether or not those are her kids. ... And now neither are the kids.
 
 ## Verification
 

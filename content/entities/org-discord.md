@@ -1,6 +1,6 @@
 ---
 title: "Discord"
-description: "Discord (Organizations) - 34 mentions"
+description: "Discord (Organizations) - 35 mentions"
 id: "org-discord"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ Source: [Discord — About Discord](https://discord.com/company)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44">2025-09-15 · 00:52:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-48-55">2026-08-14 · 01:48:55</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-discord-t-00-37-12" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 8 mentions" title="2026-04-13 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-discord-t-00-11-53" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-discord-t-00-08-38" style="--pulse-height:12%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -63,6 +64,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-discord-t-00-37-12) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55) | 8 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-discord-t-00-11-53) | 2 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-discord-t-00-08-38) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20) | 2 |
 
 </details>
@@ -71,7 +73,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -81,6 +83,14 @@ Source: [Discord — About Discord](https://discord.com/company)
 
 **[01:48:55](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-48-55)**
 > "...ying in fact i've had tons of discord calls about this My position's always been clear."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:08:38](/episodes/ep-EtLHqDbxqks.md#ent-org-discord-t-00-08-38)**
+> "So we have three confessions here, one to his parents, one to his roommate, and one on Discord."
 
 </details>
 
@@ -258,7 +268,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Discord (4)</strong></summary>
+<summary><strong class="section-title">Statements about Discord (5)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [00:08:38](/episodes/ep-EtLHqDbxqks.md#t-00-08-38) (Claim) **Steve Deace** (via quoted speech): ["Steve Deace said Tyler Robinson made three confessions: one to his par..."](/statements/statement-b092d5dd493a.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>

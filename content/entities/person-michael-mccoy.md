@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 284 mentions"
+description: "Michael McCoy (People) - 317 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-michael-mccoy-t-00-32-40">2026-05-27 · 00:32:40</a></strong></div>
-<div><span>Episodes</span><strong>54</strong></div>
-<div><span>Mentions</span><strong>284</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-54-28">2026-06-26 · 00:54:35</a></strong></div>
+<div><span>Episodes</span><strong>62</strong></div>
+<div><span>Mentions</span><strong>317</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>52</strong></div>
-<div><span>Relationships</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>58</strong></div>
+<div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -91,6 +91,14 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-michael-mccoy-t-00-06-08" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-michael-mccoy-t-00-24-28" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-michael-mccoy-t-00-32-40" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-michael-mccoy-t-00-23-41" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-michael-mccoy-t-00-34-19" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 3 mentions" title="2026-06-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-michael-mccoy-t-00-03-11" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-michael-mccoy-t-00-25-48" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-michael-mccoy-t-00-36-41" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-michael-mccoy-t-00-10-10" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-michael-mccoy-t-00-28-30" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52" style="--pulse-height:44%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 17 mentions" title="2026-06-26 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -150,6 +158,14 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-michael-mccoy-t-00-06-08) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-michael-mccoy-t-00-24-28) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-michael-mccoy-t-00-32-40) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-michael-mccoy-t-00-23-41) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-michael-mccoy-t-00-34-19) | 3 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-michael-mccoy-t-00-03-11) | 4 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-michael-mccoy-t-00-25-48) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-michael-mccoy-t-00-36-41) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-michael-mccoy-t-00-10-10) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-michael-mccoy-t-00-28-30) | 1 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52) | 17 |
 
 </details>
 </section>
@@ -157,7 +173,146 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (284)</strong></summary>
+<summary><strong class="section-title">Raw mentions (317)</strong></summary>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (17 mentions)</summary>
+
+**[00:30:52](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52)**
+> "But what of Mikey (Michael McCoy)? I'll tell you my perspective of Mikey (Michael ..."
+
+**[00:31:02](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52)**
+> "... that them saying that Mikey (Michael McCoy) was amazing—Erika Kirk, the first to say it at t..."
+
+**[00:31:11](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52)**
+> "...t was patently untrue. Mikey (Michael McCoy) was the most emotionally impacted. He did not ha..."
+
+**[00:31:33](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-31-33)**
+> "...ou the whole time that Mikey (Michael McCoy), who was in the background, who was physically s..."
+
+**[00:31:42](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-31-33)**
+> "Mikey (Michael McCoy) was impacted by this in a way that leads me to b..."
+
+**[00:31:55](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-31-33)**
+> "Do I think Mikey (Michael McCoy)..."
+
+**[00:32:06](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-31-33)**
+> "Do I think that Mikey (Michael McCoy) was prepared for Charlie Kirk to die that day? N..."
+
+**[00:32:13](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-32-13)**
+> "... with what I was told. Mikey (Michael McCoy) had raw emotion at the hospital."
+
+**[00:32:20](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-32-13)**
+> "Of all of them, Mikey (Michael McCoy) was the most upset, and yet they then all came o..."
+
+**[00:32:45](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-32-13)**
+> "...t what they're pumping Mikey (Michael McCoy) with right now?"
+
+**[00:32:52](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-32-52)**
+> "Hey, Mikey (Michael McCoy), you're going to be the next Charlie Kirk. You'r..."
+
+**[00:33:02](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-32-52)**
+> "That was Mikey (Michael McCoy) at the hospital. I was told, not..."
+
+**[00:53:02](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-53-02)**
+> "...'t in the car.' If I'm Mikey (Michael McCoy), 'I wasn't in the car. I didn't know. I had no i..."
+
+**[00:53:55](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-53-42)**
+> "Auntie Leish writes, 'Mikey (Michael McCoy) knew, Candace Owens. He didn't look. He walked a..."
+
+**[00:54:17](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-53-42)**
+> "...I have not sensed that Mikey (Michael McCoy) is a purely evil person. I don't get that from h..."
+
+**[00:54:28](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-54-28)**
+> "I don't get that from Mikey (Michael McCoy), though. I get someone who was born into it. He'..."
+
+**[00:54:35](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-54-28)**
+> "...'t know. I don't sense Mikey (Michael McCoy) as being like the rest of them."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:28:30](/episodes/ep-sKuYLNx3iRo.md#ent-person-michael-mccoy-t-00-28-30)**
+> "Mikey (Michael McCoy) had already sent a plane"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
+
+**[00:10:28](/episodes/ep-9CuC1yf8-PU.md#ent-person-michael-mccoy-t-00-10-10)**
+> "Mikey (Michael McCoy), who was a hero, found them surgical scrubs"
+
+**[00:54:22](/episodes/ep-9CuC1yf8-PU.md#ent-person-michael-mccoy-t-00-54-22)**
+> "...ackstage to like you know the Michael McCoy character or whoever was traveling with him at th..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
+
+**[00:37:06](/episodes/ep-VMNWMXX1vO8.md#ent-person-michael-mccoy-t-00-36-41)**
+> "Pastor Rob McCoy, Mikey McCoy's daddy."
+
+**[00:39:15](/episodes/ep-VMNWMXX1vO8.md#ent-person-michael-mccoy-t-00-38-45)**
+> "...d that. It's kind of like his Mikey had blood all over him because they just lie."
+
+**[00:53:16](/episodes/ep-VMNWMXX1vO8.md#ent-person-michael-mccoy-t-00-53-00)**
+> "Mikey McCoy, Stacey Sheridan, they have been the directors he..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:26:07](/episodes/ep-3QJqtW_NOSI.md#ent-person-michael-mccoy-t-00-25-48)**
+> "Mikey McCoy"
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (4 mentions)</summary>
+
+**[00:03:22](/episodes/ep-G3zdOeHpvS0.md#ent-person-michael-mccoy-t-00-03-11)**
+> "...he bag so I gave it to Mikey (Michael McCoy) and I said Mikey (Michael McCoy) I"
+
+**[00:04:39](/episodes/ep-G3zdOeHpvS0.md#ent-person-michael-mccoy-t-00-04-32)**
+> "...d they also wouldn't have put Mikey McCoy, Blakey Neff, and the entire team that were on bo..."
+
+**[00:41:32](/episodes/ep-G3zdOeHpvS0.md#ent-person-michael-mccoy-t-00-41-24)**
+> "at the hospital Mikey (Michael McCoy) was so great and they gave them scrubs and they ..."
+
+**[00:55:46](/episodes/ep-G3zdOeHpvS0.md#ent-person-michael-mccoy-t-00-55-46)**
+> "... talking about the staff, the Michael McCoy, the Blake Neff, the Andrew Seifer, another perso..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3 mentions)</summary>
+
+**[00:34:29](/episodes/ep-h76ZN-xXC6c.md#ent-person-michael-mccoy-t-00-34-19)**
+> "Terryl (Terryl Farnsworth) taking down the cameras after recording himself nothing Erika (Erika Kirk) you want that guy around you in general do you want to be friends with him forget like hiring him don't you like I don't wouldn't want to see his face after that like why'd you record yourself why didn't you help my husband Mikey (Michael McCoy) walking away not running but walking apparently he didn't think there was gonna be any more shots"
+
+**[00:37:04](/episodes/ep-h76ZN-xXC6c.md#ent-person-michael-mccoy-t-00-37-04)**
+> "... call from you or from Mikey (Michael McCoy)."
+
+**[00:37:19](/episodes/ep-h76ZN-xXC6c.md#ent-person-michael-mccoy-t-00-37-19)**
+> "...ot the first call from Mikey (Michael McCoy). Because I was in the emergency room after we go..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:23:59](/episodes/ep-WoXd4oLwd3w.md#ent-person-michael-mccoy-t-00-23-41)**
+> "...radar and this is when Mikey (Michael McCoy) and Eliza (Maine vacation participant; surname u..."
+
+**[00:19:51](/episodes/ep-WoXd4oLwd3w.md#ent-person-michael-mccoy-t-00-19-44)**
+> "It was at one point Mikey (Michael McCoy)'s assistant. Derek Nekerk (bodyguard; surname spelling unverified), who's a bodyguard. Jonathan Barcelo, who is a Marine."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -1316,7 +1471,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary>Child Of (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1329,6 +1484,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:43](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43): “he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy.”
 - [Myron Gaines x Candace Owens @ 00:59:59](/episodes/ep-2T39-oADLj0.md#t-00-59-40): “And you're brought in by Rob, your dad,”
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 
 </details>
 
@@ -1338,9 +1494,22 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:14](/episodes/ep-I0OaY6Gryqk.md#t-00-34-47): “that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:34:29](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19): “why didn't you help my husband Mikey (Michael McCoy) walking away not running but walking apparently he didn't think there was gonna be any more shots”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:54:17](/episodes/ep-a2bZf4fic10.md#t-00-53-42): “And it was like something went wrong. I don't know. I, from the beginning, I have not sensed that Mikey (Michael McCoy) is a purely evil person. I don't get that from him. I think his father is.”
 
 </details>
 
@@ -1354,6 +1523,18 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:18:09](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09): “Mikey McCoy's assistant”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:21:21](/episodes/ep-7ERqbYElOfs.md#t-00-21-01): “When did Erica (Erika Kirk) get so close with Mikey (Michael McCoy)'s assistant and Stacey Sheridan”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Katherine Locastro](/entities/person-katherine-locastro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “She's got Katherine Locastro. It's a young woman who works for Turning Point USA. ... It was at one point Mikey (Michael McCoy)'s assistant.”
 
 </details>
 
@@ -1396,10 +1577,34 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
+<summary>Trained By (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:34:55](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19): “Remember, they said Charlie (Charlie Kirk) trained him. Anything ever happened, you immediately call Erika (Erika Kirk) and that's what he went to go do.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:53:16](/episodes/ep-VMNWMXX1vO8.md#t-00-53-00): “Mikey McCoy, Stacey Sheridan, they have been the directors helping Erika (Erika Kirk) memorize her lines.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “There was a video that is currently circulating of his chief of staff, Mikey McCoy.”
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
@@ -1410,6 +1615,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:40](/episodes/ep-his-JBjlkh8.md#t-00-02-58): “When he defends the actions of Mikey McCoy on that day”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:59](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “January 3, 2024—Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:47](/episodes/ep-Qfwr08Ebczo.md#t-00-15-33): “When McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy”
 
 </details>
 
@@ -1423,7 +1629,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (14)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1433,20 +1639,29 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:35:14](/episodes/ep-I0OaY6Gryqk.md#t-00-34-47): “that Blake Neff now somehow holds the keys and knows what Charlie (Charlie Kirk) would have wanted. Mikey McCoy, this kid who came out of nowhere, knows exactly—like we were his best friends—so much so that we won't even”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:34:29](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19): “why didn't you help my husband Mikey (Michael McCoy) walking away not running but walking apparently he didn't think there was gonna be any more shots”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:54:17](/episodes/ep-a2bZf4fic10.md#t-00-53-42): “And it was like something went wrong. I don't know. I, from the beginning, I have not sensed that Mikey (Michael McCoy) is a purely evil person. I don't get that from him. I think his father is.”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “There was a video that is currently circulating of his chief of staff, Mikey McCoy.”
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:02:26](/episodes/ep-Qfwr08Ebczo.md#t-00-02-07): “Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason,”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie's chief of staff...”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “Mikey McCoy's promoted to the chief of staff of Turning Point USA”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy”
 
 </details>
 
@@ -1461,6 +1676,13 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
+
+</details>
+
+- **[Katherine Locastro](/entities/person-katherine-locastro.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “She's got Katherine Locastro. It's a young woman who works for Turning Point USA. ... It was at one point Mikey (Michael McCoy)'s assistant.”
 
 </details>
 
@@ -1481,11 +1703,12 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “potentially more amazing than her husband Michael McCoy.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:14:00](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26): “they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) and his wife Elizabeth.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:12:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33): “Mikey McCoy, her husband”
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:26:07](/episodes/ep-3QJqtW_NOSI.md#t-00-25-48): “How could we forget Mikey McCoy's wife, Elizabeth Kravchuk?”
 
 </details>
 
@@ -1497,7 +1720,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
@@ -1507,6 +1730,14 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:43](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43): “he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy.”
 - [Myron Gaines x Candace Owens @ 00:59:59](/episodes/ep-2T39-oADLj0.md#t-00-59-40): “And you're brought in by Rob, your dad,”
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** trained this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:34:55](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19): “Remember, they said Charlie (Charlie Kirk) trained him. Anything ever happened, you immediately call Erika (Erika Kirk) and that's what he went to go do.”
 
 </details>
 
@@ -1560,7 +1791,50 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (52)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (58)</strong></summary>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2)</summary>
+
+- [00:30:52](/episodes/ep-a2bZf4fic10.md#t-00-30-52) (Claim) **Anonymous Source #1 (Ep a2bZf4fic10)** (via read message): ["An anonymous source told Owens that Michael McCoy was the most emotion..."](/statements/statement-0983c416ffa5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:31:42](/episodes/ep-a2bZf4fic10.md#t-00-31-33) (Opinion) **Candace Owens**: ["Owens said Michael McCoy's emotional reaction led her to believe that ..."](/statements/statement-1552bb833268.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
+
+- [00:28:30](/episodes/ep-sKuYLNx3iRo.md#t-00-28-30) (Claim) **Frank Turek** (via quoted speech): ["Frank Turek said Michael McCoy had already sent a plane to get Erika K..."](/statements/statement-a4cee58359a2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Frank Turek](/entities/person-frank-turek.md)
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
+
+- [00:53:16](/episodes/ep-VMNWMXX1vO8.md#t-00-53-00) (Claim) **Candace Owens**: ["Michael McCoy and Stacey Sheridan have directed Erika Kirk and helped ..."](/statements/statement-9fe6746da2af.md)
+  - Also about: [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+
+- [00:03:22](/episodes/ep-G3zdOeHpvS0.md#t-00-03-11) (Claim) **Anonymous Source #2 (Ep G3zdOeHpvS0)** (via quoted speech): ["An unidentified car passenger said Charlie Kirk's cross-and-medallion ..."](/statements/statement-4f5525554bb7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+
+- [00:34:29](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19) (Claim) **Candace Owens**: ["Candace Owens said Michael McCoy did not call 911 after Charlie Kirk w..."](/statements/statement-65843859383b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>

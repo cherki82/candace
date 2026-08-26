@@ -11,7 +11,11 @@ object: "org-bureau-of-alcohol-tobacco-firearms-and-explosives"
 
 ## [Caitlin Oliver](/entities/person-caitlin-oliver) works for [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
+
+- [00:30:37](/episodes/ep-EtLHqDbxqks#t-00-30-37): _OK, Caitlin Oliver was the ATF's forensic biologist and she gave a devastating testimony for the it was devastating to the prosecution._
 
 **[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
 

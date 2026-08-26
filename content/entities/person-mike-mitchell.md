@@ -1,6 +1,6 @@
 ---
 title: "Mike Mitchell"
-description: "Mike Mitchell (People) - 36 mentions"
+description: "Mike Mitchell (People) - 38 mentions"
 id: "person-mike-mitchell"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41">2025-09-29 · 00:18:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-44-07">2026-08-14 · 01:44:07</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-mike-mitchell-t-00-38-46" style="--pulse-height:10%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-30-51" style="--pulse-height:90%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 9 mentions" title="2026-03-30 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00" style="--pulse-height:30%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-mike-mitchell-t-00-10-35" style="--pulse-height:20%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-37-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 10 mentions" title="2026-08-14 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -53,6 +54,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-mike-mitchell-t-00-38-46) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-30-51) | 9 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00) | 3 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-mike-mitchell-t-00-10-35) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-37-41) | 10 |
 
 </details>
@@ -61,7 +63,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (10 mentions)</summary>
@@ -95,6 +97,17 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 **[01:42:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-42-14)**
 > "...ot interviewed on that night. Mike Mitchell got interviewed."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[00:10:48](/episodes/ep-EtLHqDbxqks.md#ent-person-mike-mitchell-t-00-10-35)**
+> "Did not turn him in. Okay. That was a mainstreamed lie. I said rather he was peer pressured to come in by Mike Mitchell, the former undercover detective with the police force and also a family friend of the Robinsons because he was Tyler Robinson's Boy Scout leader growing up."
+
+**[00:11:05](/episodes/ep-EtLHqDbxqks.md#ent-person-mike-mitchell-t-00-11-05)**
+> "I maintained that Mike Mitchell actually was the one who was told that they were ..."
 
 </details>
 
@@ -339,13 +352,21 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mike Mitchell (7)</strong></summary>
+<summary><strong class="section-title">Statements about Mike Mitchell (8)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [01:39:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-38-59) (Claim) **Candace Owens**: ["Mike Mitchell had worked as an undercover police officer for more than..."](/statements/statement-2018b40928fe.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [00:11:05](/episodes/ep-EtLHqDbxqks.md#t-00-11-05) (Accusation) **Candace Owens**: ["Candace Owens alleged that Mike Mitchell told Tyler Robinson's parents..."](/statements/statement-978e112b6a1a.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Matt Robinson](/entities/person-matt-robinson.md)
 
 </details>
 

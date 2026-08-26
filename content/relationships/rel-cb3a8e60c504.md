@@ -11,7 +11,7 @@ object: "person-justin-streiff"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has COO [Justin Streiff](/entities/person-justin-streiff)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -28,6 +28,10 @@ object: "person-justin-streiff"
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:19:58](/episodes/ep-B9TyCs-6o_0#t-00-19-58): _the most important person at that company becomes Justin Streiff because he's been promoted to COO just seven days earlier_
+
+**[Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs)**
+
+- [00:14:54](/episodes/ep-tXoI0TTKVrs#t-00-14-54): _So I intentionally addressed my email where I asked, was this doctored to Justin Streiff, who is the COO, to Andrew Kolvet, who is the official spokesperson of Turning Point USA and to their lawyer._
 
 **[Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw)**
 

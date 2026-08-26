@@ -11,11 +11,15 @@ object: "person-tucker-carlson"
 
 ## [Candace Owens](/entities/person-candace-owens) interviewed by [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU)**
 
 - [00:10:02](/episodes/ep-K1tFD7FfoCU#t-00-10-02): _Tucker Carlson a few weeks back had on Candace (Candace Owens)_
+
+**[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
+
+- [00:25:21](/episodes/ep-WoXd4oLwd3w#t-00-25-21): _And then the first thing I did was I went with my newborn Roman (Candace Owens's son; surname not stated) and my husband up to Maine to do Tucker (Tucker Carlson)'s show. ... And I did an interview and I genuinely forgot about this._
 
 **[BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I)**
 

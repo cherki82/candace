@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 135 mentions"
+description: "Russia (Places) - 175 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52">2026-08-14 · 03:39:52</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>135</strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>175</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -60,6 +60,14 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-17-35" style="--pulse-height:11%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 7 mentions" title="2026-05-26 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-48-39" style="--pulse-height:9%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 6 mentions" title="2026-05-27 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-00-44" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 65 mentions" title="2026-06-09 · 65 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-russia-t-00-40-47" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-03" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 13 mentions" title="2026-06-11 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-14-58" style="--pulse-height:23%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 15 mentions" title="2026-06-16 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-russia-t-00-25-14" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 3 mentions" title="2026-06-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-russia-t-00-49-44" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-russia-t-00-48-14" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-russia-t-00-55-23" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-russia-t-00-55-05" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -92,6 +100,14 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-russia-t-00-17-35) | 7 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-russia-t-00-48-39) | 6 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-00-44) | 65 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-russia-t-00-40-47) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-03) | 13 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-14-58) | 15 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-russia-t-00-25-14) | 3 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-russia-t-00-49-44) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-russia-t-00-48-14) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-russia-t-00-55-23) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-russia-t-00-55-05) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45) | 2 |
 
 </details>
@@ -100,7 +116,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (135)</strong></summary>
+<summary><strong class="section-title">Raw mentions (175)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -110,6 +126,166 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 **[03:39:52](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52)**
 > "Russia."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3 mentions)</summary>
+
+**[00:55:31](/episodes/ep-EtLHqDbxqks.md#ent-gpe-russia-t-00-55-05)**
+> "We'll be right back. All right, you guys. So, you know, I recently went on a trip to Russia and it completely shattered my preconception because I was always told Russia was some miserable cultural backwater."
+
+**[00:55:41](/episodes/ep-EtLHqDbxqks.md#ent-gpe-russia-t-00-55-41)**
+> "...pening in the world, like how Russia is a part of the reason why the dollar has lost n..."
+
+**[00:55:51](/episodes/ep-EtLHqDbxqks.md#ent-gpe-russia-t-00-55-41)**
+> "...s of dollars that belonged to Russia in response to the Russian invasion of Ukraine,"
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:55:23](/episodes/ep-IqHsl7d2dos.md#ent-gpe-russia-t-00-55-23)**
+> "...working for me, he's still in Russia, healing, knowing that he gave 12 years of his li..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:48:14](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-russia-t-00-48-14)**
+> "Candace Owens is going to Russia"
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:49:51](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-russia-t-00-49-44)**
+> "Russia"
+
+**[00:49:59](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-russia-t-00-49-44)**
+> "... in the pale of settlement in Russia."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (3 mentions)</summary>
+
+**[00:25:14](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-russia-t-00-25-14)**
+> "...t in Russian, and he lived in Russia for two years and spent time in the Ukraine durin..."
+
+**[00:25:22](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-russia-t-00-25-14)**
+> "...r-old girl named Natalia from Russia. in 2006."
+
+**[01:00:23](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-russia-t-00-59-50)**
+> "...zy and relates back to Mother Russia."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (15 mentions)</summary>
+
+**[00:15:04](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-14-58)**
+> "And so I want to show you this clip that went absolutely viral while I was in Russia, the contractor that was unexpectedly brought in to help pave over that scene called over on the weekend. Charlie (Charlie Kirk) gets shot on a Wednesday."
+
+**[00:35:31](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-35-00)**
+> "...t to tell you, while I was in Russia, there was a crack in his narrative. Now, to his ..."
+
+**[00:53:50](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-53-35)**
+> "...till that we traveled to with Russia who served in our military for 12 years, a SEAL T..."
+
+**[00:54:17](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-54-17)**
+> "Seizure when we landed into Russia just one day afterward. Scariest thing I've ever ..."
+
+**[00:54:28](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-54-17)**
+> "...t beautiful things to see how Russia rallied to take care of him. We had no special co..."
+
+**[00:55:08](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-54-59)**
+> "... is actually military guys in Russia who have now become friends because I told you we..."
+
+**[00:56:19](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-54-59)**
+> "... the children but that's Joe (Russia host; surname unverified) i already showed him on..."
+
+**[00:57:52](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-57-36)**
+> "...i am like i'm basically now a russia stan so like we're like we have my babushka over ..."
+
+**[00:58:19](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-58-19)**
+> "... do our men need to travel to Russia to get an appointment."
+
+**[00:58:55](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-58-55)**
+> "...hat by the way are illegal in russia they're not even legal they don't even russia is ..."
+
+**[00:59:21](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-59-21)**
+> "...ike she must have trained the russian gymnast or something because she's so hardcore bu..."
+
+**[00:59:48](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-59-48)**
+> "...ited english language over in russia i i'm just so happy i can't i just can't tell you..."
+
+**[01:00:42](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-01-00-26)**
+> "... But thank you to everyone in Russia. I can't wait to get back to all of you guys. I'm..."
+
+**[01:04:53](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-01-04-44)**
+> "...hings like that like going to Russia just to me was like a major lifting of the veil a..."
+
+**[01:13:47](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-01-13-39)**
+> "...America, it comes from Mother Russia, the pale of settlement that was there."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (13 mentions)</summary>
+
+**[00:40:03](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-03)**
+> "... movement that started in the Russian empire where they just said we're going to stop s..."
+
+**[00:40:29](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-03)**
+> "...why they have deep hatred for Russia because Russia put an end to the Khazarian Empire..."
+
+**[00:40:37](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-03)**
+> "...nd then they're going to take Russia."
+
+**[00:40:44](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-44)**
+> "Like Russia is they've got beef with actually it was two coun..."
+
+**[00:40:48](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-44)**
+> "It was Russia and Persia."
+
+**[00:41:05](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-44)**
+> "...nybody to know anything about Russian history."
+
+**[00:41:11](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-44)**
+> "...ey started publishing, taking Russian books and translating them, meaning editing them ..."
+
+**[00:41:18](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-44)**
+> "...are so anti-people going into Russia because you can find these original books that th..."
+
+**[00:41:28](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-41-28)**
+> "...onna just like learn to speak russian and then i'm just gonna go there and be like we'r..."
+
+**[00:42:20](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-41-55)**
+> "... right here. I am the czar of Russia, the tsarina of Russia. It's a fact. Can't disput..."
+
+**[00:43:47](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-43-47)**
+> "...nd we put her on top of those Russian books because I think it helps with the conspirac..."
+
+**[00:43:53](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-43-47)**
+> "... good. put her on top of some russian books maybe Alexander Dugin gave me those books t..."
+
+**[00:45:32](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-45-32)**
+> "i was over in russia when that whole thing broke obviously so i wasn't..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2 mentions)</summary>
+
+**[00:40:47](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-russia-t-00-40-47)**
+> "... And I have great respect for Russia."
+
+**[00:43:22](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-russia-t-00-42-55)**
+> "... that the problem is actually Russia. No, Russia. No, Russia is really nice, guys."
 
 </details>
 
@@ -660,12 +836,25 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 </details>
 
 <details>
+<summary>Attacked (1)</summary>
+
+- **[Ukraine](/entities/gpe-ukraine.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:55:51](/episodes/ep-EtLHqDbxqks.md#t-00-55-41): “That's true. And here's why: when the Biden administration froze hundreds of billions of dollars that belonged to Russia in response to the Russian invasion of Ukraine,”
+
+</details>
+
+</details>
+
+<details>
 <summary>Former Residence Of (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “But I don't know if it's true whether he was using a different name. It's something a narrative that I am prodding, but he did do his mission for two years in Russia. He's fluent in Russian.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:25:14](/episodes/ep-G3zdOeHpvS0.md#t-00-25-14): “Tyler Bowyer holds a degree in Russian studies. He's fluent in Russian, and he lived in Russia for two years”
 
 </details>
 
@@ -684,7 +873,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -693,10 +882,18 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 </details>
 
-- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** formerly lived in this
+- **[Ukraine](/entities/gpe-ukraine.md)** attacked by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:55:51](/episodes/ep-EtLHqDbxqks.md#t-00-55-41): “That's true. And here's why: when the Biden administration froze hundreds of billions of dollars that belonged to Russia in response to the Russian invasion of Ukraine,”
+
+</details>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:43](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “But I don't know if it's true whether he was using a different name. It's something a narrative that I am prodding, but he did do his mission for two years in Russia. He's fluent in Russian.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:25:14](/episodes/ep-G3zdOeHpvS0.md#t-00-25-14): “Tyler Bowyer holds a degree in Russian studies. He's fluent in Russian, and he lived in Russia for two years”
 
 </details>
 
@@ -712,7 +909,34 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Russia (18)</strong></summary>
+<summary><strong class="section-title">Statements about Russia (22)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:49:51](/episodes/ep-3QJqtW_NOSI.md#t-00-49-44) (Claim) **Anonymous Source #2 (Ep 3QJqtW_NOSI)** (via quoted post): ["A YouTube commenter identified as Anna wrote that three of Jeffrey Eps..."](/statements/statement-fe51b1a4a8e1.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [YouTube](/entities/org-youtube.md)
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+
+- [00:53:50](/episodes/ep-h76ZN-xXC6c.md#t-00-53-35) (Accusation) **Candace Owens**: ["Owens said the veteran traveling with her had served in the U.S. milit..."](/statements/statement-e1b1042fa798.md)
+  - Also about: [Veteran friend treated in Russia (identity withheld)](/entities/anon-src-h76ZN-xXC6c-veteran-friend.md), [SEAL Team ONE](/entities/org-seal-team-one.md), [U.S. Department of Veterans Affairs](/entities/org-us-department-of-veterans-affairs.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
+
+- [00:40:29](/episodes/ep-19vHhjF7-NA.md#t-00-40-03) (Claim) **Candace Owens**: ["Owens claimed that Russia and Persia brought an end to the Khazar Khag..."](/statements/statement-3cd995f2be54.md)
+  - Also about: [Iran](/entities/gpe-iran.md), [Khazar Khaganate](/entities/gpe-khazar-khaganate.md)
+
+- [00:41:05](/episodes/ep-19vHhjF7-NA.md#t-00-40-44) (Accusation) **Candace Owens**: ["Owens alleged that after World War II, unnamed actors translated and e..."](/statements/statement-1c3acbbac80a.md)
+  - Also about: [World War II](/entities/event-world-war-ii.md), [Western world](/entities/concept-western-world.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (12)</summary>

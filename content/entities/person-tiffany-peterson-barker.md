@@ -1,22 +1,30 @@
 ---
 title: "Tiffany Peterson Barker"
-description: "Tiffany Peterson Barker (People) - 20 mentions"
+description: "Tiffany Peterson Barker (People) - 21 mentions"
 id: "person-tiffany-peterson-barker"
 type: "PERSON"
 aliases:
   - "Tiffany"
   - "Tiffany Barker"
+categories:
+  - "political campaign staff"
 ---
 
 _Type: People_
 
 **Also known as:** Tiffany, Tiffany Barker
 
+**Categories:** political campaign staff
+
+**Entity verification:** verified
+> KSL independently identifies Tiffany Barker as an attendee/witness at the Utah Valley University event, matching the transcript’s spoken alias; Utah County records also identify a Tiffany Barker in the relevant political context.
+Source: [Family of 16 recounts terror after Charlie Kirk shooting at UVU - KSL](https://www.ksl.com/article/news/utah/charlie-kirk-murder/family-of-16-recounts-terror-after-charlie-kirk-shooting-at-uvu/51587440)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-tiffany-peterson-barker-t-00-18-59">2025-09-18 · 00:19:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tiffany-peterson-barker-t-00-33-14">2025-12-05 · 00:33:14</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tiffany-peterson-barker-t-00-14-12">2026-06-22 · 00:14:12</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -34,6 +42,7 @@ _Type: People_
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-tiffany-peterson-barker-t-00-20-20" style="--pulse-height:14%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-tiffany-peterson-barker-t-00-22-56" style="--pulse-height:14%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tiffany-peterson-barker-t-00-33-14" style="--pulse-height:14%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tiffany-peterson-barker-t-00-14-12" style="--pulse-height:14%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +55,7 @@ _Type: People_
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-tiffany-peterson-barker-t-00-20-20) | 1 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-tiffany-peterson-barker-t-00-22-56) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-tiffany-peterson-barker-t-00-33-14) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-tiffany-peterson-barker-t-00-14-12) | 1 |
 
 </details>
 </section>
@@ -53,7 +63,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:14:12](/episodes/ep-VMNWMXX1vO8.md#ent-person-tiffany-peterson-barker-t-00-14-12)**
+> "...and we found out this person, Tiffany Barker, I think was one of the names. Actually, s..."
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>

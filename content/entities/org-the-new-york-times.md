@@ -1,6 +1,6 @@
 ---
 title: "The New York Times"
-description: "The New York Times (Organizations) - 57 mentions"
+description: "The New York Times (Organizations) - 66 mentions"
 id: "org-the-new-york-times"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-the-new-york-times-t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09">2026-06-09 · 00:25:18</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>57</strong></div>
-<div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-48-59">2026-06-18 · 00:48:59</a></strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>66</strong></div>
+<div><span>Statements by</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -64,6 +64,8 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <a href="/episodes/ep-7FS1tUeSfdE.md#t-00-34-52" style="--pulse-height:11%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-the-new-york-times-t-00-37-11" style="--pulse-height:11%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09" style="--pulse-height:22%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-the-new-york-times-t-00-13-56" style="--pulse-height:56%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 5 mentions" title="2026-06-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-00-01" style="--pulse-height:44%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +101,8 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-the-new-york-times-t-00-37-11) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-the-new-york-times-t-00-25-09) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-the-new-york-times-t-00-13-56) | 5 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-00-01) | 4 |
 
 </details>
 </section>
@@ -106,7 +110,44 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (4 mentions)</summary>
+
+**[00:00:01](/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-00-01)**
+> "according to the New York Times"
+
+**[00:08:00](/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-07-36)**
+> "And when you read that New York Times article, it makes it seem like Trump (Donald Trum..."
+
+**[00:22:45](/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-22-16)**
+> "...a good guy in this. I believe the New York Times article was very well sourced and I believe that ..."
+
+**[00:48:59](/episodes/ep-3QJqtW_NOSI.md#ent-org-the-new-york-times-t-00-48-59)**
+> "The New York Times was recounting everything that happened at the be..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (5 mentions)</summary>
+
+**[00:14:33](/episodes/ep-WoXd4oLwd3w.md#ent-org-the-new-york-times-t-00-13-56)**
+> "Him and Charlie (Charlie Kirk) had different character. which brings us to a rather explosive piece that was published in the New York Times yesterday."
+
+**[00:14:41](/episodes/ep-WoXd4oLwd3w.md#ent-org-the-new-york-times-t-00-14-41)**
+> "...I am not a normal consumer of the New York Times, obviously."
+
+**[00:16:27](/episodes/ep-WoXd4oLwd3w.md#ent-org-the-new-york-times-t-00-16-27)**
+> "...om the president. Here's what the New York Times article tells us. It reads, quote, on July 12th, ..."
+
+**[00:18:47](/episodes/ep-WoXd4oLwd3w.md#ent-org-the-new-york-times-t-00-18-35)**
+> "...rom on july 12th according to the new york times president trump calls Charlie (Charlie Kirk) kirk..."
+
+**[00:19:00](/episodes/ep-WoXd4oLwd3w.md#ent-org-the-new-york-times-t-00-19-00)**
+> "...rom on july 12th according to new york times president trump calls Charlie (Charlie Kirk) kirk..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
@@ -526,7 +567,18 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by The New York Times (7)</strong></summary>
+<summary><strong class="section-title">Statements by The New York Times (9)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2)</summary>
+
+- [00:16:46](/episodes/ep-WoXd4oLwd3w.md#t-00-16-27) [✓] (Claim) ["The New York Times reported that Donald Trump told aides he was very unhappy wit..."](/statements/statement-3bdaf2db052d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:17:07](/episodes/ep-WoXd4oLwd3w.md#t-00-16-27) [✓] (Claim) ["The New York Times reported that Donald Trump called Charlie Kirk and scolded hi..."](/statements/statement-2a4c4ed8ebfe.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [2025 Student Action Summit](/entities/event-2025-student-action-summit.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -582,7 +634,21 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The New York Times (8)</strong></summary>
+<summary><strong class="section-title">Statements about The New York Times (11)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3)</summary>
+
+- [00:00:01](/episodes/ep-3QJqtW_NOSI.md#t-00-00-01) (Citation) **Candace Owens**: ["Owens cited a New York Times article as reporting that Trump administr..."](/statements/statement-41af199afa3a.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Pam Bondi](/entities/person-pam-bondi.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:22:45](/episodes/ep-3QJqtW_NOSI.md#t-00-22-16) (Opinion) **Candace Owens**: ["Owens said she believed the New York Times article was well sourced an..."](/statements/statement-e29e24adf5c7.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:48:53](/episodes/ep-3QJqtW_NOSI.md#t-00-48-20) (Citation) **Candace Owens**: ["Owens clarified that the New York Times account concerned events at th..."](/statements/statement-8f05212df149.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>

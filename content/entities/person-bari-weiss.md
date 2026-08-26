@@ -1,6 +1,6 @@
 ---
 title: "Bari Weiss"
-description: "Bari Weiss (People) - 89 mentions"
+description: "Bari Weiss (People) - 95 mentions"
 id: "person-bari-weiss"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-bari-weiss-t-00-27-09">2025-10-28 · 00:27:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-48-18">2026-08-14 · 02:48:18</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>89</strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>22</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -69,6 +69,10 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-bari-weiss-t-00-44-26" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-bari-weiss-t-00-52-42" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-bari-weiss-t-00-51-37" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-bari-weiss-t-00-23-16" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-bari-weiss-t-00-29-13" style="--pulse-height:25%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-bari-weiss-t-00-29-57" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-bari-weiss-t-00-09-56" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14" style="--pulse-height:17%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -108,6 +112,10 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-bari-weiss-t-00-44-26) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-bari-weiss-t-00-52-42) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-bari-weiss-t-00-51-37) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-bari-weiss-t-00-23-16) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-bari-weiss-t-00-29-13) | 3 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-bari-weiss-t-00-29-57) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-bari-weiss-t-00-09-56) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14) | 2 |
 
 </details>
@@ -116,7 +124,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (89)</strong></summary>
+<summary><strong class="section-title">Raw mentions (95)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -126,6 +134,44 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 
 **[02:48:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-48-18)**
 > "... that stage she sat down with Barry Weiss that that's what she believes."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:09:56](/episodes/ep-EtLHqDbxqks.md#ent-person-bari-weiss-t-00-09-56)**
+> "taking that shot; that it had simply not been presented to the public yet because it wouldn't have been appropriate at that early phase. We just had to wait, to be patient. Erika (Erika Kirk) herself told us back in November or December that she had seen the evidence and she was convinced it was Tyler Robinson. By the time she sat down for that interview with Bari Weiss, her mind was made up: that's the guy. No foreign involvement, no involvement of others. She doesn't need to see anything."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:30:25](/episodes/ep-h76ZN-xXC6c.md#ent-person-bari-weiss-t-00-29-57)**
+> "Barry Weiss, do you believe it? Yes."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3 mentions)</summary>
+
+**[00:29:27](/episodes/ep-WoXd4oLwd3w.md#ent-person-bari-weiss-t-00-29-13)**
+> "And then as soon as Charlie (Charlie Kirk) passes away, she's up on stage with Bari Weiss saying anybody who doesn't support Israel has brain rot."
+
+**[00:31:07](/episodes/ep-WoXd4oLwd3w.md#ent-person-bari-weiss-t-00-30-51)**
+> "...son) I'm anti-Israel I'm with Bari Weiss people who don't support Israel have brain rot br..."
+
+**[00:40:41](/episodes/ep-WoXd4oLwd3w.md#ent-person-bari-weiss-t-00-40-41)**
+> "... And this girl was like, hey, Bari Weiss."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:23:38](/episodes/ep-tXoI0TTKVrs.md#ent-person-bari-weiss-t-00-23-16)**
+> "... may have power and money and Bari Weiss is being installed to control the media, the main..."
 
 </details>
 
@@ -558,6 +604,18 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:29:13](/episodes/ep-WoXd4oLwd3w.md#t-00-29-13): “This does not make sense that Erika (Erika Kirk) gets on stage and is pro-Israel ... And then as soon as Charlie (Charlie Kirk) passes away, she's up on stage with Bari Weiss saying anybody who doesn't support Israel has brain rot.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -683,7 +741,14 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (12)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:29:13](/episodes/ep-WoXd4oLwd3w.md#t-00-29-13): “This does not make sense that Erika (Erika Kirk) gets on stage and is pro-Israel ... And then as soon as Charlie (Charlie Kirk) passes away, she's up on stage with Bari Weiss saying anybody who doesn't support Israel has brain rot.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>

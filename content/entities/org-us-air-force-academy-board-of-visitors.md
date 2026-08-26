@@ -1,12 +1,13 @@
 ---
 title: "U.S. Air Force Academy Board of Visitors"
-description: "U.S. Air Force Academy Board of Visitors (Organizations) - 3 mentions"
+description: "U.S. Air Force Academy Board of Visitors (Organizations) - 4 mentions"
 id: "org-us-air-force-academy-board-of-visitors"
 type: "ORG"
 aliases:
   - "Air Force Academy Board of Visitors"
   - "Air Force Academy Board"
   - "Air Force Board of Visitors"
+  - "Air Force Board"
 categories:
   - "United States military oversight"
   - "Air Force Academy advisory board"
@@ -14,7 +15,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Air Force Academy Board of Visitors, Air Force Academy Board, Air Force Board of Visitors
+**Also known as:** Air Force Academy Board of Visitors, Air Force Academy Board, Air Force Board of Visitors, Air Force Board
 
 **Categories:** United States military oversight, Air Force Academy advisory board
 
@@ -24,9 +25,9 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-air-force-academy-board-of-visitors-t-00-06-08">2026-05-14 · 00:06:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#t-00-18-49">2026-05-20 · 00:18:49</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-air-force-academy-board-of-visitors-t-00-42-46">2026-06-26 · 00:42:46</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,14 +39,16 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 <p>Highest activity: <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-air-force-academy-board-of-visitors-t-00-06-08">SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-air-force-academy-board-of-visitors-t-00-06-08" style="--pulse-height:100%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#t-00-18-49" style="--pulse-height:50%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-us-air-force-academy-board-of-visitors-t-00-18-49" style="--pulse-height:50%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-air-force-academy-board-of-visitors-t-00-42-46" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-air-force-academy-board-of-visitors-t-00-06-08) | 2 |
-| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#t-00-18-49) | 1 |
+| 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-us-air-force-academy-board-of-visitors-t-00-18-49) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-us-air-force-academy-board-of-visitors-t-00-42-46) | 1 |
 
 </details>
 </section>
@@ -53,12 +56,20 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:42:46](/episodes/ep-IqHsl7d2dos.md#ent-org-us-air-force-academy-board-of-visitors-t-00-42-46)**
+> "... she's not qualified for, the Air Force Board, and it might even give her perks that we don't k..."
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
 
-**[00:18:49](/episodes/ep-cPidFQDJLbo.md#t-00-18-49)**
+**[00:18:49](/episodes/ep-cPidFQDJLbo.md#ent-org-us-air-force-academy-board-of-visitors-t-00-18-49)**
 > "why I'm going to be on that Air Force board"
 
 </details>
@@ -83,9 +94,10 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 <summary>Has Board Member (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:06:08](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08): “We want to cover less, we forget, by the way, Dr. Erika Kirk was herself promoted to the Air Force Academy Board of Visitors in her husband's stead for reasons that are not unclear to us. She's qualified.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:42:46](/episodes/ep-IqHsl7d2dos.md#t-00-42-46): “I think there's a lot of coordination between Erika (Erika Kirk) and the Department of War. I think there's a broader reason why Erika (Erika Kirk) was put on that board, which she's not qualified for, the Air Force Board, and it might even give her perks that we don't know about.”
 
 </details>
 
@@ -95,9 +107,10 @@ Source: [Board of Visitors | United States Air Force Academy](https://www.usafa.
 <summary>Referenced By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** board member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:06:08](/episodes/ep-Pb7UlpRdW6U.md#t-00-06-08): “We want to cover less, we forget, by the way, Dr. Erika Kirk was herself promoted to the Air Force Academy Board of Visitors in her husband's stead for reasons that are not unclear to us. She's qualified.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:42:46](/episodes/ep-IqHsl7d2dos.md#t-00-42-46): “I think there's a lot of coordination between Erika (Erika Kirk) and the Department of War. I think there's a broader reason why Erika (Erika Kirk) was put on that board, which she's not qualified for, the Air Force Board, and it might even give her perks that we don't know about.”
 
 </details>
 

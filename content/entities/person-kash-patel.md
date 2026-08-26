@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 204 mentions"
+description: "Kash Patel (People) - 229 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:09:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-56-34">2026-05-28 · 00:56:34</a></strong></div>
-<div><span>Episodes</span><strong>58</strong></div>
-<div><span>Mentions</span><strong>204</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-01-06-00">2026-06-26 · 01:06:14</a></strong></div>
+<div><span>Episodes</span><strong>64</strong></div>
+<div><span>Mentions</span><strong>229</strong></div>
 <div><span>Statements by</span><strong>11</strong></div>
-<div><span>Statements about</span><strong>36</strong></div>
+<div><span>Statements about</span><strong>45</strong></div>
 <div><span>Relationships</span><strong>35</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -95,6 +95,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-kash-patel-t-00-59-59" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-kash-patel-t-00-12-32" style="--pulse-height:15%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-14-05" style="--pulse-height:92%" aria-label="Candace Owens x Ana Kasparian: 12 mentions" title="2026-05-28 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-02-16" style="--pulse-height:46%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 6 mentions" title="2026-06-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-00-00" style="--pulse-height:46%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 6 mentions" title="2026-06-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-kash-patel-t-00-01-18" style="--pulse-height:23%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-kash-patel-t-00-04-17" style="--pulse-height:15%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-kash-patel-t-00-26-05" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-00-43-13" style="--pulse-height:54%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 7 mentions" title="2026-06-26 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -158,6 +164,12 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-kash-patel-t-00-59-59) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-kash-patel-t-00-12-32) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-14-05) | 12 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-02-16) | 6 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-00-00) | 6 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-kash-patel-t-00-01-18) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-kash-patel-t-00-04-17) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-kash-patel-t-00-26-05) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-00-43-13) | 7 |
 
 </details>
 </section>
@@ -165,7 +177,112 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (204)</strong></summary>
+<summary><strong class="section-title">Raw mentions (229)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (7 mentions)</summary>
+
+**[00:43:42](/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-00-43-13)**
+> "...usly, we're simply asking for Kash Patel's schedule."
+
+**[00:45:23](/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-00-45-23)**
+> "...k show hosting of all people, Kash Patel."
+
+**[00:46:13](/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-00-46-05)**
+> "Was he meeting with Kash Patel over the Epstein files? I don't know. Who was he ..."
+
+**[00:46:24](/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-00-46-05)**
+> "... has an office down that way. Kash Patel, we want to know who he was meeting with because ..."
+
+**[00:46:30](/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-00-46-05)**
+> "I'm going to guess Kash Patel if Kash Patel was helping him fake the live, but"
+
+**[00:53:24](/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-00-53-15)**
+> "...quest anything inside because Kash Patel has those tapes. Also, has Tyler Robinson's defen..."
+
+**[01:06:14](/episodes/ep-IqHsl7d2dos.md#ent-person-kash-patel-t-01-06-00)**
+> "...on at that time, or if it was Kash Patel. I have no idea. There were so many hands that we..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:26:05](/episodes/ep-sKuYLNx3iRo.md#ent-person-kash-patel-t-00-26-05)**
+> "Cash Patel's FBI team"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
+
+**[00:04:17](/episodes/ep-9CuC1yf8-PU.md#ent-person-kash-patel-t-00-04-17)**
+> "Surely we kept that one in evidence, right, Kash Patel?"
+
+**[00:10:04](/episodes/ep-9CuC1yf8-PU.md#ent-person-kash-patel-t-00-09-30)**
+> "Okay, it's no wonder Kash Patel had to swoop in there and take the cameras from i..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3 mentions)</summary>
+
+**[00:01:28](/episodes/ep-3QJqtW_NOSI.md#ent-person-kash-patel-t-00-01-18)**
+> "Kash Patel as his guest"
+
+**[00:01:36](/episodes/ep-3QJqtW_NOSI.md#ent-person-kash-patel-t-00-01-18)**
+> "Kash Patel was helping him do this to present as though he w..."
+
+**[00:43:44](/episodes/ep-3QJqtW_NOSI.md#ent-person-kash-patel-t-00-43-12)**
+> "...like I said, everything about Kash Patel makes my skin crawl. He's obviously up to no good..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (6 mentions)</summary>
+
+**[00:00:10](/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-00-00)**
+> "I think it's Kash Patel's girlfriend. That's my conspiracy theory of the week. I think she's tip tapping away."
+
+**[00:38:39](/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-38-35)**
+> "...that for some odd reason when Kash Patel got on the scene. He instructed the feds to take ..."
+
+**[00:47:59](/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-47-44)**
+> "..., when we similarly asked for Kash Patel's travel schedule, we wanted his calendar for the t..."
+
+**[00:48:13](/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-47-44)**
+> "...t? That's not, we don't think Kash Patel killed Charlie Kirk. I don't think Kash Patel rig..."
+
+**[00:48:38](/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-48-27)**
+> "...a FOIA, we formally requested Kash Patel's travel itinerary for the three days leading up to..."
+
+**[00:51:41](/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-51-14)**
+> "we FOIA Kash Patel's travel itinerary and get denied. Erika Kirk cries..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (6 mentions)</summary>
+
+**[00:02:45](/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-02-16)**
+> "And I was amazed that the FBI had lied about this. So I called Kash Patel and I later called Dan Bongino and I says, you know, what is this? I'm not attacking you. It was the previous FBI administration that did this. It was Chris Wray. But what is this?"
+
+**[00:04:07](/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-03-54)**
+> "... long time. He reached out to Kash Patel because he was working on a story."
+
+**[00:05:00](/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-04-35)**
+> "...ied Dan Bongino and terrified Kash Patel. Totally believable just looking at Kash Patel. H..."
+
+**[00:09:49](/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-09-34)**
+> "...ou seem to believe that Kash (Kash Patel) and I, who are longtime personal friends with th..."
+
+**[00:10:13](/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-09-34)**
+> "...tisfied with the effort Kash (Kash Patel) and I put in."
+
+**[00:48:17](/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-48-05)**
+> "... agencies like maybe the FBI, Kash Patel, I don't know, Trump (Donald Trump)."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (12 mentions)</summary>
@@ -1128,13 +1245,14 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:56:27](/episodes/ep-qZ8RWfyuewQ.md#t-00-56-04): “I wouldn't be able to stomach sitting or standing next to Kash Patel. And yet you do. You're sitting here at a White House correspondence center. Why don't you ask him to give the defense what they need if you want a speedy trial victim?”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:15:29](/episodes/ep-Pb7UlpRdW6U.md#t-00-15-29): “It was just completely ridiculous. This is just, you should laugh at this. Kash Patel's stunning reaction as the shooter opened fire at a White House Correspondents' Dinner.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:44:08](/episodes/ep-IqHsl7d2dos.md#t-00-43-57): “Not saying he did anything wrong. I am saying he did everything wrong on the 10th.”
 
 </details>
 
@@ -1238,10 +1356,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “Andrew (Andrew Kolvet) visited the White House the day before the Epstein files were released, but he pretended that he was in Arizona live on the Charlie Kirk show interviewing Kash Patel.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:45:23](/episodes/ep-IqHsl7d2dos.md#t-00-45-23): “We are also asking the Secret Service and the DHS for Andrew Kolvet's White House meeting that we told you about, that strange coincidence of the day before the Epstein files were released, Andrew Kolvet appeared to be live in studio on the Charlie Kirk show hosting of all people, Kash Patel.”
 
 </details>
 
@@ -1301,13 +1420,14 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:28:15](/episodes/ep-5m-Wn6Pr5rM.md#t-00-28-01): “when Kash Patel went in to the FBI, there was kind of this ideal he was going to write the wrongs and make sure that he took down the deep state and then he just bumbled every plausible.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:38:53](/episodes/ep-7ERqbYElOfs.md#t-00-38-41): “Kash Patel is central in delaying everything that happened on that day.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:49:10](/episodes/ep-UYkXV9mYbT4.md#t-00-48-39): “You can't just have Kash Patel throwing up 33s and say that's enough. You can't just have Governor Cox up there with the Fed saying, oh, we got them.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:56:27](/episodes/ep-qZ8RWfyuewQ.md#t-00-56-04): “I wouldn't be able to stomach sitting or standing next to Kash Patel. And yet you do. You're sitting here at a White House correspondence center. Why don't you ask him to give the defense what they need if you want a speedy trial victim?”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:15:29](/episodes/ep-Pb7UlpRdW6U.md#t-00-15-29): “It was just completely ridiculous. This is just, you should laugh at this. Kash Patel's stunning reaction as the shooter opened fire at a White House Correspondents' Dinner.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:44:08](/episodes/ep-IqHsl7d2dos.md#t-00-43-57): “Not saying he did anything wrong. I am saying he did everything wrong on the 10th.”
 
 </details>
 
@@ -1394,10 +1514,11 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:13:26](/episodes/ep-ZzAT2xijKGQ.md#t-00-12-49): “Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:38](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “Andrew (Andrew Kolvet) visited the White House the day before the Epstein files were released, but he pretended that he was in Arizona live on the Charlie Kirk show interviewing Kash Patel.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:45:23](/episodes/ep-IqHsl7d2dos.md#t-00-45-23): “We are also asking the Secret Service and the DHS for Andrew Kolvet's White House meeting that we told you about, that strange coincidence of the day before the Epstein files were released, Andrew Kolvet appeared to be live in studio on the Charlie Kirk show hosting of all people, Kash Patel.”
 
 </details>
 
@@ -1484,7 +1605,59 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (36)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (45)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:45:23](/episodes/ep-IqHsl7d2dos.md#t-00-45-23) (Claim) **Candace Owens**: ["Owens said Andrew Kolvet only appeared to be live in Arizona on The Ch..."](/statements/statement-5aba01ede390.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md), [Eisenhower Executive Office Building](/entities/gpe-eisenhower-executive-office-building.md)
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
+
+- [00:26:05](/episodes/ep-sKuYLNx3iRo.md#t-00-26-05) (Claim) **Candace Owens**: ["Owens said Kash Patel's FBI team seized cameras from outside and insid..."](/statements/statement-e00e1d0a2cf0.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
+
+- [00:01:18](/episodes/ep-3QJqtW_NOSI.md#t-00-01-18) (Accusation) **Candace Owens**: ["Owens alleged that Andrew Kolvet pre-recorded a Charlie Kirk Show epis..."](/statements/statement-957ec16b71d8.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md), [White House](/entities/org-white-house.md)
+
+- [00:43:44](/episodes/ep-3QJqtW_NOSI.md#t-00-43-12) (Accusation) **Candace Owens**: ["Owens accused Kash Patel of being up to no good and said he appeared t..."](/statements/statement-303fe932fef6.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
+
+- [00:38:39](/episodes/ep-h76ZN-xXC6c.md#t-00-38-35) (Accusation) **Candace Owens**: ["Owens said Kash Patel instructed federal agents to take hospital foota..."](/statements/statement-d1530284b223.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:51](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3)</summary>
+
+- [00:09:49](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) (Opinion) **Dan Bongino**: ["Dan Bongino called absurd Tucker Carlson's apparent belief that Bongin..."](/statements/statement-35e8df5c4a6e.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Dan Bongino](/entities/person-dan-bongino.md)
+
+- [00:10:13](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) (Claim) **Dan Bongino**: ["Dan Bongino said Donald Trump had repeatedly told Bongino and Kash Pat..."](/statements/statement-91bb38494d35.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Dan Bongino](/entities/person-dan-bongino.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:10:18](/episodes/ep-WoXd4oLwd3w.md#t-00-10-18) (Claim) **Dan Bongino**: ["Dan Bongino said Donald Trump would tell Bongino and Kash Patel when T..."](/statements/statement-3c092f53779d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Dan Bongino](/entities/person-dan-bongino.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (3)</summary>

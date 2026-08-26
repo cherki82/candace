@@ -1,6 +1,6 @@
 ---
 title: "Bureau of Alcohol, Tobacco, Firearms and Explosives"
-description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 38 mentions"
+description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 45 mentions"
 id: "org-bureau-of-alcohol-tobacco-firearms-and-explosives"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00">2026-03-31 · 00:00:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09">2026-08-14 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,8 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-52" style="--pulse-height:43%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 6 mentions" title="2026-04-22 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-36-59" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-03-59" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-30-10" style="--pulse-height:43%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -57,6 +59,8 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-52) | 6 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-36-59) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-03-59) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-30-10) | 6 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09) | 1 |
 
 </details>
@@ -65,13 +69,44 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:43:09](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09)**
 > "the ATF woman,"
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (6 mentions)</summary>
+
+**[00:30:10](/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-30-10)**
+> "And it came from the ATF on the final day. This is actually my view of the reason that the influencers went positively insane and suddenly pretend that they were made privy to some 4K HD video footage of Tyler Robinson taking the shot on the roof."
+
+**[00:30:37](/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-30-10)**
+> "OK, Caitlin Oliver was the ATF's forensic biologist and she gave a devastating t..."
+
+**[00:33:58](/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-33-44)**
+> "...onstrued the intention of the ATF report when they were relying on a sample in whic..."
+
+**[00:38:55](/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-38-55)**
+> "...e day earlier, every time the ATF spoke, it was devastating for the prosecution."
+
+**[00:39:24](/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-38-55)**
+> "The ATF ballistics expert was a woman named Samantha Karn..."
+
+**[00:53:58](/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-53-42)**
+> "...DNA. It's not minute when the ATF is saying that the most degraded sample was Tyler..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[01:04:12](/episodes/ep-h76ZN-xXC6c.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-03-59)**
+> "I'm probably now very much on the ATF's list, my Google searches, like how much explosive like. I was like, these Google searches are going to, I have a lot of explaining to do."
 
 </details>
 
@@ -232,24 +267,40 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (2)</summary>
 
 - **[Caitlin Oliver](/entities/person-caitlin-oliver.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:43:09](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-09): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Carner, any of those people who went into the science of the”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:30:37](/episodes/ep-EtLHqDbxqks.md#t-00-30-10): “OK, Caitlin Oliver was the ATF's forensic biologist and she gave a devastating testimony for the it was devastating to the prosecution.”
+
+</details>
+
+- **[Samantha Karner](/entities/person-samantha-karner.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:39:24](/episodes/ep-EtLHqDbxqks.md#t-00-38-55): “The ATF ballistics expert was a woman named Samantha Karner. She spoke on day four and she similarly gave testimony that was very in the weeds and scientific.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Caitlin Oliver](/entities/person-caitlin-oliver.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:43:09](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-09): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Carner, any of those people who went into the science of the”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:30:37](/episodes/ep-EtLHqDbxqks.md#t-00-30-10): “OK, Caitlin Oliver was the ATF's forensic biologist and she gave a devastating testimony for the it was devastating to the prosecution.”
+
+</details>
+
+- **[Samantha Karner](/entities/person-samantha-karner.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:39:24](/episodes/ep-EtLHqDbxqks.md#t-00-38-55): “The ATF ballistics expert was a woman named Samantha Karner. She spoke on day four and she similarly gave testimony that was very in the weeds and scientific.”
 
 </details>
 

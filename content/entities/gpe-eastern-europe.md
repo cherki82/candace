@@ -1,6 +1,6 @@
 ---
 title: "Eastern Europe"
-description: "Eastern Europe (Places) - 26 mentions"
+description: "Eastern Europe (Places) - 41 mentions"
 id: "gpe-eastern-europe"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#t-00-14-06">2026-01-16 · 00:14:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-eastern-europe-t-00-51-25">2026-05-19 · 00:51:45</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-eastern-europe-t-00-48-30">2026-06-26 · 00:48:49</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,12 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-eastern-europe-t-00-42-44" style="--pulse-height:14%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-eastern-europe-t-00-09-54" style="--pulse-height:14%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-eastern-europe-t-00-51-25" style="--pulse-height:14%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-eastern-europe-t-00-17-59" style="--pulse-height:86%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 6 mentions" title="2026-06-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-eastern-europe-t-00-04-15" style="--pulse-height:43%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-eastern-europe-t-00-35-28" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#t-00-59-35" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-eastern-europe-t-00-19-29" style="--pulse-height:43%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-eastern-europe-t-00-48-30" style="--pulse-height:14%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +63,12 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-eastern-europe-t-00-42-44) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-eastern-europe-t-00-09-54) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-eastern-europe-t-00-51-25) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-eastern-europe-t-00-17-59) | 6 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-eastern-europe-t-00-04-15) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-eastern-europe-t-00-35-28) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#t-00-59-35) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-eastern-europe-t-00-19-29) | 3 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-eastern-europe-t-00-48-30) | 1 |
 
 </details>
 </section>
@@ -64,7 +76,82 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
+
+**[00:19:29](/episodes/ep-IqHsl7d2dos.md#ent-gpe-eastern-europe-t-00-19-29)**
+> "... were the models scouted from Eastern Europe? Apparently, there's also no other place to scout..."
+
+**[00:19:39](/episodes/ep-IqHsl7d2dos.md#ent-gpe-eastern-europe-t-00-19-29)**
+> "Eastern Europe, following the Yugoslav wars."
+
+**[00:23:17](/episodes/ep-IqHsl7d2dos.md#ent-gpe-eastern-europe-t-00-23-17)**
+> "...ch he trafficked victims from Eastern Europe, from impoverished war-torn areas."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:48:49](/episodes/ep-a2bZf4fic10.md#ent-gpe-eastern-europe-t-00-48-30)**
+> "That's what goes on in Eastern Europe guys. I don't think everybody's going to Romania ..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:59:47](/episodes/ep-sKuYLNx3iRo.md#t-00-59-35)**
+> "Eastern European model department"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:35:44](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-eastern-europe-t-00-35-28)**
+> "trafficked a lot of women from Eastern Europe"
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3 mentions)</summary>
+
+**[00:04:34](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-eastern-europe-t-00-04-15)**
+> "Women from Eastern Europe"
+
+**[00:07:14](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-eastern-europe-t-00-06-52)**
+> "...(Jeffrey Epstein) network and Eastern Europe, everyone having to deny, oh, I knew him."
+
+**[00:18:05](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-eastern-europe-t-00-17-50)**
+> "...ion that it took place was in Eastern Europe, please give yourself a pat on the back."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (6 mentions)</summary>
+
+**[00:18:18](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-eastern-europe-t-00-17-59)**
+> "...ion which began doing work in Eastern Europe."
+
+**[00:18:44](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-eastern-europe-t-00-18-27)**
+> "...f my homies are doing work in Eastern Europe said nobody ever."
+
+**[00:20:03](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-eastern-europe-t-00-19-52)**
+> "...e they document their work in Eastern Europe."
+
+**[00:21:41](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-eastern-europe-t-00-21-41)**
+> "...izations and in the region of Eastern Europe and somehow some way it seems like they're crossi..."
+
+**[00:23:15](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-eastern-europe-t-00-23-00)**
+> "...se pastors and the donors and Eastern Europe, it makes me uncomfortable. It makes my skin craw..."
+
+**[00:42:42](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-eastern-europe-t-00-42-31)**
+> "...them are somehow connected to Eastern Europe at a time where just to be clear, when you're in ..."
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
@@ -209,7 +296,40 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Eastern Europe (5)</strong></summary>
+<summary><strong class="section-title">Statements about Eastern Europe (11)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2)</summary>
+
+- [00:32:19](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19) (Accusation) **Candace Owens** (via paraphrase): ["Owens said a well-vetted tip alleged Erika Kirk was in charge of model..."](/statements/statement-6fd3839e2878.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md)
+
+- [00:33:16](/episodes/ep-9CuC1yf8-PU.md#t-00-33-03) (Accusation) **Candace Owens** (via paraphrase): ["Owens said an earlier source described young Eastern European models a..."](/statements/statement-f4e0d152e34c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md), [Upper East Side](/entities/gpe-upper-east-side.md)
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3)</summary>
+
+- [00:04:15](/episodes/ep-3QJqtW_NOSI.md#t-00-04-15) (Accusation) **Candace Owens**: ["Owens alleged that Jeffrey Epstein's trafficking network was deeply em..."](/statements/statement-4c7d2e66ad06.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Victoria's Secret](/entities/org-victorias-secret.md)
+
+- [00:05:02](/episodes/ep-3QJqtW_NOSI.md#t-00-04-45) (Accusation) **Candace Owens** (via paraphrase): ["Owens reported that unnamed former Next Model Management workers alleg..."](/statements/statement-5730d9efd8a2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:06:16](/episodes/ep-3QJqtW_NOSI.md#t-00-06-08) (Accusation) **Candace Owens**: ["Owens alleged that many Eastern European models brought through Faith ..."](/statements/statement-d24a66750bc0.md)
+  - Also about: [Faith Kates](/entities/person-faith-kates.md), [NEXT Management](/entities/org-next-management.md), [United States Virgin Islands](/entities/gpe-us-virgin-islands.md)
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+
+- [00:18:18](/episodes/ep-G3zdOeHpvS0.md#t-00-17-59) (Claim) **Candace Owens**: ["Owens said Dr. Philip Goldsberry co-founded a charitable organization ..."](/statements/statement-92e472bb5591.md)
+  - Also about: [Phil Goldsberry](/entities/person-phil-goldsberry.md), [Soter Global Ministries](/entities/org-soter-global-ministries.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>

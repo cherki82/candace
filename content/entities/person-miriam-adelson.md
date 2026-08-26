@@ -1,6 +1,6 @@
 ---
 title: "Miriam Adelson"
-description: "Miriam Adelson (People) - 22 mentions"
+description: "Miriam Adelson (People) - 25 mentions"
 id: "person-miriam-adelson"
 type: "PERSON"
 categories:
@@ -19,12 +19,12 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05">2025-10-28 · 01:06:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-miriam-adelson-t-00-43-58">2026-05-28 · 00:44:11</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-27-22">2026-06-22 · 00:27:22</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,6 +42,8 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-17-02" style="--pulse-height:67%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-23-41" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-miriam-adelson-t-00-43-51" style="--pulse-height:67%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-miriam-adelson-t-00-15-03" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +59,8 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-17-02) | 2 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-23-41) | 3 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-miriam-adelson-t-00-43-51) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-miriam-adelson-t-00-15-03) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49) | 2 |
 
 </details>
 </section>
@@ -64,7 +68,26 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:26:49](/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49)**
+> "...ng that she's involved. Okay, Miriam Adelson. Could have been the closest example she came up ..."
+
+**[00:27:22](/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-27-22)**
+> "...as the CEO. And I don't think Miriam Adelson wants to be the CEO. And I should say that this i..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:15:36](/episodes/ep-WoXd4oLwd3w.md#ent-person-miriam-adelson-t-00-15-03)**
+> "Charlie Kirk, I'm turning away from Israel. Donald Trump, I'm going to screw over Miriam Adelson shortly thereafter an assassination attempt happens."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
@@ -236,7 +259,26 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Widow Of (1)</summary>
+
+- **[Sheldon Adelson](/entities/person-sheldon-adelson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:26:49](/episodes/ep-VMNWMXX1vO8.md#t-00-26-49): “Miriam Adelson ... she took over Sheldon (Sheldon Adelson)'s casino gambling business, it said, when he died in 2021 ... his wife, who he was together with for decades”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
+
+- **[Sheldon Adelson](/entities/person-sheldon-adelson.md)** deceased husband of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:26:49](/episodes/ep-VMNWMXX1vO8.md#t-00-26-49): “Miriam Adelson ... she took over Sheldon (Sheldon Adelson)'s casino gambling business, it said, when he died in 2021 ... his wife, who he was together with for decades”
+
+</details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "United Nations"
-description: "United Nations (Organizations) - 4 mentions"
+description: "United Nations (Organizations) - 8 mentions"
 id: "org-united-nations"
 type: "ORG"
 aliases:
@@ -22,22 +22,23 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-nations-t-00-12-03">2025-10-02 · 00:12:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-united-nations-t-00-29-57">2026-04-14 · 00:30:06</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-20-29">2026-06-18 · 00:20:29</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-nations-t-00-10-14">CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-19-10">The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-nations-t-00-12-03" style="--pulse-height:50%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-nations-t-00-10-14" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-united-nations-t-00-29-57" style="--pulse-height:50%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-nations-t-00-12-03" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-nations-t-00-10-14" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-united-nations-t-00-29-57" style="--pulse-height:25%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-19-10" style="--pulse-height:100%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-united-nations-t-00-12-03) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-nations-t-00-10-14) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-united-nations-t-00-29-57) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-19-10) | 4 |
 
 </details>
 </section>
@@ -53,7 +55,24 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (4 mentions)</summary>
+
+**[00:19:48](/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-19-10)**
+> "United Nations"
+
+**[00:19:59](/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-19-10)**
+> "...Force. That was an arm of the United Nations Civilian Police Force."
+
+**[00:20:24](/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-19-10)**
+> "...ecause who could question the UN?"
+
+**[00:20:29](/episodes/ep-3QJqtW_NOSI.md#ent-org-united-nations-t-00-20-29)**
+> "...children, covering it up, the United Nations, DynCorp, forcing them into prostitution."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>
@@ -87,6 +106,41 @@ Source: [About Us | United Nations](https://www.un.org/en/about-us)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Includes (1)</summary>
+
+- **[International Police Task Force](/entities/org-international-police-task-force.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:19:59](/episodes/ep-3QJqtW_NOSI.md#t-00-19-54): “And in this case, it was the International Police Task Force. That was an arm of the United Nations Civilian Police Force.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[International Police Task Force](/entities/org-international-police-task-force.md)** part of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:19:59](/episodes/ep-3QJqtW_NOSI.md#t-00-19-54): “And in this case, it was the International Police Task Force. That was an arm of the United Nations Civilian Police Force.”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about United Nations (1)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:19:59](/episodes/ep-3QJqtW_NOSI.md#t-00-19-54) (Accusation) **Candace Owens**: ["Owens said NATO created the International Police Task Force as an arm ..."](/statements/statement-03a33c87f8b7.md)
+  - Also about: [International Police Task Force](/entities/org-international-police-task-force.md), [North Atlantic Treaty Organization](/entities/org-north-atlantic-treaty-organization.md), [DynCorp International](/entities/org-dyncorp-international.md)
+
+</details>
 
 </details>

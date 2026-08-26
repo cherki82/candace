@@ -1,6 +1,6 @@
 ---
 title: "Diddy"
-description: "Diddy (People) - 6 mentions"
+description: "Diddy (People) - 13 mentions"
 id: "person-diddy"
 type: "PERSON"
 aliases:
@@ -15,9 +15,9 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28">2025-11-13 · 00:22:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-23-51">2025-11-13 · 00:24:10</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-03-28">2026-06-10 · 00:03:55</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -26,15 +26,17 @@ _Type: People_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09">Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 6 mentions" title="2025-11-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28" style="--pulse-height:86%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 6 mentions" title="2025-11-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 7 mentions" title="2026-06-10 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28) | 6 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09) | 7 |
 
 </details>
 </section>
@@ -42,7 +44,33 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (7 mentions)</summary>
+
+**[00:02:40](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09)**
+> "...mple, better example perhaps, Diddy (Sean Combs), Sean Combs, Puff Daddy, P."
+
+**[00:02:48](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-48)**
+> "Diddy (Sean Combs). He's got a prominent back tattoo, a..."
+
+**[00:03:04](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-48)**
+> "Does that make Diddy (Sean Combs) holy?"
+
+**[00:03:06](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-48)**
+> "...pes, abuse, and drugs because Diddy (Sean Combs) knows how to cite Bible verses and h..."
+
+**[00:03:28](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-03-28)**
+> "...ot of people who believe that Diddy (Sean Combs) had something to do with her untimel..."
+
+**[00:03:44](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-03-28)**
+> "...re those people question him? Diddy (Sean Combs) lost Kim Porter, and he's got a Mado..."
+
+**[00:03:55](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-03-28)**
+> "You know, despite all of Diddy's crimes, I got to say at the very least he did not..."
+
+</details>
 
 <details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (6 mentions)</summary>

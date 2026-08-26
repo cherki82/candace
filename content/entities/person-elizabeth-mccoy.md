@@ -1,14 +1,19 @@
 ---
 title: "Elizabeth McCoy"
-description: "Elizabeth McCoy (People) - 26 mentions"
+description: "Elizabeth McCoy (People) - 27 mentions"
 id: "person-elizabeth-mccoy"
 type: "PERSON"
+aliases:
+  - "Elizabeth Kravchuk"
+  - "Elizabeth Kravchuk McCoy"
 categories:
   - "Turning Point USA"
   - "event administration"
 ---
 
 _Type: People_
+
+**Also known as:** Elizabeth Kravchuk, Elizabeth Kravchuk McCoy
 
 **Categories:** Turning Point USA, event administration
 
@@ -18,9 +23,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01">2025-11-05 · 00:42:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-20-35">2026-03-26 · 00:20:35</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-elizabeth-mccoy-t-00-25-48">2026-06-18 · 00:26:07</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -46,6 +51,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57" style="--pulse-height:25%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-15-28" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-elizabeth-mccoy-t-00-25-48" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +72,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-15-28) | 4 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-elizabeth-mccoy-t-00-25-48) | 1 |
 
 </details>
 </section>
@@ -73,7 +80,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:26:07](/episodes/ep-3QJqtW_NOSI.md#ent-person-elizabeth-mccoy-t-00-25-48)**
+> "Elizabeth Kravchuk"
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (4 mentions)</summary>
@@ -250,11 +265,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Married To (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “potentially more amazing than her husband Michael McCoy.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:14:00](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26): “they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) and his wife Elizabeth.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:12:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33): “Mikey McCoy, her husband”
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:26:07](/episodes/ep-3QJqtW_NOSI.md#t-00-25-48): “How could we forget Mikey McCoy's wife, Elizabeth Kravchuk?”
 
 </details>
 

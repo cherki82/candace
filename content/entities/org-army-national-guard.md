@@ -1,6 +1,6 @@
 ---
 title: "Army National Guard"
-description: "Army National Guard (Organizations) - 3 mentions"
+description: "Army National Guard (Organizations) - 4 mentions"
 id: "org-army-national-guard"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Army National Guard](https://www.nationalguard.mil/About-the-Guard/Army
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51">2026-03-03 · 00:17:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-org-army-national-guard-t-00-24-29">2026-03-04 · 00:24:55</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-army-national-guard-t-00-10-25">2026-06-26 · 00:10:57</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,6 +37,7 @@ Source: [Army National Guard](https://www.nationalguard.mil/About-the-Guard/Army
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-army-national-guard-t-00-24-29" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-army-national-guard-t-00-10-25" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Army National Guard](https://www.nationalguard.mil/About-the-Guard/Army
 |---|---|---:|
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-army-national-guard-t-00-16-51) | 2 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-army-national-guard-t-00-24-29) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-army-national-guard-t-00-10-25) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Army National Guard](https://www.nationalguard.mil/About-the-Guard/Army
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:10:57](/episodes/ep-IqHsl7d2dos.md#ent-org-army-national-guard-t-00-10-25)**
+> "... special forces is one of two Army National Guard special forces units."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1 mentions)</summary>
@@ -77,7 +87,29 @@ Source: [Army National Guard](https://www.nationalguard.mil/About-the-Guard/Army
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Includes (1)</summary>
+
+- **[19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:10:57](/episodes/ep-IqHsl7d2dos.md#t-00-10-25): “Camp Williams is 20 minutes down the road from where Charlie (Charlie Kirk) was murdered. From this event, particularly the 19 special forces is one of two Army National Guard special forces units.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne.md)** part of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:10:57](/episodes/ep-IqHsl7d2dos.md#t-00-10-25): “Camp Williams is 20 minutes down the road from where Charlie (Charlie Kirk) was murdered. From this event, particularly the 19 special forces is one of two Army National Guard special forces units.”
+
+</details>
+
+</details>
 
 </details>
 

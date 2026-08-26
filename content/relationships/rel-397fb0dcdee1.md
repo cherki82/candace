@@ -11,7 +11,7 @@ object: "person-baron-coleman"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Baron Coleman](/entities/person-baron-coleman)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
@@ -20,6 +20,10 @@ object: "person-baron-coleman"
 **[REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30)**
 
 - [00:01:48](/episodes/ep-SgVcnx4Oh30#t-00-01-48): _We kind of build off of each other and the work and the investigation that we're doing._
+
+**[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
+
+- [00:00:33](/episodes/ep-a2bZf4fic10#t-00-00-33): _I spoke with Baron Coleman yesterday evening and he convinced me that some evidence that he knew that I had positively needed to be shared before we went away for two weeks._
 
 ### Related
 

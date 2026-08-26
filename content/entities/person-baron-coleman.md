@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 114 mentions"
+description: "Baron Coleman (People) - 124 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51">2025-12-16 · 00:14:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-baron-coleman-t-00-55-34">2026-05-27 · 00:55:41</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>114</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-baron-coleman-t-01-09-03">2026-07-14 · 01:09:03</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>124</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -62,6 +62,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-baron-coleman-t-00-18-39" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-baron-coleman-t-00-38-00" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-baron-coleman-t-00-55-34" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-baron-coleman-t-00-53-39" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-baron-coleman-t-00-45-22" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-baron-coleman-t-00-02-12" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-baron-coleman-t-00-08-49" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:26%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-baron-coleman-t-01-09-03" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +100,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-baron-coleman-t-00-18-39) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-baron-coleman-t-00-38-00) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-baron-coleman-t-00-55-34) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-baron-coleman-t-00-53-39) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-baron-coleman-t-00-45-22) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-baron-coleman-t-00-02-12) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-baron-coleman-t-00-08-49) | 1 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-baron-coleman-t-00-00-01) | 5 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-baron-coleman-t-01-09-03) | 1 |
 
 </details>
 </section>
@@ -101,7 +113,67 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (114)</strong></summary>
+<summary><strong class="section-title">Raw mentions (124)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:09:03](/episodes/ep-EtLHqDbxqks.md#ent-person-baron-coleman-t-01-09-03)**
+> "I think this is darker than we could ever imagine. I think Baron Coleman put it in the correct terms when he said Charlie (Charlie Kirk) said no to something way deeper and darker to the Prince of Darkness himself."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:09:21](/episodes/ep-IqHsl7d2dos.md#ent-person-baron-coleman-t-00-08-49)**
+> "Then I learned from watching Baron Coleman's show last night something crucial as we were tryi..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (5 mentions)</summary>
+
+**[00:00:33](/episodes/ep-a2bZf4fic10.md#ent-person-baron-coleman-t-00-00-01)**
+> "...n air is because I spoke with Baron Coleman yesterday evening and he convinced me that some e..."
+
+**[00:00:46](/episodes/ep-a2bZf4fic10.md#ent-person-baron-coleman-t-00-00-46)**
+> "...t I ultimately concluded that Baron Coleman was right."
+
+**[00:24:04](/episodes/ep-a2bZf4fic10.md#ent-person-baron-coleman-t-00-23-53)**
+> "...use I've run this with Baron (Baron Coleman), I've run it with Tim (discussion participant; s..."
+
+**[00:50:34](/episodes/ep-a2bZf4fic10.md#ent-person-baron-coleman-t-00-50-34)**
+> "...ould be behind, I know Baron (Baron Coleman) has done so many episodes and I'm planning on ca..."
+
+**[00:56:26](/episodes/ep-a2bZf4fic10.md#ent-person-baron-coleman-t-00-56-26)**
+> "...vy one. And thank you, Baron (Baron Coleman), for telling me that this was the right time to ..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:02:24](/episodes/ep-9CuC1yf8-PU.md#ent-person-baron-coleman-t-00-02-12)**
+> "someone pointed out to me that Baron Coleman had already furnished the answer"
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:45:39](/episodes/ep-VMNWMXX1vO8.md#ent-person-baron-coleman-t-00-45-22)**
+> "...s are working on that, namely Baron Coleman, but you're lying."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:53:39](/episodes/ep-G3zdOeHpvS0.md#ent-person-baron-coleman-t-00-53-39)**
+> "Baron Coleman, Lionel, there have been so many people that have..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -667,10 +739,11 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:07:08](/episodes/ep-DdPjoy5W-wY.md#t-01-06-42): “i wrote him some interesting things about Lori Frantzve since he's been helping so much the investigation”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:01:48](/episodes/ep-SgVcnx4Oh30.md#t-00-01-22): “We kind of build off of each other and the work and the investigation that we're doing.”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:00:33](/episodes/ep-a2bZf4fic10.md#t-00-00-01): “I spoke with Baron Coleman yesterday evening and he convinced me that some evidence that he knew that I had positively needed to be shared before we went away for two weeks.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 67 mentions"
+description: "Bill Ackman (People) - 73 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40">2025-09-15 · 00:14:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33">2026-08-14 · 02:26:42</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
@@ -56,6 +56,8 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-bill-ackman-t-00-43-43" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-bill-ackman-t-00-21-40" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-bill-ackman-t-00-30-35" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-17-53" style="--pulse-height:16%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55" style="--pulse-height:16%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -82,6 +84,8 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-bill-ackman-t-00-43-43) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-bill-ackman-t-00-21-40) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-bill-ackman-t-00-30-35) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-17-53) | 3 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33) | 1 |
 
 </details>
@@ -94,13 +98,41 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:26:42](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33)**
 > "...njamin Netanyahu) and Ackman (Bill Ackman), right?"
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3 mentions)</summary>
+
+**[00:07:18](/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55)**
+> "In fact, Bill Ackman, king of the Hamptons, immediately pledged one million dollars to Tyler Robinson's father, Matt Robinson."
+
+**[00:27:08](/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-26-42)**
+> "... we got to get an update from Bill Ackman on the mill."
+
+**[01:08:51](/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-01-08-31)**
+> "Bill Ackman tells you put Bibi (Benjamin Netanyahu) on the ph..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3 mentions)</summary>
+
+**[00:17:53](/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-17-53)**
+> "By and large, Charlie (Charlie Kirk) held the line and wanted him to cancel Tucker (Tucker Carlson). They were angry that in particular that he had Tucker Carlson had asked where Bill Ackman's money comes from."
+
+**[00:18:47](/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-18-35)**
+> "...ship and he muses about where bill ackman's wealth comes from on july 12th according to the n..."
+
+**[00:33:06](/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-32-58)**
+> "..., the influencer sponsored by Bill Ackman, who just was mentioned on stage about the Epstei..."
 
 </details>
 

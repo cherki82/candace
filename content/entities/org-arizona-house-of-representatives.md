@@ -1,6 +1,6 @@
 ---
 title: "Arizona House of Representatives"
-description: "Arizona House of Representatives (Organizations) - 2 mentions"
+description: "Arizona House of Representatives (Organizations) - 3 mentions"
 id: "org-arizona-house-of-representatives"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Arizona House of Representatives](https://www.azleg.gov/house/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-arizona-house-of-representatives-t-00-49-33">2026-01-07 · 00:49:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#t-00-31-20">2026-03-11 · 00:31:35</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#t-00-07-39">2026-06-22 · 00:07:39</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [Arizona House of Representatives](https://www.azleg.gov/house/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-arizona-house-of-representatives-t-00-49-33" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#t-00-31-20" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#t-00-07-39" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Arizona House of Representatives](https://www.azleg.gov/house/)
 |---|---|---:|
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-arizona-house-of-representatives-t-00-49-33) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#t-00-31-20) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#t-00-07-39) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Arizona House of Representatives](https://www.azleg.gov/house/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:07:39](/episodes/ep-VMNWMXX1vO8.md#t-00-07-39)**
+> "That is literally recorded if you look into the Arizona congressional files. You can see Lori (Lori Frantzve) presenting on the House floor with her second husband, Larry Guinta, actually third husband, Larry Guinta, and Erika (Erika Kirk)'s stepfather."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>

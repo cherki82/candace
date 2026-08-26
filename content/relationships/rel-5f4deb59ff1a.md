@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Larry Guinta](/entities/person-larry-guinta) stepparent of [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
+
+- [00:07:39](/episodes/ep-VMNWMXX1vO8#t-00-07-39): _Larry Guinta ... Erika (Erika Kirk)'s stepfather._
 
 **[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
 

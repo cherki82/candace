@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 46 mentions"
+description: "Paleovalley (Organizations) - 51 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-org-paleovalley-t-00-49-03">2026-01-30 · 00:49:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-01-10-17">2026-06-09 · 01:10:44</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-43-56">2026-06-16 · 00:44:02</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -46,6 +46,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-paleovalley-t-00-37-56" style="--pulse-height:44%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 4 mentions" title="2026-05-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-24-39" style="--pulse-height:44%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 4 mentions" title="2026-05-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-00-50-16" style="--pulse-height:78%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 7 mentions" title="2026-06-09 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-42-30" style="--pulse-height:56%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 5 mentions" title="2026-06-16 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-paleovalley-t-00-37-56) | 4 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-paleovalley-t-01-24-39) | 4 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-00-50-16) | 7 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-42-30) | 5 |
 
 </details>
 </section>
@@ -67,7 +69,27 @@ Source: [Paleovalley](https://paleovalley.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (5 mentions)</summary>
+
+**[00:43:05](/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-42-30)**
+> "Again, that's balanceofnature.com promo code Candace at checkout. Also, I always tell you guys about Paleo Valley. I love them."
+
+**[00:43:11](/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-43-11)**
+> "...u'll always find in my bag is Paleo Valley beef sticks. Whether I'm running between meetings..."
+
+**[00:43:21](/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-43-11)**
+> "...etween healthy and delicious. Paleo Valley uses 100% grass-fed and grass-finished beef sourc..."
+
+**[00:43:48](/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-43-11)**
+> "... good as it sounds, check out Paleo Valley Beef Sticks."
+
+**[00:44:02](/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-43-56)**
+> "at paleovalley.com and you can use code Candace at checkout. Aga..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (7 mentions)</summary>

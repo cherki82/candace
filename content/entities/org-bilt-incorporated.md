@@ -1,6 +1,6 @@
 ---
 title: "BILT Incorporated"
-description: "BILT Incorporated (Organizations) - 17 mentions"
+description: "BILT Incorporated (Organizations) - 24 mentions"
 id: "org-bilt-incorporated"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-bilt-incorporated-t-00-10-19">2026-04-01 · 00:10:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-bilt-incorporated-t-00-09-31">2026-04-02 · 00:09:31</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-01-10-33">2026-06-16 · 01:10:44</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
@@ -40,6 +40,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-bilt-incorporated-t-00-10-19" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 15 mentions" title="2026-04-01 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-bilt-incorporated-t-00-01-45" style="--pulse-height:13%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-01-10-33" style="--pulse-height:47%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 7 mentions" title="2026-06-16 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 |---|---|---:|
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-bilt-incorporated-t-00-10-19) | 15 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-bilt-incorporated-t-00-01-45) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-01-10-33) | 7 |
 
 </details>
 </section>
@@ -54,7 +56,33 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (7 mentions)</summary>
+
+**[01:10:33](/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-01-10-33)**
+> "...is father was one half of the built organization along with someone Henderson and the..."
+
+**[01:10:44](/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-01-10-33)**
+> "...ere interning together at the BILT Incorporated and then we find out that Connor was working at t..."
+
+**[01:10:08](/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-01-09-57)**
+> "But what is interesting is that our our decoy boy number two. is longtime friends with Connor Henderson we talked about how those are the sons of the the BILT Incorporated you'd have to go back and watch the episode but we did unpack that I can't think of the name of decoy boy number two it was George Zinn and then it was that like Sam he had like Zachariah Qureshi, that's right."
+
+**[00:06:10](/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-00-05-39)**
+> "...ddenly having that redundancy built in of two microphones."
+
+**[00:31:22](/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-00-31-22)**
+> "...e redundancy should have been built, not on the microphone, on everybody calling 911 ..."
+
+**[00:41:30](/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-00-41-01)**
+> "...that he trusted. Battalion is built around a very simple idea."
+
+**[00:46:45](/episodes/ep-h76ZN-xXC6c.md#ent-org-bilt-incorporated-t-00-46-19)**
+> "...he reason why they've sort of built out this clause of, OK, but it needs to be reason..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
@@ -138,16 +166,18 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 <summary>Formerly Employed (2)</summary>
 
 - **[Connor Henderson](/entities/person-connor-henderson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:14](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “They very clearly were interning together at the BILT Incorporated and then we find out that Connor was working at the hospital, Timpanogos Regional Hospital, interning in the emergency department and”
 
 </details>
 
 - **[Zachariah Qureshi](/entities/person-zachariah-qureshi.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:14](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “They very clearly were interning together at the BILT Incorporated”
 
 </details>
 
@@ -157,16 +187,18 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 <summary>Founded By (2)</summary>
 
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-11-43): “In fact, we can further assume that BILT is somehow related to his job in the military because his LinkedIn also informs us that Ahmed co-founded BILT back in 2015 when he was full time as an 05.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
 
 - **[Nathan Henderson](/entities/person-nathan-henderson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed, remember, Zachariah's dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
 
@@ -233,30 +265,34 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 </details>
 
 - **[Connor Henderson](/entities/person-connor-henderson.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:14](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “They very clearly were interning together at the BILT Incorporated and then we find out that Connor was working at the hospital, Timpanogos Regional Hospital, interning in the emergency department and”
 
 </details>
 
 - **[Zachariah Qureshi](/entities/person-zachariah-qureshi.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:14](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “They very clearly were interning together at the BILT Incorporated”
 
 </details>
 
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)** founded this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-11-43): “In fact, we can further assume that BILT is somehow related to his job in the military because his LinkedIn also informs us that Ahmed co-founded BILT back in 2015 when he was full time as an 05.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
 
 - **[Nathan Henderson](/entities/person-nathan-henderson.md)** founded this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed, remember, Zachariah's dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
 

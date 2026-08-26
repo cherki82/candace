@@ -1,6 +1,6 @@
 ---
 title: "The Corcoran Group"
-description: "The Corcoran Group (Organizations) - 17 mentions"
+description: "The Corcoran Group (Organizations) - 19 mentions"
 id: "org-corcoran-group"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-corcoran-group-t-00-26-55">2026-02-10 · 00:26:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-corcoran-group-t-00-22-57">2026-03-18 · 00:23:23</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-corcoran-group-t-00-39-23">2026-06-26 · 00:39:46</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -45,6 +45,7 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-corcoran-group-t-00-08-36" style="--pulse-height:17%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-corcoran-group-t-00-05-00" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-corcoran-group-t-00-22-57" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-corcoran-group-t-00-39-23" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-corcoran-group-t-00-08-36) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-corcoran-group-t-00-05-00) | 2 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-corcoran-group-t-00-22-57) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-corcoran-group-t-00-39-23) | 2 |
 
 </details>
 </section>
@@ -63,7 +65,18 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:39:23](/episodes/ep-IqHsl7d2dos.md#ent-org-corcoran-group-t-00-39-23)**
+> "...'s life, whether it's through the Corcoran Group, which we had already showed you, established acc..."
+
+**[00:39:46](/episodes/ep-IqHsl7d2dos.md#ent-org-corcoran-group-t-00-39-23)**
+> "...o what was she doing with the Corcoran license? Also, people who are in real estate tell..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (2 mentions)</summary>
@@ -155,12 +168,25 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <summary>Formerly Employed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Now this article that was posted shortly after Charlie Kirk's assassination by USA Today states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:05:55](/episodes/ep-DdPjoy5W-wY.md#t-00-05-48): “She's also working in real estate for the Corcoran Real Estate Group”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:26:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36): “she also unusually receives her New York real estate license to work with Corcoran Real Estate.”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:22:57](/episodes/ep-_vg7ucP1E0g.md#t-00-22-57): “Then comes October 24th, and Erika (Erika Kirk) somehow becomes a licensed real estate agent in New York and is immediately employed by Corcoran Real Estate Group.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:39:35](/episodes/ep-IqHsl7d2dos.md#t-00-39-23): “which is where Erika gets her real estate license under. And yet, despite that, we only ever can find two listings that have ever gone up under Erika Frantzve.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Founded By (1)</summary>
+
+- **[Lynn Forester de Rothschild](/entities/person-lynn-forester-de-rothschild.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:39:23](/episodes/ep-IqHsl7d2dos.md#t-00-39-23): “The consistent Rothschild connections in Erika (Erika Kirk)'s life, whether it's through the Corcoran Group, which we had already showed you, established according to Jeffrey Epstein's emails by Lynn Forester de Rothschild.”
 
 </details>
 
@@ -191,7 +217,7 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Pamela Liebman](/entities/person-pamela-liebman.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -201,12 +227,20 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55): “Now this article that was posted shortly after Charlie Kirk's assassination by USA Today states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:05:55](/episodes/ep-DdPjoy5W-wY.md#t-00-05-48): “She's also working in real estate for the Corcoran Real Estate Group”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:26:56](/episodes/ep-ZzAT2xijKGQ.md#t-00-26-36): “she also unusually receives her New York real estate license to work with Corcoran Real Estate.”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:22:57](/episodes/ep-_vg7ucP1E0g.md#t-00-22-57): “Then comes October 24th, and Erika (Erika Kirk) somehow becomes a licensed real estate agent in New York and is immediately employed by Corcoran Real Estate Group.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:39:35](/episodes/ep-IqHsl7d2dos.md#t-00-39-23): “which is where Erika gets her real estate license under. And yet, despite that, we only ever can find two listings that have ever gone up under Erika Frantzve.”
+
+</details>
+
+- **[Lynn Forester de Rothschild](/entities/person-lynn-forester-de-rothschild.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:39:23](/episodes/ep-IqHsl7d2dos.md#t-00-39-23): “The consistent Rothschild connections in Erika (Erika Kirk)'s life, whether it's through the Corcoran Group, which we had already showed you, established according to Jeffrey Epstein's emails by Lynn Forester de Rothschild.”
 
 </details>
 
@@ -222,7 +256,15 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Corcoran Group (10)</strong></summary>
+<summary><strong class="section-title">Statements about The Corcoran Group (11)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:39:23](/episodes/ep-IqHsl7d2dos.md#t-00-39-23) (Citation) **Candace Owens**: ["Owens said Epstein's emails stated that Lynn Forester de Rothschild es..."](/statements/statement-bff1916cbfe6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lynn Forester de Rothschild](/entities/person-lynn-forester-de-rothschild.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (2)</summary>

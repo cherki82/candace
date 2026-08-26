@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth Lane"
-description: "Elizabeth Lane (People) - 23 mentions"
+description: "Elizabeth Lane (People) - 25 mentions"
 id: "person-elizabeth-lane"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16">2025-10-02 · 00:28:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-elizabeth-lane-t-00-51-28">2026-05-14 · 00:51:36</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-elizabeth-lane-t-00-38-15">2026-06-13 · 00:38:25</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -43,6 +43,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-elizabeth-lane-t-00-16-34" style="--pulse-height:25%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-elizabeth-lane-t-00-01-20" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 4 mentions" title="2026-04-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-elizabeth-lane-t-00-49-05" style="--pulse-height:75%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-elizabeth-lane-t-00-32-16" style="--pulse-height:50%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-elizabeth-lane-t-00-16-34) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-elizabeth-lane-t-00-01-20) | 4 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-elizabeth-lane-t-00-49-05) | 3 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-elizabeth-lane-t-00-32-16) | 2 |
 
 </details>
 </section>
@@ -67,7 +69,18 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:32:25](/episodes/ep-WoXd4oLwd3w.md#ent-person-elizabeth-lane-t-00-32-16)**
+> "Elizabeth Lane clocked her correctly. She is whatever she needs to be on her way to empowerment."
+
+**[00:38:25](/episodes/ep-WoXd4oLwd3w.md#ent-person-elizabeth-lane-t-00-38-15)**
+> "...n a disaster, because just as Elizabeth Lane spelled out when she wrote that really long tweet..."
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (3 mentions)</summary>

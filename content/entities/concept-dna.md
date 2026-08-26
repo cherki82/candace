@@ -1,6 +1,6 @@
 ---
 title: "Deoxyribonucleic acid"
-description: "Deoxyribonucleic acid (Concepts) - 41 mentions"
+description: "Deoxyribonucleic acid (Concepts) - 67 mentions"
 id: "concept-dna"
 type: "CONCEPT"
 aliases:
@@ -23,28 +23,29 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59">2026-02-04 · 00:03:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-03-32-34">2026-08-14 · 03:32:48</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (19 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-09-56">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (26 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59" style="--pulse-height:26%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 5 mentions" title="2026-02-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59" style="--pulse-height:19%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 5 mentions" title="2026-02-04 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-dna-t-00-58-52" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-dna-t-00-45-39" style="--pulse-height:8%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-16-50" style="--pulse-height:37%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 7 mentions" title="2026-03-31 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-dna-t-00-17-13" style="--pulse-height:16%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-dna-t-00-47-08" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-16-50" style="--pulse-height:27%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 7 mentions" title="2026-03-31 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-dna-t-00-17-13" style="--pulse-height:12%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-dna-t-00-47-08" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-dna-t-00-00-01" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-dna-t-00-11-41" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-dna-t-00-36-59" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 19 mentions" title="2026-08-14 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-09-56" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 26 mentions" title="2026-07-14 · 26 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25" style="--pulse-height:73%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 19 mentions" title="2026-08-14 · 19 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-dna-t-00-00-01) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-dna-t-00-11-41) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-concept-dna-t-00-36-59) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-09-56) | 26 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25) | 19 |
 
 </details>
@@ -67,7 +69,7 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (19 mentions)</summary>
@@ -128,6 +130,89 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 
 **[03:32:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-03-32-34)**
 > "...ar this. has My CSTNA his own DNA told me what on it said about Charlie."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (26 mentions)</summary>
+
+**[00:10:21](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-09-56)**
+> "Now, we were also told that Tyler (Tyler Robinson)'s fingerprints and his DNA were found on the gun, and that was presented rather exclusively. They never wanted to mention any other prints, just case closed, this is our guy, we're overwhelmed."
+
+**[00:30:49](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-30-49)**
+> "...sertion that Tyler Robinson's DNA was found on the gun was, and I quote, a scientif..."
+
+**[00:31:15](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-31-05)**
+> ".... Robinson (Tyler Robinson)'s DNA is found on this item. That's a source attributio..."
+
+**[00:31:41](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-31-29)**
+> "...as a major contributor to the DNA sample, right?"
+
+**[00:31:50](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-31-29)**
+> "...ike it means Tyler Robinson's DNA was all over the gun. He's a major."
+
+**[00:31:56](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-31-29)**
+> "you're a contributor to the DNA sample, but it actually does not mean that at all..."
+
+**[00:32:06](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-32-06)**
+> "...ll us anything about when the DNA was deposited on the trigger guard or the trigger..."
+
+**[00:32:16](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-32-16)**
+> "...ve, six, or seven people with DNA on that trigger or trigger guard, correct?"
+
+**[00:32:38](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-32-38)**
+> "... has to do with the levels of DNA you were seeing. It has nothing to do with someon..."
+
+**[00:32:52](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-32-52)**
+> "...ibutor is the majority of the DNA contributed to that sample."
+
+**[00:33:14](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-33-00)**
+> "...initively would have the most DNA fingerprints all over this mug. But occasionally,..."
+
+**[00:33:44](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-33-44)**
+> "...as a major contributor to the DNA sample, despite the fact that this is my mug and ..."
+
+**[00:33:58](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-33-44)**
+> "...hich happens to have Ashley's DNA on it. So they intentionally misconstrued the int..."
+
+**[00:34:22](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-34-22)**
+> "...was a minimum of five sets of DNA on some of these mixed samples. Four sets of DNA—..."
+
+**[00:34:47](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-34-22)**
+> "...eported that Tyler Robinson's DNA sample was the most degraded."
+
+**[00:35:05](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-35-05)**
+> "...ere the most degraded, or his DNA was the most degraded. And I'm going to explain t..."
+
+**[00:35:42](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-35-42)**
+> "...dn't be able to say where the DNA came from."
+
+**[00:37:07](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-37-07)**
+> "The DNA profile was at least a one—"
+
+**[00:37:21](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-37-12)**
+> "...use they kept saying that his DNA was on the trigger and she's admitting it could b..."
+
+**[00:37:39](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-37-12)**
+> "...arlier on, she discusses that DNA can stay on an object for a very long time."
+
+**[00:37:48](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-37-12)**
+> "...an research this on your own, DNA can stay on an object for decades, decades, okay?"
+
+**[00:38:20](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-37-56)**
+> "That DNA would suddenly degrade immediately after someone ..."
+
+**[00:38:55](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-38-55)**
+> "...and Lance Twiggs had stronger DNA samples than Tyler Robinson did—he was the most d..."
+
+**[00:50:28](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-50-12)**
+> "...sked minutiae questions about DNA evidence, but the judge was just shooing them alo..."
+
+**[00:53:58](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-53-42)**
+> "...hen they're talking about the DNA. It's not minute when the ATF is saying that the ..."
+
+**[00:54:23](/episodes/ep-EtLHqDbxqks.md#ent-concept-dna-t-00-54-23)**
+> "When his DNA is on everything, more of his DNA than Tyler (Tyl..."
 
 </details>
 
@@ -252,7 +337,41 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Deoxyribonucleic acid (7)</strong></summary>
+<summary><strong class="section-title">Statements about Deoxyribonucleic acid (17)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (10)</summary>
+
+- [00:31:26](/episodes/ep-EtLHqDbxqks.md#t-00-31-26) (Claim) **Caitlin Oliver** (via quoted speech): ["Caitlin Oliver agreed that publishing a headline saying Tyler Robinson..."](/statements/statement-53f29db98537.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:32:15](/episodes/ep-EtLHqDbxqks.md#t-00-32-15) (Claim) **Caitlin Oliver** (via quoted speech): ["Caitlin Oliver agreed that she could not determine when DNA was deposi..."](/statements/statement-7df6c6408e17.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:32:29](/episodes/ep-EtLHqDbxqks.md#t-00-32-29) (Claim) **Caitlin Oliver** (via quoted speech): ["Caitlin Oliver agreed that a DNA sample described as containing at lea..."](/statements/statement-a7598afae968.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:32:52](/episodes/ep-EtLHqDbxqks.md#t-00-32-52) (Claim) **Caitlin Oliver** (via quoted speech): ["Caitlin Oliver testified that a major contributor is the person who co..."](/statements/statement-2a1f2f7751a3.md)
+
+- [00:35:05](/episodes/ep-EtLHqDbxqks.md#t-00-35-05) (Claim) **Candace Owens**: ["Candace Owens asserted that Tyler Robinson's DNA was the most degraded..."](/statements/statement-ad957e4f60ba.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:35:42](/episodes/ep-EtLHqDbxqks.md#t-00-35-42) (Claim) **Caitlin Oliver** (via quoted speech): ["Caitlin Oliver testified that the trigger and trigger guard were swabb..."](/statements/statement-9f4e95edee8a.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:35:53](/episodes/ep-EtLHqDbxqks.md#t-00-35-53) (Claim) **Caitlin Oliver** (via quoted speech): ["Caitlin Oliver testified that the trigger-and-trigger-guard sample sho..."](/statements/statement-091ba89c67b6.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:38:29](/episodes/ep-EtLHqDbxqks.md#t-00-38-29) (Accusation) **Candace Owens**: ["Candace Owens said the DNA degradation registered to her as more evide..."](/statements/statement-18190e21f6d6.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:50:21](/episodes/ep-EtLHqDbxqks.md#t-00-50-12) (Opinion) **Benny Johnson** (via quoted speech): ["Benny Johnson said the prosecution had a demonstrable, overwhelming ca..."](/statements/statement-5916c9b68a24.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:54:12](/episodes/ep-EtLHqDbxqks.md#t-00-53-42) (Accusation) **Candace Owens**: ["Candace Owens argued that Lance Twiggs's DNA was on everything and tha..."](/statements/statement-6413c876d678.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>

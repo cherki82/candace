@@ -11,7 +11,11 @@ object: "org-ground-news"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Ground News](/entities/org-ground-news)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU)**
+
+- [00:30:00](/episodes/ep-9CuC1yf8-PU#t-00-30-00): _What I like about Ground News is that it's fully independent ... That's why I partnered with them._
 
 **[BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk)**
 

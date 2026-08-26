@@ -1,6 +1,6 @@
 ---
 title: "CNN"
-description: "CNN (Organizations) - 47 mentions"
+description: "CNN (Organizations) - 48 mentions"
 id: "org-cnn"
 type: "ORG"
 aliases:
@@ -23,8 +23,8 @@ Source: [About CNN](https://www.cnn.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16">2025-10-27 · 00:20:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31">2026-08-14 · 02:38:34</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -56,6 +56,7 @@ Source: [About CNN](https://www.cnn.com/about)
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-cnn-t-00-06-44" style="--pulse-height:14%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-cnn-t-00-09-29" style="--pulse-height:14%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-cnn-t-00-26-09" style="--pulse-height:14%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-cnn-t-00-53-59" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04" style="--pulse-height:57%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -83,6 +84,7 @@ Source: [About CNN](https://www.cnn.com/about)
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-cnn-t-00-06-44) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-cnn-t-00-09-29) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-cnn-t-00-26-09) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-cnn-t-00-53-59) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04) | 4 |
 
 </details>
@@ -91,7 +93,7 @@ Source: [About CNN](https://www.cnn.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -107,6 +109,14 @@ Source: [About CNN](https://www.cnn.com/about)
 
 **[02:38:31](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31)**
 > "...ing news. is funny So well is CNN allowed to have sources, hang on but i have we ca..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:53:59](/episodes/ep-G3zdOeHpvS0.md#ent-org-cnn-t-00-53-59)**
+> "the CNN woman who put it on her Instagram"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "United States Armed Forces"
-description: "United States Armed Forces (Organizations) - 15 mentions"
+description: "United States Armed Forces (Organizations) - 20 mentions"
 id: "org-united-states-armed-forces"
 type: "ORG"
 aliases:
@@ -25,30 +25,32 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59">2025-11-05 · 00:51:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-24-31">2026-05-14 · 00:24:52</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-54-41">2026-06-26 · 00:55:06</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>28</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-armed-forces-t-00-18-18">Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-47-31">TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-armed-forces-t-00-18-18" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-armed-forces-t-00-24-09" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-02-24" style="--pulse-height:100%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-armed-forces-t-00-18-18" style="--pulse-height:67%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-armed-forces-t-00-24-09" style="--pulse-height:33%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15" style="--pulse-height:33%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16" style="--pulse-height:67%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-02-24" style="--pulse-height:67%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-armed-forces-t-00-00-39" style="--pulse-height:67%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-47-31" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +67,8 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-armed-forces-t-00-02-24) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-armed-forces-t-00-00-39) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-47-31) | 3 |
 
 </details>
 </section>
@@ -72,7 +76,32 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
+
+**[00:47:45](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-47-31)**
+> "...e potentially working for the United States military or working for NATO in some capacity in productio..."
+
+**[00:48:20](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-48-02)**
+> "...ould also be the same for the United States military, which is pretty."
+
+**[00:55:06](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-54-41)**
+> "...Kirk), do not sign up for the United States military."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:01:04](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-armed-forces-t-00-00-39)**
+> "...ngly endless bloodlust of the United States military. It's all kind of coming together."
+
+**[00:26:46](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-armed-forces-t-00-26-46)**
+> "How long would a U.S. military operation take to remove the communist regime in ..."
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (2 mentions)</summary>
@@ -177,6 +206,18 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:55:06](/episodes/ep-IqHsl7d2dos.md#t-00-54-41): “Join Candace in reclaiming it. Yeah, I do hope if you, you know, if you want to honor Charlie (Charlie Kirk), if you want to do something for Charlie (Charlie Kirk), do not sign up for the United States military.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (2)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)**
@@ -208,12 +249,19 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:23:51](/episodes/ep-Pb7UlpRdW6U.md#t-00-23-44): “We are looking at an unholy alliance. It is between the military, it is between the press, and I would add here, Turning Point USA.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:55:06](/episodes/ep-IqHsl7d2dos.md#t-00-54-41): “Join Candace in reclaiming it. Yeah, I do hope if you, you know, if you want to honor Charlie (Charlie Kirk), if you want to do something for Charlie (Charlie Kirk), do not sign up for the United States military.”
 
 </details>
 
@@ -250,7 +298,24 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Armed Forces (28)</strong></summary>
+<summary><strong class="section-title">Statements about United States Armed Forces (32)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4)</summary>
+
+- [00:15:00](/episodes/ep-IqHsl7d2dos.md#t-00-15-00) (Accusation) **Candace Owens**: ["Owens asserted that military units in plain clothes were organized by ..."](/statements/statement-a00e18867e92.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:27:35](/episodes/ep-IqHsl7d2dos.md#t-00-27-33) (Accusation) **Candace Owens**: ["Owens stated her view that Charlie Kirk was killed in a military opera..."](/statements/statement-d1202b1ad9e9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:47:45](/episodes/ep-IqHsl7d2dos.md#t-00-47-31) (Accusation) **Candace Owens**: ["Owens said she thought some recently hired Turning Point USA staff cou..."](/statements/statement-6b2fcc1926d1.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [North Atlantic Treaty Organization](/entities/org-north-atlantic-treaty-organization.md)
+
+- [00:55:06](/episodes/ep-IqHsl7d2dos.md#t-00-54-41) (Opinion) **Candace Owens**: ["Owens urged viewers not to join the U.S. military because she believed..."](/statements/statement-c5be7b30175f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [September 10th](/entities/date-september-10th.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (9)</summary>

@@ -1,0 +1,23 @@
+---
+title: "19th Special Forces Group (Airborne) worked with Romanian Special Operations Forces Command"
+description: "Evidence for the relationship: 19th Special Forces Group (Airborne) worked with Romanian Special Operations Forces Command"
+relationship_id: "rel-d2b594dca173"
+subject: "org-19th-special-forces-group-airborne"
+predicate: "worked with"
+object: "org-romanian-special-operations-forces-command"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) worked with [Romanian Special Operations Forces Command](/entities/org-romanian-special-operations-forces-command)
+
+### Evidence (1 mentions)
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:12:03](/episodes/ep-IqHsl7d2dos#t-00-12-03): _Particularly, the U.S. Army's 19 Special Forces Airborne routinely deploy, of all places, to Romania to conduct unconventional warfare. They train with Romanian special operations force, working alongside NATO allies._
+
+### Related
+
+- [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne)
+- [Romanian Special Operations Forces Command](/entities/org-romanian-special-operations-forces-command)

@@ -1,33 +1,39 @@
 ---
 title: "Benny Johnson"
-description: "Benny Johnson (People) - 4 mentions"
+description: "Benny Johnson (People) - 9 mentions"
 id: "person-benny-johnson"
 type: "PERSON"
 categories:
   - "political commentator"
+  - "political commentary"
 ---
 
 _Type: People_
 
-**Categories:** political commentator
+**Categories:** political commentator, political commentary
+
+**Entity verification:** verified
+> Official biography confirms canonical name and media role.
+Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18">2025-09-19 · 00:42:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-benny-johnson-t-00-46-52">2026-04-20 · 00:47:15</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-52-59">2026-07-14 · 00:53:05</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18">Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-00-46">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18" style="--pulse-height:100%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-benny-johnson-t-00-46-52" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18" style="--pulse-height:40%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 2 mentions" title="2025-09-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-benny-johnson-t-00-46-52" style="--pulse-height:40%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-00-46" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -35,6 +41,7 @@ _Type: People_
 |---|---|---:|
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-benny-johnson-t-00-46-52) | 2 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-00-46) | 5 |
 
 </details>
 </section>
@@ -42,7 +49,27 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (5 mentions)</summary>
+
+**[00:00:46](/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-00-46)**
+> "Regarding the preliminary hearing. If you find yourself having to invite literal social media influencers into a courthouse, Erika (Erika Kirk), as in the actual job description of these human beings is to influence the masses about products or ideas, if you feel compelled to invite Benny Johnson, Department of War Consultant Graham Allen, Brandon Tatum, people who you, for whatever reason, I'm not judging, did not choose."
+
+**[00:01:26](/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-01-26)**
+> "...e, Erika (Erika Kirk), right? Benny Johnson came right out of the gate and said, Erika (Erika..."
+
+**[00:49:02](/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-48-28)**
+> "...out what they saw. So here is Benny Johnson's reaction to the video."
+
+**[00:52:59](/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-52-59)**
+> "..., I'm shocked. I'm shocked at Benny Johnson."
+
+**[00:53:05](/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-52-59)**
+> "I've never had an issue with Benny Johnson. This gives me an issue with Benny Johnson. How d..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>
@@ -72,6 +99,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:52:59](/episodes/ep-EtLHqDbxqks.md#t-00-52-59): “There is no other explanation for how people could lie like this. I mean, I'm shocked. I'm shocked at Benny Johnson.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed (1)</summary>
 
 - **[Brendan Carr](/entities/person-brendan-carr.md)**
@@ -84,7 +123,14 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:52:59](/episodes/ep-EtLHqDbxqks.md#t-00-52-59): “There is no other explanation for how people could lie like this. I mean, I'm shocked. I'm shocked at Benny Johnson.”
+
+</details>
 
 - **[Brendan Carr](/entities/person-brendan-carr.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -98,7 +144,37 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benny Johnson (1)</strong></summary>
+<summary><strong class="section-title">Statements by Benny Johnson (3)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3)</summary>
+
+- [00:49:31](/episodes/ep-EtLHqDbxqks.md#t-00-49-31) [○] (Claim) ["Benny Johnson said a high-definition 4K video clearly showed Tyler Robinson's fa..."](/statements/statement-3e7c33018741.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:50:21](/episodes/ep-EtLHqDbxqks.md#t-00-50-12) [○] (Opinion) ["Benny Johnson said the prosecution had a demonstrable, overwhelming case, the de..."](/statements/statement-5916c9b68a24.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [00:51:04](/episodes/ep-EtLHqDbxqks.md#t-00-50-36) [○] (Claim) ["Benny Johnson said Erika Kirk asked him and others to advocate for a speedy tria..."](/statements/statement-801c26822a0f.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Benny Johnson (3)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2)</summary>
+
+- [00:01:26](/episodes/ep-EtLHqDbxqks.md#t-00-01-26) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Benny Johnson publicly stated that Erika Kirk asked..."](/statements/statement-146135994383.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:51:49](/episodes/ep-EtLHqDbxqks.md#t-00-51-49) (Accusation) **Candace Owens**: ["Candace Owens accused Benny Johnson and other influencers of dishonest..."](/statements/statement-cb49552d317e.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1)</summary>

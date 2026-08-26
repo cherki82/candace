@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (16 mentions)
+### Evidence (18 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -28,6 +28,10 @@ object: "person-candace-owens"
 **[PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk)**
 
 - [00:41:58](/episodes/ep-BKcOm32ZEGk#t-00-41-58): _It's just been going on for two years... Like I just am not allowed to be fired from that company._
+
+**[A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0)**
+
+- [00:11:19](/episodes/ep-G3zdOeHpvS0#t-00-11-19): _the external Zionist peer pressure since me leaving the Daily Wire._
 
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 
@@ -64,6 +68,10 @@ object: "person-candace-owens"
 **[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
 
 - [00:32:22](/episodes/ep-k1b1NDCrNFs#t-00-32-22): _I was first made aware of the arrest and charges laid against him in an incident after wrecking his truck at three times the legal limit while carrying a loaded firearm, shortly after it happened, back when Candace still worked for me at The Daily Wire._
+
+**[Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo)**
+
+- [00:44:02](/episodes/ep-sKuYLNx3iRo#t-00-44-02): _They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs_
 
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 

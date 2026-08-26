@@ -1,6 +1,6 @@
 ---
 title: "Alex Jones"
-description: "Alex Jones (People) - 36 mentions"
+description: "Alex Jones (People) - 37 mentions"
 id: "person-alex-jones"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35">2025-09-22 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-alex-jones-t-00-39-17">2026-04-21 · 00:39:29</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37">2026-06-16 · 00:11:37</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -45,6 +45,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51" style="--pulse-height:58%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-alex-jones-t-00-39-17" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51) | 7 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-alex-jones-t-00-39-17) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37) | 1 |
 
 </details>
 </section>
@@ -71,7 +73,15 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:11:37](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37)**
+> "as Alex Jones said, that's like chicken bones. That's that that's it. You can't just do that. You can't just be out here telling us that no, this was a miracle and he ate salad and he always got extra carrots and like that's the reason why his neck he wasn't decapitated like everyone else would have been."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>

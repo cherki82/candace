@@ -1,6 +1,6 @@
 ---
 title: "Terryl Farnsworth"
-description: "Terryl Farnsworth (People) - 31 mentions"
+description: "Terryl Farnsworth (People) - 39 mentions"
 id: "person-terryl-farnsworth"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56">2026-01-06 · 00:14:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-50-11">2026-04-21 · 00:50:11</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#t-00-00-01">2026-06-17 · 00:00:27</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,8 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-00-42" style="--pulse-height:93%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 14 mentions" title="2026-04-21 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21" style="--pulse-height:47%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 7 mentions" title="2026-06-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#t-00-00-01" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +50,8 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-00-42) | 14 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21) | 7 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) | 1 |
 
 </details>
 </section>
@@ -55,7 +59,41 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:00:27](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01)**
+> "Taryl Farnsworth racing to take down the camera"
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (7 mentions)</summary>
+
+**[00:21:21](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21)**
+> "The footage behind Charlie (Charlie Kirk)'s head was never meant to see the light of day. In fact, it is now very compelling to me that Terryl (Terryl Farnsworth) says he spoke to Erika (Erika Kirk) about that footage. That's very strange for her to have cared to speak to Terryl (Terryl Farnsworth) about that footage at all in those early days."
+
+**[00:21:33](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21)**
+> "..., if you didn't note, Terryl (Terryl Farnsworth) is standing in the back."
+
+**[00:21:44](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21)**
+> "...urning Point USA. And Terryl (Terryl Farnsworth) is there. And why do they need to have an early ..."
+
+**[00:24:10](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-24-10)**
+> "...go some way of explaining why Terryl Farnsworth was instructed specifically to take the SD card."
+
+**[00:30:55](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-30-41)**
+> "...Why haven't you fired Terryl (Terryl Farnsworth) just for recording himself? How about that? That..."
+
+**[00:34:29](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-34-19)**
+> "Terryl (Terryl Farnsworth) taking down the cameras after recording himself ..."
+
+**[00:40:02](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-39-37)**
+> "I know Terryl (Terryl Farnsworth) told me that on the phone when I asked him about..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (14 mentions)</summary>
@@ -176,6 +214,18 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Ceo Of (1)</summary>
+
+- **[Visual Impulse, LLC](/entities/org-visual-impulse.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:01](/episodes/ep-G3zdOeHpvS0.md#t-00-26-30): “Taryl Farnsworth, the CEO of Visual Impulse”
+
+</details>
+
+</details>
+
+<details>
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -212,16 +262,54 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <summary>Close Associate Of (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32): “I should tell you guys that Terryl Farnsworth and Tyler Bowyer go back. They go way back. I'm talking generationally back, okay? Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona. And then Tyler Bowyer and Terryl Farnsworth went to high school together.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:14:14](/episodes/ep-G3zdOeHpvS0.md#t-00-14-14): “he grew up with Tyler Bowyer ... Him and Tyler (Tyler Bowyer)'s families grew up together. Him and Tyler (Tyler Bowyer)'s families went to high school together. They go back generations”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:30:55](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Why hasn't she fired anybody? Why haven't you fired Terryl (Terryl Farnsworth) just for recording himself? How about that? That's a good reason to be like, I'm just like, you know, you're fired for being a scumbag.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:23](/episodes/ep-G3zdOeHpvS0.md#t-00-27-14): “Taryl (Taryl Farnsworth) single-handedly who was the person who made me realize that something was very wrong ... His absurd claim, patently absurd claim that he did not know how to send a video file”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:01](/episodes/ep-G3zdOeHpvS0.md#t-00-26-30): “Taryl Farnsworth, the CEO of Visual Impulse, longtime audio and visual guy for Charlie (Charlie Kirk) and Turning Point USA”
+
+</details>
+
+</details>
+
+<details>
+<summary>Works For (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:01](/episodes/ep-G3zdOeHpvS0.md#t-00-26-30): “Taryl Farnsworth, the CEO of Visual Impulse, longtime audio and visual guy for Charlie (Charlie Kirk) and Turning Point USA”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (7)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -240,9 +328,32 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** close associate of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32): “I should tell you guys that Terryl Farnsworth and Tyler Bowyer go back. They go way back. I'm talking generationally back, okay? Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona. And then Tyler Bowyer and Terryl Farnsworth went to high school together.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:14:14](/episodes/ep-G3zdOeHpvS0.md#t-00-14-14): “he grew up with Tyler Bowyer ... Him and Tyler (Tyler Bowyer)'s families grew up together. Him and Tyler (Tyler Bowyer)'s families went to high school together. They go back generations”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:30:55](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Why hasn't she fired anybody? Why haven't you fired Terryl (Terryl Farnsworth) just for recording himself? How about that? That's a good reason to be like, I'm just like, you know, you're fired for being a scumbag.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:23](/episodes/ep-G3zdOeHpvS0.md#t-00-27-14): “Taryl (Taryl Farnsworth) single-handedly who was the person who made me realize that something was very wrong ... His absurd claim, patently absurd claim that he did not know how to send a video file”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:01](/episodes/ep-G3zdOeHpvS0.md#t-00-26-30): “Taryl Farnsworth, the CEO of Visual Impulse, longtime audio and visual guy for Charlie (Charlie Kirk) and Turning Point USA”
+
+</details>
+
+- **[Visual Impulse, LLC](/entities/org-visual-impulse.md)** has CEO this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:27:01](/episodes/ep-G3zdOeHpvS0.md#t-00-26-30): “Taryl Farnsworth, the CEO of Visual Impulse”
 
 </details>
 
@@ -258,7 +369,45 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terryl Farnsworth (16)</strong></summary>
+<summary><strong class="section-title">Statements by Terryl Farnsworth (1)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+
+- [00:27:52](/episodes/ep-G3zdOeHpvS0.md#t-00-27-52) [○] (Claim) ["Taryl Farnsworth told Owens that Charlie Kirk's event was livestreamed to the op..."](/statements/statement-df7199143c56.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Phoenix](/entities/gpe-phoenix.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Terryl Farnsworth (21)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (3)</summary>
+
+- [00:00:27](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) (Accusation) **Candace Owens**: ["Owens said Taryl Farnsworth removed the camera behind Charlie Kirk's h..."](/statements/statement-0698f23199f5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:25](/episodes/ep-G3zdOeHpvS0.md#t-00-08-01) (Accusation) **Candace Owens**: ["Owens accused Taryl Farnsworth of violating the crime scene by immedia..."](/statements/statement-35b5d2a5a964.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:38](/episodes/ep-G3zdOeHpvS0.md#t-00-11-38) (Claim) **Candace Owens**: ["Owens said the regular use of a redundant RODE wireless microphone beg..."](/statements/statement-0f0e708642ba.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
+
+- [00:24:10](/episodes/ep-h76ZN-xXC6c.md#t-00-23-36) (Claim) **Candace Owens**: ["Owens said Terryl Farnsworth was specifically instructed to take the S..."](/statements/statement-3340db3d690c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:02](/episodes/ep-h76ZN-xXC6c.md#t-00-39-37) (Claim) **Candace Owens**: ["Owens said no Turning Point USA staffer she asked had confirmed watchi..."](/statements/statement-2578b6478352.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (9)</summary>

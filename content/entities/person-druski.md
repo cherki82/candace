@@ -1,6 +1,6 @@
 ---
 title: "Druski"
-description: "Druski (People) - 7 mentions"
+description: "Druski (People) - 10 mentions"
 id: "person-druski"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Druski tapped to host BET Awards](https://apnews.com/article/28ebb85305
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-druski-t-00-20-28">2026-04-16 · 00:20:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-druski-t-00-55-09">2026-04-20 · 00:55:09</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-druski-t-00-59-42">2026-06-22 · 00:59:42</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,8 @@ Source: [Druski tapped to host BET Awards](https://apnews.com/article/28ebb85305
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-druski-t-00-20-28" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-druski-t-00-27-20" style="--pulse-height:67%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-druski-t-00-09-16" style="--pulse-height:67%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-druski-t-00-59-42" style="--pulse-height:33%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +48,8 @@ Source: [Druski tapped to host BET Awards](https://apnews.com/article/28ebb85305
 |---|---|---:|
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-druski-t-00-20-28) | 3 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-druski-t-00-27-20) | 2 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-druski-t-00-09-16) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-druski-t-00-59-42) | 1 |
 
 </details>
 </section>
@@ -53,7 +57,26 @@ Source: [Druski tapped to host BET Awards](https://apnews.com/article/28ebb85305
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:59:42](/episodes/ep-VMNWMXX1vO8.md#ent-person-druski-t-00-59-42)**
+> "...ke Janet Jackson, calling out Druski for a joke while forgiving Tyler Robinson..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (2 mentions)</summary>
+
+**[00:09:16](/episodes/ep-G3zdOeHpvS0.md#ent-person-druski-t-00-09-16)**
+> "... than she was able to forgive Druski when she came out weeks later looking like an ass..."
+
+**[00:09:30](/episodes/ep-G3zdOeHpvS0.md#ent-person-druski-t-00-09-16)**
+> "...ying that she was so angry at Druski much more angry than she was at tyler robinson so..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (2 mentions)</summary>

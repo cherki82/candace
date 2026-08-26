@@ -1,6 +1,6 @@
 ---
 title: "Khazar Khaganate"
-description: "Khazar Khaganate (Places) - 6 mentions"
+description: "Khazar Khaganate (Places) - 9 mentions"
 id: "gpe-khazar-khaganate"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [Encyclopedia of Empire: Khazar Khaganate](https://onlinelibrary.wiley.c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-khazar-khaganate-t-00-07-05">2026-02-02 · 00:07:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-khazar-khaganate-t-00-28-50">2026-03-02 · 00:28:50</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-khazar-khaganate-t-00-41-28">2026-06-11 · 00:41:28</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Encyclopedia of Empire: Khazar Khaganate](https://onlinelibrary.wiley.c
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-khazar-khaganate-t-00-07-05" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-khazar-khaganate-t-00-00-00" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 5 mentions" title="2026-03-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-khazar-khaganate-t-00-40-03" style="--pulse-height:60%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Encyclopedia of Empire: Khazar Khaganate](https://onlinelibrary.wiley.c
 |---|---|---:|
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-khazar-khaganate-t-00-07-05) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-khazar-khaganate-t-00-00-00) | 5 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-khazar-khaganate-t-00-40-03) | 3 |
 
 </details>
 </section>
@@ -54,7 +56,21 @@ Source: [Encyclopedia of Empire: Khazar Khaganate](https://onlinelibrary.wiley.c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (3 mentions)</summary>
+
+**[00:40:29](/episodes/ep-19vHhjF7-NA.md#ent-gpe-khazar-khaganate-t-00-40-03)**
+> "...ctually they were the missing Khazarian Empire because that's who they are. That's why they have..."
+
+**[00:40:44](/episodes/ep-19vHhjF7-NA.md#ent-gpe-khazar-khaganate-t-00-40-44)**
+> "...o countries that took out the Khazarian Empire."
+
+**[00:41:28](/episodes/ep-19vHhjF7-NA.md#ent-gpe-khazar-khaganate-t-00-41-28)**
+> "...se are the facts. This is the Khazarian Empire. they are reassembled that's what israel is they ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (5 mentions)</summary>
@@ -94,7 +110,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Khazar Khaganate (2)</strong></summary>
+<summary><strong class="section-title">Statements about Khazar Khaganate (4)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
+
+- [00:40:29](/episodes/ep-19vHhjF7-NA.md#t-00-40-03) (Claim) **Candace Owens**: ["Owens claimed that Russia and Persia brought an end to the Khazar Khag..."](/statements/statement-3cd995f2be54.md)
+  - Also about: [Russia](/entities/gpe-russia.md), [Iran](/entities/gpe-iran.md)
+
+- [00:41:28](/episodes/ep-19vHhjF7-NA.md#t-00-41-28) (Claim) **Candace Owens**: ["Owens claimed that modern Israel is a reassembled Khazar Khaganate and..."](/statements/statement-dde3b4784917.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Jewish people](/entities/concept-jewish-people.md), [Bible](/entities/work-bible.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (1)</summary>

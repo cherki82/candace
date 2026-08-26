@@ -11,7 +11,15 @@ object: "person-tucker-carlson"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (1 mentions)
+### Evidence (3 mentions)
+
+**[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
+
+- [01:02:07](/episodes/ep-WoXd4oLwd3w#t-01-02-07): _I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson)._
+
+**[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
+
+- [00:41:07](/episodes/ep-h76ZN-xXC6c#t-00-41-07): _My friend Tucker Carlson started digging into the industry and what he found shocked both of us._
 
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 

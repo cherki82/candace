@@ -1,6 +1,6 @@
 ---
 title: "Eileen Marx"
-description: "Eileen Marx (People) - 31 mentions"
+description: "Eileen Marx (People) - 32 mentions"
 id: "person-eileen-marx"
 type: "PERSON"
 categories:
@@ -19,12 +19,12 @@ Source: [Daily Inspirational Brief | All Things Possible](https://victormarx.com
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-eileen-marx-t-00-07-35">2026-04-14 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-eileen-marx-t-00-12-27">2026-05-20 · 00:12:38</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#t-00-25-46">2026-06-17 · 00:26:24</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,6 +37,7 @@ Source: [Daily Inspirational Brief | All Things Possible](https://victormarx.com
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-eileen-marx-t-00-10-44" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 15 mentions" title="2026-04-22 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-eileen-marx-t-00-01-50" style="--pulse-height:53%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 8 mentions" title="2026-05-19 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-eileen-marx-t-00-07-31" style="--pulse-height:13%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#t-00-25-46" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Daily Inspirational Brief | All Things Possible](https://victormarx.com
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-eileen-marx-t-00-10-44) | 15 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-eileen-marx-t-00-01-50) | 8 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-eileen-marx-t-00-07-31) | 2 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [Daily Inspirational Brief | All Things Possible](https://victormarx.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:26:24](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46)**
+> "his wife Eileen is like a mentor to her"
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2 mentions)</summary>
@@ -207,6 +217,18 @@ Source: [Daily Inspirational Brief | All Things Possible](https://victormarx.com
 </details>
 
 <details>
+<summary>Mentored (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:26:24](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46): “people like Victor Marks, who tells us his wife Eileen is like a mentor to her. Everyone who's a mentor to Erika (Erika Kirk) gives me the heebie-jeebies.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Met With (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -238,7 +260,7 @@ Source: [Daily Inspirational Brief | All Things Possible](https://victormarx.com
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[All Things Possible Ministries](/entities/org-all-things-possible-ministries.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -258,12 +280,20 @@ Source: [Daily Inspirational Brief | All Things Possible](https://victormarx.com
 </details>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:43](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “That happened in 1986. Two years later in 1988, he married his wife, Eileen (Eileen Marx), who you just saw Erika (Erika Kirk) hugging.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:30:52](/episodes/ep-1mYNOqzAdXs.md#t-00-30-52): “He is claiming that he is willing to sit down with me, but he's got some conditions. One of the conditions is that he wants to be able to bring his wife, Eileen (Eileen Marx), but he does not want Corby Hall to be present.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:05:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-04-30): “All right, 10 out of 10, Calvary Chapel Church, definitely the pastors. At 23, Victor (Victor Marx) married his wife Eileen (Eileen Marx), Eileen (Eileen Marx) Breeding Marx, and they went on to have five kids and grandkids.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:07:45](/episodes/ep-cPidFQDJLbo.md#t-00-07-31): “Common sense, Victor (Victor Marx). You just said you're friends with Frank Turek, friends with the security guys. You told us elsewhere in the interview that Eileen (Eileen Marx) and Erika (Erika Kirk), they got so close because. ... Well, your wife, your bride mentors Erika (Erika Kirk), right? You were so close to Charlie (Charlie Kirk)'s security apparatus, in fact, that you were able to swiftly coordinate taking over for them a mere 48 hours later in Phoenix, remember?”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:26:24](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46): “Victor Marks, who tells us his wife Eileen”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** mentored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:26:24](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46): “people like Victor Marks, who tells us his wife Eileen is like a mentor to her. Everyone who's a mentor to Erika (Erika Kirk) gives me the heebie-jeebies.”
 
 </details>
 

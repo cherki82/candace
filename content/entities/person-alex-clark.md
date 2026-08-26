@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 58 mentions"
+description: "Alex Clark (People) - 63 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12">2025-09-22 · 00:57:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-55-19">2026-06-09 · 00:55:42</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24">2026-06-17 · 00:56:46</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>63</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -53,6 +53,10 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-alex-clark-t-00-43-12" style="--pulse-height:10%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-alex-clark-t-00-30-33" style="--pulse-height:10%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 10 mentions" title="2026-06-09 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-alex-clark-t-00-13-15" style="--pulse-height:20%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-alex-clark-t-00-30-16" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34" style="--pulse-height:10%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +84,10 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-alex-clark-t-00-43-12) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-alex-clark-t-00-30-33) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16) | 10 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-alex-clark-t-00-13-15) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-alex-clark-t-00-30-16) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24) | 1 |
 
 </details>
 </section>
@@ -87,7 +95,42 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (63)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:56:46](/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24)**
+> "...lling on is every i mean even alex clark she was on reality tv someone was telling me i di..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:33:59](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34)**
+> "All of them. I mean, Alex had Alex Clark had a hat on like she was going to watch polo."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:30:16](/episodes/ep-WoXd4oLwd3w.md#ent-person-alex-clark-t-00-30-16)**
+> "Like literally the next week, she okays Alex Clark coming out and saying I'm a liar. Erika (Erika Kirk)'s a psychopath i this this is like i just it just dawned on me she was playing this game while Charlie (Charlie Kirk) was alive and if i didn't do this timeline if i didn't remember that i was in maine having this casual conversation when everybody was friends and Charlie (Charlie Kirk) was alive and Charlie (Charlie Kirk) was under a lot of pressure i i would have"
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2 mentions)</summary>
+
+**[00:13:39](/episodes/ep-tXoI0TTKVrs.md#ent-person-alex-clark-t-00-13-15)**
+> "...k) during that interview with Alex Clark to make sure that he had permission because they ..."
+
+**[00:54:05](/episodes/ep-tXoI0TTKVrs.md#ent-person-alex-clark-t-00-54-05)**
+> "... Dana Loesch Laura Loomer and alex clark would you rather like a middle-aged woman or a yo..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (10 mentions)</summary>
@@ -391,6 +434,18 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:13:39](/episodes/ep-tXoI0TTKVrs.md#t-00-13-15): “Andrew Kolvet was live texting with Erika (Erika Kirk) during that interview with Alex Clark to make sure that he had permission because they wanted to protect their evangelical Zionist base of donors.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -485,12 +540,19 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Joe Kent](/entities/person-joe-kent.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:05:18](/episodes/ep-B9TyCs-6o_0.md#t-00-04-59): “Alex Clark ... She said Joe Kent is clearly no friend to Charlie as he has. ... actively participated and or egged on behind the scenes in the degradation of his wife”
+
+</details>
+
+- **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:13:39](/episodes/ep-tXoI0TTKVrs.md#t-00-13-15): “Andrew Kolvet was live texting with Erika (Erika Kirk) during that interview with Alex Clark to make sure that he had permission because they wanted to protect their evangelical Zionist base of donors.”
 
 </details>
 
@@ -578,7 +640,23 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Alex Clark (6)</strong></summary>
+<summary><strong class="section-title">Statements about Alex Clark (8)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
+
+- [00:30:06](/episodes/ep-WoXd4oLwd3w.md#t-00-29-50) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of approving Andrew Kolvet's denial o..."](/statements/statement-daece6035533.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:13:39](/episodes/ep-tXoI0TTKVrs.md#t-00-13-15) (Accusation) **Candace Owens**: ["Andrew Kolvet was live-texting Erika Kirk during his interview with Al..."](/statements/statement-08df3e4defd5.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3)</summary>

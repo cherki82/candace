@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-description: "Ukraine (Places) - 58 mentions"
+description: "Ukraine (Places) - 74 mentions"
 id: "gpe-ukraine"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-ukraine-t-00-14-10">2026-05-28 · 00:14:21</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-ukraine-t-00-55-41">2026-07-14 · 00:55:51</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -62,6 +62,10 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-ukraine-t-00-47-18" style="--pulse-height:10%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-ukraine-t-00-36-29" style="--pulse-height:10%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-ukraine-t-00-14-10" style="--pulse-height:10%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-ukraine-t-00-18-27" style="--pulse-height:60%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 6 mentions" title="2026-06-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-19-10" style="--pulse-height:80%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 8 mentions" title="2026-06-18 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-ukraine-t-00-40-37" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-ukraine-t-00-55-41" style="--pulse-height:10%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,6 +98,10 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-ukraine-t-00-47-18) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-ukraine-t-00-36-29) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-ukraine-t-00-14-10) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-ukraine-t-00-18-27) | 6 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-19-10) | 8 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-ukraine-t-00-40-37) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-ukraine-t-00-55-41) | 1 |
 
 </details>
 </section>
@@ -101,7 +109,75 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:55:51](/episodes/ep-EtLHqDbxqks.md#ent-gpe-ukraine-t-00-55-41)**
+> "That's true. And here's why: when the Biden administration froze hundreds of billions of dollars that belonged to Russia in response to the Russian invasion of Ukraine,"
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:40:51](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-ukraine-t-00-40-37)**
+> "Ukraine was a member of NATO"
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (8 mentions)</summary>
+
+**[00:19:10](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-19-10)**
+> "Ukraine"
+
+**[00:26:32](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-26-32)**
+> "...an. I believe she was born in Ukraine, by the way. Family claims that they escaped the ..."
+
+**[00:26:45](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-26-32)**
+> "...ly hear that when she goes to Ukraine, there are SUVs waiting to escort her family."
+
+**[00:26:53](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-26-32)**
+> "Ukraine is a laundromat. Okay. Nothing good comes out of ..."
+
+**[00:27:16](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-27-16)**
+> "...orphans. I like that. Helping Ukraine relief. Our hearts are heavy for the people of Uk..."
+
+**[00:27:42](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-27-16)**
+> "...4. He writes, my wife is from Ukraine."
+
+**[00:27:53](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-27-16)**
+> "...e involved in helping kids in Ukraine."
+
+**[00:28:03](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-ukraine-t-00-28-01)**
+> "... well, not like people out of Ukraine, but that comes out of Ukraine when it deals with..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (6 mentions)</summary>
+
+**[00:18:27](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-ukraine-t-00-18-27)**
+> "...s, and of course They were in Ukraine, and of course they were in Romania helping to pr..."
+
+**[00:20:44](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-ukraine-t-00-20-35)**
+> "...to orphans and the elderly in Ukraine, visited classrooms to provide education to the y..."
+
+**[00:22:51](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-ukraine-t-00-22-17)**
+> "...rre connection to Romania and Ukraine."
+
+**[00:24:08](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-ukraine-t-00-24-08)**
+> "...sts a photo of himself with a ukrainian orphan named natalia she doesn't speak any englis..."
+
+**[00:25:14](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-ukraine-t-00-25-14)**
+> "...o years and spent time in the Ukraine during that time."
+
+**[00:25:36](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-ukraine-t-00-25-14)**
+> "... Romania, Albania, and in the Ukraine."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -418,6 +494,18 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attacked By (1)</summary>
+
+- **[Russia](/entities/gpe-russia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:55:51](/episodes/ep-EtLHqDbxqks.md#t-00-55-41): “That's true. And here's why: when the Biden administration froze hundreds of billions of dollars that belonged to Russia in response to the Russian invasion of Ukraine,”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supported By (1)</summary>
 
 - **[United States](/entities/gpe-united-states.md)**
@@ -430,7 +518,14 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Russia](/entities/gpe-russia.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:55:51](/episodes/ep-EtLHqDbxqks.md#t-00-55-41): “That's true. And here's why: when the Biden administration froze hundreds of billions of dollars that belonged to Russia in response to the Russian invasion of Ukraine,”
+
+</details>
 
 - **[United States](/entities/gpe-united-states.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -444,7 +539,31 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ukraine (6)</strong></summary>
+<summary><strong class="section-title">Statements about Ukraine (9)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
+
+- [00:40:51](/episodes/ep-sKuYLNx3iRo.md#t-00-40-37) (Citation) **Candace Owens**: ["Owens said Dave Rubin's book falsely stated that Ukraine was a member ..."](/statements/statement-65a5a398fd6f.md)
+  - Also about: [Dave Rubin](/entities/person-dave-rubin.md), [Don't Burn This Book](/entities/work-dont-burn-this-book.md), [North Atlantic Treaty Organization](/entities/org-north-atlantic-treaty-organization.md)
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:19:10](/episodes/ep-3QJqtW_NOSI.md#t-00-19-10) (Citation) **Candace Owens**: ["Owens said Kathryn Bolkovac's book reported that trafficked underage w..."](/statements/statement-d76fc4d29782.md)
+  - Also about: [Kathryn Bolkovac](/entities/person-kathryn-bolkovac.md), [Croatia](/entities/gpe-croatia.md), [Bosnia and Herzegovina](/entities/gpe-bosnia-and-herzegovina.md)
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+
+- [00:20:44](/episodes/ep-G3zdOeHpvS0.md#t-00-20-35) (Citation) **Candace Owens**: ["Owens cited Soter Global Ministries' account that in 2008 it taught or..."](/statements/statement-634196dd3fa7.md)
+  - Also about: [Soter Global Ministries](/entities/org-soter-global-ministries.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

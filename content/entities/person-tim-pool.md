@@ -1,6 +1,6 @@
 ---
 title: "Tim Pool"
-description: "Tim Pool (People) - 42 mentions"
+description: "Tim Pool (People) - 43 mentions"
 id: "person-tim-pool"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [Timcast](https://timcast.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11">2025-11-18 · 00:52:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#t-00-56-59">2026-05-21 · 00:56:59</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30">2026-07-14 · 01:06:44</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,6 +47,7 @@ Source: [Timcast](https://timcast.com/)
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-18" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-tim-pool-t-00-27-22" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-00-56-59" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [Timcast](https://timcast.com/)
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-18) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-tim-pool-t-00-27-22) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-56-59) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) | 1 |
 
 </details>
 </section>
@@ -70,7 +72,15 @@ Source: [Timcast](https://timcast.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:06:44](/episodes/ep-EtLHqDbxqks.md#t-01-06-30)**
+> "Tim Poole is lying through his teeth. He did not receive updates from somebody in that car about Charlie (Charlie Kirk)'s status."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
@@ -316,6 +326,18 @@ Source: [Timcast](https://timcast.com/)
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:06:44](/episodes/ep-EtLHqDbxqks.md#t-01-06-30): “Tim Poole is lying through his teeth. He did not receive updates from somebody in that car about Charlie (Charlie Kirk)'s status.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed (1)</summary>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)**
@@ -328,7 +350,7 @@ Source: [Timcast](https://timcast.com/)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -348,6 +370,13 @@ Source: [Timcast](https://timcast.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 @ 00:45:46](/episodes/ep-t4U7NjnUEgc.md#t-00-45-33): “he accused me in a full episode with Milo Yiannopoulos”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:06:44](/episodes/ep-EtLHqDbxqks.md#t-01-06-30): “Tim Poole is lying through his teeth. He did not receive updates from somebody in that car about Charlie (Charlie Kirk)'s status.”
 
 </details>
 
@@ -398,7 +427,15 @@ Source: [Timcast](https://timcast.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tim Pool (5)</strong></summary>
+<summary><strong class="section-title">Statements about Tim Pool (6)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [01:06:44](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) (Accusation) **Candace Owens**: ["Candace Owens accused Tim Pool of falsely claiming he received updates..."](/statements/statement-e3ed8036c66f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1)</summary>

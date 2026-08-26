@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 333 mentions"
+description: "Jeffrey Epstein (People) - 422 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-01-24-50">2026-05-28 · 01:24:50</a></strong></div>
-<div><span>Episodes</span><strong>77</strong></div>
-<div><span>Mentions</span><strong>333</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-59-01">2026-06-26 · 00:59:20</a></strong></div>
+<div><span>Episodes</span><strong>86</strong></div>
+<div><span>Mentions</span><strong>422</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>77</strong></div>
-<div><span>Relationships</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>107</strong></div>
+<div><span>Relationships</span><strong>38</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -112,6 +112,15 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44" style="--pulse-height:19%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 5 mentions" title="2026-05-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-jeffrey-epstein-t-00-30-35" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 3 mentions" title="2026-05-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-21-45" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 13 mentions" title="2026-05-28 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-jeffrey-epstein-t-00-08-47" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-14-41" style="--pulse-height:62%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 16 mentions" title="2026-06-13 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-jeffrey-epstein-t-00-52-19" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-21-41" style="--pulse-height:50%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 13 mentions" title="2026-06-17 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-00-01" style="--pulse-height:85%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 22 mentions" title="2026-06-18 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-01-34" style="--pulse-height:42%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 11 mentions" title="2026-06-23 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jeffrey-epstein-t-00-59-35" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-16-54" style="--pulse-height:81%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 21 mentions" title="2026-06-26 · 21 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-jeffrey-epstein-t-00-51-43" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -194,6 +203,15 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-jeffrey-epstein-t-00-38-44) | 5 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-jeffrey-epstein-t-00-30-35) | 3 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-jeffrey-epstein-t-00-21-45) | 13 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-jeffrey-epstein-t-00-08-47) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-14-41) | 16 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-jeffrey-epstein-t-00-52-19) | 2 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-21-41) | 13 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-00-01) | 22 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-01-34) | 11 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeffrey-epstein-t-00-59-35) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-16-54) | 21 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-jeffrey-epstein-t-00-51-43) | 2 |
 
 </details>
 </section>
@@ -201,7 +219,319 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (333)</strong></summary>
+<summary><strong class="section-title">Raw mentions (422)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (21 mentions)</summary>
+
+**[00:16:54](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-16-54)**
+> "...f course, how could we forget Jeffrey Epstein, right? Him having trafficked girls from Romania,..."
+
+**[00:17:07](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-16-54)**
+> "Let's discuss something about Jeffrey Epstein because I've been knocking at this for a while. I..."
+
+**[00:17:22](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-16-54)**
+> "...ing him to stop talking about Jeffrey Epstein. There appears to be a solid connection from the ..."
+
+**[00:17:45](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-17-36)**
+> "... that we were working on, the Epstein series."
+
+**[00:17:53](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-17-36)**
+> "...re sinister characters in the Jeffrey Epstein trafficking and rape scandals."
+
+**[00:18:02](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-17-36)**
+> "...n Paris, obviously. Down went Epstein, down went his network, and down went Jean-Luc Br..."
+
+**[00:18:37](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-18-12)**
+> "...s revealed that she said that Epstein had bragged that he had slept with over 1,000 of ..."
+
+**[00:18:51](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-18-51)**
+> "...o became public was that, for Jeffrey Epstein, on his birthday, Jean-Luc Brunel flew out 12-yea..."
+
+**[00:19:15](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-18-51)**
+> "... villain. And why were he and Jeffrey Epstein so close? Well, because in 2005, Jeffrey Epstein ..."
+
+**[00:19:45](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-19-29)**
+> "...nel, what he was doing before Epstein gave him that money."
+
+**[00:20:38](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-20-38)**
+> "...apartments that were owned by Jeffrey Epstein and Jeffrey Epstein's brother while they were awa..."
+
+**[00:22:59](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-22-32)**
+> "...e, the deep state, to protect Epstein's global trafficking network?"
+
+**[00:23:17](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-23-17)**
+> "The Rothschilds being Jeffrey Epstein's employers, Jeffrey Epstein, his French Ghislaine ..."
+
+**[00:39:01](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-38-38)**
+> "...onstantly floating around the Epstein network and the places that he hung out and these..."
+
+**[00:39:23](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-39-23)**
+> "...you, established according to Jeffrey Epstein's emails by Lynn Forester de Rothschild."
+
+**[00:40:06](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-40-06)**
+> "...life mirrors in so many ways. Jeffrey Epstein, who if you've watched our Epstein series, was ac..."
+
+**[00:40:46](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-40-46)**
+> "...) did not want to look in. to Jeffrey Epstein. Why so much panic? Why they were suddenly in the..."
+
+**[00:41:27](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-41-27)**
+> "You can look through Jeffrey Epstein's emails. He was picking girls to win in the pagean..."
+
+**[00:52:05](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-51-56)**
+> "...th Erika (Erika Kirk) and the Epstein thing."
+
+**[00:55:47](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-55-23)**
+> "...order to protect someone like Jeffrey Epstein, that is not a country worth saving."
+
+**[00:59:20](/episodes/ep-IqHsl7d2dos.md#ent-person-jeffrey-epstein-t-00-59-01)**
+> "...l him to protect someone like Jeffrey Epstein."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2 mentions)</summary>
+
+**[00:52:21](/episodes/ep-a2bZf4fic10.md#ent-person-jeffrey-epstein-t-00-51-43)**
+> "...head of me on the list. Maybe Jeffrey Epstein even."
+
+**[00:52:38](/episodes/ep-a2bZf4fic10.md#ent-person-jeffrey-epstein-t-00-52-24)**
+> "You could say Jeffrey Epstein, but obviously Candace Owens."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:59:35](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeffrey-epstein-t-00-59-35)**
+> "the Epstein thread"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (11 mentions)</summary>
+
+**[00:01:34](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-01-34)**
+> "the one working in New York City in Jeffrey Epstein's modeling orbit."
+
+**[00:08:24](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-08-24)**
+> "...ot even when they fake killed jeffrey epstein did they come up with a story that's ridiculous t..."
+
+**[00:32:56](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-32-19)**
+> "...tes was unbelievably close to Jeffrey Epstein."
+
+**[00:33:03](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-33-03)**
+> "... Kates' emails all throughout Jeffrey Epstein's emails, which have been released. Jeffrey Epstein..."
+
+**[00:33:44](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-33-44)**
+> "...at was owned by Mark Epstein, Jeffrey Epstein's brother."
+
+**[00:34:37](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-34-24)**
+> "...meone saying that you were in Jeffrey Epstein's orbit is pretty critical."
+
+**[00:34:50](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-34-24)**
+> "even slightly adjacent to Jeffrey Epstein, especially given Erika (Erika Kirk)'s background..."
+
+**[00:35:28](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-35-28)**
+> "...or may not have been owned by Jeffrey Epstein. Certainly they were being shuffled through a mod..."
+
+**[00:38:46](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-38-39)**
+> "..., the strange web surrounding Epstein. Now we know Trump."
+
+**[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-47-18)**
+> "...n and the gaslighting and the epstein files and the Charlie Kirk assassination and then..."
+
+**[00:47:30](/episodes/ep-9CuC1yf8-PU.md#ent-person-jeffrey-epstein-t-00-47-18)**
+> "the gaslighting and the Epstein files and the Charlie Kirk assassination and then..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (22 mentions)</summary>
+
+**[00:00:01](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-00-01)**
+> "Jeffrey Epstein"
+
+**[00:00:26](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-00-01)**
+> "The Epstein (Jeffrey Epstein) files became the source of a lot of attention, s..."
+
+**[00:00:53](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-00-36)**
+> "...r nation's top brass consider Jeffrey Epstein to be a national security concern?"
+
+**[00:01:46](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-01-18)**
+> "...ould be dropping the Epstein (Jeffrey Epstein) files."
+
+**[00:02:01](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-02-01)**
+> "...e to be a lot of proximity to Jeffrey Epstein in the Charlie Kirk story."
+
+**[00:02:29](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-02-01)**
+> "Are we living in Epstein (Jeffrey Epstein) nation? Are you guys starting to feel like we're..."
+
+**[00:02:42](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-02-42)**
+> "... Kirk)'s life, it was just as Jeffrey Epstein went down."
+
+**[00:03:05](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-03-05)**
+> "... time frame when the Epstein (Jeffrey Epstein) scandal initially broke out, right? It was the u..."
+
+**[00:03:34](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-03-34)**
+> "...feel that the entire Epstein (Jeffrey Epstein) network then pivoted and simply re-emerged elsew..."
+
+**[00:04:09](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-03-34)**
+> "... were working on our Epstein (Jeffrey Epstein) series leading up to Charlie (Charlie Kirk)'s as..."
+
+**[00:04:15](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-04-15)**
+> "Jeffrey Epstein's trafficking network was once deeply embedded in t..."
+
+**[00:05:02](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-04-45)**
+> "... agency that was run by close Jeffrey Epstein friend Faith Kates."
+
+**[00:05:26](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-05-26)**
+> "...d it to be suspicious because Jeffrey Epstein was often at their offices."
+
+**[00:05:53](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-05-26)**
+> "...have any association with the Jeffrey Epstein orbit? Because it's not clear what she was doing ..."
+
+**[00:06:08](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-06-08)**
+> "...ion, never turned her back on Jeffrey Epstein. She supported him even after that 2009 arrest."
+
+**[00:07:14](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-06-52)**
+> "...un tangential to the Epstein (Jeffrey Epstein) network and Eastern Europe, everyone having to d..."
+
+**[00:07:25](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-06-52)**
+> "...Mar-a-Lago, but I once kicked Jeffrey Epstein out when we hung out at parties, but I kicked him..."
+
+**[00:07:42](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-07-36)**
+> "of Jeffrey Epstein's parties or anything inappropriate that he was doi..."
+
+**[00:07:51](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-07-36)**
+> "... people to roast the Epstein (Jeffrey Epstein) network, demanding clarity."
+
+**[00:22:56](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-22-56)**
+> "...ho really wanted the Epstein (Jeffrey Epstein) Files to get out and sacrifice his podcast and w..."
+
+**[00:32:16](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-32-06)**
+> "...ut the timing of the Epstein (Jeffrey Epstein) files, Trump (Donald Trump)'s response to the Ep..."
+
+**[00:49:51](/episodes/ep-3QJqtW_NOSI.md#ent-person-jeffrey-epstein-t-00-49-44)**
+> "...ou. Also three out of four of Jeffrey Epstein's grandparents were born in Russia."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (13 mentions)</summary>
+
+**[00:21:41](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-21-41)**
+> "... office model office as Jeff (Jeffrey Epstein)."
+
+**[00:22:06](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-21-41)**
+> "Jeffrey Epstein, a woman that went down, who was very close to Je..."
+
+**[00:22:17](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-22-17)**
+> "...o on their first date is when Jeffrey Epstein goes down?"
+
+**[00:22:28](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-22-17)**
+> "...nk it was August of 2019 that Jeffrey Epstein kills himself."
+
+**[00:36:22](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-36-22)**
+> "...annot stress you guys enough. Jeffrey Epstein operated a global trafficking ring. And he worked..."
+
+**[00:36:44](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-36-22)**
+> "...ssination is connected to the Jeffrey Epstein world."
+
+**[00:36:54](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-36-22)**
+> "...speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was ..."
+
+**[00:37:15](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-37-06)**
+> "That is the story of Jeffrey Epstein. We were working on an Epstein series when all of..."
+
+**[00:37:20](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-37-06)**
+> "...king a lot of questions about Jeffrey Epstein and then he got a phone call from the president o..."
+
+**[00:37:36](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-37-06)**
+> "...ny sense. I feel like his the Epstein network and again this is my opinion."
+
+**[00:37:44](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-37-44)**
+> "...months. It is my opinion that Jeffrey Epstein's network reemerged in the not-for-profit world, in..."
+
+**[00:49:31](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-49-07)**
+> "... this could all be related to Jeffrey Epstein, like I said to you."
+
+**[00:49:36](/episodes/ep-G3zdOeHpvS0.md#ent-person-jeffrey-epstein-t-00-49-36)**
+> "...ministration when it comes to Epstein. And I think like the rest of the world, our gene..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
+
+**[00:52:45](/episodes/ep-h76ZN-xXC6c.md#ent-person-jeffrey-epstein-t-00-52-19)**
+> "standing outside the photos that were taken of everybody holding the Epstein binders. I don't know if you have my tweet, guys, that I tweeted back at them. I'm like the audacity of you guys to accuse anyone of clickbait after this."
+
+**[00:52:57](/episodes/ep-h76ZN-xXC6c.md#ent-person-jeffrey-epstein-t-00-52-57)**
+> "...et focused on taking down the Epstein class?"
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (16 mentions)</summary>
+
+**[00:14:41](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-14-41)**
+> "This was also trending. This is inside the White House freakout over the Epstein files. Now, I am not a normal consumer of the New York Times, obviously."
+
+**[00:16:27](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-16-27)**
+> "And on July 12th, Charlie (Charlie Kirk) received a phone call from the president. Here's what the New York Times article tells us. It reads, quote, on July 12th, the president took to truth social to defend Pam Bondi against criticism and to urge his boys and gals to stop wasting time and energy on Jeffrey Epstein, somebody that nobody cares about."
+
+**[00:15:03](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-15-03)**
+> "...rump) really did not want the Epstein files to be investigated now there are two takes ..."
+
+**[00:15:43](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-15-43)**
+> "...c at the White House over the Epstein files and him having to do anything to shut down ..."
+
+**[00:16:52](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-16-27)**
+> "...vious day that turned into an Epstein grievance fest with one speaker after another bas..."
+
+**[00:17:36](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-17-07)**
+> "... (Tucker Carlson) calling out Epstein."
+
+**[00:17:45](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-17-07)**
+> "Megyn Kelly talked about Epstein. So this is perfectly tracking with what we know ..."
+
+**[00:18:47](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-18-35)**
+> ".... to go max okay he calls out jeffrey epstein he says that the people who serve in foreign armi..."
+
+**[00:19:00](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-19-00)**
+> "... him about sass calling it an epstein grievance best what does this have to do with you..."
+
+**[00:19:24](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-19-00)**
+> "Epstein worked for Israel or two, you're in the Epstein f..."
+
+**[00:25:49](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-25-33)**
+> "since the 80s Jeffrey Epstein has been working for Israel I don't know how I kn..."
+
+**[00:27:15](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-27-15)**
+> "...id there, we're talking about Epstein and Tucker (Tucker Carlson) said to me, and I'm, ..."
+
+**[00:28:19](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-27-56)**
+> "...aine talking about Israel and Epstein and what the pressure that Charlie (Charlie Kirk)..."
+
+**[00:29:13](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-29-13)**
+> "... we're talking about all this Epstein stuff and Charlie (Charlie Kirk)'s under pressure..."
+
+**[00:33:06](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-32-58)**
+> "... mentioned on stage about the Epstein stuff, not about the Epstein stuff, pardon me, bu..."
+
+**[00:33:39](/episodes/ep-WoXd4oLwd3w.md#ent-person-jeffrey-epstein-t-00-33-39)**
+> "...especially after reading that Epstein piece, especially after what Tucker (Tucker Carls..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:09:16](/episodes/ep-tXoI0TTKVrs.md#ent-person-jeffrey-epstein-t-00-08-47)**
+> "...on why she was hanging around Jeffrey Epstein's orbit of people over at Nexmodel Management in Ne..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (13 mentions)</summary>
@@ -1614,10 +1944,42 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <summary>Close Associate Of (1)</summary>
 
 - **[Faith Kates](/entities/person-faith-kates.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “Faith Kates was unbelievably close to Jeffrey Epstein.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (2)</summary>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:54](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was coming from.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:19:15](/episodes/ep-IqHsl7d2dos.md#t-00-18-51): “Like I said, positively disgusting, a true villain. And why were he and Jeffrey Epstein so close?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended By (1)</summary>
+
+- **[Faith Kates](/entities/person-faith-kates.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:35:44](/episodes/ep-9CuC1yf8-PU.md#t-00-35-28): “We know this. This was his thing of how he trafficked a lot of women from Eastern Europe through modeling agencies like the one with Jean-Luc Brunel in France and his ties to Faith Kates, who stood by his side even when he was found guilty of harming children. Faith Kates was his loyal defender and it ended up costing her her entire reputation, her career, really. If you look her up, you can't really.”
 
 </details>
 
@@ -1634,16 +1996,18 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Rothschild family](/entities/org-rothschild-family.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27): “Jeffrey Epstein worked for the Rothschilds.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:22](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Jeffrey Epstein operated a global trafficking ring. And he worked, according to him and his emails, for the Rothschilds.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:23:17](/episodes/ep-IqHsl7d2dos.md#t-00-23-17): “The Rothschilds being Jeffrey Epstein's employers, Jeffrey Epstein, his French Ghislaine Maxwell, the Maxwell family, his modeling world through which he trafficked victims from Eastern Europe, from impoverished war-torn areas.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Friend Of (2)</summary>
+<summary>Friend Of (3)</summary>
 
 - **[Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1659,10 +2023,17 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 </details>
 
+- **[Faith Kates](/entities/person-faith-kates.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:05:02](/episodes/ep-3QJqtW_NOSI.md#t-00-04-45): “Next Model Management offices, which was a talent agency that was run by close Jeffrey Epstein friend Faith Kates.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Funded (2)</summary>
+<summary>Funded (3)</summary>
 
 - **[Arizona State University](/entities/org-arizona-state-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1677,6 +2048,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:30:47](/episodes/ep-DdPjoy5W-wY.md#t-00-30-47): “Jeffrey Epstein donates through what is known as the Origins Project”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:19:14](/episodes/ep-ZzAT2xijKGQ.md#t-00-19-14): “Jeffrey Epstein begins giving money to Arizona State University specifically for their Origins Project.”
+
+</details>
+
+- **[MC2 Model Management](/entities/org-mc2-model-management.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:19:15](/episodes/ep-IqHsl7d2dos.md#t-00-18-51): “Like I said, positively disgusting, a true villain. And why were he and Jeffrey Epstein so close? Well, because in 2005, Jeffrey Epstein gave him the seed money for him to start the modeling agency MC2 in Paris.”
 
 </details>
 
@@ -1734,7 +2112,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>Referenced By (14)</summary>
+<summary>Referenced By (19)</summary>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1751,10 +2129,32 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Faith Kates](/entities/person-faith-kates.md)** close associate of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:22:36](/episodes/ep-ZzAT2xijKGQ.md#t-00-22-36): “she had she was very close i mean look she's inviting him here in this email to her son's bar mitzvah”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:02:28](/episodes/ep-H9p2ZGHAs9A.md#t-00-02-28): “Let's get back into this next model management. It was co-founded by Faith Kates. We told you this yesterday, a dear friend to Jeffrey Epstein all over the emails 4000 plus times.”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19): “Faith Kates was unbelievably close to Jeffrey Epstein.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:54](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was coming from.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:19:15](/episodes/ep-IqHsl7d2dos.md#t-00-18-51): “Like I said, positively disgusting, a true villain. And why were he and Jeffrey Epstein so close?”
+
+</details>
+
+- **[Faith Kates](/entities/person-faith-kates.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:35:44](/episodes/ep-9CuC1yf8-PU.md#t-00-35-28): “We know this. This was his thing of how he trafficked a lot of women from Eastern Europe through modeling agencies like the one with Jean-Luc Brunel in France and his ties to Faith Kates, who stood by his side even when he was found guilty of harming children. Faith Kates was his loyal defender and it ended up costing her her entire reputation, her career, really. If you look her up, you can't really.”
 
 </details>
 
@@ -1766,9 +2166,11 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Rothschild family](/entities/org-rothschild-family.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:07:34](/episodes/ep-DYD_QHMPwqM.md#t-00-07-27): “Jeffrey Epstein worked for the Rothschilds.”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:22](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Jeffrey Epstein operated a global trafficking ring. And he worked, according to him and his emails, for the Rothschilds.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:23:17](/episodes/ep-IqHsl7d2dos.md#t-00-23-17): “The Rothschilds being Jeffrey Epstein's employers, Jeffrey Epstein, his French Ghislaine Maxwell, the Maxwell family, his modeling world through which he trafficked victims from Eastern Europe, from impoverished war-torn areas.”
 
 </details>
 
@@ -1783,6 +2185,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:28:00](/episodes/ep-CEF7gQRWYCE.md#t-00-27-57): “and thought about it he did because he was emailing Jeffrey Epstein a lot meeting up with him a lot uh definitely sounds like they were very close inviting him to the island basically this guy is going to be here from Europe also you should come this weekend they were together all throughout New York constantly messaging each other it is not a good look there is no question these two were friends and I do not accept that the person who's effectively spying on all of us he's got to deal with the military through”
+
+</details>
+
+- **[Faith Kates](/entities/person-faith-kates.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:05:02](/episodes/ep-3QJqtW_NOSI.md#t-00-04-45): “Next Model Management offices, which was a talent agency that was run by close Jeffrey Epstein friend Faith Kates.”
 
 </details>
 
@@ -1809,6 +2218,13 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 
 </details>
 
+- **[MC2 Model Management](/entities/org-mc2-model-management.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:19:15](/episodes/ep-IqHsl7d2dos.md#t-00-18-51): “Like I said, positively disgusting, a true villain. And why were he and Jeffrey Epstein so close? Well, because in 2005, Jeffrey Epstein gave him the seed money for him to start the modeling agency MC2 in Paris.”
+
+</details>
+
 - **[William P. Barr](/entities/person-william-barr.md)** hired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1817,9 +2233,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 - **[Mark Epstein](/entities/person-mark-epstein.md)** sibling of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:03:10](/episodes/ep-5-HUyv9LyMg.md#t-00-03-00): “Jeffrey Epstein's brother who inherited all of his wealth”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:33:44](/episodes/ep-9CuC1yf8-PU.md#t-00-33-44): “Mark Epstein, Jeffrey Epstein's brother”
 
 </details>
 
@@ -1863,7 +2280,120 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeffrey Epstein (77)</strong></summary>
+<summary><strong class="section-title">Statements about Jeffrey Epstein (107)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (6)</summary>
+
+- [00:18:27](/episodes/ep-IqHsl7d2dos.md#t-00-18-12) (Accusation) **Virginia Giuffre** (via quoted document): ["Virginia Giuffre said Epstein had bragged that he had slept with more ..."](/statements/statement-3a7dec624dc7.md)
+  - Also about: [Virginia Giuffre](/entities/person-virginia-giuffre.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)
+
+- [00:19:15](/episodes/ep-IqHsl7d2dos.md#t-00-18-51) (Claim) **Candace Owens**: ["Owens said Epstein gave Brunel seed money in 2005 to start MC2 Model M..."](/statements/statement-8221da959d69.md)
+  - Also about: [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md), [MC2 Model Management](/entities/org-mc2-model-management.md), [Paris](/entities/gpe-paris.md)
+
+- [00:20:38](/episodes/ep-IqHsl7d2dos.md#t-00-20-38) (Accusation) **Candace Owens**: ["Owens said underage foreign models recruited through MC2 were housed i..."](/statements/statement-71ebbf468dbd.md)
+  - Also about: [MC2 Model Management](/entities/org-mc2-model-management.md), [Mark Epstein](/entities/person-mark-epstein.md)
+
+- [00:22:54](/episodes/ep-IqHsl7d2dos.md#t-00-22-32) (Accusation) **Candace Owens**: ["Was Charlie Kirk murdered by the state, the deep state, to protect Eps..."](/statements/statement-8cc07b1aabfe.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Deep state](/entities/concept-deep-state.md)
+
+- [00:39:23](/episodes/ep-IqHsl7d2dos.md#t-00-39-23) (Citation) **Candace Owens**: ["Owens said Epstein's emails stated that Lynn Forester de Rothschild es..."](/statements/statement-bff1916cbfe6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [The Corcoran Group](/entities/org-corcoran-group.md), [Lynn Forester de Rothschild](/entities/person-lynn-forester-de-rothschild.md)
+
+- [00:41:27](/episodes/ep-IqHsl7d2dos.md#t-00-41-27) (Citation) **Candace Owens**: ["Owens said Jeffrey Epstein's emails showed him selecting girls to win ..."](/statements/statement-0aa2a848cb8c.md)
+  - Also about: [Miss Universe Organization](/entities/org-miss-universe-organization.md)
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>
+
+- [00:32:56](/episodes/ep-9CuC1yf8-PU.md#t-00-32-19) (Claim) **Candace Owens**: ["Owens said Faith Kates was close to Jeffrey Epstein, that their releas..."](/statements/statement-f606ee733e7a.md)
+  - Also about: [Faith Kates](/entities/person-faith-kates.md), [NEXT Management](/entities/org-next-management.md)
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (16)</summary>
+
+- [00:00:01](/episodes/ep-3QJqtW_NOSI.md#t-00-00-01) (Citation) **Candace Owens**: ["Owens cited a New York Times article as reporting that Trump administr..."](/statements/statement-41af199afa3a.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Donald J. Trump](/entities/person-donald-trump.md), [Pam Bondi](/entities/person-pam-bondi.md)
+
+- [00:00:26](/episodes/ep-3QJqtW_NOSI.md#t-00-00-01) (Claim) **Candace Owens**: ["Owens said Donald Trump met with top officials in the White House Situ..."](/statements/statement-a34eef740b26.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+- [00:01:03](/episodes/ep-3QJqtW_NOSI.md#t-00-00-36) (Accusation) **Candace Owens**: ["Owens alleged that many released Epstein files were redacted or remove..."](/statements/statement-d58e1e520db3.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:01:18](/episodes/ep-3QJqtW_NOSI.md#t-00-01-18) (Accusation) **Candace Owens**: ["Owens alleged that Andrew Kolvet pre-recorded a Charlie Kirk Show epis..."](/statements/statement-957ec16b71d8.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Kash Patel](/entities/person-kash-patel.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+
+- [00:03:05](/episodes/ep-3QJqtW_NOSI.md#t-00-02-42) (Claim) **Candace Owens**: ["Owens clarified that Charlie Kirk and Erika Kirk had their first date ..."](/statements/statement-6a944e08057e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)
+
+- [00:03:34](/episodes/ep-3QJqtW_NOSI.md#t-00-03-34) (Opinion) **Candace Owens**: ["Owens said she felt that the Epstein network pivoted and re-emerged el..."](/statements/statement-576a9c870fd5.md)
+
+- [00:04:15](/episodes/ep-3QJqtW_NOSI.md#t-00-04-15) (Accusation) **Candace Owens**: ["Owens alleged that Jeffrey Epstein's trafficking network was deeply em..."](/statements/statement-4c7d2e66ad06.md)
+  - Also about: [Eastern Europe](/entities/gpe-eastern-europe.md), [Victoria's Secret](/entities/org-victorias-secret.md)
+
+- [00:05:02](/episodes/ep-3QJqtW_NOSI.md#t-00-04-45) (Accusation) **Candace Owens** (via paraphrase): ["Owens reported that unnamed former Next Model Management workers alleg..."](/statements/statement-5730d9efd8a2.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [NEXT Management](/entities/org-next-management.md), [Faith Kates](/entities/person-faith-kates.md)
+
+- [00:06:08](/episodes/ep-3QJqtW_NOSI.md#t-00-06-08) (Claim) **Candace Owens**: ["Owens said Faith Kates continued to support Jeffrey Epstein after his ..."](/statements/statement-6055414bc135.md)
+  - Also about: [Faith Kates](/entities/person-faith-kates.md)
+
+- [00:07:36](/episodes/ep-3QJqtW_NOSI.md#t-00-07-36) (Opinion) **Candace Owens**: ["Owens said she thought Donald Trump's falling-out with Jeffrey Epstein..."](/statements/statement-4e0fa55b025f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:07:42](/episodes/ep-3QJqtW_NOSI.md#t-00-07-36) (Claim) **Candace Owens**: ["Owens said Donald Trump called Charlie Kirk and was upset that Kirk wa..."](/statements/statement-bfe47f60455e.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:00](/episodes/ep-3QJqtW_NOSI.md#t-00-07-36) (Accusation) **Candace Owens**: ["Owens accused Donald Trump of protecting his donors by withholding Eps..."](/statements/statement-0be8a74cc5c0.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:22:45](/episodes/ep-3QJqtW_NOSI.md#t-00-22-16) (Opinion) **Candace Owens**: ["Owens said she believed the New York Times article was well sourced an..."](/statements/statement-e29e24adf5c7.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Dan Bongino](/entities/person-dan-bongino.md)
+
+- [00:23:10](/episodes/ep-3QJqtW_NOSI.md#t-00-22-56) (Accusation) **Candace Owens**: ["Owens alleged that administration officials schemed to mislead the pub..."](/statements/statement-d536696561bc.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Democratic Party](/entities/org-democratic-party.md), [U.S. Attorney's Office for the Southern District of New York](/entities/org-us-attorneys-office-sdny.md)
+
+- [00:32:16](/episodes/ep-3QJqtW_NOSI.md#t-00-32-06) (Opinion) **Candace Owens**: ["Owens said she did not believe Donald Trump was merely an unwitting vi..."](/statements/statement-7cf6e7a4143a.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:51](/episodes/ep-3QJqtW_NOSI.md#t-00-49-44) (Claim) **Anonymous Source #2 (Ep 3QJqtW_NOSI)** (via quoted post): ["A YouTube commenter identified as Anna wrote that three of Jeffrey Eps..."](/statements/statement-fe51b1a4a8e1.md)
+  - Also about: [Russia](/entities/gpe-russia.md), [YouTube](/entities/org-youtube.md)
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (4)</summary>
+
+- [00:36:22](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22) (Accusation) **Candace Owens**: ["Owens asserted that Jeffrey Epstein operated a global trafficking ring..."](/statements/statement-e49497ecfab4.md)
+  - Also about: [Rothschild family](/entities/org-rothschild-family.md)
+
+- [00:36:44](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22) (Opinion) **Candace Owens**: ["Owens said she had a deep suspicion that Charlie Kirk's assassination ..."](/statements/statement-22c811271b1f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:20](/episodes/ep-G3zdOeHpvS0.md#t-00-37-06) (Claim) **Candace Owens**: ["Owens said Charlie Kirk received a call from President Donald Trump as..."](/statements/statement-98c306699888.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:37:44](/episodes/ep-G3zdOeHpvS0.md#t-00-37-44) (Opinion) **Candace Owens**: ["Owens explicitly framed as opinion her belief that Jeffrey Epstein's n..."](/statements/statement-8998712eb019.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3)</summary>
+
+- [00:15:29](/episodes/ep-WoXd4oLwd3w.md#t-00-15-03) (Accusation) **Candace Owens**: ["Candace Owens accused Jeffrey Epstein of trafficking weapons and peopl..."](/statements/statement-82f7229fac2b.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:16:46](/episodes/ep-WoXd4oLwd3w.md#t-00-16-27) (Claim) **The New York Times** (via quoted article): ["The New York Times reported that Donald Trump told aides he was very u..."](/statements/statement-3bdaf2db052d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:17:36](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07) (Claim) **Candace Owens**: ["Candace Owens claimed Charlie Kirk lost millions of dollars from pro-I..."](/statements/statement-2b7412e68285.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (4)</summary>

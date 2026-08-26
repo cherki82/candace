@@ -1,6 +1,6 @@
 ---
 title: "CVS Pharmacy"
-description: "CVS Pharmacy (Organizations) - 9 mentions"
+description: "CVS Pharmacy (Organizations) - 13 mentions"
 id: "org-cvs-pharmacy"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10">2026-01-21 · 00:57:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-cvs-pharmacy-t-00-28-54">2026-05-18 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-cvs-pharmacy-t-01-06-46">2026-06-16 · 01:06:54</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,9 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-cvs-pharmacy-t-01-18-34" style="--pulse-height:100%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-cvs-pharmacy-t-00-04-20" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-cvs-pharmacy-t-00-28-54" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-cvs-pharmacy-t-00-28-56" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-cvs-pharmacy-t-00-52-03" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-cvs-pharmacy-t-01-06-46" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +61,9 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-cvs-pharmacy-t-01-18-34) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-cvs-pharmacy-t-00-04-20) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-cvs-pharmacy-t-00-28-54) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-cvs-pharmacy-t-00-28-56) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-cvs-pharmacy-t-00-52-03) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-cvs-pharmacy-t-01-06-46) | 1 |
 
 </details>
 </section>
@@ -65,7 +71,31 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[01:06:54](/episodes/ep-h76ZN-xXC6c.md#ent-org-cvs-pharmacy-t-01-06-46)**
+> "...mplete with about 100 feet of CVS receipts I think you should"
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:52:30](/episodes/ep-WoXd4oLwd3w.md#ent-org-cvs-pharmacy-t-00-52-03)**
+> "That it was a CVS receipt when we showed Laura Loomer's receipt. That is fake news. It's conspiracy."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:29:03](/episodes/ep-tXoI0TTKVrs.md#ent-org-cvs-pharmacy-t-00-28-56)**
+> "...Whole Foods, Walmart, Amazon, CVS, and Walgreens."
+
+</details>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Reno, Nevada"
-description: "Reno, Nevada (Places) - 11 mentions"
+description: "Reno, Nevada (Places) - 12 mentions"
 id: "gpe-reno-nevada"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of Reno](https://www.reno.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-reno-nevada-t-00-27-51">2026-03-03 · 00:28:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-reno-nevada-t-00-13-07">2026-03-04 · 00:50:30</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#t-00-12-20">2026-06-17 · 00:12:44</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [City of Reno](https://www.reno.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-reno-nevada-t-00-27-51" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-reno-nevada-t-00-01-48" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 10 mentions" title="2026-03-04 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#t-00-12-20" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [City of Reno](https://www.reno.gov/)
 |---|---|---:|
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-reno-nevada-t-00-27-51) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-reno-nevada-t-00-01-48) | 10 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-12-20) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [City of Reno](https://www.reno.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:12:44](/episodes/ep-G3zdOeHpvS0.md#t-00-12-20)**
+> "...t the University of Nevada in Reno, Charlie (Charlie Kirk) has it on the inside of h..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (10 mentions)</summary>

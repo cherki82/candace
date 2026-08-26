@@ -1,6 +1,6 @@
 ---
 title: "Larry Guinta"
-description: "Larry Guinta (People) - 17 mentions"
+description: "Larry Guinta (People) - 18 mentions"
 id: "person-larry-guinta"
 type: "PERSON"
 categories:
@@ -19,9 +19,9 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-05">2026-01-06 · 00:33:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-larry-guinta-t-00-18-21">2026-04-21 · 00:18:46</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-larry-guinta-t-00-07-39">2026-06-22 · 00:07:39</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -38,6 +38,7 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 <a href="/episodes/ep-jTj9Ip46r4w.md#t-00-11-41" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-larry-guinta-t-00-40-56" style="--pulse-height:14%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-larry-guinta-t-00-16-24" style="--pulse-height:29%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-larry-guinta-t-00-07-39" style="--pulse-height:14%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-11-41) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-larry-guinta-t-00-40-56) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-larry-guinta-t-00-16-24) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-larry-guinta-t-00-07-39) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:07:39](/episodes/ep-VMNWMXX1vO8.md#ent-person-larry-guinta-t-00-07-39)**
+> "...loor with her second husband, Larry Guinta, actually third husband, Larry Guinta, and Erika ..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (2 mentions)</summary>
@@ -185,11 +195,12 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 <summary>Stepparent Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Guinta is Erika (Erika Kirk)'s stepfather,”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:19:36](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36): “Erica (Erika Kirk) was raised with her stepfather in her home, a man named Larry Guinta.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:16:24](/episodes/ep-xi8SYJTUXPM.md#t-00-16-24): “So Lori and Erika's stepfather, Larry, who we have not done really any research on Larry Guinta, I probably should have included that in my Erika series, but what they were doing at that time is they were trying to get in on a gun company.”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:07:39](/episodes/ep-VMNWMXX1vO8.md#t-00-07-39): “Larry Guinta ... Erika (Erika Kirk)'s stepfather.”
 
 </details>
 
@@ -233,9 +244,10 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 </details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32): “Lorin Frantzve is listed as a 20% stakeholder in the business. Larry Guinta, her husband, is also listed as a stakeholder and as the business's registered agent.”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:07:39](/episodes/ep-VMNWMXX1vO8.md#t-00-07-39): “Lori (Lori Frantzve) presenting on the House floor with her second husband, Larry Guinta, actually third husband, Larry Guinta”
 
 </details>
 
@@ -247,11 +259,12 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** stepchild of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Guinta is Erika (Erika Kirk)'s stepfather,”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:19:36](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36): “Erica (Erika Kirk) was raised with her stepfather in her home, a man named Larry Guinta.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:16:24](/episodes/ep-xi8SYJTUXPM.md#t-00-16-24): “So Lori and Erika's stepfather, Larry, who we have not done really any research on Larry Guinta, I probably should have included that in my Erika series, but what they were doing at that time is they were trying to get in on a gun company.”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:07:39](/episodes/ep-VMNWMXX1vO8.md#t-00-07-39): “Larry Guinta ... Erika (Erika Kirk)'s stepfather.”
 
 </details>
 

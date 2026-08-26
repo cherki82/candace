@@ -1,6 +1,6 @@
 ---
 title: "Katherine Locastro"
-description: "Katherine Locastro (People) - 4 mentions"
+description: "Katherine Locastro (People) - 5 mentions"
 id: "person-katherine-locastro"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09">2026-03-25 · 00:18:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#t-00-51-24">2026-03-31 · 00:51:24</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-katherine-locastro-t-00-19-44">2026-06-13 · 00:19:44</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,6 +35,7 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 <a href="/episodes/ep-DEtFh2Ff-58.md#t-00-15-28" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#t-00-20-43" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#t-00-51-24" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-katherine-locastro-t-00-19-44" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-15-28) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#t-00-20-43) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-katherine-locastro-t-00-19-44) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:19:44](/episodes/ep-WoXd4oLwd3w.md#ent-person-katherine-locastro-t-00-19-44)**
+> "Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. She's got Katherine Locastro. It's a young woman who works for Turning Point USA."
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
@@ -91,6 +101,18 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “She's got Katherine Locastro. It's a young woman who works for Turning Point USA. ... It was at one point Mikey (Michael McCoy)'s assistant.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (2)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
@@ -102,16 +124,17 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:20:54](/episodes/ep-7ERqbYElOfs.md#t-00-20-43): “Catherine LoCastro, another amazing TPUSA employee was with her.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. She's got Katherine Locastro. It's a young woman who works for Turning Point USA.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -122,9 +145,17 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:20:54](/episodes/ep-7ERqbYElOfs.md#t-00-20-43): “Catherine LoCastro, another amazing TPUSA employee was with her.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. She's got Katherine Locastro. It's a young woman who works for Turning Point USA.”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “She's got Katherine Locastro. It's a young woman who works for Turning Point USA. ... It was at one point Mikey (Michael McCoy)'s assistant.”
 
 </details>
 

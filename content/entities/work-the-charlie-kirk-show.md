@@ -1,6 +1,6 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Works & Media) - 39 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 43 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
@@ -23,11 +23,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17">2025-10-29 · 00:26:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-47-56">2026-05-27 · 00:47:56</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-work-the-charlie-kirk-show-t-00-53-02">2026-06-26 · 00:53:02</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -54,6 +54,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-work-the-charlie-kirk-show-t-00-14-14" style="--pulse-height:33%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 4 mentions" title="2026-05-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-work-the-charlie-kirk-show-t-00-36-58" style="--pulse-height:17%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-42-09" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-work-the-charlie-kirk-show-t-00-31-11" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-the-charlie-kirk-show-t-00-01-18" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-work-the-charlie-kirk-show-t-00-45-23" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-work-the-charlie-kirk-show-t-00-53-02" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +81,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-work-the-charlie-kirk-show-t-00-14-14) | 4 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-work-the-charlie-kirk-show-t-00-36-58) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-42-09) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-work-the-charlie-kirk-show-t-00-31-11) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-work-the-charlie-kirk-show-t-00-01-18) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-work-the-charlie-kirk-show-t-00-45-23) | 1 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-work-the-charlie-kirk-show-t-00-53-02) | 1 |
 
 </details>
 </section>
@@ -84,7 +92,39 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:45:23](/episodes/ep-IqHsl7d2dos.md#ent-work-the-charlie-kirk-show-t-00-45-23)**
+> "...eared to be live in studio on the Charlie Kirk show hosting of all people, Kash Patel."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:53:02](/episodes/ep-a2bZf4fic10.md#ent-work-the-charlie-kirk-show-t-00-53-02)**
+> "...ow with his name. It's called The Charlie Kirk Show. Surely you're going to cover it, right? And you ..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:01:28](/episodes/ep-3QJqtW_NOSI.md#ent-work-the-charlie-kirk-show-t-00-01-18)**
+> "pre-recorded a Charlie Kirk show episode"
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:31:35](/episodes/ep-19vHhjF7-NA.md#ent-work-the-charlie-kirk-show-t-00-31-11)**
+> "...vet and Blake Neff went on to Charlie Kirk Show, shame it's still called that, to say that like t..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
@@ -414,7 +454,23 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Charlie Kirk Show (10)</strong></summary>
+<summary><strong class="section-title">Statements about The Charlie Kirk Show (12)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:45:23](/episodes/ep-IqHsl7d2dos.md#t-00-45-23) (Claim) **Candace Owens**: ["Owens said Andrew Kolvet only appeared to be live in Arizona on The Ch..."](/statements/statement-5aba01ede390.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Kash Patel](/entities/person-kash-patel.md), [Eisenhower Executive Office Building](/entities/gpe-eisenhower-executive-office-building.md)
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:01:18](/episodes/ep-3QJqtW_NOSI.md#t-00-01-18) (Accusation) **Candace Owens**: ["Owens alleged that Andrew Kolvet pre-recorded a Charlie Kirk Show epis..."](/statements/statement-957ec16b71d8.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Kash Patel](/entities/person-kash-patel.md), [White House](/entities/org-white-house.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Truth Social"
-description: "Truth Social (Organizations) - 18 mentions"
+description: "Truth Social (Organizations) - 19 mentions"
 id: "org-truth-social"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-truth-social-t-00-11-16">2025-10-29 · 00:11:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-30">2026-05-06 · 01:06:30</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-truth-social-t-00-16-27">2026-06-13 · 00:16:27</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-truth-social-t-00-00-00" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 4 mentions" title="2026-04-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-truth-social-t-00-59-27" style="--pulse-height:25%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-01" style="--pulse-height:50%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-truth-social-t-00-16-27" style="--pulse-height:25%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-truth-social-t-00-00-00) | 4 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-truth-social-t-00-59-27) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-truth-social-t-01-06-01) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-truth-social-t-00-16-27) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Truth Social — About Us](https://truthsocial.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:16:27](/episodes/ep-WoXd4oLwd3w.md#ent-org-truth-social-t-00-16-27)**
+> "And on July 12th, Charlie (Charlie Kirk) received a phone call from the president. Here's what the New York Times article tells us. It reads, quote, on July 12th, the president took to truth social to defend Pam Bondi against criticism and to urge his boys and gals to stop wasting time and energy on Jeffrey Epstein, somebody that nobody cares about."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (2 mentions)</summary>

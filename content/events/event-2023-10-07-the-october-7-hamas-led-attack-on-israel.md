@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > The October 7 Hamas-led attack on Israel occurred.
 
-## Mentioned In (16 times)
+## Mentioned In (17 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -140,3 +140,11 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1256);return false;">▶️ Play</a>
 
 > October 7th happens and then they go remember all that stuff like this is now
+
+### 17. Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quit...
+
+**Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
+**Timestamp:** [00:33:28](/episodes/ep-tXoI0TTKVrs.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-33-19) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2008);return false;">▶️ Play</a>
+
+> a fake incident called October 7th in which we are the masters of it.

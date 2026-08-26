@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 29 mentions"
+description: "Christ Is King (Concepts) - 31 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37">2026-01-12 · 00:20:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-22-41">2026-05-26 · 00:22:49</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-christ-is-king-t-01-06-00">2026-06-26 · 01:06:30</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,6 +49,8 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14" style="--pulse-height:20%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christ-is-king-t-00-45-44" style="--pulse-height:40%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-21-55" style="--pulse-height:60%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-christ-is-king-t-00-42-42" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-christ-is-king-t-01-06-00" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +71,8 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-christ-is-king-t-00-45-44) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-christ-is-king-t-00-21-55) | 3 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-christ-is-king-t-00-42-42) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-christ-is-king-t-01-06-00) | 1 |
 
 </details>
 </section>
@@ -76,7 +80,23 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[01:06:30](/episodes/ep-IqHsl7d2dos.md#ent-concept-christ-is-king-t-01-06-00)**
+> "...guys, Steph writes, and still Christ is king. That is correct. There's always a message of hop..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:42:49](/episodes/ep-19vHhjF7-NA.md#ent-concept-christ-is-king-t-00-42-42)**
+> "...st office temporarily lost my Christ is King mug and she immediately sent me a new one. Thank ..."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (3 mentions)</summary>

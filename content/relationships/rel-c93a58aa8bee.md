@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Blake Neff](/entities/person-blake-neff) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
@@ -21,6 +21,10 @@ object: "org-turning-point-usa"
 **[Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8)**
 
 - [00:03:53](/episodes/ep-DqGNvi36ol8#t-00-03-53)
+
+**[A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0)**
+
+- [00:55:26](/episodes/ep-G3zdOeHpvS0#t-00-55-26): _the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff_
 
 **[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
 

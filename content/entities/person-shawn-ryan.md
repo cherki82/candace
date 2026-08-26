@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 39 mentions"
+description: "Shawn Ryan (People) - 54 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50">2025-11-05 · 00:23:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-shawn-ryan-t-00-08-30">2026-05-26 · 00:08:46</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-person-shawn-ryan-t-00-15-46">2026-06-26 · 00:15:46</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -52,6 +52,10 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-shawn-ryan-t-00-54-59" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-shawn-ryan-t-00-55-42" style="--pulse-height:30%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-shawn-ryan-t-00-08-30" style="--pulse-height:10%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-03-04" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 10 mentions" title="2026-06-22 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-shawn-ryan-t-00-04-55" style="--pulse-height:30%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 3 mentions" title="2026-06-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-shawn-ryan-t-00-56-50" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-shawn-ryan-t-00-15-46" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +78,10 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-shawn-ryan-t-00-54-59) | 2 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-shawn-ryan-t-00-55-42) | 3 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-shawn-ryan-t-00-08-30) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-03-04) | 10 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-shawn-ryan-t-00-04-55) | 3 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-shawn-ryan-t-00-56-50) | 1 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-shawn-ryan-t-00-15-46) | 1 |
 
 </details>
 </section>
@@ -81,7 +89,72 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:15:46](/episodes/ep-a2bZf4fic10.md#ent-person-shawn-ryan-t-00-15-46)**
+> "... maybe actually it was in the Shawn Ryan interview—that he had that stuff, but it wasn't r..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:57:13](/episodes/ep-sKuYLNx3iRo.md#ent-person-shawn-ryan-t-00-56-50)**
+> "that Sean Ryan interview"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (3 mentions)</summary>
+
+**[00:05:10](/episodes/ep-9CuC1yf8-PU.md#ent-person-shawn-ryan-t-00-04-55)**
+> "Brian Harpole, who joined Sean Ryan for a car crash of an interview"
+
+**[00:08:49](/episodes/ep-9CuC1yf8-PU.md#ent-person-shawn-ryan-t-00-08-49)**
+> "...he wall has just described to Sean Ryan that he did no questions asked and he cut his shi..."
+
+**[00:56:09](/episodes/ep-9CuC1yf8-PU.md#ent-person-shawn-ryan-t-00-55-45)**
+> "...e scenario that he pitched to Sean Ryan."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (10 mentions)</summary>
+
+**[00:01:56](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-03-04)**
+> "...tually on Friday recording at Sean Ryan's studio, his podcast studio, and he lives down the..."
+
+**[00:03:11](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-03-04)**
+> "...ndeed, however, sit down with Sean Ryan for a very long interview, which will be dropping..."
+
+**[00:03:34](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-03-34)**
+> "...on he was forced to go on the Sean Ryan show."
+
+**[00:03:52](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-03-34)**
+> "...is name before he went on the Sean Ryan show and had that disaster of an interview."
+
+**[00:04:03](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-03-34)**
+> "...ould be interesting to see if Sean Ryan end up in this lawsuit because they have a totall..."
+
+**[00:04:44](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-04-13)**
+> "... frankly disturbing. Okay. So Sean Ryan has this really amazing, like his studio."
+
+**[00:04:52](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-04-52)**
+> "...ght someone on um the team on sean ryan's team told me"
+
+**[00:05:19](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-04-52)**
+> "...tribute to it, and he offered Sean Ryan Charlie Kirk's blood on his bag as a gift."
+
+**[00:05:43](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-05-32)**
+> "...with the blood still on it to Sean Ryan and it was declined for obvious reasons because i..."
+
+**[00:55:47](/episodes/ep-VMNWMXX1vO8.md#ent-person-shawn-ryan-t-00-55-47)**
+> "...(Charlie Kirk)'s bag to Sean (Sean Ryan) like a cat brings a mouse to its owner. Why was ..."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
@@ -291,10 +364,10 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Interviewed (2)</summary>
+<summary>Interviewed (3)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
@@ -303,6 +376,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:08:03](/episodes/ep-k1b1NDCrNFs.md#t-00-08-03): “And yet, no, this Douglas Blake Bednarz character is not listed in this lawsuit. There's no action against him. Now, Baron is not exaggerating, by the way. The person he's referring to, full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian (Brian Harpole)'s disastrous interview with Sean Ryan. Here are just a random selection of his tweets.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:22](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “Why are you saying he went on Sean Ryan because of the grief that I put him through knowing fully well that I never mentioned him on my show until post Sean Ryan?”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:46](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brian felt compelled to do the Sean Ryan podcast interview because of conspiracies that I drummed up on the Internet about him”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:34](/episodes/ep-VMNWMXX1vO8.md#t-00-03-34): “his one-time guest, Brian Harpole ... forced to go on the Sean Ryan show”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:05:10](/episodes/ep-9CuC1yf8-PU.md#t-00-04-55): “Brian Harpole, who joined Sean Ryan for a car crash of an interview”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:57:13](/episodes/ep-sKuYLNx3iRo.md#t-00-56-50): “Yes, Brian (Brian Harpole) briefly discussed in that Sean Ryan interview how they caught a police tail”
 
 </details>
 
@@ -314,13 +390,20 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:11](/episodes/ep-VMNWMXX1vO8.md#t-00-03-04): “I did indeed, however, sit down with Sean Ryan for a very long interview”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01): “Brian Harpole lied badly to Sean Ryan in an interview that one of the heads of security gave the other day.”
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:02](/episodes/ep-his-JBjlkh8.md#t-00-08-43): “In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'”
@@ -328,6 +411,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:08:03](/episodes/ep-k1b1NDCrNFs.md#t-00-08-03): “And yet, no, this Douglas Blake Bednarz character is not listed in this lawsuit. There's no action against him. Now, Baron is not exaggerating, by the way. The person he's referring to, full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian (Brian Harpole)'s disastrous interview with Sean Ryan. Here are just a random selection of his tweets.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:55:22](/episodes/ep-KpxIBWkNsSs.md#t-00-54-59): “Why are you saying he went on Sean Ryan because of the grief that I put him through knowing fully well that I never mentioned him on my show until post Sean Ryan?”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:46](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brian felt compelled to do the Sean Ryan podcast interview because of conspiracies that I drummed up on the Internet about him”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:34](/episodes/ep-VMNWMXX1vO8.md#t-00-03-34): “his one-time guest, Brian Harpole ... forced to go on the Sean Ryan show”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:05:10](/episodes/ep-9CuC1yf8-PU.md#t-00-04-55): “Brian Harpole, who joined Sean Ryan for a car crash of an interview”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:57:13](/episodes/ep-sKuYLNx3iRo.md#t-00-56-50): “Yes, Brian (Brian Harpole) briefly discussed in that Sean Ryan interview how they caught a police tail”
 
 </details>
 
@@ -338,6 +424,29 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:59:20](/episodes/ep-I0OaY6Gryqk.md#t-00-59-20): “And that is, if you watch Shawn Ryan's sit-down with Father Ripperger (Chad Ripperger), they talk about Beelzebub and that—that is, you know, that's Satan. They're constantly trying to make people fearful and to make them feel isolated, to make them feel alone, to make them feel attacked. You can see, like I said, what they're doing to Megyn Kelly. I lived that, and they will do the same thing to her. Anywhere Megyn Kelly wants to speak, they will call people, they will make phone calls, they will stalk her across”
 
 </details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:03:11](/episodes/ep-VMNWMXX1vO8.md#t-00-03-04): “I did indeed, however, sit down with Sean Ryan for a very long interview”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Shawn Ryan (2)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2)</summary>
+
+- [00:03:34](/episodes/ep-VMNWMXX1vO8.md#t-00-03-34) (Accusation) **Candace Owens**: ["Brian Harpole is suing me and claims he was forced to appear on The Sh..."](/statements/statement-100ae1249e4b.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:05:19](/episodes/ep-VMNWMXX1vO8.md#t-00-04-52) (Claim) **Anonymous Source #1 (Ep VMNWMXX1vO8)** (via paraphrase): ["Brian Harpole offered Shawn Ryan the bag bearing Charlie Kirk's blood ..."](/statements/statement-84fc47484bfd.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

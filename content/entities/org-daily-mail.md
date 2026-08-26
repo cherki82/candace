@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 44 mentions"
+description: "Daily Mail (Organizations) - 47 mentions"
 id: "org-daily-mail"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40">2025-09-18 · 00:44:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-04-20">2026-06-09 · 01:04:41</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35">2026-06-22 · 00:20:00</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -51,6 +51,8 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-20-57" style="--pulse-height:50%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-daily-mail-t-00-34-26" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21" style="--pulse-height:50%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-daily-mail-t-00-38-13" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35" style="--pulse-height:12%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +78,8 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-20-57) | 4 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-daily-mail-t-00-34-26) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21) | 4 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-daily-mail-t-00-38-13) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35) | 1 |
 
 </details>
 </section>
@@ -83,7 +87,26 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:20:00](/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35)**
+> "... we showed you in that absurd Daily Mail article, that the story was beginning to shift, r..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:38:22](/episodes/ep-19vHhjF7-NA.md#ent-org-daily-mail-t-00-38-13)**
+> "... whole article and brought in daily mail reporters and said you couldn't release it becaus..."
+
+**[00:45:32](/episodes/ep-19vHhjF7-NA.md#ent-org-daily-mail-t-00-45-32)**
+> "...um you don't need to bring in daily mail reporters you don't need to extend it this long t..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (4 mentions)</summary>

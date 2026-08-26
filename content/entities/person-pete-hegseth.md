@@ -1,6 +1,6 @@
 ---
 title: "Pete Hegseth"
-description: "Pete Hegseth (People) - 16 mentions"
+description: "Pete Hegseth (People) - 33 mentions"
 id: "person-pete-hegseth"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-pete-hegseth-t-00-02-17">2026-03-10 · 00:02:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-pete-hegseth-t-00-13-58">2026-05-27 · 00:13:58</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-25-16">2026-06-18 · 00:25:23</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,10 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-pete-hegseth-t-00-08-09" style="--pulse-height:10%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-pete-hegseth-t-00-06-29" style="--pulse-height:100%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 10 mentions" title="2026-05-26 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-pete-hegseth-t-00-13-13" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-pete-hegseth-t-00-20-02" style="--pulse-height:10%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-15-16" style="--pulse-height:90%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 9 mentions" title="2026-06-11 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-pete-hegseth-t-00-00-41" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-10-51" style="--pulse-height:60%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 6 mentions" title="2026-06-18 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +54,10 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-pete-hegseth-t-00-08-09) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-pete-hegseth-t-00-06-29) | 10 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-pete-hegseth-t-00-13-13) | 2 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-pete-hegseth-t-00-20-02) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-15-16) | 9 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-pete-hegseth-t-00-00-41) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-10-51) | 6 |
 
 </details>
 </section>
@@ -57,7 +65,78 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (6 mentions)</summary>
+
+**[00:11:26](/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-10-51)**
+> "Pete Hegseth, the secretary"
+
+**[00:11:35](/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-11-35)**
+> "...ne man in between Bradley and Pete Hegseth. A man named Stephen Feinberg, who occupies the p..."
+
+**[00:11:58](/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-11-35)**
+> "...vant. So at the top, you have Pete Hegseth, who is the Secretary of Defense."
+
+**[00:12:04](/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-11-35)**
+> "...eaning if anything happens to Pete Hegseth, this man assumes his position, Stephen Feinberg,..."
+
+**[00:12:31](/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-12-14)**
+> "...re's also some rumblings that Pete Hegseth might be fired. If he is fired, this is going to ..."
+
+**[00:25:23](/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-25-16)**
+> "...sell and Stephen Feinberg and Pete Hegseth sit at the top of were orchestrating messaging to..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:00:59](/episodes/ep-WoXd4oLwd3w.md#ent-person-pete-hegseth-t-00-00-41)**
+> "That's that Fort Huachuca plane that was carrying one person that we can identify, Bradley Hansell, the undersecretary of war just under Pete Hegseth."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (9 mentions)</summary>
+
+**[00:15:24](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-15-16)**
+> "...hey're speaking to the press. Pete Hegseth sounds like, um, almost like a character on a rea..."
+
+**[00:15:59](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-15-59)**
+> "Here's Pete Hegseth speaking to reporters at the U.S. Central Command..."
+
+**[00:21:33](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-21-33)**
+> "..., you guys. You heard it from Pete Hegseth. That's our foreign policy. Tap, tap, tap, tap, t..."
+
+**[00:21:40](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-21-33)**
+> "...p, tap. What more do we need? Pete Hegseth is like the military Ivanka Trump, right?"
+
+**[00:22:27](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-22-01)**
+> "As Pete Hegseth gets to running. Here he is in October of 2025 in..."
+
+**[00:22:53](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-22-44)**
+> "...website showing you how Pete (Pete Hegseth)'s just like you guys."
+
+**[00:24:24](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-24-11)**
+> "...ym teacher. Who wouldn't want Pete Hegseth as a PE teacher? I know I would until he sends me..."
+
+**[00:24:31](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-24-11)**
+> "...ps on the ground again, Pete (Pete Hegseth)'s job is what it always is. Rally the troops wit..."
+
+**[00:30:45](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-30-33)**
+> "... It's perfect. You can do the Pete Hegseth variety and go for a 5K run or you can just go, h..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:20:28](/episodes/ep-tXoI0TTKVrs.md#ent-person-pete-hegseth-t-00-20-02)**
+> "That's very interesting. It's Pete Hegseth's department. The implication is that the email was..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
@@ -138,6 +217,18 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:24:31](/episodes/ep-19vHhjF7-NA.md#t-00-24-11): “And now that Trump (Donald J. Trump) is itching to put troops on the ground again, Pete (Pete Hegseth)'s job is what it always is. Rally the troops with another run. And that's what he did. He went down to Guantanamo Bay, Gitmo, with none other than Laura Loomer.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Gabrielle Cuccia](/entities/person-gabrielle-cuccia.md)**
@@ -165,16 +256,25 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <summary>Works For (1)</summary>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:02:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-02-17): “They're responsible for making recommendations to the Defense Secretary, Pete Hegseth.”
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:23:26](/episodes/ep-19vHhjF7-NA.md#t-00-23-20): “From this War Department's view”
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:11:58](/episodes/ep-3QJqtW_NOSI.md#t-00-11-35): “So at the top, you have Pete Hegseth, who is the Secretary of Defense.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:24:31](/episodes/ep-19vHhjF7-NA.md#t-00-24-11): “And now that Trump (Donald J. Trump) is itching to put troops on the ground again, Pete (Pete Hegseth)'s job is what it always is. Rally the troops with another run. And that's what he did. He went down to Guantanamo Bay, Gitmo, with none other than Laura Loomer.”
+
+</details>
 
 - **[Gabrielle Cuccia](/entities/person-gabrielle-cuccia.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -184,9 +284,11 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:02:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-02-17): “They're responsible for making recommendations to the Defense Secretary, Pete Hegseth.”
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:23:26](/episodes/ep-19vHhjF7-NA.md#t-00-23-20): “From this War Department's view”
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:11:58](/episodes/ep-3QJqtW_NOSI.md#t-00-11-35): “So at the top, you have Pete Hegseth, who is the Secretary of Defense.”
 
 </details>
 
@@ -202,7 +304,27 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Pete Hegseth (1)</strong></summary>
+<summary><strong class="section-title">Statements by Pete Hegseth (6)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (5)</summary>
+
+- [00:16:10](/episodes/ep-19vHhjF7-NA.md#t-00-16-10) [✓] (Promise) ["Pete Hegseth said that U.S. Central Command would hit Iran hard that night becau..."](/statements/statement-724594ed0b2f.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md), [Donald J. Trump](/entities/person-donald-trump.md), [United States Central Command](/entities/org-united-states-central-command.md)
+
+- [00:16:39](/episodes/ep-19vHhjF7-NA.md#t-00-16-10) [✓] (Promise) ["Pete Hegseth said that U.S. bombs would fall on key facilities in Iran if Iran d..."](/statements/statement-d732564307bc.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md), [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+- [00:16:53](/episodes/ep-19vHhjF7-NA.md#t-00-16-52) [✓] (Claim) ["Pete Hegseth said that Operation Epic Fury and the blockade had created a chance..."](/statements/statement-88084df39e60.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md), [Brad Cooper](/entities/person-brad-cooper.md), [United States Central Command](/entities/org-united-states-central-command.md)
+
+- [00:27:03](/episodes/ep-19vHhjF7-NA.md#t-00-27-03) [✓] (Claim) ["Asked about a U.S. capture-kill operation against Miguel Díaz-Canel in Cuba, Pet..."](/statements/statement-180d5aa20c25.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md), [Miguel Díaz-Canel](/entities/person-miguel-diaz-canel.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:27:38](/episodes/ep-19vHhjF7-NA.md#t-00-27-16) [✓] (Promise) ["Pete Hegseth said the United States would strike Iran hard that night."](/statements/statement-447ec3abfa35.md)
+  - About: [Pete Hegseth](/entities/person-pete-hegseth.md), [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
@@ -215,7 +337,35 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pete Hegseth (7)</strong></summary>
+<summary><strong class="section-title">Statements about Pete Hegseth (13)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:11:26](/episodes/ep-3QJqtW_NOSI.md#t-00-10-51) (Claim) **Candace Owens**: ["Owens corrected her earlier account and said Deputy Secretary of Defen..."](/statements/statement-8d39d3cd5e65.md)
+  - Also about: [Stephen A. Feinberg](/entities/person-stephen-a-feinberg.md), [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (5)</summary>
+
+- [00:16:10](/episodes/ep-19vHhjF7-NA.md#t-00-16-10) (Promise) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said that U.S. Central Command would hit Iran hard that n..."](/statements/statement-724594ed0b2f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States Central Command](/entities/org-united-states-central-command.md), [Iran](/entities/gpe-iran.md)
+
+- [00:16:39](/episodes/ep-19vHhjF7-NA.md#t-00-16-10) (Promise) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said that U.S. bombs would fall on key facilities in Iran..."](/statements/statement-d732564307bc.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
+
+- [00:16:53](/episodes/ep-19vHhjF7-NA.md#t-00-16-52) (Claim) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said that Operation Epic Fury and the blockade had create..."](/statements/statement-88084df39e60.md)
+  - Also about: [Brad Cooper](/entities/person-brad-cooper.md), [United States Central Command](/entities/org-united-states-central-command.md), [Operation Epic Fury](/entities/event-operation-epic-fury.md)
+
+- [00:27:03](/episodes/ep-19vHhjF7-NA.md#t-00-27-03) (Claim) **Pete Hegseth** (via quoted speech): ["Asked about a U.S. capture-kill operation against Miguel Díaz-Canel in..."](/statements/statement-180d5aa20c25.md)
+  - Also about: [Miguel Díaz-Canel](/entities/person-miguel-diaz-canel.md), [Donald J. Trump](/entities/person-donald-trump.md), [Cuba](/entities/gpe-cuba.md)
+
+- [00:27:38](/episodes/ep-19vHhjF7-NA.md#t-00-27-16) (Promise) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said the United States would strike Iran hard that night."](/statements/statement-447ec3abfa35.md)
+  - Also about: [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>

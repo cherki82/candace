@@ -1,6 +1,6 @@
 ---
 title: "Eddie Farnsworth"
-description: "Eddie Farnsworth (People) - 15 mentions"
+description: "Eddie Farnsworth (People) - 16 mentions"
 id: "person-eddie-farnsworth"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-eddie-farnsworth-t-00-31-41">2026-01-06 · 00:31:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-44-13">2026-03-06 · 00:44:32</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-eddie-farnsworth-t-00-06-56">2026-06-22 · 00:07:20</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,6 +37,7 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-eddie-farnsworth-t-00-31-41" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 10 mentions" title="2026-01-06 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-42-46" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 5 mentions" title="2026-03-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-eddie-farnsworth-t-00-06-56" style="--pulse-height:10%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-eddie-farnsworth-t-00-31-41) | 10 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-eddie-farnsworth-t-00-42-46) | 5 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-eddie-farnsworth-t-00-06-56) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:07:20](/episodes/ep-VMNWMXX1vO8.md#ent-person-eddie-farnsworth-t-00-06-56)**
+> "And Eddie Farnsworth and his brother were one of the ones who brought ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (5 mentions)</summary>
@@ -180,6 +190,18 @@ Source: [Arizona State Library — Eddie Farnsworth](https://apps.azlibrary.gov/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:34:31](/episodes/ep-HYn0P-P1wUw.md#t-00-33-47): “he had been in the news years earlier because his nephew, Albert Farnsworth, had raped a 13 year old.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Lori Frantzve](/entities/person-lori-frantzve.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:07:20](/episodes/ep-VMNWMXX1vO8.md#t-00-06-56): “Eddie Farnsworth and his brother were one of the ones who brought Lori Frantzve into those government contracts in Arizona.”
 
 </details>
 

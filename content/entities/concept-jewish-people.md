@@ -1,6 +1,6 @@
 ---
 title: "Jewish people"
-description: "Jewish people (Concepts) - 11 mentions"
+description: "Jewish people (Concepts) - 15 mentions"
 id: "concept-jewish-people"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#t-00-10-21">2026-03-23 · 00:10:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35">2026-04-30 · 00:57:40</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#t-00-40-41">2026-06-13 · 00:40:46</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#t-02-35-53" style="--pulse-height:17%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 6 mentions" title="2026-04-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#t-00-29-13" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-40-41" style="--pulse-height:17%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +50,8 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09) | 2 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#t-02-35-53) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35) | 6 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-29-13) | 3 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-40-41) | 1 |
 
 </details>
 </section>
@@ -55,7 +59,29 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:40:46](/episodes/ep-WoXd4oLwd3w.md#t-00-40-41)**
+> "International Fellowship of Christian and Jews."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (3 mentions)</summary>
+
+**[00:29:25](/episodes/ep-19vHhjF7-NA.md#t-00-29-13)**
+> "So for all, and of course, Jews. So for all the speculation in theater surroundin..."
+
+**[00:40:03](/episodes/ep-19vHhjF7-NA.md#t-00-40-03)**
+> "...g that they were the original Jews from the Bible they're not they never were it's s..."
+
+**[00:41:28](/episodes/ep-19vHhjF7-NA.md#t-00-41-28)**
+> "...e not jewish they are not the jews of the bible um it's it's just a nonsense to teac..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (6 mentions)</summary>
@@ -117,7 +143,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jewish people (3)</strong></summary>
+<summary><strong class="section-title">Statements about Jewish people (4)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:41:28](/episodes/ep-19vHhjF7-NA.md#t-00-41-28) (Claim) **Candace Owens**: ["Owens claimed that modern Israel is a reassembled Khazar Khaganate and..."](/statements/statement-dde3b4784917.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Khazar Khaganate](/entities/gpe-khazar-khaganate.md), [Bible](/entities/work-bible.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2)</summary>

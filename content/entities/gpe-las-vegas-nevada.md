@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas, Nevada"
-description: "Las Vegas, Nevada (Places) - 62 mentions"
+description: "Las Vegas, Nevada (Places) - 64 mentions"
 id: "gpe-las-vegas-nevada"
 type: "GPE"
 aliases:
@@ -25,9 +25,9 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-49-24">2026-05-28 · 00:49:24</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49">2026-06-23 · 00:01:06</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -58,6 +58,8 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-las-vegas-nevada-t-00-24-18" style="--pulse-height:20%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-las-vegas-nevada-t-00-12-32" style="--pulse-height:10%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-las-vegas-nevada-t-00-36-41" style="--pulse-height:10%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49" style="--pulse-height:10%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,6 +85,8 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-las-vegas-nevada-t-00-24-18) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-las-vegas-nevada-t-00-12-32) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-las-vegas-nevada-t-00-44-26) | 4 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-las-vegas-nevada-t-00-36-41) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49) | 1 |
 
 </details>
 </section>
@@ -90,7 +94,23 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:01:06](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49)**
+> "I heard it in a Rob McCoy sermon this weekend in Vegas."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:37:09](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-las-vegas-nevada-t-00-36-41)**
+> "...now. At Encountered Church in Vegas, you know, holy city of Vegas."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (4 mentions)</summary>

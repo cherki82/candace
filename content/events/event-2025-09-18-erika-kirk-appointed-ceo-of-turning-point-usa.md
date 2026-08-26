@@ -11,7 +11,7 @@ date: "2025-09-18"
 
 > Erika Kirk appointed CEO of Turning Point USA
 
-## Mentioned In (100 times)
+## Mentioned In (101 times)
 
 ### 1. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
@@ -812,3 +812,11 @@ date: "2025-09-18"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(487);return false;">▶️ Play</a>
 
 > after was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was
+
+### 101. I Survive My First Death Hoax, Erika Kirk Makes Human Histor...
+
+**Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
+**Timestamp:** [00:21:07](/episodes/ep-VMNWMXX1vO8.md#event-event-2025-09-18-erika-kirk-appointed-ceo-of-turning-point-usa-t-00-21-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1267);return false;">▶️ Play</a>
+
+> stepping into the 80 hour a week position formerly occupied by her husband of the CEO and chairman

@@ -1,6 +1,6 @@
 ---
 title: "Federal Bureau of Investigation"
-description: "Federal Bureau of Investigation (Organizations) - 41 mentions"
+description: "Federal Bureau of Investigation (Organizations) - 43 mentions"
 id: "org-federal-bureau-of-investigation"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [About - FBI](https://www.fbi.gov/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17">2026-01-05 · 00:14:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-bureau-of-investigation-t-00-59-59">2026-05-21 · 00:59:59</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-federal-bureau-of-investigation-t-01-11-06">2026-07-14 · 01:11:29</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,6 +54,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-federal-bureau-of-investigation-t-00-50-16" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-bureau-of-investigation-t-00-59-59" style="--pulse-height:14%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-federal-bureau-of-investigation-t-01-11-06" style="--pulse-height:29%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-federal-bureau-of-investigation-t-00-49-34) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-federal-bureau-of-investigation-t-00-50-16) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-federal-bureau-of-investigation-t-00-59-59) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-federal-bureau-of-investigation-t-01-11-06) | 2 |
 
 </details>
 </section>
@@ -83,7 +85,18 @@ Source: [About - FBI](https://www.fbi.gov/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[01:11:14](/episodes/ep-EtLHqDbxqks.md#ent-org-federal-bureau-of-investigation-t-01-11-06)**
+> "Close the courtyard off to anybody but the feds. The FBI took over that region so we can now reasonably assume that the paper was telling the truth when he said that the FBI made the call because only the FBI was allowed to make calls about what was going on in the courtyard."
+
+**[01:11:29](/episodes/ep-EtLHqDbxqks.md#ent-org-federal-bureau-of-investigation-t-01-11-06)**
+> "The FBI then kept the bomb dogs away from the courtyard. ..."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
@@ -299,6 +312,18 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:11:29](/episodes/ep-EtLHqDbxqks.md#t-01-11-06): “The FBI then kept the bomb dogs away from the courtyard. The FBI is evident evidently to me, in my opinion, engaged in a massive cover up.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)**
@@ -323,7 +348,14 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:11:29](/episodes/ep-EtLHqDbxqks.md#t-01-11-06): “The FBI then kept the bomb dogs away from the courtyard. The FBI is evident evidently to me, in my opinion, engaged in a massive cover up.”
+
+</details>
 
 - **[Kash Patel](/entities/person-kash-patel.md)** director of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -344,7 +376,15 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Federal Bureau of Investigation (24)</strong></summary>
+<summary><strong class="section-title">Statements about Federal Bureau of Investigation (25)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [01:11:14](/episodes/ep-EtLHqDbxqks.md#t-01-11-06) (Accusation) **Candace Owens**: ["Candace Owens said that, in her opinion, the FBI was engaged in a mass..."](/statements/statement-e6a1b9d12e43.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 (3)</summary>

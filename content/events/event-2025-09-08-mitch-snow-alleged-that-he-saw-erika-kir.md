@@ -11,7 +11,7 @@ date: "2025-09-08"
 
 > Mitch Snow alleged that he saw Erika Kirk leaving the Candlewood Suites hotel at Fort Huachuca with someone resembling Cabot Phillips.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -52,3 +52,11 @@ date: "2025-09-08"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2787);return false;">▶️ Play</a>
 
 > he said he saw Erika Kirk on the 8th and she wasn't leaving a meeting
+
+### 6. The Whistleblower: Did Epstein’s Network Reemerge In Charlie...
+
+**Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
+**Timestamp:** [00:10:07](/episodes/ep-3QJqtW_NOSI.md#event-event-2025-09-08-mitch-snow-alleged-that-he-saw-erika-kir-t-00-10-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(607);return false;">▶️ Play</a>
+
+> They saw her in that lobby on the 8th leaving, jumping into a green pickup truck

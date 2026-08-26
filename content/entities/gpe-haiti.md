@@ -1,6 +1,6 @@
 ---
 title: "Haiti"
-description: "Haiti (Places) - 39 mentions"
+description: "Haiti (Places) - 40 mentions"
 id: "gpe-haiti"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-haiti-t-00-39-36">2026-03-17 · 00:39:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-haiti-t-01-34-48">2026-05-19 · 01:35:00</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-haiti-t-00-19-10">2026-06-18 · 00:19:37</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-haiti-t-00-54-42" style="--pulse-height:93%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 13 mentions" title="2026-04-22 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-haiti-t-01-01-10" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-haiti-t-00-51-25" style="--pulse-height:21%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-haiti-t-00-19-10" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-haiti-t-00-54-42) | 13 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-haiti-t-01-01-10) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-haiti-t-00-51-25) | 3 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-haiti-t-00-19-10) | 1 |
 
 </details>
 </section>
@@ -61,7 +63,15 @@ Source: [Haiti - Countries - Office of the Historian](https://history.state.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:19:37](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-haiti-t-00-19-10)**
+> "Haiti"
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (3 mentions)</summary>

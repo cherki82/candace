@@ -1,6 +1,6 @@
 ---
 title: "Post-Traumatic Stress Disorder"
-description: "Post-Traumatic Stress Disorder (Concepts) - 3 mentions"
+description: "Post-Traumatic Stress Disorder (Concepts) - 5 mentions"
 id: "concept-post-traumatic-stress-disorder"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Post-Traumatic Stress Disorder (PTSD) - National Institute of Mental He
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47">2026-02-10 · 00:45:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-post-traumatic-stress-disorder-t-00-08-03">2026-05-07 · 00:08:03</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-concept-post-traumatic-stress-disorder-t-00-57-36">2026-06-16 · 00:57:36</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Post-Traumatic Stress Disorder (PTSD) - National Institute of Mental He
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-post-traumatic-stress-disorder-t-00-54-36" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-post-traumatic-stress-disorder-t-00-08-03" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-concept-post-traumatic-stress-disorder-t-00-57-36" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Post-Traumatic Stress Disorder (PTSD) - National Institute of Mental He
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-concept-post-traumatic-stress-disorder-t-00-45-47) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-post-traumatic-stress-disorder-t-00-54-36) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-post-traumatic-stress-disorder-t-00-08-03) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-concept-post-traumatic-stress-disorder-t-00-57-36) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Post-Traumatic Stress Disorder (PTSD) - National Institute of Mental He
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:57:36](/episodes/ep-h76ZN-xXC6c.md#ent-concept-post-traumatic-stress-disorder-t-00-57-36)**
+> "...ou and tell you that you have PTSD."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>

@@ -1,10 +1,11 @@
 ---
 title: "Dose"
-description: "Dose (Organizations) - 24 mentions"
+description: "Dose (Organizations) - 35 mentions"
 id: "org-dose"
 type: "ORG"
 aliases:
   - "Dose Daily"
+  - "Dose for Your Liver"
 categories:
   - "episode sponsor"
   - "health supplement brand"
@@ -12,7 +13,7 @@ categories:
 
 _Type: Organizations_
 
-**Also known as:** Dose Daily
+**Also known as:** Dose Daily, Dose for Your Liver
 
 **Categories:** episode sponsor, health supplement brand
 
@@ -22,9 +23,9 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dose-t-00-41-05">2026-01-06 · 00:41:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-38">2026-05-27 · 00:25:16</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dose-t-00-57-48">2026-07-14 · 00:57:48</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +42,9 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05" style="--pulse-height:80%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-dose-t-00-25-57" style="--pulse-height:60%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-00" style="--pulse-height:80%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-dose-t-00-35-33" style="--pulse-height:60%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-dose-t-00-30-00" style="--pulse-height:100%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 5 mentions" title="2026-06-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dose-t-00-57-04" style="--pulse-height:60%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +56,9 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-dose-t-00-27-05) | 4 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-dose-t-00-25-57) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-dose-t-00-24-00) | 4 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-dose-t-00-35-33) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-dose-t-00-30-00) | 5 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-dose-t-00-57-04) | 3 |
 
 </details>
 </section>
@@ -59,7 +66,55 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3 mentions)</summary>
+
+**[00:57:33](/episodes/ep-EtLHqDbxqks.md#ent-org-dose-t-00-57-04)**
+> "That's why I take Dose for Your Liver. Dose is a highly absorbable liquid supplement taken in a daily two ounce shot that tastes like fresh orange juice."
+
+**[00:57:04](/episodes/ep-EtLHqDbxqks.md#ent-org-dose-t-00-57-04)**
+> "I also remind you guys about dose because did you know that more than half of the a..."
+
+**[00:57:48](/episodes/ep-EtLHqDbxqks.md#ent-org-dose-t-00-57-48)**
+> "People who take Dose consistently report less sluggishness, fewer midd..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (5 mentions)</summary>
+
+**[00:29:53](/episodes/ep-9CuC1yf8-PU.md#ent-org-dose-t-00-30-00)**
+> "I also want to tell you guys about Dose"
+
+**[00:30:28](/episodes/ep-9CuC1yf8-PU.md#ent-org-dose-t-00-30-00)**
+> "...o want to tell you guys about Dose because most of what you hear in the wellness ind..."
+
+**[00:30:38](/episodes/ep-9CuC1yf8-PU.md#ent-org-dose-t-00-30-38)**
+> "...bolism, and that's why I take Dose for your liver."
+
+**[00:30:48](/episodes/ep-9CuC1yf8-PU.md#ent-org-dose-t-00-30-38)**
+> "Dose is a highly absorbable liquid supplement taken in..."
+
+**[00:31:16](/episodes/ep-9CuC1yf8-PU.md#ent-org-dose-t-00-31-16)**
+> "People who take dose consistently report less sluggishness, fewer midd..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3 mentions)</summary>
+
+**[00:35:54](/episodes/ep-WoXd4oLwd3w.md#ent-org-dose-t-00-35-33)**
+> "I also want to tell you guys about dose because most of what you hear in the wellness industry is just noise, quick fixes, empty promises and miracle supplements."
+
+**[00:36:07](/episodes/ep-WoXd4oLwd3w.md#ent-org-dose-t-00-35-33)**
+> "...bolism, and that's why I take Dose for your liver. Dose is a highly absorbable liqui..."
+
+**[00:36:40](/episodes/ep-WoXd4oLwd3w.md#ent-org-dose-t-00-36-18)**
+> "People who take Dose consistently report less sluggishness, less midda..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (4 mentions)</summary>
@@ -172,9 +227,10 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:23:30](/episodes/ep-DdPjoy5W-wY.md#t-00-22-59): “Also want to tell you guys about Dose because one of the most underrated organs in your body is your liver.”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:30:38](/episodes/ep-9CuC1yf8-PU.md#t-00-30-38): “I believe in products that are actually backed by research ... that's why I take Dose for your liver.”
 
 </details>
 
@@ -184,9 +240,10 @@ Source: [Dose — Liver supplement](https://dosedaily.co/pages/liver-16oz-short)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:23:30](/episodes/ep-DdPjoy5W-wY.md#t-00-22-59): “Also want to tell you guys about Dose because one of the most underrated organs in your body is your liver.”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:30:38](/episodes/ep-9CuC1yf8-PU.md#t-00-30-38): “I believe in products that are actually backed by research ... that's why I take Dose for your liver.”
 
 </details>
 

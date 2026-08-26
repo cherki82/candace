@@ -1,6 +1,6 @@
 ---
 title: "Dave Rubin"
-description: "Dave Rubin (People) - 26 mentions"
+description: "Dave Rubin (People) - 30 mentions"
 id: "person-dave-rubin"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08">2025-09-11 · 00:07:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-dave-rubin-t-00-00-00">2026-03-18 · 00:00:00</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-41-04">2026-06-24 · 00:41:04</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -45,6 +45,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 16 mentions" title="2026-01-20 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-dave-rubin-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-37-28" style="--pulse-height:25%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +60,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19) | 16 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-dave-rubin-t-00-00-00) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-37-28) | 4 |
 
 </details>
 </section>
@@ -66,7 +68,24 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (4 mentions)</summary>
+
+**[00:37:28](/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-37-28)**
+> "this tweet from Dave Rubin"
+
+**[00:37:40](/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-37-28)**
+> "... them on feminism and I guess Dave Rubin decided he was going to wing it."
+
+**[00:40:51](/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-40-37)**
+> "And even if you go back to Dave Rubin's book, which I read, Don't Burn This Book, I knew ..."
+
+**[00:41:04](/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-41-04)**
+> "...icle about the Daily Wire and Dave Rubin just tweets this—just full Zionist tribalism. He ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>
@@ -209,6 +228,18 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 </details>
 
 <details>
+<summary>Authored (1)</summary>
+
+- **[Don't Burn This Book](/entities/work-dont-burn-this-book.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:40:51](/episodes/ep-sKuYLNx3iRo.md#t-00-40-37): “And even if you go back to Dave Rubin's book, which I read, Don't Burn This Book”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -216,6 +247,18 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “Dave Rubin instantly replied and said something about Israel—even though I didn't mention Israel in the tweet”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:13:57](/episodes/ep-w1oqQbR_bYs.md#t-00-13-30): “Dave Rubin came to the exact same conclusion as the anti-Semites, only instead of cheering for Candice, found it vile and rebuked her”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:37:28](/episodes/ep-sKuYLNx3iRo.md#t-00-37-28): “I just want to show you this tweet from Dave Rubin, who the public sort of recently learned might not be smarter than a fifth grader because he went on to that debate show Jubilee.”
 
 </details>
 
@@ -246,12 +289,26 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:34:30](/episodes/ep-9naMwS0kMBE.md#t-00-34-30): “the real reason that I stopped being friends with Dave Rubin is a situation that made me extremely uncomfortable and made me feel that Dave Rubin was a groomer”
+
+</details>
+
+- **[Don't Burn This Book](/entities/work-dont-burn-this-book.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:40:51](/episodes/ep-sKuYLNx3iRo.md#t-00-40-37): “And even if you go back to Dave Rubin's book, which I read, Don't Burn This Book”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:37:28](/episodes/ep-sKuYLNx3iRo.md#t-00-37-28): “I just want to show you this tweet from Dave Rubin, who the public sort of recently learned might not be smarter than a fifth grader because he went on to that debate show Jubilee.”
 
 </details>
 
@@ -304,7 +361,15 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dave Rubin (4)</strong></summary>
+<summary><strong class="section-title">Statements about Dave Rubin (5)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
+
+- [00:40:51](/episodes/ep-sKuYLNx3iRo.md#t-00-40-37) (Citation) **Candace Owens**: ["Owens said Dave Rubin's book falsely stated that Ukraine was a member ..."](/statements/statement-65a5a398fd6f.md)
+  - Also about: [Don't Burn This Book](/entities/work-dont-burn-this-book.md), [Ukraine](/entities/gpe-ukraine.md), [North Atlantic Treaty Organization](/entities/org-north-atlantic-treaty-organization.md)
+
+</details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4)</summary>

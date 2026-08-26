@@ -1,6 +1,6 @@
 ---
 title: "Paramount Tactical Solutions"
-description: "Paramount Tactical Solutions (Organizations) - 30 mentions"
+description: "Paramount Tactical Solutions (Organizations) - 35 mentions"
 id: "org-paramount-tactical-solutions"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-41-37">2026-01-05 · 00:42:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#t-00-15-28">2026-05-20 · 00:15:57</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#t-00-26-46">2026-06-26 · 00:26:46</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,11 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-paramount-tactical-solutions-t-00-36-51" style="--pulse-height:29%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-paramount-tactical-solutions-t-00-30-15" style="--pulse-height:14%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#t-00-15-28" style="--pulse-height:14%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-paramount-tactical-solutions-t-00-57-00" style="--pulse-height:14%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#t-00-46-56" style="--pulse-height:14%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#t-00-48-52" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#t-00-26-46" style="--pulse-height:14%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-org-paramount-tactical-solutions-t-00-15-46" style="--pulse-height:14%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +70,11 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-paramount-tactical-solutions-t-00-36-51) | 2 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-paramount-tactical-solutions-t-00-30-15) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#t-00-15-28) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-paramount-tactical-solutions-t-00-57-00) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-46-56) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#t-00-48-52) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-26-46) | 1 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-paramount-tactical-solutions-t-00-15-46) | 1 |
 
 </details>
 </section>
@@ -72,7 +82,47 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:26:46](/episodes/ep-IqHsl7d2dos.md#t-00-26-46)**
+> "the same department which we've discovered paid Paramount not-so-tactical"
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:15:46](/episodes/ep-a2bZf4fic10.md#ent-org-paramount-tactical-solutions-t-00-15-46)**
+> "He did say, I believe in the Paramount Tactical interview—or maybe actually it was in the Shawn R..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:48:52](/episodes/ep-sKuYLNx3iRo.md#t-00-48-52)**
+> "Paramount not so tactical"
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:46:56](/episodes/ep-19vHhjF7-NA.md#t-00-46-56)**
+> "Erika Kirk has not provided an alibi, I guess. Andrew (Andrew Kolvet) tried to through Paramount Not So Tactical, but then Paramount Not So Tactical debunked that alibi and said it doesn't really matter whether or not those are her kids."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:57:00](/episodes/ep-tXoI0TTKVrs.md#ent-org-paramount-tactical-solutions-t-00-57-00)**
+> "...r to know not to partner with paramount tactical and Andrew Kolvet lacks that skill set like param..."
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1 mentions)</summary>
@@ -233,10 +283,24 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:37:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-36-51): “Paramount Not So Tactical doesn't understand what an alibi is.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:30:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-30-15): “I don't know who's more of a doofus, Graham Allen or Paramount Tactical. It's tough.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:49:45](/episodes/ep-sKuYLNx3iRo.md#t-00-49-35): “They rave about how easy it is to use. In fact, it's so simple, even Paramount not so tactical could probably figure it out.”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed (1)</summary>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:14:35](/episodes/ep-sKuYLNx3iRo.md#t-00-13-57): “And he repeats that story to Paramount, not so tactical in a separate interview.”
 
 </details>
 
@@ -258,22 +322,32 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <summary>Sold To (1)</summary>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24): “Anyway, the receipts are here. On September 24, 2025, he received $39,000 for individual equipment. ... And then on September 29th, five days later, he received $151,000 for night vision equipment.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:26:46](/episodes/ep-IqHsl7d2dos.md#t-00-26-46): “The Department of War being the same department which referred to Erika (Erika Kirk) as their emotional assets mysteriously. On the night of the White House Correspondents' Dinner shooting that wasn't, the same department which we've discovered paid Paramount not-so-tactical and other full-time trying to delude the masses, a former Green Beret also now dedicated to the information war meant to convince everybody without a shred of evidence.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:37:01](/episodes/ep-Pb7UlpRdW6U.md#t-00-36-51): “Paramount Not So Tactical doesn't understand what an alibi is.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:30:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-30-15): “I don't know who's more of a doofus, Graham Allen or Paramount Tactical. It's tough.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:49:45](/episodes/ep-sKuYLNx3iRo.md#t-00-49-35): “They rave about how easy it is to use. In fact, it's so simple, even Paramount not so tactical could probably figure it out.”
+- [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
+
+</details>
+
+- **[Brian Harpole](/entities/person-brian-harpole.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:14:35](/episodes/ep-sKuYLNx3iRo.md#t-00-13-57): “And he repeats that story to Paramount, not so tactical in a separate interview.”
 
 </details>
 
@@ -285,9 +359,10 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 </details>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)** purchased from this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24): “Anyway, the receipts are here. On September 24, 2025, he received $39,000 for individual equipment. ... And then on September 29th, five days later, he received $151,000 for night vision equipment.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:26:46](/episodes/ep-IqHsl7d2dos.md#t-00-26-46): “The Department of War being the same department which referred to Erika (Erika Kirk) as their emotional assets mysteriously. On the night of the White House Correspondents' Dinner shooting that wasn't, the same department which we've discovered paid Paramount not-so-tactical and other full-time trying to delude the masses, a former Green Beret also now dedicated to the information war meant to convince everybody without a shred of evidence.”
 
 </details>
 
@@ -312,7 +387,15 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Paramount Tactical Solutions (10)</strong></summary>
+<summary><strong class="section-title">Statements about Paramount Tactical Solutions (11)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
+
+- [00:15:25](/episodes/ep-sKuYLNx3iRo.md#t-00-15-25) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said he opened medical packages with his mouth while tre..."](/statements/statement-b672bc6d1dcf.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>

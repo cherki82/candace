@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1363 mentions"
+description: "Israel (Places) - 1436 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,11 +26,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>110</strong></div>
-<div><span>Mentions</span><strong>1,363</strong></div>
+<div><span>Episodes</span><strong>121</strong></div>
+<div><span>Mentions</span><strong>1,436</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>250</strong></div>
-<div><span>Relationships</span><strong>49</strong></div>
+<div><span>Statements about</span><strong>266</strong></div>
+<div><span>Relationships</span><strong>53</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -147,6 +147,17 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-00-23" style="--pulse-height:84%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 48 mentions" title="2026-05-27 · 48 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-07-10" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 23 mentions" title="2026-05-28 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-15-41" style="--pulse-height:16%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 9 mentions" title="2026-06-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-israel-t-00-24-00" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-02-37" style="--pulse-height:26%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 15 mentions" title="2026-06-11 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-15-03" style="--pulse-height:40%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 23 mentions" title="2026-06-13 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-israel-t-00-00-35" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-israel-t-00-37-44" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 3 mentions" title="2026-06-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-israel-t-00-44-37" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-israel-t-00-40-50" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-37-28" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 8 mentions" title="2026-06-24 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-israel-t-00-22-32" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-israel-t-00-51-43" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-israel-t-00-02-41" style="--pulse-height:11%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -262,6 +273,17 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-israel-t-00-00-23) | 48 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-israel-t-00-07-10) | 23 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-israel-t-00-15-41) | 9 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-israel-t-00-24-00) | 3 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-02-37) | 15 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-15-03) | 23 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-israel-t-00-00-35) | 4 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-israel-t-00-37-44) | 3 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-israel-t-00-44-37) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-israel-t-00-40-50) | 4 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-37-28) | 8 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-israel-t-00-22-32) | 4 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-israel-t-00-51-43) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-israel-t-00-02-41) | 6 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -274,7 +296,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1363)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1436)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -395,6 +417,280 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (6 mentions)</summary>
+
+**[00:02:41](/episodes/ep-EtLHqDbxqks.md#ent-gpe-israel-t-00-02-41)**
+> "Over the phone, while Charlie (Charlie Kirk) was in the car. That's massive. I got to say, for those of us who believe that there is mounting evidence that Israel put a hit on Charlie Kirk, Ben Shapiro receiving updates while Charlie (Charlie Kirk) was dying is not going to go a long way in terms of clearing up any conspiracies. So welcome back to Candace."
+
+**[00:24:09](/episodes/ep-EtLHqDbxqks.md#ent-gpe-israel-t-00-23-45)**
+> "Israel is taking care of the Lance (Lance Twiggs) messag..."
+
+**[01:05:57](/episodes/ep-EtLHqDbxqks.md#ent-gpe-israel-t-01-05-57)**
+> "...ar on the fact that I believe Israel is involved and I've been clear on the fact that ..."
+
+**[01:07:07](/episodes/ep-EtLHqDbxqks.md#ent-gpe-israel-t-01-07-07)**
+> "...ho on Ben (Ben Shapiro)'s IDF Israeli Mossad security apparatus team?"
+
+**[01:14:56](/episodes/ep-EtLHqDbxqks.md#ent-gpe-israel-t-01-14-40)**
+> "...be negotiated into supporting Israel any longer. I love you, Candace."
+
+**[01:18:29](/episodes/ep-EtLHqDbxqks.md#ent-gpe-israel-t-01-18-29)**
+> "...and was a strong supporter of Israel. Watching this, I hope in heaven that she finally..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
+
+**[00:23:08](/episodes/ep-IqHsl7d2dos.md#ent-gpe-israel-t-00-22-32)**
+> "...ourse, the United States, and Israel."
+
+**[00:23:44](/episodes/ep-IqHsl7d2dos.md#ent-gpe-israel-t-00-23-17)**
+> "The modern nation-state of Israel out of whole cloth."
+
+**[00:24:40](/episodes/ep-IqHsl7d2dos.md#ent-gpe-israel-t-00-24-40)**
+> "...in no way been traced back to Israel, shell companies over shell companies who affect ..."
+
+**[00:36:35](/episodes/ep-IqHsl7d2dos.md#ent-gpe-israel-t-00-36-35)**
+> "... today—is in partnership with Israel, with Carbyne, created by Ehud Barak. They've got..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:51:56](/episodes/ep-a2bZf4fic10.md#ent-gpe-israel-t-00-51-43)**
+> "100% Israel incentivized to select for you to take over TPUSA..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (8 mentions)</summary>
+
+**[00:36:29](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-37-28)**
+> "anti-Israel and then, you know, pro-Israel"
+
+**[00:37:52](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-37-28)**
+> "...got destroyed on the topic of Israel and Trump (Donald Trump)'s successes, because my ..."
+
+**[00:38:09](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-38-09)**
+> "... arrive at a debate defending Israel's actions in Gaza."
+
+**[00:38:19](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-38-09)**
+> "... tribalism of anything that's Israel, yay, yay, yay. He's unable to articulate to this..."
+
+**[00:39:21](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-39-21)**
+> "...t Trump (Donald Trump) allows Israel to bomb people and schools indiscriminately. Spea..."
+
+**[00:40:06](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-39-58)**
+> "...hen he doesn't end the war in Israel, even though"
+
+**[00:40:14](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-40-14)**
+> "... a ceasefire, there's not one Israeli in Gaza, the hostages are home,"
+
+**[00:54:05](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-israel-t-00-53-29)**
+> "...stralia is also controlled by Israel."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (4 mentions)</summary>
+
+**[00:41:04](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-israel-t-00-40-50)**
+> "... just protecting the state of Israel and attacking anybody who calls them out for thei..."
+
+**[00:41:45](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-israel-t-00-41-45)**
+> "...red for his evolving views on Israel."
+
+**[00:43:04](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-israel-t-00-42-32)**
+> "...efore, he's talking to rabbis—Israeli rabbis, Josh Hammer, all of them—saying they were..."
+
+**[00:55:04](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-israel-t-00-55-04)**
+> "...eeper. It's actually what the Israelis specialize in, as I've demonstrated to you guys. ..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:44:55](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-israel-t-00-44-37)**
+> "Israel"
+
+**[00:43:12](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-israel-t-00-43-12)**
+> "...op two comments. This person, Israel, Texas, writes, a woman with a headband in her ba..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (3 mentions)</summary>
+
+**[00:38:00](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-israel-t-00-37-44)**
+> "...t to us, their obsession with Israel."
+
+**[00:49:36](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-israel-t-00-49-36)**
+> "..., our intuition tells us that Israel was involved in Charlie Kirk's assassination."
+
+**[00:49:54](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-israel-t-00-49-36)**
+> "...all the behavior points to is Israel's involvement"
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (4 mentions)</summary>
+
+**[00:00:35](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-israel-t-00-00-35)**
+> "We're going to go over that. I feel like somewhere in the world. world Kim Jong-un is just laughing his head off right you could just look look around us the front yard of the White House has been transformed into a UFC arena our nation's FBI is monitoring Candace's tweets and admonishing her for clickbait And Israel is signaling to the world that Trump (Donald J. Trump) has no power. They're going to do whatever they want."
+
+**[00:10:56](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-israel-t-00-10-22)**
+> "...m theorizing here and I'm the Israelis and I'm bringing his device, I wanted to hit his ..."
+
+**[00:28:25](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-israel-t-00-28-25)**
+> "...by this is because it is very Israel coded."
+
+**[00:28:37](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-israel-t-00-28-25)**
+> "...entire assassination has been Israel coded from the very beginning. Nobody was looking..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (23 mentions)</summary>
+
+**[00:15:29](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-15-03)**
+> "He trafficked weapons. He trafficked people. He did it on behalf of the state of Israel."
+
+**[00:15:36](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-15-03)**
+> "...e Kirk, I'm turning away from Israel. Donald Trump, I'm going to screw over Miriam Ade..."
+
+**[00:18:05](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-17-53)**
+> ".... Again, we have the theme of Israel."
+
+**[00:19:24](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-19-00)**
+> "Epstein worked for Israel or two, you're in the Epstein files. There's no i..."
+
+**[00:20:36](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-20-36)**
+> "...usband is under pressure from israel she knows her husband is losing"
+
+**[00:21:02](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-21-02)**
+> "millions from Israel and she gets on stage she gets this pro-Israel in..."
+
+**[00:21:28](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-21-28)**
+> "...gly enough, in the history of Israel, as many of you guys know, because I know you guy..."
+
+**[00:22:34](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-22-32)**
+> "...tand that there's conflict in israel at all times and this is like you know post-genoc..."
+
+**[00:23:24](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-22-58)**
+> "like off the Israel train immediately. Right after this on July 18th,..."
+
+**[00:24:30](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-24-23)**
+> "This is a total Israel coded company."
+
+**[00:25:33](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-25-33)**
+> "...nd we went in on the topic of Israel. I'm just going to show you a little 10 second cl..."
+
+**[00:25:49](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-25-33)**
+> "... Epstein has been working for Israel I don't know how I know that and Trump (Donald Tr..."
+
+**[00:26:38](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-26-38)**
+> "because Israel's controlling our government so no the answer is no..."
+
+**[00:26:50](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-26-38)**
+> "I'm talking about Israel. I don't want you guys to like, you know, read in..."
+
+**[00:26:59](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-26-38)**
+> "I will never support Israel into the future after what they've done to these ..."
+
+**[00:28:19](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-27-56)**
+> "...g here in Maine talking about Israel and Epstein and what the pressure that Charlie (C..."
+
+**[00:29:27](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-29-13)**
+> "...g anybody who doesn't support Israel has brain rot."
+
+**[00:31:07](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-30-51)**
+> "...eiss people who don't support Israel have brain rot brain rot I'm with an Egyptian pas..."
+
+**[00:33:06](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-32-58)**
+> "...rlson) asking questions about Israel and where certain money's coming from. He brings ..."
+
+**[00:33:54](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-33-39)**
+> "This is all Israel coded. It makes sense. It is in our face. The puz..."
+
+**[00:34:01](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-33-39)**
+> "...hey lied about was to protect Israel. No one would have cared if his opinion was shift..."
+
+**[00:52:03](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-52-03)**
+> "...o whether or not there was an israel angle here and we got the exact opposite thing an..."
+
+**[00:56:34](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-israel-t-00-56-05)**
+> "...a platform and was abandoning Israel."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (15 mentions)</summary>
+
+**[00:02:52](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-02-37)**
+> "...e created the modern state of Israel out of whole cloth."
+
+**[00:06:00](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-05-34)**
+> "...y created the modern state of Israel. They chose, selected the flag of it, the seal of..."
+
+**[00:12:11](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-12-07)**
+> "Yeah, we know Israel wants Kharg Island."
+
+**[00:13:32](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-13-21)**
+> "...ed shipping it immediately to Israel. Like so you're suffering at the pub. We don't ev..."
+
+**[00:15:06](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-14-38)**
+> "Israel, which was created by the Rothschilds who have bi..."
+
+**[00:21:54](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-21-33)**
+> "Like inside of a die for Israel, but I could make you think that it's more, you k..."
+
+**[00:28:20](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-27-46)**
+> "...lot of people have to die for Israel."
+
+**[00:28:30](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-28-30)**
+> "...lot of people have to die for Israel. So the least he can do is a 5k with them. Am I r..."
+
+**[00:28:37](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-28-30)**
+> "...bsolute lunatics that support Israel, this is a real headline that was published in Sp..."
+
+**[00:28:58](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-28-30)**
+> "...estruction. It reads in part, Israel sure knows how to mark Pride Month."
+
+**[00:29:25](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-29-13)**
+> "...eater surrounding America and Israel's relations and decision making over whether to pro..."
+
+**[00:37:08](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-36-50)**
+> "... at what's happening you know israel is controlling all of these elections it would be..."
+
+**[00:39:38](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-39-33)**
+> "...ncourage you to look into how Israel was actually going to be founded in Albania. I do..."
+
+**[00:39:51](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-39-33)**
+> "...rticle from Haaretz that's an Israeli publication and it says, what if Albania had beco..."
+
+**[00:41:28](/episodes/ep-19vHhjF7-NA.md#ent-gpe-israel-t-00-41-28)**
+> "...y are reassembled that's what israel is they have never they are not jewish they are n..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (3 mentions)</summary>
+
+**[00:24:00](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-israel-t-00-24-00)**
+> "...ow that the subject matter is Israel."
+
+**[00:24:09](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-israel-t-00-24-00)**
+> "...we have looked at has been an Israel focused. The lies from the beginning have been to..."
+
+**[00:43:00](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-israel-t-00-42-55)**
+> "...d out the American people for Israel, for his family. They are going to be billionaire..."
 
 </details>
 
@@ -4922,9 +5218,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:02:41](/episodes/ep-EtLHqDbxqks.md#t-00-02-41): “Over the phone, while Charlie (Charlie Kirk) was in the car. That's massive. I got to say, for those of us who believe that there is mounting evidence that Israel put a hit on Charlie Kirk, Ben Shapiro receiving updates while Charlie (Charlie Kirk) was dying is not going to go a long way in terms of clearing up any conspiracies. So welcome back to Candace.”
 
 </details>
 
@@ -4957,6 +5254,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:00:35](/episodes/ep-h76ZN-xXC6c.md#t-00-00-00): “Israel is signaling to the world that Trump (Donald J. Trump) has no power. They're going to do whatever they want.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:09](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Like don't arrive at a debate defending Israel's actions in Gaza.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (3)</summary>
 
 - **[Benjamin Gantz](/entities/person-benjamin-gantz.md)**
@@ -4983,12 +5293,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Founded By (1)</summary>
+<summary>Founded By (2)</summary>
 
 - **[Irgun](/entities/org-irgun.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace Owens x Ana Kasparian @ 00:39:59](/episodes/ep-SKNJPul29zU.md#t-00-39-31): “And so at that time, what my research showed me was that the Irgun, which is one of the three terrorist groups that formed Israel, was attacking the local communities there in Haifa,”
+
+</details>
+
+- **[Rothschild family](/entities/org-rothschild-family.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:15:06](/episodes/ep-19vHhjF7-NA.md#t-00-14-38): “Israel, which was created by the Rothschilds”
 
 </details>
 
@@ -5142,7 +5459,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (25)</summary>
+<summary>Referenced By (27)</summary>
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -5152,9 +5469,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:28:08](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56): “How, why, Ink, France, and Israel are involved in Charlie Kirk's assassination. ... And I'm going to put that out there with full confidence. Okay. I Yeah. also involve him. I understand.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:02:41](/episodes/ep-EtLHqDbxqks.md#t-00-02-41): “Over the phone, while Charlie (Charlie Kirk) was in the car. That's massive. I got to say, for those of us who believe that there is mounting evidence that Israel put a hit on Charlie Kirk, Ben Shapiro receiving updates while Charlie (Charlie Kirk) was dying is not going to go a long way in terms of clearing up any conspiracies. So welcome back to Candace.”
 
 </details>
 
@@ -5233,10 +5551,25 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:00:35](/episodes/ep-h76ZN-xXC6c.md#t-00-00-00): “Israel is signaling to the world that Trump (Donald J. Trump) has no power. They're going to do whatever they want.”
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:09](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Like don't arrive at a debate defending Israel's actions in Gaza.”
+
+</details>
+
 - **[Irgun](/entities/org-irgun.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace Owens x Ana Kasparian @ 00:39:59](/episodes/ep-SKNJPul29zU.md#t-00-39-31): “And so at that time, what my research showed me was that the Irgun, which is one of the three terrorist groups that formed Israel, was attacking the local communities there in Haifa,”
+
+</details>
+
+- **[Rothschild family](/entities/org-rothschild-family.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:15:06](/episodes/ep-19vHhjF7-NA.md#t-00-14-38): “Israel, which was created by the Rothschilds”
 
 </details>
 
@@ -5331,7 +5664,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (250)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (266)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -5341,6 +5674,93 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [01:05:57](/episodes/ep-EtLHqDbxqks.md#t-01-05-57) (Accusation) **Candace Owens**: ["Candace Owens said she believes Israel was involved in Charlie Kirk's ..."](/statements/statement-54fd0939e396.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:24:40](/episodes/ep-IqHsl7d2dos.md#t-00-24-40) (Claim) **Anonymous Source #2 (Ep IqHsl7d2dos)** (via quoted speech): ["A former Mossad agent said Mossad could create foreign shell companies..."](/statements/statement-134fa8df177a.md)
+  - Also about: [Mossad](/entities/org-mossad.md)
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1)</summary>
+
+- [00:41:45](/episodes/ep-VMNWMXX1vO8.md#t-00-41-45) (Accusation) **Tucker Carlson** (via quoted speech): ["I believe Charlie Kirk was most likely murdered for his evolving views..."](/statements/statement-e3c07a311a5f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [transgenderism](/entities/concept-transgenderism.md)
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+
+- [00:49:36](/episodes/ep-G3zdOeHpvS0.md#t-00-49-36) (Accusation) **Candace Owens**: ["Owens framed as her gut and intuition the belief that Israel was invol..."](/statements/statement-f13b3a026cc7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+
+- [00:10:46](/episodes/ep-h76ZN-xXC6c.md#t-00-10-22) (Accusation) **Candace Owens**: ["Owens theorized that, if Israelis rigged Charlie Kirk's device, they i..."](/statements/statement-d7cb35f47244.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3)</summary>
+
+- [00:15:29](/episodes/ep-WoXd4oLwd3w.md#t-00-15-03) (Accusation) **Candace Owens**: ["Candace Owens accused Jeffrey Epstein of trafficking weapons and peopl..."](/statements/statement-82f7229fac2b.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:28:19](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens recalled Tucker Carlson telling her that Erika Kirk was ..."](/statements/statement-5f8fe480e050.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:55](/episodes/ep-WoXd4oLwd3w.md#t-00-28-30) (Opinion) **Candace Owens**: ["Candace Owens called Erika Kirk a psychopath."](/statements/statement-e7d883de542e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (5)</summary>
+
+- [00:05:44](/episodes/ep-19vHhjF7-NA.md#t-00-05-34) (Accusation) **Candace Owens**: ["The Rothschild family created the modern state of Israel and selected ..."](/statements/statement-47f64b9b0d9c.md)
+  - Also about: [Rothschild family](/entities/org-rothschild-family.md)
+
+- [00:13:21](/episodes/ep-19vHhjF7-NA.md#t-00-13-21) (Claim) **Candace Owens**: ["Owens claimed that oil taken from Venezuela began being shipped immedi..."](/statements/statement-fc540261ee7d.md)
+  - Also about: [Venezuela](/entities/gpe-venezuela.md)
+
+- [00:37:08](/episodes/ep-19vHhjF7-NA.md#t-00-36-50) (Accusation) **Candace Owens**: ["Owens alleged that Israel controls “all of these elections.”"](/statements/statement-ccb64d2a78ff.md)
+
+- [00:39:38](/episodes/ep-19vHhjF7-NA.md#t-00-39-33) (Claim) **Anonymous Source #2 (Ep 19vHhjF7-NA)** (via read message): ["A viewer identified as Linda said Israel was once going to be founded ..."](/statements/statement-322f872704b8.md)
+  - Also about: [Albania](/entities/gpe-albania.md)
+
+- [00:41:28](/episodes/ep-19vHhjF7-NA.md#t-00-41-28) (Claim) **Candace Owens**: ["Owens claimed that modern Israel is a reassembled Khazar Khaganate and..."](/statements/statement-dde3b4784917.md)
+  - Also about: [Khazar Khaganate](/entities/gpe-khazar-khaganate.md), [Jewish people](/entities/concept-jewish-people.md), [Bible](/entities/work-bible.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (3)</summary>
+
+- [00:24:00](/episodes/ep-tXoI0TTKVrs.md#t-00-24-00) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was a deep-state operation akin to the JF..."](/statements/statement-043b57b3d671.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Deep state](/entities/concept-deep-state.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
+
+- [00:33:28](/episodes/ep-tXoI0TTKVrs.md#t-00-33-19) (Accusation) **Candace Owens**: ["Jared Kushner and Benjamin Netanyahu had a plan to stage a fake Octobe..."](/statements/statement-1d581fd36cc6.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Palestine](/entities/gpe-palestine.md)
+
+- [00:43:00](/episodes/ep-tXoI0TTKVrs.md#t-00-42-55) (Accusation) **Candace Owens**: ["Donald Trump has completely sold out the American people for Israel an..."](/statements/statement-29639a540191.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md), [Jared Kushner](/entities/person-jared-kushner.md)
 
 </details>
 

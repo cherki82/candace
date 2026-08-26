@@ -1,6 +1,6 @@
 ---
 title: "Neoconservatism"
-description: "Neoconservatism (Concepts) - 24 mentions"
+description: "Neoconservatism (Concepts) - 25 mentions"
 id: "concept-neoconservatism"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15">2026-01-07 · 00:28:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-01-16-00">2026-04-29 · 01:16:00</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01">2026-06-26 · 00:00:38</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 10 mentions" title="2026-03-17 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-neoconservatism-t-00-43-49" style="--pulse-height:30%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-00-34-56" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46) | 10 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-neoconservatism-t-00-43-49) | 3 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-00-34-56) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:00:38](/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01)**
+> "And then, of course, the neocons tried to mock me. Ha ha ha, maroon shirt, she's g..."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>

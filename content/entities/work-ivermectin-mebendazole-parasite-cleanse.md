@@ -1,6 +1,6 @@
 ---
 title: "Ivermectin + Mebendazole Parasite Cleanse"
-description: "Ivermectin + Mebendazole Parasite Cleanse (Works & Media) - 1 mention"
+description: "Ivermectin + Mebendazole Parasite Cleanse (Works & Media) - 2 mentions"
 id: "work-ivermectin-mebendazole-parasite-cleanse"
 type: "WORK"
 aliases:
@@ -25,9 +25,9 @@ Source: [Ivermectin + Mebendazole - The Wellness Company](https://www.twc.health
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-42-14">2026-05-05 · 00:42:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-42-14">2026-05-05 · 00:42:42</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-27-28">2026-06-10 · 00:27:28</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,12 +39,14 @@ Source: [Ivermectin + Mebendazole - The Wellness Company](https://www.twc.health
 <p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-42-14">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-42-14" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-27-28" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-42-14) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-27-28) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Ivermectin + Mebendazole - The Wellness Company](https://www.twc.health
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:27:28](/episodes/ep-tXoI0TTKVrs.md#ent-work-ivermectin-mebendazole-parasite-cleanse-t-00-27-28)**
+> "...mpany offers a hard to access RX parasite cleanse, USA compounded ivermectin and mebendazole, which..."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>

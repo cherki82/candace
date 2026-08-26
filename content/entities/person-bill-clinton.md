@@ -1,6 +1,6 @@
 ---
 title: "Bill Clinton"
-description: "Bill Clinton (People) - 9 mentions"
+description: "Bill Clinton (People) - 10 mentions"
 id: "person-bill-clinton"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-bill-clinton-t-00-08-32">2026-02-25 · 00:08:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#t-01-13-33">2026-05-21 · 01:13:59</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-bill-clinton-t-00-19-54">2026-06-18 · 00:20:06</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -41,6 +41,7 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-bill-clinton-t-00-36-06" style="--pulse-height:33%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-bill-clinton-t-00-36-35" style="--pulse-height:33%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-01-13-33" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-bill-clinton-t-00-19-54" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-bill-clinton-t-00-36-06) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-bill-clinton-t-00-36-35) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-01-13-33) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-bill-clinton-t-00-19-54) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [President Bill Clinton biography — White House archive](https://clint
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:20:06](/episodes/ep-3QJqtW_NOSI.md#ent-person-bill-clinton-t-00-19-54)**
+> "Bill Clinton"
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>

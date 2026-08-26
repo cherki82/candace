@@ -1,6 +1,6 @@
 ---
 title: "Emmanuel Macron"
-description: "Emmanuel Macron (People) - 112 mentions"
+description: "Emmanuel Macron (People) - 114 mentions"
 id: "person-emmanuel-macron"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#t-00-45-49">2025-09-18 · 00:46:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59">2026-08-14 · 02:22:25</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>112</strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>114</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -61,6 +61,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-emmanuel-macron-t-01-04-42" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#t-00-00-00" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-emmanuel-macron-t-00-00-44" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-emmanuel-macron-t-00-36-50" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -93,6 +94,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-emmanuel-macron-t-01-04-42) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#t-00-00-00) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-emmanuel-macron-t-00-00-44) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-emmanuel-macron-t-00-36-50) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59) | 1 |
 
 </details>
@@ -101,13 +103,24 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+<summary><strong class="section-title">Raw mentions (114)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:22:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59)**
 > "...h this like I can't hack into Emmanuel Macron's bank accounts and say whether or not the informat..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:37:08](/episodes/ep-19vHhjF7-NA.md#ent-person-emmanuel-macron-t-00-36-50)**
+> "...ven what i have learned about emmanuel macron and how they were just literally picking uh frenc..."
+
+**[00:37:50](/episodes/ep-19vHhjF7-NA.md#ent-person-emmanuel-macron-t-00-37-34)**
+> "Emmanuel Macron notoriously did this right away. Your resources, ..."
 
 </details>
 
@@ -640,7 +653,18 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Emmanuel Macron (12)</strong></summary>
+<summary><strong class="section-title">Statements about Emmanuel Macron (14)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
+
+- [00:37:08](/episodes/ep-19vHhjF7-NA.md#t-00-36-50) (Accusation) **Candace Owens**: ["Owens alleged that the Rothschild family had selected French president..."](/statements/statement-27b184bddf56.md)
+  - Also about: [Rothschild family](/entities/org-rothschild-family.md), [France](/entities/gpe-france.md)
+
+- [00:38:04](/episodes/ep-19vHhjF7-NA.md#t-00-37-34) (Accusation) **Candace Owens**: ["Owens alleged that Emmanuel Macron had the Rothschild family's hand up..."](/statements/statement-65ed786cc2ec.md)
+  - Also about: [Rothschild family](/entities/org-rothschild-family.md)
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>

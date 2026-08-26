@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 92 mentions"
+description: "Tax Network USA (Organizations) - 101 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">2025-09-16 · 01:05:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-tax-network-usa-t-01-09-08">2026-05-28 · 01:09:14</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>92</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-52">2026-06-26 · 00:49:58</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>101</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -65,6 +65,11 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-tax-network-usa-t-00-38-11" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-tax-network-usa-t-00-41-39" style="--pulse-height:40%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-tax-network-usa-t-01-08-27" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-tax-network-usa-t-00-34-40" style="--pulse-height:40%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-tax-network-usa-t-01-01-53" style="--pulse-height:40%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-tax-network-usa-t-00-35-05" style="--pulse-height:40%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-tax-network-usa-t-00-49-57" style="--pulse-height:20%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-08" style="--pulse-height:40%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -99,6 +104,11 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-tax-network-usa-t-00-38-11) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-tax-network-usa-t-00-41-39) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-tax-network-usa-t-01-08-27) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-tax-network-usa-t-00-34-40) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-tax-network-usa-t-01-01-53) | 2 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-tax-network-usa-t-00-35-05) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-tax-network-usa-t-00-49-57) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-08) | 2 |
 
 </details>
 </section>
@@ -106,7 +116,59 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (92)</strong></summary>
+<summary><strong class="section-title">Raw mentions (101)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:49:32](/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-08)**
+> "...ezing your bank account, call Tax Network USA."
+
+**[00:49:58](/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-52)**
+> "Call 866-686-1651 or visit TNUSA.com slash Candace. Again, that's TNUSA.com slash ..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:50:12](/episodes/ep-VMNWMXX1vO8.md#ent-org-tax-network-usa-t-00-49-57)**
+> "...zing your bank accounts, call Tax Network USA."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (2 mentions)</summary>
+
+**[00:35:15](/episodes/ep-G3zdOeHpvS0.md#ent-org-tax-network-usa-t-00-35-05)**
+> "...want to remind you guys about Tax Network USA because I know a lot of people owe back taxes."
+
+**[00:35:42](/episodes/ep-G3zdOeHpvS0.md#ent-org-tax-network-usa-t-00-35-42)**
+> "...ezing your bank account, call Tax Network USA."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
+
+**[01:01:53](/episodes/ep-h76ZN-xXC6c.md#ent-org-tax-network-usa-t-01-01-53)**
+> "Call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+**[01:01:24](/episodes/ep-h76ZN-xXC6c.md#ent-org-tax-network-usa-t-01-01-10)**
+> "If you don't have a plan now, you could end up owing even more next tax season. for the IRS starts sending more letters garnishing wages or freezing your bank account, call Tax Network USA."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:35:10](/episodes/ep-19vHhjF7-NA.md#ent-org-tax-network-usa-t-00-34-40)**
+> "...ezing your bank account, call Tax Network USA."
+
+**[00:35:34](/episodes/ep-19vHhjF7-NA.md#ent-org-tax-network-usa-t-00-35-23)**
+> "So call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
@@ -532,13 +594,14 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:33:15](/episodes/ep-kaWtDuoY_ns.md#t-00-33-15): “Stop what you're doing and call Tax Network USA.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:19:46](/episodes/ep--9MOUvgGyi4.md#t-01-19-18): “Stop what you're doing and call Tax Network USA. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:42:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-41-39): “Before the IRS starts sending more letters, garnishing wages, or freezing your bank account, call Tax Network USA.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:49:58](/episodes/ep-IqHsl7d2dos.md#t-00-49-52): “Call 866-686-1651 or visit TNUSA.com slash Candace. Again, that's TNUSA.com slash Candace.”
 
 </details>
 
@@ -548,13 +611,14 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:33:15](/episodes/ep-kaWtDuoY_ns.md#t-00-33-15): “Stop what you're doing and call Tax Network USA.”
 - [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 @ 01:19:46](/episodes/ep--9MOUvgGyi4.md#t-01-19-18): “Stop what you're doing and call Tax Network USA. With over 15 years in business, there hasn't been a tax case that they have not seen or resolved.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:42:00](/episodes/ep-1QZ4X6q1DPg.md#t-00-41-39): “Before the IRS starts sending more letters, garnishing wages, or freezing your bank account, call Tax Network USA.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:49:58](/episodes/ep-IqHsl7d2dos.md#t-00-49-52): “Call 866-686-1651 or visit TNUSA.com slash Candace. Again, that's TNUSA.com slash Candace.”
 
 </details>
 

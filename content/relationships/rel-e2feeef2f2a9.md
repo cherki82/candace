@@ -11,11 +11,15 @@ object: "org-turning-point-usa"
 
 ## [Katherine Locastro](/entities/person-katherine-locastro) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:20:54](/episodes/ep-7ERqbYElOfs#t-00-20-54): _Catherine LoCastro, another amazing TPUSA employee was with her._
+
+**[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
+
+- [00:19:44](/episodes/ep-WoXd4oLwd3w#t-00-19-44): _Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. She's got Katherine Locastro. It's a young woman who works for Turning Point USA._
 
 ### Related
 

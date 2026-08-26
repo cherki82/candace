@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (9 mentions)
+### Evidence (11 mentions)
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -36,6 +36,14 @@ object: "person-charlie-kirk"
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
 - [01:01:12](/episodes/ep-QdM9jLwjwLw#t-01-01-12): _and their mamas good bye again unconscionable something i could not have known when i signed that agreement to tour with Charlie (Charlie Kirk) kirk is that he was going to be publicly assassinated and the people at the organization that he built okay many nights of no sleep_
+
+**[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
+
+- [00:55:29](/episodes/ep-VMNWMXX1vO8#t-00-55-29): _when I toured with Charlie (Charlie Kirk) for five years_
+
+**[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
+
+- [00:04:25](/episodes/ep-h76ZN-xXC6c#t-00-04-25): _So Charlie (Charlie Kirk)'s preference was always, always, always to have a handheld mic, okay? Like this microphone, holding it on stage, very simple, same exact, same as me. So when we toured together, the two of us always requested two handhelds._
 
 **[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
 

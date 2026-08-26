@@ -1,6 +1,6 @@
 ---
 title: "Pentadecanoic acid"
-description: "Pentadecanoic acid (Concepts) - 13 mentions"
+description: "Pentadecanoic acid (Concepts) - 16 mentions"
 id: "concept-pentadecanoic-acid"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44">2026-01-20 · 01:05:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-pentadecanoic-acid-t-00-34-00">2026-05-07 · 00:34:27</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-pentadecanoic-acid-t-00-41-12">2026-06-18 · 00:41:30</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -43,6 +43,7 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-pentadecanoic-acid-t-00-51-34" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-concept-pentadecanoic-acid-t-00-41-48" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-pentadecanoic-acid-t-00-34-00" style="--pulse-height:75%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-pentadecanoic-acid-t-00-41-12" style="--pulse-height:75%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-pentadecanoic-acid-t-00-51-34) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-concept-pentadecanoic-acid-t-00-41-48) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-pentadecanoic-acid-t-00-34-00) | 3 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-concept-pentadecanoic-acid-t-00-41-12) | 3 |
 
 </details>
 </section>
@@ -60,7 +62,21 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3 mentions)</summary>
+
+**[00:41:12](/episodes/ep-3QJqtW_NOSI.md#ent-concept-pentadecanoic-acid-t-00-41-12)**
+> "C15"
+
+**[00:41:22](/episodes/ep-3QJqtW_NOSI.md#ent-concept-pentadecanoic-acid-t-00-41-12)**
+> "C15 was originally studied by Dr. Stephanie Venn-Wats..."
+
+**[00:41:30](/episodes/ep-3QJqtW_NOSI.md#ent-concept-pentadecanoic-acid-t-00-41-12)**
+> "...ater found that low levels of C15 may impact how well our cells age and function ov..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Lori Frantzve"
-description: "Lori Frantzve (People) - 226 mentions"
+description: "Lori Frantzve (People) - 229 mentions"
 id: "person-lori-frantzve"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36">2026-01-06 · 00:27:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18">2026-05-13 · 00:50:40</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>226</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-lori-frantzve-t-00-45-23">2026-06-23 · 00:45:50</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>229</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>100</strong></div>
-<div><span>Relationships</span><strong>47</strong></div>
+<div><span>Relationships</span><strong>48</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -60,6 +60,8 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-lori-frantzve-t-02-11-54" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-lori-frantzve-t-00-17-01" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-lori-frantzve-t-00-06-56" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-lori-frantzve-t-00-45-23" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -90,6 +92,8 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-lori-frantzve-t-02-11-54) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-lori-frantzve-t-00-17-01) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-lori-frantzve-t-00-06-56) | 2 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-lori-frantzve-t-00-45-23) | 1 |
 
 </details>
 </section>
@@ -97,7 +101,26 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (226)</strong></summary>
+<summary><strong class="section-title">Raw mentions (229)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:45:50](/episodes/ep-9CuC1yf8-PU.md#ent-person-lori-frantzve-t-00-45-23)**
+> "there's just something about Lori"
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:07:20](/episodes/ep-VMNWMXX1vO8.md#ent-person-lori-frantzve-t-00-06-56)**
+> "...e one of the ones who brought Lori Frantzve into those government contracts in Arizona. This ..."
+
+**[00:07:39](/episodes/ep-VMNWMXX1vO8.md#ent-person-lori-frantzve-t-00-07-39)**
+> "...onal files. You can see Lori (Lori Frantzve) presenting on the House floor with her second hu..."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
@@ -1081,9 +1104,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Married To (1)</summary>
 
 - **[Larry Guinta](/entities/person-larry-guinta.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32): “Lorin Frantzve is listed as a 20% stakeholder in the business. Larry Guinta, her husband, is also listed as a stakeholder and as the business's registered agent.”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:07:39](/episodes/ep-VMNWMXX1vO8.md#t-00-07-39): “Lori (Lori Frantzve) presenting on the House floor with her second husband, Larry Guinta, actually third husband, Larry Guinta”
 
 </details>
 
@@ -1136,7 +1160,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Parent Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1153,6 +1177,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36): “To me, her and her mom are like Bonnie and Clyde.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:46](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “Turning Point Action actually built a backdoor. It has connections to Erika's mother. ... And if it was turning point action, then there would be a direct tie to Lori Frantzve.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:18](/episodes/ep-7FS1tUeSfdE.md#t-00-17-01): “Erika Kirk's mom.”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:45:50](/episodes/ep-9CuC1yf8-PU.md#t-00-45-23): “trauma, abuse, stressful experiences. I don't love the relationship she has with her mother. I find her mother, there's just something about Lori (Lori Frantzve), I'll tell you that much.”
 
 </details>
 
@@ -1208,7 +1233,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Referenced By (19)</summary>
+<summary>Referenced By (20)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1218,7 +1243,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
@@ -1235,6 +1260,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:19:50](/episodes/ep-xi8SYJTUXPM.md#t-00-19-36): “To me, her and her mom are like Bonnie and Clyde.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:46](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “Turning Point Action actually built a backdoor. It has connections to Erika's mother. ... And if it was turning point action, then there would be a direct tie to Lori Frantzve.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:18](/episodes/ep-7FS1tUeSfdE.md#t-00-17-01): “Erika Kirk's mom.”
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:45:50](/episodes/ep-9CuC1yf8-PU.md#t-00-45-23): “trauma, abuse, stressful experiences. I don't love the relationship she has with her mother. I find her mother, there's just something about Lori (Lori Frantzve), I'll tell you that much.”
 
 </details>
 
@@ -1366,6 +1392,13 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:12:32](/episodes/ep-_vg7ucP1E0g.md#t-00-12-20): “Lori (Lori Frantzve) then releases an intent to sell G-Tech Industries to Saxon Capital Group. A little fun fact here, Saxon Capital Group is actually Lori (Lori Frantzve). ... Lori (Lori Frantzve) is an 86% owner of Saxon Capital Group. They released this onto PR Newswire, and then it turns out that years later, Saxon Capital Group, with Lori (Lori Frantzve) as a minor partner, they're going to file for an IPO and they're like, yeah, no, we actually never did that deal. So just a little bit more of, like, you know, Lori (Lori Frantzve) trickery—like, oh, selling my company, and then she doesn't actually sell it to them, according to them.”
+
+</details>
+
+- **[Eddie Farnsworth](/entities/person-eddie-farnsworth.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:07:20](/episodes/ep-VMNWMXX1vO8.md#t-00-06-56): “Eddie Farnsworth and his brother were one of the ones who brought Lori Frantzve into those government contracts in Arizona.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 98 mentions"
+description: "Lance Twiggs (People) - 129 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -25,11 +25,11 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45">2025-09-16 · 00:00:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-04-02-09">2026-08-14 · 04:02:22</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>98</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>129</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>37</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,6 +49,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-lance-twiggs-t-00-13-37" style="--pulse-height:9%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-lance-twiggs-t-00-08-35" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-lance-twiggs-t-00-35-49" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-lance-twiggs-t-00-25-38" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 5 mentions" title="2026-06-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-lance-twiggs-t-01-00-17" style="--pulse-height:9%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-09-30" style="--pulse-height:66%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 23 mentions" title="2026-07-14 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-47-02" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 35 mentions" title="2026-08-14 · 35 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -67,6 +70,9 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-lance-twiggs-t-00-13-37) | 3 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-lance-twiggs-t-00-08-35) | 2 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-lance-twiggs-t-00-35-49) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-lance-twiggs-t-00-25-38) | 5 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-lance-twiggs-t-01-00-17) | 3 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-09-30) | 23 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-47-02) | 35 |
 
 </details>
@@ -75,7 +81,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (98)</strong></summary>
+<summary><strong class="section-title">Raw mentions (129)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (35 mentions)</summary>
@@ -184,6 +190,114 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[00:51:01](/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-00-50-54)**
 > "...he Robinson family, Twiggs's (Lance Twiggs's) family, both of them."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (23 mentions)</summary>
+
+**[00:09:30](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-09-30)**
+> "Uh, in a burning rage over LGBTQ rights, particularly trans rights, because he has a trans furry boyfriend named Lance Twiggs. “Some hate just can't be negotiated,” he wrote via text. Like, “This is why I did it, Charlie Kirk. I took my shot because I can't stand to hear the hatred that Charlie Kirk spews regarding trans people.” We were constantly reminded that there was going to be footage also of Tyler Robinson"
+
+**[00:12:13](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-11-42)**
+> "...avily from the beginning that Lance Twiggs is a federal asset who gathered Tyler (Tyler Robi..."
+
+**[00:12:25](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-12-25)**
+> "...nd. And I suspect that Lance (Lance Twiggs) himself is heavily blackmailed because he was in..."
+
+**[00:12:34](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-12-25)**
+> "...uencers are pushing relies on Lance Twiggs, who himself probably should be considered a pers..."
+
+**[00:15:59](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-15-50)**
+> "It could also be Lance Twiggs. It could be Ethan Hawke, Tom Holland, Timothée C..."
+
+**[00:16:50](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-16-33)**
+> "...st not convinced. Now, Lance (Lance Twiggs), the star possible fed witness basically says it..."
+
+**[00:22:39](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-22-21)**
+> "...e's apparently texting Lance (Lance Twiggs)."
+
+**[00:23:01](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-23-01)**
+> "...ree hour ride. So when Lance (Lance Twiggs) says that he gets his phone and he's."
+
+**[00:23:45](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-23-45)**
+> "...d he was doing texting Lance (Lance Twiggs) after 11 p.m. or he decided not to mention that ..."
+
+**[00:24:09](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-23-45)**
+> "... is taking care of the Lance (Lance Twiggs) messages. Guys, trust the science. Let's pull th..."
+
+**[00:24:19](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-24-19)**
+> "...y keyboard.” He says, “Lance (Lance Twiggs), what? You're joking, right? F, I tried to delet..."
+
+**[00:27:19](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-27-19)**
+> "...ty of testimony regarding how Lance Twiggs' prints were on everything, the towel, the gun, t..."
+
+**[00:27:32](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-27-19)**
+> "Lance (Lance Twiggs) claims, when it was alibi is for that day when C..."
+
+**[00:27:54](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-27-19)**
+> "...of this hearing, okay? Lance (Lance Twiggs) confirmed my report that Tyler (Tyler Robinson) ..."
+
+**[00:28:02](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-28-02)**
+> "If Lance (Lance Twiggs) is to be believed, then their entire leftist rag..."
+
+**[00:34:22](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-34-22)**
+> "...n, which, of course, included Lance Twiggs. It also included Matt Robinson, Tyler Robinson's..."
+
+**[00:38:29](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-38-29)**
+> "...s to me as more evidence that Lance Twiggs simply took Tyler Robinson's family heirloom of a..."
+
+**[00:38:55](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-38-55)**
+> "..., Tyler (Tyler Robinson), and Lance Twiggs had stronger DNA samples than Tyler Robinson did—..."
+
+**[00:54:12](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-00-53-42)**
+> "... going to have to explain why Lance Twiggs is not being considered a suspect."
+
+**[01:16:51](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-01-16-43)**
+> "... for Tyler Robinson, throwing Lance Twiggs to the wolves. Yeah, I saw that too. They're like..."
+
+**[01:19:45](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-01-19-45)**
+> "... limped switched legs, Lance (Lance Twiggs), is sus, and he seems like an MKUltra op."
+
+**[01:19:54](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-01-19-45)**
+> "... personally think that Lance (Lance Twiggs) is blackmailed. Based on the conversations I've ..."
+
+**[01:20:21](/episodes/ep-EtLHqDbxqks.md#ent-person-lance-twiggs-t-01-20-21)**
+> "I don't know, maybe Lance (Lance Twiggs) told him to do that, showing up for his boyfrien..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
+
+**[01:00:33](/episodes/ep-IqHsl7d2dos.md#ent-person-lance-twiggs-t-01-00-17)**
+> "... Tyler Robinson was set up by Lance Twiggs—that's my belief, on the basis of the evidence th..."
+
+**[01:00:40](/episodes/ep-IqHsl7d2dos.md#ent-person-lance-twiggs-t-01-00-17)**
+> "And Lance Twiggs is being protected. I believe it was Lance Twiggs..."
+
+**[01:00:45](/episodes/ep-IqHsl7d2dos.md#ent-person-lance-twiggs-t-01-00-17)**
+> "...was taken, but I believe it's Lance Twiggs that is walking in the maroon shirt."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (5 mentions)</summary>
+
+**[00:25:38](/episodes/ep-9CuC1yf8-PU.md#ent-person-lance-twiggs-t-00-25-38)**
+> "Lance Twigs might be a federal asset"
+
+**[00:26:03](/episodes/ep-9CuC1yf8-PU.md#ent-person-lance-twiggs-t-00-26-03)**
+> "...n the extraordinary role that Lance Twigs played in shaping the narrative against his..."
+
+**[00:26:41](/episodes/ep-9CuC1yf8-PU.md#ent-person-lance-twiggs-t-00-26-41)**
+> "...ime a recorded statement from Lance Twigs at the preliminary hearing."
+
+**[00:26:51](/episodes/ep-9CuC1yf8-PU.md#ent-person-lance-twiggs-t-00-26-41)**
+> "So essentially, Lance Twigs is allowed to testify against Tyler Robinso..."
+
+**[00:27:48](/episodes/ep-9CuC1yf8-PU.md#ent-person-lance-twiggs-t-00-27-15)**
+> "...elf in that circumstance? OK, Lance says it happened and you have no right to examine..."
 
 </details>
 
@@ -442,34 +556,60 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Roommate Of (1)</summary>
+<summary>Accused By (1)</summary>
 
-- **[Tyler Robinson](/entities/person-tyler-robinson.md)**
+- **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:46:02](/episodes/ep-eLgD5yUVbko.md#t-00-45-40): “a bend toward violence they talked about i've communicated this to you guys early on uh the things that would go on as he was raised how they eventually had to kick him out of the house they own the house that tyler robinson and lance live in and they are telling you that the relationship between lance and the feds is unnatural i presented that to you lance's own family is saying that now ... That to me reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm giving you an example here. I'm not saying this is what happened, but maybe they catch Lance on a website.”
-- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:42:35](/episodes/ep-1mYNOqzAdXs.md#t-00-42-11): “I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun. He got Tyler Robinson's casings at an earlier time.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:33](/episodes/ep-IqHsl7d2dos.md#t-01-00-17): “I believe that Tyler Robinson was set up by Lance Twiggs—that's my belief, on the basis of the evidence that has been presented to the public thus far.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:38:29](/episodes/ep-EtLHqDbxqks.md#t-00-38-29): “OK, this registers to me as more evidence that Lance Twiggs simply took Tyler Robinson's family heirloom of a gun and helped the feds set him up as a patsy. There is no reason why Lance Twiggs's prints are less degraded than Tyler Robinson's prints on this gun if Tyler Robinson is the shooter. It is a massive admission by her that his prints were degrading.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Roommate Of (1)</summary>
+
+- **[Tyler Robinson](/entities/person-tyler-robinson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:46:02](/episodes/ep-eLgD5yUVbko.md#t-00-45-40): “a bend toward violence they talked about i've communicated this to you guys early on uh the things that would go on as he was raised how they eventually had to kick him out of the house they own the house that tyler robinson and lance live in and they are telling you that the relationship between lance and the feds is unnatural i presented that to you lance's own family is saying that now ... That to me reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm giving you an example here. I'm not saying this is what happened, but maybe they catch Lance on a website.”
+- [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:42:35](/episodes/ep-1mYNOqzAdXs.md#t-00-42-11): “I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun. He got Tyler Robinson's casings at an earlier time.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:33](/episodes/ep-IqHsl7d2dos.md#t-01-00-17): “I believe that Tyler Robinson was set up by Lance Twiggs—that's my belief, on the basis of the evidence that has been presented to the public thus far. ... ironically just realized this is a maroon shirt um that was taken uh this allegedly the same day and i think yeah he would have been able to access all of his roommates stuff and i don't think they are going to be able to convince the public that tyler robinson did this and i think they know that that's why i said it's like what now what What's the next step here?”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:12:25](/episodes/ep-EtLHqDbxqks.md#t-00-12-25): “A very easy feat because he was his roommate and his boyfriend.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:33](/episodes/ep-IqHsl7d2dos.md#t-01-00-17): “I believe that Tyler Robinson was set up by Lance Twiggs—that's my belief, on the basis of the evidence that has been presented to the public thus far.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:38:29](/episodes/ep-EtLHqDbxqks.md#t-00-38-29): “OK, this registers to me as more evidence that Lance Twiggs simply took Tyler Robinson's family heirloom of a gun and helped the feds set him up as a patsy. There is no reason why Lance Twiggs's prints are less degraded than Tyler Robinson's prints on this gun if Tyler Robinson is the shooter. It is a massive admission by her that his prints were degrading.”
+
+</details>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** dating this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:09:34](/episodes/ep-HYn0P-P1wUw.md#t-00-08-57): “is when we are gauging the first correspondence to have taken place between Tyler (Tyler Robinson) and Lance (Lance Twiggs) based on the conversation that they were having.”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:33:42](/episodes/ep-nPhCKwJ6ye8.md#t-01-33-02): “Lance was his boyfriend. That is a that is a crucial fact here. That discovery was not met by the time I got to preliminary hearing.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:12:25](/episodes/ep-EtLHqDbxqks.md#t-00-12-25): “A very easy feat because he was his roommate and his boyfriend.”
 
 </details>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** roommate of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:46:02](/episodes/ep-eLgD5yUVbko.md#t-00-45-40): “a bend toward violence they talked about i've communicated this to you guys early on uh the things that would go on as he was raised how they eventually had to kick him out of the house they own the house that tyler robinson and lance live in and they are telling you that the relationship between lance and the feds is unnatural i presented that to you lance's own family is saying that now ... That to me reads like a federal asset. Lance, that's your roommate. OK, maybe maybe you I'm giving you an example here. I'm not saying this is what happened, but maybe they catch Lance on a website.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:42:35](/episodes/ep-1mYNOqzAdXs.md#t-00-42-11): “I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun. He got Tyler Robinson's casings at an earlier time.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:33](/episodes/ep-IqHsl7d2dos.md#t-01-00-17): “I believe that Tyler Robinson was set up by Lance Twiggs—that's my belief, on the basis of the evidence that has been presented to the public thus far. ... ironically just realized this is a maroon shirt um that was taken uh this allegedly the same day and i think yeah he would have been able to access all of his roommates stuff and i don't think they are going to be able to convince the public that tyler robinson did this and i think they know that that's why i said it's like what now what What's the next step here?”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:12:25](/episodes/ep-EtLHqDbxqks.md#t-00-12-25): “A very easy feat because he was his roommate and his boyfriend.”
 
 </details>
 
@@ -478,7 +618,26 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lance Twiggs (21)</strong></summary>
+<summary><strong class="section-title">Statements by Lance Twiggs (3)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (3)</summary>
+
+- [00:17:19](/episodes/ep-EtLHqDbxqks.md#t-00-17-19) [○] (Opinion) ["Lance Twiggs said he could not identify the person in the images with 100% certa..."](/statements/statement-a1020be5ba5d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:28:47](/episodes/ep-EtLHqDbxqks.md#t-00-28-47) [○] (Claim) ["Lance Twiggs said he had never personally heard Tyler Robinson talk specifically..."](/statements/statement-f5d72fd954b2.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:29:04](/episodes/ep-EtLHqDbxqks.md#t-00-29-04) [○] (Claim) ["Lance Twiggs said he and Tyler Robinson did not really discuss gender identity o..."](/statements/statement-2f79a060275a.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Donald J. Trump](/entities/person-donald-trump.md), [LGBTQ](/entities/concept-lgbtq.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Lance Twiggs (37)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4)</summary>
@@ -493,6 +652,69 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) (Citation) **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier cl..."](/statements/statement-7d36617db0e1.md)
   - Also about: [Matt Robinson](/entities/person-matt-robinson.md), [Amber Robinson](/entities/person-amber-robinson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (10)</summary>
+
+- [00:08:38](/episodes/ep-EtLHqDbxqks.md#t-00-08-38) (Claim) **Steve Deace** (via quoted speech): ["Steve Deace said Tyler Robinson made three confessions: one to his par..."](/statements/statement-b092d5dd493a.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Discord](/entities/org-discord.md)
+
+- [00:12:13](/episodes/ep-EtLHqDbxqks.md#t-00-11-42) (Accusation) **Candace Owens**: ["Candace Owens said she had strongly suggested that Lance Twiggs was a ..."](/statements/statement-ba3ddd57cb77.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:22:39](/episodes/ep-EtLHqDbxqks.md#t-00-22-21) (Claim) **Candace Owens**: ["Candace Owens said a debit-card receipt placed Tyler Robinson at a Pan..."](/statements/statement-d191a5fe5a01.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md), [Orem, Utah](/entities/gpe-orem-utah.md)
+
+- [00:23:33](/episodes/ep-EtLHqDbxqks.md#t-00-23-01) (Claim) **Candace Owens**: ["Candace Owens argued that Tyler Robinson could not have been monitorin..."](/statements/statement-06f27f97bf32.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Panguitch, Utah](/entities/gpe-panguitch-utah.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+- [00:24:00](/episodes/ep-EtLHqDbxqks.md#t-00-23-45) (Claim) **Candace Owens**: ["Candace Owens said the messages attributed to Tyler Robinson and Lance..."](/statements/statement-41f520ff65e0.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Tel Aviv](/entities/gpe-tel-aviv.md)
+
+- [00:27:19](/episodes/ep-EtLHqDbxqks.md#t-00-27-19) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said testimony showed Lance Twiggs's prints were on the ..."](/statements/statement-40e48c22d0eb.md)
+  - Also about: [Dremel](/entities/org-dremel.md)
+
+- [00:27:32](/episodes/ep-EtLHqDbxqks.md#t-00-27-19) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Lance Twiggs claimed he slept until 1 p.m. on the d..."](/statements/statement-867d8fcbf2d7.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:29](/episodes/ep-EtLHqDbxqks.md#t-00-38-29) (Accusation) **Candace Owens**: ["Candace Owens said the DNA degradation registered to her as more evide..."](/statements/statement-18190e21f6d6.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [00:54:12](/episodes/ep-EtLHqDbxqks.md#t-00-53-42) (Accusation) **Candace Owens**: ["Candace Owens argued that Lance Twiggs's DNA was on everything and tha..."](/statements/statement-6413c876d678.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
+
+- [01:19:54](/episodes/ep-EtLHqDbxqks.md#t-01-19-45) (Accusation) **Candace Owens**: ["Candace Owens said she personally thinks Lance Twiggs was blackmailed ..."](/statements/statement-e376bb218b7e.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2)</summary>
+
+- [01:00:28](/episodes/ep-IqHsl7d2dos.md#t-01-00-17) (Accusation) **Candace Owens**: ["Owens said she did not believe Tyler Robinson killed Charlie Kirk and ..."](/statements/statement-8bd128a9b9a2.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:00:40](/episodes/ep-IqHsl7d2dos.md#t-01-00-17) (Accusation) **Candace Owens**: ["Owens said she believed Lance Twiggs was being protected and was the p..."](/statements/statement-4f2da7efb41f.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (4)</summary>
+
+- [00:25:38](/episodes/ep-9CuC1yf8-PU.md#t-00-25-38) (Accusation) **Candace Owens**: ["Owens said that if her theory were taken to its natural conclusion, La..."](/statements/statement-9660a17d9d1b.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [00:26:28](/episodes/ep-9CuC1yf8-PU.md#t-00-26-03) (Claim) **Candace Owens**: ["Owens reported that Judge Tony Graf denied Tyler Robinson's defense re..."](/statements/statement-a2cda7235882.md)
+  - Also about: [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:26:41](/episodes/ep-9CuC1yf8-PU.md#t-00-26-41) (Claim) **Candace Owens**: ["Owens reported that prosecutors planned to present a recorded statemen..."](/statements/statement-d210268ed250.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:27:55](/episodes/ep-9CuC1yf8-PU.md#t-00-27-15) (Accusation) **Candace Owens**: ["Owens said Robinson's defense had not received access to the underlyin..."](/statements/statement-92e7fa874abd.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>
 

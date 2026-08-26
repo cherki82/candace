@@ -11,7 +11,7 @@ object: "person-michael-mccoy"
 
 ## [Rob McCoy](/entities/person-rob-mccoy) parent of [Michael McCoy](/entities/person-michael-mccoy)
 
-### Evidence (8 mentions)
+### Evidence (9 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -32,6 +32,10 @@ object: "person-michael-mccoy"
 **[EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo)**
 
 - [00:03:14](/episodes/ep-Qfwr08Ebczo#t-00-03-14): _I used to be known as Charlie Kirk's pastor. Now I'm known as Mikey McCoy's dad._
+
+**[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
+
+- [00:37:06](/episodes/ep-VMNWMXX1vO8#t-00-37-06): _Pastor Rob McCoy, Mikey McCoy's daddy._
 
 **[Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Dan Bongino"
-description: "Dan Bongino (People) - 14 mentions"
+description: "Dan Bongino (People) - 35 mentions"
 id: "person-dan-bongino"
 type: "PERSON"
 aliases:
@@ -23,23 +23,25 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22">2025-12-17 · 00:24:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32">2026-08-14 · 02:36:32</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22">BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16">REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 7 mentions" title="2025-12-17 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-dan-bongino-t-01-01-04" style="--pulse-height:29%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24" style="--pulse-height:29%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-dan-bongino-t-00-24-22" style="--pulse-height:37%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 7 mentions" title="2025-12-17 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-dan-bongino-t-01-01-04" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 19 mentions" title="2026-06-13 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-16" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +51,8 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-person-dan-bongino-t-01-01-04) | 2 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16) | 19 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-16) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24) | 2 |
 
 </details>
@@ -57,7 +61,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -67,6 +71,79 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 **[02:36:32](/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32)**
 > "Dan Bongino"
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:22:45](/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-16)**
+> "Dan Bongino"
+
+**[00:23:04](/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-56)**
+> "...hat were leaking to them, but Dan Bongino seems to be an obvious one to me when I read the ..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (19 mentions)</summary>
+
+**[00:02:16](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16)**
+> "About Butler, I know that Trump (Donald Trump) shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI."
+
+**[00:06:53](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-06-53)**
+> "Tucker (Tucker Carlson) was very clear that he spoke with Dan (Dan Bongino) in December. And Dan (Dan Bongino) thinks that he has a ha-ha gotcha. I'm going to prove that Tucker (Tucker Carlson) is stupid by showing an article that was published before him and Tucker (Tucker Carlson) spoke."
+
+**[00:02:59](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-59)**
+> "and dan bongino became hysterical with me on the phone i've known dan a long time for many years and always got along with him you know whatever his faults say you know nice guy nice certainly very nice to me i never had a problem with dan ever and that problem began when i brought this information to his attention and he he became a different person he was clearly terrified i didn't get it at first but he was he was hysterical And ultimately, after a long series of text exchanges,"
+
+**[00:02:24](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16)**
+> "And Dan Bongino himself was terrified when I spoke to him in Dece..."
+
+**[00:02:45](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16)**
+> "...Kash Patel and I later called Dan Bongino and I says, you know, what is this? I'm not attac..."
+
+**[00:04:07](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-03-54)**
+> "And then I saw... Dan Bongino's response. So just to recap what we just heard the..."
+
+**[00:04:35](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-04-35)**
+> "...in power now and he says that Dan Bongino grew hysterical And he says that Dan Bongino was ..."
+
+**[00:05:00](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-04-35)**
+> "...up, whatever it is, terrified Dan Bongino and terrified Kash Patel. Totally believable just..."
+
+**[00:05:10](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-04-35)**
+> "And this is how Dan Bongino chose to respond to Tucker (Tucker Carlson) sayin..."
+
+**[00:08:36](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-08-36)**
+> "Dan Bongino: "But keep this up, guys." / Candace Owens: "But ..."
+
+**[00:08:38](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-08-38)**
+> "out of this, Dan (Dan Bongino), it's because Tucker (Tucker Carlson) spoke to y..."
+
+**[00:08:50](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-08-38)**
+> "I mean, Dan Bongino is just lying. That's how I'm reading him. He's n..."
+
+**[00:08:56](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-08-38)**
+> "... conversations with him. Dan (Dan Bongino) appeared terrified. Tucker (Tucker Carlson) said..."
+
+**[00:09:09](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-08-38)**
+> "And then Dan (Dan Bongino) proved Tucker (Tucker Carlson)'s point by shovin..."
+
+**[00:09:22](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-09-22)**
+> "...nt released. Take a listen to Dan Bongino pull the paramount—not so tactical."
+
+**[00:10:32](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-10-32)**
+> "OK, so if Dan (Dan Bongino), if the president could be called and could be t..."
+
+**[00:12:56](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-12-56)**
+> "...is telling the truth and Dan (Dan Bongino)'s entire face and demeanor and panic and yelling..."
+
+**[00:13:14](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-12-56)**
+> "...r face that I've ever seen in Dan Bongino. He can't even think rationally."
+
+**[00:15:03](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-15-03)**
+> "which is that Dan Bongino was one of the sources and I'll tell you why I th..."
 
 </details>
 
@@ -129,19 +206,44 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Criticized (1)</summary>
 
-- **[FBI](/entities/org-fbi.md)**
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-22): “Dan Bongino...is going to leave the FBI as assistant director of the FBI. He will be stepping down.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:06:53](/episodes/ep-WoXd4oLwd3w.md#t-00-06-53): “Dan (Dan Bongino) thinks that he has a ha-ha gotcha. I'm going to prove that Tucker (Tucker Carlson) is stupid by showing an article that was published before him and Tucker (Tucker Carlson) spoke.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Friend Of (2)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:08:50](/episodes/ep-WoXd4oLwd3w.md#t-00-08-38): “I mean, Dan Bongino is just lying. That's how I'm reading him.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[FBI](/entities/org-fbi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-22): “Dan Bongino...is going to leave the FBI as assistant director of the FBI. He will be stepping down.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:02:16](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16): “About Butler, I know that Trump (Donald Trump) shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Friend Of (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -157,15 +259,37 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 </details>
 
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:04:07](/episodes/ep-WoXd4oLwd3w.md#t-00-03-54): “So just to recap what we just heard there, Tucker (Tucker Carlson) says he reached out to Dan Bongino because they had been friends for a long time.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (6)</summary>
 
-- **[FBI](/entities/org-fbi.md)** formerly employed this
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:08:50](/episodes/ep-WoXd4oLwd3w.md#t-00-08-38): “I mean, Dan Bongino is just lying. That's how I'm reading him.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:06:53](/episodes/ep-WoXd4oLwd3w.md#t-00-06-53): “Dan (Dan Bongino) thinks that he has a ha-ha gotcha. I'm going to prove that Tucker (Tucker Carlson) is stupid by showing an article that was published before him and Tucker (Tucker Carlson) spoke.”
+
+</details>
+
+- **[FBI](/entities/org-fbi.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:25:01](/episodes/ep-9k2xrAC0H88.md#t-00-24-22): “Dan Bongino...is going to leave the FBI as assistant director of the FBI. He will be stepping down.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:02:16](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16): “About Butler, I know that Trump (Donald Trump) shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI.”
 
 </details>
 
@@ -183,12 +307,81 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 </details>
 
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:04:07](/episodes/ep-WoXd4oLwd3w.md#t-00-03-54): “So just to recap what we just heard there, Tucker (Tucker Carlson) says he reached out to Dan Bongino because they had been friends for a long time.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Bongino (2)</strong></summary>
+<summary><strong class="section-title">Statements by Dan Bongino (6)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (6)</summary>
+
+- [00:03:28](/episodes/ep-WoXd4oLwd3w.md#t-00-02-59) [○] (Accusation) ["Donald Trump was the person who shut down the Butler investigation."](/statements/statement-9ff756c3e31e.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:07:15](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15) [✓] (Accusation) ["Dan Bongino said Tucker Carlson's claim that Donald Trump shut down the Butler i..."](/statements/statement-61121899e644.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:07:44](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15) [✓] (Citation) ["Dan Bongino cited a Fox News report saying the FBI concluded Thomas Crooks acted..."](/statements/statement-5023467dd2c1.md)
+  - About: [FBI](/entities/org-fbi.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Fox News](/entities/org-fox-news.md)
+
+- [00:09:49](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) [○] (Opinion) ["Dan Bongino called absurd Tucker Carlson's apparent belief that Bongino and Kash..."](/statements/statement-35e8df5c4a6e.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Dan Bongino](/entities/person-dan-bongino.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:10:13](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) [○] (Claim) ["Dan Bongino said Donald Trump had repeatedly told Bongino and Kash Patel that he..."](/statements/statement-91bb38494d35.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Dan Bongino](/entities/person-dan-bongino.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:10:18](/episodes/ep-WoXd4oLwd3w.md#t-00-10-18) [○] (Claim) ["Dan Bongino said Donald Trump would tell Bongino and Kash Patel when Trump was r..."](/statements/statement-3c092f53779d.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Dan Bongino](/entities/person-dan-bongino.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Dan Bongino (10)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:22:45](/episodes/ep-3QJqtW_NOSI.md#t-00-22-16) (Opinion) **Candace Owens**: ["Owens said she believed the New York Times article was well sourced an..."](/statements/statement-e29e24adf5c7.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (7)</summary>
+
+- [00:02:16](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) (Accusation) **Tucker Carlson**: ["Tucker Carlson said Donald Trump shut down the Butler investigation an..."](/statements/statement-f73d6f2037c9.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [FBI](/entities/org-fbi.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:02:59](/episodes/ep-WoXd4oLwd3w.md#t-00-02-59) (Claim) **Tucker Carlson**: ["Tucker Carlson said Dan Bongino became hysterical and appeared terrifi..."](/statements/statement-286001fdfc9f.md)
+  - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
+- [00:08:42](/episodes/ep-WoXd4oLwd3w.md#t-00-08-38) (Accusation) **Candace Owens**: ["Candace Owens accused Dan Bongino of lying in his response to Tucker C..."](/statements/statement-33400e18e5c6.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:09:49](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) (Opinion) **Dan Bongino**: ["Dan Bongino called absurd Tucker Carlson's apparent belief that Bongin..."](/statements/statement-35e8df5c4a6e.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:10:13](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) (Claim) **Dan Bongino**: ["Dan Bongino said Donald Trump had repeatedly told Bongino and Kash Pat..."](/statements/statement-91bb38494d35.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:10:18](/episodes/ep-WoXd4oLwd3w.md#t-00-10-18) (Claim) **Dan Bongino**: ["Dan Bongino said Donald Trump would tell Bongino and Kash Patel when T..."](/statements/statement-3c092f53779d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kash Patel](/entities/person-kash-patel.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:10:32](/episodes/ep-WoXd4oLwd3w.md#t-00-10-32) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens characterized Dan Bongino's text as confirming that Dona..."](/statements/statement-4018b04048d1.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2)</summary>

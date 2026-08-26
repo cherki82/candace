@@ -1,18 +1,26 @@
 ---
 title: "Sam Parker"
-description: "Sam Parker (People) - 6 mentions"
+description: "Sam Parker (People) - 7 mentions"
 id: "person-sam-parker"
 type: "PERSON"
+categories:
+  - "political commentary"
 ---
 
 _Type: People_
 
+**Categories:** political commentary
+
+**Entity verification:** verified
+> Episode context credits X user Sam Parker with the analyzed microphone video; the self-identified @BasedSamParker profile and its indexed post about Phillip Goldsberry and Charlie Kirk's microphone match that context, confirming the canonical name.
+Source: [Sam Parker (@BasedSamParker) / X](https://x.com/BasedSamParker)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-sam-parker-t-00-07-35">2025-10-08 · 00:07:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22">2025-11-06 · 00:24:53</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-sam-parker-t-00-14-41">2026-06-17 · 00:15:00</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -27,6 +35,7 @@ _Type: People_
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-sam-parker-t-00-40-02" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-16-56" style="--pulse-height:50%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-sam-parker-t-00-14-41" style="--pulse-height:50%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -37,6 +46,7 @@ _Type: People_
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-sam-parker-t-00-40-02) | 2 |
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-person-sam-parker-t-00-16-56) | 1 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-sam-parker-t-00-24-22) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-sam-parker-t-00-14-41) | 1 |
 
 </details>
 </section>
@@ -44,7 +54,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:15:00](/episodes/ep-G3zdOeHpvS0.md#ent-person-sam-parker-t-00-14-41)**
+> "...t was put together by ex-user Sam Parker."
+
+</details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (1 mentions)</summary>
@@ -95,5 +113,21 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Sam Parker (2)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (2)</summary>
+
+- [00:15:30](/episodes/ep-G3zdOeHpvS0.md#t-00-15-25) [◐] (Claim) ["Sam Parker said video showed Philip Goldsberry Jr. holding a RODE Wireless Pro m..."](/statements/statement-46b9e8c7287e.md)
+  - About: [Phillip Goldsberry Jr.](/entities/person-phillip-goldsberry-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+- [00:16:29](/episodes/ep-G3zdOeHpvS0.md#t-00-16-28) [◐] (Claim) ["Sam Parker said Philip Goldsberry Jr. secured the microphone beneath Charlie Kir..."](/statements/statement-de0869762edf.md)
+  - About: [Phillip Goldsberry Jr.](/entities/person-phillip-goldsberry-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+</details>
 
 </details>

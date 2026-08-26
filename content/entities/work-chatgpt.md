@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT"
-description: "ChatGPT (Works & Media) - 5 mentions"
+description: "ChatGPT (Works & Media) - 7 mentions"
 id: "work-chatgpt"
 type: "WORK"
 categories:
@@ -19,7 +19,7 @@ Source: [OpenAI: ChatGPT](https://openai.com/chatgpt/overview/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-chatgpt-t-00-33-32">2026-01-29 · 00:33:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-work-chatgpt-t-00-43-45">2026-05-18 · 00:43:45</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,7 +48,7 @@ Source: [OpenAI: ChatGPT](https://openai.com/chatgpt/overview/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Germany"
-description: "Germany (Places) - 25 mentions"
+description: "Germany (Places) - 27 mentions"
 id: "gpe-germany"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03">2025-10-02 · 00:24:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-germany-t-00-33-55">2026-05-28 · 00:34:13</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-germany-t-00-36-48">2026-06-24 · 00:36:59</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,8 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-germany-t-00-09-39" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-germany-t-00-39-30" style="--pulse-height:25%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-germany-t-00-33-55" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-germany-t-00-22-44" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-germany-t-00-36-48" style="--pulse-height:25%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +68,8 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-germany-t-00-09-39) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-gpe-germany-t-00-39-30) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-germany-t-00-33-55) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-germany-t-00-22-44) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-germany-t-00-36-48) | 1 |
 
 </details>
 </section>
@@ -73,7 +77,23 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:36:59](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-germany-t-00-36-48)**
+> "Project Monarch, which took place in Germany"
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:22:44](/episodes/ep-19vHhjF7-NA.md#ent-gpe-germany-t-00-22-44)**
+> "...rd. I'm not going to be here. Germany in February of 2025. And when I say like they pro..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -222,7 +242,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Germany (2)</strong></summary>
+<summary><strong class="section-title">Statements about Germany (3)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
+
+- [00:36:59](/episodes/ep-sKuYLNx3iRo.md#t-00-36-48) (Claim) **Candace Owens**: ["Owens asserted that the MKUltra program began with Project Monarch in ..."](/statements/statement-9b1138ed5507.md)
+  - Also about: [Project Monarch](/entities/concept-project-monarch.md), [MKUltra](/entities/concept-mkultra.md)
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>

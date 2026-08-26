@@ -1,6 +1,6 @@
 ---
 title: "Lawrence B. Jones"
-description: "Lawrence B. Jones (People) - 1 mention"
+description: "Lawrence B. Jones (People) - 2 mentions"
 id: "person-lawrence-b-jones"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Lawrence Jones - Fox News](https://www.foxnews.com/person/j/lawrence-jo
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-lawrence-b-jones-t-00-51-19">2026-03-12 · 00:51:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-lawrence-b-jones-t-00-51-19">2026-03-12 · 00:51:49</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#t-00-12-23">2026-06-11 · 00:12:23</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Lawrence Jones - Fox News](https://www.foxnews.com/person/j/lawrence-jo
 <p>Highest activity: <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-lawrence-b-jones-t-00-51-19">EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-lawrence-b-jones-t-00-51-19" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#t-00-12-23" style="--pulse-height:100%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-lawrence-b-jones-t-00-51-19) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-12-23) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Lawrence Jones - Fox News](https://www.foxnews.com/person/j/lawrence-jo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:12:23](/episodes/ep-19vHhjF7-NA.md#t-00-12-23)**
+> "But, you know, look, my preference has always been take Kharg Island. That's been, Brian knows that, I spoke to him a long time ago, Lawrence knows it."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 (1 mentions)</summary>

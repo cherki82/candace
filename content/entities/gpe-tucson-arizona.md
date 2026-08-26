@@ -1,6 +1,6 @@
 ---
 title: "Tucson, Arizona"
-description: "Tucson, Arizona (Places) - 13 mentions"
+description: "Tucson, Arizona (Places) - 15 mentions"
 id: "gpe-tucson-arizona"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-tucson-arizona-t-00-38-28">2026-01-06 · 00:38:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-tucson-arizona-t-00-27-22">2026-05-27 · 00:27:22</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-tucson-arizona-t-00-08-50">2026-06-18 · 00:08:50</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,8 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-tucson-arizona-t-00-19-19" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 9 mentions" title="2026-02-09 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-tucson-arizona-t-00-41-16" style="--pulse-height:11%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-tucson-arizona-t-00-27-22" style="--pulse-height:11%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-tucson-arizona-t-00-46-17" style="--pulse-height:11%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-tucson-arizona-t-00-08-50" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +51,8 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-tucson-arizona-t-00-19-19) | 9 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-tucson-arizona-t-00-41-16) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-tucson-arizona-t-00-27-22) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-tucson-arizona-t-00-46-17) | 1 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-tucson-arizona-t-00-08-50) | 1 |
 
 </details>
 </section>
@@ -56,7 +60,23 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:08:50](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-tucson-arizona-t-00-08-50)**
+> "plane that flew to Tucson, Arizona"
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:46:42](/episodes/ep-19vHhjF7-NA.md#ent-gpe-tucson-arizona-t-00-46-17)**
+> "...teresting for us. He stops in Tucson, then he goes to Fort Huachuca on the 8th. That's..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -127,7 +147,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucson, Arizona (3)</strong></summary>
+<summary><strong class="section-title">Statements about Tucson, Arizona (5)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:08:50](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50) (Claim) **Candace Owens**: ["Owens said SAM 702 flew to Tucson on September 8, two days before Char..."](/statements/statement-4d68bee53713.md)
+  - Also about: [SAM 702](/entities/vehicle-sam-702.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [El Paso](/entities/gpe-el-paso.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:46:42](/episodes/ep-19vHhjF7-NA.md#t-00-46-17) (Claim) **Candace Owens**: ["Owens said Bradley D. Hansell stopped in Tucson and then traveled to F..."](/statements/statement-adfcef26fad7.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>

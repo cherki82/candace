@@ -1,6 +1,6 @@
 ---
 title: "U.S. Department of Veterans Affairs"
-description: "U.S. Department of Veterans Affairs (Organizations) - 4 mentions"
+description: "U.S. Department of Veterans Affairs (Organizations) - 11 mentions"
 id: "org-us-department-of-veterans-affairs"
 type: "ORG"
 aliases:
@@ -23,21 +23,25 @@ Source: [About the Department - U.S. Department of Veterans Affairs](https://dep
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#t-00-33-53">2025-12-01 · 00:34:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#t-01-15-39">2026-06-09 · 01:15:39</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#t-00-31-51">2026-06-26 · 00:31:51</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-YeEtS7nix3o.md#t-00-13-10">I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-h76ZN-xXC6c.md#t-00-53-35">The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-33-53" style="--pulse-height:33%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#t-00-13-10" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#t-00-33-53" style="--pulse-height:25%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#t-00-13-10" style="--pulse-height:75%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#t-00-20-48" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#t-00-53-35" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#t-00-30-48" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#t-00-31-51" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +49,10 @@ Source: [About the Department - U.S. Department of Veterans Affairs](https://dep
 |---|---|---:|
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-00-13-10) | 3 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-20-48) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#t-00-53-35) | 4 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#t-00-30-48) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-31-51) | 1 |
 
 </details>
 </section>
@@ -52,7 +60,48 @@ Source: [About the Department - U.S. Department of Veterans Affairs](https://dep
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:31:51](/episodes/ep-IqHsl7d2dos.md#t-00-31-51)**
+> "...he basics, housing, access to VA benefits, transportation, and counseling, the tan..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:31:03](/episodes/ep-3QJqtW_NOSI.md#t-00-30-48)**
+> "VA benefits"
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (4 mentions)</summary>
+
+**[00:53:50](/episodes/ep-h76ZN-xXC6c.md#t-00-53-35)**
+> "Lastly, I know We're pressed for time here, but I do want to give you guys a we've got so many emails about the individual just protecting identity still that we traveled to with Russia who served in our military for 12 years, a SEAL Team One actually, and was begging for an appointment at the VA and was routinely being declined that appointment at the VA and had a"
+
+**[00:54:55](/episodes/ep-h76ZN-xXC6c.md#t-00-54-17)**
+> "And knowing that the VA just kept denying him, his wife sent me all the e..."
+
+**[00:57:36](/episodes/ep-h76ZN-xXC6c.md#t-00-57-36)**
+> "... I can't imagine going to the VA with all of these symptoms and having them gaslig..."
+
+**[01:00:26](/episodes/ep-h76ZN-xXC6c.md#t-01-00-26)**
+> "... the particular people at the VA. I'm sure there are tons of people who are workin..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:20:48](/episodes/ep-19vHhjF7-NA.md#t-00-20-48)**
+> "...he basics, housing, access to VA benefits, transportation, and counseling, the tan..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
@@ -81,12 +130,45 @@ Source: [About the Department - U.S. Department of Veterans Affairs](https://dep
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:57:36](/episodes/ep-h76ZN-xXC6c.md#t-00-57-36): “He was spitting up blood in the morning. And I can't imagine going to the VA with all of these symptoms and having them gaslight you and tell you that you have PTSD.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:57:36](/episodes/ep-h76ZN-xXC6c.md#t-00-57-36): “He was spitting up blood in the morning. And I can't imagine going to the VA with all of these symptoms and having them gaslight you and tell you that you have PTSD.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about U.S. Department of Veterans Affairs (3)</strong></summary>
+<summary><strong class="section-title">Statements about U.S. Department of Veterans Affairs (5)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
+
+- [00:53:50](/episodes/ep-h76ZN-xXC6c.md#t-00-53-35) (Accusation) **Candace Owens**: ["Owens said the veteran traveling with her had served in the U.S. milit..."](/statements/statement-e1b1042fa798.md)
+  - Also about: [Veteran friend treated in Russia (identity withheld)](/entities/anon-src-h76ZN-xXC6c-veteran-friend.md), [SEAL Team ONE](/entities/org-seal-team-one.md), [Russia](/entities/gpe-russia.md)
+
+- [00:54:55](/episodes/ep-h76ZN-xXC6c.md#t-00-54-17) (Accusation) **Candace Owens**: ["Owens said the veteran's wife provided evidence that he sought a VA ap..."](/statements/statement-b5e3c0939709.md)
+  - Also about: [Veteran friend treated in Russia (identity withheld)](/entities/anon-src-h76ZN-xXC6c-veteran-friend.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 312 mentions"
+description: "Zionism (Concepts) - 330 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -28,9 +28,9 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-01-18-25">2026-06-09 · 01:18:25</a></strong></div>
-<div><span>Episodes</span><strong>64</strong></div>
-<div><span>Mentions</span><strong>312</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-zionism-t-00-06-13">2026-07-14 · 00:06:42</a></strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>330</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -105,6 +105,15 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-zionism-t-00-04-02" style="--pulse-height:29%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-00-00" style="--pulse-height:71%" aria-label="Candace Owens x Ana Kasparian: 10 mentions" title="2026-05-28 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-01-26" style="--pulse-height:71%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 10 mentions" title="2026-06-09 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-zionism-t-00-13-15" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-zionism-t-00-24-54" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-concept-zionism-t-00-17-53" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-concept-zionism-t-00-04-55" style="--pulse-height:21%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 3 mentions" title="2026-06-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-zionism-t-00-11-12" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-zionism-t-00-43-16" style="--pulse-height:14%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-zionism-t-00-39-21" style="--pulse-height:29%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-zionism-t-00-43-13" style="--pulse-height:21%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-zionism-t-00-06-13" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -174,6 +183,15 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-zionism-t-00-04-02) | 4 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-zionism-t-00-00-00) | 10 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-zionism-t-00-01-26) | 10 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-zionism-t-00-13-15) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-zionism-t-00-24-54) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-concept-zionism-t-00-17-53) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-concept-zionism-t-00-04-55) | 3 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-concept-zionism-t-00-11-12) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-zionism-t-00-43-16) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-zionism-t-00-39-21) | 4 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-zionism-t-00-43-13) | 3 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-zionism-t-00-06-13) | 2 |
 
 </details>
 </section>
@@ -181,7 +199,106 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (312)</strong></summary>
+<summary><strong class="section-title">Raw mentions (330)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[00:06:32](/episodes/ep-EtLHqDbxqks.md#ent-concept-zionism-t-00-06-13)**
+> "I don't know if it's different in Spain. I had wondered, is it different if you don't have the eyes of Zionists? Because I did notice a little corollary, right?"
+
+**[00:06:42](/episodes/ep-EtLHqDbxqks.md#ent-concept-zionism-t-00-06-13)**
+> "Among Zionists, there is an increased sense. of the whelming hap..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
+
+**[00:43:13](/episodes/ep-IqHsl7d2dos.md#ent-concept-zionism-t-00-43-13)**
+> "...term that is uniquely used by Zionists."
+
+**[01:02:33](/episodes/ep-IqHsl7d2dos.md#ent-concept-zionism-t-01-02-08)**
+> "...feckless coward, a, you know, Zionist, so to speak."
+
+**[01:02:53](/episodes/ep-IqHsl7d2dos.md#ent-concept-zionism-t-01-02-53)**
+> "...erence there when it comes to Zionists and how much they love blood."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (4 mentions)</summary>
+
+**[00:37:52](/episodes/ep-sKuYLNx3iRo.md#ent-concept-zionism-t-00-39-21)**
+> "full Zionist tribalism"
+
+**[00:39:21](/episodes/ep-sKuYLNx3iRo.md#ent-concept-zionism-t-00-39-21)**
+> "...on in Gaza, but, like, he's a Zionist, so let's rah-rah; it's all fine. Take a listen."
+
+**[00:41:04](/episodes/ep-sKuYLNx3iRo.md#ent-concept-zionism-t-00-41-04)**
+> "...in just tweets this—just full Zionist tribalism. He tweets, 'Coming soon from Daily Wir..."
+
+**[00:54:11](/episodes/ep-sKuYLNx3iRo.md#ent-concept-zionism-t-00-54-11)**
+> "...ed from Australia because the Zionist lobby of Australia banded together and said that ..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:43:38](/episodes/ep-VMNWMXX1vO8.md#ent-concept-zionism-t-00-43-16)**
+> "...as done being bullied because Zionists fall into all of the stereotypes..."
+
+**[00:46:28](/episodes/ep-VMNWMXX1vO8.md#ent-concept-zionism-t-00-46-01)**
+> "...e after a day of arguing with Zionists."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:11:19](/episodes/ep-G3zdOeHpvS0.md#ent-concept-zionism-t-00-11-12)**
+> "...gside Charlie Kirk due to the Zionist peer pressure, the external Zionist peer pressure..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3 mentions)</summary>
+
+**[00:05:13](/episodes/ep-h76ZN-xXC6c.md#ent-concept-zionism-t-00-04-55)**
+> "Ironically, the very first tour that I did not. do alongside Charlie (Charlie Kirk) because of the increasing pressure that was coming from his Zionist. Once I got fired from a daily wire, I didn't bend the knee."
+
+**[00:05:24](/episodes/ep-h76ZN-xXC6c.md#ent-concept-zionism-t-00-04-55)**
+> "...) started getting harassed by Zionists and we had to put our tour on ice because he was ..."
+
+**[00:33:11](/episodes/ep-h76ZN-xXC6c.md#ent-concept-zionism-t-00-32-52)**
+> "... crime. We just have a lot of Zionist tears and insistence."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:18:05](/episodes/ep-WoXd4oLwd3w.md#ent-concept-zionism-t-00-17-53)**
+> "There was mass Zionist panic."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:25:07](/episodes/ep-19vHhjF7-NA.md#ent-concept-zionism-t-00-24-54)**
+> "...ou, this is fitting. Like the Zionist expansion plans are generally so psychotic that t..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:13:39](/episodes/ep-tXoI0TTKVrs.md#ent-concept-zionism-t-00-13-15)**
+> "... to protect their evangelical Zionist base of donors."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (10 mentions)</summary>

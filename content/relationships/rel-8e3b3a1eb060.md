@@ -11,7 +11,7 @@ object: "person-blake-neff"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (10 mentions)
+### Evidence (13 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -33,9 +33,21 @@ object: "person-blake-neff"
 
 - [00:55:29](/episodes/ep-SgVcnx4Oh30#t-00-55-29): _Blake (Blake Neff) let me tell you do not quit your day job man you do not have what it takes in Hollywood_
 
+**[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
+
+- [00:48:08](/episodes/ep-VMNWMXX1vO8#t-00-48-08): _Blake Neff is a liar. He is a coward. He is a backstabber_
+
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 
 - [00:33:17](/episodes/ep-ZzAT2xijKGQ#t-00-33-17): _He's one of my favorite characters because he always just says too much and it's never good._
+
+**[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
+
+- [00:40:04](/episodes/ep-a2bZf4fic10#t-00-40-04): _Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?_
+
+**[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
+
+- [00:31:09](/episodes/ep-h76ZN-xXC6c#t-00-31-09): _Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it._
 
 **[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
 

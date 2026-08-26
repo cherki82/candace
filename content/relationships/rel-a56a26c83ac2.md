@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (38 mentions)
+### Evidence (46 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -69,6 +69,14 @@ object: "person-candace-owens"
 
 - [00:03:56](/episodes/ep-DdPjoy5W-wY#t-00-03-56): _Erika (Erika Kirk) is completely full of it_
 
+**[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
+
+- [01:00:36](/episodes/ep-EtLHqDbxqks#t-01-00-36): _Erika (Erika Kirk) allows him to open despite what she knows, which is that her husband didn't like this guy at AmFest. What is going on here?_
+
+**[A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0)**
+
+- [00:43:20](/episodes/ep-G3zdOeHpvS0#t-00-43-20): _I don't think anybody looking at Erika Kirk ... reasonably thinks that she's a victim. ... she comes across like a player in this at best_
+
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
 - [00:00:22](/episodes/ep-H9p2ZGHAs9A#t-00-00-22): _I'll vote for somebody's pet fish before I vote for Erika Kirk. I am done. I have seen enough. I can no longer bear people defending Erika Kirk in any way, any shape, any form. It has to end. It has to stop._
@@ -76,6 +84,10 @@ object: "person-candace-owens"
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
 - [00:35:54](/episodes/ep-I0OaY6Gryqk#t-00-35-54): _That everything that Erika (Erika Kirk) is doing right now is normal, that it is moral, that it is righteous in any way, that it is excusable, that she has lied through her teeth, been caught so many times that it's some like stage of grieving that nobody's gone through._
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [01:02:08](/episodes/ep-IqHsl7d2dos#t-01-02-08): _You're just like, you're an idiot or you're a psycho. And yet, to perpetuate Erika Kirk and to continue to pretend that anything she has done is normal, to pretend and act like she is a grieving widow when she's anything but—she plots behind the scenes, she sends people to fall on the sword for her—she's more akin to Cersei Lannister, but she doesn't have her wit._
 
 **[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
 
@@ -97,6 +109,14 @@ object: "person-candace-owens"
 
 - [00:10:17](/episodes/ep-UYkXV9mYbT4#t-00-10-17): _Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us._
 
+**[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
+
+- [00:27:44](/episodes/ep-VMNWMXX1vO8#t-00-27-44): _Erika (Erika Kirk) can't get through a speech that's pre-written without a blunder, without saying something ridiculous._
+
+**[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
+
+- [00:28:55](/episodes/ep-WoXd4oLwd3w#t-00-28-55): _And when I look at that and I plot that on the timeline, it convinces me that Erika (Erika Kirk) is a psychopath, genuinely convinces me that Eric is a psychopath_
+
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 
 - [00:46:01](/episodes/ep-YeEtS7nix3o#t-00-46-01): _Erika can't draw the same crowd. Women don't trust her. We are designed to have a spiritual intuition about people and our spiritual intuition about Erika Kirk says no._
@@ -113,6 +133,10 @@ object: "person-candace-owens"
 
 - [00:48:56](/episodes/ep-_vg7ucP1E0g#t-00-48-56): _And I just that's that's fake. Okay. I didn't say it when it was first going down, but like it now that I'm just seeing how she lies and having learned about the Kanye (Kanye West) thing, I can't, I can't even go halfway. ... I can't even, I can't even go 10% with the fakeness and she's just a fundamentally dishonest person who should not be at the helm of that company or any company._
 
+**[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
+
+- [00:34:44](/episodes/ep-a2bZf4fic10#t-00-34-44): _What are you going to do, Erika Kirk? Stage another scene of you crying while you operate behind the scenes, try to take people down, sending out people like you're a queen for them to..._
+
 **[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
 
 - [00:32:40](/episodes/ep-cPidFQDJLbo#t-00-32-40): _That is not something that we are going to let go. We need to keep the pressure on Erika Kirk and Turning Point USA._
@@ -128,6 +152,10 @@ object: "person-candace-owens"
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
 - [00:25:00](/episodes/ep-gG4ZoYUjUc8#t-00-25-00): _A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing._
+
+**[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
+
+- [00:18:15](/episodes/ep-h76ZN-xXC6c#t-00-18-15): _as a point which further illustrates the lack of interest, the apathy of Erika Kirk._
 
 **[Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk)**
 
@@ -160,6 +188,10 @@ object: "person-candace-owens"
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 
 - [00:57:12](/episodes/ep-qZ8RWfyuewQ#t-00-57-12): _The surgeon went rogue. Andrew Kolvet went rogue. I wasn't a part of the conversation. You lied about that, Erica (Erika Kirk)._
+
+**[Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo)**
+
+- [00:34:12](/episodes/ep-sKuYLNx3iRo#t-00-34-12): _Like the holier-than-thou presentation of when she's married with Charlie (Charlie Kirk), the anger that we see._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

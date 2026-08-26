@@ -11,7 +11,7 @@ date: "2025-07-11"
 
 > Tucker Carlson spoke at Turning Point USA's Student Action Summit.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -28,3 +28,11 @@ date: "2025-07-11"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(118);return false;">▶️ Play</a>
 
 > He stepped out of line because he hosted Tucker Carlson at their SAS event in July.
+
+### 3. REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Na...
+
+**Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
+**Timestamp:** [00:18:41](/episodes/ep-WoXd4oLwd3w.md#event-event-2025-07-11-tucker-carlson-spoke-at-turning-point-us-t-00-18-35) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1121);return false;">▶️ Play</a>
+
+> July 11th is the day that Tucker Carlson delivered that speech.

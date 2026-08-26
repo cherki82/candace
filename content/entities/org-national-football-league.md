@@ -1,6 +1,6 @@
 ---
 title: "National Football League"
-description: "National Football League (Organizations) - 4 mentions"
+description: "National Football League (Organizations) - 5 mentions"
 id: "org-national-football-league"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [NFL: Super Bowl LX Halftime Show](https://www.nfl.com/super-bowl/halfti
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-org-national-football-league-t-00-04-02">2026-02-09 · 00:04:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-national-football-league-t-00-09-29">2026-05-18 · 00:09:48</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-national-football-league-t-00-58-19">2026-06-16 · 00:58:45</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -38,6 +38,7 @@ Source: [NFL: Super Bowl LX Halftime Show](https://www.nfl.com/super-bowl/halfti
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-national-football-league-t-00-04-02" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-national-football-league-t-00-39-57" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-national-football-league-t-00-09-29" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-national-football-league-t-00-58-19" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [NFL: Super Bowl LX Halftime Show](https://www.nfl.com/super-bowl/halfti
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-national-football-league-t-00-04-02) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-national-football-league-t-00-39-57) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-national-football-league-t-00-09-29) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-national-football-league-t-00-58-19) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [NFL: Super Bowl LX Halftime Show](https://www.nfl.com/super-bowl/halfti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:58:45](/episodes/ep-h76ZN-xXC6c.md#ent-org-national-football-league-t-00-58-19)**
+> "They don't have to say it happens. They don't have to. It reminds me almost of the movie regarding the CTE scans and people that were in the NFL."
+
+</details>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Taylor Lorenz"
-description: "Taylor Lorenz (People) - 5 mentions"
+description: "Taylor Lorenz (People) - 6 mentions"
 id: "person-taylor-lorenz"
 type: "PERSON"
 ---
@@ -9,9 +9,9 @@ _Type: People_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-taylor-lorenz-t-00-39-27">2025-09-25 · 00:39:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-47-10">2025-11-12 · 00:47:43</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-taylor-lorenz-t-00-26-01">2026-06-13 · 00:26:01</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -24,6 +24,7 @@ _Type: People_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-person-taylor-lorenz-t-00-39-27" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 3 mentions" title="2025-09-25 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-13-45" style="--pulse-height:67%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-taylor-lorenz-t-00-26-01" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -31,6 +32,7 @@ _Type: People_
 |---|---|---:|
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-person-taylor-lorenz-t-00-39-27) | 3 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-taylor-lorenz-t-00-13-45) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-taylor-lorenz-t-00-26-01) | 1 |
 
 </details>
 </section>
@@ -38,7 +40,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:26:01](/episodes/ep-WoXd4oLwd3w.md#ent-person-taylor-lorenz-t-00-26-01)**
+> "I just I just want them to say F you like seriously that would feel better at this point if they just came out and said F you none of the boo-boo you can't touch us we rule over you haha that would feel at least authentic going back to a Taylor Lorenz thing you know I'd be like I really don't like that but at least it's authentic and I know you mean it and it's true yeah"
+
+</details>
 
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>

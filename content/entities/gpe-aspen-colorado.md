@@ -1,6 +1,6 @@
 ---
 title: "Aspen, Colorado"
-description: "Aspen, Colorado (Places) - 45 mentions"
+description: "Aspen, Colorado (Places) - 49 mentions"
 id: "gpe-aspen-colorado"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [City of Aspen](https://www.aspen.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-aspen-colorado-t-00-54-01">2026-01-20 · 00:54:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-19-52">2026-06-09 · 01:20:22</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-aspen-colorado-t-00-32-26">2026-06-22 · 00:33:02</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,6 +49,8 @@ Source: [City of Aspen](https://www.aspen.gov/)
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-aspen-colorado-t-00-42-42" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-aspen-colorado-t-00-59-06" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-03-16" style="--pulse-height:75%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 6 mentions" title="2026-06-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-aspen-colorado-t-00-32-14" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-aspen-colorado-t-00-20-16" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +70,8 @@ Source: [City of Aspen](https://www.aspen.gov/)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-aspen-colorado-t-00-42-42) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-aspen-colorado-t-00-59-06) | 2 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-03-16) | 6 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-aspen-colorado-t-00-32-14) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-aspen-colorado-t-00-20-16) | 2 |
 
 </details>
 </section>
@@ -75,7 +79,29 @@ Source: [City of Aspen](https://www.aspen.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:20:29](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-aspen-colorado-t-00-20-16)**
+> "... no longer speaking about the Aspen event. I think they'd like very much to move on f..."
+
+**[00:33:02](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-aspen-colorado-t-00-32-26)**
+> "Forget Aspen. They want everybody to forget Aspen and the doct..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:32:14](/episodes/ep-19vHhjF7-NA.md#ent-gpe-aspen-colorado-t-00-32-14)**
+> "... private event with donors in aspen so we just thought we figured we'd troll the trol..."
+
+**[00:45:07](/episodes/ep-19vHhjF7-NA.md#ent-gpe-aspen-colorado-t-00-45-07)**
+> "...like it was actually from the aspen event that's a video from the aspen event which i..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (6 mentions)</summary>
@@ -292,7 +318,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Aspen, Colorado (5)</strong></summary>
+<summary><strong class="section-title">Statements about Aspen, Colorado (6)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:32:14](/episodes/ep-19vHhjF7-NA.md#t-00-32-14) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said Charlie Kirk had told the Turning Point USA staff a..."](/statements/statement-fe74a6e3c174.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

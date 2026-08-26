@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 538 mentions"
+description: "Tucker Carlson (People) - 619 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -23,67 +23,67 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07">2026-08-14 · 00:36:36</a></strong></div>
-<div><span>Episodes</span><strong>85</strong></div>
-<div><span>Mentions</span><strong>538</strong></div>
-<div><span>Statements by</span><strong>49</strong></div>
-<div><span>Statements about</span><strong>62</strong></div>
-<div><span>Relationships</span><strong>86</strong></div>
+<div><span>Episodes</span><strong>92</strong></div>
+<div><span>Mentions</span><strong>619</strong></div>
+<div><span>Statements by</span><strong>56</strong></div>
+<div><span>Statements about</span><strong>75</strong></div>
+<div><span>Relationships</span><strong>104</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-00-00">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (40 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-00-00">REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</a> (55 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57" style="--pulse-height:22%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 9 mentions" title="2025-09-15 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-q7f8r-THr84.md#ent-person-tucker-carlson-t-00-40-20" style="--pulse-height:10%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 4 mentions" title="2025-09-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-tucker-carlson-t-00-36-35" style="--pulse-height:28%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 11 mentions" title="2025-09-17 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-person-tucker-carlson-t-00-31-58" style="--pulse-height:10%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57" style="--pulse-height:16%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 9 mentions" title="2025-09-15 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-person-tucker-carlson-t-00-40-20" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 4 mentions" title="2025-09-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-tucker-carlson-t-00-36-35" style="--pulse-height:20%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 11 mentions" title="2025-09-17 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-tucker-carlson-t-00-31-58" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-tucker-carlson-t-00-33-27" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-person-tucker-carlson-t-00-02-10" style="--pulse-height:20%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 8 mentions" title="2025-09-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-tucker-carlson-t-00-02-10" style="--pulse-height:15%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 8 mentions" title="2025-09-22 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-tucker-carlson-t-00-35-39" style="--pulse-height:8%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 3 mentions" title="2025-09-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-tucker-carlson-t-00-38-04" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-00-36" style="--pulse-height:30%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 12 mentions" title="2025-10-01 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-16-33" style="--pulse-height:28%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 11 mentions" title="2025-10-06 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-tucker-carlson-t-00-04-11" style="--pulse-height:10%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 4 mentions" title="2025-10-07 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-tucker-carlson-t-00-02-54" style="--pulse-height:50%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 20 mentions" title="2025-10-08 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tucker-carlson-t-00-00-36" style="--pulse-height:22%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 12 mentions" title="2025-10-01 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-tucker-carlson-t-00-16-33" style="--pulse-height:20%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 11 mentions" title="2025-10-06 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-tucker-carlson-t-00-04-11" style="--pulse-height:8%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 4 mentions" title="2025-10-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-tucker-carlson-t-00-02-54" style="--pulse-height:36%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 20 mentions" title="2025-10-08 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-tucker-carlson-t-00-59-27" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-tucker-carlson-t-00-09-15" style="--pulse-height:8%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-00-41" style="--pulse-height:75%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 30 mentions" title="2025-10-30 · 30 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-tucker-carlson-t-00-31-07" style="--pulse-height:15%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-00-00" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 40 mentions" title="2025-11-03 · 40 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-tucker-carlson-t-00-03-25" style="--pulse-height:28%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 11 mentions" title="2025-11-04 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#ent-person-tucker-carlson-t-00-09-05" style="--pulse-height:18%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 7 mentions" title="2025-11-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-person-tucker-carlson-t-00-00-41" style="--pulse-height:55%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 30 mentions" title="2025-10-30 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-tucker-carlson-t-00-31-07" style="--pulse-height:11%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-tucker-carlson-t-00-00-00" style="--pulse-height:73%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 40 mentions" title="2025-11-03 · 40 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-tucker-carlson-t-00-03-25" style="--pulse-height:20%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 11 mentions" title="2025-11-04 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#ent-person-tucker-carlson-t-00-09-05" style="--pulse-height:13%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 7 mentions" title="2025-11-05 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-tucker-carlson-t-00-03-35" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-02-49" style="--pulse-height:92%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 37 mentions" title="2025-11-08 · 37 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-24-13" style="--pulse-height:28%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 11 mentions" title="2025-11-10 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-tucker-carlson-t-00-00-40" style="--pulse-height:42%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 17 mentions" title="2025-11-12 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-27-59" style="--pulse-height:22%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 9 mentions" title="2025-11-13 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-tucker-carlson-t-00-24-14" style="--pulse-height:22%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 9 mentions" title="2025-11-17 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-person-tucker-carlson-t-00-38-23" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 10 mentions" title="2025-11-18 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-person-tucker-carlson-t-00-03-29" style="--pulse-height:40%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 16 mentions" title="2025-11-20 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-person-tucker-carlson-t-00-02-49" style="--pulse-height:67%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 37 mentions" title="2025-11-08 · 37 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-tucker-carlson-t-00-24-13" style="--pulse-height:20%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 11 mentions" title="2025-11-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-tucker-carlson-t-00-00-40" style="--pulse-height:31%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 17 mentions" title="2025-11-12 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tucker-carlson-t-00-27-59" style="--pulse-height:16%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 9 mentions" title="2025-11-13 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-tucker-carlson-t-00-24-14" style="--pulse-height:16%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 9 mentions" title="2025-11-17 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-person-tucker-carlson-t-00-38-23" style="--pulse-height:18%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 10 mentions" title="2025-11-18 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-person-tucker-carlson-t-00-03-29" style="--pulse-height:29%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 16 mentions" title="2025-11-20 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-47-39" style="--pulse-height:15%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 6 mentions" title="2025-12-01 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-tucker-carlson-t-00-16-11" style="--pulse-height:15%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 6 mentions" title="2025-12-02 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tucker-carlson-t-00-37-50" style="--pulse-height:25%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 10 mentions" title="2025-12-05 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-47-39" style="--pulse-height:11%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 6 mentions" title="2025-12-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-tucker-carlson-t-00-16-11" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 6 mentions" title="2025-12-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tucker-carlson-t-00-37-50" style="--pulse-height:18%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 10 mentions" title="2025-12-05 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-tucker-carlson-t-00-18-56" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-tucker-carlson-t-00-00-46" style="--pulse-height:20%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 8 mentions" title="2025-12-10 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-tucker-carlson-t-00-00-46" style="--pulse-height:15%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 8 mentions" title="2025-12-10 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-tucker-carlson-t-00-06-08" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-00-00-00" style="--pulse-height:18%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 7 mentions" title="2025-12-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-tucker-carlson-t-00-00-00" style="--pulse-height:13%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 7 mentions" title="2025-12-16 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-tucker-carlson-t-00-54-08" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25" style="--pulse-height:10%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 4 mentions" title="2025-12-18 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19" style="--pulse-height:32%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 13 mentions" title="2025-12-20 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 4 mentions" title="2025-12-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19" style="--pulse-height:24%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 13 mentions" title="2025-12-20 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tucker-carlson-t-00-43-45" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 10 mentions" title="2026-01-07 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11" style="--pulse-height:18%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 10 mentions" title="2026-01-07 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tucker-carlson-t-00-07-06" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45" style="--pulse-height:15%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-11" style="--pulse-height:12%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-11" style="--pulse-height:9%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-09" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-tucker-carlson-t-00-59-24" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-00-01" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-tucker-carlson-t-00-34-33" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tucker-carlson-t-00-18-46" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tucker-carlson-t-00-01-23" style="--pulse-height:25%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 10 mentions" title="2026-01-22 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tucker-carlson-t-00-18-46" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tucker-carlson-t-00-01-23" style="--pulse-height:18%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 10 mentions" title="2026-01-22 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-tucker-carlson-t-00-38-43" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-tucker-carlson-t-00-00-41" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-tucker-carlson-t-00-00-13" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
@@ -92,33 +92,40 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-tucker-carlson-t-00-16-38" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-tucker-carlson-t-00-58-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-tucker-carlson-t-00-13-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-00-01-17" style="--pulse-height:15%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 6 mentions" title="2026-03-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-tucker-carlson-t-00-01-17" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 6 mentions" title="2026-03-09 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-tucker-carlson-t-00-54-54" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-tucker-carlson-t-00-43-22" style="--pulse-height:8%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-53-07" style="--pulse-height:15%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 6 mentions" title="2026-03-12 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-01-03" style="--pulse-height:35%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 14 mentions" title="2026-03-17 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-tucker-carlson-t-00-53-07" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 6 mentions" title="2026-03-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-person-tucker-carlson-t-00-01-03" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 14 mentions" title="2026-03-17 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-tucker-carlson-t-00-16-40" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-01-20" style="--pulse-height:18%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-01-06" style="--pulse-height:12%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-tucker-carlson-t-00-01-20" style="--pulse-height:13%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tucker-carlson-t-00-01-06" style="--pulse-height:9%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tucker-carlson-t-00-51-07" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-tucker-carlson-t-00-21-40" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-tucker-carlson-t-00-50-50" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-03-51" style="--pulse-height:40%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 16 mentions" title="2026-04-10 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-03-51" style="--pulse-height:29%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 16 mentions" title="2026-04-10 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-52-23" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-tucker-carlson-t-00-27-20" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-tucker-carlson-t-00-39-58" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-tucker-carlson-t-00-22-40" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-tucker-carlson-t-00-11-59" style="--pulse-height:10%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 4 mentions" title="2026-05-04 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-10-09" style="--pulse-height:15%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-27-59" style="--pulse-height:15%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 6 mentions" title="2026-05-06 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-09-12" style="--pulse-height:12%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 5 mentions" title="2026-05-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-tucker-carlson-t-00-11-59" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 4 mentions" title="2026-05-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-tucker-carlson-t-00-10-09" style="--pulse-height:11%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-tucker-carlson-t-00-27-59" style="--pulse-height:11%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 6 mentions" title="2026-05-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-person-tucker-carlson-t-00-09-12" style="--pulse-height:9%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 5 mentions" title="2026-05-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-tucker-carlson-t-00-20-46" style="--pulse-height:8%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-tucker-carlson-t-00-43-45" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-tucker-carlson-t-00-48-03" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-tucker-carlson-t-00-17-35" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-tucker-carlson-t-00-29-56" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-23-00" style="--pulse-height:20%" aria-label="Candace Owens x Ana Kasparian: 8 mentions" title="2026-05-28 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-03-16" style="--pulse-height:18%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 7 mentions" title="2026-06-09 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-23-00" style="--pulse-height:15%" aria-label="Candace Owens x Ana Kasparian: 8 mentions" title="2026-05-28 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-03-16" style="--pulse-height:13%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 7 mentions" title="2026-06-09 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-00-00" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 55 mentions" title="2026-06-13 · 55 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-tucker-carlson-t-00-41-01" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-tucker-carlson-t-00-36-22" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-40-50" style="--pulse-height:27%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 15 mentions" title="2026-06-22 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-tucker-carlson-t-00-42-01" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-tucker-carlson-t-00-41-04" style="--pulse-height:9%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 5 mentions" title="2026-06-24 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-tucker-carlson-t-00-56-23" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -209,6 +216,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-tucker-carlson-t-00-29-56) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-tucker-carlson-t-00-23-00) | 8 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-tucker-carlson-t-00-03-16) | 7 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-00-00) | 55 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-tucker-carlson-t-00-41-01) | 2 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-tucker-carlson-t-00-36-22) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-40-50) | 15 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-tucker-carlson-t-00-42-01) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-tucker-carlson-t-00-41-04) | 5 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-tucker-carlson-t-00-56-23) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54) | 3 |
 
 </details>
@@ -217,7 +231,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (538)</strong></summary>
+<summary><strong class="section-title">Raw mentions (619)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -230,6 +244,281 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:36:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07)**
 > "Tucker Carlson then comes out and confirms the conversations tha..."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:56:43](/episodes/ep-EtLHqDbxqks.md#ent-person-tucker-carlson-t-00-56-23)**
+> "I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (5 mentions)</summary>
+
+**[00:41:30](/episodes/ep-sKuYLNx3iRo.md#ent-person-tucker-carlson-t-00-41-04)**
+> "Megyn and Tucker (Tucker Carlson) tears tumbler"
+
+**[00:29:44](/episodes/ep-sKuYLNx3iRo.md#ent-person-tucker-carlson-t-00-29-44)**
+> "... want to relive that. Tucker (Tucker Carlson)—I mean, not Tucker—Terrell Farnsworth, when I sp..."
+
+**[00:41:04](/episodes/ep-sKuYLNx3iRo.md#ent-person-tucker-carlson-t-00-41-04)**
+> "...Daily Wire: Megyn and Tucker (Tucker Carlson) tears tumbler,' and he shares, 'Exclusive Daily ..."
+
+**[00:48:14](/episodes/ep-sKuYLNx3iRo.md#ent-person-tucker-carlson-t-00-48-14)**
+> "...out on X of him talking about Tucker Carlson and me. Is it really riveting to learn that Canda..."
+
+**[00:58:12](/episodes/ep-sKuYLNx3iRo.md#ent-person-tucker-carlson-t-00-58-12)**
+> "... Catholic. She charms Tucker (Tucker Carlson) with his own views as a CEO. She adopts a seriou..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:42:01](/episodes/ep-9CuC1yf8-PU.md#ent-person-tucker-carlson-t-00-42-01)**
+> "conversation that I had with Tucker (Tucker Carlson) and Megyn (Megyn Kelly)"
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (15 mentions)</summary>
+
+**[00:41:13](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-40-50)**
+> "...I'm shocked he didn't mention Tucker Carlson in his sermon. It's usually a package deal, Tucke..."
+
+**[00:41:22](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-40-50)**
+> "Especially because Tucker (Tucker Carlson) has been trending all weekend for saying the qui..."
+
+**[00:44:59](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-44-45)**
+> "...t he responded to the Tucker (Tucker Carlson) thing, because he used to work for Tucker Carlso..."
+
+**[00:45:06](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-44-45)**
+> "Tucker (Tucker Carlson) was so nice about Blake Neff. So nice. So nice a..."
+
+**[00:45:14](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-44-45)**
+> "...cause he just stabbed Tucker (Tucker Carlson) right in the back. And he tweeted this:"
+
+**[00:45:22](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-45-22)**
+> "... that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was moti..."
+
+**[00:45:45](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-45-22)**
+> "...cover up and you stab Tucker (Tucker Carlson) in the back, or I guess in the front in this cir..."
+
+**[00:46:54](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-46-54)**
+> "...people to understand, Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a uniqu..."
+
+**[00:47:55](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-47-55)**
+> "...ng dinner with?" "Oh, Tucker (Tucker Carlson)'s in town. I gotta meet up with him.""
+
+**[00:48:15](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-48-08)**
+> "...retending he was not close to Tucker Carlson. Everybody knows that he was close to Tucker Carl..."
+
+**[00:48:45](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-48-45)**
+> "...t. Oh, oh, he was upset about Tucker Carlson and confided into Laura Loomer?"
+
+**[00:57:42](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-57-17)**
+> "...lly matter. Tell the truth as Tucker Carlson stipulates."
+
+**[01:00:08](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-01-00-08)**
+> "...Loomer is a friend of his and Tucker Carlson was not. That's done. It's over. You're welcome. ..."
+
+**[00:47:06](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-47-06)**
+> "... know those stories as well. [Tucker Carlson] Well, he had my back."
+
+**[00:47:15](/episodes/ep-VMNWMXX1vO8.md#ent-person-tucker-carlson-t-00-47-15)**
+> "[Tucker Carlson] Jesus and his love for Jesus and— [Candace Owens..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:36:54](/episodes/ep-G3zdOeHpvS0.md#ent-person-tucker-carlson-t-00-36-22)**
+> "...et further supports that from Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, as..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
+
+**[00:41:07](/episodes/ep-h76ZN-xXC6c.md#ent-person-tucker-carlson-t-00-41-01)**
+> "My friend Tucker Carlson started digging into the industry and what he fou..."
+
+**[00:41:30](/episodes/ep-h76ZN-xXC6c.md#ent-person-tucker-carlson-t-00-41-01)**
+> "Tucker (Tucker Carlson) founded Battalion because he couldn't find one t..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (55 mentions)</summary>
+
+**[00:00:26](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-00-00)**
+> "On X, I mean, Tucker (Tucker Carlson) did this interview with Mario Nawfal, and it's got me really wondering about Butler."
+
+**[00:08:56](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-08-38)**
+> "It's aggressive. And Tucker (Tucker Carlson) made a statement that he had multiple conversations with him. Dan (Dan Bongino) appeared terrified. Tucker (Tucker Carlson) said it was both on the phone and via text."
+
+**[00:01:51](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-01-25)**
+> "This started by Tucker Carlson yesterday. So let's just right at the top here sh..."
+
+**[00:02:00](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-02-00)**
+> "Tucker (Tucker Carlson) was joined by Mario Nawfal. And here is what he ..."
+
+**[00:04:07](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-03-54)**
+> "... we just heard there, Tucker (Tucker Carlson) says he reached out to Dan Bongino because they ..."
+
+**[00:05:10](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-04-35)**
+> "...o chose to respond to Tucker (Tucker Carlson) saying that that Dan (Dan Bongino) was terrified..."
+
+**[00:05:30](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-05-21)**
+> "... you think I was terrified of Tucker Carlson,"
+
+**[00:06:07](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-05-46)**
+> "...n this sincerely that Tucker (Tucker Carlson)'s just dumb. I don't have any, he doesn't realiz..."
+
+**[00:06:21](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-06-21)**
+> "... quite a time to call Tucker (Tucker Carlson) dumb when you completely misunderstood the conte..."
+
+**[00:06:27](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-06-21)**
+> "I don't think Tucker (Tucker Carlson) wants to fight you. Tucker (Tucker Carlson) wear..."
+
+**[00:06:40](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-06-21)**
+> "... nature of wanting to beat up Tucker Carlson. Like, does it make you sound tough 51?"
+
+**[00:06:47](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-06-21)**
+> "...nderstands everything Tucker (Tucker Carlson) said."
+
+**[00:06:53](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-06-53)**
+> "Tucker (Tucker Carlson) was very clear that he spoke with Dan (Dan Bongi..."
+
+**[00:07:09](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-06-53)**
+> "...nt to everything that Tucker (Tucker Carlson) just said. Take a listen."
+
+**[00:07:25](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-07-15)**
+> "...ho, by the way, think Tucker (Tucker Carlson)'s for real, if you think I'm doctoring any of th..."
+
+**[00:07:36](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-07-15)**
+> "...ber 21st, even before Tucker (Tucker Carlson) says he spoke to me in December."
+
+**[00:07:56](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-07-56)**
+> "Again, the Tucker (Tucker Carlson) fans will apologize for him until the end of tim..."
+
+**[00:08:03](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-07-56)**
+> "... you in case you're a Tucker (Tucker Carlson) fan who can't read. The case, that's the Crooks ..."
+
+**[00:08:17](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-07-56)**
+> "...osite. This is before Tucker (Tucker Carlson) claims he talked to me."
+
+**[00:08:38](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-08-38)**
+> "...ongino), it's because Tucker (Tucker Carlson) spoke to you after that."
+
+**[00:08:42](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-08-38)**
+> "...en before he spoke to Tucker (Tucker Carlson) and Tucker (Tucker Carlson) says he spoke to in ..."
+
+**[00:09:09](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-08-38)**
+> "... (Dan Bongino) proved Tucker (Tucker Carlson)'s point by shoving a text message in which Dan (..."
+
+**[00:09:34](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-09-34)**
+> "...e you had the chance, Tucker (Tucker Carlson) said, to see the piece on Crooks. We received so..."
+
+**[00:10:32](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-10-32)**
+> "...ic. That's everything Tucker (Tucker Carlson) just said."
+
+**[00:12:56](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-12-56)**
+> "...ere because I believe Tucker (Tucker Carlson) is telling the truth and Dan (Dan Bongino)'s ent..."
+
+**[00:15:56](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-15-43)**
+> "...eems to us that after Tucker (Tucker Carlson) took the stage at SAS, Tucker Carlson took the s..."
+
+**[00:16:10](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-15-43)**
+> "...hings got weird after Tucker (Tucker Carlson) hit the stage."
+
+**[00:16:20](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-15-43)**
+> "...e. Well, it turns out Tucker (Tucker Carlson) spoke on July 11th."
+
+**[00:16:52](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-16-27)**
+> "Tucker Carlson and Megyn Kelly, all of whom were publicly urging..."
+
+**[00:17:36](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-17-07)**
+> "...ro-Israel donors over Tucker (Tucker Carlson) calling out Epstein."
+
+**[00:17:53](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-17-53)**
+> "... wanted him to cancel Tucker (Tucker Carlson). They were angry that in particular that he had ..."
+
+**[00:18:41](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-18-35)**
+> "...ay. July 11th is the day that Tucker Carlson delivered that speech. Charlie (Charlie Kirk) tel..."
+
+**[00:22:58](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-22-58)**
+> "...ff stage he's telling Tucker (Tucker Carlson) to go max anyways the president of the United St..."
+
+**[00:25:02](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-25-02)**
+> "... going to have to ask Tucker (Tucker Carlson) for forgiveness for sharing this because I knew ..."
+
+**[00:25:21](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-25-02)**
+> "...and up to Maine to do Tucker (Tucker Carlson)'s show."
+
+**[00:27:15](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-27-15)**
+> "...en I got off air with Tucker (Tucker Carlson), obviously you just have chatter, like just chat..."
+
+**[00:27:56](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-27-56)**
+> "...ne having dinner with Tucker (Tucker Carlson). I remember this. I am 1000% certain days within..."
+
+**[00:28:19](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-27-56)**
+> "...arlie Kirk) was under Tucker (Tucker Carlson) was like I absolutely love Erika (Erika Kirk) he..."
+
+**[00:28:55](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-28-30)**
+> "...h because and please, Tucker (Tucker Carlson), forgive me. I had to share that."
+
+**[00:29:13](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-29-13)**
+> "...more anti-Israel than Tucker (Tucker Carlson), I mean, than Charlie (Charlie Kirk), as we're t..."
+
+**[00:31:07](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-30-51)**
+> "...a psychopath I'm with Tucker (Tucker Carlson) I'm anti-Israel I'm with Bari Weiss people who d..."
+
+**[00:31:56](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-31-31)**
+> "...uinely, genuinely how Tucker (Tucker Carlson) can like her. I don't. I don't. And maybe it's b..."
+
+**[00:33:06](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-32-58)**
+> "...him asking questions, Tucker (Tucker Carlson) asking questions about Israel and where certain ..."
+
+**[00:33:39](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-33-39)**
+> "...especially after what Tucker (Tucker Carlson) has revealed about Butler."
+
+**[00:39:21](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-38-47)**
+> "...ation that I had with Tucker (Tucker Carlson), remembering this random conversation like genui..."
+
+**[00:39:55](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-39-55)**
+> "...st like I promise you Tucker (Tucker Carlson) must have said I just had your like the night be..."
+
+**[00:56:05](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-56-05)**
+> "Tucker (Tucker Carlson), forgive me. I hope you're fine with me sharing ..."
+
+**[00:56:34](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-56-05)**
+> "Allie writes, Tucker (Tucker Carlson) recently said TPUSA didn't invite him this year...."
+
+**[00:56:42](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-56-42)**
+> "...ought his donors over Tucker (Tucker Carlson). Well, there was no question they were going to,..."
+
+**[00:56:54](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-56-42)**
+> "...er the organization died with tucker i mean died with Charlie (Charlie Kirk) pardon me..."
+
+**[00:57:00](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-00-56-42)**
+> "realization died with tucker i mean died with Charlie (Charlie Kirk) pardon me..."
+
+**[01:00:48](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-01-00-06)**
+> "...ve to put them in the Tucker (Tucker Carlson) basket."
+
+**[01:00:51](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-01-00-51)**
+> "Please forgive me, Tucker (Tucker Carlson). Please forgive me, people in book club, because..."
+
+**[01:00:58](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-01-00-51)**
+> "Tucker (Tucker Carlson), I mean, you're not Tucker (Tucker Carlson), you..."
+
+**[01:02:07](/episodes/ep-WoXd4oLwd3w.md#ent-person-tucker-carlson-t-01-01-30)**
+> "I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my frie..."
 
 </details>
 
@@ -2264,12 +2553,19 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused (1)</summary>
+<summary>Accused (2)</summary>
 
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-09): “Tucker had exposed that during his time at the CIA,...it was Mike Pompeo...he tried to have,...Julian Assange...I was correct...he discussed options to take out Assange”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:12:56](/episodes/ep-WoXd4oLwd3w.md#t-00-12-56): “Tucker (Tucker Carlson) told him on the phone that it was Trump (Donald Trump) himself that shut down this investigation.”
 
 </details>
 
@@ -2334,7 +2630,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Criticized (4)</summary>
+<summary>Criticized (5)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2364,10 +2660,17 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:54](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was coming from.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Criticized By (10)</summary>
+<summary>Criticized By (12)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2444,15 +2747,30 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Dan Bongino](/entities/person-dan-bongino.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:06:53](/episodes/ep-WoXd4oLwd3w.md#t-00-06-53): “Dan (Dan Bongino) thinks that he has a ha-ha gotcha. I'm going to prove that Tucker (Tucker Carlson) is stupid by showing an article that was published before him and Tucker (Tucker Carlson) spoke.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... Actually, those of us who knew Charlie (Charlie Kirk) best—a group that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker (Tucker Carlson) is lying.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:44:59](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... he used to work for Tucker Carlson”
 
 </details>
 
@@ -2482,22 +2800,26 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Founded (1)</summary>
 
 - **[Battalion Metals](/entities/org-battalion-metals.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:17](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Tucker Carlson founded Battalion because he couldn't find one that he actually trusted.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:30](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “Tucker (Tucker Carlson) founded Battalion because he couldn't find one that he trusted.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Friend Of (2)</summary>
+<summary>Friend Of (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29): “Why are you hearing it, though, from me and Tucker and Megyn Kelly?”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 01:09:45](/episodes/ep-es7PWdFGoFI.md#t-01-09-35): “I had never had beef with Tucker. That's why I was at his Christmas party.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
 
 </details>
 
@@ -2509,17 +2831,32 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Dan Bongino](/entities/person-dan-bongino.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:04:07](/episodes/ep-WoXd4oLwd3w.md#t-00-03-54): “So just to recap what we just heard there, Tucker (Tucker Carlson) says he reached out to Dan Bongino because they had been friends for a long time.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54): “Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a unique and special bond and relationship. ... It was a deep friendship”
+
+</details>
+
 </details>
 
 <details>
-<summary>Interviewed (10)</summary>
+<summary>Interviewed (11)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:19:08](/episodes/ep-sImMM04XdWY.md#t-00-18-58): “Tucker Carlson releases an episode with me.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:10:02](/episodes/ep-K1tFD7FfoCU.md#t-00-09-57): “Tucker Carlson a few weeks back had on Candace (Candace Owens)”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:28:01](/episodes/ep-adJ4LNGp84I.md#t-00-27-51): “I've been on his show twice. Twice on his independent show.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:25:21](/episodes/ep-WoXd4oLwd3w.md#t-00-25-02): “And then the first thing I did was I went with my newborn Roman (Candace Owens's son; surname not stated) and my husband up to Maine to do Tucker (Tucker Carlson)'s show. ... And I did an interview and I genuinely forgot about this.”
 
 </details>
 
@@ -2591,6 +2928,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Mario Nawfal](/entities/person-mario-nawfal.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:00:26](/episodes/ep-WoXd4oLwd3w.md#t-00-00-00): “On X, I mean, Tucker (Tucker Carlson) did this interview with Mario Nawfal, and it's got me really wondering about Butler.”
+
+</details>
+
 </details>
 
 <details>
@@ -2600,6 +2944,25 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:16:31](/episodes/ep-a-e7HC6SeK8.md#t-00-16-11): “...I asked Tucker about that speech. I was like, what inspired you?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (2)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:27:56](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56): “It was they were just there in Maine having dinner with Tucker (Tucker Carlson). I remember this. I am 1000% certain days within me. It was like Charlie (Charlie Kirk) was there and then I was there and he had dinner with Erika (Erika Kirk)”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:27:56](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56): “It was they were just there in Maine having dinner with Tucker (Tucker Carlson). I remember this. I am 1000% certain days within me. It was like Charlie (Charlie Kirk) was there and then I was there and he had dinner with Erika (Erika Kirk)”
 
 </details>
 
@@ -2624,10 +2987,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[2025 Student Action Summit](/entities/event-2025-student-action-summit.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-23): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:16:38](/episodes/ep-4YgrOhhy708.md#t-00-16-38): “Tucker (Tucker Carlson) said when he got onto stage at SAS”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:15:56](/episodes/ep-WoXd4oLwd3w.md#t-00-15-43): “that just in the midst of Charlie (Charlie Kirk)'s SAS, the Student Action Summit ... Well, it turns out Tucker (Tucker Carlson) spoke on July 11th.”
 
 </details>
 
@@ -2659,7 +3023,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Referenced By (43)</summary>
+<summary>Referenced By (52)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2672,6 +3036,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-09): “Tucker had exposed that during his time at the CIA,...it was Mike Pompeo...he tried to have,...Julian Assange...I was correct...he discussed options to take out Assange”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:12:56](/episodes/ep-WoXd4oLwd3w.md#t-00-12-56): “Tucker (Tucker Carlson) told him on the phone that it was Trump (Donald Trump) himself that shut down this investigation.”
 
 </details>
 
@@ -2787,6 +3158,20 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Dan Bongino](/entities/person-dan-bongino.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:06:53](/episodes/ep-WoXd4oLwd3w.md#t-00-06-53): “Dan (Dan Bongino) thinks that he has a ha-ha gotcha. I'm going to prove that Tucker (Tucker Carlson) is stupid by showing an article that was published before him and Tucker (Tucker Carlson) spoke.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... Actually, those of us who knew Charlie (Charlie Kirk) best—a group that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker (Tucker Carlson) is lying.”
+
+</details>
+
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -2815,6 +3200,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:54](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was coming from.”
+
+</details>
+
 - **[CNN](/entities/org-cnn.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -2831,23 +3223,28 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 @ 00:45:57](/episodes/ep-DqGNvi36ol8.md#t-00-45-50)
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:44:59](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... he used to work for Tucker Carlson”
 
 </details>
 
 - **[Battalion Metals](/entities/org-battalion-metals.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:17](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Tucker Carlson founded Battalion because he couldn't find one that he actually trusted.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:30](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “Tucker (Tucker Carlson) founded Battalion because he couldn't find one that he trusted.”
+- [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:03:56](/episodes/ep-ozWJz2spBcI.md#t-00-03-29): “Why are you hearing it, though, from me and Tucker and Megyn Kelly?”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:02:07](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “I'm sorry to Tucker Carlson. Tucker (Tucker Carlson), please still be my friend. It was a memory. I love you, Tucker (Tucker Carlson).”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:07](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “My friend Tucker Carlson started digging into the industry and what he found shocked both of us.”
 
 </details>
 
@@ -2856,6 +3253,20 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:04:43](/episodes/ep-6DhWawD4ZiM.md#t-00-04-36): “He is friends with Erika”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:06:09](/episodes/ep-B9TyCs-6o_0.md#t-00-05-40): “Tucker Carlson has said he is a friend of Erika Kirk”
+
+</details>
+
+- **[Dan Bongino](/entities/person-dan-bongino.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:04:07](/episodes/ep-WoXd4oLwd3w.md#t-00-03-54): “So just to recap what we just heard there, Tucker (Tucker Carlson) says he reached out to Dan Bongino because they had been friends for a long time.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54): “Tucker (Tucker Carlson), you and Charlie (Charlie Kirk) had such a unique and special bond and relationship. ... It was a deep friendship”
 
 </details>
 
@@ -2875,10 +3286,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[2025 Student Action Summit](/entities/event-2025-student-action-summit.md)** hosted speaker this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-23): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:16:38](/episodes/ep-4YgrOhhy708.md#t-00-16-38): “Tucker (Tucker Carlson) said when he got onto stage at SAS”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:15:56](/episodes/ep-WoXd4oLwd3w.md#t-00-15-43): “that just in the midst of Charlie (Charlie Kirk)'s SAS, the Student Action Summit ... Well, it turns out Tucker (Tucker Carlson) spoke on July 11th.”
 
 </details>
 
@@ -2900,11 +3312,12 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:19:08](/episodes/ep-sImMM04XdWY.md#t-00-18-58): “Tucker Carlson releases an episode with me.”
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:10:02](/episodes/ep-K1tFD7FfoCU.md#t-00-09-57): “Tucker Carlson a few weeks back had on Candace (Candace Owens)”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:28:01](/episodes/ep-adJ4LNGp84I.md#t-00-27-51): “I've been on his show twice. Twice on his independent show.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:25:21](/episodes/ep-WoXd4oLwd3w.md#t-00-25-02): “And then the first thing I did was I went with my newborn Roman (Candace Owens's son; surname not stated) and my husband up to Maine to do Tucker (Tucker Carlson)'s show. ... And I did an interview and I genuinely forgot about this.”
 
 </details>
 
@@ -2967,6 +3380,27 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Mario Nawfal](/entities/person-mario-nawfal.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:00:26](/episodes/ep-WoXd4oLwd3w.md#t-00-00-00): “On X, I mean, Tucker (Tucker Carlson) did this interview with Mario Nawfal, and it's got me really wondering about Butler.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:27:56](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56): “It was they were just there in Maine having dinner with Tucker (Tucker Carlson). I remember this. I am 1000% certain days within me. It was like Charlie (Charlie Kirk) was there and then I was there and he had dinner with Erika (Erika Kirk)”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:27:56](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56): “It was they were just there in Maine having dinner with Tucker (Tucker Carlson). I remember this. I am 1000% certain days within me. It was like Charlie (Charlie Kirk) was there and then I was there and he had dinner with Erika (Erika Kirk)”
+
+</details>
+
 - **[Erika Kirk](/entities/person-erika-kirk.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -2987,7 +3421,38 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tucker Carlson (49)</strong></summary>
+<summary><strong class="section-title">Statements by Tucker Carlson (56)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3)</summary>
+
+- [00:41:32](/episodes/ep-VMNWMXX1vO8.md#t-00-41-32) [◐] (Claim) ["After 15 years hosting the highest-rated show in American cable television, I wa..."](/statements/statement-34617af48206.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:41:45](/episodes/ep-VMNWMXX1vO8.md#t-00-41-45) [✓] (Accusation) ["I believe Charlie Kirk was most likely murdered for his evolving views on Israel..."](/statements/statement-e3c07a311a5f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [transgenderism](/entities/concept-transgenderism.md)
+
+- [00:47:19](/episodes/ep-VMNWMXX1vO8.md#t-00-47-19) [✓] (Claim) ["When I appeared at Turning Point USA events, Charlie Kirk and I often met privat..."](/statements/statement-43628f369429.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4)</summary>
+
+- [00:02:16](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) [○] (Accusation) ["Tucker Carlson said Donald Trump shut down the Butler investigation and that Dan..."](/statements/statement-f73d6f2037c9.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Dan Bongino](/entities/person-dan-bongino.md), [FBI](/entities/org-fbi.md)
+
+- [00:02:34](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) [○] (Claim) ["Tucker Carlson said he accidentally obtained many Thomas Crooks social-media pos..."](/statements/statement-773d5f9511dc.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
+- [00:02:45](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) [○] (Accusation) ["Tucker Carlson accused the FBI of lying about Thomas Crooks's social-media histo..."](/statements/statement-4942c6d10244.md)
+  - About: [FBI](/entities/org-fbi.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Christopher Wray](/entities/person-christopher-wray.md)
+
+- [00:02:59](/episodes/ep-WoXd4oLwd3w.md#t-00-02-59) [○] (Claim) ["Tucker Carlson said Dan Bongino became hysterical and appeared terrified after C..."](/statements/statement-286001fdfc9f.md)
+  - About: [Dan Bongino](/entities/person-dan-bongino.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
@@ -3213,7 +3678,55 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (62)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (75)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (5)</summary>
+
+- [00:41:32](/episodes/ep-VMNWMXX1vO8.md#t-00-41-32) (Claim) **Tucker Carlson** (via quoted speech): ["After 15 years hosting the highest-rated show in American cable televi..."](/statements/statement-34617af48206.md)
+
+- [00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45) (Accusation) **Blake Neff** (via quoted tweet): ["Those of us who knew Charlie Kirk best—a group that does not include T..."](/statements/statement-607e9bf642ac.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [transgenderism](/entities/concept-transgenderism.md)
+
+- [00:46:54](/episodes/ep-VMNWMXX1vO8.md#t-00-46-54) (Claim) **Andrew Kolvet** (via quoted speech): ["Tucker Carlson and Charlie Kirk had a unique, special, deep friendship..."](/statements/statement-a3c4ee1ddf31.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:47:19](/episodes/ep-VMNWMXX1vO8.md#t-00-47-19) (Claim) **Tucker Carlson** (via quoted speech): ["When I appeared at Turning Point USA events, Charlie Kirk and I often ..."](/statements/statement-43628f369429.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08) (Accusation) **Candace Owens**: ["Blake Neff is lying and betraying Charlie Kirk by pretending Charlie w..."](/statements/statement-3284f665487f.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (8)</summary>
+
+- [00:02:34](/episodes/ep-WoXd4oLwd3w.md#t-00-02-16) (Claim) **Tucker Carlson**: ["Tucker Carlson said he accidentally obtained many Thomas Crooks social..."](/statements/statement-773d5f9511dc.md)
+  - Also about: [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md)
+
+- [00:07:15](/episodes/ep-WoXd4oLwd3w.md#t-00-07-15) (Accusation) **Dan Bongino**: ["Dan Bongino said Tucker Carlson's claim that Donald Trump shut down th..."](/statements/statement-61121899e644.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:08:42](/episodes/ep-WoXd4oLwd3w.md#t-00-08-38) (Accusation) **Candace Owens**: ["Candace Owens accused Dan Bongino of lying in his response to Tucker C..."](/statements/statement-33400e18e5c6.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md)
+
+- [00:09:49](/episodes/ep-WoXd4oLwd3w.md#t-00-09-34) (Opinion) **Dan Bongino**: ["Dan Bongino called absurd Tucker Carlson's apparent belief that Bongin..."](/statements/statement-35e8df5c4a6e.md)
+  - Also about: [Dan Bongino](/entities/person-dan-bongino.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:16:10](/episodes/ep-WoXd4oLwd3w.md#t-00-15-43) (Accusation) **Candace Owens**: ["Candace Owens said her timeline made it seem that instructions to kill..."](/statements/statement-7d628f8ee0bc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [2025 Student Action Summit](/entities/event-2025-student-action-summit.md)
+
+- [00:16:46](/episodes/ep-WoXd4oLwd3w.md#t-00-16-27) (Claim) **The New York Times** (via quoted article): ["The New York Times reported that Donald Trump told aides he was very u..."](/statements/statement-3bdaf2db052d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Megyn Kelly](/entities/person-megyn-kelly.md)
+
+- [00:17:36](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07) (Claim) **Candace Owens**: ["Candace Owens claimed Charlie Kirk lost millions of dollars from pro-I..."](/statements/statement-2b7412e68285.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+- [00:28:19](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens recalled Tucker Carlson telling her that Erika Kirk was ..."](/statements/statement-5f8fe480e050.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

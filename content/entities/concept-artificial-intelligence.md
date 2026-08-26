@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 140 mentions"
+description: "Artificial intelligence (Concepts) - 146 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-11-36">2026-01-05 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#t-01-19-52">2026-06-09 · 01:20:26</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>140</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#t-00-55-06">2026-06-23 · 00:55:06</a></strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>146</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -71,6 +71,10 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <a href="/episodes/ep-BxN2-aeMYIs.md#t-00-16-19" style="--pulse-height:29%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 4 mentions" title="2026-05-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#t-00-58-55" style="--pulse-height:21%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#t-00-00-44" style="--pulse-height:71%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 10 mentions" title="2026-06-09 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#t-00-16-41" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#t-00-32-49" style="--pulse-height:14%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#t-00-50-04" style="--pulse-height:14%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#t-00-55-06" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +116,10 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#t-00-16-19) | 4 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#t-00-58-55) | 3 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-00-00-44) | 10 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#t-00-16-41) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-32-49) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-50-04) | 2 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-55-06) | 1 |
 
 </details>
 </section>
@@ -119,7 +127,45 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (140)</strong></summary>
+<summary><strong class="section-title">Raw mentions (146)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:55:06](/episodes/ep-9CuC1yf8-PU.md#t-00-55-06)**
+> "imagine having access to AI"
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:50:13](/episodes/ep-WoXd4oLwd3w.md#t-00-50-04)**
+> "Again, that's home title lock.com, a promo code candace25, or simply use the link below. I also want to tell you guys about Zero Ghost because right now the biggest AI data centers in history are being built and they are powered by your personal data."
+
+**[00:50:37](/episodes/ep-WoXd4oLwd3w.md#t-00-50-04)**
+> "...lly make invisible online. As AI becomes more advanced, your personal information ..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:32:49](/episodes/ep-19vHhjF7-NA.md#t-00-32-49)**
+> "...as going to be like, oh, it's AI or it's fake or whatever this because that's what..."
+
+**[00:34:03](/episodes/ep-19vHhjF7-NA.md#t-00-34-03)**
+> "... entirety, not troll. Is that AI'd?"
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:16:51](/episodes/ep-tXoI0TTKVrs.md#t-00-16-41)**
+> "...ly doctored or modified using AI tools. Thank you. And to be clear, Blake Neff doe..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (10 mentions)</summary>
@@ -725,7 +771,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Artificial intelligence (27)</strong></summary>
+<summary><strong class="section-title">Statements about Artificial intelligence (28)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:34:08](/episodes/ep-19vHhjF7-NA.md#t-00-34-03) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA and Andrew Kolvet of refusing to say w..."](/statements/statement-39a374a916ba.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

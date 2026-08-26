@@ -1,6 +1,6 @@
 ---
 title: "Greg Laurie"
-description: "Greg Laurie (People) - 15 mentions"
+description: "Greg Laurie (People) - 19 mentions"
 id: "person-greg-laurie"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35">2026-01-09 · 00:13:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-01-19-11">2026-06-09 · 01:19:24</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-greg-laurie-t-00-25-14">2026-06-17 · 00:25:29</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,8 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-greg-laurie-t-00-47-18" style="--pulse-height:17%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-00-39-58" style="--pulse-height:67%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-greg-laurie-t-00-08-47" style="--pulse-height:17%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-greg-laurie-t-00-24-35" style="--pulse-height:50%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 3 mentions" title="2026-06-17 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +54,8 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-greg-laurie-t-00-47-18) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-greg-laurie-t-00-39-58) | 4 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-greg-laurie-t-00-08-47) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-greg-laurie-t-00-24-35) | 3 |
 
 </details>
 </section>
@@ -59,7 +63,29 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (3 mentions)</summary>
+
+**[00:24:35](/episodes/ep-G3zdOeHpvS0.md#ent-person-greg-laurie-t-00-24-35)**
+> "Next up, we have Pastor Greg Laurie's church, Harvest Church. Immediately, Erika (Erika..."
+
+**[00:24:53](/episodes/ep-G3zdOeHpvS0.md#ent-person-greg-laurie-t-00-24-35)**
+> "Greg Laurie is not denying that something took place in Roman..."
+
+**[00:25:29](/episodes/ep-G3zdOeHpvS0.md#ent-person-greg-laurie-t-00-25-14)**
+> "We already discussed Greg Laurie. I think I had that point on there twice. Philip ..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:08:51](/episodes/ep-tXoI0TTKVrs.md#ent-person-greg-laurie-t-00-08-47)**
+> "... other, in a court of law, as Greg Laurie is, of trafficking people from Romania."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (4 mentions)</summary>
@@ -145,10 +171,11 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <summary>Appeared With (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:07](/episodes/ep-YeEtS7nix3o.md#t-00-39-58): “Erika immediately going on tour with the church, Harvest Church, Greg Laurie, as somebody that she was very involved with in the faith community”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35): “Erika (Erika Kirk) went on tour after Charlie (Charlie Kirk)'s assassination with Pastor Greg Laurie”
 
 </details>
 
@@ -194,23 +221,25 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <summary>Pastor Of (1)</summary>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53): “Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35): “Pastor Greg Laurie's church, Harvest Church.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:07](/episodes/ep-YeEtS7nix3o.md#t-00-39-58): “Erika immediately going on tour with the church, Harvest Church, Greg Laurie, as somebody that she was very involved with in the faith community”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35): “Erika (Erika Kirk) went on tour after Charlie (Charlie Kirk)'s assassination with Pastor Greg Laurie”
 
 </details>
 
@@ -229,10 +258,11 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 </details>
 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)** has pastor this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53): “Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:47:18](/episodes/ep-SubDoZWHARo.md#t-00-47-18): “Greg Laurie whose church Erika (Erika Kirk) went right on tour with him Harvest Church”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35): “Pastor Greg Laurie's church, Harvest Church.”
 
 </details>
 
@@ -250,12 +280,35 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:08:51](/episodes/ep-tXoI0TTKVrs.md#t-00-08-47): “Erika (Erika Kirk) should be able to easily explain why she chooses to partner with people for faith who are credibly accused, one way or the other, in a court of law, as Greg Laurie is, of trafficking people from Romania.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Greg Laurie (7)</strong></summary>
+<summary><strong class="section-title">Statements about Greg Laurie (9)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+
+- [00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35) (Accusation) **Candace Owens**: ["Owens said Harvest Christian Fellowship was facing litigation over wha..."](/statements/statement-9acfc16209dd.md)
+  - Also about: [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:08:51](/episodes/ep-tXoI0TTKVrs.md#t-00-08-47) (Accusation) **Candace Owens**: ["Greg Laurie was, “one way or the other,” credibly accused in court in ..."](/statements/statement-f9019c0bf67c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Romania](/entities/gpe-romania.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

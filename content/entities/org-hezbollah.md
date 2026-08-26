@@ -1,6 +1,6 @@
 ---
 title: "Hezbollah"
-description: "Hezbollah (Organizations) - 3 mentions"
+description: "Hezbollah (Organizations) - 4 mentions"
 id: "org-hezbollah"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-hezbollah-t-00-08-33">2026-05-27 · 00:08:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-hezbollah-t-00-36-49">2026-05-28 · 00:37:06</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-hezbollah-t-00-25-19">2026-06-26 · 00:25:19</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,6 +37,7 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-hezbollah-t-00-08-33" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-hezbollah-t-00-36-49" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-hezbollah-t-00-25-19" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 |---|---|---:|
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-hezbollah-t-00-08-33) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-hezbollah-t-00-36-49) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-hezbollah-t-00-25-19) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:25:19](/episodes/ep-IqHsl7d2dos.md#ent-org-hezbollah-t-00-25-19)**
+> "And neither did Hezbollah."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2 mentions)</summary>
@@ -78,6 +88,18 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Purchased From (1)</summary>
+
+- **[Mossad](/entities/org-mossad.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:25:19](/episodes/ep-IqHsl7d2dos.md#t-00-25-19): “And neither did Hezbollah. ... When they are buying from us, they have zero clue that they are buying from the Mossad. We make like Truman Show.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supported By (1)</summary>
 
 - **[Iran](/entities/gpe-iran.md)**
@@ -90,7 +112,14 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Mossad](/entities/org-mossad.md)** sold to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:25:19](/episodes/ep-IqHsl7d2dos.md#t-00-25-19): “And neither did Hezbollah. ... When they are buying from us, they have zero clue that they are buying from the Mossad. We make like Truman Show.”
+
+</details>
 
 - **[Iran](/entities/gpe-iran.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -104,7 +133,15 @@ Source: [Lebanese Hizballah - National Counterterrorism Center](https://www.dni.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hezbollah (2)</strong></summary>
+<summary><strong class="section-title">Statements about Hezbollah (3)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
+
+- [00:25:16](/episodes/ep-IqHsl7d2dos.md#t-00-25-16) (Claim) **Anonymous Source #3 (Ep IqHsl7d2dos)** (via quoted speech): ["A second former Mossad agent said Gold Apollo did not know it was work..."](/statements/statement-7fc728c017ae.md)
+  - Also about: [Mossad](/entities/org-mossad.md), [Gold Apollo Co., Ltd.](/entities/org-gold-apollo.md), [The Truman Show](/entities/work-the-truman-show.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

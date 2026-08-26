@@ -11,7 +11,11 @@ object: "org-next-management"
 
 ## [Erika Kirk](/entities/person-erika-kirk) affiliated with [NEXT Management](/entities/org-next-management)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI)**
+
+- [00:05:26](/episodes/ep-3QJqtW_NOSI#t-00-05-26): _Again, the people who worked there alleged that Erika (Erika Kirk) was the point of contact for the model apartment and they find it to be suspicious because Jeffrey Epstein was often at their offices._
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 

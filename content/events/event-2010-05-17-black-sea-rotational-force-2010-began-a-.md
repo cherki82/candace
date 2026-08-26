@@ -11,7 +11,7 @@ date: "2010-05-17"
 
 > Black Sea Rotational Force 2010 began a three-month engagement at Mihail Kogălniceanu Airfield.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Bride Of Charlie: The Lost Years... | Episode 5
 
@@ -36,3 +36,11 @@ date: "2010-05-17"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1130);return false;">▶️ Play</a>
 
 > is operating a base in Romania, which is later going to be accused of prostituting
+
+### 4. A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. ...
+
+**Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
+**Timestamp:** [00:19:16](/episodes/ep-G3zdOeHpvS0.md#event-event-2010-05-17-black-sea-rotational-force-2010-began-a--t-00-19-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1156);return false;">▶️ Play</a>
+
+> 2010 being the very year that the Black Sea Rotation of Force set up a base in Romania

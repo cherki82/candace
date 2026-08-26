@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 105 mentions"
+description: "Christians (Concepts) - 107 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 categories:
@@ -19,8 +19,8 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17">2025-09-17 · 00:52:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
-<div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>105</strong></div>
+<div><span>Episodes</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -79,6 +79,8 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-christians-t-00-55-34" style="--pulse-height:10%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-concept-christians-t-00-38-22" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-christians-t-00-23-53" style="--pulse-height:30%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-concept-christians-t-00-41-51" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-christians-t-00-51-16" style="--pulse-height:10%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34" style="--pulse-height:10%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -133,6 +135,8 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-christians-t-00-55-34) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-christians-t-00-38-22) | 4 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-christians-t-00-23-53) | 3 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-concept-christians-t-00-41-51) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-christians-t-00-51-16) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34) | 1 |
 
 </details>
@@ -141,13 +145,29 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (105)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:16:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34)**
 > "... you guys, nearly 2,000 years Christians When have we lived set continuously out to create..."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:51:24](/episodes/ep-EtLHqDbxqks.md#ent-concept-christians-t-00-51-16)**
+> "Time for justice for the widow and just a word to all the Christians out there. The Bible calls us in the Old Testament and the New Testament to defend the widow, to defend the orphans, to provide for her and to stand up for her."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:41:51](/episodes/ep-a2bZf4fic10.md#ent-concept-christians-t-00-41-51)**
+> "... think it's important that we Christians do. And yet I had my phone on, because I was tryi..."
 
 </details>
 

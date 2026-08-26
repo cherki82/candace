@@ -12,7 +12,7 @@ time: "18:00"
 
 > Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -45,3 +45,11 @@ time: "18:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2138);return false;">▶️ Play</a>
 
 > Afterward, he has a Zoom call with Josh Hammer and a rabbi from Israel.
+
+### 5. I Survive My First Death Hoax, Erika Kirk Makes Human Histor...
+
+**Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
+**Timestamp:** [00:43:38](/episodes/ep-VMNWMXX1vO8.md#event-event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo-t-00-43-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2618);return false;">▶️ Play</a>
+
+> after hanging up with Josh Hammer and the rabbi on a Zoom call

@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (26 mentions)
+### Evidence (30 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -37,6 +37,10 @@ object: "person-charlie-kirk"
 
 - [00:20:50](/episodes/ep-BxN2-aeMYIs#t-00-20-50): _That's what I'm being influenced by my friendship with Charlie Kirk, the person I knew he was and the people that I knew that he eventually surrounded himself with._
 
+**[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
+
+- [00:54:43](/episodes/ep-EtLHqDbxqks#t-00-54-43): _I am not going to watch Charlie Kirk, my friend, be assassinated in broad daylight, watch everyone turn their back on him for money and sit back idly and allow it to still go._
+
 **[STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI)**
 
 - [00:42:28](/episodes/ep-FFQ9675oqRI#t-00-42-28): _why are you upset that I'm actually mourning my friend who got murdered and I want to have real answers?_
@@ -57,6 +61,14 @@ object: "person-charlie-kirk"
 
 - [01:34:20](/episodes/ep-Ux1kzgQxkws#t-01-34-20): _particularly as it related to someone that you love like a brother_
 
+**[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
+
+- [00:48:26](/episodes/ep-VMNWMXX1vO8#t-00-48-26): _me and Charlie (Charlie Kirk) were friends_
+
+**[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
+
+- [00:57:33](/episodes/ep-WoXd4oLwd3w#t-00-57-33): _they keep saying Charlie (Charlie Kirk) and candace weren't friends ... they had a ton of money to put behind this narrative that Charlie (Charlie Kirk) and i didn't talk ... what are you like we traveled together for years years_
+
 **[OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw)**
 
 - [00:22:22](/episodes/ep-X92MllIHDzw#t-00-22-22): _we were just we've just been friends for years, obviously, it's not really that surprising._
@@ -72,6 +84,10 @@ object: "person-charlie-kirk"
 **[To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co)**
 
 - [00:17:33](/episodes/ep-_dRaEO47-co#t-00-17-33): _Charlie was my best friend and my brother_
+
+**[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
+
+- [00:44:25](/episodes/ep-a2bZf4fic10#t-00-44-25): _There was a real friendship. Charlie Kirk had a friend in me. He did. We had great times, and he should be here raising his kids._
 
 **[They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss)**
 

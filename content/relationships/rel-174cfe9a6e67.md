@@ -11,7 +11,7 @@ object: "person-rob-mccoy"
 
 ## [Michael McCoy](/entities/person-michael-mccoy) child of [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (11 mentions)
+### Evidence (12 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -32,6 +32,10 @@ object: "person-rob-mccoy"
 **[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
 
 - [00:38:52](/episodes/ep-LATnak75Si0#t-00-38-52): _he immediately calls his dad. He calls Rob McCoy._
+
+**[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
+
+- [00:37:06](/episodes/ep-VMNWMXX1vO8#t-00-37-06): _Pastor Rob McCoy, Mikey McCoy's daddy._
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 

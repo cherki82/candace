@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 73 mentions"
+description: "Mossad (Organizations) - 81 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-mossad-t-00-41-28">2026-05-28 · 00:41:28</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07">2026-07-14 · 01:07:07</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>81</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -64,6 +64,10 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-mossad-t-00-39-05" style="--pulse-height:20%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-mossad-t-00-23-12" style="--pulse-height:10%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-mossad-t-00-41-28" style="--pulse-height:10%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-mossad-t-00-59-50" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-mossad-t-00-54-56" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-23-57" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07" style="--pulse-height:10%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -98,6 +102,10 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-mossad-t-00-39-05) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-mossad-t-00-23-12) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-mossad-t-00-41-28) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-mossad-t-00-59-50) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-mossad-t-00-54-56) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-23-57) | 5 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07) | 1 |
 
 </details>
 </section>
@@ -105,7 +113,51 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:07:07](/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07)**
+> "OK, Jeremy Boring lied through his teeth. So who on Ben (Ben Shapiro)'s IDF Israeli Mossad security apparatus team?"
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (5 mentions)</summary>
+
+**[00:24:24](/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-23-57)**
+> "...his life was exactly what the Mossad agents described to 60 Minutes in their interview..."
+
+**[00:25:07](/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-25-07)**
+> "...were working with people from Mossad?"
+
+**[00:25:16](/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-25-16)**
+> "...hat they are working with the Mossad."
+
+**[00:25:21](/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-25-21)**
+> "...that they are buying from the Mossad. We make like Truman Show."
+
+**[00:40:06](/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-40-06)**
+> "...ally unqualified according to Mossad agents that he was brought in to get involved wit..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:54:56](/episodes/ep-sKuYLNx3iRo.md#ent-org-mossad-t-00-54-56)**
+> "pager attack that the Mossad committed"
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:59:50](/episodes/ep-G3zdOeHpvS0.md#ent-org-mossad-t-00-59-50)**
+> "...ting it well maybe it was the Mossad I know they took credit for that a couple days ag..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -493,7 +545,19 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Sold To (1)</summary>
+
+- **[Hezbollah](/entities/org-hezbollah.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:25:19](/episodes/ep-IqHsl7d2dos.md#t-00-25-19): “And neither did Hezbollah. ... When they are buying from us, they have zero clue that they are buying from the Mossad. We make like Truman Show.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
 
 - **[New York Post](/entities/org-new-york-post.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -516,12 +580,39 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 </details>
 
+- **[Hezbollah](/entities/org-hezbollah.md)** purchased from this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:25:19](/episodes/ep-IqHsl7d2dos.md#t-00-25-19): “And neither did Hezbollah. ... When they are buying from us, they have zero clue that they are buying from the Mossad. We make like Truman Show.”
+
+</details>
+
+- **[Gold Apollo Co., Ltd.](/entities/org-gold-apollo.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:25:16](/episodes/ep-IqHsl7d2dos.md#t-00-25-16): “Gold Apollo had zero clue that they are working with the Mossad.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (24)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (27)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3)</summary>
+
+- [00:24:40](/episodes/ep-IqHsl7d2dos.md#t-00-24-40) (Claim) **Anonymous Source #2 (Ep IqHsl7d2dos)** (via quoted speech): ["A former Mossad agent said Mossad could create foreign shell companies..."](/statements/statement-134fa8df177a.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+- [00:24:55](/episodes/ep-IqHsl7d2dos.md#t-00-24-40) (Opinion) **Anonymous Source #2 (Ep IqHsl7d2dos)** (via quoted speech): ["A former Mossad agent described Mossad as creating a pretend world in ..."](/statements/statement-1496196ff496.md)
+
+- [00:25:16](/episodes/ep-IqHsl7d2dos.md#t-00-25-16) (Claim) **Anonymous Source #3 (Ep IqHsl7d2dos)** (via quoted speech): ["A second former Mossad agent said Gold Apollo did not know it was work..."](/statements/statement-7fc728c017ae.md)
+  - Also about: [Gold Apollo Co., Ltd.](/entities/org-gold-apollo.md), [Hezbollah](/entities/org-hezbollah.md), [The Truman Show](/entities/work-the-truman-show.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

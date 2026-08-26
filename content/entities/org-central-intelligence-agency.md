@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 162 mentions"
+description: "Central Intelligence Agency (Organizations) - 167 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>162</strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>167</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>55</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>56</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -92,6 +92,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-central-intelligence-agency-t-01-17-49" style="--pulse-height:18%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-central-intelligence-agency-t-00-10-39" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-central-intelligence-agency-t-00-05-25" style="--pulse-height:12%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#t-00-57-39" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-central-intelligence-agency-t-00-35-38" style="--pulse-height:12%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-central-intelligence-agency-t-00-39-23" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-central-intelligence-agency-t-01-14-01" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -154,6 +158,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-central-intelligence-agency-t-01-17-49) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-central-intelligence-agency-t-00-10-39) | 2 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-central-intelligence-agency-t-00-05-25) | 2 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-57-39) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-central-intelligence-agency-t-00-35-38) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-central-intelligence-agency-t-00-39-23) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-central-intelligence-agency-t-01-14-01) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25) | 1 |
 
 </details>
@@ -162,13 +170,48 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (162)</strong></summary>
+<summary><strong class="section-title">Raw mentions (167)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25)**
 > "...ntire term was created by the CIA to gaslight people after the assassination of JFK..."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:14:16](/episodes/ep-EtLHqDbxqks.md#ent-org-central-intelligence-agency-t-01-14-01)**
+> "The influencers are the mockingbird media of our day, like CIA, mockingbird. Everyone say the same thing. I think we all see that now, but it's just not working. So I guess we're going to come to a point where what are they going to do?"
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:39:57](/episodes/ep-IqHsl7d2dos.md#ent-org-central-intelligence-agency-t-00-39-23)**
+> "...ranks. Mom's working with the CIA. involved in tech. She's lying about her resume."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2 mentions)</summary>
+
+**[00:35:44](/episodes/ep-sKuYLNx3iRo.md#ent-org-central-intelligence-agency-t-00-35-38)**
+> "The CIA trained people"
+
+**[00:36:29](/episodes/ep-sKuYLNx3iRo.md#ent-org-central-intelligence-agency-t-00-36-04)**
+> "...ly in those climates when the CIA is involved in intentionally creating these abuse..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:57:52](/episodes/ep-9CuC1yf8-PU.md#t-00-57-39)**
+> "Larry Johnson is ex-CIA"
 
 </details>
 
@@ -938,6 +981,18 @@ Source: [About CIA](https://www.cia.gov/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:35:44](/episodes/ep-sKuYLNx3iRo.md#t-00-35-38): “The CIA trained people to intentionally disassociate people that are serial killers that are used as weapons”
+
+</details>
+
+</details>
+
+<details>
 <summary>Affiliated With (3)</summary>
 
 - **[BYU](/entities/org-byu.md)**
@@ -995,7 +1050,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Formerly Employed (2)</summary>
+<summary>Formerly Employed (3)</summary>
 
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1008,6 +1063,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:22:15](/episodes/ep-MhakwJxK-Zk.md#t-00-21-56): “Phil Reilly, an ex-CIA operative who worked for Orbis—now ex-CIA.”
+
+</details>
+
+- **[Larry C. Johnson](/entities/person-larry-c-johnson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:57:52](/episodes/ep-9CuC1yf8-PU.md#t-00-57-39): “Larry Johnson is ex-CIA”
 
 </details>
 
@@ -1026,7 +1088,14 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:35:44](/episodes/ep-sKuYLNx3iRo.md#t-00-35-38): “The CIA trained people to intentionally disassociate people that are serial killers that are used as weapons”
+
+</details>
 
 - **[Project Looking Glass](/entities/concept-project-looking-glass.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1056,6 +1125,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 </details>
 
+- **[Larry C. Johnson](/entities/person-larry-c-johnson.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:57:52](/episodes/ep-9CuC1yf8-PU.md#t-00-57-39): “Larry Johnson is ex-CIA”
+
+</details>
+
 - **[TMZ](/entities/org-tmz.md)** operates this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1082,7 +1158,15 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (55)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (56)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
+
+- [00:35:44](/episodes/ep-sKuYLNx3iRo.md#t-00-35-38) (Claim) **Candace Owens**: ["Owens asserted that the CIA trained people to dissociate so that seria..."](/statements/statement-142801dcfbe1.md)
+  - Also about: [Dissociative identity disorder](/entities/concept-dissociative-identity-disorder.md), [Project Monarch](/entities/concept-project-monarch.md), [MKUltra](/entities/concept-mkultra.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

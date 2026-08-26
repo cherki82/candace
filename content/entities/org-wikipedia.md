@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia"
-description: "Wikipedia (Organizations) - 17 mentions"
+description: "Wikipedia (Organizations) - 19 mentions"
 id: "org-wikipedia"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00">2025-10-29 · 00:00:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-wikipedia-t-00-37-11">2026-05-27 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-09-30">2026-06-16 · 00:09:45</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-11" style="--pulse-height:15%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-wikipedia-t-00-37-11" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-08-57" style="--pulse-height:15%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-wikipedia-t-00-01-48) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-11) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-wikipedia-t-00-37-11) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-08-57) | 2 |
 
 </details>
 </section>
@@ -54,7 +56,18 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
+
+**[00:09:23](/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-08-57)**
+> "dispersing in every direction okay so we're going to pull up this wikipedia page because it helps to see a visual it just says you can literally and you can go down the rabbit hole yourself shape charge and it's show it's just showing you here okay it would have a ballistic cap an all fields cavity a detonator and then it's going to have a high explosive so we're going to imagine petn explosive that's in there and it tells you it also tell you tells you sorry if you can go back to just the wikipedia"
+
+**[00:09:45](/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-09-30)**
+> "...f you can go back to just the Wikipedia page, that there's all different ways to form it,..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>

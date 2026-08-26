@@ -1,17 +1,25 @@
 ---
 title: "Clay Travis"
-description: "Clay Travis (People) - 1 mention"
+description: "Clay Travis (People) - 2 mentions"
 id: "person-clay-travis"
 type: "PERSON"
+categories:
+  - "political commentary"
 ---
 
 _Type: People_
 
+**Categories:** political commentary
+
+**Entity verification:** verified
+> Official OutKick biography confirms the canonical name and media role.
+Source: [Clay Travis Bio | OutKick](https://www.outkick.com/analysis/clay-travis-bio)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-clay-travis-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-clay-travis-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-clay-travis-t-00-05-23">2026-07-14 · 00:05:32</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -23,12 +31,14 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-clay-travis-t-00-30-51">BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-clay-travis-t-00-30-51" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 1 mentions" title="2025-09-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-clay-travis-t-00-05-23" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-person-clay-travis-t-00-30-51) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-clay-travis-t-00-05-23) | 1 |
 
 </details>
 </section>
@@ -36,7 +46,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:05:32](/episodes/ep-EtLHqDbxqks.md#ent-person-clay-travis-t-00-05-23)**
+> "Clay Travis, it seems overwhelming."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>

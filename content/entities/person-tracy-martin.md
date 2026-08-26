@@ -1,6 +1,6 @@
 ---
 title: "Tracy Martin"
-description: "Tracy Martin (People) - 39 mentions"
+description: "Tracy Martin (People) - 42 mentions"
 id: "person-tracy-martin"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-tracy-martin-t-00-26-52">2026-02-04 · 00:27:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-tracy-martin-t-00-41-26">2026-05-14 · 00:41:26</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-45-01">2026-06-10 · 00:45:01</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -43,6 +43,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-tracy-martin-t-00-39-17" style="--pulse-height:9%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-tracy-martin-t-00-43-35" style="--pulse-height:9%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-tracy-martin-t-00-41-26" style="--pulse-height:9%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-43-35" style="--pulse-height:27%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-tracy-martin-t-00-39-17) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-tracy-martin-t-00-43-35) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-tracy-martin-t-00-41-26) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-43-35) | 3 |
 
 </details>
 </section>
@@ -63,7 +65,21 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (3 mentions)</summary>
+
+**[00:43:47](/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-43-35)**
+> "...um uh and quoting her friends tracy martin they've obviously been working on this for weeks ..."
+
+**[00:44:55](/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-44-16)**
+> "... to come a time for you. What Tracy Martin live don't even care they're not."
+
+**[00:45:01](/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-45-01)**
+> "...wn here or keep going. Tracy (Tracy Martin), Tracy (Tracy Martin), this is Erika (Erika Kirk..."
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1 mentions)</summary>
@@ -243,7 +259,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <summary>Friend Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
@@ -251,6 +267,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:03](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): “Tracy Martin, Erica (Erika Kirk)'s best friend”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:51](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17): “her best friend Tracy Martin”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:41:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-41-26): “In Kevin O'Leary's defense, that might be why they're doing it. They're realizing that's problematic. Anyway, even Tracy Martin, Erika (Erika Kirk)'s dear long 15-year friend, jumped into the fray at some point and clarified that the son is not Erika (Erika Kirk)'s, so it's all very confusing, says it's called a play date.”
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:45:01](/episodes/ep-tXoI0TTKVrs.md#t-00-45-01): “Tracy (Tracy Martin), Tracy (Tracy Martin), this is Erika (Erika Kirk)'s best friend.”
 
 </details>
 
@@ -267,7 +284,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
@@ -275,6 +292,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:03](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): “Tracy Martin, Erica (Erika Kirk)'s best friend”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:51](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17): “her best friend Tracy Martin”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:41:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-41-26): “In Kevin O'Leary's defense, that might be why they're doing it. They're realizing that's problematic. Anyway, even Tracy Martin, Erika (Erika Kirk)'s dear long 15-year friend, jumped into the fray at some point and clarified that the son is not Erika (Erika Kirk)'s, so it's all very confusing, says it's called a play date.”
+- [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:45:01](/episodes/ep-tXoI0TTKVrs.md#t-00-45-01): “Tracy (Tracy Martin), Tracy (Tracy Martin), this is Erika (Erika Kirk)'s best friend.”
 
 </details>
 

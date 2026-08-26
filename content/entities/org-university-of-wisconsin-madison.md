@@ -1,6 +1,6 @@
 ---
 title: "University of Wisconsin–Madison"
-description: "University of Wisconsin–Madison (Organizations) - 1 mention"
+description: "University of Wisconsin–Madison (Organizations) - 2 mentions"
 id: "org-university-of-wisconsin-madison"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [Mission - University of Wisconsin–Madison](https://www.wisc.edu/about
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-wisconsin-madison-t-00-14-37">2026-04-21 · 00:14:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-wisconsin-madison-t-00-14-37">2026-04-21 · 00:14:51</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-university-of-wisconsin-madison-t-00-12-20">2026-06-17 · 00:12:20</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,12 +39,14 @@ Source: [Mission - University of Wisconsin–Madison](https://www.wisc.edu/about
 <p>Highest activity: <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-wisconsin-madison-t-00-14-37">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-wisconsin-madison-t-00-14-37" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-university-of-wisconsin-madison-t-00-12-20" style="--pulse-height:100%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-wisconsin-madison-t-00-14-37) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-university-of-wisconsin-madison-t-00-12-20) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Mission - University of Wisconsin–Madison](https://www.wisc.edu/about
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:12:20](/episodes/ep-G3zdOeHpvS0.md#ent-org-university-of-wisconsin-madison-t-00-12-20)**
+> "This is September 5th, the University of Wisconsin in Madison. Well, he had no mic. On September 11t..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>

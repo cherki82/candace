@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 161 mentions"
+description: "Rob McCoy (People) - 172 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -26,12 +26,12 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-12">2025-09-17 · 00:56:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-rob-mccoy-t-00-29-56">2026-05-27 · 00:30:09</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>161</strong></div>
-<div><span>Statements by</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-rob-mccoy-t-00-59-35">2026-06-23 · 00:59:35</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>172</strong></div>
+<div><span>Statements by</span><strong>12</strong></div>
 <div><span>Statements about</span><strong>36</strong></div>
-<div><span>Relationships</span><strong>48</strong></div>
+<div><span>Relationships</span><strong>52</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -78,6 +78,9 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <a href="/episodes/ep-jsqUIkszZd0.md#t-00-40-49" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-rob-mccoy-t-00-47-55" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-rob-mccoy-t-00-29-56" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-rob-mccoy-t-00-17-14" style="--pulse-height:31%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-33-11" style="--pulse-height:38%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 5 mentions" title="2026-06-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-rob-mccoy-t-00-00-49" style="--pulse-height:15%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,6 +125,9 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#t-00-40-49) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-rob-mccoy-t-00-47-55) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-rob-mccoy-t-00-29-56) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-rob-mccoy-t-00-17-14) | 4 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-33-11) | 5 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-rob-mccoy-t-00-00-49) | 2 |
 
 </details>
 </section>
@@ -129,7 +135,55 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (161)</strong></summary>
+<summary><strong class="section-title">Raw mentions (172)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
+
+**[00:01:06](/episodes/ep-9CuC1yf8-PU.md#ent-person-rob-mccoy-t-00-00-49)**
+> "I heard it in a Rob McCoy sermon this weekend in Vegas."
+
+**[00:59:35](/episodes/ep-9CuC1yf8-PU.md#ent-person-rob-mccoy-t-00-59-35)**
+> "...clear. Um, and I learned from Rob McCoy's church that you can just pluck up any proverb you..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (5 mentions)</summary>
+
+**[00:33:33](/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-33-11)**
+> "...f people like Victor Marx and Rob McCoy, even in her little minute contribution, she fail..."
+
+**[00:36:51](/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-36-41)**
+> "...is extra special because it's Rob McCoy."
+
+**[00:37:06](/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-36-41)**
+> "Pastor Rob McCoy, Mikey McCoy's daddy."
+
+**[00:40:43](/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-40-10)**
+> "I love this guy, Rob McCoy, who just can't tell the truth when he hits the s..."
+
+**[00:38:24](/episodes/ep-VMNWMXX1vO8.md#ent-person-rob-mccoy-t-00-38-24)**
+> "...ndace Owens] Oh no, tell us. [Rob McCoy] "Charlie (Charlie Kirk) spoke to me.""
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (4 mentions)</summary>
+
+**[00:17:14](/episodes/ep-G3zdOeHpvS0.md#ent-person-rob-mccoy-t-00-17-14)**
+> "... got Frank Turek here. We got Rob McCoy. Everybody here is like the TPUSA faith."
+
+**[00:25:22](/episodes/ep-G3zdOeHpvS0.md#ent-person-rob-mccoy-t-00-25-14)**
+> "Rob McCoy also adopted a 12-year-old girl named Natalia fro..."
+
+**[00:40:52](/episodes/ep-G3zdOeHpvS0.md#ent-person-rob-mccoy-t-00-40-52)**
+> "...er for. In fact, I think even Rob McCoy doubled down on stage. I think we have that clip ..."
+
+**[00:41:11](/episodes/ep-G3zdOeHpvS0.md#ent-person-rob-mccoy-t-00-40-52)**
+> "Take a listen to what Rob McCoy had to say."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -902,12 +956,19 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Criticized (2)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:49:27](/episodes/ep-czVBmqZP6Ss.md#t-00-49-18): “the story that we were told was that Tyler Robinson allegedly, after speaking with the pastor, his dad turned him in”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:32](/episodes/ep-VMNWMXX1vO8.md#t-00-37-32): “Candace doesn't have any receipts, and it's a carnal Christian soap opera. And you're suckered into it.”
 
 </details>
 
@@ -917,9 +978,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): “the preferences of Rob McCoy who makes my skin crawl. We showed you that interview that he did with somebody who apparently went on a rampage. He actually went to prison for it and he was just sort of laundering his reputation and then gave him access again to children.”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:40:35](/episodes/ep-VMNWMXX1vO8.md#t-00-40-10): “this guy, Rob McCoy, who just can't tell the truth when he hits the stage”
 
 </details>
 
@@ -1003,7 +1065,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <summary>Parent Of (1)</summary>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
@@ -1013,13 +1075,14 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:43](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43): “he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy.”
 - [Myron Gaines x Candace Owens @ 00:59:59](/episodes/ep-2T39-oADLj0.md#t-00-59-40): “And you're brought in by Rob, your dad,”
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Pastor Of (3)</summary>
+<summary>Pastor Of (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1043,6 +1106,13 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:14:33](/episodes/ep-Qfwr08Ebczo.md#t-00-14-10): “Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel”
+
+</details>
+
+- **[Encounter Church Vegas](/entities/org-encounter-church-vegas.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:36:51](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “today's is extra special because it's Rob McCoy ... At Encountered Church in Vegas”
 
 </details>
 
@@ -1083,7 +1153,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Referenced By (24)</summary>
+<summary>Referenced By (26)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1100,7 +1170,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 - **[Michael McCoy](/entities/person-michael-mccoy.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1113,6 +1183,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:43](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43): “he was defending Mikey McCoy and talked about how he ran and after he ran, he called his mom. ... And around the time I put that phone away and then he immediately calls his dad. ... He calls Rob McCoy.”
 - [Myron Gaines x Candace Owens @ 00:59:59](/episodes/ep-2T39-oADLj0.md#t-00-59-40): “And you're brought in by Rob, your dad,”
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
 
 </details>
 
@@ -1126,10 +1197,11 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:17](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): “the preferences of Rob McCoy who makes my skin crawl. We showed you that interview that he did with somebody who apparently went on a rampage. He actually went to prison for it and he was just sort of laundering his reputation and then gave him access again to children.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:12](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): “Rob McCoy who makes my skin crawl”
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:40:35](/episodes/ep-VMNWMXX1vO8.md#t-00-40-10): “this guy, Rob McCoy, who just can't tell the truth when he hits the stage”
 
 </details>
 
@@ -1137,6 +1209,13 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:49:27](/episodes/ep-czVBmqZP6Ss.md#t-00-49-18): “the story that we were told was that Tyler Robinson allegedly, after speaking with the pastor, his dad turned him in”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:32](/episodes/ep-VMNWMXX1vO8.md#t-00-37-32): “Candace doesn't have any receipts, and it's a carnal Christian soap opera. And you're suckered into it.”
 
 </details>
 
@@ -1236,6 +1315,13 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 </details>
 
+- **[Encounter Church Vegas](/entities/org-encounter-church-vegas.md)** has pastor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:36:51](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “today's is extra special because it's Rob McCoy ... At Encountered Church in Vegas”
+
+</details>
+
 - **[Thomas Michael Camino](/entities/person-thomas-michael-camino.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1276,7 +1362,26 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Rob McCoy (9)</strong></summary>
+<summary><strong class="section-title">Statements by Rob McCoy (12)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2)</summary>
+
+- [00:37:32](/episodes/ep-VMNWMXX1vO8.md#t-00-37-32) [◐] (Accusation) ["Candace Owens has no receipts, runs a carnal Christian soap opera, attacks a wid..."](/statements/statement-18e6a3c5763c.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:38:00](/episodes/ep-VMNWMXX1vO8.md#t-00-38-00) [○] (Prediction) ["Candace Owens is going to go bankrupt, and Brian Harpole's lawsuit means she is ..."](/statements/statement-f6042895488f.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+
+- [00:41:17](/episodes/ep-G3zdOeHpvS0.md#t-00-41-14) [◐] (Claim) ["Rob McCoy said Frank Turek was covered in blood because Turek had been giving Ch..."](/statements/statement-260824974306.md)
+  - About: [Frank Turek](/entities/person-frank-turek.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 (2)</summary>

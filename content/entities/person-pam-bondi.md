@@ -1,6 +1,6 @@
 ---
 title: "Pam Bondi"
-description: "Pam Bondi (People) - 28 mentions"
+description: "Pam Bondi (People) - 32 mentions"
 id: "person-pam-bondi"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-pam-bondi-t-00-34-12">2025-09-19 · 00:34:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-38-53">2026-05-05 · 00:39:20</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-pam-bondi-t-00-48-59">2026-06-18 · 00:49:09</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>8</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,8 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-00-00" style="--pulse-height:67%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 4 mentions" title="2026-04-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-pam-bondi-t-00-34-44" style="--pulse-height:67%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 4 mentions" title="2026-05-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-32-49" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-pam-bondi-t-00-16-27" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-pam-bondi-t-00-00-01" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +64,8 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-00-00) | 4 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-pam-bondi-t-00-34-44) | 4 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-pam-bondi-t-00-32-49) | 6 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-pam-bondi-t-00-16-27) | 2 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-pam-bondi-t-00-00-01) | 2 |
 
 </details>
 </section>
@@ -69,7 +73,29 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:00:01](/episodes/ep-3QJqtW_NOSI.md#ent-person-pam-bondi-t-00-00-01)**
+> "Pam Bondi, the binder episode"
+
+**[00:49:09](/episodes/ep-3QJqtW_NOSI.md#ent-person-pam-bondi-t-00-48-59)**
+> "... followed the binder episode. Pam Bondi's not even in the White House anymore."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:16:27](/episodes/ep-WoXd4oLwd3w.md#ent-person-pam-bondi-t-00-16-27)**
+> "And on July 12th, Charlie (Charlie Kirk) received a phone call from the president. Here's what the New York Times article tells us. It reads, quote, on July 12th, the president took to truth social to defend Pam Bondi against criticism and to urge his boys and gals to stop wasting time and energy on Jeffrey Epstein, somebody that nobody cares about."
+
+**[00:25:49](/episodes/ep-WoXd4oLwd3w.md#ent-person-pam-bondi-t-00-25-33)**
+> "... and Trump (Donald Trump) and Pam Bondi don't but they got to bring me in like I might ha..."
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (6 mentions)</summary>
@@ -344,7 +370,15 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pam Bondi (15)</strong></summary>
+<summary><strong class="section-title">Statements about Pam Bondi (16)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:00:01](/episodes/ep-3QJqtW_NOSI.md#t-00-00-01) (Citation) **Candace Owens**: ["Owens cited a New York Times article as reporting that Trump administr..."](/statements/statement-41af199afa3a.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1)</summary>

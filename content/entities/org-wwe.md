@@ -1,6 +1,6 @@
 ---
 title: "WWE"
-description: "WWE (Organizations) - 1 mention"
+description: "WWE (Organizations) - 2 mentions"
 id: "org-wwe"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [WWE Corporate - Who We Are](https://corporate.wwe.com/about/who-we-are)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-wwe-t-00-23-26">2026-04-20 · 00:23:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-wwe-t-00-23-26">2026-04-20 · 00:23:26</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,7 +49,7 @@ Source: [WWE Corporate - Who We Are](https://corporate.wwe.com/about/who-we-are)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>

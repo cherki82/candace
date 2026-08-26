@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 294 mentions"
+description: "Utah (Places) - 304 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,8 +22,8 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13">2026-08-14 · 03:48:13</a></strong></div>
-<div><span>Episodes</span><strong>62</strong></div>
-<div><span>Mentions</span><strong>294</strong></div>
+<div><span>Episodes</span><strong>66</strong></div>
+<div><span>Mentions</span><strong>304</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -95,6 +95,10 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-utah-t-00-09-55" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-16" style="--pulse-height:28%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-utah-t-00-26-03" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-10-25" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 6 mentions" title="2026-06-26 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-utah-t-00-59-12" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-utah-t-01-19-06" style="--pulse-height:11%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -162,6 +166,10 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-utah-t-00-09-55) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-16) | 5 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-utah-t-00-26-03) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-10-25) | 6 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-utah-t-00-59-12) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-utah-t-01-19-06) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
 
 </details>
@@ -170,7 +178,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (294)</strong></summary>
+<summary><strong class="section-title">Raw mentions (304)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -225,6 +233,56 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[01:19:06](/episodes/ep-EtLHqDbxqks.md#ent-gpe-utah-t-01-19-06)**
+> "Did the team have EMT licenses? If so, we can report them to the licensing board. I think somebody emailed me and said they dug up Brian's and it was from like 1996 and that he should have had one in the state of Utah."
+
+**[00:49:12](/episodes/ep-EtLHqDbxqks.md#ent-gpe-utah-t-00-49-12)**
+> "...h District Courthouse here in Utah. The Charlie Kirk preliminary murder trial just w..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (6 mentions)</summary>
+
+**[00:10:50](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-10-25)**
+> "... are headquartered in Lehigh, Utah at Camp Williams."
+
+**[00:12:22](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-12-22)**
+> "...ey're living and stationed in Utah, they pick up and they head to Romania and join N..."
+
+**[00:15:26](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-15-00)**
+> "...ssassination that happened in Utah keeps somehow bringing us back to Romania?"
+
+**[00:45:03](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-44-42)**
+> "I want to say it was Utah, like on the 8th, but it might have been Nebraska..."
+
+**[00:47:12](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-46-47)**
+> "...re really just students in in utah but not all of them i've always said also that th..."
+
+**[01:06:14](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-01-06-00)**
+> "... information, and wonder what Utah district attorney did that—if it was even in thei..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:59:37](/episodes/ep-a2bZf4fic10.md#ent-gpe-utah-t-00-59-12)**
+> "...n't know what's going on with Utah."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:26:03](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-utah-t-00-26-03)**
+> "you might think that the judge in Utah would honor the defense's request"
 
 </details>
 

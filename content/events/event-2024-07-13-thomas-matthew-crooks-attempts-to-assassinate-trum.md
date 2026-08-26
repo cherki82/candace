@@ -11,7 +11,7 @@ date: "2024-07-13"
 
 > Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk...
 
@@ -52,3 +52,11 @@ date: "2024-07-13"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(133);return false;">▶️ Play</a>
 
 > Trump, it's too much. First one in Butler, you had me; you had us all.
+
+### 6. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
+
+**Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
+**Timestamp:** [00:41:08](/episodes/ep-a2bZf4fic10.md#event-event-2024-07-13-thomas-matthew-crooks-attempts-to-assassinate-trum-t-00-40-48) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2468);return false;">▶️ Play</a>
+
+> Did you guys know that the Butler shooting happened on a Saturday?

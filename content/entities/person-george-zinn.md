@@ -1,6 +1,6 @@
 ---
 title: "George Zinn"
-description: "George Zinn (People) - 55 mentions"
+description: "George Zinn (People) - 57 mentions"
 id: "person-george-zinn"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44">2025-09-15 · 00:44:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-person-george-zinn-t-00-47-18">2026-04-15 · 00:47:39</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-george-zinn-t-00-08-06">2026-06-26 · 00:08:06</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -52,6 +52,8 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-george-zinn-t-00-07-03" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-george-zinn-t-00-47-18" style="--pulse-height:13%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-george-zinn-t-01-09-57" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-george-zinn-t-00-08-06" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +75,8 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-george-zinn-t-00-07-03) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-george-zinn-t-00-47-18) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-george-zinn-t-01-09-57) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-george-zinn-t-00-08-06) | 1 |
 
 </details>
 </section>
@@ -80,7 +84,23 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:08:06](/episodes/ep-IqHsl7d2dos.md#ent-person-george-zinn-t-00-08-06)**
+> "...t? One of them got in trouble—George Zinn—for child pornography. And then, when somebody in..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[01:10:08](/episodes/ep-h76ZN-xXC6c.md#ent-person-george-zinn-t-01-09-57)**
+> "But what is interesting is that our our decoy boy number two. is longtime friends with Connor Henderson we talked about how those are the sons of the the BILT Incorporated you'd have to go back and watch the episode but we did unpack that I can't think of the name of decoy boy number two it was George Zinn and then it was that like Sam he had like Zachariah Qureshi, that's right."
+
+</details>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>

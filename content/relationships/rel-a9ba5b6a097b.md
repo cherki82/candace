@@ -11,11 +11,15 @@ object: "person-blake-neff"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4)**
 
 - [00:31:31](/episodes/ep-581dILVcEE4#t-00-31-31): _Blake Neff was the Turning Point USA employee that was standing directly next to super-Mikey McCoy_
+
+**[A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0)**
+
+- [00:55:26](/episodes/ep-G3zdOeHpvS0#t-00-55-26): _the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy, the Blake Neff_
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles"
-description: "Los Angeles (Places) - 16 mentions"
+description: "Los Angeles (Places) - 19 mentions"
 id: "gpe-los-angeles"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [City of Los Angeles](https://lacity.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51">2025-12-17 · 00:46:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#t-00-46-18">2026-05-21 · 00:46:37</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02">2026-07-14 · 01:07:25</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,8 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-los-angeles-t-00-49-12" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-los-angeles-t-00-49-26" style="--pulse-height:50%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-00-46-18" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#t-00-37-18" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +67,8 @@ Source: [City of Los Angeles](https://lacity.gov/)
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-los-angeles-t-00-49-12) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-los-angeles-t-00-49-26) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-46-18) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-37-18) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02) | 2 |
 
 </details>
 </section>
@@ -72,7 +76,26 @@ Source: [City of Los Angeles](https://lacity.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[01:02:02](/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02)**
+> "I remember where I was when all this was happening. I was in Los Angeles. I had sort of a breakfast slash lunch meeting with somebody."
+
+**[01:07:25](/episodes/ep-EtLHqDbxqks.md#ent-gpe-los-angeles-t-01-02-02)**
+> "...a hunch of who he was with in LA when this happened, I will put up $10,000 bounty ..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:37:27](/episodes/ep-IqHsl7d2dos.md#t-00-37-18)**
+> "...ciate those emails, people in LA telling me how it works, people in New York telli..."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
@@ -189,7 +212,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Los Angeles (5)</strong></summary>
+<summary><strong class="section-title">Statements about Los Angeles (6)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [01:07:25](/episodes/ep-EtLHqDbxqks.md#t-01-07-07) (Promise) **Candace Owens**: ["Candace Owens promised a ten-thousand-dollar bounty for evidence ident..."](/statements/statement-165ff8263bc2.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 (1)</summary>

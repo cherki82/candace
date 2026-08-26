@@ -1,6 +1,6 @@
 ---
 title: "Mar-a-Lago"
-description: "Mar-a-Lago (Places) - 12 mentions"
+description: "Mar-a-Lago (Places) - 13 mentions"
 id: "gpe-mar-a-lago"
 type: "GPE"
 categories:
@@ -20,9 +20,9 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-mar-a-lago-t-00-26-44">2026-01-05 · 00:27:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-mar-a-lago-t-01-00-36">2026-06-09 · 01:00:58</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-mar-a-lago-t-00-51-35">2026-06-17 · 00:51:45</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-mar-a-lago-t-00-08-24" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-mar-a-lago-t-00-15-18" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-mar-a-lago-t-01-00-36" style="--pulse-height:33%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-mar-a-lago-t-00-51-35" style="--pulse-height:33%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-mar-a-lago-t-00-08-24) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-mar-a-lago-t-00-15-18) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-mar-a-lago-t-01-00-36) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-mar-a-lago-t-00-51-35) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:51:45](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-mar-a-lago-t-00-51-35)**
+> "...to glitzy glamorous events at Mar-a-Lago but they've lost the people and that meant everyt..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>

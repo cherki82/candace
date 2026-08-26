@@ -1,6 +1,6 @@
 ---
 title: "MKUltra"
-description: "MKUltra (Concepts) - 38 mentions"
+description: "MKUltra (Concepts) - 40 mentions"
 id: "concept-mkultra"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44">2025-09-24 · 00:26:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-mkultra-t-00-31-13">2026-03-06 · 00:31:13</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45">2026-07-14 · 01:19:45</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,6 +52,8 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-13-33" style="--pulse-height:71%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 5 mentions" title="2026-02-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-15-46" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 7 mentions" title="2026-02-27 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-mkultra-t-00-31-13" style="--pulse-height:14%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-mkultra-t-00-36-48" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +73,8 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-13-33) | 5 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mkultra-t-00-15-46) | 7 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mkultra-t-00-31-13) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-mkultra-t-00-36-48) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45) | 1 |
 
 </details>
 </section>
@@ -78,7 +82,23 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:19:45](/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45)**
+> "There was so much in the prelim that screamed slop, like how the kid with the limped switched legs, Lance (Lance Twiggs), is sus, and he seems like an MKUltra op."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:36:59](/episodes/ep-sKuYLNx3iRo.md#ent-concept-mkultra-t-00-36-48)**
+> "MKUltra program"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>
@@ -274,7 +294,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MKUltra (12)</strong></summary>
+<summary><strong class="section-title">Statements about MKUltra (14)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2)</summary>
+
+- [00:35:44](/episodes/ep-sKuYLNx3iRo.md#t-00-35-38) (Claim) **Candace Owens**: ["Owens asserted that the CIA trained people to dissociate so that seria..."](/statements/statement-142801dcfbe1.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Dissociative identity disorder](/entities/concept-dissociative-identity-disorder.md), [Project Monarch](/entities/concept-project-monarch.md)
+
+- [00:36:59](/episodes/ep-sKuYLNx3iRo.md#t-00-36-48) (Claim) **Candace Owens**: ["Owens asserted that the MKUltra program began with Project Monarch in ..."](/statements/statement-9b1138ed5507.md)
+  - Also about: [Project Monarch](/entities/concept-project-monarch.md), [Germany](/entities/gpe-germany.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Mormonism"
-description: "Mormonism (Concepts) - 29 mentions"
+description: "Mormonism (Concepts) - 33 mentions"
 id: "concept-mormonism"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29">2026-02-27 · 00:12:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-46-22">2026-05-27 · 00:46:48</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29">2026-06-23 · 00:19:29</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -45,6 +45,9 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <a href="/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38" style="--pulse-height:36%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-09-54" style="--pulse-height:55%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 6 mentions" title="2026-05-27 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-mormonism-t-00-14-14" style="--pulse-height:9%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-mormonism-t-00-06-56" style="--pulse-height:18%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29" style="--pulse-height:9%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +60,9 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38) | 4 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-09-54) | 6 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-concept-mormonism-t-00-14-14) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-mormonism-t-00-06-56) | 2 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29) | 1 |
 
 </details>
 </section>
@@ -64,7 +70,34 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:19:29](/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29)**
+> "they were talking about religion, Mormonism, and Christianity."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:07:02](/episodes/ep-VMNWMXX1vO8.md#ent-concept-mormonism-t-00-06-56)**
+> "...n is a bit like a little deep Mormon mafia, you know."
+
+**[00:11:43](/episodes/ep-VMNWMXX1vO8.md#ent-concept-mormonism-t-00-11-20)**
+> "...ery powerful family, powerful Mormon family. And then there's this guy, Robert Golo, w..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:14:33](/episodes/ep-G3zdOeHpvS0.md#ent-concept-mormonism-t-00-14-14)**
+> "... part. As a part of this like Mormon clan and Tyler (Tyler Bowyer) was the one that wa..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (6 mentions)</summary>

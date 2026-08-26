@@ -11,7 +11,7 @@ date: "2025-08-05"
 
 > Turning Point USA holds Hamptons retreat described as intervention.
 
-## Mentioned In (71 times)
+## Mentioned In (72 times)
 
 ### 1. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
@@ -580,3 +580,11 @@ date: "2025-08-05"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(487);return false;">▶️ Play</a>
 
 > after was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was
+
+### 72. REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Na...
+
+**Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
+**Timestamp:** [00:32:58](/episodes/ep-WoXd4oLwd3w.md#event-event-2025-08-05-turning-point-usa-holds-hamptons-retreat-described-t-00-32-58) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1978);return false;">▶️ Play</a>
+
+> What follows that is August 5th to 6th, the Hamptons retreat.

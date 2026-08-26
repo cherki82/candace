@@ -1,6 +1,6 @@
 ---
 title: "Joe Kent"
-description: "Joe Kent (People) - 99 mentions"
+description: "Joe Kent (People) - 103 mentions"
 id: "person-joe-kent"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35">2025-10-29 · 00:20:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29">2026-08-14 · 02:25:29</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>99</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>103</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,9 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-joe-kent-t-00-05-17" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-joe-kent-t-01-00-56" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-joe-kent-t-00-17-35" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-joe-kent-t-00-24-00" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-joe-kent-t-00-28-51" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-joe-kent-t-00-58-18" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -67,6 +70,9 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-joe-kent-t-00-05-17) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-joe-kent-t-01-00-56) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-joe-kent-t-00-17-35) | 2 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-joe-kent-t-00-24-00) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-joe-kent-t-00-28-51) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-joe-kent-t-00-58-18) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29) | 1 |
 
 </details>
@@ -75,13 +81,40 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (99)</strong></summary>
+<summary><strong class="section-title">Raw mentions (103)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:25:29](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29)**
 > "Well, Joe Kent,"
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
+
+**[00:58:35](/episodes/ep-9CuC1yf8-PU.md#ent-person-joe-kent-t-00-58-18)**
+> "Let me get up with Joe Kent."
+
+**[00:58:41](/episodes/ep-9CuC1yf8-PU.md#ent-person-joe-kent-t-00-58-18)**
+> "Crush him. Destroy Joe Kent for trying to investigate foreign leads."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:28:51](/episodes/ep-h76ZN-xXC6c.md#ent-person-joe-kent-t-00-28-51)**
+> "Again, unnecessary lies. They could have just been like, yeah, trial changing is my name is really. we regret it we were all like kind of conflicting about it and we said some things I regret I mean they lied through their teeth until I dropped the receipts what was the response from Turning Point to be angry and to suggest that it came from Joe Kent that Joe Kent sent me the messages and I published them why would anybody be angry"
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:24:24](/episodes/ep-tXoI0TTKVrs.md#ent-person-joe-kent-t-00-24-00)**
+> "...een directing attacks against Joe Kent for wanting to look into a foreign connection."
 
 </details>
 
@@ -769,13 +802,21 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Joe Kent (22)</strong></summary>
+<summary><strong class="section-title">Statements about Joe Kent (23)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:25:29](/episodes/ep-nPhCKwJ6ye8.md#t-02-25-29) (Citation) **Candace Owens** (via paraphrase): ["Candace Owens cited Joe Kent as saying that 12 Israeli cell phones wer..."](/statements/statement-b5e4a547905b.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:24:24](/episodes/ep-tXoI0TTKVrs.md#t-00-24-00) (Accusation) **Candace Owens**: ["Erika Kirk directed attacks against Joe Kent for seeking an investigat..."](/statements/statement-afd82f4eea6f.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

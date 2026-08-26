@@ -11,7 +11,11 @@ object: "gpe-israel"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Israel](/entities/gpe-israel)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
+
+- [00:02:41](/episodes/ep-EtLHqDbxqks#t-00-02-41): _Over the phone, while Charlie (Charlie Kirk) was in the car. That's massive. I got to say, for those of us who believe that there is mounting evidence that Israel put a hit on Charlie Kirk, Ben Shapiro receiving updates while Charlie (Charlie Kirk) was dying is not going to go a long way in terms of clearing up any conspiracies. So welcome back to Candace._
 
 **[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
 

@@ -25,13 +25,23 @@ veracity: "false"
 - [Jeremy Boreing](/entities/person-jeremy-boreing.md) (person)
 - [The Daily Wire](/entities/org-the-daily-wire.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing I...
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:36:00](/episodes/ep-k1b1NDCrNFs.md#t-00-35-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2160);return false;">Play</a>
 
 > And that is what happened. Pendragon, Jeremy (Jeremy Boreing)'s high school dream, drove the company into the ground financially with a project. I want to be clear that not even Disney Studios would have invested tens of millions of dollars in. That's a tremendous financial risk. He thought it was going to be a roaring success. It was an abject financial failure.
+
+### 2. Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neithe...
+
+**Episode:** [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md)
+**Timestamp:** [00:42:57](/episodes/ep-sKuYLNx3iRo.md#t-00-42-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2577);return false;">Play</a>
+
+> And here are the main takeaways from the article. Finally, they admit that Pendragon, the Pendragon cycle, Jeremy Boreing's pet project is what caused a significant amount of financial duress for the company. ... I want you to process that. That is... That is mania. That is Jeremy (Jeremy Boreing)'s mania. Okay. That is the single greatest contributor to the fall of the company.
 
 ## Verification
 

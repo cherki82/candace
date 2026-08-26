@@ -1,6 +1,6 @@
 ---
 title: "Josh Hammer"
-description: "Josh Hammer (People) - 181 mentions"
+description: "Josh Hammer (People) - 186 mentions"
 id: "person-josh-hammer"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-josh-hammer-t-00-41-03">2025-09-16 · 00:41:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-josh-hammer-t-01-05-09">2026-05-28 · 01:05:09</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>181</strong></div>
-<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-josh-hammer-t-00-05-23">2026-07-14 · 00:05:46</a></strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>186</strong></div>
+<div><span>Statements by</span><strong>13</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -71,6 +71,9 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-21-58" style="--pulse-height:22%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 12 mentions" title="2026-05-05 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-josh-hammer-t-00-35-16" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-josh-hammer-t-01-05-07" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-josh-hammer-t-00-31-24" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-josh-hammer-t-00-42-32" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-josh-hammer-t-00-05-23" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -111,6 +114,9 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-josh-hammer-t-00-21-58) | 12 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-josh-hammer-t-00-35-16) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-josh-hammer-t-01-05-07) | 3 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-josh-hammer-t-00-31-24) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-josh-hammer-t-00-42-32) | 3 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-josh-hammer-t-00-05-23) | 1 |
 
 </details>
 </section>
@@ -118,7 +124,37 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (181)</strong></summary>
+<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:05:46](/episodes/ep-EtLHqDbxqks.md#ent-person-josh-hammer-t-00-05-23)**
+> "Take it away, Josh Hammer, who happens to look like a Bond villain. Take a listen."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
+
+**[00:43:04](/episodes/ep-VMNWMXX1vO8.md#ent-person-josh-hammer-t-00-42-32)**
+> "...ing to rabbis—Israeli rabbis, Josh Hammer, all of them—saying they were just helping him fi..."
+
+**[00:43:38](/episodes/ep-VMNWMXX1vO8.md#ent-person-josh-hammer-t-00-43-16)**
+> "...ve that after hanging up with Josh Hammer and the rabbi on a Zoom call, having told them th..."
+
+**[00:48:33](/episodes/ep-VMNWMXX1vO8.md#ent-person-josh-hammer-t-00-48-08)**
+> "...o that his close friends were Josh Hammer, Laura Loomer."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:31:40](/episodes/ep-G3zdOeHpvS0.md#ent-person-josh-hammer-t-00-31-24)**
+> "...d having a rabbi call him and Josh Hammer call him and he's on this group text and he's say..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (3 mentions)</summary>
@@ -1113,7 +1149,15 @@ Source: [Josh Hammer | Simon & Schuster](https://www.simonandschuster.com/author
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Josh Hammer (12)</strong></summary>
+<summary><strong class="section-title">Statements by Josh Hammer (13)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [00:05:53](/episodes/ep-EtLHqDbxqks.md#t-00-05-53) [○] (Opinion) ["Josh Hammer said the evidence presented at Tyler Robinson's pretrial evidentiary..."](/statements/statement-f6f6fa0b366d.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2)</summary>

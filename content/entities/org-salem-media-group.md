@@ -1,6 +1,6 @@
 ---
 title: "Salem Media Group"
-description: "Salem Media Group (Organizations) - 27 mentions"
+description: "Salem Media Group (Organizations) - 29 mentions"
 id: "org-salem-media-group"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-salem-media-group-t-00-45-32">2026-02-02 · 00:45:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-salem-media-group-t-00-25-00">2026-05-13 · 00:25:27</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-40-50">2026-06-22 · 00:40:50</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
@@ -40,6 +40,7 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-salem-media-group-t-00-11-59" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 24 mentions" title="2026-05-05 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-salem-media-group-t-01-01-23" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-salem-media-group-t-00-25-00" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-38-00" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-salem-media-group-t-00-11-59) | 24 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-salem-media-group-t-01-01-23) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-salem-media-group-t-00-25-00) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-38-00) | 2 |
 
 </details>
 </section>
@@ -56,7 +58,18 @@ Source: [Salem Media Group: About Us](https://salemmedia.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:38:00](/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-38-00)**
+> "...ere's the thing. We ended the Salem witch trials in 1692 in America."
+
+**[00:40:50](/episodes/ep-VMNWMXX1vO8.md#ent-org-salem-media-group-t-00-40-50)**
+> "and is talking about the Salem witch trials. I love it all. I love it all, becau..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>

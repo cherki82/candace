@@ -1,6 +1,6 @@
 ---
 title: "Romania"
-description: "Romania (Places) - 112 mentions"
+description: "Romania (Places) - 149 mentions"
 id: "gpe-romania"
 type: "GPE"
 categories:
@@ -18,12 +18,12 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-10-04">2026-01-09 · 00:10:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-romania-t-00-40-58">2026-06-09 · 00:40:58</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>112</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-59-12">2026-06-26 · 00:59:40</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>149</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>46</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>53</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,12 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-romania-t-00-50-33" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-romania-t-00-47-18" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-romania-t-00-40-33" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-romania-t-00-08-47" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-18-27" style="--pulse-height:45%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 13 mentions" title="2026-06-17 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-romania-t-00-19-10" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-romania-t-00-10-41" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49" style="--pulse-height:59%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 17 mentions" title="2026-06-26 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-47-09" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +76,12 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-romania-t-00-50-33) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-romania-t-00-47-18) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-romania-t-00-40-33) | 2 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-romania-t-00-08-47) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-18-27) | 13 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-romania-t-00-19-10) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-romania-t-00-10-41) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49) | 17 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-47-09) | 3 |
 
 </details>
 </section>
@@ -77,7 +89,148 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (112)</strong></summary>
+<summary><strong class="section-title">Raw mentions (149)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (17 mentions)</summary>
+
+**[00:12:03](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49)**
+> "...ely deploy, of all places, to Romania to conduct unconventional warfare. They train wit..."
+
+**[00:12:22](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-12-22)**
+> "...they pick up and they head to Romania and join NATO allies to train in unconventional w..."
+
+**[00:12:49](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-12-22)**
+> "Rawlinson in Romania. And I do believe it is indeed him stationed ther..."
+
+**[00:13:12](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-13-00)**
+> "...litary police. He was also in Romania in this year as well. But this photo I'm going to..."
+
+**[00:13:20](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-13-00)**
+> "Rawlinson—is in 2023 in Romania as a part of Task Force 82 at the joint base in C..."
+
+**[00:13:56](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-13-43)**
+> "... if he had served overseas in Romania, whether his father had served overseas. I'm wond..."
+
+**[00:15:20](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-15-00)**
+> "...ny roads that keep leading to Romania?"
+
+**[00:15:26](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-15-00)**
+> "...s somehow bringing us back to Romania?"
+
+**[00:15:37](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-15-37)**
+> "... was previously registered in Romania, currently owned for a couple that has a charity ..."
+
+**[00:15:55](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-15-37)**
+> "...rself setting up a charity in Romania. Orphanages working with the military to do so wi..."
+
+**[00:16:07](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-15-37)**
+> "Tyler Bowyer, having lived in Romania, particularly partying with models, showed you th..."
+
+**[00:16:28](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-16-18)**
+> "...y that worked with orphans in Romania, teaching them basic hygiene. That's what pastors..."
+
+**[00:16:54](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-16-54)**
+> "... having trafficked girls from Romania, a country that I think is named the most in his ..."
+
+**[00:46:47](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-46-47)**
+> "...ntially having involvement in Romania, I think everyone in the world needs to take a lo..."
+
+**[00:47:12](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-46-47)**
+> "...een at various times based in romania on that very base That the French Foreign Legion,"
+
+**[00:47:31](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-47-31)**
+> "...een at various times based in Romania on that very base."
+
+**[00:57:00](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-56-54)**
+> "... get emails from Africa, from Romania, from France, from Italy, from wherever it is, an..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (3 mentions)</summary>
+
+**[00:47:45](/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-47-09)**
+> "...all of you. I mean, people in Romania, there was actually, I actually wanted to read th..."
+
+**[00:48:49](/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-48-30)**
+> "...'t think everybody's going to Romania to help orphans. I just don't."
+
+**[00:59:40](/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-59-12)**
+> "...t know why they're so tied to Romania. The pieces are coming together, obviously, but w..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:10:49](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-romania-t-00-10-41)**
+> "...charity, Global Ministries in Romania, because why wouldn't he? Everybody's doing that."
+
+**[00:11:01](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-romania-t-00-10-41)**
+> "...body's helping the orphans in Romania. That's what everybody does here."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:19:10](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-romania-t-00-19-10)**
+> "Romania"
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (13 mentions)</summary>
+
+**[00:18:27](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-18-27)**
+> "...e, and of course they were in Romania helping to provide medical care to orphanages. I ..."
+
+**[00:19:25](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-19-07)**
+> "...ion of Force set up a base in Romania, which would subsequently be accused of trafficki..."
+
+**[00:20:35](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-20-35)**
+> "...they provided medical care in Romania through primary care clinics in orphanages and sc..."
+
+**[00:22:42](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-22-17)**
+> "I was there in Romania doing stuff for orphans too. Oh my God, you too? ..."
+
+**[00:22:51](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-22-17)**
+> "...as this bizarre connection to Romania and Ukraine."
+
+**[00:23:24](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-23-00)**
+> "...ne was formerly registered in Romania before it was registered there."
+
+**[00:23:43](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-23-43)**
+> "...yer, we know in 2011, went to Romania to work."
+
+**[00:24:35](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-24-35)**
+> "...y accused of trafficking from Romania."
+
+**[00:24:53](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-24-35)**
+> "... that something took place in Romania. He's saying it's not a broader church issue. It'..."
+
+**[00:25:00](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-24-35)**
+> "...is, is currently stationed in Romania as a lieutenant colonel, or he was stationed in R..."
+
+**[00:25:36](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-25-14)**
+> "...eople hygiene or something in Romania, Albania, and in the Ukraine."
+
+**[00:49:17](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-49-07)**
+> "...ly fled us back to Bosnia and Romania."
+
+**[00:57:42](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-romania-t-00-57-42)**
+> "...out and helps an orphanage in Romania, not this is a network we're looking at, a global..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:08:51](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-romania-t-00-08-47)**
+> "...s, of trafficking people from Romania."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
@@ -506,6 +659,42 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Former Base Of (1)</summary>
+
+- **[French Foreign Legion](/entities/org-french-foreign-legion.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:47:31](/episodes/ep-IqHsl7d2dos.md#t-00-47-31): “who you guys will be shocked to know, has been at various times based in Romania on that very base.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:16:07](/episodes/ep-IqHsl7d2dos.md#t-00-15-37): “Tyler Bowyer, having lived in Romania, particularly partying with models, showed you that. It's what he claimed in Constanța, right where the military base is.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Location Of (1)</summary>
+
+- **[Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:19:25](/episodes/ep-G3zdOeHpvS0.md#t-00-19-07): “2010 being the very year that the Black Sea Rotation of Force set up a base in Romania”
+
+</details>
+
+</details>
+
+<details>
 <summary>Part Of (1)</summary>
 
 - **[European Union](/entities/org-european-union.md)**
@@ -518,7 +707,28 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:19:25](/episodes/ep-G3zdOeHpvS0.md#t-00-19-07): “2010 being the very year that the Black Sea Rotation of Force set up a base in Romania”
+
+</details>
+
+- **[French Foreign Legion](/entities/org-french-foreign-legion.md)** formerly based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:47:31](/episodes/ep-IqHsl7d2dos.md#t-00-47-31): “who you guys will be shocked to know, has been at various times based in Romania on that very base.”
+
+</details>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:16:07](/episodes/ep-IqHsl7d2dos.md#t-00-15-37): “Tyler Bowyer, having lived in Romania, particularly partying with models, showed you that. It's what he claimed in Constanța, right where the military base is.”
+
+</details>
 
 - **[European Union](/entities/org-european-union.md)** includes this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -532,7 +742,48 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Romania (46)</strong></summary>
+<summary><strong class="section-title">Statements about Romania (53)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2)</summary>
+
+- [00:12:03](/episodes/ep-IqHsl7d2dos.md#t-00-11-49) (Claim) **Candace Owens**: ["Owens said the 19th Special Forces Airborne routinely deploys to Roman..."](/statements/statement-13661b300a7a.md)
+  - Also about: [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne.md), [North Atlantic Treaty Organization](/entities/org-north-atlantic-treaty-organization.md)
+
+- [00:12:43](/episodes/ep-IqHsl7d2dos.md#t-00-12-22) (Opinion) **Candace Owens**: ["Owens said someone sent her a photo claimed to show Rawlinson in Roman..."](/statements/statement-aec311b56552.md)
+  - Also about: [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr.md)
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:19:10](/episodes/ep-3QJqtW_NOSI.md#t-00-19-10) (Citation) **Candace Owens**: ["Owens said Kathryn Bolkovac's book reported that trafficked underage w..."](/statements/statement-d76fc4d29782.md)
+  - Also about: [Kathryn Bolkovac](/entities/person-kathryn-bolkovac.md), [Ukraine](/entities/gpe-ukraine.md), [Croatia](/entities/gpe-croatia.md)
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (3)</summary>
+
+- [00:19:25](/episodes/ep-G3zdOeHpvS0.md#t-00-19-07) (Accusation) **Candace Owens**: ["Owens said the Black Sea Rotational Force established a Romanian base ..."](/statements/statement-0f642bd03cf4.md)
+  - Also about: [Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md)
+
+- [00:19:41](/episodes/ep-G3zdOeHpvS0.md#t-00-19-07) (Accusation) **Candace Owens**: ["Owens said Otto A. Busher III was accused of setting up the Romanian m..."](/statements/statement-a725dbf9edd7.md)
+  - Also about: [Otto A. Busher III](/entities/person-otto-a-busher-iii.md), [Black Sea Rotational Force](/entities/org-black-sea-rotational-force.md)
+
+- [00:24:35](/episodes/ep-G3zdOeHpvS0.md#t-00-24-35) (Accusation) **Candace Owens**: ["Owens said Harvest Christian Fellowship was facing litigation over wha..."](/statements/statement-9acfc16209dd.md)
+  - Also about: [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Greg Laurie](/entities/person-greg-laurie.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:08:51](/episodes/ep-tXoI0TTKVrs.md#t-00-08-47) (Accusation) **Candace Owens**: ["Greg Laurie was, “one way or the other,” credibly accused in court in ..."](/statements/statement-f9019c0bf67c.md)
+  - Also about: [Greg Laurie](/entities/person-greg-laurie.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

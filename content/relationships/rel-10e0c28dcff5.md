@@ -11,7 +11,11 @@ object: "gpe-united-states"
 
 ## [Donald J. Trump](/entities/person-donald-trump) president of [United States](/entities/gpe-united-states)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
+
+- [00:17:14](/episodes/ep-WoXd4oLwd3w#t-00-17-14): _Why would Donald Trump, the president of the United States, call Charlie Kirk to scold him because people on stage are calling out a child rapist?_
 
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 

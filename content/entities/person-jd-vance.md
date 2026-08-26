@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 64 mentions"
+description: "JD Vance (People) - 76 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-jd-vance-t-00-56-20">2026-05-28 · 00:56:20</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jd-vance-t-00-46-05">2026-06-26 · 00:46:24</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>76</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -59,6 +59,11 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-jd-vance-t-00-59-59" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-jd-vance-t-00-23-29" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-jd-vance-t-00-56-20" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-jd-vance-t-00-07-26" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-jd-vance-t-00-38-50" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39" style="--pulse-height:44%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 7 mentions" title="2026-06-23 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jd-vance-t-00-46-05" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-person-jd-vance-t-00-41-51" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +92,11 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-jd-vance-t-00-59-59) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-jd-vance-t-00-23-29) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-jd-vance-t-00-56-20) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-jd-vance-t-00-07-26) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-jd-vance-t-00-38-50) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39) | 7 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-jd-vance-t-00-46-05) | 1 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-jd-vance-t-00-41-51) | 1 |
 
 </details>
 </section>
@@ -94,7 +104,65 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:46:24](/episodes/ep-IqHsl7d2dos.md#ent-person-jd-vance-t-00-46-05)**
+> "J.D. Vance has an office down that way. Kash Patel, we want ..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:41:51](/episodes/ep-a2bZf4fic10.md#ent-person-jd-vance-t-00-41-51)**
+> "...use I was trying to help make J.D. Vance the vice president of the United States. Uh, so I..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (7 mentions)</summary>
+
+**[00:47:04](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39)**
+> "I actually don't have a lot of resentment for J.D. Vance"
+
+**[00:38:57](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39)**
+> "...ided all that, how she hugged J.D. Vance."
+
+**[00:47:30](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-47-18)**
+> "...e Kirk assassination and then J.D. Vance drops a book about his Catholicism. It's a bit di..."
+
+**[00:47:39](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-47-18)**
+> "...on decided to do a reading of J.D. Vance's book or something like a reading of J.D. Vance's ..."
+
+**[00:47:54](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-47-51)**
+> "...rom the book, God Chose Me by J.D. Vance."
+
+**[00:49:03](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-48-54)**
+> "...very interesting because it's J.D. Vance communicating with the deity Baal."
+
+**[00:49:45](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-49-27)**
+> "...on whether you think you know J.D. Vance is a hostage of it um or perpetrator of it has pr..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:39:16](/episodes/ep-19vHhjF7-NA.md#ent-person-jd-vance-t-00-38-50)**
+> "...ika (Erika Kirk) Frantzve and J.D. Vance are half siblings and their real biological fathe..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:07:48](/episodes/ep-tXoI0TTKVrs.md#ent-person-jd-vance-t-00-07-26)**
+> "...t to face an empty crowd with J.D. Vance, and she instead chose to make up a Secret Servic..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -593,7 +661,23 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (15)</strong></summary>
+<summary><strong class="section-title">Statements about JD Vance (17)</strong></summary>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1)</summary>
+
+- [00:41:51](/episodes/ep-a2bZf4fic10.md#t-00-41-51) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said he usually turned his phone off on Saturdays to hono..."](/statements/statement-6e162473d33e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Shabbat](/entities/concept-shabbat.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:07:48](/episodes/ep-tXoI0TTKVrs.md#t-00-07-26) (Accusation) **Candace Owens**: ["Erika Kirk made up a Secret Service-proof threat so she could avoid fa..."](/statements/statement-5c4c742c17b6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>

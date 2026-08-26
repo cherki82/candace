@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > VIP government plane (SAM flight 99-0404) departs Fort Huachuca with call sign change indicating VIP passenger
 
-## Mentioned In (4 times)
+## Mentioned In (6 times)
 
 ### 1. UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Cand...
 
@@ -44,3 +44,19 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(91);return false;">▶️ Play</a>
 
 > aboard the plane which left Fort Huachuca on the morning of September 9th.
+
+### 5. REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Na...
+
+**Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
+**Timestamp:** [00:43:32](/episodes/ep-WoXd4oLwd3w.md#event-event-2025-09-09-vip-government-plane-sam-flight-99-0404--t-00-43-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2612);return false;">▶️ Play</a>
+
+> then flies from Fort Huachuca to El Paso and arrives at 1 20 p.m local
+
+### 6. The Whistleblower: Did Epstein’s Network Reemerge In Charlie...
+
+**Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
+**Timestamp:** [00:09:09](/episodes/ep-3QJqtW_NOSI.md#event-event-2025-09-09-vip-government-plane-sam-flight-99-0404--t-00-08-50) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(549);return false;">▶️ Play</a>
+
+> before departing for El Paso, Texas, the next morning—mid-morning on the 9th—it leaves for Texas.

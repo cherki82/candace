@@ -1,6 +1,6 @@
 ---
 title: "Thomas Massie"
-description: "Thomas Massie (People) - 45 mentions"
+description: "Thomas Massie (People) - 46 mentions"
 id: "person-thomas-massie"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-massie-t-00-57-10">2025-11-13 · 00:57:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-thomas-massie-t-01-06-30">2026-06-09 · 01:07:05</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-thomas-massie-t-00-22-33">2026-06-10 · 00:22:59</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -46,6 +46,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-thomas-massie-t-00-00-00" style="--pulse-height:15%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-thomas-massie-t-00-36-14" style="--pulse-height:100%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 13 mentions" title="2026-05-26 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-thomas-massie-t-00-16-24" style="--pulse-height:23%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-thomas-massie-t-00-22-33" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-thomas-massie-t-00-00-00) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-thomas-massie-t-00-36-14) | 13 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-thomas-massie-t-00-16-24) | 3 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-thomas-massie-t-00-22-33) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:22:59](/episodes/ep-tXoI0TTKVrs.md#ent-person-thomas-massie-t-00-22-33)**
+> "effectively ousting Thomas Massie, Ed Gallrein not even running in Kentucky. He doe..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>

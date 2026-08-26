@@ -11,7 +11,7 @@ object: "org-the-daily-wire"
 
 ## [Candace Owens](/entities/person-candace-owens) critic of [The Daily Wire](/entities/org-the-daily-wire)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk)**
 
@@ -28,6 +28,10 @@ object: "org-the-daily-wire"
 **[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
 
 - [00:00:24](/episodes/ep-k1b1NDCrNFs#t-00-00-24): _I guess you can just toss another coin in the "I told you so" swear jar. Daily Wire operates like a deranged cult, and they will never stop trying to destroy my life. We're going to speak about that._
+
+**[Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo)**
+
+- [00:01:40](/episodes/ep-sKuYLNx3iRo#t-00-01-40): _And speaking of miniature, Ben Shapiro's Daily Wire is still crashing and burning financially._
 
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 

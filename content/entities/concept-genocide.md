@@ -1,6 +1,6 @@
 ---
 title: "Genocide"
-description: "Genocide (Concepts) - 12 mentions"
+description: "Genocide (Concepts) - 17 mentions"
 id: "concept-genocide"
 type: "CONCEPT"
 categories:
@@ -18,27 +18,28 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-genocide-t-00-14-33">2026-01-07 · 00:14:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-genocide-t-00-54-05">2026-05-27 · 00:54:13</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-39-47">2026-06-10 · 00:39:59</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-genocide-t-00-48-09">Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-28-56">Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-genocide-t-00-14-33" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-genocide-t-00-33-15" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-genocide-t-00-17-11" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-genocide-t-00-02-02" style="--pulse-height:33%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-genocide-t-00-48-09" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-genocide-t-00-57-09" style="--pulse-height:67%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-genocide-t-00-33-07" style="--pulse-height:33%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-genocide-t-00-21-17" style="--pulse-height:67%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-genocide-t-00-14-33" style="--pulse-height:20%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-genocide-t-00-33-15" style="--pulse-height:20%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-genocide-t-00-17-11" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-genocide-t-00-02-02" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-genocide-t-00-48-09" style="--pulse-height:60%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-genocide-t-00-57-09" style="--pulse-height:40%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-genocide-t-00-33-07" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-genocide-t-00-21-17" style="--pulse-height:40%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-28-56" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 5 mentions" title="2026-06-10 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-genocide-t-00-57-09) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-genocide-t-00-33-07) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-genocide-t-00-21-17) | 2 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-28-56) | 5 |
 
 </details>
 </section>
@@ -59,7 +61,27 @@ Source: [Definitions of Genocide and Related Crimes | United Nations](https://ww
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (5 mentions)</summary>
+
+**[00:29:24](/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-28-56)**
+> "He invested in a genocide before it happened, presented plans for what they..."
+
+**[00:29:44](/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-29-30)**
+> "...pretty. And so don't mind the genocide that my family is benefiting from, you know, geno..."
+
+**[00:30:11](/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-30-11)**
+> "Like you can commit a genocide and then feel really squeaky clean about yourself..."
+
+**[00:37:39](/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-37-20)**
+> "...e demons who just committed a genocide get the hell away from their island."
+
+**[00:39:59](/episodes/ep-tXoI0TTKVrs.md#ent-concept-genocide-t-00-39-47)**
+> "we'll probably just have to genocide them right I mean just like it just I don't like ..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2 mentions)</summary>
@@ -147,7 +169,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Genocide (2)</strong></summary>
+<summary><strong class="section-title">Statements about Genocide (4)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2)</summary>
+
+- [00:29:24](/episodes/ep-tXoI0TTKVrs.md#t-00-28-56) (Accusation) **Candace Owens**: ["Jared Kushner invested in a genocide before it happened and presented ..."](/statements/statement-46ee3a5ee5a8.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Gaza](/entities/gpe-gaza.md)
+
+- [00:29:44](/episodes/ep-tXoI0TTKVrs.md#t-00-29-30) (Accusation) **Candace Owens**: ["The Kushner family is benefiting financially from the genocide in Gaza..."](/statements/statement-f996f7744bfb.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Ivanka Trump](/entities/person-ivanka-trump.md), [Gaza](/entities/gpe-gaza.md)
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>

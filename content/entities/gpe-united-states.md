@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1762 mentions"
+description: "United States (Places) - 1844 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -26,10 +26,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09">2025-09-15 · 00:01:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17">2026-08-14 · 01:19:28</a></strong></div>
-<div><span>Episodes</span><strong>118</strong></div>
-<div><span>Mentions</span><strong>1,762</strong></div>
+<div><span>Episodes</span><strong>130</strong></div>
+<div><span>Mentions</span><strong>1,844</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>139</strong></div>
+<div><span>Statements about</span><strong>148</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -155,6 +155,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-united-states-t-00-01-31" style="--pulse-height:42%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 16 mentions" title="2026-05-27 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-united-states-t-00-05-57" style="--pulse-height:37%" aria-label="Candace Owens x Ana Kasparian: 14 mentions" title="2026-05-28 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-united-states-t-00-00-00" style="--pulse-height:50%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 19 mentions" title="2026-06-09 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-09-58" style="--pulse-height:16%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 6 mentions" title="2026-06-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-12-23" style="--pulse-height:53%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 20 mentions" title="2026-06-11 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-united-states-t-00-48-41" style="--pulse-height:11%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 4 mentions" title="2026-06-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-united-states-t-01-13-39" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-23-43" style="--pulse-height:16%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 6 mentions" title="2026-06-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-06-08" style="--pulse-height:39%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 15 mentions" title="2026-06-18 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-united-states-t-00-36-41" style="--pulse-height:11%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-united-states-t-00-37-18" style="--pulse-height:11%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 4 mentions" title="2026-06-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-united-states-t-00-31-05" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-01-45" style="--pulse-height:26%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 10 mentions" title="2026-06-26 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-united-states-t-00-25-54" style="--pulse-height:11%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-united-states-t-00-55-41" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -278,6 +290,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-united-states-t-00-01-31) | 16 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-united-states-t-00-05-57) | 14 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-united-states-t-00-00-00) | 19 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-09-58) | 6 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-12-23) | 20 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-united-states-t-00-48-41) | 4 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-united-states-t-01-13-39) | 2 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-23-43) | 6 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-06-08) | 15 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-united-states-t-00-36-41) | 4 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-united-states-t-00-37-18) | 4 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-united-states-t-00-31-05) | 3 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-01-45) | 10 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-united-states-t-00-25-54) | 4 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-united-states-t-00-55-41) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12) | 3 |
 
 </details>
@@ -286,7 +310,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1762)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1844)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -299,6 +323,306 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:19:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17)**
 > "Kits are available for United States residents only."
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[00:55:58](/episodes/ep-EtLHqDbxqks.md#ent-gpe-united-states-t-00-55-41)**
+> "countries around the world took notice. They realized that the United States could use the dollar as a political weapon."
+
+**[00:56:05](/episodes/ep-EtLHqDbxqks.md#ent-gpe-united-states-t-00-55-41)**
+> "And for decades, America's economic strength has really depended on the rest..."
+
+</details>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (10 mentions)</summary>
+
+**[00:01:45](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-01-45)**
+> "...simple skin care made here in America."
+
+**[00:12:03](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-01-45)**
+> "Particularly, the U.S. Army's 19 Special Forces Airborne routinely deplo..."
+
+**[00:16:38](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-16-18)**
+> "...'s just not enough orphans in America, kids in America that need help. It's just really..."
+
+**[00:19:52](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-19-29)**
+> "...an-Luc Brunel had legs in the United States of America."
+
+**[00:23:08](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-22-32)**
+> "...mes of France, of course, the United States, and Israel."
+
+**[00:31:30](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-31-12)**
+> "... guys about Pure Talk because America does not stand for 250 years as a beacon of hope ..."
+
+**[00:47:45](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-31-12)**
+> "...e potentially working for the United States military or working for NATO in some capacity in ..."
+
+**[00:48:20](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-31-12)**
+> "...ould also be the same for the United States military, which is pretty."
+
+**[00:55:06](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-31-12)**
+> "...Kirk), do not sign up for the United States military."
+
+**[00:59:14](/episodes/ep-IqHsl7d2dos.md#ent-gpe-united-states-t-00-59-01)**
+> "...arlie Kirk is not safe in the United States of America, none of you are."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (4 mentions)</summary>
+
+**[00:26:20](/episodes/ep-a2bZf4fic10.md#ent-gpe-united-states-t-00-25-54)**
+> "...erhood is possible. Celebrate America's birthday with a $250 gift to Preborn today to don..."
+
+**[00:41:51](/episodes/ep-a2bZf4fic10.md#ent-gpe-united-states-t-00-41-51)**
+> "...nce the vice president of the United States. Uh, so I just had some calls to make."
+
+**[00:52:03](/episodes/ep-a2bZf4fic10.md#ent-gpe-united-states-t-00-51-43)**
+> "...t of us, the President of the United States."
+
+**[00:52:24](/episodes/ep-a2bZf4fic10.md#ent-gpe-united-states-t-00-52-24)**
+> "...ng to be the president of the United States and you're going to call someone the most vile pe..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (3 mentions)</summary>
+
+**[00:31:13](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-united-states-t-00-31-05)**
+> "...erhood is possible. Celebrate America's birthday with your $250 gift to Preborn today."
+
+**[00:39:58](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-united-states-t-00-39-58)**
+> "...? He ran on an American first America first campaign, and then he bombs Venezuela."
+
+**[00:46:38](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-united-states-t-00-46-32)**
+> "...ey discuss something like the U.S.'s liberty, they do that. OK, that's not a company..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (4 mentions)</summary>
+
+**[00:48:20](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-united-states-t-00-37-18)**
+> "Does Baal care about America"
+
+**[00:36:41](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-united-states-t-00-37-18)**
+> "...Romanian angels alongside the United States Marine Corps while she was in New York City."
+
+**[00:37:18](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-united-states-t-00-37-18)**
+> "... Eastern European who came to America and dealt with Kates' NEXT Model Management. And ..."
+
+**[00:48:44](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-united-states-t-00-48-29)**
+> "Does Baal care about America, I would ask?"
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (4 mentions)</summary>
+
+**[00:36:51](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-united-states-t-00-36-41)**
+> "... and try to figure out who in America is actually spending their Sunday listening to th..."
+
+**[00:38:00](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-united-states-t-00-38-00)**
+> "...Salem witch trials in 1692 in America."
+
+**[00:40:30](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-united-states-t-00-40-10)**
+> "... I wish him to lie all across America. I want him to go on tour."
+
+**[00:55:47](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-united-states-t-00-55-47)**
+> "...rolling down, who do we have? U.S. Flagpole Guy writes, "Brian Harpole brought Charl..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (15 mentions)</summary>
+
+**[00:06:45](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-06-08)**
+> "parent in the United States"
+
+**[00:06:38](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-06-08)**
+> "...dents via Turning Points Club America."
+
+**[00:12:25](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-12-14)**
+> "Bradley Hansell, okay? U.S. Secretary of Defense Intelligence."
+
+**[00:14:23](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-14-23)**
+> "...o to give you an example, the United States government wants to sort of keep their hands clea..."
+
+**[00:14:42](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-14-23)**
+> "...s and arm rebels and then the united states government is like we didn't know we gave them mo..."
+
+**[00:15:13](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-15-08)**
+> "The U.S. military, supported by our tax dollars, can then ..."
+
+**[00:15:54](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-15-45)**
+> "...d 20 others while escorting a U.S. embassy convoy. Again, we just asked them to esco..."
+
+**[00:19:37](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-19-10)**
+> "...disasters and then say, we're America and we want to help."
+
+**[00:20:19](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-19-54)**
+> "...K, well, obviously every time America's here, NATO, we're the good guys. It's peace."
+
+**[00:22:00](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-21-39)**
+> "...d their relationship with the United States government."
+
+**[00:30:38](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-30-04)**
+> "... guys about Pure Talk because America does not stand for 250 years as a beacon of hope ..."
+
+**[00:30:48](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-30-04)**
+> "...omers will raise $250,000 for America's Warrior Partnership by the end of July."
+
+**[00:31:10](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-30-04)**
+> "...tunity to round up to support America's Warrior Partnership."
+
+**[00:41:22](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-30-04)**
+> "...Watson while working with the U.S. Navy to improve the health of aging dolphins."
+
+**[00:52:08](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-51-51)**
+> "...—the variety that was sent to America, the original aubergines—kind of resembled the sh..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (6 mentions)</summary>
+
+**[00:17:59](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-23-43)**
+> "...rk) was getting her teen Miss America crown under the Trump Miss Universal organization..."
+
+**[00:23:43](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-23-43)**
+> "... in some capacity because the U.S. Marines is where she's doing this on the U.S. Mar..."
+
+**[00:37:20](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-37-06)**
+> "...all from the president of the United States asking him to stop doing that, saying that it was..."
+
+**[00:53:22](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-52-57)**
+> "The United States knows this. Other countries know this. Other coun..."
+
+**[00:57:57](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-57-42)**
+> "...it works and the way that the United States military has been caught in these trafficking, gl..."
+
+**[00:58:32](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-58-26)**
+> "...ing to get into tomorrow when America did get caught trafficking in a very big way and ..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>
+
+**[01:13:47](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-united-states-t-01-13-39)**
+> "...nd it's, well, as it comes to America, it comes from Mother Russia, the pale of settlem..."
+
+**[00:01:02](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-united-states-t-00-00-35)**
+> "That's got to be going on. The United States seems to be being run these days by a car filled with clowns."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4 mentions)</summary>
+
+**[00:48:56](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-united-states-t-00-48-41)**
+> "Fort Huachuca absolutely stunning truly stunning i can't be wrapped with my minutes guys we're like not even gonna be able to cover everything else like we're we're like it's already late today and my daughter has a little bit of a fever so let's uh we'll we'll do um we'll do another ad break and then i'm gonna get some of your comments we'll be right back All right, you guys, for 250 years, the promise of America has been the freedom to build something on your own."
+
+**[00:17:14](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-united-states-t-00-17-07)**
+> "...d Trump, the president of the United States, call Charlie Kirk to scold him because people on..."
+
+**[00:22:58](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-united-states-t-00-22-58)**
+> "... anyways the president of the United States is calling him this is his wife she knows this is..."
+
+**[00:49:54](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-united-states-t-00-49-24)**
+> "And to celebrate America's 250th birthday, they're giving my viewers 25% off..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (20 mentions)</summary>
+
+**[00:01:04](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-12-23)**
+> "...ngly endless bloodlust of the United States military. It's all kind of coming together."
+
+**[00:12:31](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-12-23)**
+> "...ld be that. I don't know that America has the stomach for it, to be honest with you. Yo..."
+
+**[00:12:38](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-12-23)**
+> "But I don't know that America has the stomach. I think they'd like to see us co..."
+
+**[00:13:07](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-13-07)**
+> "America has a long time you know it's a little longer pro..."
+
+**[00:15:51](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-15-16)**
+> "...o do you think sits above the United States? It's obviously not the will of the people, as he..."
+
+**[00:15:59](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-15-16)**
+> "... speaking to reporters at the U.S. Central Command Headquarters in Tampa, Florida ye..."
+
+**[00:16:10](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-15-16)**
+> "...body. It's good to be here at U.S. Central Command. Admiral Cooper, the commander of..."
+
+**[00:16:50](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-16-50)**
+> "in Iran from the United States of America. And"
+
+**[00:20:12](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-20-12)**
+> "...s clean, simple, made here in America, and designed to support healthy-looking skin all..."
+
+**[00:20:26](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-20-12)**
+> "... guys about Pure Talk because America doesn't stand for 250 years as a beacon of hope w..."
+
+**[00:20:40](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-20-12)**
+> "...omers will raise $250,000 for America's Warrior Partnership by the end of July."
+
+**[00:21:00](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-20-12)**
+> "...unity to round up support for America's Warrior Partnership."
+
+**[00:24:47](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-24-11)**
+> "...omer, the state of affairs in America, down there on a helicopter."
+
+**[00:24:59](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-24-54)**
+> "...ualify to own a weapon in the United States. It's pretty hard, the United States. Everyone ca..."
+
+**[00:26:46](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-24-54)**
+> "How long would a U.S. military operation take to remove the communist r..."
+
+**[00:27:03](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-27-03)**
+> "...hief and the president of the United States"
+
+**[00:27:16](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-27-03)**
+> "...agon no one plans better than United States Central Command So to kind of bring it back home ..."
+
+**[00:29:25](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-29-13)**
+> "...lation in theater surrounding America and Israel's relations and decision making over w..."
+
+**[00:36:50](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-36-50)**
+> "I live in America and I love both countries. The Albanian governmen..."
+
+**[00:38:04](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-37-34)**
+> "...ing because it's happening in America as well."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (6 mentions)</summary>
+
+**[00:09:58](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-09-58)**
+> "... become vice president of the United States because she has approached everything as though i..."
+
+**[00:10:29](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-10-29)**
+> "... truest representation of the United States that we live in today and yesterday, by the way."
+
+**[00:41:32](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-41-32)**
+> "... do this concert to celebrate america's 250th anniversary and all these acts pulled out h..."
+
+**[00:42:09](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-42-09)**
+> "...le what a movie the leader of america is never going to be not a rich scumbag i'm 41 i ..."
+
+**[00:51:52](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-51-20)**
+> "...s clean, simple, made here in America, and designed to support healthy looking skin."
+
+**[00:53:03](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-52-41)**
+> "American Financing, America's home for home loans."
 
 </details>
 
@@ -3773,10 +4097,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Has President (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:17:14](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07): “Why would Donald Trump, the president of the United States, call Charlie Kirk to scold him because people on stage are calling out a child rapist?”
 
 </details>
 
@@ -3871,10 +4196,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** president of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:17:14](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07): “Why would Donald Trump, the president of the United States, call Charlie Kirk to scold him because people on stage are calling out a child rapist?”
 
 </details>
 
@@ -3904,7 +4230,49 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (139)</strong></summary>
+<summary><strong class="section-title">Statements about United States (148)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
+
+- [00:15:45](/episodes/ep-3QJqtW_NOSI.md#t-00-15-08) (Claim) **Candace Owens**: ["Owens said Blackwater received two billion dollars in U.S. government ..."](/statements/statement-a163c63eda74.md)
+  - Also about: [Blackwater](/entities/org-blackwater.md)
+
+- [00:21:39](/episodes/ep-3QJqtW_NOSI.md#t-00-21-39) (Accusation) **Candace Owens**: ["Owens said DynCorp officers accused of trafficking, forced prostitutio..."](/statements/statement-95658714bfaa.md)
+  - Also about: [DynCorp International](/entities/org-dyncorp-international.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (4)</summary>
+
+- [00:12:23](/episodes/ep-19vHhjF7-NA.md#t-00-12-23) (Opinion) **Donald J. Trump** (via quoted speech): ["Donald Trump said that his preference has always been to take Kharg Is..."](/statements/statement-9daf384d7f82.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Kharg Island](/entities/gpe-kharg-island.md)
+
+- [00:16:39](/episodes/ep-19vHhjF7-NA.md#t-00-16-10) (Promise) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said that U.S. bombs would fall on key facilities in Iran..."](/statements/statement-d732564307bc.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+- [00:24:54](/episodes/ep-19vHhjF7-NA.md#t-00-24-54) (Claim) **Candace Owens**: ["Owens claimed that Laura Loomer is not legally permitted to own a weap..."](/statements/statement-d6a47ad0c681.md)
+  - Also about: [Laura Loomer](/entities/person-laura-loomer.md)
+
+- [00:27:38](/episodes/ep-19vHhjF7-NA.md#t-00-27-16) (Promise) **Pete Hegseth** (via quoted speech): ["Pete Hegseth said the United States would strike Iran hard that night."](/statements/statement-447ec3abfa35.md)
+  - Also about: [Pete Hegseth](/entities/person-pete-hegseth.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (3)</summary>
+
+- [00:09:58](/episodes/ep-tXoI0TTKVrs.md#t-00-09-58) (Opinion) **Candace Owens**: ["Erika Kirk was promised that she would become vice president of the Un..."](/statements/statement-e727f5940b0b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:41:57](/episodes/ep-tXoI0TTKVrs.md#t-00-41-32) (Opinion) **Tim Dillon** (via quoted speech): ["Donald Trump is selling the government off for parts while people are ..."](/statements/statement-4b9475863617.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:43:00](/episodes/ep-tXoI0TTKVrs.md#t-00-42-55) (Accusation) **Candace Owens**: ["Donald Trump has completely sold out the American people for Israel an..."](/statements/statement-29639a540191.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md), [Jared Kushner](/entities/person-jared-kushner.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (5)</summary>

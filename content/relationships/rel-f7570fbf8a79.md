@@ -11,7 +11,7 @@ object: "person-lori-frantzve"
 
 ## [Erika Kirk](/entities/person-erika-kirk) child of [Lori Frantzve](/entities/person-lori-frantzve)
 
-### Evidence (15 mentions)
+### Evidence (16 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -28,6 +28,10 @@ object: "person-lori-frantzve"
 **[BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE)**
 
 - [00:17:18](/episodes/ep-7FS1tUeSfdE#t-00-17-18): _Erika Kirk's mom._
+
+**[Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU)**
+
+- [00:45:50](/episodes/ep-9CuC1yf8-PU#t-00-45-50): _trauma, abuse, stressful experiences. I don't love the relationship she has with her mother. I find her mother, there's just something about Lori (Lori Frantzve), I'll tell you that much._
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 

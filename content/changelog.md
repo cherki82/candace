@@ -5,6 +5,35 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-26 07:56:06
+
+**Added 12 episode(s):**
+  - `19vHhjF7-NA`: OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347
+  - `3QJqtW_NOSI`: The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352
+  - `9CuC1yf8-PU`: Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354
+  - `EtLHqDbxqks`: I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358
+  - `G3zdOeHpvS0`: A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351
+  - `IqHsl7d2dos`: TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356
+  - `VMNWMXX1vO8`: I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353
+  - `WoXd4oLwd3w`: REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348
+  - `a2bZf4fic10`: EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
+  - `h76ZN-xXC6c`: The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350
+  - `sKuYLNx3iRo`: Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355
+  - `tXoI0TTKVrs`: Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346
+**Added 241 new entity/entities**
+**Removed 2 entity/entities**
+**Added 92 new event(s)**
+**Added 314 new relationship(s)**
+
+**Totals:**
+- Episodes: 137
+- Entities: 3453
+- Events: 1502
+- Claims: 1461
+- Relationships: 3777
+
+---
+
 ## 2026-08-25 18:20:52
 
 **Added 9 episode(s):**

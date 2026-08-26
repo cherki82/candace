@@ -1,6 +1,6 @@
 ---
 title: "Soviet Union"
-description: "Soviet Union (Places) - 5 mentions"
+description: "Soviet Union (Places) - 6 mentions"
 id: "gpe-soviet-union"
 type: "GPE"
 aliases:
@@ -23,12 +23,12 @@ Source: [Union of Soviet Socialist Republics | Office of the Historian](https://
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-soviet-union-t-00-39-31">2026-05-28 · 00:39:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-soviet-union-t-00-25-49">2026-06-09 · 00:26:29</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-soviet-union-t-00-10-04">2026-06-11 · 00:10:23</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,6 +38,7 @@ Source: [Union of Soviet Socialist Republics | Office of the Historian](https://
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-soviet-union-t-00-39-31" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-soviet-union-t-00-25-49" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-soviet-union-t-00-10-04" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Union of Soviet Socialist Republics | Office of the Historian](https://
 |---|---|---:|
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-soviet-union-t-00-39-31) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-soviet-union-t-00-25-49) | 4 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-soviet-union-t-00-10-04) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Union of Soviet Socialist Republics | Office of the Historian](https://
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:10:23](/episodes/ep-19vHhjF7-NA.md#ent-gpe-soviet-union-t-00-10-04)**
+> "...v, the one-time leader of the Soviet Union following Stalin's death, once visited Albania. I..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (4 mentions)</summary>
@@ -84,12 +94,42 @@ Source: [Union of Soviet Socialist Republics | Office of the Historian](https://
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Nikita Khrushchev](/entities/person-nikita-khrushchev.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:10:23](/episodes/ep-19vHhjF7-NA.md#t-00-10-04): “Nikita Khrushchev, the one-time leader of the Soviet Union following Stalin's death”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Nikita Khrushchev](/entities/person-nikita-khrushchev.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:10:23](/episodes/ep-19vHhjF7-NA.md#t-00-10-04): “Nikita Khrushchev, the one-time leader of the Soviet Union following Stalin's death”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Soviet Union (2)</strong></summary>
+<summary><strong class="section-title">Statements about Soviet Union (3)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:10:23](/episodes/ep-19vHhjF7-NA.md#t-00-10-04) (Claim) **Nikita Khrushchev** (via quoted document): ["Nikita Khrushchev said that a powerful fleet based at Sazan Island cou..."](/statements/statement-4c70d80f382e.md)
+  - Also about: [Nikita Khrushchev](/entities/person-nikita-khrushchev.md), [Enver Hoxha](/entities/person-enver-hoxha.md), [Sazan Island](/entities/gpe-sazan-island.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>

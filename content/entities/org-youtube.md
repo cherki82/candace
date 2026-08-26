@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 132 mentions"
+description: "YouTube (Organizations) - 139 mentions"
 id: "org-youtube"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About YouTube](https://about.youtube/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-youtube-t-00-10-14">2026-05-28 · 00:10:14</a></strong></div>
-<div><span>Episodes</span><strong>52</strong></div>
-<div><span>Mentions</span><strong>132</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-youtube-t-01-00-17">2026-06-26 · 01:00:17</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>139</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -83,6 +83,11 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-youtube-t-00-56-11" style="--pulse-height:11%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-youtube-t-00-55-34" style="--pulse-height:11%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-youtube-t-00-10-14" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-youtube-t-00-52-12" style="--pulse-height:11%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-youtube-t-00-27-16" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-youtube-t-00-15-42" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-youtube-t-00-51-15" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-org-youtube-t-00-57-00" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -140,6 +145,11 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-youtube-t-00-56-11) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-youtube-t-00-55-34) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-youtube-t-00-10-14) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-youtube-t-00-52-12) | 2 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-youtube-t-00-27-16) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-youtube-t-00-15-42) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-youtube-t-00-51-15) | 2 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-youtube-t-00-57-00) | 1 |
 
 </details>
 </section>
@@ -147,7 +157,53 @@ Source: [About YouTube](https://about.youtube/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+<summary><strong class="section-title">Raw mentions (139)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:51:32](/episodes/ep-IqHsl7d2dos.md#ent-org-youtube-t-00-51-15)**
+> "...ription if you're watching on YouTube right now. If you want to, you can also just type..."
+
+**[01:00:17](/episodes/ep-IqHsl7d2dos.md#ent-org-youtube-t-01-00-17)**
+> "You know, our work is on YouTube. People can start from the beginning. We organize..."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>
+
+**[00:57:00](/episodes/ep-a2bZf4fic10.md#ent-org-youtube-t-00-57-00)**
+> "...w, like, all of these smaller YouTube accounts, like, I see your stuff, I see your vide..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:15:55](/episodes/ep-9CuC1yf8-PU.md#ent-org-youtube-t-00-15-42)**
+> "a video of some guy on youtube"
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
+
+**[00:27:42](/episodes/ep-3QJqtW_NOSI.md#ent-org-youtube-t-00-27-16)**
+> "YouTube"
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (2 mentions)</summary>
+
+**[00:52:12](/episodes/ep-G3zdOeHpvS0.md#ent-org-youtube-t-00-52-12)**
+> "... people watching this live on YouTube."
+
+**[00:53:32](/episodes/ep-G3zdOeHpvS0.md#ent-org-youtube-t-00-52-57)**
+> "... smaller creator. creators on YouTube, we've named a lot of them, you know, Nisi did gr..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -815,7 +871,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about YouTube (12)</strong></summary>
+<summary><strong class="section-title">Statements about YouTube (13)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>
+
+- [00:49:51](/episodes/ep-3QJqtW_NOSI.md#t-00-49-44) (Claim) **Anonymous Source #2 (Ep 3QJqtW_NOSI)** (via quoted post): ["A YouTube commenter identified as Anna wrote that three of Jeffrey Eps..."](/statements/statement-fe51b1a4a8e1.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Russia](/entities/gpe-russia.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

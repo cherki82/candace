@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 48 mentions"
+description: "Australia (Places) - 52 mentions"
 id: "gpe-australia"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28">2025-09-18 · 00:41:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35">2026-06-09 · 00:33:04</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26">2026-06-26 · 00:48:26</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -54,6 +54,8 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-australia-t-00-47-58" style="--pulse-height:25%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-australia-t-00-10-11" style="--pulse-height:38%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-australia-t-00-53-29" style="--pulse-height:38%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26" style="--pulse-height:12%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +84,8 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-australia-t-00-47-58) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-australia-t-00-10-11) | 3 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-australia-t-00-53-29) | 3 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26) | 1 |
 
 </details>
 </section>
@@ -89,7 +93,29 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:48:26](/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26)**
+> "...e person might have been from Australia but now that all makes sense because we're talkin..."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (3 mentions)</summary>
+
+**[00:54:05](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-australia-t-00-53-29)**
+> "Catholic Lebanese born in Australia"
+
+**[00:53:40](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-australia-t-00-53-29)**
+> "...m a Catholic Lebanese born in Australia. Thank you for speaking up—'"
+
+**[00:54:11](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-australia-t-00-54-11)**
+> "..., I'm aware I got banned from Australia because the Zionist lobby of Australia banded tog..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>

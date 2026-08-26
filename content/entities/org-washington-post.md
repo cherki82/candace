@@ -1,6 +1,6 @@
 ---
 title: "The Washington Post"
-description: "The Washington Post (Organizations) - 10 mentions"
+description: "The Washington Post (Organizations) - 13 mentions"
 id: "org-washington-post"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10">2026-01-07 · 00:26:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-washington-post-t-00-29-29">2026-04-29 · 00:29:29</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-washington-post-t-00-25-29">2026-06-22 · 00:25:57</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-washington-post-t-00-32-16" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-washington-post-t-00-28-56" style="--pulse-height:67%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-washington-post-t-00-25-29" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-washington-post-t-00-32-16) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-washington-post-t-00-28-56) | 2 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-washington-post-t-00-25-29) | 3 |
 
 </details>
 </section>
@@ -59,7 +61,21 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
+
+**[00:25:37](/episodes/ep-VMNWMXX1vO8.md#ent-org-washington-post-t-00-25-29)**
+> "...p Graham, as the publisher of the Washington Post after he died."
+
+**[00:25:45](/episodes/ep-VMNWMXX1vO8.md#ent-org-washington-post-t-00-25-29)**
+> "...any, her father had purchased the Washington Post out of bankruptcy. He was the head of the Federal..."
+
+**[00:25:57](/episodes/ep-VMNWMXX1vO8.md#ent-org-washington-post-t-00-25-29)**
+> "...r, like I said, who purchased the Washington Post."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (2 mentions)</summary>
@@ -139,7 +155,26 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Formerly Employed (1)</summary>
+
+- **[Philip Graham](/entities/person-philip-graham.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:25:37](/episodes/ep-VMNWMXX1vO8.md#t-00-25-29): “Philip Graham, as the publisher of the Washington Post after he died”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Philip Graham](/entities/person-philip-graham.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:25:37](/episodes/ep-VMNWMXX1vO8.md#t-00-25-29): “Philip Graham, as the publisher of the Washington Post after he died”
+
+</details>
 
 - **[Evan Hill](/entities/person-evan-hill.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

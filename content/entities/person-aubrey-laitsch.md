@@ -1,6 +1,6 @@
 ---
 title: "Aubrey Laitsch"
-description: "Aubrey Laitsch (People) - 13 mentions"
+description: "Aubrey Laitsch (People) - 14 mentions"
 id: "person-aubrey-laitsch"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-aubrey-laitsch-t-00-24-36">2026-02-05 · 00:24:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#t-00-49-36">2026-04-30 · 00:49:36</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-aubrey-laitsch-t-00-28-02">2026-06-22 · 00:28:18</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -38,6 +38,7 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 <a href="/episodes/ep-DEtFh2Ff-58.md#t-00-13-58" style="--pulse-height:20%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-00-54-08" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 5 mentions" title="2026-04-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#t-00-49-36" style="--pulse-height:20%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-aubrey-laitsch-t-00-28-02" style="--pulse-height:20%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-13-58) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-aubrey-laitsch-t-00-54-08) | 5 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#t-00-49-36) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-aubrey-laitsch-t-00-28-02) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:28:18](/episodes/ep-VMNWMXX1vO8.md#ent-person-aubrey-laitsch-t-00-28-02)**
+> "...u remember, even when Aubrey (Aubrey Laitsch) got fired, she had said to Andrew Kolvet, "Nobod..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (1 mentions)</summary>

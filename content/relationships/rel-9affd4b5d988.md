@@ -11,7 +11,7 @@ object: "org-tax-network-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Tax Network USA](/entities/org-tax-network-usa)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -28,6 +28,10 @@ object: "org-tax-network-usa"
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
 - [00:55:17](/episodes/ep-I0OaY6Gryqk#t-00-55-17): _this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA._
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:49:58](/episodes/ep-IqHsl7d2dos#t-00-49-58): _Call 866-686-1651 or visit TNUSA.com slash Candace. Again, that's TNUSA.com slash Candace._
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

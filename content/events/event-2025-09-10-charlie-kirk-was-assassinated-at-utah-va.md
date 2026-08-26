@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (48 times)
+## Mentioned In (54 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -396,3 +396,51 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(39);return false;">▶️ Play</a>
 
 > in September, the same month that Charlie Kirk died. That's interesting, right?
+
+### 49. Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quit...
+
+**Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
+**Timestamp:** [00:07:26](/episodes/ep-tXoI0TTKVrs.md#t-00-07-26) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(446);return false;">▶️ Play</a>
+
+> Today marks nine months without Charlie in the universe, that happy warrior.
+
+### 50. The FBI Crashes Out. We Examine The Exploding Microphone The...
+
+**Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
+**Timestamp:** [00:04:55](/episodes/ep-h76ZN-xXC6c.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-04-55) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(295);return false;">▶️ Play</a>
+
+> Now, at this particular event on September 10th, and we did go backward
+
+### 51. A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. ...
+
+**Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
+**Timestamp:** [00:00:01](/episodes/ep-G3zdOeHpvS0.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1);return false;">▶️ Play</a>
+
+> appears to me to be the most viable theory pertaining to Charlie Kirk's assassination
+
+### 52. I Survive My First Death Hoax, Erika Kirk Makes Human Histor...
+
+**Episode:** [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md)
+**Timestamp:** [00:41:45](/episodes/ep-VMNWMXX1vO8.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-41-45) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2505);return false;">▶️ Play</a>
+
+> Charlie Kirk was murdered, and he was not murdered for his opinions on transgenderism.
+
+### 53. TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Eli...
+
+**Episode:** [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md)
+**Timestamp:** [00:01:19](/episodes/ep-IqHsl7d2dos.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-00-45) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(79);return false;">▶️ Play</a>
+
+> the deep state did not organize Charlie Kirk's assassination after this.
+
+### 54. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
+
+**Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
+**Timestamp:** [00:01:37](/episodes/ep-a2bZf4fic10.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-01-20) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(97);return false;">▶️ Play</a>
+
+> There are a lot of heavy players that are involved in Charlie Kirk's assassination

@@ -1,6 +1,6 @@
 ---
 title: "United States Secret Service"
-description: "United States Secret Service (Organizations) - 21 mentions"
+description: "United States Secret Service (Organizations) - 26 mentions"
 id: "org-united-states-secret-service"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00">2025-11-19 · 00:11:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-secret-service-t-00-47-31">2026-05-28 · 00:48:07</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-45-23">2026-06-26 · 00:45:23</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,9 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-secret-service-t-00-06-44" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-secret-service-t-01-06-12" style="--pulse-height:17%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-secret-service-t-00-47-31" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-united-states-secret-service-t-00-07-26" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-secret-service-t-00-11-05" style="--pulse-height:17%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-42-11" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +64,9 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-secret-service-t-00-06-44) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-secret-service-t-01-06-12) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-united-states-secret-service-t-00-47-31) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-united-states-secret-service-t-00-07-26) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-secret-service-t-00-11-05) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-42-11) | 2 |
 
 </details>
 </section>
@@ -68,7 +74,37 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:42:11](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-42-11)**
+> "... entries now from the DHS and Secret Service and from the EOP. Now, in case you don't know wha..."
+
+**[00:45:23](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-45-23)**
+> "We are also asking the Secret Service and the DHS for Andrew Kolvet's White House meeti..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:11:05](/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-secret-service-t-00-11-05)**
+> "Okay. If you almost get assassinated. and you do not fire the Secret Service agents that failed to protect you on that day, they moved you off the stage but certainly failed to protect you on that day and see somebody on the rooftop, and then beyond that you determine that you are satisfied with the investigation and you allow lies to come out about the investigation or lies to remain about the investigation saying that the person who allegedly fired the shots."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2 mentions)</summary>
+
+**[00:07:48](/episodes/ep-tXoI0TTKVrs.md#ent-org-united-states-secret-service-t-00-07-26)**
+> "...he instead chose to make up a Secret Service proof threat, which required her to fly home."
+
+**[00:08:22](/episodes/ep-tXoI0TTKVrs.md#ent-org-united-states-secret-service-t-00-08-03)**
+> "...cameras, of course, after the Secret Service fired at one another."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -224,7 +260,15 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Secret Service (9)</strong></summary>
+<summary><strong class="section-title">Statements about United States Secret Service (10)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:07:48](/episodes/ep-tXoI0TTKVrs.md#t-00-07-26) (Accusation) **Candace Owens**: ["Erika Kirk made up a Secret Service-proof threat so she could avoid fa..."](/statements/statement-5c4c742c17b6.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [JD Vance](/entities/person-jd-vance.md)
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1)</summary>

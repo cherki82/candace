@@ -1,6 +1,6 @@
 ---
 title: "Laura Loomer"
-description: "Laura Loomer (People) - 108 mentions"
+description: "Laura Loomer (People) - 134 mentions"
 id: "person-laura-loomer"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56">2025-09-16 · 01:04:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-laura-loomer-t-00-05-53">2026-06-09 · 00:05:53</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-laura-loomer-t-01-00-08">2026-06-22 · 01:00:08</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>134</strong></div>
 <div><span>Statements by</span><strong>21</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
-<div><span>Relationships</span><strong>36</strong></div>
+<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Relationships</span><strong>38</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -58,6 +58,11 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-01-07-16" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-laura-loomer-t-00-31-26" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-laura-loomer-t-00-00-00" style="--pulse-height:9%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-laura-loomer-t-00-54-05" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-24-11" style="--pulse-height:77%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 17 mentions" title="2026-06-11 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-laura-loomer-t-00-52-03" style="--pulse-height:18%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 4 mentions" title="2026-06-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-laura-loomer-t-00-51-14" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-laura-loomer-t-00-48-08" style="--pulse-height:14%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -91,6 +96,11 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-laura-loomer-t-00-31-26) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-laura-loomer-t-00-00-00) | 2 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-laura-loomer-t-00-54-05) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-24-11) | 17 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-laura-loomer-t-00-52-03) | 4 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-laura-loomer-t-00-51-14) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-laura-loomer-t-00-48-08) | 3 |
 
 </details>
 </section>
@@ -98,7 +108,110 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+<summary><strong class="section-title">Raw mentions (134)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
+
+**[00:48:33](/episodes/ep-VMNWMXX1vO8.md#ent-person-laura-loomer-t-00-48-08)**
+> "...ose friends were Josh Hammer, Laura Loomer."
+
+**[00:48:45](/episodes/ep-VMNWMXX1vO8.md#ent-person-laura-loomer-t-00-48-45)**
+> "...ker Carlson and confided into Laura Loomer?"
+
+**[01:00:08](/episodes/ep-VMNWMXX1vO8.md#ent-person-laura-loomer-t-01-00-08)**
+> "...e not rewriting history—where Laura Loomer is a friend of his and Tucker Carlson was not. Th..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:51:28](/episodes/ep-h76ZN-xXC6c.md#ent-person-laura-loomer-t-00-51-14)**
+> "This is the Federal Bureau of Investigations, you guys. This is not Laura Loomer. OK, this is what they're referring to is us just posting a link to the show, which we just do bullets and say, here's the three things we're talking about."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (4 mentions)</summary>
+
+**[00:52:30](/episodes/ep-WoXd4oLwd3w.md#ent-person-laura-loomer-t-00-52-03)**
+> "That it was a CVS receipt when we showed Laura Loomer's receipt. That is fake news. It's conspiracy."
+
+**[00:52:37](/episodes/ep-WoXd4oLwd3w.md#ent-person-laura-loomer-t-00-52-03)**
+> "...the trend and recognized that Laura Loomer wasn't office."
+
+**[00:52:46](/episodes/ep-WoXd4oLwd3w.md#ent-person-laura-loomer-t-00-52-46)**
+> "...re very happy to be joined by Laura Loomer."
+
+**[00:52:57](/episodes/ep-WoXd4oLwd3w.md#ent-person-laura-loomer-t-00-52-46)**
+> "...d time and so we really thank Laura Loomer for joining us top comment from yesterday's episo..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (17 mentions)</summary>
+
+**[00:24:39](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-24-11)**
+> "..., Gitmo, with none other than Laura Loomer."
+
+**[00:24:47](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-24-11)**
+> "Not a joke, guys. He took Laura Loomer, the state of affairs in America, down there on a..."
+
+**[00:24:54](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-24-54)**
+> "I'd like to remind you, Laura Loomer is not legally allowed to own a weapon. A weapon?"
+
+**[00:24:59](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-24-54)**
+> "...at's how insane Larry Loomer (Laura Loomer) is. Does not qualify to own a weapon in the Unit..."
+
+**[00:25:17](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-24-54)**
+> "We have Larry (Laura Loomer) in studio today. Larry Loomer (Laura Loomer), we..."
+
+**[00:25:29](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-24-54)**
+> "..., it's a long receipt, Larry (Laura Loomer)."
+
+**[00:25:37](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-25-37)**
+> "...ere? What is on there, Larry (Laura Loomer)? What? I'm hiding money in a secret trust. Georg..."
+
+**[00:25:46](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-25-37)**
+> "...am funded by the SPLC. Larry (Laura Loomer), please no. As I reported, exclusive."
+
+**[00:25:55](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-25-37)**
+> "Okay, Larry (Laura Loomer), that's enough. Really. Anyway, get out of here,..."
+
+**[00:26:01](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-26-01)**
+> "Anyway, Larry (Laura Loomer) went down to Gitmo as a Pentagon reporter. Total..."
+
+**[00:26:25](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-26-01)**
+> "...Department of War with Larry (Laura Loomer), the Bolsheviks are back, baby."
+
+**[00:26:35](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-26-01)**
+> "...why he's there. And so Larry (Laura Loomer) went down there to ask particularly when we're g..."
+
+**[00:26:43](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-26-01)**
+> "...ake a listen to Larry Loomer (Laura Loomer)'s Pentagon question."
+
+**[00:43:38](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-43-02)**
+> "...es, I love that Larry Loomer (Laura Loomer) was able to join your show today along with all ..."
+
+**[00:43:47](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-43-47)**
+> "Larry (Laura Loomer) looks fantastic today. I actually agree. And we ..."
+
+**[00:43:53](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-43-47)**
+> "...nd it was a lot to get Larry (Laura Loomer) in the studio today it was not easy but if the p..."
+
+**[00:44:20](/episodes/ep-19vHhjF7-NA.md#ent-person-laura-loomer-t-00-43-47)**
+> "...want to say thank you, Larry (Laura Loomer). Thank you very, very much for your hard work di..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:54:05](/episodes/ep-tXoI0TTKVrs.md#ent-person-laura-loomer-t-00-54-05)**
+> "...omeone please ask Dana Loesch Laura Loomer and alex clark would you rather like a middle-age..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
@@ -645,7 +758,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
-<summary>Appeared With (3)</summary>
+<summary>Appeared With (4)</summary>
 
 - **[Alan Jacoby](/entities/person-alan-jacoby.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -668,13 +781,20 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 </details>
 
+- **[Pete Hegseth](/entities/person-pete-hegseth.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:24:31](/episodes/ep-19vHhjF7-NA.md#t-00-24-11): “And now that Trump (Donald J. Trump) is itching to put troops on the ground again, Pete (Pete Hegseth)'s job is what it always is. Rally the troops with another run. And that's what he did. He went down to Guantanamo Bay, Gitmo, with none other than Laura Loomer.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Criticized (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
@@ -685,6 +805,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:17](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “and get to say goodbye to him. God hates you. Look in the mirror and internalize how much God hates you. We all hate you.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:19:26](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-26): “really satisfying to me about being a black girl from the hood being able to like walk into a ritzy bar in Greenwich and leave with the hottest white guy there and basically like ruin the relationship of like the popular white girl this is how she used to speak and for some reason there's a lot of people that are really afraid of this nappy headed black bitch who just has a lot to say but not really a lot to offer so I'm not afraid of Candace Owens”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:52:57](/episodes/ep-WoXd4oLwd3w.md#t-00-52-46): “it also says that Owens mocked Loomer's receipts with a clown emoji and a fake long receipt clip while Loomer called it cringe”
 
 </details>
 
@@ -755,7 +876,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
-<summary>Referenced By (18)</summary>
+<summary>Referenced By (19)</summary>
 
 - **[Alan Jacoby](/entities/person-alan-jacoby.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -841,6 +962,13 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 
 </details>
 
+- **[Pete Hegseth](/entities/person-pete-hegseth.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:24:31](/episodes/ep-19vHhjF7-NA.md#t-00-24-11): “And now that Trump (Donald J. Trump) is itching to put troops on the ground again, Pete (Pete Hegseth)'s job is what it always is. Rally the troops with another run. And that's what he did. He went down to Guantanamo Bay, Gitmo, with none other than Laura Loomer.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
@@ -856,7 +984,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
@@ -865,6 +993,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:34:17](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01): “and get to say goodbye to him. God hates you. Look in the mirror and internalize how much God hates you. We all hate you.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:19:26](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-26): “really satisfying to me about being a black girl from the hood being able to like walk into a ritzy bar in Greenwich and leave with the hottest white guy there and basically like ruin the relationship of like the popular white girl this is how she used to speak and for some reason there's a lot of people that are really afraid of this nappy headed black bitch who just has a lot to say but not really a lot to offer so I'm not afraid of Candace Owens”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:52:57](/episodes/ep-WoXd4oLwd3w.md#t-00-52-46): “it also says that Owens mocked Loomer's receipts with a clown emoji and a fake long receipt clip while Loomer called it cringe”
 
 </details>
 
@@ -1026,7 +1155,15 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Laura Loomer (30)</strong></summary>
+<summary><strong class="section-title">Statements about Laura Loomer (31)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:24:54](/episodes/ep-19vHhjF7-NA.md#t-00-24-54) (Claim) **Candace Owens**: ["Owens claimed that Laura Loomer is not legally permitted to own a weap..."](/statements/statement-d6a47ad0c681.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>

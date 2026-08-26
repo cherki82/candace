@@ -1,6 +1,6 @@
 ---
 title: "The Shawn Ryan Show"
-description: "The Shawn Ryan Show (Works & Media) - 6 mentions"
+description: "The Shawn Ryan Show (Works & Media) - 9 mentions"
 id: "work-the-shawn-ryan-show"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-work-the-shawn-ryan-show-t-00-23-34">2025-11-05 · 00:23:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#t-00-08-30">2026-05-26 · 00:08:46</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#t-00-56-50">2026-06-24 · 00:57:13</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,8 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-work-the-shawn-ryan-show-t-00-16-16" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-work-the-shawn-ryan-show-t-00-49-18" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#t-00-08-30" style="--pulse-height:50%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-work-the-shawn-ryan-show-t-00-03-34" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#t-00-56-50" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +51,8 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-work-the-shawn-ryan-show-t-00-16-16) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-work-the-shawn-ryan-show-t-00-49-18) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-work-the-shawn-ryan-show-t-00-03-34) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#t-00-56-50) | 1 |
 
 </details>
 </section>
@@ -56,7 +60,26 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:57:13](/episodes/ep-sKuYLNx3iRo.md#t-00-56-50)**
+> "that Sean Ryan interview"
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:03:34](/episodes/ep-VMNWMXX1vO8.md#ent-work-the-shawn-ryan-show-t-00-03-34)**
+> "I'm an open book. That's what I'm doing here on the podcast. I will say, however, that he seemed a little bit surprised to learn that his one-time guest, Brian Harpole, is suing me and extraordinarily trying to spin this tale in the courts that the only reason he was forced to go on the Sean Ryan show."
+
+**[00:03:52](/episodes/ep-VMNWMXX1vO8.md#ent-work-the-shawn-ryan-show-t-00-03-34)**
+> "...is name before he went on the Sean Ryan show and had that disaster of an interview."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>

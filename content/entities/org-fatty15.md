@@ -1,6 +1,6 @@
 ---
 title: "fatty15"
-description: "fatty15 (Organizations) - 18 mentions"
+description: "fatty15 (Organizations) - 22 mentions"
 id: "org-fatty15"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-16">2026-02-27 · 00:41:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-40">2026-05-07 · 00:35:03</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-56">2026-06-18 · 00:42:08</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -40,6 +40,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-fatty15-t-00-51-34" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 6 mentions" title="2026-03-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-41-48" style="--pulse-height:83%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-00" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12" style="--pulse-height:67%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-fatty15-t-00-51-34) | 6 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-41-48) | 5 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-00) | 3 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12) | 4 |
 
 </details>
 </section>
@@ -56,7 +58,24 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (4 mentions)</summary>
+
+**[00:41:12](/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12)**
+> "Fatty 15"
+
+**[00:41:43](/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12)**
+> "Fatty15 was developed to support healthy aging for all fr..."
+
+**[00:41:56](/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-56)**
+> "Fatty15 is on a mission to support healthy aging for all,..."
+
+**[00:42:08](/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-56)**
+> "Again, that's fatty15.com/candace. Gosh, Candace. I also want to remind..."
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (3 mentions)</summary>

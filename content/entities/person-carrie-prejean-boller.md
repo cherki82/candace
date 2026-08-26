@@ -1,6 +1,6 @@
 ---
 title: "Carrie Prejean Boller"
-description: "Carrie Prejean Boller (People) - 16 mentions"
+description: "Carrie Prejean Boller (People) - 18 mentions"
 id: "person-carrie-prejean-boller"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#ent-person-carrie-prejean-boller-t-00-31-24">2026-02-09 · 00:31:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-carrie-prejean-boller-t-00-46-58">2026-03-18 · 00:46:58</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-carrie-prejean-boller-t-01-22-33">2026-07-14 · 01:22:33</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -42,6 +42,7 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-carrie-prejean-boller-t-00-54-54" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-carrie-prejean-boller-t-00-18-07" style="--pulse-height:29%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-carrie-prejean-boller-t-00-46-58" style="--pulse-height:14%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-carrie-prejean-boller-t-00-06-13" style="--pulse-height:29%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-carrie-prejean-boller-t-00-54-54) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-carrie-prejean-boller-t-00-18-07) | 2 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-carrie-prejean-boller-t-00-46-58) | 1 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-carrie-prejean-boller-t-00-06-13) | 2 |
 
 </details>
 </section>
@@ -61,7 +63,18 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (2 mentions)</summary>
+
+**[00:06:27](/episodes/ep-EtLHqDbxqks.md#ent-person-carrie-prejean-boller-t-00-06-13)**
+> "Apparently, though, me and Carrie Prejean Boller, who I was traveling with, we watched an entirely different hearing."
+
+**[01:22:33](/episodes/ep-EtLHqDbxqks.md#ent-person-carrie-prejean-boller-t-01-22-33)**
+> "...sitting in a spa with Carrie (Carrie Prejean Boller), and we were just firing off tweets. Like, I'm j..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>

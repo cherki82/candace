@@ -11,7 +11,7 @@ date: "2010"
 
 > Tyler Bowyer traveled to Romania to work with the Romanian government.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
 
@@ -52,3 +52,11 @@ date: "2010"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1136);return false;">▶️ Play</a>
 
 > Tyler Bowyer goes out to Constanta, Romania, and he's hanging out and he's partying
+
+### 6. A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. ...
+
+**Episode:** [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md)
+**Timestamp:** [00:23:43](/episodes/ep-G3zdOeHpvS0.md#event-event-2010-tyler-bowyer-traveled-to-romania-to-work-t-00-23-43) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1423);return false;">▶️ Play</a>
+
+> Tyler Bowyer, we know in 2011, went to Romania to work.

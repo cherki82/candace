@@ -11,7 +11,7 @@ date: "2025-05-02"
 
 > Charlie Kirk sends letter to Benjamin Netanyahu
 
-## Mentioned In (290 times)
+## Mentioned In (291 times)
 
 ### 1. They Are Lying About Charlie Kirk. | Candace Ep 235
 
@@ -2332,3 +2332,11 @@ date: "2025-05-02"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
 
 > It took him a little over two weeks, but now Benjamin Netanyahu, with maybe a little help from
+
+### 291. I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 3...
+
+**Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
+**Timestamp:** [01:08:49](/episodes/ep-EtLHqDbxqks.md#t-01-08-31) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(4129);return false;">▶️ Play</a>
+
+> he was just following up on a letter that Charlie wrote in May.

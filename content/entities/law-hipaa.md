@@ -1,6 +1,6 @@
 ---
 title: "HIPAA"
-description: "HIPAA (Laws & Legislation) - 10 mentions"
+description: "HIPAA (Laws & Legislation) - 12 mentions"
 id: "law-hipaa"
 type: "LAW"
 aliases:
@@ -24,9 +24,9 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27">2025-12-16 · 00:03:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-27">2026-05-28 · 00:58:27</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-law-hipaa-t-00-55-45">2026-06-23 · 00:55:52</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-law-hipaa-t-00-20-12" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-15" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-law-hipaa-t-00-55-45" style="--pulse-height:67%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-law-hipaa-t-00-39-48) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-law-hipaa-t-00-20-12) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-15) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-law-hipaa-t-00-55-45) | 2 |
 
 </details>
 </section>
@@ -59,7 +61,18 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
+
+**[00:55:40](/episodes/ep-9CuC1yf8-PU.md#ent-law-hipaa-t-00-55-45)**
+> "oh, I violated HIPAA."
+
+**[00:55:52](/episodes/ep-9CuC1yf8-PU.md#ent-law-hipaa-t-00-55-45)**
+> "...was just like, oh, I violated HIPAA. Spoke to a PR agent and said maybe it was a supe..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (3 mentions)</summary>

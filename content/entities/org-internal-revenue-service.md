@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 121 mentions"
+description: "Internal Revenue Service (Organizations) - 141 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-07">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-09-08">2026-05-28 · 01:09:14</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>121</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-52">2026-06-26 · 00:49:52</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>141</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -71,6 +71,11 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-37-30" style="--pulse-height:67%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-internal-revenue-service-t-00-41-39" style="--pulse-height:67%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 4 mentions" title="2026-05-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-08-27" style="--pulse-height:67%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-internal-revenue-service-t-00-34-40" style="--pulse-height:67%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-internal-revenue-service-t-01-01-10" style="--pulse-height:67%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-internal-revenue-service-t-00-35-05" style="--pulse-height:67%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-internal-revenue-service-t-00-49-57" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-08" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +117,11 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-internal-revenue-service-t-00-37-30) | 4 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-internal-revenue-service-t-00-41-39) | 4 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-internal-revenue-service-t-01-08-27) | 4 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-internal-revenue-service-t-00-34-40) | 4 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-internal-revenue-service-t-01-01-10) | 4 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-internal-revenue-service-t-00-35-05) | 4 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-internal-revenue-service-t-00-49-57) | 4 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-08) | 4 |
 
 </details>
 </section>
@@ -119,7 +129,92 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (121)</strong></summary>
+<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
+
+**[00:49:23](/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-08)**
+> "...em, one thing is certain. The IRS penalties and interest keep adding up every singl..."
+
+**[00:49:32](/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-08)**
+> "...e next tax season. Before the IRS starts sending more letters, garnishing wages, se..."
+
+**[00:49:38](/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-08)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:49:52](/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-52)**
+> "... now, they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (4 mentions)</summary>
+
+**[00:50:06](/episodes/ep-VMNWMXX1vO8.md#ent-org-internal-revenue-service-t-00-49-57)**
+> "...em, one thing is certain, the IRS penalties and interest keep adding up every singl..."
+
+**[00:50:12](/episodes/ep-VMNWMXX1vO8.md#ent-org-internal-revenue-service-t-00-49-57)**
+> "...e next tax season. Before the IRS starts sending you more letters, garnishing wages..."
+
+**[00:50:22](/episodes/ep-VMNWMXX1vO8.md#ent-org-internal-revenue-service-t-00-49-57)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:50:35](/episodes/ep-VMNWMXX1vO8.md#ent-org-internal-revenue-service-t-00-49-57)**
+> "...t now they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (4 mentions)</summary>
+
+**[00:35:36](/episodes/ep-G3zdOeHpvS0.md#ent-org-internal-revenue-service-t-00-35-05)**
+> "...em, one thing is certain, the IRS penalties and interest keep adding up every singl..."
+
+**[00:35:42](/episodes/ep-G3zdOeHpvS0.md#ent-org-internal-revenue-service-t-00-35-42)**
+> "...e next tax season. Before the IRS starts sending more letters, garnishing wages, or..."
+
+**[00:35:52](/episodes/ep-G3zdOeHpvS0.md#ent-org-internal-revenue-service-t-00-35-42)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:36:06](/episodes/ep-G3zdOeHpvS0.md#ent-org-internal-revenue-service-t-00-35-42)**
+> "...t now they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (4 mentions)</summary>
+
+**[01:01:24](/episodes/ep-h76ZN-xXC6c.md#ent-org-internal-revenue-service-t-01-01-10)**
+> "...more next tax season. for the IRS starts sending more letters garnishing wages or f..."
+
+**[01:01:33](/episodes/ep-h76ZN-xXC6c.md#ent-org-internal-revenue-service-t-01-01-10)**
+> "... unfiled returns, and serious IRS problems."
+
+**[01:01:46](/episodes/ep-h76ZN-xXC6c.md#ent-org-internal-revenue-service-t-01-01-10)**
+> "...now, they are offering a free IRS investigative call to find out exactly what you o..."
+
+**[01:01:18](/episodes/ep-h76ZN-xXC6c.md#ent-org-internal-revenue-service-t-01-01-10)**
+> "Whatever caused the problem, one thing is certain, the IRS penalties and interest keep adding up every single month."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (4 mentions)</summary>
+
+**[00:35:02](/episodes/ep-19vHhjF7-NA.md#ent-org-internal-revenue-service-t-00-34-40)**
+> "...em, one thing is certain, the IRS penalties and interest keep adding up every singl..."
+
+**[00:35:10](/episodes/ep-19vHhjF7-NA.md#ent-org-internal-revenue-service-t-00-34-40)**
+> "Before the IRS starts sending more letters, garnishing wages, or..."
+
+**[00:35:16](/episodes/ep-19vHhjF7-NA.md#ent-org-internal-revenue-service-t-00-34-40)**
+> "..., unfiled returns and serious IRS problems."
+
+**[00:35:29](/episodes/ep-19vHhjF7-NA.md#ent-org-internal-revenue-service-t-00-35-23)**
+> "...t now they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (4 mentions)</summary>

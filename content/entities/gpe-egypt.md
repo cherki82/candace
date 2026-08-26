@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 234 mentions"
+description: "Egypt (Places) - 242 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-32-40">2026-05-27 · 00:32:56</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>234</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-egypt-t-00-44-42">2026-06-26 · 00:45:09</a></strong></div>
+<div><span>Episodes</span><strong>47</strong></div>
+<div><span>Mentions</span><strong>242</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -77,6 +77,10 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-egypt-t-02-05-16" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-egypt-t-00-11-29" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-06-52" style="--pulse-height:39%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 7 mentions" title="2026-05-27 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-egypt-t-00-24-00" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-egypt-t-00-19-44" style="--pulse-height:17%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-egypt-t-00-57-39" style="--pulse-height:17%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 3 mentions" title="2026-06-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-egypt-t-00-44-42" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -125,6 +129,10 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-egypt-t-02-05-16) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-egypt-t-00-11-29) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-egypt-t-00-06-52) | 7 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-egypt-t-00-24-00) | 1 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-egypt-t-00-19-44) | 3 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-egypt-t-00-57-39) | 3 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-egypt-t-00-44-42) | 1 |
 
 </details>
 </section>
@@ -132,7 +140,51 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (234)</strong></summary>
+<summary><strong class="section-title">Raw mentions (242)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[00:45:09](/episodes/ep-IqHsl7d2dos.md#ent-gpe-egypt-t-00-44-42)**
+> "...anded at the same time as our Egyptian planes in Nebraska."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (3 mentions)</summary>
+
+**[00:58:01](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-egypt-t-00-57-39)**
+> "the Egyptian planes could be intelligence-related"
+
+**[00:58:12](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-egypt-t-00-57-39)**
+> "...ntire life that they're like, Egyptian planes totally normal."
+
+**[00:58:18](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-egypt-t-00-58-18)**
+> "...Erika Kirk). Ha ha ha. No, no Egyptian planes here."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3 mentions)</summary>
+
+**[00:20:00](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-egypt-t-00-19-44)**
+> "And she speaks at James Kaddis' Calvary Chapel Church. Now, James Kaddis is that icky guy who is Egyptian and runs."
+
+**[00:22:34](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-egypt-t-00-22-32)**
+> "...aid James Kaddis is this like egyptian pastor that's like radically pro-israel that she ..."
+
+**[00:31:07](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-egypt-t-00-30-51)**
+> "...ain rot brain rot I'm with an Egyptian pastor I love Israel there's conflict here becaus..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:24:38](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-egypt-t-00-24-00)**
+> "She wouldn't be laughing at Egyptian planes that departed at mysterious times on the d..."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (7 mentions)</summary>

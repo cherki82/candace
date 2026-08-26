@@ -1,6 +1,6 @@
 ---
 title: "Field of Greens"
-description: "Field of Greens (Organizations) - 17 mentions"
+description: "Field of Greens (Organizations) - 19 mentions"
 id: "org-field-of-greens"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10">2026-01-14 · 00:46:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54">2026-05-04 · 00:43:20</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-field-of-greens-t-00-47-51">2026-06-17 · 00:47:51</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -40,6 +40,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-field-of-greens-t-00-54-33" style="--pulse-height:40%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-17" style="--pulse-height:60%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54" style="--pulse-height:40%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-field-of-greens-t-00-47-10" style="--pulse-height:40%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-field-of-greens-t-00-54-33) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-field-of-greens-t-00-21-17) | 3 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54) | 2 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-field-of-greens-t-00-47-10) | 2 |
 
 </details>
 </section>
@@ -57,7 +59,18 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (2 mentions)</summary>
+
+**[00:47:39](/episodes/ep-G3zdOeHpvS0.md#ent-org-field-of-greens-t-00-47-10)**
+> "Field of Greens is 100% organic fruits and vegetables that are de..."
+
+**[00:47:51](/episodes/ep-G3zdOeHpvS0.md#ent-org-field-of-greens-t-00-47-51)**
+> "...d you'll feel the difference. Field of Greens promises your doctor will notice your improved he..."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (2 mentions)</summary>

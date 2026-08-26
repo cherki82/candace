@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Mitch Snow alleged that he saw Brian Harpole at a senior-level meeting at Fort Huachuca.
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -52,3 +52,11 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2787);return false;">▶️ Play</a>
 
 > Brian Harpole he saw on the 9th and he was leaving the meeting on Fort Huachuca base
+
+### 6. The Whistleblower: Did Epstein’s Network Reemerge In Charlie...
+
+**Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
+**Timestamp:** [00:09:40](/episodes/ep-3QJqtW_NOSI.md#event-event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har-t-00-09-33) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(580);return false;">▶️ Play</a>
+
+> the meeting in which Mitch Snow believes that he saw Brian Harpole. Okay. Maybe, maybe he didn't.

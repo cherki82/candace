@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PDS Debt](/entities/org-pds-debt) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -20,6 +20,10 @@ object: "person-candace-owens"
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
 - [00:28:29](/episodes/ep-H9p2ZGHAs9A#t-00-28-29): _Also going to remind you guys about PDS Debt because you see the headlines, you have read the stories, and then the impact shows up in your own numbers._
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:29:56](/episodes/ep-IqHsl7d2dos#t-00-29-56): _And it starts with a free 30 second assessment at PDS debt dot com. slash Candace to stop juggling multiple payments and get one lower monthly payment._
 
 ### Related
 

@@ -1,6 +1,6 @@
 ---
 title: "Jubilee Media"
-description: "Jubilee Media (Organizations) - 2 mentions"
+description: "Jubilee Media (Organizations) - 3 mentions"
 id: "org-jubilee-media"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Team | Jubilee Media](https://www.jubileemedia.com/team)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-org-jubilee-media-t-00-01-29">2026-01-16 · 00:01:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-org-jubilee-media-t-00-11-11">2026-01-16 · 00:11:11</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-jubilee-media-t-00-37-28">2026-06-24 · 00:37:28</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Team | Jubilee Media](https://www.jubileemedia.com/team)
 <p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-org-jubilee-media-t-00-01-29">Myron Gaines x Candace Owens</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-jubilee-media-t-00-01-29" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-jubilee-media-t-00-37-28" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-jubilee-media-t-00-01-29) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-jubilee-media-t-00-37-28) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Team | Jubilee Media](https://www.jubileemedia.com/team)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
+
+**[00:37:28](/episodes/ep-sKuYLNx3iRo.md#ent-org-jubilee-media-t-00-37-28)**
+> "he went on to that debate show Jubilee"
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (2 mentions)</summary>

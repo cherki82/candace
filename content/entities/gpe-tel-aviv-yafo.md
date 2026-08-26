@@ -1,6 +1,6 @@
 ---
 title: "Tel Aviv-Yafo"
-description: "Tel Aviv-Yafo (Places) - 11 mentions"
+description: "Tel Aviv-Yafo (Places) - 13 mentions"
 id: "gpe-tel-aviv-yafo"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-tel-aviv-yafo-t-00-45-42">2026-01-29 · 00:45:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-tel-aviv-yafo-t-00-49-24">2026-05-28 · 00:49:24</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-tel-aviv-yafo-t-00-29-50">2026-06-11 · 00:29:50</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-tel-aviv-yafo-t-00-14-28" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 6 mentions" title="2026-03-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-tel-aviv-yafo-t-00-17-19" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-tel-aviv-yafo-t-00-49-24" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-tel-aviv-yafo-t-00-29-13" style="--pulse-height:33%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-tel-aviv-yafo-t-00-14-28) | 6 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-tel-aviv-yafo-t-00-17-19) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-tel-aviv-yafo-t-00-49-24) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-tel-aviv-yafo-t-00-29-13) | 2 |
 
 </details>
 </section>
@@ -56,7 +58,18 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:29:13](/episodes/ep-19vHhjF7-NA.md#ent-gpe-tel-aviv-yafo-t-00-29-13)**
+> "Tel Aviv's annual celebration of gayness has once again turn..."
+
+**[00:29:50](/episodes/ep-19vHhjF7-NA.md#ent-gpe-tel-aviv-yafo-t-00-29-50)**
+> "um so while the tel aviv pride parade has not yet been officially canceled..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>

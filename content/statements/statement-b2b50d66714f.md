@@ -23,13 +23,23 @@ veracity: "mixed"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His ...
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:05:39](/episodes/ep-kaWtDuoY_ns.md#t-00-05-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(339);return false;">Play</a>
 
 > Everyone keeps focusing on, of course, our big reveal that the 30-06 did not go through. But the part that you're missing is it also did not cause any significant damage. ... Outside of the wound, Charlie (Charlie Kirk) was in very good shape.
+
+### 2. The FBI Crashes Out. We Examine The Exploding Microphone The...
+
+**Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
+**Timestamp:** [00:21:57](/episodes/ep-h76ZN-xXC6c.md#t-00-21-21) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1317);return false;">Play</a>
+
+> And what that footage reveals is that... The bullet, not only did it not pierce through, right, that's critical, of course, but it didn't even cause the blood to spatter backwards. ... I have confirmed that Charlie (Charlie Kirk), outside of that front-facing wound, was in very good condition, meaning the bullet did not bullet or the projectile, that's what I'm going to say going forward, did not even cause significant damage to his neck outside of that entry point and the artery that it hit, which, as we know, caused profuse bleeding.
 
 ## Verification
 

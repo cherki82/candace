@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (47 mentions)
+### Evidence (56 mentions)
+
+**[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
+
+- [00:32:43](/episodes/ep-19vHhjF7-NA#t-00-32-43): _I appoint my wife to run Turning Point USA if something happens to me. Erika (Erika Kirk) would do a great job._
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -49,6 +53,10 @@ object: "person-charlie-kirk"
 
 - [00:23:30](/episodes/ep-7FS1tUeSfdE#t-00-23-30): _Like, that could have been a text: “Erika, hey, congrats, Sergio (Sergio Gor). Congrats. Charlie (Charlie Kirk) loved you. So cool. Wish you could have been there, but, you know, my husband was just murdered.”_
 
+**[Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU)**
+
+- [00:54:22](/episodes/ep-9CuC1yf8-PU#t-00-54-22): _Charlie (Charlie Kirk) ... everything ... given to Erika (Erika Kirk) ... they were establishing the widow narrative._
+
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
 - [00:12:47](/episodes/ep-A39g5oqB_eM#t-00-12-47): _20-hour days for a week during the time of us grieving the loss of my husband and honestly I know several staff that didn't even sleep um again you guys are breathing angels and I'm so grateful for all of you and obviously a huge thank you to the Mosaic team VI you guys are 10 out of 10 like there's we have ... Just lay it to rest and we are moving forward turning point USA 2.0 with Charlie (Charlie Kirk) in our hearts and that's what he would want._
@@ -69,9 +77,17 @@ object: "person-charlie-kirk"
 
 - [00:01:50](/episodes/ep-Dkxa9OUA9K8#t-00-01-50): _The first that we could find to publicly announce that Charlie Kirk had passed away on September 10th on social media, I believe it was on Instagram, it was an hour and a half before the President of the United States made the announcement, even though he has since deleted that Instagram post. We then know that when Erika (Erika Kirk) came home after bringing back Charlie (Charlie Kirk)'s body in a casket aboard Air Force Two. Victor Marx and his wife Eileen (Eileen Marx) were among the small circle of people who were welcomed into Erika (Erika Kirk)'s home to comfort her and to take photos of the grieving widow._
 
+**[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
+
+- [01:00:36](/episodes/ep-EtLHqDbxqks#t-01-00-36): _Erika (Erika Kirk) allows him to open despite what she knows, which is that her husband didn't like this guy at AmFest. What is going on here?_
+
 **[STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI)**
 
 - [00:00:01](/episodes/ep-FFQ9675oqRI#t-00-00-01): _we've requested to see the footage of Charlie Kirk naming his wife Erika Kirk as the chairman and CEO in the event that anything happens to him._
+
+**[A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0)**
+
+- [00:32:07](/episodes/ep-G3zdOeHpvS0#t-00-32-07): _everything was handed over to Erika (Erika Kirk) why I suspect because they were ushering us into the era of the widow ... why she wants to wear her husband's pendant_
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
@@ -117,9 +133,17 @@ object: "person-charlie-kirk"
 
 - [00:05:28](/episodes/ep-UYkXV9mYbT4#t-00-05-28): _He was telling me he was trying to save Erica from seeing her husband die, but yet this was the most mild shot of all. There was not a drop of blood on Charlie's back as he went down._
 
+**[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
+
+- [00:08:56](/episodes/ep-VMNWMXX1vO8#t-00-08-56): _six days after Charlie (Charlie Kirk) was assassinated ... Erika (Erika Kirk) ... Why is evidence being handed back to his wife, right?_
+
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 
 - [00:10:13](/episodes/ep-Wjul6YV6izo#t-00-10-13): _36 hours after Charlie was assassinated? Maybe it was 48 hours after he was assassinated. Take a listen. ... but my husband's favorite word in the English language was earn._
+
+**[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
+
+- [00:30:16](/episodes/ep-WoXd4oLwd3w#t-00-30-16): _when everybody was friends and Charlie (Charlie Kirk) was alive and Charlie (Charlie Kirk) was under a lot of pressure ... I probably would not have reflected on this little tidbit that proves that Erika (Erika Kirk) is a psychopath. She's not she wasn't a grieving widow in August and July._
 
 **[OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw)**
 
@@ -152,6 +176,10 @@ object: "person-charlie-kirk"
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
 - [00:35:19](/episodes/ep-gG4ZoYUjUc8#t-00-35-19): _uh time to grieve that they take time off what's strange about that is the employees are like maybe you need to take time off because your husband just got publicly they thought it was very strange and apparently she didn't now everyone's saying she was in the office every day with Stacey Sheridan I told you that's like the chief fundraiser lady they're in the office every day following Charlie (Charlie Kirk)'s assassination_
+
+**[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
+
+- [00:21:44](/episodes/ep-h76ZN-xXC6c#t-00-21-44): _So she's in the Charlie Kirk building at Turning Point USA. And Terryl (Terryl Farnsworth) is there. And why do they need to have an early conversation right after her husband died about the footage behind his head?_
 
 **[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
 
@@ -188,6 +216,14 @@ object: "person-charlie-kirk"
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 
 - [01:16:19](/episodes/ep-qZ8RWfyuewQ#t-01-16-19): _Justice does not mean looking the other way when Charlie (Charlie Kirk)'s widow tells lies. No, that doesn't work._
+
+**[Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo)**
+
+- [00:28:30](/episodes/ep-sKuYLNx3iRo#t-00-28-30): _Mikey (Michael McCoy) had already sent a plane to get Erika (Erika Kirk) ... Up and had private time with Charlie (Charlie Kirk)'s body. ... For the almighty widow, how could you question it?_
+
+**[Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs)**
+
+- [00:07:26](/episodes/ep-tXoI0TTKVrs#t-00-07-26): _Today marks nine months without Charlie (Charlie Kirk) in the universe, that happy warrior. Instead, now we have his widow, his widow, as they are trying to brand her as._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

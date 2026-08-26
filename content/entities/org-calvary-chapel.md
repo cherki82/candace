@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 79 mentions"
+description: "Calvary Chapel (Organizations) - 81 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39">2025-10-29 · 00:03:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-35-54">2026-05-19 · 00:35:54</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>79</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-20-36">2026-06-13 · 00:20:36</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>81</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -56,6 +56,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-calvary-chapel-t-00-42-24" style="--pulse-height:15%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 3 mentions" title="2026-04-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-calvary-chapel-t-00-44-59" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-04-30" style="--pulse-height:15%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-19-44" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +83,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-calvary-chapel-t-00-42-24) | 3 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-calvary-chapel-t-00-44-59) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-04-30) | 3 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-19-44) | 2 |
 
 </details>
 </section>
@@ -89,7 +91,18 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (79)</strong></summary>
+<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:20:00](/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-19-44)**
+> "And she speaks at James Kaddis' Calvary Chapel Church. Now, James Kaddis is that icky guy who is Egyptian and runs."
+
+**[00:20:36](/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-20-36)**
+> "...hristian and this day she was calvary chapel okay but it was bizarre to me because when James ..."
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (3 mentions)</summary>
@@ -476,7 +489,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 <details>
-<summary>Has Pastor (2)</summary>
+<summary>Has Pastor (3)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -493,10 +506,29 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 
 </details>
 
+- **[James Kaddis](/entities/person-james-kaddis.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:20:00](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “And she speaks at James Kaddis' Calvary Chapel Church. ... James Kaddis is this like egyptian pastor that's like radically pro-israel”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Hosted Speaker (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. ... And she speaks at James Kaddis' Calvary Chapel Church.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (7)</summary>
 
 - **[Victor Marx](/entities/person-victor-marx.md)** attended this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -527,6 +559,20 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:04:55](/episodes/ep-yAIb-NuUh_U.md#t-00-04-24): “Jack Hibbs among them, Calvary Chapel pastors”
+
+</details>
+
+- **[James Kaddis](/entities/person-james-kaddis.md)** pastor of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:20:00](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “And she speaks at James Kaddis' Calvary Chapel Church. ... James Kaddis is this like egyptian pastor that's like radically pro-israel”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. ... And she speaks at James Kaddis' Calvary Chapel Church.”
 
 </details>
 

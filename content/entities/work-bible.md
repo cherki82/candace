@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 60 mentions"
+description: "Bible (Works & Media) - 77 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -22,11 +22,11 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-54-48">2026-01-16 · 00:55:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-01-35-46">2026-05-19 · 01:35:46</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16">2026-07-14 · 00:51:24</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>77</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -51,6 +51,10 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26" style="--pulse-height:11%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-31-23" style="--pulse-height:26%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 5 mentions" title="2026-05-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-00-35-34" style="--pulse-height:26%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 5 mentions" title="2026-05-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-02-09" style="--pulse-height:53%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 10 mentions" title="2026-06-10 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-17-29" style="--pulse-height:21%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53" style="--pulse-height:11%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +76,10 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-work-bible-t-00-49-26) | 2 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-work-bible-t-00-31-23) | 5 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-work-bible-t-00-35-34) | 5 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-02-09) | 10 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-17-29) | 4 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53) | 2 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16) | 1 |
 
 </details>
 </section>
@@ -79,7 +87,78 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (77)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:51:24](/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16)**
+> "Time for justice for the widow and just a word to all the Christians out there. The Bible calls us in the Old Testament and the New Testament to defend the widow, to defend the orphans, to provide for her and to stand up for her."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2 mentions)</summary>
+
+**[00:58:53](/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53)**
+> "learn the Bible"
+
+**[00:59:02](/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53)**
+> "...ok two years off to study the Bible and said no one saw her except for her pastor and..."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (4 mentions)</summary>
+
+**[00:17:37](/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-17-29)**
+> "...g, then you must not like the Bible."
+
+**[00:30:25](/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-29-50)**
+> "...t, I'm going to chat GPT some Bible verses about the widow and the widow."
+
+**[00:40:03](/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-40-03)**
+> "...re the original Jews from the Bible they're not they never were it's so absurd the hi..."
+
+**[00:41:28](/episodes/ep-19vHhjF7-NA.md#ent-work-bible-t-00-41-28)**
+> "... they are not the jews of the bible um it's it's just a nonsense to teach yourself a ..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (10 mentions)</summary>
+
+**[00:02:33](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-02-09)**
+> "...but officer, don't you see my Bible verse? I have tatted on me."
+
+**[00:02:40](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-02-09)**
+> "I know Bible verses. As another example, better example perhap..."
+
+**[00:03:06](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-02-48)**
+> "...Sean Combs) knows how to cite Bible verses and has a picture of the Madonna on his ba..."
+
+**[00:03:44](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-03-28)**
+> "... Madonna on his back, and the Bible is clear about widows, widows."
+
+**[00:04:47](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-04-47)**
+> "...herself made a mockery of the Bible, she took to X to claim that, and no big deal, I ..."
+
+**[00:25:38](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-25-29)**
+> "...o try to make us do it with a Bible in hand."
+
+**[00:25:44](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-25-29)**
+> "...e a demon on stage behind the Bible that are going to convince us otherwise."
+
+**[00:53:39](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-53-21)**
+> "...ion it. I know I can cite the Bible. So I guess that's it. No questions can be asked."
+
+**[00:54:30](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-54-30)**
+> "...among the worst people of the bible we"
+
+**[00:54:56](/episodes/ep-tXoI0TTKVrs.md#ent-work-bible-t-00-54-56)**
+> "...nk dana has actually read the bible guys it sounded like she just went her speech was..."
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (5 mentions)</summary>
@@ -351,7 +430,23 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bible (2)</strong></summary>
+<summary><strong class="section-title">Statements about Bible (4)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
+
+- [00:59:02](/episodes/ep-sKuYLNx3iRo.md#t-00-58-53) (Claim) **Candace Owens**: ["Owens said Erika Kirk took two years off to study the Bible with a pas..."](/statements/statement-79ce1d33c244.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:41:28](/episodes/ep-19vHhjF7-NA.md#t-00-41-28) (Claim) **Candace Owens**: ["Owens claimed that modern Israel is a reassembled Khazar Khaganate and..."](/statements/statement-dde3b4784917.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Khazar Khaganate](/entities/gpe-khazar-khaganate.md), [Jewish people](/entities/concept-jewish-people.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Ties That Bind | Episode 4 (2)</summary>

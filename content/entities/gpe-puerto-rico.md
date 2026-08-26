@@ -1,6 +1,6 @@
 ---
 title: "Puerto Rico"
-description: "Puerto Rico (Places) - 3 mentions"
+description: "Puerto Rico (Places) - 4 mentions"
 id: "gpe-puerto-rico"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Government of Puerto Rico | General Information](https://www.pr.gov/gob
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-puerto-rico-t-00-07-59">2026-02-13 · 00:08:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-puerto-rico-t-00-45-22">2026-03-06 · 00:45:22</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-puerto-rico-t-00-13-57">2026-06-11 · 00:13:57</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,6 +33,7 @@ Source: [Government of Puerto Rico | General Information](https://www.pr.gov/gob
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-puerto-rico-t-00-07-59" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-puerto-rico-t-00-36-47" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-puerto-rico-t-00-13-57" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Government of Puerto Rico | General Information](https://www.pr.gov/gob
 |---|---|---:|
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-puerto-rico-t-00-07-59) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-puerto-rico-t-00-36-47) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-puerto-rico-t-00-13-57) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [Government of Puerto Rico | General Information](https://www.pr.gov/gob
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:13:57](/episodes/ep-19vHhjF7-NA.md#ent-gpe-puerto-rico-t-00-13-57)**
+> "... Cuba, right? Well, if we had Puerto Rico, Dominican Republic and Cuba, that would give us ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (2 mentions)</summary>

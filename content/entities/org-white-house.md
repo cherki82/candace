@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 228 mentions"
+description: "White House (Organizations) - 249 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-white-house-t-01-19-52">2026-06-09 · 01:19:52</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>228</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-45-23">2026-06-26 · 00:45:23</a></strong></div>
+<div><span>Episodes</span><strong>65</strong></div>
+<div><span>Mentions</span><strong>249</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>56</strong></div>
+<div><span>Statements about</span><strong>62</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -90,6 +90,12 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-white-house-t-00-15-02" style="--pulse-height:14%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-white-house-t-01-20-23" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-white-house-t-01-19-11" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-white-house-t-00-00-00" style="--pulse-height:14%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 4 mentions" title="2026-06-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-white-house-t-00-14-41" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-white-house-t-00-47-04" style="--pulse-height:10%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 3 mentions" title="2026-06-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-white-house-t-00-51-35" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-00-36" style="--pulse-height:24%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 7 mentions" title="2026-06-18 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-26-46" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -154,6 +160,12 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-white-house-t-00-15-02) | 4 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-white-house-t-01-20-23) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-white-house-t-01-19-11) | 2 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-white-house-t-00-00-00) | 4 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-white-house-t-00-14-41) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-white-house-t-00-47-04) | 3 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-white-house-t-00-51-35) | 2 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-00-36) | 7 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-26-46) | 3 |
 
 </details>
 </section>
@@ -161,7 +173,100 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (228)</strong></summary>
+<summary><strong class="section-title">Raw mentions (249)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
+
+**[00:26:46](/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-26-46)**
+> "...eriously. On the night of the White House Correspondents' Dinner shooting that wasn't, the ..."
+
+**[00:42:11](/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-42-11)**
+> "...s, every time you go into the White House, you have to basically be given a link to fill ou..."
+
+**[00:45:23](/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-45-23)**
+> "...d the DHS for Andrew Kolvet's White House meeting that we told you about, that strange coin..."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (7 mentions)</summary>
+
+**[00:00:36](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-00-36)**
+> "situation room in the White House"
+
+**[00:01:18](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-01-18)**
+> "... was mysteriously seen at the White House, particularly in the executive office building, h..."
+
+**[00:02:01](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-02-01)**
+> "...ew Kolvet meeting with at the White House? Because there seems to me to be a lot of proximi..."
+
+**[00:25:08](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-24-35)**
+> "... as an emotional asset at the White House correspondence dinner shooting who recorded that?"
+
+**[00:48:38](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-48-20)**
+> "...s the Least writes, could the White House crash out over the files have anything to do with..."
+
+**[00:48:53](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-48-20)**
+> "No, I mean, at the White House, that is the beginning. I think the timeline here..."
+
+**[00:49:09](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-48-59)**
+> ".... Pam Bondi's not even in the White House anymore."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (2 mentions)</summary>
+
+**[00:51:45](/episodes/ep-G3zdOeHpvS0.md#ent-org-white-house-t-00-51-35)**
+> "... shoulders with people at the White House they can be invited to glitzy glamorous events at..."
+
+**[00:53:59](/episodes/ep-G3zdOeHpvS0.md#ent-org-white-house-t-00-53-59)**
+> "...t a front page story that the white house correspondence center the messaging was staged th..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3 mentions)</summary>
+
+**[00:47:04](/episodes/ep-h76ZN-xXC6c.md#ent-org-white-house-t-00-47-04)**
+> "...peration Erika Kirk after the White House Correspondents' Dinner."
+
+**[00:47:30](/episodes/ep-h76ZN-xXC6c.md#ent-org-white-house-t-00-47-04)**
+> "...ng, immediately following the White House Correspondents' Dinner?"
+
+**[00:00:35](/episodes/ep-h76ZN-xXC6c.md#ent-org-white-house-t-00-00-35)**
+> "We're going to go over that. I feel like somewhere in the world. world Kim Jong-un is just laughing his head off right you could just look look around us the front yard of the White House has been transformed into a UFC arena our nation's FBI is monitoring Candace's tweets and admonishing her for clickbait And Israel is signaling to the world that Trump (Donald J. Trump) has no power. They're going to do whatever they want."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>
+
+**[00:14:41](/episodes/ep-WoXd4oLwd3w.md#ent-org-white-house-t-00-14-41)**
+> "This was also trending. This is inside the White House freakout over the Epstein files. Now, I am not a normal consumer of the New York Times, obviously."
+
+**[00:15:43](/episodes/ep-WoXd4oLwd3w.md#ent-org-white-house-t-00-15-43)**
+> "...Trump) in a full panic at the White House over the Epstein files and him having to do anyth..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (4 mentions)</summary>
+
+**[00:00:22](/episodes/ep-tXoI0TTKVrs.md#ent-org-white-house-t-00-00-00)**
+> "...garding our FOIA request, the White House shooting incident that wasn't actually really a s..."
+
+**[00:08:16](/episodes/ep-tXoI0TTKVrs.md#ent-org-white-house-t-00-08-03)**
+> "...attend a public function, the White House Correspondents' Dinner, somewhere her husband nev..."
+
+**[00:19:26](/episodes/ep-tXoI0TTKVrs.md#ent-org-white-house-t-00-19-26)**
+> "...raham Allen to claim that the White House Correspondents' Dinner internal email that I shar..."
+
+**[00:21:49](/episodes/ep-tXoI0TTKVrs.md#ent-org-white-house-t-00-21-49)**
+> "... regarding Erika Kirk and the White House Correspondents’ Dinner shooting incident and are ..."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
@@ -1260,7 +1365,40 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (56)</strong></summary>
+<summary><strong class="section-title">Statements about White House (62)</strong></summary>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
+
+- [00:00:26](/episodes/ep-3QJqtW_NOSI.md#t-00-00-01) (Claim) **Candace Owens**: ["Owens said Donald Trump met with top officials in the White House Situ..."](/statements/statement-a34eef740b26.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+- [00:01:18](/episodes/ep-3QJqtW_NOSI.md#t-00-01-18) (Accusation) **Candace Owens**: ["Owens alleged that Andrew Kolvet pre-recorded a Charlie Kirk Show epis..."](/statements/statement-957ec16b71d8.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Kash Patel](/entities/person-kash-patel.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1)</summary>
+
+- [00:53:59](/episodes/ep-G3zdOeHpvS0.md#t-00-53-59) (Accusation) **Candace Owens**: ["Owens alleged that White House Correspondence Center messaging was sta..."](/statements/statement-4befe9ff6f09.md)
+  - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (3)</summary>
+
+- [00:19:26](/episodes/ep-tXoI0TTKVrs.md#t-00-19-26) (Claim) **Candace Owens**: ["Andrew Kolvet hosted Graham Allen to claim that the internal White Hou..."](/statements/statement-e972923ea96c.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Graham Allen](/entities/person-graham-allen.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:19:34](/episodes/ep-tXoI0TTKVrs.md#t-00-19-26) (Accusation) **Candace Owens**: ["Andrew Kolvet knows that the White House Correspondents' Dinner email ..."](/statements/statement-b285a0f7f0e2.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:19:46](/episodes/ep-tXoI0TTKVrs.md#t-00-19-26) (Citation) **Candace Owens**: ["An internal email described Erika Kirk's 'I want to go home' video as ..."](/statements/statement-08d8bdbc3894.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2)</summary>

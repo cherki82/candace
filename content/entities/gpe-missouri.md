@@ -1,6 +1,6 @@
 ---
 title: "Missouri"
-description: "Missouri (Places) - 14 mentions"
+description: "Missouri (Places) - 15 mentions"
 id: "gpe-missouri"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-missouri-t-00-18-51">2025-10-09 · 00:19:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-missouri-t-00-07-58">2026-05-27 · 00:08:24</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-missouri-t-00-55-27">2026-06-16 · 00:55:27</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-missouri-t-00-04-48" style="--pulse-height:20%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-missouri-t-00-46-51" style="--pulse-height:20%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-missouri-t-00-07-58" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-missouri-t-00-55-27" style="--pulse-height:20%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-missouri-t-00-04-48) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-missouri-t-00-46-51) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-missouri-t-00-07-58) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-missouri-t-00-55-27) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [USA.gov — Missouri](https://www.usa.gov/states/missouri)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:55:27](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-missouri-t-00-55-27)**
+> "that moved their entire family. I said Iowa, my husband corrected me. Actually it was from Missouri, Kansas City, Missouri they moved and they have eight kids and they, this is them, they went to visit him and they then gave him special treatment at the hospital because he was in the military and there was just this camaraderie to go back to the other photo of military men understanding like what military men put their bodies through and what we, what they go through and I just wanted to let you guys know that. I just, there was, there's."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>

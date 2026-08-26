@@ -1,6 +1,6 @@
 ---
 title: "Ahmed Qureshi"
-description: "Ahmed Qureshi (People) - 3 mentions"
+description: "Ahmed Qureshi (People) - 4 mentions"
 id: "person-ahmed-qureshi"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-ahmed-qureshi-t-00-09-38">2026-04-01 · 00:09:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ahmed-qureshi-t-00-02-10">2026-04-02 · 00:02:33</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#t-01-10-33">2026-06-16 · 01:10:33</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -33,6 +33,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-ahmed-qureshi-t-00-09-38" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ahmed-qureshi-t-00-02-10" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#t-01-10-33" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 |---|---|---:|
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-ahmed-qureshi-t-00-09-38) | 2 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ahmed-qureshi-t-00-02-10) | 1 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33)**
+> "We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -89,9 +99,10 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 <summary>Founded (1)</summary>
 
 - **[BILT Incorporated](/entities/org-bilt-incorporated.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-11-43): “In fact, we can further assume that BILT is somehow related to his job in the military because his LinkedIn also informs us that Ahmed co-founded BILT back in 2015 when he was full time as an 05.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
 
@@ -151,9 +162,10 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 </details>
 
 - **[BILT Incorporated](/entities/org-bilt-incorporated.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-11-43): “In fact, we can further assume that BILT is somehow related to his job in the military because his LinkedIn also informs us that Ahmed co-founded BILT back in 2015 when he was full time as an 05.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
 

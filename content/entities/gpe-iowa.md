@@ -1,6 +1,6 @@
 ---
 title: "Iowa"
-description: "Iowa (Places) - 5 mentions"
+description: "Iowa (Places) - 6 mentions"
 id: "gpe-iowa"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Welcome to Iowa | Iowa.gov](https://www.iowa.gov/welcome-iowa)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-iowa-t-00-01-26">2026-01-28 · 00:01:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-iowa-t-00-29-14">2026-06-09 · 00:29:47</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-iowa-t-00-55-27">2026-06-16 · 00:55:27</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ Source: [Welcome to Iowa | Iowa.gov](https://www.iowa.gov/welcome-iowa)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-iowa-t-00-01-26" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-iowa-t-00-12-04" style="--pulse-height:67%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-iowa-t-00-55-27" style="--pulse-height:33%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +40,7 @@ Source: [Welcome to Iowa | Iowa.gov](https://www.iowa.gov/welcome-iowa)
 |---|---|---:|
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-iowa-t-00-01-26) | 3 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-iowa-t-00-12-04) | 2 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-iowa-t-00-55-27) | 1 |
 
 </details>
 </section>
@@ -46,7 +48,15 @@ Source: [Welcome to Iowa | Iowa.gov](https://www.iowa.gov/welcome-iowa)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:55:27](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-iowa-t-00-55-27)**
+> "that moved their entire family. I said Iowa, my husband corrected me. Actually it was from Missouri, Kansas City, Missouri they moved and they have eight kids and they, this is them, they went to visit him and they then gave him special treatment at the hospital because he was in the military and there was just this camaraderie to go back to the other photo of military men understanding like what military men put their bodies through and what we, what they go through and I just wanted to let you guys know that. I just, there was, there's."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>

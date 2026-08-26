@@ -1,6 +1,6 @@
 ---
 title: "Louisiana"
-description: "Louisiana (Places) - 3 mentions"
+description: "Louisiana (Places) - 4 mentions"
 id: "gpe-louisiana"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [State of Louisiana official website](https://www.louisiana.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-louisiana-t-00-51-51">2026-01-06 · 00:52:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-louisiana-t-00-31-13">2026-05-19 · 00:31:13</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-louisiana-t-00-12-23">2026-06-11 · 00:12:54</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,6 +32,7 @@ Source: [State of Louisiana official website](https://www.louisiana.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-louisiana-t-00-51-51" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-louisiana-t-00-31-13" style="--pulse-height:50%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-louisiana-t-00-12-23" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +40,7 @@ Source: [State of Louisiana official website](https://www.louisiana.gov/)
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-louisiana-t-00-51-51) | 2 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-louisiana-t-00-31-13) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-louisiana-t-00-12-23) | 1 |
 
 </details>
 </section>
@@ -46,7 +48,15 @@ Source: [State of Louisiana official website](https://www.louisiana.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1 mentions)</summary>
+
+**[00:12:54](/episodes/ep-19vHhjF7-NA.md#ent-gpe-louisiana-t-00-12-23)**
+> "Louisiana. where we're you know refineries that we have tha..."
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
@@ -73,5 +83,18 @@ Source: [State of Louisiana official website](https://www.louisiana.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Louisiana (1)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
+
+- [00:12:43](/episodes/ep-19vHhjF7-NA.md#t-00-12-23) (Claim) **Donald J. Trump** (via quoted speech): ["Donald Trump said Venezuela had worked out well and that millions of b..."](/statements/statement-fee75d303ce1.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Venezuela](/entities/gpe-venezuela.md), [Houston, Texas](/entities/gpe-houston-texas.md)
+
+</details>
 
 </details>

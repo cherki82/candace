@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 92 mentions"
+description: "Dan Flood (People) - 101 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24">2025-11-20 · 00:33:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-dan-flood-t-01-06-06">2026-05-28 · 01:06:06</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>92</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-04-31">2026-07-14 · 01:04:49</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>101</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>36</strong></div>
+<div><span>Statements about</span><strong>39</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -63,6 +63,9 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37" style="--pulse-height:25%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-dan-flood-t-00-12-27" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-dan-flood-t-01-06-06" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-dan-flood-t-00-40-02" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-09-14" style="--pulse-height:33%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52" style="--pulse-height:33%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -96,6 +99,9 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37) | 3 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-dan-flood-t-00-12-27) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-dan-flood-t-01-06-06) | 1 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-dan-flood-t-00-40-02) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-09-14) | 4 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52) | 4 |
 
 </details>
 </section>
@@ -103,7 +109,49 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (92)</strong></summary>
+<summary><strong class="section-title">Raw mentions (101)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (4 mentions)</summary>
+
+**[01:03:52](/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52)**
+> "We've got Dan Flood and Justin Davis. Justin Davis was driving upwards to 100 miles per an hour."
+
+**[01:04:10](/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52)**
+> "...was true, that leaves us with Dan Flood."
+
+**[01:04:17](/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52)**
+> "Either Dan Flood or Frank Turek were providing updates."
+
+**[01:04:49](/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-04-31)**
+> "...ustin (Justin Davis) and Dan (Dan Flood) in this dark game of guess who?"
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (4 mentions)</summary>
+
+**[00:09:24](/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-09-14)**
+> "You've got Dan Flood there in the passenger seat"
+
+**[00:57:33](/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-57-33)**
+> "...e. I would assume it would be Dan Flood."
+
+**[00:57:40](/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-57-33)**
+> "...mption. Where in the world is Dan Flood? He's been the most quiet. I think Dan Flood is p..."
+
+**[00:57:57](/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-57-33)**
+> "I think Dan Flood is guilt ridden. I really do."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:40:02](/episodes/ep-G3zdOeHpvS0.md#ent-person-dan-flood-t-00-40-02)**
+> "...t going hard, and I hear Dan (Dan Flood) just calling out the directions to Justin (Justi..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -689,7 +737,25 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (36)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (39)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [01:04:10](/episodes/ep-EtLHqDbxqks.md#t-01-03-52) (Accusation) **Candace Owens**: ["Assuming Brian Harpole's account was true, Candace Owens first identif..."](/statements/statement-6bde6797b49d.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2)</summary>
+
+- [00:57:40](/episodes/ep-sKuYLNx3iRo.md#t-00-57-33) (Opinion) **Candace Owens**: ["Owens said, "I think Dan Flood is positively guilt-ridden.""](/statements/statement-ccfaeb26e26d.md)
+
+- [00:57:47](/episodes/ep-sKuYLNx3iRo.md#t-00-57-33) (Claim) **Candace Owens**: ["Owens said Dan Flood declined a promotion offered by Erika Kirk."](/statements/statement-851e7da527d5.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

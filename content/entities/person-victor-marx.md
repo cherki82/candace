@@ -1,6 +1,6 @@
 ---
 title: "Victor Marx"
-description: "Victor Marx (People) - 233 mentions"
+description: "Victor Marx (People) - 236 mentions"
 id: "person-victor-marx"
 type: "PERSON"
 aliases:
@@ -27,9 +27,9 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29">2026-04-14 · 00:06:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-01-19-11">2026-06-09 · 01:19:24</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>233</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-40-10">2026-06-22 · 00:40:35</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>236</strong></div>
 <div><span>Statements by</span><strong>51</strong></div>
 <div><span>Statements about</span><strong>88</strong></div>
 <div><span>Relationships</span><strong>67</strong></div>
@@ -52,6 +52,8 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-00-44" style="--pulse-height:34%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 20 mentions" title="2026-05-20 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-victor-marx-t-00-45-44" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-00-40-58" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#t-00-25-46" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-33-11" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +71,8 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-victor-marx-t-00-00-44) | 20 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-victor-marx-t-00-45-44) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-00-40-58) | 3 |
+| 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-33-11) | 2 |
 
 </details>
 </section>
@@ -76,7 +80,26 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (233)</strong></summary>
+<summary><strong class="section-title">Raw mentions (236)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
+
+**[00:33:33](/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-33-11)**
+> "... relationships of people like Victor Marx and Rob McCoy, even in her little minute contribu..."
+
+**[00:40:35](/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-40-10)**
+> "... Kirk)'s many pastors. I love Victor Marx, who says he's no longer a pastor, but he was kin..."
+
+</details>
+
+<details>
+<summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
+
+**[00:26:24](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46)**
+> "people like Victor Marks"
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (3 mentions)</summary>
@@ -1115,12 +1138,13 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <summary>Married To (1)</summary>
 
 - **[Eileen Marx](/entities/person-eileen-marx.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:15:43](/episodes/ep-jsqUIkszZd0.md#t-00-15-12): “That happened in 1986. Two years later in 1988, he married his wife, Eileen (Eileen Marx), who you just saw Erika (Erika Kirk) hugging.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:30:52](/episodes/ep-1mYNOqzAdXs.md#t-00-30-52): “He is claiming that he is willing to sit down with me, but he's got some conditions. One of the conditions is that he wants to be able to bring his wife, Eileen (Eileen Marx), but he does not want Corby Hall to be present.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:05:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-04-30): “All right, 10 out of 10, Calvary Chapel Church, definitely the pastors. At 23, Victor (Victor Marx) married his wife Eileen (Eileen Marx), Eileen (Eileen Marx) Breeding Marx, and they went on to have five kids and grandkids.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:07:45](/episodes/ep-cPidFQDJLbo.md#t-00-07-31): “Common sense, Victor (Victor Marx). You just said you're friends with Frank Turek, friends with the security guys. You told us elsewhere in the interview that Eileen (Eileen Marx) and Erika (Erika Kirk), they got so close because. ... Well, your wife, your bride mentors Erika (Erika Kirk), right? You were so close to Charlie (Charlie Kirk)'s security apparatus, in fact, that you were able to swiftly coordinate taking over for them a mere 48 hours later in Phoenix, remember?”
+- [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:26:24](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46): “Victor Marks, who tells us his wife Eileen”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk assassination"
-description: "Charlie Kirk assassination (Events) - 233 mentions"
+description: "Charlie Kirk assassination (Events) - 235 mentions"
 id: "event-charlie-kirk-assassination"
 type: "EVENT"
 aliases:
@@ -27,11 +27,11 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02">2025-09-15 · 00:24:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25">2026-04-02 · 00:33:25</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>233</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-15-00">2026-06-26 · 00:15:00</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>235</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>118</strong></div>
+<div><span>Statements about</span><strong>127</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -80,6 +80,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#t-00-45-12" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -125,6 +126,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-event-charlie-kirk-assassination-t-00-02-01) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-45-12) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45) | 2 |
 
 </details>
 </section>
@@ -132,7 +134,18 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (233)</strong></summary>
+<summary><strong class="section-title">Raw mentions (235)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:01:19](/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45)**
+> "...e deep state did not organize Charlie Kirk's assassination after this."
+
+**[00:15:00](/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-15-00)**
+> "...colors, by hats on the day of Charlie Kirk's assassination."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -1109,7 +1122,39 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (118)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (127)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (9)</summary>
+
+- [00:01:19](/episodes/ep-IqHsl7d2dos.md#t-00-00-45) (Accusation) **Candace Owens**: ["Owens said no one would ever convince her that the deep state did not ..."](/statements/statement-4966d942cf81.md)
+  - Also about: [Deep state](/entities/concept-deep-state.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:10:05](/episodes/ep-IqHsl7d2dos.md#t-00-09-45) (Accusation) **James Norman Rawlinson Jr.** (via quoted post): ["Rawlinson wrote that Charlie Kirk's shooting looked like a total setup..."](/statements/statement-1849391d4960.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:15:00](/episodes/ep-IqHsl7d2dos.md#t-00-15-00) (Accusation) **Candace Owens**: ["Owens asserted that military units in plain clothes were organized by ..."](/statements/statement-a00e18867e92.md)
+  - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:35](/episodes/ep-IqHsl7d2dos.md#t-00-27-33) (Accusation) **Candace Owens**: ["Owens stated her view that Charlie Kirk was killed in a military opera..."](/statements/statement-d1202b1ad9e9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
+
+- [00:28:44](/episodes/ep-IqHsl7d2dos.md#t-00-28-19) (Accusation) **Candace Owens**: ["Owens said, 'We think Charlie Kirk was taken out because a global traf..."](/statements/statement-1ae095491b3b.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:47:12](/episodes/ep-IqHsl7d2dos.md#t-00-46-47) (Accusation) **Candace Owens**: ["Owens said she stood by her claim that the French Foreign Legion was p..."](/statements/statement-6f5c31201036.md)
+  - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:51:48](/episodes/ep-IqHsl7d2dos.md#t-00-51-15) (Accusation) **Candace Owens**: ["Owens said the most logical reason no one had been arrested for tamper..."](/statements/statement-34b6a8a757b6.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+- [01:00:40](/episodes/ep-IqHsl7d2dos.md#t-01-00-17) (Accusation) **Candace Owens**: ["Owens said she believed Lance Twiggs was being protected and was the p..."](/statements/statement-4f2da7efb41f.md)
+  - Also about: [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+- [01:05:18](/episodes/ep-IqHsl7d2dos.md#t-01-05-18) (Accusation) **Candace Owens**: ["Owens said she did not think Charlie Kirk was alive when placed in the..."](/statements/statement-c9f42d7903b4.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Gaza"
-description: "Gaza (Places) - 142 mentions"
+description: "Gaza (Places) - 148 mentions"
 id: "gpe-gaza"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03">2025-09-18 · 00:35:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-01-24-50">2026-05-28 · 01:24:59</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>142</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-40-28">2026-06-24 · 00:40:28</a></strong></div>
+<div><span>Episodes</span><strong>37</strong></div>
+<div><span>Mentions</span><strong>148</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -70,6 +70,8 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-gaza-t-00-26-21" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-00-23" style="--pulse-height:86%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 12 mentions" title="2026-05-27 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-03-42" style="--pulse-height:86%" aria-label="Candace Owens x Ana Kasparian: 12 mentions" title="2026-05-28 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-gaza-t-00-29-30" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-38-09" style="--pulse-height:36%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 5 mentions" title="2026-06-24 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -110,6 +112,8 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-gaza-t-00-26-21) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-gaza-t-00-00-23) | 12 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-gaza-t-00-03-42) | 12 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-gaza-t-00-29-30) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-38-09) | 5 |
 
 </details>
 </section>
@@ -117,7 +121,35 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (142)</strong></summary>
+<summary><strong class="section-title">Raw mentions (148)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (5 mentions)</summary>
+
+**[00:38:09](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-38-09)**
+> "defending Israel's actions in Gaza"
+
+**[00:39:21](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-39-21)**
+> "...as no idea what's going on in Gaza, but, like, he's a Zionist, so let's rah-rah; it'..."
+
+**[00:40:14](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-40-14)**
+> "...e, there's not one Israeli in Gaza, the hostages are home,"
+
+**[00:40:21](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-40-21)**
+> "...g there there are hostages in Gaza right now and the war is continuing"
+
+**[00:40:28](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-40-28)**
+> "bombing Gaza right now, that's what you're telling me? Yeah."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:29:44](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-gaza-t-00-29-30)**
+> "...ide was a little icky over in Gaza. We are going to benefit from that financially, b..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (12 mentions)</summary>
@@ -724,7 +756,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Gaza (25)</strong></summary>
+<summary><strong class="section-title">Statements about Gaza (27)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2)</summary>
+
+- [00:29:24](/episodes/ep-tXoI0TTKVrs.md#t-00-28-56) (Accusation) **Candace Owens**: ["Jared Kushner invested in a genocide before it happened and presented ..."](/statements/statement-46ee3a5ee5a8.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Genocide](/entities/concept-genocide.md)
+
+- [00:29:44](/episodes/ep-tXoI0TTKVrs.md#t-00-29-30) (Accusation) **Candace Owens**: ["The Kushner family is benefiting financially from the genocide in Gaza..."](/statements/statement-f996f7744bfb.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Ivanka Trump](/entities/person-ivanka-trump.md), [Genocide](/entities/concept-genocide.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (4)</summary>

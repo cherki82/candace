@@ -11,7 +11,7 @@ date: "2025"
 
 > Beekeeper's Naturals launched a kid-friendly version of its nasal spray.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Bride Of Charlie: What Happened In Romania? | Episode 6
 
@@ -28,3 +28,11 @@ date: "2025"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2912);return false;">▶️ Play</a>
 
 > Last year, they launched a kid-friendly version of their nasal spray
+
+### 3. Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quit...
+
+**Episode:** [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md)
+**Timestamp:** [00:28:42](/episodes/ep-tXoI0TTKVrs.md#event-event-2025-beekeepers-naturals-launched-a-kid-frien-t-00-28-12) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1722);return false;">▶️ Play</a>
+
+> last year they launched a kid-friendly version of their nasal spray with a soft gentle mist

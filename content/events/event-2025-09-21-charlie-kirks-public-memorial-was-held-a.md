@@ -11,7 +11,7 @@ date: "2025-09-21"
 
 > Charlie Kirk's public memorial was held at State Farm Stadium.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -44,3 +44,11 @@ date: "2025-09-21"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2413);return false;">▶️ Play</a>
 
 > they tracked over 277,000 devices in the vicinity of State Farm Stadium in Glendale, Arizona.
+
+### 5. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
+
+**Episode:** [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md)
+**Timestamp:** [00:35:28](/episodes/ep-a2bZf4fic10.md#event-event-2025-09-21-charlie-kirks-public-memorial-was-held-a-t-00-35-28) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2128);return false;">▶️ Play</a>
+
+> the happiest we ever saw Erika Kirk was when she walked out to that stadium on September 21st

@@ -1,6 +1,6 @@
 ---
 title: "Grok"
-description: "Grok (Works & Media) - 2 mentions"
+description: "Grok (Works & Media) - 4 mentions"
 id: "work-grok"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Welcome to Grok | xAI Docs](https://docs.x.ai/grok/overview)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-grok-t-00-30-04">2026-03-26 · 00:30:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-grok-t-00-30-04">2026-03-26 · 00:30:14</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-grok-t-00-40-32">2026-06-24 · 00:40:32</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [Welcome to Grok | xAI Docs](https://docs.x.ai/grok/overview)
 <p>Highest activity: <a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-grok-t-00-30-04">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-grok-t-00-30-04" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-grok-t-00-40-32" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-work-grok-t-00-30-04) | 2 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-work-grok-t-00-40-32) | 2 |
 
 </details>
 </section>
@@ -45,7 +47,18 @@ Source: [Welcome to Grok | xAI Docs](https://docs.x.ai/grok/overview)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2 mentions)</summary>
+
+**[00:40:31](/episodes/ep-sKuYLNx3iRo.md#ent-work-grok-t-00-40-32)**
+> "you get your news from Grok"
+
+**[00:40:32](/episodes/ep-sKuYLNx3iRo.md#ent-work-grok-t-00-40-32)**
+> "...I know you get your news from Grok, but like this is a fact that is continuing to ha..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (2 mentions)</summary>

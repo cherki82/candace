@@ -1,6 +1,6 @@
 ---
 title: "Miss Arizona USA"
-description: "Miss Arizona USA (Organizations) - 11 mentions"
+description: "Miss Arizona USA (Organizations) - 13 mentions"
 id: "org-miss-arizona-usa"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23">2026-02-27 · 00:48:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-miss-arizona-usa-t-00-20-20">2026-04-21 · 00:20:49</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-42-45">2026-06-23 · 00:42:56</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-miss-arizona-usa-t-00-19-45" style="--pulse-height:25%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-miss-arizona-usa-t-00-12-32" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-miss-arizona-usa-t-00-20-20" style="--pulse-height:25%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-39-22" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-miss-arizona-usa-t-00-19-45) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-miss-arizona-usa-t-00-12-32) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-miss-arizona-usa-t-00-20-20) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-39-22) | 2 |
 
 </details>
 </section>
@@ -62,7 +64,18 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
+
+**[00:39:57](/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-39-22)**
+> "When Erika (Erika Kirk) was Miss Arizona."
+
+**[00:42:56](/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-42-45)**
+> "...ika Kirk) that existed during Miss Arizona years doesn't exist anymore."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>
@@ -142,7 +155,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Miss Arizona USA (9)</strong></summary>
+<summary><strong class="section-title">Statements about Miss Arizona USA (10)</strong></summary>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1)</summary>
+
+- [00:39:43](/episodes/ep-9CuC1yf8-PU.md#t-00-39-22) (Claim) **Candace Owens**: ["Owens said Erika Kirk completely changed her signature from the one sh..."](/statements/statement-91f8ca51d550.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (1)</summary>

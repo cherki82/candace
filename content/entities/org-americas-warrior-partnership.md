@@ -1,6 +1,6 @@
 ---
 title: "America's Warrior Partnership"
-description: "America's Warrior Partnership (Organizations) - 6 mentions"
+description: "America's Warrior Partnership (Organizations) - 12 mentions"
 id: "org-americas-warrior-partnership"
 type: "ORG"
 categories:
@@ -17,12 +17,12 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-americas-warrior-partnership-t-00-47-24">2025-12-20 · 00:47:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-americas-warrior-partnership-t-00-27-54">2026-04-16 · 00:28:14</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-americas-warrior-partnership-t-00-31-51">2026-06-26 · 00:32:04</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,6 +35,9 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-americas-warrior-partnership-t-00-48-40" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-americas-warrior-partnership-t-00-22-37" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-americas-warrior-partnership-t-00-27-54" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-americas-warrior-partnership-t-00-20-12" style="--pulse-height:100%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-americas-warrior-partnership-t-00-30-48" style="--pulse-height:100%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-americas-warrior-partnership-t-00-31-12" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +48,9 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-americas-warrior-partnership-t-00-48-40) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-americas-warrior-partnership-t-00-22-37) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-americas-warrior-partnership-t-00-27-54) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-americas-warrior-partnership-t-00-20-12) | 2 |
+| 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-americas-warrior-partnership-t-00-30-48) | 2 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-americas-warrior-partnership-t-00-31-12) | 2 |
 
 </details>
 </section>
@@ -52,7 +58,40 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
+
+**[00:31:42](/episodes/ep-IqHsl7d2dos.md#ent-org-americas-warrior-partnership-t-00-31-12)**
+> "...omers will raise $250,000 for America's Warrior Partnership by the end of July."
+
+**[00:32:04](/episodes/ep-IqHsl7d2dos.md#ent-org-americas-warrior-partnership-t-00-31-51)**
+> "...tunity to round up to support America's Warrior Partnership."
+
+</details>
+
+<details>
+<summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
+
+**[00:30:48](/episodes/ep-3QJqtW_NOSI.md#ent-org-americas-warrior-partnership-t-00-30-48)**
+> "America's Warrior Partnership"
+
+**[00:31:10](/episodes/ep-3QJqtW_NOSI.md#ent-org-americas-warrior-partnership-t-00-30-48)**
+> "...tunity to round up to support America's Warrior Partnership."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:20:40](/episodes/ep-19vHhjF7-NA.md#ent-org-americas-warrior-partnership-t-00-20-12)**
+> "...omers will raise $250,000 for America's Warrior Partnership by the end of July."
+
+**[00:21:00](/episodes/ep-19vHhjF7-NA.md#ent-org-americas-warrior-partnership-t-00-20-48)**
+> "...unity to round up support for America's Warrior Partnership."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
@@ -106,27 +145,50 @@ Source: [Our Mission | America's Warrior Partnership](https://www.americaswarrio
 <summary>Funded By (1)</summary>
 
 - **[Pure Talk](/entities/org-pure-talk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:05](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “They donate over half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the front lines of preventing veteran suicide.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:28:14](/episodes/ep-1mYNOqzAdXs.md#t-00-27-54): “Pure Talk is veteran led. So helping veterans is their North star. They have donated over half a million dollars to America's warrior partnership.”
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:20:40](/episodes/ep-19vHhjF7-NA.md#t-00-20-12): “PureTalk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:32:11](/episodes/ep-IqHsl7d2dos.md#t-00-31-51): “PureTalk will match that donation until they hit $250,000. So enjoy unlimited talk, unlimited text, and unlimited high-speed data for just $34.99 a month.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Supported By (1)</summary>
+
+- **[Pure Talk](/entities/org-pure-talk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:30:48](/episodes/ep-3QJqtW_NOSI.md#t-00-30-48): “Pure Talk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Pure Talk](/entities/org-pure-talk.md)** funded this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:05](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “They donate over half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the front lines of preventing veteran suicide.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:28:14](/episodes/ep-1mYNOqzAdXs.md#t-00-27-54): “Pure Talk is veteran led. So helping veterans is their North star. They have donated over half a million dollars to America's warrior partnership.”
+- [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:20:40](/episodes/ep-19vHhjF7-NA.md#t-00-20-12): “PureTalk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:32:11](/episodes/ep-IqHsl7d2dos.md#t-00-31-51): “PureTalk will match that donation until they hit $250,000. So enjoy unlimited talk, unlimited text, and unlimited high-speed data for just $34.99 a month.”
+
+</details>
+
+- **[Pure Talk](/entities/org-pure-talk.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:30:48](/episodes/ep-3QJqtW_NOSI.md#t-00-30-48): “Pure Talk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Catholics for Catholics"
-description: "Catholics for Catholics (Organizations) - 15 mentions"
+description: "Catholics for Catholics (Organizations) - 16 mentions"
 id: "org-catholics-for-catholics"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#t-00-39-11">2025-12-20 · 00:39:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-catholics-for-catholics-t-01-06-24">2026-04-29 · 01:06:35</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#t-00-12-34">2026-06-10 · 00:12:38</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholics-for-catholics-t-00-32-47" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-catholics-for-catholics-t-00-16-34" style="--pulse-height:25%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-catholics-for-catholics-t-01-06-24" style="--pulse-height:25%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#t-00-12-34" style="--pulse-height:25%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-catholics-for-catholics-t-00-32-47) | 4 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-catholics-for-catholics-t-00-16-34) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-catholics-for-catholics-t-01-06-24) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#t-00-12-34) | 1 |
 
 </details>
 </section>
@@ -62,7 +64,15 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>
+
+**[00:12:38](/episodes/ep-tXoI0TTKVrs.md#t-00-12-34)**
+> "She's nasty behind the scenes and she directs these hits that are coming at people, people that question her, the authority that's been handed over to her. And as I told you guys before, it was her who personally made phone calls to people telling them not to attend the Catholic for Catholics event that I did back in March. She made phone calls to priests, bishops."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>
@@ -213,7 +223,15 @@ Source: [Catholics for Catholics endorses Arizona Catholic Conference statement]
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholics for Catholics (4)</strong></summary>
+<summary><strong class="section-title">Statements about Catholics for Catholics (5)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:12:38](/episodes/ep-tXoI0TTKVrs.md#t-00-12-34) (Accusation) **Candace Owens**: ["Erika Kirk personally called priests and bishops to tell them not to a..."](/statements/statement-3c9033bd91dc.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 (1)</summary>

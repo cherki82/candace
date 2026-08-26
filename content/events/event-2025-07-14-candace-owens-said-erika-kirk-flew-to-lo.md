@@ -11,7 +11,7 @@ date: "2025-07-14"
 
 > Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318
 
@@ -36,3 +36,11 @@ date: "2025-07-14"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1854);return false;">▶️ Play</a>
 
 > Erika travels to Long Beach, California to speak at James Kaddis' Calvary Chapel Church
+
+### 4. REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Na...
+
+**Episode:** [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md)
+**Timestamp:** [00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1184);return false;">▶️ Play</a>
+
+> Erika travels aboard a private flight to Long Beach, California.

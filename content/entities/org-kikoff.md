@@ -1,6 +1,6 @@
 ---
 title: "Kikoff"
-description: "Kikoff (Organizations) - 33 mentions"
+description: "Kikoff (Organizations) - 39 mentions"
 id: "org-kikoff"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Kikoff](https://getkikoff.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53">2026-01-29 · 01:18:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-kikoff-t-00-27-13">2026-05-13 · 00:27:18</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-36-20">2026-06-22 · 00:36:20</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,7 @@ Source: [Kikoff](https://getkikoff.com/)
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30" style="--pulse-height:67%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 6 mentions" title="2026-03-31 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-kikoff-t-00-38-29" style="--pulse-height:56%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-kikoff-t-00-26-26" style="--pulse-height:67%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 6 mentions" title="2026-05-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 6 mentions" title="2026-06-22 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Kikoff](https://getkikoff.com/)
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30) | 6 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-kikoff-t-00-38-29) | 5 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-kikoff-t-00-26-26) | 6 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18) | 6 |
 
 </details>
 </section>
@@ -58,7 +60,30 @@ Source: [Kikoff](https://getkikoff.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (6 mentions)</summary>
+
+**[00:35:18](/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18)**
+> "...want to remind you guys about kickoff because time flies faster than we expect, but whe..."
+
+**[00:35:26](/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18)**
+> "Kickoff is the number one credit building app in the App ..."
+
+**[00:35:59](/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-59)**
+> "...y. Start building credit with kickoff today and get your first month for as little as $..."
+
+**[00:36:07](/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-59)**
+> "... Candace today. Again, that's Kikoff, K-I-K-O-F-F, without the C."
+
+**[00:36:17](/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-59)**
+> "Get getkikoff.com slash Candace."
+
+**[00:36:20](/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-36-20)**
+> "Must sign up via getkikoff.com slash Candace to activate offer. Offer applie..."
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (6 mentions)</summary>

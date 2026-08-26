@@ -1,6 +1,6 @@
 ---
 title: "Palestine"
-description: "Palestine (Places) - 67 mentions"
+description: "Palestine (Places) - 71 mentions"
 id: "gpe-palestine"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46">2025-09-18 · 00:55:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-palestine-t-00-39-00">2026-05-28 · 00:39:20</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-palestine-t-00-31-31">2026-06-13 · 00:31:46</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,8 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-palestine-t-01-10-45" style="--pulse-height:33%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-palestine-t-00-20-32" style="--pulse-height:33%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-palestine-t-00-39-00" style="--pulse-height:33%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-palestine-t-00-30-11" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-palestine-t-00-31-31" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +62,8 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-palestine-t-01-10-45) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-palestine-t-00-20-32) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-palestine-t-00-39-00) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-palestine-t-00-30-11) | 3 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-palestine-t-00-31-31) | 1 |
 
 </details>
 </section>
@@ -67,7 +71,29 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:31:46](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-palestine-t-00-31-31)**
+> "Palestine doesn't exist."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (3 mentions)</summary>
+
+**[00:30:33](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-palestine-t-00-30-11)**
+> "... don't care about that are in Palestine. Anyway, let's just hear Ivanka (Ivanka Trump)."
+
+**[00:33:28](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-palestine-t-00-33-19)**
+> "...as a look at all this land in Palestine. We kind of need a fake incident called October 7..."
+
+**[00:35:15](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-palestine-t-00-35-15)**
+> "...that would be nice oh there's palestine that's got a really nice beachy coastline there's..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -190,7 +216,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Palestine (13)</strong></summary>
+<summary><strong class="section-title">Statements about Palestine (14)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:33:28](/episodes/ep-tXoI0TTKVrs.md#t-00-33-19) (Accusation) **Candace Owens**: ["Jared Kushner and Benjamin Netanyahu had a plan to stage a fake Octobe..."](/statements/statement-1d581fd36cc6.md)
+  - Also about: [Jared Kushner](/entities/person-jared-kushner.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 222 mentions"
+description: "Megyn Kelly (People) - 232 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31">2026-08-14 · 02:47:31</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>222</strong></div>
+<div><span>Episodes</span><strong>65</strong></div>
+<div><span>Mentions</span><strong>232</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>48</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -93,6 +93,12 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-megyn-kelly-t-00-34-32" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-megyn-kelly-t-01-02-38" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-megyn-kelly-t-00-28-30" style="--pulse-height:9%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-megyn-kelly-t-00-16-27" style="--pulse-height:13%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-megyn-kelly-t-00-37-32" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-megyn-kelly-t-00-19-35" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-megyn-kelly-t-00-42-01" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-megyn-kelly-t-00-48-14" style="--pulse-height:9%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-megyn-kelly-t-00-59-50" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -157,6 +163,12 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-megyn-kelly-t-00-34-32) | 4 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-megyn-kelly-t-01-02-38) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-megyn-kelly-t-00-28-30) | 2 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-megyn-kelly-t-00-16-27) | 3 |
+| 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-megyn-kelly-t-00-37-32) | 1 |
+| 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-megyn-kelly-t-00-19-35) | 1 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-megyn-kelly-t-00-42-01) | 1 |
+| 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-megyn-kelly-t-00-48-14) | 2 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-megyn-kelly-t-00-59-50) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-00-36-46) | 2 |
 
 </details>
@@ -165,7 +177,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (222)</strong></summary>
+<summary><strong class="section-title">Raw mentions (232)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -175,6 +187,63 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 **[02:47:31](/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31)**
 > "by the way, I remember even Megyn Kelly was like, you know, let's wait,"
+
+</details>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:59:56](/episodes/ep-EtLHqDbxqks.md#ent-person-megyn-kelly-t-00-59-50)**
+> "And then you find out about Ben Shapiro's character and how he operates behind the scenes to stop people just like Megyn Kelly has had that experience recently."
+
+</details>
+
+<details>
+<summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2 mentions)</summary>
+
+**[00:48:14](/episodes/ep-sKuYLNx3iRo.md#ent-person-megyn-kelly-t-00-48-14)**
+> "Tucker Carlson and Megyn Kelly"
+
+**[00:41:04](/episodes/ep-sKuYLNx3iRo.md#ent-person-megyn-kelly-t-00-41-04)**
+> "...'Coming soon from Daily Wire: Megyn and Tucker (Tucker Carlson) tears tumbler,' and h..."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
+
+**[00:42:01](/episodes/ep-9CuC1yf8-PU.md#ent-person-megyn-kelly-t-00-42-01)**
+> "conversation that I had with Tucker (Tucker Carlson) and Megyn (Megyn Kelly)"
+
+</details>
+
+<details>
+<summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
+
+**[00:20:00](/episodes/ep-VMNWMXX1vO8.md#ent-person-megyn-kelly-t-00-19-35)**
+> "...she sat down planned and told Megyn Kelly, you could see, as we showed you in that absurd D..."
+
+</details>
+
+<details>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
+
+**[00:37:32](/episodes/ep-h76ZN-xXC6c.md#ent-person-megyn-kelly-t-00-37-32)**
+> "...)? Because here's you telling Megyn Kelly that your phone was on FaceTime the entire time w..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3 mentions)</summary>
+
+**[00:16:52](/episodes/ep-WoXd4oLwd3w.md#ent-person-megyn-kelly-t-00-16-27)**
+> "Tucker Carlson and Megyn Kelly, all of whom were publicly urging the administration to come clean. Kirk had held a Turning Point USA event the previous day that turned into an Epstein grievance fest with one speaker after another bashing Bondi over her handling of the situation."
+
+**[00:17:45](/episodes/ep-WoXd4oLwd3w.md#ent-person-megyn-kelly-t-00-17-07)**
+> "Megyn Kelly talked about Epstein. So this is perfectly tracki..."
+
+**[00:56:42](/episodes/ep-WoXd4oLwd3w.md#ent-person-megyn-kelly-t-00-56-42)**
+> "...ker Carlson), push out Megyn (Megyn Kelly)."
 
 </details>
 
@@ -1278,9 +1347,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:36](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “Frank, who was with Charlie, he died with Charlie in the hospital, and carried Charlie into the waiting SUV, he told Megyn Kelly something different about drones on that day.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:37:32](/episodes/ep-h76ZN-xXC6c.md#t-00-37-32): “Oops. How'd you do that, Frank (Frank Turek)? Because here's you telling Megyn Kelly that your phone was on FaceTime the entire time with your kids.”
 
 </details>
 
@@ -1500,9 +1570,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:31:36](/episodes/ep-SKGUzGHymcI.md#t-00-31-12): “Frank, who was with Charlie, he died with Charlie in the hospital, and carried Charlie into the waiting SUV, he told Megyn Kelly something different about drones on that day.”
+- [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:37:32](/episodes/ep-h76ZN-xXC6c.md#t-00-37-32): “Oops. How'd you do that, Frank (Frank Turek)? Because here's you telling Megyn Kelly that your phone was on FaceTime the entire time with your kids.”
 
 </details>
 
@@ -1645,7 +1716,15 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Megyn Kelly (17)</strong></summary>
+<summary><strong class="section-title">Statements about Megyn Kelly (18)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
+
+- [00:16:46](/episodes/ep-WoXd4oLwd3w.md#t-00-16-27) (Claim) **The New York Times** (via quoted article): ["The New York Times reported that Donald Trump told aides he was very u..."](/statements/statement-3bdaf2db052d.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

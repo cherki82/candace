@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump Jr."
-description: "Donald Trump Jr. (People) - 37 mentions"
+description: "Donald Trump Jr. (People) - 38 mentions"
 id: "person-donald-trump-jr"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-01-12-53">2026-05-21 · 01:12:53</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44">2026-07-14 · 00:05:02</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -48,6 +48,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10" style="--pulse-height:23%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-jr-t-00-47-13" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-00-43-14" style="--pulse-height:23%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10) | 3 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-jr-t-00-47-13) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-00-43-14) | 3 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44) | 1 |
 
 </details>
 </section>
@@ -73,7 +75,15 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[00:05:02](/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44)**
+> "Kind of feels like he's saying the most. Jack (social-media account; full identity unverified) is quoting Donald Trump Jr. as having said the evidence against Tyler Robinson is overwhelming."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (3 mentions)</summary>

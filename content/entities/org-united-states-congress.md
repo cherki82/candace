@@ -1,6 +1,6 @@
 ---
 title: "United States Congress"
-description: "United States Congress (Organizations) - 26 mentions"
+description: "United States Congress (Organizations) - 28 mentions"
 id: "org-united-states-congress"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-united-states-congress-t-00-30-27">2025-09-15 · 00:30:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-congress-t-01-11-26">2026-05-28 · 01:11:26</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-11-23">2026-06-11 · 00:11:23</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -56,6 +56,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-congress-t-00-11-51" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-congress-t-00-11-23" style="--pulse-height:67%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-congress-t-00-05-57" style="--pulse-height:67%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-00-01" style="--pulse-height:67%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-congress-t-00-11-51) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-congress-t-00-11-23) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-united-states-congress-t-00-05-57) | 2 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-00-01) | 2 |
 
 </details>
 </section>
@@ -87,7 +89,18 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
+
+**[00:00:17](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-00-01)**
+> "... its way through the halls of Congress? We just want to establish some universal guideli..."
+
+**[00:11:23](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-11-23)**
+> "...bing, Iran absent a vote from Congress, absent the American people on his side, whether ..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2 mentions)</summary>

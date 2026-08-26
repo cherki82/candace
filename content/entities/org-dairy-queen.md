@@ -1,6 +1,6 @@
 ---
 title: "Dairy Queen"
-description: "Dairy Queen (Organizations) - 26 mentions"
+description: "Dairy Queen (Organizations) - 29 mentions"
 id: "org-dairy-queen"
 type: "ORG"
 aliases:
@@ -21,11 +21,11 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26">2025-09-18 · 00:05:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-org-dairy-queen-t-01-07-20">2026-01-16 · 01:07:37</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dairy-queen-t-01-19-45">2026-07-14 · 01:20:10</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,6 +39,8 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45" style="--pulse-height:89%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 8 mentions" title="2026-01-06 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-dairy-queen-t-01-07-20" style="--pulse-height:22%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-org-dairy-queen-t-00-03-22" style="--pulse-height:22%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dairy-queen-t-01-19-45" style="--pulse-height:11%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +51,8 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45) | 8 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-dairy-queen-t-01-07-20) | 2 |
+| 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-dairy-queen-t-00-03-22) | 2 |
+| 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-dairy-queen-t-01-19-45) | 1 |
 
 </details>
 </section>
@@ -56,7 +60,26 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
+
+**[01:20:10](/episodes/ep-EtLHqDbxqks.md#ent-org-dairy-queen-t-01-19-45)**
+> "I do believe that Tyler Robinson was around campus on that day. I do believe he was at the Dairy Queen, that he was depositing clothes, which could have been his part."
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2 mentions)</summary>
+
+**[00:03:22](/episodes/ep-a2bZf4fic10.md#ent-org-dairy-queen-t-00-03-22)**
+> "...t day? Did he bury clothes at Dairy Queen?"
+
+**[00:03:27](/episodes/ep-a2bZf4fic10.md#ent-org-dairy-queen-t-00-03-22)**
+> "...k up clothes and bury them at Dairy Queen. I do not believe that he was on campus on top of..."
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (2 mentions)</summary>
@@ -167,5 +190,26 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Dairy Queen (2)</strong></summary>
+
+<details>
+<summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
+
+- [01:20:10](/episodes/ep-EtLHqDbxqks.md#t-01-19-45) (Claim) **Candace Owens**: ["Candace Owens said she believes Tyler Robinson was around the Utah Val..."](/statements/statement-d29a36876919.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1)</summary>
+
+- [00:03:27](/episodes/ep-a2bZf4fic10.md#t-00-03-22) (Accusation) **Candace Owens**: ["Owens said she believes Tyler Robinson picked up clothes and buried th..."](/statements/statement-78ebd7619a28.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "United States Pentagon"
-description: "United States Pentagon (Organizations) - 29 mentions"
+description: "United States Pentagon (Organizations) - 35 mentions"
 id: "org-united-states-pentagon"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-united-states-pentagon-t-00-04-43">2025-09-18 · 00:04:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-pentagon-t-00-15-17">2026-05-28 · 00:15:17</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-pentagon-t-01-01-34">2026-06-26 · 01:01:34</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,9 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40" style="--pulse-height:20%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-pentagon-t-00-13-49" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-pentagon-t-00-15-17" style="--pulse-height:10%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-pentagon-t-00-26-01" style="--pulse-height:40%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-pentagon-t-00-41-19" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-pentagon-t-01-01-34" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,6 +62,9 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-pentagon-t-00-34-40) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-united-states-pentagon-t-00-13-49) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-united-states-pentagon-t-00-15-17) | 1 |
+| 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-pentagon-t-00-26-01) | 4 |
+| 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-pentagon-t-00-41-19) | 1 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-pentagon-t-01-01-34) | 1 |
 
 </details>
 </section>
@@ -66,7 +72,40 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
+
+**[01:01:34](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-pentagon-t-01-01-34)**
+> "...partment of War, so to speak, Pentagon getting involved in the media operation Mockingbi..."
+
+</details>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
+
+**[00:41:19](/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-pentagon-t-00-41-19)**
+> "Moving on to Bradley Hansell. OK, so just to remind you, he is Trump (Donald Trump)'s appointed undersecretary of defense for intelligence and security, one of the Pentagon's top intelligence officials responsible for overseeing defense intelligence and security matters all across the DOD. OK."
+
+</details>
+
+<details>
+<summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (4 mentions)</summary>
+
+**[00:26:01](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-pentagon-t-00-26-01)**
+> "...omer) went down to Gitmo as a Pentagon reporter. Totally sane times. And of course. Beca..."
+
+**[00:26:43](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-pentagon-t-00-26-01)**
+> "...Larry Loomer (Laura Loomer)'s Pentagon question."
+
+**[00:27:16](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-pentagon-t-00-27-16)**
+> "...s for a living so besides the Pentagon no one plans better than United States Central Co..."
+
+**[00:43:53](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-pentagon-t-00-43-47)**
+> "...ay it was not easy but if the pentagon trusts Larry (Laura Loomer)'s receipts why should..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -293,7 +332,15 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Pentagon (5)</strong></summary>
+<summary><strong class="section-title">Statements about United States Pentagon (6)</strong></summary>
+
+<details>
+<summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>
+
+- [00:41:19](/episodes/ep-WoXd4oLwd3w.md#t-00-41-19) (Claim) **Candace Owens**: ["Candace Owens identified Bradley Hansell as the undersecretary of defe..."](/statements/statement-e32c0a910e4a.md)
+  - Also about: [Bradley D. Hansell](/entities/person-bradley-d-hansell.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2)</summary>

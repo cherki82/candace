@@ -11,7 +11,11 @@ object: "org-fbi"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [FBI](/entities/org-fbi)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
+
+- [00:51:56](/episodes/ep-IqHsl7d2dos#t-00-51-56): _Well, I think the most logical conclusion is because it was an inside job. If you started arresting people for tampering with the crime scene, you'd be arresting FBI agents._
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 

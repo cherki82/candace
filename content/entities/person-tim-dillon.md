@@ -1,6 +1,6 @@
 ---
 title: "Tim Dillon"
-description: "Tim Dillon (People) - 48 mentions"
+description: "Tim Dillon (People) - 56 mentions"
 id: "person-tim-dillon"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02">2025-11-13 · 00:46:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-tim-dillon-t-00-54-54">2026-04-02 · 00:55:05</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-04-15">2026-06-26 · 01:04:15</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,6 +47,9 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tim-dillon-t-00-40-43" style="--pulse-height:10%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tim-dillon-t-00-26-31" style="--pulse-height:10%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-tim-dillon-t-00-54-54" style="--pulse-height:10%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-tim-dillon-t-00-39-47" style="--pulse-height:20%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40" style="--pulse-height:30%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 3 mentions" title="2026-06-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-03-32" style="--pulse-height:30%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +71,9 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tim-dillon-t-00-40-43) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-tim-dillon-t-00-26-31) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-tim-dillon-t-00-54-54) | 1 |
+| 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-tim-dillon-t-00-39-47) | 2 |
+| 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40) | 3 |
+| 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-03-32) | 3 |
 
 </details>
 </section>
@@ -75,7 +81,46 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
+
+**[01:04:01](/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-03-32)**
+> "...get back, can we please get a Tim Dillon on the podcast?"
+
+**[01:04:05](/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-03-32)**
+> "...eded. Yeah, I do need to do a Tim Dillon crossover event for sure. I love Tim Dillon."
+
+**[01:04:15](/episodes/ep-IqHsl7d2dos.md#ent-person-tim-dillon-t-01-04-15)**
+> "...to go into labor, I should do Tim Dillon's show."
+
+</details>
+
+<details>
+<summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (3 mentions)</summary>
+
+**[00:47:04](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-46-40)**
+> "somebody who his entire show is him having different personalities and it works because he's a comedian is Tim Dillon"
+
+**[00:47:18](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-47-18)**
+> "... J.D. Vance and i don't think Tim Dillon does either but the idea of everything that we've..."
+
+**[00:47:39](/episodes/ep-9CuC1yf8-PU.md#ent-person-tim-dillon-t-00-47-18)**
+> "And Tim Dillon decided to do a reading of J.D. Vance's book or s..."
+
+</details>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2 mentions)</summary>
+
+**[00:40:23](/episodes/ep-tXoI0TTKVrs.md#ent-person-tim-dillon-t-00-39-47)**
+> "...'s all I have to say. Anyway, Tim Dillon has something to say about it."
+
+**[00:43:35](/episodes/ep-tXoI0TTKVrs.md#ent-person-tim-dillon-t-00-43-35)**
+> "I totally agree with Tim Dillon on that. Anyway, moving on from this, I also want..."
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
@@ -298,6 +343,18 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:04:05](/episodes/ep-IqHsl7d2dos.md#t-01-03-32): “He says what we are all thinking. Ever since you were on his podcast a while back, I feel like you guys are a duo that we never knew we needed. Yeah, I do need to do a Tim Dillon crossover event for sure. I love Tim Dillon.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
@@ -310,7 +367,14 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:04:05](/episodes/ep-IqHsl7d2dos.md#t-01-03-32): “He says what we are all thinking. Ever since you were on his podcast a while back, I feel like you guys are a duo that we never knew we needed. Yeah, I do need to do a Tim Dillon crossover event for sure. I love Tim Dillon.”
+
+</details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -324,7 +388,15 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tim Dillon (4)</strong></summary>
+<summary><strong class="section-title">Statements by Tim Dillon (5)</strong></summary>
+
+<details>
+<summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
+
+- [00:41:57](/episodes/ep-tXoI0TTKVrs.md#t-00-41-32) [○] (Opinion) ["Donald Trump is selling the government off for parts while people are broke, so ..."](/statements/statement-4b9475863617.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2)</summary>
