@@ -1,6 +1,6 @@
 ---
 title: "Candace (podcast)"
-description: "Candace (podcast) (Works & Media) - 8 mentions"
+description: "Candace (podcast) (Works & Media) - 9 mentions"
 id: "work-candace-podcast-series"
 type: "WORK"
 aliases:
@@ -22,11 +22,11 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-work-candace-podcast-series-t-00-09-02">2026-03-25 · 00:09:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#t-00-01-34">2026-06-23 · 00:01:54</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#t-00-01-10">2026-07-21 · 00:01:26</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 <a href="/episodes/ep-SKNJPul29zU.md#ent-work-candace-podcast-series-t-00-00-29" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#t-00-01-16" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#t-00-01-34" style="--pulse-height:100%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#t-00-01-10" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-work-candace-podcast-series-t-00-00-29) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#t-00-01-16) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-01-34) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#t-00-01-10) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
+
+**[00:01:26](/episodes/ep-OgRyiOAVtWU.md#t-00-01-10)**
+> "So we should discuss that. It's very important. Welcome back to Candace."
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
@@ -135,5 +145,18 @@ Source: [Candace | Apple Podcasts](https://podcasts.apple.com/us/podcast/candace
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Candace (podcast) (1)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
+
+- [00:36:07](/episodes/ep-OgRyiOAVtWU.md#t-00-35-54) (Claim) **Candace Owens**: ["Owens said her show was already in the global top ten before Charlie K..."](/statements/statement-a7b592056bd6.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 </details>

@@ -63,7 +63,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-581dILVcEE4.md#ent-person-tucker-carlson-t-00-38-23" style="--pulse-height:18%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 10 mentions" title="2025-11-18 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-tucker-carlson-t-00-03-29" style="--pulse-height:29%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 16 mentions" title="2025-11-20 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-47-39" style="--pulse-height:11%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 6 mentions" title="2025-12-01 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-48-15" style="--pulse-height:11%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 6 mentions" title="2025-12-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-tucker-carlson-t-00-16-11" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 6 mentions" title="2025-12-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tucker-carlson-t-00-37-50" style="--pulse-height:18%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 10 mentions" title="2025-12-05 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-tucker-carlson-t-00-18-56" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
@@ -163,7 +163,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-tucker-carlson-t-00-38-23) | 10 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-tucker-carlson-t-00-03-29) | 16 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-tucker-carlson-t-00-12-57) | 1 |
-| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-47-39) | 6 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-48-15) | 6 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-tucker-carlson-t-00-16-11) | 6 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-tucker-carlson-t-00-37-50) | 10 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-tucker-carlson-t-00-18-56) | 1 |
@@ -1529,13 +1529,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
 
-**[00:48:15](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-47-39)**
-> "... are her friends at this point? To me, she's very lonely. No, I think she's very close with Tucker (Tucker Carlson). I do think she has a group of friends. How many more can you name, though? Other than Tucker, gen..."
+**[00:48:15](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-48-15)**
+> "No, I think she's very close with Tucker (Tucker Carlson)."
 
-**[00:48:21](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-47-39)**
+**[00:48:21](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-48-15)**
 > "Other than Tucker, genuine question."
 
-**[00:48:42](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-48-25)**
+**[00:48:42](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-48-15)**
 > "... out there, but what famous names, advocates, are saying, I'm with Candace (Candace Owens). Tucker (Tucker Carlson), maybe? Who else? No, no. I can't name one. It's just, I want to—guys, just because we got to all ..."
 
 **[00:55:34](/episodes/ep-tB5SXXmd9vU.md#ent-person-tucker-carlson-t-00-55-11)**

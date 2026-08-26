@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 672 mentions"
+description: "Andrew Kolvet (People) - 678 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45">2026-08-14 · 02:41:45</a></strong></div>
-<div><span>Episodes</span><strong>100</strong></div>
-<div><span>Mentions</span><strong>672</strong></div>
+<div><span>Episodes</span><strong>101</strong></div>
+<div><span>Mentions</span><strong>678</strong></div>
 <div><span>Statements by</span><strong>77</strong></div>
-<div><span>Statements about</span><strong>179</strong></div>
+<div><span>Statements about</span><strong>181</strong></div>
 <div><span>Relationships</span><strong>89</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -134,6 +134,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-andrew-kolvet-t-00-45-31" style="--pulse-height:9%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-andrew-kolvet-t-00-41-01" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-kolvet-t-00-01-24" style="--pulse-height:19%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 8 mentions" title="2026-07-20 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-00-21-18" style="--pulse-height:14%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 6 mentions" title="2026-07-21 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -239,6 +240,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-andrew-kolvet-t-00-45-31) | 4 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-andrew-kolvet-t-00-41-01) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-kolvet-t-00-01-24) | 8 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-00-21-18) | 6 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09) | 4 |
 
 </details>
@@ -247,7 +249,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (672)</strong></summary>
+<summary><strong class="section-title">Raw mentions (678)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -263,6 +265,29 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 **[02:41:45](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45)**
 > "I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turnin..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (6 mentions)</summary>
+
+**[00:21:40](/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-00-21-18)**
+> "...ble on the floor to help you. Andrew Kolvet—that is management—he's back of house calling his..."
+
+**[00:24:15](/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-00-24-01)**
+> "alongside Andrew Kolvet, who's now gone mask down before I was even aware..."
+
+**[00:25:34](/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-00-25-07)**
+> "...ody at Turning Point USA, not Andrew Kolvet, not Blake Neff."
+
+**[00:33:37](/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-00-33-28)**
+> "...harlie (Charlie Kirk) told me Andrew Kolvet owns a piece of that company too."
+
+**[00:33:43](/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-00-33-28)**
+> "Andrew Kolvet's personal profit for Charlie (Charlie Kirk). And o..."
+
+**[01:01:20](/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-01-01-11)**
+> ".... I don't feel that way about Andrew Kolvet. I hate what they are doing to Charlie (Charlie K..."
 
 </details>
 
@@ -2904,7 +2929,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -2922,6 +2947,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:39:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-39-11): “Andrew Kolvet is a traitor. My dream was correct. Check. Accurate.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:45:31](/episodes/ep-puuMVxEu5NU.md#t-00-45-09): “Top comment from yesterday's episode came from chewing the void this person writes nobody dismantles Andrew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet) and Blake (Blake Neff) could not agree more”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:39:38](/episodes/ep-N4uM8Jdr410.md#t-00-39-18): “—amnesia. So do, do message us about that. Lastly, I—I can't even explain to you, if you're not following Andrew Kolvet, who he is. Like, he's in peak form right now on X. The mask has just fully slipped. I mean, we already knew who he was. We knew—I told you—he was directing all this behind the scenes: the lies, the attacks. And we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolvet was—”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:24:15](/episodes/ep-OgRyiOAVtWU.md#t-00-24-01): “alongside Andrew Kolvet, who's now gone mask down before I was even aware, right? I presumed these people were allies.”
 
 </details>
 
@@ -3151,9 +3177,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:27:46](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11): “Andrew Kolvet, Charlie (Charlie Kirk) told me specifically, owned a stake in the Charlie Kirk show.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:33:37](/episodes/ep-OgRyiOAVtWU.md#t-00-33-28): “So that's for her personal profit. Once upon a time, Charlie (Charlie Kirk) told me Andrew Kolvet owns a piece of that company too.”
 
 </details>
 
@@ -3344,7 +3371,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -3362,6 +3389,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:39:30](/episodes/ep-X3VKJVJ7cN4.md#t-00-39-11): “Andrew Kolvet is a traitor. My dream was correct. Check. Accurate.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:45:31](/episodes/ep-puuMVxEu5NU.md#t-00-45-09): “Top comment from yesterday's episode came from chewing the void this person writes nobody dismantles Andrew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet) and Blake (Blake Neff) could not agree more”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:39:38](/episodes/ep-N4uM8Jdr410.md#t-00-39-18): “—amnesia. So do, do message us about that. Lastly, I—I can't even explain to you, if you're not following Andrew Kolvet, who he is. Like, he's in peak form right now on X. The mask has just fully slipped. I mean, we already knew who he was. We knew—I told you—he was directing all this behind the scenes: the lies, the attacks. And we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolvet was—”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:24:15](/episodes/ep-OgRyiOAVtWU.md#t-00-24-01): “alongside Andrew Kolvet, who's now gone mask down before I was even aware, right? I presumed these people were allies.”
 
 </details>
 
@@ -3573,9 +3601,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)** owned by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:27:46](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11): “Andrew Kolvet, Charlie (Charlie Kirk) told me specifically, owned a stake in the Charlie Kirk show.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:33:37](/episodes/ep-OgRyiOAVtWU.md#t-00-33-28): “So that's for her personal profit. Once upon a time, Charlie (Charlie Kirk) told me Andrew Kolvet owns a piece of that company too.”
 
 </details>
 
@@ -4007,7 +4036,18 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (179)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (181)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>
+
+- [00:24:01](/episodes/ep-OgRyiOAVtWU.md#t-00-24-01) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk and Andrew Kolvet of directing attacks agains..."](/statements/statement-7dd176e8843b.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:25:34](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07) (Opinion) **Candace Owens**: ["Owens said she wanted no harm to come to Erika Kirk or anyone at Turni..."](/statements/statement-e8652cff2809.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>

@@ -162,7 +162,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 - **[ACE Partners](/entities/org-ace-partners.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “"...it's an Israeli firm based in Tel Aviv called ACE Partners."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners.”
 
 </details>
 
@@ -174,7 +174,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 - **[ACE Partners](/entities/org-ace-partners.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “"...it's an Israeli firm based in Tel Aviv called ACE Partners."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners.”
 
 </details>
 

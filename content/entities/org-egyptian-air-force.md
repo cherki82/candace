@@ -44,7 +44,7 @@ _Type: Organizations_
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
 **[00:16:49](/episodes/ep-his-JBjlkh8.md#ent-org-egyptian-air-force-t-00-16-49)**
-> "...rry on. Candace has made other stranger allegations involving French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, Utah, and potential underground assassins traveling through unseen tunn..."
+> "Candace has made other stranger allegations involving French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, Utah, and potential underground assassins traveling through unseen tunnels."
 
 **[00:21:43](/episodes/ep-his-JBjlkh8.md#ent-org-egyptian-air-force-t-00-21-20)**
 > "...bsurd that nobody would believe them. We shouldn't have to answer questions about secret tunnels or Egyptian Air Force planes. That sort of thing is just beneath contempt to respond to. The second reason we've said so ..."

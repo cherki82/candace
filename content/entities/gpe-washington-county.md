@@ -153,7 +153,7 @@ Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Today we celebrated the career of Detective Mike Mitchell. After over 24 years of serving, 24 years, Washington County”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “After over 24 years of serving Washington County, he is retiring—starting in the jail back in 1999.”
 
 </details>
 
@@ -203,7 +203,7 @@ Source: [About Us | Washington County of Utah](https://www.washco.utah.gov/about
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “Today we celebrated the career of Detective Mike Mitchell. After over 24 years of serving, 24 years, Washington County”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:11](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): “After over 24 years of serving Washington County, he is retiring—starting in the jail back in 1999.”
 
 </details>
 

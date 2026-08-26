@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1441 mentions"
+description: "Israel (Places) - 1443 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,8 +26,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>125</strong></div>
-<div><span>Mentions</span><strong>1,441</strong></div>
+<div><span>Episodes</span><strong>126</strong></div>
+<div><span>Mentions</span><strong>1,443</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>280</strong></div>
 <div><span>Relationships</span><strong>54</strong></div>
@@ -162,6 +162,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-israel-t-00-34-49" style="--pulse-height:14%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-israel-t-00-31-01" style="--pulse-height:16%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 9 mentions" title="2026-07-16 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-israel-t-00-25-30" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-israel-t-00-48-54" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -292,6 +293,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-israel-t-00-34-49) | 8 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-israel-t-00-31-01) | 9 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-israel-t-00-25-30) | 2 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-israel-t-00-48-54) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -304,7 +306,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1441)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1443)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -425,6 +427,17 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2 mentions)</summary>
+
+**[00:49:08](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-israel-t-00-48-54)**
+> "...t it's exploding microphones, Israel did it and not that Israel might not, Israel migh..."
+
+**[01:04:38](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-israel-t-01-04-38)**
+> "No money, no bots, no Israel, no other countries trying to take you down. We d..."
 
 </details>
 
@@ -3410,7 +3423,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...ti-Semitic. That's what ACE Partners does. They are the second-largest shareholder to Satis. Why is Israel interested in this hangar in Wilmington, Delaware, you guys? And in case you don't think that we've..."
 
 **[00:47:40](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-israel-t-00-47-39)**
-> "...dam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This is friendship stuff. This is friendship stuff. The most valuabl..."
+> "Forget about what she said about Israel and Jews and BLM and liberals."
 
 **[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-israel-t-00-57-16)**
 > "...y mission in life is to defend Zionism, to defend Zionists and to attack people who don't like what Israel is doing, which is virtually everybody at this point. Anyways, I think we are just so over time tha..."
@@ -4610,7 +4623,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...ng up. Marzi writes, “Hey, Candace (Candace Owens), did you see Theo Von's viral clip about letting Israel know that he is not going to end his own life?” My goodness. Why do we all have to do this? It's sa..."
 
 **[00:47:16](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-israel-t-00-47-10)**
-> "...in this clip.] I would never take my own life. I would never take my own life. Okay? You hear that, Israel? I would never take my own life. I'm grateful to God for His grace in my life. I love my siblings. ..."
+> "You hear that, Israel?"
 
 **[00:48:05](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-israel-t-00-48-01)**
 > "...t's ridiculous, but we do all have to say it. If you have influence and you're speaking out against Israel, you do have to kind of make that statement. And so I join him in chorus in saying, I love my life...."

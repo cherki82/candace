@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) met with [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (16 mentions)
+### Evidence (17 mentions)
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
@@ -40,6 +40,10 @@ object: "person-erika-kirk"
 **[You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI)**
 
 - [00:50:20](/episodes/ep-OEAHy3SsIiI#t-00-50-20): _And that to me ran counter to my meeting with Erika (Erika Kirk)._
+
+**[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
+
+- [00:11:08](/episodes/ep-OgRyiOAVtWU#t-00-11-08): _And initially when I sat down with Erika (Erika Kirk), I did not know who Danny Philip was. How could I have known?_
 
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 

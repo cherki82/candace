@@ -541,7 +541,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “It's headquarters for the Army, the Navy, and the Air Force.”
 
 </details>
 
@@ -567,7 +567,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)** headquarters of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “It's headquarters for the Army, the Navy, and the Air Force.”
 
 </details>
 

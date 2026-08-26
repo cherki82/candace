@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 131 mentions"
+description: "Lance Twiggs (People) - 130 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45">2025-09-16 · 00:00:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-lance-twiggs-t-04-02-09">2026-08-14 · 04:02:22</a></strong></div>
 <div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>131</strong></div>
+<div><span>Mentions</span><strong>130</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>45</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -38,7 +38,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45" style="--pulse-height:57%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 20 mentions" title="2025-09-16 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01" style="--pulse-height:11%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 4 mentions" title="2025-09-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-23" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-12-42" style="--pulse-height:37%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 13 mentions" title="2025-09-29 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-12-42" style="--pulse-height:34%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 12 mentions" title="2025-09-29 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56" style="--pulse-height:14%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 5 mentions" title="2025-10-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-lance-twiggs-t-00-49-29" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lance-twiggs-t-00-08-57" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
@@ -60,7 +60,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2025-09-16 | [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45) | 20 |
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01) | 4 |
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-lance-twiggs-t-00-44-23) | 1 |
-| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-12-42) | 13 |
+| 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-12-42) | 12 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-lance-twiggs-t-00-29-56) | 5 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-lance-twiggs-t-00-49-29) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lance-twiggs-t-00-08-57) | 1 |
@@ -81,7 +81,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (131)</strong></summary>
+<summary><strong class="section-title">Raw mentions (130)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (35 mentions)</summary>
@@ -428,10 +428,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (13 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (12 mentions)</summary>
 
 **[00:12:42](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-12-42)**
-> "They thought that Lance was just his roommate, and they were especially s..."
+> "They thought that Lance was just his roommate, and they were especially shocked because apparently Tyler kept mentioning to them that he wanted them to meet some girl that he was seeing."
 
 **[00:12:58](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-12-42)**
 > "was likely Lance, and Tyler was working up the courage to tell his..."
@@ -465,9 +465,6 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[00:16:25](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-16-10)**
 > "One family is going, “Hey, Lance is kind of evil."
-
-**[00:12:42](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-twiggs-t-00-12-42)**
-> "They thought that Lance was just his roommate, and they were especially shocked because apparently Tyler kept mentioning to them that he wanted them to meet some girl that he was seeing."
 
 </details>
 

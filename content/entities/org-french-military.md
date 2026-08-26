@@ -54,7 +54,7 @@ _Type: Organizations_
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:42:18](/episodes/ep-his-JBjlkh8.md#ent-org-french-military-t-00-42-06)**
-> "..."Yeah, so this is my first question, and don't laugh. Does the D.O.D. have any evidence at all of a French military plot to assassinate Candace Owens?" OK, here's my first question. "Don't laugh." It's like two girl..."
+> "have any evidence at all of a French military plot to assassinate Candace Owens?""
 
 </details>
 

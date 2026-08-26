@@ -22,10 +22,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
-**Timestamp:** [00:18:27](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1107);return false;">Play</a>
+**Timestamp:** [00:18:18](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1098);return false;">Play</a>
 
-> The larger story here being, hey, the French Legionnaires might have been on the ground during Charlie Kirk's (Charlie Kirk's) assassination
+> The larger story here being, hey, the French Legionnaires might have been on the ground during Charlie Kirk's assassination.
 
 ## Verification
 

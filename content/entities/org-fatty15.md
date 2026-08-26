@@ -1,6 +1,6 @@
 ---
 title: "fatty15"
-description: "fatty15 (Organizations) - 22 mentions"
+description: "fatty15 (Organizations) - 27 mentions"
 id: "org-fatty15"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-fatty15-t-00-41-16">2026-02-27 · 00:41:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-56">2026-06-18 · 00:42:08</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-41-28">2026-07-21 · 00:41:53</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -41,6 +41,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-41-48" style="--pulse-height:83%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 5 mentions" title="2026-04-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-00" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12" style="--pulse-height:67%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50" style="--pulse-height:83%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-fatty15-t-00-41-48) | 5 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-fatty15-t-00-34-00) | 3 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-fatty15-t-00-41-12) | 4 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50) | 5 |
 
 </details>
 </section>
@@ -58,7 +60,27 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (5 mentions)</summary>
+
+**[00:40:50](/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50)**
+> "...o want to tell you guys about Fatty 15 because are you doing all the right things for yo..."
+
+**[00:40:58](/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-40-50)**
+> "...ery excited to tell you about Fatty 15, which is a science-backed supplement built aroun..."
+
+**[00:41:28](/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-41-28)**
+> "Fatty 15 was developed to support healthy aging for all, f..."
+
+**[00:41:41](/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-41-28)**
+> "...ion starter kit by heading to fatty15.com slash Candice and using code Candice at check..."
+
+**[00:41:53](/episodes/ep-OgRyiOAVtWU.md#ent-org-fatty15-t-00-41-28)**
+> "Again, that's fatty15.com slash Candice."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (4 mentions)</summary>
@@ -160,10 +182,11 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:52:08](/episodes/ep-DdPjoy5W-wY.md#t-00-51-34): “I've been taking a science-backed supplement designed to help optimize your C15 levels. It's called Fatty 15.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:42:35](/episodes/ep-xi8SYJTUXPM.md#t-00-42-24): “by going to fatty15.com slash Candace and using code Candace at checkout. Again, that's fatty15.com slash Candace and use promo code Candace at checkout.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:58](/episodes/ep-OgRyiOAVtWU.md#t-00-40-50): “Well, I'm very excited to tell you about Fatty 15, which is a science-backed supplement built around C15, which is the first essential fatty acid discovered in more than 90 years.”
 
 </details>
 
@@ -173,9 +196,10 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <summary>Includes (1)</summary>
 
 - **[Pentadecanoic acid](/entities/concept-pentadecanoic-acid.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:34:10](/episodes/ep-FFQ9675oqRI.md#t-00-34-00): “Fatty 15, a science-backed supplement built around C15”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:58](/episodes/ep-OgRyiOAVtWU.md#t-00-40-50): “Well, I'm very excited to tell you about Fatty 15, which is a science-backed supplement built around C15, which is the first essential fatty acid discovered in more than 90 years.”
 
 </details>
 
@@ -185,17 +209,19 @@ Source: [fatty15 — Official site](https://fatty15.com/)
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:52:08](/episodes/ep-DdPjoy5W-wY.md#t-00-51-34): “I've been taking a science-backed supplement designed to help optimize your C15 levels. It's called Fatty 15.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:42:35](/episodes/ep-xi8SYJTUXPM.md#t-00-42-24): “by going to fatty15.com slash Candace and using code Candace at checkout. Again, that's fatty15.com slash Candace and use promo code Candace at checkout.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:58](/episodes/ep-OgRyiOAVtWU.md#t-00-40-50): “Well, I'm very excited to tell you about Fatty 15, which is a science-backed supplement built around C15, which is the first essential fatty acid discovered in more than 90 years.”
 
 </details>
 
 - **[Pentadecanoic acid](/entities/concept-pentadecanoic-acid.md)** part of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 @ 00:34:10](/episodes/ep-FFQ9675oqRI.md#t-00-34-00): “Fatty 15, a science-backed supplement built around C15”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:58](/episodes/ep-OgRyiOAVtWU.md#t-00-40-50): “Well, I'm very excited to tell you about Fatty 15, which is a science-backed supplement built around C15, which is the first essential fatty acid discovered in more than 90 years.”
 
 </details>
 

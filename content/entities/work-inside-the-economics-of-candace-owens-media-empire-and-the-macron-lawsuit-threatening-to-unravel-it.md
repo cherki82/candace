@@ -12,8 +12,8 @@ _Type: Works & Media_
 **Also known as:** Fortune article
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#t-00-46-24">2025-12-03 · 00:46:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#t-00-46-24">2025-12-03 · 00:46:54</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-lawsuit-threatening-to-unravel-it-t-00-46-24">2025-12-03 · 00:46:54</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-lawsuit-threatening-to-unravel-it-t-00-46-24">2025-12-03 · 00:46:54</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -24,15 +24,15 @@ _Type: Works & Media_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-his-JBjlkh8.md#t-00-46-24">BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-his-JBjlkh8.md#ent-work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-lawsuit-threatening-to-unravel-it-t-00-46-24">BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-his-JBjlkh8.md#t-00-46-24" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-lawsuit-threatening-to-unravel-it-t-00-46-24" style="--pulse-height:100%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-00-46-24) | 1 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-lawsuit-threatening-to-unravel-it-t-00-46-24) | 1 |
 
 </details>
 </section>
@@ -45,7 +45,7 @@ _Type: Works & Media_
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
-**[00:46:54](/episodes/ep-his-JBjlkh8.md#t-00-46-24)**
+**[00:46:54](/episodes/ep-his-JBjlkh8.md#ent-work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-lawsuit-threatening-to-unravel-it-t-00-46-24)**
 > ""Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it.""
 
 </details>

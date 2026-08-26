@@ -116,7 +116,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 > "...derstand what is happening to PBD's show, which I very much used to enjoy."
 
 **[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12)**
-> "... people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This ..."
+> "Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast."
 
 **[00:51:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-50-56)**
 > "and PBD's entire team under the bus in three seconds, and..."

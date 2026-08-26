@@ -11,7 +11,7 @@ object: "person-tyler-bowyer"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) employs [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (8 mentions)
+### Evidence (7 mentions)
 
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 
@@ -21,10 +21,6 @@ object: "person-tyler-bowyer"
 
 - [00:33:07](/episodes/ep-YFmRH8p5lt0#t-00-33-07): _Tyler Bowyer is the king of shady at Turning Point USA._
 - [00:33:28](/episodes/ep-YFmRH8p5lt0#t-00-33-28): _Tyler Bowyer is the king of shady at Turning Point USA. He is the one—like I said—that has—he has hired every person around Charlie (Charlie Kirk)._
-
-**[They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw)**
-
-- [00:41:28](/episodes/ep-ZGxnf5cj4Uw#t-00-41-28): _Tyler Boyer of Turning Point USA_
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 

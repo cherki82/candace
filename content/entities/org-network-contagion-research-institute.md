@@ -1,6 +1,6 @@
 ---
 title: "Network Contagion Research Institute"
-description: "Network Contagion Research Institute (Organizations) - 3 mentions"
+description: "Network Contagion Research Institute (Organizations) - 4 mentions"
 id: "org-network-contagion-research-institute"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-network-contagion-research-institute-t-00-21-55">2026-05-26 · 00:21:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-network-contagion-research-institute-t-00-32-47">2026-07-14 · 00:32:47</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-network-contagion-research-institute-t-00-46-46">2026-07-21 · 00:47:17</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -37,6 +37,7 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-network-contagion-research-institute-t-00-21-55" style="--pulse-height:50%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-network-contagion-research-institute-t-00-32-02" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-network-contagion-research-institute-t-00-46-46" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 |---|---|---:|
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-network-contagion-research-institute-t-00-21-55) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-network-contagion-research-institute-t-00-32-02) | 2 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-network-contagion-research-institute-t-00-46-46) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
+
+**[00:47:17](/episodes/ep-OgRyiOAVtWU.md#ent-org-network-contagion-research-institute-t-00-46-46)**
+> "...hat also was the point of the NCRI report. That report, is that going to be used as ..."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>

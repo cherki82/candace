@@ -15,7 +15,7 @@ object: "person-adam-sosnick"
 
 **[Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU)**
 
-- [00:47:39](/episodes/ep-tB5SXXmd9vU#t-00-47-39): _[00:47:39] SPEAKER_2: Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This is friendship stuff. This is friendship stuff. The most valuable currency you have are the relationships you have with your friends. In my opinion, she's burned every bridge she's ever been associated with._
+- [00:47:53](/episodes/ep-tB5SXXmd9vU#t-00-47-53): _In my opinion, she's burned every bridge she's ever been associated with._
 
 ### Related
 

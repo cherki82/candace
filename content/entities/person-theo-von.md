@@ -195,7 +195,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 > "...little bit undone because we're waking up. Marzi writes, “Hey, Candace (Candace Owens), did you see Theo Von's viral clip about letting Israel know that he is not going to end his own life?” My goodness. Why ..."
 
 **[00:47:09](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32)**
-> "...en it, but my producer says that he pulled the clip, so let's watch it together. [CLIP ATTRIBUTION: Theo Von speaking in this clip.] I would never take my own life. I would never take my own life. Okay? You h..."
+> "I had not seen it, but my producer says that he pulled the clip, so let's watch it together. [CLIP ATTRIBUTION: Theo Von speaking in this clip.]"
 
 **[00:49:08](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-48-43)**
 > "...ning across all of our countries simply because we were cowards. That can't be the thing. So I love Theo Von. He's great. I love that he has found so much success. He cracks me up. He really does. He's so fun..."

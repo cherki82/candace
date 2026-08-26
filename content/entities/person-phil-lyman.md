@@ -401,9 +401,8 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <summary>Ran Against (1)</summary>
 
 - **[Utah](/entities/gpe-utah.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Phil Lyman ran for Utah governor in 2024”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “he worked on Phil Lyman's gubernatorial campaign”
 
 </details>
@@ -461,9 +460,8 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 </details>
 
 - **[Utah](/entities/gpe-utah.md)** ran against this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Phil Lyman ran for Utah governor in 2024”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “he worked on Phil Lyman's gubernatorial campaign”
 
 </details>

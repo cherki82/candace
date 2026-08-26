@@ -1,6 +1,6 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Works & Media) - 44 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 50 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
@@ -23,12 +23,12 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17">2025-10-29 · 00:26:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-work-the-charlie-kirk-show-t-00-51-43">2026-07-16 · 00:52:08</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-53-26">2026-07-21 · 00:53:54</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -59,6 +59,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-work-the-charlie-kirk-show-t-00-45-23" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-work-the-charlie-kirk-show-t-00-53-02" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-work-the-charlie-kirk-show-t-00-51-43" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-02-20" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 6 mentions" title="2026-07-21 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -87,6 +88,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-work-the-charlie-kirk-show-t-00-45-23) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-work-the-charlie-kirk-show-t-00-53-02) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-work-the-charlie-kirk-show-t-00-51-43) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-02-20) | 6 |
 
 </details>
 </section>
@@ -94,7 +96,30 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (6 mentions)</summary>
+
+**[00:02:37](/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-02-20)**
+> "...rning Point USA employees and Charlie Kirk Show employees have just been stonewalling us, right?"
+
+**[00:38:58](/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-38-48)**
+> "...back into the LLC that me and the Charlie Kirk show people own."
+
+**[00:48:06](/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-47-27)**
+> "...Viva Frei (David Freiheit) on the Charlie Kirk Show. Take a listen."
+
+**[00:50:06](/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-49-45)**
+> "...on what is still being called the Charlie Kirk show."
+
+**[00:53:26](/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-53-26)**
+> "...n his own show, his namesake, the Charlie Kirk Show, which used to represent Charlie Kirk's ideas."
+
+**[00:53:54](/episodes/ep-OgRyiOAVtWU.md#ent-work-the-charlie-kirk-show-t-00-53-26)**
+> "...his name below in the banner? The Charlie Kirk show is now using the same logic that we believe that ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -349,6 +374,18 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:53:54](/episodes/ep-OgRyiOAVtWU.md#t-00-53-26): “How dare they? How dare they do it with his name below in the banner? The Charlie Kirk show is now using the same logic that we believe that what happened in Sandy, this is like akin to Sandy Hook.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (2)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
@@ -375,7 +412,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:26](/episodes/ep-his-JBjlkh8.md#t-00-09-17): “She has spread absurd claims that Tyler Boyer, who we just had on the show,”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:26](/episodes/ep-his-JBjlkh8.md#t-00-09-17): “She has spread absurd claims that Tyler Bowyer, who we just had on the show, sexually abuses male interns.”
 
 </details>
 
@@ -404,21 +441,29 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:27:46](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11): “Andrew Kolvet, Charlie (Charlie Kirk) told me specifically, owned a stake in the Charlie Kirk show.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:33:37](/episodes/ep-OgRyiOAVtWU.md#t-00-33-28): “So that's for her personal profit. Once upon a time, Charlie (Charlie Kirk) told me Andrew Kolvet owns a piece of that company too.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:53:54](/episodes/ep-OgRyiOAVtWU.md#t-00-53-26): “How dare they? How dare they do it with his name below in the banner? The Charlie Kirk show is now using the same logic that we believe that what happened in Sandy, this is like akin to Sandy Hook.”
+
+</details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:26](/episodes/ep-his-JBjlkh8.md#t-00-09-17): “She has spread absurd claims that Tyler Boyer, who we just had on the show,”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:09:26](/episodes/ep-his-JBjlkh8.md#t-00-09-17): “She has spread absurd claims that Tyler Bowyer, who we just had on the show, sexually abuses male interns.”
 
 </details>
 
@@ -437,9 +482,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** owns this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 @ 00:27:46](/episodes/ep-eMtjzXkQrsU.md#t-00-27-11): “Andrew Kolvet, Charlie (Charlie Kirk) told me specifically, owned a stake in the Charlie Kirk show.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:33:37](/episodes/ep-OgRyiOAVtWU.md#t-00-33-28): “So that's for her personal profit. Once upon a time, Charlie (Charlie Kirk) told me Andrew Kolvet owns a piece of that company too.”
 
 </details>
 
@@ -464,7 +510,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Charlie Kirk Show (13)</strong></summary>
+<summary><strong class="section-title">Statements about The Charlie Kirk Show (14)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
+
+- [00:50:31](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk called Alex Jones patient zero for the censorship regime ..."](/statements/statement-5a8fbdf830da.md)
+  - Also about: [Alex Jones](/entities/person-alex-jones.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>

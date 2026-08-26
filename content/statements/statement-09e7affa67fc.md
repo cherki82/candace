@@ -26,7 +26,7 @@ veracity: "true"
 **Timestamp:** [00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1404);return false;">Play</a>
 
-> Having them at UVU would not have been on my radar at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's (Charlie Kirk's) assassination from Provo, ... went over to Wilmington, Delaware.
+> Having them at UVU would not have been on my radar at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo, ... went over to Wilmington, Delaware.
 
 ## Verification
 

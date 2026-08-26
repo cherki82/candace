@@ -21,7 +21,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -228,19 +228,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Headquartered In (1)</summary>
-
-- **[1100 North Market Street](/entities/gpe-1100-north-market-street.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): “"DuPont, which is connected to 1100 North Market Street."”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Jerri L. Frantzve](/entities/person-jerri-l-frantzve.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -254,13 +242,6 @@ _Type: Organizations_
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38): “...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont...”
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): “...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an...”
-
-</details>
-
-- **[1100 North Market Street](/entities/gpe-1100-north-market-street.md)** headquarters of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): “"DuPont, which is connected to 1100 North Market Street."”
 
 </details>
 

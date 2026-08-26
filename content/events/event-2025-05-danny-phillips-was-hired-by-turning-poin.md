@@ -11,10 +11,20 @@ date: "2025-05"
 
 > Danny Phillips was hired by Turning Point USA.
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean Abo...
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:18:39](/episodes/ep-X3VKJVJ7cN4.md#event-event-2025-05-danny-phillips-was-hired-by-turning-poin-t-00-18-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1119);return false;">▶️ Play</a>
 
 > Danny Phillips was hired in May of 2025. According to his LinkedIn
+
+### 2. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
+
+**Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
+**Timestamp:** [00:11:13](/episodes/ep-OgRyiOAVtWU.md#event-event-2025-05-danny-phillips-was-hired-by-turning-poin-t-00-10-50) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(673);return false;">▶️ Play</a>
+
+> New as in started working full time in May after he graduated out of school.

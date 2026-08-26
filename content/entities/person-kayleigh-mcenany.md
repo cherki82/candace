@@ -52,7 +52,7 @@ _Type: People_
 <summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1 mentions)</summary>
 
 **[00:28:46](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-kayleigh-mcenany-t-00-28-37)**
-> "...t driveway minutes earlier and had just missed the shooter. Here he is in his interview speaking to Kayleigh McEnany. Take a listen. I do want to linger on a moment for what you just told us, and I'm going to ask the..."
+> "interview speaking to Kayleigh McEnany. Take a listen."
 
 </details>
 

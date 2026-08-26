@@ -23,13 +23,23 @@ veracity: "mixed"
 
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Sp...
 
 **Episode:** [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md)
 **Timestamp:** [00:01:50](/episodes/ep-puuMVxEu5NU.md#t-00-01-37) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(110);return false;">Play</a>
 
 > Well, foremost, you should know that those shirts were not actually sold by the charity. They made an insane profit by running those through the for-profit arm.
+
+### 2. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
+
+**Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
+**Timestamp:** [00:33:28](/episodes/ep-OgRyiOAVtWU.md#t-00-33-28) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2008);return false;">Play</a>
+
+> Those were not sold through the charitable arm. Okay, former employees have confirmed to me that those profits went straight to Charlie Kirk's show LLC. ... The sales have been crazy. 50,000 shirts sold and kicked back into the LLC that me and the Charlie Kirk show people own.
 
 ## Verification
 

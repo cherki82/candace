@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1538_
+_Total events: 1547_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -320,9 +320,9 @@ _Total events: 1538_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (218)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (716)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (96)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (220)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (721)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (97)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (30)</label>
   <label for="tab-year-2022" class="tab-btn">2022 (18)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (21)</label>
@@ -353,7 +353,7 @@ _Total events: 1538_
   <label for="tab-year-1996" class="tab-btn">1996 (3)</label>
   <label for="tab-year-1995" class="tab-btn">1995 (7)</label>
   <label for="tab-year-1994" class="tab-btn">1994 (4)</label>
-  <label for="tab-year-1993" class="tab-btn">1993 (2)</label>
+  <label for="tab-year-1993" class="tab-btn">1993 (3)</label>
   <label for="tab-year-1992" class="tab-btn">1992 (1)</label>
   <label for="tab-year-1991" class="tab-btn">1991 (1)</label>
   <label for="tab-year-1990" class="tab-btn">1990 (9)</label>
@@ -443,6 +443,36 @@ _Total events: 1538_
 
 - [EXCLUSIVE RECORDING! The Lone Witness To The Sh... @ 00:08:38](/episodes/ep-puuMVxEu5NU.md#t-00-08-27)
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. F... @ 00:15:37](/episodes/ep-mLvJqdxS-FY.md#t-00-15-31)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-07-21-tim-pool-posted-on-x-questioning-amplifi">
+<div class="timeline-date">2026-07-21</div>
+<div class="timeline-desc"><a href="/events/event-2026-07-21-tim-pool-posted-on-x-questioning-amplifi.md">Tim Pool posted on X questioning amplification of Charlie Kirk assassination cover-up claims.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-21: Tim Pool posted on X questioning amplification of Charlie Kirk assassination cover-up claims. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:44:21](/episodes/ep-OgRyiOAVtWU.md#t-00-43-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-07-20-the-daily-mail-published-an-article-repo">
+<div class="timeline-date">2026-07-20</div>
+<div class="timeline-desc"><a href="/events/event-2026-07-20-the-daily-mail-published-an-article-repo.md">The Daily Mail published an article reporting Erika Kirk's private criticism of Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-20: The Daily Mail published an article reporting Erika Kirk\'s private criticism of Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:00:01](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01)
 
 </details>
 </div>
@@ -571,13 +601,14 @@ _Total events: 1538_
 <div class="timeline-date">2026-07-06</div>
 <div class="timeline-desc"><a href="/events/event-2026-07-06-tyler-robinsons-preliminary-hearing-begi.md">Tyler Robinson's preliminary hearing begins in Provo, Utah</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-06: Tyler Robinson\'s preliminary hearing begins in Provo, Utah - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [I’M BACK! And The Tyler Robinson Show Trial Beg... @ 00:03:52](/episodes/ep-EtLHqDbxqks.md#t-00-03-26)
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:28:40](/episodes/ep-OgRyiOAVtWU.md#t-00-28-30)
 
 </details>
 </div>
@@ -5376,13 +5407,13 @@ _Total events: 1538_
 <div class="timeline-date">2025-12-03</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-03-turning-point-usa-issues-formal-response-via-blake.md">Turning Point USA issues formal response via Blake Neff inviting Candace Owens to live stream.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">97× in 24 eps</span>
+<span class="timeline-badge mentions">86× in 24 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-03: Turning Point USA issues formal response via Blake Neff inviting Candace Owens to live stream. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:00:20](/episodes/ep-his-JBjlkh8.md#t-00-00-00)
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:00:25](/episodes/ep-his-JBjlkh8.md#t-00-00-00)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#t-00-00-01)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:09:36](/episodes/ep-K5GjF53bfN4.md#t-00-09-14)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#t-00-00-00)
@@ -5399,8 +5430,6 @@ _Total events: 1538_
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:00:49](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-44)
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:04:07](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30)
 - [To My Friend, Charlie Kirk. @ 00:07:01](/episodes/ep-_dRaEO47-co.md#t-00-06-24)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:04:17](/episodes/ep-his-JBjlkh8.md#t-00-03-40)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:42:18](/episodes/ep-his-JBjlkh8.md#t-00-42-06)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:56:40](/episodes/ep-a-e7HC6SeK8.md#t-00-56-27)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:02:46](/episodes/ep-ZAuuSq_j2_w.md#t-00-02-41)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:15:10](/episodes/ep-UBkFkg4UNY8.md#t-00-14-37)
@@ -5429,13 +5458,10 @@ _Total events: 1538_
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:31:11](/episodes/ep-7RLtGgkTh9o.md#t-00-30-51)
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:01:57](/episodes/ep-LATnak75Si0.md#t-00-01-33)
 - [To My Friend, Charlie Kirk. @ 00:00:54](/episodes/ep-_dRaEO47-co.md#t-00-00-37)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:00:04](/episodes/ep-his-JBjlkh8.md#t-00-00-00)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:00:32](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:06:22](/episodes/ep-aDlhjfW6hz8.md#t-00-05-49)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:08](/episodes/ep-K5GjF53bfN4.md#t-00-00-01)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:39:20](/episodes/ep-sreYYcID-QY.md#t-00-38-58)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:18:47](/episodes/ep-his-JBjlkh8.md#t-00-18-04)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 01:00:22](/episodes/ep-his-JBjlkh8.md#t-00-59-56)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:19:36](/episodes/ep-a-e7HC6SeK8.md#t-00-19-05)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:40:13](/episodes/ep-a-e7HC6SeK8.md#t-00-39-37)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:19:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-19-06)
@@ -5462,17 +5488,11 @@ _Total events: 1538_
 - [Shocking Revelation About The Egyptian Planes..... @ 00:43:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-58)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:52](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27)
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:21:09](/episodes/ep-LATnak75Si0.md#t-00-20-53)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:01:00](/episodes/ep-his-JBjlkh8.md#t-00-00-44)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:51:16](/episodes/ep-his-JBjlkh8.md#t-00-50-53)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:46:46](/episodes/ep-his-JBjlkh8.md#t-00-46-24)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:46:54](/episodes/ep-his-JBjlkh8.md#t-00-46-24)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:13:20](/episodes/ep-a-e7HC6SeK8.md#t-00-12-37)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:50](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:04:44](/episodes/ep-ZAuuSq_j2_w.md#t-00-04-36)
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:35:57](/episodes/ep-LATnak75Si0.md#t-00-35-24)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:24:11](/episodes/ep-his-JBjlkh8.md#t-00-23-52)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:46:17](/episodes/ep-ZAuuSq_j2_w.md#t-00-45-43)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:23:18](/episodes/ep-MUA9ebCF4Ow.md#t-00-23-07)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:42:13](/episodes/ep-MUA9ebCF4Ow.md#t-00-42-13)
@@ -5487,19 +5507,16 @@ _Total events: 1538_
 <div class="timeline-date">2025-12-03</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-03-pentagon-press-secretary-briefed-new-corps-cam-hig.md">Pentagon press secretary briefed new corps; Cam Higby asks about French plot vs. Owens.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">7× in 2 eps</span>
+<span class="timeline-badge mentions">4× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-03: Pentagon press secretary briefed new corps; Cam Higby asks about French plot vs. Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:37:34](/episodes/ep-his-JBjlkh8.md#t-00-37-21)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:02:11](/episodes/ep-ZAuuSq_j2_w.md#t-00-01-28)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:40:39](/episodes/ep-his-JBjlkh8.md#t-00-40-02)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:40:51](/episodes/ep-his-JBjlkh8.md#t-00-40-39)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:24:01](/episodes/ep-ZAuuSq_j2_w.md#t-00-23-48)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:43:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-58)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:41:15](/episodes/ep-his-JBjlkh8.md#t-00-40-39)
 
 </details>
 </div>
@@ -6198,14 +6215,13 @@ _Total events: 1538_
 <div class="timeline-date">2025-12-02</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-02-fortune-publishes-article-on-candace-owens-media-e.md">Fortune publishes article on Candace Owens media empire and Macron lawsuit.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 1 ep</span>
+<span class="timeline-badge mentions">1× in 1 ep</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-02: Fortune publishes article on Candace Owens media empire and Macron lawsuit. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:46:46](/episodes/ep-his-JBjlkh8.md#t-00-46-24)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:46:47](/episodes/ep-his-JBjlkh8.md#t-00-46-24)
 
 </details>
 </div>
@@ -7325,7 +7341,7 @@ _Total events: 1538_
 - [To My Friend, Charlie Kirk. @ 00:07:01](/episodes/ep-_dRaEO47-co.md#t-00-06-24)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:56:40](/episodes/ep-a-e7HC6SeK8.md#t-00-56-27)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:48:25](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39)
+- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:48:25](/episodes/ep-tB5SXXmd9vU.md#t-00-48-15)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:57:53](/episodes/ep-tB5SXXmd9vU.md#t-00-57-16)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:02:46](/episodes/ep-ZAuuSq_j2_w.md#t-00-02-41)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:10:44](/episodes/ep-2Riv3I7D0Yk.md#t-00-10-26)
@@ -7355,7 +7371,7 @@ _Total events: 1538_
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:16:50](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27)
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:32:42](/episodes/ep-ja26iltROkM.md#t-00-32-41)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:48:34](/episodes/ep-tB5SXXmd9vU.md#t-00-48-25)
+- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:48:34](/episodes/ep-tB5SXXmd9vU.md#t-00-48-15)
 
 </details>
 </div>
@@ -10394,6 +10410,21 @@ _Total events: 1538_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-10-04-erika-kirk-filed-three-trademark-applica">
+<div class="timeline-date">2025-10-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-10-04-erika-kirk-filed-three-trademark-applica.md">Erika Kirk filed three trademark applications for the Charlie Kirk name.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-10-04: Erika Kirk filed three trademark applications for the Charlie Kirk name. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:33:03](/episodes/ep-OgRyiOAVtWU.md#t-00-32-48)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-10-01-fbi-director-kash-patel-announces-end-of-partnersh">
 <div class="timeline-date">2025-10-01</div>
 <div class="timeline-desc"><a href="/events/event-2025-10-01-fbi-director-kash-patel-announces-end-of-partnersh.md">FBI Director Kash Patel announces end of partnership with ADL via tweet</a></div>
@@ -12904,7 +12935,7 @@ _Total events: 1538_
 <div class="timeline-date">2025-09-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-18-erika-kirk-gave-an-in-person-interview-t.md">Erika Kirk gave an in-person interview to The New York Times.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-18: Erika Kirk gave an in-person interview to The New York Times. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -12912,6 +12943,7 @@ _Total events: 1538_
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46)
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24)
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18)
 
 </details>
 </div>
@@ -16632,7 +16664,7 @@ _Total events: 1538_
 <div class="timeline-date">2025-09-10 <span class='time'>12:24</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k.md">Blake Neff calls mother 45 seconds after Charlie Kirk shooting at UVU event.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">159× in 26 eps</span>
+<span class="timeline-badge mentions">160× in 27 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 12:24: Blake Neff calls mother 45 seconds after Charlie Kirk shooting at UVU event. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -16797,6 +16829,7 @@ _Total events: 1538_
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:31:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-30-34)
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:33:09](/episodes/ep-B9TyCs-6o_0.md#t-00-32-43)
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:15:37](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37)
 
 </details>
 </div>
@@ -17534,7 +17567,7 @@ _Total events: 1538_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">270× in 46 eps</span>
+<span class="timeline-badge mentions">271× in 47 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -17810,6 +17843,7 @@ _Total events: 1538_
 - [I’M BACK! And The Tyler Robinson Show Trial Beg... @ 00:27:32](/episodes/ep-EtLHqDbxqks.md#t-00-27-19)
 - [EXCLUSIVE RECORDING! The Lone Witness To The Sh... @ 00:15:47](/episodes/ep-puuMVxEu5NU.md#t-00-15-31)
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. F... @ 00:12:14](/episodes/ep-mLvJqdxS-FY.md#t-00-12-09)
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:58:36](/episodes/ep-OgRyiOAVtWU.md#t-00-58-10)
 
 </details>
 </div>
@@ -18599,7 +18633,7 @@ _Total events: 1538_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:49:59](/episodes/ep-his-JBjlkh8.md#t-00-49-40)
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:49:54](/episodes/ep-his-JBjlkh8.md#t-00-49-40)
 
 </details>
 </div>
@@ -19026,13 +19060,14 @@ _Total events: 1538_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-mikey-mccoy-called-el.md">Candace Owens said Mikey McCoy called Elizabeth McCoy after Charlie Kirk was shot and then conferenced in Erika Kirk.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Mikey McCoy called Elizabeth McCoy after Charlie Kirk was shot and then conferenced in Erika Kirk. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizab... @ 00:12:42](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33)
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:13:40](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18)
 
 </details>
 </div>
@@ -19361,7 +19396,7 @@ _Total events: 1538_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-gave-an-interview-at-the-re.md">Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 2 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -19369,6 +19404,7 @@ _Total events: 1538_
 
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep... @ 00:06:48](/episodes/ep-a2bZf4fic10.md#t-00-06-18)
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:11:57](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36)
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:12:07](/episodes/ep-OgRyiOAVtWU.md#t-00-12-03)
 
 </details>
 </div>
@@ -19407,13 +19443,14 @@ _Total events: 1538_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-said-he-rode-in-a-separate-su.md">Blake Neff said he rode in a separate SUV and waited until the Utah Valley University event.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Blake Neff said he rode in a separate SUV and waited until the Utah Valley University event. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:14:52](/episodes/ep-X3VKJVJ7cN4.md#t-00-14-52)
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19)
 
 </details>
 </div>
@@ -19505,6 +19542,66 @@ _Total events: 1538_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying... @ 00:37:14](/episodes/ep-N4uM8Jdr410.md#t-00-37-08)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-blake-neff-danny-phil">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-blake-neff-danny-phil.md">Candace Owens said Blake Neff, Danny Philip, Michael McCoy, and Nate Walker arrived at Timpanogos Hospital around 1 p.m.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Blake Neff, Danny Philip, Michael McCoy, and Nate Walker arrived at Timpanogos Hospital around 1 p.m. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:18:00](/episodes/ep-OgRyiOAVtWU.md#t-00-18-00)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-danny-philip-called-m">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-danny-philip-called-m.md">Candace Owens said Danny Philip called Michael McCoy for roughly ten minutes after Charlie Kirk was shot.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said Danny Philip called Michael McCoy for roughly ten minutes after Charlie Kirk was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-charlie-kirk-was-transported-to-a-hospit">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-transported-to-a-hospit.md">Charlie Kirk was transported to a hospital in an SUV after he was shot.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was transported to a hospital in an SUV after he was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:00:36](/episodes/ep-OgRyiOAVtWU.md#t-00-00-36)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-blake-neff-said-michael-mccoy-called-rob">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-blake-neff-said-michael-mccoy-called-rob.md">Blake Neff said Michael McCoy called Rob McCoy after Charlie Kirk was shot.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Blake Neff said Michael McCoy called Rob McCoy after Charlie Kirk was shot. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37)
 
 </details>
 </div>
@@ -21706,13 +21803,13 @@ _Total events: 1538_
 <div class="timeline-date">2025-09-03</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p.md">Charlie Kirk requests DOGE department at Turning Point USA.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">195× in 25 eps</span>
+<span class="timeline-badge mentions">181× in 25 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-03: Charlie Kirk requests DOGE department at Turning Point USA. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:15:43](/episodes/ep-his-JBjlkh8.md#t-00-15-03)
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:15:43](/episodes/ep-his-JBjlkh8.md#t-00-15-43)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:00](/episodes/ep-SKGUzGHymcI.md#t-00-00-00)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#t-00-00-01)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:00:06](/episodes/ep-sreYYcID-QY.md#t-00-00-00)
@@ -21736,12 +21833,9 @@ _Total events: 1538_
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:00:44](/episodes/ep-7RLtGgkTh9o.md#t-00-00-00)
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:01:02](/episodes/ep-LATnak75Si0.md#t-00-00-38)
 - [To My Friend, Charlie Kirk. @ 00:00:03](/episodes/ep-_dRaEO47-co.md#t-00-00-01)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:00:25](/episodes/ep-his-JBjlkh8.md#t-00-00-00)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32)
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:01:14](/episodes/ep-ja26iltROkM.md#t-00-00-44)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:01:40](/episodes/ep-UBkFkg4UNY8.md#t-00-01-13)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:19:23](/episodes/ep-his-JBjlkh8.md#t-00-18-52)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:39:49](/episodes/ep-his-JBjlkh8.md#t-00-39-20)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:14:00](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:19:05](/episodes/ep-a-e7HC6SeK8.md#t-00-18-23)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:19:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-19-06)
@@ -21768,13 +21862,11 @@ _Total events: 1538_
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 01:04:40](/episodes/ep-q7f8r-THr84.md#t-01-03-56)
 - [To My Friend, Charlie Kirk. @ 00:00:28](/episodes/ep-_dRaEO47-co.md#t-00-00-01)
 - [They Are Lying About Charlie Kirk. | Candace Ep... @ 00:36:02](/episodes/ep-czVBmqZP6Ss.md#t-00-35-22)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:07:38](/episodes/ep-his-JBjlkh8.md#t-00-07-24)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:00:33](/episodes/ep-SKGUzGHymcI.md#t-00-00-00)
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:05:44](/episodes/ep-JQjCAsfoXEE.md#t-00-05-00)
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:04:07](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30)
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:05:49](/episodes/ep-LATnak75Si0.md#t-00-05-38)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:15:10](/episodes/ep-UBkFkg4UNY8.md#t-00-14-37)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:49:40](/episodes/ep-his-JBjlkh8.md#t-00-49-01)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:05:02](/episodes/ep-2WEHTk0Xewg.md#t-00-04-27)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:24:50](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09)
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:13:36](/episodes/ep-ja26iltROkM.md#t-00-13-34)
@@ -21799,13 +21891,10 @@ _Total events: 1538_
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:31:11](/episodes/ep-7RLtGgkTh9o.md#t-00-30-51)
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:01:57](/episodes/ep-LATnak75Si0.md#t-00-01-33)
 - [To My Friend, Charlie Kirk. @ 00:00:54](/episodes/ep-_dRaEO47-co.md#t-00-00-37)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:00:04](/episodes/ep-his-JBjlkh8.md#t-00-00-00)
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:00:32](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:06:22](/episodes/ep-aDlhjfW6hz8.md#t-00-05-49)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:00:08](/episodes/ep-K5GjF53bfN4.md#t-00-00-01)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:39:20](/episodes/ep-sreYYcID-QY.md#t-00-38-58)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:18:47](/episodes/ep-his-JBjlkh8.md#t-00-18-04)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 01:00:22](/episodes/ep-his-JBjlkh8.md#t-00-59-56)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:19:36](/episodes/ep-a-e7HC6SeK8.md#t-00-19-05)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:40:13](/episodes/ep-a-e7HC6SeK8.md#t-00-39-37)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:38:53](/episodes/ep-ZAuuSq_j2_w.md#t-00-38-42)
@@ -21842,7 +21931,6 @@ _Total events: 1538_
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:28:28](/episodes/ep-sImMM04XdWY.md#t-00-27-47)
 - [Charlie Kirk Shooting Suspect Charged. Somethin... @ 00:02:52](/episodes/ep-q7f8r-THr84.md#t-00-02-49)
 - [Operation Mocking-Plane: The Charlie Kirk Plot ... @ 00:12:50](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:13:11](/episodes/ep-his-JBjlkh8.md#t-00-13-03)
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:35:43](/episodes/ep-7RLtGgkTh9o.md#t-00-35-35)
 - [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:28:59](/episodes/ep-ja26iltROkM.md#t-00-28-21)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44)
@@ -21858,7 +21946,6 @@ _Total events: 1538_
 - [To My Friend, Charlie Kirk. @ 00:03:31](/episodes/ep-_dRaEO47-co.md#t-00-02-47)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:01:58](/episodes/ep-K5GjF53bfN4.md#t-00-01-27)
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:21:45](/episodes/ep-vwG1juDCQZQ.md#t-00-21-29)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:06:24](/episodes/ep-his-JBjlkh8.md#t-00-06-15)
 - [Who Moved The Camera Right Above Charlie's Head... @ 00:01:09](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55)
 - [Why Isn't The Trump Family Asking Questions Abo... @ 00:14:01](/episodes/ep-Qt0VHV-POCg.md#t-00-13-18)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:20:19](/episodes/ep-K5GjF53bfN4.md#t-00-19-45)
@@ -21867,9 +21954,7 @@ _Total events: 1538_
 - [Why Isn't The Trump Family Asking Questions Abo... @ 00:03:52](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39)
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:20:55](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31)
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:21:15](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:40:51](/episodes/ep-his-JBjlkh8.md#t-00-40-39)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:43:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-58)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:41:15](/episodes/ep-his-JBjlkh8.md#t-00-40-39)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:21:13](/episodes/ep-2Riv3I7D0Yk.md#t-00-20-54)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:29:05](/episodes/ep-2Riv3I7D0Yk.md#t-00-28-30)
 - [Charlie's Final Hours. What Else Is Josh Hammer... @ 00:21:51](/episodes/ep-2Riv3I7D0Yk.md#t-00-21-29)
@@ -21880,9 +21965,7 @@ _Total events: 1538_
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:30:38](/episodes/ep-UBkFkg4UNY8.md#t-00-30-03)
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying ... @ 00:16:05](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57)
 - [Who Ordered The Hit On Charlie Kirk? | Candace ... @ 00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:02:55](/episodes/ep-his-JBjlkh8.md#t-00-02-14)
 - [Why Isn't The Trump Family Asking Questions Abo... @ 00:27:03](/episodes/ep-Qt0VHV-POCg.md#t-00-26-17)
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publi... @ 00:04:17](/episodes/ep-his-JBjlkh8.md#t-00-03-40)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:13:20](/episodes/ep-a-e7HC6SeK8.md#t-00-12-37)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:14:22](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:19:16](/episodes/ep-a-e7HC6SeK8.md#t-00-19-05)
@@ -24034,44 +24117,29 @@ _Total events: 1538_
 <div class="timeline-date">2025-08-02</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-02-french-foreign-legion-trains-with-us-marines-in-ca.md">French Foreign Legion trains with US Marines in California until Aug 25.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">34× in 9 eps</span>
+<span class="timeline-badge mentions">19× in 9 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-08-02: French Foreign Legion trains with US Marines in California until Aug 25. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#t-00-15-25)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:19:06](/episodes/ep-tB5SXXmd9vU.md#t-00-19-00)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:01:12](/episodes/ep-tB5SXXmd9vU.md#t-00-00-57)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:05:08](/episodes/ep-tB5SXXmd9vU.md#t-00-04-29)
 - [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:18:42](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:21:28](/episodes/ep-a-e7HC6SeK8.md#t-00-21-13)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:23:43](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:22:03](/episodes/ep-tB5SXXmd9vU.md#t-00-21-46)
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:00:46](/episodes/ep-K1tFD7FfoCU.md#t-00-00-00)
 - [From Britney To Charlie. With Pastors Like Thes... @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:43:00](/episodes/ep-a-e7HC6SeK8.md#t-00-42-29)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:36:51](/episodes/ep-tB5SXXmd9vU.md#t-00-36-33)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:34:25](/episodes/ep-ZAuuSq_j2_w.md#t-00-33-44)
 - [Charlie's Angels Or Demons? Disturbing Footage ... @ 00:06:04](/episodes/ep-c5BcKF91iec.md#t-00-05-52)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:00:49](/episodes/ep-a-e7HC6SeK8.md#t-00-00-46)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:09:29](/episodes/ep-tB5SXXmd9vU.md#t-00-09-23)
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAG... @ 00:03:31](/episodes/ep-LATnak75Si0.md#t-00-02-55)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:24:51](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:01:53](/episodes/ep-K5GjF53bfN4.md#t-00-01-27)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:00:52](/episodes/ep-a-e7HC6SeK8.md#t-00-00-46)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:43:06](/episodes/ep-a-e7HC6SeK8.md#t-00-42-29)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:11:47](/episodes/ep-tB5SXXmd9vU.md#t-00-11-17)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#t-00-21-46)
 - [Shocking Revelation About The Egyptian Planes..... @ 00:21:14](/episodes/ep-ZAuuSq_j2_w.md#t-00-20-32)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:54:53](/episodes/ep-tB5SXXmd9vU.md#t-00-54-28)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:16:57](/episodes/ep-tB5SXXmd9vU.md#t-00-16-49)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:43:53](/episodes/ep-a-e7HC6SeK8.md#t-00-43-12)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:13:32](/episodes/ep-tB5SXXmd9vU.md#t-00-13-15)
-- [Charlie Kirk And Brigitte's Legionnaires | Cand... @ 00:56:02](/episodes/ep-tB5SXXmd9vU.md#t-00-55-54)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-11-00)
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:17:24](/episodes/ep-SKGUzGHymcI.md#t-00-17-24)
 
@@ -26430,13 +26498,14 @@ _Total events: 1538_
 <div class="timeline-date">2025-05</div>
 <div class="timeline-desc"><a href="/events/event-2025-05-danny-phillips-graduated-from-college.md">Danny Phillips graduated from college.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-05: Danny Phillips graduated from college. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:16:44](/episodes/ep-X3VKJVJ7cN4.md#t-00-16-32)
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:11:13](/episodes/ep-OgRyiOAVtWU.md#t-00-10-50)
 
 </details>
 </div>
@@ -26445,13 +26514,14 @@ _Total events: 1538_
 <div class="timeline-date">2025-05</div>
 <div class="timeline-desc"><a href="/events/event-2025-05-danny-phillips-was-hired-by-turning-poin.md">Danny Phillips was hired by Turning Point USA.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-05: Danny Phillips was hired by Turning Point USA. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:18:39](/episodes/ep-X3VKJVJ7cN4.md#t-00-18-34)
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:11:13](/episodes/ep-OgRyiOAVtWU.md#t-00-10-50)
 
 </details>
 </div>
@@ -28787,6 +28857,21 @@ _Total events: 1538_
 </div>
 
 **June**
+
+<div class="timeline-event filter-item" id="event-2024-06-10-candace-owens-launched-her-independent-p">
+<div class="timeline-date">2024-06-10</div>
+<div class="timeline-desc"><a href="/events/event-2024-06-10-candace-owens-launched-her-independent-p.md">Candace Owens launched her independent podcast.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-06-10: Candace Owens launched her independent podcast. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:36:07](/episodes/ep-OgRyiOAVtWU.md#t-00-35-54)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2024-06-06-george-zin-endorsement-appears-on-phil-lyman-s-cam">
 <div class="timeline-date">2024-06-06</div>
@@ -37278,6 +37363,21 @@ _Total events: 1538_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. |... @ 00:06:16](/episodes/ep-cZxHqYsWRYg.md#t-00-06-16)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1993-a-viewer-comment-said-the-1993-documenta">
+<div class="timeline-date">1993</div>
+<div class="timeline-desc"><a href="/events/event-1993-a-viewer-comment-said-the-1993-documenta.md">A viewer comment said the 1993 documentary Conspiracy of Silence was pulled from the Discovery Channel schedule.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1993: A viewer comment said the 1993 documentary Conspiracy of Silence was pulled from the Discovery Channel schedule. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:57:27](/episodes/ep-OgRyiOAVtWU.md#t-00-57-27)
 
 </details>
 </div>

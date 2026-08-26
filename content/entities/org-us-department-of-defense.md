@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 64 mentions"
+description: "United States Department of Defense (Organizations) - 65 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,9 +28,9 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-us-department-of-defense-t-00-39-34">2026-07-16 · 00:39:34</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38">2026-07-21 · 01:04:38</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>39</strong></div>
 <div><span>Relationships</span><strong>19</strong></div>
@@ -69,6 +69,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-us-department-of-defense-t-00-44-01" style="--pulse-height:12%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-department-of-defense-t-00-26-23" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 8 mentions" title="2026-06-26 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-us-department-of-defense-t-00-39-34" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -102,6 +103,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-us-department-of-defense-t-00-44-01) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-us-department-of-defense-t-00-26-23) | 8 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-us-department-of-defense-t-00-39-34) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38) | 1 |
 
 </details>
 </section>
@@ -109,7 +111,15 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
+
+**[01:04:38](/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38)**
+> "...or, you know, post our stuff, Department of War making things go viral. We had nothing but drive ..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -417,7 +427,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > "...is is interesting. The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense. It's a massive complex, right? There is arguably no more relevant building to communicating to the..."
 
 **[00:43:27](/episodes/ep-his-JBjlkh8.md#ent-org-us-department-of-defense-t-00-43-27)**
-> "... you know. I think that might be more of a law enforcement matter though." No, I think actually the Department of Defense—this would be a good matter for you guys to take up—of whether or not foreign governments are plott..."
+> "No, I think actually the Department of Defense—this would be a good matter for you guys to take up—of whether or not foreign governments are plotting assassinations of American citizens. Feels like this might be the right department to me."
 
 **[00:42:09](/episodes/ep-his-JBjlkh8.md#ent-org-us-department-of-defense-t-00-42-06)**
 > "Does the D.O.D."
@@ -520,7 +530,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): “"The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:34](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense.”
 
 </details>
 
@@ -585,7 +595,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)** headquarters of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): “"The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:34](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 322 mentions"
+description: "Michael McCoy (People) - 339 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-31-22">2026-07-14 · 00:31:22</a></strong></div>
-<div><span>Episodes</span><strong>63</strong></div>
-<div><span>Mentions</span><strong>322</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-17-22">2026-07-21 · 00:17:53</a></strong></div>
+<div><span>Episodes</span><strong>64</strong></div>
+<div><span>Mentions</span><strong>339</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>68</strong></div>
+<div><span>Statements about</span><strong>70</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -100,6 +100,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-michael-mccoy-t-00-28-30" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52" style="--pulse-height:44%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 17 mentions" title="2026-06-26 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-11-36" style="--pulse-height:13%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-10-50" style="--pulse-height:44%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 17 mentions" title="2026-07-21 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -168,6 +169,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-michael-mccoy-t-00-28-30) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52) | 17 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-11-36) | 5 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-10-50) | 17 |
 
 </details>
 </section>
@@ -175,7 +177,63 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (322)</strong></summary>
+<summary><strong class="section-title">Raw mentions (339)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (17 mentions)</summary>
+
+**[00:10:50](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-10-50)**
+> "...tant, third assistant, Mikey (Michael McCoy) and Nate Walker. We're going to get to that clip..."
+
+**[00:11:19](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-11-19)**
+> "...hilip was someone that Mikey (Michael McCoy) was making calls to back in Arizona after the as..."
+
+**[00:11:36](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-11-19)**
+> "... that Danny Philip and Mikey (Michael McCoy) were both at the event together."
+
+**[00:11:55](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-11-19)**
+> "...wo SUVs were rented by Mikey (Michael McCoy) in Salt Lake City and Blake Neff and Danny (Dann..."
+
+**[00:12:07](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-12-03)**
+> "...antology event. He had Mikey (Michael McCoy) and Nate Walker with him. And then they all went..."
+
+**[00:12:46](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-12-46)**
+> "...know, standing next to Mikey (Michael McCoy) on Charlie (Charlie Kirk)'s left side. Now, afte..."
+
+**[00:13:00](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-12-46)**
+> "Mikey (Michael McCoy), as we know, immediately presses his phone to hi..."
+
+**[00:13:36](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-13-18)**
+> "...e, and within seconds, Mikey (Michael McCoy) called her."
+
+**[00:13:40](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-13-18)**
+> "...ater that actually no, Mikey (Michael McCoy) called his own wife first and Erika (Erika Kirk)..."
+
+**[00:13:52](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-13-18)**
+> "This is Mikey (Michael McCoy)'s call logs."
+
+**[00:13:55](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-13-55)**
+> "...Blake (Blake Neff) and Mikey (Michael McCoy) are back together and they're speaking and coord..."
+
+**[00:14:19](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-14-19)**
+> "I was not with Mikey (Michael McCoy), or I don't remember being with him. I think I w..."
+
+**[00:14:26](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-14-19)**
+> "...k around me, and I see Mikey (Michael McCoy). And I see Mikey (Michael McCoy) there, and I'll..."
+
+**[00:16:13](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-16-07)**
+> "And Mikey (Michael McCoy)'s discussion with Erika (Erika Kirk), we know, l..."
+
+**[00:16:38](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-16-07)**
+> "...nny (Danny Philip) and Mikey (Michael McCoy) jump on the phone for a full 10 minutes in the m..."
+
+**[00:17:10](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-16-52)**
+> "...y (Danny Philip) calls Mikey (Michael McCoy) and they stay on the phone for 10 minutes. They'..."
+
+**[00:17:53](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-17-22)**
+> "...lake (Blake Neff), and Mikey (Michael McCoy), all running in the same direction. They get int..."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5 mentions)</summary>
@@ -861,7 +919,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > "...hat has been responding in a way that feels even remotely authentic. When he defends the actions of Mikey McCoy on that day, I sense that he believes that he is telling the truth. Anyways, let's listen to what B..."
 
 **[00:04:35](/episodes/ep-his-JBjlkh8.md#ent-person-michael-mccoy-t-00-04-35)**
-> "...rk)'s closest friends and against some of his most dedicated employees. Yes. She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy ..."
+> "She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy that he died, and stayed silent because he was told he would be the next Charlie (Charlie Kirk)."
 
 **[00:04:51](/episodes/ep-his-JBjlkh8.md#ent-person-michael-mccoy-t-00-04-35)**
 > "She has called it suspicious that Mikey (Mikey McCoy)'s wife, who works at Turning Point, helped plan the campus tour event where Charlie (Charlie Kirk) was murdered, which she didn't, by the way. She doesn't work on campus events."
@@ -1493,7 +1551,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary>Child Of (1)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:35:03](/episodes/ep-581dILVcEE4.md#t-00-34-30): “He calls Rob McCoy. And he says, "Dad, someone shot Charlie (Charlie Kirk)."”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:38:52](/episodes/ep-LATnak75Si0.md#t-00-38-18): “he immediately calls his dad. He calls Rob McCoy.”
@@ -1506,6 +1564,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 - [Myron Gaines x Candace Owens @ 00:59:59](/episodes/ep-2T39-oADLj0.md#t-00-59-40): “And you're brought in by Rob, your dad,”
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 
 </details>
 
@@ -1625,25 +1684,24 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “There was a video that is currently circulating of his chief of staff, Mikey McCoy.”
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:02:26](/episodes/ep-Qfwr08Ebczo.md#t-00-02-07): “Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason,”
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie's chief of staff...”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “Mikey McCoy's promoted to the chief of staff of Turning Point USA”
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:06:51](/episodes/ep-ZAuuSq_j2_w.md#t-00-06-44): “Can you tell us, Blake Neff? Can you tell us, Mikey McCoy?”
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:40](/episodes/ep-his-JBjlkh8.md#t-00-02-58): “When he defends the actions of Mikey McCoy on that day”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:59](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “January 3, 2024—Mikey McCoy's promoted to the chief of staff of Turning Point USA. I have the internal email, so that is a fact.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:47](/episodes/ep-Qfwr08Ebczo.md#t-00-15-33): “When McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:29](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She's made them against some of Charlie (Charlie Kirk)'s closest friends and against some of his most dedicated employees. ... She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy that he died, and stayed silent because he was told he would be the next Charlie (Charlie Kirk).”
 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie Kirk's chief of staff,”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-35): “She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy that he died, and stayed silent because he was told he would be the next Charlie (Charlie Kirk).”
 
 </details>
 
@@ -1680,16 +1738,16 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:41](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “There was a video that is currently circulating of his chief of staff, Mikey McCoy.”
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:57](/episodes/ep-c5BcKF91iec.md#t-00-08-40): “Justin's the chief CFO—chief financial officer—and Mikey's the chief of staff.”
 - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:02:26](/episodes/ep-Qfwr08Ebczo.md#t-00-02-07): “Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason,”
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie's chief of staff...”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#t-00-19-41): “Mikey McCoy's promoted to the chief of staff of Turning Point USA”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:55:26](/episodes/ep-G3zdOeHpvS0.md#t-00-55-01): “the turning point team broadly didn't try to assist Charlie (Charlie Kirk) and didn't call 911 ... I'm talking about the staff, the Michael McCoy”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:29](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She's made them against some of Charlie (Charlie Kirk)'s closest friends and against some of his most dedicated employees. ... She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy that he died, and stayed silent because he was told he would be the next Charlie (Charlie Kirk).”
 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-17): “She has suggested that Michael McCoy, Charlie Kirk's chief of staff,”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:04:35](/episodes/ep-his-JBjlkh8.md#t-00-04-35): “She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy that he died, and stayed silent because he was told he would be the next Charlie (Charlie Kirk).”
 
 </details>
 
@@ -1724,12 +1782,13 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)** married to this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:46](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “potentially more amazing than her husband Michael McCoy.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:14:00](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26): “they believe Andrew (Andrew Kolvet) was accompanied by Mikey McCoy (Michael McCoy) and his wife Elizabeth.”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:12:33](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33): “Mikey McCoy, her husband”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:26:07](/episodes/ep-3QJqtW_NOSI.md#t-00-25-48): “How could we forget Mikey McCoy's wife, Elizabeth Kravchuk?”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:13:00](/episodes/ep-OgRyiOAVtWU.md#t-00-12-46): “Mikey (Michael McCoy), as we know, immediately presses his phone to his ear and walks away and calls his wife, Elizabeth (Elizabeth McCoy).”
 
 </details>
 
@@ -1741,7 +1800,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** parent of this
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:08:12](/episodes/ep-c5BcKF91iec.md#t-00-07-38): “It's a video of, of course, Pastor Rob McCoy's son.”
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:16:41](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57): “Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie”
@@ -1752,6 +1811,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 - [Myron Gaines x Candace Owens @ 00:59:59](/episodes/ep-2T39-oADLj0.md#t-00-59-40): “And you're brought in by Rob, your dad,”
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:00](/episodes/ep-wcD2khO3rOA.md#t-00-06-24): “his father, Rob McCoy”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:37:06](/episodes/ep-VMNWMXX1vO8.md#t-00-36-41): “Pastor Rob McCoy, Mikey McCoy's daddy.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:15:52](/episodes/ep-OgRyiOAVtWU.md#t-00-15-37): “He calls Rob McCoy and he says, "Dad, someone shot Charlie (Charlie Kirk). You need to call all of your pastor friends."”
 
 </details>
 
@@ -1812,7 +1872,18 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (68)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (70)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>
+
+- [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) (Claim) **Candace Owens**: ["Michael McCoy rented two SUVs in Salt Lake City; Blake Neff and Danny ..."](/statements/statement-de022607d5e7.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+- [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) (Claim) **Candace Owens**: ["Owens said Danny Philip called Michael McCoy and they remained on the ..."](/statements/statement-51759fdb5429.md)
+  - Also about: [Danny Philip](/entities/person-danny-philip.md), [Blake Neff](/entities/person-blake-neff.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (4)</summary>
@@ -2015,7 +2086,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (10)</summary>
 
-- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said Mikey McCoy called Erika Kirk immediately after the sh..."](/statements/statement-4a781858dc80.md)
+- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that, although he might have been imagining the exact ..."](/statements/statement-4a781858dc80.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:25:51](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) (Claim) **Blake Neff** (via quoted speech): ["Mikey called Erika and then immediately called his dad Rob McCoy sayin..."](/statements/statement-03a81f579a0f.md)

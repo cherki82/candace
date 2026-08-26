@@ -32,7 +32,7 @@ type: "accusation"
 **Timestamp:** [00:49:54](/episodes/ep-his-JBjlkh8.md#t-00-49-40) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2994);return false;">Play</a>
 
-> now that we know—or that we've learned—and thanks to the internet sleuths and the YouTubers that put this together—that an hour and a half before Charlie (Charlie Kirk) was assassinated in Utah, Donald Trump (Donald Trump) and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar, which has been released. You can see that he had the phone call with Donald Trump (Donald Trump) at 6—sorry, this would be 6:45, obviously, p.m. in French time. That's 10:45 a.m. in Utah time.
+> now that we know—or that we've learned—and thanks to the internet sleuths and the YouTubers that put this together—that an hour and a half before Charlie (Charlie Kirk) was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar, which has been released. You can see that he had the phone call with Donald Trump at 6—sorry, this would be 6:45, obviously, p.m. in French time. That's 10:45 a.m. in Utah time. 10:45 a.m. Utah time
 
 ## Verification
 

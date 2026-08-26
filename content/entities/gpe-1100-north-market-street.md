@@ -14,7 +14,7 @@ _Type: Places_
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,42 +54,6 @@ _Type: Places_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Headquarters Of (2)</summary>
-
-- **[Wilmington Trust](/entities/org-wilmington-trust.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:03](/episodes/ep-tB5SXXmd9vU.md#t-00-31-48): “"And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street..."”
-
-</details>
-
-- **[DuPont family](/entities/org-dupont-family.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): “"DuPont, which is connected to 1100 North Market Street."”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (2)</summary>
-
-- **[Wilmington Trust](/entities/org-wilmington-trust.md)** headquartered in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:03](/episodes/ep-tB5SXXmd9vU.md#t-00-31-48): “"And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street..."”
-
-</details>
-
-- **[DuPont family](/entities/org-dupont-family.md)** headquartered in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): “"DuPont, which is connected to 1100 North Market Street."”
-
-</details>
-
-</details>
+_No relationships extracted yet._
 
 </details>

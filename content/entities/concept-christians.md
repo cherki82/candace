@@ -548,7 +548,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:11:59](/episodes/ep-his-JBjlkh8.md#ent-concept-christians-t-00-11-59)**
-> "...vary Chapel Church during the decade of the '60s, where the CIA was really just spiking the ball on Christians in general. Let's keep going. Even if not everyone has been named specifically, though, Candace has..."
+> "the decade of the '60s, where the CIA was really just spiking the ball on Christians in general."
 
 </details>
 

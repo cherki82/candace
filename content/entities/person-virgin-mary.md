@@ -1,6 +1,6 @@
 ---
 title: "Virgin Mary"
-description: "Virgin Mary (People) - 2 mentions"
+description: "Virgin Mary (People) - 3 mentions"
 id: "person-virgin-mary"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [Holy Mass on the Feast of Our Lady of Guadalupe - The Holy See](https:/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-virgin-mary-t-00-45-55">2026-02-05 · 00:46:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#t-00-24-36">2026-03-17 · 00:25:09</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#t-00-22-40">2026-07-21 · 00:23:03</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Holy Mass on the Feast of Our Lady of Guadalupe - The Holy See](https:/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-virgin-mary-t-00-45-55" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#t-00-24-36" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#t-00-22-40" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Holy Mass on the Feast of Our Lady of Guadalupe - The Holy See](https:/
 |---|---|---:|
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-virgin-mary-t-00-45-55) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#t-00-24-36) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#t-00-22-40) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Holy Mass on the Feast of Our Lady of Guadalupe - The Holy See](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
+
+**[00:23:03](/episodes/ep-OgRyiOAVtWU.md#t-00-22-40)**
+> "I spoke very briefly about my conversion to the faith and my initial hang up about the Blessed Mary."
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (1 mentions)</summary>

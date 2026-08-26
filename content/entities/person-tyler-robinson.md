@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 682 mentions"
+description: "Tyler Robinson (People) - 696 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -24,10 +24,10 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26">2026-08-14 · 04:01:26</a></strong></div>
-<div><span>Episodes</span><strong>84</strong></div>
-<div><span>Mentions</span><strong>682</strong></div>
+<div><span>Episodes</span><strong>85</strong></div>
+<div><span>Mentions</span><strong>696</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>315</strong></div>
+<div><span>Statements about</span><strong>319</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -119,6 +119,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-08-27" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 8 mentions" title="2026-07-16 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-03-06" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-09-10" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-28-30" style="--pulse-height:14%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 14 mentions" title="2026-07-21 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 103 mentions" title="2026-08-14 · 103 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -208,6 +209,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-robinson-t-00-08-27) | 8 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-03-06) | 4 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-09-10) | 6 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-28-30) | 14 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41) | 103 |
 
 </details>
@@ -216,7 +218,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (682)</strong></summary>
+<summary><strong class="section-title">Raw mentions (696)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (103 mentions)</summary>
@@ -529,6 +531,53 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[04:01:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26)**
 > "...more people involved and that Tyler Robinson has been set up and that none of the evidence tha..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (14 mentions)</summary>
+
+**[00:28:40](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-28-30)**
+> "For Tyler Robinson and his family, I kid you not, it says, quote, wh..."
+
+**[00:29:06](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-28-30)**
+> "...mpassion even for 23-year-old Robinson and his family, according to two sources that are..."
+
+**[00:29:35](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-29-13)**
+> "...he almost felt compassion for Tyler Robinson and definitely for his family because it's just s..."
+
+**[00:29:47](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-29-13)**
+> "So compassion for Tyler Robinson again. She felt it instantly in her aftermath, yo..."
+
+**[00:30:14](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-29-56)**
+> "... any convincing evidence that Tyler Robinson committed this crime. So compassion would be the ..."
+
+**[00:30:29](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-29-56)**
+> "...deeply understand that, okay? Tyler Robinson will receive the death penalty if he is found gui..."
+
+**[00:30:49](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-30-37)**
+> "...lling for the state to murder Tyler Robinson."
+
+**[00:31:14](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-30-37)**
+> "...d when you read it. They want Tyler Robinson to be murdered."
+
+**[00:31:19](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-31-19)**
+> "Case closed. Murder Tyler Robinson. That's what they're saying. Sick. It's really si..."
+
+**[00:37:30](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-37-22)**
+> "...Erika (Erika Kirk) likes even Tyler Robinson more than she likes Candace."
+
+**[00:43:13](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-43-13)**
+> "...ird. Suddenly, as soon as the Tyler Robinson trial began, these same influencers who have been..."
+
+**[00:45:28](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-45-28)**
+> "...Again, this is all happening, Tyler Robinson trial. They're all talking about Sandy Hook."
+
+**[00:48:29](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-48-09)**
+> "I don't know if Tyler Robinson pulled the trigger. I don't know if he was on the..."
+
+**[00:49:17](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-48-54)**
+> "...one being presented, which is Tyler Robinson was on the roof, took the shot, had the rifle, ha..."
 
 </details>
 
@@ -2767,13 +2816,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <summary>Defended By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-01): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime. I'm convinced and I'm going to show you more evidence as to why I am convinced. And lastly, guys, donors have contacted me, Turning Point USA donors that were in Aspen when Charlie allegedly said, I appoint Erica Kirk.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:55:23](/episodes/ep-kaWtDuoY_ns.md#t-00-55-09): “What did Tyler Robinson do, actually, where I'm trying to find out and certainly has not yet been presented throughout these hearings.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:28](/episodes/ep-IqHsl7d2dos.md#t-01-00-17): “They are willing to put an innocent man in prison. I do not. I do not believe Tyler Robinson killed Charlie Kirk.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:03:06](/episodes/ep-a2bZf4fic10.md#t-00-02-38): “Recently, as you guys have seen, we have been... At long last, after debunking many elements of this case with various things that we have presented to the public exclusively, convinced that Tyler Robinson did not murder Charlie Kirk.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56): “I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel.”
 
 </details>
 
@@ -2850,13 +2900,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** defended this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:00:50](/episodes/ep-UYkXV9mYbT4.md#t-00-00-42): “is something that is buried in these filings that not even Tyler Robinson's defense team caught. And we did, and in my opinion, it is definitive proof that Tyler Robinson is a patsy.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:00:26](/episodes/ep-eLgD5yUVbko.md#t-00-00-01): “at his holiness pope leo the 14th and it's not going well for him it is not going well for trump at all also in case you missed it baron coleman made a shocking discovery last week in the tyler robinson filings which confirmed some of our earlier reporting we should definitely go over it because outside of naked corruption the way that i'm looking uh through these matters i just see i see no way in which the feds can win this case Ace Tyler Robinson, in my view, did not commit this crime. I'm convinced and I'm going to show you more evidence as to why I am convinced. And lastly, guys, donors have contacted me, Turning Point USA donors that were in Aspen when Charlie allegedly said, I appoint Erica Kirk.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:55:23](/episodes/ep-kaWtDuoY_ns.md#t-00-55-09): “What did Tyler Robinson do, actually, where I'm trying to find out and certainly has not yet been presented throughout these hearings.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 01:00:28](/episodes/ep-IqHsl7d2dos.md#t-01-00-17): “They are willing to put an innocent man in prison. I do not. I do not believe Tyler Robinson killed Charlie Kirk.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:03:06](/episodes/ep-a2bZf4fic10.md#t-00-02-38): “Recently, as you guys have seen, we have been... At long last, after debunking many elements of this case with various things that we have presented to the public exclusively, convinced that Tyler Robinson did not murder Charlie Kirk.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56): “I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel.”
 
 </details>
 
@@ -2952,7 +3003,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tyler Robinson (315)</strong></summary>
+<summary><strong class="section-title">Statements about Tyler Robinson (319)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (22)</summary>
@@ -3019,6 +3070,22 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple peop..."](/statements/statement-4735330c37c9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (4)</summary>
+
+- [00:29:35](/episodes/ep-OgRyiOAVtWU.md#t-00-29-13) (Opinion) **Anonymous Source #1 (Ep OgRyiOAVtWU)** (via quoted article): ["The Daily Mail's anonymous source reported that Erika Kirk said she al..."](/statements/statement-ecd5db8e896c.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56) (Opinion) **Candace Owens**: ["Owens said she had not seen convincing evidence that Tyler Robinson co..."](/statements/statement-0b6fcc2dc1ba.md)
+
+- [00:48:29](/episodes/ep-OgRyiOAVtWU.md#t-00-48-09) (Opinion) **David Freiheit** (via quoted speech): ["David Freiheit said he did not know whether Tyler Robinson fired the g..."](/statements/statement-a4c3be6b8469.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:08](/episodes/ep-OgRyiOAVtWU.md#t-00-48-54) (Opinion) **David Freiheit** (via quoted speech): ["David Freiheit said a more plausible alternative theory could be prese..."](/statements/statement-51701d5d02b1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

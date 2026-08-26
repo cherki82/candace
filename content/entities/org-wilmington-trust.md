@@ -18,7 +18,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -85,32 +85,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Headquartered In (1)</summary>
-
-- **[1100 North Market Street](/entities/gpe-1100-north-market-street.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:03](/episodes/ep-tB5SXXmd9vU.md#t-00-31-48): “"And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street..."”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[T. Coleman du Pont](/entities/person-t-coleman-du-pont.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:31:39](/episodes/ep-tB5SXXmd9vU.md#t-00-31-13): “nearly all of lower Delaware branches of WSFS were sold to Wilmington Trust which was founded by T. Coleman du Pont”
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:31:48](/episodes/ep-tB5SXXmd9vU.md#t-00-31-13): “"...which was founded by T. Coleman du Pont, the French-American then-president of DuPont..."”
-
-</details>
-
-- **[1100 North Market Street](/entities/gpe-1100-north-market-street.md)** headquarters of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:03](/episodes/ep-tB5SXXmd9vU.md#t-00-31-48): “"And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street..."”
 
 </details>
 

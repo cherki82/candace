@@ -19,7 +19,7 @@ object: "person-candace-owens"
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
-- [00:34:52](/episodes/ep-his-JBjlkh8#t-00-34-52): _"this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch."_
+- [00:34:52](/episodes/ep-his-JBjlkh8#t-00-34-52): _All right, you guys, this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch._
 
 ### Related
 

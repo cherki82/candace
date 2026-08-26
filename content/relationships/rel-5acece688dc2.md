@@ -15,7 +15,7 @@ object: "gpe-france"
 
 **[Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU)**
 
-- [00:23:42](/episodes/ep-tB5SXXmd9vU#t-00-23-42): _"Satis, which is a French company, injected $1.5 million..."_
+- [00:23:42](/episodes/ep-tB5SXXmd9vU#t-00-23-42): _Satis, which is a French company_
 
 ### Related
 

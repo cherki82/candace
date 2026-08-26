@@ -1,6 +1,6 @@
 ---
 title: "COVID-19"
-description: "COVID-19 (Concepts) - 31 mentions"
+description: "COVID-19 (Concepts) - 32 mentions"
 id: "concept-covid-19"
 type: "CONCEPT"
 aliases:
@@ -25,8 +25,8 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-41">2026-01-05 · 00:29:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-30-40">2026-08-14 · 01:30:40</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,6 +49,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-covid-19-t-00-19-59" style="--pulse-height:11%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-06-54" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 9 mentions" title="2026-05-18 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-covid-19-t-00-52-59" style="--pulse-height:11%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-concept-covid-19-t-00-44-43" style="--pulse-height:11%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-29-47" style="--pulse-height:33%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -67,6 +68,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-covid-19-t-00-19-59) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-06-54) | 9 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-covid-19-t-00-52-59) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-concept-covid-19-t-00-44-43) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-29-47) | 3 |
 
 </details>
@@ -75,7 +77,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -88,6 +90,14 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 
 **[01:30:40](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-covid-19-t-01-30-40)**
 > "...t that was my first step with covid i don't like the way it's being pushed it shouldn..."
+
+</details>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
+
+**[00:45:04](/episodes/ep-OgRyiOAVtWU.md#ent-concept-covid-19-t-00-44-43)**
+> "Contrast this with COVID. You'd get demonetized instantly if you talked ab..."
 
 </details>
 

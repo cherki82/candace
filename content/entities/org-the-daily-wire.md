@@ -29,7 +29,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <div><span>Mentions</span><strong>250</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>92</strong></div>
-<div><span>Relationships</span><strong>54</strong></div>
+<div><span>Relationships</span><strong>52</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -1235,7 +1235,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Employs (6)</summary>
+<summary>Employs (5)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1248,13 +1248,6 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#t-00-22-10): “a movie that Brett Cooper starred in at the Daily Wire”
-
-</details>
-
-- **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:49:13](/episodes/ep-tB5SXXmd9vU.md#t-00-48-53): “[00:49:13] Now, you seem to be naming employers. Regarding The Daily Wire, I am still friends with every single one of my colleagues that I was friends with when I went in there.”
 
 </details>
 
@@ -1498,7 +1491,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (27)</summary>
+<summary>Referenced By (26)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1707,13 +1700,6 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#t-00-22-10): “a movie that Brett Cooper starred in at the Daily Wire”
-
-</details>
-
-- **[Candace Owens](/entities/person-candace-owens.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:49:13](/episodes/ep-tB5SXXmd9vU.md#t-00-48-53): “[00:49:13] Now, you seem to be naming employers. Regarding The Daily Wire, I am still friends with every single one of my colleagues that I was friends with when I went in there.”
 
 </details>
 

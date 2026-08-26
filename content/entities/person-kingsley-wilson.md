@@ -45,7 +45,7 @@ _Type: People_
 > "...d to ask the perhaps billion-dollar question to the Pentagon's press secretary, a young woman named Kingsley Wilson, about the foreign angle of Charlie (Charlie Kirk)'s assassination. Now, I obviously reported that ..."
 
 **[00:41:56](/episodes/ep-his-JBjlkh8.md#ent-person-kingsley-wilson-t-00-41-55)**
-> "...s question. The way he asks it is, I think, worthy of highlighting. Take a listen. "Absolutely. I'm Kingsley Wilson. I'm the press secretary here at the Pentagon. We're in the Pentagon briefing room, and it's been f..."
+> "I'm Kingsley Wilson."
 
 </details>
 
@@ -60,7 +60,7 @@ _Type: People_
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#t-00-05-36): “"I'm Kingsley Wilson. I'm the press secretary here at the Pentagon."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:41:56](/episodes/ep-his-JBjlkh8.md#t-00-41-55): “I'm Kingsley Wilson. I'm the press secretary here at the Pentagon.”
 
 </details>
 
@@ -72,7 +72,7 @@ _Type: People_
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#t-00-05-36): “"I'm Kingsley Wilson. I'm the press secretary here at the Pentagon."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:41:56](/episodes/ep-his-JBjlkh8.md#t-00-41-55): “I'm Kingsley Wilson. I'm the press secretary here at the Pentagon.”
 
 </details>
 

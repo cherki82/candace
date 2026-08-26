@@ -36,7 +36,7 @@ veracity: "true"
 **Timestamp:** [00:49:04](/episodes/ep-tB5SXXmd9vU.md#t-00-48-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2944);return false;">Play</a>
 
-> Secondly, my friend Charlie Kirk (Charlie Kirk) just got shot in the neck, hence the reason we're doing this entire podcast investigation into what actually happened on that day
+> Secondly, my friend Charlie Kirk just got shot in the neck, hence the reason we're doing this entire podcast investigation into what actually happened on that day.
 
 ## Verification
 

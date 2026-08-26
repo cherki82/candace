@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (270 times)
+## Mentioned In (271 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -2172,3 +2172,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(734);return false;">▶️ Play</a>
 
 > at no point in the 10 months following the Charlie Kirk assassination
+
+### 271. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
+
+**Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
+**Timestamp:** [00:58:36](/episodes/ep-OgRyiOAVtWU.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-58-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3516);return false;">▶️ Play</a>
+
+> America's beating heart to have ceased on 9, 10, 2025 at 12, 23 p.m.

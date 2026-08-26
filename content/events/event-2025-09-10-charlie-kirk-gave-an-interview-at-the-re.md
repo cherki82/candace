@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk gave an interview at the Restaurantology Summit in Salt Lake City before traveling to Provo.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357
 
@@ -28,3 +28,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(717);return false;">▶️ Play</a>
 
 > He does this restaurant event. His last interview with a guy named Andrew Smith.
+
+### 3. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
+
+**Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
+**Timestamp:** [00:12:07](/episodes/ep-OgRyiOAVtWU.md#t-00-12-03) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(727);return false;">▶️ Play</a>
+
+> Charlie went to the restaurantology event.

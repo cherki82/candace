@@ -35,7 +35,7 @@ object: "person-shawn-ryan"
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
-- [00:09:02](/episodes/ep-his-JBjlkh8#t-00-09-02): _In a sit down with Sean Ryan, Brian Harpole said, 'It was because of the severity of the injury.'_
+- [00:08:56](/episodes/ep-his-JBjlkh8#t-00-08-56): _And they've admitted to that. In a sit-down with Sean Ryan, Brian Harpole said, "It was because of the severity of the injury."_
 
 **[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
 

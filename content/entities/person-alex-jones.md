@@ -1,6 +1,6 @@
 ---
 title: "Alex Jones"
-description: "Alex Jones (People) - 37 mentions"
+description: "Alex Jones (People) - 55 mentions"
 id: "person-alex-jones"
 type: "PERSON"
 categories:
@@ -18,34 +18,35 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35">2025-09-22 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37">2026-06-16 · 00:11:37</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-54-10">2026-07-21 · 00:54:23</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (12 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-43-13">Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</a> (18 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35" style="--pulse-height:17%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35" style="--pulse-height:11%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-alex-jones-t-00-30-28" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14" style="--pulse-height:17%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 3 mentions" title="2025-09-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03" style="--pulse-height:8%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26" style="--pulse-height:17%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26" style="--pulse-height:11%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 12 mentions" title="2026-01-05 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 12 mentions" title="2026-01-05 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51" style="--pulse-height:58%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51" style="--pulse-height:39%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-alex-jones-t-00-39-17" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-43-13" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 18 mentions" title="2026-07-21 · 18 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-alex-jones-t-00-39-17) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-43-13) | 18 |
 
 </details>
 </section>
@@ -73,7 +75,66 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (18 mentions)</summary>
+
+**[00:43:28](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-43-13)**
+> "...uy. He writes the main reason Alex Jones was held liable was not that he questioned an off..."
+
+**[00:44:36](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-43-58)**
+> "..., Tim (Tim Pool). He goes on, Alex Jones made claims about Sandy Hook and he was destroyed..."
+
+**[00:45:35](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-45-28)**
+> "...d specifically compared me to Alex Jones and Sandy Hook."
+
+**[00:46:25](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-46-25)**
+> "...ust don't think it ever—like, Alex Jones got sued for it. I don't think Alex Jones made th..."
+
+**[00:46:53](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-46-46)**
+> "...tually almost worse than what Alex Jones did because he didn't go on for 10 months."
+
+**[00:46:58](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-46-46)**
+> "...e (Blake Neff)? I don't think Alex Jones lost a child at Sandy Hook. He probably would hav..."
+
+**[00:47:27](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-47-27)**
+> "...sment: that is what they took Alex Jones down for. He said something which he has apologiz..."
+
+**[00:48:09](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-48-09)**
+> "...en back into the realm of the Alex Jones InfoWars, Sandy Hook level psychotic conspiracy e..."
+
+**[00:49:56](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-49-45)**
+> "...tary school children died and Alex Jones had to be sued."
+
+**[00:50:26](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-49-45)**
+> "... Kirk regarding that specific Alex Jones lawsuit."
+
+**[00:50:31](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-50-31)**
+> "Alex Jones was patient zero for the censorship regime back i..."
+
+**[00:50:47](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-50-31)**
+> "Is Alex Jones outlandish? Of course he is. He's a quasi enterta..."
+
+**[00:50:53](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-50-31)**
+> "But Alex Jones has been right about a lot of things."
+
+**[00:51:05](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-50-31)**
+> "...e I'm told that I should hate Alex Jones."
+
+**[00:51:35](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-51-16)**
+> "...s I think it's not right when Alex Jones said and what he did. He agrees with that."
+
+**[00:52:14](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-51-56)**
+> "...e commentator... Is silent on Alex Jones?"
+
+**[00:52:42](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-52-42)**
+> "...his is a lot bigger than just Alex Jones. And you might be out there and say, I hate Alex ..."
+
+**[00:54:23](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-54-10)**
+> "...illion dollar verdict against Alex Jones are now trying to seize his personal social media..."
+
+</details>
 
 <details>
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
@@ -296,12 +357,38 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (3)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:04:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-03-51): “I know why Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have all been fighting me for years... they have one thing in common, low IQs. They are stupid people.”
+
+</details>
+
+- **[Seth Dillon](/entities/person-seth-dillon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13): “It's very strange. I'll show you this. Seth Dillon, resident liar, Hamptons guy. He writes the main reason Alex Jones was held liable was not that he questioned an official narrative.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:51:35](/episodes/ep-OgRyiOAVtWU.md#t-00-51-16): “I think it's I think it's not right when Alex Jones said and what he did. He agrees with that.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended By (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:50:31](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31): “Alex Jones was patient zero for the censorship regime back in 2018. And now Alex Jones is patient zero for lawfare strategies to be able to shut people up that they don't like.”
 
 </details>
 
@@ -320,7 +407,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -336,6 +423,20 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 
 </details>
 
+- **[Seth Dillon](/entities/person-seth-dillon.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13): “It's very strange. I'll show you this. Seth Dillon, resident liar, Hamptons guy. He writes the main reason Alex Jones was held liable was not that he questioned an official narrative.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:51:35](/episodes/ep-OgRyiOAVtWU.md#t-00-51-16): “I think it's I think it's not right when Alex Jones said and what he did. He agrees with that.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -348,6 +449,13 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:40:54](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45): “She's a globalist agent.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:50:31](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31): “Alex Jones was patient zero for the censorship regime back in 2018. And now Alex Jones is patient zero for lawfare strategies to be able to shut people up that they don't like.”
 
 </details>
 
@@ -409,7 +517,30 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Alex Jones (5)</strong></summary>
+<summary><strong class="section-title">Statements about Alex Jones (11)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (6)</summary>
+
+- [00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13) (Claim) **Seth Dillon** (via quoted tweet): ["Seth Dillon wrote that Alex Jones was held liable not for questioning ..."](/statements/statement-6bba1944ff3b.md)
+  - Also about: [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
+
+- [00:44:21](/episodes/ep-OgRyiOAVtWU.md#t-00-43-58) (Opinion) **Tim Pool** (via quoted tweet): ["Tim Pool asked why YouTube and X were amplifying claims that the offic..."](/statements/statement-778c5852945f.md)
+  - Also about: [Tim Pool](/entities/person-tim-pool.md), [YouTube](/entities/org-youtube.md), [Twitter](/entities/org-twitter.md)
+
+- [00:45:48](/episodes/ep-OgRyiOAVtWU.md#t-00-45-48) (Accusation) **Blake Neff** (via quoted speech): ["Blake Neff said Candace Owens had spent ten months targeting Erika Kir..."](/statements/statement-2267fc637b52.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:50:31](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk called Alex Jones patient zero for the censorship regime ..."](/statements/statement-5a8fbdf830da.md)
+  - Also about: [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+
+- [00:50:59](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said what Alex Jones said and did was not right, but aske..."](/statements/statement-0614f81ed93e.md)
+  - Also about: [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
+
+- [00:54:23](/episodes/ep-OgRyiOAVtWU.md#t-00-54-10) (Opinion) **Charlie Kirk** (via quoted tweet): ["Charlie Kirk wrote that the billion-dollar verdict and bankruptcy acti..."](/statements/statement-0ed8dcff929a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>

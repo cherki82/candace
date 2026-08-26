@@ -663,10 +663,10 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > "...hey're not so detail-oriented. What we did was we showed at first that when I plotted these strange Egyptian jets, that they were following Charlie (Charlie Kirk). And that was a concern because I wondered if..."
 
 **[00:16:49](/episodes/ep-his-JBjlkh8.md#ent-gpe-egypt-t-00-07-24)**
-> "...rry on. Candace has made other stranger allegations involving French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, Utah, and potential underground assassins traveling through u..."
+> "Candace has made other stranger allegations involving French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, Utah, and potential underground assassins traveling through unseen tunnels."
 
 **[00:17:22](/episodes/ep-his-JBjlkh8.md#ent-gpe-egypt-t-00-17-22)**
-> "...n nothing there. Okay, so no matter how many times you keep pretending there's nothing there at the Egyptian planes—the whole internet understands that there's something there at the Egyptian planes—especiall..."
+> "Okay, so no matter how many times you keep pretending there's nothing there at the Egyptian planes—the whole internet understands that there's something there at the Egyptian planes—especially because you keep pretending like it's not weird."
 
 **[00:17:32](/episodes/ep-his-JBjlkh8.md#ent-gpe-egypt-t-00-17-22)**
 > "...t weird. Like, you're just like, "It's not weird." No, this is normal. It's totally fine that these Egyptian planes—and also, by the way, today it broke the Saudi king was on this plane at some point, 2023. W..."

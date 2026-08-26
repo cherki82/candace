@@ -61,7 +61,7 @@ _Type: Works & Media_
 > "...—is releasing an album, and he has a song on his track list in this upcoming album that's entitled "The Assassination of Candace Owens." I'm having like the best year ever or something. I don't know. Why? Why? Why, The Game? Why's it ..."
 
 **[00:51:43](/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-51-43)**
-> "...ed to The Game.] "So you got this new mixtape dropping, and then there's this like one track called The Assassination of Candace Owens? Yeah. Why that title?" Um, because... Recently, I've been seeing conspiracy theories about Candace..."
+> ""So you got this new mixtape dropping, and then there's this like one track called The Assassination of Candace Owens?"
 
 </details>
 

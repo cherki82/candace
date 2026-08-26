@@ -11,12 +11,11 @@ object: "org-ace-partners"
 
 ## [Satis](/entities/org-satis) has investor [ACE Partners](/entities/org-ace-partners)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU)**
 
-- [00:38:08](/episodes/ep-tB5SXXmd9vU#t-00-38-08): _the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis._
-- [00:38:47](/episodes/ep-tB5SXXmd9vU#t-00-38-47): _"They are the second-largest shareholder to Satis."_
+- [00:38:08](/episodes/ep-tB5SXXmd9vU#t-00-38-08): _Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. ... They are the second-largest shareholder to Satis._
 
 ### Related
 

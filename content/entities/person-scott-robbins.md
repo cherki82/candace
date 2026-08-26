@@ -14,7 +14,7 @@ _Type: People_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,28 +51,6 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Ran Against (1)</summary>
-
-- **[Utah](/entities/gpe-utah.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:35](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Scott Robbins was also a gubernatorial candidate. He ran for governor of Utah in 2024”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Utah](/entities/gpe-utah.md)** ran against this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:35](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Scott Robbins was also a gubernatorial candidate. He ran for governor of Utah in 2024”
-
-</details>
-
-</details>
+_No relationships extracted yet._
 
 </details>

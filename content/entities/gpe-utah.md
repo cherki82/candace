@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 314 mentions"
+description: "Utah (Places) - 319 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13">2026-08-14 · 03:48:13</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>314</strong></div>
+<div><span>Episodes</span><strong>71</strong></div>
+<div><span>Mentions</span><strong>319</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -103,6 +103,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-utah-t-00-40-29" style="--pulse-height:11%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-utah-t-00-06-31" style="--pulse-height:17%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-utah-t-00-22-50" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-13-18" style="--pulse-height:28%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -178,6 +179,7 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-utah-t-00-40-29) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-utah-t-00-06-31) | 3 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-utah-t-00-22-50) | 6 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-13-18) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
 
 </details>
@@ -186,7 +188,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (314)</strong></summary>
+<summary><strong class="section-title">Raw mentions (319)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -241,6 +243,26 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (5 mentions)</summary>
+
+**[00:13:18](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-13-18)**
+> "...2.23, I guess, in local time, Utah, 11.23, her time."
+
+**[00:18:35](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-18-35)**
+> "...Fox 5 Atlanta newsroom out of Utah, where we're continuing to follow developments su..."
+
+**[00:19:14](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-19-14)**
+> "... of developments there out of Utah as we continue. We're also going to speak to Sena..."
+
+**[00:20:15](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-19-54)**
+> "...gain, I'm always adjusting to Utah when I'm speaking about September 10th just to ma..."
+
+**[00:28:40](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-28-30)**
+> "...Erika Kirk) arrived in a tiny Utah courtroom earlier this month to face her husband'..."
 
 </details>
 
@@ -891,7 +913,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (5 mentions)</summary>
 
 **[00:06:37](/episodes/ep-his-JBjlkh8.md#ent-gpe-utah-t-00-49-40)**
-> "...t's our perspective. And I'm going to stand by it. Let's keep it rolling. Candace has suggested the Utah Valley University event was unusual, and its details suggested a, quote, "inside job." It was unusu..."
+> "Candace has suggested the Utah Valley University event was unusual, and its details suggested a, quote, "inside job.""
 
 **[00:16:49](/episodes/ep-his-JBjlkh8.md#ent-gpe-utah-t-00-49-40)**
 > "...ions involving French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, Utah, and potential underground assassins traveling through unseen tunnels. At one point in early Novemb..."
@@ -1366,7 +1388,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > "... that. And pretty soon, helicopters are overhead. So this is very, very local to me. Not only is it Utah, but it's my neighborhood where I spent so much of my childhood and all of my relatives. This is re..."
 
 **[00:30:21](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-utah-t-00-29-45)**
-> "...n because it's just one thing after another after another. So astonishing that this could happen in Utah. Now, just to be clear and to reiterate: 19 minutes before the shooter walks across, he had just pu..."
+> "So astonishing that this could happen in Utah."
 
 **[00:33:31](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-utah-t-00-33-16)**
 > "...mmediately suspects. I don't know because they were not afraid. Anyways, he also went on to a local Utah news station and spoke about how he was with Charlie (Charlie Kirk) just before Charlie (Charlie Ki..."
@@ -1499,20 +1521,12 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Ran Against (2)</summary>
+<summary>Ran Against (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Phil Lyman ran for Utah governor in 2024”
-- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “he worked on Phil Lyman's gubernatorial campaign”
-
-</details>
-
-- **[Scott Robbins](/entities/person-scott-robbins.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:35](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Scott Robbins was also a gubernatorial candidate. He ran for governor of Utah in 2024”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “he worked on Phil Lyman's gubernatorial campaign”
 
 </details>
 
@@ -1553,7 +1567,7 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)** governor of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1593,17 +1607,9 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)** ran against this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:10](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Phil Lyman ran for Utah governor in 2024”
-- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “he worked on Phil Lyman's gubernatorial campaign”
-
-</details>
-
-- **[Scott Robbins](/entities/person-scott-robbins.md)** ran against this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:35](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Scott Robbins was also a gubernatorial candidate. He ran for governor of Utah in 2024”
+- [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:45](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): “he worked on Phil Lyman's gubernatorial campaign”
 
 </details>
 

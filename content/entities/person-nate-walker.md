@@ -1,6 +1,6 @@
 ---
 title: "Nate Walker"
-description: "Nate Walker (People) - 2 mentions"
+description: "Nate Walker (People) - 4 mentions"
 id: "person-nate-walker"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25">2026-07-16 · 00:03:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-04-57">2026-07-16 · 00:05:08</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-12-03">2026-07-21 · 00:12:07</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -32,12 +32,14 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 <p>Highest activity: <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25">EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25" style="--pulse-height:100%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-nate-walker-t-00-03-25) | 2 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50) | 2 |
 
 </details>
 </section>
@@ -45,7 +47,18 @@ Source: [The Charlie Kirk Show, September 18, 2025](https://www.listennotes.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2 mentions)</summary>
+
+**[00:10:50](/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-10-50)**
+> "...nt, Mikey (Michael McCoy) and Nate Walker. We're going to get to that clip in a moment, but..."
+
+**[00:12:07](/episodes/ep-OgRyiOAVtWU.md#ent-person-nate-walker-t-00-12-03)**
+> "...had Mikey (Michael McCoy) and Nate Walker with him. And then they all went to Provo for thi..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>

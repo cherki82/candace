@@ -11,7 +11,11 @@ object: "work-restaurantology"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) attended [Restaurantology](/entities/work-restaurantology)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
+
+- [00:12:07](/episodes/ep-OgRyiOAVtWU#t-00-12-07): _Charlie (Charlie Kirk) went to the restaurantology event. He had Mikey (Michael McCoy) and Nate Walker with him. And then they all went to Provo for this event._
 
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 

@@ -93,10 +93,9 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Olivia Bishop](/entities/person-olivia-bishop.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#t-00-18-54): “she works for the Orem Police Department.”
-- [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:05:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-04-56): “Olivia Bishop works for the Orem Police, records specialist”
 
 </details>
 

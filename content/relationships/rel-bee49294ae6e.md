@@ -11,7 +11,7 @@ object: "gpe-wilmington"
 
 ## [Delaware](/entities/gpe-delaware) location of [Wilmington](/entities/gpe-wilmington)
 
-### Evidence (3 mentions)
+### Evidence (2 mentions)
 
 **[BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8)**
 
@@ -19,8 +19,7 @@ object: "gpe-wilmington"
 
 **[Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU)**
 
-- [00:23:24](/episodes/ep-tB5SXXmd9vU#t-00-23-24): _...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..._
-- [00:23:42](/episodes/ep-tB5SXXmd9vU#t-00-23-42): _...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..._
+- [00:23:42](/episodes/ep-tB5SXXmd9vU#t-00-23-42): _went over to Wilmington, Delaware._
 
 ### Related
 

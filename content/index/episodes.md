@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 141_
+_Total episodes: 142_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -29,6 +29,7 @@ _Total episodes: 141_
 
 ## Week of Jul 20 - 26, 2026
 
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md) — Tue, Jul 21
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md) — Mon, Jul 20
 
 ## Week of Jul 13 - 19, 2026

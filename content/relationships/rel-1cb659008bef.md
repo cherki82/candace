@@ -15,7 +15,7 @@ object: "person-kash-patel"
 
 **[INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs)**
 
-- [00:00:48](/episodes/ep-t1YtLS1n8Vs#t-00-00-48): _Kash Patel wants to distance the feds from the ADL_
+- [00:14:21](/episodes/ep-t1YtLS1n8Vs#t-00-14-21): _I'd like to know why suddenly now Kash Patel is making a strong statement against the ADL._
 
 ### Related
 

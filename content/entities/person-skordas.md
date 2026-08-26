@@ -52,7 +52,7 @@ _Type: People_
 > "... a very rude response that only Skordas is allowed to find a representation for Tyler Robinson. So, Skordas is a guy who's running as a state prosecutor. So, here's the problem with that. State prosecutor ca..."
 
 **[00:32:29](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-32-28)**
-> "...ernment has presented such a crap case unless his attorney is a shill. Yes. So, what I know is that Skordas is running as a state prosecutor. He's running. Everyone can look it up. It's on his website. So, i..."
+> "So, what I know is that Skordas is running as a state prosecutor."
 
 </details>
 

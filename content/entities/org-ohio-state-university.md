@@ -1,6 +1,6 @@
 ---
 title: "The Ohio State University"
-description: "The Ohio State University (Organizations) - 2 mentions"
+description: "The Ohio State University (Organizations) - 3 mentions"
 id: "org-ohio-state-university"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [The Ohio State University](https://www.osu.edu/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-ohio-state-university-t-00-18-34">2026-07-14 · 00:18:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-ohio-state-university-t-00-18-34">2026-07-14 · 00:18:45</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-ohio-state-university-t-00-11-19">2026-07-21 · 00:11:19</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,12 +38,14 @@ Source: [The Ohio State University](https://www.osu.edu/)
 <p>Highest activity: <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-ohio-state-university-t-00-18-34">Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-ohio-state-university-t-00-18-34" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-ohio-state-university-t-00-11-19" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-ohio-state-university-t-00-18-34) | 2 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-ohio-state-university-t-00-11-19) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [The Ohio State University](https://www.osu.edu/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
+
+**[00:11:19](/episodes/ep-OgRyiOAVtWU.md#ent-org-ohio-state-university-t-00-11-19)**
+> "...o when he was working for the Ohio State chapter, with the Ohio State chapter, but I didn'..."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>

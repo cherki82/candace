@@ -42,7 +42,7 @@ _Type: Places_
 <summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2 mentions)</summary>
 
 **[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-blanding-t-00-34-49)**
-> "... 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding. I'm getting a very late start. It's about 11:30 at night, and I wanted to swing back by UVU campus..."
+> "Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding."
 
 **[00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-blanding-t-00-34-49)**
 > "Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding."

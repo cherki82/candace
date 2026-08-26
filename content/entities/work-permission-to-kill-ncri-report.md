@@ -1,6 +1,6 @@
 ---
 title: "Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk"
-description: "Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk (Works & Media) - 1 mention"
+description: "Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk (Works & Media) - 2 mentions"
 id: "work-permission-to-kill-ncri-report"
 type: "WORK"
 aliases:
@@ -25,7 +25,7 @@ Source: [Permission to Kill - Network Contagion Research Institute](https://netw
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-work-permission-to-kill-ncri-report-t-00-33-25">2026-07-14 · 00:33:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-work-permission-to-kill-ncri-report-t-00-33-25">2026-07-14 · 00:33:25</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -50,7 +50,7 @@ Source: [Permission to Kill - Network Contagion Research Institute](https://netw
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>

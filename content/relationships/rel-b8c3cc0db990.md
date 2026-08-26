@@ -11,11 +11,15 @@ object: "org-fatty15"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [fatty15](/entities/org-fatty15)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
 - [00:52:08](/episodes/ep-DdPjoy5W-wY#t-00-52-08): _I've been taking a science-backed supplement designed to help optimize your C15 levels. It's called Fatty 15._
+
+**[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
+
+- [00:40:58](/episodes/ep-OgRyiOAVtWU#t-00-40-58): _Well, I'm very excited to tell you about Fatty 15, which is a science-backed supplement built around C15, which is the first essential fatty acid discovered in more than 90 years._
 
 **[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
 

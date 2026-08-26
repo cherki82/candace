@@ -14,7 +14,7 @@ _Type: Places_
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -73,28 +73,6 @@ _Type: Places_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-<details>
-<summary>Headquarters Of (1)</summary>
-
-- **[Bracebridge Complex](/entities/org-bracebridge-complex.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): “"What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex."”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (1)</summary>
-
-- **[Bracebridge Complex](/entities/org-bracebridge-complex.md)** headquartered in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): “"What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex."”
-
-</details>
-
-</details>
+_No relationships extracted yet._
 
 </details>

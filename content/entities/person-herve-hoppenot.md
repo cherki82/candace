@@ -55,10 +55,9 @@ _Type: People_
 <summary>Ceo Of (1)</summary>
 
 - **[Incyte](/entities/org-incyte.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:39](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10): “the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot.”
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:45](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10): “"...the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot."”
 
 </details>
 
@@ -70,7 +69,7 @@ _Type: People_
 - **[Incyte](/entities/org-incyte.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10): “"He seems to have just exited as the CEO, but he is still running the company under the role of advisor to the CEO."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53): “He seems to have just exited as the CEO, but he is still running the company under the role of advisor to the CEO.”
 
 </details>
 
@@ -82,15 +81,14 @@ _Type: People_
 - **[Incyte](/entities/org-incyte.md)** advised by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10): “"He seems to have just exited as the CEO, but he is still running the company under the role of advisor to the CEO."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53): “He seems to have just exited as the CEO, but he is still running the company under the role of advisor to the CEO.”
 
 </details>
 
 - **[Incyte](/entities/org-incyte.md)** has CEO this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:39](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10): “the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot.”
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:45](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10): “"...the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot."”
 
 </details>
 

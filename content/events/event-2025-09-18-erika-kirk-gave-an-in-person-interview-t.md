@@ -11,7 +11,7 @@ date: "2025-09-18"
 
 > Erika Kirk gave an in-person interview to The New York Times.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -28,3 +28,11 @@ date: "2025-09-18"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(995);return false;">▶️ Play</a>
 
 > interview with the New York Times days after Charlie was publicly assassinated
+
+### 3. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
+
+**Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
+**Timestamp:** [00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(798);return false;">▶️ Play</a>
+
+> Erika, even in the New York Times interview that she gave eight days later

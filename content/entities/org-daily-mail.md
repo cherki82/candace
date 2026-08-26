@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 47 mentions"
+description: "Daily Mail (Organizations) - 53 mentions"
 id: "org-daily-mail"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40">2025-09-18 · 00:44:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35">2026-06-22 · 00:20:00</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-29-13">2026-07-21 · 00:29:19</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,6 +53,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21" style="--pulse-height:50%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-daily-mail-t-00-38-13" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35" style="--pulse-height:12%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-00-01" style="--pulse-height:75%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 6 mentions" title="2026-07-21 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,6 +81,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21) | 4 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-daily-mail-t-00-38-13) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-00-01) | 6 |
 
 </details>
 </section>
@@ -87,7 +89,30 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (6 mentions)</summary>
+
+**[00:00:01](/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-00-01)**
+> "...esterday, I was informed by a daily mail reporter who was seeking comment that Erika Kirk ..."
+
+**[00:26:02](/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-25-51)**
+> "...icle which was dropped in the Daily Mail."
+
+**[00:27:02](/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-26-31)**
+> "...is just a gossip piece in the Daily Mail?"
+
+**[00:27:07](/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-26-31)**
+> "...rning Point USA turned to the Daily Mail exclusively to clean up their Charlie (Charlie Ki..."
+
+**[00:27:33](/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-27-14)**
+> "...emember that they went to the Daily Mail. So that demonstrates a real PR relationship betw..."
+
+**[00:29:19](/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-29-13)**
+> "...y friend exclusively told the Daily Mail. She thought that she was really going to be angr..."
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
@@ -458,7 +483,18 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Daily Mail (10)</strong></summary>
+<summary><strong class="section-title">Statements about Daily Mail (12)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>
+
+- [00:27:07](/episodes/ep-OgRyiOAVtWU.md#t-00-26-31) (Claim) **Candace Owens**: ["Turning Point USA gave the Daily Mail special access to an unedited Ch..."](/statements/statement-23562ee3ac1b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:27:40](/episodes/ep-OgRyiOAVtWU.md#t-00-27-14) (Citation) **Candace Owens**: ["Owens said the Daily Mail article's author sought comment from Turning..."](/statements/statement-ee7cde8d8a82.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1)</summary>

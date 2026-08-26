@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 54 mentions"
+description: "Twitter (Organizations) - 55 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
@@ -25,11 +25,11 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01">2025-09-15 · 00:12:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#t-00-13-12">2026-05-26 · 00:13:29</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-twitter-t-00-45-28">2026-07-21 · 00:45:35</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -71,6 +71,7 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-twitter-t-00-23-44" style="--pulse-height:50%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-twitter-t-00-38-22" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#t-00-13-12" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-twitter-t-00-45-28" style="--pulse-height:25%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -109,6 +110,7 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-twitter-t-00-23-44) | 2 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-twitter-t-00-38-22) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#t-00-13-12) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-twitter-t-00-45-28) | 1 |
 
 </details>
 </section>
@@ -116,7 +118,15 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
+
+**[00:45:35](/episodes/ep-OgRyiOAVtWU.md#ent-org-twitter-t-00-45-28)**
+> "Blake Neff was on a Twitter space and he similarly and specifically compared ..."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1 mentions)</summary>
@@ -290,7 +300,7 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 **[00:08:00](/episodes/ep-tB5SXXmd9vU.md#ent-org-twitter-t-00-08-00)**
 > "...t, did they? If you're paying attention, they did not do it. Of course, they send out the people on Twitter who get to come out and say, oh, I think she's crazy. I think she's making it up. They do this. We ..."
 
-**[00:48:34](/episodes/ep-tB5SXXmd9vU.md#ent-org-twitter-t-00-48-25)**
+**[00:48:34](/episodes/ep-tB5SXXmd9vU.md#ent-org-twitter-t-00-48-15)**
 > "... got more than you would believe. Name a name. No, she's got a lot of them. I'm sure that there's a Twitter army out there, but what famous names, advocates, are saying, I'm with Candace (Candace Owens). Tuc..."
 
 </details>
@@ -474,7 +484,15 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Twitter (11)</strong></summary>
+<summary><strong class="section-title">Statements about Twitter (12)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
+
+- [00:44:21](/episodes/ep-OgRyiOAVtWU.md#t-00-43-58) (Opinion) **Tim Pool** (via quoted tweet): ["Tim Pool asked why YouTube and X were amplifying claims that the offic..."](/statements/statement-778c5852945f.md)
+  - Also about: [Tim Pool](/entities/person-tim-pool.md), [YouTube](/entities/org-youtube.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>

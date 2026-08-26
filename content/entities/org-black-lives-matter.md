@@ -196,7 +196,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:47:40](/episodes/ep-tB5SXXmd9vU.md#ent-org-black-lives-matter-t-00-47-39)**
-> "...ay on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This is friendship stuff. This is friendship stuff. The most valuable currency you ha..."
+> "Forget about what she said about Israel and Jews and BLM and liberals."
 
 </details>
 

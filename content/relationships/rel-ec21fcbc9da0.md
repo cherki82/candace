@@ -11,11 +11,15 @@ object: "person-tyler-robinson"
 
 ## [Candace Owens](/entities/person-candace-owens) defended [Tyler Robinson](/entities/person-tyler-robinson)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
 
 - [01:00:28](/episodes/ep-IqHsl7d2dos#t-01-00-28): _They are willing to put an innocent man in prison. I do not. I do not believe Tyler Robinson killed Charlie Kirk._
+
+**[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
+
+- [00:30:14](/episodes/ep-OgRyiOAVtWU#t-00-30-14): _I haven't seen any convincing evidence that Tyler Robinson committed this crime. So compassion would be the right thing to feel._
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 

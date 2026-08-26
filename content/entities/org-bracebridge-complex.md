@@ -14,7 +14,7 @@ _Type: Organizations_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -52,30 +52,6 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Acquired By (1)</summary>
-
-- **[Bank of America](/entities/org-bank-of-america.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:53](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): “"...from 1995 until 2006, when Bank of America acquired it."”
-
-</details>
-
-</details>
-
-<details>
-<summary>Headquartered In (1)</summary>
-
-- **[1100 North King Street](/entities/gpe-1100-north-king-street.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): “"What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex."”
-
-</details>
-
-</details>
-
-<details>
 <summary>Owned By (1)</summary>
 
 - **[Incyte](/entities/org-incyte.md)**
@@ -88,21 +64,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
-
-- **[Bank of America](/entities/org-bank-of-america.md)** acquired this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:53](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): “"...from 1995 until 2006, when Bank of America acquired it."”
-
-</details>
-
-- **[1100 North King Street](/entities/gpe-1100-north-king-street.md)** headquarters of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): “"What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex."”
-
-</details>
+<summary>Referenced By (1)</summary>
 
 - **[Incyte](/entities/org-incyte.md)** owns this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

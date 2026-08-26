@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (28 mentions)
+### Evidence (29 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -65,6 +65,10 @@ object: "person-candace-owens"
 
 - [00:04:11](/episodes/ep-KpxIBWkNsSs#t-00-04-11): _Me, regarding that, I'm just forever amazed at what Turning Point USA and their execs choose to respond to and the more important things that they remain._
 
+**[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
+
+- [00:54:49](/episodes/ep-OgRyiOAVtWU#t-00-54-49): _We are united against the state of whatever the hell Turning Point USA has become, because we know it's not you._
+
 **[SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U)**
 
 - [00:34:32](/episodes/ep-Pb7UlpRdW6U#t-00-34-32): _The free markets have already made it very clear to you, Turning Point USA. Your Charlie Kirk show that they don't like you and what you are doing right there is exactly why Charlie Kirk's audience never had to hear that kind of filth, never had to hear something that was counter to the free market, never had to hear somebody say, you know, I was going to call._
@@ -91,7 +95,7 @@ object: "person-candace-owens"
 
 **[They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw)**
 
-- [00:22:14](/episodes/ep-ZGxnf5cj4Uw#t-00-22-14): _Even Turning Point USA, they're just like, we've accepted, obviously there are holes in this narrative_
+- [00:22:14](/episodes/ep-ZGxnf5cj4Uw#t-00-22-14): _Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show._
 
 **[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
 

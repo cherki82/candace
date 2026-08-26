@@ -19,7 +19,7 @@ object: "person-josh-hammer"
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
-- [00:03:58](/episodes/ep-his-JBjlkh8#t-00-03-58): _"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"_
+- [00:40:02](/episodes/ep-his-JBjlkh8#t-00-40-02): _Literally a couple of weeks before he died, she called Charlie (Charlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of his events._
 
 ### Related
 

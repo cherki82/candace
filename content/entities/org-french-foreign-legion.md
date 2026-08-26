@@ -297,7 +297,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 - **[2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45): “"a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreign Legion..."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45): “Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreign Legion, did indeed take place in California from August 2nd to the 25th, as reported by Candace Owens.”
 
 </details>
 
@@ -349,7 +349,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 - **[2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment.md)** member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45): “"a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreign Legion..."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#t-00-19-45): “Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreign Legion, did indeed take place in California from August 2nd to the 25th, as reported by Candace Owens.”
 
 </details>
 

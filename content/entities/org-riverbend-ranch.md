@@ -29,7 +29,7 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <div><span>Mentions</span><strong>164</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -717,24 +717,12 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Based In (1)</summary>
-
-- **[United States](/entities/gpe-united-states.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#t-00-35-06): “"All Riverbend Ranch cattle were born and raised here in the USA."”
-
-</details>
-
-</details>
-
-<details>
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “"this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “All right, you guys, this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:26:36](/episodes/ep-5-HUyv9LyMg.md#t-00-26-11): “you know how much I absolutely love Riverbend Ranch steaks”
 
 </details>
@@ -761,20 +749,13 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “"this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#t-00-34-23): “All right, you guys, this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:26:36](/episodes/ep-5-HUyv9LyMg.md#t-00-26-11): “you know how much I absolutely love Riverbend Ranch steaks”
-
-</details>
-
-- **[United States](/entities/gpe-united-states.md)** location of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#t-00-35-06): “"All Riverbend Ranch cattle were born and raised here in the USA."”
 
 </details>
 

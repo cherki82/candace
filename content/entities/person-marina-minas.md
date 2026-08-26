@@ -1,6 +1,6 @@
 ---
 title: "Marina Minas"
-description: "Marina Minas (People) - 12 mentions"
+description: "Marina Minas (People) - 13 mentions"
 id: "person-marina-minas"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57">2026-01-22 · 00:32:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-marina-minas-t-00-13-58">2026-03-26 · 00:14:05</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-marina-minas-t-00-25-07">2026-07-21 · 00:25:07</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -38,6 +38,7 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-marina-minas-t-00-19-58" style="--pulse-height:100%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 4 mentions" title="2026-03-23 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-marina-minas-t-00-22-33" style="--pulse-height:25%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-marina-minas-t-00-13-58" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-marina-minas-t-00-25-07" style="--pulse-height:25%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-marina-minas-t-00-19-58) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-marina-minas-t-00-22-33) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-marina-minas-t-00-13-58) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-marina-minas-t-00-25-07) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
+
+**[00:25:07](/episodes/ep-OgRyiOAVtWU.md#ent-person-marina-minas-t-00-25-07)**
+> "...d, I think their COL, this is Marina Minas who did that the other day. I'm going, you guys a..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>
@@ -151,9 +161,10 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:24:58](/episodes/ep-B9TyCs-6o_0.md#t-00-24-35): “Marina, this psycho, is going to then just a few months later be behind getting Aubrey fired”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:25:07](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07): “So rich that they're like, you're a commie, Candace. Someone tweeted, I think their COL, this is Marina Minas who did that the other day. I'm going, you guys are literally responding to the free markets by saying the free markets need to be stopped and making private phone calls to advertisers.”
 
 </details>
 
@@ -189,9 +200,10 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:24:58](/episodes/ep-B9TyCs-6o_0.md#t-00-24-35): “Marina, this psycho, is going to then just a few months later be behind getting Aubrey fired”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:25:07](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07): “So rich that they're like, you're a commie, Candace. Someone tweeted, I think their COL, this is Marina Minas who did that the other day. I'm going, you guys are literally responding to the free markets by saying the free markets need to be stopped and making private phone calls to advertisers.”
 
 </details>
 

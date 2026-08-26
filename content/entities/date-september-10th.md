@@ -428,10 +428,10 @@ _Type: Dates_
 <summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2 mentions)</summary>
 
 **[00:34:48](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-14)**
-> "... what he was doing back onto campus and what exactly he remembers. Take a listen. Again, this is on September 10th, and it's around 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back f..."
+> "Again, this is on September 10th, and it's around 11:30 p.m. at night."
 
 **[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-date-september-10th-t-00-34-49)**
-> "...rs. Take a listen. Again, this is on September 10th, and it's around 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding. I'm getting a very late start. It's ..."
+> "Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding."
 
 </details>
 

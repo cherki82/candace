@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>141 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-26">2026-08-26</time></p>
+<p class="kg-freshness"><strong>142 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-26">2026-08-26</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>6,337</strong><span>Claims &amp; statements</span></div>
-<div><strong>3,565</strong><span>Tracked entities</span></div>
-<div><strong>1,538</strong><span>Timeline events</span></div>
-<div><strong>2,421</strong><span>Research sources</span></div>
+<div><strong>6,368</strong><span>Claims &amp; statements</span></div>
+<div><strong>3,580</strong><span>Tracked entities</span></div>
+<div><strong>1,547</strong><span>Timeline events</span></div>
+<div><strong>2,437</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -28,6 +28,11 @@ description: "An evidence-first research workbench for imported video, audio, an
 <time datetime="2026-08-14">2026-08-14</time>
 <a href="/episodes/ep-nPhCKwJ6ye8">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a>
 <span>Unspecified source</span>
+</article>
+<article>
+<time datetime="2026-07-21">2026-07-21</time>
+<a href="/episodes/ep-OgRyiOAVtWU">Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</a>
+<span>Candace Owens</span>
 </article>
 <article>
 <time datetime="2026-07-20">2026-07-20</time>
@@ -44,11 +49,6 @@ description: "An evidence-first research workbench for imported video, audio, an
 <a href="/episodes/ep-puuMVxEu5NU">EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360</a>
 <span>Candace Owens</span>
 </article>
-<article>
-<time datetime="2026-07-14">2026-07-14</time>
-<a href="/episodes/ep-EtLHqDbxqks">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a>
-<span>Candace Owens</span>
-</article>
 </div>
 
 ## What changed
@@ -56,46 +56,46 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>209 recent mentions · +189 vs prior window</span></a>
-<a href="/entities/concept-dna"><strong>Deoxyribonucleic acid</strong><span>53 recent mentions · +53 vs prior window</span></a>
-<a href="/entities/person-lance-twiggs"><strong>Lance Twiggs</strong><span>58 recent mentions · +50 vs prior window</span></a>
-<a href="/entities/gpe-israel"><strong>Israel</strong><span>64 recent mentions · +49 vs prior window</span></a>
-<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>103 recent mentions · +40 vs prior window</span></a>
+<a href="/entities/gpe-israel"><strong>Israel</strong><span>60 recent mentions · +39 vs prior window</span></a>
+<a href="/entities/person-tyler-robinson"><strong>Tyler Robinson</strong><span>135 recent mentions · +36 vs prior window</span></a>
+<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>107 recent mentions · +33 vs prior window</span></a>
 <a href="/entities/person-andrew-wilson"><strong>Andrew Wilson</strong><span>31 recent mentions · +31 vs prior window</span></a>
+<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>236 recent mentions · +28 vs prior window</span></a>
+<a href="/entities/org-fbi"><strong>FBI</strong><span>39 recent mentions · +27 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes
 
 <div class="verification-feed">
 <article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-7a3c360b229e">Owens said Joint Task Force Six was a brand-new command created at the border around 1990 by President George H. W. Bush with Colin Powell&#x27;s help as part of the war on drugs</a>
-<small>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277</small>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-0ed8dcff929a">Charlie Kirk wrote that the billion-dollar verdict and bankruptcy actions against Alex Jones were intended to censor and destroy a person the political left hated and create a blueprint for use against others.</a>
+<small>Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-c61a4715d355">Candace Owens said Tucker Carlson, Bret Weinstein, and Joe Kent had all confirmed that Charlie Kirk was fighting behind the scenes to stop a war with Iran.</a>
-<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
+<a href="/statements/statement-0614f81ed93e">Charlie Kirk said what Alex Jones said and did was not right, but asked whether someone should be shut up because of it and said he would not accept another bad precedent.</a>
+<small>Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-04ee0e537e1f">Candace Owens promised to reveal before the end of the week who had told people he was at lunch with Ben Shapiro when he received a phone call.</a>
-<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
+<a href="/statements/statement-5a8fbdf830da">Charlie Kirk called Alex Jones patient zero for the censorship regime and for lawfare strategies used to silence disliked speakers.</a>
+<small>Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-b592fae6969b">Blake Neff said that, to his knowledge, he stayed at basically the same hotel as everyone else, thought it was in Salt Lake City, and did not remember which hotel it was.</a>
-<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
+<a href="/statements/statement-51701d5d02b1">David Freiheit said a more plausible alternative theory could be presented, but facts should not be manufactured without evidence.</a>
+<small>Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-000a70eceff7">Candace Owens said she thought either Frank Turek or Brian Harpole lied about CPR, though she did not know which.</a>
-<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
+<a href="/statements/statement-a4c3be6b8469">David Freiheit said he did not know whether Tyler Robinson fired the gun but described broadly implicating, vague conspiracy theories as unsubstantiated and unfalsifiable.</a>
+<small>Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-09e8e1de11ab">Frank Turek said eyewitnesses disagreeing on minor details is a mark of authentic eyewitness testimony.</a>
-<small>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</small>
+<a href="/statements/statement-2267fc637b52">Blake Neff said Candace Owens had spent ten months targeting Erika Kirk, Turning Point USA, and others in pursuit of a conspiracy theory with essentially nothing supporting it, and compared the conduct to Alex Jones&#x27;s Sandy Hook claims.</a>
+<small>Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</small>
 </article>
 </div>
 

@@ -11,7 +11,11 @@ object: "work-the-charlie-kirk-show"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) owns [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
+
+- [00:33:37](/episodes/ep-OgRyiOAVtWU#t-00-33-37): _So that's for her personal profit. Once upon a time, Charlie (Charlie Kirk) told me Andrew Kolvet owns a piece of that company too._
 
 **[A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU)**
 

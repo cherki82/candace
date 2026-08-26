@@ -11,15 +11,15 @@ date: "2025-09-03"
 
 > Charlie Kirk requests DOGE department at Turning Point USA.
 
-## Mentioned In (195 times)
+## Mentioned In (181 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:15:43](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
+**Timestamp:** [00:15:43](/episodes/ep-his-JBjlkh8.md#t-00-15-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(943);return false;">▶️ Play</a>
 
-> srepresent the public and global investigation of Charlie's assassination, they at long last issued a public invitation or a challenge. I'm not sure what it is, but I accept, okay? Quit
+> an annual audit with Charlie's explicit request to put together a DOGE department
 
 ### 2. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
 
@@ -205,15 +205,7 @@ date: "2025-09-03"
 
 > er happened before. I guess we could say Charlie broke the Internet one more time. One hundred and fifty thousand of you guys were watching, and th
 
-### 25. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:00:25](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(25);return false;">▶️ Play</a>
-
-> t the public and global investigation of Charlie's assassination, they at long last issued a public invitation or a challenge. I'm not sure what it
-
-### 26. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 25. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32) 
@@ -221,7 +213,7 @@ date: "2025-09-03"
 
 > going to discuss Andrew Kolvet, the PR agent, close friend o
 
-### 27. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 26. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:01:14](/episodes/ep-ja26iltROkM.md#t-00-00-44) 
@@ -229,7 +221,7 @@ date: "2025-09-03"
 
 > They are so clearly lying to us about what happened on the d
 
-### 28. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 27. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:01:40](/episodes/ep-UBkFkg4UNY8.md#t-00-01-13) 
@@ -237,23 +229,7 @@ date: "2025-09-03"
 
 > re going to discuss Andrew Kolvet, the PR agent, close frien
 
-### 29. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:19:23](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1163);return false;">▶️ Play</a>
-
-> points attack people that are trying to explore who "they" i
-
-### 30. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:39:49](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2389);return false;">▶️ Play</a>
-
-> probably been one of the more prominent gaslighters when it
-
-### 31. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 28. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:14:00](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20) 
@@ -261,7 +237,7 @@ date: "2025-09-03"
 
 > uestions. Everything feels different in this post-Charlie Kirk world. Where to begin? How about we should talk about the founding of America? Because, man, those
 
-### 32. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 29. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:19:05](/episodes/ep-a-e7HC6SeK8.md#t-00-18-23) 
@@ -269,7 +245,7 @@ date: "2025-09-03"
 
 > update for you—YieldiFi comes in as the number one sponsor o
 
-### 33. Shocking Revelation About The Egyptian Planes... | Candace E...
+### 30. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:19:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-19-06) 
@@ -277,7 +253,7 @@ date: "2025-09-03"
 
 > USA who is interested in getting to the bottom of who assass
 
-### 34. Shocking Revelation About The Egyptian Planes... | Candace E...
+### 31. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:39:15](/episodes/ep-ZAuuSq_j2_w.md#t-00-38-42) 
@@ -285,7 +261,7 @@ date: "2025-09-03"
 
 > from the public. They are working with the feds to kind of b
 
-### 35. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
+### 32. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:00:09](/episodes/ep-SKGUzGHymcI.md#t-00-00-00) 
@@ -293,7 +269,7 @@ date: "2025-09-03"
 
 > out that the Egyptian planes were tracking Erika and Charlie. Now, the individual also focused on something that at first seemed to
 
-### 36. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 33. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:43:45](/episodes/ep-sreYYcID-QY.md#t-00-43-40) 
@@ -301,7 +277,7 @@ date: "2025-09-03"
 
 > in Orem. Here is what these particular Steeles told Good Mor
 
-### 37. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 34. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:30:43](/episodes/ep-UBkFkg4UNY8.md#t-00-30-03) 
@@ -309,7 +285,7 @@ date: "2025-09-03"
 
 > g—but actually Alex Clark never did say that—that Erika Kirk was going to be the one to answer questions pertaining to Charlie and to clear up so
 
-### 38. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 35. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:00:51](/episodes/ep-sreYYcID-QY.md#t-00-00-33) 
@@ -317,7 +293,7 @@ date: "2025-09-03"
 
 > sense that something is wrong, as I very much sense right no
 
-### 39. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
+### 36. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:03:48](/episodes/ep-c5BcKF91iec.md#t-00-03-03) 
@@ -325,7 +301,7 @@ date: "2025-09-03"
 
 > ains. I've now, I think, officially accepted that Charlie is not coming back. And somehow it took me longer to get there. It took me longer to accept that fact t
 
-### 40. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
+### 37. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:24:42](/episodes/ep-5autG89PW6w.md#t-00-24-12) 
@@ -333,7 +309,7 @@ date: "2025-09-03"
 
 > r new show intro. Yes, yes, yes. Who will succeed Charlie? Who shall inherit the Turning Point throne? You know what, you guys? The best part of all of this for
 
-### 41. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
+### 38. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 **Timestamp:** [00:06:09](/episodes/ep-vwG1juDCQZQ.md#t-00-05-43) 
@@ -341,7 +317,7 @@ date: "2025-09-03"
 
 > nemies right now for some reason looking into the Charlie Kirk assassination and the lies that we are being told. Anyways, let's get into Erika Kirk. Obviously it was a very an
 
-### 42. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 39. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:09:36](/episodes/ep-K5GjF53bfN4.md#t-00-09-14) 
@@ -349,7 +325,7 @@ date: "2025-09-03"
 
 > All right, you guys. So a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA. In fact, he wanted t
 
-### 43. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 40. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:01:51](/episodes/ep-MUA9ebCF4Ow.md#t-00-01-15) 
@@ -357,7 +333,7 @@ date: "2025-09-03"
 
 > on't know what they thought. I think they thought Charlie would get assassinated. They would very quickly bury him in a yarmulke and then convince the world that
 
-### 44. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 41. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:15:13](/episodes/ep-ja26iltROkM.md#t-00-14-38) 
@@ -365,7 +341,7 @@ date: "2025-09-03"
 
 > All right, you guys. Happy Monday. Erika Kirk, man. That—she really is just the moment. The speech that she gave—everybody was just wowed by her. I fel
 
-### 45. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 42. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:07:35](/episodes/ep-K1tFD7FfoCU.md#t-00-07-32) 
@@ -373,7 +349,7 @@ date: "2025-09-03"
 
 > right now though is especially sickening. They're now trying
 
-### 46. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
+### 43. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:02:07](/episodes/ep-Qfwr08Ebczo.md#t-00-01-25) 
@@ -381,7 +357,7 @@ date: "2025-09-03"
 
 > ctually, some explosive revelations regarding the Charlie Kirk case. Now buckle up because there's this country that's only the size of New Jersey. It's always t
 
-### 47. They Are Lying About Charlie Kirk. | Candace Ep 235
+### 44. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:00:24](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) 
@@ -389,7 +365,7 @@ date: "2025-09-03"
 
 > most, to let you know, last week was not a dream. Charlie, my friend, is dead. And he was publicly executed. I want to make that clear. Charlie wa
 
-### 48. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 45. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:14:17](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05) 
@@ -397,7 +373,7 @@ date: "2025-09-03"
 
 > uestions. Everything feels different in this post-Charlie Kirk world. Where to begin? How about we should talk about the founding of America? Because, man, those
 
-### 49. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 46. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:06:31](/episodes/ep-LATnak75Si0.md#t-00-06-20) 
@@ -405,7 +381,7 @@ date: "2025-09-03"
 
 > fact Brett Cooper. So there's your update. And in Charlie Kirk news, nothing is making sense still. Least of all, the request and the confirmation window regardi
 
-### 50. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 47. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:00:22](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00) 
@@ -413,7 +389,7 @@ date: "2025-09-03"
 
 > uss Andrew Kolvet, the PR agent, close friend of Charlie, who sat down with Alex Clark to answer questions pertaining to whether or not Charlie w
 
-### 51. They Are Lying About Charlie Kirk. | Candace Ep 235
+### 48. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:26:16](/episodes/ep-czVBmqZP6Ss.md#t-00-26-07) 
@@ -421,7 +397,7 @@ date: "2025-09-03"
 
 > promo code Candace. Okay. Let's get into what we know about
 
-### 52. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 49. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:14:13](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05) 
@@ -429,7 +405,7 @@ date: "2025-09-03"
 
 > uestions. Everything feels different in this post-Charlie Kirk world. Where to begin? How about we should talk about the founding of America? Because, man, those Catholic pries
 
-### 53. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+### 50. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:43:11](/episodes/ep-2WEHTk0Xewg.md#t-00-42-35) 
@@ -437,7 +413,7 @@ date: "2025-09-03"
 
 > alleged conversation held between the 22-year-old alleged ki
 
-### 54. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+### 51. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [01:04:40](/episodes/ep-q7f8r-THr84.md#t-01-03-56) 
@@ -445,7 +421,7 @@ date: "2025-09-03"
 
 > happening right now in the world, and what just happened to
 
-### 55. To My Friend, Charlie Kirk.
+### 52. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:00:28](/episodes/ep-_dRaEO47-co.md#t-00-00-01) 
@@ -453,7 +429,7 @@ date: "2025-09-03"
 
 > t has never happened before. I guess we could say Charlie broke the Internet one more time. One hundred and fifty thousand of you guys were watching, and the sys
 
-### 56. They Are Lying About Charlie Kirk. | Candace Ep 235
+### 53. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:36:02](/episodes/ep-czVBmqZP6Ss.md#t-00-35-22) 
@@ -461,15 +437,7 @@ date: "2025-09-03"
 
 > promo code Candace. Okay. Let's get into what we know about
 
-### 57. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:07:38](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(458);return false;">▶️ Play</a>
-
-> showed at first that when I plotted these strange Egyptian jets, that they were following Charlie. And that was a concern because I wondered
-
-### 58. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
+### 54. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:00:33](/episodes/ep-SKGUzGHymcI.md#t-00-00-00) 
@@ -477,7 +445,7 @@ date: "2025-09-03"
 
 > What was the Egyptian military plane, which left Provo on the morning of Charlie's assassination, doing in Delaware? Actually, we should fi
 
-### 59. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+### 55. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:05:44](/episodes/ep-JQjCAsfoXEE.md#t-00-05-00) 
@@ -485,7 +453,7 @@ date: "2025-09-03"
 
 > eeted about the Egyptian military plane that left Provo on the morning of Charlie's assassination, I got the time zone wrong by a couple of
 
-### 60. From Britney To Charlie. With Pastors Like These, Who Needs ...
+### 56. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:04:07](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30) 
@@ -493,7 +461,7 @@ date: "2025-09-03"
 
 > sands and tens of thousands of kids, but Candace investigating the Charlie Kirk assassination is crazy. It's unbiblical. It only fur
 
-### 61. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 57. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:05:49](/episodes/ep-LATnak75Si0.md#t-00-05-38) 
@@ -501,7 +469,7 @@ date: "2025-09-03"
 
 > hat Charlie was slated to speak in Utah on September 10th and then was... due to return just 10 days later to a different campus in Utah th
 
-### 62. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 58. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:15:10](/episodes/ep-UBkFkg4UNY8.md#t-00-14-37) 
@@ -509,15 +477,7 @@ date: "2025-09-03"
 
 > to determine that that was somebody who lived in Utah, who advertises with Turning Point USA. And when he did some press about it, he didn't mention that
 
-### 63. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:49:40](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2980);return false;">▶️ Play</a>
-
-> together—that an hour and a half before Charlie was assassin
-
-### 64. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+### 59. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:05:02](/episodes/ep-2WEHTk0Xewg.md#t-00-04-27) 
@@ -525,7 +485,7 @@ date: "2025-09-03"
 
 > us that at no time that we're allowed to know on September 10th, after Charlie was shot, the roommate—that's Lance—received a text message from Robi
 
-### 65. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 60. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:24:50](/episodes/ep-a-e7HC6SeK8.md#t-00-24-09) 
@@ -533,7 +493,7 @@ date: "2025-09-03"
 
 > being reported that it is going to run through to September 10th. On September 2nd, Charlie sends out the email asking for a DOJ audit of his company
 
-### 66. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 61. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:13:36](/episodes/ep-ja26iltROkM.md#t-00-13-34) 
@@ -541,7 +501,7 @@ date: "2025-09-03"
 
 >  "Here, as the Director of the FBI, I am committed to ensuring the investigation into Charlie Kirk's assassination is
 
-### 67. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 62. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:03:21](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59) 
@@ -549,7 +509,7 @@ date: "2025-09-03"
 
 > an 36 hours, exact time, at 10:34 p.m. Eastern on September 11th—the Turning Point USA Wikipedia received a rather interesting update. Pastor Rob McCoy, who had pre
 
-### 68. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
+### 63. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:28:09](/episodes/ep-SKGUzGHymcI.md#t-00-27-51) 
@@ -557,7 +517,7 @@ date: "2025-09-03"
 
 > o was on that plane because we can attach that to Turning Point USA. Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have giv
 
-### 69. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 64. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:39:17](/episodes/ep-sreYYcID-QY.md#t-00-38-58) 
@@ -565,7 +525,7 @@ date: "2025-09-03"
 
 > ne. How could you say that I have not spoken at a Turning Point USA conference in years when I literally went on tour with Turning Point USA on college campuses last y
 
-### 70. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+### 65. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 **Timestamp:** [00:00:01](/episodes/ep-sImMM04XdWY.md#t-00-00-01) 
@@ -573,7 +533,7 @@ date: "2025-09-03"
 
 > al misrepresentations that are being delivered by Turning Point USA and their affiliates are really reaching a fever pitch because we can confirm that Brian Harpole li
 
-### 71. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
+### 66. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:01:04](/episodes/ep-c5BcKF91iec.md#t-00-00-45) 
@@ -581,7 +541,7 @@ date: "2025-09-03"
 
 > ster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe. Charlie, I was thinking out there—remembering [he] paid for my flight to Wyom
 
-### 72. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
+### 67. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:00:29](/episodes/ep-5autG89PW6w.md#t-00-00-00) 
@@ -589,7 +549,7 @@ date: "2025-09-03"
 
 > ping the text messages. It was hilarious. Anyway, Turning Point USA has responded to the release of the messages, so we are going to watch that. Spoiler alert: they we
 
-### 73. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
+### 68. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 **Timestamp:** [00:06:41](/episodes/ep-vwG1juDCQZQ.md#t-00-06-26) 
@@ -597,7 +557,7 @@ date: "2025-09-03"
 
 > have changed for her, how things have changed for Turning Point USA, what it's like being at the helm of the organization, what her thoughts are about what that organi
 
-### 74. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 69. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:06:21](/episodes/ep-aDlhjfW6hz8.md#t-00-05-49) 
@@ -605,7 +565,7 @@ date: "2025-09-03"
 
 > able to figure this out because I've got a pretty big networ
 
-### 75. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 70. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:01:15](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-40) 
@@ -613,7 +573,7 @@ date: "2025-09-03"
 
 > ld the truth about how long it normally takes for Turning Point USA events to come together on campus? Well, I always told you when they freak out, it's a clue. And no
 
-### 76. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 71. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:06:05](/episodes/ep-ja26iltROkM.md#t-00-05-25) 
@@ -621,7 +581,7 @@ date: "2025-09-03"
 
 > s I am relieved that Erika Kirk is at the head of Turning Point USA, because just like I alluded to last week—and which I will double down on now—I believe that people
 
-### 77. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+### 72. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [00:01:08](/episodes/ep-q7f8r-THr84.md#t-00-00-45) 
@@ -629,7 +589,7 @@ date: "2025-09-03"
 
 > eople that were at the event, people that were at Turning Point USA. We got some questions to ask and I'm gonna ask all of them because guess what? I don't take money
 
-### 78. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 73. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:07:07](/episodes/ep-K1tFD7FfoCU.md#t-00-06-49) 
@@ -637,7 +597,7 @@ date: "2025-09-03"
 
 > cker Carlson to be gone, no longer allowed on the Turning Point USA stage because Tucker is the natural heir to the populist movement. And they want h
 
-### 79. Shocking Revelation About The Egyptian Planes... | Candace E...
+### 74. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:00:04](/episodes/ep-ZAuuSq_j2_w.md#t-00-00-00) 
@@ -645,7 +605,7 @@ date: "2025-09-03"
 
 > Cinderella's carriage turned back into a pumpkin, Turning Point USA decided it was a good time to issue a confirmation plus an ultimatum—a time and a date for our deba
 
-### 80. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
+### 75. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:02:26](/episodes/ep-Qfwr08Ebczo.md#t-00-02-07) 
@@ -653,7 +613,7 @@ date: "2025-09-03"
 
 > alized is that Mikey McCoy, the chief of staff of Turning Point USA—Mikey McCoy—for whatever reason, he always requires an adjective. Whenever they discuss Mikey McCoy
 
-### 81. They Are Lying About Charlie Kirk. | Candace Ep 235
+### 76. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:11:38](/episodes/ep-czVBmqZP6Ss.md#t-00-11-22) 
@@ -661,7 +621,7 @@ date: "2025-09-03"
 
 > eak to me, but he did place some frantic calls to Turning Point USA. Yeah. You see, I went out to Seth, but I also went out to two other people who were at this meetin
 
-### 82. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 77. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:12:14](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53) 
@@ -669,7 +629,7 @@ date: "2025-09-03"
 
 > dan's registered agent. That's Stacey Sheridan of Turning Point USA. We're going to talk about her in a second. We've got the Wilmington Trust actual location, which i
 
-### 83. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+### 78. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:10:57](/episodes/ep-JQjCAsfoXEE.md#t-00-10-24) 
@@ -677,7 +637,7 @@ date: "2025-09-03"
 
 > her than more obviously suggesting that people at Turning Point USA betrayed him, which Erika Kirk was not an employee of leading up to his death. Why were they doing
 
-### 84. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 79. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:43:54](/episodes/ep-2Riv3I7D0Yk.md#t-00-43-18) 
@@ -685,7 +645,7 @@ date: "2025-09-03"
 
 > s companies. They are amazing people that work at Turning Point USA—the overwhelming majority of them. And that's what sucks when corporate people at the top take a di
 
-### 85. From Britney To Charlie. With Pastors Like These, Who Needs ...
+### 80. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:31:11](/episodes/ep-7RLtGgkTh9o.md#t-00-30-51) 
@@ -693,7 +653,7 @@ date: "2025-09-03"
 
 > strange that everything was about faith. But like Turning Point USA was originally remarketing capitalism. And I remember you and Charlie running around
 
-### 86. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 81. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:01:57](/episodes/ep-LATnak75Si0.md#t-00-01-33) 
@@ -701,7 +661,7 @@ date: "2025-09-03"
 
 > y it doesn't make sense because I've been through Turning Point USA, but every little micro change is sending me in this moment. It's a very personal thing. I know how
 
-### 87. To My Friend, Charlie Kirk.
+### 82. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:00:54](/episodes/ep-_dRaEO47-co.md#t-00-00-37) 
@@ -709,15 +669,7 @@ date: "2025-09-03"
 
 > llege kids, decided not to go to college, started Turning Point USA. And I think a lot of people thought that Charlie must take himself a bit too seriou
 
-### 88. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:00:04](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4);return false;">▶️ Play</a>
-
-> isode, where we went kind of for the jugular with Turning Point USA—because really, I think everybody in the entire world has had enough with the non-response, trying
-
-### 89. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 83. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:00:32](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00) 
@@ -725,7 +677,7 @@ date: "2025-09-03"
 
 > at either had strong ties to the government or to Turning Point USA altogether. So what gives? Also, later on, we're going to discuss Andrew Kolvet, the PR agent, clo
 
-### 90. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 84. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:06:22](/episodes/ep-aDlhjfW6hz8.md#t-00-05-49) 
@@ -733,7 +685,7 @@ date: "2025-09-03"
 
 > able to figure this out because I've got a pretty big networ
 
-### 91. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 85. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:00:08](/episodes/ep-K5GjF53bfN4.md#t-00-00-01) 
@@ -741,7 +693,7 @@ date: "2025-09-03"
 
 > he expressed some concerns about the finances at Turning Point USA. In fact, he wanted to put together an entire department, a little mini-department, to address thos
 
-### 92. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 86. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:39:20](/episodes/ep-sreYYcID-QY.md#t-00-38-58) 
@@ -749,23 +701,7 @@ date: "2025-09-03"
 
 > ne. How could you say that I have not spoken at a Turning Point USA conference in years when I literally went on tour with Turning Point USA on college campuses last y
 
-### 93. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:18:47](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1127);return false;">▶️ Play</a>
-
-> like that's stupid— not a good long-term strategy for Turnin
-
-### 94. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [01:00:22](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3622);return false;">▶️ Play</a>
-
-> s you guys feel fearful. But truly, I don't think Turning Point USA is so silly and stupid that they would coordinate an assassination on their campus and then think t
-
-### 95. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 87. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:19:36](/episodes/ep-a-e7HC6SeK8.md#t-00-19-05) 
@@ -773,7 +709,7 @@ date: "2025-09-03"
 
 > he said, "I only want to do that going forward." But I do kn
 
-### 96. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 88. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:40:13](/episodes/ep-a-e7HC6SeK8.md#t-00-39-37) 
@@ -781,7 +717,7 @@ date: "2025-09-03"
 
 > because a unique opportunity presented itself at Turning Point USA where Tyler had begun telling people that TPUSA plans to roll out a program to build houses for fir
 
-### 97. Shocking Revelation About The Egyptian Planes... | Candace E...
+### 89. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:38:53](/episodes/ep-ZAuuSq_j2_w.md#t-00-38-42) 
@@ -789,7 +725,7 @@ date: "2025-09-03"
 
 > was like the number one top 500 comments yesterday was "don'
 
-### 98. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 90. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:15:52](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-12) 
@@ -797,7 +733,7 @@ date: "2025-09-03"
 
 > d us these lies. The amazing, heroic, magnificent Mikey McCoy had blood all over him. That's a lie, told by Pastor Rob McCoy. Charlie was a commit
 
-### 99. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 91. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:26:49](/episodes/ep-Qt0VHV-POCg.md#t-00-26-17) 
@@ -805,7 +741,7 @@ date: "2025-09-03"
 
 > gain, that's pplx.ai slash Candace. All right, so Mikey McCoy is missing from the Charlie Kirk show. He seemed very happy to jump in that seat thereafter. I thin
 
-### 100. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 92. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:12:19](/episodes/ep-Qt0VHV-POCg.md#t-00-11-50) 
@@ -813,7 +749,7 @@ date: "2025-09-03"
 
 > hey don't believe that Charlie Kirk was killed by Tyler Robinson. The evidence is overwhelming that Tyler Robinson didn't act alone, that Tyler Robinson didn't fire
 
-### 101. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
+### 93. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:20:43](/episodes/ep-5autG89PW6w.md#t-00-19-58) 
@@ -821,7 +757,7 @@ date: "2025-09-03"
 
 > executives would rather—and I'm now referring to Tyler Bowyer—impugn the character of the people who are doing exactly what Charlie would have don
 
-### 102. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
+### 94. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:31:16](/episodes/ep-SKGUzGHymcI.md#t-00-31-12) 
@@ -829,7 +765,7 @@ date: "2025-09-03"
 
 > going back to the early interviews that a lot of TPUSA peopl
 
-### 103. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
+### 95. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:31:35](/episodes/ep-SKGUzGHymcI.md#t-00-31-12) 
@@ -837,7 +773,7 @@ date: "2025-09-03"
 
 > rlie into the waiting SUV, he told Megyn Kelly something different about drones on that day. Take a listen. In fact, when we were driving into tha
 
-### 104. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 96. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:09:28](/episodes/ep-MUA9ebCF4Ow.md#t-00-08-59) 
@@ -845,7 +781,7 @@ date: "2025-09-03"
 
 > nto the Iran war." And I was talking to him about Jeffrey Epstein, and I was saying to Charlie, "I won't do it." And Charlie wanted me
 
-### 105. They Are Lying About Charlie Kirk. | Candace Ep 235
+### 97. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:29:05](/episodes/ep-czVBmqZP6Ss.md#t-00-28-54) 
@@ -853,7 +789,7 @@ date: "2025-09-03"
 
 > day. In fact, he was telling the truth even about Jeffrey Epstein. Take a listen. Epstein with his little friend Ghislaine, and Ghislaine's fath
 
-### 106. To My Friend, Charlie Kirk.
+### 98. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:19:57](/episodes/ep-_dRaEO47-co.md#t-00-19-31) 
@@ -861,7 +797,7 @@ date: "2025-09-03"
 
 > was the intermediary when Trump called about Brigitte was Ch
 
-### 107. To My Friend, Charlie Kirk.
+### 99. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:20:05](/episodes/ep-_dRaEO47-co.md#t-00-19-31) 
@@ -869,7 +805,7 @@ date: "2025-09-03"
 
 > was the intermediary when Trump called about Brigitte was Ch
 
-### 108. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+### 100. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:56:55](/episodes/ep-2WEHTk0Xewg.md#t-00-56-12) 
@@ -877,7 +813,7 @@ date: "2025-09-03"
 
 > use some jujitsu—and I'm referring here to Roy or Rob McCoy who says, "I'm Charlie's pastor, and here's the truth" or whatever it is—to look the
 
-### 109. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
+### 101. EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Cand...
 
 **Episode:** [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md)
 **Timestamp:** [00:13:34](/episodes/ep-Qfwr08Ebczo.md#t-00-13-27) 
@@ -885,7 +821,7 @@ date: "2025-09-03"
 
 > plausibility—almost like it was this psychological operation
 
-### 110. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 102. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:07:20](/episodes/ep-LATnak75Si0.md#t-00-07-05) 
@@ -893,7 +829,7 @@ date: "2025-09-03"
 
 > Then they were going to tell Americans—as Pastor Rob McCoy did— that it just so happened that Charlie kept notebooks and diaries. He was so dil
 
-### 111. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 103. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:33:32](/episodes/ep-sreYYcID-QY.md#t-00-33-10) 
@@ -901,7 +837,7 @@ date: "2025-09-03"
 
 > spread. Well, somebody has fabricated a monstrous big lie th
 
-### 112. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 104. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:00:26](/episodes/ep-2Riv3I7D0Yk.md#t-00-00-00) 
@@ -909,7 +845,7 @@ date: "2025-09-03"
 
 > im having already admitted that he and a rabbi in Israel had a long talk with Charlie the night before he died—something he was very proud of
 
-### 113. From Britney To Charlie. With Pastors Like These, Who Needs ...
+### 105. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:03:36](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30) 
@@ -917,7 +853,7 @@ date: "2025-09-03"
 
 > s now. You see it everywhere. You cannot question Israel at all, or they descend on you. Somehow, the Charlie Kirk assassination is bringing
 
-### 114. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 106. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:04:48](/episodes/ep-K5GjF53bfN4.md#t-00-04-24) 
@@ -925,7 +861,7 @@ date: "2025-09-03"
 
 > Netanyahu calling Charlie and inviting him to Israel. And Bi
 
-### 115. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 107. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:33:42](/episodes/ep-sreYYcID-QY.md#t-00-33-10) 
@@ -933,7 +869,7 @@ date: "2025-09-03"
 
 > spread. Well, somebody has fabricated a monstrous big lie th
 
-### 116. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 108. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:19:08](/episodes/ep-MUA9ebCF4Ow.md#t-00-18-54) 
@@ -941,7 +877,7 @@ date: "2025-09-03"
 
 > mind you: it was July 18th—according to the local Utah news, they found this out. It was July 18th that UVU Turning Point chapter requested to have Charlie s
 
-### 117. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 109. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:19:19](/episodes/ep-ja26iltROkM.md#t-00-18-36) 
@@ -949,7 +885,7 @@ date: "2025-09-03"
 
 > s a whole irrigation system that's managed by the university. And so there's definitively stuff beneath Charlie. Again, I don't know anything about ballistic
 
-### 118. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 110. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:01:07](/episodes/ep-LATnak75Si0.md#t-00-00-38) 
@@ -957,7 +893,7 @@ date: "2025-09-03"
 
 > hat Charlie was slated to speak in Utah on September 10th and then was... due to return just 10 days later to a different campus in Utah that's under two hou
 
-### 119. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 111. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:10:43](/episodes/ep-sreYYcID-QY.md#t-00-10-23) 
@@ -965,7 +901,7 @@ date: "2025-09-03"
 
 > cam footage, right? Because that mysteriously made its way t
 
-### 120. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 112. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:31:58](/episodes/ep-sreYYcID-QY.md#t-00-31-15) 
@@ -973,7 +909,7 @@ date: "2025-09-03"
 
 > Netanyahu murdered Charlie. Tucker never said that. Megyn Ke
 
-### 121. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 113. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:01:06](/episodes/ep-MUA9ebCF4Ow.md#t-00-00-40) 
@@ -981,7 +917,7 @@ date: "2025-09-03"
 
 > ce of what Charlie said to Tucker backstage at the Student Action Summit in July. We're gonna get to that. Also, do you guys remembe
 
-### 122. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 114. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:32:06](/episodes/ep-sreYYcID-QY.md#t-00-31-58) 
@@ -989,7 +925,7 @@ date: "2025-09-03"
 
 > murdered Charlie. Tucker never said that. Megyn Kelly never
 
-### 123. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 115. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:14:22](/episodes/ep-aDlhjfW6hz8.md#t-00-14-06) 
@@ -997,7 +933,7 @@ date: "2025-09-03"
 
 > ding that I blamed Israel, pretending that I said Benjamin Netanyahu killed Charlie Kirk. It is now—like I said yesterday—it feels like they are trying to get ahead of
 
-### 124. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 116. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:22:11](/episodes/ep-a-e7HC6SeK8.md#t-00-21-56) 
@@ -1005,7 +941,7 @@ date: "2025-09-03"
 
 > . We have what I do think is a big deal, which is Benjamin Netanyahu calling Charlie and offering to take Turning Point to the next level. And that, my f
 
-### 125. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 117. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:14:33](/episodes/ep-aDlhjfW6hz8.md#t-00-14-06) 
@@ -1013,7 +949,7 @@ date: "2025-09-03"
 
 > that I did—pretending that I blamed Israel, pretending that
 
-### 126. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 118. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:00:26](/episodes/ep-Qt0VHV-POCg.md#t-00-00-00) 
@@ -1021,7 +957,7 @@ date: "2025-09-03"
 
 > s obviously away in Wyoming when President Trump honored Charlie Kirk with his very own holiday as a posthumous birthday present. But I was a littl
 
-### 127. To My Friend, Charlie Kirk.
+### 119. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:12:29](/episodes/ep-_dRaEO47-co.md#t-00-12-10) 
@@ -1029,7 +965,7 @@ date: "2025-09-03"
 
 > the flights got canceled, and we needed to be in D.C. by morning. And Charlie looks at me, he's like, “We got to rent a car. We got to drive eight hou
 
-### 128. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+### 120. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 **Timestamp:** [00:28:28](/episodes/ep-sImMM04XdWY.md#t-00-27-47) 
@@ -1037,7 +973,7 @@ date: "2025-09-03"
 
 > come up in the Charlie story? Whether you're talking about G
 
-### 129. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
+### 121. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 **Timestamp:** [00:02:52](/episodes/ep-q7f8r-THr84.md#t-00-02-49) 
@@ -1045,7 +981,7 @@ date: "2025-09-03"
 
 > ying that they did it. Well, for whatever reason, George Zinn, who is a 71-year-old man, was moved to do that, right, instantly. Charlie Kirk gets shot, suddenly
 
-### 130. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+### 122. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:12:50](/episodes/ep-JQjCAsfoXEE.md#t-00-12-33) 
@@ -1053,15 +989,7 @@ date: "2025-09-03"
 
 > n I learned that Charlie flew into Salt Lake City that morning. Because why didn't he fly into the much closer Provo airport? Now, ostensibly, the an
 
-### 131. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:13:11](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">▶️ Play</a>
-
-> silence during moments when people are lying—like Josh Hammer, when he said, "Hey, this never happened. Charlie never blinked on Israel"—makes you
-
-### 132. From Britney To Charlie. With Pastors Like These, Who Needs ...
+### 123. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 **Timestamp:** [00:35:43](/episodes/ep-7RLtGgkTh9o.md#t-00-35-35) 
@@ -1069,7 +997,7 @@ date: "2025-09-03"
 
 > Hamptons before Charlie died. But Bill Ackman gave a presentation—don't forget—and told these younger people that they shouldn't aspire to own ho
 
-### 133. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 124. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:28:59](/episodes/ep-ja26iltROkM.md#t-00-28-21) 
@@ -1077,7 +1005,7 @@ date: "2025-09-03"
 
 > harlie and I had a breakup, right? Eric Bolling did this. He said—I even... I don't know if he was even sober on that program because he said he ha
 
-### 134. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 125. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44) 
@@ -1085,7 +1013,7 @@ date: "2025-09-03"
 
 > hat happening at all. Okay, then I get fired from The Daily Wire. Turning Point USA is the first to issue a “Christ is King” statement of support. Then I do what wa
 
-### 135. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
+### 126. EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
 **Timestamp:** [00:56:12](/episodes/ep-sreYYcID-QY.md#t-00-55-46) 
@@ -1093,7 +1021,7 @@ date: "2025-09-03"
 
 > Martin, did you see the book about Charlie's assassination o
 
-### 136. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 127. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:41:20](/episodes/ep-K5GjF53bfN4.md#t-00-40-46) 
@@ -1101,7 +1029,7 @@ date: "2025-09-03"
 
 > bless." Thank you, James. Renee writes, "Have you covered th
 
-### 137. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+### 128. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 **Timestamp:** [00:05:21](/episodes/ep-sImMM04XdWY.md#t-00-04-54) 
@@ -1109,7 +1037,7 @@ date: "2025-09-03"
 
 > really, "It was supposed to be you." And this new Satis angle is not something that seems subtle to me. When I consider that it was Charlie
 
-### 138. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 129. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:27:43](/episodes/ep-aDlhjfW6hz8.md#t-00-27-13) 
@@ -1117,7 +1045,7 @@ date: "2025-09-03"
 
 > listen to "Power" on my headphones and go see Ye. How's that for a memorial for Charlie Kirk? That feels like the right thing for me to do right no
 
-### 139. To My Friend, Charlie Kirk.
+### 130. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:09:13](/episodes/ep-_dRaEO47-co.md#t-00-08-35) 
@@ -1125,7 +1053,7 @@ date: "2025-09-03"
 
 > ence. I was like, “Okay, you got to get into some Kanye West music.” Next thing you know, Charlie's really getting into some Kanye West music. He
 
-### 140. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 131. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:27:46](/episodes/ep-aDlhjfW6hz8.md#t-00-27-13) 
@@ -1133,7 +1061,7 @@ date: "2025-09-03"
 
 > listen to "Power" on my headphones and go see Ye. How's that for a memorial for Charlie Kirk? That feels like the right thing for me to do right no
 
-### 141. Another French Front: Did Charlie Kirk Save My Life? | Canda...
+### 132. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
 **Timestamp:** [00:23:01](/episodes/ep-sImMM04XdWY.md#t-00-22-25) 
@@ -1141,7 +1069,7 @@ date: "2025-09-03"
 
 > that we had perhaps identified Brigitte Macron at Stanford University—a possibility is what I would say; we were maybe at 50-50%—and then suddenly Charlie
 
-### 142. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 133. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:04:11](/episodes/ep-2Riv3I7D0Yk.md#t-00-03-33) 
@@ -1149,7 +1077,7 @@ date: "2025-09-03"
 
 > ns meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Charlie's defiance against the state of Israel.
 
-### 143. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
+### 134. Charlie's Angels Or Demons? Disturbing Footage Emerges. | Ca...
 
 **Episode:** [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 **Timestamp:** [00:02:06](/episodes/ep-c5BcKF91iec.md#t-00-01-39) 
@@ -1157,7 +1085,7 @@ date: "2025-09-03"
 
 > erson I visited with, and it was for, ironically, Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe. Charlie, I was thinki
 
-### 144. To My Friend, Charlie Kirk.
+### 135. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:03:31](/episodes/ep-_dRaEO47-co.md#t-00-02-47) 
@@ -1165,7 +1093,7 @@ date: "2025-09-03"
 
 > Charlie's rule was never say no to Fox News. So even if the show was at 4 a.m. in the morning, crack of dawn, I cannot tell you guys how many h
 
-### 145. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 136. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:01:58](/episodes/ep-K5GjF53bfN4.md#t-00-01-27) 
@@ -1173,7 +1101,7 @@ date: "2025-09-03"
 
 > that is, especially because when he went on multiple hits do
 
-### 146. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
+### 137. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 **Timestamp:** [00:21:45](/episodes/ep-vwG1juDCQZQ.md#t-00-21-29) 
@@ -1181,15 +1109,7 @@ date: "2025-09-03"
 
 > Charlie—who was slated to speak at Liberty University. Okay, that's just a fact. Alex Clark also threw shade at us, and it's kind of incredible that she
 
-### 147. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:06:24](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(384);return false;">▶️ Play</a>
-
-> McCoy was talented. And it was Mikey McCoy who then jumped o
-
-### 148. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 138. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:01:09](/episodes/ep-aDlhjfW6hz8.md#t-00-00-55) 
@@ -1197,7 +1117,7 @@ date: "2025-09-03"
 
 > voted, and they have passed a bipartisan resolution to desig
 
-### 149. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 139. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:14:01](/episodes/ep-Qt0VHV-POCg.md#t-00-13-18) 
@@ -1205,7 +1125,7 @@ date: "2025-09-03"
 
 > stablished, rather—a holiday. And he decided that October 14th, which is Charlie Kirk's birthday, would be a National Day of Remembrance for Charlie Kirk. Okay? A
 
-### 150. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 140. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:20:19](/episodes/ep-K5GjF53bfN4.md#t-00-19-45) 
@@ -1213,7 +1133,7 @@ date: "2025-09-03"
 
 > finding out why and how this was happening. So on September 2nd, which is, of course, just one week before he lost his life, Charlie surprised the c
 
-### 151. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 141. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:21:38](/episodes/ep-K5GjF53bfN4.md#t-00-21-13) 
@@ -1221,7 +1141,7 @@ date: "2025-09-03"
 
 > ica, effective immediately, again, September 2nd, Justin Strief is taking on a new elevated role with Turning Point USA as its COO. Since joining TPUSA in 2020, Ju
 
-### 152. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 142. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:39:51](/episodes/ep-K5GjF53bfN4.md#t-00-39-27) 
@@ -1229,7 +1149,7 @@ date: "2025-09-03"
 
 > relationship with Charlie was real, actually, a shout out to
 
-### 153. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 143. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:03:52](/episodes/ep-Qt0VHV-POCg.md#t-00-03-39) 
@@ -1237,7 +1157,7 @@ date: "2025-09-03"
 
 > ow. It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith together." "Along with being a Pentecostal pastor in the Calvary Chapel Association,
 
-### 154. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 144. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:20:55](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31) 
@@ -1245,7 +1165,7 @@ date: "2025-09-03"
 
 > Charlie Kirk—so obsessed that the Jerusalem Post completely fictionalized or rather published a completely deranged lie about Erika Kirk. Here is th
 
-### 155. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 145. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:21:15](/episodes/ep-K1tFD7FfoCU.md#t-00-20-31) 
@@ -1253,15 +1173,7 @@ date: "2025-09-03"
 
 > e Jerusalem Post, which was written by journalist Michael Starr. They published this: "Charlie Kirk, the founder of TPUSA, will be posthumously hono
 
-### 156. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:40:51](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2451);return false;">▶️ Play</a>
-
-> the day of Charlie's assassination. So here is Cam Higby—who
-
-### 157. Shocking Revelation About The Egyptian Planes... | Candace E...
+### 146. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:43:10](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-58) 
@@ -1269,15 +1181,7 @@ date: "2025-09-03"
 
 > and that if it wasn't, we should be hearing from proper chan
 
-### 158. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:41:15](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2475);return false;">▶️ Play</a>
-
-> Charlie's assassination. Now, I obviously reported that the
-
-### 159. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 147. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:21:13](/episodes/ep-2Riv3I7D0Yk.md#t-00-20-54) 
@@ -1285,7 +1189,7 @@ date: "2025-09-03"
 
 > book. A few days after Charlie's death, he went on JTV—which
 
-### 160. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 148. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:29:05](/episodes/ep-2Riv3I7D0Yk.md#t-00-28-30) 
@@ -1293,7 +1197,7 @@ date: "2025-09-03"
 
 > ries on social media claiming that Israel and the Mossad are behind the assassination of Charlie because he was turning on Israel. Now, you s
 
-### 161. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 149. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:21:51](/episodes/ep-2Riv3I7D0Yk.md#t-00-21-29) 
@@ -1301,7 +1205,7 @@ date: "2025-09-03"
 
 > ected hostile questions. And you held on my book, Israel and Civilization, Ali. The last words I think Charlie spoke to me were— he literally said, 'You know,
 
-### 162. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 150. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:02:39](/episodes/ep-LATnak75Si0.md#t-00-02-10) 
@@ -1309,7 +1213,7 @@ date: "2025-09-03"
 
 > from UVU for Charlie to speak on their campus in mid-July, o
 
-### 163. To My Friend, Charlie Kirk.
+### 151. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:01:20](/episodes/ep-_dRaEO47-co.md#t-00-00-37) 
@@ -1317,7 +1221,7 @@ date: "2025-09-03"
 
 > lie's ambitious. I met him back in 2017, when Turning Point was this very young organization. Nobody knew who I was. Nobody knew who Charli
 
-### 164. To My Friend, Charlie Kirk.
+### 152. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:07:09](/episodes/ep-_dRaEO47-co.md#t-00-07-08) 
@@ -1325,7 +1229,7 @@ date: "2025-09-03"
 
 > one. Actually, I think for that particular event, Dave Rubin hopped on, and the rest was future. For two years straight, Charlie and I flew aroun
 
-### 165. To My Friend, Charlie Kirk.
+### 153. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:15:22](/episodes/ep-_dRaEO47-co.md#t-00-14-52) 
@@ -1333,7 +1237,7 @@ date: "2025-09-03"
 
 > we got chased out of a Philadelphia restaurant by Antifa, and they threw water and they threw an egg on Charlie? We were just amazed at how q
 
-### 166. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
+### 154. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 **Timestamp:** [00:30:38](/episodes/ep-UBkFkg4UNY8.md#t-00-30-03) 
@@ -1341,7 +1245,7 @@ date: "2025-09-03"
 
 > iend of Charlie, who sat down with Alex Clark to answer questions pertaining to whether or not Charlie was converting to Catholici
 
-### 167. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 155. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:16:05](/episodes/ep-MUA9ebCF4Ow.md#t-00-15-57) 
@@ -1349,7 +1253,7 @@ date: "2025-09-03"
 
 > architecture. That's a lie, told and reinforced by Alex Clar
 
-### 168. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
+### 156. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 **Timestamp:** [00:46:08](/episodes/ep-2WEHTk0Xewg.md#t-00-46-02) 
@@ -1357,15 +1261,7 @@ date: "2025-09-03"
 
 > really taking a lot of heat for this, and people are really
 
-### 169. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:02:55](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(175);return false;">▶️ Play</a>
-
-> f out. Blake Neff, by the way, is the producer of The Charlie Kirk Show. Now he is kind of the rotating talent of The Charlie Kirk Show. He was already featured with Charl
-
-### 170. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 157. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:27:03](/episodes/ep-Qt0VHV-POCg.md#t-00-26-17) 
@@ -1373,15 +1269,7 @@ date: "2025-09-03"
 
 > ere. As soon as Charlie got shot, we were told by Andrew Kolvet—who was now missing from today's episode of the Charlie Kirk show—that it was because Charlie was v
 
-### 171. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
-
-**Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:04:17](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p-t-00-00-00) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(257);return false;">▶️ Play</a>
-
-> ns against people at Turning Point USA, people at Turning Point Action, and people who work for this show. She's made them against some of Charlie's closest friends and a
-
-### 172. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 158. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:13:20](/episodes/ep-a-e7HC6SeK8.md#t-00-12-37) 
@@ -1389,7 +1277,7 @@ date: "2025-09-03"
 
 > 't really know. But the one I'm speaking about is Cloverstone Ventures. Stacey, by the way, is the senior advancement director at Turning Point USA. She was brought in sp
 
-### 173. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 159. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:14:22](/episodes/ep-a-e7HC6SeK8.md#t-00-14-05) 
@@ -1397,7 +1285,7 @@ date: "2025-09-03"
 
 > . Everyone was like, "Who's filming his casket," as it's being escorted off of Air Force Two, crying, holding that—Stacey. Like I said, I just felt spiritually that Charlie hiring her w
 
-### 174. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 160. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:19:16](/episodes/ep-a-e7HC6SeK8.md#t-00-19-05) 
@@ -1405,7 +1293,7 @@ date: "2025-09-03"
 
 > Westchester, New York. At the end of July—this is a new litt
 
-### 175. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
+### 161. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 **Timestamp:** [00:21:40](/episodes/ep-a-e7HC6SeK8.md#t-00-21-13) 
@@ -1413,7 +1301,7 @@ date: "2025-09-03"
 
 > to end on the 25th. And then, a couple of days later, we hav
 
-### 176. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
+### 162. Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace...
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 **Timestamp:** [00:35:57](/episodes/ep-LATnak75Si0.md#t-00-35-24) 
@@ -1421,7 +1309,7 @@ date: "2025-09-03"
 
 > was doing is like running in the back of my head. Blake Neff, who was there—he's also carrying on Charlie's show. And he was pretty fired up about
 
-### 177. Shocking Revelation About The Egyptian Planes... | Candace E...
+### 163. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 **Timestamp:** [00:27:46](/episodes/ep-ZAuuSq_j2_w.md#t-00-27-03) 
@@ -1429,7 +1317,7 @@ date: "2025-09-03"
 
 > what it must be. Frank Turek has come out, and he's telling
 
-### 178. Who Moved The Camera Right Above Charlie's Head? | Candace E...
+### 164. Who Moved The Camera Right Above Charlie's Head? | Candace E...
 
 **Episode:** [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 **Timestamp:** [00:34:46](/episodes/ep-aDlhjfW6hz8.md#t-00-34-12) 
@@ -1437,7 +1325,7 @@ date: "2025-09-03"
 
 > And the strangest thing is that Pam Bondi, who is a complete loser and a tool, is trying to use the assassination of Charlie Kirk to lay the groundwork for hate speech laws in America. The very thing
 
-### 179. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 165. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:15:13](/episodes/ep-ja26iltROkM.md#t-00-15-13) 
@@ -1445,7 +1333,7 @@ date: "2025-09-03"
 
 > ed to ensuring the investigation into Charlie Kirk's assassination is thorough and exhaustive, pursuing every lead to its conclusion. The full weight of America's law enforcement agen
 
-### 180. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 166. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:16:53](/episodes/ep-ja26iltROkM.md#t-00-16-26) 
@@ -1453,7 +1341,7 @@ date: "2025-09-03"
 
 > l areas caused the apparent gap. The entire FBI mourns the loss of Charlie Kirk. We will not rest until justice is served, and our investigation into this assassination will continue un
 
-### 181. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 167. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:53:40](/episodes/ep-ja26iltROkM.md#t-00-53-40) 
@@ -1461,7 +1349,7 @@ date: "2025-09-03"
 
 > is evil." Yes, we did this left and right—you know—forcing the FBI's hand and saying, "Okay, maybe these messages didn't happen." Marzi continues: "Netanyahu is using Charlie's death
 
-### 182. Why Isn't The Trump Family Asking Questions About Charlie Ki...
+### 168. Why Isn't The Trump Family Asking Questions About Charlie Ki...
 
 **Episode:** [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 **Timestamp:** [00:20:35](/episodes/ep-Qt0VHV-POCg.md#t-00-20-35) 
@@ -1469,7 +1357,7 @@ date: "2025-09-03"
 
 > ants to be—he's got a very small team of people at the FBI that are allowed to touch anything pertaining to the Charlie Kirk case because you know, this is transparency. Finally, the adults are in cha
 
-### 183. They Are Lying About Charlie Kirk. | Candace Ep 235
+### 169. They Are Lying About Charlie Kirk. | Candace Ep 235
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 **Timestamp:** [00:37:43](/episodes/ep-czVBmqZP6Ss.md#t-00-37-05) 
@@ -1477,7 +1365,7 @@ date: "2025-09-03"
 
 > has the barrel installed. So we're supposed to believe a guy is on the run after killing Charlie and he pauses in the woods to reinstall a barrel, and then he leaves it for us to find,
 
-### 184. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
+### 170. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 **Timestamp:** [00:52:31](/episodes/ep-SKGUzGHymcI.md#t-00-51-52) 
@@ -1485,7 +1373,7 @@ date: "2025-09-03"
 
 > ed to him. Bigfoot Believer writes, with everything that you've uncovered, is there any chance our extremely unserious government will ever prosecute Charlie's killers? If not, Kash Pat
 
-### 185. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 171. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:23:18](/episodes/ep-MUA9ebCF4Ow.md#t-00-23-07) 
@@ -1493,7 +1381,7 @@ date: "2025-09-03"
 
 > if you have that information, please email moretips@candaceowens.com. Now, to my Turning Point USA people, I would like to give a special shout-out to Dylan Erickson and Austin Erickson, the bros that
 
-### 186. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
+### 172. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
 **Episode:** [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 **Timestamp:** [00:13:16](/episodes/ep-JQjCAsfoXEE.md#t-00-13-16) 
@@ -1501,7 +1389,7 @@ date: "2025-09-03"
 
 > rant fund. Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie, and so Charlie flew into Salt Lake to make this interview happen. That to me
 
-### 187. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
+### 173. Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie...
 
 **Episode:** [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 **Timestamp:** [00:42:13](/episodes/ep-MUA9ebCF4Ow.md#t-00-42-13) 
@@ -1509,7 +1397,7 @@ date: "2025-09-03"
 
 > onal anthem for Turning Point USA. Get off of the internet if you do not have it within you the courage to withstand Elijah Schaffer making a joke, okay? All of these people have said things about me.
 
-### 188. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
+### 174. Charlie's Final Hours. What Else Is Josh Hammer Lying About?...
 
 **Episode:** [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md)
 **Timestamp:** [00:32:20](/episodes/ep-2Riv3I7D0Yk.md#t-00-32-20) 
@@ -1517,7 +1405,7 @@ date: "2025-09-03"
 
 > ld have gone over the one thing that hurt Charlie the most: was that he would never be able to wear an IDF uniform. He just wanted to go fight for Israel. That's kind of the vibes that
 
-### 189. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 175. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:32:42](/episodes/ep-ja26iltROkM.md#t-00-32-41) 
@@ -1525,7 +1413,7 @@ date: "2025-09-03"
 
 > g to: the conversation that I had with Ami Kozak. And clearly Charlie probably said to him, "You can watch this to get her viewpoints." "Candace is not anti-Semitic." An
 
-### 190. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
+### 176. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 **Timestamp:** [00:47:59](/episodes/ep-5autG89PW6w.md#t-00-47-46) 
@@ -1533,7 +1421,7 @@ date: "2025-09-03"
 
 > she addresses on her shows to acknowledge that much of what she is presenting on the subject of Charlie's death is extremely concerning to America and to the world—completely valid and
 
-### 191. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 177. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-43) 
@@ -1541,7 +1429,7 @@ date: "2025-09-03"
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's s
 
-### 192. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
+### 178. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 **Timestamp:** [00:08:07](/episodes/ep-ja26iltROkM.md#t-00-07-29) 
@@ -1549,7 +1437,7 @@ date: "2025-09-03"
 
 > after was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was
 
-### 193. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
+### 179. MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Ch...
 
 **Episode:** [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 **Timestamp:** [00:08:39](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16) 
@@ -1557,7 +1445,7 @@ date: "2025-09-03"
 
 > ssion with him. I also had a long discussion with Andrew Kolvet separately, telling them both that Charlie should host Nick Fuentes on his show and d
 
-### 194. To My Friend, Charlie Kirk.
+### 180. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 **Timestamp:** [00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11) 
@@ -1565,7 +1453,7 @@ date: "2025-09-03"
 
 > mber just being behind Charlie and Andrew Kolvet. And he just held the line. He held the line because he agreed with me, and he knew it was going to
 
-### 195. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
+### 181. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 **Timestamp:** [00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59) 

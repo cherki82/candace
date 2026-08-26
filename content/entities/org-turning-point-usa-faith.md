@@ -212,7 +212,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 > "...ed if they were tracking Charlie (Charlie Kirk). We then obviously realized that they were tracking TPUSA Faith events and that many more times they were following and perhaps tracking Erika. You should be conce..."
 
 **[00:10:58](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24)**
-> "... after some events. So I'm glad we're going to live-stream that. Keep going. She has suggested that TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy,..."
+> "She has suggested that TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy, are part of a military, quote, "infiltration of Turning Point," either because they are veterans or because they have family members who are."
 
 </details>
 

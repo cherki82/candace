@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 3784 factual claims and 6337 attributed statements"
+description: "Browse 3793 factual claims and 6368 attributed statements"
 ---
 
 # Claims & Statements
 
-_3784 factual claims within 6337 attributed statements._
+_3793 factual claims within 6368 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -36,7 +36,7 @@ _3784 factual claims within 6337 attributed statements._
 
 <div class="tab-controls">
   <label for="tab-bytype" class="tab-btn">By Type</label>
-  <label for="tab-byepisode" class="tab-btn">By Episode (141)</label>
+  <label for="tab-byepisode" class="tab-btn">By Episode (142)</label>
 </div>
 
 <style>
@@ -53,7 +53,7 @@ _3784 factual claims within 6337 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (3784)</strong></summary>
+<summary><strong class="section-title">Factual Claims (3793)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (18)</summary>
@@ -164,6 +164,65 @@ _3784 factual claims within 6337 attributed statements._
 
 - [03:41:36](/episodes/ep-nPhCKwJ6ye8.md#t-03-41-36) [✓] **Candace Owens**: ["Candace Owens says she spoke to the steakhouse owner and saw a receipt, which sh..."](/statements/statement-a19c5a074696.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-07-21 · Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (9)</summary>
+
+<div class="filter-item">
+
+- [00:00:18](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01) [✓] **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous Kirk family source said Erika Kirk refers to Candace ..."](/statements/statement-ea5c338090f2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:30](/episodes/ep-OgRyiOAVtWU.md#t-00-06-19) [◐] **Candace Owens**: ["The left rear door where Rick Cutler sat was relatively clean immediately after ..."](/statements/statement-15f6c09d21dd.md)
+  - About: [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) [○] **Candace Owens**: ["Michael McCoy rented two SUVs in Salt Lake City; Blake Neff and Danny Philip use..."](/statements/statement-de022607d5e7.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) [○] **Candace Owens**: ["Owens said Danny Philip called Michael McCoy and they remained on the phone for ..."](/statements/statement-51759fdb5429.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:07](/episodes/ep-OgRyiOAVtWU.md#t-00-26-31) [✓] **Candace Owens**: ["Turning Point USA gave the Daily Mail special access to an unedited Charlie Kirk..."](/statements/statement-23562ee3ac1b.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:03](/episodes/ep-OgRyiOAVtWU.md#t-00-32-48) [◐] **Candace Owens**: ["Owens said Erika Kirk filed three trademarks three weeks after Charlie Kirk's as..."](/statements/statement-8beb9c509d3c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:27](/episodes/ep-OgRyiOAVtWU.md#t-00-35-19) [○] **Candace Owens**: ["Owens said her operation sold no Charlie Kirk memorabilia after his death and ra..."](/statements/statement-29b829a13e8d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [To My Friend, Charlie Kirk.](/entities/work-to-my-friend-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:07](/episodes/ep-OgRyiOAVtWU.md#t-00-35-54) [◐] **Candace Owens**: ["Owens said her show was already in the global top ten before Charlie Kirk died a..."](/statements/statement-a7b592056bd6.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace (podcast)](/entities/work-candace-podcast-series.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13) [✓] **Seth Dillon**: ["Seth Dillon wrote that Alex Jones was held liable not for questioning an officia..."](/statements/statement-6bba1944ff3b.md)
+  - About: [Alex Jones](/entities/person-alex-jones.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
 
 </div>
 </details>
@@ -11975,7 +12034,7 @@ _3784 factual claims within 6337 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [○] **Blake Neff**: ["Blake Neff said Mikey McCoy called Erika Kirk immediately after the shooting, th..."](/statements/statement-4a781858dc80.md)
+- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [✓] **Blake Neff**: ["Blake Neff said that, although he might have been imagining the exact words, he ..."](/statements/statement-4a781858dc80.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
@@ -14203,12 +14262,12 @@ _3784 factual claims within 6337 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:18:27](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) [✓] **Ministry of the Armed Forces**: ["Tyler Robinson was never part of the French Foreign Legion. If he did not serve ..."](/statements/statement-3e634b3fcfa8.md)
+- [00:18:18](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) [○] **Candace Owens**: ["The French Legionnaires might have been on the ground during Charlie Kirk's assa..."](/statements/statement-b622215ef7ac.md)
 
 </div>
 <div class="filter-item">
 
-- [00:18:27](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) [○] **Candace Owens**: ["The French Legionnaires might have been on the ground during Charlie Kirk's assa..."](/statements/statement-b622215ef7ac.md)
+- [00:18:27](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) [✓] **Ministry of the Armed Forces**: ["Tyler Robinson was never part of the French Foreign Legion. If he did not serve ..."](/statements/statement-3e634b3fcfa8.md)
 
 </div>
 <div class="filter-item">
@@ -22610,7 +22669,7 @@ _3784 factual claims within 6337 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1394)</strong></summary>
+<summary><strong class="section-title">Accusations (1401)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (9)</summary>
@@ -22667,6 +22726,53 @@ _3784 factual claims within 6337 attributed statements._
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) [✓] **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple people were in..."](/statements/statement-4735330c37c9.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-07-21 · Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (7)</summary>
+
+<div class="filter-item">
+
+- [00:09:22](/episodes/ep-OgRyiOAVtWU.md#t-00-08-53) [✓] **Candace Owens**: ["Owens questioned why federal authorities would want the SUV immediately released..."](/statements/statement-048536548e8c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:40](/episodes/ep-OgRyiOAVtWU.md#t-00-22-40) [✓] **Candace Owens**: ["Owens said Erika Kirk personally took credit for having Matt Walsh cancel his in..."](/statements/statement-7111cfb48bbc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Matt Walsh](/entities/person-matt-walsh.md), [Catholics for Catholics](/entities/org-catholics-for-catholics.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:29](/episodes/ep-OgRyiOAVtWU.md#t-00-23-21) [✓] **Candace Owens**: ["Owens said Erika Kirk explicitly told people that the Catholic prayer event was ..."](/statements/statement-a9e86b1bbab8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Catholics for Catholics](/entities/org-catholics-for-catholics.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:01](/episodes/ep-OgRyiOAVtWU.md#t-00-24-01) [✓] **Candace Owens**: ["Owens accused Erika Kirk and Andrew Kolvet of directing attacks against her from..."](/statements/statement-7dd176e8843b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:58](/episodes/ep-OgRyiOAVtWU.md#t-00-24-37) [✓] **Candace Owens**: ["Owens accused Turning Point USA of making personal and public calls to have her ..."](/statements/statement-2e7cddf34352.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:14](/episodes/ep-OgRyiOAVtWU.md#t-00-32-04) [✓] **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous source said Candace Owens had made the Charlie Kirk c..."](/statements/statement-1abf76dfc9ef.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:48](/episodes/ep-OgRyiOAVtWU.md#t-00-45-48) [✓] **Blake Neff**: ["Blake Neff said Candace Owens had spent ten months targeting Erika Kirk, Turning..."](/statements/statement-2267fc637b52.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 </details>
@@ -31599,7 +31705,7 @@ _3784 factual claims within 6337 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Predictions (56)</strong></summary>
+<summary><strong class="section-title">Predictions (57)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -31608,6 +31714,17 @@ _3784 factual claims within 6337 attributed statements._
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) [○] **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have been involve..."](/statements/statement-d5c74ed071c8.md)
   - About: [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-07-21 · Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
+
+<div class="filter-item">
+
+- [00:00:59](/episodes/ep-OgRyiOAVtWU.md#t-00-00-36) [○] **Candace Owens**: ["Owens inferred that Turning Point USA's repeated Sandy Hook comparisons signaled..."](/statements/statement-5ce67669d130.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
 
 </div>
 </details>
@@ -33046,7 +33163,7 @@ _3784 factual claims within 6337 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Citations (317)</strong></summary>
+<summary><strong class="section-title">Citations (318)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (8)</summary>
@@ -33097,6 +33214,17 @@ _3784 factual claims within 6337 attributed statements._
 
 - [03:25:17](/episodes/ep-nPhCKwJ6ye8.md#t-03-25-12) [✓] **Candace Owens**: ["After rewatching the testimony, Candace Owens corrected her earlier claim: only ..."](/statements/statement-7d36617db0e1.md)
   - About: [Matt Robinson](/entities/person-matt-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Amber Robinson](/entities/person-amber-robinson.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-07-21 · Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
+
+<div class="filter-item">
+
+- [00:27:40](/episodes/ep-OgRyiOAVtWU.md#t-00-27-14) [✓] **Candace Owens**: ["Owens said the Daily Mail article's author sought comment from Turning Point USA..."](/statements/statement-ee7cde8d8a82.md)
+  - About: [Daily Mail](/entities/org-daily-mail.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 </details>
@@ -35367,7 +35495,7 @@ _3784 factual claims within 6337 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Opinions (681)</strong></summary>
+<summary><strong class="section-title">Opinions (694)</strong></summary>
 
 <details>
 <summary>2026-08-14 · Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5)</summary>
@@ -35400,6 +35528,89 @@ _3784 factual claims within 6337 attributed statements._
 
 - [03:57:47](/episodes/ep-nPhCKwJ6ye8.md#t-03-57-15) [○] **Andrew Wilson**: ["Andrew Wilson concluded that no alternative theory presented in the debate had e..."](/statements/statement-d32537eb2441.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+</details>
+
+<details>
+<summary>2026-07-21 · Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (13)</summary>
+
+<div class="filter-item">
+
+- [00:04:14](/episodes/ep-OgRyiOAVtWU.md#t-00-04-14) [○] **Candace Owens**: ["Owens could not definitively identify the object in the SUV door compartment but..."](/statements/statement-7995fb709543.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:01](/episodes/ep-OgRyiOAVtWU.md#t-00-08-53) [○] **Candace Owens**: ["Some people, including surgeons, identified the object in the SUV as a burned sh..."](/statements/statement-b4efc2542a2a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:34](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07) [○] **Candace Owens**: ["Owens said she wanted no harm to come to Erika Kirk or anyone at Turning Point U..."](/statements/statement-e8652cff2809.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:35](/episodes/ep-OgRyiOAVtWU.md#t-00-29-13) [✓] **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous source reported that Erika Kirk said she almost felt ..."](/statements/statement-ecd5db8e896c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56) [○] **Candace Owens**: ["Owens said she had not seen convincing evidence that Tyler Robinson committed th..."](/statements/statement-0b6fcc2dc1ba.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:41](/episodes/ep-OgRyiOAVtWU.md#t-00-36-35) [✓] **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous source said Erika Kirk sometimes exploded in tirades ..."](/statements/statement-9bc7a642a9b5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:04](/episodes/ep-OgRyiOAVtWU.md#t-00-38-04) [○] **Candace Owens**: ["Owens accused Erika Kirk of pursuing fame and fortune throughout her life and vi..."](/statements/statement-53e2004f76ec.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:21](/episodes/ep-OgRyiOAVtWU.md#t-00-43-58) [✓] **Tim Pool**: ["Tim Pool asked why YouTube and X were amplifying claims that the official accoun..."](/statements/statement-778c5852945f.md)
+  - About: [Tim Pool](/entities/person-tim-pool.md), [YouTube](/entities/org-youtube.md), [Twitter](/entities/org-twitter.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:29](/episodes/ep-OgRyiOAVtWU.md#t-00-48-09) [✓] **David Freiheit**: ["David Freiheit said he did not know whether Tyler Robinson fired the gun but des..."](/statements/statement-a4c3be6b8469.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:08](/episodes/ep-OgRyiOAVtWU.md#t-00-48-54) [✓] **David Freiheit**: ["David Freiheit said a more plausible alternative theory could be presented, but ..."](/statements/statement-51701d5d02b1.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:31](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31) [✓] **Charlie Kirk**: ["Charlie Kirk called Alex Jones patient zero for the censorship regime and for la..."](/statements/statement-5a8fbdf830da.md)
+  - About: [Alex Jones](/entities/person-alex-jones.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:59](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31) [✓] **Charlie Kirk**: ["Charlie Kirk said what Alex Jones said and did was not right, but asked whether ..."](/statements/statement-0614f81ed93e.md)
+  - About: [Alex Jones](/entities/person-alex-jones.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:23](/episodes/ep-OgRyiOAVtWU.md#t-00-54-10) [✓] **Charlie Kirk**: ["Charlie Kirk wrote that the billion-dollar verdict and bankruptcy actions agains..."](/statements/statement-0ed8dcff929a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Alex Jones](/entities/person-alex-jones.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
 
 </div>
 </details>
@@ -40284,6 +40495,197 @@ _3784 factual claims within 6337 attributed statements._
 
 - [04:01:26](/episodes/ep-nPhCKwJ6ye8.md#t-04-01-26) [✓] (Accusation) **Candace Owens**: ["Candace Owens still believes there is more evidence that multiple people were in..."](/statements/statement-4735330c37c9.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</div>
+</details>
+
+<details>
+<summary><strong>2026-07-21 · Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363</strong> (31)</summary>
+
+<div class="filter-item">
+
+- [00:00:18](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01) [✓] (Claim) **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous Kirk family source said Erika Kirk refers to Candace ..."](/statements/statement-ea5c338090f2.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:00:59](/episodes/ep-OgRyiOAVtWU.md#t-00-00-36) [○] (Prediction) **Candace Owens**: ["Owens inferred that Turning Point USA's repeated Sandy Hook comparisons signaled..."](/statements/statement-5ce67669d130.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
+
+</div>
+<div class="filter-item">
+
+- [00:04:14](/episodes/ep-OgRyiOAVtWU.md#t-00-04-14) [○] (Opinion) **Candace Owens**: ["Owens could not definitively identify the object in the SUV door compartment but..."](/statements/statement-7995fb709543.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:06:30](/episodes/ep-OgRyiOAVtWU.md#t-00-06-19) [◐] (Claim) **Candace Owens**: ["The left rear door where Rick Cutler sat was relatively clean immediately after ..."](/statements/statement-15f6c09d21dd.md)
+  - About: [Rick Cutler](/entities/person-rick-cutler.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:01](/episodes/ep-OgRyiOAVtWU.md#t-00-08-53) [○] (Opinion) **Candace Owens**: ["Some people, including surgeons, identified the object in the SUV as a burned sh..."](/statements/statement-b4efc2542a2a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:09:22](/episodes/ep-OgRyiOAVtWU.md#t-00-08-53) [✓] (Accusation) **Candace Owens**: ["Owens questioned why federal authorities would want the SUV immediately released..."](/statements/statement-048536548e8c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) [○] (Claim) **Candace Owens**: ["Michael McCoy rented two SUVs in Salt Lake City; Blake Neff and Danny Philip use..."](/statements/statement-de022607d5e7.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Danny Philip](/entities/person-danny-philip.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) [○] (Claim) **Candace Owens**: ["Owens said Danny Philip called Michael McCoy and they remained on the phone for ..."](/statements/statement-51759fdb5429.md)
+  - About: [Danny Philip](/entities/person-danny-philip.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</div>
+<div class="filter-item">
+
+- [00:22:40](/episodes/ep-OgRyiOAVtWU.md#t-00-22-40) [✓] (Accusation) **Candace Owens**: ["Owens said Erika Kirk personally took credit for having Matt Walsh cancel his in..."](/statements/statement-7111cfb48bbc.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Matt Walsh](/entities/person-matt-walsh.md), [Catholics for Catholics](/entities/org-catholics-for-catholics.md)
+
+</div>
+<div class="filter-item">
+
+- [00:23:29](/episodes/ep-OgRyiOAVtWU.md#t-00-23-21) [✓] (Accusation) **Candace Owens**: ["Owens said Erika Kirk explicitly told people that the Catholic prayer event was ..."](/statements/statement-a9e86b1bbab8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Catholics for Catholics](/entities/org-catholics-for-catholics.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:01](/episodes/ep-OgRyiOAVtWU.md#t-00-24-01) [✓] (Accusation) **Candace Owens**: ["Owens accused Erika Kirk and Andrew Kolvet of directing attacks against her from..."](/statements/statement-7dd176e8843b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:58](/episodes/ep-OgRyiOAVtWU.md#t-00-24-37) [✓] (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of making personal and public calls to have her ..."](/statements/statement-2e7cddf34352.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:25:34](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07) [○] (Opinion) **Candace Owens**: ["Owens said she wanted no harm to come to Erika Kirk or anyone at Turning Point U..."](/statements/statement-e8652cff2809.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:07](/episodes/ep-OgRyiOAVtWU.md#t-00-26-31) [✓] (Claim) **Candace Owens**: ["Turning Point USA gave the Daily Mail special access to an unedited Charlie Kirk..."](/statements/statement-23562ee3ac1b.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:27:40](/episodes/ep-OgRyiOAVtWU.md#t-00-27-14) [✓] (Citation) **Candace Owens**: ["Owens said the Daily Mail article's author sought comment from Turning Point USA..."](/statements/statement-ee7cde8d8a82.md)
+  - About: [Daily Mail](/entities/org-daily-mail.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:29:35](/episodes/ep-OgRyiOAVtWU.md#t-00-29-13) [✓] (Opinion) **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous source reported that Erika Kirk said she almost felt ..."](/statements/statement-ecd5db8e896c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:30:14](/episodes/ep-OgRyiOAVtWU.md#t-00-29-56) [○] (Opinion) **Candace Owens**: ["Owens said she had not seen convincing evidence that Tyler Robinson committed th..."](/statements/statement-0b6fcc2dc1ba.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</div>
+<div class="filter-item">
+
+- [00:32:14](/episodes/ep-OgRyiOAVtWU.md#t-00-32-04) [✓] (Accusation) **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous source said Candace Owens had made the Charlie Kirk c..."](/statements/statement-1abf76dfc9ef.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:33:03](/episodes/ep-OgRyiOAVtWU.md#t-00-32-48) [◐] (Claim) **Candace Owens**: ["Owens said Erika Kirk filed three trademarks three weeks after Charlie Kirk's as..."](/statements/statement-8beb9c509d3c.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:35:27](/episodes/ep-OgRyiOAVtWU.md#t-00-35-19) [○] (Claim) **Candace Owens**: ["Owens said her operation sold no Charlie Kirk memorabilia after his death and ra..."](/statements/statement-29b829a13e8d.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [To My Friend, Charlie Kirk.](/entities/work-to-my-friend-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:07](/episodes/ep-OgRyiOAVtWU.md#t-00-35-54) [◐] (Claim) **Candace Owens**: ["Owens said her show was already in the global top ten before Charlie Kirk died a..."](/statements/statement-a7b592056bd6.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace (podcast)](/entities/work-candace-podcast-series.md)
+
+</div>
+<div class="filter-item">
+
+- [00:36:41](/episodes/ep-OgRyiOAVtWU.md#t-00-36-35) [✓] (Opinion) **Anonymous Source #1 (Ep OgRyiOAVtWU)**: ["The Daily Mail's anonymous source said Erika Kirk sometimes exploded in tirades ..."](/statements/statement-9bc7a642a9b5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:38:04](/episodes/ep-OgRyiOAVtWU.md#t-00-38-04) [○] (Opinion) **Candace Owens**: ["Owens accused Erika Kirk of pursuing fame and fortune throughout her life and vi..."](/statements/statement-53e2004f76ec.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13) [✓] (Claim) **Seth Dillon**: ["Seth Dillon wrote that Alex Jones was held liable not for questioning an officia..."](/statements/statement-6bba1944ff3b.md)
+  - About: [Alex Jones](/entities/person-alex-jones.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
+
+</div>
+<div class="filter-item">
+
+- [00:44:21](/episodes/ep-OgRyiOAVtWU.md#t-00-43-58) [✓] (Opinion) **Tim Pool**: ["Tim Pool asked why YouTube and X were amplifying claims that the official accoun..."](/statements/statement-778c5852945f.md)
+  - About: [Tim Pool](/entities/person-tim-pool.md), [YouTube](/entities/org-youtube.md), [Twitter](/entities/org-twitter.md)
+
+</div>
+<div class="filter-item">
+
+- [00:45:48](/episodes/ep-OgRyiOAVtWU.md#t-00-45-48) [✓] (Accusation) **Blake Neff**: ["Blake Neff said Candace Owens had spent ten months targeting Erika Kirk, Turning..."](/statements/statement-2267fc637b52.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:29](/episodes/ep-OgRyiOAVtWU.md#t-00-48-09) [✓] (Opinion) **David Freiheit**: ["David Freiheit said he did not know whether Tyler Robinson fired the gun but des..."](/statements/statement-a4c3be6b8469.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:49:08](/episodes/ep-OgRyiOAVtWU.md#t-00-48-54) [✓] (Opinion) **David Freiheit**: ["David Freiheit said a more plausible alternative theory could be presented, but ..."](/statements/statement-51701d5d02b1.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:31](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31) [✓] (Opinion) **Charlie Kirk**: ["Charlie Kirk called Alex Jones patient zero for the censorship regime and for la..."](/statements/statement-5a8fbdf830da.md)
+  - About: [Alex Jones](/entities/person-alex-jones.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+
+</div>
+<div class="filter-item">
+
+- [00:50:59](/episodes/ep-OgRyiOAVtWU.md#t-00-50-31) [✓] (Opinion) **Charlie Kirk**: ["Charlie Kirk said what Alex Jones said and did was not right, but asked whether ..."](/statements/statement-0614f81ed93e.md)
+  - About: [Alex Jones](/entities/person-alex-jones.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
+
+</div>
+<div class="filter-item">
+
+- [00:54:23](/episodes/ep-OgRyiOAVtWU.md#t-00-54-10) [✓] (Opinion) **Charlie Kirk**: ["Charlie Kirk wrote that the billion-dollar verdict and bankruptcy actions agains..."](/statements/statement-0ed8dcff929a.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Alex Jones](/entities/person-alex-jones.md), [Sandy Hook Elementary School shooting](/entities/event-sandy-hook-elementary-school-shooting.md)
 
 </div>
 </details>
@@ -63507,7 +63909,7 @@ _3784 factual claims within 6337 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [○] (Claim) **Blake Neff**: ["Blake Neff said Mikey McCoy called Erika Kirk immediately after the shooting, th..."](/statements/statement-4a781858dc80.md)
+- [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) [✓] (Claim) **Blake Neff**: ["Blake Neff said that, although he might have been imagining the exact words, he ..."](/statements/statement-4a781858dc80.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
@@ -66431,12 +66833,12 @@ _3784 factual claims within 6337 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:18:27](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) [✓] (Claim) **Ministry of the Armed Forces**: ["Tyler Robinson was never part of the French Foreign Legion. If he did not serve ..."](/statements/statement-3e634b3fcfa8.md)
+- [00:18:18](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) [○] (Claim) **Candace Owens**: ["The French Legionnaires might have been on the ground during Charlie Kirk's assa..."](/statements/statement-b622215ef7ac.md)
 
 </div>
 <div class="filter-item">
 
-- [00:18:27](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) [○] (Claim) **Candace Owens**: ["The French Legionnaires might have been on the ground during Charlie Kirk's assa..."](/statements/statement-b622215ef7ac.md)
+- [00:18:27](/episodes/ep-tB5SXXmd9vU.md#t-00-18-18) [✓] (Claim) **Ministry of the Armed Forces**: ["Tyler Robinson was never part of the French Foreign Legion. If he did not serve ..."](/statements/statement-3e634b3fcfa8.md)
 
 </div>
 <div class="filter-item">
@@ -77710,4 +78112,4 @@ _3784 factual claims within 6337 attributed statements._
 
 ---
 
-*Generated: 2026-08-26 14:19:42*
+*Generated: 2026-08-26 19:45:13*

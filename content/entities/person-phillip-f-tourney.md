@@ -118,10 +118,9 @@ Source: [Meet Phil | The Phil Tourney Podcast](https://philtourney.com/about)
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 01:04:06](/episodes/ep-his-JBjlkh8.md#t-01-03-25): “when we interviewed Phil Tourney of the USS Liberty.”
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#t-00-09-34): “[01:04:06] ...you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:04:11](/episodes/ep-1QZ4X6q1DPg.md#t-00-03-44): “And I am talking about—I would rank Phil Tourney and the USS Liberty interview as the number-one most consequential.”
 - [Candace x Hunter Biden: The Interview @ 00:00:18](/episodes/ep-Ux1kzgQxkws.md#t-00-00-05): “what was the best interview I ever did. And I said, without question, the USS Liberty survivor, Phil Tourney.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:16:24](/episodes/ep-YeEtS7nix3o.md#t-00-15-41): “Thomas Massie. announcing that he's doing something to honor the survivors of the USS Liberty, Phil Tourney being the person that I interviewed.”
@@ -135,10 +134,9 @@ Source: [Meet Phil | The Phil Tourney Podcast](https://philtourney.com/about)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 01:04:06](/episodes/ep-his-JBjlkh8.md#t-01-03-25): “when we interviewed Phil Tourney of the USS Liberty.”
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#t-00-09-34): “[01:04:06] ...you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:04:11](/episodes/ep-1QZ4X6q1DPg.md#t-00-03-44): “And I am talking about—I would rank Phil Tourney and the USS Liberty interview as the number-one most consequential.”
 - [Candace x Hunter Biden: The Interview @ 00:00:18](/episodes/ep-Ux1kzgQxkws.md#t-00-00-05): “what was the best interview I ever did. And I said, without question, the USS Liberty survivor, Phil Tourney.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:16:24](/episodes/ep-YeEtS7nix3o.md#t-00-15-41): “Thomas Massie. announcing that he's doing something to honor the survivors of the USS Liberty, Phil Tourney being the person that I interviewed.”

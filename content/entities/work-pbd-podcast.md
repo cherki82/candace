@@ -97,7 +97,7 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-work-pbd-podcast-t-00-46-56)**
-> "... people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This is friends..."
+> "Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast."
 
 **[00:57:23](/episodes/ep-tB5SXXmd9vU.md#ent-work-pbd-podcast-t-00-57-16)**
 > "...or whatever, who wouldn't stop talking. So that's him. He's just Alex who won't stop talking on the PBD podcast because his only mission in life is to defend Zionism, to defend Zionists and to attack people who ..."

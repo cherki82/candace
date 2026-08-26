@@ -12,7 +12,7 @@ time: "12:24"
 
 > Blake Neff calls mother 45 seconds after Charlie Kirk shooting at UVU event.
 
-## Mentioned In (159 times)
+## Mentioned In (160 times)
 
 ### 1. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
 
@@ -1285,3 +1285,11 @@ time: "12:24"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1989);return false;">▶️ Play</a>
 
 > I pull out my phone and I call my mom just to say, Mom, there's been a shooting.
+
+### 160. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
+
+**Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
+**Timestamp:** [00:15:37](/episodes/ep-OgRyiOAVtWU.md#event-event-2025-09-10-blake-neff-calls-mother-45-seconds-after-charlie-k-t-00-15-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(937);return false;">▶️ Play</a>
+
+> I pull out my phone and I call my mom just to say, "Mom, there's been a shooting.

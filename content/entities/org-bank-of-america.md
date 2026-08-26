@@ -22,7 +22,7 @@ Source: [About Bank of America: Our strategy, mission & vision](https://about.ba
 <div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -146,14 +146,7 @@ Source: [About Bank of America: Our strategy, mission & vision](https://about.ba
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Acquired (2)</summary>
-
-- **[Bracebridge Complex](/entities/org-bracebridge-complex.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:53](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): “"...from 1995 until 2006, when Bank of America acquired it."”
-
-</details>
+<summary>Acquired (1)</summary>
 
 - **[Merrill Lynch](/entities/org-merrill-lynch.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -210,14 +203,7 @@ Source: [About Bank of America: Our strategy, mission & vision](https://about.ba
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
-
-- **[Bracebridge Complex](/entities/org-bracebridge-complex.md)** acquired by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:53](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): “"...from 1995 until 2006, when Bank of America acquired it."”
-
-</details>
+<summary>Referenced By (6)</summary>
 
 - **[Merrill Lynch](/entities/org-merrill-lynch.md)** acquired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

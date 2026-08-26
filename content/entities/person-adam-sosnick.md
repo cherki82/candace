@@ -84,7 +84,7 @@ _Type: People_
 > "...und, so you know it's not fair to paint with a broad brush, but a broad stroke. But I will say that Adam Sosnick is reaching levels of absurdity here. Rather than at all trying to prod the narrative of whether or..."
 
 **[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
-> "...aughable at this moment, of people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and ..."
+> "Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast."
 
 **[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
 > "No, and by the way, on the subject of who the kind of people that he's referring to, it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie Kirk and lied and said that I hadn't been friends with Charlie Kirk since 2017."
@@ -114,7 +114,7 @@ _Type: People_
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:39](/episodes/ep-tB5SXXmd9vU.md#t-00-46-56): “[00:47:39] SPEAKER_2: Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This is friendship stuff. This is friendship stuff. The most valuable currency you have are the relationships you have with your friends. In my opinion, she's burned every bridge she's ever been associated with.”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:53](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “In my opinion, she's burned every bridge she's ever been associated with.”
 
 </details>
 
@@ -126,7 +126,7 @@ _Type: People_
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:39](/episodes/ep-tB5SXXmd9vU.md#t-00-46-56): “[00:47:39] SPEAKER_2: Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This is friendship stuff. This is friendship stuff. The most valuable currency you have are the relationships you have with your friends. In my opinion, she's burned every bridge she's ever been associated with.”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:53](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “In my opinion, she's burned every bridge she's ever been associated with.”
 
 </details>
 

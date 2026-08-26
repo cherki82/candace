@@ -14,7 +14,7 @@ date: "2025-09-10"
 ## Mentioned In
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:49:59](/episodes/ep-his-JBjlkh8.md#t-00-49-40) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2999);return false;">▶️ Play</a>
+**Timestamp:** [00:49:54](/episodes/ep-his-JBjlkh8.md#event-event-2025-09-10-donald-trump-and-emmanuel-macron-phone-c-t-00-49-40) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2994);return false;">▶️ Play</a>
 
-> this together—that an hour and a half before Charlie was ass
+> now that we know—or that we've learned—and thanks to the internet sleuths and the YouTubers that

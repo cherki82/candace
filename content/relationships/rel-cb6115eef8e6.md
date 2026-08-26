@@ -15,7 +15,7 @@ object: "gpe-washington-county"
 
 **[They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw)**
 
-- [00:20:11](/episodes/ep-ZGxnf5cj4Uw#t-00-20-11): _Today we celebrated the career of Detective Mike Mitchell. After over 24 years of serving, 24 years, Washington County_
+- [00:20:11](/episodes/ep-ZGxnf5cj4Uw#t-00-20-11): _After over 24 years of serving Washington County, he is retiring—starting in the jail back in 1999._
 
 ### Related
 

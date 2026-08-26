@@ -11,7 +11,7 @@ object: "org-balance-of-nature"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Balance of Nature](/entities/org-balance-of-nature)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -24,6 +24,10 @@ object: "org-balance-of-nature"
 **[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
 
 - [00:31:12](/episodes/ep-IqHsl7d2dos#t-00-31-12): _It includes fruits and veggies plus fiber and spice supplements, 47 whole food ingredients in total. So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com and get 10% off their fruits and veggie supplements with the promo code Candace at checkout._
+
+**[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
+
+- [00:42:32](/episodes/ep-OgRyiOAVtWU#t-00-42-32): _So whether you've been on the fence for a long time or it's the first time that you're hearing about them, I recommend that you head to balanceofnature.com to get 10% off their fruits and veggies supplements with promo code Candace at checkout._
 
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 

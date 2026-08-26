@@ -15,7 +15,7 @@ object: "org-us-department-of-defense"
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
-- [00:01:30](/episodes/ep-his-JBjlkh8#t-00-01-30): _"The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense."_
+- [00:37:34](/episodes/ep-his-JBjlkh8#t-00-37-34): _The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense._
 
 ### Related
 

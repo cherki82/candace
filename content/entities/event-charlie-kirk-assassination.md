@@ -298,7 +298,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > "...the means to answer these questions. Anyways, you guys, we're almost at overtime here, but in other assassination news, I wanted to mention to you that The Game—who is a hip-hop rapper—is releasing an album, and h..."
 
 **[00:51:43](/episodes/ep-his-JBjlkh8.md#t-00-51-43)**
-> "...o The Game.] "So you got this new mixtape dropping, and then there's this like one track called The Assassination of Candace Owens? Yeah. Why that title?" Um, because... Recently, I've been seeing conspiracy theor..."
+> ""So you got this new mixtape dropping, and then there's this like one track called The Assassination of Candace Owens?"
 
 **[00:52:01](/episodes/ep-his-JBjlkh8.md#t-00-51-46)**
 > "...elf—self-admitted. She feels like people are conspiring [against] her. So what it was is more so an assassination of the character. So I just used that because it was current news, but the song is not about Candac..."

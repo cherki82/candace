@@ -11,12 +11,11 @@ object: "person-herve-hoppenot"
 
 ## [Incyte](/entities/org-incyte) has CEO [Hervé Hoppenot](/entities/person-herve-hoppenot)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU)**
 
 - [00:33:39](/episodes/ep-tB5SXXmd9vU#t-00-33-39): _the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot._
-- [00:33:45](/episodes/ep-tB5SXXmd9vU#t-00-33-45): _"...the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot."_
 
 ### Related
 

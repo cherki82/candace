@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PreBorn!](/entities/org-preborn) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (11 mentions)
+### Evidence (12 mentions)
 
 **[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410)**
 
 - [00:27:51](/episodes/ep-N4uM8Jdr410#t-00-27-51): _That's why I'm making this critical request today. Give a special gift of $250 to preborn to honor our nation's milestone anniversary and to celebrate our great future ahead._
+
+**[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
+
+- [00:40:11](/episodes/ep-OgRyiOAVtWU#t-00-40-11): _That's why I'm making this critical request today. Give a special gift of $250 to Preborn to honor our country's milestone anniversary and to celebrate our great future ahead._
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 

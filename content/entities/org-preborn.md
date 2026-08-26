@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 198 mentions"
+description: "PreBorn! (Organizations) - 202 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-28-09">2026-07-20 · 00:28:21</a></strong></div>
-<div><span>Episodes</span><strong>61</strong></div>
-<div><span>Mentions</span><strong>198</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04">2026-07-21 · 00:40:42</a></strong></div>
+<div><span>Episodes</span><strong>62</strong></div>
+<div><span>Mentions</span><strong>202</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -98,6 +98,7 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54" style="--pulse-height:71%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-preborn-t-00-24-00" style="--pulse-height:43%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-27-35" style="--pulse-height:57%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 4 mentions" title="2026-07-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04" style="--pulse-height:57%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 4 mentions" title="2026-07-21 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -164,6 +165,7 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-preborn-t-00-25-54) | 5 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-preborn-t-00-24-00) | 3 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-27-35) | 4 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04) | 4 |
 
 </details>
 </section>
@@ -171,7 +173,24 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (198)</strong></summary>
+<summary><strong class="section-title">Raw mentions (202)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (4 mentions)</summary>
+
+**[00:40:11](/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04)**
+> "...ive a special gift of $250 to Preborn to honor our country's milestone anniversary and ..."
+
+**[00:40:21](/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04)**
+> "...lp provide eight ultrasounds. PreBorn is helping today's mothers choose life by providi..."
+
+**[00:40:29](/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04)**
+> "...rthday with your $250 gift to PreBorn today. To donate, simply dial pound 250 and say t..."
+
+**[00:40:42](/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. Preborn.com slash Candace."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (4 mentions)</summary>
@@ -1060,7 +1079,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
@@ -1073,6 +1092,7 @@ Source: [PreBorn!](https://preborn.com/)
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:26:01](/episodes/ep-a2bZf4fic10.md#t-00-25-54): “Give a special gift of”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:24:25](/episodes/ep-puuMVxEu5NU.md#t-00-24-00): “That's why I'm making this critical request today. Give a special gift of $250 to pre-born to honor our country's milestone anniversary and to celebrate our great future ahead.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:27:51](/episodes/ep-N4uM8Jdr410.md#t-00-27-35): “That's why I'm making this critical request today. Give a special gift of $250 to preborn to honor our nation's milestone anniversary and to celebrate our great future ahead.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:11](/episodes/ep-OgRyiOAVtWU.md#t-00-40-04): “That's why I'm making this critical request today. Give a special gift of $250 to Preborn to honor our country's milestone anniversary and to celebrate our great future ahead.”
 
 </details>
 
@@ -1082,7 +1102,7 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
@@ -1095,6 +1115,7 @@ Source: [PreBorn!](https://preborn.com/)
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:26:01](/episodes/ep-a2bZf4fic10.md#t-00-25-54): “Give a special gift of”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:24:25](/episodes/ep-puuMVxEu5NU.md#t-00-24-00): “That's why I'm making this critical request today. Give a special gift of $250 to pre-born to honor our country's milestone anniversary and to celebrate our great future ahead.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:27:51](/episodes/ep-N4uM8Jdr410.md#t-00-27-35): “That's why I'm making this critical request today. Give a special gift of $250 to preborn to honor our nation's milestone anniversary and to celebrate our great future ahead.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:11](/episodes/ep-OgRyiOAVtWU.md#t-00-40-04): “That's why I'm making this critical request today. Give a special gift of $250 to Preborn to honor our country's milestone anniversary and to celebrate our great future ahead.”
 
 </details>
 

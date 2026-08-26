@@ -11,7 +11,11 @@ object: "person-donald-trump"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) supporter of [Donald J. Trump](/entities/person-donald-trump)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
+
+- [00:19:00](/episodes/ep-OgRyiOAVtWU#t-00-19-00): _Republican youth movement. President Trump (Donald Trump) called him instrumental in getting him reelected as president. There was a shooting today, and Charlie Kirk's representatives are confirming that he was shot and is being treated at this hospital._
 
 **[INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0)**
 

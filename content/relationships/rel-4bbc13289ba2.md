@@ -47,7 +47,7 @@ object: "person-brigitte-macron"
 
 **[Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU)**
 
-- [00:05:28](/episodes/ep-tB5SXXmd9vU#t-00-05-28): _if you are currently at this moment, the first man of France, that would be Brigitte Macron, and you are currently suing a podcaster in America named Candace (Candace Owens) for defamation_
+- [00:05:28](/episodes/ep-tB5SXXmd9vU#t-00-05-28): _Now, if you are, in fact, currently at this moment, the first man of France, that would be Brigitte Macron, and you are currently suing a podcaster in America named Candace (Candace Owens) for defamation, for telling the truth, right?_
 
 **[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
 

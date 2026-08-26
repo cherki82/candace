@@ -1,6 +1,6 @@
 ---
 title: "Dana Loesch"
-description: "Dana Loesch (People) - 21 mentions"
+description: "Dana Loesch (People) - 22 mentions"
 id: "person-dana-loesch"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-dana-loesch-t-00-15-44">2025-11-05 · 00:16:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-dana-loesch-t-00-04-42">2026-07-20 · 00:05:05</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-dana-loesch-t-00-21-55">2026-07-21 · 00:22:14</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -42,6 +42,7 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 <a href="/episodes/ep-G3zdOeHpvS0.md#t-00-50-55" style="--pulse-height:11%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-dana-loesch-t-00-00-01" style="--pulse-height:22%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-dana-loesch-t-00-04-42" style="--pulse-height:11%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-dana-loesch-t-00-21-55" style="--pulse-height:11%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-50-55) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-dana-loesch-t-00-00-01) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-dana-loesch-t-00-04-42) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-dana-loesch-t-00-21-55) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
+
+**[00:22:14](/episodes/ep-OgRyiOAVtWU.md#ent-person-dana-loesch-t-00-21-55)**
+> "... Stuckey), the Dana Loesches (Dana Loesch), the honor the widow presentations, Erika (Erika..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
@@ -188,9 +198,10 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:41:40](/episodes/ep-YeEtS7nix3o.md#t-00-40-58): “which brings us to Dana Loesch ... She doesn't care about the truth. It doesn't matter at all.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:22:14](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “So after 10 months of the Christian grift, the Allie Stuckeys (Allie Beth Stuckey), the Dana Loesches (Dana Loesch), the honor the widow presentations, Erika (Erika Kirk) is apparently done playing the role.”
 
 </details>
 
@@ -227,9 +238,10 @@ Source: [About - Dana Loesch](https://danaloesch.com/about/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:41:40](/episodes/ep-YeEtS7nix3o.md#t-00-40-58): “which brings us to Dana Loesch ... She doesn't care about the truth. It doesn't matter at all.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:22:14](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “So after 10 months of the Christian grift, the Allie Stuckeys (Allie Beth Stuckey), the Dana Loesches (Dana Loesch), the honor the widow presentations, Erika (Erika Kirk) is apparently done playing the role.”
 
 </details>
 

@@ -41,7 +41,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-work-the-matrix-t-00-00-00" style="--pulse-height:33%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-matrix-t-00-37-13" style="--pulse-height:17%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-work-the-matrix-t-00-55-13" style="--pulse-height:17%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-25" style="--pulse-height:83%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-15" style="--pulse-height:83%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41" style="--pulse-height:67%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 4 mentions" title="2025-12-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-matrix-t-00-17-08" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 6 mentions" title="2026-01-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-36-30" style="--pulse-height:33%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
@@ -57,7 +57,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-work-the-matrix-t-00-00-00) | 2 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-work-the-matrix-t-00-37-13) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-work-the-matrix-t-00-55-13) | 1 |
-| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-25) | 5 |
+| 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-15) | 5 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41) | 4 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-the-matrix-t-00-17-08) | 6 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-36-30) | 2 |
@@ -133,7 +133,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (5 mentions)</summary>
 
-**[00:48:49](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-25)**
+**[00:48:49](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-15)**
 > "...we got to all wake up to this matrix."
 
 **[00:49:48](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-49-28)**

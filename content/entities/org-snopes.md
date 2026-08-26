@@ -46,7 +46,7 @@ _Type: Organizations_
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:13:48](/episodes/ep-his-JBjlkh8.md#ent-org-snopes-t-00-13-48)**
-> "... have her murdered too for, quote, "knowing the truth." So you notice that's a little—that's like a Snopes tactic. When he says the quote, it's actually not a full quotation. I never said that, obviously, i..."
+> "So you notice that's a little—that's like a Snopes tactic."
 
 </details>
 

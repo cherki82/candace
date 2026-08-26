@@ -15,7 +15,7 @@ object: "org-united-states-pentagon"
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
-- [00:05:51](/episodes/ep-his-JBjlkh8#t-00-05-51): _"I'm Kingsley Wilson. I'm the press secretary here at the Pentagon."_
+- [00:41:56](/episodes/ep-his-JBjlkh8#t-00-41-56): _I'm Kingsley Wilson. I'm the press secretary here at the Pentagon._
 
 ### Related
 

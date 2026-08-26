@@ -26,7 +26,7 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -116,18 +116,6 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Contributor To (1)</summary>
-
-- **[PragerU](/entities/org-prageru.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder...”
-
-</details>
-
-</details>
-
-<details>
 <summary>Criticized (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
@@ -152,26 +140,7 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 </details>
 
 <details>
-<summary>Has Contributor (1)</summary>
-
-- **[PragerU](/entities/org-prageru.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder...”
-
-</details>
-
-</details>
-
-<details>
-<summary>Referenced By (4)</summary>
-
-- **[PragerU](/entities/org-prageru.md)** contributor to this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder...”
-
-</details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -184,13 +153,6 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “Steven Crowder got a hold of this week or last week or whatever”
-
-</details>
-
-- **[PragerU](/entities/org-prageru.md)** has contributor this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:47:57](/episodes/ep-tB5SXXmd9vU.md#t-00-47-39): “...e she's ever been associated with. Whether that's Turning Point USA, whether that's The Daily Wire, whether that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder...”
 
 </details>
 

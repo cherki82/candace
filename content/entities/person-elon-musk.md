@@ -199,7 +199,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:16:32](/episodes/ep-his-JBjlkh8.md#ent-person-elon-musk-t-00-16-26)**
-> "...ecause that's a very new concept as of 2025—something that Trump (Donald Trump) put into place with Elon Musk and Vivek Ramaswamy, right? So, yeah, you're still being dishonest, but carry on. Candace has made ..."
+> "Charlie (Charlie Kirk) could not have been establishing DOGE for the last five years, because that's a very new concept as of 2025—something that Trump (Donald Trump) put into place with Elon Musk and Vivek Ramaswamy, right?"
 
 </details>
 

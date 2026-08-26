@@ -5,6 +5,24 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-26 19:45:14
+
+**Added 1 episode(s):**
+  - `OgRyiOAVtWU`: Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363
+**Added 15 new entity/entities**
+**Added 9 new event(s)**
+**Added 31 new statement(s)**
+**Removed 6 relationship(s)**
+
+**Totals:**
+- Episodes: 142
+- Entities: 3580
+- Events: 1547
+- Statements: 6369
+- Relationships: 3899
+
+---
+
 ## 2026-08-26 14:19:43
 
 **Added 4 episode(s):**

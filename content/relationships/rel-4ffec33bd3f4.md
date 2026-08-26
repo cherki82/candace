@@ -15,7 +15,7 @@ object: "person-charlie-kirk"
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
-- [00:04:35](/episodes/ep-his-JBjlkh8#t-00-04-35): _She has suggested that Michael McCoy, Charlie Kirk's chief of staff,_
+- [00:04:35](/episodes/ep-his-JBjlkh8#t-00-04-35): _She has suggested that Michael McCoy, Charlie (Charlie Kirk)'s chief of staff, knew Charlie (Charlie Kirk) would be murdered, was happy that he died, and stayed silent because he was told he would be the next Charlie (Charlie Kirk)._
 
 ### Related
 

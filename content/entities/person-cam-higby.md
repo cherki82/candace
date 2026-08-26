@@ -89,7 +89,7 @@ _Type: People_
 > "...gion were apparently on the ground on the day of Charlie (Charlie Kirk)'s assassination. So here is Cam Higby—who I guess is playing dress-up as a reporter—asking the Pentagon's press secretary a question abou..."
 
 **[00:41:44](/episodes/ep-his-JBjlkh8.md#ent-person-cam-higby-t-00-41-15)**
-> "...k that's fair. Here's our new press corps, guys. Take a listen to—actually first, let's focus in on Cam Higby's question. The way he asks it is, I think, worthy of highlighting. Take a listen. "Absolutely. I'm..."
+> "Take a listen to—actually first, let's focus in on Cam Higby's question. The way he asks it is, I think, worthy of highlighting. Take a listen."
 
 </details>
 

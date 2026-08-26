@@ -410,7 +410,7 @@ youtube_url: "https://www.youtube.com/watch?v=es7PWdFGoFI"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:22:58](#t-00-22-39) [○] (Claim) **Candace Owens**: ["The witness who filmed the person on the roof trains people to shoot guns at a r..."](/statements/statement-7e79f2266198.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:25:46](#t-00-25-11) [○] (Claim) **Blake Neff**: ["Blake Neff said Mikey McCoy called Erika Kirk immediately after the shooting, th..."](/statements/statement-4a781858dc80.md)
+- [00:25:46](#t-00-25-11) [✓] (Claim) **Blake Neff**: ["Blake Neff said that, although he might have been imagining the exact words, he ..."](/statements/statement-4a781858dc80.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 - [00:25:51](#t-00-25-11) [○] (Claim) **Blake Neff**: ["Mikey called Erika and then immediately called his dad Rob McCoy saying 'dad, so..."](/statements/statement-03a81f579a0f.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)

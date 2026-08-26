@@ -265,7 +265,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:40:02](/episodes/ep-his-JBjlkh8.md#t-00-40-02): “Literally a couple of weeks before he died, she called Charlie (Charlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of his events.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
 
 </details>
@@ -291,7 +291,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 - **[Josh Hammer](/entities/person-josh-hammer.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:58](/episodes/ep-his-JBjlkh8.md#t-00-03-40): “"he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer,"”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:40:02](/episodes/ep-his-JBjlkh8.md#t-00-40-02): “Literally a couple of weeks before he died, she called Charlie (Charlie Kirk) a charlatan, a political opportunist—that he wasn't pro-Trump—simply because he hosted Dave Smith, who is anti-Zionist—he is also Jewish—for a debate with Josh Hammer, who's a radical Zionist like herself, at one of his events.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:22:24](/episodes/ep-7ERqbYElOfs.md#t-00-22-24): “Dave Smith had beat Josh Hammer in a debate.”
 
 </details>

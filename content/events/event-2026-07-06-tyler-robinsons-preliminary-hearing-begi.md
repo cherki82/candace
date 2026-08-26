@@ -11,10 +11,20 @@ date: "2026-07-06"
 
 > Tyler Robinson's preliminary hearing begins in Provo, Utah
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 3...
 
 **Episode:** [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md)
 **Timestamp:** [00:03:52](/episodes/ep-EtLHqDbxqks.md#event-event-2026-07-06-tyler-robinsons-preliminary-hearing-begi-t-00-03-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(232);return false;">▶️ Play</a>
 
 > who watched the Tyler Robinson preliminary hearing last week, and they reported back
+
+### 2. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
+
+**Episode:** [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md)
+**Timestamp:** [00:28:40](/episodes/ep-OgRyiOAVtWU.md#t-00-28-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1720);return false;">▶️ Play</a>
+
+> Erika arrived in a tiny Utah courtroom earlier this month

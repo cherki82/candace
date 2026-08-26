@@ -15,7 +15,7 @@ object: "org-anti-defamation-league"
 
 **[INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs)**
 
-- [00:01:30](/episodes/ep-t1YtLS1n8Vs#t-00-01-30): _they had listed Charlie Kirk and his organization, TPUSA, to be extremist._
+- [00:01:30](/episodes/ep-t1YtLS1n8Vs#t-00-01-30): _The Anti-Defamation League, and the reasons, well, because they had listed Charlie (Charlie Kirk) and his organization, TPUSA, to be extremist._
 
 ### Related
 

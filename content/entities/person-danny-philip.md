@@ -1,6 +1,6 @@
 ---
 title: "Danny Philip"
-description: "Danny Philip (People) - 1 mention"
+description: "Danny Philip (People) - 16 mentions"
 id: "person-danny-philip"
 type: "PERSON"
 categories:
@@ -19,26 +19,28 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14">2026-07-14 · 00:15:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14">2026-07-14 · 00:15:14</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-20-35">2026-07-21 · 00:20:35</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14">Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-05">Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</a> (15 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-05" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 15 mentions" title="2026-07-21 · 15 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14) | 1 |
+| 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-05) | 15 |
 
 </details>
 </section>
@@ -46,7 +48,57 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (15 mentions)</summary>
+
+**[00:10:44](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-05)**
+> "...arriving to the hospital with Danny Philip."
+
+**[00:11:08](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-50)**
+> "...ika Kirk), I did not know who Danny Philip was. How could I have known?"
+
+**[00:11:19](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-11-19)**
+> "...And I made an assumption that Danny Philip was someone that Mikey (Michael McCoy) was making..."
+
+**[00:11:36](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-11-19)**
+> "...things certainly to know that Danny Philip and Mikey (Michael McCoy) were both at the event ..."
+
+**[00:11:46](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-11-19)**
+> "...y to jog Blake Neff's memory, Danny Philip, Charlie (Charlie Kirk)'s new assistant, showed u..."
+
+**[00:11:55](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-11-19)**
+> "...ity and Blake Neff and Danny (Danny Philip) got into one SUV they don't remember."
+
+**[00:12:03](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-12-03)**
+> "... I shouldn't speak for Danny (Danny Philip). Blake Neff doesn't remember where they went in ..."
+
+**[00:12:18](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-12-03)**
+> "Now, I believe that Danny (Danny Philip) was driving the SUV. I feel like I saw that some..."
+
+**[00:12:29](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-12-03)**
+> "...hat we do know is that Danny (Danny Philip) and Blake (Blake Neff) were standing on opposite..."
+
+**[00:12:38](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-12-03)**
+> "Danny Philip was standing next to Butch Hibbs. So that's on Ch..."
+
+**[00:16:38](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-16-07)**
+> "this phone call with Danny Philip, who was presumably with them. Why on earth did D..."
+
+**[00:17:10](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-16-52)**
+> "And then Danny (Danny Philip) calls Mikey (Michael McCoy) and they stay on the..."
+
+**[00:17:39](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-17-22)**
+> "...irk) lied to me and it wasn't Danny Philip that he was on the phone with. I don't know."
+
+**[00:17:53](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-17-22)**
+> "Danny (Danny Philip), Blake (Blake Neff), and Mikey (Michael McCoy), ..."
+
+**[00:20:35](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-20-35)**
+> "...nate, and it was initiated by Danny Philip somehow in the middle."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
@@ -65,9 +117,10 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <summary>Assistant To (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:18:04](/episodes/ep-X3VKJVJ7cN4.md#t-00-17-50): “Charlie Kirk's assistant just went to go mark time with Blake Neff?”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:11:46](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19): “So just to jog your memory and hopefully to jog Blake Neff's memory, Danny Philip, Charlie (Charlie Kirk)'s new assistant, showed up to the event with Blake Neff in an SUV.”
 
 </details>
 
@@ -113,9 +166,10 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:18:50](/episodes/ep-X3VKJVJ7cN4.md#t-00-18-34): “And then he went straight to work for Turning Point USA.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:11:19](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19): “I think I did meet him a long time ago when he was working for the Ohio State chapter, with the Ohio State chapter, but I didn't know he was working with Turning Point USA full time. And I made an assumption that Danny Philip was someone that Mikey (Michael McCoy) was making calls to back in Arizona after the assassination.”
 
 </details>
 
@@ -132,9 +186,10 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:18:50](/episodes/ep-X3VKJVJ7cN4.md#t-00-18-34): “And then he went straight to work for Turning Point USA.”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:11:19](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19): “I think I did meet him a long time ago when he was working for the Ohio State chapter, with the Ohio State chapter, but I didn't know he was working with Turning Point USA full time. And I made an assumption that Danny Philip was someone that Mikey (Michael McCoy) was making calls to back in Arizona after the assassination.”
 
 </details>
 
@@ -146,9 +201,10 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** has assistant this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:18:04](/episodes/ep-X3VKJVJ7cN4.md#t-00-17-50): “Charlie Kirk's assistant just went to go mark time with Blake Neff?”
+- [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:11:46](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19): “So just to jog your memory and hopefully to jog Blake Neff's memory, Danny Philip, Charlie (Charlie Kirk)'s new assistant, showed up to the event with Blake Neff in an SUV.”
 
 </details>
 
@@ -164,7 +220,18 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Danny Philip (5)</strong></summary>
+<summary><strong class="section-title">Statements about Danny Philip (7)</strong></summary>
+
+<details>
+<summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>
+
+- [00:11:55](/episodes/ep-OgRyiOAVtWU.md#t-00-11-19) (Claim) **Candace Owens**: ["Michael McCoy rented two SUVs in Salt Lake City; Blake Neff and Danny ..."](/statements/statement-de022607d5e7.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+- [00:17:10](/episodes/ep-OgRyiOAVtWU.md#t-00-16-52) (Claim) **Candace Owens**: ["Owens said Danny Philip called Michael McCoy and they remained on the ..."](/statements/statement-51759fdb5429.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Blake Neff](/entities/person-blake-neff.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5)</summary>

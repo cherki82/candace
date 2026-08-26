@@ -15,7 +15,7 @@ object: "org-ace-partners"
 
 **[Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU)**
 
-- [00:38:08](/episodes/ep-tB5SXXmd9vU#t-00-38-08): _"...it's an Israeli firm based in Tel Aviv called ACE Partners."_
+- [00:38:08](/episodes/ep-tB5SXXmd9vU#t-00-38-08): _Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners._
 
 ### Related
 

@@ -130,7 +130,7 @@ _Type: Organizations_
 - **[France](/entities/gpe-france.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “"Satis, which is a French company, injected $1.5 million..."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42): “Satis, which is a French company”
 
 </details>
 
@@ -140,10 +140,9 @@ _Type: Organizations_
 <summary>Has Investor (1)</summary>
 
 - **[ACE Partners](/entities/org-ace-partners.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis.”
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43): “"They are the second-largest shareholder to Satis."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. ... They are the second-largest shareholder to Satis.”
 
 </details>
 
@@ -153,17 +152,16 @@ _Type: Organizations_
 <summary>Referenced By (2)</summary>
 
 - **[ACE Partners](/entities/org-ace-partners.md)** invested in this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis.”
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43): “"They are the second-largest shareholder to Satis."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. ... They are the second-largest shareholder to Satis.”
 
 </details>
 
 - **[France](/entities/gpe-france.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): “"Satis, which is a French company, injected $1.5 million..."”
+- [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42): “Satis, which is a French company”
 
 </details>
 

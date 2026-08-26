@@ -11,15 +11,11 @@ object: "gpe-phoenix"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) headquartered in [Phoenix](/entities/gpe-phoenix)
 
-### Evidence (2 mentions)
+### Evidence (1 mentions)
 
 **[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
 
 - [00:05:30](/episodes/ep-ZAuuSq_j2_w#t-00-05-30): _We'll be live streaming... from Charlie's Phoenix Studio._
-
-**[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
-
-- [00:29:01](/episodes/ep-his-JBjlkh8#t-00-29-01): _there will be a live stream here in Phoenix where we address... at our studio here in Phoenix._
 
 ### Related
 

@@ -11,7 +11,7 @@ object: "person-phillip-f-tourney"
 
 ## [Candace Owens](/entities/person-candace-owens) interviewed [Phillip F. Tourney](/entities/person-phillip-f-tourney)
 
-### Evidence (6 mentions)
+### Evidence (5 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -27,7 +27,6 @@ object: "person-phillip-f-tourney"
 
 **[BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8)**
 
-- [00:10:09](/episodes/ep-his-JBjlkh8#t-00-10-09): _[01:04:06] ...you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty._
 - [01:04:06](/episodes/ep-his-JBjlkh8#t-01-04-06): _when we interviewed Phil Tourney of the USS Liberty._
 
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**

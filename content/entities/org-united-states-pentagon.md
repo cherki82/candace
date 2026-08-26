@@ -217,10 +217,10 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 > "...ie Kirk)'s assassination. So here is Cam Higby—who I guess is playing dress-up as a reporter—asking the Pentagon's press secretary a question about the most viral story for about a week pertaining to France's par..."
 
 **[00:41:57](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-pentagon-t-00-41-55)**
-> "...y of highlighting. Take a listen. "Absolutely. I'm Kingsley Wilson. I'm the press secretary here at the Pentagon. We're in the Pentagon briefing room, and it's been fantastic to get to come to the Pentagon every ..."
+> "I'm the press secretary here at the Pentagon."
 
 **[00:42:05](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-pentagon-t-00-41-55)**
-> "... a listen. "Absolutely. I'm Kingsley Wilson. I'm the press secretary here at the Pentagon. We're in the Pentagon briefing room, and it's been fantastic to get to come to the Pentagon every day, and now you all do..."
+> "We're in the Pentagon briefing room, and it's been fantastic to get to come to the Pentagon every day, and now you all do as well.""
 
 **[00:44:07](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-pentagon-t-00-43-27)**
 > "... our job, I guess, is to work and to deposit money so that they can build themselves complexes like the Pentagon—which is a 6.5 million square foot office building. It is the second largest office building in the..."
@@ -266,7 +266,7 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 - **[Kingsley Wilson](/entities/person-kingsley-wilson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#t-00-05-36): “"I'm Kingsley Wilson. I'm the press secretary here at the Pentagon."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:41:56](/episodes/ep-his-JBjlkh8.md#t-00-41-55): “I'm Kingsley Wilson. I'm the press secretary here at the Pentagon.”
 
 </details>
 
@@ -278,28 +278,28 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): “"The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:34](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense.”
 
 </details>
 
 - **[United States Army](/entities/org-united-states-army.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “It's headquarters for the Army, the Navy, and the Air Force.”
 
 </details>
 
 - **[United States Navy](/entities/org-united-states-navy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “It's headquarters for the Army, the Navy, and the Air Force.”
 
 </details>
 
 - **[United States Air Force](/entities/org-united-states-air-force.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “It's headquarters for the Army, the Navy, and the Air Force.”
 
 </details>
 
@@ -311,35 +311,35 @@ Source: [Pentagon Tours | U.S. Department of Defense](https://www.defense.gov/Ab
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)** headquartered in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): “"The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:34](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense.”
 
 </details>
 
 - **[United States Army](/entities/org-united-states-army.md)** headquartered in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “It's headquarters for the Army, the Navy, and the Air Force.”
 
 </details>
 
 - **[United States Navy](/entities/org-united-states-navy.md)** headquartered in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “It's headquarters for the Army, the Navy, and the Air Force.”
 
 </details>
 
 - **[United States Air Force](/entities/org-united-states-air-force.md)** headquartered in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:51](/episodes/ep-his-JBjlkh8.md#t-00-01-31): “"It's headquarters for the Army, the Navy, and the Air Force."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “It's headquarters for the Army, the Navy, and the Air Force.”
 
 </details>
 
 - **[Kingsley Wilson](/entities/person-kingsley-wilson.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#t-00-05-36): “"I'm Kingsley Wilson. I'm the press secretary here at the Pentagon."”
+- [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:41:56](/episodes/ep-his-JBjlkh8.md#t-00-41-55): “I'm Kingsley Wilson. I'm the press secretary here at the Pentagon.”
 
 </details>
 
