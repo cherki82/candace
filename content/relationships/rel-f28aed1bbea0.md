@@ -11,7 +11,7 @@ object: "person-tracy-martin"
 
 ## [Erika Kirk](/entities/person-erika-kirk) friend of [Tracy Martin](/entities/person-tracy-martin)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -32,6 +32,10 @@ object: "person-tracy-martin"
 **[SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U)**
 
 - [00:41:26](/episodes/ep-Pb7UlpRdW6U#t-00-41-26): _In Kevin O'Leary's defense, that might be why they're doing it. They're realizing that's problematic. Anyway, even Tracy Martin, Erika (Erika Kirk)'s dear long 15-year friend, jumped into the fray at some point and clarified that the son is not Erika (Erika Kirk)'s, so it's all very confusing, says it's called a play date._
+
+**[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
+
+- [00:32:16](/episodes/ep-amqTMimDr0A#t-00-32-16): _we received a flurry of emails of people who presented proof, concrete proof that the story did indeed come from a family friend of Erika (Erika Kirk). ... And that family friend is exactly who I suspected it was, Tracy Martin, because Tracy Martin also lies._
 
 **[Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs)**
 

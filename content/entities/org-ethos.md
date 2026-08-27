@@ -1,6 +1,6 @@
 ---
 title: "Ethos"
-description: "Ethos (Organizations) - 24 mentions"
+description: "Ethos (Organizations) - 28 mentions"
 id: "org-ethos"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Ethos](https://www.ethos.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-ethos-t-00-46-15">2026-03-23 · 00:46:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-ethos-t-00-43-53">2026-07-16 · 00:44:06</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-ethos-t-00-48-11">2026-07-23 · 00:48:23</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -42,6 +42,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-ethos-t-00-50-10" style="--pulse-height:60%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 3 mentions" title="2026-06-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-ethos-t-01-12-33" style="--pulse-height:60%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-ethos-t-00-43-10" style="--pulse-height:60%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-ethos-t-00-47-29" style="--pulse-height:80%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 4 mentions" title="2026-07-23 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +55,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-ethos-t-00-50-10) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-ethos-t-01-12-33) | 3 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-ethos-t-00-43-10) | 3 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-ethos-t-00-47-29) | 4 |
 
 </details>
 </section>
@@ -61,7 +63,24 @@ Source: [About Ethos](https://www.ethos.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (4 mentions)</summary>
+
+**[00:47:35](/episodes/ep-amqTMimDr0A.md#ent-org-ethos-t-00-47-29)**
+> "...uys, I want to tell you about Ethos because as many of you know, I've recently shared..."
+
+**[00:47:59](/episodes/ep-amqTMimDr0A.md#ent-org-ethos-t-00-47-29)**
+> "...le realize. That's why I love Ethos, because with Ethos, you can apply online in just..."
+
+**[00:48:11](/episodes/ep-amqTMimDr0A.md#ent-org-ethos-t-00-48-11)**
+> "...ally stands out to me is that Ethos helps match you with the coverage that actually f..."
+
+**[00:48:23](/episodes/ep-amqTMimDr0A.md#ent-org-ethos-t-00-48-11)**
+> "...y with life insurance through Ethos. Get your That's your free quote at ethos.com sla..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
@@ -179,12 +198,13 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:10:37](/episodes/ep-qZ8RWfyuewQ.md#t-01-10-06): “But what really stands out is that Ethos doesn't just offer a one-size-fits-all policy. They help match you with the right coverage for your life, your goals, and your budget.”
 - [Candace x Hunter Biden: The Interview @ 00:51:16](/episodes/ep-Ux1kzgQxkws.md#t-00-50-52): “That's why I love Ethos. With Ethos, you can apply online in just minutes.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:36:43](/episodes/ep-YeEtS7nix3o.md#t-00-36-06): “That's why I love ethos, because with ethos, you can apply online in just minutes”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:50:32](/episodes/ep-9CuC1yf8-PU.md#t-00-50-10): “that's why I love Ethos”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:47:59](/episodes/ep-amqTMimDr0A.md#t-00-47-29): “That's why I love Ethos, because with Ethos, you can apply online in just minutes.”
 
 </details>
 
@@ -194,12 +214,13 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:10:37](/episodes/ep-qZ8RWfyuewQ.md#t-01-10-06): “But what really stands out is that Ethos doesn't just offer a one-size-fits-all policy. They help match you with the right coverage for your life, your goals, and your budget.”
 - [Candace x Hunter Biden: The Interview @ 00:51:16](/episodes/ep-Ux1kzgQxkws.md#t-00-50-52): “That's why I love Ethos. With Ethos, you can apply online in just minutes.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:36:43](/episodes/ep-YeEtS7nix3o.md#t-00-36-06): “That's why I love ethos, because with ethos, you can apply online in just minutes”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:50:32](/episodes/ep-9CuC1yf8-PU.md#t-00-50-10): “that's why I love Ethos”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:47:59](/episodes/ep-amqTMimDr0A.md#t-00-47-29): “That's why I love Ethos, because with Ethos, you can apply online in just minutes.”
 
 </details>
 

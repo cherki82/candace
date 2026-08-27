@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1547_
+_Total events: 1574_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -188,6 +188,8 @@ _Total events: 1547_
 #tab-year-1959:checked ~ .tab-controls label[for="tab-year-1959"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1954:checked ~ .tab-content-year-1954 { display: block; }
 #tab-year-1954:checked ~ .tab-controls label[for="tab-year-1954"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1953:checked ~ .tab-content-year-1953 { display: block; }
+#tab-year-1953:checked ~ .tab-controls label[for="tab-year-1953"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1950:checked ~ .tab-content-year-1950 { display: block; }
 #tab-year-1950:checked ~ .tab-controls label[for="tab-year-1950"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1948:checked ~ .tab-content-year-1948 { display: block; }
@@ -204,12 +206,16 @@ _Total events: 1547_
 #tab-year-1941:checked ~ .tab-controls label[for="tab-year-1941"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1940:checked ~ .tab-content-year-1940 { display: block; }
 #tab-year-1940:checked ~ .tab-controls label[for="tab-year-1940"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1939:checked ~ .tab-content-year-1939 { display: block; }
+#tab-year-1939:checked ~ .tab-controls label[for="tab-year-1939"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1937:checked ~ .tab-content-year-1937 { display: block; }
 #tab-year-1937:checked ~ .tab-controls label[for="tab-year-1937"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1935:checked ~ .tab-content-year-1935 { display: block; }
 #tab-year-1935:checked ~ .tab-controls label[for="tab-year-1935"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1933:checked ~ .tab-content-year-1933 { display: block; }
 #tab-year-1933:checked ~ .tab-controls label[for="tab-year-1933"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1932:checked ~ .tab-content-year-1932 { display: block; }
+#tab-year-1932:checked ~ .tab-controls label[for="tab-year-1932"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1929:checked ~ .tab-content-year-1929 { display: block; }
 #tab-year-1929:checked ~ .tab-controls label[for="tab-year-1929"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1923:checked ~ .tab-content-year-1923 { display: block; }
@@ -224,6 +230,10 @@ _Total events: 1547_
 #tab-year-1913:checked ~ .tab-controls label[for="tab-year-1913"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1908:checked ~ .tab-content-year-1908 { display: block; }
 #tab-year-1908:checked ~ .tab-controls label[for="tab-year-1908"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1906:checked ~ .tab-content-year-1906 { display: block; }
+#tab-year-1906:checked ~ .tab-controls label[for="tab-year-1906"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
+#tab-year-1905:checked ~ .tab-content-year-1905 { display: block; }
+#tab-year-1905:checked ~ .tab-controls label[for="tab-year-1905"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1881:checked ~ .tab-content-year-1881 { display: block; }
 #tab-year-1881:checked ~ .tab-controls label[for="tab-year-1881"] { background: var(--light); border-color: var(--secondary); border-bottom: 2px solid var(--light); color: var(--dark); font-weight: 600; }
 #tab-year-1856:checked ~ .tab-content-year-1856 { display: block; }
@@ -296,6 +306,7 @@ _Total events: 1547_
 <input type="radio" id="tab-year-1963" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1959" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1954" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1953" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1950" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1948" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1947" name="timeline-tab" class="tab-radio">
@@ -304,9 +315,11 @@ _Total events: 1547_
 <input type="radio" id="tab-year-1943" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1941" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1940" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1939" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1937" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1935" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1933" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1932" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1929" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1923" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1919" name="timeline-tab" class="tab-radio">
@@ -314,20 +327,22 @@ _Total events: 1547_
 <input type="radio" id="tab-year-1917" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1913" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1908" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1906" name="timeline-tab" class="tab-radio">
+<input type="radio" id="tab-year-1905" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1881" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1856" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1848" name="timeline-tab" class="tab-radio">
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (220)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (721)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (97)</label>
-  <label for="tab-year-2023" class="tab-btn">2023 (30)</label>
-  <label for="tab-year-2022" class="tab-btn">2022 (18)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (222)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (727)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (99)</label>
+  <label for="tab-year-2023" class="tab-btn">2023 (33)</label>
+  <label for="tab-year-2022" class="tab-btn">2022 (19)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (21)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (14)</label>
-  <label for="tab-year-2019" class="tab-btn">2019 (27)</label>
+  <label for="tab-year-2019" class="tab-btn">2019 (28)</label>
   <label for="tab-year-2018" class="tab-btn">2018 (42)</label>
   <label for="tab-year-2017" class="tab-btn">2017 (16)</label>
   <label for="tab-year-2016" class="tab-btn">2016 (14)</label>
@@ -336,11 +351,11 @@ _Total events: 1547_
   <label for="tab-year-2013" class="tab-btn">2013 (14)</label>
   <label for="tab-year-2012" class="tab-btn">2012 (22)</label>
   <label for="tab-year-2011" class="tab-btn">2011 (15)</label>
-  <label for="tab-year-2010" class="tab-btn">2010 (18)</label>
+  <label for="tab-year-2010" class="tab-btn">2010 (19)</label>
   <label for="tab-year-2009" class="tab-btn">2009 (14)</label>
   <label for="tab-year-2008" class="tab-btn">2008 (12)</label>
   <label for="tab-year-2007" class="tab-btn">2007 (11)</label>
-  <label for="tab-year-2006" class="tab-btn">2006 (11)</label>
+  <label for="tab-year-2006" class="tab-btn">2006 (12)</label>
   <label for="tab-year-2005" class="tab-btn">2005 (10)</label>
   <label for="tab-year-2004" class="tab-btn">2004 (2)</label>
   <label for="tab-year-2003" class="tab-btn">2003 (12)</label>
@@ -348,7 +363,7 @@ _Total events: 1547_
   <label for="tab-year-2001" class="tab-btn">2001 (7)</label>
   <label for="tab-year-2000" class="tab-btn">2000 (2)</label>
   <label for="tab-year-1999" class="tab-btn">1999 (14)</label>
-  <label for="tab-year-1998" class="tab-btn">1998 (6)</label>
+  <label for="tab-year-1998" class="tab-btn">1998 (7)</label>
   <label for="tab-year-1997" class="tab-btn">1997 (6)</label>
   <label for="tab-year-1996" class="tab-btn">1996 (3)</label>
   <label for="tab-year-1995" class="tab-btn">1995 (7)</label>
@@ -368,7 +383,7 @@ _Total events: 1547_
   <label for="tab-year-1980" class="tab-btn">1980 (1)</label>
   <label for="tab-year-1979" class="tab-btn">1979 (3)</label>
   <label for="tab-year-1978" class="tab-btn">1978 (1)</label>
-  <label for="tab-year-1976" class="tab-btn">1976 (3)</label>
+  <label for="tab-year-1976" class="tab-btn">1976 (5)</label>
   <label for="tab-year-1975" class="tab-btn">1975 (2)</label>
   <label for="tab-year-1974" class="tab-btn">1974 (4)</label>
   <label for="tab-year-1972" class="tab-btn">1972 (2)</label>
@@ -382,17 +397,20 @@ _Total events: 1547_
   <label for="tab-year-1963" class="tab-btn">1963 (5)</label>
   <label for="tab-year-1959" class="tab-btn">1959 (1)</label>
   <label for="tab-year-1954" class="tab-btn">1954 (2)</label>
+  <label for="tab-year-1953" class="tab-btn">1953 (1)</label>
   <label for="tab-year-1950" class="tab-btn">1950 (1)</label>
-  <label for="tab-year-1948" class="tab-btn">1948 (3)</label>
-  <label for="tab-year-1947" class="tab-btn">1947 (1)</label>
+  <label for="tab-year-1948" class="tab-btn">1948 (4)</label>
+  <label for="tab-year-1947" class="tab-btn">1947 (2)</label>
   <label for="tab-year-1946" class="tab-btn">1946 (1)</label>
   <label for="tab-year-1944" class="tab-btn">1944 (1)</label>
   <label for="tab-year-1943" class="tab-btn">1943 (1)</label>
   <label for="tab-year-1941" class="tab-btn">1941 (1)</label>
   <label for="tab-year-1940" class="tab-btn">1940 (1)</label>
+  <label for="tab-year-1939" class="tab-btn">1939 (1)</label>
   <label for="tab-year-1937" class="tab-btn">1937 (1)</label>
   <label for="tab-year-1935" class="tab-btn">1935 (1)</label>
   <label for="tab-year-1933" class="tab-btn">1933 (1)</label>
+  <label for="tab-year-1932" class="tab-btn">1932 (1)</label>
   <label for="tab-year-1929" class="tab-btn">1929 (1)</label>
   <label for="tab-year-1923" class="tab-btn">1923 (1)</label>
   <label for="tab-year-1919" class="tab-btn">1919 (1)</label>
@@ -400,6 +418,8 @@ _Total events: 1547_
   <label for="tab-year-1917" class="tab-btn">1917 (1)</label>
   <label for="tab-year-1913" class="tab-btn">1913 (1)</label>
   <label for="tab-year-1908" class="tab-btn">1908 (1)</label>
+  <label for="tab-year-1906" class="tab-btn">1906 (1)</label>
+  <label for="tab-year-1905" class="tab-btn">1905 (1)</label>
   <label for="tab-year-1881" class="tab-btn">1881 (2)</label>
   <label for="tab-year-1856" class="tab-btn">1856 (1)</label>
   <label for="tab-year-1848" class="tab-btn">1848 (1)</label>
@@ -447,6 +467,22 @@ _Total events: 1547_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-07-22-andrew-kolvet-publicly-attempted-to-blam">
+<div class="timeline-date">2026-07-22</div>
+<div class="timeline-desc"><a href="/events/event-2026-07-22-andrew-kolvet-publicly-attempted-to-blam.md">Andrew Kolvet publicly attempted to blame Candace Owens for the Daily Mail article.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">2× in 2 eps</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-22: Andrew Kolvet publicly attempted to blame Candace Owens for the Daily Mail article. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:00:29](/episodes/ep-ds6umq1rHAw.md#t-00-00-01)
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:30:40](/episodes/ep-amqTMimDr0A.md#t-00-30-27)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-07-21-tim-pool-posted-on-x-questioning-amplifi">
 <div class="timeline-date">2026-07-21</div>
 <div class="timeline-desc"><a href="/events/event-2026-07-21-tim-pool-posted-on-x-questioning-amplifi.md">Tim Pool posted on X questioning amplification of Charlie Kirk assassination cover-up claims.</a></div>
@@ -466,13 +502,14 @@ _Total events: 1547_
 <div class="timeline-date">2026-07-20</div>
 <div class="timeline-desc"><a href="/events/event-2026-07-20-the-daily-mail-published-an-article-repo.md">The Daily Mail published an article reporting Erika Kirk's private criticism of Candace Owens.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-07-20: The Daily Mail published an article reporting Erika Kirk\'s private criticism of Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:00:01](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01)
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01)
 
 </details>
 </div>
@@ -3134,6 +3171,21 @@ _Total events: 1547_
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:31:24](/episodes/ep-4YgrOhhy708.md#t-00-31-24)
 - [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:36:02](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-09-judge-dismisses-connie-boss-alexanders-g">
+<div class="timeline-date">2026-02-09</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-09-judge-dismisses-connie-boss-alexanders-g.md">Judge dismisses Connie Boss Alexander's grandparent-visitation case against Allison Holker</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-09: Judge dismisses Connie Boss Alexander\'s grandparent-visitation case against Allison Holker - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:47:00](/episodes/ep-amqTMimDr0A.md#t-00-46-45)
 
 </details>
 </div>
@@ -10761,13 +10813,14 @@ _Total events: 1547_
 <div class="timeline-date">2025-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-turning-point-usas-internal-doge-audit-w.md">Turning Point USA's internal DOGE audit was canceled after Charlie Kirk's death, according to Candace Owens.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Turning Point USA\'s internal DOGE audit was canceled after Charlie Kirk\'s death, according to Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:22:59](/episodes/ep-cPidFQDJLbo.md#t-00-22-59)
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:28:07](/episodes/ep-ds6umq1rHAw.md#t-00-28-01)
 
 </details>
 </div>
@@ -10813,6 +10866,21 @@ _Total events: 1547_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE RECORDING! The Lone Witness To The Sh... @ 00:34:37](/episodes/ep-puuMVxEu5NU.md#t-00-34-13)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-connie-boss-alexander-files-a-grandparen">
+<div class="timeline-date">2025-09</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-connie-boss-alexander-files-a-grandparen.md">Connie Boss Alexander files a grandparent-visitation petition against Allison Holker</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Connie Boss Alexander files a grandparent-visitation petition against Allison Holker - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:46:45](/episodes/ep-amqTMimDr0A.md#t-00-46-45)
 
 </details>
 </div>
@@ -17567,7 +17635,7 @@ _Total events: 1547_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve.md">Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">271× in 47 eps</span>
+<span class="timeline-badge mentions">272× in 48 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -17844,6 +17912,7 @@ _Total events: 1547_
 - [EXCLUSIVE RECORDING! The Lone Witness To The Sh... @ 00:15:47](/episodes/ep-puuMVxEu5NU.md#t-00-15-31)
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. F... @ 00:12:14](/episodes/ep-mLvJqdxS-FY.md#t-00-12-09)
 - [Erika Kirk Calls Me "That B*tch”. More Exclusiv... @ 00:58:36](/episodes/ep-OgRyiOAVtWU.md#t-00-58-10)
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:18:41](/episodes/ep-amqTMimDr0A.md#t-00-18-33)
 
 </details>
 </div>
@@ -18719,7 +18788,7 @@ _Total events: 1547_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md">Charlie Kirk was assassinated at Utah Valley University.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">54× in 45 eps</span>
+<span class="timeline-badge mentions">55× in 46 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was assassinated at Utah Valley University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -18779,6 +18848,7 @@ _Total events: 1547_
 - [I Survive My First Death Hoax, Erika Kirk Makes... @ 00:41:45](/episodes/ep-VMNWMXX1vO8.md#t-00-41-45)
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Target... @ 00:01:19](/episodes/ep-IqHsl7d2dos.md#t-00-00-45)
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep... @ 00:01:37](/episodes/ep-a2bZf4fic10.md#t-00-01-20)
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:28:01](/episodes/ep-ds6umq1rHAw.md#t-00-28-01)
 
 </details>
 </div>
@@ -19428,13 +19498,14 @@ _Total events: 1547_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-ben-shapiro-says-his-security-received-u.md">Ben Shapiro says his security received updates from Charlie Kirk's security during hospital transport</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Ben Shapiro says his security received updates from Charlie Kirk\'s security during hospital transport - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [I’M BACK! And The Tyler Robinson Show Trial Beg... @ 01:02:10](/episodes/ep-EtLHqDbxqks.md#t-01-02-02)
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:18:41](/episodes/ep-amqTMimDr0A.md#t-00-18-33)
 
 </details>
 </div>
@@ -19606,6 +19677,36 @@ _Total events: 1547_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-says-ben-shapiro-was-with-">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-says-ben-shapiro-was-with-.md">Candace Owens says Ben Shapiro was with Gary Javitch in Los Angeles when Charlie Kirk was shot</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens says Ben Shapiro was with Gary Javitch in Los Angeles when Charlie Kirk was shot - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:20:02](/episodes/ep-amqTMimDr0A.md#t-00-19-46)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-ben-shapiros-ronald-reagan-presidential-">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-ben-shapiros-ronald-reagan-presidential-.md">Ben Shapiro's Ronald Reagan Presidential Library appearance is canceled after Charlie Kirk is shot</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Ben Shapiro\'s Ronald Reagan Presidential Library appearance is canceled after Charlie Kirk is shot - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:20:49](/episodes/ep-amqTMimDr0A.md#t-00-20-28)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution">
 <div class="timeline-date">2025-09-09 <span class='time'>21:09</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-josh-hammer-retweets-trump-s-2013-public-execution.md">Josh Hammer retweets Trump's 2013 public execution tweet.</a></div>
@@ -19697,7 +19798,7 @@ _Total events: 1547_
 <div class="timeline-date">2025-09-09 <span class='time'>15:54</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-candace-owens-said-charlie-kirk-sent-a-t.md">Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">6× in 6 eps</span>
+<span class="timeline-badge mentions">7× in 7 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09 15:54: Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -19709,6 +19810,7 @@ _Total events: 1547_
 - [The World Is A Stage: Trump Survives...Again? |... @ 00:40:45](/episodes/ep-BxN2-aeMYIs.md#t-00-40-10)
 - [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:35:27](/episodes/ep-MhakwJxK-Zk.md#t-00-35-16)
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:41:17](/episodes/ep-X3VKJVJ7cN4.md#t-00-41-05)
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:15:50](/episodes/ep-amqTMimDr0A.md#t-00-15-44)
 
 </details>
 </div>
@@ -20416,7 +20518,7 @@ _Total events: 1547_
 <div class="timeline-date">2025-09-09</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-09-charlie-kirk-texted-tpusa-employees-that.md">Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">5× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-09: Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -20426,6 +20528,7 @@ _Total events: 1547_
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:43:00](/episodes/ep-CEF7gQRWYCE.md#t-00-43-00)
 - [Here’s Why It’s Time For The Police To Question... @ 00:05:37](/episodes/ep-ti5Fxrvegno.md#t-00-05-37)
 - [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:19:50](/episodes/ep-hWTdXHGQ8R4.md#t-00-19-32)
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:15:59](/episodes/ep-amqTMimDr0A.md#t-00-15-44)
 
 </details>
 </div>
@@ -21803,7 +21906,7 @@ _Total events: 1547_
 <div class="timeline-date">2025-09-03</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p.md">Charlie Kirk requests DOGE department at Turning Point USA.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">181× in 25 eps</span>
+<span class="timeline-badge mentions">182× in 26 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-03: Charlie Kirk requests DOGE department at Turning Point USA. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -21990,6 +22093,7 @@ _Total events: 1547_
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16)
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:27:11](/episodes/ep-ds6umq1rHAw.md#t-00-26-36)
 
 </details>
 </div>
@@ -26526,6 +26630,36 @@ _Total events: 1547_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-05-bill-ackman-invested-900-million-in-howa">
+<div class="timeline-date">2025-05</div>
+<div class="timeline-desc"><a href="/events/event-2025-05-bill-ackman-invested-900-million-in-howa.md">Bill Ackman invested $900 million in Howard Hughes Holding Incorporated.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-05: Bill Ackman invested $900 million in Howard Hughes Holding Incorporated. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:22:19](/episodes/ep-ds6umq1rHAw.md#t-00-21-52)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-05-bill-ackman-returned-as-executive-chairm">
+<div class="timeline-date">2025-05</div>
+<div class="timeline-desc"><a href="/events/event-2025-05-bill-ackman-returned-as-executive-chairm.md">Bill Ackman returned as executive chairman of Howard Hughes Holding Incorporated.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-05: Bill Ackman returned as executive chairman of Howard Hughes Holding Incorporated. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:22:19](/episodes/ep-ds6umq1rHAw.md#t-00-21-52)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil">
 <div class="timeline-date">2025-05-27</div>
 <div class="timeline-desc"><a href="/events/event-2025-05-27-walid-mahmood-arrives-in-provo-aboard-egyptian-mil.md">Walid Mahmood arrives in Provo aboard Egyptian military plane SUBTU</a></div>
@@ -27527,6 +27661,21 @@ _Total events: 1547_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-02-04-allison-holker-releases-memoir-this-far-">
+<div class="timeline-date">2025-02-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-02-04-allison-holker-releases-memoir-this-far-.md">Allison Holker releases memoir This Far about Stephen Boss</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-02-04: Allison Holker releases memoir This Far about Stephen Boss - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:46:02](/episodes/ep-amqTMimDr0A.md#t-00-46-02)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-02-01-kash-patel-appointed-fbi-director">
 <div class="timeline-date">2025-02-01</div>
 <div class="timeline-desc"><a href="/events/event-2025-02-01-kash-patel-appointed-fbi-director.md">Kash Patel appointed FBI Director.</a></div>
@@ -27901,13 +28050,14 @@ _Total events: 1547_
 <div class="timeline-date">2025</div>
 <div class="timeline-desc"><a href="/events/event-2025-erika-kirk-reportedly-told-people-that-s.md">Erika Kirk reportedly told people that she and Charlie Kirk had planned to sign updated end-of-life documents.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025: Erika Kirk reportedly told people that she and Charlie Kirk had planned to sign updated end-of-life documents. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:16:46](/episodes/ep-cPidFQDJLbo.md#t-00-16-46)
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:27:51](/episodes/ep-ds6umq1rHAw.md#t-00-27-18)
 
 </details>
 </div>
@@ -29191,7 +29341,7 @@ _Total events: 1547_
 <div class="timeline-date">2024-03-19</div>
 <div class="timeline-desc"><a href="/events/event-2024-03-19-candace-owens-fired-from-the-daily-wire.md">Candace Owens fired from The Daily Wire</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 3 eps</span>
+<span class="timeline-badge mentions">5× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-03-19: Candace Owens fired from The Daily Wire - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -29201,6 +29351,7 @@ _Total events: 1547_
 - [#1 Podcast Worldwide! Plus, Erika Kirk's Interv... @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30)
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:07:51](/episodes/ep-sImMM04XdWY.md#t-00-07-38)
 - [What Does Ben Shapiro Know About Erika Kirk And... @ 00:01:30](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18)
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:13:39](/episodes/ep-amqTMimDr0A.md#t-00-13-14)
 
 </details>
 </div>
@@ -29883,6 +30034,36 @@ _Total events: 1547_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-bill-ackman-retired-as-executive-chairma">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-bill-ackman-retired-as-executive-chairma.md">Bill Ackman retired as executive chairman of Howard Hughes Incorporated.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Bill Ackman retired as executive chairman of Howard Hughes Incorporated. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:22:03](/episodes/ep-ds6umq1rHAw.md#t-00-21-52)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-candace-owens-says-ben-shapiro-pressured">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-candace-owens-says-ben-shapiro-pressured.md">Candace Owens says Ben Shapiro pressured Turning Point USA donors to prevent her from speaking at AmericaFest</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Candace Owens says Ben Shapiro pressured Turning Point USA donors to prevent her from speaking at AmericaFest - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:14:19](/episodes/ep-amqTMimDr0A.md#t-00-13-59)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -29997,13 +30178,29 @@ _Total events: 1547_
 <div class="timeline-date">2023-11-15</div>
 <div class="timeline-desc"><a href="/events/event-2023-11-15-candace-owens-appears-on-tucker-carlson-.md">Candace Owens appears on Tucker Carlson show responding to Ben Shapiro</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-11-15: Candace Owens appears on Tucker Carlson show responding to Ben Shapiro - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And... @ 00:07:54](/episodes/ep-w1oqQbR_bYs.md#t-00-07-19)
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:12:20](/episodes/ep-amqTMimDr0A.md#t-00-11-55)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-11-15-charlie-kirk-and-candace-owens-exchange-">
+<div class="timeline-date">2023-11-15</div>
+<div class="timeline-desc"><a href="/events/event-2023-11-15-charlie-kirk-and-candace-owens-exchange-.md">Charlie Kirk and Candace Owens exchange text messages during Ben Shapiro's criticism of Owens</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-11-15: Charlie Kirk and Candace Owens exchange text messages during Ben Shapiro\'s criticism of Owens - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:09:58](/episodes/ep-amqTMimDr0A.md#t-00-09-30)
 
 </details>
 </div>
@@ -30112,7 +30309,7 @@ _Total events: 1547_
 <div class="timeline-date">2023-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md">The October 7 Hamas-led attack on Israel occurred.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">17× in 6 eps</span>
+<span class="timeline-badge mentions">18× in 7 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-10-07: The October 7 Hamas-led attack on Israel occurred. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -30135,6 +30332,7 @@ _Total events: 1547_
 - [Candace Owens x Ana Kasparian @ 00:19:05](/episodes/ep-SKNJPul29zU.md#t-00-19-05)
 - [Candace Owens x Ana Kasparian @ 00:20:56](/episodes/ep-SKNJPul29zU.md#t-00-20-56)
 - [Ivanka Trump “Discovers” An Island. Erika Kirk ... @ 00:33:28](/episodes/ep-tXoI0TTKVrs.md#t-00-33-19)
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:09:25](/episodes/ep-amqTMimDr0A.md#t-00-08-51)
 
 </details>
 </div>
@@ -30291,6 +30489,21 @@ _Total events: 1547_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [TRENDING! I Send Out Some Legal Letters. Victor... @ 00:25:32](/episodes/ep-cPidFQDJLbo.md#t-00-25-32)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2023-04-28-judge-grants-allison-holker-property-pas">
+<div class="timeline-date">2023-04-28</div>
+<div class="timeline-desc"><a href="/events/event-2023-04-28-judge-grants-allison-holker-property-pas.md">Judge grants Allison Holker property-passing rights to half of Stephen Boss's estate</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023-04-28: Judge grants Allison Holker property-passing rights to half of Stephen Boss\'s estate - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:43:22](/episodes/ep-amqTMimDr0A.md#t-00-43-01)
 
 </details>
 </div>
@@ -30461,6 +30674,21 @@ _Total events: 1547_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2023-candace-owens-says-the-christ-is-king-co">
+<div class="timeline-date">2023</div>
+<div class="timeline-desc"><a href="/events/event-2023-candace-owens-says-the-christ-is-king-co.md">Candace Owens says the Christ is King controversy began in earnest at the end of 2023</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2023: Candace Owens says the Christ is King controversy began in earnest at the end of 2023 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:08:51](/episodes/ep-amqTMimDr0A.md#t-00-08-51)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -30469,6 +30697,23 @@ _Total events: 1547_
 <div class="timeline-container">
 
 <h2 id="year-2022">2022</h2>
+
+**December**
+
+<div class="timeline-event filter-item" id="event-2022-12-13-stephen-twitch-boss-dies-from-a-gunshot-">
+<div class="timeline-date">2022-12-13</div>
+<div class="timeline-desc"><a href="/events/event-2022-12-13-stephen-twitch-boss-dies-from-a-gunshot-.md">Stephen 'tWitch' Boss dies from a gunshot wound at the Oak Tree Inn</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022-12-13: Stephen \'tWitch\' Boss dies from a gunshot wound at the Oak Tree Inn - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:43:01](/episodes/ep-amqTMimDr0A.md#t-00-43-01)
+
+</details>
+</div>
 
 **November**
 
@@ -32090,6 +32335,21 @@ _Total events: 1547_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:19:45](/episodes/ep-X3VKJVJ7cN4.md#t-00-19-15)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2019-gary-javitch-receives-bnai-brith-interna">
+<div class="timeline-date">2019</div>
+<div class="timeline-desc"><a href="/events/event-2019-gary-javitch-receives-bnai-brith-interna.md">Gary Javitch receives B'nai B'rith International's inaugural President's Award</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2019: Gary Javitch receives B\'nai B\'rith International\'s inaugural President\'s Award - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:24:13](/episodes/ep-amqTMimDr0A.md#t-00-23-45)
 
 </details>
 </div>
@@ -35141,6 +35401,21 @@ _Total events: 1547_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2010-bill-ackman-became-executive-chairman-of">
+<div class="timeline-date">2010</div>
+<div class="timeline-desc"><a href="/events/event-2010-bill-ackman-became-executive-chairman-of.md">Bill Ackman became executive chairman of Howard Hughes Incorporated.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2010: Bill Ackman became executive chairman of Howard Hughes Incorporated. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:22:03](/episodes/ep-ds6umq1rHAw.md#t-00-21-52)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -35947,6 +36222,21 @@ _Total events: 1547_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [A SHOCKING Discovery About The Man Who Mic’ed C... @ 00:20:35](/episodes/ep-G3zdOeHpvS0.md#t-00-20-35)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2006-allison-holker-graduates-from-timpanogos">
+<div class="timeline-date">2006</div>
+<div class="timeline-desc"><a href="/events/event-2006-allison-holker-graduates-from-timpanogos.md">Allison Holker graduates from Timpanogos High School</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2006: Allison Holker graduates from Timpanogos High School - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:39:53](/episodes/ep-amqTMimDr0A.md#t-00-39-28)
 
 </details>
 </div>
@@ -36958,6 +37248,21 @@ _Total events: 1547_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [An Open Letter To President Donald Trump (My Re... @ 00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1998-rob-oneill-says-he-attended-sniper-schoo">
+<div class="timeline-date">1998</div>
+<div class="timeline-desc"><a href="/events/event-1998-rob-oneill-says-he-attended-sniper-schoo.md">Rob O'Neill says he attended sniper school in 1998</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1998: Rob O\'Neill says he attended sniper school in 1998 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:37:47](/episodes/ep-amqTMimDr0A.md#t-00-37-21)
 
 </details>
 </div>
@@ -38154,6 +38459,23 @@ _Total events: 1547_
 </details>
 </div>
 
+**April**
+
+<div class="timeline-event filter-item" id="event-1976-04-05-howard-hughes-died-of-kidney-failure">
+<div class="timeline-date">1976-04-05</div>
+<div class="timeline-desc"><a href="/events/event-1976-04-05-howard-hughes-died-of-kidney-failure.md">Howard Hughes died of kidney failure.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1976-04-05: Howard Hughes died of kidney failure. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:16:30](/episodes/ep-ds6umq1rHAw.md#t-00-16-15)
+
+</details>
+</div>
+
 ****
 
 <div class="timeline-event filter-item" id="event-1976-david-berg-introduced-flirty-fishing">
@@ -38182,6 +38504,21 @@ _Total events: 1547_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Friends In High Temples: Charlie's Final Call W... @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1976-time-magazine-published-the-keepers-of-t">
+<div class="timeline-date">1976</div>
+<div class="timeline-desc"><a href="/events/event-1976-time-magazine-published-the-keepers-of-t.md">Time magazine published "The Keepers of the King" about the Mormon aides around Howard Hughes.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1976: Time magazine published \"The Keepers of the King\" about the Mormon aides around Howard Hughes. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:14:56](/episodes/ep-ds6umq1rHAw.md#t-00-14-25)
 
 </details>
 </div>
@@ -38814,6 +39151,30 @@ _Total events: 1547_
 </div>
 </div>
 
+<div class="tab-content tab-content-year-1953">
+
+<div class="timeline-container">
+
+<h2 id="year-1953">1953</h2>
+
+<div class="timeline-event filter-item" id="event-1953-howard-hughes-formed-the-howard-hughes-m">
+<div class="timeline-date">1953</div>
+<div class="timeline-desc"><a href="/events/event-1953-howard-hughes-formed-the-howard-hughes-m.md">Howard Hughes formed the Howard Hughes Medical Institute to fund basic medical research.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1953: Howard Hughes formed the Howard Hughes Medical Institute to fund basic medical research. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:10:36](/episodes/ep-ds6umq1rHAw.md#t-00-10-10)
+
+</details>
+</div>
+
+</div>
+</div>
+
 <div class="tab-content tab-content-year-1950">
 
 <div class="timeline-container">
@@ -38889,6 +39250,21 @@ _Total events: 1547_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-1948-howard-hughes-shut-down-rko-for-six-mont">
+<div class="timeline-date">1948</div>
+<div class="timeline-desc"><a href="/events/event-1948-howard-hughes-shut-down-rko-for-six-mont.md">Howard Hughes shut down RKO for six months to investigate employees' political leanings.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1948: Howard Hughes shut down RKO for six months to investigate employees\' political leanings. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:12:03](/episodes/ep-ds6umq1rHAw.md#t-00-12-03)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -38913,6 +39289,21 @@ _Total events: 1547_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-1947-the-stern-gang-attempted-to-assassinate-">
+<div class="timeline-date">1947</div>
+<div class="timeline-desc"><a href="/events/event-1947-the-stern-gang-attempted-to-assassinate-.md">The Stern Gang attempted to assassinate President Harry S. Truman with letter bombs.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1947: The Stern Gang attempted to assassinate President Harry S. Truman with letter bombs. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:04:37](/episodes/ep-ds6umq1rHAw.md#t-00-04-10)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -38928,13 +39319,14 @@ _Total events: 1547_
 <div class="timeline-date">1946-07-22</div>
 <div class="timeline-desc"><a href="/events/event-1946-07-22-the-king-david-hotel-in-jerusalem-was-bo.md">The King David Hotel in Jerusalem was bombed.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('1946-07-22: The King David Hotel in Jerusalem was bombed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:13:03](/episodes/ep-xjzb_t5Tk9o.md#t-00-12-25)
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:03:52](/episodes/ep-ds6umq1rHAw.md#t-00-03-28)
 
 </details>
 </div>
@@ -39040,6 +39432,30 @@ _Total events: 1547_
 </div>
 </div>
 
+<div class="tab-content tab-content-year-1939">
+
+<div class="timeline-container">
+
+<h2 id="year-1939">1939</h2>
+
+<div class="timeline-event filter-item" id="event-1939-canaanism-was-founded-as-a-cultural-and-">
+<div class="timeline-date">1939</div>
+<div class="timeline-desc"><a href="/events/event-1939-canaanism-was-founded-as-a-cultural-and-.md">Canaanism was founded as a cultural and ideological movement.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1939: Canaanism was founded as a cultural and ideological movement. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:05:52](/episodes/ep-ds6umq1rHAw.md#t-00-05-34)
+
+</details>
+</div>
+
+</div>
+</div>
+
 <div class="tab-content tab-content-year-1937">
 
 <div class="timeline-container">
@@ -39107,6 +39523,30 @@ _Total events: 1547_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Del... @ 00:25:26](/episodes/ep-YeEtS7nix3o.md#t-00-25-09)
+
+</details>
+</div>
+
+</div>
+</div>
+
+<div class="tab-content tab-content-year-1932">
+
+<div class="timeline-container">
+
+<h2 id="year-1932">1932</h2>
+
+<div class="timeline-event filter-item" id="event-1932-howard-hughes-founded-the-hughes-aircraf">
+<div class="timeline-date">1932</div>
+<div class="timeline-desc"><a href="/events/event-1932-howard-hughes-founded-the-hughes-aircraf.md">Howard Hughes founded the Hughes Aircraft Company.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1932: Howard Hughes founded the Hughes Aircraft Company. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:10:19](/episodes/ep-ds6umq1rHAw.md#t-00-10-10)
 
 </details>
 </div>
@@ -39250,7 +39690,7 @@ _Total events: 1547_
 <div class="timeline-date">1913-08-25</div>
 <div class="timeline-desc"><a href="/events/event-1913-01-01-leo-frank-convicted-of-murdering-and-raping-mary-p.md">Leo Frank convicted of murdering and raping Mary Phagan in Atlanta</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">2× in 1 ep</span>
+<span class="timeline-badge mentions">3× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('1913-08-25: Leo Frank convicted of murdering and raping Mary Phagan in Atlanta - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -39258,6 +39698,7 @@ _Total events: 1547_
 
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:03:28](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-47)
 - [INSANITY! Guess Who Kash Patel Sent To Investig... @ 00:03:37](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31)
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:23:09](/episodes/ep-amqTMimDr0A.md#t-00-23-09)
 
 </details>
 </div>
@@ -39285,6 +39726,54 @@ _Total events: 1547_
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#t-00-04-18)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:01:08](/episodes/ep-a-e7HC6SeK8.md#t-00-00-46)
+
+</details>
+</div>
+
+</div>
+</div>
+
+<div class="tab-content tab-content-year-1906">
+
+<div class="timeline-container">
+
+<h2 id="year-1906">1906</h2>
+
+<div class="timeline-event filter-item" id="event-1906-rob-oneill-says-the-30-06-cartridge-was-">
+<div class="timeline-date">1906</div>
+<div class="timeline-desc"><a href="/events/event-1906-rob-oneill-says-the-30-06-cartridge-was-.md">Rob O'Neill says the .30-06 cartridge was invented in 1906</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1906: Rob O\'Neill says the .30-06 cartridge was invented in 1906 - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:37:41](/episodes/ep-amqTMimDr0A.md#t-00-37-21)
+
+</details>
+</div>
+
+</div>
+</div>
+
+<div class="tab-content tab-content-year-1905">
+
+<div class="timeline-container">
+
+<h2 id="year-1905">1905</h2>
+
+<div class="timeline-event filter-item" id="event-1905-howard-hughes-was-born">
+<div class="timeline-date">1905</div>
+<div class="timeline-desc"><a href="/events/event-1905-howard-hughes-was-born.md">Howard Hughes was born.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1905: Howard Hughes was born. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:09:30](/episodes/ep-ds6umq1rHAw.md#t-00-09-30)
 
 </details>
 </div>

@@ -25,13 +25,23 @@ veracity: "mixed"
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:01:43](/episodes/ep-zSKrxIUMNqw.md#t-00-01-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(103);return false;">Play</a>
 
 > Tyler Bowyer is the linchpin. He is the person who has been running Turning Point USA.
+
+### 2. Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafi...
+
+**Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
+**Timestamp:** [00:23:47](/episodes/ep-ds6umq1rHAw.md#t-00-23-47) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1427);return false;">Play</a>
+
+> But in reality... it's a lot of Mormons, like half of the company is Mormons. Tyler Bowyer, I had been telling you from the beginning, was the person that was in control of everything, the hiring, the firing.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk assassination"
-description: "Charlie Kirk assassination (Events) - 236 mentions"
+description: "Charlie Kirk assassination (Events) - 237 mentions"
 id: "event-charlie-kirk-assassination"
 type: "EVENT"
 aliases:
@@ -27,11 +27,11 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-event-charlie-kirk-assassination-t-00-36-02">2025-09-15 · 00:24:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-15-00">2026-06-26 · 00:15:00</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>236</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22">2026-07-23 · 00:54:30</a></strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>237</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>139</strong></div>
+<div><span>Statements about</span><strong>147</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -81,6 +81,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <a href="/episodes/ep-w1oqQbR_bYs.md#t-00-45-12" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -127,6 +128,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-45-12) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-event-charlie-kirk-assassination-t-00-00-45) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22) | 1 |
 
 </details>
 </section>
@@ -134,7 +136,15 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (236)</strong></summary>
+<summary><strong class="section-title">Raw mentions (237)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:54:30](/episodes/ep-amqTMimDr0A.md#ent-event-charlie-kirk-assassination-t-00-54-22)**
+> "... overplayed his hand with the assassination of Charlie Kirk."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -1125,7 +1135,35 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (139)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (147)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (8)</summary>
+
+- [00:17:03](/episodes/ep-amqTMimDr0A.md#t-00-17-03) (Accusation) **Candace Owens**: ["Candace Owens accused Ben Shapiro of attempting to buy Charlie Kirk's ..."](/statements/statement-d8de17a58f76.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:33](/episodes/ep-amqTMimDr0A.md#t-00-18-33) (Claim) **Ben Shapiro** (via quoted speech): ["Ben Shapiro said he was at a breakfast-or-lunch meeting in Los Angeles..."](/statements/statement-232ac1ff7122.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:53](/episodes/ep-amqTMimDr0A.md#t-00-18-33) (Claim) **Ben Shapiro** (via quoted speech): ["Ben Shapiro said visual timelines showed Charlie Kirk was carried to a..."](/statements/statement-aa3d27736563.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:19:41](/episodes/ep-amqTMimDr0A.md#t-00-19-05) (Claim) **Anonymous Source #1 (Ep amqTMimDr0A)** (via read message): ["An authenticated anonymous source reported that Ben Shapiro was allege..."](/statements/statement-8618f10282be.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Gary Javitch](/entities/person-gary-javitch.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:25](/episodes/ep-amqTMimDr0A.md#t-00-26-17) (Promise) **Candace Owens**: ["Candace Owens promised a $25,000 bounty for information identifying wh..."](/statements/statement-1f3bca4b28a5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:37:21](/episodes/ep-amqTMimDr0A.md#t-00-37-21) (Opinion) **Rob O'Neill** (via quoted speech): ["Rob O'Neill said the rooftop screwdriver probably would not have worke..."](/statements/statement-e5f13493e477.md)
+
+- [00:37:41](/episodes/ep-amqTMimDr0A.md#t-00-37-21) (Claim) **Rob O'Neill** (via quoted speech): ["Rob O'Neill said a .30-06 round would have caused more damage, that Ch..."](/statements/statement-3285ea0f24b6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:49:58](/episodes/ep-amqTMimDr0A.md#t-00-49-58) (Promise) **Candace Owens**: ["Candace Owens promised that she had much more evidence or information ..."](/statements/statement-a08c5e50df2d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (9)</summary>

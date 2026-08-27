@@ -1,6 +1,6 @@
 ---
 title: "Bain Capital"
-description: "Bain Capital (Organizations) - 4 mentions"
+description: "Bain Capital (Organizations) - 5 mentions"
 id: "org-bain-capital"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-bain-capital-t-00-03-24">2026-04-01 · 00:03:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-bain-capital-t-00-10-39">2026-05-27 · 00:10:56</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-bain-capital-t-00-22-29">2026-07-22 · 00:22:29</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,6 +34,7 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-bain-capital-t-00-03-24" style="--pulse-height:50%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-bain-capital-t-00-40-13" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-bain-capital-t-00-10-39" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-bain-capital-t-00-22-29" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-bain-capital-t-00-03-24) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-bain-capital-t-00-40-13) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-bain-capital-t-00-10-39) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-bain-capital-t-00-22-29) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:22:29](/episodes/ep-ds6umq1rHAw.md#ent-org-bain-capital-t-00-22-29)**
+> "I should also mention that Frank William Gay, the trusted Mormon, he had a son, Robert Gay, who became the managing director of Mitt Romney's Bain Capital for 16 years."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -84,12 +94,19 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Employed (1)</summary>
+<summary>Formerly Employed (2)</summary>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:34](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “Yeah, that Mitt Romney, the former senator of Utah, the one-time presidential nominee who ran against Barack Obama, the co-founder and the former CEO of Bain Capital.”
+
+</details>
+
+- **[Robert C. Gay](/entities/person-robert-c-gay.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:22:29](/episodes/ep-ds6umq1rHAw.md#t-00-22-29): “I should also mention that Frank William Gay, the trusted Mormon, he had a son, Robert Gay, who became the managing director of Mitt Romney's Bain Capital for 16 years.”
 
 </details>
 
@@ -122,12 +139,19 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Mitt Romney](/entities/person-mitt-romney.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:34](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “Yeah, that Mitt Romney, the former senator of Utah, the one-time presidential nominee who ran against Barack Obama, the co-founder and the former CEO of Bain Capital.”
+
+</details>
+
+- **[Robert C. Gay](/entities/person-robert-c-gay.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:22:29](/episodes/ep-ds6umq1rHAw.md#t-00-22-29): “I should also mention that Frank William Gay, the trusted Mormon, he had a son, Robert Gay, who became the managing director of Mitt Romney's Bain Capital for 16 years.”
 
 </details>
 
@@ -152,7 +176,15 @@ Source: [About Us | Bain Capital](https://www.baincapital.com/about-us)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bain Capital (2)</strong></summary>
+<summary><strong class="section-title">Statements about Bain Capital (3)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:22:29](/episodes/ep-ds6umq1rHAw.md#t-00-22-29) (Claim) **Candace Owens**: ["Owens said Frank William Gay son Robert C. Gay served as a managing di..."](/statements/statement-2bde41d90aad.md)
+  - Also about: [Frank William Gay](/entities/person-frank-william-gay.md), [Robert C. Gay](/entities/person-robert-c-gay.md), [Mitt Romney](/entities/person-mitt-romney.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>

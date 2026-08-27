@@ -1,6 +1,6 @@
 ---
 title: "Nebraska"
-description: "Nebraska (Places) - 37 mentions"
+description: "Nebraska (Places) - 42 mentions"
 id: "gpe-nebraska"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27">2025-10-31 · 00:20:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14">2026-07-20 · 00:46:41</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-25-38">2026-07-23 · 00:25:38</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,6 +45,7 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-nebraska-t-00-31-55" style="--pulse-height:13%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-nebraska-t-00-44-42" style="--pulse-height:13%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14" style="--pulse-height:13%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-20-28" style="--pulse-height:33%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-nebraska-t-00-31-55) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-nebraska-t-00-44-42) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-nebraska-t-00-46-14) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-20-28) | 5 |
 
 </details>
 </section>
@@ -68,7 +70,27 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (5 mentions)</summary>
+
+**[00:20:49](/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-20-28)**
+> "...n his 70s, mid-70s, in Omaha, Nebraska, of all places, right?"
+
+**[00:21:03](/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-20-28)**
+> "... one of his degrees in Omaha, Nebraska back in the 90s and has been there ever since."
+
+**[00:21:11](/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-21-11)**
+> "Now, Omaha, Nebraska just keeps coming up. It really does, right? Whet..."
+
+**[00:24:20](/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-23-45)**
+> "...or of the Chabad Lubavitch of Nebraska."
+
+**[00:25:38](/episodes/ep-amqTMimDr0A.md#ent-gpe-nebraska-t-00-25-38)**
+> "...tch) was the president of the Nebraska chapter of AIPAC. It also lists his twin brother ..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>

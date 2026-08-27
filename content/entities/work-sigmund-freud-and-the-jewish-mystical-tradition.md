@@ -1,6 +1,6 @@
 ---
 title: "Sigmund Freud and the Jewish Mystical Tradition"
-description: "Sigmund Freud and the Jewish Mystical Tradition (Works & Media) - 3 mentions"
+description: "Sigmund Freud and the Jewish Mystical Tradition (Works & Media) - 5 mentions"
 id: "work-sigmund-freud-and-the-jewish-mystical-tradition"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [WorldCat — Sigmund Freud and the Jewish Mystical Tradition](https://s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-01-01-41">2026-01-06 · 01:01:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-00-59-28">2026-02-02 · 00:59:28</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-00-24-29">2026-07-23 · 00:24:29</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [WorldCat — Sigmund Freud and the Jewish Mystical Tradition](https://s
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-01-01-41" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-00-01-27" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-00-21-42" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [WorldCat — Sigmund Freud and the Jewish Mystical Tradition](https://s
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-01-01-41) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-00-01-27) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-00-21-42) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,18 @@ Source: [WorldCat — Sigmund Freud and the Jewish Mystical Tradition](https://s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:21:42](/episodes/ep-amqTMimDr0A.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-00-21-42)**
+> "...ripped me into a new reality, Sigmund Freud and the Jewish mystical tradition."
+
+**[00:24:29](/episodes/ep-amqTMimDr0A.md#ent-work-sigmund-freud-and-the-jewish-mystical-tradition-t-00-24-29)**
+> "...s. I would read David Bakan's Sigmund Freud and the Jewish Mystical Tradition."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2 mentions)</summary>

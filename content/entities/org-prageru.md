@@ -1,6 +1,6 @@
 ---
 title: "PragerU"
-description: "PragerU (Organizations) - 39 mentions"
+description: "PragerU (Organizations) - 40 mentions"
 id: "org-prageru"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About PragerU](https://www.prageru.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-prageru-t-00-08-02">2025-09-25 · 00:08:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05">2026-07-16 · 01:06:30</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-prageru-t-00-11-12">2026-07-23 · 00:11:32</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -54,6 +54,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-prageru-t-00-45-55" style="--pulse-height:17%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-prageru-t-00-12-39" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-prageru-t-00-11-12" style="--pulse-height:17%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [About PragerU](https://www.prageru.com/about)
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-prageru-t-00-45-55) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-prageru-t-00-12-39) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-prageru-t-01-06-05) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-prageru-t-00-11-12) | 1 |
 
 </details>
 </section>
@@ -83,7 +85,15 @@ Source: [About PragerU](https://www.prageru.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:11:32](/episodes/ep-amqTMimDr0A.md#ent-org-prageru-t-00-11-12)**
+> "...eferring to Marissa Streit of Prager University is involved."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
@@ -300,10 +310,11 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 - **[Marissa Streit](/entities/person-marissa-streit.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:57](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “Marissa Strait is working on at the Prager University,”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:06:58](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58): “connected to I know who they're communicating with I know what publications they're speaking to I can see the hand of oh this you know Marissa at PragerU who I adored when I worked for her I'm like oh this is this is a Marissa thing and so I think God wanted me blinded for that time and I because I could so now when I'm telling the story about Charlie (Charlie Kirk) even I'm I have so much more weight I'm telling the public no this is what was going on this is who put this person in this organization this is who he was arguing with”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:11:32](/episodes/ep-amqTMimDr0A.md#t-00-11-12): “I came back and I said, also Marissa (Marissa Streit), and I was referring to Marissa Streit of Prager University is involved.”
 
 </details>
 
@@ -444,10 +455,11 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 - **[Marissa Streit](/entities/person-marissa-streit.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:57](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “Marissa Strait is working on at the Prager University,”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:06:58](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58): “connected to I know who they're communicating with I know what publications they're speaking to I can see the hand of oh this you know Marissa at PragerU who I adored when I worked for her I'm like oh this is this is a Marissa thing and so I think God wanted me blinded for that time and I because I could so now when I'm telling the story about Charlie (Charlie Kirk) even I'm I have so much more weight I'm telling the public no this is what was going on this is who put this person in this organization this is who he was arguing with”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:11:32](/episodes/ep-amqTMimDr0A.md#t-00-11-12): “I came back and I said, also Marissa (Marissa Streit), and I was referring to Marissa Streit of Prager University is involved.”
 
 </details>
 
@@ -456,7 +468,15 @@ Source: [About PragerU](https://www.prageru.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about PragerU (10)</strong></summary>
+<summary><strong class="section-title">Statements about PragerU (11)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:11:32](/episodes/ep-amqTMimDr0A.md#t-00-11-12) (Accusation) **Candace Owens**: ["Candace Owens said she suspected Marissa Streit was involved in the co..."](/statements/statement-c1199e7cc57f.md)
+  - Also about: [Marissa Streit](/entities/person-marissa-streit.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>

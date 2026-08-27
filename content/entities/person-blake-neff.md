@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 278 mentions"
+description: "Blake Neff (People) - 288 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-blake-neff-t-01-01-11">2026-07-21 · 01:01:20</a></strong></div>
-<div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>278</strong></div>
-<div><span>Statements by</span><strong>37</strong></div>
-<div><span>Statements about</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-50-25">2026-07-22 · 00:50:57</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>288</strong></div>
+<div><span>Statements by</span><strong>38</strong></div>
+<div><span>Statements about</span><strong>39</strong></div>
 <div><span>Relationships</span><strong>29</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -93,6 +93,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-00-56" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05" style="--pulse-height:39%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 7 mentions" title="2026-07-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-blake-neff-t-00-01-46" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 18 mentions" title="2026-07-21 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-28-01" style="--pulse-height:56%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 10 mentions" title="2026-07-22 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -154,6 +155,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-blake-neff-t-00-00-56) | 6 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-blake-neff-t-00-36-05) | 7 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-blake-neff-t-00-01-46) | 18 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-28-01) | 10 |
 
 </details>
 </section>
@@ -161,7 +163,42 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (278)</strong></summary>
+<summary><strong class="section-title">Raw mentions (288)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (10 mentions)</summary>
+
+**[00:28:24](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-28-01)**
+> "Blake Neff could stomach the lie"
+
+**[00:28:30](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-28-01)**
+> "... even more text messages when Blake Neff admitted and Ben (Ben Shapiro) admitted that they..."
+
+**[00:34:20](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-34-20)**
+> "Blake Neff went on to the podcast and said, yeah, no, Charli..."
+
+**[00:43:57](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-43-40)**
+> "...me job of both you and Blake (Blake Neff)."
+
+**[00:45:08](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-44-49)**
+> "...ot commented on that and also Blake Neff oddly saying I put that phone away, that implies ..."
+
+**[00:45:22](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-44-49)**
+> "...t say I put my phone away and Blake Neff does say I put that phone away and I can show you..."
+
+**[00:46:25](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-45-49)**
+> "...aven't replied. And obviously Blake Neff saying that phone isn't enough evidence to sugges..."
+
+**[00:50:39](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-50-25)**
+> "...rget, that's a quotation from Blake Neff, who now has amnesia. It is, yeah, interesting to..."
+
+**[00:50:52](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-50-25)**
+> "...interesting thing that Blake (Blake Neff) did forget."
+
+**[00:50:57](/episodes/ep-ds6umq1rHAw.md#ent-person-blake-neff-t-00-50-25)**
+> "But Blake (Blake Neff) comes in and out, you know, we're here to help B..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (18 mentions)</summary>
@@ -1341,7 +1378,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1360,6 +1397,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:45:31](/episodes/ep-puuMVxEu5NU.md#t-00-45-09): “Top comment from yesterday's episode came from chewing the void this person writes nobody dismantles Andrew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet) and Blake (Blake Neff) could not agree more”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:36:21](/episodes/ep-N4uM8Jdr410.md#t-00-36-05): “Blake Neff doesn't remember what city. At first, he says he stayed in Orem. Then he has another discussion and changes his mind and says that they stayed in Salt Lake City. Salt Lake City is the true events—true version of events. The entire Turning Point team stayed in Salt Lake City, but Blake (Blake Neff) does not remember what hotel they stayed in. It's a lot, and I want you to hear him in his own words.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 01:01:20](/episodes/ep-OgRyiOAVtWU.md#t-01-01-11): “So I don't feel that way about Blake Neff. I don't feel that way about Andrew Kolvet. I hate what they are doing to Charlie (Charlie Kirk)'s legacy.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:50:39](/episodes/ep-ds6umq1rHAw.md#t-00-50-25): “Blake Neff, who now has amnesia.”
 
 </details>
 
@@ -1473,7 +1511,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1492,6 +1530,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:45:31](/episodes/ep-puuMVxEu5NU.md#t-00-45-09): “Top comment from yesterday's episode came from chewing the void this person writes nobody dismantles Andrew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet) and Blake (Blake Neff) could not agree more”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:36:21](/episodes/ep-N4uM8Jdr410.md#t-00-36-05): “Blake Neff doesn't remember what city. At first, he says he stayed in Orem. Then he has another discussion and changes his mind and says that they stayed in Salt Lake City. Salt Lake City is the true events—true version of events. The entire Turning Point team stayed in Salt Lake City, but Blake (Blake Neff) does not remember what hotel they stayed in. It's a lot, and I want you to hear him in his own words.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 01:01:20](/episodes/ep-OgRyiOAVtWU.md#t-01-01-11): “So I don't feel that way about Blake Neff. I don't feel that way about Andrew Kolvet. I hate what they are doing to Charlie (Charlie Kirk)'s legacy.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:50:39](/episodes/ep-ds6umq1rHAw.md#t-00-50-25): “Blake Neff, who now has amnesia.”
 
 </details>
 
@@ -1589,7 +1628,15 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (37)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (38)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:45:41](/episodes/ep-ds6umq1rHAw.md#t-00-45-30) [✓] (Claim) ["Blake Neff said that after putting that phone away, Michael McCoy immediately ca..."](/statements/statement-af8ece3aa136.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
@@ -1770,7 +1817,18 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (37)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (39)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
+
+- [00:28:24](/episodes/ep-ds6umq1rHAw.md#t-00-28-01) (Accusation) **Candace Owens**: ["Owens accused Andrew Kolvet of falsely claiming Ben Shapiro and Charli..."](/statements/statement-eee389f4a24c.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:45:41](/episodes/ep-ds6umq1rHAw.md#t-00-45-30) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that after putting that phone away, Michael McCoy imme..."](/statements/statement-af8ece3aa136.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (3)</summary>

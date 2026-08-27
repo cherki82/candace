@@ -1,6 +1,6 @@
 ---
 title: "Graham Allen"
-description: "Graham Allen (People) - 13 mentions"
+description: "Graham Allen (People) - 14 mentions"
 id: "person-graham-allen"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-person-graham-allen-t-00-08-03">2026-05-07 · 00:08:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-48-55">2026-07-20 · 00:49:00</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-graham-allen-t-00-53-01">2026-07-22 · 00:53:16</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
@@ -38,6 +38,7 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-graham-allen-t-00-39-35" style="--pulse-height:33%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-graham-allen-t-00-00-46" style="--pulse-height:67%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-13-41" style="--pulse-height:67%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-graham-allen-t-00-53-01" style="--pulse-height:33%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-graham-allen-t-00-39-35) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-graham-allen-t-00-00-46) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-graham-allen-t-00-13-41) | 2 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-graham-allen-t-00-53-01) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Graham Allen | Hachette Book Group](https://www.hachettebookgroup.com/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:53:16](/episodes/ep-ds6umq1rHAw.md#ent-person-graham-allen-t-00-53-01)**
+> "Unforced error after unforced error. That's not something that would be on anybody's mind if you're going to face the person who you allege you are fully confident murdered your husband. The last thing you would think is, well, let me call up Graham Allen and Benny Johnson and see if they're free to come."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>

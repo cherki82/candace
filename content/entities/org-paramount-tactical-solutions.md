@@ -1,6 +1,6 @@
 ---
 title: "Paramount Tactical Solutions"
-description: "Paramount Tactical Solutions (Organizations) - 35 mentions"
+description: "Paramount Tactical Solutions (Organizations) - 37 mentions"
 id: "org-paramount-tactical-solutions"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-41-37">2026-01-05 · 00:42:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#t-00-26-46">2026-06-26 · 00:26:46</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-34-22">2026-07-23 · 00:34:24</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -53,6 +53,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <a href="/episodes/ep-sKuYLNx3iRo.md#t-00-48-52" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-26-46" style="--pulse-height:14%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-paramount-tactical-solutions-t-00-15-46" style="--pulse-height:14%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53" style="--pulse-height:29%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +76,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#t-00-48-52) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-26-46) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-paramount-tactical-solutions-t-00-15-46) | 1 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53) | 2 |
 
 </details>
 </section>
@@ -82,7 +84,18 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:32:53](/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53)**
+> "... get ahead of it and go on to Paramount Tactical Show."
+
+**[00:34:24](/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-34-22)**
+> "... to be honest with you, Gary (Paramount Tactical host; surname unverified)."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -295,12 +308,19 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 </details>
 
 <details>
-<summary>Interviewed (1)</summary>
+<summary>Interviewed (2)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:14:35](/episodes/ep-sKuYLNx3iRo.md#t-00-13-57): “And he repeats that story to Paramount, not so tactical in a separate interview.”
+
+</details>
+
+- **[Tracy Martin](/entities/person-tracy-martin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:53](/episodes/ep-amqTMimDr0A.md#t-00-32-53): “she tried to get ahead of it and go on to Paramount Tactical Show. ... Tracy (Tracy Martin), let us know what your thoughts are on this.”
 
 </details>
 
@@ -332,7 +352,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -348,6 +368,13 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:14:35](/episodes/ep-sKuYLNx3iRo.md#t-00-13-57): “And he repeats that story to Paramount, not so tactical in a separate interview.”
+
+</details>
+
+- **[Tracy Martin](/entities/person-tracy-martin.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:53](/episodes/ep-amqTMimDr0A.md#t-00-32-53): “she tried to get ahead of it and go on to Paramount Tactical Show. ... Tracy (Tracy Martin), let us know what your thoughts are on this.”
 
 </details>
 

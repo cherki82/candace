@@ -1,6 +1,6 @@
 ---
 title: "Rob O'Neill"
-description: "Rob O'Neill (People) - 13 mentions"
+description: "Rob O'Neill (People) - 14 mentions"
 id: "person-rob-oneill"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-rob-oneill-t-01-01-35">2025-10-06 · 01:01:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-rob-oneill-t-03-08-44">2026-08-14 · 03:08:44</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
-<div><span>Statements by</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Statements by</span><strong>10</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-person-rob-oneill-t-01-01-35" style="--pulse-height:20%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-rob-oneill-t-00-27-54" style="--pulse-height:60%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 3 mentions" title="2025-10-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-rob-oneill-t-00-02-41" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 5 mentions" title="2026-07-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-rob-oneill-t-00-36-37" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-rob-oneill-t-03-04-07" style="--pulse-height:80%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -47,6 +48,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-person-rob-oneill-t-01-01-35) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-rob-oneill-t-00-27-54) | 3 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-rob-oneill-t-00-02-41) | 5 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-rob-oneill-t-00-36-37) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-rob-oneill-t-03-04-07) | 4 |
 
 </details>
@@ -55,7 +57,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -71,6 +73,14 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 
 **[03:08:44](/episodes/ep-nPhCKwJ6ye8.md#ent-person-rob-oneill-t-03-08-44)**
 > "...ts to show one of them is the Rob O'Neill clip since we're on it So if you guys are ready i..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:37:07](/episodes/ep-amqTMimDr0A.md#ent-person-rob-oneill-t-00-36-37)**
+> "But Rob O'Neill, we didn't show the full clip of him on Newsmax a..."
 
 </details>
 
@@ -149,9 +159,10 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 <summary>Formerly Member Of (1)</summary>
 
 - **[SEAL Team Six](/entities/org-seal-team-six.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:03:05](/episodes/ep-N4uM8Jdr410.md#t-00-02-41): “What do we have? It is Robert O'Neill, the former United States Navy SEAL Team 6 sniper who killed Osama bin Laden.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:37:47](/episodes/ep-amqTMimDr0A.md#t-00-37-21): “i'm SEAL Team Six sniper with the sniper school in 1998 i'm telling you”
 
 </details>
 
@@ -206,9 +217,10 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 </details>
 
 - **[SEAL Team Six](/entities/org-seal-team-six.md)** has former member this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:03:05](/episodes/ep-N4uM8Jdr410.md#t-00-02-41): “What do we have? It is Robert O'Neill, the former United States Navy SEAL Team 6 sniper who killed Osama bin Laden.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:37:47](/episodes/ep-amqTMimDr0A.md#t-00-37-21): “i'm SEAL Team Six sniper with the sniper school in 1998 i'm telling you”
 
 </details>
 
@@ -224,7 +236,7 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Rob O'Neill (8)</strong></summary>
+<summary><strong class="section-title">Statements by Rob O'Neill (10)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -234,6 +246,17 @@ Source: [Robert O'Neill — Official Publisher Page](https://www.simonandschuste
 
 - [03:09:26](/episodes/ep-nPhCKwJ6ye8.md#t-03-09-00) [✓] (Accusation) ["Rob O'Neill said people at the scene seemed more concerned with removing camera ..."](/statements/statement-59ffbe2ba8c0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2)</summary>
+
+- [00:37:21](/episodes/ep-amqTMimDr0A.md#t-00-37-21) [○] (Opinion) ["Rob O'Neill said the rooftop screwdriver probably would not have worked on the r..."](/statements/statement-e5f13493e477.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:37:41](/episodes/ep-amqTMimDr0A.md#t-00-37-21) [○] (Claim) ["Rob O'Neill said a .30-06 round would have caused more damage, that Charlie Kirk..."](/statements/statement-3285ea0f24b6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </details>
 

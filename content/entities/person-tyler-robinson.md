@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 696 mentions"
+description: "Tyler Robinson (People) - 700 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26">2026-08-14 · 04:01:26</a></strong></div>
-<div><span>Episodes</span><strong>85</strong></div>
-<div><span>Mentions</span><strong>696</strong></div>
+<div><span>Episodes</span><strong>86</strong></div>
+<div><span>Mentions</span><strong>700</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>319</strong></div>
 <div><span>Relationships</span><strong>21</strong></div>
@@ -120,6 +120,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-03-06" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-09-10" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-28-30" style="--pulse-height:14%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 14 mentions" title="2026-07-21 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-robinson-t-00-00-01" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 103 mentions" title="2026-08-14 · 103 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -210,6 +211,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-robinson-t-00-03-06) | 4 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-robinson-t-00-09-10) | 6 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-tyler-robinson-t-00-28-30) | 14 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-robinson-t-00-00-01) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-00-24-41) | 103 |
 
 </details>
@@ -218,7 +220,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (696)</strong></summary>
+<summary><strong class="section-title">Raw mentions (700)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (103 mentions)</summary>
@@ -531,6 +533,23 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 
 **[04:01:26](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tyler-robinson-t-04-01-26)**
 > "...more people involved and that Tyler Robinson has been set up and that none of the evidence tha..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4 mentions)</summary>
+
+**[00:00:24](/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-robinson-t-00-00-01)**
+> "Tyler (Tyler Robinson) actually even did it or if more people were involved, that did not go over so well with the public."
+
+**[00:16:46](/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-robinson-t-00-16-15)**
+> "...inted Judge Tony Graff in the Tyler Robinson case?"
+
+**[00:35:19](/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-robinson-t-00-34-58)**
+> "...f demonstrated compassion for Tyler Robinson on stage and we've got these evil eyes for Candac..."
+
+**[00:35:32](/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-robinson-t-00-34-58)**
+> "... stance, compassion again for Tyler Robinson."
 
 </details>
 

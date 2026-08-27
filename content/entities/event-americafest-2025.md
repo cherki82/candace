@@ -1,6 +1,6 @@
 ---
 title: "AmericaFest 2025"
-description: "AmericaFest 2025 (Events) - 30 mentions"
+description: "AmericaFest 2025 (Events) - 32 mentions"
 id: "event-americafest-2025"
 type: "EVENT"
 aliases:
@@ -25,12 +25,12 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-05-43">2026-01-07 · 00:06:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-event-americafest-2025-t-00-04-23">2026-03-11 · 00:04:37</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-13-59">2026-07-23 · 00:14:19</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -53,6 +53,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-event-americafest-2025-t-00-19-32" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-event-americafest-2025-t-00-21-24" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-event-americafest-2025-t-00-04-23" style="--pulse-height:20%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48" style="--pulse-height:40%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +74,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-event-americafest-2025-t-00-19-32) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-event-americafest-2025-t-00-21-24) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-event-americafest-2025-t-00-04-23) | 1 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48) | 2 |
 
 </details>
 </section>
@@ -80,7 +82,18 @@ Source: [AmericaFest](https://www.amfest.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:06:02](/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48)**
+> "... to what Steve Bannon said at AmFest last December about Ben (Ben Shapiro)."
+
+**[00:14:19](/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-13-59)**
+> "... say that I couldn't speak at AmFest."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (1 mentions)</summary>
@@ -247,7 +260,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Hosted Speaker (1)</summary>
+<summary>Hosted Speaker (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -257,10 +270,17 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 </details>
 
+- **[Steve Bannon](/entities/person-steve-bannon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:02](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “So take a listen to what Steve Bannon said at AmFest last December about Ben (Ben Shapiro).”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** spoke at this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -270,12 +290,27 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 </details>
 
+- **[Steve Bannon](/entities/person-steve-bannon.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:02](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “So take a listen to what Steve Bannon said at AmFest last December about Ben (Ben Shapiro).”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about AmericaFest 2025 (13)</strong></summary>
+<summary><strong class="section-title">Statements about AmericaFest 2025 (14)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:14:19](/episodes/ep-amqTMimDr0A.md#t-00-13-59) (Accusation) **Candace Owens**: ["Candace Owens said text messages told her that Ben Shapiro was pressur..."](/statements/statement-2227bd182678.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>

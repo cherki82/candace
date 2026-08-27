@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 170 mentions"
+description: "Kanye West (People) - 172 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-57-38">2026-07-16 · 00:58:09</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>170</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-kanye-west-t-00-07-38">2026-07-22 · 00:07:59</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>172</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
-<div><span>Relationships</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -72,6 +72,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-kanye-west-t-00-43-38" style="--pulse-height:9%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-kanye-west-t-00-50-51" style="--pulse-height:9%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-56-39" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-kanye-west-t-00-02-47" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,6 +113,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-kanye-west-t-00-43-38) | 3 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-kanye-west-t-00-50-51) | 3 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-kanye-west-t-00-56-39) | 4 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-kanye-west-t-00-02-47) | 2 |
 
 </details>
 </section>
@@ -119,7 +121,18 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (170)</strong></summary>
+<summary><strong class="section-title">Raw mentions (172)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
+
+**[00:02:47](/episodes/ep-ds6umq1rHAw.md#ent-person-kanye-west-t-00-02-47)**
+> "I think Michael Jackson alluded to that before his death. Kanye West alluded to that after his gym trainer, Harley Pasternak, threatened to drug him and take his children away."
+
+**[00:07:59](/episodes/ep-ds6umq1rHAw.md#ent-person-kanye-west-t-00-07-38)**
+> "...s in general? Okay, I believe Kanye West always have always will and based on my own liter..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (4 mentions)</summary>
@@ -884,6 +897,18 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
+<summary>Threatened By (1)</summary>
+
+- **[Harley Pasternak](/entities/person-harley-pasternak.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:47](/episodes/ep-ds6umq1rHAw.md#t-00-02-08): “Kanye West alluded to that after his gym trainer, Harley Pasternak, threatened to drug him and take his children away.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Worked With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -896,7 +921,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Scott Adams](/entities/person-scott-adams.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -940,6 +965,13 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 01:12:30](/episodes/ep-w1oqQbR_bYs.md#t-01-00-35): “Kanye was right. He was totally right”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). ... I support Kanye (Kanye West) in everything that he does, you know, and if I don't support him in anything,”
+
+</details>
+
+- **[Harley Pasternak](/entities/person-harley-pasternak.md)** threatened this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:47](/episodes/ep-ds6umq1rHAw.md#t-00-02-08): “Kanye West alluded to that after his gym trainer, Harley Pasternak, threatened to drug him and take his children away.”
 
 </details>
 

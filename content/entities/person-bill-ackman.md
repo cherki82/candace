@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 74 mentions"
+description: "Bill Ackman (People) - 78 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40">2025-09-15 · 00:14:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33">2026-08-14 · 02:26:42</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>23</strong></div>
+<div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -59,6 +59,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-17-53" style="--pulse-height:16%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55" style="--pulse-height:16%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-21-52" style="--pulse-height:21%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -88,6 +89,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-17-53) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55) | 3 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-21-52) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33) | 1 |
 
 </details>
@@ -100,13 +102,30 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (78)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:26:42](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33)**
 > "...njamin Netanyahu) and Ackman (Bill Ackman), right?"
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4 mentions)</summary>
+
+**[00:21:52](/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-21-52)**
+> "The real estate empire is still being operated with his name, right? Howard Hughes Holding Incorporated. American hedge funder Bill Ackman."
+
+**[00:22:19](/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-21-52)**
+> "Bill Ackman made a $900 million investment into Howard Hughes..."
+
+**[00:26:36](/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-26-36)**
+> "... being morally blackmailed at Bill Ackman's house in the Hamptons by Seth Dillon and others."
+
+**[00:26:49](/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-26-36)**
+> "...ear, he wasn't, he didn't say Bill Ackman morally blackmailed him, but Seth Dillon, he did ..."
 
 </details>
 
@@ -450,6 +469,18 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Chairman Of (1)</summary>
+
+- **[Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:22:03](/episodes/ep-ds6umq1rHAw.md#t-00-21-52): “Was and is the executive chairman of Howard Hughes Incorporated. He was from 2010 to 2024. He was the executive chairman before he retired for a couple of months, but then changed his mind last year in May of 2025.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Critic Of (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -509,6 +540,18 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
+<summary>Invested In (1)</summary>
+
+- **[Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:22:19](/episodes/ep-ds6umq1rHAw.md#t-00-21-52): “Bill Ackman made a $900 million investment into Howard Hughes Holding Incorporated, returning him back to that executive chair position.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Met With (2)</summary>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
@@ -540,7 +583,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -575,6 +618,20 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:14:40](/episodes/ep-LATnak75Si0.md#t-00-14-30): “Bill Ackman almost personally ran against Mamdani”
+
+</details>
+
+- **[Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings.md)** has chairman this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:22:03](/episodes/ep-ds6umq1rHAw.md#t-00-21-52): “Was and is the executive chairman of Howard Hughes Incorporated. He was from 2010 to 2024. He was the executive chairman before he retired for a couple of months, but then changed his mind last year in May of 2025.”
+
+</details>
+
+- **[Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings.md)** has investor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:22:19](/episodes/ep-ds6umq1rHAw.md#t-00-21-52): “Bill Ackman made a $900 million investment into Howard Hughes Holding Incorporated, returning him back to that executive chair position.”
 
 </details>
 
@@ -623,7 +680,18 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bill Ackman (21)</strong></summary>
+<summary><strong class="section-title">Statements about Bill Ackman (23)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
+
+- [00:22:19](/episodes/ep-ds6umq1rHAw.md#t-00-21-52) (Claim) **Candace Owens**: ["Owens said Bill Ackman invested 900 million dollars in Howard Hughes H..."](/statements/statement-cd7577c3258e.md)
+  - Also about: [Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings.md)
+
+- [00:26:49](/episodes/ep-ds6umq1rHAw.md#t-00-26-36) (Accusation) **Charlie Kirk** (via quoted document): ["Charlie Kirk said Seth Dillon morally blackmailed him; Owens explicitl..."](/statements/statement-433552c0dc91.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Seth Dillon](/entities/person-seth-dillon.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>

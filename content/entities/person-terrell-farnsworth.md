@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 58 mentions"
+description: "Terrell Farnsworth (People) - 60 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 categories:
@@ -19,8 +19,8 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41">2025-11-12 · 00:16:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07">2026-08-14 · 03:02:25</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -48,6 +48,7 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-terrell-farnsworth-t-00-23-02" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-terrell-farnsworth-t-00-19-39" style="--pulse-height:13%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-terrell-farnsworth-t-00-53-02" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-terrell-farnsworth-t-00-24-54" style="--pulse-height:13%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -71,6 +72,7 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-terrell-farnsworth-t-00-23-02) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-terrell-farnsworth-t-00-19-39) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-terrell-farnsworth-t-00-53-02) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-terrell-farnsworth-t-00-24-54) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07) | 1 |
 
 </details>
@@ -79,13 +81,24 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:02:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07)**
 > "...makes sense, without question Terrell Farnsworth is someone who made me think that we were missing..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
+
+**[00:24:54](/episodes/ep-ds6umq1rHAw.md#ent-person-terrell-farnsworth-t-00-24-54)**
+> "Half my team is Mormon. He sung the truth. And then he says Andrew (Turning Point USA staffer who selected tour stops; surname unverified)—he's not referring to Andrew Kolvet; he's referring to the person that picks what stops he goes on to. He goes on to, um, and yeah, who runs the field program, that is a Mormon. And Tyler's (Tyler Bowyer's) a Mormon. He's talking—Terrell's (Terrell Farnsworth's) a Mormon. Terrell's (Terrell Farnsworth's) the guy who takes down the cameras, the Farnsworth guys, and all of these people"
+
+**[00:27:30](/episodes/ep-ds6umq1rHAw.md#ent-person-terrell-farnsworth-t-00-27-18)**
+> "...onships with the Mormons like Terrell Farnsworth."
 
 </details>
 

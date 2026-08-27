@@ -11,7 +11,7 @@ date: "2025-09-03"
 
 > Charlie Kirk requests DOGE department at Turning Point USA.
 
-## Mentioned In (181 times)
+## Mentioned In (182 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
@@ -1460,3 +1460,11 @@ date: "2025-09-03"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 182. Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafi...
+
+**Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
+**Timestamp:** [00:27:11](/episodes/ep-ds6umq1rHAw.md#t-00-26-36) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1631);return false;">▶️ Play</a>
+
+> Charlie wanted to seven days before he died to establish a DOGE audit

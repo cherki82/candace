@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 169 mentions"
+description: "Pure Talk (Organizations) - 175 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-47">2025-09-15 · 00:55:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-30-08">2026-07-20 · 00:30:13</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>169</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41">2026-07-23 · 00:30:19</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>175</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -70,6 +70,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-pure-talk-t-00-31-12" style="--pulse-height:71%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43" style="--pulse-height:86%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27" style="--pulse-height:86%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41" style="--pulse-height:86%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 6 mentions" title="2026-07-23 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -108,6 +109,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-pure-talk-t-00-31-12) | 5 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43) | 6 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27) | 6 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41) | 6 |
 
 </details>
 </section>
@@ -115,7 +117,30 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (169)</strong></summary>
+<summary><strong class="section-title">Raw mentions (175)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (6 mentions)</summary>
+
+**[00:29:41](/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41)**
+> "...want to remind you guys about Pure Talk because you do not have to overpay for your wirel..."
+
+**[00:29:48](/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41)**
+> "... now for the first time ever, PureTalk is offering any plan at just $15 a month for your..."
+
+**[00:29:54](/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41)**
+> "...er been a better time to take PureTalk for a test drive. It's fast, reliable, and you're..."
+
+**[00:29:59](/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41)**
+> "You can now get any PureTalk plan, including their unlimited data plans and ev..."
+
+**[00:30:07](/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41)**
+> "...remely short-lived, switch to PureTalk and enjoy your first three months of talk, text, ..."
+
+**[00:30:19](/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41)**
+> "Head to puretalk.com slash Owens to make the switch to PureTalk. A..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (6 mentions)</summary>
@@ -810,7 +835,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -822,6 +847,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:31:30](/episodes/ep-IqHsl7d2dos.md#t-00-31-12): “Again, that's balanceofnature.com with code Candace at checkout. I also want to tell you guys about Pure Talk because America does not stand for 250 years as a beacon of hope without the brave men and women that are willing to put their lives on the line to defend her.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:25:03](/episodes/ep-puuMVxEu5NU.md#t-00-24-43): “I also want to tell you guys about PureTalk because you do not have to overpay for your wireless network.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:29:37](/episodes/ep-N4uM8Jdr410.md#t-00-29-27): “That's when PureTalk comes in with the same service for a tiny fraction of the cost. And now, for the first time ever, PureTalk is offering any plan at just 5 a month for your first three months. There's never been a better time to switch.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:29:41](/episodes/ep-amqTMimDr0A.md#t-00-29-41): “I also want to remind you guys about Pure Talk because you do not have to overpay for your wireless network, not when Pure Talk comes in with the same service for a tiny.”
 
 </details>
 
@@ -860,7 +886,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -872,6 +898,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:31:30](/episodes/ep-IqHsl7d2dos.md#t-00-31-12): “Again, that's balanceofnature.com with code Candace at checkout. I also want to tell you guys about Pure Talk because America does not stand for 250 years as a beacon of hope without the brave men and women that are willing to put their lives on the line to defend her.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:25:03](/episodes/ep-puuMVxEu5NU.md#t-00-24-43): “I also want to tell you guys about PureTalk because you do not have to overpay for your wireless network.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:29:37](/episodes/ep-N4uM8Jdr410.md#t-00-29-27): “That's when PureTalk comes in with the same service for a tiny fraction of the cost. And now, for the first time ever, PureTalk is offering any plan at just 5 a month for your first three months. There's never been a better time to switch.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:29:41](/episodes/ep-amqTMimDr0A.md#t-00-29-41): “I also want to remind you guys about Pure Talk because you do not have to overpay for your wireless network, not when Pure Talk comes in with the same service for a tiny.”
 
 </details>
 

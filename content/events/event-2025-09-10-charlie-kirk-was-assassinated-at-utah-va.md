@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk was assassinated at Utah Valley University.
 
-## Mentioned In (54 times)
+## Mentioned In (55 times)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -444,3 +444,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(97);return false;">▶️ Play</a>
 
 > There are a lot of heavy players that are involved in Charlie Kirk's assassination
+
+### 55. Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafi...
+
+**Episode:** [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md)
+**Timestamp:** [00:28:01](/episodes/ep-ds6umq1rHAw.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-28-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1681);return false;">▶️ Play</a>
+
+> He never made it to that Monday. He never made it to that appointment. He's then murdered in Utah.

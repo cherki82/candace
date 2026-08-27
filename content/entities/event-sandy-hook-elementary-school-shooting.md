@@ -1,6 +1,6 @@
 ---
 title: "Sandy Hook Elementary School shooting"
-description: "Sandy Hook Elementary School shooting (Events) - 17 mentions"
+description: "Sandy Hook Elementary School shooting (Events) - 20 mentions"
 id: "event-sandy-hook-elementary-school-shooting"
 type: "EVENT"
 aliases:
@@ -24,11 +24,11 @@ Source: [Connecticut DESPP — Sandy Hook Elementary School Shooting Reports](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-event-sandy-hook-elementary-school-shooting-t-00-00-36">2026-07-21 · 00:00:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-event-sandy-hook-elementary-school-shooting-t-00-58-51">2026-07-21 · 00:58:51</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-event-sandy-hook-elementary-school-shooting-t-00-54-22">2026-07-23 · 00:54:39</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,12 +38,16 @@ Source: [Connecticut DESPP — Sandy Hook Elementary School Shooting Reports](ht
 <p>Highest activity: <a href="/episodes/ep-OgRyiOAVtWU.md#ent-event-sandy-hook-elementary-school-shooting-t-00-00-36">Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</a> (17 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-event-sandy-hook-elementary-school-shooting-t-00-00-36" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 17 mentions" title="2026-07-21 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-event-sandy-hook-elementary-school-shooting-t-00-53-45" style="--pulse-height:12%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-event-sandy-hook-elementary-school-shooting-t-00-54-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-event-sandy-hook-elementary-school-shooting-t-00-00-36) | 17 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-event-sandy-hook-elementary-school-shooting-t-00-53-45) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-event-sandy-hook-elementary-school-shooting-t-00-54-22) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,26 @@ Source: [Connecticut DESPP — Sandy Hook Elementary School Shooting Reports](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:54:39](/episodes/ep-amqTMimDr0A.md#ent-event-sandy-hook-elementary-school-shooting-t-00-54-22)**
+> "...le are starting to talk about sandy hook i was like oh they're they're gonna go for this t..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
+
+**[00:53:58](/episodes/ep-ds6umq1rHAw.md#ent-event-sandy-hook-elementary-school-shooting-t-00-53-45)**
+> "They're so obvious. Like I said yesterday when we were tracking, all of a sudden they're all bringing up Sandy Hook."
+
+**[00:54:04](/episodes/ep-ds6umq1rHAw.md#ent-event-sandy-hook-elementary-school-shooting-t-00-53-45)**
+> "They're all talking about Sandy Hook. That's an obvious influencer campaign, which mak..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (17 mentions)</summary>
@@ -119,7 +142,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sandy Hook Elementary School shooting (6)</strong></summary>
+<summary><strong class="section-title">Statements about Sandy Hook Elementary School shooting (7)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:54:04](/episodes/ep-ds6umq1rHAw.md#t-00-53-45) (Prediction) **Candace Owens**: ["Owens said the coordinated Sandy Hook messaging made her believe the n..."](/statements/statement-19c478e2ce90.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (6)</summary>

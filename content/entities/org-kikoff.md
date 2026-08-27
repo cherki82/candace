@@ -1,6 +1,6 @@
 ---
 title: "Kikoff"
-description: "Kikoff (Organizations) - 39 mentions"
+description: "Kikoff (Organizations) - 44 mentions"
 id: "org-kikoff"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Kikoff](https://getkikoff.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53">2026-01-29 · 01:18:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-36-20">2026-06-22 · 00:36:20</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-29-11">2026-07-23 · 00:29:19</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -42,6 +42,7 @@ Source: [Kikoff](https://getkikoff.com/)
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-kikoff-t-00-38-29" style="--pulse-height:56%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-kikoff-t-00-26-26" style="--pulse-height:67%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 6 mentions" title="2026-05-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 6 mentions" title="2026-06-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27" style="--pulse-height:56%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Kikoff](https://getkikoff.com/)
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-kikoff-t-00-38-29) | 5 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-kikoff-t-00-26-26) | 6 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18) | 6 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27) | 5 |
 
 </details>
 </section>
@@ -60,7 +62,27 @@ Source: [Kikoff](https://getkikoff.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (5 mentions)</summary>
+
+**[00:28:27](/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27)**
+> "...want to remind you guys about kickoff because time flies faster than we expect. It's fa..."
+
+**[00:28:35](/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27)**
+> "Kickoff is the number one credit building app in the App ..."
+
+**[00:29:03](/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27)**
+> "...y. Start building credit with kickoff today and get your first month for as little as o..."
+
+**[00:29:11](/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-29-11)**
+> "...normal price when you head to getkickoff.com slash Candice today. That's kickoff without t..."
+
+**[00:29:19](/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-29-11)**
+> "Getkickoff.com slash Candice."
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (6 mentions)</summary>
@@ -218,10 +240,11 @@ Source: [Kikoff](https://getkikoff.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:40](/episodes/ep-UYkXV9mYbT4.md#t-00-34-30): “That's where Kickoff comes in. Kickoff is the number one credit building app in the App Store and plans start at just five bucks a month.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:26:55](/episodes/ep-7FS1tUeSfdE.md#t-00-26-26): “Join over a million users building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as $1.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:28:27](/episodes/ep-amqTMimDr0A.md#t-00-28-27): “I also want to remind you guys about kickoff because time flies faster than we expect.”
 
 </details>
 
@@ -231,10 +254,11 @@ Source: [Kikoff](https://getkikoff.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:40](/episodes/ep-UYkXV9mYbT4.md#t-00-34-30): “That's where Kickoff comes in. Kickoff is the number one credit building app in the App Store and plans start at just five bucks a month.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:26:55](/episodes/ep-7FS1tUeSfdE.md#t-00-26-26): “Join over a million users building better credit the smart way. Start building credit with Kikoff today and get your first month for as little as $1.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:28:27](/episodes/ep-amqTMimDr0A.md#t-00-28-27): “I also want to remind you guys about kickoff because time flies faster than we expect.”
 
 </details>
 

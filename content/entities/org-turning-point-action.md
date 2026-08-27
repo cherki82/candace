@@ -1,6 +1,6 @@
 ---
 title: "Turning Point Action"
-description: "Turning Point Action (Organizations) - 32 mentions"
+description: "Turning Point Action (Organizations) - 34 mentions"
 id: "org-turning-point-action"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-turning-point-action-t-00-23-46">2025-10-06 · 00:24:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-50-18">2026-05-13 · 00:50:31</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-27-18">2026-07-22 · 00:27:18</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,6 +52,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07" style="--pulse-height:14%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36" style="--pulse-height:43%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26" style="--pulse-height:43%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-25-17" style="--pulse-height:29%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +75,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-turning-point-action-t-00-13-07) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-org-turning-point-action-t-00-49-36) | 3 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-turning-point-action-t-00-16-26) | 3 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-25-17) | 2 |
 
 </details>
 </section>
@@ -81,7 +83,18 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
+
+**[00:25:17](/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-25-17)**
+> "knew Erica (Erika Kirk) before Erica (Erika Kirk) knew Charlie (Charlie Kirk). These families knew Erica (Erika Kirk) before Erica (Erika Kirk) knew Charlie (Charlie Kirk). Tyler Bowyer handled the money at Turning Point USA. I have text messages to that effect, proving that he was behind Turning Point Action. He was the COO first of Turning Point USA, then became the COO of Turning Point Action. And yes, he brought in Erica (Erika Kirk); of that there is no doubt. They have both admitted that, but she can't remember how she knows him. She told me maybe through Senator John Kyl,"
+
+**[00:27:18](/episodes/ep-ds6umq1rHAw.md#ent-org-turning-point-action-t-00-27-18)**
+> "... the money was missing out of turning point action."
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (3 mentions)</summary>
@@ -323,9 +336,10 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <summary>Has Coo (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:20:19](/episodes/ep-cZxHqYsWRYg.md#t-00-20-19): “Later on, Lori (Lori Frantzve)'s going to start working with the Farnsworths, camera guy taking down the camera, and then she's going to strike up this partnership with Tyler Bowyer, this very shady COO of Turning Point Action who is going to introduce Erika (Erika Kirk) to Charlie Kirk.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17): “He was the COO first of Turning Point USA, then became the COO of Turning Point Action.”
 
 </details>
 
@@ -347,9 +361,10 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <summary>Referenced By (6)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** COO of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:20:19](/episodes/ep-cZxHqYsWRYg.md#t-00-20-19): “Later on, Lori (Lori Frantzve)'s going to start working with the Farnsworths, camera guy taking down the camera, and then she's going to strike up this partnership with Tyler Bowyer, this very shady COO of Turning Point Action who is going to introduce Erika (Erika Kirk) to Charlie Kirk.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17): “He was the COO first of Turning Point USA, then became the COO of Turning Point Action.”
 
 </details>
 
@@ -395,7 +410,15 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Action (18)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Action (19)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18) (Accusation) **Candace Owens** (via paraphrase): ["Owens said Charlie Kirk apparently did not know where all the money wa..."](/statements/statement-c7da5e5633f6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+</details>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 58 mentions"
+description: "Pro-Israel advocacy (Concepts) - 65 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27">2025-10-31 · 00:12:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12">2026-08-14 · 00:28:48</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -59,6 +59,8 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-pro-israel-advocacy-t-00-42-01" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-pro-israel-advocacy-t-00-36-04" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-41-05" style="--pulse-height:29%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-pro-israel-advocacy-t-00-25-58" style="--pulse-height:29%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-12-40" style="--pulse-height:71%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -89,6 +91,8 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-concept-pro-israel-advocacy-t-00-42-01) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-pro-israel-advocacy-t-00-36-04) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-41-05) | 2 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-pro-israel-advocacy-t-00-25-58) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-12-40) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12) | 1 |
 
 </details>
@@ -97,13 +101,44 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (65)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:48](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12)**
 > "...me no choice but to leave the pro-Israel cause."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (5 mentions)</summary>
+
+**[00:12:40](/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-12-40)**
+> "... you. Years of service to the pro-Israel cause and no one cares, treating you like you are..."
+
+**[00:15:27](/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-15-02)**
+> "...at he was under pressure from pro-Israel donors since October 7th, 2023."
+
+**[00:15:50](/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-15-44)**
+> "...) snapped. He did abandon the pro-Israel cause."
+
+**[00:49:46](/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-49-33)**
+> "...at he said he was leaving the pro-Israel cause and no matter what they just say."
+
+**[00:51:36](/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-51-07)**
+> "... venting he was done with the pro-Israel cause."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
+
+**[00:26:17](/episodes/ep-ds6umq1rHAw.md#ent-concept-pro-israel-advocacy-t-00-25-58)**
+> "And he told me that Turning Point USA was never not going to be pro-Israel. They would always be pro-Israel."
+
+**[00:26:36](/episodes/ep-ds6umq1rHAw.md#ent-concept-pro-israel-advocacy-t-00-26-36)**
+> "... no choice but to abandon the pro-Israel cause. And according to Charlie (Charlie Kirk), h..."
 
 </details>
 
@@ -408,7 +443,29 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (24)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (28)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3)</summary>
+
+- [00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09) (Accusation) **Candace Owens**: ["Candace Owens alleged that after October 7 there was a coordinated int..."](/statements/statement-aae9578fc0a5.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:13:01](/episodes/ep-amqTMimDr0A.md#t-00-12-40) (Opinion) **Charlie Kirk** (via read message): ["Charlie Kirk wrote that pro-Israel support was transactional, that he ..."](/statements/statement-8909250a64fb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Hamas](/entities/org-hamas.md)
+
+- [00:15:50](/episodes/ep-amqTMimDr0A.md#t-00-15-44) (Claim) **Candace Owens**: ["Candace Owens claimed that less than 24 hours before Charlie Kirk died..."](/statements/statement-cda1f7489271.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:26:36](/episodes/ep-ds6umq1rHAw.md#t-00-26-36) (Opinion) **Charlie Kirk** (via quoted document): ["Charlie Kirk wrote that he had no choice but to abandon the pro-Israel..."](/statements/statement-f70b394e5bb6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>

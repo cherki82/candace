@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 96 mentions"
+description: "Hollywood (Places) - 104 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30">2025-09-18 · 00:12:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-hollywood-t-00-57-27">2026-07-21 · 00:58:01</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>96</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-58-19">2026-07-23 · 00:58:39</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>104</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -73,6 +73,8 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-hollywood-t-00-32-18" style="--pulse-height:38%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-hollywood-t-00-57-38" style="--pulse-height:50%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-hollywood-t-00-57-27" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-02-08" style="--pulse-height:75%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 6 mentions" title="2026-07-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-00-35" style="--pulse-height:25%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -115,6 +117,8 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-hollywood-t-00-32-18) | 3 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-hollywood-t-00-57-38) | 4 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-hollywood-t-00-57-27) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-02-08) | 6 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-00-35) | 2 |
 
 </details>
 </section>
@@ -122,7 +126,41 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:00:35](/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-00-35)**
+> "...terious and untimely death in Hollywood. So welcome back to Candace."
+
+**[00:58:39](/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-58-19)**
+> "...here, actually, especially in Hollywood. I just go back and how much I used to believe it..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (6 mentions)</summary>
+
+**[00:02:20](/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-02-08)**
+> "And I genuinely had no idea what she was talking about, what she was referring to. We were talking about Hollywood and she was then telling me everyone talks about Zionists, but you have to understand the relationship between the Zionists and the Mormons."
+
+**[00:02:33](/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-02-08)**
+> "and controlling everything in Hollywood and music and publishing rights. I was totally co..."
+
+**[00:02:59](/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-02-47)**
+> "...re could be a Jewish mafia in Hollywood in my coverage of Michael Jackson's death."
+
+**[00:03:16](/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-02-47)**
+> "...that the Jewish mafia started Hollywood."
+
+**[00:07:05](/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-06-56)**
+> "... not the most powerful man in Hollywood."
+
+**[00:07:38](/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-07-38)**
+> "...angs that are affiliated with Hollywood and within politics, especially when so many ente..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -607,7 +645,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hollywood (8)</strong></summary>
+<summary><strong class="section-title">Statements about Hollywood (10)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
+
+- [00:02:33](/episodes/ep-ds6umq1rHAw.md#t-00-02-08) (Opinion) **Candace Owens**: ["Candace Owens said that, based on her personal experience, she believe..."](/statements/statement-81e98c7a8b2f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47) (Claim) **Candace Owens**: ["Owens said one specific reason The Daily Wire gave for firing her was ..."](/statements/statement-d4285bd3b97c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Michael Jackson](/entities/person-michael-jackson.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>

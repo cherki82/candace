@@ -1,6 +1,6 @@
 ---
 title: "Breitbart News"
-description: "Breitbart News (Organizations) - 45 mentions"
+description: "Breitbart News (Organizations) - 47 mentions"
 id: "org-breitbart-news"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51">2025-10-28 · 00:46:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-24">2026-01-28 · 00:50:36</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-06-07">2026-07-23 · 00:06:16</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-breitbart-news-t-00-23-20" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-breitbart-news-t-00-17-20" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 41 mentions" title="2026-01-07 · 41 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-24" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-05-04" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-breitbart-news-t-00-23-20) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-breitbart-news-t-00-17-20) | 41 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-24) | 1 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-05-04) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:05:37](/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-05-04)**
+> "...he once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained t..."
+
+**[00:06:16](/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-06-07)**
+> "...asizes. He tried to take over Breitbart and I ran him out of there."
+
+</details>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
@@ -241,9 +254,10 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 <summary>Formerly Employed (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:54](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): “I have resigned from Breitbart News as editor at large.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
 
 </details>
 
@@ -293,7 +307,19 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Has Former Chairman (1)</summary>
+
+- **[Steve Bannon](/entities/person-steve-bannon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (8)</summary>
 
 - **[Larry Solov](/entities/person-larry-solov.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -309,10 +335,18 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 
 </details>
 
-- **[Ben Shapiro](/entities/person-ben-shapiro.md)** formerly worked for this
+- **[Steve Bannon](/entities/person-steve-bannon.md)** former chairman of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
+
+</details>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:54](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): “I have resigned from Breitbart News as editor at large.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
 
 </details>
 
@@ -350,7 +384,18 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Breitbart News (13)</strong></summary>
+<summary><strong class="section-title">Statements about Breitbart News (15)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2)</summary>
+
+- [00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48) (Accusation) **Candace Owens**: ["Candace Owens accused Ben Shapiro of trying to take over Breitbart aft..."](/statements/statement-731969649889.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Andrew Breitbart](/entities/person-andrew-breitbart.md)
+
+- [00:06:16](/episodes/ep-amqTMimDr0A.md#t-00-06-07) (Accusation) **Steve Bannon** (via quoted speech): ["Steve Bannon said Ben Shapiro tried to take over Breitbart and that Ba..."](/statements/statement-114ba51be25b.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (13)</summary>

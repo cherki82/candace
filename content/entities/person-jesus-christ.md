@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 271 mentions"
+description: "Jesus Christ (People) - 281 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-jesus-christ-t-01-05-17">2026-07-21 · 01:05:42</a></strong></div>
-<div><span>Episodes</span><strong>90</strong></div>
-<div><span>Mentions</span><strong>271</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-57-40">2026-07-23 · 00:58:12</a></strong></div>
+<div><span>Episodes</span><strong>92</strong></div>
+<div><span>Mentions</span><strong>281</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -125,6 +125,8 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-puuMVxEu5NU.md#t-00-47-33" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jesus-christ-t-00-33-11" style="--pulse-height:36%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-jesus-christ-t-01-05-17" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-jesus-christ-t-00-49-08" style="--pulse-height:29%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-08-51" style="--pulse-height:43%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 6 mentions" title="2026-07-23 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -220,6 +222,8 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#t-00-47-33) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-jesus-christ-t-00-33-11) | 5 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-jesus-christ-t-01-05-17) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-jesus-christ-t-00-49-08) | 4 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-08-51) | 6 |
 
 </details>
 </section>
@@ -227,7 +231,47 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (271)</strong></summary>
+<summary><strong class="section-title">Raw mentions (281)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (6 mentions)</summary>
+
+**[00:08:51](/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-08-51)**
+> "...t at the end of 2023 with the Christ is King scandal, then me getting fired and Charli..."
+
+**[00:10:32](/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-10-32)**
+> "The beginning of the infamous Christ is King and genocide is always wrong. wrong scand..."
+
+**[00:53:24](/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-53-05)**
+> "...avors in the name of. Name of Jesus Christ. Amen. I, like I said, I feel good right now. I f..."
+
+**[00:55:09](/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-55-01)**
+> "Christ is king. Yeah, I mean, if this is the this this i..."
+
+**[00:56:56](/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-56-56)**
+> "...eciate you more than you know Christ is King and Ben Shapiro is still um fake and gay ..."
+
+**[00:58:12](/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-57-40)**
+> "...y support you, Candace GoMax, Christ is King. Ali writes, I love your pods with Tom Wo..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4 mentions)</summary>
+
+**[00:49:08](/episodes/ep-ds6umq1rHAw.md#ent-person-jesus-christ-t-00-49-08)**
+> "It really brings the faith to life in a deeper way, but it doesn't just stop there. They've got everything from Bible commentaries, books on Mary and the saints, church history, philosophy, catechisms, missals, prayer books, even works that dive into the Catholic social teaching and the kingship of Christ in today's world."
+
+**[00:49:23](/episodes/ep-ds6umq1rHAw.md#ent-person-jesus-christ-t-00-49-08)**
+> "...urch actually taught and what Christ is King really means, head to LorettoPubs.org. Ag..."
+
+**[00:51:02](/episodes/ep-ds6umq1rHAw.md#ent-person-jesus-christ-t-00-51-02)**
+> "...ause of you I was led back to Christ and am instilling his love in my children for eac..."
+
+**[00:55:49](/episodes/ep-ds6umq1rHAw.md#ent-person-jesus-christ-t-00-55-29)**
+> "Go Max, baby Christ is king. Thank you, Brooke. That is really, reall..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>

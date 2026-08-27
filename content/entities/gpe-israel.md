@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1443 mentions"
+description: "Israel (Places) - 1451 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -26,10 +26,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-03-57-56">2026-08-14 · 03:58:04</a></strong></div>
-<div><span>Episodes</span><strong>126</strong></div>
-<div><span>Mentions</span><strong>1,443</strong></div>
+<div><span>Episodes</span><strong>128</strong></div>
+<div><span>Mentions</span><strong>1,451</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>280</strong></div>
+<div><span>Statements about</span><strong>282</strong></div>
 <div><span>Relationships</span><strong>54</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -163,6 +163,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-israel-t-00-31-01" style="--pulse-height:16%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 9 mentions" title="2026-07-16 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-israel-t-00-25-30" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-israel-t-00-48-54" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-israel-t-00-03-28" style="--pulse-height:9%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 5 mentions" title="2026-07-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-israel-t-00-10-09" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12" style="--pulse-height:68%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 39 mentions" title="2026-08-14 · 39 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -294,6 +296,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-israel-t-00-31-01) | 9 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-israel-t-00-25-30) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-israel-t-00-48-54) | 2 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-israel-t-00-03-28) | 5 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-israel-t-00-10-09) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-00-28-12) | 39 |
 
 </details>
@@ -306,7 +310,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1443)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1451)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (39 mentions)</summary>
@@ -427,6 +431,40 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[02:25:09](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-israel-t-02-25-09)**
 > "So it. He then loved other Israel."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
+
+**[00:10:09](/episodes/ep-amqTMimDr0A.md#ent-gpe-israel-t-00-10-09)**
+> "... repeating the narrative that Israel were the only victims, that everything began on O..."
+
+**[00:15:47](/episodes/ep-amqTMimDr0A.md#ent-gpe-israel-t-00-15-44)**
+> "If it's about Israel."
+
+**[00:17:31](/episodes/ep-amqTMimDr0A.md#ent-gpe-israel-t-00-17-31)**
+> "...re former, consists of former Israeli IDF members,"
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (5 mentions)</summary>
+
+**[00:03:42](/episodes/ep-ds6umq1rHAw.md#ent-gpe-israel-t-00-03-28)**
+> "able to ensure that Israel became a nation. They just believed violence was the means to get what they wanted."
+
+**[00:05:34](/episodes/ep-ds6umq1rHAw.md#ent-gpe-israel-t-00-05-34)**
+> "... the creation of the state of Israel is enough to warrant someone being labeled an ant..."
+
+**[00:05:52](/episodes/ep-ds6umq1rHAw.md#ent-gpe-israel-t-00-05-34)**
+> "...icant effect on the course of Israeli art, literature and spiritual and political thoug..."
+
+**[00:12:17](/episodes/ep-ds6umq1rHAw.md#ent-gpe-israel-t-00-12-03)**
+> "..., 1948 was the same year that Israel became a country."
+
+**[00:26:26](/episodes/ep-ds6umq1rHAw.md#ent-gpe-israel-t-00-25-58)**
+> "...quite literally going against Israel in those last months."
 
 </details>
 
@@ -5733,7 +5771,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (280)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (282)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -5743,6 +5781,17 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) (Prediction) **Candace Owens**: ["Candace Owens predicts that Israel will ultimately be found to have be..."](/statements/statement-d5c74ed071c8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
+
+- [00:26:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-58) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Bowyer told her Turning Point USA would never stop be..."](/statements/statement-a040ffec0321.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md), [America Fest](/entities/event-america-fest.md)
+
+- [00:26:36](/episodes/ep-ds6umq1rHAw.md#t-00-26-36) (Opinion) **Charlie Kirk** (via quoted document): ["Charlie Kirk wrote that he had no choice but to abandon the pro-Israel..."](/statements/statement-f70b394e5bb6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
 
 </details>
 

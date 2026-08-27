@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia"
-description: "Wikipedia (Organizations) - 21 mentions"
+description: "Wikipedia (Organizations) - 23 mentions"
 id: "org-wikipedia"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00">2025-10-29 · 00:00:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-09-30">2026-06-16 · 00:09:45</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-wikipedia-t-00-06-18">2026-07-22 · 00:06:18</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-11" style="--pulse-height:15%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-wikipedia-t-00-37-11" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-08-57" style="--pulse-height:15%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-wikipedia-t-00-05-34" style="--pulse-height:15%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-wikipedia-t-00-12-11) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-wikipedia-t-00-37-11) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-08-57) | 2 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-wikipedia-t-00-05-34) | 2 |
 
 </details>
 </section>
@@ -60,7 +62,18 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
+
+**[00:05:34](/episodes/ep-ds6umq1rHAw.md#ent-org-wikipedia-t-00-05-34)**
+> "literally is one of the craziest things that knowing the history of the creation of the state of Israel is enough to warrant someone being labeled an anti-Semite. This is stuff that is just freely available for you to look up on even Wikipedia, okay? Take a look at this in Wikipedia entry referred to as Canaanism."
+
+**[00:06:18](/episodes/ep-ds6umq1rHAw.md#ent-org-wikipedia-t-00-06-18)**
+> "...ted on the right side of this Wikipedia entry."
+
+</details>
 
 <details>
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2 mentions)</summary>

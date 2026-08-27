@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas, Nevada"
-description: "Las Vegas, Nevada (Places) - 67 mentions"
+description: "Las Vegas, Nevada (Places) - 73 mentions"
 id: "gpe-las-vegas-nevada"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29">2026-07-16 · 00:40:33</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-28-41">2026-07-22 · 00:29:03</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -62,6 +62,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49" style="--pulse-height:10%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-03" style="--pulse-height:20%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29" style="--pulse-height:10%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-08-52" style="--pulse-height:60%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 6 mentions" title="2026-07-22 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -91,6 +92,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-las-vegas-nevada-t-00-00-49) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-03) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-08-52) | 6 |
 
 </details>
 </section>
@@ -98,7 +100,30 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (6 mentions)</summary>
+
+**[00:08:52](/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-08-52)**
+> "So the term Mormon Mafia, where does it come from? If you just Google it, you are going to learn that it is a colloquial term that is usually referring to, and I'll quote, the trusted latter-day saints inner circle of businessmen and accountants who were hired by billionaire Howard Hughes in Las Vegas during the 1960s. Okay, so Howard Hughes is the name that we need to reference."
+
+**[00:11:22](/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-11-22)**
+> "Las Vegas. Okay, so this is interesting. Howard Hughes, in ..."
+
+**[00:13:51](/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-13-51)**
+> "...se floor of the desert inn in Vegas. Then he outright purchased the hotel, casinos, a..."
+
+**[00:21:20](/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-13-51)**
+> "...ns all this stuff. Today, his Las Vegas Sands Resort, obviously, and casino is controlled..."
+
+**[00:21:32](/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-13-51)**
+> "...nd today it is the famed Wynn Las Vegas Hotel."
+
+**[00:29:03](/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-28-41)**
+> "...erself is very close with the Vegas casino families flying around on their planes."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -474,7 +499,15 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Las Vegas, Nevada (12)</strong></summary>
+<summary><strong class="section-title">Statements about Las Vegas, Nevada (13)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:08:52](/episodes/ep-ds6umq1rHAw.md#t-00-08-52) (Citation) **Candace Owens**: ["Owens cited the colloquial term Mormon Mafia as referring to the trust..."](/statements/statement-14169ba75c0a.md)
+  - Also about: [Mormon Mafia](/entities/concept-mormon-mafia.md), [Howard Hughes](/entities/person-howard-hughes.md), [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

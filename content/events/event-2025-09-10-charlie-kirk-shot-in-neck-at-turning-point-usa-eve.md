@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (271 times)
+## Mentioned In (272 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -2180,3 +2180,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3516);return false;">▶️ Play</a>
 
 > America's beating heart to have ceased on 9, 10, 2025 at 12, 23 p.m.
+
+### 272. EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messag...
+
+**Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
+**Timestamp:** [00:18:41](/episodes/ep-amqTMimDr0A.md#t-00-18-33) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1121);return false;">▶️ Play</a>
+
+> I got the news that Charlie had been shot

@@ -1,6 +1,6 @@
 ---
 title: "Mormonism"
-description: "Mormonism (Concepts) - 44 mentions"
+description: "Mormonism (Concepts) - 60 mentions"
 id: "concept-mormonism"
 type: "CONCEPT"
 aliases:
@@ -25,30 +25,32 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29">2026-02-27 · 00:12:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-49-35">2026-07-20 · 00:50:06</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-mormonism-t-00-39-28">2026-07-23 · 00:39:28</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29">Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2</a> (11 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-08-19">Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</a> (15 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 11 mentions" title="2026-02-27 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-mormonism-t-00-09-39" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21" style="--pulse-height:45%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 5 mentions" title="2026-03-06 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21" style="--pulse-height:9%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38" style="--pulse-height:36%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-09-54" style="--pulse-height:55%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 6 mentions" title="2026-05-27 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-mormonism-t-00-14-14" style="--pulse-height:9%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-mormonism-t-00-06-56" style="--pulse-height:18%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29" style="--pulse-height:9%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-08" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29" style="--pulse-height:73%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 11 mentions" title="2026-02-27 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-mormonism-t-00-09-39" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 5 mentions" title="2026-03-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-mormonism-t-00-01-21" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-mormonism-t-00-22-38" style="--pulse-height:27%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-mormonism-t-00-31-51" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-mormonism-t-00-09-54" style="--pulse-height:40%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 6 mentions" title="2026-05-27 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-mormonism-t-00-14-14" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-mormonism-t-00-06-56" style="--pulse-height:13%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-08" style="--pulse-height:73%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-08-19" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 15 mentions" title="2026-07-22 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-concept-mormonism-t-00-39-28" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +67,8 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-mormonism-t-00-06-56) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-concept-mormonism-t-00-19-29) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-08) | 11 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-08-19) | 15 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-mormonism-t-00-39-28) | 1 |
 
 </details>
 </section>
@@ -72,7 +76,65 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:39:28](/episodes/ep-amqTMimDr0A.md#ent-concept-mormonism-t-00-39-28)**
+> "...tephen "tWitch" Boss)'s case. Mormon wife who chased him at dancing events until he ma..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (15 mentions)</summary>
+
+**[00:08:19](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-08-19)**
+> "But I digress because you're probably thinking what does Mormonism have to do with it? So I want to be clear that whenever we're covering any sort of mafia or gang, we're not suggesting that every person of that race or religion or ethnicity is a member of that mafia because that's just dumb."
+
+**[00:02:20](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-02-08)**
+> "... between the Zionists and the Mormons."
+
+**[00:13:09](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-12-46)**
+> "...drugs. I'm going to trust the Mormons."
+
+**[00:13:51](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-13-51)**
+> "...He would see no one but these Mormon men who surrounded him. And then they started tel..."
+
+**[00:14:51](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-14-25)**
+> "...en who had access to him, the Mormons. And this was published, is this in Time magazine..."
+
+**[00:15:13](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-15-05)**
+> "...ingle exception, adherence to Mormonism, a religion that embodies Howard Hughes' aversion..."
+
+**[00:15:40](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-15-40)**
+> "Bill Gay himself, a Mormon, attended the Croesus Day and night and in eight-..."
+
+**[00:17:49](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-17-31)**
+> "...rugs his whole life and hired Mormons because they didn't do drugs, suddenly died a dru..."
+
+**[00:20:40](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-20-31)**
+> "...rank William Gay, his trusted Mormon, who, it would be discovered later, was at one po..."
+
+**[00:22:29](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-22-29)**
+> "...rank William Gay, the trusted Mormon, he had a son, Robert Gay, who became the managin..."
+
+**[00:23:47](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-23-47)**
+> "...t in reality... it's a lot of Mormons, like half of the company is Mormons. Tyler Bowye..."
+
+**[00:24:34](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-24-34)**
+> "...just continue. I love how the Mormon missionaries around the world—I love how vibrant,..."
+
+**[00:24:46](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-24-34)**
+> "...ne of those guys who hates on Mormons."
+
+**[00:24:54](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-24-54)**
+> "Half my team is Mormon. He sung the truth. And then he says Andrew (Turn..."
+
+**[00:27:30](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-27-18)**
+> "... those relationships with the Mormons like Terrell Farnsworth."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (11 mentions)</summary>
@@ -267,7 +329,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Nick Shirley](/entities/person-nick-shirley.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -276,12 +338,27 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 </details>
 
+- **[Mormon Mafia](/entities/concept-mormon-mafia.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:15:13](/episodes/ep-ds6umq1rHAw.md#t-00-15-05): “They were, with a single exception, adherence to Mormonism ... they were Hughes' so-called Mormon Mafia”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mormonism (5)</strong></summary>
+<summary><strong class="section-title">Statements about Mormonism (6)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:23:47](/episodes/ep-ds6umq1rHAw.md#t-00-23-47) (Claim) **Candace Owens**: ["Owens said that in reality about half of Turning Point USA is Mormon."](/statements/statement-dc8a19c7a2dd.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>

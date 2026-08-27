@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 2778 mentions"
+description: "Erika Kirk (People) - 2822 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-04-00-43">2026-08-14 · 04:00:43</a></strong></div>
-<div><span>Episodes</span><strong>123</strong></div>
-<div><span>Mentions</span><strong>2,778</strong></div>
+<div><span>Episodes</span><strong>125</strong></div>
+<div><span>Mentions</span><strong>2,822</strong></div>
 <div><span>Statements by</span><strong>131</strong></div>
-<div><span>Statements about</span><strong>836</strong></div>
-<div><span>Relationships</span><strong>260</strong></div>
+<div><span>Statements about</span><strong>848</strong></div>
+<div><span>Relationships</span><strong>262</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -162,6 +162,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-erika-kirk-t-00-32-55" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-erika-kirk-t-00-04-19" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 7 mentions" title="2026-07-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-erika-kirk-t-00-00-01" style="--pulse-height:49%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 42 mentions" title="2026-07-21 · 42 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-00-01" style="--pulse-height:36%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 31 mentions" title="2026-07-22 · 31 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-32-16" style="--pulse-height:15%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 13 mentions" title="2026-07-23 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09" style="--pulse-height:63%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 54 mentions" title="2026-08-14 · 54 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -290,6 +292,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-erika-kirk-t-00-32-55) | 3 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-erika-kirk-t-00-04-19) | 7 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-erika-kirk-t-00-00-01) | 42 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-00-01) | 31 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-32-16) | 13 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-00-38-09) | 54 |
 
 </details>
@@ -298,7 +302,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2778)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2822)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (54 mentions)</summary>
@@ -464,6 +468,148 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 **[04:00:43](/episodes/ep-nPhCKwJ6ye8.md#ent-person-erika-kirk-t-04-00-43)**
 > "...s case. They don't care about Erika Kirk."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (13 mentions)</summary>
+
+**[00:32:16](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-32-16)**
+> "...rom a family friend of Erika (Erika Kirk)."
+
+**[00:33:16](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-32-53)**
+> "...nd lies with her usual Erika (Erika Kirk) never isn't anything wrong ever in her whole lif..."
+
+**[00:33:32](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-33-32)**
+> "basketball players Erika (Erika Kirk) you can find videos of her rapping to gangster m..."
+
+**[00:34:09](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-34-09)**
+> "...t they're saying about Erika (Erika Kirk). Have you ever seen Erika (Erika Kirk) go on tir..."
+
+**[00:34:29](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-34-22)**
+> "...d foremost, that's not Erika (Erika Kirk). People who know Erika (Erika Kirk) and if you n..."
+
+**[00:34:43](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-34-22)**
+> "Erika (Erika Kirk) would never shouldn't curse. She doesn't say tho..."
+
+**[00:34:54](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-34-54)**
+> "...fell apart was because Erika (Erika Kirk) has been signaling for people to attack me, stop..."
+
+**[00:35:20](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-35-20)**
+> "...d her how I felt about Erika (Erika Kirk) and things that I thought were strange and asked..."
+
+**[00:35:55](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-35-55)**
+> "...s that are not real to Erika (Erika Kirk)'s family friend."
+
+**[00:43:38](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-43-38)**
+> "...he memorial event that Erika (Erika Kirk) made her own family members and everyone present..."
+
+**[00:50:50](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-50-25)**
+> "...ollars in one night as Erika (Erika Kirk) posed next to the bloody i mean don't remember a..."
+
+**[00:52:21](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-51-46)**
+> "... up the phone and call Erika (Erika Kirk)."
+
+**[00:52:29](/episodes/ep-amqTMimDr0A.md#ent-person-erika-kirk-t-00-52-29)**
+> "... to the Daily Mail and Erika (Erika Kirk) should have said yes, because she was and Erika ..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (31 mentions)</summary>
+
+**[00:00:01](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-00-01)**
+> "Erica (Erika Kirk) referring to me"
+
+**[00:00:58](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-00-39)**
+> "...been very favorable to Erica (Erika Kirk). And I just have to say."
+
+**[00:25:17](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-25-17)**
+> "knew Erica (Erika Kirk) before Erica (Erika Kirk) knew Charlie (Charlie ..."
+
+**[00:27:30](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-27-18)**
+> "...rd of a company with Erica's (Erika Kirk's) mother, Lori Frantzve, who had those relationshi..."
+
+**[00:27:46](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-27-18)**
+> "...k) knew who Lori Frantzve and Erika Frantzve were."
+
+**[00:27:51](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-27-18)**
+> "...lie (Charlie Kirk) and Erica (Erika Kirk) had an appointment to change his will, which was..."
+
+**[00:28:56](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-28-41)**
+> "Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediat..."
+
+**[00:29:03](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-28-41)**
+> "...t should be noted that Erica (Erika Kirk) herself is very close with the Vegas casino fami..."
+
+**[00:29:12](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-28-41)**
+> "...of the only times that Erica (Erika Kirk) has ever responded to anything publicly and dire..."
+
+**[00:34:53](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-34-20)**
+> "...rom start to finish. Erica's (Erika Kirk's) PR has been a disaster."
+
+**[00:35:38](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-35-38)**
+> "...that is friends with Erica's (Erika Kirk's) family who has been vocally speaking to people i..."
+
+**[00:36:18](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-36-18)**
+> "...ody who actually knows Erica (Erika Kirk) knows this is not how she talks."
+
+**[00:36:25](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-36-18)**
+> "...ccurate depiction of Erica's (Erika Kirk's) views or comments publicly or privately."
+
+**[00:36:36](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-36-18)**
+> "...nally never even heard Erica (Erika Kirk) swear at someone, for starters. Erica (Erika Kir..."
+
+**[00:37:19](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-36-56)**
+> "... challenge and type in Erica (Erika Kirk) Kirk and Turning Point USA and you will see the ..."
+
+**[00:37:48](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-37-39)**
+> "And they said that Erica (Erika Kirk) was coming after us in a piece. And here's what ..."
+
+**[00:38:06](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-37-39)**
+> "Erica's (Erika Kirk's) a grieving widow and he is now accusing me of ha..."
+
+**[00:38:21](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-38-21)**
+> "...sent them the video of Erica (Erika Kirk) Kirk being named by Charlie Kirk."
+
+**[00:39:03](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-39-03)**
+> "Erica (Erika Kirk) name checked me when she was dressed like Janet ..."
+
+**[00:39:41](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-39-03)**
+> "...nsion of the state and Erica (Erika Kirk)."
+
+**[00:40:21](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-40-21)**
+> "... I've never even heard Erica (Erika Kirk) swear."
+
+**[00:40:49](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-40-49)**
+> "...eal reality and TV and Erica (Erika Kirk) literally says she's asked the question, what is..."
+
+**[00:41:14](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-40-49)**
+> "...s weird advice to give Erica (Erika Kirk) used to party. Okay, that's fine, by the way. Th..."
+
+**[00:41:31](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-41-31)**
+> "Erica (Erika Kirk) really is a nun behind the scenes. I have told y..."
+
+**[00:42:23](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-42-16)**
+> "...on-one alone without Erica's (Erika Kirk's) approval? Did you tweet that without Erica's (Er..."
+
+**[00:42:31](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-42-16)**
+> "Honest Erica (Erika Kirk)?"
+
+**[00:42:53](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-42-16)**
+> "... off the table because Erica (Erika Kirk) was in her 20s and Erica's (Erika Kirk's) allowe..."
+
+**[00:43:36](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-42-57)**
+> "...'s being written about Erica (Erika Kirk) because the press hates me."
+
+**[00:45:30](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-45-30)**
+> "I remember he calls Erica (Erika Kirk). I around the same time, I pull out my phone and..."
+
+**[00:50:52](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-50-25)**
+> "I have to call Erica (Erika Kirk), but he was already on the phone. So that's inte..."
+
+**[00:52:47](/episodes/ep-ds6umq1rHAw.md#ent-person-erika-kirk-t-00-52-17)**
+> "...re the PR team to have Erica (Erika Kirk) invite influencers into the courtroom. What does..."
 
 </details>
 
@@ -9305,10 +9451,22 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
+<summary>Accused (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:34:54](/episodes/ep-amqTMimDr0A.md#t-00-34-54): “She came out dressed like an assassin and name checked me and accused me of accusing her of killing her husband, which was meant to invite hate toward me.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -9327,6 +9485,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:41:17](/episodes/ep-9CuC1yf8-PU.md#t-00-40-41): “I don't think she knows she's lying. ... She's lying.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:52:31](/episodes/ep-IqHsl7d2dos.md#t-00-52-31): “When Project Constitution gets something wrong, but something this serious and this heavy, she stays quiet about. And I believe the people I'm speaking to. I believe them. They have no reason to say this—that she was managing modeling apartments for the models—and that doesn't make sense to me why they would just make that up.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:46:23](/episodes/ep-puuMVxEu5NU.md#t-00-46-04): “she lied to my face. I can't come back from that when people try to sell her to me or say like, maybe it's like, no guys, she lied to my face.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:41:31](/episodes/ep-ds6umq1rHAw.md#t-00-41-31): “Erica (Erika Kirk) really is a nun behind the scenes ... What kind of Christian would just say, lie explicitly ... That's not true.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:34:54](/episodes/ep-amqTMimDr0A.md#t-00-34-54): “She came out dressed like an assassin and name checked me and accused me of accusing her of killing her husband, which was meant to invite hate toward me.”
 
 </details>
 
@@ -9507,10 +9667,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Attacked (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:35:45](/episodes/ep-X3VKJVJ7cN4.md#t-00-35-20): “Behind the scenes, she's quite nasty, actually. That's fact. She's been leading these attacks against me.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:00:01](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01): “All right, you guys, happy Tuesday. So rather unexpectedly yesterday, I was informed by a daily mail reporter who was seeking comment that Erika Kirk was about to go on the attack against me in the press. The article did drop yesterday evening and it is quite shocking.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “the Daily Mail article of Erica (Erika Kirk) referring to me as a soulless ghoul and a B.I.”
 
 </details>
 
@@ -9725,7 +9886,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Criticized By (8)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (49)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (50)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -9776,6 +9937,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:34:08](/episodes/ep-X3VKJVJ7cN4.md#t-00-34-08): “What do you say about the fact that they've researched and saw that it's because of you. Saying Erika is a psychopath was one of their points, calling Erika a psychopath on Sean Ryan, which literally aired that week, that that leads to people wanting to kill Erika Kirk.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:51:49](/episodes/ep-N4uM8Jdr410.md#t-00-51-41): “Frank Turek—somebody was full of it. I'm sorry. Um, Ali (commenter; surname unverified) writes, 'Have you seen the clip where Erika says, We don't know how Charlie would feel about the Iran war?' Yeah, I saw that. That deserves way more outrage. Tucker (Tucker Carlson), Bret Weinstein, Joe (Joe Kent) have all confirmed that he was fighting hard behind the scenes to stop it. What a betrayal. It's just what Erika (Erika Kirk) is—what she is. She's reversed course on everything, everything that Charlie (Charlie Kirk) believed. I believe she had more loyalty to people that brought her in—”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:38:04](/episodes/ep-OgRyiOAVtWU.md#t-00-38-04): “You have been on a wild pursuit of fame and fortune your entire life. You started doing pageants. I think we showed when you were like 12, okay, sixth grade maybe, and you have not stopped wanting to be in the spotlight.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:41:31](/episodes/ep-ds6umq1rHAw.md#t-00-41-31): “Erica (Erika Kirk) really is a nun behind the scenes. I have told you explicitly she's nasty behind the scenes.”
 
 </details>
 
@@ -10068,7 +10230,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Tracy Martin](/entities/person-tracy-martin.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
@@ -10077,6 +10239,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:51](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17): “her best friend Tracy Martin”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:41:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-41-26): “In Kevin O'Leary's defense, that might be why they're doing it. They're realizing that's problematic. Anyway, even Tracy Martin, Erika (Erika Kirk)'s dear long 15-year friend, jumped into the fray at some point and clarified that the son is not Erika (Erika Kirk)'s, so it's all very confusing, says it's called a play date.”
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:45:01](/episodes/ep-tXoI0TTKVrs.md#t-00-45-01): “Tracy (Tracy Martin), Tracy (Tracy Martin), this is Erika (Erika Kirk)'s best friend.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:16](/episodes/ep-amqTMimDr0A.md#t-00-32-16): “we received a flurry of emails of people who presented proof, concrete proof that the story did indeed come from a family friend of Erika (Erika Kirk). ... And that family friend is exactly who I suspected it was, Tracy Martin, because Tracy Martin also lies.”
 
 </details>
 
@@ -10187,7 +10350,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28): “the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:08:12](/episodes/ep-es7PWdFGoFI.md#t-00-08-02): “I felt name checked by the podcaster, Candace Owens, this obvious setup and then asking me to stop.”
@@ -10196,6 +10359,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:16:40](/episodes/ep-7ERqbYElOfs.md#t-00-16-40): “it was her sit down with Bari Weiss literally 72 hours before her and I sat down and I just forgot that Bari Weiss asked her specifically whether or not she believed Tyler Robinson.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:52:45](/episodes/ep-qZ8RWfyuewQ.md#t-00-52-45): “being asked what questions I planned to ask Erica (Erika Kirk) when we met up at the end of December. So you recall at this time, this was during the week where Erica (Erika Kirk) was going viral for her interview with Bari Weiss for a number of very funny reasons”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51): “Harris Falconer sorry Harris Falconer she went on that show and then she was all fired up for the first time and like conspiracy theories need to stop that was the very next day so I was like that's interesting because we didn't mention the Erika (Erika Kirk) part yet does she know something that like it felt weird then the day after that she did Bari Weiss and they cut the clip of her saying what do you have to say to the podcaster Candace Owens I then will later find out that they had planned that the question answer segment and she's like stop just stop”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
 
 </details>
 
@@ -10210,7 +10374,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[The New York Times](/entities/org-the-new-york-times.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
@@ -10218,6 +10382,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:27](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14): “that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie's apartment, and here is what they published verbatim. They wrote, it had been miss...”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18): “Everyone, he was trained to exactly what he was supposed to do, immediately called Erika (Erika Kirk). Erika (Erika Kirk), even in the New York Times interview that she gave eight days later, said that at 11.23, obviously adjusting for time, 12.23, I guess, in local time, Utah, 11.23, her time.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
 
 </details>
 
@@ -10584,10 +10749,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Worked With (15)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:29:18](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “I got a call. I got a call from Miss Erika Kirk. Miss Arizona 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:16](/episodes/ep-1IY2oD-_xVA.md#t-00-43-54): “the most important relationship that Erika (Erika Kirk) had at Turning Point USA is Tyler Bowyer.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17): “And yes, he brought in Erica (Erika Kirk); of that there is no doubt. They have both admitted that”
 
 </details>
 
@@ -10722,10 +10888,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (121)</summary>
+<summary>Referenced By (122)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -10744,6 +10910,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:41:17](/episodes/ep-9CuC1yf8-PU.md#t-00-40-41): “I don't think she knows she's lying. ... She's lying.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:52:31](/episodes/ep-IqHsl7d2dos.md#t-00-52-31): “When Project Constitution gets something wrong, but something this serious and this heavy, she stays quiet about. And I believe the people I'm speaking to. I believe them. They have no reason to say this—that she was managing modeling apartments for the models—and that doesn't make sense to me why they would just make that up.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:46:23](/episodes/ep-puuMVxEu5NU.md#t-00-46-04): “she lied to my face. I can't come back from that when people try to sell her to me or say like, maybe it's like, no guys, she lied to my face.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:41:31](/episodes/ep-ds6umq1rHAw.md#t-00-41-31): “Erica (Erika Kirk) really is a nun behind the scenes ... What kind of Christian would just say, lie explicitly ... That's not true.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:34:54](/episodes/ep-amqTMimDr0A.md#t-00-34-54): “She came out dressed like an assassin and name checked me and accused me of accusing her of killing her husband, which was meant to invite hate toward me.”
 
 </details>
 
@@ -10751,6 +10919,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:26:41](/episodes/ep-ti5Fxrvegno.md#t-00-26-13): “I knew at that point that I was on the right track, was suspecting that Erika Kirk could be involved in something bigger than what we're being told.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:34:54](/episodes/ep-amqTMimDr0A.md#t-00-34-54): “She came out dressed like an assassin and name checked me and accused me of accusing her of killing her husband, which was meant to invite hate toward me.”
 
 </details>
 
@@ -10844,10 +11019,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** attacked by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:35:45](/episodes/ep-X3VKJVJ7cN4.md#t-00-35-20): “Behind the scenes, she's quite nasty, actually. That's fact. She's been leading these attacks against me.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:00:01](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01): “All right, you guys, happy Tuesday. So rather unexpectedly yesterday, I was informed by a daily mail reporter who was seeking comment that Erika Kirk was about to go on the attack against me in the press. The article did drop yesterday evening and it is quite shocking.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “the Daily Mail article of Erica (Erika Kirk) referring to me as a soulless ghoul and a B.I.”
 
 </details>
 
@@ -10931,7 +11107,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (49)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (50)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
@@ -10982,6 +11158,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:34:08](/episodes/ep-X3VKJVJ7cN4.md#t-00-34-08): “What do you say about the fact that they've researched and saw that it's because of you. Saying Erika is a psychopath was one of their points, calling Erika a psychopath on Sean Ryan, which literally aired that week, that that leads to people wanting to kill Erika Kirk.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:51:49](/episodes/ep-N4uM8Jdr410.md#t-00-51-41): “Frank Turek—somebody was full of it. I'm sorry. Um, Ali (commenter; surname unverified) writes, 'Have you seen the clip where Erika says, We don't know how Charlie would feel about the Iran war?' Yeah, I saw that. That deserves way more outrage. Tucker (Tucker Carlson), Bret Weinstein, Joe (Joe Kent) have all confirmed that he was fighting hard behind the scenes to stop it. What a betrayal. It's just what Erika (Erika Kirk) is—what she is. She's reversed course on everything, everything that Charlie (Charlie Kirk) believed. I believe she had more loyalty to people that brought her in—”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:38:04](/episodes/ep-OgRyiOAVtWU.md#t-00-38-04): “You have been on a wild pursuit of fame and fortune your entire life. You started doing pageants. I think we showed when you were like 12, okay, sixth grade maybe, and you have not stopped wanting to be in the spotlight.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:41:31](/episodes/ep-ds6umq1rHAw.md#t-00-41-31): “Erica (Erika Kirk) really is a nun behind the scenes. I have told you explicitly she's nasty behind the scenes.”
 
 </details>
 
@@ -11304,7 +11481,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Tracy Martin](/entities/person-tracy-martin.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
@@ -11313,6 +11490,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:51](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17): “her best friend Tracy Martin”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:41:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-41-26): “In Kevin O'Leary's defense, that might be why they're doing it. They're realizing that's problematic. Anyway, even Tracy Martin, Erika (Erika Kirk)'s dear long 15-year friend, jumped into the fray at some point and clarified that the son is not Erika (Erika Kirk)'s, so it's all very confusing, says it's called a play date.”
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:45:01](/episodes/ep-tXoI0TTKVrs.md#t-00-45-01): “Tracy (Tracy Martin), Tracy (Tracy Martin), this is Erika (Erika Kirk)'s best friend.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:16](/episodes/ep-amqTMimDr0A.md#t-00-32-16): “we received a flurry of emails of people who presented proof, concrete proof that the story did indeed come from a family friend of Erika (Erika Kirk). ... And that family friend is exactly who I suspected it was, Tracy Martin, because Tracy Martin also lies.”
 
 </details>
 
@@ -11563,7 +11741,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28): “the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:34](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33): “What is going on sums up how we all feel right now. And I also would like to mention here another confusing parts that we kind of didn't discuss enough. Another confusing part of that Bari Weiss interview.”
@@ -11571,6 +11749,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:16:40](/episodes/ep-7ERqbYElOfs.md#t-00-16-40): “it was her sit down with Bari Weiss literally 72 hours before her and I sat down and I just forgot that Bari Weiss asked her specifically whether or not she believed Tyler Robinson.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:52:45](/episodes/ep-qZ8RWfyuewQ.md#t-00-52-45): “being asked what questions I planned to ask Erica (Erika Kirk) when we met up at the end of December. So you recall at this time, this was during the week where Erica (Erika Kirk) was going viral for her interview with Bari Weiss for a number of very funny reasons”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51): “Harris Falconer sorry Harris Falconer she went on that show and then she was all fired up for the first time and like conspiracy theories need to stop that was the very next day so I was like that's interesting because we didn't mention the Erika (Erika Kirk) part yet does she know something that like it felt weird then the day after that she did Bari Weiss and they cut the clip of her saying what do you have to say to the podcaster Candace Owens I then will later find out that they had planned that the question answer segment and she's like stop just stop”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
 
 </details>
 
@@ -11584,7 +11763,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[The New York Times](/entities/org-the-new-york-times.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:18](/episodes/ep-A39g5oqB_eM.md#t-00-05-46): “On the 18th, this, by the way, strikes me as odd in the retrospect as I was working on these couple of episodes about Erika (Erika Kirk). ... On the 18th, there's eight days after the assassination, she gave an in-person interview with the New York Times at her and Charlie (Charlie Kirk)'s condo.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
@@ -11592,6 +11771,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:27](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14): “that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie's apartment, and here is what they published verbatim. They wrote, it had been miss...”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18): “Everyone, he was trained to exactly what he was supposed to do, immediately called Erika (Erika Kirk). Erika (Erika Kirk), even in the New York Times interview that she gave eight days later, said that at 11.23, obviously adjusting for time, 12.23, I guess, in local time, Utah, 11.23, her time.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
 
 </details>
 
@@ -12471,7 +12651,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (836)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (848)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4)</summary>
@@ -12487,6 +12667,52 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [03:26:38](/episodes/ep-nPhCKwJ6ye8.md#t-03-26-38) (Opinion) **Candace Owens**: ["Candace Owens believes Erika Kirk should be formally questioned becaus..."](/statements/statement-c8adff2dd148.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (6)</summary>
+
+- [00:17:20](/episodes/ep-amqTMimDr0A.md#t-00-17-03) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of lying that Ben Shapiro and Char..."](/statements/statement-e1fb69fbf02f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:16](/episodes/ep-amqTMimDr0A.md#t-00-32-16) (Accusation) **Candace Owens**: ["Candace Owens said anonymous correspondents presented what she conside..."](/statements/statement-bd54020f4ccb.md)
+  - Also about: [Tracy Martin](/entities/person-tracy-martin.md), [Daily Mail](/entities/org-daily-mail.md)
+
+- [00:34:22](/episodes/ep-amqTMimDr0A.md#t-00-34-22) (Claim) **Tracy Martin** (via quoted speech): ["Tracy Martin said she had never seen Erika Kirk go on a tirade, that K..."](/statements/statement-3cfaecef1d0e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:34:54](/episodes/ep-amqTMimDr0A.md#t-00-34-54) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of publicly naming Owens and implying..."](/statements/statement-06de329c5c6a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:43:38](/episodes/ep-amqTMimDr0A.md#t-00-43-38) (Claim) **Anonymous Source #2 (Ep amqTMimDr0A)** (via read message): ["An unnamed source told Candace Owens that Erika Kirk required her rela..."](/statements/statement-b7afd34f1320.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Non-disclosure agreement](/entities/concept-nondisclosure-agreement.md), [Catholicism](/entities/concept-catholicism.md)
+
+- [00:50:50](/episodes/ep-amqTMimDr0A.md#t-00-50-25) (Accusation) **Candace Owens**: ["Candace Owens said Turning Point USA raised approximately $40 million ..."](/statements/statement-67babeeec845.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (6)</summary>
+
+- [00:27:51](/episodes/ep-ds6umq1rHAw.md#t-00-27-18) (Claim) **Candace Owens**: ["Owens said Charlie and Erika Kirk had an appointment to change Charlie..."](/statements/statement-dbf9c84cbf86.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:07](/episodes/ep-ds6umq1rHAw.md#t-00-28-01) (Accusation) **Candace Owens**: ["Owens said Erika Kirk assumed control of Turning Point USA after Charl..."](/statements/statement-e6c809fdbed9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:36:25](/episodes/ep-ds6umq1rHAw.md#t-00-36-18) (Accusation) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that not one word attributed by the Daily Mail ano..."](/statements/statement-1c520220288e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Daily Mail](/entities/org-daily-mail.md), [Daily Mail family-friend source (identity unverified)](/entities/anon-src-ds6umq1rHAw-daily-mail-family-friend.md)
+
+- [00:36:44](/episodes/ep-ds6umq1rHAw.md#t-00-36-18) (Claim) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that the Daily Mail made a major update after bein..."](/statements/statement-6bfdb1d65389.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Daily Mail](/entities/org-daily-mail.md), [Daily Mail family-friend source (identity unverified)](/entities/anon-src-ds6umq1rHAw-daily-mail-family-friend.md)
+
+- [00:38:21](/episodes/ep-ds6umq1rHAw.md#t-00-38-21) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of working with the Daily Mail by sele..."](/statements/statement-ab07e1754917.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Daily Mail](/entities/org-daily-mail.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:42:06](/episodes/ep-ds6umq1rHAw.md#t-00-41-31) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of lying that Andrew Kolvet and an unnamed su..."](/statements/statement-948b1fc189be.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Unnamed surgeon discussed in Episode 364](/entities/anon-src-ds6umq1rHAw-unnamed-surgeon.md)
 
 </details>
 

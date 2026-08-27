@@ -1,6 +1,6 @@
 ---
 title: "Hamas"
-description: "Hamas (Organizations) - 39 mentions"
+description: "Hamas (Organizations) - 40 mentions"
 id: "org-hamas"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57">2025-09-16 · 00:51:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-01-13-18">2026-05-19 · 01:13:18</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40">2026-07-23 · 00:13:01</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11" style="--pulse-height:9%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22" style="--pulse-height:9%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48" style="--pulse-height:55%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 6 mentions" title="2026-05-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40" style="--pulse-height:9%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48) | 6 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40) | 1 |
 
 </details>
 </section>
@@ -73,7 +75,15 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:13:01](/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40)**
+> "...hill, and now they say I am a Hamas agent."
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (6 mentions)</summary>
@@ -299,7 +309,15 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hamas (11)</strong></summary>
+<summary><strong class="section-title">Statements about Hamas (12)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:13:01](/episodes/ep-amqTMimDr0A.md#t-00-12-40) (Opinion) **Charlie Kirk** (via read message): ["Charlie Kirk wrote that pro-Israel support was transactional, that he ..."](/statements/statement-8909250a64fb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (2)</summary>

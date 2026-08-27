@@ -1,6 +1,6 @@
 ---
 title: "Benny Johnson"
-description: "Benny Johnson (People) - 11 mentions"
+description: "Benny Johnson (People) - 12 mentions"
 id: "person-benny-johnson"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18">2025-09-19 · 00:42:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-benny-johnson-t-00-13-41">2026-07-20 · 00:13:49</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-benny-johnson-t-00-53-01">2026-07-22 · 00:53:16</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -36,6 +36,7 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-00-46" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-benny-johnson-t-00-04-29" style="--pulse-height:20%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-benny-johnson-t-00-13-41" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-benny-johnson-t-00-53-01" style="--pulse-height:20%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-benny-johnson-t-00-00-46) | 5 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-benny-johnson-t-00-04-29) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-benny-johnson-t-00-13-41) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-benny-johnson-t-00-53-01) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Bio | BennyJohnson.com](https://www.bennyjohnson.com/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:53:16](/episodes/ep-ds6umq1rHAw.md#ent-person-benny-johnson-t-00-53-01)**
+> "Unforced error after unforced error. That's not something that would be on anybody's mind if you're going to face the person who you allege you are fully confident murdered your husband. The last thing you would think is, well, let me call up Graham Allen and Benny Johnson and see if they're free to come."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>

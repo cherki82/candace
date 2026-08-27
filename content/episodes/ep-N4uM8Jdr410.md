@@ -389,7 +389,7 @@ youtube_url: "https://www.youtube.com/watch?v=N4uM8Jdr410"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:04:01](#t-00-03-40) [✓] (Accusation) **Rob O'Neill**: ["Robert O'Neill accused people at the scene of being more concerned with removing..."](/statements/statement-a6a9e9295417.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:06:01](#t-00-06-01) [✓] (Opinion) **Blaine D. Holt**: ["Blaine Holt rejected the .30-06 spine-impact explanation and said something expl..."](/statements/statement-918d0297b2aa.md)
+- [00:06:01](#t-00-06-01) [✓] (Opinion) **Blaine D. Holt**: ["Blaine Holt rejected the claim that the bullet might have hit Charlie Kirk's spi..."](/statements/statement-918d0297b2aa.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:20](#t-00-06-01) [✓] (Accusation) **Blaine D. Holt**: ["Blaine Holt accused the Justice Department of foisting a 'garbage' account that ..."](/statements/statement-8904fcb79968.md)
   - About: [United States Department of Justice](/entities/org-united-states-department-of-justice.md)

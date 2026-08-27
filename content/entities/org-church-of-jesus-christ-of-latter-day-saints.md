@@ -1,6 +1,6 @@
 ---
 title: "The Church of Jesus Christ of Latter-day Saints"
-description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 14 mentions"
+description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 18 mentions"
 id: "org-church-of-jesus-christ-of-latter-day-saints"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09">2025-09-24 · 00:17:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59">2026-07-20 · 00:17:23</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-23-47">2026-07-22 · 00:24:10</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,6 +47,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-19-50" style="--pulse-height:80%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-19-50) | 4 |
 
 </details>
 </section>
@@ -67,7 +69,24 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4 mentions)</summary>
+
+**[00:19:50](/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-19-50)**
+> "And after he died on Robert Graff's plane, the fight for his $2.5 billion estate began. People just coming in saying, oh, no, I should inherit it. There was a mysterious handwritten note which was filed by the Church of Latter-day Saints, which they claimed was his last will and testament."
+
+**[00:13:14](/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-12-46)**
+> "...m Gay. He was a member of the LDS Church, Latter-day Saints, who he initially hired just t..."
+
+**[00:23:09](/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-23-09)**
+> "...d then I was speaking to some LDS Church members who were telling me the story, and I star..."
+
+**[00:24:10](/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-23-47)**
+> "There are a ton of LDS church members who work for Turning Point USA who were b..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
@@ -166,6 +185,18 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
+<summary>Has Former Member (1)</summary>
+
+- **[Frank William Gay](/entities/person-frank-william-gay.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:13:14](/episodes/ep-ds6umq1rHAw.md#t-00-12-46): “One person who he trusted was a man named Frank William Gay. He was a member of the LDS Church, Latter-day Saints, who he initially hired just to run a subsidiary of his tool business.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Member (1)</summary>
 
 - **[Nick Shirley](/entities/person-nick-shirley.md)**
@@ -178,7 +209,14 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Frank William Gay](/entities/person-frank-william-gay.md)** formerly member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:13:14](/episodes/ep-ds6umq1rHAw.md#t-00-12-46): “One person who he trusted was a man named Frank William Gay. He was a member of the LDS Church, Latter-day Saints, who he initially hired just to run a subsidiary of his tool business.”
+
+</details>
 
 - **[Weber State University](/entities/org-weber-state-university.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -199,7 +237,18 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Church of Jesus Christ of Latter-day Saints (3)</strong></summary>
+<summary><strong class="section-title">Statements about The Church of Jesus Christ of Latter-day Saints (5)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
+
+- [00:08:52](/episodes/ep-ds6umq1rHAw.md#t-00-08-52) (Citation) **Candace Owens**: ["Owens cited the colloquial term Mormon Mafia as referring to the trust..."](/statements/statement-14169ba75c0a.md)
+  - Also about: [Mormon Mafia](/entities/concept-mormon-mafia.md), [Howard Hughes](/entities/person-howard-hughes.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md)
+
+- [00:19:50](/episodes/ep-ds6umq1rHAw.md#t-00-19-50) (Claim) **Candace Owens**: ["Owens said the Church of Jesus Christ of Latter-day Saints filed a pur..."](/statements/statement-b83ecebb84cf.md)
+  - Also about: [Howard Hughes](/entities/person-howard-hughes.md)
+
+</details>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>

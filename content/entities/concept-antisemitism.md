@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 117 mentions"
+description: "Antisemitism (Concepts) - 123 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -25,11 +25,11 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00">2025-10-01 · 00:00:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-32-02">2026-07-14 · 00:32:34</a></strong></div>
-<div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>117</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-23-09">2026-07-23 · 00:23:09</a></strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>123</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -74,6 +74,8 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-06-10" style="--pulse-height:14%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-19-58" style="--pulse-height:21%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-02-47" style="--pulse-height:21%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-08-51" style="--pulse-height:21%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -115,6 +117,8 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-06-10) | 2 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-19-58) | 3 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-02-47) | 3 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-08-51) | 3 |
 
 </details>
 </section>
@@ -122,7 +126,35 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (117)</strong></summary>
+<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
+
+**[00:09:25](/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-08-51)**
+> "...lie Kirk) and they called him anti-Semitic."
+
+**[00:09:30](/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-09-30)**
+> "...lie Kirk) and they called him anti-Semitic."
+
+**[00:23:09](/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-23-09)**
+> "...he ADL lobbies, claims it was anti-Semitism that he got convicted, or there was none, he was ..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (3 mentions)</summary>
+
+**[00:03:16](/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-02-47)**
+> "It was deemed an anti-Semitic suggestion, the mere suggestion that there could be a Zionist mafia. But actually, it's kind of a simple fact of history that the Jewish mafia started Hollywood."
+
+**[00:05:34](/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-05-34)**
+> "...rant someone being labeled an anti-Semite. This is stuff that is just freely available for ..."
+
+**[00:07:38](/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-07-38)**
+> "...e trying to suggest that it's anti-Semitism to note the plausibility of Jewish gangs that are..."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3 mentions)</summary>
@@ -662,7 +694,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Antisemitism (20)</strong></summary>
+<summary><strong class="section-title">Statements about Antisemitism (21)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:23:09](/episodes/ep-amqTMimDr0A.md#t-00-23-09) (Accusation) **Candace Owens**: ["Candace Owens said the ADL annually argues that antisemitism caused Le..."](/statements/statement-b26c83def6d8.md)
+  - Also about: [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Leo Frank](/entities/person-leo-frank.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>

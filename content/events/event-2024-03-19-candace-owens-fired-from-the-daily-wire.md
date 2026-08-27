@@ -11,7 +11,7 @@ date: "2024-03-19"
 
 > Candace Owens fired from The Daily Wire
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
@@ -44,3 +44,11 @@ date: "2024-03-19"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
 
 > So the story goes obviously that in 2024, Ben fired me in March.
+
+### 5. EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messag...
+
+**Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
+**Timestamp:** [00:13:39](/episodes/ep-amqTMimDr0A.md#event-event-2024-03-19-candace-owens-fired-from-the-daily-wire-t-00-13-14) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(819);return false;">▶️ Play</a>
+
+> I've always told you guys the truth from the beginning that after that, when I got fired

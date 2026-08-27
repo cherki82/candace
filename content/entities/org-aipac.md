@@ -1,6 +1,6 @@
 ---
 title: "American Israel Public Affairs Committee"
-description: "American Israel Public Affairs Committee (Organizations) - 40 mentions"
+description: "American Israel Public Affairs Committee (Organizations) - 41 mentions"
 id: "org-aipac"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About AIPAC](https://aipac.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01">2025-09-19 · 00:30:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-aipac-t-00-40-41">2026-06-13 · 00:40:55</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-aipac-t-00-25-38">2026-07-23 · 00:25:38</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -56,6 +56,7 @@ Source: [About AIPAC](https://aipac.org/about)
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-aipac-t-01-15-05" style="--pulse-height:12%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-aipac-t-00-22-33" style="--pulse-height:12%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-aipac-t-00-40-41" style="--pulse-height:12%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-aipac-t-00-25-38" style="--pulse-height:12%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -81,6 +82,7 @@ Source: [About AIPAC](https://aipac.org/about)
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-aipac-t-01-15-05) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-aipac-t-00-22-33) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-aipac-t-00-40-41) | 1 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-aipac-t-00-25-38) | 1 |
 
 </details>
 </section>
@@ -88,7 +90,15 @@ Source: [About AIPAC](https://aipac.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:25:38](/episodes/ep-amqTMimDr0A.md#ent-org-aipac-t-00-25-38)**
+> "...ed on the National Council of AIPAC. Gary (Gary Javitch) was the president of the Neb..."
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>
@@ -342,7 +352,19 @@ Source: [About AIPAC](https://aipac.org/about)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Has Former Member (1)</summary>
+
+- **[Gary Javitch](/entities/person-gary-javitch.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:25:38](/episodes/ep-amqTMimDr0A.md#t-00-25-38): “More about Gary (Gary Javitch). His professional biography says that he served on the National Council of AIPAC. Gary (Gary Javitch) was the president of the Nebraska chapter of AIPAC.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Christians United for Israel](/entities/org-christians-united-for-israel.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -355,6 +377,13 @@ Source: [About AIPAC](https://aipac.org/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:44:20](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53): “Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out APAC.”
+
+</details>
+
+- **[Gary Javitch](/entities/person-gary-javitch.md)** formerly member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:25:38](/episodes/ep-amqTMimDr0A.md#t-00-25-38): “More about Gary (Gary Javitch). His professional biography says that he served on the National Council of AIPAC. Gary (Gary Javitch) was the president of the Nebraska chapter of AIPAC.”
 
 </details>
 
@@ -384,7 +413,15 @@ Source: [About AIPAC](https://aipac.org/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about American Israel Public Affairs Committee (12)</strong></summary>
+<summary><strong class="section-title">Statements about American Israel Public Affairs Committee (13)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:25:38](/episodes/ep-amqTMimDr0A.md#t-00-25-38) (Citation) **Candace Owens**: ["Candace Owens said Gary Javitch's professional biography listed him as..."](/statements/statement-66ed20decdd2.md)
+  - Also about: [Gary Javitch](/entities/person-gary-javitch.md)
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1)</summary>

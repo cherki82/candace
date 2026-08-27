@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 53 mentions"
+description: "Daily Mail (Organizations) - 70 mentions"
 id: "org-daily-mail"
 type: "ORG"
 categories:
@@ -18,42 +18,44 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40">2025-09-18 · 00:44:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-29-13">2026-07-21 · 00:29:19</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-daily-mail-t-00-52-29">2026-07-23 · 00:52:29</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-15-29">Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-00-01">Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40" style="--pulse-height:12%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00" style="--pulse-height:12%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ja26iltROkM.md#ent-org-daily-mail-t-00-55-47" style="--pulse-height:12%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28" style="--pulse-height:12%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31" style="--pulse-height:12%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-04" style="--pulse-height:25%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06" style="--pulse-height:25%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-daily-mail-t-00-41-32" style="--pulse-height:12%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-daily-mail-t-00-02-07" style="--pulse-height:50%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-daily-mail-t-00-04-18" style="--pulse-height:12%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-daily-mail-t-00-50-46" style="--pulse-height:12%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-19-45" style="--pulse-height:38%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37" style="--pulse-height:12%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-daily-mail-t-00-39-20" style="--pulse-height:12%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-29-02" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-daily-mail-t-00-06-44" style="--pulse-height:25%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-15-29" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 8 mentions" title="2026-05-18 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-20-57" style="--pulse-height:50%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-daily-mail-t-00-34-26" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21" style="--pulse-height:50%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-daily-mail-t-00-38-13" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35" style="--pulse-height:12%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-00-01" style="--pulse-height:75%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 6 mentions" title="2026-07-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-daily-mail-t-00-24-00" style="--pulse-height:8%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#ent-org-daily-mail-t-00-55-47" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-daily-mail-t-00-31-28" style="--pulse-height:8%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-daily-mail-t-00-44-31" style="--pulse-height:8%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-org-daily-mail-t-00-21-04" style="--pulse-height:14%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-daily-mail-t-00-12-06" style="--pulse-height:14%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-daily-mail-t-00-41-32" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-daily-mail-t-00-02-07" style="--pulse-height:29%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-daily-mail-t-00-04-18" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-daily-mail-t-00-50-46" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-daily-mail-t-00-19-45" style="--pulse-height:21%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-daily-mail-t-00-29-37" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-daily-mail-t-00-39-20" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-daily-mail-t-00-29-02" style="--pulse-height:29%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-daily-mail-t-00-06-44" style="--pulse-height:14%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-daily-mail-t-00-15-29" style="--pulse-height:57%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 8 mentions" title="2026-05-18 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-org-daily-mail-t-00-20-57" style="--pulse-height:29%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 4 mentions" title="2026-05-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-daily-mail-t-00-34-26" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-daily-mail-t-01-01-21" style="--pulse-height:29%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-org-daily-mail-t-00-38-13" style="--pulse-height:14%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-00-01" style="--pulse-height:43%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 6 mentions" title="2026-07-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-00-01" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 14 mentions" title="2026-07-22 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-daily-mail-t-00-30-59" style="--pulse-height:21%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -82,6 +84,8 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-daily-mail-t-00-38-13) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-daily-mail-t-00-19-35) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-00-01) | 6 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-00-01) | 14 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-daily-mail-t-00-30-59) | 3 |
 
 </details>
 </section>
@@ -89,7 +93,68 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
+
+**[00:31:24](/episodes/ep-amqTMimDr0A.md#ent-org-daily-mail-t-00-30-59)**
+> "...annot get a retraction from a daily mail because he's lying through his teeth. These quote..."
+
+**[00:33:45](/episodes/ep-amqTMimDr0A.md#ent-org-daily-mail-t-00-33-45)**
+> "...way, were you the person that Daily Mail contacted and you provided this information?"
+
+**[00:52:29](/episodes/ep-amqTMimDr0A.md#ent-org-daily-mail-t-00-52-29)**
+> "... giving these comments to the Daily Mail and Erika (Erika Kirk) should have said yes, beca..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (14 mentions)</summary>
+
+**[00:00:01](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-00-01)**
+> "the Daily Mail article"
+
+**[00:00:39](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-00-39)**
+> "...ging that I colluded with the Daily Mail journalists to publish the article. In effect, I ..."
+
+**[00:00:52](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-00-39)**
+> "We're talking about the Daily Mail. Go try to find a nice article about me in the Da..."
+
+**[00:35:32](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-34-58)**
+> "... What's up with that? And the Daily Mail article reflected that stance, compassion again f..."
+
+**[00:36:09](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-35-38)**
+> "...ow to reach us, including the Daily Mail."
+
+**[00:36:44](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-36-18)**
+> "The story was so bad, the Daily Mail had to make a major update to it once it was conf..."
+
+**[00:36:56](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-36-56)**
+> ".... It's unfortunate to see the Daily Mail doing the bidding of Candace Owens, who of course..."
+
+**[00:37:12](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-36-56)**
+> "...have spared time. Go onto the Daily Mail website and type in my name."
+
+**[00:37:19](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-36-56)**
+> "...f times I have called out the Daily Mail on this show for the hatred that they have of me ..."
+
+**[00:38:21](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-38-21)**
+> "...ave proven that you work with Daily Mail because you chose them and sent them the video of..."
+
+**[00:38:38](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-38-21)**
+> "...not allowed to see it but the Daily Mail was allowed to see it. We know you work with them..."
+
+**[00:40:02](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-39-48)**
+> "...ail that we received from the Daily Mail asking us to comment and we did comment."
+
+**[00:40:10](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-39-48)**
+> "...ike, so open and shut. If the Daily Mail"
+
+**[00:43:26](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-42-57)**
+> "...I had nothing to do with that Daily Mail article."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (6 mentions)</summary>
@@ -374,9 +439,10 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <summary>Criticized (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:46](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “This is what we got from the Daily Mail.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “the Daily Mail article of Erica (Erika Kirk) referring to me as a soulless ghoul and a B.I.”
 
 </details>
 
@@ -386,10 +452,11 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:02:17](/episodes/ep-Wjul6YV6izo.md#t-00-02-07): “I want to shout out the Daily Mail, ... because no one has been working harder than the Daily Mail to invert reality.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:45:07](/episodes/ep-1QZ4X6q1DPg.md#t-00-44-26): “We have experts over at Daily Mail that are better suited to explain to you why it's cool to reverse course and everything that Charlie (Charlie Kirk) wanted and to pretend that you don't know what his position was on war in the Middle East because he's not here.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:37:12](/episodes/ep-ds6umq1rHAw.md#t-00-36-56): “Go onto the Daily Mail website ... They hate me. Hate me. Absolutely. The coverage of me, it's positively atrocious.”
 
 </details>
 
@@ -430,17 +497,19 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:02:17](/episodes/ep-Wjul6YV6izo.md#t-00-02-07): “I want to shout out the Daily Mail, ... because no one has been working harder than the Daily Mail to invert reality.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:45:07](/episodes/ep-1QZ4X6q1DPg.md#t-00-44-26): “We have experts over at Daily Mail that are better suited to explain to you why it's cool to reverse course and everything that Charlie (Charlie Kirk) wanted and to pretend that you don't know what his position was on war in the Middle East because he's not here.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:37:12](/episodes/ep-ds6umq1rHAw.md#t-00-36-56): “Go onto the Daily Mail website ... They hate me. Hate me. Absolutely. The coverage of me, it's positively atrocious.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:09:46](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “This is what we got from the Daily Mail.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “the Daily Mail article of Erica (Erika Kirk) referring to me as a soulless ghoul and a B.I.”
 
 </details>
 
@@ -483,7 +552,44 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Daily Mail (12)</strong></summary>
+<summary><strong class="section-title">Statements about Daily Mail (21)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2)</summary>
+
+- [00:32:16](/episodes/ep-amqTMimDr0A.md#t-00-32-16) (Accusation) **Candace Owens**: ["Candace Owens said anonymous correspondents presented what she conside..."](/statements/statement-bd54020f4ccb.md)
+  - Also about: [Tracy Martin](/entities/person-tracy-martin.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:33:45](/episodes/ep-amqTMimDr0A.md#t-00-33-45) (Claim) **Tracy Martin** (via quoted speech): ["Tracy Martin denied being the source who provided the Daily Mail with ..."](/statements/statement-6f7b6bb3ae2a.md)
+  - Also about: [Tracy Martin](/entities/person-tracy-martin.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (7)</summary>
+
+- [00:36:00](/episodes/ep-ds6umq1rHAw.md#t-00-35-38) (Claim) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that Turning Point USA never received a Daily Mail..."](/statements/statement-e4aa05418158.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:36:25](/episodes/ep-ds6umq1rHAw.md#t-00-36-18) (Accusation) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that not one word attributed by the Daily Mail ano..."](/statements/statement-1c520220288e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Daily Mail family-friend source (identity unverified)](/entities/anon-src-ds6umq1rHAw-daily-mail-family-friend.md)
+
+- [00:36:44](/episodes/ep-ds6umq1rHAw.md#t-00-36-18) (Claim) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that the Daily Mail made a major update after bein..."](/statements/statement-6bfdb1d65389.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Daily Mail family-friend source (identity unverified)](/entities/anon-src-ds6umq1rHAw-daily-mail-family-friend.md)
+
+- [00:36:56](/episodes/ep-ds6umq1rHAw.md#t-00-36-56) (Accusation) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet accused the Daily Mail of doing Candace Owens bidding an..."](/statements/statement-908028487608.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:39](/episodes/ep-ds6umq1rHAw.md#t-00-37-39) (Claim) **Candace Owens**: ["Owens said her team received the Daily Mail request for comment, respo..."](/statements/statement-b9bf1967961b.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:38:21](/episodes/ep-ds6umq1rHAw.md#t-00-38-21) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of working with the Daily Mail by sele..."](/statements/statement-ab07e1754917.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:43:26](/episodes/ep-ds6umq1rHAw.md#t-00-42-57) (Claim) **Candace Owens**: ["Owens definitively denied having anything to do with the Daily Mail ar..."](/statements/statement-8c7ae5b38e8f.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>

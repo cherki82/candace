@@ -11,7 +11,7 @@ object: "person-andrew-kolvet"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Andrew Kolvet](/entities/person-andrew-kolvet)
 
-### Evidence (4 mentions)
+### Evidence (6 mentions)
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
@@ -28,6 +28,14 @@ object: "person-andrew-kolvet"
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
 - [00:10:17](/episodes/ep-UYkXV9mYbT4#t-00-10-17): _Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us._
+
+**[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
+
+- [00:08:02](/episodes/ep-amqTMimDr0A#t-00-08-02): _And the most shocking has been Andrew Kolvet, his attempts to pretend that Charlie (Charlie Kirk) and me were never friends, that Charlie (Charlie Kirk) and me had some imaginary falling out and we just did not have each other's back since 2019._
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:34:02](/episodes/ep-ds6umq1rHAw#t-00-34-02): _Andrew (Andrew Kolvet) just told that lie and it was so crazy._
 
 ### Related
 

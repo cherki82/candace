@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 339 mentions"
+description: "Michael McCoy (People) - 345 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-17-22">2026-07-21 · 00:17:53</a></strong></div>
-<div><span>Episodes</span><strong>64</strong></div>
-<div><span>Mentions</span><strong>339</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-michael-mccoy-t-00-50-25">2026-07-22 · 00:50:39</a></strong></div>
+<div><span>Episodes</span><strong>65</strong></div>
+<div><span>Mentions</span><strong>345</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>70</strong></div>
+<div><span>Statements about</span><strong>73</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -101,6 +101,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52" style="--pulse-height:44%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 17 mentions" title="2026-06-26 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-11-36" style="--pulse-height:13%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-10-50" style="--pulse-height:44%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 17 mentions" title="2026-07-21 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-michael-mccoy-t-00-44-49" style="--pulse-height:15%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 6 mentions" title="2026-07-22 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -170,6 +171,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-michael-mccoy-t-00-30-52) | 17 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-michael-mccoy-t-00-11-36) | 5 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-michael-mccoy-t-00-10-50) | 17 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-mccoy-t-00-44-49) | 6 |
 
 </details>
 </section>
@@ -177,7 +179,30 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (339)</strong></summary>
+<summary><strong class="section-title">Raw mentions (345)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (6 mentions)</summary>
+
+**[00:44:49](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-mccoy-t-00-44-49)**
+> "That's not any type of conspiracy there that there is black and that there is brown. And then I also wanted to comment on people who noted that Mikey (Michael McCoy) had two phones. We've been getting a lot of emails about."
+
+**[00:45:04](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-mccoy-t-00-44-49)**
+> "about this, Mikey (Michael McCoy) having two phones in the news clip that we showe..."
+
+**[00:45:08](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-mccoy-t-00-44-49)**
+> "Also, it's a fact Mikey (Michael McCoy) did have two phones when him and Charlie (Charli..."
+
+**[00:46:20](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-mccoy-t-00-45-49)**
+> "because Mikey (Michael McCoy) could just be holding Charlie's (Charlie Kirk's)..."
+
+**[00:46:33](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-mccoy-t-00-46-33)**
+> "Mikey (Michael McCoy) may have had two phones. That is a plausibility,..."
+
+**[00:50:39](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-mccoy-t-00-50-25)**
+> "...ar him say, I'll never forget Mikey's quivering lip."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (17 mentions)</summary>
@@ -1872,7 +1897,21 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (70)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (73)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (3)</summary>
+
+- [00:45:08](/episodes/ep-ds6umq1rHAw.md#t-00-44-49) (Claim) **Candace Owens**: ["Owens said it was a fact that Michael McCoy had two phones when he and..."](/statements/statement-c70b2d29b47d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:45:41](/episodes/ep-ds6umq1rHAw.md#t-00-45-30) (Claim) **Blake Neff** (via quoted speech): ["Blake Neff said that after putting that phone away, Michael McCoy imme..."](/statements/statement-af8ece3aa136.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+
+- [00:46:33](/episodes/ep-ds6umq1rHAw.md#t-00-46-33) (Opinion) **Candace Owens**: ["Owens said Michael McCoy may have had two phones, but it was also plau..."](/statements/statement-fc57935bc849.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>

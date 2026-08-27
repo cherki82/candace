@@ -1,6 +1,6 @@
 ---
 title: "Goyim"
-description: "Goyim (Concepts) - 12 mentions"
+description: "Goyim (Concepts) - 14 mentions"
 id: "concept-goyim"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Goyim Definition & Meaning | Merriam-Webster](https://www.merriam-webst
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-goyim-t-00-46-26">2026-03-09 · 00:46:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-goyim-t-00-48-14">2026-06-24 · 00:48:47</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-goyim-t-00-21-42">2026-07-23 · 00:22:16</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [Goyim Definition & Meaning | Merriam-Webster](https://www.merriam-webst
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-goyim-t-00-52-28" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-goyim-t-00-25-49" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-goyim-t-00-48-14" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-concept-goyim-t-00-21-42" style="--pulse-height:50%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Goyim Definition & Meaning | Merriam-Webster](https://www.merriam-webst
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-goyim-t-00-52-28) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-goyim-t-00-25-49) | 2 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-goyim-t-00-48-14) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-goyim-t-00-21-42) | 2 |
 
 </details>
 </section>
@@ -60,7 +62,18 @@ Source: [Goyim Definition & Meaning | Merriam-Webster](https://www.merriam-webst
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:22:02](/episodes/ep-amqTMimDr0A.md#ent-concept-goyim-t-00-21-42)**
+> "...ks, was free to denigrate the Goyim in his correspondence with his fellow Jews."
+
+**[00:22:16](/episodes/ep-amqTMimDr0A.md#ent-concept-goyim-t-00-21-42)**
+> "...hat joke is much too good for Goyim. But they tell us that that's just meant to be me..."
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (2 mentions)</summary>

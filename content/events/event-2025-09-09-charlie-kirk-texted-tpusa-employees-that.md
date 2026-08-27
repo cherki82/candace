@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Charlie Kirk texted TPUSA employees that he wanted to invite Candace Owens to AmericaFest.
 
-## Mentioned In (4 times)
+## Mentioned In (5 times)
 
 ### 1. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
@@ -44,3 +44,11 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1190);return false;">▶️ Play</a>
 
 > him communicating to people that he wanted to bring me back to AMFest.
+
+### 5. EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messag...
+
+**Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
+**Timestamp:** [00:15:59](/episodes/ep-amqTMimDr0A.md#event-event-2025-09-09-charlie-kirk-texted-tpusa-employees-that-t-00-15-44) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(959);return false;">▶️ Play</a>
+
+> he texted multiple people and he was done and that he wanted to bring me back.

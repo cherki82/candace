@@ -137,7 +137,7 @@ Source: [Brigadier General Blaine D. Holt](https://www.af.mil/About-Us/Biographi
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
 
-- [00:06:01](/episodes/ep-N4uM8Jdr410.md#t-00-06-01) [✓] (Opinion) ["Blaine Holt rejected the .30-06 spine-impact explanation and said something expl..."](/statements/statement-918d0297b2aa.md)
+- [00:06:01](/episodes/ep-N4uM8Jdr410.md#t-00-06-01) [✓] (Opinion) ["Blaine Holt rejected the claim that the bullet might have hit Charlie Kirk's spi..."](/statements/statement-918d0297b2aa.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:06:20](/episodes/ep-N4uM8Jdr410.md#t-00-06-01) [✓] (Accusation) ["Blaine Holt accused the Justice Department of foisting a 'garbage' account that ..."](/statements/statement-8904fcb79968.md)

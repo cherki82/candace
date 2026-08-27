@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (18 mentions)
+### Evidence (20 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -56,6 +56,14 @@ object: "person-candace-owens"
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 
 - [00:03:16](/episodes/ep-YeEtS7nix3o#t-00-03-16): _in a request when I was working at the Daily Wire, ironically, to pitch it to the CEOs._
+
+**[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
+
+- [00:10:09](/episodes/ep-amqTMimDr0A#t-00-10-09): _Shockingly, just to be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that company when this was going down._
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:02:59](/episodes/ep-ds6umq1rHAw#t-00-02-59): _one of the reasons among many that I was fired from the Daily Wire_
 
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 

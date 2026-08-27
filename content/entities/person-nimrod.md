@@ -1,6 +1,6 @@
 ---
 title: "Nimrod"
-description: "Nimrod (People) - 25 mentions"
+description: "Nimrod (People) - 26 mentions"
 id: "person-nimrod"
 type: "PERSON"
 categories:
@@ -17,9 +17,9 @@ Source: [Encyclopaedia Britannica: Nimrod](https://en.wikisource.org/wiki/1911_E
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-nimrod-t-00-33-44">2026-02-02 · 00:34:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-nimrod-t-00-47-15">2026-02-05 · 00:47:15</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-nimrod-t-00-04-04">2026-07-23 · 00:04:17</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,7 @@ Source: [Encyclopaedia Britannica: Nimrod](https://en.wikisource.org/wiki/1911_E
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-nimrod-t-00-04-47" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 15 mentions" title="2026-02-03 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-nimrod-t-00-08-21" style="--pulse-height:53%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 8 mentions" title="2026-02-04 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-nimrod-t-00-47-15" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-nimrod-t-00-04-04" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ Source: [Encyclopaedia Britannica: Nimrod](https://en.wikisource.org/wiki/1911_E
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-nimrod-t-00-04-47) | 15 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-nimrod-t-00-08-21) | 8 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-nimrod-t-00-47-15) | 1 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-nimrod-t-00-04-04) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [Encyclopaedia Britannica: Nimrod](https://en.wikisource.org/wiki/1911_E
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:04:17](/episodes/ep-amqTMimDr0A.md#ent-person-nimrod-t-00-04-04)**
+> "...ers modeling themselves after Nimrod, meaning that they are permanently at war with th..."
+
+</details>
 
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>

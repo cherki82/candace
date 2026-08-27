@@ -11,7 +11,7 @@ object: "org-pure-talk"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (10 mentions)
+### Evidence (11 mentions)
 
 **[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
 
@@ -40,6 +40,10 @@ object: "org-pure-talk"
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 
 - [00:45:02](/episodes/ep-ZzAT2xijKGQ#t-00-45-02): _Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company._
+
+**[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
+
+- [00:29:41](/episodes/ep-amqTMimDr0A#t-00-29-41): _I also want to remind you guys about Pure Talk because you do not have to overpay for your wireless network, not when Pure Talk comes in with the same service for a tiny._
 
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 

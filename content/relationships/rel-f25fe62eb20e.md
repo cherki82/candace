@@ -11,7 +11,7 @@ object: "org-the-new-york-times"
 
 ## [Erika Kirk](/entities/person-erika-kirk) interviewed by [The New York Times](/entities/org-the-new-york-times)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
@@ -28,6 +28,10 @@ object: "org-the-new-york-times"
 **[Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM)**
 
 - [00:16:35](/episodes/ep-ZAsV0fHGBiM#t-00-16-35): _Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated_
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:28:56](/episodes/ep-ds6umq1rHAw#t-00-28-56): _Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times_
 
 **[Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk)**
 

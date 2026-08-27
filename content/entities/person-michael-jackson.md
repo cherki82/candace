@@ -1,6 +1,6 @@
 ---
 title: "Michael Jackson"
-description: "Michael Jackson (People) - 13 mentions"
+description: "Michael Jackson (People) - 17 mentions"
 id: "person-michael-jackson"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52">2025-11-15 · 00:23:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-michael-jackson-t-00-58-23">2026-07-16 · 00:58:48</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-michael-jackson-t-00-05-04">2026-07-23 · 00:05:04</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,8 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59" style="--pulse-height:25%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-michael-jackson-t-00-57-38" style="--pulse-height:75%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-michael-jackson-t-00-02-47" style="--pulse-height:75%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-michael-jackson-t-00-05-04" style="--pulse-height:25%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +48,8 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-michael-jackson-t-00-57-38) | 3 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-jackson-t-00-02-47) | 3 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-michael-jackson-t-00-05-04) | 1 |
 
 </details>
 </section>
@@ -53,7 +57,29 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:05:04](/episodes/ep-amqTMimDr0A.md#ent-person-michael-jackson-t-00-05-04)**
+> "...to build, build, not destroy. Michael Jackson had that creative spark. And then people surround..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (3 mentions)</summary>
+
+**[00:02:47](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-jackson-t-00-02-47)**
+> "I think Michael Jackson alluded to that before his death. Kanye West alluded to that after his gym trainer, Harley Pasternak, threatened to drug him and take his children away."
+
+**[00:02:59](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-jackson-t-00-02-47)**
+> "...n Hollywood in my coverage of Michael Jackson's death."
+
+**[00:16:15](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-jackson-t-00-16-15)**
+> "... suspicious death, not unlike Michael Jackson's, if you ask me."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>
@@ -129,7 +155,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael Jackson (4)</strong></summary>
+<summary><strong class="section-title">Statements about Michael Jackson (5)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47) (Claim) **Candace Owens**: ["Owens said one specific reason The Daily Wire gave for firing her was ..."](/statements/statement-d4285bd3b97c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Hollywood](/entities/gpe-hollywood.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>

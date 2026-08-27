@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (17 mentions)
+### Evidence (19 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -68,6 +68,14 @@ object: "person-erika-kirk"
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 
 - [00:44:46](/episodes/ep-ZzAT2xijKGQ#t-00-44-46): _I don't buy anything really that Erika (Erika Kirk) says. She lies a lot._
+
+**[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
+
+- [00:34:54](/episodes/ep-amqTMimDr0A#t-00-34-54): _She came out dressed like an assassin and name checked me and accused me of accusing her of killing her husband, which was meant to invite hate toward me._
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:41:31](/episodes/ep-ds6umq1rHAw#t-00-41-31): _Erica (Erika Kirk) really is a nun behind the scenes ... What kind of Christian would just say, lie explicitly ... That's not true._
 
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 

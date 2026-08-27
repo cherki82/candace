@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 250 mentions"
+description: "White House (Organizations) - 253 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-white-house-t-00-23-21">2026-07-21 · 00:23:21</a></strong></div>
-<div><span>Episodes</span><strong>66</strong></div>
-<div><span>Mentions</span><strong>250</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-white-house-t-00-04-51">2026-07-22 · 00:05:13</a></strong></div>
+<div><span>Episodes</span><strong>67</strong></div>
+<div><span>Mentions</span><strong>253</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>63</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
@@ -97,6 +97,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-00-36" style="--pulse-height:24%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 7 mentions" title="2026-06-18 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-26-46" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-white-house-t-00-23-21" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-white-house-t-00-04-10" style="--pulse-height:10%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -168,6 +169,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-00-36) | 7 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-26-46) | 3 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-white-house-t-00-23-21) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-white-house-t-00-04-10) | 3 |
 
 </details>
 </section>
@@ -175,7 +177,21 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (250)</strong></summary>
+<summary><strong class="section-title">Raw mentions (253)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (3 mentions)</summary>
+
+**[00:04:20](/episodes/ep-ds6umq1rHAw.md#ent-org-white-house-t-00-04-10)**
+> "Zionist gang became known as the Stern Gang. And they kept up political lobbying and bombings, which made its way all the way to the White House."
+
+**[00:04:51](/episodes/ep-ds6umq1rHAw.md#ent-org-white-house-t-00-04-51)**
+> "...by six inches, arrived in the White House addressed to the president and various members of..."
+
+**[00:05:13](/episodes/ep-ds6umq1rHAw.md#ent-org-white-house-t-00-04-51)**
+> "But when the White House mailroom alert to the danger of postal bombs disc..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>

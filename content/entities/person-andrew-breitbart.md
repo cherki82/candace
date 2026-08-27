@@ -1,18 +1,14 @@
 ---
 title: "Andrew Breitbart"
-description: "Andrew Breitbart (People) - 26 mentions"
+description: "Andrew Breitbart (People) - 28 mentions"
 id: "person-andrew-breitbart"
 type: "PERSON"
-aliases:
-  - "Andrew"
 categories:
   - "conservative media"
   - "Breitbart News"
 ---
 
 _Type: People_
-
-**Also known as:** Andrew
 
 **Categories:** conservative media, Breitbart News
 
@@ -22,11 +18,11 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-andrew-breitbart-t-00-18-44">2026-01-07 · 00:19:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-person-andrew-breitbart-t-00-15-08">2026-03-17 · 00:15:08</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-andrew-breitbart-t-00-05-48">2026-07-23 · 00:05:48</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +33,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-andrew-breitbart-t-00-18-44" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 24 mentions" title="2026-01-07 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-andrew-breitbart-t-00-03-11" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-andrew-breitbart-t-00-05-04" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +41,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 |---|---|---:|
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-andrew-breitbart-t-00-18-44) | 24 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-andrew-breitbart-t-00-03-11) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-breitbart-t-00-05-04) | 2 |
 
 </details>
 </section>
@@ -51,7 +49,18 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:05:37](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-breitbart-t-00-05-04)**
+> "...er, explained this, how after Andrew Breitbart died."
+
+**[00:05:48](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-breitbart-t-00-05-48)**
+> "...ttempted to take over Andrew (Andrew Breitbart)'s company. And when that failed, he plotted to t..."
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (2 mentions)</summary>
@@ -211,7 +220,15 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Breitbart (8)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Breitbart (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48) (Accusation) **Candace Owens**: ["Candace Owens accused Ben Shapiro of trying to take over Breitbart aft..."](/statements/statement-731969649889.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (8)</summary>

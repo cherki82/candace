@@ -1,6 +1,6 @@
 ---
 title: "Freemasonry"
-description: "Freemasonry (Concepts) - 60 mentions"
+description: "Freemasonry (Concepts) - 61 mentions"
 id: "concept-freemasonry"
 type: "CONCEPT"
 aliases:
@@ -26,11 +26,11 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-freemasonry-t-00-02-09">2026-02-02 · 00:02:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-freemasonry-t-00-54-54">2026-07-16 · 00:54:54</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-freemasonry-t-00-21-42">2026-07-23 · 00:22:02</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>61</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,6 +53,7 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-freemasonry-t-00-57-01" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-freemasonry-t-02-34-34" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-freemasonry-t-00-54-54" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-concept-freemasonry-t-00-21-42" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +73,7 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-freemasonry-t-00-57-01) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-freemasonry-t-02-34-34) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-freemasonry-t-00-54-54) | 1 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-freemasonry-t-00-21-42) | 1 |
 
 </details>
 </section>
@@ -79,7 +81,15 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (61)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:22:02](/episodes/ep-amqTMimDr0A.md#ent-concept-freemasonry-t-00-21-42)**
+> "...nded by German Jews. It was a Freemason lodge where Sigmund Freud, as we learned in one o..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -352,9 +362,10 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 <summary>Referenced By (3)</summary>
 
 - **[B'nai B'rith International](/entities/org-bnai-brith-international.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:11:14](/episodes/ep-i8m_6D4QGmk.md#t-00-10-54): “Again, it was my independent study into Sigmund Freud that led me to learning about B'nai B'rith, the Jewish Freemason group who I believe have been running our country since at least the Civil War.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:21:42](/episodes/ep-amqTMimDr0A.md#t-00-21-42): “B'nai B'rith is the Jewish Freemasonic Lodge.”
 
 </details>
 
@@ -377,7 +388,15 @@ Source: [Encyclopaedia Britannica: Freemasonry](https://www.britannica.com/topic
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Freemasonry (15)</strong></summary>
+<summary><strong class="section-title">Statements about Freemasonry (16)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:22:02](/episodes/ep-amqTMimDr0A.md#t-00-21-42) (Claim) **Candace Owens**: ["Candace Owens said B'nai B'rith was founded by German Jews as a Freema..."](/statements/statement-addf7d1f6a2b.md)
+  - Also about: [B'nai B'rith International](/entities/org-bnai-brith-international.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>

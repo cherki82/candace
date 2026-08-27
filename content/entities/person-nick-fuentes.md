@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-description: "Nick Fuentes (People) - 95 mentions"
+description: "Nick Fuentes (People) - 96 mentions"
 id: "person-nick-fuentes"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12">2025-10-06 · 00:46:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-19">2026-05-28 · 00:23:19</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>95</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-nick-fuentes-t-00-25-58">2026-07-22 · 00:26:06</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>96</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
@@ -51,6 +51,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-00" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-nick-fuentes-t-00-25-58" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-nick-fuentes-t-00-23-00) | 2 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-nick-fuentes-t-00-25-58) | 1 |
 
 </details>
 </section>
@@ -83,7 +85,15 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (95)</strong></summary>
+<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:26:06](/episodes/ep-ds6umq1rHAw.md#ent-person-nick-fuentes-t-00-25-58)**
+> "That Charlie (Charlie Kirk) should just debate Nick Fuentes. There was some groyper stuff going on, as usual, at these events in the hallways. And I was like, just sit down and just have the debate. I think it's just worth having it."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2 mentions)</summary>

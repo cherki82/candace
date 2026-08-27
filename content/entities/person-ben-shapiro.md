@@ -1,10 +1,11 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 442 mentions"
+description: "Ben Shapiro (People) - 483 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
   - "Ben"
+  - "Benny Boy"
 categories:
   - "conservative media"
   - "Daily Wire"
@@ -12,7 +13,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Ben
+**Also known as:** Ben, Benny Boy
 
 **Categories:** conservative media, Daily Wire
 
@@ -22,12 +23,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-ben-shapiro-t-00-59-50">2026-07-21 · 01:00:20</a></strong></div>
-<div><span>Episodes</span><strong>62</strong></div>
-<div><span>Mentions</span><strong>442</strong></div>
-<div><span>Statements by</span><strong>19</strong></div>
-<div><span>Statements about</span><strong>90</strong></div>
-<div><span>Relationships</span><strong>80</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-56-56">2026-07-23 · 00:56:56</a></strong></div>
+<div><span>Episodes</span><strong>64</strong></div>
+<div><span>Mentions</span><strong>483</strong></div>
+<div><span>Statements by</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>107</strong></div>
+<div><span>Relationships</span><strong>88</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -97,6 +98,8 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-ben-shapiro-t-00-25-59" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-ben-shapiro-t-00-44-54" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 4 mentions" title="2026-07-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-ben-shapiro-t-00-21-55" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-28-01" style="--pulse-height:17%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 9 mentions" title="2026-07-22 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-00-01" style="--pulse-height:59%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 32 mentions" title="2026-07-23 · 32 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -164,6 +167,8 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-ben-shapiro-t-00-25-59) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-ben-shapiro-t-00-44-54) | 4 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-ben-shapiro-t-00-21-55) | 2 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-28-01) | 9 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-00-01) | 32 |
 
 </details>
 </section>
@@ -171,7 +176,140 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (442)</strong></summary>
+<summary><strong class="section-title">Raw mentions (483)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (32 mentions)</summary>
+
+**[00:00:01](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-00-01)**
+> "...ved information regarding who Ben Shapiro was with when Charlie Kirk was hit."
+
+**[00:00:11](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-00-01)**
+> "Ben (Ben Shapiro) claims he was at a breakfast or a lunch. Now, we..."
+
+**[00:05:25](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-05-04)**
+> "... will stand by this fact that Ben Shapiro behaves like a parasite."
+
+**[00:05:37](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-05-04)**
+> "...irman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after And..."
+
+**[00:05:48](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-05-48)**
+> "...uspicious circumstances, Ben (Ben Shapiro) attempted to take over Andrew (Andrew Breitbart)..."
+
+**[00:06:02](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-05-48)**
+> "...Fest last December about Ben (Ben Shapiro)."
+
+**[00:06:07](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-06-07)**
+> "Ben Shapiro is like a cancer and that cancer spreads."
+
+**[00:06:42](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-06-42)**
+> "... become alarming is that Ben (Ben Shapiro) fixates. He does. He fixates. He cannot move on...."
+
+**[00:06:53](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-06-42)**
+> "...rlson) never spoke about Ben (Ben Shapiro)."
+
+**[00:07:05](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-06-42)**
+> "...s constantly this topic. Ben (Ben Shapiro) tried to stop Charlie (Charlie Kirk)'s rise. I h..."
+
+**[00:07:15](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-07-15)**
+> "... thought he looked up to Ben (Ben Shapiro), and then in 2018, as soon as Ben (Ben Shapiro) ..."
+
+**[00:08:16](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-07-49)**
+> "...arlie (Charlie Kirk) and Ben (Ben Shapiro) were friends."
+
+**[00:08:40](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-08-25)**
+> "...arlie (Charlie Kirk) and Ben (Ben Shapiro) was."
+
+**[00:09:58](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-09-30)**
+> "...ated November 15th, 2023 when Ben Shapiro began his attacks against me and you are going to..."
+
+**[00:10:09](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-10-09)**
+> "...o be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that compan..."
+
+**[00:14:19](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-13-59)**
+> "... Andrew (Andrew Kolvet), that Ben Shapiro was squeezing their donors and trying to get them..."
+
+**[00:15:35](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-15-02)**
+> "...ays disgusted by the way Ben (Ben Shapiro) behaved, by the way Ben (Ben Shapiro) treats his..."
+
+**[00:16:39](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-16-24)**
+> "She's close with Ben (Ben Shapiro). Yup, the war is on. Snakes in the garden, they ..."
+
+**[00:17:03](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-17-03)**
+> "...k)'s assassination, that Ben (Ben Shapiro) of all people is sitting in his studio, in Charl..."
+
+**[00:17:20](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-17-03)**
+> "... when he did it. He said Ben (Ben Shapiro) and Charlie (Charlie Kirk) were friends."
+
+**[00:17:31](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-17-31)**
+> "... came out first and then Ben (Ben Shapiro) came out and not only that he had to have pre-su..."
+
+**[00:18:25](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-18-14)**
+> "...d let's take a listen to Ben (Ben Shapiro) state this so you can fully appreciate how deepl..."
+
+**[00:19:24](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-19-05)**
+> "... out a bounty. I said, who is Benny Boy with at breakfast or lunch?"
+
+**[00:19:46](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-19-46)**
+> "But the person that Ben (Ben Shapiro) was with has allegedly told various other people..."
+
+**[00:20:02](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-19-46)**
+> "... man named Gary Javitch. Ben (Ben Shapiro) was allegedly with Gary Javitch and an as-of-yet..."
+
+**[00:20:28](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-20-28)**
+> "...ly given the reason that Ben (Ben Shapiro) was in Los Angeles on that September day."
+
+**[00:20:38](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-20-28)**
+> "For clarity, Ben (Ben Shapiro) was in Los Angeles because he was scheduled to a..."
+
+**[00:25:09](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-25-09)**
+> "...plotting the assassination of Ben Shapiro and nobody would reach out and be like, this pers..."
+
+**[00:25:54](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-25-38)**
+> "...we were able to discover that Ben Shapiro and his wife have been donating a life and legacy..."
+
+**[00:26:25](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-26-17)**
+> "...r was speaking to who on Ben (Ben Shapiro)'s security team."
+
+**[00:56:16](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-55-46)**
+> "...you years ago, I thought Ben (Ben Shapiro) was your husband."
+
+**[00:56:56](/episodes/ep-amqTMimDr0A.md#ent-person-ben-shapiro-t-00-56-56)**
+> "...n you know Christ is King and Ben Shapiro is still um fake and gay and also dangerous i wou..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (9 mentions)</summary>
+
+**[00:28:18](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-28-01)**
+> "Ben Shapiro slides into Charlie's (Charlie Kirk's) studio with a million dollar check in hand. Not even Ben Shapiro himself."
+
+**[00:28:24](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-28-01)**
+> "...olvet tried to spin that Ben (Ben Shapiro) and Charlie (Charlie Kirk) were friends."
+
+**[00:28:30](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-28-01)**
+> "... Blake Neff admitted and Ben (Ben Shapiro) admitted that they were not friends."
+
+**[00:33:36](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-33-36)**
+> "...at Charlie (Charlie Kirk) and Ben Shapiro were friends, I was I just said to myself, this i..."
+
+**[00:34:02](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-33-36)**
+> "...that lie and it was so crazy. Ben Shapiro swept in and said, I tweeted, OK, I never claimed..."
+
+**[00:34:20](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-34-20)**
+> "...ie Kirk) had issues with Ben (Ben Shapiro), but he did consider him at least an ally in the..."
+
+**[00:34:38](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-34-20)**
+> "...ce wasn't dead to me and Ben (Ben Shapiro) was a friend. That tells you Andrew's (Andrew Ko..."
+
+**[00:44:12](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-00-44-12)**
+> "...oing to cover, obviously, who Ben Shapiro was allegedly lunching with when he found out and..."
+
+**[01:01:01](/episodes/ep-ds6umq1rHAw.md#ent-person-ben-shapiro-t-01-00-23)**
+> "... we are going to get into who Ben Shapiro was lunching with. Very interesting story."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2 mentions)</summary>
@@ -1825,14 +1963,22 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Accused By (1)</summary>
+<summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-36): “And Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:06:55](/episodes/ep-k8ueJdPFel4.md#t-00-06-32): “OK, Charlie (Charlie Kirk) could not stand Ben Shapiro. I have been telling you that because Ben (Ben Shapiro) operated behind the scenes to try to stop his rise.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:20:45](/episodes/ep-uC_GjKU8rs8.md#t-00-20-32): “People do not like his nature. You can spend years trying to destroy someone behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “Ben (Ben Shapiro) attempted to take over Andrew (Andrew Breitbart)'s company. And when that failed, he plotted to take down the company because why can't he have it?”
+
+</details>
+
+- **[Steve Bannon](/entities/person-steve-bannon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:16](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “He tried to take over Breitbart and I ran him out of there.”
 
 </details>
 
@@ -1958,7 +2104,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -1974,13 +2120,15 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:46:24](/episodes/ep-sKuYLNx3iRo.md#t-00-45-51): “But then Ben Shapiro, it's a bizarre talent he has. He thinks that people disagreeing with him is a declaration of war.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:59:56](/episodes/ep-EtLHqDbxqks.md#t-00-59-50): “And then you find out about Ben Shapiro's character and how he operates behind the scenes to stop people just like Megyn Kelly has had that experience recently.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:21:55](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “Ben Shapiro is on the phone receiving updates, but he's totally not involved, guys. Totally not. Just curious about why they're having a going out of sale business.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:25](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “On a personal level, I've told you guys over and over again, and I will stand by this fact that Ben Shapiro behaves like a parasite.”
 
 </details>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-18-02): “But Ben Shapiro is like a cancer,”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads.”
 
 </details>
 
@@ -2042,9 +2190,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Formerly Worked For (1)</summary>
 
 - **[Breitbart News](/entities/org-breitbart-news.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:54](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): “I have resigned from Breitbart News as editor at large.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
 
 </details>
 
@@ -2077,12 +2226,19 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Funded (1)</summary>
+<summary>Funded (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:09:01](/episodes/ep-OEAHy3SsIiI.md#t-00-08-38): “Ben Shapiro didn't really like Charlie (Charlie Kirk) when he was alive, but he gave us a million dollars.”
+
+</details>
+
+- **[Jewish Federation of Omaha](/entities/org-jewish-federation-of-omaha.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:25:54](/episodes/ep-amqTMimDr0A.md#t-00-25-38): “Now, we were able to discover that Ben Shapiro and his wife have been donating a life and legacy amount to the Jewish Federation of Omaha, Nebraska.”
 
 </details>
 
@@ -2144,12 +2300,37 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
+<summary>Mentored By (1)</summary>
+
+- **[David Horowitz](/entities/person-david-horowitz.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads. ... He tried to take over David Horowitz's who was his mentor.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Met With (1)</summary>
+
+- **[Gary Javitch](/entities/person-gary-javitch.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:20:02](/episodes/ep-amqTMimDr0A.md#t-00-19-46): “And that person is a man named Gary Javitch. Ben (Ben Shapiro) was allegedly with Gary Javitch and an as-of-yet unidentified woman when Charlie Kirk was shot. Now we have a strong guess as to who that woman could be, but we'd rather not venture a guess unnecessarily.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Owns (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:18:34](/episodes/ep-uC_GjKU8rs8.md#t-00-18-10): “That the company could no longer afford to sustain them, that we can reasonably assume that Ben (Ben Shapiro), who's a part owner of the company, knew months ahead.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09): “Shockingly, just to be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that company when this was going down.”
 
 </details>
 
@@ -2236,14 +2417,22 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Referenced By (40)</summary>
+<summary>Referenced By (44)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-36): “And Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:06:55](/episodes/ep-k8ueJdPFel4.md#t-00-06-32): “OK, Charlie (Charlie Kirk) could not stand Ben Shapiro. I have been telling you that because Ben (Ben Shapiro) operated behind the scenes to try to stop his rise.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:20:45](/episodes/ep-uC_GjKU8rs8.md#t-00-20-32): “People do not like his nature. You can spend years trying to destroy someone behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “Ben (Ben Shapiro) attempted to take over Andrew (Andrew Breitbart)'s company. And when that failed, he plotted to take down the company because why can't he have it?”
+
+</details>
+
+- **[Steve Bannon](/entities/person-steve-bannon.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:16](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “He tried to take over Breitbart and I ran him out of there.”
 
 </details>
 
@@ -2270,7 +2459,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -2286,13 +2475,15 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:46:24](/episodes/ep-sKuYLNx3iRo.md#t-00-45-51): “But then Ben Shapiro, it's a bizarre talent he has. He thinks that people disagreeing with him is a declaration of war.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:59:56](/episodes/ep-EtLHqDbxqks.md#t-00-59-50): “And then you find out about Ben Shapiro's character and how he operates behind the scenes to stop people just like Megyn Kelly has had that experience recently.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:21:55](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “Ben Shapiro is on the phone receiving updates, but he's totally not involved, guys. Totally not. Just curious about why they're having a going out of sale business.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:25](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “On a personal level, I've told you guys over and over again, and I will stand by this fact that Ben Shapiro behaves like a parasite.”
 
 </details>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-18-02): “But Ben Shapiro is like a cancer,”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads.”
 
 </details>
 
@@ -2421,9 +2612,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Breitbart News](/entities/org-breitbart-news.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:54](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): “I have resigned from Breitbart News as editor at large.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
 
 </details>
 
@@ -2447,6 +2639,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:09:01](/episodes/ep-OEAHy3SsIiI.md#t-00-08-38): “Ben Shapiro didn't really like Charlie (Charlie Kirk) when he was alive, but he gave us a million dollars.”
+
+</details>
+
+- **[Jewish Federation of Omaha](/entities/org-jewish-federation-of-omaha.md)** funded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:25:54](/episodes/ep-amqTMimDr0A.md#t-00-25-38): “Now, we were able to discover that Ben Shapiro and his wife have been donating a life and legacy amount to the Jewish Federation of Omaha, Nebraska.”
 
 </details>
 
@@ -2508,10 +2707,25 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
-- **[The Daily Wire](/entities/org-the-daily-wire.md)** owned by this
+- **[David Horowitz](/entities/person-david-horowitz.md)** mentored this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads. ... He tried to take over David Horowitz's who was his mentor.”
+
+</details>
+
+- **[Gary Javitch](/entities/person-gary-javitch.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:20:02](/episodes/ep-amqTMimDr0A.md#t-00-19-46): “And that person is a man named Gary Javitch. Ben (Ben Shapiro) was allegedly with Gary Javitch and an as-of-yet unidentified woman when Charlie Kirk was shot. Now we have a strong guess as to who that woman could be, but we'd rather not venture a guess unnecessarily.”
+
+</details>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** owned by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:18:34](/episodes/ep-uC_GjKU8rs8.md#t-00-18-10): “That the company could no longer afford to sustain them, that we can reasonably assume that Ben (Ben Shapiro), who's a part owner of the company, knew months ahead.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09): “Shockingly, just to be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that company when this was going down.”
 
 </details>
 
@@ -2555,7 +2769,18 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Ben Shapiro (19)</strong></summary>
+<summary><strong class="section-title">Statements by Ben Shapiro (21)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2)</summary>
+
+- [00:18:33](/episodes/ep-amqTMimDr0A.md#t-00-18-33) [○] (Claim) ["Ben Shapiro said he was at a breakfast-or-lunch meeting in Los Angeles when Char..."](/statements/statement-232ac1ff7122.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:18:53](/episodes/ep-amqTMimDr0A.md#t-00-18-33) [○] (Claim) ["Ben Shapiro said visual timelines showed Charlie Kirk was carried to a vehicle w..."](/statements/statement-aa3d27736563.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -2654,7 +2879,67 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (90)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (107)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (16)</summary>
+
+- [00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48) (Accusation) **Candace Owens**: ["Candace Owens accused Ben Shapiro of trying to take over Breitbart aft..."](/statements/statement-731969649889.md)
+  - Also about: [Breitbart News](/entities/org-breitbart-news.md), [Andrew Breitbart](/entities/person-andrew-breitbart.md)
+
+- [00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07) (Opinion) **Steve Bannon** (via quoted speech): ["Steve Bannon compared Ben Shapiro to a cancer that spreads and metasta..."](/statements/statement-9e62239976f8.md)
+
+- [00:06:16](/episodes/ep-amqTMimDr0A.md#t-00-06-07) (Accusation) **Steve Bannon** (via quoted speech): ["Steve Bannon said Ben Shapiro tried to take over Breitbart and that Ba..."](/statements/statement-114ba51be25b.md)
+  - Also about: [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:06:22](/episodes/ep-amqTMimDr0A.md#t-00-06-07) (Accusation) **Steve Bannon** (via quoted speech): ["Steve Bannon said Ben Shapiro tried to take over an organization assoc..."](/statements/statement-035c8fbce539.md)
+  - Also about: [David Horowitz](/entities/person-david-horowitz.md)
+
+- [00:06:30](/episodes/ep-amqTMimDr0A.md#t-00-06-07) (Prediction) **Steve Bannon** (via quoted speech): ["Steve Bannon predicted that Ben Shapiro would make a move on Turning P..."](/statements/statement-4a56fc2eb96b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:53](/episodes/ep-amqTMimDr0A.md#t-00-06-42) (Accusation) **Candace Owens**: ["Candace Owens accused Ben Shapiro of trying to stop Charlie Kirk's ris..."](/statements/statement-c921cc0a375d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:08:02](/episodes/ep-amqTMimDr0A.md#t-00-07-49) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of falsely claiming that she and C..."](/statements/statement-a38be47f6905.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:19](/episodes/ep-amqTMimDr0A.md#t-00-13-59) (Accusation) **Candace Owens**: ["Candace Owens said text messages told her that Ben Shapiro was pressur..."](/statements/statement-2227bd182678.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+- [00:16:39](/episodes/ep-amqTMimDr0A.md#t-00-16-24) (Accusation) **Charlie Kirk** (via read message): ["Charlie Kirk wrote that 'the war is on,' called people close to Ben Sh..."](/statements/statement-8dd20b737ff2.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:03](/episodes/ep-amqTMimDr0A.md#t-00-17-03) (Accusation) **Candace Owens**: ["Candace Owens accused Ben Shapiro of attempting to buy Charlie Kirk's ..."](/statements/statement-d8de17a58f76.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:17:20](/episodes/ep-amqTMimDr0A.md#t-00-17-03) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of lying that Ben Shapiro and Char..."](/statements/statement-e1fb69fbf02f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:18:33](/episodes/ep-amqTMimDr0A.md#t-00-18-33) (Claim) **Ben Shapiro** (via quoted speech): ["Ben Shapiro said he was at a breakfast-or-lunch meeting in Los Angeles..."](/statements/statement-232ac1ff7122.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:18:53](/episodes/ep-amqTMimDr0A.md#t-00-18-33) (Claim) **Ben Shapiro** (via quoted speech): ["Ben Shapiro said visual timelines showed Charlie Kirk was carried to a..."](/statements/statement-aa3d27736563.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:19:41](/episodes/ep-amqTMimDr0A.md#t-00-19-05) (Claim) **Anonymous Source #1 (Ep amqTMimDr0A)** (via read message): ["An authenticated anonymous source reported that Ben Shapiro was allege..."](/statements/statement-8618f10282be.md)
+  - Also about: [Gary Javitch](/entities/person-gary-javitch.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:25:54](/episodes/ep-amqTMimDr0A.md#t-00-25-38) (Claim) **Candace Owens**: ["Candace Owens said Ben Shapiro and his wife had for years donated a li..."](/statements/statement-0ec0c419048d.md)
+  - Also about: [Gary Javitch](/entities/person-gary-javitch.md), [Jewish Federation of Omaha](/entities/org-jewish-federation-of-omaha.md)
+
+- [00:26:25](/episodes/ep-amqTMimDr0A.md#t-00-26-17) (Promise) **Candace Owens**: ["Candace Owens promised a $25,000 bounty for information identifying wh..."](/statements/statement-1f3bca4b28a5.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:28:24](/episodes/ep-ds6umq1rHAw.md#t-00-28-01) (Accusation) **Candace Owens**: ["Owens accused Andrew Kolvet of falsely claiming Ben Shapiro and Charli..."](/statements/statement-eee389f4a24c.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>

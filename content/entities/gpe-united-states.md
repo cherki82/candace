@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1866 mentions"
+description: "United States (Places) - 1872 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -26,8 +26,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09">2025-09-15 · 00:01:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17">2026-08-14 · 01:19:28</a></strong></div>
-<div><span>Episodes</span><strong>134</strong></div>
-<div><span>Mentions</span><strong>1,866</strong></div>
+<div><span>Episodes</span><strong>136</strong></div>
+<div><span>Mentions</span><strong>1,872</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>149</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -171,6 +171,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-united-states-t-00-50-45" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-00-42" style="--pulse-height:21%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 8 mentions" title="2026-07-20 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-united-states-t-00-40-04" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-united-states-t-00-31-29" style="--pulse-height:11%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-united-states-t-00-15-02" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -310,6 +312,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-united-states-t-00-50-45) | 3 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-00-42) | 8 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-united-states-t-00-40-04) | 3 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-united-states-t-00-31-29) | 4 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-united-states-t-00-15-02) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12) | 3 |
 
 </details>
@@ -318,7 +322,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1866)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1872)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -331,6 +335,34 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:19:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17)**
 > "Kits are available for United States residents only."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:15:02](/episodes/ep-amqTMimDr0A.md#ent-gpe-united-states-t-00-15-02)**
+> "...close of course the president united states comes to you and asks you to call candace about b..."
+
+**[00:31:53](/episodes/ep-amqTMimDr0A.md#ent-gpe-united-states-t-00-31-45)**
+> "...d so I can make up a quote of America. But he's stupid and he took that risk anyway."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4 mentions)</summary>
+
+**[00:31:29](/episodes/ep-ds6umq1rHAw.md#ent-gpe-united-states-t-00-31-29)**
+> "That's battalionmetals.com slash Candace. Also remind you guys about the wellness company because you've probably heard that there is an outbreak in the U.S. right now."
+
+**[00:04:10](/episodes/ep-ds6umq1rHAw.md#ent-gpe-united-states-t-00-04-10)**
+> "...6. And yes, that gang came to America and manifested here."
+
+**[00:52:17](/episodes/ep-ds6umq1rHAw.md#ent-gpe-united-states-t-00-52-17)**
+> "...k you for being my voice that America needs voices."
+
+**[00:52:28](/episodes/ep-ds6umq1rHAw.md#ent-gpe-united-states-t-00-52-17)**
+> "America does need voices. I agree with that. And I think ..."
 
 </details>
 

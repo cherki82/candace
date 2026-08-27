@@ -1,6 +1,6 @@
 ---
 title: "Tracy Martin"
-description: "Tracy Martin (People) - 44 mentions"
+description: "Tracy Martin (People) - 53 mentions"
 id: "person-tracy-martin"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-tracy-martin-t-00-26-52">2026-02-04 · 00:27:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-tracy-martin-t-00-27-49">2026-07-21 · 00:28:19</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>44</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-52-29">2026-07-23 · 00:52:29</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -45,6 +45,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-person-tracy-martin-t-00-41-26" style="--pulse-height:9%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-43-35" style="--pulse-height:27%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-tracy-martin-t-00-27-49" style="--pulse-height:18%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-32-16" style="--pulse-height:82%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 9 mentions" title="2026-07-23 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-person-tracy-martin-t-00-41-26) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-tracy-martin-t-00-43-35) | 3 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-tracy-martin-t-00-27-49) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-32-16) | 9 |
 
 </details>
 </section>
@@ -67,7 +69,39 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (9 mentions)</summary>
+
+**[00:32:32](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-32-16)**
+> "...actly who I suspected it was, Tracy Martin, because Tracy Martin also lies."
+
+**[00:32:40](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-32-16)**
+> "Tracy Martin's been doing the rounds in the press. She was givin..."
+
+**[00:33:05](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-32-53)**
+> "...ils to the effect that it was Tracy Martin. And like I said, I'll say allegedly, but I feel ..."
+
+**[00:33:16](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-32-53)**
+> "...just hear the manner in which Tracy Martin is tries to get in front of this and lies with he..."
+
+**[00:33:32](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-33-32)**
+> "...r music when she was partying Tracy Martin is going to pretend none of that ever happened an..."
+
+**[00:33:45](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-33-45)**
+> "Tracy (Tracy Martin), let us know what your thoughts are on this. And..."
+
+**[00:35:20](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-35-20)**
+> "... history of lying this Tracy (Tracy Martin) I had a perfectly nice conversation I wish I had..."
+
+**[00:52:06](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-51-46)**
+> "...small percentage for maybe if Tracy Martin was the one who, as I'm told, was behind this art..."
+
+**[00:52:29](/episodes/ep-amqTMimDr0A.md#ent-person-tracy-martin-t-00-52-29)**
+> "And say, hey, Tracy (Tracy Martin), did Tracy (Tracy Martin) giving these comments ..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2 mentions)</summary>
@@ -257,6 +291,18 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:32](/episodes/ep-amqTMimDr0A.md#t-00-32-16): “And that family friend is exactly who I suspected it was, Tracy Martin, because Tracy Martin also lies.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Close Associate Of (1)</summary>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
@@ -272,7 +318,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <summary>Friend Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
@@ -281,13 +327,33 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:51](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17): “her best friend Tracy Martin”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:41:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-41-26): “In Kevin O'Leary's defense, that might be why they're doing it. They're realizing that's problematic. Anyway, even Tracy Martin, Erika (Erika Kirk)'s dear long 15-year friend, jumped into the fray at some point and clarified that the son is not Erika (Erika Kirk)'s, so it's all very confusing, says it's called a play date.”
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:45:01](/episodes/ep-tXoI0TTKVrs.md#t-00-45-01): “Tracy (Tracy Martin), Tracy (Tracy Martin), this is Erika (Erika Kirk)'s best friend.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:16](/episodes/ep-amqTMimDr0A.md#t-00-32-16): “we received a flurry of emails of people who presented proof, concrete proof that the story did indeed come from a family friend of Erika (Erika Kirk). ... And that family friend is exactly who I suspected it was, Tracy Martin, because Tracy Martin also lies.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:53](/episodes/ep-amqTMimDr0A.md#t-00-32-53): “she tried to get ahead of it and go on to Paramount Tactical Show. ... Tracy (Tracy Martin), let us know what your thoughts are on this.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:32](/episodes/ep-amqTMimDr0A.md#t-00-32-16): “And that family friend is exactly who I suspected it was, Tracy Martin, because Tracy Martin also lies.”
+
+</details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** close associate of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -297,7 +363,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25): “Erika Kirk has been a dear friend of mine for almost 15 years.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:20:01](/episodes/ep-4YgrOhhy708.md#t-00-19-19): “Tracy Martin is Erika (Erika Kirk)'s best friend for over 15 years.”
@@ -306,6 +372,14 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:39:51](/episodes/ep-DdPjoy5W-wY.md#t-00-39-17): “her best friend Tracy Martin”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:41:26](/episodes/ep-Pb7UlpRdW6U.md#t-00-41-26): “In Kevin O'Leary's defense, that might be why they're doing it. They're realizing that's problematic. Anyway, even Tracy Martin, Erika (Erika Kirk)'s dear long 15-year friend, jumped into the fray at some point and clarified that the son is not Erika (Erika Kirk)'s, so it's all very confusing, says it's called a play date.”
 - [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 @ 00:45:01](/episodes/ep-tXoI0TTKVrs.md#t-00-45-01): “Tracy (Tracy Martin), Tracy (Tracy Martin), this is Erika (Erika Kirk)'s best friend.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:16](/episodes/ep-amqTMimDr0A.md#t-00-32-16): “we received a flurry of emails of people who presented proof, concrete proof that the story did indeed come from a family friend of Erika (Erika Kirk). ... And that family friend is exactly who I suspected it was, Tracy Martin, because Tracy Martin also lies.”
+
+</details>
+
+- **[Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:53](/episodes/ep-amqTMimDr0A.md#t-00-32-53): “she tried to get ahead of it and go on to Paramount Tactical Show. ... Tracy (Tracy Martin), let us know what your thoughts are on this.”
 
 </details>
 
@@ -322,7 +396,18 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tracy Martin (2)</strong></summary>
+<summary><strong class="section-title">Statements by Tracy Martin (4)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2)</summary>
+
+- [00:33:45](/episodes/ep-amqTMimDr0A.md#t-00-33-45) [○] (Claim) ["Tracy Martin denied being the source who provided the Daily Mail with informatio..."](/statements/statement-6f7b6bb3ae2a.md)
+  - About: [Tracy Martin](/entities/person-tracy-martin.md), [Daily Mail](/entities/org-daily-mail.md)
+
+- [00:34:22](/episodes/ep-amqTMimDr0A.md#t-00-34-22) [○] (Claim) ["Tracy Martin said she had never seen Erika Kirk go on a tirade, that Kirk did no..."](/statements/statement-3cfaecef1d0e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2)</summary>
@@ -338,7 +423,21 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tracy Martin (8)</strong></summary>
+<summary><strong class="section-title">Statements about Tracy Martin (11)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3)</summary>
+
+- [00:32:16](/episodes/ep-amqTMimDr0A.md#t-00-32-16) (Accusation) **Candace Owens**: ["Candace Owens said anonymous correspondents presented what she conside..."](/statements/statement-bd54020f4ccb.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Daily Mail](/entities/org-daily-mail.md)
+
+- [00:32:40](/episodes/ep-amqTMimDr0A.md#t-00-32-16) (Accusation) **Candace Owens**: ["Candace Owens accused Tracy Martin of falsely claiming that Owens shou..."](/statements/statement-c98d1c012cba.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:33:45](/episodes/ep-amqTMimDr0A.md#t-00-33-45) (Claim) **Tracy Martin** (via quoted speech): ["Tracy Martin denied being the source who provided the Daily Mail with ..."](/statements/statement-6f7b6bb3ae2a.md)
+  - Also about: [Daily Mail](/entities/org-daily-mail.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>

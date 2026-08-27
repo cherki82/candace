@@ -1,6 +1,6 @@
 ---
 title: "SEAL Team Six"
-description: "SEAL Team Six (Organizations) - 2 mentions"
+description: "SEAL Team Six (Organizations) - 4 mentions"
 id: "org-seal-team-six"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Naval Special Warfare | Naval History and Heritage Command](https://www
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-seal-team-six-t-00-02-41">2026-07-20 · 00:03:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-seal-team-six-t-00-04-19">2026-07-20 · 00:04:33</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-seal-team-six-t-00-38-00">2026-07-23 · 00:38:00</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,12 +37,14 @@ Source: [Naval Special Warfare | Naval History and Heritage Command](https://www
 <p>Highest activity: <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-seal-team-six-t-00-02-41">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-seal-team-six-t-00-02-41" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-seal-team-six-t-00-37-21" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-seal-team-six-t-00-02-41) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-seal-team-six-t-00-37-21) | 2 |
 
 </details>
 </section>
@@ -50,7 +52,18 @@ Source: [Naval Special Warfare | Naval History and Heritage Command](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:37:47](/episodes/ep-amqTMimDr0A.md#ent-org-seal-team-six-t-00-37-21)**
+> "...it that's the no it's not i'm SEAL Team Six sniper with the sniper school in 1998 i'm telling..."
+
+**[00:38:00](/episodes/ep-amqTMimDr0A.md#ent-org-seal-team-six-t-00-38-00)**
+> "...it that's the no it's not i'm SEAL Team Six sniper with the sniper school in 1998 i'm telling..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
@@ -72,9 +85,10 @@ Source: [Naval Special Warfare | Naval History and Heritage Command](https://www
 <summary>Has Former Member (1)</summary>
 
 - **[Rob O'Neill](/entities/person-rob-oneill.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:03:05](/episodes/ep-N4uM8Jdr410.md#t-00-02-41): “What do we have? It is Robert O'Neill, the former United States Navy SEAL Team 6 sniper who killed Osama bin Laden.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:37:47](/episodes/ep-amqTMimDr0A.md#t-00-37-21): “i'm SEAL Team Six sniper with the sniper school in 1998 i'm telling you”
 
 </details>
 
@@ -84,9 +98,10 @@ Source: [Naval Special Warfare | Naval History and Heritage Command](https://www
 <summary>Referenced By (1)</summary>
 
 - **[Rob O'Neill](/entities/person-rob-oneill.md)** formerly member of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:03:05](/episodes/ep-N4uM8Jdr410.md#t-00-02-41): “What do we have? It is Robert O'Neill, the former United States Navy SEAL Team 6 sniper who killed Osama bin Laden.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:37:47](/episodes/ep-amqTMimDr0A.md#t-00-37-21): “i'm SEAL Team Six sniper with the sniper school in 1998 i'm telling you”
 
 </details>
 

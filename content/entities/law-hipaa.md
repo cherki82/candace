@@ -1,6 +1,6 @@
 ---
 title: "HIPAA"
-description: "HIPAA (Laws & Legislation) - 24 mentions"
+description: "HIPAA (Laws & Legislation) - 25 mentions"
 id: "law-hipaa"
 type: "LAW"
 aliases:
@@ -24,9 +24,9 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27">2025-12-16 · 00:03:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-law-hipaa-t-00-46-04">2026-07-16 · 00:46:37</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-law-hipaa-t-00-42-16">2026-07-22 · 00:42:23</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,6 +50,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <a href="/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-15" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-law-hipaa-t-00-55-45" style="--pulse-height:67%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-law-hipaa-t-00-46-04" style="--pulse-height:33%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-law-hipaa-t-00-42-16" style="--pulse-height:33%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +69,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-law-hipaa-t-00-58-15) | 3 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-law-hipaa-t-00-55-45) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-law-hipaa-t-00-46-04) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-law-hipaa-t-00-42-16) | 1 |
 
 </details>
 </section>
@@ -75,7 +77,15 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:42:23](/episodes/ep-ds6umq1rHAw.md#ent-law-hipaa-t-00-42-16)**
+> "Did the surgeon go rogue and violate HIPAA and speak to you one-on-one alone without Erica's (Erika Kirk's) approval? Did you tweet that without Erica's (Erika Kirk's) approval?"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>

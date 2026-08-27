@@ -1,6 +1,6 @@
 ---
 title: "Seth Dillon"
-description: "Seth Dillon (People) - 64 mentions"
+description: "Seth Dillon (People) - 69 mentions"
 id: "person-seth-dillon"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-seth-dillon-t-00-18-33">2025-09-15 · 00:18:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-seth-dillon-t-00-43-58">2026-07-21 · 00:44:08</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-seth-dillon-t-00-51-46">2026-07-23 · 00:51:46</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
-<div><span>Relationships</span><strong>27</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Relationships</span><strong>29</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -55,6 +55,8 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-seth-dillon-t-00-50-14" style="--pulse-height:9%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-seth-dillon-t-00-20-58" style="--pulse-height:9%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-seth-dillon-t-00-43-13" style="--pulse-height:18%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-seth-dillon-t-00-26-36" style="--pulse-height:27%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-seth-dillon-t-00-13-14" style="--pulse-height:18%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +86,8 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-seth-dillon-t-00-50-14) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-seth-dillon-t-00-20-58) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-seth-dillon-t-00-43-13) | 2 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-seth-dillon-t-00-26-36) | 3 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-seth-dillon-t-00-13-14) | 2 |
 
 </details>
 </section>
@@ -95,7 +99,32 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
+
+**[00:13:14](/episodes/ep-amqTMimDr0A.md#ent-person-seth-dillon-t-00-13-14)**
+> ".... We have conversations about Seth Dillon, all the players who we were involved and trying ..."
+
+**[00:51:46](/episodes/ep-amqTMimDr0A.md#ent-person-seth-dillon-t-00-51-46)**
+> "...t stayed home and chilled, if Seth Dillon admitted that he had pressured him in the Hampton..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (3 mentions)</summary>
+
+**[00:26:36](/episodes/ep-ds6umq1rHAw.md#ent-person-seth-dillon-t-00-26-36)**
+> "Charlie Kirk wrote explicitly he had no choice but to abandon the pro-Israel cause. And according to Charlie (Charlie Kirk), he felt that he was being morally blackmailed at Bill Ackman's house in the Hamptons by Seth Dillon and others."
+
+**[00:26:49](/episodes/ep-ds6umq1rHAw.md#ent-person-seth-dillon-t-00-26-36)**
+> "... morally blackmailed him, but Seth Dillon, he did say."
+
+**[00:26:55](/episodes/ep-ds6umq1rHAw.md#ent-person-seth-dillon-t-00-26-36)**
+> "...e been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referrin..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2 mentions)</summary>
@@ -430,9 +459,11 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:40:31](/episodes/ep-4YgrOhhy708.md#t-00-40-11): “And Seth (Seth Dillon), you just look like a liar.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:51:46](/episodes/ep-amqTMimDr0A.md#t-00-51-46): “if Seth Dillon admitted that he had pressured him in the Hamptons as he does, I have been morally blackmailed by Seth Dillon and Charlie (Charlie Kirk) me spoke about that.”
 
 </details>
 
@@ -506,9 +537,10 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13): “It's very strange. I'll show you this. Seth Dillon, resident liar, Hamptons guy. He writes the main reason Alex Jones was held liable was not that he questioned an official narrative.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
 
 </details>
 
@@ -537,9 +569,10 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:52](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41): “you were present when Ackman lost his mind on Charlie and when Benjamin invited him to Israel”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:36](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “according to Charlie (Charlie Kirk), he felt that he was being morally blackmailed at Bill Ackman's house in the Hamptons by Seth Dillon and others.”
 
 </details>
 
@@ -560,12 +593,26 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details>
-<summary>Referenced By (13)</summary>
+<summary>Threatened (1)</summary>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (14)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:40:31](/episodes/ep-4YgrOhhy708.md#t-00-40-11): “And Seth (Seth Dillon), you just look like a liar.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:51:46](/episodes/ep-amqTMimDr0A.md#t-00-51-46): “if Seth Dillon admitted that he had pressured him in the Hamptons as he does, I have been morally blackmailed by Seth Dillon and Charlie (Charlie Kirk) me spoke about that.”
 
 </details>
 
@@ -584,9 +631,10 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13): “It's very strange. I'll show you this. Seth Dillon, resident liar, Hamptons guy. He writes the main reason Alex Jones was held liable was not that he questioned an official narrative.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
 
 </details>
 
@@ -634,9 +682,10 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:20:52](/episodes/ep-czVBmqZP6Ss.md#t-00-20-41): “you were present when Ackman lost his mind on Charlie and when Benjamin invited him to Israel”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:36](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “according to Charlie (Charlie Kirk), he felt that he was being morally blackmailed at Bill Ackman's house in the Hamptons by Seth Dillon and others.”
 
 </details>
 
@@ -651,6 +700,13 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:02:14](/episodes/ep-K5GjF53bfN4.md#t-00-01-58): “What I also don't like are the people like Josh Hammer and Seth Dillon, people that I know who are very nasty and work behind the scenes. I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie (Charlie Kirk).”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** threatened by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
 
 </details>
 
@@ -689,7 +745,23 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Seth Dillon (15)</strong></summary>
+<summary><strong class="section-title">Statements about Seth Dillon (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
+
+- [00:51:46](/episodes/ep-amqTMimDr0A.md#t-00-51-46) (Accusation) **Candace Owens**: ["Candace Owens accused Seth Dillon of pressuring Charlie Kirk in the Ha..."](/statements/statement-43641de8a26f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Hamptons](/entities/gpe-hamptons.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:26:49](/episodes/ep-ds6umq1rHAw.md#t-00-26-36) (Accusation) **Charlie Kirk** (via quoted document): ["Charlie Kirk said Seth Dillon morally blackmailed him; Owens explicitl..."](/statements/statement-433552c0dc91.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bill Ackman](/entities/person-bill-ackman.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>

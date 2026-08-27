@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Tyler Bowyer](/entities/person-tyler-bowyer) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -36,6 +36,10 @@ object: "person-candace-owens"
 **[Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg)**
 
 - [00:21:56](/episodes/ep-cZxHqYsWRYg#t-00-21-56): _And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy._
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:27:18](/episodes/ep-ds6umq1rHAw#t-00-27-18): _the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm._
 
 **[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
 

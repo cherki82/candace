@@ -1,6 +1,6 @@
 ---
 title: "Network Contagion Research Institute"
-description: "Network Contagion Research Institute (Organizations) - 4 mentions"
+description: "Network Contagion Research Institute (Organizations) - 5 mentions"
 id: "org-network-contagion-research-institute"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-network-contagion-research-institute-t-00-21-55">2026-05-26 · 00:21:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-network-contagion-research-institute-t-00-46-46">2026-07-21 · 00:47:17</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-network-contagion-research-institute-t-00-39-03">2026-07-22 · 00:39:23</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -38,6 +38,7 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-network-contagion-research-institute-t-00-21-55" style="--pulse-height:50%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-network-contagion-research-institute-t-00-32-02" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-network-contagion-research-institute-t-00-46-46" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-network-contagion-research-institute-t-00-39-03" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-network-contagion-research-institute-t-00-21-55) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-network-contagion-research-institute-t-00-32-02) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-network-contagion-research-institute-t-00-46-46) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-network-contagion-research-institute-t-00-39-03) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:39:23](/episodes/ep-ds6umq1rHAw.md#ent-org-network-contagion-research-institute-t-00-39-03)**
+> "This NCRI article that you were promoting, Digital Assassin, this is all you. I don't have a PR apparatus."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -91,9 +101,10 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:32:21](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-02): “Moving on, I do want to get to this report that was published. Now. You may have seen it. It was absolutely bonkers. The same people that brought you Christ is King as anti-Semitic. The NCRI.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:39:23](/episodes/ep-ds6umq1rHAw.md#t-00-39-03): “This NCRI article that you were promoting, Digital Assassin, this is all you. I don't have a PR apparatus.”
 
 </details>
 
@@ -134,9 +145,10 @@ Source: [Where Hate Hides | Princeton Alumni Weekly](https://paw.princeton.edu/a
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:32:21](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-02): “Moving on, I do want to get to this report that was published. Now. You may have seen it. It was absolutely bonkers. The same people that brought you Christ is King as anti-Semitic. The NCRI.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:39:23](/episodes/ep-ds6umq1rHAw.md#t-00-39-03): “This NCRI article that you were promoting, Digital Assassin, this is all you. I don't have a PR apparatus.”
 
 </details>
 

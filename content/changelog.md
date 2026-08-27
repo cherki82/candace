@@ -5,6 +5,25 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-27 19:36:19
+
+**Added 2 episode(s):**
+  - `amqTMimDr0A`: EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365
+  - `ds6umq1rHAw`: Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364
+**Added 68 new entity/entities**
+**Added 27 new event(s)**
+**Added 93 new statement(s)**
+**Added 116 new relationship(s)**
+
+**Totals:**
+- Episodes: 144
+- Entities: 3648
+- Events: 1574
+- Statements: 6462
+- Relationships: 4015
+
+---
+
 ## 2026-08-26 19:45:14
 
 **Added 1 episode(s):**

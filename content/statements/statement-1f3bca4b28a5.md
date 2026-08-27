@@ -1,0 +1,42 @@
+---
+title: "Candace Owens promised a $25,000 bounty for information iden..."
+description: "\"Candace Owens promised a $25,000 bounty for information identifying who in Charlie Kirk's car spoke with whom on Ben Shapiro's security team\" — Candace Owens"
+statement_id: "statement-1f3bca4b28a5"
+speaker: "Candace Owens"
+type: "promise"
+---
+
+**Status:** ○ Not yet verified
+
+## Statement
+
+> Candace Owens promised a $25,000 bounty for information identifying who in Charlie Kirk's car spoke with whom on Ben Shapiro's security team
+
+## Attribution
+
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+
+**Delivery:** Made directly
+
+## About
+
+- [Candace Owens](/entities/person-candace-owens.md) (person)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Ben Shapiro](/entities/person-ben-shapiro.md) (person)
+- [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
+
+## Source
+
+**Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
+**Timestamp:** [00:26:25](/episodes/ep-amqTMimDr0A.md#t-00-26-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1585);return false;">Play</a>
+
+> But I will put out another bounty similarly for $25,000 for the person who can tell me who in Charlie (Charlie Kirk)'s car was speaking to who on Ben (Ben Shapiro)'s security team.
+
+## Verification
+
+_This statement has not yet been verified._
+
+---
+
+**Type:** Promise | **Verifiable:** Yes

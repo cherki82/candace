@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) appeared with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
@@ -24,6 +24,10 @@ object: "person-charlie-kirk"
 **[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
 
 - [00:17:55](/episodes/ep-SubDoZWHARo#t-00-17-55): _I was doing an event in Nashville with Charlie (Charlie Kirk)._
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:57:22](/episodes/ep-ds6umq1rHAw#t-00-57-22): _a 15-minute compilation video of you and Charlie (Charlie Kirk) laughing together on YouTube_
 
 **[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
 

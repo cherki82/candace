@@ -11,7 +11,7 @@ date: "1913-08-25"
 
 > Leo Frank convicted of murdering and raping Mary Phagan in Atlanta
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
 
@@ -28,3 +28,11 @@ date: "1913-08-25"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(217);return false;">▶️ Play</a>
 
 > to defend a pedophile and a murderer. His name is Leo Frank. Leo Frank was an unbelievably wealthy Jewish factory owner down in Atlanta. And this is 1913. That's very relevant. You should know this ha
+
+### 3. EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messag...
+
+**Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
+**Timestamp:** [00:23:09](/episodes/ep-amqTMimDr0A.md#event-event-1913-01-01-leo-frank-convicted-of-murdering-and-raping-mary-p-t-00-23-09) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1389);return false;">▶️ Play</a>
+
+> he was also convicted by a jury that consisted of Jews.

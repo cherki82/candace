@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 678 mentions"
+description: "Andrew Kolvet (People) - 710 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45">2026-08-14 · 02:41:45</a></strong></div>
-<div><span>Episodes</span><strong>101</strong></div>
-<div><span>Mentions</span><strong>678</strong></div>
-<div><span>Statements by</span><strong>77</strong></div>
-<div><span>Statements about</span><strong>181</strong></div>
-<div><span>Relationships</span><strong>89</strong></div>
+<div><span>Episodes</span><strong>103</strong></div>
+<div><span>Mentions</span><strong>710</strong></div>
+<div><span>Statements by</span><strong>81</strong></div>
+<div><span>Statements about</span><strong>189</strong></div>
+<div><span>Relationships</span><strong>91</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -135,6 +135,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-andrew-kolvet-t-00-41-01" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-kolvet-t-00-01-24" style="--pulse-height:19%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 8 mentions" title="2026-07-20 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-00-21-18" style="--pulse-height:14%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 6 mentions" title="2026-07-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-00-01" style="--pulse-height:47%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 20 mentions" title="2026-07-22 · 20 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-07-49" style="--pulse-height:28%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 12 mentions" title="2026-07-23 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09" style="--pulse-height:9%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -241,6 +243,8 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-andrew-kolvet-t-00-41-01) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-andrew-kolvet-t-00-01-24) | 8 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-andrew-kolvet-t-00-21-18) | 6 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-00-01) | 20 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-07-49) | 12 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-00-38-09) | 4 |
 
 </details>
@@ -249,7 +253,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (678)</strong></summary>
+<summary><strong class="section-title">Raw mentions (710)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -265,6 +269,112 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 
 **[02:41:45](/episodes/ep-nPhCKwJ6ye8.md#ent-person-andrew-kolvet-t-02-41-45)**
 > "I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turnin..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (12 mentions)</summary>
+
+**[00:08:02](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-07-49)**
+> "...nd the most shocking has been Andrew Kolvet, his attempts to pretend that Charlie (Charlie Ki..."
+
+**[00:08:40](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-08-25)**
+> "...ause we were watching Andrew (Andrew Kolvet) tweet this narrative that Candace wasn't friends..."
+
+**[00:09:46](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-09-30)**
+> "...text message thread. Now that Andrew Kolvet is out the gate saying Charlie (Charlie Kirk) was..."
+
+**[00:14:09](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-13-59)**
+> "... to him about that. I believe Andrew Kolvet was actually present for that discussion, if I re..."
+
+**[00:14:19](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-13-59)**
+> "...ages that I have with Andrew (Andrew Kolvet), that Ben Shapiro was squeezing their donors and..."
+
+**[00:17:20](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-17-03)**
+> "...ause they allowed it. Andrew (Andrew Kolvet) then lied. He lied, didn't feel anything when he..."
+
+**[00:30:40](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-30-27)**
+> "We saw this yesterday when Andrew Kolvet, who, as Baron Coleman accurately states, is a li..."
+
+**[00:31:17](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-30-59)**
+> "And so. Andrew (Andrew Kolvet) took a very big risk in telling this lie. And fo..."
+
+**[00:35:45](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-35-20)**
+> "...answer. I'm still challenging Andrew Kolvet to get that article removed. Get the person to co..."
+
+**[00:52:06](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-00-51-46)**
+> ".... Maybe there's a chance that Andrew Kolvet didn't get the email question somewhere."
+
+**[01:00:50](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-01-00-20)**
+> "...of stuff when you see Andrew (Andrew Kolvet) lying in the way that he has."
+
+**[01:01:08](/episodes/ep-amqTMimDr0A.md#ent-person-andrew-kolvet-t-01-00-59)**
+> "Pray for Andrew Kolvet genuinely. Like I said, I don't hate these people..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (20 mentions)</summary>
+
+**[00:00:29](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-00-01)**
+> "Andrew Kolvet's PR disaster"
+
+**[00:01:12](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-00-39)**
+> "Andrew Kolvet has officially lost it. This is going to backfire..."
+
+**[00:24:54](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-24-54)**
+> "...rified)—he's not referring to Andrew Kolvet; he's referring to the person that picks what sto..."
+
+**[00:28:24](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-28-01)**
+> "...ff could stomach the lie that Andrew Kolvet tried to spin that Ben (Ben Shapiro) and Charlie ..."
+
+**[00:28:41](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-28-41)**
+> "But Andrew Kolvet attempted to tell that lie to the public and that..."
+
+**[00:33:36](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-33-36)**
+> "Andrew Kolvet, man, I have to tell you that after I saw him try..."
+
+**[00:33:45](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-33-36)**
+> "...ny messages, group chats with Andrew Kolvet, with Tyler (Tyler Bowyer). I was like."
+
+**[00:34:02](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-33-36)**
+> "...uin their legacy. And Andrew (Andrew Kolvet) just told that lie and it was so crazy. Ben Shap..."
+
+**[00:34:28](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-34-20)**
+> "...m, making fun of him. Andrew (Andrew Kolvet) was just going to keep it, keep it up and just t..."
+
+**[00:34:38](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-34-20)**
+> "...end. That tells you Andrew's (Andrew Kolvet's) character. And so I am not surprised at what he ..."
+
+**[00:34:58](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-34-58)**
+> "It just has. Andrew Kolvet has been driving that bus. She also told me they ..."
+
+**[00:35:56](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-35-38)**
+> "So this backfired and Andrew Kolvet."
+
+**[00:38:16](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-37-39)**
+> "So I challenge him. Andrew (Andrew Kolvet), this is made up truly. The only thing that's ma..."
+
+**[00:38:55](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-38-21)**
+> "Like that is Andrew Kolvet right now in a nutshell, striking me while crying..."
+
+**[00:41:36](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-41-31)**
+> "She is. Any comment, Andrew Kolvet, on what I'm saying about her calling priests and..."
+
+**[00:42:06](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-41-31)**
+> "...just say, lie explicitly, say Andrew Kolvet went rogue, the surgeon went rogue, and I had no ..."
+
+**[00:42:16](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-42-16)**
+> "...e down on that claim, Andrew (Andrew Kolvet)? How about you do that? If I'm lying and she's s..."
+
+**[00:43:26](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-42-57)**
+> "...y, it's unbelievable, Andrew (Andrew Kolvet). Your PR strategy is a nightmare. So I am challe..."
+
+**[00:43:50](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-43-40)**
+> "I am your ally, Andrew (Andrew Kolvet). That's really dirty business for a senior repor..."
+
+**[00:57:00](/episodes/ep-ds6umq1rHAw.md#ent-person-andrew-kolvet-t-00-56-54)**
+> "... do not accept the filth that Andrew Kolvet is selling that Charlie (Charlie Kirk) was some l..."
 
 </details>
 
@@ -2796,15 +2906,29 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:29](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “Well, Andrew Kolvet's PR disaster came out of the gate today swinging and attempted to blame me for the article.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02): “Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:39:38](/episodes/ep-N4uM8Jdr410.md#t-00-39-18): “—amnesia. So do, do message us about that. Lastly, I—I can't even explain to you, if you're not following Andrew Kolvet, who he is. Like, he's in peak form right now on X. The mask has just fully slipped. I mean, we already knew who he was. We knew—I told you—he was directing all this behind the scenes: the lies, the attacks. And we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolvet was—”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:34:02](/episodes/ep-ds6umq1rHAw.md#t-00-33-36): “Andrew (Andrew Kolvet) just told that lie and it was so crazy.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:08:02](/episodes/ep-amqTMimDr0A.md#t-00-07-49): “And the most shocking has been Andrew Kolvet, his attempts to pretend that Charlie (Charlie Kirk) and me were never friends, that Charlie (Charlie Kirk) and me had some imaginary falling out and we just did not have each other's back since 2019.”
 
 </details>
 
@@ -2929,7 +3053,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -2948,6 +3072,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:45:31](/episodes/ep-puuMVxEu5NU.md#t-00-45-09): “Top comment from yesterday's episode came from chewing the void this person writes nobody dismantles Andrew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet) and Blake (Blake Neff) could not agree more”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:39:38](/episodes/ep-N4uM8Jdr410.md#t-00-39-18): “—amnesia. So do, do message us about that. Lastly, I—I can't even explain to you, if you're not following Andrew Kolvet, who he is. Like, he's in peak form right now on X. The mask has just fully slipped. I mean, we already knew who he was. We knew—I told you—he was directing all this behind the scenes: the lies, the attacks. And we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolvet was—”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:24:15](/episodes/ep-OgRyiOAVtWU.md#t-00-24-01): “alongside Andrew Kolvet, who's now gone mask down before I was even aware, right? I presumed these people were allies.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:01:12](/episodes/ep-ds6umq1rHAw.md#t-00-00-39): “Andrew Kolvet has officially lost it. This is going to backfire so badly”
 
 </details>
 
@@ -3295,15 +3420,17 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>Referenced By (43)</summary>
+<summary>Referenced By (44)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02): “Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:39:38](/episodes/ep-N4uM8Jdr410.md#t-00-39-18): “—amnesia. So do, do message us about that. Lastly, I—I can't even explain to you, if you're not following Andrew Kolvet, who he is. Like, he's in peak form right now on X. The mask has just fully slipped. I mean, we already knew who he was. We knew—I told you—he was directing all this behind the scenes: the lies, the attacks. And we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolvet was—”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:34:02](/episodes/ep-ds6umq1rHAw.md#t-00-33-36): “Andrew (Andrew Kolvet) just told that lie and it was so crazy.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:08:02](/episodes/ep-amqTMimDr0A.md#t-00-07-49): “And the most shocking has been Andrew Kolvet, his attempts to pretend that Charlie (Charlie Kirk) and me were never friends, that Charlie (Charlie Kirk) and me had some imaginary falling out and we just did not have each other's back since 2019.”
 
 </details>
 
@@ -3311,6 +3438,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:08:55](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “If Andrew left Santa Barbara before Charlie got shot, there was a plot to kill Charlie Kirk and Andrew knew about it. That's why it matters.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:29](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “Well, Andrew Kolvet's PR disaster came out of the gate today swinging and attempted to blame me for the article.”
 
 </details>
 
@@ -3371,7 +3505,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -3390,6 +3524,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:45:31](/episodes/ep-puuMVxEu5NU.md#t-00-45-09): “Top comment from yesterday's episode came from chewing the void this person writes nobody dismantles Andrew (Andrew Kolvet) and Blake (Blake Neff)'s credibility faster than Andrew (Andrew Kolvet) and Blake (Blake Neff) could not agree more”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:39:38](/episodes/ep-N4uM8Jdr410.md#t-00-39-18): “—amnesia. So do, do message us about that. Lastly, I—I can't even explain to you, if you're not following Andrew Kolvet, who he is. Like, he's in peak form right now on X. The mask has just fully slipped. I mean, we already knew who he was. We knew—I told you—he was directing all this behind the scenes: the lies, the attacks. And we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolvet was—”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:24:15](/episodes/ep-OgRyiOAVtWU.md#t-00-24-01): “alongside Andrew Kolvet, who's now gone mask down before I was even aware, right? I presumed these people were allies.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:01:12](/episodes/ep-ds6umq1rHAw.md#t-00-00-39): “Andrew Kolvet has officially lost it. This is going to backfire so badly”
 
 </details>
 
@@ -3656,7 +3791,24 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Andrew Kolvet (77)</strong></summary>
+<summary><strong class="section-title">Statements by Andrew Kolvet (81)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4)</summary>
+
+- [00:36:00](/episodes/ep-ds6umq1rHAw.md#t-00-35-38) [✓] (Claim) ["Andrew Kolvet wrote that Turning Point USA never received a Daily Mail request f..."](/statements/statement-e4aa05418158.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Daily Mail](/entities/org-daily-mail.md)
+
+- [00:36:25](/episodes/ep-ds6umq1rHAw.md#t-00-36-18) [✓] (Accusation) ["Andrew Kolvet wrote that not one word attributed by the Daily Mail anonymous sou..."](/statements/statement-1c520220288e.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Daily Mail](/entities/org-daily-mail.md)
+
+- [00:36:44](/episodes/ep-ds6umq1rHAw.md#t-00-36-18) [✓] (Claim) ["Andrew Kolvet wrote that the Daily Mail made a major update after being confront..."](/statements/statement-6bfdb1d65389.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Daily Mail](/entities/org-daily-mail.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:36:56](/episodes/ep-ds6umq1rHAw.md#t-00-36-56) [○] (Accusation) ["Andrew Kolvet accused the Daily Mail of doing Candace Owens bidding and said Owe..."](/statements/statement-908028487608.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md), [Daily Mail](/entities/org-daily-mail.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (3)</summary>
@@ -4036,7 +4188,41 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (181)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (189)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2)</summary>
+
+- [00:08:02](/episodes/ep-amqTMimDr0A.md#t-00-07-49) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of falsely claiming that she and C..."](/statements/statement-a38be47f6905.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:17:20](/episodes/ep-amqTMimDr0A.md#t-00-17-03) (Accusation) **Candace Owens**: ["Candace Owens accused Andrew Kolvet of lying that Ben Shapiro and Char..."](/statements/statement-e1fb69fbf02f.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (6)</summary>
+
+- [00:28:24](/episodes/ep-ds6umq1rHAw.md#t-00-28-01) (Accusation) **Candace Owens**: ["Owens accused Andrew Kolvet of falsely claiming Ben Shapiro and Charli..."](/statements/statement-eee389f4a24c.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:36:00](/episodes/ep-ds6umq1rHAw.md#t-00-35-38) (Claim) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that Turning Point USA never received a Daily Mail..."](/statements/statement-e4aa05418158.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Daily Mail](/entities/org-daily-mail.md)
+
+- [00:36:25](/episodes/ep-ds6umq1rHAw.md#t-00-36-18) (Accusation) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that not one word attributed by the Daily Mail ano..."](/statements/statement-1c520220288e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Daily Mail](/entities/org-daily-mail.md), [Daily Mail family-friend source (identity unverified)](/entities/anon-src-ds6umq1rHAw-daily-mail-family-friend.md)
+
+- [00:36:44](/episodes/ep-ds6umq1rHAw.md#t-00-36-18) (Claim) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet wrote that the Daily Mail made a major update after bein..."](/statements/statement-6bfdb1d65389.md)
+  - Also about: [Daily Mail](/entities/org-daily-mail.md), [Erika Kirk](/entities/person-erika-kirk.md), [Daily Mail family-friend source (identity unverified)](/entities/anon-src-ds6umq1rHAw-daily-mail-family-friend.md)
+
+- [00:36:56](/episodes/ep-ds6umq1rHAw.md#t-00-36-56) (Accusation) **Andrew Kolvet** (via quoted tweet): ["Andrew Kolvet accused the Daily Mail of doing Candace Owens bidding an..."](/statements/statement-908028487608.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Daily Mail](/entities/org-daily-mail.md)
+
+- [00:42:06](/episodes/ep-ds6umq1rHAw.md#t-00-41-31) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of lying that Andrew Kolvet and an unnamed su..."](/statements/statement-948b1fc189be.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Unnamed surgeon discussed in Episode 364](/entities/anon-src-ds6umq1rHAw-unnamed-surgeon.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>

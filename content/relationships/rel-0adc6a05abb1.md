@@ -11,7 +11,7 @@ object: "org-battalion-metals"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Battalion Metals](/entities/org-battalion-metals)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
 
@@ -20,6 +20,10 @@ object: "org-battalion-metals"
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 
 - [00:35:10](/episodes/ep-YeEtS7nix3o#t-00-35-10): _Who you buy it from actually does matter, and that's why I am proud to partner with Battalion Metals, a company that I trust and that you can trust too._
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:31:10](/episodes/ep-ds6umq1rHAw#t-00-31-10): _That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver._
 
 ### Related
 

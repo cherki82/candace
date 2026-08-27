@@ -1,6 +1,6 @@
 ---
 title: "Mitt Romney"
-description: "Mitt Romney (People) - 23 mentions"
+description: "Mitt Romney (People) - 24 mentions"
 id: "person-mitt-romney"
 type: "PERSON"
 categories:
@@ -19,11 +19,11 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24">2026-04-01 · 00:03:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-mitt-romney-t-00-50-18">2026-07-20 · 00:50:18</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-mitt-romney-t-00-22-29">2026-07-22 · 00:22:29</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-mitt-romney-t-00-09-54" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 11 mentions" title="2026-05-27 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-mitt-romney-t-00-08-50" style="--pulse-height:9%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-mitt-romney-t-00-50-18" style="--pulse-height:9%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-mitt-romney-t-00-22-29" style="--pulse-height:9%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-mitt-romney-t-00-09-54) | 11 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-mitt-romney-t-00-08-50) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-mitt-romney-t-00-50-18) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-mitt-romney-t-00-22-29) | 1 |
 
 </details>
 </section>
@@ -56,7 +58,15 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:22:29](/episodes/ep-ds6umq1rHAw.md#ent-person-mitt-romney-t-00-22-29)**
+> "I should also mention that Frank William Gay, the trusted Mormon, he had a son, Robert Gay, who became the managing director of Mitt Romney's Bain Capital for 16 years."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
@@ -299,7 +309,15 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mitt Romney (4)</strong></summary>
+<summary><strong class="section-title">Statements about Mitt Romney (5)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:22:29](/episodes/ep-ds6umq1rHAw.md#t-00-22-29) (Claim) **Candace Owens**: ["Owens said Frank William Gay son Robert C. Gay served as a managing di..."](/statements/statement-2bde41d90aad.md)
+  - Also about: [Frank William Gay](/entities/person-frank-william-gay.md), [Robert C. Gay](/entities/person-robert-c-gay.md), [Bain Capital](/entities/org-bain-capital.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (2)</summary>

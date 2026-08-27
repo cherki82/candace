@@ -11,7 +11,7 @@ object: "person-tyler-bowyer"
 
 ## [Erika Kirk](/entities/person-erika-kirk) worked with [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -20,6 +20,10 @@ object: "person-tyler-bowyer"
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 
 - [00:29:18](/episodes/ep-HYn0P-P1wUw#t-00-29-18): _I got a call. I got a call from Miss Erika Kirk. Miss Arizona 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally._
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:25:17](/episodes/ep-ds6umq1rHAw#t-00-25-17): _And yes, he brought in Erica (Erika Kirk); of that there is no doubt. They have both admitted that_
 
 ### Related
 

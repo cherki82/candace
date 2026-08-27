@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 250 mentions"
+description: "The Daily Wire (Organizations) - 256 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-the-daily-wire-t-00-58-23">2026-07-16 · 00:58:23</a></strong></div>
-<div><span>Episodes</span><strong>55</strong></div>
-<div><span>Mentions</span><strong>250</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-56-35">2026-07-23 · 00:56:38</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>256</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>92</strong></div>
+<div><span>Statements about</span><strong>97</strong></div>
 <div><span>Relationships</span><strong>52</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -92,6 +92,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-the-daily-wire-t-00-01-22" style="--pulse-height:26%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 10 mentions" title="2026-06-24 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-the-daily-wire-t-01-00-30" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-the-daily-wire-t-00-58-23" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-the-daily-wire-t-00-02-47" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-06-42" style="--pulse-height:13%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -152,6 +154,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-daily-wire-t-00-01-22) | 10 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-the-daily-wire-t-01-00-30) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-the-daily-wire-t-00-58-23) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-the-daily-wire-t-00-02-47) | 1 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-06-42) | 5 |
 
 </details>
 </section>
@@ -159,7 +163,35 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (250)</strong></summary>
+<summary><strong class="section-title">Raw mentions (256)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (5 mentions)</summary>
+
+**[00:06:53](/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-06-42)**
+> "... Carlson. I mean, I worked at The Daily Wire and it was totally bizarre to me how focused the ..."
+
+**[00:10:09](/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-10-09)**
+> "...hapiro, who's a part owner of Daily Wire for that company when this was going down. And it..."
+
+**[00:10:32](/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-10-32)**
+> "...arrants a call to resign from the daily wire there should be more room in the conservative mov..."
+
+**[00:13:59](/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-13-59)**
+> "...appening behind the scenes of Daily Wire, what they were doing."
+
+**[00:56:38](/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-56-35)**
+> "...a little angry. Two, I joined the Daily Wire because of you and I left when you left. And thre..."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:02:59](/episodes/ep-ds6umq1rHAw.md#ent-org-the-daily-wire-t-00-02-47)**
+> "What kind of gym trainer writes that kind of stuff? And I have to tell you guys, and this is not even a joke, one of the reasons among many that I was fired from the Daily Wire, a specific reason that they listed was I suggested that there could be a Jewish mafia in Hollywood in my coverage of Michael Jackson's death."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -1279,7 +1311,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:47](/episodes/ep-ja26iltROkM.md#t-00-40-37): “I was happy to be canceled from anything to say what I felt in my heart to be true”
@@ -1296,6 +1328,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:05:13](/episodes/ep-h76ZN-xXC6c.md#t-00-04-55): “Once I got fired from a daily wire, I didn't bend the knee.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58): “They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs”
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:58:23](/episodes/ep-mLvJqdxS-FY.md#t-00-58-23): “One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth and that maybe it's time to listen.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
 
 </details>
 
@@ -1317,7 +1350,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Formerly Employed (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
@@ -1337,6 +1370,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:03:16](/episodes/ep-YeEtS7nix3o.md#t-00-02-34): “in a request when I was working at the Daily Wire, ironically, to pitch it to the CEOs.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:11:19](/episodes/ep-G3zdOeHpvS0.md#t-00-11-12): “the external Zionist peer pressure since me leaving the Daily Wire.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58): “They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09): “Shockingly, just to be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that company when this was going down.”
 
 </details>
 
@@ -1439,9 +1474,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Owned By (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:18:34](/episodes/ep-uC_GjKU8rs8.md#t-00-18-10): “That the company could no longer afford to sustain them, that we can reasonably assume that Ben (Ben Shapiro), who's a part owner of the company, knew months ahead.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09): “Shockingly, just to be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that company when this was going down.”
 
 </details>
 
@@ -1549,7 +1585,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
@@ -1565,11 +1601,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:05:13](/episodes/ep-h76ZN-xXC6c.md#t-00-04-55): “Once I got fired from a daily wire, I didn't bend the knee.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58): “They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs”
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:58:23](/episodes/ep-mLvJqdxS-FY.md#t-00-58-23): “One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth and that maybe it's time to listen.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (24)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:47:51](/episodes/ep-adJ4LNGp84I.md#t-00-47-25): “I used to read ads for them, ExpressVPN, when I was working for Daily Wire.”
@@ -1595,6 +1632,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:03:16](/episodes/ep-YeEtS7nix3o.md#t-00-02-34): “in a request when I was working at the Daily Wire, ironically, to pitch it to the CEOs.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:11:19](/episodes/ep-G3zdOeHpvS0.md#t-00-11-12): “the external Zionist peer pressure since me leaving the Daily Wire.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58): “They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09): “Shockingly, just to be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that company when this was going down.”
 
 </details>
 
@@ -1658,9 +1697,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** owns this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:18:34](/episodes/ep-uC_GjKU8rs8.md#t-00-18-10): “That the company could no longer afford to sustain them, that we can reasonably assume that Ben (Ben Shapiro), who's a part owner of the company, knew months ahead.”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09): “Shockingly, just to be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that company when this was going down.”
 
 </details>
 
@@ -1752,7 +1792,32 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (92)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (97)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (4)</summary>
+
+- [00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09) (Accusation) **Candace Owens**: ["Candace Owens alleged that after October 7 there was a coordinated int..."](/statements/statement-aae9578fc0a5.md)
+  - Also about: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+- [00:10:32](/episodes/ep-amqTMimDr0A.md#t-00-10-32) (Opinion) **Charlie Kirk** (via quoted tweet): ["Charlie Kirk wrote that asking questions and quoting Bible verses abou..."](/statements/statement-269bb21cf7df.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:10:32](/episodes/ep-amqTMimDr0A.md#t-00-10-32) (Opinion) **Charlie Kirk** (via read message): ["Charlie Kirk told Candace Owens not to resign because that was what he..."](/statements/statement-dc42ff5e6a62.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:11:03](/episodes/ep-amqTMimDr0A.md#t-00-10-32) (Accusation) **Charlie Kirk** (via read message): ["Charlie Kirk wrote that Jeremy Boreing had '100% workshopped' the atta..."](/statements/statement-eaf99d787e8d.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47) (Claim) **Candace Owens**: ["Owens said one specific reason The Daily Wire gave for firing her was ..."](/statements/statement-d4285bd3b97c.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Michael Jackson](/entities/person-michael-jackson.md), [Hollywood](/entities/gpe-hollywood.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>

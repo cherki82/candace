@@ -11,11 +11,15 @@ object: "person-tyler-bowyer"
 
 ## [Turning Point Action](/entities/org-turning-point-action) has COO [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg)**
 
 - [00:20:19](/episodes/ep-cZxHqYsWRYg#t-00-20-19): _Later on, Lori (Lori Frantzve)'s going to start working with the Farnsworths, camera guy taking down the camera, and then she's going to strike up this partnership with Tyler Bowyer, this very shady COO of Turning Point Action who is going to introduce Erika (Erika Kirk) to Charlie Kirk._
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:25:17](/episodes/ep-ds6umq1rHAw#t-00-25-17): _He was the COO first of Turning Point USA, then became the COO of Turning Point Action._
 
 ### Related
 

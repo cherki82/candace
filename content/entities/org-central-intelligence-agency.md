@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 167 mentions"
+description: "Central Intelligence Agency (Organizations) - 169 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>61</strong></div>
-<div><span>Mentions</span><strong>167</strong></div>
+<div><span>Episodes</span><strong>63</strong></div>
+<div><span>Mentions</span><strong>169</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>57</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>58</strong></div>
+<div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -96,6 +96,8 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-central-intelligence-agency-t-00-35-38" style="--pulse-height:12%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-central-intelligence-agency-t-00-39-23" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-central-intelligence-agency-t-01-14-01" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-central-intelligence-agency-t-00-20-31" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#t-00-58-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -162,6 +164,8 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-central-intelligence-agency-t-00-35-38) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-central-intelligence-agency-t-00-39-23) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-central-intelligence-agency-t-01-14-01) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-central-intelligence-agency-t-00-20-31) | 1 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#t-00-58-19) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25) | 1 |
 
 </details>
@@ -170,13 +174,29 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (167)</strong></summary>
+<summary><strong class="section-title">Raw mentions (169)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25)**
 > "...ntire term was created by the CIA to gaslight people after the assassination of JFK..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:58:19](/episodes/ep-amqTMimDr0A.md#t-00-58-19)**
+> "ex-CIA"
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:20:40](/episodes/ep-ds6umq1rHAw.md#ent-org-central-intelligence-agency-t-00-20-31)**
+> "Of course, when he died, the trustee of the board became Frank William Gay, his trusted Mormon, who, it would be discovered later, was at one point working with the CIA."
 
 </details>
 
@@ -1050,7 +1070,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Formerly Employed (3)</summary>
+<summary>Formerly Employed (4)</summary>
 
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1067,9 +1087,17 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 - **[Larry C. Johnson](/entities/person-larry-c-johnson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:57:52](/episodes/ep-9CuC1yf8-PU.md#t-00-57-39): “Larry Johnson is ex-CIA”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:58:19](/episodes/ep-amqTMimDr0A.md#t-00-58-19): “We also need a pod with Larry Johnson. You would love Larry. He's a funny grandpa who's ex-CIA and doesn't trust the Fed slop CK narrative.”
+
+</details>
+
+- **[Frank William Gay](/entities/person-frank-william-gay.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:20:40](/episodes/ep-ds6umq1rHAw.md#t-00-20-31): “the trustee of the board became Frank William Gay, his trusted Mormon, who, it would be discovered later, was at one point working with the CIA.”
 
 </details>
 
@@ -1088,7 +1116,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1126,9 +1154,17 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 - **[Larry C. Johnson](/entities/person-larry-c-johnson.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:57:52](/episodes/ep-9CuC1yf8-PU.md#t-00-57-39): “Larry Johnson is ex-CIA”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:58:19](/episodes/ep-amqTMimDr0A.md#t-00-58-19): “We also need a pod with Larry Johnson. You would love Larry. He's a funny grandpa who's ex-CIA and doesn't trust the Fed slop CK narrative.”
+
+</details>
+
+- **[Frank William Gay](/entities/person-frank-william-gay.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:20:40](/episodes/ep-ds6umq1rHAw.md#t-00-20-31): “the trustee of the board became Frank William Gay, his trusted Mormon, who, it would be discovered later, was at one point working with the CIA.”
 
 </details>
 
@@ -1158,7 +1194,15 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (57)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (58)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:20:40](/episodes/ep-ds6umq1rHAw.md#t-00-20-31) (Claim) **Candace Owens**: ["Owens said Frank William Gay became a Howard Hughes Medical Institute ..."](/statements/statement-6bff5f1d2822.md)
+  - Also about: [Frank William Gay](/entities/person-frank-william-gay.md), [Howard Hughes Medical Institute](/entities/org-howard-hughes-medical-institute.md), [Howard Hughes](/entities/person-howard-hughes.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>

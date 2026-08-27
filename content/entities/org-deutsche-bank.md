@@ -1,6 +1,6 @@
 ---
 title: "Deutsche Bank"
-description: "Deutsche Bank (Organizations) - 1 mention"
+description: "Deutsche Bank (Organizations) - 2 mentions"
 id: "org-deutsche-bank"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About Deutsche Bank](https://www.db.com/who-we-are/index?language_id=1)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-deutsche-bank-t-00-56-23">2026-07-14 · 00:56:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-deutsche-bank-t-00-56-23">2026-07-14 · 00:56:23</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-deutsche-bank-t-00-30-10">2026-07-22 · 00:30:39</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [About Deutsche Bank](https://www.db.com/who-we-are/index?language_id=1)
 <p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-deutsche-bank-t-00-56-23">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-deutsche-bank-t-00-56-23" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-deutsche-bank-t-00-30-10" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-deutsche-bank-t-00-56-23) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-deutsche-bank-t-00-30-10) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [About Deutsche Bank](https://www.db.com/who-we-are/index?language_id=1)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:30:39](/episodes/ep-ds6umq1rHAw.md#ent-org-deutsche-bank-t-00-30-10)**
+> "Deutsche Bank recently projected that gold could double in value by 2031. At the same time, the dollar continues to lose purchasing power."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>

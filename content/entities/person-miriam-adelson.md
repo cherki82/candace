@@ -1,6 +1,6 @@
 ---
 title: "Miriam Adelson"
-description: "Miriam Adelson (People) - 25 mentions"
+description: "Miriam Adelson (People) - 27 mentions"
 id: "person-miriam-adelson"
 type: "PERSON"
 categories:
@@ -19,12 +19,12 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05">2025-10-28 · 01:06:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-27-22">2026-06-22 · 00:27:22</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07">2026-07-22 · 00:21:32</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-miriam-adelson-t-00-43-51" style="--pulse-height:67%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-miriam-adelson-t-00-15-03" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07" style="--pulse-height:67%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-miriam-adelson-t-00-43-51) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-miriam-adelson-t-00-15-03) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49) | 2 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07) | 2 |
 
 </details>
 </section>
@@ -68,7 +70,18 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
+
+**[00:21:20](/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07)**
+> "We can update you today to who owns all this stuff. Today, his Las Vegas Sands Resort, obviously, and casino is controlled and operated by Miriam Adelson, it was Sheldon Adelson."
+
+**[00:21:32](/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07)**
+> "...se he passed away recently so Miriam Adelson controls that. Steve Wynn controls the Frontier H..."
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
@@ -259,6 +272,18 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details>
+<summary>Operates (1)</summary>
+
+- **[Las Vegas Sands Corp.](/entities/org-las-vegas-sands.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:21:20](/episodes/ep-ds6umq1rHAw.md#t-00-21-07): “Today, his Las Vegas Sands Resort, obviously, and casino is controlled and operated by Miriam Adelson, it was Sheldon Adelson.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Widow Of (1)</summary>
 
 - **[Sheldon Adelson](/entities/person-sheldon-adelson.md)**
@@ -271,7 +296,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Sheldon Adelson](/entities/person-sheldon-adelson.md)** deceased husband of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -310,6 +335,13 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:30:14](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “So I knew that that money went through and I knew what she wanted in exchange for $100 million. ... After she said this to Trump”
+
+</details>
+
+- **[Las Vegas Sands Corp.](/entities/org-las-vegas-sands.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:21:20](/episodes/ep-ds6umq1rHAw.md#t-00-21-07): “Today, his Las Vegas Sands Resort, obviously, and casino is controlled and operated by Miriam Adelson, it was Sheldon Adelson.”
 
 </details>
 

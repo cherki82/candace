@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > The October 7 Hamas-led attack on Israel occurred.
 
-## Mentioned In (17 times)
+## Mentioned In (18 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -148,3 +148,11 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2008);return false;">▶️ Play</a>
 
 > a fake incident called October 7th in which we are the masters of it.
+
+### 18. EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messag...
+
+**Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
+**Timestamp:** [00:09:25](/episodes/ep-amqTMimDr0A.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-08-51) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(565);return false;">▶️ Play</a>
+
+> this was post-October 7th, of course, where the thugs just started thugging a bit harder

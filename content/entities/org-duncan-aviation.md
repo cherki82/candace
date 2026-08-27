@@ -1,6 +1,6 @@
 ---
 title: "Duncan Aviation"
-description: "Duncan Aviation (Organizations) - 14 mentions"
+description: "Duncan Aviation (Organizations) - 17 mentions"
 id: "org-duncan-aviation"
 type: "ORG"
 categories:
@@ -17,12 +17,12 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-duncan-aviation-t-00-18-55">2025-11-17 · 00:19:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-35-29">2026-03-23 · 00:35:38</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-duncan-aviation-t-00-16-54">2026-07-22 · 00:17:19</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,6 +35,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44" style="--pulse-height:50%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-34-53" style="--pulse-height:75%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-duncan-aviation-t-00-16-54" style="--pulse-height:75%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-duncan-aviation-t-00-13-44) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-duncan-aviation-t-00-38-59) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-duncan-aviation-t-00-34-53) | 3 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-duncan-aviation-t-00-16-54) | 3 |
 
 </details>
 </section>
@@ -52,7 +54,21 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (3 mentions)</summary>
+
+**[00:17:02](/episodes/ep-ds6umq1rHAw.md#ent-org-duncan-aviation-t-00-16-54)**
+> "He was the founder of Robert Graff, Inc., which became Duncan Aviation. His business partner was Donald Duncan."
+
+**[00:17:10](/episodes/ep-ds6umq1rHAw.md#ent-org-duncan-aviation-t-00-16-54)**
+> "Yes, that Duncan Aviation with the mysterious transponding Egyptian planes ..."
+
+**[00:17:19](/episodes/ep-ds6umq1rHAw.md#ent-org-duncan-aviation-t-00-16-54)**
+> "... Graff's company. renamed the Duncan Aviation in the 60s. Yeah, that Duncan Aviation that had t..."
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 (3 mentions)</summary>
@@ -127,6 +143,18 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Founded By (1)</summary>
+
+- **[Robert Graf](/entities/person-robert-graf.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:16:54](/episodes/ep-ds6umq1rHAw.md#t-00-16-54): “what I do know about Robert Graff, who owned this jet, is very interesting. He was the founder of Robert Graff, Inc., which became Duncan Aviation.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Coo (1)</summary>
 
 - **[Tom Burt](/entities/person-tom-burt.md)**
@@ -139,7 +167,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Tom Burt](/entities/person-tom-burt.md)** COO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -148,12 +176,27 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 
 </details>
 
+- **[Robert Graf](/entities/person-robert-graf.md)** founded this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:16:54](/episodes/ep-ds6umq1rHAw.md#t-00-16-54): “what I do know about Robert Graff, who owned this jet, is very interesting. He was the founder of Robert Graff, Inc., which became Duncan Aviation.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Duncan Aviation (7)</strong></summary>
+<summary><strong class="section-title">Statements about Duncan Aviation (8)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
+
+- [00:16:38](/episodes/ep-ds6umq1rHAw.md#t-00-16-15) (Claim) **Candace Owens**: ["Owens said Howard Hughes died aboard a jet owned by Robert Graf, whose..."](/statements/statement-3b3e9a3bd01a.md)
+  - Also about: [Howard Hughes](/entities/person-howard-hughes.md), [Robert Graf](/entities/person-robert-graf.md)
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>

@@ -12,7 +12,7 @@ time: "15:54"
 
 > Candace Owens said Charlie Kirk sent a text saying he was abandoning the pro-Israel cause.
 
-## Mentioned In (6 times)
+## Mentioned In (7 times)
 
 ### 1. BAAL SO HARD: The Epstein Files | Candace Ep 300
 
@@ -61,3 +61,11 @@ time: "15:54"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2477);return false;">▶️ Play</a>
 
 > It wasn't a joke when he texted the night before that he was done with Israel.
+
+### 7. EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messag...
+
+**Episode:** [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md)
+**Timestamp:** [00:15:50](/episodes/ep-amqTMimDr0A.md#t-00-15-44) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(950);return false;">▶️ Play</a>
+
+> Charlie snapped. He did abandon the pro-Israel cause.

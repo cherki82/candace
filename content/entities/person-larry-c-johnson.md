@@ -1,6 +1,6 @@
 ---
 title: "Larry C. Johnson"
-description: "Larry C. Johnson (People) - 1 mention"
+description: "Larry C. Johnson (People) - 2 mentions"
 id: "person-larry-c-johnson"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Interviews - Larry C. Johnson | Hunting Bin Laden | FRONTLINE | PBS](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-larry-c-johnson-t-00-57-39">2026-06-23 · 00:57:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-larry-c-johnson-t-00-57-39">2026-06-23 · 00:57:52</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-larry-c-johnson-t-00-58-19">2026-07-23 · 00:58:19</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -36,12 +36,14 @@ Source: [Interviews - Larry C. Johnson | Hunting Bin Laden | FRONTLINE | PBS](ht
 <p>Highest activity: <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-larry-c-johnson-t-00-57-39">Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-larry-c-johnson-t-00-57-39" style="--pulse-height:100%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-larry-c-johnson-t-00-58-19" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-larry-c-johnson-t-00-57-39) | 1 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-larry-c-johnson-t-00-58-19) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Interviews - Larry C. Johnson | Hunting Bin Laden | FRONTLINE | PBS](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
+
+**[00:58:19](/episodes/ep-amqTMimDr0A.md#ent-person-larry-c-johnson-t-00-58-19)**
+> "...ling. We also need a pod with Larry Johnson. You would love Larry. He's a funny grandpa who's..."
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
@@ -80,9 +90,10 @@ Source: [Interviews - Larry C. Johnson | Hunting Bin Laden | FRONTLINE | PBS](ht
 <summary>Formerly Worked For (1)</summary>
 
 - **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:57:52](/episodes/ep-9CuC1yf8-PU.md#t-00-57-39): “Larry Johnson is ex-CIA”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:58:19](/episodes/ep-amqTMimDr0A.md#t-00-58-19): “We also need a pod with Larry Johnson. You would love Larry. He's a funny grandpa who's ex-CIA and doesn't trust the Fed slop CK narrative.”
 
 </details>
 
@@ -99,9 +110,10 @@ Source: [Interviews - Larry C. Johnson | Hunting Bin Laden | FRONTLINE | PBS](ht
 </details>
 
 - **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:57:52](/episodes/ep-9CuC1yf8-PU.md#t-00-57-39): “Larry Johnson is ex-CIA”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:58:19](/episodes/ep-amqTMimDr0A.md#t-00-58-19): “We also need a pod with Larry Johnson. You would love Larry. He's a funny grandpa who's ex-CIA and doesn't trust the Fed slop CK narrative.”
 
 </details>
 

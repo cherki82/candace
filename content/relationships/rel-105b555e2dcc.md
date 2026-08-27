@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Tyler Bowyer](/entities/person-tyler-bowyer) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
 - [00:25:42](/episodes/ep-H9p2ZGHAs9A#t-00-25-42): _Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right._
+
+**[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
+
+- [00:27:18](/episodes/ep-ds6umq1rHAw#t-00-27-18): _the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm._
 
 **[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
 

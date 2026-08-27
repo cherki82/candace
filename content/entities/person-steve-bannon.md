@@ -1,6 +1,6 @@
 ---
 title: "Steve Bannon"
-description: "Steve Bannon (People) - 16 mentions"
+description: "Steve Bannon (People) - 19 mentions"
 id: "person-steve-bannon"
 type: "PERSON"
 aliases:
@@ -23,12 +23,12 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-25-55">2025-12-08 · 00:25:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-49-55">2026-05-21 · 00:49:55</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-steve-bannon-t-00-07-15">2026-07-23 · 00:07:15</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-steve-bannon-t-00-46-00" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-bannon-t-00-31-36" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-36-03" style="--pulse-height:71%" aria-label="Candace x Hunter Biden: The Interview: 5 mentions" title="2026-05-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-steve-bannon-t-00-05-04" style="--pulse-height:43%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-steve-bannon-t-00-46-00) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-steve-bannon-t-00-31-36) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-steve-bannon-t-00-36-03) | 5 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-steve-bannon-t-00-05-04) | 3 |
 
 </details>
 </section>
@@ -58,7 +60,21 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
+
+**[00:05:37](/episodes/ep-amqTMimDr0A.md#ent-person-steve-bannon-t-00-05-04)**
+> "And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, B..."
+
+**[00:06:02](/episodes/ep-amqTMimDr0A.md#ent-person-steve-bannon-t-00-05-48)**
+> "So take a listen to what Steve Bannon said at AmFest last December about Ben (Ben Shapi..."
+
+**[00:07:15](/episodes/ep-amqTMimDr0A.md#ent-person-steve-bannon-t-00-07-15)**
+> "...) got envious of exactly what Bannon is referring to, it switched, and he began doing ..."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (5 mentions)</summary>
@@ -139,6 +155,18 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused (1)</summary>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:16](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “He tried to take over Breitbart and I ran him out of there.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Accused By (1)</summary>
 
 - **[Hunter Biden](/entities/person-hunter-biden.md)**
@@ -190,9 +218,10 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <summary>Criticized (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-18-02): “But Ben Shapiro is like a cancer,”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads.”
 
 </details>
 
@@ -211,6 +240,30 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details>
+<summary>Former Chairman Of (1)</summary>
+
+- **[Breitbart News](/entities/org-breitbart-news.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Spoke At (1)</summary>
+
+- **[AmericaFest 2025](/entities/event-americafest-2025.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:02](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “So take a listen to what Steve Bannon said at AmFest last December about Ben (Ben Shapiro).”
+
+</details>
+
+</details>
+
+<details>
 <summary>Warned (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
@@ -223,12 +276,19 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Hunter Biden](/entities/person-hunter-biden.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Hunter Biden: The Interview @ 00:49:55](/episodes/ep-Ux1kzgQxkws.md#t-00-49-21): “If I could just get Steve Bannon to tell the truth”
+
+</details>
+
+- **[Ben Shapiro](/entities/person-ben-shapiro.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:16](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “He tried to take over Breitbart and I ran him out of there.”
 
 </details>
 
@@ -254,9 +314,10 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-18-02): “But Ben Shapiro is like a cancer,”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads.”
 
 </details>
 
@@ -264,6 +325,20 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-24-51): “Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy.”
+
+</details>
+
+- **[Breitbart News](/entities/org-breitbart-news.md)** has former chairman this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
+
+</details>
+
+- **[AmericaFest 2025](/entities/event-americafest-2025.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:02](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “So take a listen to what Steve Bannon said at AmFest last December about Ben (Ben Shapiro).”
 
 </details>
 
@@ -279,7 +354,24 @@ Source: [27-Year-Old Breitbart Protégé Elevated to Editor-in-Chief of Breitbar
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Steve Bannon (5)</strong></summary>
+<summary><strong class="section-title">Statements by Steve Bannon (9)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (4)</summary>
+
+- [00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07) [○] (Opinion) ["Steve Bannon compared Ben Shapiro to a cancer that spreads and metastasizes"](/statements/statement-9e62239976f8.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:06:16](/episodes/ep-amqTMimDr0A.md#t-00-06-07) [○] (Accusation) ["Steve Bannon said Ben Shapiro tried to take over Breitbart and that Bannon ran h..."](/statements/statement-114ba51be25b.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:06:22](/episodes/ep-amqTMimDr0A.md#t-00-06-07) [○] (Accusation) ["Steve Bannon said Ben Shapiro tried to take over an organization associated with..."](/statements/statement-035c8fbce539.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [David Horowitz](/entities/person-david-horowitz.md)
+
+- [00:06:30](/episodes/ep-amqTMimDr0A.md#t-00-06-07) [○] (Prediction) ["Steve Bannon predicted that Ben Shapiro would make a move on Turning Point USA b..."](/statements/statement-4a56fc2eb96b.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Tony F. Graf Jr."
-description: "Tony F. Graf Jr. (People) - 3 mentions"
+description: "Tony F. Graf Jr. (People) - 4 mentions"
 id: "person-tony-f-graf-jr"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-06-18">2025-10-01 · 00:06:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#t-00-25-38">2026-06-23 · 00:25:56</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#t-00-16-15">2026-07-22 · 00:16:46</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -38,6 +38,7 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-06-18" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#t-00-25-38" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#t-00-16-15" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 |---|---|---:|
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-tony-f-graf-jr-t-00-06-18) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-25-38) | 1 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#t-00-16-15) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [Judge Tony F. Graf, Jr.](https://www.utcourts.gov/en/courts/other-court
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:16:46](/episodes/ep-ds6umq1rHAw.md#t-00-16-15)**
+> "Now, that surname may have you wondering because of recent news, is that like the newly appointed Judge Tony Graff in the Tyler Robinson case?"
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>

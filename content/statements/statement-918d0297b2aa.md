@@ -1,6 +1,6 @@
 ---
-title: "Blaine Holt rejected the .30-06 spine-impact explanation and..."
-description: "\"Blaine Holt rejected the .30-06 spine-impact explanation and said something exploded on Charlie Kirk.\" — Blaine D. Holt"
+title: "Blaine Holt rejected the claim that the bullet might have hi..."
+description: "\"Blaine Holt rejected the claim that the bullet might have hit Charlie Kirk's spine and said something exploded on Charlie Kirk.\" — Blaine D. Holt"
 statement_id: "statement-918d0297b2aa"
 speaker: "Blaine D. Holt"
 type: "opinion"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Blaine Holt rejected the .30-06 spine-impact explanation and said something exploded on Charlie Kirk.
+> Blaine Holt rejected the claim that the bullet might have hit Charlie Kirk's spine and said something exploded on Charlie Kirk.
 
 ## Attribution
 

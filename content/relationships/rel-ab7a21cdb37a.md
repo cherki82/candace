@@ -11,7 +11,11 @@ object: "person-ben-shapiro"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Ben Shapiro](/entities/person-ben-shapiro)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
+
+- [00:05:48](/episodes/ep-amqTMimDr0A#t-00-05-48): _Ben (Ben Shapiro) attempted to take over Andrew (Andrew Breitbart)'s company. And when that failed, he plotted to take down the company because why can't he have it?_
 
 **[WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4)**
 

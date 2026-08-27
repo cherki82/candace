@@ -1,6 +1,6 @@
 ---
 title: "Jon Kyl"
-description: "Jon Kyl (People) - 2 mentions"
+description: "Jon Kyl (People) - 3 mentions"
 id: "person-jon-kyl"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Federal Strategies to End Border Violence | U.S. Senate](https://www.go
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-jon-kyl-t-00-35-28">2026-02-28 · 00:35:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jon-kyl-t-00-13-20">2026-03-03 · 00:13:20</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -51,7 +51,7 @@ Source: [Federal Strategies to End Border Violence | U.S. Senate](https://www.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>

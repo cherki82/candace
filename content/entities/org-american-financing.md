@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 438 mentions"
+description: "American Financing (Organizations) - 446 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-american-financing-t-00-56-52">2026-07-21 · 00:56:52</a></strong></div>
-<div><span>Episodes</span><strong>105</strong></div>
-<div><span>Mentions</span><strong>438</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-55">2026-07-23 · 00:49:23</a></strong></div>
+<div><span>Episodes</span><strong>107</strong></div>
+<div><span>Mentions</span><strong>446</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -141,6 +141,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-american-financing-t-00-43-53" style="--pulse-height:50%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-american-financing-t-00-43-32" style="--pulse-height:38%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-american-financing-t-00-55-33" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 4 mentions" title="2026-07-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-american-financing-t-00-49-08" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-11" style="--pulse-height:50%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 4 mentions" title="2026-07-23 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -251,6 +253,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-american-financing-t-00-43-53) | 4 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-american-financing-t-00-43-32) | 3 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-american-financing-t-00-55-33) | 4 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-american-financing-t-00-49-08) | 4 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-11) | 4 |
 
 </details>
 </section>
@@ -258,7 +262,41 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (438)</strong></summary>
+<summary><strong class="section-title">Raw mentions (446)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (4 mentions)</summary>
+
+**[00:48:31](/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-11)**
+> "...want to remind you guys about American financing because high prices are here to stay. And if you'..."
+
+**[00:49:03](/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-55)**
+> "That's why people are calling American Financing because they are saving customers an average of $..."
+
+**[00:49:17](/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-55)**
+> "...wo mortgage payments. So call American Financing at 800-795-1210."
+
+**[00:49:23](/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-55)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4 mentions)</summary>
+
+**[00:49:35](/episodes/ep-ds6umq1rHAw.md#ent-org-american-financing-t-00-49-08)**
+> "I also want to remind you guys about American financing because high prices are here to stay. And if you're a homeowner, you probably thought, should I call American financing to refinance and pay off his credit card debt?"
+
+**[00:49:57](/episodes/ep-ds6umq1rHAw.md#ent-org-american-financing-t-00-49-53)**
+> "...That's why people are calling American Financing because they are saving customers an average of $..."
+
+**[00:50:15](/episodes/ep-ds6umq1rHAw.md#ent-org-american-financing-t-00-49-53)**
+> "...wo mortgage payments. So call American Financing at 800-795-1210. Again, that's 800-795-1210."
+
+**[00:50:25](/episodes/ep-ds6umq1rHAw.md#ent-org-american-financing-t-00-50-25)**
+> "Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (4 mentions)</summary>
@@ -2096,7 +2134,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -2123,6 +2161,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:20](/episodes/ep-puuMVxEu5NU.md#t-00-41-50): “I'm also going to remind you guys about American Financing because it is no secret that everything is starting to feel a lot more expensive.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:56:30](/episodes/ep-OgRyiOAVtWU.md#t-00-56-14): “That's why people are calling American financing because they are saving customers an average of $800 a month by using their equity to finally break free from credit card debt.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:49:57](/episodes/ep-ds6umq1rHAw.md#t-00-49-53): “That's why people are calling American Financing”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:48:31](/episodes/ep-amqTMimDr0A.md#t-00-48-11): “And of course, I want to remind you guys about American financing because high prices are here to stay.”
 
 </details>
 
@@ -2146,7 +2186,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -2173,6 +2213,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:42:20](/episodes/ep-puuMVxEu5NU.md#t-00-41-50): “I'm also going to remind you guys about American Financing because it is no secret that everything is starting to feel a lot more expensive.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:43:32](/episodes/ep-N4uM8Jdr410.md#t-00-43-32): “But American Financing offers a smart equity loan so that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:56:30](/episodes/ep-OgRyiOAVtWU.md#t-00-56-14): “That's why people are calling American financing because they are saving customers an average of $800 a month by using their equity to finally break free from credit card debt.”
+- [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:49:57](/episodes/ep-ds6umq1rHAw.md#t-00-49-53): “That's why people are calling American Financing”
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:48:31](/episodes/ep-amqTMimDr0A.md#t-00-48-11): “And of course, I want to remind you guys about American financing because high prices are here to stay.”
 
 </details>
 

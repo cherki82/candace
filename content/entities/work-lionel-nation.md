@@ -1,6 +1,6 @@
 ---
 title: "Lionel Nation"
-description: "Lionel Nation (Works & Media) - 8 mentions"
+description: "Lionel Nation (Works & Media) - 9 mentions"
 id: "work-lionel-nation"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [Lionel Nation - Apple Podcasts](https://podcasts.apple.com/us/podcast/l
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-work-lionel-nation-t-00-50-46">2026-04-01 · 00:50:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-work-lionel-nation-t-01-06-44">2026-06-26 · 01:06:54</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-work-lionel-nation-t-00-56-09">2026-07-22 · 00:56:32</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Lionel Nation - Apple Podcasts](https://podcasts.apple.com/us/podcast/l
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-work-lionel-nation-t-01-09-30" style="--pulse-height:25%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-work-lionel-nation-t-00-51-15" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-work-lionel-nation-t-00-56-26" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-work-lionel-nation-t-00-56-09" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Lionel Nation - Apple Podcasts](https://podcasts.apple.com/us/podcast/l
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-work-lionel-nation-t-01-09-30) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-work-lionel-nation-t-00-51-15) | 4 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-work-lionel-nation-t-00-56-26) | 2 |
+| 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-work-lionel-nation-t-00-56-09) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Lionel Nation - Apple Podcasts](https://podcasts.apple.com/us/podcast/l
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
+
+**[00:56:32](/episodes/ep-ds6umq1rHAw.md#ent-work-lionel-nation-t-00-56-09)**
+> "He can see it. I have to think that Charlie (Charlie Kirk) can see it and he's seeing the Baron Coleman's and last night I was jumping in the chat of Lionel Nation."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
