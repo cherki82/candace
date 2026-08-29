@@ -5,11 +5,19 @@ id: "org-advocates-faith-freedom"
 type: "ORG"
 aliases:
   - "Advocates for Faith and Freedom"
+categories:
+  - "religious liberty legal nonprofit"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Advocates for Faith and Freedom
+
+**Categories:** religious liberty legal nonprofit
+
+**Entity verification:** verified
+> The organization's official site confirms Advocates for Faith & Freedom as a nonprofit religious-liberty law firm.
+Source: [Our Team | Advocates for Faith & Freedom](https://faith-freedom.com/our-team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-advocates-faith-freedom-t-01-10-12">2026-01-09 · 01:10:14</a></strong></div>
@@ -61,7 +69,7 @@ _Type: Organizations_
 - **[Hyun-bo Son](/entities/person-hyun-bo-son.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:06](/episodes/ep-wcD2khO3rOA.md#t-01-09-47): “the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son’s case.”
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:14](/episodes/ep-wcD2khO3rOA.md#t-01-10-12): “the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son's case.”
 
 </details>
 
@@ -73,7 +81,7 @@ _Type: Organizations_
 - **[Hyun-bo Son](/entities/person-hyun-bo-son.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:06](/episodes/ep-wcD2khO3rOA.md#t-01-09-47): “the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son’s case.”
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:14](/episodes/ep-wcD2khO3rOA.md#t-01-10-12): “the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son's case.”
 
 </details>
 

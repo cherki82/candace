@@ -2,7 +2,7 @@
 title: "Relationships"
 ---
 
-_Total relationships: 4342_
+_Total relationships: 4419_
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
@@ -28,7 +28,7 @@ _Total relationships: 4342_
 This page shows all extracted relationships between entities. Click any relationship to see the evidence.
 
 <details>
-<summary>Criticized (251)</summary>
+<summary>Criticized (255)</summary>
 
 - [Adam Sosnick](/entities/person-adam-sosnick) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-e3d2b3a2f416) (1)
 - [Alan Dershowitz](/entities/person-alan-dershowitz) → [Joe Kent](/entities/person-joe-kent) [↗](/relationships/rel-84c743f26a3f) (1)
@@ -48,11 +48,12 @@ This page shows all extracted relationships between entities. Click any relation
 - [Anti-Defamation League](/entities/org-anti-defamation-league) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-76d06bdb95ad) (1)
 - [Anti-Defamation League](/entities/org-anti-defamation-league) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-31af99a74e27) (1)
 - [Baron Coleman](/entities/person-baron-coleman) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-d21e71d92489) (2)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-65b7e6a56483) (4)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-d702d8cabd54) (2)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-65b7e6a56483) (5)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-d702d8cabd54) (3)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Nick Fuentes](/entities/person-nick-fuentes) [↗](/relationships/rel-2231f7687774) (1)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Ron Paul](/entities/person-ron-paul) [↗](/relationships/rel-764356c81dcc) (1)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-4592be808ae9) (4)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-4592be808ae9) (5)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Steve Bannon](/entities/person-steve-bannon) [↗](/relationships/rel-5040b9f1c62c) (1)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [JD Vance](/entities/person-jd-vance) [↗](/relationships/rel-cb8471e78145) (1)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Piers Morgan](/entities/person-piers-morgan) [↗](/relationships/rel-b095c7c552dd) (1)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Theo Von](/entities/person-theo-von) [↗](/relationships/rel-dc6bdbdb619e) (2)
@@ -82,8 +83,8 @@ This page shows all extracted relationships between entities. Click any relation
 - [Candace Owens](/entities/person-candace-owens) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-02c000971636) (3)
 - [Candace Owens](/entities/person-candace-owens) → [Josh Hammer](/entities/person-josh-hammer) [↗](/relationships/rel-02fdc8eb9c09) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Bari Weiss](/entities/person-bari-weiss) [↗](/relationships/rel-0f1d93d47432) (4)
-- [Candace Owens](/entities/person-candace-owens) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-b82e9472aa64) (14)
-- [Candace Owens](/entities/person-candace-owens) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-8e812d4ef556) (7)
+- [Candace Owens](/entities/person-candace-owens) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-b82e9472aa64) (15)
+- [Candace Owens](/entities/person-candace-owens) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-8e812d4ef556) (8)
 - [Candace Owens](/entities/person-candace-owens) → [Brooklyn Beckham](/entities/person-brooklyn-beckham) [↗](/relationships/rel-1b0ea0ef9857) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Nicola Peltz](/entities/person-nicola-peltz) [↗](/relationships/rel-b592aa43b5f3) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Blake Lively](/entities/person-blake-lively) [↗](/relationships/rel-771c3ed828db) (3)
@@ -176,12 +177,14 @@ This page shows all extracted relationships between entities. Click any relation
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-818fb81364a0) (1)
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk](/entities/work-permission-to-kill-ncri-report) [↗](/relationships/rel-334cb3ea0be2) (1)
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Alex Jones](/entities/person-alex-jones) [↗](/relationships/rel-7767413650dd) (1)
+- [Corey Lewandowski](/entities/person-corey-lewandowski) → [Michelle Fields](/entities/person-michelle-fields) [↗](/relationships/rel-3d8ff8d45906) (1)
 - [Daily Mail](/entities/org-daily-mail) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-41c54ab50217) (2)
 - [Dan Bongino](/entities/person-dan-bongino) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-2d0219590a9e) (1)
 - [Dan Illouz](/entities/person-dan-illouz) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-cf6fc43db919) (1)
 - [Dan Illouz](/entities/person-dan-illouz) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-af8b877e8350) (1)
 - [Dave Chappelle](/entities/person-dave-chappelle) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-cb61251537fb) (1)
 - [Dave Rubin](/entities/person-dave-rubin) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-8ff9cad1073e) (2)
+- [Dennis Prager](/entities/person-dennis-prager) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-5e6cc4f13c0e) (1)
 - [Donald J. Trump](/entities/person-donald-trump) → [Joe Kent](/entities/person-joe-kent) [↗](/relationships/rel-d9360613446f) (2)
 - [Donald J. Trump](/entities/person-donald-trump) → [Barack Obama](/entities/person-barack-obama) [↗](/relationships/rel-64dd52199609) (1)
 - [Donald J. Trump](/entities/person-donald-trump) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-5d9ca189c1c1) (4)
@@ -194,6 +197,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Donald J. Trump](/entities/person-donald-trump) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-641c98bec5c0) (1)
 - [Donald J. Trump](/entities/person-donald-trump) → [CNN](/entities/org-cnn) [↗](/relationships/rel-f6b785cd6874) (1)
 - [Donald J. Trump](/entities/person-donald-trump) → [The New York Times](/entities/org-the-new-york-times) [↗](/relationships/rel-cb209be8019b) (1)
+- [Donald J. Trump](/entities/person-donald-trump) → [Michelle Fields](/entities/person-michelle-fields) [↗](/relationships/rel-4f7360b6c25d) (1)
 - [Drew Desbordes](/entities/person-drew-desbordes) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-85cd8eb84a25) (1)
 - [Druski](/entities/person-druski) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-bb904c8b5494) (1)
 - [Eitan Fischberger](/entities/person-eitan-fischberger) → [Joe Rogan](/entities/person-joe-rogan) [↗](/relationships/rel-a8c2adb80435) (1)
@@ -261,7 +265,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Seth Dillon](/entities/person-seth-dillon) → [Alex Jones](/entities/person-alex-jones) [↗](/relationships/rel-00beb39e183c) (1)
 - [Shawn Ryan](/entities/person-shawn-ryan) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-698831b4ec53) (1)
 - [South Park](/entities/work-south-park) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-51ea64c7d12d) (1)
-- [Steve Bannon](/entities/person-steve-bannon) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-6f201c13de98) (1)
+- [Steve Bannon](/entities/person-steve-bannon) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-6f201c13de98) (2)
 - [Steven Crowder](/entities/person-steven-crowder) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-bd1114f25ab4) (1)
 - [Taylor Budowich](/entities/person-taylor-budowich) → [Joe Kent](/entities/person-joe-kent) [↗](/relationships/rel-95fa4df6be82) (1)
 - [Taylor Swift](/entities/person-taylor-swift) → [Justin Baldoni](/entities/person-justin-baldoni) [↗](/relationships/rel-ef842497cc34) (1)
@@ -285,7 +289,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Criticized By (251)</summary>
+<summary>Criticized By (255)</summary>
 
 - [Alex Clark](/entities/person-alex-clark) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-9297c285ad88) (3)
 - [Alex Jones](/entities/person-alex-jones) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-7e959a5b23db) (1)
@@ -302,8 +306,8 @@ This page shows all extracted relationships between entities. Click any relation
 - [Arizona Senate Bill 1439 (2026)](/entities/law-arizona-sb-1439-2026) → [Katie Hobbs](/entities/person-katie-hobbs) [↗](/relationships/rel-d68723a319f9) (1)
 - [Barack Obama](/entities/person-barack-obama) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-61e2f5f8f37a) (1)
 - [Bari Weiss](/entities/person-bari-weiss) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-5f4a1a778dd5) (3)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-36a7a00001ea) (14)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [Steve Bannon](/entities/person-steve-bannon) [↗](/relationships/rel-80aa9173f210) (1)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-36a7a00001ea) (15)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Steve Bannon](/entities/person-steve-bannon) [↗](/relationships/rel-80aa9173f210) (2)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-bd99073abb09) (1)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-6fab25630f5e) (1)
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-6dc6284fb82e) (1)
@@ -333,7 +337,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Candace Owens](/entities/person-candace-owens) → [Adam Sosnick](/entities/person-adam-sosnick) [↗](/relationships/rel-b16cd19a7a6a) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Tim Pool](/entities/person-tim-pool) [↗](/relationships/rel-ac446f946969) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Dave Rubin](/entities/person-dave-rubin) [↗](/relationships/rel-1bfd4e9869f1) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-de2da3cf3bc3) (4)
+- [Candace Owens](/entities/person-candace-owens) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-de2da3cf3bc3) (5)
 - [Candace Owens](/entities/person-candace-owens) → [Jack Hibbs](/entities/person-jack-hibbs) [↗](/relationships/rel-0f91df5084c0) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Victoria Churchill](/entities/person-victoria-churchill) [↗](/relationships/rel-7d2ee365cbac) (1)
 - [Candace Owens](/entities/person-candace-owens) → [New York Post](/entities/org-new-york-post) [↗](/relationships/rel-61c3894ae207) (1)
@@ -361,6 +365,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Candace Owens](/entities/person-candace-owens) → [Brandy Zadrozny](/entities/person-brandy-zadrozny) [↗](/relationships/rel-209743315522) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-a752a3d02bca) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-6060bc37808b) (1)
+- [Candace Owens](/entities/person-candace-owens) → [Dennis Prager](/entities/person-dennis-prager) [↗](/relationships/rel-e5e27c76830c) (1)
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-ba38ccbefd93) (1)
 - [Charlie Kirk](/entities/person-charlie-kirk) → [American Jewish Committee](/entities/org-american-jewish-committee) [↗](/relationships/rel-d8a5dab4ed88) (1)
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Tyler Robinson](/entities/person-tyler-robinson) [↗](/relationships/rel-5be1e487c73f) (1)
@@ -468,9 +473,11 @@ This page shows all extracted relationships between entities. Click any relation
 - [Matt Walsh](/entities/person-matt-walsh) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-f9cba894c4bf) (1)
 - [Max Blumenthal](/entities/person-max-blumenthal) → [Laura Loomer](/entities/person-laura-loomer) [↗](/relationships/rel-e404e8aa4258) (1)
 - [Meghan McCain](/entities/person-meghan-mccain) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-65577c18dcaa) (3)
-- [Megyn Kelly](/entities/person-megyn-kelly) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-72eadc91e1f3) (4)
+- [Megyn Kelly](/entities/person-megyn-kelly) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-72eadc91e1f3) (5)
 - [Megyn Kelly](/entities/person-megyn-kelly) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-0d7347824a06) (4)
 - [Michael McCoy](/entities/person-michael-mccoy) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-9324a83b86b9) (2)
+- [Michelle Fields](/entities/person-michelle-fields) → [Corey Lewandowski](/entities/person-corey-lewandowski) [↗](/relationships/rel-2b137cbd6c83) (1)
+- [Michelle Fields](/entities/person-michelle-fields) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-81f895cedf63) (1)
 - [Mike Mitchell](/entities/person-mike-mitchell) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-a43d5406b4e6) (1)
 - [Mitch Snow](/entities/person-mitch-snow) → [Alex Jones](/entities/person-alex-jones) [↗](/relationships/rel-e3602d551c05) (1)
 - [Nate Brooksby](/entities/person-nate-brooksby) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-9256d5467406) (2)
@@ -500,6 +507,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Sigmund Freud](/entities/person-sigmund-freud) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-f2e5c5eada5e) (1)
 - [Spencer Cox](/entities/person-spencer-cox) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-9e47cd413dcd) (2)
 - [Stacey Sheridan](/entities/person-stacey-sheridan) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-a316181110e4) (1)
+- [Steve Bannon](/entities/person-steve-bannon) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-7740712e47dc) (1)
 - [Steven Crowder](/entities/person-steven-crowder) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-26b72bd91528) (3)
 - [Ted Cruz](/entities/person-ted-cruz) → [Brett Cooper](/entities/person-brett-cooper) [↗](/relationships/rel-4e946052ba1e) (1)
 - [Terrell Farnsworth](/entities/person-terrell-farnsworth) → [Nissy (YouTuber; identity unverified)](/entities/anon-src-4JxgOclKzqg-001) [↗](/relationships/rel-86cb1b35eaa3) (1)
@@ -513,7 +521,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-b81b67b85fc2) (1)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Josh Hammer](/entities/person-josh-hammer) [↗](/relationships/rel-fa0ea16c7ccd) (1)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Seth Dillon](/entities/person-seth-dillon) [↗](/relationships/rel-5ff8f28f8c04) (1)
-- [Tucker Carlson](/entities/person-tucker-carlson) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-ab3b527079e4) (2)
+- [Tucker Carlson](/entities/person-tucker-carlson) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-ab3b527079e4) (3)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Jack Hibbs](/entities/person-jack-hibbs) [↗](/relationships/rel-cc40bf53d7a2) (1)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Dan Illouz](/entities/person-dan-illouz) [↗](/relationships/rel-90d7d328d34f) (1)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Laurie Cardoza-Moore](/entities/person-laurie-cardoza-moore) [↗](/relationships/rel-b913429f1db4) (1)
@@ -527,7 +535,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Turning Point USA](/entities/org-turning-point-usa) → [Anti-Defamation League](/entities/org-anti-defamation-league) [↗](/relationships/rel-4d6960f197b6) (1)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-7f8fdd78af78) (42)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Tim Dillon](/entities/person-tim-dillon) [↗](/relationships/rel-433459929379) (1)
-- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-4dfbcfa51955) (7)
+- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-4dfbcfa51955) (8)
 - [Tyler Robinson](/entities/person-tyler-robinson) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-44c50ba19928) (1)
 - [U.S. Department of Veterans Affairs](/entities/org-us-department-of-veterans-affairs) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-6918f74657ea) (2)
 - [United States Armed Forces](/entities/org-united-states-armed-forces) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-ac451c136a27) (1)
@@ -542,7 +550,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Formerly Worked For (165)</summary>
+<summary>Formerly Worked For (172)</summary>
 
 - [Alan Edward Robertson](/entities/person-alan-edward-robertson) → [United States Marine Corps](/entities/org-united-states-marine-corps) [↗](/relationships/rel-d7d40caa0ac4) (1)
 - [Alan Edward Robertson](/entities/person-alan-edward-robertson) → [San Bernardino Police Department](/entities/org-san-bernardino-police-department) [↗](/relationships/rel-55b1ca3dd861) (2)
@@ -557,11 +565,13 @@ This page shows all extracted relationships between entities. Click any relation
 - [Aubrey Laitsch](/entities/person-aubrey-laitsch) → [The ATK Company](/entities/org-the-atk-company) [↗](/relationships/rel-b73cb8bf6a7d) (1)
 - [Aubrey Laitsch](/entities/person-aubrey-laitsch) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-78ec5b2e3af7) (1)
 - [Aubrey Laitsch](/entities/person-aubrey-laitsch) → [Marina Minas](/entities/person-marina-minas) [↗](/relationships/rel-64121db9de32) (1)
+- [Austin Smith](/entities/person-austin-smith) → [Turning Point Action](/entities/org-turning-point-action) [↗](/relationships/rel-0680fab493f3) (1)
 - [Bari Weiss](/entities/person-bari-weiss) → [The New York Times](/entities/org-the-new-york-times) [↗](/relationships/rel-249b038e1293) (1)
 - [Bari Weiss](/entities/person-bari-weiss) → [CBS News](/entities/org-cbs-news) [↗](/relationships/rel-50863b94fa2c) (1)
 - [Ben Johnston](/entities/person-ben-johnston) → [DynCorp International](/entities/org-dyncorp-international) [↗](/relationships/rel-4bf16d681975) (1)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [Breitbart News](/entities/org-breitbart-news) [↗](/relationships/rel-817847f1ef9d) (1)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Breitbart News](/entities/org-breitbart-news) [↗](/relationships/rel-817847f1ef9d) (2)
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) → [Boston Consulting Group](/entities/org-boston-consulting-group) [↗](/relationships/rel-a843e72bbdc4) (2)
+- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) → [Central Intelligence Agency](/entities/org-central-intelligence-agency) [↗](/relationships/rel-55585b0204c4) (1)
 - [Bill Montgomery](/entities/person-bill-montgomery) → [United States Armed Forces](/entities/org-united-states-armed-forces) [↗](/relationships/rel-a55c6d811d0f) (1)
 - [Bill Montgomery](/entities/person-bill-montgomery) → [United States Air Force](/entities/org-united-states-air-force) [↗](/relationships/rel-79561735f15a) (1)
 - [Bill Montgomery](/entities/person-bill-montgomery) → [Shaklee Corporation](/entities/org-shaklee-corporation) [↗](/relationships/rel-14525eb352a2) (1)
@@ -578,11 +588,12 @@ This page shows all extracted relationships between entities. Click any relation
 - [Brandy Zadrozny](/entities/person-brandy-zadrozny) → [NBC News](/entities/org-nbc-news) [↗](/relationships/rel-f733f957db69) (1)
 - [Brett Cooper](/entities/person-brett-cooper) → [Jeremy Boreing](/entities/person-jeremy-boreing) [↗](/relationships/rel-fa6b1389103e) (1)
 - [Brian Harpole](/entities/person-brian-harpole) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-4d9f5e4051ad) (1)
+- [Brian Harpole](/entities/person-brian-harpole) → [Schaefer Security](/entities/org-schaefer-security) [↗](/relationships/rel-2dd6a206a092) (1)
 - [Brian Harpole](/entities/person-brian-harpole) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-dd994b2ea74f) (1)
 - [Candace Owens](/entities/person-candace-owens) → [PragerU](/entities/org-prageru) [↗](/relationships/rel-5aa7bfa3a828) (8)
 - [Candace Owens](/entities/person-candace-owens) → [Prager University](/entities/org-prager-university) [↗](/relationships/rel-92de6bb8cd79) (2)
 - [Candace Owens](/entities/person-candace-owens) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-8b95da07f208) (12)
-- [Candace Owens](/entities/person-candace-owens) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-00fa709d25c6) (25)
+- [Candace Owens](/entities/person-candace-owens) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-00fa709d25c6) (26)
 - [Candace Owens](/entities/person-candace-owens) → [Marissa Streit](/entities/person-marissa-streit) [↗](/relationships/rel-5e610c2dd4e7) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Jeremy Boreing](/entities/person-jeremy-boreing) [↗](/relationships/rel-d678c1783197) (1)
 - [Carl Kenneth Frantzve](/entities/person-carl-kenneth-frantzve) → [American Bank Note Company](/entities/org-american-bank-note-company) [↗](/relationships/rel-db00daca61bd) (1)
@@ -593,6 +604,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Crain & Company](/entities/work-crain-and-company) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-c06293404075) (1)
 - [Dan Bongino](/entities/person-dan-bongino) → [FBI](/entities/org-fbi) [↗](/relationships/rel-89519e8b74de) (2)
 - [Dan Flood](/entities/person-dan-flood) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-0ccf399fe603) (1)
+- [Dan Flood](/entities/person-dan-flood) → [Schaefer Security](/entities/org-schaefer-security) [↗](/relationships/rel-9d6934a3e710) (1)
 - [Dan Scavino](/entities/person-dan-scavino) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-14b13fa7127a) (1)
 - [Deirdre Amaro](/entities/person-deirdre-amaro) → [Utah](/entities/gpe-utah) [↗](/relationships/rel-a2768a501e7d) (1)
 - [Dennis Frantzve](/entities/person-dennis-frantzve) → [Merrill Lynch](/entities/org-merrill-lynch) [↗](/relationships/rel-d43297f3ad6a) (1)
@@ -626,6 +638,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Jake Hoffman](/entities/person-jake-hoffman) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-8789856b69f3) (1)
 - [Jake Wood](/entities/person-jake-wood) → [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation) [↗](/relationships/rel-906f36b30ae2) (1)
 - [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr) → [Utah National Guard](/entities/org-utah-national-guard) [↗](/relationships/rel-754c00d2db58) (1)
+- [Jamie Weinstein](/entities/person-jamie-weinstein) → [National Review](/entities/org-national-review) [↗](/relationships/rel-68727d27356a) (1)
 - [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Mossad](/entities/org-mossad) [↗](/relationships/rel-c84c02e5950f) (1)
 - [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Rothschild family](/entities/org-rothschild-family) [↗](/relationships/rel-dc4de71c53fd) (3)
 - [Jeremy Boreing](/entities/person-jeremy-boreing) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-db9413a6b359) (3)
@@ -637,7 +650,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [John C. Phelan](/entities/person-john-c-phelan) → [Merrill Lynch](/entities/org-merrill-lynch) [↗](/relationships/rel-d4a593df799d) (1)
 - [John Kiriakou](/entities/person-john-kiriakou) → [Central Intelligence Agency](/entities/org-central-intelligence-agency) [↗](/relationships/rel-0de6669594b4) (1)
 - [Johnnie Moore](/entities/person-johnnie-moore) → [Liberty University](/entities/org-liberty-university) [↗](/relationships/rel-4eed8e36af2e) (3)
-- [Johnnie Moore](/entities/person-johnnie-moore) → [Mark Burnett](/entities/person-mark-burnett) [↗](/relationships/rel-f6660f040f4f) (1)
+- [Johnnie Moore](/entities/person-johnnie-moore) → [Mark Burnett](/entities/person-mark-burnett) [↗](/relationships/rel-f6660f040f4f) (2)
 - [Jonathan Barcelo](/entities/person-jonathan-barcelo) → [United States Marine Corps](/entities/org-united-states-marine-corps) [↗](/relationships/rel-fe5d5c0ae023) (1)
 - [Jonathan Conricus](/entities/person-jonathan-conricus) → [Israel Defense Forces](/entities/org-israel-defense-forces) [↗](/relationships/rel-53f3da45af69) (1)
 - [Jörg Fassbinder](/entities/person-jorg-fassbinder) → [Bavarian State Office for Monument Protection](/entities/org-bavarian-state-office-monument-protection) [↗](/relationships/rel-010b030e86e2) (1)
@@ -650,6 +663,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Meghan McCain](/entities/person-meghan-mccain) → [The View](/entities/work-the-view) [↗](/relationships/rel-7b3f4d6f49da) (2)
 - [Meghan McCain](/entities/person-meghan-mccain) → [TakePart Live](/entities/work-takepart-live) [↗](/relationships/rel-b8328f9daa00) (1)
 - [Michael McCoy](/entities/person-michael-mccoy) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-669504bca4e1) (1)
+- [Michelle Fields](/entities/person-michelle-fields) → [Breitbart News](/entities/org-breitbart-news) [↗](/relationships/rel-443bd9140660) (1)
 - [Mike Mitchell](/entities/person-mike-mitchell) → [Washington County](/entities/gpe-washington-county) [↗](/relationships/rel-335203e248da) (1)
 - [Mike Mitchell](/entities/person-mike-mitchell) → [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office) [↗](/relationships/rel-1a10b648b928) (1)
 - [Mike Pompeo](/entities/person-mike-pompeo) → [Central Intelligence Agency](/entities/org-central-intelligence-agency) [↗](/relationships/rel-b1958747aee6) (1)
@@ -692,6 +706,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss) → [The Ellen DeGeneres Show](/entities/work-the-ellen-degeneres-show) [↗](/relationships/rel-644834882709) (1)
 - [Stephen Philip](/entities/person-stephen-philip) → [Merrill Lynch](/entities/org-merrill-lynch) [↗](/relationships/rel-c69fa695e59d) (1)
 - [Stephen Philip](/entities/person-stephen-philip) → [Bank of America](/entities/org-bank-of-america) [↗](/relationships/rel-999797dd5e01) (1)
+- [Sun Myung Moon](/entities/person-sun-myung-moon) → [Central Intelligence Agency](/entities/org-central-intelligence-agency) [↗](/relationships/rel-bf8ceb0a5f33) (1)
 - [Susie Wiles](/entities/person-susie-wiles) → [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) [↗](/relationships/rel-7c0daf0cbab9) (1)
 - [Theodore Roosevelt](/entities/person-theodore-roosevelt) → [Rough Riders](/entities/org-rough-riders) [↗](/relationships/rel-944317a2289d) (1)
 - [Thomas H. Patrick](/entities/person-thomas-h-patrick) → [Merrill Lynch](/entities/org-merrill-lynch) [↗](/relationships/rel-217e2f954756) (1)
@@ -713,7 +728,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Formerly Employed (165)</summary>
+<summary>Formerly Employed (172)</summary>
 
 - [10th Mountain Division](/entities/org-10th-mountain-division) → [Mitch](/entities/person-mitch-fort-huachuca-witness) [↗](/relationships/rel-56ca10a2ed2a) (1)
 - [7th Psychological Operations Group](/entities/org-7th-psychological-operations-group) → [Paul E. Vallely](/entities/person-paul-e-vallely) [↗](/relationships/rel-c0225114b05e) (1)
@@ -737,7 +752,8 @@ This page shows all extracted relationships between entities. Click any relation
 - [Boston Consulting Group](/entities/org-boston-consulting-group) → [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) [↗](/relationships/rel-87996d5f9514) (2)
 - [Boston Consulting Group](/entities/org-boston-consulting-group) → [Mitt Romney](/entities/person-mitt-romney) [↗](/relationships/rel-5a32db22230d) (2)
 - [Boston Consulting Group](/entities/org-boston-consulting-group) → [Bradley D. Hansell](/entities/person-bradley-d-hansell) [↗](/relationships/rel-494f91f34ee6) (2)
-- [Breitbart News](/entities/org-breitbart-news) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-fdafd35647d9) (1)
+- [Breitbart News](/entities/org-breitbart-news) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-fdafd35647d9) (2)
+- [Breitbart News](/entities/org-breitbart-news) → [Michelle Fields](/entities/person-michelle-fields) [↗](/relationships/rel-d0c839ae4497) (1)
 - [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center) → [Jack David Solomon](/entities/person-jack-david-solomon) [↗](/relationships/rel-a6fe29f23998) (1)
 - [Brunel University of London](/entities/org-brunel-university-of-london) → [Ashley Guajardo](/entities/person-ashley-guajardo) [↗](/relationships/rel-2e470e596b1c) (1)
 - [BYU](/entities/org-byu) → [Jack David Solomon](/entities/person-jack-david-solomon) [↗](/relationships/rel-17898c4a3827) (2)
@@ -747,6 +763,8 @@ This page shows all extracted relationships between entities. Click any relation
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency) → [Larry C. Johnson](/entities/person-larry-c-johnson) [↗](/relationships/rel-70f309356d39) (2)
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency) → [Frank William Gay](/entities/person-frank-william-gay) [↗](/relationships/rel-6c73f8471dd0) (1)
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency) → [John Kiriakou](/entities/person-john-kiriakou) [↗](/relationships/rel-1fb3114a53e4) (1)
+- [Central Intelligence Agency](/entities/org-central-intelligence-agency) → [Sun Myung Moon](/entities/person-sun-myung-moon) [↗](/relationships/rel-01dcb6af2eeb) (1)
+- [Central Intelligence Agency](/entities/org-central-intelligence-agency) → [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) [↗](/relationships/rel-3f780071158f) (1)
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Dan Flood](/entities/person-dan-flood) [↗](/relationships/rel-bf1206570fb3) (1)
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Michael McCoy](/entities/person-michael-mccoy) [↗](/relationships/rel-03bb588ea1df) (1)
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Brian Harpole](/entities/person-brian-harpole) [↗](/relationships/rel-33e1e14580c8) (1)
@@ -789,7 +807,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Mar-a-Lago](/entities/org-mar-a-lago) → [Virginia Giuffre](/entities/person-virginia-giuffre) [↗](/relationships/rel-34554d47f728) (1)
 - [Marina Minas](/entities/person-marina-minas) → [Aubrey Laitsch](/entities/person-aubrey-laitsch) [↗](/relationships/rel-75187bd2bb03) (1)
 - [Marissa Streit](/entities/person-marissa-streit) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-e8da67db1d97) (1)
-- [Mark Burnett](/entities/person-mark-burnett) → [Johnnie Moore](/entities/person-johnnie-moore) [↗](/relationships/rel-f4179612e76c) (1)
+- [Mark Burnett](/entities/person-mark-burnett) → [Johnnie Moore](/entities/person-johnnie-moore) [↗](/relationships/rel-f4179612e76c) (2)
 - [Medical City McKinney](/entities/org-medical-city-mckinney) → [Andrew Zenger](/entities/person-andrew-zenger) [↗](/relationships/rel-a768054d3bd9) (1)
 - [Merrill Lynch](/entities/org-merrill-lynch) → [Thomas H. Patrick](/entities/person-thomas-h-patrick) [↗](/relationships/rel-9df2365ea515) (1)
 - [Merrill Lynch](/entities/org-merrill-lynch) → [Stephen Philip](/entities/person-stephen-philip) [↗](/relationships/rel-b429142fd0c3) (1)
@@ -801,6 +819,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Mossad](/entities/org-mossad) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-2b54a9d7fe98) (1)
 - [NASA](/entities/org-nasa) → [Stanley Clark Moore](/entities/person-stanley-clark-moore) [↗](/relationships/rel-9940873368d7) (1)
 - [National Counterterrorism Center](/entities/org-national-counterterrorism-center) → [Joe Kent](/entities/person-joe-kent) [↗](/relationships/rel-3ee42488771f) (2)
+- [National Review](/entities/org-national-review) → [Jamie Weinstein](/entities/person-jamie-weinstein) [↗](/relationships/rel-9317105a9481) (1)
 - [National Rifle Association](/entities/org-national-rifle-association) → [Andrew Wilson](/entities/person-andrew-wilson) [↗](/relationships/rel-98b08029ad78) (1)
 - [Naval Criminal Investigative Service](/entities/org-naval-criminal-investigative-service) → [Foster Curtiss](/entities/person-foster-curtiss) [↗](/relationships/rel-ab86f64ad552) (1)
 - [NBC News](/entities/org-nbc-news) → [Brandy Zadrozny](/entities/person-brandy-zadrozny) [↗](/relationships/rel-0eaeda35b256) (1)
@@ -817,6 +836,8 @@ This page shows all extracted relationships between entities. Click any relation
 - [Rothschild family](/entities/org-rothschild-family) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-87b010371623) (3)
 - [Rough Riders](/entities/org-rough-riders) → [Theodore Roosevelt](/entities/person-theodore-roosevelt) [↗](/relationships/rel-29ae4a1dd094) (1)
 - [San Bernardino Police Department](/entities/org-san-bernardino-police-department) → [Alan Edward Robertson](/entities/person-alan-edward-robertson) [↗](/relationships/rel-f99a683f6b58) (2)
+- [Schaefer Security](/entities/org-schaefer-security) → [Dan Flood](/entities/person-dan-flood) [↗](/relationships/rel-7ee92a20a1b5) (1)
+- [Schaefer Security](/entities/org-schaefer-security) → [Brian Harpole](/entities/person-brian-harpole) [↗](/relationships/rel-4491d6f89f47) (1)
 - [Shaklee Corporation](/entities/org-shaklee-corporation) → [Bill Montgomery](/entities/person-bill-montgomery) [↗](/relationships/rel-1fe74a9d5ddb) (1)
 - [Shaklee Corporation](/entities/org-shaklee-corporation) → [Edith Montgomery](/entities/person-edith-montgomery) [↗](/relationships/rel-e62dd5aedd8b) (1)
 - [Shaklee Corporation](/entities/org-shaklee-corporation) → [Robert Eugene Flood](/entities/person-robert-eugene-flood) [↗](/relationships/rel-ba411615cdd6) (1)
@@ -829,7 +850,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Texas Department of Public Safety](/entities/org-texas-department-of-public-safety) → [Bobby Harpole](/entities/person-bobby-harpole) [↗](/relationships/rel-fd3978a093e0) (1)
 - [The ATK Company](/entities/org-the-atk-company) → [Aubrey Laitsch](/entities/person-aubrey-laitsch) [↗](/relationships/rel-17e3dedbcc3b) (1)
 - [The Corcoran Group](/entities/org-corcoran-group) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-13acda307196) (5)
-- [The Daily Wire](/entities/org-the-daily-wire) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-2be2cbb6e058) (19)
+- [The Daily Wire](/entities/org-the-daily-wire) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-2be2cbb6e058) (20)
 - [The Daily Wire](/entities/org-the-daily-wire) → [Jeremy Boreing](/entities/person-jeremy-boreing) [↗](/relationships/rel-477a8aedce1a) (3)
 - [The Daily Wire](/entities/org-the-daily-wire) → [Crain & Company](/entities/work-crain-and-company) [↗](/relationships/rel-4dcfde316462) (1)
 - [The Daily Wire](/entities/org-the-daily-wire) → [Zachary Lewis](/entities/person-zachary-lewis) [↗](/relationships/rel-a41b796e8592) (1)
@@ -843,6 +864,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital) → [Connor Henderson](/entities/person-connor-henderson) [↗](/relationships/rel-42ca68432f1f) (2)
 - [Tootsie Roll Industries](/entities/org-tootsie-roll-industries) → [Ellen R. Gordon](/entities/person-ellen-gordon) [↗](/relationships/rel-30a06ef1e3ba) (1)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Blake Neff](/entities/person-blake-neff) [↗](/relationships/rel-131debfa986d) (2)
+- [Turning Point Action](/entities/org-turning-point-action) → [Austin Smith](/entities/person-austin-smith) [↗](/relationships/rel-a52e8391d108) (1)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-35c26025a27f) (9)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Brian Harpole](/entities/person-brian-harpole) [↗](/relationships/rel-7615c48d2fd4) (1)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Mitch Manley Jr.](/entities/person-mitch-manley-jr) [↗](/relationships/rel-c457e833d381) (1)
@@ -884,14 +906,14 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Works For (157)</summary>
+<summary>Works For (158)</summary>
 
 - [Ahmed Qureshi](/entities/person-ahmed-qureshi) → [United States Navy](/entities/org-united-states-navy) [↗](/relationships/rel-759189f14097) (1)
 - [Alan Edward Robertson](/entities/person-alan-edward-robertson) → [Utah State University Department of Public Safety](/entities/org-utah-state-university-department-of-public-safety) [↗](/relationships/rel-a4df0eda2a1b) (1)
 - [Alan Edward Robertson](/entities/person-alan-edward-robertson) → [Utah State University](/entities/org-utah-state-university) [↗](/relationships/rel-414fac24363f) (1)
 - [Alex Clark](/entities/person-alex-clark) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-d1bb241d129f) (2)
 - [Alex Clark](/entities/person-alex-clark) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-73057ef371f7) (1)
-- [Alex Marlow](/entities/person-alex-marlow) → [Breitbart News](/entities/org-breitbart-news) [↗](/relationships/rel-c806f3be787a) (1)
+- [Alex Marlow](/entities/person-alex-marlow) → [Breitbart News](/entities/org-breitbart-news) [↗](/relationships/rel-c806f3be787a) (2)
 - [Alexis Wilkins](/entities/person-alexis-wilkins) → [Marissa Streit](/entities/person-marissa-streit) [↗](/relationships/rel-f4b02c7085ff) (1)
 - [Alexis Wilkins](/entities/person-alexis-wilkins) → [PragerU](/entities/org-prageru) [↗](/relationships/rel-11da9e6efb2e) (1)
 - [Amanda Bakker](/entities/person-amanda-bakker) → [FBI](/entities/org-fbi) [↗](/relationships/rel-156cbc5da7ee) (2)
@@ -966,6 +988,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Jimmy Kimmel](/entities/person-jimmy-kimmel) → [ABC](/entities/org-abc) [↗](/relationships/rel-cb4eb4d02a53) (1)
 - [John C. Phelan](/entities/person-john-c-phelan) → [United States Navy](/entities/org-united-states-navy) [↗](/relationships/rel-d7ff04c9393a) (1)
 - [John McGovern](/entities/person-john-mcgovern) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-513e9050b527) (1)
+- [John Nolte](/entities/person-john-nolte) → [Breitbart News](/entities/org-breitbart-news) [↗](/relationships/rel-c889b1a7fa18) (1)
 - [Johnnie Moore](/entities/person-johnnie-moore) → [Liberty University](/entities/org-liberty-university) [↗](/relationships/rel-58ffbc77a86c) (1)
 - [Jonathan Barcelo](/entities/person-jonathan-barcelo) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-9bf6b2f7dbb7) (1)
 - [Josh Hammer](/entities/person-josh-hammer) → [Newsweek](/entities/org-newsweek) [↗](/relationships/rel-c7a827ecd1cb) (1)
@@ -1038,7 +1061,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Tim Ballard](/entities/person-tim-ballard) → [Operation Underground Railroad](/entities/org-operation-underground-railroad) [↗](/relationships/rel-22f5e3095f08) (2)
 - [Tom (Patrick Bet-David team member; surname unverified)](/entities/anon-src-E7P2ShoYDUA-001) → [Patrick Bet-David](/entities/person-patrick-bet-david) [↗](/relationships/rel-714024317034) (1)
 - [Tree Paine](/entities/person-tree-paine) → [Taylor Swift](/entities/person-taylor-swift) [↗](/relationships/rel-175bf2a7580a) (1)
-- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-8994e71a8438) (7)
+- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-8994e71a8438) (8)
 - [Tyler Bowyer](/entities/person-tyler-bowyer) → [Turning Point Action](/entities/org-turning-point-action) [↗](/relationships/rel-c4b80fc37c1b) (4)
 - [Tyler Robinson](/entities/person-tyler-robinson) → [Wilde Electric, Inc.](/entities/org-wilde-electric) [↗](/relationships/rel-f297149c4679)
 - [Vance Voetberg](/entities/person-vance-voetberg) → [Alliance Defending Freedom](/entities/org-alliance-defending-freedom) [↗](/relationships/rel-f2f133cc61a9) (1)
@@ -1047,7 +1070,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Employs (157)</summary>
+<summary>Employs (158)</summary>
 
 - [ABC](/entities/org-abc) → [Jimmy Kimmel](/entities/person-jimmy-kimmel) [↗](/relationships/rel-06c00c3765a1) (1)
 - [Alliance Defending Freedom](/entities/org-alliance-defending-freedom) → [Vance Voetberg](/entities/person-vance-voetberg) [↗](/relationships/rel-58f42fb5171f) (1)
@@ -1057,7 +1080,8 @@ This page shows all extracted relationships between entities. Click any relation
 - [BearingPoint](/entities/org-bearingpoint) → [Gernot Omer](/entities/person-gernot-omer) [↗](/relationships/rel-14998a973d1f) (1)
 - [BILT Incorporated](/entities/org-bilt-incorporated) → [Gina Romney Henderson](/entities/person-gina-romney-henderson) [↗](/relationships/rel-1c3612589425) (1)
 - [Bob Bryar](/entities/person-bob-bryar) → [Lou Taylor](/entities/person-lou-taylor) [↗](/relationships/rel-4f5e622d2df0) (1)
-- [Breitbart News](/entities/org-breitbart-news) → [Alex Marlow](/entities/person-alex-marlow) [↗](/relationships/rel-84cd729793bc) (1)
+- [Breitbart News](/entities/org-breitbart-news) → [Alex Marlow](/entities/person-alex-marlow) [↗](/relationships/rel-84cd729793bc) (2)
+- [Breitbart News](/entities/org-breitbart-news) → [John Nolte](/entities/person-john-nolte) [↗](/relationships/rel-e1462a70de8a) (1)
 - [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives) → [Caitlin Oliver](/entities/person-caitlin-oliver) [↗](/relationships/rel-84afb9d48f5f) (3)
 - [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives) → [Samantha Karner](/entities/person-samantha-karner) [↗](/relationships/rel-f229d5675288) (1)
 - [BYU](/entities/org-byu) → [Steven E. Jones](/entities/person-steven-e-jones) [↗](/relationships/rel-d5a6895f8ba7) (1)
@@ -1154,7 +1178,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Turning Point USA](/entities/org-turning-point-usa) → [Justin Streiff](/entities/person-justin-streiff) [↗](/relationships/rel-6485d75de4de) (4)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Dylan Erickson](/entities/person-dylan-erickson) [↗](/relationships/rel-353488abf5f2) (1)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Austin Erickson](/entities/person-austin-erickson) [↗](/relationships/rel-e090a2ab8cd8) (1)
-- [Turning Point USA](/entities/org-turning-point-usa) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-883ed0fcbb15) (5)
+- [Turning Point USA](/entities/org-turning-point-usa) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-883ed0fcbb15) (6)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Cam Higby](/entities/person-cam-higby) [↗](/relationships/rel-76072a946b26) (1)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-590719a64ea9) (2)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-55394244ee09) (2)
@@ -1206,6 +1230,158 @@ This page shows all extracted relationships between entities. Click any relation
 - [Wilde Electric, Inc.](/entities/org-wilde-electric) → [Tyler Robinson](/entities/person-tyler-robinson) [↗](/relationships/rel-75e15597b88d)
 - [Winning Team Publishing](/entities/org-winning-team-publishing) → [Justin Streiff](/entities/person-justin-streiff) [↗](/relationships/rel-8a39ebcbf2d2) (1)
 - [Yrefy](/entities/org-yrefy) → [Laine Schoneberger](/entities/person-laine-schoneberger) [↗](/relationships/rel-8760545926af) (1)
+
+</details>
+
+<details>
+<summary>Friend Of (146)</summary>
+
+- [Alan Edward Robertson](/entities/person-alan-edward-robertson) → [Christopher Haycock](/entities/person-christopher-haycock) [↗](/relationships/rel-9d90e3be7d07) (1)
+- [Aleister Crowley](/entities/person-aleister-crowley) → [Pauline Robinson Pierce](/entities/person-pauline-robinson-pierce) [↗](/relationships/rel-a4bca580094a) (1)
+- [Allie Beth Stuckey](/entities/person-allie-beth-stuckey) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-4bd696ee5743) (1)
+- [Andrew Breitbart](/entities/person-andrew-breitbart) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-140c354279df) (1)
+- [Andrew Kolvet](/entities/person-andrew-kolvet) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-efdc5e9edcf7) (1)
+- [Bassem Youssef](/entities/person-bassem-youssef) → [Matt Lieb](/entities/person-matt-lieb) [↗](/relationships/rel-cd0ea43dd4aa) (1)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-5baa6de0e6aa) (2)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Jamie Weinstein](/entities/person-jamie-weinstein) [↗](/relationships/rel-2d8dcae9bc1d) (1)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Andrew Breitbart](/entities/person-andrew-breitbart) [↗](/relationships/rel-f837b11f71fb) (1)
+- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) → [Mitt Romney](/entities/person-mitt-romney) [↗](/relationships/rel-7edcb7ce3824) (3)
+- [Bill Montgomery](/entities/person-bill-montgomery) → [Helene Bartz](/entities/person-helene-bartz) [↗](/relationships/rel-239354a9462a) (1)
+- [Blake Lively](/entities/person-blake-lively) → [Taylor Swift](/entities/person-taylor-swift) [↗](/relationships/rel-2a91802c3b22) (1)
+- [Brad Parscale](/entities/person-brad-parscale) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-651d07e6accc) (1)
+- [Brian Houston](/entities/person-brian-houston) → [Terry Crist](/entities/person-terry-crist) [↗](/relationships/rel-426891118da1) (1)
+- [Candace Owens](/entities/person-candace-owens) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-7ee659d683bd) (40)
+- [Candace Owens](/entities/person-candace-owens) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-6cf6392a4bf9) (2)
+- [Candace Owens](/entities/person-candace-owens) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-c4bdb83b0b3e) (1)
+- [Candace Owens](/entities/person-candace-owens) → [Jack Posobiec](/entities/person-jack-posobiec) [↗](/relationships/rel-fca31f432cf1) (1)
+- [Candace Owens](/entities/person-candace-owens) → [Kanye West](/entities/person-kanye-west) [↗](/relationships/rel-ba179a3da6a5) (3)
+- [Candace Owens](/entities/person-candace-owens) → [Theo Von](/entities/person-theo-von) [↗](/relationships/rel-936074d472a9) (2)
+- [Candace Owens](/entities/person-candace-owens) → [Marissa Streit](/entities/person-marissa-streit) [↗](/relationships/rel-8d2b364945ee) (1)
+- [Candace Owens](/entities/person-candace-owens) → [Brad Parscale](/entities/person-brad-parscale) [↗](/relationships/rel-493a9f1e6e40) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-25bc831d4703) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-7950500525d7) (35)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Seth Dillon](/entities/person-seth-dillon) [↗](/relationships/rel-72cc858d82d7) (2)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Josh Hammer](/entities/person-josh-hammer) [↗](/relationships/rel-1285854ee823) (2)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Michael Knowles](/entities/person-michael-knowles) [↗](/relationships/rel-48d1b15134e9) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Kash Patel](/entities/person-kash-patel) [↗](/relationships/rel-5e22b65fc25d) (2)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Jack Hibbs](/entities/person-jack-hibbs) [↗](/relationships/rel-4453e4a061b6) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-8bd99e2dd8f8) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Donald Trump Jr.](/entities/person-donald-trump-jr) [↗](/relationships/rel-2d419b00307d) (3)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Eric Trump](/entities/person-eric-trump) [↗](/relationships/rel-04c8c45bb0d3) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Allie Beth Stuckey](/entities/person-allie-beth-stuckey) [↗](/relationships/rel-4c1f246fb122) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Dan Bongino](/entities/person-dan-bongino) [↗](/relationships/rel-95ef74db93a7) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [John Yep](/entities/person-john-yep) [↗](/relationships/rel-f570ec3ab894) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Jake Hoffman](/entities/person-jake-hoffman) [↗](/relationships/rel-53700e572639) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-8e4204a2c4f8) (3)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-3a1ff2c8c5dd) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-4f22afedb68f) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Frank Turek](/entities/person-frank-turek) [↗](/relationships/rel-3bec34b5bc54) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Michael McCoy](/entities/person-michael-mccoy) [↗](/relationships/rel-0bd79289b4e1) (1)
+- [Chelsea Barney](/entities/person-chelsea-barney) → [Kouri Richins](/entities/person-kouri-richins) [↗](/relationships/rel-d8247e914bce) (1)
+- [Christopher Haycock](/entities/person-christopher-haycock) → [Alan Edward Robertson](/entities/person-alan-edward-robertson) [↗](/relationships/rel-c49167d53b69) (1)
+- [Connor Henderson](/entities/person-connor-henderson) → [Zachariah Qureshi](/entities/person-zachariah-qureshi) [↗](/relationships/rel-ec79c22ae94e) (1)
+- [Corby Hall](/entities/person-corby-hall) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-1cf092d44875) (1)
+- [Corey Comperatore](/entities/person-corey-comperatore) → [Don Porter (identity not independently verified)](/entities/anon-src-h76ZN-xXC6c-don-porter) [↗](/relationships/rel-43a984d15d82) (1)
+- [Dan Bongino](/entities/person-dan-bongino) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-c169fdf767dd) (1)
+- [Dan Bongino](/entities/person-dan-bongino) → [Kash Patel](/entities/person-kash-patel) [↗](/relationships/rel-629d1121ba02) (1)
+- [Dan Bongino](/entities/person-dan-bongino) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-65600004c8f0) (1)
+- [Dane Cook](/entities/person-dane-cook) → [Robert (Dane Cook story character; surname unverified)](/entities/person-robert-dane-cook-story-character) [↗](/relationships/rel-82c5608302e2) (1)
+- [Dave Rubin](/entities/person-dave-rubin) → [Peter Thiel](/entities/person-peter-thiel) [↗](/relationships/rel-abe239b8c513) (1)
+- [Don Porter (identity not independently verified)](/entities/anon-src-h76ZN-xXC6c-don-porter) → [Corey Comperatore](/entities/person-corey-comperatore) [↗](/relationships/rel-ac79e46a20bc) (1)
+- [Donald J. Trump](/entities/person-donald-trump) → [Giorgia Meloni](/entities/person-giorgia-meloni) [↗](/relationships/rel-beb0e05e3bb4) (1)
+- [Donald J. Trump](/entities/person-donald-trump) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-27c0a194822e) (3)
+- [Donald J. Trump](/entities/person-donald-trump) → [Roger J. Stone Jr.](/entities/person-roger-j-stone-jr) [↗](/relationships/rel-d72b6e575cc5) (1)
+- [Donald Trump Jr.](/entities/person-donald-trump-jr) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-991ffffe1c33) (3)
+- [Edith Montgomery](/entities/person-edith-montgomery) → [Helene Bartz](/entities/person-helene-bartz) [↗](/relationships/rel-ce2a6f5d1286) (1)
+- [Eileen Marx](/entities/person-eileen-marx) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-1587df5af0a8) (4)
+- [Eric Trump](/entities/person-eric-trump) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-7287fd464034) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-def2eb864f83) (2)
+- [Erika Kirk](/entities/person-erika-kirk) → [Tracy Martin](/entities/person-tracy-martin) [↗](/relationships/rel-f28aed1bbea0) (8)
+- [Erika Kirk](/entities/person-erika-kirk) → [Nicole Rothstein](/entities/person-nicole-rothstein) [↗](/relationships/rel-63ed46f9f885) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Terry Crist](/entities/person-terry-crist) [↗](/relationships/rel-d2b3d859cef8) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Judith Crist](/entities/person-judith-crist) [↗](/relationships/rel-4702a7ba5926) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-f98752e800df) (2)
+- [Erika Kirk](/entities/person-erika-kirk) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-5bee932b82aa) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Stacey Sheridan](/entities/person-stacey-sheridan) [↗](/relationships/rel-e7341eec809e) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-7e7404147182) (7)
+- [Erika Kirk](/entities/person-erika-kirk) → [Eileen Marx](/entities/person-eileen-marx) [↗](/relationships/rel-e5bae49a7832) (4)
+- [Erika Kirk](/entities/person-erika-kirk) → [JD Vance](/entities/person-jd-vance) [↗](/relationships/rel-fc53a99fa5ae) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Laine Schoneberger](/entities/person-laine-schoneberger) [↗](/relationships/rel-517763e48752) (1)
+- [Faith Kates](/entities/person-faith-kates) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-d644e5c3c6ab) (1)
+- [Fort Huachuca online poster (unidentified)](/entities/anon-src-x92mllihdzw-fort-huachuca-poster) → [Friend of Fort Huachuca online poster (unidentified)](/entities/anon-src-x92mllihdzw-poster-friend) [↗](/relationships/rel-07b4ac39e984) (1)
+- [Frank Turek](/entities/person-frank-turek) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-ef7d24a5a930) (1)
+- [Frank Turek](/entities/person-frank-turek) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-502e8bec2dcb) (1)
+- [Friend of Fort Huachuca online poster (unidentified)](/entities/anon-src-x92mllihdzw-poster-friend) → [Fort Huachuca online poster (unidentified)](/entities/anon-src-x92mllihdzw-fort-huachuca-poster) [↗](/relationships/rel-4d3e1783cd65) (1)
+- [George Farmer](/entities/person-george-farmer) → [Taylor Marshall](/entities/person-taylor-marshall) [↗](/relationships/rel-2690230bfe25) (1)
+- [Giorgia Meloni](/entities/person-giorgia-meloni) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-8022141aec0d) (1)
+- [Helene Bartz](/entities/person-helene-bartz) → [Bill Montgomery](/entities/person-bill-montgomery) [↗](/relationships/rel-d899a9b0b901) (1)
+- [Helene Bartz](/entities/person-helene-bartz) → [Edith Montgomery](/entities/person-edith-montgomery) [↗](/relationships/rel-7176c005d085) (1)
+- [Ivanka Trump](/entities/person-ivanka-trump) → [Nathaniel Rothschild](/entities/person-nathaniel-rothschild) [↗](/relationships/rel-86d1184b4abd) (1)
+- [Jack Hibbs](/entities/person-jack-hibbs) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-80bed1ca29a7) (1)
+- [Jack Posobiec](/entities/person-jack-posobiec) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-e14dda1835f1) (1)
+- [Jake Hoffman](/entities/person-jake-hoffman) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-d487cb84a5c3) (1)
+- [Jake Hoffman](/entities/person-jake-hoffman) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-9787b25fccb2) (1)
+- [Jamie Weinstein](/entities/person-jamie-weinstein) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-377c9f1df495) (1)
+- [Jared Kushner](/entities/person-jared-kushner) → [Nathaniel Rothschild](/entities/person-nathaniel-rothschild) [↗](/relationships/rel-c21a84099002) (1)
+- [JD Vance](/entities/person-jd-vance) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-fb0cfc190335) (1)
+- [Jean-Luc Brunel](/entities/person-jean-luc-brunel) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-4a66c4c78ef4) (1)
+- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Jean-Luc Brunel](/entities/person-jean-luc-brunel) [↗](/relationships/rel-fc2368a0d1e5) (1)
+- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Peter Thiel](/entities/person-peter-thiel) [↗](/relationships/rel-2713d2a93225) (1)
+- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Faith Kates](/entities/person-faith-kates) [↗](/relationships/rel-8fe80756341c) (1)
+- [Jerri L. Frantzve](/entities/person-jerri-l-frantzve) → [John Money](/entities/person-john-money) [↗](/relationships/rel-d158012b45e6) (1)
+- [Joe Rogan](/entities/person-joe-rogan) → [Theo Von](/entities/person-theo-von) [↗](/relationships/rel-e27ac5fda790) (1)
+- [John Money](/entities/person-john-money) → [Jerri L. Frantzve](/entities/person-jerri-l-frantzve) [↗](/relationships/rel-9d82be8dc3e2) (1)
+- [John Yep](/entities/person-john-yep) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-ce1271668940) (1)
+- [Josh Hammer](/entities/person-josh-hammer) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-5b041ab56476) (2)
+- [Judith Crist](/entities/person-judith-crist) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-24a4c82c91d1) (1)
+- [Kanye West](/entities/person-kanye-west) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-bdab6ba89e13) (3)
+- [Kash Patel](/entities/person-kash-patel) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-1a9aa90700d4) (2)
+- [Kash Patel](/entities/person-kash-patel) → [Dan Bongino](/entities/person-dan-bongino) [↗](/relationships/rel-32e16d1b6d0d) (1)
+- [Kouri Richins](/entities/person-kouri-richins) → [Chelsea Barney](/entities/person-chelsea-barney) [↗](/relationships/rel-12bb3e529ba1) (1)
+- [Laine Schoneberger](/entities/person-laine-schoneberger) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-8eb1abd9fe1f) (1)
+- [Marissa Streit](/entities/person-marissa-streit) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-79cfad367e8b) (1)
+- [Matt Lieb](/entities/person-matt-lieb) → [Bassem Youssef](/entities/person-bassem-youssef) [↗](/relationships/rel-2e0759c04b59) (1)
+- [Megyn Kelly](/entities/person-megyn-kelly) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-02e100668f6c) (1)
+- [Megyn Kelly](/entities/person-megyn-kelly) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-6a1ac44e5452) (1)
+- [Megyn Kelly](/entities/person-megyn-kelly) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-6aad6a1c8c90) (2)
+- [Megyn Kelly](/entities/person-megyn-kelly) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-220cad13ea66) (1)
+- [Michael Knowles](/entities/person-michael-knowles) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-f30ecaccc24f) (1)
+- [Michael McCoy](/entities/person-michael-mccoy) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-caf9d6a57f95) (1)
+- [Mike Mitchell](/entities/person-mike-mitchell) → [Nate Brooksby](/entities/person-nate-brooksby) [↗](/relationships/rel-ea2eec6695fd) (1)
+- [Mitt Romney](/entities/person-mitt-romney) → [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) [↗](/relationships/rel-5875fa442c61) (3)
+- [Nate Brooksby](/entities/person-nate-brooksby) → [Mike Mitchell](/entities/person-mike-mitchell) [↗](/relationships/rel-5b914ab21505) (1)
+- [Nathaniel Rothschild](/entities/person-nathaniel-rothschild) → [Ivanka Trump](/entities/person-ivanka-trump) [↗](/relationships/rel-cf9147b3f869) (1)
+- [Nathaniel Rothschild](/entities/person-nathaniel-rothschild) → [Jared Kushner](/entities/person-jared-kushner) [↗](/relationships/rel-81696f303e8f) (1)
+- [Nicole Rothstein](/entities/person-nicole-rothstein) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-64fb4a9f07da) (1)
+- [Pauline Robinson Pierce](/entities/person-pauline-robinson-pierce) → [Aleister Crowley](/entities/person-aleister-crowley) [↗](/relationships/rel-bce7ba65f9d2) (1)
+- [Peter Thiel](/entities/person-peter-thiel) → [Dave Rubin](/entities/person-dave-rubin) [↗](/relationships/rel-a34304e4ff12) (1)
+- [Peter Thiel](/entities/person-peter-thiel) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-f861654e90d7) (1)
+- [Renee (commenter; surname unverified)](/entities/anon-src-iB-YtO3UZOg-renee-commenter) → [Susanna (commenter's friend; surname unverified)](/entities/anon-src-iB-YtO3UZOg-susanna) [↗](/relationships/rel-210f5d120e90) (1)
+- [Rob McCoy](/entities/person-rob-mccoy) → [Thomas Michael Camino](/entities/person-thomas-michael-camino) [↗](/relationships/rel-65e0e5904629) (1)
+- [Robert (Dane Cook story character; surname unverified)](/entities/person-robert-dane-cook-story-character) → [Dane Cook](/entities/person-dane-cook) [↗](/relationships/rel-058fb79f8ed0) (1)
+- [Roger J. Stone Jr.](/entities/person-roger-j-stone-jr) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-90ce6188fa66) (1)
+- [Seth Dillon](/entities/person-seth-dillon) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-49e6606a6512) (1)
+- [Stacey Sheridan](/entities/person-stacey-sheridan) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-7df250ae942b) (1)
+- [Susanna (commenter's friend; surname unverified)](/entities/anon-src-iB-YtO3UZOg-susanna) → [Renee (commenter; surname unverified)](/entities/anon-src-iB-YtO3UZOg-renee-commenter) [↗](/relationships/rel-b2995e5ef564) (1)
+- [Taylor Marshall](/entities/person-taylor-marshall) → [George Farmer](/entities/person-george-farmer) [↗](/relationships/rel-87e5545d480f) (1)
+- [Taylor Swift](/entities/person-taylor-swift) → [Blake Lively](/entities/person-blake-lively) [↗](/relationships/rel-64a58133a9fe) (1)
+- [Terry Crist](/entities/person-terry-crist) → [Brian Houston](/entities/person-brian-houston) [↗](/relationships/rel-cb0e562551bc) (1)
+- [Terry Crist](/entities/person-terry-crist) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-529f58b8ccb7) (1)
+- [Theo Von](/entities/person-theo-von) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-391f1694637c) (2)
+- [Theo Von](/entities/person-theo-von) → [Joe Rogan](/entities/person-joe-rogan) [↗](/relationships/rel-ae45d9b2c54d) (1)
+- [Thomas Michael Camino](/entities/person-thomas-michael-camino) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-8ef39f3141b4) (1)
+- [Tracy Martin](/entities/person-tracy-martin) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-452a412839e8) (8)
+- [Tucker Carlson](/entities/person-tucker-carlson) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-565573ca2ee8) (3)
+- [Tucker Carlson](/entities/person-tucker-carlson) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-7b7398f1c6f4) (2)
+- [Tucker Carlson](/entities/person-tucker-carlson) → [Dan Bongino](/entities/person-dan-bongino) [↗](/relationships/rel-b5db45aec784) (1)
+- [Tucker Carlson](/entities/person-tucker-carlson) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-a7e085cc94f7) (1)
+- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-04a9723e00f7) (2)
+- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Jake Hoffman](/entities/person-jake-hoffman) [↗](/relationships/rel-99a3fa1fd7f5) (1)
+- [Victor Marx](/entities/person-victor-marx) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-14fe38d0a456) (7)
+- [Victor Marx](/entities/person-victor-marx) → [Corby Hall](/entities/person-corby-hall) [↗](/relationships/rel-b2795f45307b) (1)
+- [Victor Marx](/entities/person-victor-marx) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-6a18b9b33957) (1)
+- [Victor Marx](/entities/person-victor-marx) → [Frank Turek](/entities/person-frank-turek) [↗](/relationships/rel-c6ee92d8515d) (1)
+- [Zachariah Qureshi](/entities/person-zachariah-qureshi) → [Connor Henderson](/entities/person-connor-henderson) [↗](/relationships/rel-4a18a32a3ba8) (1)
 
 </details>
 
@@ -1356,154 +1532,6 @@ This page shows all extracted relationships between entities. Click any relation
 - [Viktor Orbán](/entities/person-viktor-orban) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-d777d073437d) (1)
 - [Vine & Fig Tree Institute I, Inc.](/entities/org-vine-and-fig-tree-institute) → [Sebastian Gorka](/entities/person-sebastian-gorka) [↗](/relationships/rel-b48f99b9cbfc) (1)
 - [White House](/entities/org-white-house) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-34777bc93195) (1)
-
-</details>
-
-<details>
-<summary>Friend Of (142)</summary>
-
-- [Alan Edward Robertson](/entities/person-alan-edward-robertson) → [Christopher Haycock](/entities/person-christopher-haycock) [↗](/relationships/rel-9d90e3be7d07) (1)
-- [Aleister Crowley](/entities/person-aleister-crowley) → [Pauline Robinson Pierce](/entities/person-pauline-robinson-pierce) [↗](/relationships/rel-a4bca580094a) (1)
-- [Allie Beth Stuckey](/entities/person-allie-beth-stuckey) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-4bd696ee5743) (1)
-- [Andrew Kolvet](/entities/person-andrew-kolvet) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-efdc5e9edcf7) (1)
-- [Bassem Youssef](/entities/person-bassem-youssef) → [Matt Lieb](/entities/person-matt-lieb) [↗](/relationships/rel-cd0ea43dd4aa) (1)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-5baa6de0e6aa) (2)
-- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) → [Mitt Romney](/entities/person-mitt-romney) [↗](/relationships/rel-7edcb7ce3824) (3)
-- [Bill Montgomery](/entities/person-bill-montgomery) → [Helene Bartz](/entities/person-helene-bartz) [↗](/relationships/rel-239354a9462a) (1)
-- [Blake Lively](/entities/person-blake-lively) → [Taylor Swift](/entities/person-taylor-swift) [↗](/relationships/rel-2a91802c3b22) (1)
-- [Brad Parscale](/entities/person-brad-parscale) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-651d07e6accc) (1)
-- [Brian Houston](/entities/person-brian-houston) → [Terry Crist](/entities/person-terry-crist) [↗](/relationships/rel-426891118da1) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-7ee659d683bd) (39)
-- [Candace Owens](/entities/person-candace-owens) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-6cf6392a4bf9) (2)
-- [Candace Owens](/entities/person-candace-owens) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-c4bdb83b0b3e) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Jack Posobiec](/entities/person-jack-posobiec) [↗](/relationships/rel-fca31f432cf1) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Kanye West](/entities/person-kanye-west) [↗](/relationships/rel-ba179a3da6a5) (2)
-- [Candace Owens](/entities/person-candace-owens) → [Theo Von](/entities/person-theo-von) [↗](/relationships/rel-936074d472a9) (2)
-- [Candace Owens](/entities/person-candace-owens) → [Marissa Streit](/entities/person-marissa-streit) [↗](/relationships/rel-8d2b364945ee) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Brad Parscale](/entities/person-brad-parscale) [↗](/relationships/rel-493a9f1e6e40) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-25bc831d4703) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-7950500525d7) (34)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Seth Dillon](/entities/person-seth-dillon) [↗](/relationships/rel-72cc858d82d7) (2)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Josh Hammer](/entities/person-josh-hammer) [↗](/relationships/rel-1285854ee823) (2)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Michael Knowles](/entities/person-michael-knowles) [↗](/relationships/rel-48d1b15134e9) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Kash Patel](/entities/person-kash-patel) [↗](/relationships/rel-5e22b65fc25d) (2)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Jack Hibbs](/entities/person-jack-hibbs) [↗](/relationships/rel-4453e4a061b6) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-8bd99e2dd8f8) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Donald Trump Jr.](/entities/person-donald-trump-jr) [↗](/relationships/rel-2d419b00307d) (3)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Eric Trump](/entities/person-eric-trump) [↗](/relationships/rel-04c8c45bb0d3) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Allie Beth Stuckey](/entities/person-allie-beth-stuckey) [↗](/relationships/rel-4c1f246fb122) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Dan Bongino](/entities/person-dan-bongino) [↗](/relationships/rel-95ef74db93a7) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [John Yep](/entities/person-john-yep) [↗](/relationships/rel-f570ec3ab894) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Jake Hoffman](/entities/person-jake-hoffman) [↗](/relationships/rel-53700e572639) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-8e4204a2c4f8) (3)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-3a1ff2c8c5dd) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-4f22afedb68f) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Frank Turek](/entities/person-frank-turek) [↗](/relationships/rel-3bec34b5bc54) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Michael McCoy](/entities/person-michael-mccoy) [↗](/relationships/rel-0bd79289b4e1) (1)
-- [Chelsea Barney](/entities/person-chelsea-barney) → [Kouri Richins](/entities/person-kouri-richins) [↗](/relationships/rel-d8247e914bce) (1)
-- [Christopher Haycock](/entities/person-christopher-haycock) → [Alan Edward Robertson](/entities/person-alan-edward-robertson) [↗](/relationships/rel-c49167d53b69) (1)
-- [Connor Henderson](/entities/person-connor-henderson) → [Zachariah Qureshi](/entities/person-zachariah-qureshi) [↗](/relationships/rel-ec79c22ae94e) (1)
-- [Corby Hall](/entities/person-corby-hall) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-1cf092d44875) (1)
-- [Corey Comperatore](/entities/person-corey-comperatore) → [Don Porter (identity not independently verified)](/entities/anon-src-h76ZN-xXC6c-don-porter) [↗](/relationships/rel-43a984d15d82) (1)
-- [Dan Bongino](/entities/person-dan-bongino) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-c169fdf767dd) (1)
-- [Dan Bongino](/entities/person-dan-bongino) → [Kash Patel](/entities/person-kash-patel) [↗](/relationships/rel-629d1121ba02) (1)
-- [Dan Bongino](/entities/person-dan-bongino) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-65600004c8f0) (1)
-- [Dane Cook](/entities/person-dane-cook) → [Robert (Dane Cook story character; surname unverified)](/entities/person-robert-dane-cook-story-character) [↗](/relationships/rel-82c5608302e2) (1)
-- [Dave Rubin](/entities/person-dave-rubin) → [Peter Thiel](/entities/person-peter-thiel) [↗](/relationships/rel-abe239b8c513) (1)
-- [Don Porter (identity not independently verified)](/entities/anon-src-h76ZN-xXC6c-don-porter) → [Corey Comperatore](/entities/person-corey-comperatore) [↗](/relationships/rel-ac79e46a20bc) (1)
-- [Donald J. Trump](/entities/person-donald-trump) → [Giorgia Meloni](/entities/person-giorgia-meloni) [↗](/relationships/rel-beb0e05e3bb4) (1)
-- [Donald J. Trump](/entities/person-donald-trump) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-27c0a194822e) (3)
-- [Donald J. Trump](/entities/person-donald-trump) → [Roger J. Stone Jr.](/entities/person-roger-j-stone-jr) [↗](/relationships/rel-d72b6e575cc5) (1)
-- [Donald Trump Jr.](/entities/person-donald-trump-jr) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-991ffffe1c33) (3)
-- [Edith Montgomery](/entities/person-edith-montgomery) → [Helene Bartz](/entities/person-helene-bartz) [↗](/relationships/rel-ce2a6f5d1286) (1)
-- [Eileen Marx](/entities/person-eileen-marx) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-1587df5af0a8) (4)
-- [Eric Trump](/entities/person-eric-trump) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-7287fd464034) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-def2eb864f83) (2)
-- [Erika Kirk](/entities/person-erika-kirk) → [Tracy Martin](/entities/person-tracy-martin) [↗](/relationships/rel-f28aed1bbea0) (8)
-- [Erika Kirk](/entities/person-erika-kirk) → [Nicole Rothstein](/entities/person-nicole-rothstein) [↗](/relationships/rel-63ed46f9f885) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Terry Crist](/entities/person-terry-crist) [↗](/relationships/rel-d2b3d859cef8) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Judith Crist](/entities/person-judith-crist) [↗](/relationships/rel-4702a7ba5926) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-f98752e800df) (2)
-- [Erika Kirk](/entities/person-erika-kirk) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-5bee932b82aa) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Stacey Sheridan](/entities/person-stacey-sheridan) [↗](/relationships/rel-e7341eec809e) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-7e7404147182) (7)
-- [Erika Kirk](/entities/person-erika-kirk) → [Eileen Marx](/entities/person-eileen-marx) [↗](/relationships/rel-e5bae49a7832) (4)
-- [Erika Kirk](/entities/person-erika-kirk) → [JD Vance](/entities/person-jd-vance) [↗](/relationships/rel-fc53a99fa5ae) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Laine Schoneberger](/entities/person-laine-schoneberger) [↗](/relationships/rel-517763e48752) (1)
-- [Faith Kates](/entities/person-faith-kates) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-d644e5c3c6ab) (1)
-- [Fort Huachuca online poster (unidentified)](/entities/anon-src-x92mllihdzw-fort-huachuca-poster) → [Friend of Fort Huachuca online poster (unidentified)](/entities/anon-src-x92mllihdzw-poster-friend) [↗](/relationships/rel-07b4ac39e984) (1)
-- [Frank Turek](/entities/person-frank-turek) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-ef7d24a5a930) (1)
-- [Frank Turek](/entities/person-frank-turek) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-502e8bec2dcb) (1)
-- [Friend of Fort Huachuca online poster (unidentified)](/entities/anon-src-x92mllihdzw-poster-friend) → [Fort Huachuca online poster (unidentified)](/entities/anon-src-x92mllihdzw-fort-huachuca-poster) [↗](/relationships/rel-4d3e1783cd65) (1)
-- [George Farmer](/entities/person-george-farmer) → [Taylor Marshall](/entities/person-taylor-marshall) [↗](/relationships/rel-2690230bfe25) (1)
-- [Giorgia Meloni](/entities/person-giorgia-meloni) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-8022141aec0d) (1)
-- [Helene Bartz](/entities/person-helene-bartz) → [Bill Montgomery](/entities/person-bill-montgomery) [↗](/relationships/rel-d899a9b0b901) (1)
-- [Helene Bartz](/entities/person-helene-bartz) → [Edith Montgomery](/entities/person-edith-montgomery) [↗](/relationships/rel-7176c005d085) (1)
-- [Ivanka Trump](/entities/person-ivanka-trump) → [Nathaniel Rothschild](/entities/person-nathaniel-rothschild) [↗](/relationships/rel-86d1184b4abd) (1)
-- [Jack Hibbs](/entities/person-jack-hibbs) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-80bed1ca29a7) (1)
-- [Jack Posobiec](/entities/person-jack-posobiec) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-e14dda1835f1) (1)
-- [Jake Hoffman](/entities/person-jake-hoffman) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-d487cb84a5c3) (1)
-- [Jake Hoffman](/entities/person-jake-hoffman) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-9787b25fccb2) (1)
-- [Jared Kushner](/entities/person-jared-kushner) → [Nathaniel Rothschild](/entities/person-nathaniel-rothschild) [↗](/relationships/rel-c21a84099002) (1)
-- [JD Vance](/entities/person-jd-vance) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-fb0cfc190335) (1)
-- [Jean-Luc Brunel](/entities/person-jean-luc-brunel) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-4a66c4c78ef4) (1)
-- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Jean-Luc Brunel](/entities/person-jean-luc-brunel) [↗](/relationships/rel-fc2368a0d1e5) (1)
-- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Peter Thiel](/entities/person-peter-thiel) [↗](/relationships/rel-2713d2a93225) (1)
-- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Faith Kates](/entities/person-faith-kates) [↗](/relationships/rel-8fe80756341c) (1)
-- [Jerri L. Frantzve](/entities/person-jerri-l-frantzve) → [John Money](/entities/person-john-money) [↗](/relationships/rel-d158012b45e6) (1)
-- [Joe Rogan](/entities/person-joe-rogan) → [Theo Von](/entities/person-theo-von) [↗](/relationships/rel-e27ac5fda790) (1)
-- [John Money](/entities/person-john-money) → [Jerri L. Frantzve](/entities/person-jerri-l-frantzve) [↗](/relationships/rel-9d82be8dc3e2) (1)
-- [John Yep](/entities/person-john-yep) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-ce1271668940) (1)
-- [Josh Hammer](/entities/person-josh-hammer) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-5b041ab56476) (2)
-- [Judith Crist](/entities/person-judith-crist) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-24a4c82c91d1) (1)
-- [Kanye West](/entities/person-kanye-west) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-bdab6ba89e13) (2)
-- [Kash Patel](/entities/person-kash-patel) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-1a9aa90700d4) (2)
-- [Kash Patel](/entities/person-kash-patel) → [Dan Bongino](/entities/person-dan-bongino) [↗](/relationships/rel-32e16d1b6d0d) (1)
-- [Kouri Richins](/entities/person-kouri-richins) → [Chelsea Barney](/entities/person-chelsea-barney) [↗](/relationships/rel-12bb3e529ba1) (1)
-- [Laine Schoneberger](/entities/person-laine-schoneberger) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-8eb1abd9fe1f) (1)
-- [Marissa Streit](/entities/person-marissa-streit) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-79cfad367e8b) (1)
-- [Matt Lieb](/entities/person-matt-lieb) → [Bassem Youssef](/entities/person-bassem-youssef) [↗](/relationships/rel-2e0759c04b59) (1)
-- [Megyn Kelly](/entities/person-megyn-kelly) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-02e100668f6c) (1)
-- [Megyn Kelly](/entities/person-megyn-kelly) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-6a1ac44e5452) (1)
-- [Megyn Kelly](/entities/person-megyn-kelly) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-6aad6a1c8c90) (2)
-- [Megyn Kelly](/entities/person-megyn-kelly) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-220cad13ea66) (1)
-- [Michael Knowles](/entities/person-michael-knowles) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-f30ecaccc24f) (1)
-- [Michael McCoy](/entities/person-michael-mccoy) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-caf9d6a57f95) (1)
-- [Mike Mitchell](/entities/person-mike-mitchell) → [Nate Brooksby](/entities/person-nate-brooksby) [↗](/relationships/rel-ea2eec6695fd) (1)
-- [Mitt Romney](/entities/person-mitt-romney) → [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) [↗](/relationships/rel-5875fa442c61) (3)
-- [Nate Brooksby](/entities/person-nate-brooksby) → [Mike Mitchell](/entities/person-mike-mitchell) [↗](/relationships/rel-5b914ab21505) (1)
-- [Nathaniel Rothschild](/entities/person-nathaniel-rothschild) → [Ivanka Trump](/entities/person-ivanka-trump) [↗](/relationships/rel-cf9147b3f869) (1)
-- [Nathaniel Rothschild](/entities/person-nathaniel-rothschild) → [Jared Kushner](/entities/person-jared-kushner) [↗](/relationships/rel-81696f303e8f) (1)
-- [Nicole Rothstein](/entities/person-nicole-rothstein) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-64fb4a9f07da) (1)
-- [Pauline Robinson Pierce](/entities/person-pauline-robinson-pierce) → [Aleister Crowley](/entities/person-aleister-crowley) [↗](/relationships/rel-bce7ba65f9d2) (1)
-- [Peter Thiel](/entities/person-peter-thiel) → [Dave Rubin](/entities/person-dave-rubin) [↗](/relationships/rel-a34304e4ff12) (1)
-- [Peter Thiel](/entities/person-peter-thiel) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-f861654e90d7) (1)
-- [Renee (commenter; surname unverified)](/entities/anon-src-iB-YtO3UZOg-renee-commenter) → [Susanna (commenter's friend; surname unverified)](/entities/anon-src-iB-YtO3UZOg-susanna) [↗](/relationships/rel-210f5d120e90) (1)
-- [Rob McCoy](/entities/person-rob-mccoy) → [Thomas Michael Camino](/entities/person-thomas-michael-camino) [↗](/relationships/rel-65e0e5904629) (1)
-- [Robert (Dane Cook story character; surname unverified)](/entities/person-robert-dane-cook-story-character) → [Dane Cook](/entities/person-dane-cook) [↗](/relationships/rel-058fb79f8ed0) (1)
-- [Roger J. Stone Jr.](/entities/person-roger-j-stone-jr) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-90ce6188fa66) (1)
-- [Seth Dillon](/entities/person-seth-dillon) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-49e6606a6512) (1)
-- [Stacey Sheridan](/entities/person-stacey-sheridan) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-7df250ae942b) (1)
-- [Susanna (commenter's friend; surname unverified)](/entities/anon-src-iB-YtO3UZOg-susanna) → [Renee (commenter; surname unverified)](/entities/anon-src-iB-YtO3UZOg-renee-commenter) [↗](/relationships/rel-b2995e5ef564) (1)
-- [Taylor Marshall](/entities/person-taylor-marshall) → [George Farmer](/entities/person-george-farmer) [↗](/relationships/rel-87e5545d480f) (1)
-- [Taylor Swift](/entities/person-taylor-swift) → [Blake Lively](/entities/person-blake-lively) [↗](/relationships/rel-64a58133a9fe) (1)
-- [Terry Crist](/entities/person-terry-crist) → [Brian Houston](/entities/person-brian-houston) [↗](/relationships/rel-cb0e562551bc) (1)
-- [Terry Crist](/entities/person-terry-crist) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-529f58b8ccb7) (1)
-- [Theo Von](/entities/person-theo-von) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-391f1694637c) (2)
-- [Theo Von](/entities/person-theo-von) → [Joe Rogan](/entities/person-joe-rogan) [↗](/relationships/rel-ae45d9b2c54d) (1)
-- [Thomas Michael Camino](/entities/person-thomas-michael-camino) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-8ef39f3141b4) (1)
-- [Tracy Martin](/entities/person-tracy-martin) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-452a412839e8) (8)
-- [Tucker Carlson](/entities/person-tucker-carlson) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-565573ca2ee8) (3)
-- [Tucker Carlson](/entities/person-tucker-carlson) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-7b7398f1c6f4) (2)
-- [Tucker Carlson](/entities/person-tucker-carlson) → [Dan Bongino](/entities/person-dan-bongino) [↗](/relationships/rel-b5db45aec784) (1)
-- [Tucker Carlson](/entities/person-tucker-carlson) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-a7e085cc94f7) (1)
-- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-04a9723e00f7) (2)
-- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Jake Hoffman](/entities/person-jake-hoffman) [↗](/relationships/rel-99a3fa1fd7f5) (1)
-- [Victor Marx](/entities/person-victor-marx) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-14fe38d0a456) (7)
-- [Victor Marx](/entities/person-victor-marx) → [Corby Hall](/entities/person-corby-hall) [↗](/relationships/rel-b2795f45307b) (1)
-- [Victor Marx](/entities/person-victor-marx) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-6a18b9b33957) (1)
-- [Victor Marx](/entities/person-victor-marx) → [Frank Turek](/entities/person-frank-turek) [↗](/relationships/rel-c6ee92d8515d) (1)
-- [Zachariah Qureshi](/entities/person-zachariah-qureshi) → [Connor Henderson](/entities/person-connor-henderson) [↗](/relationships/rel-4a18a32a3ba8) (1)
 
 </details>
 
@@ -1920,7 +1948,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Worked With (116)</summary>
+<summary>Worked With (118)</summary>
 
 - [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) → [North Atlantic Treaty Organization](/entities/org-north-atlantic-treaty-organization) [↗](/relationships/rel-53d560a7204b) (1)
 - [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) → [Romanian Special Operations Forces Command](/entities/org-romanian-special-operations-forces-command) [↗](/relationships/rel-d2b594dca173) (1)
@@ -1956,6 +1984,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Justin Streiff](/entities/person-justin-streiff) [↗](/relationships/rel-92c70b2cab0c) (1)
 - [Clock Tower X LLC](/entities/org-clock-tower-x-llc) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-bf7ed756c5f3) (1)
 - [Corby Hall](/entities/person-corby-hall) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-a671e3cdf658) (2)
+- [Corey Lewandowski](/entities/person-corey-lewandowski) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-138dd013e70c) (1)
 - [Curtis Kolvet](/entities/person-curtis-kolvet) → [Robert Kolvet](/entities/person-robert-kolvet) [↗](/relationships/rel-316f07cf08de) (1)
 - [Eddie Farnsworth](/entities/person-eddie-farnsworth) → [Lori Frantzve](/entities/person-lori-frantzve) [↗](/relationships/rel-fce1b6d59b1d) (1)
 - [Erika Kirk](/entities/person-erika-kirk) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-23c1e8b9fd18) (3)
@@ -1993,6 +2022,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Jerri L. Frantzve](/entities/person-jerri-l-frantzve) → [John Money](/entities/person-john-money) [↗](/relationships/rel-5351550ed0ec) (1)
 - [Joe Montana](/entities/person-joe-montana) → [Jerry Rice](/entities/person-jerry-rice) [↗](/relationships/rel-6e19a1f01786) (1)
 - [John T. Golle](/entities/person-john-t-golle) → [Monsanto Company](/entities/org-monsanto) [↗](/relationships/rel-2307819b1b66) (1)
+- [Jordan Peterson](/entities/person-jordan-peterson) → [Johnnie Moore](/entities/person-johnnie-moore) [↗](/relationships/rel-993df3fa13d5) (1)
 - [Kanye West](/entities/person-kanye-west) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-9d466d7d7532) (1)
 - [Kenneth Starr](/entities/person-kenneth-starr) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-d897f6c7c1ad) (1)
 - [Lara Trump](/entities/person-lara-trump) → [Salem Media Group](/entities/org-salem-media-group) [↗](/relationships/rel-6f0ef741296c) (1)
@@ -2042,11 +2072,12 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Founded (87)</summary>
+<summary>Founded (89)</summary>
 
 - [Ahmed Qureshi](/entities/person-ahmed-qureshi) → [BILT Incorporated](/entities/org-bilt-incorporated) [↗](/relationships/rel-ed6c4e0453bc) (2)
 - [Alan Jacoby](/entities/person-alan-jacoby) → [Patriot Cigar Company](/entities/org-patriot-cigar-company) [↗](/relationships/rel-b904fb517cc7) (1)
 - [Aleister Crowley](/entities/person-aleister-crowley) → [Thelema](/entities/concept-thelema) [↗](/relationships/rel-b6a6853524c2) (1)
+- [Andrew Breitbart](/entities/person-andrew-breitbart) → [Breitbart News](/entities/org-breitbart-news) [↗](/relationships/rel-d08c47cbc781) (1)
 - [Andrew Kolvet](/entities/person-andrew-kolvet) → [KAIROS Company](/entities/org-kairos-company) [↗](/relationships/rel-52133e8d2941) (1)
 - [Andrew Wommack](/entities/person-andrew-wommack) → [Charis Bible College](/entities/org-charis-bible-college) [↗](/relationships/rel-450f689ae659) (1)
 - [Anton Szandor LaVey](/entities/person-anton-szandor-lavey) → [Church of Satan](/entities/org-church-of-satan) [↗](/relationships/rel-ea0449cc3c6f) (1)
@@ -2055,7 +2086,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Arnaud Brunel](/entities/person-arnaud-brunel) → [Next Management Corporation](/entities/org-next-management-corporation) [↗](/relationships/rel-efe9bae01b1c) (1)
 - [B'nai B'rith International](/entities/org-bnai-brith-international) → [Anti-Defamation League](/entities/org-anti-defamation-league) [↗](/relationships/rel-0d9a2c5a4a8d) (1)
 - [Bari Weiss](/entities/person-bari-weiss) → [The Free Press](/entities/org-the-free-press) [↗](/relationships/rel-18c3e7c9964a) (1)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-1694ba8e5cbc) (1)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-1694ba8e5cbc) (2)
 - [Bill Montgomery](/entities/person-bill-montgomery) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-df85ca1dfaf1) (2)
 - [Bob Coy](/entities/person-bob-coy) → [Calvary Chapel Pompano Beach](/entities/org-calvary-chapel-pompano-beach) [↗](/relationships/rel-4f280f8a8eb2) (1)
 - [Brian Houston](/entities/person-brian-houston) → [Hillsong Church](/entities/org-hillsong-church) [↗](/relationships/rel-033bd2bf4da3) (1)
@@ -2098,6 +2129,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Jeremy Boreing](/entities/person-jeremy-boreing) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-35e40c773027) (1)
 - [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr) → [Falkirk Center](/entities/org-falkirk-center) [↗](/relationships/rel-0d5348aea1c8) (2)
 - [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr) → [Liberty Godparent Home](/entities/org-liberty-godparent-home) [↗](/relationships/rel-6da67690ac90) (1)
+- [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr) → [Liberty University](/entities/org-liberty-university) [↗](/relationships/rel-8b3fcc43458d) (1)
 - [Joe Gebbia](/entities/person-joe-gebbia) → [Airbnb](/entities/org-airbnb) [↗](/relationships/rel-02fa3714539a) (1)
 - [Joel Finkelstein](/entities/person-joel-finkelstein) → [Network Contagion Research Institute](/entities/org-network-contagion-research-institute) [↗](/relationships/rel-d481d1607556) (1)
 - [John T. Golle](/entities/person-john-t-golle) → [Education Alternatives, Inc.](/entities/org-education-alternatives-inc) [↗](/relationships/rel-2036ef0eb3e1) (1)
@@ -2124,7 +2156,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Sam Walton](/entities/person-sam-walton) → [Walmart](/entities/org-walmart) [↗](/relationships/rel-c9d9ed278b2b) (1)
 - [Sergio Gor](/entities/person-sergio-gor) → [Winning Team Publishing](/entities/org-winning-team-publishing) [↗](/relationships/rel-9dbbe09ce9cf) (1)
 - [Stephen A. Feinberg](/entities/person-stephen-a-feinberg) → [Cerberus Capital Management](/entities/org-cerberus-capital-management) [↗](/relationships/rel-988f99138d1d) (1)
-- [Sun Myung Moon](/entities/person-sun-myung-moon) → [Unification Church](/entities/org-unification-church) [↗](/relationships/rel-39358c36b4a6) (2)
+- [Sun Myung Moon](/entities/person-sun-myung-moon) → [Unification Church](/entities/org-unification-church) [↗](/relationships/rel-39358c36b4a6) (1)
 - [T. Coleman du Pont](/entities/person-t-coleman-du-pont) → [Wilmington Trust](/entities/org-wilmington-trust) [↗](/relationships/rel-b88e386c721d) (2)
 - [Ted Dziak, S.J.](/entities/person-ted-dziak) → [Jesuit International Volunteers](/entities/org-jesuit-international-volunteers) [↗](/relationships/rel-4742f574aa0b) (1)
 - [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) → [Weber State University](/entities/org-weber-state-university) [↗](/relationships/rel-612a2c63ade6) (1)
@@ -2135,7 +2167,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Founded By (87)</summary>
+<summary>Founded By (89)</summary>
 
 - [Advanced Patent Technology, Inc.](/entities/org-advanced-patent-technology) → [Jack David Solomon](/entities/person-jack-david-solomon) [↗](/relationships/rel-249c7f11a290) (1)
 - [Advanced Patent Technology, Inc.](/entities/org-advanced-patent-technology) → [Norman LaVerne Vance](/entities/person-norman-laverne-vance) [↗](/relationships/rel-fb41b09f2815) (1)
@@ -2152,6 +2184,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [BILT Incorporated](/entities/org-bilt-incorporated) → [Nathan Henderson](/entities/person-nathan-henderson) [↗](/relationships/rel-117b81812809) (2)
 - [Blackwater](/entities/org-blackwater) → [Erik Prince](/entities/person-erik-prince) [↗](/relationships/rel-807c4220a27c) (1)
 - [Blexit](/entities/org-blexit) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-8eb2df8938be) (1)
+- [Breitbart News](/entities/org-breitbart-news) → [Andrew Breitbart](/entities/person-andrew-breitbart) [↗](/relationships/rel-227b3bf06344) (1)
 - [Calvary Chapel](/entities/org-calvary-chapel) → [Chuck Smith](/entities/person-chuck-smith) [↗](/relationships/rel-a926629efde7) (1)
 - [Calvary Chapel Pompano Beach](/entities/org-calvary-chapel-pompano-beach) → [Bob Coy](/entities/person-bob-coy) [↗](/relationships/rel-dfe95014feb5) (1)
 - [Carbyne](/entities/org-carbyne) → [Ehud Barak](/entities/person-ehud-barak) [↗](/relationships/rel-be7a79007631) (1)
@@ -2186,6 +2219,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [KAIROS Company](/entities/org-kairos-company) → [Johnnie Moore](/entities/person-johnnie-moore) [↗](/relationships/rel-10532f107390) (2)
 - [KAIROS Company](/entities/org-kairos-company) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-d2b0149f74f1) (1)
 - [Liberty Godparent Home](/entities/org-liberty-godparent-home) → [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr) [↗](/relationships/rel-01fb8cce5659) (1)
+- [Liberty University](/entities/org-liberty-university) → [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr) [↗](/relationships/rel-29a38d1616f1) (1)
 - [LinkedIn](/entities/org-linkedin) → [Reid Hoffman](/entities/person-reid-hoffman) [↗](/relationships/rel-131416bb70af) (1)
 - [Longwood Foundation](/entities/org-longwood-foundation) → [Pierre S. du Pont](/entities/person-pierre-s-du-pont) [↗](/relationships/rel-7316777b1070) (1)
 - [Mid-Peninsula High School](/entities/org-mid-peninsula-high-school) → [Philip Nelson Bliss](/entities/person-philip-nelson-bliss) [↗](/relationships/rel-9e83c54f905a) (1)
@@ -2205,7 +2239,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Telegram](/entities/org-telegram) → [Pavel Durov](/entities/person-pavel-durov) [↗](/relationships/rel-4a6539b08f24) (1)
 - [Temple of Set](/entities/org-temple-of-set) → [Michael Aquino](/entities/person-michael-aquino) [↗](/relationships/rel-1c0ea319b06c) (3)
 - [The Corcoran Group](/entities/org-corcoran-group) → [Lynn Forester de Rothschild](/entities/person-lynn-forester-de-rothschild) [↗](/relationships/rel-52614f1d5151) (1)
-- [The Daily Wire](/entities/org-the-daily-wire) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-b5f7ebd5903b) (1)
+- [The Daily Wire](/entities/org-the-daily-wire) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-b5f7ebd5903b) (2)
 - [The Daily Wire](/entities/org-the-daily-wire) → [Jeremy Boreing](/entities/person-jeremy-boreing) [↗](/relationships/rel-d4568af39241) (1)
 - [The Elm Group, LLC](/entities/org-the-elm-group-llc) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-40987c53c243) (1)
 - [The Family International](/entities/org-the-family-international) → [David Brandt Berg](/entities/person-david-brandt-berg) [↗](/relationships/rel-7bff2dfa3c92) (1)
@@ -2215,7 +2249,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Turning Point USA](/entities/org-turning-point-usa) → [Donald Trump Jr.](/entities/person-donald-trump-jr) [↗](/relationships/rel-a4fa71d2844d) (1)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Bill Montgomery](/entities/person-bill-montgomery) [↗](/relationships/rel-597055fdee85) (2)
 - [Turning Point USA Faith](/entities/org-turning-point-usa-faith) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-645caa354de2) (1)
-- [Unification Church](/entities/org-unification-church) → [Sun Myung Moon](/entities/person-sun-myung-moon) [↗](/relationships/rel-cc8e4a3b388a) (2)
+- [Unification Church](/entities/org-unification-church) → [Sun Myung Moon](/entities/person-sun-myung-moon) [↗](/relationships/rel-cc8e4a3b388a) (1)
 - [Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies) → [Jack David Solomon](/entities/person-jack-david-solomon) [↗](/relationships/rel-f884b7873d2c) (1)
 - [Walmart](/entities/org-walmart) → [Sam Walton](/entities/person-sam-walton) [↗](/relationships/rel-d04cba4daca2) (1)
 - [Weber State University](/entities/org-weber-state-university) → [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) [↗](/relationships/rel-9112c4086f0e) (1)
@@ -2228,13 +2262,15 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Accused (79)</summary>
+<summary>Accused (83)</summary>
 
 - [Alan Jacoby](/entities/person-alan-jacoby) → [Laura Loomer](/entities/person-laura-loomer) [↗](/relationships/rel-f42772eddcb6) (1)
 - [Alex Clark](/entities/person-alex-clark) → [Joe Kent](/entities/person-joe-kent) [↗](/relationships/rel-780b39fa5933) (1)
 - [Alexander Smirnov](/entities/person-alexander-smirnov) → [Joe Biden](/entities/person-joe-biden) [↗](/relationships/rel-227293bed7bc) (1)
 - [Alexis Wilkins](/entities/person-alexis-wilkins) → [Russia](/entities/gpe-russia) [↗](/relationships/rel-8ee865f0c2cc) (1)
 - [Andrew Kolvet](/entities/person-andrew-kolvet) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-9bd54fab702a) (1)
+- [Anonymous Source #4 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-004) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-773fb172a43d) (1)
+- [Anonymous Source #5 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-005) → [Turning Point Action](/entities/org-turning-point-action) [↗](/relationships/rel-96ff285a145c) (1)
 - [Baron Coleman](/entities/person-baron-coleman) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-b1ae90fab506) (1)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-7977569086a0) (2)
 - [Blake Lively](/entities/person-blake-lively) → [Justin Baldoni](/entities/person-justin-baldoni) [↗](/relationships/rel-3b0e1eceef81) (1)
@@ -2242,8 +2278,9 @@ This page shows all extracted relationships between entities. Click any relation
 - [Brooklyn Beckham](/entities/person-brooklyn-beckham) → [David Beckham](/entities/person-david-beckham) [↗](/relationships/rel-629f2537b45f) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Tyler Robinson](/entities/person-tyler-robinson) [↗](/relationships/rel-24cb350329e1) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Terryl Farnsworth](/entities/person-terryl-farnsworth) [↗](/relationships/rel-b6414a7bb0e8) (3)
-- [Candace Owens](/entities/person-candace-owens) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-ab7a21cdb37a) (3)
-- [Candace Owens](/entities/person-candace-owens) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-d40ce711cf71) (4)
+- [Candace Owens](/entities/person-candace-owens) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-ab7a21cdb37a) (4)
+- [Candace Owens](/entities/person-candace-owens) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-d40ce711cf71) (5)
+- [Candace Owens](/entities/person-candace-owens) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-82669b79e1ac) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Nick Fuentes](/entities/person-nick-fuentes) [↗](/relationships/rel-1480883b3a9c) (2)
 - [Candace Owens](/entities/person-candace-owens) → [Dave Rubin](/entities/person-dave-rubin) [↗](/relationships/rel-dedc94c6985a) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-ef3854efbcd3) (18)
@@ -2256,7 +2293,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Candace Owens](/entities/person-candace-owens) → [Jerri L. Frantzve](/entities/person-jerri-l-frantzve) [↗](/relationships/rel-a2cedbd8868d) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Eddie Farnsworth](/entities/person-eddie-farnsworth) [↗](/relationships/rel-9077781bb6c6) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Kash Patel](/entities/person-kash-patel) [↗](/relationships/rel-a29ce190a416) (3)
-- [Candace Owens](/entities/person-candace-owens) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-f4d9b3e82b81) (10)
+- [Candace Owens](/entities/person-candace-owens) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-f4d9b3e82b81) (11)
 - [Candace Owens](/entities/person-candace-owens) → [FBI](/entities/org-fbi) [↗](/relationships/rel-a157d171ea6d) (5)
 - [Candace Owens](/entities/person-candace-owens) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-d111bd102786) (4)
 - [Candace Owens](/entities/person-candace-owens) → [Brian Harpole](/entities/person-brian-harpole) [↗](/relationships/rel-9a97c4520d72) (3)
@@ -2295,6 +2332,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Laura Loomer](/entities/person-laura-loomer) → [George Farmer](/entities/person-george-farmer) [↗](/relationships/rel-b0e47b68fc8e) (4)
 - [Laura Loomer](/entities/person-laura-loomer) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-4b51668ae90f) (1)
 - [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson) → [John F. Kennedy](/entities/person-john-f-kennedy) [↗](/relationships/rel-1fbde08a176f) (1)
+- [Michelle Fields](/entities/person-michelle-fields) → [Corey Lewandowski](/entities/person-corey-lewandowski) [↗](/relationships/rel-83683f2a1ceb) (1)
 - [Milo Yiannopoulos](/entities/person-milo-yiannopoulos) → [Laura Loomer](/entities/person-laura-loomer) [↗](/relationships/rel-6c027179b7fe) (1)
 - [Nisscee](/entities/person-nisscee) → [Terryl Farnsworth](/entities/person-terryl-farnsworth) [↗](/relationships/rel-a42b704782f7) (1)
 - [Rob McCoy](/entities/person-rob-mccoy) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-6fa7326a93b1) (1)
@@ -2313,13 +2351,13 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Accused By (79)</summary>
+<summary>Accused By (83)</summary>
 
-- [Andrew Kolvet](/entities/person-andrew-kolvet) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-95be4ed9ee54) (10)
+- [Andrew Kolvet](/entities/person-andrew-kolvet) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-95be4ed9ee54) (11)
 - [Andrew Kolvet](/entities/person-andrew-kolvet) → [Baron Coleman](/entities/person-baron-coleman) [↗](/relationships/rel-eb6e36171698) (1)
 - [Andrew Wilson](/entities/person-andrew-wilson) → [UFO 120 (commenter; identity unverified)](/entities/anon-src-HGtMfbePDKk-015) [↗](/relationships/rel-6d7382da5669) (1)
 - [Antonio Placement Center](/entities/org-antonio-placement-center) → [Larissa (Email Correspondent; Surname Unverified)](/entities/anon-src-H9p2ZGHAs9A-004) [↗](/relationships/rel-8fe81a4c80c8) (1)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-d762c39ae2ec) (3)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-d762c39ae2ec) (4)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Steve Bannon](/entities/person-steve-bannon) [↗](/relationships/rel-88505df94318) (1)
 - [Blake Lively](/entities/person-blake-lively) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-046dce5c8457) (1)
 - [Brian Harpole](/entities/person-brian-harpole) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-e07916bfb907) (3)
@@ -2338,6 +2376,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Central Intelligence Agency](/entities/org-central-intelligence-agency) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-5b03751a0c71) (1)
 - [Corby Hall](/entities/person-corby-hall) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-68a4053c54c9) (1)
 - [Corby Hall](/entities/person-corby-hall) → [Cori Kennedy](/entities/person-cori-kennedy) [↗](/relationships/rel-d6aac5503185) (1)
+- [Corey Lewandowski](/entities/person-corey-lewandowski) → [Michelle Fields](/entities/person-michelle-fields) [↗](/relationships/rel-3bbbb0b856f5) (1)
 - [Dave Rubin](/entities/person-dave-rubin) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-1abdad2e8d64) (1)
 - [David Beckham](/entities/person-david-beckham) → [Brooklyn Beckham](/entities/person-brooklyn-beckham) [↗](/relationships/rel-197a1b2f7141) (1)
 - [Donald J. Trump](/entities/person-donald-trump) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-6310ac75cad3) (1)
@@ -2382,12 +2421,15 @@ This page shows all extracted relationships between entities. Click any relation
 - [Terrell Farnsworth](/entities/person-terrell-farnsworth) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-e2edd5cc654c) (4)
 - [Terryl Farnsworth](/entities/person-terryl-farnsworth) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-188630ea97e3) (3)
 - [Terryl Farnsworth](/entities/person-terryl-farnsworth) → [Nisscee](/entities/person-nisscee) [↗](/relationships/rel-02f530edc78d) (1)
+- [The Daily Wire](/entities/org-the-daily-wire) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-598ad36dc83e) (1)
 - [the federal government](/entities/org-the-federal-government) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-47834e72716a) (1)
 - [Tim Pool](/entities/person-tim-pool) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-f7d1466ba334) (1)
 - [Tracy Martin](/entities/person-tracy-martin) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-f31b3ef93fd7) (1)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Laura Loomer](/entities/person-laura-loomer) [↗](/relationships/rel-cfa6affeb752) (2)
+- [Turning Point Action](/entities/org-turning-point-action) → [Anonymous Source #5 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-005) [↗](/relationships/rel-90d72427eaa8) (1)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-101a68376a69) (18)
-- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-105b555e2dcc) (4)
+- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-105b555e2dcc) (5)
+- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Anonymous Source #4 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-004) [↗](/relationships/rel-122ea938e0ca) (1)
 - [Tyler Robinson](/entities/person-tyler-robinson) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-d6dcd34e5a46) (2)
 - [Tyler Robinson](/entities/person-tyler-robinson) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-3a712be7ce6d) (2)
 - [Victor Marx](/entities/person-victor-marx) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-ba5053e67e91) (4)
@@ -2723,6 +2765,60 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
+<summary>Member Of (48)</summary>
+
+- [2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-c548cf7f1c87) (1)
+- [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-13e42c3c7bfd) (1)
+- [6th Light Armored Brigade](/entities/org-6th-light-armored-brigade) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-5c7157ce5267) (1)
+- [6th Marine Regiment](/entities/org-6th-marine-regiment) → [United States Marine Corps](/entities/org-united-states-marine-corps) [↗](/relationships/rel-6cc3b8293ac8) (1)
+- [Alexis Wilkins](/entities/person-alexis-wilkins) → [Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills) [↗](/relationships/rel-f67119b6d027) (1)
+- [Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-c77cbcb3cce8) (1)
+- [Anonymous Source #2 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-002) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-3e34a28596e3) (1)
+- [Austin Smith](/entities/person-austin-smith) → [Arizona House of Representatives](/entities/org-arizona-house-of-representatives) [↗](/relationships/rel-a97f1cde15c8) (1)
+- [Brie Dale (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-brie-dale) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-4724215cce68) (1)
+- [Candace Owens](/entities/person-candace-owens) → [Catholic Church](/entities/org-catholic-church) [↗](/relationships/rel-0ffc9c940d1b) (4)
+- [Curtis Kolvet](/entities/person-curtis-kolvet) → [593rd Transportation Company](/entities/org-593rd-transportation-company) [↗](/relationships/rel-df6a0a0a92b6) (1)
+- [Dan Illouz](/entities/person-dan-illouz) → [Likud](/entities/org-likud) [↗](/relationships/rel-5076e306e65e) (1)
+- [Dan Illouz](/entities/person-dan-illouz) → [Knesset](/entities/org-knesset) [↗](/relationships/rel-d273bda3972a) (1)
+- [Daniel Beaulieu](/entities/person-daniel-beaulieu) → [Athanor lodge](/entities/org-athanor-lodge) [↗](/relationships/rel-82a5141a58d2) (1)
+- [Egypt](/entities/gpe-egypt) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-b2eaa202b014) (1)
+- [Fake Catholic (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-fake-catholic) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-0299b615d309) (1)
+- [France](/entities/gpe-france) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-23728d64f87a) (1)
+- [French Foreign Legionnaires](/entities/org-french-foreign-legionnaires) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-8c928fd1379d) (1)
+- [Frédéric Vaglio](/entities/person-frederic-vaglio) → [Athanor lodge](/entities/org-athanor-lodge) [↗](/relationships/rel-8d03dc91bc38) (1)
+- [Hunter Biden](/entities/person-hunter-biden) → [Catholic Church](/entities/org-catholic-church) [↗](/relationships/rel-f959ddf74ac5) (1)
+- [Insurrection Barbie (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-insurrection-barbie) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-3ece4d45b18b) (1)
+- [Iran](/entities/gpe-iran) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-773e65c4c290) (1)
+- [Israel](/entities/gpe-israel) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-cdec2586cfb3) (1)
+- [Jake Hoffman](/entities/person-jake-hoffman) → [Arizona State Senate](/entities/org-arizona-state-senate) [↗](/relationships/rel-d6fdc6421fd1) (1)
+- [Jean-Luc Bagur](/entities/person-jean-luc-bagur) → [Athanor lodge](/entities/org-athanor-lodge) [↗](/relationships/rel-80fc06cb9880) (1)
+- [Jennifer Faumuina](/entities/person-jennifer-faumuina) → [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces) [↗](/relationships/rel-7918cfc2f94c) (1)
+- [Kobe Bryant](/entities/person-kobe-bryant) → [Naismith Memorial Basketball Hall of Fame](/entities/org-naismith-memorial-basketball-hall-of-fame) [↗](/relationships/rel-f26b83a2e5e3) (1)
+- [Lisa Dean](/entities/person-lisa-dean) → [DuPont family](/entities/org-dupont-family) [↗](/relationships/rel-08b23dbfaf56) (1)
+- [Lyle Reams](/entities/person-lyle-reams) → [Tohono O'odham Nation](/entities/org-tohono-oodham-nation) [↗](/relationships/rel-f5fb42c1a3cd) (1)
+- [Milk Bar TV (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-milk-bar-tv) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-92ffc3178410) (1)
+- [Morocco](/entities/gpe-morocco) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-b1e80d5d980c) (1)
+- [National Guard regiments](/entities/org-national-guard-regiments) → [National Guard](/entities/org-national-guard) [↗](/relationships/rel-1df5324edde8) (1)
+- [Nick Shirley](/entities/person-nick-shirley) → [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) [↗](/relationships/rel-2a0e1d2b1a16) (1)
+- [No Soup for Knolls (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-no-soup-for-knolls) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-47976b08a365) (1)
+- [Paramount Not So Tactical (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-paramount-not-so-tactical) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-c7d1a369f5a2) (1)
+- [Paul Tracy Gerard](/entities/person-paul-tracy-gerard) → [Scottish Rite Freemasonry](/entities/concept-scottish-rite-freemasonry) [↗](/relationships/rel-b622a5284419) (1)
+- [Paul Tracy Gerard Jr.](/entities/person-paul-tracy-gerard-jr) → [Scabbard and Blade](/entities/org-scabbard-and-blade) [↗](/relationships/rel-c78f9dda0bb5) (1)
+- [Renee Crossman](/entities/person-renee-crossman) → [The Family International](/entities/org-the-family-international) [↗](/relationships/rel-896cccc3da3a) (2)
+- [Rhodesia](/entities/gpe-rhodesia) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-be9a5b44f62d) (1)
+- [Rob McCoy](/entities/person-rob-mccoy) → [Calvary Chapel Association](/entities/org-calvary-chapel-association) [↗](/relationships/rel-5773a2207435) (1)
+- [Robert Kolvet](/entities/person-robert-kolvet) → [485th Military Police Company](/entities/org-485th-military-police-company) [↗](/relationships/rel-d25aa537ce19) (1)
+- [Saudi Arabia](/entities/gpe-saudi-arabia) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-bf7d1607d18d) (1)
+- [Shady Lady Katie (X user; identity unverified)](/entities/anon-src-ChuWo-n49B8-shady-lady-katie) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-e605194e75db) (2)
+- [Sigmund Freud](/entities/person-sigmund-freud) → [B'nai B'rith International](/entities/org-bnai-brith-international) [↗](/relationships/rel-1eb4db65d3a9) (3)
+- [South Africa](/entities/gpe-south-africa) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-cfcfa0df4cc0) (1)
+- [True Detective (commenter; identity unverified)](/entities/anon-src-iB-YtO3UZOg-true-detective) → [Catholic Church](/entities/org-catholic-church) [↗](/relationships/rel-33d30c18a3a2) (1)
+- [UVU students](/entities/org-uvu-students) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-6485f55ba8fe) (1)
+- [Victoria Beckham](/entities/person-victoria-beckham) → [Spice Girls](/entities/org-spice-girls) [↗](/relationships/rel-afc044aefd37) (1)
+
+</details>
+
+<details>
 <summary>Funded (48)</summary>
 
 - [Alexander Karp](/entities/person-alex-karp) → [Israel Defense Forces](/entities/org-israel-defense-forces) [↗](/relationships/rel-a05ffa8b0f03) (1)
@@ -2777,6 +2873,60 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
+<summary>Has Member (48)</summary>
+
+- [485th Military Police Company](/entities/org-485th-military-police-company) → [Robert Kolvet](/entities/person-robert-kolvet) [↗](/relationships/rel-79d5e0ea183d) (1)
+- [593rd Transportation Company](/entities/org-593rd-transportation-company) → [Curtis Kolvet](/entities/person-curtis-kolvet) [↗](/relationships/rel-0d4b96e37270) (1)
+- [Arizona House of Representatives](/entities/org-arizona-house-of-representatives) → [Austin Smith](/entities/person-austin-smith) [↗](/relationships/rel-8f5bc86bf8d2) (1)
+- [Arizona State Senate](/entities/org-arizona-state-senate) → [Jake Hoffman](/entities/person-jake-hoffman) [↗](/relationships/rel-db6aca742d23) (1)
+- [Athanor lodge](/entities/org-athanor-lodge) → [Jean-Luc Bagur](/entities/person-jean-luc-bagur) [↗](/relationships/rel-ae587dc11784) (1)
+- [Athanor lodge](/entities/org-athanor-lodge) → [Frédéric Vaglio](/entities/person-frederic-vaglio) [↗](/relationships/rel-5352b60324c5) (1)
+- [Athanor lodge](/entities/org-athanor-lodge) → [Daniel Beaulieu](/entities/person-daniel-beaulieu) [↗](/relationships/rel-fc8f6bd46e42) (1)
+- [B'nai B'rith International](/entities/org-bnai-brith-international) → [Sigmund Freud](/entities/person-sigmund-freud) [↗](/relationships/rel-937c59c7a34a) (2)
+- [Calvary Chapel Association](/entities/org-calvary-chapel-association) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-d27009995f58) (1)
+- [Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills) → [Alexis Wilkins](/entities/person-alexis-wilkins) [↗](/relationships/rel-b493e7d831c0) (1)
+- [Catholic Church](/entities/org-catholic-church) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-77193860c59e) (4)
+- [Catholic Church](/entities/org-catholic-church) → [Hunter Biden](/entities/person-hunter-biden) [↗](/relationships/rel-d72393f57447) (1)
+- [Catholic Church](/entities/org-catholic-church) → [True Detective (commenter; identity unverified)](/entities/anon-src-iB-YtO3UZOg-true-detective) [↗](/relationships/rel-68a9d1b5c11f) (1)
+- [DuPont family](/entities/org-dupont-family) → [Lisa Dean](/entities/person-lisa-dean) [↗](/relationships/rel-dd5a5c0e249c) (1)
+- [French Foreign Legion](/entities/org-french-foreign-legion) → [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment) [↗](/relationships/rel-51d31178adb2) (1)
+- [French Foreign Legion](/entities/org-french-foreign-legion) → [6th Light Armored Brigade](/entities/org-6th-light-armored-brigade) [↗](/relationships/rel-3939b279f931) (1)
+- [French Foreign Legion](/entities/org-french-foreign-legion) → [2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment) [↗](/relationships/rel-81f81b92d229) (1)
+- [French Foreign Legion](/entities/org-french-foreign-legion) → [French Foreign Legionnaires](/entities/org-french-foreign-legionnaires) [↗](/relationships/rel-79820e42751a) (1)
+- [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces) → [Jennifer Faumuina](/entities/person-jennifer-faumuina) [↗](/relationships/rel-fca8f8ace7d4) (1)
+- [Knesset](/entities/org-knesset) → [Dan Illouz](/entities/person-dan-illouz) [↗](/relationships/rel-2c64082cd4b2) (1)
+- [Likud](/entities/org-likud) → [Dan Illouz](/entities/person-dan-illouz) [↗](/relationships/rel-9e483c5f4e11) (1)
+- [Naismith Memorial Basketball Hall of Fame](/entities/org-naismith-memorial-basketball-hall-of-fame) → [Kobe Bryant](/entities/person-kobe-bryant) [↗](/relationships/rel-63aa6a469786) (1)
+- [National Guard](/entities/org-national-guard) → [National Guard regiments](/entities/org-national-guard-regiments) [↗](/relationships/rel-29a40b5dea1e) (1)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Shady Lady Katie (X user; identity unverified)](/entities/anon-src-ChuWo-n49B8-shady-lady-katie) [↗](/relationships/rel-0187098f1613) (2)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Milk Bar TV (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-milk-bar-tv) [↗](/relationships/rel-647e73280cdb) (1)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [No Soup for Knolls (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-no-soup-for-knolls) [↗](/relationships/rel-58c54b26df06) (1)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Paramount Not So Tactical (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-paramount-not-so-tactical) [↗](/relationships/rel-450481078807) (1)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Brie Dale (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-brie-dale) [↗](/relationships/rel-9fff7d098ca1) (1)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Fake Catholic (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-fake-catholic) [↗](/relationships/rel-6c9c2fc98f1e) (1)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Insurrection Barbie (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-insurrection-barbie) [↗](/relationships/rel-db87e49639ce) (1)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001) [↗](/relationships/rel-1f64d4a9beef) (1)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Anonymous Source #2 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-002) [↗](/relationships/rel-27a0ed5c0549) (1)
+- [Safari Club](/entities/org-safari-club) → [Iran](/entities/gpe-iran) [↗](/relationships/rel-0e1b7534805a) (1)
+- [Safari Club](/entities/org-safari-club) → [Egypt](/entities/gpe-egypt) [↗](/relationships/rel-d77c1ea53c18) (1)
+- [Safari Club](/entities/org-safari-club) → [Saudi Arabia](/entities/gpe-saudi-arabia) [↗](/relationships/rel-5817e867741a) (1)
+- [Safari Club](/entities/org-safari-club) → [Morocco](/entities/gpe-morocco) [↗](/relationships/rel-d77ead68cd01) (1)
+- [Safari Club](/entities/org-safari-club) → [France](/entities/gpe-france) [↗](/relationships/rel-96312d37c8fd) (1)
+- [Safari Club](/entities/org-safari-club) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-b9ebe01e1da8) (1)
+- [Safari Club](/entities/org-safari-club) → [Rhodesia](/entities/gpe-rhodesia) [↗](/relationships/rel-f908eee67d9b) (1)
+- [Safari Club](/entities/org-safari-club) → [South Africa](/entities/gpe-south-africa) [↗](/relationships/rel-7776693ae3c2) (1)
+- [Scabbard and Blade](/entities/org-scabbard-and-blade) → [Paul Tracy Gerard Jr.](/entities/person-paul-tracy-gerard-jr) [↗](/relationships/rel-4d46ad1ea166) (1)
+- [Scottish Rite Freemasonry](/entities/concept-scottish-rite-freemasonry) → [Paul Tracy Gerard](/entities/person-paul-tracy-gerard) [↗](/relationships/rel-b3e228e840c1) (1)
+- [Spice Girls](/entities/org-spice-girls) → [Victoria Beckham](/entities/person-victoria-beckham) [↗](/relationships/rel-ad58ecb5fe88) (1)
+- [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) → [Nick Shirley](/entities/person-nick-shirley) [↗](/relationships/rel-76f2895f3504) (1)
+- [The Family International](/entities/org-the-family-international) → [Renee Crossman](/entities/person-renee-crossman) [↗](/relationships/rel-38c326980fb4) (2)
+- [Tohono O'odham Nation](/entities/org-tohono-oodham-nation) → [Lyle Reams](/entities/person-lyle-reams) [↗](/relationships/rel-78625f5d116d) (1)
+- [United States Marine Corps](/entities/org-united-states-marine-corps) → [6th Marine Regiment](/entities/org-6th-marine-regiment) [↗](/relationships/rel-e03c2a8a530d) (1)
+- [Utah Valley University](/entities/org-utah-valley-university) → [UVU students](/entities/org-uvu-students) [↗](/relationships/rel-885cd8129d11) (1)
+
+</details>
+
+<details>
 <summary>Funded By (48)</summary>
 
 - [America's Warrior Partnership](/entities/org-americas-warrior-partnership) → [Pure Talk](/entities/org-pure-talk) [↗](/relationships/rel-368b2dfd89f0) (6)
@@ -2827,112 +2977,6 @@ This page shows all extracted relationships between entities. Click any relation
 - [Turning Point USA](/entities/org-turning-point-usa) → [Karl Buckman](/entities/person-karl-buckman) [↗](/relationships/rel-41af941119fe) (2)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman) [↗](/relationships/rel-247e7b679479) (4)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Thomas H. Patrick](/entities/person-thomas-h-patrick) [↗](/relationships/rel-17f9a0e3284f) (1)
-
-</details>
-
-<details>
-<summary>Member Of (47)</summary>
-
-- [2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-c548cf7f1c87) (1)
-- [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-13e42c3c7bfd) (1)
-- [6th Light Armored Brigade](/entities/org-6th-light-armored-brigade) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-5c7157ce5267) (1)
-- [6th Marine Regiment](/entities/org-6th-marine-regiment) → [United States Marine Corps](/entities/org-united-states-marine-corps) [↗](/relationships/rel-6cc3b8293ac8) (1)
-- [Alexis Wilkins](/entities/person-alexis-wilkins) → [Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills) [↗](/relationships/rel-f67119b6d027) (1)
-- [Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-c77cbcb3cce8) (1)
-- [Anonymous Source #2 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-002) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-3e34a28596e3) (1)
-- [Brie Dale (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-brie-dale) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-4724215cce68) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Catholic Church](/entities/org-catholic-church) [↗](/relationships/rel-0ffc9c940d1b) (4)
-- [Curtis Kolvet](/entities/person-curtis-kolvet) → [593rd Transportation Company](/entities/org-593rd-transportation-company) [↗](/relationships/rel-df6a0a0a92b6) (1)
-- [Dan Illouz](/entities/person-dan-illouz) → [Likud](/entities/org-likud) [↗](/relationships/rel-5076e306e65e) (1)
-- [Dan Illouz](/entities/person-dan-illouz) → [Knesset](/entities/org-knesset) [↗](/relationships/rel-d273bda3972a) (1)
-- [Daniel Beaulieu](/entities/person-daniel-beaulieu) → [Athanor lodge](/entities/org-athanor-lodge) [↗](/relationships/rel-82a5141a58d2) (1)
-- [Egypt](/entities/gpe-egypt) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-b2eaa202b014) (1)
-- [Fake Catholic (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-fake-catholic) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-0299b615d309) (1)
-- [France](/entities/gpe-france) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-23728d64f87a) (1)
-- [French Foreign Legionnaires](/entities/org-french-foreign-legionnaires) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-8c928fd1379d) (1)
-- [Frédéric Vaglio](/entities/person-frederic-vaglio) → [Athanor lodge](/entities/org-athanor-lodge) [↗](/relationships/rel-8d03dc91bc38) (1)
-- [Hunter Biden](/entities/person-hunter-biden) → [Catholic Church](/entities/org-catholic-church) [↗](/relationships/rel-f959ddf74ac5) (1)
-- [Insurrection Barbie (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-insurrection-barbie) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-3ece4d45b18b) (1)
-- [Iran](/entities/gpe-iran) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-773e65c4c290) (1)
-- [Israel](/entities/gpe-israel) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-cdec2586cfb3) (1)
-- [Jake Hoffman](/entities/person-jake-hoffman) → [Arizona State Senate](/entities/org-arizona-state-senate) [↗](/relationships/rel-d6fdc6421fd1) (1)
-- [Jean-Luc Bagur](/entities/person-jean-luc-bagur) → [Athanor lodge](/entities/org-athanor-lodge) [↗](/relationships/rel-80fc06cb9880) (1)
-- [Jennifer Faumuina](/entities/person-jennifer-faumuina) → [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces) [↗](/relationships/rel-7918cfc2f94c) (1)
-- [Kobe Bryant](/entities/person-kobe-bryant) → [Naismith Memorial Basketball Hall of Fame](/entities/org-naismith-memorial-basketball-hall-of-fame) [↗](/relationships/rel-f26b83a2e5e3) (1)
-- [Lisa Dean](/entities/person-lisa-dean) → [DuPont family](/entities/org-dupont-family) [↗](/relationships/rel-08b23dbfaf56) (1)
-- [Lyle Reams](/entities/person-lyle-reams) → [Tohono O'odham Nation](/entities/org-tohono-oodham-nation) [↗](/relationships/rel-f5fb42c1a3cd) (1)
-- [Milk Bar TV (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-milk-bar-tv) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-92ffc3178410) (1)
-- [Morocco](/entities/gpe-morocco) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-b1e80d5d980c) (1)
-- [National Guard regiments](/entities/org-national-guard-regiments) → [National Guard](/entities/org-national-guard) [↗](/relationships/rel-1df5324edde8) (1)
-- [Nick Shirley](/entities/person-nick-shirley) → [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) [↗](/relationships/rel-2a0e1d2b1a16) (1)
-- [No Soup for Knolls (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-no-soup-for-knolls) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-47976b08a365) (1)
-- [Paramount Not So Tactical (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-paramount-not-so-tactical) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-c7d1a369f5a2) (1)
-- [Paul Tracy Gerard](/entities/person-paul-tracy-gerard) → [Scottish Rite Freemasonry](/entities/concept-scottish-rite-freemasonry) [↗](/relationships/rel-b622a5284419) (1)
-- [Paul Tracy Gerard Jr.](/entities/person-paul-tracy-gerard-jr) → [Scabbard and Blade](/entities/org-scabbard-and-blade) [↗](/relationships/rel-c78f9dda0bb5) (1)
-- [Renee Crossman](/entities/person-renee-crossman) → [The Family International](/entities/org-the-family-international) [↗](/relationships/rel-896cccc3da3a) (2)
-- [Rhodesia](/entities/gpe-rhodesia) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-be9a5b44f62d) (1)
-- [Rob McCoy](/entities/person-rob-mccoy) → [Calvary Chapel Association](/entities/org-calvary-chapel-association) [↗](/relationships/rel-5773a2207435) (1)
-- [Robert Kolvet](/entities/person-robert-kolvet) → [485th Military Police Company](/entities/org-485th-military-police-company) [↗](/relationships/rel-d25aa537ce19) (1)
-- [Saudi Arabia](/entities/gpe-saudi-arabia) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-bf7d1607d18d) (1)
-- [Shady Lady Katie (X user; identity unverified)](/entities/anon-src-ChuWo-n49B8-shady-lady-katie) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-e605194e75db) (2)
-- [Sigmund Freud](/entities/person-sigmund-freud) → [B'nai B'rith International](/entities/org-bnai-brith-international) [↗](/relationships/rel-1eb4db65d3a9) (3)
-- [South Africa](/entities/gpe-south-africa) → [Safari Club](/entities/org-safari-club) [↗](/relationships/rel-cfcfa0df4cc0) (1)
-- [True Detective (commenter; identity unverified)](/entities/anon-src-iB-YtO3UZOg-true-detective) → [Catholic Church](/entities/org-catholic-church) [↗](/relationships/rel-33d30c18a3a2) (1)
-- [UVU students](/entities/org-uvu-students) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-6485f55ba8fe) (1)
-- [Victoria Beckham](/entities/person-victoria-beckham) → [Spice Girls](/entities/org-spice-girls) [↗](/relationships/rel-afc044aefd37) (1)
-
-</details>
-
-<details>
-<summary>Has Member (47)</summary>
-
-- [485th Military Police Company](/entities/org-485th-military-police-company) → [Robert Kolvet](/entities/person-robert-kolvet) [↗](/relationships/rel-79d5e0ea183d) (1)
-- [593rd Transportation Company](/entities/org-593rd-transportation-company) → [Curtis Kolvet](/entities/person-curtis-kolvet) [↗](/relationships/rel-0d4b96e37270) (1)
-- [Arizona State Senate](/entities/org-arizona-state-senate) → [Jake Hoffman](/entities/person-jake-hoffman) [↗](/relationships/rel-db6aca742d23) (1)
-- [Athanor lodge](/entities/org-athanor-lodge) → [Jean-Luc Bagur](/entities/person-jean-luc-bagur) [↗](/relationships/rel-ae587dc11784) (1)
-- [Athanor lodge](/entities/org-athanor-lodge) → [Frédéric Vaglio](/entities/person-frederic-vaglio) [↗](/relationships/rel-5352b60324c5) (1)
-- [Athanor lodge](/entities/org-athanor-lodge) → [Daniel Beaulieu](/entities/person-daniel-beaulieu) [↗](/relationships/rel-fc8f6bd46e42) (1)
-- [B'nai B'rith International](/entities/org-bnai-brith-international) → [Sigmund Freud](/entities/person-sigmund-freud) [↗](/relationships/rel-937c59c7a34a) (2)
-- [Calvary Chapel Association](/entities/org-calvary-chapel-association) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-d27009995f58) (1)
-- [Calvary Chapel Chino Hills](/entities/org-calvary-chapel-chino-hills) → [Alexis Wilkins](/entities/person-alexis-wilkins) [↗](/relationships/rel-b493e7d831c0) (1)
-- [Catholic Church](/entities/org-catholic-church) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-77193860c59e) (4)
-- [Catholic Church](/entities/org-catholic-church) → [Hunter Biden](/entities/person-hunter-biden) [↗](/relationships/rel-d72393f57447) (1)
-- [Catholic Church](/entities/org-catholic-church) → [True Detective (commenter; identity unverified)](/entities/anon-src-iB-YtO3UZOg-true-detective) [↗](/relationships/rel-68a9d1b5c11f) (1)
-- [DuPont family](/entities/org-dupont-family) → [Lisa Dean](/entities/person-lisa-dean) [↗](/relationships/rel-dd5a5c0e249c) (1)
-- [French Foreign Legion](/entities/org-french-foreign-legion) → [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment) [↗](/relationships/rel-51d31178adb2) (1)
-- [French Foreign Legion](/entities/org-french-foreign-legion) → [6th Light Armored Brigade](/entities/org-6th-light-armored-brigade) [↗](/relationships/rel-3939b279f931) (1)
-- [French Foreign Legion](/entities/org-french-foreign-legion) → [2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment) [↗](/relationships/rel-81f81b92d229) (1)
-- [French Foreign Legion](/entities/org-french-foreign-legion) → [French Foreign Legionnaires](/entities/org-french-foreign-legionnaires) [↗](/relationships/rel-79820e42751a) (1)
-- [Joint Terrorism Task Forces](/entities/org-joint-terrorism-task-forces) → [Jennifer Faumuina](/entities/person-jennifer-faumuina) [↗](/relationships/rel-fca8f8ace7d4) (1)
-- [Knesset](/entities/org-knesset) → [Dan Illouz](/entities/person-dan-illouz) [↗](/relationships/rel-2c64082cd4b2) (1)
-- [Likud](/entities/org-likud) → [Dan Illouz](/entities/person-dan-illouz) [↗](/relationships/rel-9e483c5f4e11) (1)
-- [Naismith Memorial Basketball Hall of Fame](/entities/org-naismith-memorial-basketball-hall-of-fame) → [Kobe Bryant](/entities/person-kobe-bryant) [↗](/relationships/rel-63aa6a469786) (1)
-- [National Guard](/entities/org-national-guard) → [National Guard regiments](/entities/org-national-guard-regiments) [↗](/relationships/rel-29a40b5dea1e) (1)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Shady Lady Katie (X user; identity unverified)](/entities/anon-src-ChuWo-n49B8-shady-lady-katie) [↗](/relationships/rel-0187098f1613) (2)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Milk Bar TV (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-milk-bar-tv) [↗](/relationships/rel-647e73280cdb) (1)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [No Soup for Knolls (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-no-soup-for-knolls) [↗](/relationships/rel-58c54b26df06) (1)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Paramount Not So Tactical (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-paramount-not-so-tactical) [↗](/relationships/rel-450481078807) (1)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Brie Dale (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-brie-dale) [↗](/relationships/rel-9fff7d098ca1) (1)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Fake Catholic (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-fake-catholic) [↗](/relationships/rel-6c9c2fc98f1e) (1)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Insurrection Barbie (online handle; identity unverified)](/entities/anon-src-ChuWo-n49B8-insurrection-barbie) [↗](/relationships/rel-db87e49639ce) (1)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001) [↗](/relationships/rel-1f64d4a9beef) (1)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Anonymous Source #2 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-002) [↗](/relationships/rel-27a0ed5c0549) (1)
-- [Safari Club](/entities/org-safari-club) → [Iran](/entities/gpe-iran) [↗](/relationships/rel-0e1b7534805a) (1)
-- [Safari Club](/entities/org-safari-club) → [Egypt](/entities/gpe-egypt) [↗](/relationships/rel-d77c1ea53c18) (1)
-- [Safari Club](/entities/org-safari-club) → [Saudi Arabia](/entities/gpe-saudi-arabia) [↗](/relationships/rel-5817e867741a) (1)
-- [Safari Club](/entities/org-safari-club) → [Morocco](/entities/gpe-morocco) [↗](/relationships/rel-d77ead68cd01) (1)
-- [Safari Club](/entities/org-safari-club) → [France](/entities/gpe-france) [↗](/relationships/rel-96312d37c8fd) (1)
-- [Safari Club](/entities/org-safari-club) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-b9ebe01e1da8) (1)
-- [Safari Club](/entities/org-safari-club) → [Rhodesia](/entities/gpe-rhodesia) [↗](/relationships/rel-f908eee67d9b) (1)
-- [Safari Club](/entities/org-safari-club) → [South Africa](/entities/gpe-south-africa) [↗](/relationships/rel-7776693ae3c2) (1)
-- [Scabbard and Blade](/entities/org-scabbard-and-blade) → [Paul Tracy Gerard Jr.](/entities/person-paul-tracy-gerard-jr) [↗](/relationships/rel-4d46ad1ea166) (1)
-- [Scottish Rite Freemasonry](/entities/concept-scottish-rite-freemasonry) → [Paul Tracy Gerard](/entities/person-paul-tracy-gerard) [↗](/relationships/rel-b3e228e840c1) (1)
-- [Spice Girls](/entities/org-spice-girls) → [Victoria Beckham](/entities/person-victoria-beckham) [↗](/relationships/rel-ad58ecb5fe88) (1)
-- [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) → [Nick Shirley](/entities/person-nick-shirley) [↗](/relationships/rel-76f2895f3504) (1)
-- [The Family International](/entities/org-the-family-international) → [Renee Crossman](/entities/person-renee-crossman) [↗](/relationships/rel-38c326980fb4) (2)
-- [Tohono O'odham Nation](/entities/org-tohono-oodham-nation) → [Lyle Reams](/entities/person-lyle-reams) [↗](/relationships/rel-78625f5d116d) (1)
-- [United States Marine Corps](/entities/org-united-states-marine-corps) → [6th Marine Regiment](/entities/org-6th-marine-regiment) [↗](/relationships/rel-e03c2a8a530d) (1)
-- [Utah Valley University](/entities/org-utah-valley-university) → [UVU students](/entities/org-uvu-students) [↗](/relationships/rel-885cd8129d11) (1)
 
 </details>
 
@@ -3069,10 +3113,11 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Supporter Of (33)</summary>
+<summary>Supporter Of (35)</summary>
 
 - [Advocates for Faith & Freedom](/entities/org-advocates-faith-freedom) → [Hyun-bo Son](/entities/person-hyun-bo-son) [↗](/relationships/rel-31166b88106c) (1)
 - [Alex Jones](/entities/person-alex-jones) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-803215b42eea) (1)
+- [American Freedom Coalition](/entities/org-american-freedom-coalition) → [Oliver North](/entities/person-oliver-north) [↗](/relationships/rel-c07a6673dd4d) (1)
 - [Andrew Kolvet](/entities/person-andrew-kolvet) → [Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk](/entities/work-permission-to-kill-ncri-report) [↗](/relationships/rel-3596086284e3) (1)
 - [Baron Coleman](/entities/person-baron-coleman) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-5aaa57ce15fe) (1)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Ron DeSantis](/entities/person-ron-desantis) [↗](/relationships/rel-e35b0a0c1a37) (1)
@@ -3092,6 +3137,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Lindsey Graham](/entities/person-lindsey-graham) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-c27de5637aad) (2)
 - [Megyn Kelly](/entities/person-megyn-kelly) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-b3074e7faf14) (1)
 - [Megyn Kelly](/entities/person-megyn-kelly) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-1828dc174b12) (1)
+- [Megyn Kelly](/entities/person-megyn-kelly) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-434cbe34b18d) (1)
 - [Michele Bachmann](/entities/person-michele-bachmann) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-f38d78fc3b50) (1)
 - [Mike Huckabee](/entities/person-mike-huckabee) → [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard) [↗](/relationships/rel-a91c9cd6307e) (1)
 - [Never Trump movement](/entities/concept-never-trump-movement) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-05ca556fce5f) (1)
@@ -3108,7 +3154,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Supported By (33)</summary>
+<summary>Supported By (35)</summary>
 
 - [Al-Nusra Front](/entities/org-al-nusra-front) → [United States](/entities/gpe-united-states) [↗](/relationships/rel-e1d186caf5e1) (1)
 - [America's Warrior Partnership](/entities/org-americas-warrior-partnership) → [Pure Talk](/entities/org-pure-talk) [↗](/relationships/rel-078497fe088a) (1)
@@ -3131,10 +3177,12 @@ This page shows all extracted relationships between entities. Click any relation
 - [Israel](/entities/gpe-israel) → [Lindsey Graham](/entities/person-lindsey-graham) [↗](/relationships/rel-d68fee0963fd) (2)
 - [Israel](/entities/gpe-israel) → [Bill Ackman](/entities/person-bill-ackman) [↗](/relationships/rel-fc1c8ac82a10) (1)
 - [Israel](/entities/gpe-israel) → [United States](/entities/gpe-united-states) [↗](/relationships/rel-95667a7964c4) (2)
+- [Israel](/entities/gpe-israel) → [Megyn Kelly](/entities/person-megyn-kelly) [↗](/relationships/rel-2e234c6fe6ef) (1)
 - [JD Vance](/entities/person-jd-vance) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-d15e6a9cae73) (1)
 - [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard) → [Mike Huckabee](/entities/person-mike-huckabee) [↗](/relationships/rel-3e4f930b2388) (1)
 - [Kanye West](/entities/person-kanye-west) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-d560b34139f9) (2)
 - [Kata’ib Hizballah](/entities/org-kataib-hizballah) → [Iran](/entities/gpe-iran) [↗](/relationships/rel-b2b235deeede) (1)
+- [Oliver North](/entities/person-oliver-north) → [American Freedom Coalition](/entities/org-american-freedom-coalition) [↗](/relationships/rel-0ddfa9313274) (1)
 - [Permission to Kill: How Candace Owens Built a Digital Assassination Culture Targeting Erika Kirk](/entities/work-permission-to-kill-ncri-report) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-d3e10fff2cf1) (1)
 - [Project Veritas](/entities/org-project-veritas) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-1cd2b9e58df2) (1)
 - [Ron DeSantis](/entities/person-ron-desantis) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-7c7988e85c2c) (1)
@@ -3147,11 +3195,11 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Spoke At (32)</summary>
+<summary>Spoke At (34)</summary>
 
 - [Alex Clark](/entities/person-alex-clark) → [Young Women's Leadership Summit](/entities/org-ywls) [↗](/relationships/rel-572f82a78ad1) (1)
 - [Ben Shapiro](/entities/person-ben-shapiro) → [America Fest](/entities/event-america-fest) [↗](/relationships/rel-28a87994eb69) (1)
-- [Ben Shapiro](/entities/person-ben-shapiro) → [AmericaFest 2025](/entities/event-americafest-2025) [↗](/relationships/rel-e6c543a0983e) (2)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [AmericaFest 2025](/entities/event-americafest-2025) [↗](/relationships/rel-e6c543a0983e) (4)
 - [Candace Owens](/entities/person-candace-owens) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-518c32474b59) (2)
 - [Candace Owens](/entities/person-candace-owens) → [Catholics for Catholics](/entities/org-catholics-for-catholics) [↗](/relationships/rel-6fc9b27ea890) (3)
 - [Candace Owens](/entities/person-candace-owens) → [St. Petersburg International Economic Forum](/entities/event-saint-petersburg-international-economic-forum) [↗](/relationships/rel-cf1bc0eb8058) (1)
@@ -3174,25 +3222,29 @@ This page shows all extracted relationships between entities. Click any relation
 - [Erika Kirk](/entities/person-erika-kirk) → [Calvary Chapel Signal Hill](/entities/org-calvary-chapel-signal-hill) [↗](/relationships/rel-f65c108cc089) (1)
 - [Erika Kirk](/entities/person-erika-kirk) → [Young Women's Leadership Summit](/entities/org-ywls) [↗](/relationships/rel-2bf1d7a39a41) (3)
 - [Erika Kirk](/entities/person-erika-kirk) → [Calvary Chapel](/entities/org-calvary-chapel) [↗](/relationships/rel-381317f53ecc) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [AmericaFest 2025](/entities/event-americafest-2025) [↗](/relationships/rel-7ce1963248aa) (1)
 - [Frank Turek](/entities/person-frank-turek) → [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination) [↗](/relationships/rel-8a172c7b759a) (1)
 - [Michael T. Flynn](/entities/person-michael-t-flynn) → [Catholics for Catholics](/entities/org-catholics-for-catholics) [↗](/relationships/rel-4fe77b0ff34a) (1)
 - [Michele Bachmann](/entities/person-michele-bachmann) → [2025 Student Action Summit](/entities/event-2025-student-action-summit) [↗](/relationships/rel-08f349cc08ff) (1)
-- [Steve Bannon](/entities/person-steve-bannon) → [AmericaFest 2025](/entities/event-americafest-2025) [↗](/relationships/rel-8f6d5bda6054) (1)
+- [Steve Bannon](/entities/person-steve-bannon) → [AmericaFest 2025](/entities/event-americafest-2025) [↗](/relationships/rel-8f6d5bda6054) (2)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-52b4ccab1970) (2)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination) [↗](/relationships/rel-00613111304f) (1)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [2025 Student Action Summit](/entities/event-2025-student-action-summit) [↗](/relationships/rel-0068f469979d) (3)
+- [Tucker Carlson](/entities/person-tucker-carlson) → [AmericaFest 2025](/entities/event-americafest-2025) [↗](/relationships/rel-48bb676f558d) (1)
 
 </details>
 
 <details>
-<summary>Hosted Speaker (32)</summary>
+<summary>Hosted Speaker (34)</summary>
 
 - [2025 Student Action Summit](/entities/event-2025-student-action-summit) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-86d8661334ec) (3)
 - [2025 Student Action Summit](/entities/event-2025-student-action-summit) → [Michele Bachmann](/entities/person-michele-bachmann) [↗](/relationships/rel-71d50a417210) (1)
 - [2025 Student Action Summit](/entities/event-2025-student-action-summit) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-f7fe45f73158) (1)
 - [America Fest](/entities/event-america-fest) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-5a0869227c75) (1)
-- [AmericaFest 2025](/entities/event-americafest-2025) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-fb7203a15b3c) (2)
-- [AmericaFest 2025](/entities/event-americafest-2025) → [Steve Bannon](/entities/person-steve-bannon) [↗](/relationships/rel-4250fbb930ff) (1)
+- [AmericaFest 2025](/entities/event-americafest-2025) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-fb7203a15b3c) (4)
+- [AmericaFest 2025](/entities/event-americafest-2025) → [Steve Bannon](/entities/person-steve-bannon) [↗](/relationships/rel-4250fbb930ff) (2)
+- [AmericaFest 2025](/entities/event-americafest-2025) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-f43757628a31) (1)
+- [AmericaFest 2025](/entities/event-americafest-2025) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-a37c06e6492f) (1)
 - [Benedictine University](/entities/org-benedictine-university) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-2989e20fc78f) (1)
 - [Calvary Chapel](/entities/org-calvary-chapel) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-2a5b7d47b807) (1)
 - [Calvary Chapel Signal Hill](/entities/org-calvary-chapel-signal-hill) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-2ddc1cae1cd4) (1)
@@ -3256,6 +3308,114 @@ This page shows all extracted relationships between entities. Click any relation
 - [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr) → [Gary William Erpenbeck](/entities/person-gary-william-erpenbeck) [↗](/relationships/rel-e019113ad0c5) (1)
 - [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr) → [Jeffrey William Erpenbeck](/entities/person-jeffrey-william-erpenbeck) [↗](/relationships/rel-cc095abcd849) (1)
 - [William Erpenbeck Jr.](/entities/person-william-erpenbeck-jr) → [Lori Ann Erpenbeck](/entities/person-lori-ann-erpenbeck) [↗](/relationships/rel-84e92a19c548) (1)
+
+</details>
+
+<details>
+<summary>Married To (30)</summary>
+
+- [Andrew Guajardo](/entities/person-andrew-guajardo) → [Ashley Guajardo](/entities/person-ashley-guajardo) [↗](/relationships/rel-3e9a67b1252b) (1)
+- [Andrew Wilson](/entities/person-andrew-wilson) → [Rachel Wilson](/entities/person-rachel-wilson) [↗](/relationships/rel-a45728a6e15a) (2)
+- [Bill Montgomery](/entities/person-bill-montgomery) → [Edith Montgomery](/entities/person-edith-montgomery) [↗](/relationships/rel-2d07b371cab7) (1)
+- [Brooklyn Beckham](/entities/person-brooklyn-beckham) → [Nicola Peltz](/entities/person-nicola-peltz) [↗](/relationships/rel-87241907159a) (1)
+- [Candace Owens](/entities/person-candace-owens) → [George Farmer](/entities/person-george-farmer) [↗](/relationships/rel-0d9cf3fd6f6a) (15)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-2f4c5db438af) (2)
+- [Claudia Heffner Peltz](/entities/person-claudia-heffner-peltz) → [Nelson Peltz](/entities/person-nelson-peltz) [↗](/relationships/rel-6ccfc579946e) (1)
+- [Corby Hall](/entities/person-corby-hall) → [Melody Hall](/entities/person-melody-hall) [↗](/relationships/rel-55dd63672e18) (2)
+- [Elizabeth McCoy](/entities/person-elizabeth-mccoy) → [Michael McCoy](/entities/person-michael-mccoy) [↗](/relationships/rel-2e7ef597a438) (5)
+- [Emmanuel Macron](/entities/person-emmanuel-macron) → [Brigitte Macron](/entities/person-brigitte-macron) [↗](/relationships/rel-3eff4bb6a9b1) (2)
+- [Eric Trump](/entities/person-eric-trump) → [Lara Trump](/entities/person-lara-trump) [↗](/relationships/rel-89c4a9a55b72) (1)
+- [Helene Bartz](/entities/person-helene-bartz) → [Robert Otto Bartz](/entities/person-robert-otto-bartz) [↗](/relationships/rel-ab1276094719) (1)
+- [Hillary Clinton](/entities/person-hillary-clinton) → [Bill Clinton](/entities/person-bill-clinton) [↗](/relationships/rel-199174f521b0) (1)
+- [Hosea](/entities/person-hosea) → [Gomer, wife of Hosea](/entities/person-gomer-wife-of-hosea) [↗](/relationships/rel-5d1fff95e118) (1)
+- [Hunter Biden](/entities/person-hunter-biden) → [Melissa Cohen Biden](/entities/person-melissa-cohen-biden) [↗](/relationships/rel-25dcdddf6b0f) (1)
+- [Ivanka Trump](/entities/person-ivanka-trump) → [Jared Kushner](/entities/person-jared-kushner) [↗](/relationships/rel-94bba02f268c) (1)
+- [Jamie Weinstein](/entities/person-jamie-weinstein) → [Michelle Fields](/entities/person-michelle-fields) [↗](/relationships/rel-1384c5dee90f) (1)
+- [Jeremy Boreing](/entities/person-jeremy-boreing) → [Ann Hummel Boreing](/entities/person-ann-hummel-boreing) [↗](/relationships/rel-225f08583f87) (1)
+- [John Mappin](/entities/person-john-mappin) → [Irina Mappin](/entities/person-irina-mappin) [↗](/relationships/rel-108b1653f677) (1)
+- [Karl Buckman](/entities/person-karl-buckman) → [Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman) [↗](/relationships/rel-66768330b17e) (2)
+- [Karla Marie Frantzve Solomon](/entities/person-karla-marie-frantzve-solomon) → [Jack David Solomon](/entities/person-jack-david-solomon) [↗](/relationships/rel-527fdd874fab) (2)
+- [Laurie Cardoza-Moore](/entities/person-laurie-cardoza-moore) → [Stanley Clark Moore](/entities/person-stanley-clark-moore) [↗](/relationships/rel-aa1f0fe70e2a) (1)
+- [Loretta Abbas](/entities/person-loretta-abbas) → [Mason Abbas](/entities/person-mason-abbas) [↗](/relationships/rel-7ef9534d5afd) (1)
+- [Lori Frantzve](/entities/person-lori-frantzve) → [Larry Guinta](/entities/person-larry-guinta) [↗](/relationships/rel-68f7ef56127b) (2)
+- [Lyle Reams](/entities/person-lyle-reams) → [Shelly M. Reams](/entities/person-shelly-reams) [↗](/relationships/rel-760ed891025e) (1)
+- [Nathan Henderson](/entities/person-nathan-henderson) → [Gina Romney Henderson](/entities/person-gina-romney-henderson) [↗](/relationships/rel-da63d49f79f5) (1)
+- [Nicolae Ceaușescu](/entities/person-nicolae-ceausescu) → [Elena Ceaușescu](/entities/person-elena-ceausescu) [↗](/relationships/rel-6e8bf4c483cf) (1)
+- [Ryan Reynolds](/entities/person-ryan-reynolds) → [Blake Lively](/entities/person-blake-lively) [↗](/relationships/rel-082a192d7c81) (2)
+- [Terry Crist](/entities/person-terry-crist) → [Judith Crist](/entities/person-judith-crist) [↗](/relationships/rel-2d0788eca5b4) (1)
+- [Victor Marx](/entities/person-victor-marx) → [Eileen Marx](/entities/person-eileen-marx) [↗](/relationships/rel-54cf4242843a) (5)
+
+</details>
+
+<details>
+<summary>Authored (30)</summary>
+
+- [Allison Holker](/entities/person-allison-holker) → [Keep Dancing Through](/entities/work-keep-dancing-through) [↗](/relationships/rel-ad5ac8216256) (1)
+- [Ashley Guajardo](/entities/person-ashley-guajardo) → [Play Like a Fangirl](/entities/work-play-like-a-fangirl) [↗](/relationships/rel-80576d2d350c) (1)
+- [Ashley Guajardo](/entities/person-ashley-guajardo) → [Sexuality in Role-Playing Games](/entities/work-sexuality-in-role-playing-games) [↗](/relationships/rel-1fbcf82cbb51) (1)
+- [Brandy Zadrozny](/entities/person-brandy-zadrozny) → [The Deep End: Who Killed Charlie Kirk?](/entities/work-the-deep-end-who-killed-charlie-kirk) [↗](/relationships/rel-eb4b721a69f5) (1)
+- [Candace Owens](/entities/person-candace-owens) → [Blackout](/entities/work-blackout) [↗](/relationships/rel-b94c23c80879) (5)
+- [Candace Owens](/entities/person-candace-owens) → [Make Him a Sandwich](/entities/work-make-him-a-sandwich) [↗](/relationships/rel-530b582377ec) (16)
+- [Candace Owens](/entities/person-candace-owens) → [Kamala Chronicles](/entities/work-kamala-chronicles) [↗](/relationships/rel-71a3f43d7ddf) (1)
+- [Cathy O'Brien](/entities/person-cathy-obrien) → [Trance Formation of America](/entities/work-trance-formation-of-america) [↗](/relationships/rel-e766230723f9) (1)
+- [Dave Rubin](/entities/person-dave-rubin) → [Don't Burn This Book](/entities/work-dont-burn-this-book) [↗](/relationships/rel-56a711c1b286) (1)
+- [Deborah Hertz](/entities/person-deborah-hertz) → [Dangerous Politics, Dangerous Liaisons: Love and Terror Among Jewish Women Radicals in Czarist Russia](/entities/work-dangerous-politics-dangerous-liaisons) [↗](/relationships/rel-e47e7645d493) (1)
+- [Emily Ratajkowski](/entities/person-emily-ratajkowski) → [Mother F*cker](/entities/work-mother-fcker-essay) [↗](/relationships/rel-7994f51e781d) (1)
+- [Frank Turek](/entities/person-frank-turek) → [Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes) [↗](/relationships/rel-e57c70f7154e) (1)
+- [Frank Zachary Turek](/entities/person-frank-zachary-turek) → [Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes) [↗](/relationships/rel-cffbda05c955) (1)
+- [George Orwell](/entities/person-george-orwell) → [Nineteen Eighty-Four](/entities/work-nineteen-eighty-four) [↗](/relationships/rel-f147cef6a318) (1)
+- [Jake Hoffman](/entities/person-jake-hoffman) → [Arizona Senate Bill 1439 (2026)](/entities/law-arizona-sb-1439-2026) [↗](/relationships/rel-60f3f13f6bf7) (1)
+- [Jeffrey Moussaieff Masson](/entities/person-jeffrey-moussaieff-masson) → [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth) [↗](/relationships/rel-799534151fe3) (1)
+- [John Mearsheimer](/entities/person-john-mearsheimer) → [The Israel Lobby and U.S. Foreign Policy](/entities/work-the-israel-lobby) [↗](/relationships/rel-1624c79054c9) (1)
+- [Kouri Richins](/entities/person-kouri-richins) → [Are You With Me?](/entities/work-are-you-with-me-kouri-richins) [↗](/relationships/rel-345cb6a06b8c) (2)
+- [Kristine Ask](/entities/person-kristine-ask) → [Play Like a Fangirl](/entities/work-play-like-a-fangirl) [↗](/relationships/rel-0c113d604357) (1)
+- [Michael Aquino](/entities/person-michael-aquino) → [MindWar](/entities/work-mindwar) [↗](/relationships/rel-83d8b0f1cb77) (2)
+- [Natalie Grant](/entities/person-natalie-grant) → [Held (Natalie Grant song)](/entities/work-held-natalie-grant-song) [↗](/relationships/rel-fd7c638888e0) (1)
+- [Nicholas Hagger](/entities/person-nicholas-hagger) → [The Secret Founding of America](/entities/work-the-secret-founding-of-america) [↗](/relationships/rel-e7006d6517c9) (2)
+- [Patrea Patrick](/entities/person-patrea-patrick) → [Black Start](/entities/work-black-start-documentary) [↗](/relationships/rel-9fa35f5aa4c8) (1)
+- [Paul E. Vallely](/entities/person-paul-e-vallely) → [MindWar](/entities/work-mindwar) [↗](/relationships/rel-5dc4a0d712a0) (2)
+- [Rob Skiba](/entities/person-rob-skiba) → [Babylon Rising: And the First Shall Be Last](/entities/work-babylon-rising-and-the-first-shall-be-last) [↗](/relationships/rel-de11f520c53b) (2)
+- [Scott Adams](/entities/person-scott-adams) → [Dilbert](/entities/work-dilbert) [↗](/relationships/rel-25283d65fef3) (1)
+- [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss) → [Keep Dancing Through](/entities/work-keep-dancing-through) [↗](/relationships/rel-994eb6678c85) (1)
+- [Tanja Sihvonen](/entities/person-tanja-sihvonen) → [Play Like a Fangirl](/entities/work-play-like-a-fangirl) [↗](/relationships/rel-1bf98c2a8c4f) (1)
+- [Viktor Ostrovsky](/entities/person-viktor-ostrovsky) → [By Way of Deception](/entities/work-by-way-of-deception) [↗](/relationships/rel-8f510ed221ed) (1)
+- [Xavier Poussard](/entities/person-xavier-poussard) → [Becoming Brigitte](/entities/work-becoming-brigitte) [↗](/relationships/rel-91d77fc64ed5) (1)
+
+</details>
+
+<details>
+<summary>Authored By (30)</summary>
+
+- [Are You With Me?](/entities/work-are-you-with-me-kouri-richins) → [Kouri Richins](/entities/person-kouri-richins) [↗](/relationships/rel-ec00e7b482f0) (2)
+- [Arizona Senate Bill 1439 (2026)](/entities/law-arizona-sb-1439-2026) → [Jake Hoffman](/entities/person-jake-hoffman) [↗](/relationships/rel-454e140679cc) (1)
+- [Babylon Rising: And the First Shall Be Last](/entities/work-babylon-rising-and-the-first-shall-be-last) → [Rob Skiba](/entities/person-rob-skiba) [↗](/relationships/rel-6c96a29127d8) (2)
+- [Becoming Brigitte](/entities/work-becoming-brigitte) → [Xavier Poussard](/entities/person-xavier-poussard) [↗](/relationships/rel-ba3dc7029157) (1)
+- [Black Start](/entities/work-black-start-documentary) → [Patrea Patrick](/entities/person-patrea-patrick) [↗](/relationships/rel-d71c3ca4126b) (1)
+- [Blackout](/entities/work-blackout) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-c41903f53815) (5)
+- [By Way of Deception](/entities/work-by-way-of-deception) → [Viktor Ostrovsky](/entities/person-viktor-ostrovsky) [↗](/relationships/rel-3a2f015c78da) (1)
+- [Dangerous Politics, Dangerous Liaisons: Love and Terror Among Jewish Women Radicals in Czarist Russia](/entities/work-dangerous-politics-dangerous-liaisons) → [Deborah Hertz](/entities/person-deborah-hertz) [↗](/relationships/rel-badd4d9d2033) (1)
+- [Dilbert](/entities/work-dilbert) → [Scott Adams](/entities/person-scott-adams) [↗](/relationships/rel-e79630522dbd) (1)
+- [Don't Burn This Book](/entities/work-dont-burn-this-book) → [Dave Rubin](/entities/person-dave-rubin) [↗](/relationships/rel-1a70d9400751) (1)
+- [Held (Natalie Grant song)](/entities/work-held-natalie-grant-song) → [Natalie Grant](/entities/person-natalie-grant) [↗](/relationships/rel-0eccf256e754) (1)
+- [Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes) → [Frank Turek](/entities/person-frank-turek) [↗](/relationships/rel-4f0728aeb95e) (1)
+- [Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes) → [Frank Zachary Turek](/entities/person-frank-zachary-turek) [↗](/relationships/rel-ab0d619def45) (1)
+- [Kamala Chronicles](/entities/work-kamala-chronicles) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-88cd7b7be2e0) (1)
+- [Keep Dancing Through](/entities/work-keep-dancing-through) → [Allison Holker](/entities/person-allison-holker) [↗](/relationships/rel-9e2e7af206d2) (1)
+- [Keep Dancing Through](/entities/work-keep-dancing-through) → [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss) [↗](/relationships/rel-c76da2c63ee6) (1)
+- [Make Him a Sandwich](/entities/work-make-him-a-sandwich) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-9a193c539a16) (16)
+- [MindWar](/entities/work-mindwar) → [Paul E. Vallely](/entities/person-paul-e-vallely) [↗](/relationships/rel-c76735861d19) (2)
+- [MindWar](/entities/work-mindwar) → [Michael Aquino](/entities/person-michael-aquino) [↗](/relationships/rel-9e94847eed4e) (2)
+- [Mother F*cker](/entities/work-mother-fcker-essay) → [Emily Ratajkowski](/entities/person-emily-ratajkowski) [↗](/relationships/rel-b05f6b28bdad) (1)
+- [Nineteen Eighty-Four](/entities/work-nineteen-eighty-four) → [George Orwell](/entities/person-george-orwell) [↗](/relationships/rel-2f272f8958ee) (1)
+- [Play Like a Fangirl](/entities/work-play-like-a-fangirl) → [Ashley Guajardo](/entities/person-ashley-guajardo) [↗](/relationships/rel-e49222ec8aea) (1)
+- [Play Like a Fangirl](/entities/work-play-like-a-fangirl) → [Kristine Ask](/entities/person-kristine-ask) [↗](/relationships/rel-a7034fe407a3) (1)
+- [Play Like a Fangirl](/entities/work-play-like-a-fangirl) → [Tanja Sihvonen](/entities/person-tanja-sihvonen) [↗](/relationships/rel-89107bedf1a5) (1)
+- [Sexuality in Role-Playing Games](/entities/work-sexuality-in-role-playing-games) → [Ashley Guajardo](/entities/person-ashley-guajardo) [↗](/relationships/rel-bf4a102fb545) (1)
+- [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth) → [Jeffrey Moussaieff Masson](/entities/person-jeffrey-moussaieff-masson) [↗](/relationships/rel-31824d1f3c29) (1)
+- [The Deep End: Who Killed Charlie Kirk?](/entities/work-the-deep-end-who-killed-charlie-kirk) → [Brandy Zadrozny](/entities/person-brandy-zadrozny) [↗](/relationships/rel-78d4bec0f4a1) (1)
+- [The Israel Lobby and U.S. Foreign Policy](/entities/work-the-israel-lobby) → [John Mearsheimer](/entities/person-john-mearsheimer) [↗](/relationships/rel-cebe02dcb95c) (1)
+- [The Secret Founding of America](/entities/work-the-secret-founding-of-america) → [Nicholas Hagger](/entities/person-nicholas-hagger) [↗](/relationships/rel-1131c2c0b01f) (2)
+- [Trance Formation of America](/entities/work-trance-formation-of-america) → [Cathy O'Brien](/entities/person-cathy-obrien) [↗](/relationships/rel-65c27155a08d) (1)
 
 </details>
 
@@ -3330,107 +3490,72 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Married To (29)</summary>
+<summary>Formerly Member Of (29)</summary>
 
-- [Andrew Guajardo](/entities/person-andrew-guajardo) → [Ashley Guajardo](/entities/person-ashley-guajardo) [↗](/relationships/rel-3e9a67b1252b) (1)
-- [Andrew Wilson](/entities/person-andrew-wilson) → [Rachel Wilson](/entities/person-rachel-wilson) [↗](/relationships/rel-a45728a6e15a) (2)
-- [Bill Montgomery](/entities/person-bill-montgomery) → [Edith Montgomery](/entities/person-edith-montgomery) [↗](/relationships/rel-2d07b371cab7) (1)
-- [Brooklyn Beckham](/entities/person-brooklyn-beckham) → [Nicola Peltz](/entities/person-nicola-peltz) [↗](/relationships/rel-87241907159a) (1)
-- [Candace Owens](/entities/person-candace-owens) → [George Farmer](/entities/person-george-farmer) [↗](/relationships/rel-0d9cf3fd6f6a) (15)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-2f4c5db438af) (2)
-- [Claudia Heffner Peltz](/entities/person-claudia-heffner-peltz) → [Nelson Peltz](/entities/person-nelson-peltz) [↗](/relationships/rel-6ccfc579946e) (1)
-- [Corby Hall](/entities/person-corby-hall) → [Melody Hall](/entities/person-melody-hall) [↗](/relationships/rel-55dd63672e18) (2)
-- [Elizabeth McCoy](/entities/person-elizabeth-mccoy) → [Michael McCoy](/entities/person-michael-mccoy) [↗](/relationships/rel-2e7ef597a438) (5)
-- [Emmanuel Macron](/entities/person-emmanuel-macron) → [Brigitte Macron](/entities/person-brigitte-macron) [↗](/relationships/rel-3eff4bb6a9b1) (2)
-- [Eric Trump](/entities/person-eric-trump) → [Lara Trump](/entities/person-lara-trump) [↗](/relationships/rel-89c4a9a55b72) (1)
-- [Helene Bartz](/entities/person-helene-bartz) → [Robert Otto Bartz](/entities/person-robert-otto-bartz) [↗](/relationships/rel-ab1276094719) (1)
-- [Hillary Clinton](/entities/person-hillary-clinton) → [Bill Clinton](/entities/person-bill-clinton) [↗](/relationships/rel-199174f521b0) (1)
-- [Hosea](/entities/person-hosea) → [Gomer, wife of Hosea](/entities/person-gomer-wife-of-hosea) [↗](/relationships/rel-5d1fff95e118) (1)
-- [Hunter Biden](/entities/person-hunter-biden) → [Melissa Cohen Biden](/entities/person-melissa-cohen-biden) [↗](/relationships/rel-25dcdddf6b0f) (1)
-- [Ivanka Trump](/entities/person-ivanka-trump) → [Jared Kushner](/entities/person-jared-kushner) [↗](/relationships/rel-94bba02f268c) (1)
-- [Jeremy Boreing](/entities/person-jeremy-boreing) → [Ann Hummel Boreing](/entities/person-ann-hummel-boreing) [↗](/relationships/rel-225f08583f87) (1)
-- [John Mappin](/entities/person-john-mappin) → [Irina Mappin](/entities/person-irina-mappin) [↗](/relationships/rel-108b1653f677) (1)
-- [Karl Buckman](/entities/person-karl-buckman) → [Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman) [↗](/relationships/rel-66768330b17e) (2)
-- [Karla Marie Frantzve Solomon](/entities/person-karla-marie-frantzve-solomon) → [Jack David Solomon](/entities/person-jack-david-solomon) [↗](/relationships/rel-527fdd874fab) (2)
-- [Laurie Cardoza-Moore](/entities/person-laurie-cardoza-moore) → [Stanley Clark Moore](/entities/person-stanley-clark-moore) [↗](/relationships/rel-aa1f0fe70e2a) (1)
-- [Loretta Abbas](/entities/person-loretta-abbas) → [Mason Abbas](/entities/person-mason-abbas) [↗](/relationships/rel-7ef9534d5afd) (1)
-- [Lori Frantzve](/entities/person-lori-frantzve) → [Larry Guinta](/entities/person-larry-guinta) [↗](/relationships/rel-68f7ef56127b) (2)
-- [Lyle Reams](/entities/person-lyle-reams) → [Shelly M. Reams](/entities/person-shelly-reams) [↗](/relationships/rel-760ed891025e) (1)
-- [Nathan Henderson](/entities/person-nathan-henderson) → [Gina Romney Henderson](/entities/person-gina-romney-henderson) [↗](/relationships/rel-da63d49f79f5) (1)
-- [Nicolae Ceaușescu](/entities/person-nicolae-ceausescu) → [Elena Ceaușescu](/entities/person-elena-ceausescu) [↗](/relationships/rel-6e8bf4c483cf) (1)
-- [Ryan Reynolds](/entities/person-ryan-reynolds) → [Blake Lively](/entities/person-blake-lively) [↗](/relationships/rel-082a192d7c81) (2)
-- [Terry Crist](/entities/person-terry-crist) → [Judith Crist](/entities/person-judith-crist) [↗](/relationships/rel-2d0788eca5b4) (1)
-- [Victor Marx](/entities/person-victor-marx) → [Eileen Marx](/entities/person-eileen-marx) [↗](/relationships/rel-54cf4242843a) (5)
-
-</details>
-
-<details>
-<summary>Authored (29)</summary>
-
-- [Allison Holker](/entities/person-allison-holker) → [Keep Dancing Through](/entities/work-keep-dancing-through) [↗](/relationships/rel-ad5ac8216256) (1)
-- [Ashley Guajardo](/entities/person-ashley-guajardo) → [Play Like a Fangirl](/entities/work-play-like-a-fangirl) [↗](/relationships/rel-80576d2d350c) (1)
-- [Ashley Guajardo](/entities/person-ashley-guajardo) → [Sexuality in Role-Playing Games](/entities/work-sexuality-in-role-playing-games) [↗](/relationships/rel-1fbcf82cbb51) (1)
-- [Brandy Zadrozny](/entities/person-brandy-zadrozny) → [The Deep End: Who Killed Charlie Kirk?](/entities/work-the-deep-end-who-killed-charlie-kirk) [↗](/relationships/rel-eb4b721a69f5) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Blackout](/entities/work-blackout) [↗](/relationships/rel-b94c23c80879) (5)
-- [Candace Owens](/entities/person-candace-owens) → [Make Him a Sandwich](/entities/work-make-him-a-sandwich) [↗](/relationships/rel-530b582377ec) (16)
-- [Candace Owens](/entities/person-candace-owens) → [Kamala Chronicles](/entities/work-kamala-chronicles) [↗](/relationships/rel-71a3f43d7ddf) (1)
-- [Cathy O'Brien](/entities/person-cathy-obrien) → [Trance Formation of America](/entities/work-trance-formation-of-america) [↗](/relationships/rel-e766230723f9) (1)
-- [Dave Rubin](/entities/person-dave-rubin) → [Don't Burn This Book](/entities/work-dont-burn-this-book) [↗](/relationships/rel-56a711c1b286) (1)
-- [Deborah Hertz](/entities/person-deborah-hertz) → [Dangerous Politics, Dangerous Liaisons: Love and Terror Among Jewish Women Radicals in Czarist Russia](/entities/work-dangerous-politics-dangerous-liaisons) [↗](/relationships/rel-e47e7645d493) (1)
-- [Emily Ratajkowski](/entities/person-emily-ratajkowski) → [Mother F*cker](/entities/work-mother-fcker-essay) [↗](/relationships/rel-7994f51e781d) (1)
-- [Frank Turek](/entities/person-frank-turek) → [Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes) [↗](/relationships/rel-e57c70f7154e) (1)
-- [Frank Zachary Turek](/entities/person-frank-zachary-turek) → [Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes) [↗](/relationships/rel-cffbda05c955) (1)
-- [George Orwell](/entities/person-george-orwell) → [Nineteen Eighty-Four](/entities/work-nineteen-eighty-four) [↗](/relationships/rel-f147cef6a318) (1)
-- [Jake Hoffman](/entities/person-jake-hoffman) → [Arizona Senate Bill 1439 (2026)](/entities/law-arizona-sb-1439-2026) [↗](/relationships/rel-60f3f13f6bf7) (1)
-- [Jeffrey Moussaieff Masson](/entities/person-jeffrey-moussaieff-masson) → [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth) [↗](/relationships/rel-799534151fe3) (1)
-- [Kouri Richins](/entities/person-kouri-richins) → [Are You With Me?](/entities/work-are-you-with-me-kouri-richins) [↗](/relationships/rel-345cb6a06b8c) (2)
-- [Kristine Ask](/entities/person-kristine-ask) → [Play Like a Fangirl](/entities/work-play-like-a-fangirl) [↗](/relationships/rel-0c113d604357) (1)
-- [Michael Aquino](/entities/person-michael-aquino) → [MindWar](/entities/work-mindwar) [↗](/relationships/rel-83d8b0f1cb77) (2)
-- [Natalie Grant](/entities/person-natalie-grant) → [Held (Natalie Grant song)](/entities/work-held-natalie-grant-song) [↗](/relationships/rel-fd7c638888e0) (1)
-- [Nicholas Hagger](/entities/person-nicholas-hagger) → [The Secret Founding of America](/entities/work-the-secret-founding-of-america) [↗](/relationships/rel-e7006d6517c9) (2)
-- [Patrea Patrick](/entities/person-patrea-patrick) → [Black Start](/entities/work-black-start-documentary) [↗](/relationships/rel-9fa35f5aa4c8) (1)
-- [Paul E. Vallely](/entities/person-paul-e-vallely) → [MindWar](/entities/work-mindwar) [↗](/relationships/rel-5dc4a0d712a0) (2)
-- [Rob Skiba](/entities/person-rob-skiba) → [Babylon Rising: And the First Shall Be Last](/entities/work-babylon-rising-and-the-first-shall-be-last) [↗](/relationships/rel-de11f520c53b) (2)
-- [Scott Adams](/entities/person-scott-adams) → [Dilbert](/entities/work-dilbert) [↗](/relationships/rel-25283d65fef3) (1)
-- [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss) → [Keep Dancing Through](/entities/work-keep-dancing-through) [↗](/relationships/rel-994eb6678c85) (1)
-- [Tanja Sihvonen](/entities/person-tanja-sihvonen) → [Play Like a Fangirl](/entities/work-play-like-a-fangirl) [↗](/relationships/rel-1bf98c2a8c4f) (1)
-- [Viktor Ostrovsky](/entities/person-viktor-ostrovsky) → [By Way of Deception](/entities/work-by-way-of-deception) [↗](/relationships/rel-8f510ed221ed) (1)
-- [Xavier Poussard](/entities/person-xavier-poussard) → [Becoming Brigitte](/entities/work-becoming-brigitte) [↗](/relationships/rel-91d77fc64ed5) (1)
+- [Anonymous Source #5 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-005) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-fcd5badb7e68) (1)
+- [Benjamin M. Emanuel](/entities/person-benjamin-m-emanuel) → [Irgun](/entities/org-irgun) [↗](/relationships/rel-844dcb443157) (1)
+- [Bradley D. Hansell](/entities/person-bradley-d-hansell) → [National Security Council](/entities/org-national-security-council) [↗](/relationships/rel-190c739c6fae) (1)
+- [Carrie Prejean Boller](/entities/person-carrie-prejean-boller) → [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission) [↗](/relationships/rel-32303fec7ff6) (1)
+- [Christina Babin](/entities/person-christina-babin) → [The Family International](/entities/org-the-family-international) [↗](/relationships/rel-1df7db6f12ee) (1)
+- [Curtis Kolvet](/entities/person-curtis-kolvet) → [Nevada Army National Guard](/entities/org-nevada-army-national-guard) [↗](/relationships/rel-f7b4ae73d17b) (1)
+- [David Farnsworth](/entities/person-david-farnsworth) → [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) [↗](/relationships/rel-9ddf218a0532) (1)
+- [Dino Fantegrossi](/entities/person-dino-fantegrossi) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-29bc18892720) (1)
+- [Eddie Farnsworth](/entities/person-eddie-farnsworth) → [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) [↗](/relationships/rel-87b9a4e0f0f9) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Falkirk Center](/entities/org-falkirk-center) [↗](/relationships/rel-aec6059bfd54) (1)
+- [Frank William Gay](/entities/person-frank-william-gay) → [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) [↗](/relationships/rel-7d90f8a9a2d5) (1)
+- [Gary Javitch](/entities/person-gary-javitch) → [American Israel Public Affairs Committee](/entities/org-aipac) [↗](/relationships/rel-f935ac6c2b33) (1)
+- [Gary Melton](/entities/person-gary-melton) → [United States Army Special Forces](/entities/org-us-army-special-forces) [↗](/relationships/rel-d4dce7eecce7) (1)
+- [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy) → [United States Army](/entities/org-united-states-army) [↗](/relationships/rel-0a221a236a8a) (1)
+- [Hunter Biden](/entities/person-hunter-biden) → [Jesuit Volunteer Corps](/entities/org-jesuit-volunteer-corps) [↗](/relationships/rel-fba34f2ed3d9) (1)
+- [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr) → [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) [↗](/relationships/rel-cd7609af8a8c) (1)
+- [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr) → [Task Force 82](/entities/org-task-force-82) [↗](/relationships/rel-d31e48f6d339) (1)
+- [Joe Biden](/entities/person-joe-biden) → [United States Senate](/entities/org-us-senate) [↗](/relationships/rel-50ba6e494d1c) (1)
+- [Josh Harrellson](/entities/person-josh-harrellson) → [Miami Heat](/entities/org-miami-heat) [↗](/relationships/rel-f84a5ebfc395) (1)
+- [Josh Harrellson](/entities/person-josh-harrellson) → [Brujos de Guayama](/entities/org-brujos-de-guayama) [↗](/relationships/rel-64e78338ca3c) (1)
+- [Josh Harrellson](/entities/person-josh-harrellson) → [Chongqing Fly Dragons](/entities/org-chongqing-fly-dragons) [↗](/relationships/rel-1812dbaefa73) (1)
+- [Kenneth Wayne Himsel](/entities/person-kenneth-wayne-himsel) → [Indiana National Guard](/entities/org-indiana-national-guard) [↗](/relationships/rel-2370cef4eb86) (1)
+- [Michael Aquino](/entities/person-michael-aquino) → [Church of Satan](/entities/org-church-of-satan) [↗](/relationships/rel-161bc72c35b4) (1)
+- [Miriam Adelson](/entities/person-miriam-adelson) → [Israel Defense Forces](/entities/org-israel-defense-forces) [↗](/relationships/rel-e1c1d454c61c) (2)
+- [Mitch Snow](/entities/person-mitch-snow) → [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border) [↗](/relationships/rel-ea560876f723) (1)
+- [Rob O'Neill](/entities/person-rob-oneill) → [SEAL Team Six](/entities/org-seal-team-six) [↗](/relationships/rel-107aa7ce9fc6) (2)
+- [Tyler Massey](/entities/person-tyler-massey) → [Colorado Rockies](/entities/org-colorado-rockies) [↗](/relationships/rel-219408eacf90) (1)
+- [Veteran friend treated in Russia (identity withheld)](/entities/anon-src-h76ZN-xXC6c-veteran-friend) → [SEAL Team ONE](/entities/org-seal-team-one) [↗](/relationships/rel-975a5bc8bfc0) (1)
+- [Young American Revival](/entities/org-young-american-revival) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-14b649661b6c) (1)
 
 </details>
 
 <details>
-<summary>Authored By (29)</summary>
+<summary>Has Former Member (29)</summary>
 
-- [Are You With Me?](/entities/work-are-you-with-me-kouri-richins) → [Kouri Richins](/entities/person-kouri-richins) [↗](/relationships/rel-ec00e7b482f0) (2)
-- [Arizona Senate Bill 1439 (2026)](/entities/law-arizona-sb-1439-2026) → [Jake Hoffman](/entities/person-jake-hoffman) [↗](/relationships/rel-454e140679cc) (1)
-- [Babylon Rising: And the First Shall Be Last](/entities/work-babylon-rising-and-the-first-shall-be-last) → [Rob Skiba](/entities/person-rob-skiba) [↗](/relationships/rel-6c96a29127d8) (2)
-- [Becoming Brigitte](/entities/work-becoming-brigitte) → [Xavier Poussard](/entities/person-xavier-poussard) [↗](/relationships/rel-ba3dc7029157) (1)
-- [Black Start](/entities/work-black-start-documentary) → [Patrea Patrick](/entities/person-patrea-patrick) [↗](/relationships/rel-d71c3ca4126b) (1)
-- [Blackout](/entities/work-blackout) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-c41903f53815) (5)
-- [By Way of Deception](/entities/work-by-way-of-deception) → [Viktor Ostrovsky](/entities/person-viktor-ostrovsky) [↗](/relationships/rel-3a2f015c78da) (1)
-- [Dangerous Politics, Dangerous Liaisons: Love and Terror Among Jewish Women Radicals in Czarist Russia](/entities/work-dangerous-politics-dangerous-liaisons) → [Deborah Hertz](/entities/person-deborah-hertz) [↗](/relationships/rel-badd4d9d2033) (1)
-- [Dilbert](/entities/work-dilbert) → [Scott Adams](/entities/person-scott-adams) [↗](/relationships/rel-e79630522dbd) (1)
-- [Don't Burn This Book](/entities/work-dont-burn-this-book) → [Dave Rubin](/entities/person-dave-rubin) [↗](/relationships/rel-1a70d9400751) (1)
-- [Held (Natalie Grant song)](/entities/work-held-natalie-grant-song) → [Natalie Grant](/entities/person-natalie-grant) [↗](/relationships/rel-0eccf256e754) (1)
-- [Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes) → [Frank Turek](/entities/person-frank-turek) [↗](/relationships/rel-4f0728aeb95e) (1)
-- [Hollywood Heroes: How Your Favorite Movies Reveal God](/entities/work-hollywood-heroes) → [Frank Zachary Turek](/entities/person-frank-zachary-turek) [↗](/relationships/rel-ab0d619def45) (1)
-- [Kamala Chronicles](/entities/work-kamala-chronicles) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-88cd7b7be2e0) (1)
-- [Keep Dancing Through](/entities/work-keep-dancing-through) → [Allison Holker](/entities/person-allison-holker) [↗](/relationships/rel-9e2e7af206d2) (1)
-- [Keep Dancing Through](/entities/work-keep-dancing-through) → [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss) [↗](/relationships/rel-c76da2c63ee6) (1)
-- [Make Him a Sandwich](/entities/work-make-him-a-sandwich) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-9a193c539a16) (16)
-- [MindWar](/entities/work-mindwar) → [Paul E. Vallely](/entities/person-paul-e-vallely) [↗](/relationships/rel-c76735861d19) (2)
-- [MindWar](/entities/work-mindwar) → [Michael Aquino](/entities/person-michael-aquino) [↗](/relationships/rel-9e94847eed4e) (2)
-- [Mother F*cker](/entities/work-mother-fcker-essay) → [Emily Ratajkowski](/entities/person-emily-ratajkowski) [↗](/relationships/rel-b05f6b28bdad) (1)
-- [Nineteen Eighty-Four](/entities/work-nineteen-eighty-four) → [George Orwell](/entities/person-george-orwell) [↗](/relationships/rel-2f272f8958ee) (1)
-- [Play Like a Fangirl](/entities/work-play-like-a-fangirl) → [Ashley Guajardo](/entities/person-ashley-guajardo) [↗](/relationships/rel-e49222ec8aea) (1)
-- [Play Like a Fangirl](/entities/work-play-like-a-fangirl) → [Kristine Ask](/entities/person-kristine-ask) [↗](/relationships/rel-a7034fe407a3) (1)
-- [Play Like a Fangirl](/entities/work-play-like-a-fangirl) → [Tanja Sihvonen](/entities/person-tanja-sihvonen) [↗](/relationships/rel-89107bedf1a5) (1)
-- [Sexuality in Role-Playing Games](/entities/work-sexuality-in-role-playing-games) → [Ashley Guajardo](/entities/person-ashley-guajardo) [↗](/relationships/rel-bf4a102fb545) (1)
-- [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth) → [Jeffrey Moussaieff Masson](/entities/person-jeffrey-moussaieff-masson) [↗](/relationships/rel-31824d1f3c29) (1)
-- [The Deep End: Who Killed Charlie Kirk?](/entities/work-the-deep-end-who-killed-charlie-kirk) → [Brandy Zadrozny](/entities/person-brandy-zadrozny) [↗](/relationships/rel-78d4bec0f4a1) (1)
-- [The Secret Founding of America](/entities/work-the-secret-founding-of-america) → [Nicholas Hagger](/entities/person-nicholas-hagger) [↗](/relationships/rel-1131c2c0b01f) (2)
-- [Trance Formation of America](/entities/work-trance-formation-of-america) → [Cathy O'Brien](/entities/person-cathy-obrien) [↗](/relationships/rel-65c27155a08d) (1)
+- [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) → [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr) [↗](/relationships/rel-a2e014d85e85) (1)
+- [American Israel Public Affairs Committee](/entities/org-aipac) → [Gary Javitch](/entities/person-gary-javitch) [↗](/relationships/rel-805054edcff8) (1)
+- [Brujos de Guayama](/entities/org-brujos-de-guayama) → [Josh Harrellson](/entities/person-josh-harrellson) [↗](/relationships/rel-fcbb70b3d184) (1)
+- [Chongqing Fly Dragons](/entities/org-chongqing-fly-dragons) → [Josh Harrellson](/entities/person-josh-harrellson) [↗](/relationships/rel-72e642cd07ad) (1)
+- [Church of Satan](/entities/org-church-of-satan) → [Michael Aquino](/entities/person-michael-aquino) [↗](/relationships/rel-9f09f0722599) (1)
+- [Colorado Rockies](/entities/org-colorado-rockies) → [Tyler Massey](/entities/person-tyler-massey) [↗](/relationships/rel-0b8a154ba900) (1)
+- [Falkirk Center](/entities/org-falkirk-center) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-30c8eab21935) (1)
+- [Indiana National Guard](/entities/org-indiana-national-guard) → [Kenneth Wayne Himsel](/entities/person-kenneth-wayne-himsel) [↗](/relationships/rel-5b7e551bffb4) (1)
+- [Irgun](/entities/org-irgun) → [Benjamin M. Emanuel](/entities/person-benjamin-m-emanuel) [↗](/relationships/rel-f6fa3c3d6493) (1)
+- [Israel Defense Forces](/entities/org-israel-defense-forces) → [Miriam Adelson](/entities/person-miriam-adelson) [↗](/relationships/rel-785a436d513c) (2)
+- [Jesuit Volunteer Corps](/entities/org-jesuit-volunteer-corps) → [Hunter Biden](/entities/person-hunter-biden) [↗](/relationships/rel-b2739ff57609) (1)
+- [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border) → [Mitch Snow](/entities/person-mitch-snow) [↗](/relationships/rel-cb3336e7f434) (1)
+- [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) → [Eddie Farnsworth](/entities/person-eddie-farnsworth) [↗](/relationships/rel-f2711cd5ace1) (1)
+- [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) → [David Farnsworth](/entities/person-david-farnsworth) [↗](/relationships/rel-f49093503bf2) (1)
+- [Miami Heat](/entities/org-miami-heat) → [Josh Harrellson](/entities/person-josh-harrellson) [↗](/relationships/rel-40b245bbb6f6) (1)
+- [National Security Council](/entities/org-national-security-council) → [Bradley D. Hansell](/entities/person-bradley-d-hansell) [↗](/relationships/rel-eb15c8e16f4f) (1)
+- [Nevada Army National Guard](/entities/org-nevada-army-national-guard) → [Curtis Kolvet](/entities/person-curtis-kolvet) [↗](/relationships/rel-2f444c169448) (1)
+- [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission) → [Carrie Prejean Boller](/entities/person-carrie-prejean-boller) [↗](/relationships/rel-09204db4a585) (1)
+- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Anonymous Source #5 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-005) [↗](/relationships/rel-69750c8e72b8) (1)
+- [SEAL Team ONE](/entities/org-seal-team-one) → [Veteran friend treated in Russia (identity withheld)](/entities/anon-src-h76ZN-xXC6c-veteran-friend) [↗](/relationships/rel-f053eff29493) (1)
+- [SEAL Team Six](/entities/org-seal-team-six) → [Rob O'Neill](/entities/person-rob-oneill) [↗](/relationships/rel-b40c3e3c29bc) (2)
+- [Task Force 82](/entities/org-task-force-82) → [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr) [↗](/relationships/rel-0add7c7e597f) (1)
+- [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) → [Frank William Gay](/entities/person-frank-william-gay) [↗](/relationships/rel-c45b0fd65e77) (1)
+- [The Family International](/entities/org-the-family-international) → [Christina Babin](/entities/person-christina-babin) [↗](/relationships/rel-f58ca52c4bc4) (1)
+- [Turning Point USA](/entities/org-turning-point-usa) → [Young American Revival](/entities/org-young-american-revival) [↗](/relationships/rel-70a9fcb6e7d8) (1)
+- [Turning Point USA](/entities/org-turning-point-usa) → [Dino Fantegrossi](/entities/person-dino-fantegrossi) [↗](/relationships/rel-9286bff71f5a) (1)
+- [United States Army](/entities/org-united-states-army) → [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy) [↗](/relationships/rel-4d82a48b6959) (1)
+- [United States Army Special Forces](/entities/org-us-army-special-forces) → [Gary Melton](/entities/person-gary-melton) [↗](/relationships/rel-8b7c6ac48ac2) (1)
+- [United States Senate](/entities/org-us-senate) → [Joe Biden](/entities/person-joe-biden) [↗](/relationships/rel-b401850298a9) (1)
 
 </details>
 
@@ -3499,74 +3624,6 @@ This page shows all extracted relationships between entities. Click any relation
 - [Utah](/entities/gpe-utah) → [Jack David Solomon](/entities/person-jack-david-solomon) [↗](/relationships/rel-ec03079f5823) (1)
 - [Utah](/entities/gpe-utah) → [Karla Marie Frantzve Solomon](/entities/person-karla-marie-frantzve-solomon) [↗](/relationships/rel-3af973c9e9d2) (1)
 - [Virginia](/entities/gpe-virginia) → [Foster Curtiss](/entities/person-foster-curtiss) [↗](/relationships/rel-744f25106920) (1)
-
-</details>
-
-<details>
-<summary>Formerly Member Of (28)</summary>
-
-- [Anonymous Source #5 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-005) → [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) [↗](/relationships/rel-fcd5badb7e68) (1)
-- [Benjamin M. Emanuel](/entities/person-benjamin-m-emanuel) → [Irgun](/entities/org-irgun) [↗](/relationships/rel-844dcb443157) (1)
-- [Bradley D. Hansell](/entities/person-bradley-d-hansell) → [National Security Council](/entities/org-national-security-council) [↗](/relationships/rel-190c739c6fae) (1)
-- [Carrie Prejean Boller](/entities/person-carrie-prejean-boller) → [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission) [↗](/relationships/rel-32303fec7ff6) (1)
-- [Christina Babin](/entities/person-christina-babin) → [The Family International](/entities/org-the-family-international) [↗](/relationships/rel-1df7db6f12ee) (1)
-- [Curtis Kolvet](/entities/person-curtis-kolvet) → [Nevada Army National Guard](/entities/org-nevada-army-national-guard) [↗](/relationships/rel-f7b4ae73d17b) (1)
-- [David Farnsworth](/entities/person-david-farnsworth) → [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) [↗](/relationships/rel-9ddf218a0532) (1)
-- [Dino Fantegrossi](/entities/person-dino-fantegrossi) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-29bc18892720) (1)
-- [Eddie Farnsworth](/entities/person-eddie-farnsworth) → [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) [↗](/relationships/rel-87b9a4e0f0f9) (1)
-- [Frank William Gay](/entities/person-frank-william-gay) → [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) [↗](/relationships/rel-7d90f8a9a2d5) (1)
-- [Gary Javitch](/entities/person-gary-javitch) → [American Israel Public Affairs Committee](/entities/org-aipac) [↗](/relationships/rel-f935ac6c2b33) (1)
-- [Gary Melton](/entities/person-gary-melton) → [United States Army Special Forces](/entities/org-us-army-special-forces) [↗](/relationships/rel-d4dce7eecce7) (1)
-- [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy) → [United States Army](/entities/org-united-states-army) [↗](/relationships/rel-0a221a236a8a) (1)
-- [Hunter Biden](/entities/person-hunter-biden) → [Jesuit Volunteer Corps](/entities/org-jesuit-volunteer-corps) [↗](/relationships/rel-fba34f2ed3d9) (1)
-- [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr) → [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) [↗](/relationships/rel-cd7609af8a8c) (1)
-- [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr) → [Task Force 82](/entities/org-task-force-82) [↗](/relationships/rel-d31e48f6d339) (1)
-- [Joe Biden](/entities/person-joe-biden) → [United States Senate](/entities/org-us-senate) [↗](/relationships/rel-50ba6e494d1c) (1)
-- [Josh Harrellson](/entities/person-josh-harrellson) → [Miami Heat](/entities/org-miami-heat) [↗](/relationships/rel-f84a5ebfc395) (1)
-- [Josh Harrellson](/entities/person-josh-harrellson) → [Brujos de Guayama](/entities/org-brujos-de-guayama) [↗](/relationships/rel-64e78338ca3c) (1)
-- [Josh Harrellson](/entities/person-josh-harrellson) → [Chongqing Fly Dragons](/entities/org-chongqing-fly-dragons) [↗](/relationships/rel-1812dbaefa73) (1)
-- [Kenneth Wayne Himsel](/entities/person-kenneth-wayne-himsel) → [Indiana National Guard](/entities/org-indiana-national-guard) [↗](/relationships/rel-2370cef4eb86) (1)
-- [Michael Aquino](/entities/person-michael-aquino) → [Church of Satan](/entities/org-church-of-satan) [↗](/relationships/rel-161bc72c35b4) (1)
-- [Miriam Adelson](/entities/person-miriam-adelson) → [Israel Defense Forces](/entities/org-israel-defense-forces) [↗](/relationships/rel-e1c1d454c61c) (2)
-- [Mitch Snow](/entities/person-mitch-snow) → [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border) [↗](/relationships/rel-ea560876f723) (1)
-- [Rob O'Neill](/entities/person-rob-oneill) → [SEAL Team Six](/entities/org-seal-team-six) [↗](/relationships/rel-107aa7ce9fc6) (2)
-- [Tyler Massey](/entities/person-tyler-massey) → [Colorado Rockies](/entities/org-colorado-rockies) [↗](/relationships/rel-219408eacf90) (1)
-- [Veteran friend treated in Russia (identity withheld)](/entities/anon-src-h76ZN-xXC6c-veteran-friend) → [SEAL Team ONE](/entities/org-seal-team-one) [↗](/relationships/rel-975a5bc8bfc0) (1)
-- [Young American Revival](/entities/org-young-american-revival) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-14b649661b6c) (1)
-
-</details>
-
-<details>
-<summary>Has Former Member (28)</summary>
-
-- [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) → [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr) [↗](/relationships/rel-a2e014d85e85) (1)
-- [American Israel Public Affairs Committee](/entities/org-aipac) → [Gary Javitch](/entities/person-gary-javitch) [↗](/relationships/rel-805054edcff8) (1)
-- [Brujos de Guayama](/entities/org-brujos-de-guayama) → [Josh Harrellson](/entities/person-josh-harrellson) [↗](/relationships/rel-fcbb70b3d184) (1)
-- [Chongqing Fly Dragons](/entities/org-chongqing-fly-dragons) → [Josh Harrellson](/entities/person-josh-harrellson) [↗](/relationships/rel-72e642cd07ad) (1)
-- [Church of Satan](/entities/org-church-of-satan) → [Michael Aquino](/entities/person-michael-aquino) [↗](/relationships/rel-9f09f0722599) (1)
-- [Colorado Rockies](/entities/org-colorado-rockies) → [Tyler Massey](/entities/person-tyler-massey) [↗](/relationships/rel-0b8a154ba900) (1)
-- [Indiana National Guard](/entities/org-indiana-national-guard) → [Kenneth Wayne Himsel](/entities/person-kenneth-wayne-himsel) [↗](/relationships/rel-5b7e551bffb4) (1)
-- [Irgun](/entities/org-irgun) → [Benjamin M. Emanuel](/entities/person-benjamin-m-emanuel) [↗](/relationships/rel-f6fa3c3d6493) (1)
-- [Israel Defense Forces](/entities/org-israel-defense-forces) → [Miriam Adelson](/entities/person-miriam-adelson) [↗](/relationships/rel-785a436d513c) (2)
-- [Jesuit Volunteer Corps](/entities/org-jesuit-volunteer-corps) → [Hunter Biden](/entities/person-hunter-biden) [↗](/relationships/rel-b2739ff57609) (1)
-- [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border) → [Mitch Snow](/entities/person-mitch-snow) [↗](/relationships/rel-cb3336e7f434) (1)
-- [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) → [Eddie Farnsworth](/entities/person-eddie-farnsworth) [↗](/relationships/rel-f2711cd5ace1) (1)
-- [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) → [David Farnsworth](/entities/person-david-farnsworth) [↗](/relationships/rel-f49093503bf2) (1)
-- [Miami Heat](/entities/org-miami-heat) → [Josh Harrellson](/entities/person-josh-harrellson) [↗](/relationships/rel-40b245bbb6f6) (1)
-- [National Security Council](/entities/org-national-security-council) → [Bradley D. Hansell](/entities/person-bradley-d-hansell) [↗](/relationships/rel-eb15c8e16f4f) (1)
-- [Nevada Army National Guard](/entities/org-nevada-army-national-guard) → [Curtis Kolvet](/entities/person-curtis-kolvet) [↗](/relationships/rel-2f444c169448) (1)
-- [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission) → [Carrie Prejean Boller](/entities/person-carrie-prejean-boller) [↗](/relationships/rel-09204db4a585) (1)
-- [Protecting Mrs. Kirk group chat](/entities/org-protecting-mrs-kirk-group-chat) → [Anonymous Source #5 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-005) [↗](/relationships/rel-69750c8e72b8) (1)
-- [SEAL Team ONE](/entities/org-seal-team-one) → [Veteran friend treated in Russia (identity withheld)](/entities/anon-src-h76ZN-xXC6c-veteran-friend) [↗](/relationships/rel-f053eff29493) (1)
-- [SEAL Team Six](/entities/org-seal-team-six) → [Rob O'Neill](/entities/person-rob-oneill) [↗](/relationships/rel-b40c3e3c29bc) (2)
-- [Task Force 82](/entities/org-task-force-82) → [James Norman Rawlinson Jr.](/entities/person-james-norman-rawlinson-jr) [↗](/relationships/rel-0add7c7e597f) (1)
-- [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints) → [Frank William Gay](/entities/person-frank-william-gay) [↗](/relationships/rel-c45b0fd65e77) (1)
-- [The Family International](/entities/org-the-family-international) → [Christina Babin](/entities/person-christina-babin) [↗](/relationships/rel-f58ca52c4bc4) (1)
-- [Turning Point USA](/entities/org-turning-point-usa) → [Young American Revival](/entities/org-young-american-revival) [↗](/relationships/rel-70a9fcb6e7d8) (1)
-- [Turning Point USA](/entities/org-turning-point-usa) → [Dino Fantegrossi](/entities/person-dino-fantegrossi) [↗](/relationships/rel-9286bff71f5a) (1)
-- [United States Army](/entities/org-united-states-army) → [Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy) [↗](/relationships/rel-4d82a48b6959) (1)
-- [United States Army Special Forces](/entities/org-us-army-special-forces) → [Gary Melton](/entities/person-gary-melton) [↗](/relationships/rel-8b7c6ac48ac2) (1)
-- [United States Senate](/entities/org-us-senate) → [Joe Biden](/entities/person-joe-biden) [↗](/relationships/rel-b401850298a9) (1)
 
 </details>
 
@@ -3704,10 +3761,10 @@ This page shows all extracted relationships between entities. Click any relation
 - [Ben Shapiro](/entities/person-ben-shapiro) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-a03ed4ea1fc2) (1)
 - [Bill Ackman](/entities/person-bill-ackman) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-81c4d2aa176d) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Turning Point Faith](/entities/org-turning-point-faith) [↗](/relationships/rel-e775eb50df89) (1)
-- [Candace Owens](/entities/person-candace-owens) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-fa2b2bba8d51) (6)
+- [Candace Owens](/entities/person-candace-owens) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-fa2b2bba8d51) (7)
 - [Candace Owens](/entities/person-candace-owens) → [Feminism](/entities/concept-feminism) [↗](/relationships/rel-e731dc1c0149) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Me Too movement](/entities/concept-me-too-movement) [↗](/relationships/rel-1489bbf7ca9c) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-c9ceca21f504) (7)
+- [Candace Owens](/entities/person-candace-owens) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-c9ceca21f504) (8)
 - [Candace Owens](/entities/person-candace-owens) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-814cd6d72d26) (5)
 - [Candace Owens](/entities/person-candace-owens) → [Zionism](/entities/concept-zionism) [↗](/relationships/rel-5d142c6db68c) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Freemasonry](/entities/concept-freemasonry) [↗](/relationships/rel-ee4f00e3f730) (1)
@@ -3719,8 +3776,8 @@ This page shows all extracted relationships between entities. Click any relation
 - [Myron Gaines](/entities/person-myron-gaines) → [Me Too movement](/entities/concept-me-too-movement) [↗](/relationships/rel-9408919dad67) (1)
 - [Nick Fuentes](/entities/person-nick-fuentes) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-bf4bc0e23d01) (1)
 - [Seth Dillon](/entities/person-seth-dillon) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-76c8ac8c97f9) (1)
-- [The Daily Wire](/entities/org-the-daily-wire) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-6d72d41c19a7) (1)
-- [The Daily Wire](/entities/org-the-daily-wire) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-82212c42fdf0) (2)
+- [The Daily Wire](/entities/org-the-daily-wire) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-6d72d41c19a7) (2)
+- [The Daily Wire](/entities/org-the-daily-wire) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-82212c42fdf0) (3)
 - [Theo Von](/entities/person-theo-von) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-46b74059f63f) (1)
 - [Tim Pool](/entities/person-tim-pool) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-c7e3b22bbdbb) (1)
 - [Tucker Carlson](/entities/person-tucker-carlson) → [Israel](/entities/gpe-israel) [↗](/relationships/rel-0a8cde09539b) (2)
@@ -3732,7 +3789,7 @@ This page shows all extracted relationships between entities. Click any relation
 <summary>Target Of Criticism From (24)</summary>
 
 - [Candace Owens](/entities/person-candace-owens) → [Tim Pool](/entities/person-tim-pool) [↗](/relationships/rel-f4ae91fde7d3) (1)
-- [Candace Owens](/entities/person-candace-owens) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-842ad7a3796b) (2)
+- [Candace Owens](/entities/person-candace-owens) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-842ad7a3796b) (3)
 - [Candace Owens](/entities/person-candace-owens) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-a4066e1cfd4f) (1)
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Seth Dillon](/entities/person-seth-dillon) [↗](/relationships/rel-6fc297ef3c76) (1)
 - [Charlie Kirk](/entities/person-charlie-kirk) → [Josh Hammer](/entities/person-josh-hammer) [↗](/relationships/rel-d5b937363886) (1)
@@ -3749,19 +3806,20 @@ This page shows all extracted relationships between entities. Click any relation
 - [Israel](/entities/gpe-israel) → [Theo Von](/entities/person-theo-von) [↗](/relationships/rel-6956a612c1e7) (1)
 - [Me Too movement](/entities/concept-me-too-movement) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-2d3259335fd9) (1)
 - [Me Too movement](/entities/concept-me-too-movement) → [Myron Gaines](/entities/person-myron-gaines) [↗](/relationships/rel-858580de1ff6) (1)
-- [The Daily Wire](/entities/org-the-daily-wire) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-708d47d21a0f) (6)
-- [Tucker Carlson](/entities/person-tucker-carlson) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-7081a492103c) (1)
+- [The Daily Wire](/entities/org-the-daily-wire) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-708d47d21a0f) (7)
+- [Tucker Carlson](/entities/person-tucker-carlson) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-7081a492103c) (2)
 - [Turning Point Faith](/entities/org-turning-point-faith) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-8d30b2c2e0a4) (1)
-- [Turning Point USA](/entities/org-turning-point-usa) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-fd1be833a969) (7)
+- [Turning Point USA](/entities/org-turning-point-usa) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-fd1be833a969) (8)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Zach De Gregorio](/entities/person-zach-de-gregorio) [↗](/relationships/rel-1c73f7671fc1) (1)
 - [Zionism](/entities/concept-zionism) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-dbf4eb49ec21) (1)
 
 </details>
 
 <details>
-<summary>Hired (22)</summary>
+<summary>Hired (23)</summary>
 
 - [Alton C. Jennings](/entities/person-alton-c-jennings) → [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr) [↗](/relationships/rel-0cad2f60987c) (1)
+- [Andrew Breitbart](/entities/person-andrew-breitbart) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-0f1587affb74) (1)
 - [Bill Montgomery](/entities/person-bill-montgomery) → [Greg Shaffer](/entities/person-greg-shaffer) [↗](/relationships/rel-dcb9706058d6) (1)
 - [Bill Montgomery](/entities/person-bill-montgomery) → [Dan Flood](/entities/person-dan-flood) [↗](/relationships/rel-0b89537903a1) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Richards, Layton & Finger](/entities/org-richards-layton-finger) [↗](/relationships/rel-d33fb7d2e77d) (1)
@@ -3783,6 +3841,35 @@ This page shows all extracted relationships between entities. Click any relation
 - [Tyler Bowyer](/entities/person-tyler-bowyer) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-1e55f4d7124b) (1)
 - [United States Armed Forces](/entities/org-united-states-armed-forces) → [Michael Aquino](/entities/person-michael-aquino) [↗](/relationships/rel-408d49f4d1ec) (1)
 - [William P. Barr](/entities/person-william-barr) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-392ca3adf70a) (1)
+
+</details>
+
+<details>
+<summary>Hired By (23)</summary>
+
+- [Andrew Kolvet](/entities/person-andrew-kolvet) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-9a7cfbdde017) (1)
+- [Bari Weiss](/entities/person-bari-weiss) → [Larry Ellison](/entities/person-larry-ellison) [↗](/relationships/rel-e0ba1e899023) (1)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Andrew Breitbart](/entities/person-andrew-breitbart) [↗](/relationships/rel-f437c97befe9) (1)
+- [Boston Consulting Group](/entities/org-boston-consulting-group) → [Orbis Operations](/entities/org-orbis-operations) [↗](/relationships/rel-94a9438e6f84) (1)
+- [Brad Parscale](/entities/person-brad-parscale) → [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs) [↗](/relationships/rel-d705f7e23b56) (1)
+- [Bridges Partners LLC](/entities/org-bridges-partners) → [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs) [↗](/relationships/rel-ce0c772b4a9d) (1)
+- [Candace Owens](/entities/person-candace-owens) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-40d51683a158) (5)
+- [Candace Owens](/entities/person-candace-owens) → [Jeremy Boreing](/entities/person-jeremy-boreing) [↗](/relationships/rel-d008151f8680) (1)
+- [Clock Tower X LLC](/entities/org-clock-tower-x-llc) → [Havas Media Germany GmbH](/entities/org-havas-media-germany) [↗](/relationships/rel-550ffb5e5ec0) (1)
+- [Dan Flood](/entities/person-dan-flood) → [Bill Montgomery](/entities/person-bill-montgomery) [↗](/relationships/rel-755681a68b16) (1)
+- [Frank William Gay](/entities/person-frank-william-gay) → [Howard Hughes](/entities/person-howard-hughes) [↗](/relationships/rel-b0e897cc000d) (1)
+- [Greg Shaffer](/entities/person-greg-shaffer) → [Bill Montgomery](/entities/person-bill-montgomery) [↗](/relationships/rel-1a897c34e629) (1)
+- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [William P. Barr](/entities/person-william-barr) [↗](/relationships/rel-7eff7d6e38b8) (1)
+- [Johnnie Moore](/entities/person-johnnie-moore) → [Jerry Prevo](/entities/person-jerry-prevo) [↗](/relationships/rel-258e83e5210e) (1)
+- [Michael Aquino](/entities/person-michael-aquino) → [United States Armed Forces](/entities/org-united-states-armed-forces) [↗](/relationships/rel-d7db4fa3e04d) (1)
+- [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr) → [Alton C. Jennings](/entities/person-alton-c-jennings) [↗](/relationships/rel-3619af6a16de) (1)
+- [Mormon Mafia](/entities/concept-mormon-mafia) → [Frank William Gay](/entities/person-frank-william-gay) [↗](/relationships/rel-9cd7377a9b02) (1)
+- [Mormon Mafia](/entities/concept-mormon-mafia) → [Summa Corporation](/entities/org-summa-corporation) [↗](/relationships/rel-5bdd12ee0eed) (1)
+- [Richards, Layton & Finger](/entities/org-richards-layton-finger) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-f555a694e61f) (1)
+- [Robert Bohls](/entities/person-robert-bohls) → [Kash Patel](/entities/person-kash-patel) [↗](/relationships/rel-559f743b1fb0) (1)
+- [Show Faith by Works, LLC](/entities/org-show-faith-by-works) → [Havas Media Germany GmbH](/entities/org-havas-media-germany) [↗](/relationships/rel-3e0df9d7b9a7) (2)
+- [Stacey Sheridan](/entities/person-stacey-sheridan) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-a5cfc1f6f8df) (2)
+- [Victor Marx](/entities/person-victor-marx) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-19851a427065) (1)
 
 </details>
 
@@ -3843,30 +3930,30 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Hired By (22)</summary>
+<summary>Part Of (22)</summary>
 
-- [Andrew Kolvet](/entities/person-andrew-kolvet) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-9a7cfbdde017) (1)
-- [Bari Weiss](/entities/person-bari-weiss) → [Larry Ellison](/entities/person-larry-ellison) [↗](/relationships/rel-e0ba1e899023) (1)
-- [Boston Consulting Group](/entities/org-boston-consulting-group) → [Orbis Operations](/entities/org-orbis-operations) [↗](/relationships/rel-94a9438e6f84) (1)
-- [Brad Parscale](/entities/person-brad-parscale) → [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs) [↗](/relationships/rel-d705f7e23b56) (1)
-- [Bridges Partners LLC](/entities/org-bridges-partners) → [Israel Ministry of Foreign Affairs](/entities/org-israel-ministry-of-foreign-affairs) [↗](/relationships/rel-ce0c772b4a9d) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-40d51683a158) (5)
-- [Candace Owens](/entities/person-candace-owens) → [Jeremy Boreing](/entities/person-jeremy-boreing) [↗](/relationships/rel-d008151f8680) (1)
-- [Clock Tower X LLC](/entities/org-clock-tower-x-llc) → [Havas Media Germany GmbH](/entities/org-havas-media-germany) [↗](/relationships/rel-550ffb5e5ec0) (1)
-- [Dan Flood](/entities/person-dan-flood) → [Bill Montgomery](/entities/person-bill-montgomery) [↗](/relationships/rel-755681a68b16) (1)
-- [Frank William Gay](/entities/person-frank-william-gay) → [Howard Hughes](/entities/person-howard-hughes) [↗](/relationships/rel-b0e897cc000d) (1)
-- [Greg Shaffer](/entities/person-greg-shaffer) → [Bill Montgomery](/entities/person-bill-montgomery) [↗](/relationships/rel-1a897c34e629) (1)
-- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [William P. Barr](/entities/person-william-barr) [↗](/relationships/rel-7eff7d6e38b8) (1)
-- [Johnnie Moore](/entities/person-johnnie-moore) → [Jerry Prevo](/entities/person-jerry-prevo) [↗](/relationships/rel-258e83e5210e) (1)
-- [Michael Aquino](/entities/person-michael-aquino) → [United States Armed Forces](/entities/org-united-states-armed-forces) [↗](/relationships/rel-d7db4fa3e04d) (1)
-- [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr) → [Alton C. Jennings](/entities/person-alton-c-jennings) [↗](/relationships/rel-3619af6a16de) (1)
-- [Mormon Mafia](/entities/concept-mormon-mafia) → [Frank William Gay](/entities/person-frank-william-gay) [↗](/relationships/rel-9cd7377a9b02) (1)
-- [Mormon Mafia](/entities/concept-mormon-mafia) → [Summa Corporation](/entities/org-summa-corporation) [↗](/relationships/rel-5bdd12ee0eed) (1)
-- [Richards, Layton & Finger](/entities/org-richards-layton-finger) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-f555a694e61f) (1)
-- [Robert Bohls](/entities/person-robert-bohls) → [Kash Patel](/entities/person-kash-patel) [↗](/relationships/rel-559f743b1fb0) (1)
-- [Show Faith by Works, LLC](/entities/org-show-faith-by-works) → [Havas Media Germany GmbH](/entities/org-havas-media-germany) [↗](/relationships/rel-3e0df9d7b9a7) (2)
-- [Stacey Sheridan](/entities/person-stacey-sheridan) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-a5cfc1f6f8df) (2)
-- [Victor Marx](/entities/person-victor-marx) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-19851a427065) (1)
+- [13e Demi-brigade de Légion étrangère](/entities/org-13e-demi-brigade-foreign-legion) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-5d7185304d35) (1)
+- [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) → [Army National Guard](/entities/org-army-national-guard) [↗](/relationships/rel-bf144d8c879a) (1)
+- [Akins Ford Arena](/entities/org-akins-ford-arena) → [The Classic Center](/entities/org-the-classic-center) [↗](/relationships/rel-100c2e4f035b) (1)
+- [Al-Nusra Front](/entities/org-al-nusra-front) → [Al-Qaida](/entities/org-al-qaida) [↗](/relationships/rel-215422a3d417) (1)
+- [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center) → [BYU](/entities/org-byu) [↗](/relationships/rel-3567a54b79b2) (1)
+- [Bulgaria](/entities/gpe-bulgaria) → [European Union](/entities/org-european-union) [↗](/relationships/rel-90a8120c37b9) (1)
+- [Club America](/entities/org-club-america) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-dab1726fb0ee) (1)
+- [Crain & Cone](/entities/work-crain-and-cone) → [On3](/entities/org-on3) [↗](/relationships/rel-d15bb4c84cb8) (1)
+- [Foreign Influence Task Force](/entities/org-foreign-influence-task-force) → [FBI](/entities/org-fbi) [↗](/relationships/rel-a9470a62e782) (1)
+- [International Police Task Force](/entities/org-international-police-task-force) → [United Nations](/entities/org-united-nations) [↗](/relationships/rel-a714637df5ae) (1)
+- [Ira A. and Mary Lou Fulton Library](/entities/org-ira-a-and-mary-lou-fulton-library) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-3d4070b873c3) (1)
+- [Johnny's Locker](/entities/org-johnnys-locker) → [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) [↗](/relationships/rel-d47bfe5c4fa8) (1)
+- [Losee Center](/entities/org-losee-center) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-988b3004f45b) (1)
+- [Military-Affiliated Student Hub](/entities/org-military-affiliated-student-hub) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-91773cb89531) (1)
+- [Pentadecanoic acid](/entities/concept-pentadecanoic-acid) → [fatty15](/entities/org-fatty15) [↗](/relationships/rel-a181b5f2cb67) (2)
+- [Romania](/entities/gpe-romania) → [European Union](/entities/org-european-union) [↗](/relationships/rel-cda94eb7f5d9) (1)
+- [Romanian Angels Project](/entities/org-romanian-angels-project) → [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) [↗](/relationships/rel-9ca0f4536fb3) (1)
+- [Sazan Island](/entities/gpe-sazan-island) → [Albania](/entities/gpe-albania) [↗](/relationships/rel-e891010da12c) (1)
+- [SMART Equity Loan](/entities/work-smart-equity-loan) → [American Financing](/entities/org-american-financing) [↗](/relationships/rel-8d9bdc43d463) (3)
+- [Sorensen Center](/entities/org-sorensen-center) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-ca912f077340) (1)
+- [Turning Point Action](/entities/org-turning-point-action) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-62b6cfb3b50b) (1)
+- [Utah State University Department of Public Safety](/entities/org-utah-state-university-department-of-public-safety) → [Utah State University](/entities/org-utah-state-university) [↗](/relationships/rel-b707107ce2ae) (1)
 
 </details>
 
@@ -3895,6 +3982,34 @@ This page shows all extracted relationships between entities. Click any relation
 - [The Washington Times](/entities/org-washington-times) → [News World Communications](/entities/org-news-world-communications) [↗](/relationships/rel-4495bfc75c75) (1)
 - [Tristar](/entities/org-tristar) → [Lou Taylor](/entities/person-lou-taylor) [↗](/relationships/rel-1c1424737a4e) (1)
 - [Twitter](/entities/org-twitter) → [Elon Musk](/entities/person-elon-musk) [↗](/relationships/rel-137ccdacca36) (1)
+
+</details>
+
+<details>
+<summary>Includes (22)</summary>
+
+- [Al-Qaida](/entities/org-al-qaida) → [Al-Nusra Front](/entities/org-al-nusra-front) [↗](/relationships/rel-1645e9e841c1) (1)
+- [Albania](/entities/gpe-albania) → [Sazan Island](/entities/gpe-sazan-island) [↗](/relationships/rel-a5d3c435f4f5) (1)
+- [American Financing](/entities/org-american-financing) → [SMART Equity Loan](/entities/work-smart-equity-loan) [↗](/relationships/rel-51572510f9fc) (3)
+- [Army National Guard](/entities/org-army-national-guard) → [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) [↗](/relationships/rel-080a84346da7) (1)
+- [BYU](/entities/org-byu) → [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center) [↗](/relationships/rel-7b60d801fb51) (1)
+- [European Union](/entities/org-european-union) → [Romania](/entities/gpe-romania) [↗](/relationships/rel-9588b1ed5ce1) (1)
+- [European Union](/entities/org-european-union) → [Bulgaria](/entities/gpe-bulgaria) [↗](/relationships/rel-160c152261c7) (1)
+- [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) → [Romanian Angels Project](/entities/org-romanian-angels-project) [↗](/relationships/rel-ddda800f6408) (1)
+- [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) → [Johnny's Locker](/entities/org-johnnys-locker) [↗](/relationships/rel-dcf0d313e042) (1)
+- [fatty15](/entities/org-fatty15) → [Pentadecanoic acid](/entities/concept-pentadecanoic-acid) [↗](/relationships/rel-1ea3aa3117b3) (2)
+- [FBI](/entities/org-fbi) → [Foreign Influence Task Force](/entities/org-foreign-influence-task-force) [↗](/relationships/rel-41c2b941005b) (1)
+- [French Foreign Legion](/entities/org-french-foreign-legion) → [13e Demi-brigade de Légion étrangère](/entities/org-13e-demi-brigade-foreign-legion) [↗](/relationships/rel-e9f879a8f902) (1)
+- [On3](/entities/org-on3) → [Crain & Cone](/entities/work-crain-and-cone) [↗](/relationships/rel-b35a48545c11) (1)
+- [The Classic Center](/entities/org-the-classic-center) → [Akins Ford Arena](/entities/org-akins-ford-arena) [↗](/relationships/rel-5e7394573dab) (1)
+- [Turning Point USA](/entities/org-turning-point-usa) → [Turning Point Action](/entities/org-turning-point-action) [↗](/relationships/rel-2888949a3159) (1)
+- [Turning Point USA](/entities/org-turning-point-usa) → [Club America](/entities/org-club-america) [↗](/relationships/rel-a590e4ab20de) (1)
+- [United Nations](/entities/org-united-nations) → [International Police Task Force](/entities/org-international-police-task-force) [↗](/relationships/rel-f9bb47e63f38) (1)
+- [Utah State University](/entities/org-utah-state-university) → [Utah State University Department of Public Safety](/entities/org-utah-state-university-department-of-public-safety) [↗](/relationships/rel-006cb7332bca) (1)
+- [Utah Valley University](/entities/org-utah-valley-university) → [Losee Center](/entities/org-losee-center) [↗](/relationships/rel-bd1fe654a263) (1)
+- [Utah Valley University](/entities/org-utah-valley-university) → [Sorensen Center](/entities/org-sorensen-center) [↗](/relationships/rel-1ac92f26ee34) (1)
+- [Utah Valley University](/entities/org-utah-valley-university) → [Military-Affiliated Student Hub](/entities/org-military-affiliated-student-hub) [↗](/relationships/rel-282fda44a805) (1)
+- [Utah Valley University](/entities/org-utah-valley-university) → [Ira A. and Mary Lou Fulton Library](/entities/org-ira-a-and-mary-lou-fulton-library) [↗](/relationships/rel-02dff0e5810f) (1)
 
 </details>
 
@@ -3951,60 +4066,6 @@ This page shows all extracted relationships between entities. Click any relation
 - [Mac Miller](/entities/person-mac-miller) → [Ariana Grande](/entities/person-ariana-grande) [↗](/relationships/rel-303e58e9f76e) (1)
 - [Pete Davidson](/entities/person-pete-davidson) → [Ariana Grande](/entities/person-ariana-grande) [↗](/relationships/rel-8b5210b3df9c) (1)
 - [Tyler Massey](/entities/person-tyler-massey) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-8f71c83b32c7) (2)
-
-</details>
-
-<details>
-<summary>Part Of (21)</summary>
-
-- [13e Demi-brigade de Légion étrangère](/entities/org-13e-demi-brigade-foreign-legion) → [French Foreign Legion](/entities/org-french-foreign-legion) [↗](/relationships/rel-5d7185304d35) (1)
-- [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) → [Army National Guard](/entities/org-army-national-guard) [↗](/relationships/rel-bf144d8c879a) (1)
-- [Akins Ford Arena](/entities/org-akins-ford-arena) → [The Classic Center](/entities/org-the-classic-center) [↗](/relationships/rel-100c2e4f035b) (1)
-- [Al-Nusra Front](/entities/org-al-nusra-front) → [Al-Qaida](/entities/org-al-qaida) [↗](/relationships/rel-215422a3d417) (1)
-- [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center) → [BYU](/entities/org-byu) [↗](/relationships/rel-3567a54b79b2) (1)
-- [Bulgaria](/entities/gpe-bulgaria) → [European Union](/entities/org-european-union) [↗](/relationships/rel-90a8120c37b9) (1)
-- [Club America](/entities/org-club-america) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-dab1726fb0ee) (1)
-- [Crain & Cone](/entities/work-crain-and-cone) → [On3](/entities/org-on3) [↗](/relationships/rel-d15bb4c84cb8) (1)
-- [Foreign Influence Task Force](/entities/org-foreign-influence-task-force) → [FBI](/entities/org-fbi) [↗](/relationships/rel-a9470a62e782) (1)
-- [International Police Task Force](/entities/org-international-police-task-force) → [United Nations](/entities/org-united-nations) [↗](/relationships/rel-a714637df5ae) (1)
-- [Ira A. and Mary Lou Fulton Library](/entities/org-ira-a-and-mary-lou-fulton-library) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-3d4070b873c3) (1)
-- [Johnny's Locker](/entities/org-johnnys-locker) → [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) [↗](/relationships/rel-d47bfe5c4fa8) (1)
-- [Losee Center](/entities/org-losee-center) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-988b3004f45b) (1)
-- [Military-Affiliated Student Hub](/entities/org-military-affiliated-student-hub) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-91773cb89531) (1)
-- [Pentadecanoic acid](/entities/concept-pentadecanoic-acid) → [fatty15](/entities/org-fatty15) [↗](/relationships/rel-a181b5f2cb67) (2)
-- [Romania](/entities/gpe-romania) → [European Union](/entities/org-european-union) [↗](/relationships/rel-cda94eb7f5d9) (1)
-- [Romanian Angels Project](/entities/org-romanian-angels-project) → [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) [↗](/relationships/rel-9ca0f4536fb3) (1)
-- [Sazan Island](/entities/gpe-sazan-island) → [Albania](/entities/gpe-albania) [↗](/relationships/rel-e891010da12c) (1)
-- [SMART Equity Loan](/entities/work-smart-equity-loan) → [American Financing](/entities/org-american-financing) [↗](/relationships/rel-8d9bdc43d463) (3)
-- [Sorensen Center](/entities/org-sorensen-center) → [Utah Valley University](/entities/org-utah-valley-university) [↗](/relationships/rel-ca912f077340) (1)
-- [Utah State University Department of Public Safety](/entities/org-utah-state-university-department-of-public-safety) → [Utah State University](/entities/org-utah-state-university) [↗](/relationships/rel-b707107ce2ae) (1)
-
-</details>
-
-<details>
-<summary>Includes (21)</summary>
-
-- [Al-Qaida](/entities/org-al-qaida) → [Al-Nusra Front](/entities/org-al-nusra-front) [↗](/relationships/rel-1645e9e841c1) (1)
-- [Albania](/entities/gpe-albania) → [Sazan Island](/entities/gpe-sazan-island) [↗](/relationships/rel-a5d3c435f4f5) (1)
-- [American Financing](/entities/org-american-financing) → [SMART Equity Loan](/entities/work-smart-equity-loan) [↗](/relationships/rel-51572510f9fc) (3)
-- [Army National Guard](/entities/org-army-national-guard) → [19th Special Forces Group (Airborne)](/entities/org-19th-special-forces-group-airborne) [↗](/relationships/rel-080a84346da7) (1)
-- [BYU](/entities/org-byu) → [Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center) [↗](/relationships/rel-7b60d801fb51) (1)
-- [European Union](/entities/org-european-union) → [Romania](/entities/gpe-romania) [↗](/relationships/rel-9588b1ed5ce1) (1)
-- [European Union](/entities/org-european-union) → [Bulgaria](/entities/gpe-bulgaria) [↗](/relationships/rel-160c152261c7) (1)
-- [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) → [Romanian Angels Project](/entities/org-romanian-angels-project) [↗](/relationships/rel-ddda800f6408) (1)
-- [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) → [Johnny's Locker](/entities/org-johnnys-locker) [↗](/relationships/rel-dcf0d313e042) (1)
-- [fatty15](/entities/org-fatty15) → [Pentadecanoic acid](/entities/concept-pentadecanoic-acid) [↗](/relationships/rel-1ea3aa3117b3) (2)
-- [FBI](/entities/org-fbi) → [Foreign Influence Task Force](/entities/org-foreign-influence-task-force) [↗](/relationships/rel-41c2b941005b) (1)
-- [French Foreign Legion](/entities/org-french-foreign-legion) → [13e Demi-brigade de Légion étrangère](/entities/org-13e-demi-brigade-foreign-legion) [↗](/relationships/rel-e9f879a8f902) (1)
-- [On3](/entities/org-on3) → [Crain & Cone](/entities/work-crain-and-cone) [↗](/relationships/rel-b35a48545c11) (1)
-- [The Classic Center](/entities/org-the-classic-center) → [Akins Ford Arena](/entities/org-akins-ford-arena) [↗](/relationships/rel-5e7394573dab) (1)
-- [Turning Point USA](/entities/org-turning-point-usa) → [Club America](/entities/org-club-america) [↗](/relationships/rel-a590e4ab20de) (1)
-- [United Nations](/entities/org-united-nations) → [International Police Task Force](/entities/org-international-police-task-force) [↗](/relationships/rel-f9bb47e63f38) (1)
-- [Utah State University](/entities/org-utah-state-university) → [Utah State University Department of Public Safety](/entities/org-utah-state-university-department-of-public-safety) [↗](/relationships/rel-006cb7332bca) (1)
-- [Utah Valley University](/entities/org-utah-valley-university) → [Losee Center](/entities/org-losee-center) [↗](/relationships/rel-bd1fe654a263) (1)
-- [Utah Valley University](/entities/org-utah-valley-university) → [Sorensen Center](/entities/org-sorensen-center) [↗](/relationships/rel-1ac92f26ee34) (1)
-- [Utah Valley University](/entities/org-utah-valley-university) → [Military-Affiliated Student Hub](/entities/org-military-affiliated-student-hub) [↗](/relationships/rel-282fda44a805) (1)
-- [Utah Valley University](/entities/org-utah-valley-university) → [Ira A. and Mary Lou Fulton Library](/entities/org-ira-a-and-mary-lou-fulton-library) [↗](/relationships/rel-02dff0e5810f) (1)
 
 </details>
 
@@ -4101,7 +4162,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Jeremy Boreing](/entities/person-jeremy-boreing) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-e8704fab3eee) (2)
 - [Jerry Prevo](/entities/person-jerry-prevo) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-5732c47c819a) (1)
 - [Richmond, Virginia](/entities/gpe-richmond-virginia) → [James Osuna](/entities/person-james-osuna) [↗](/relationships/rel-21e46078cb33) (1)
-- [The Daily Wire](/entities/org-the-daily-wire) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-3ed2c074550e) (15)
+- [The Daily Wire](/entities/org-the-daily-wire) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-3ed2c074550e) (16)
 - [Turning Point USA](/entities/org-turning-point-usa) → [Aubrey Laitsch](/entities/person-aubrey-laitsch) [↗](/relationships/rel-a1710e977000) (3)
 
 </details>
@@ -4135,7 +4196,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Aubrey Laitsch](/entities/person-aubrey-laitsch) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-a7114cf4b07d) (3)
 - [Ben Johnston](/entities/person-ben-johnston) → [DynCorp International](/entities/org-dyncorp-international) [↗](/relationships/rel-cf666ebb27d6) (1)
 - [Blake Neff](/entities/person-blake-neff) → [Fox News](/entities/org-fox-news) [↗](/relationships/rel-1ea8160cca22) (1)
-- [Candace Owens](/entities/person-candace-owens) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-4358fa197523) (14)
+- [Candace Owens](/entities/person-candace-owens) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-4358fa197523) (15)
 - [Candace Owens](/entities/person-candace-owens) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-1dd5755e70c7) (2)
 - [Candace Owens](/entities/person-candace-owens) → [Jeremy Boreing](/entities/person-jeremy-boreing) [↗](/relationships/rel-82d59cafcc10) (2)
 - [Carrie Prejean Boller](/entities/person-carrie-prejean-boller) → [Dan Patrick](/entities/person-dan-patrick) [↗](/relationships/rel-5689d33b108c) (1)
@@ -4153,7 +4214,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Ceo Of (15)</summary>
+<summary>Ceo Of (16)</summary>
 
 - [Andrew Zenger](/entities/person-andrew-zenger) → [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital) [↗](/relationships/rel-c85823fafc6a) (3)
 - [Caleb Robinson](/entities/person-caleb-robinson) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-54a394418cb3) (1)
@@ -4165,6 +4226,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Jeremy Boreing](/entities/person-jeremy-boreing) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-007ad7918791) (1)
 - [John T. Golle](/entities/person-john-t-golle) → [Tesseract School](/entities/org-tesseract-school) [↗](/relationships/rel-94aa75f47279) (1)
 - [Kash Patel](/entities/person-kash-patel) → [FBI](/entities/org-fbi) [↗](/relationships/rel-a87b48c4219d) (2)
+- [Larry Solov](/entities/person-larry-solov) → [Breitbart News](/entities/org-breitbart-news) [↗](/relationships/rel-eeb1813795f7) (1)
 - [Lori Frantzve](/entities/person-lori-frantzve) → [GTEC Industries](/entities/org-gtec-industries) [↗](/relationships/rel-a367b48d7274)
 - [Marissa Streit](/entities/person-marissa-streit) → [PragerU](/entities/org-prageru) [↗](/relationships/rel-1c76aded9512) (1)
 - [Pamela Liebman](/entities/person-pamela-liebman) → [The Corcoran Group](/entities/org-corcoran-group) [↗](/relationships/rel-ae574b34c32c) (1)
@@ -4174,9 +4236,10 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Has Ceo (15)</summary>
+<summary>Has Ceo (16)</summary>
 
 - [Boston Consulting Group](/entities/org-boston-consulting-group) → [Christoph Schweizer](/entities/person-christoph-schweizer) [↗](/relationships/rel-9cc2f8bec89c) (1)
+- [Breitbart News](/entities/org-breitbart-news) → [Larry Solov](/entities/person-larry-solov) [↗](/relationships/rel-86541e275316) (1)
 - [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-3c131debdbf8) (1)
 - [FBI](/entities/org-fbi) → [Kash Patel](/entities/person-kash-patel) [↗](/relationships/rel-29abbb14ee49) (1)
 - [Fox News](/entities/org-fox-news) → [Suzanne Scott](/entities/person-suzanne-scott) [↗](/relationships/rel-d7efca101d51) (1)
@@ -4257,6 +4320,26 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
+<summary>Advisor To (14)</summary>
+
+- [Andrew Breitbart](/entities/person-andrew-breitbart) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-8a6622efe831) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-d0289e7f7a3d) (2)
+- [David Axelrod](/entities/person-david-axelrod) → [Barack Obama](/entities/person-barack-obama) [↗](/relationships/rel-b0a02801a952) (1)
+- [David Horowitz](/entities/person-david-horowitz) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-fe20590d62cb) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [United States Department of Defense](/entities/org-us-department-of-defense) [↗](/relationships/rel-27a8a3e161cf) (1)
+- [Hervé Hoppenot](/entities/person-herve-hoppenot) → [Incyte](/entities/org-incyte) [↗](/relationships/rel-f1823c2de018) (1)
+- [Johnnie Moore](/entities/person-johnnie-moore) → [Aspen Institute](/entities/org-aspen-institute) [↗](/relationships/rel-a65b1f59b338) (1)
+- [Laura Loomer](/entities/person-laura-loomer) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-84de5832d3ad) (5)
+- [Mark Levin](/entities/person-mark-levin) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-bfd2c53bf749) (1)
+- [Michael T. Flynn](/entities/person-michael-t-flynn) → [Catholics for Catholics](/entities/org-catholics-for-catholics) [↗](/relationships/rel-f60a9dffd59f) (1)
+- [Paul E. Vallely](/entities/person-paul-e-vallely) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-89d73f390dc9) (2)
+- [Rob McCoy](/entities/person-rob-mccoy) → [Turning Point USA Faith](/entities/org-turning-point-usa-faith) [↗](/relationships/rel-cc87d3bd867e) (1)
+- [Steve Bannon](/entities/person-steve-bannon) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-68e93a3b1de9) (1)
+- [Victor Marx](/entities/person-victor-marx) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-5e2bf5bf0ce7) (1)
+
+</details>
+
+<details>
 <summary>Has Board Member (14)</summary>
 
 - [Alliance Defending Freedom](/entities/org-alliance-defending-freedom) → [Caleb Robinson](/entities/person-caleb-robinson) [↗](/relationships/rel-e96397beb81e) (1)
@@ -4277,10 +4360,30 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
+<summary>Advised By (14)</summary>
+
+- [Aspen Institute](/entities/org-aspen-institute) → [Johnnie Moore](/entities/person-johnnie-moore) [↗](/relationships/rel-0151ac2f493f) (1)
+- [Barack Obama](/entities/person-barack-obama) → [David Axelrod](/entities/person-david-axelrod) [↗](/relationships/rel-23d06a2232ad) (1)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Andrew Breitbart](/entities/person-andrew-breitbart) [↗](/relationships/rel-ebc9427f2d5a) (1)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [David Horowitz](/entities/person-david-horowitz) [↗](/relationships/rel-85518090861b) (1)
+- [Catholics for Catholics](/entities/org-catholics-for-catholics) → [Michael T. Flynn](/entities/person-michael-t-flynn) [↗](/relationships/rel-ff583182093c) (1)
+- [Donald J. Trump](/entities/person-donald-trump) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-e4869caf0a86) (2)
+- [Donald J. Trump](/entities/person-donald-trump) → [Laura Loomer](/entities/person-laura-loomer) [↗](/relationships/rel-8d2bc753fbdb) (5)
+- [Donald J. Trump](/entities/person-donald-trump) → [Mark Levin](/entities/person-mark-levin) [↗](/relationships/rel-0584555535c3) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-7d17db27b89a) (1)
+- [Incyte](/entities/org-incyte) → [Hervé Hoppenot](/entities/person-herve-hoppenot) [↗](/relationships/rel-e3a240893749) (1)
+- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Steve Bannon](/entities/person-steve-bannon) [↗](/relationships/rel-dc6c0dac753e) (1)
+- [Turning Point USA](/entities/org-turning-point-usa) → [Paul E. Vallely](/entities/person-paul-e-vallely) [↗](/relationships/rel-4b3c631fcc01) (2)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-3e976c0743d2) (1)
+- [United States Department of Defense](/entities/org-us-department-of-defense) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-b23e60d7129b) (1)
+
+</details>
+
+<details>
 <summary>Cousin Of (14)</summary>
 
 - [Andrew Kolvet](/entities/person-andrew-kolvet) → [Robert Kolvet](/entities/person-robert-kolvet) [↗](/relationships/rel-0ca4fb51611b) (1)
-- [Candace Owens](/entities/person-candace-owens) → [Mia Grant](/entities/person-mia-grant) [↗](/relationships/rel-1dca8c0e9fa1) (1)
+- [Candace Owens](/entities/person-candace-owens) → [Mia Grant](/entities/person-mia-grant) [↗](/relationships/rel-1dca8c0e9fa1) (2)
 - [Curtis Kolvet](/entities/person-curtis-kolvet) → [Robert Kolvet](/entities/person-robert-kolvet) [↗](/relationships/rel-92b5baf06959) (1)
 - [David Farnsworth](/entities/person-david-farnsworth) → [Dwayne Farnsworth](/entities/person-dwayne-farnsworth) [↗](/relationships/rel-c2d7337ace26) (1)
 - [Dennis Frantzve](/entities/person-dennis-frantzve) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-9af492d06355) (2)
@@ -4289,10 +4392,50 @@ This page shows all extracted relationships between entities. Click any relation
 - [Eddie Farnsworth](/entities/person-eddie-farnsworth) → [Dwayne Farnsworth](/entities/person-dwayne-farnsworth) [↗](/relationships/rel-4c73b3ed0929) (1)
 - [Erika Kirk](/entities/person-erika-kirk) → [Nicole Rothstein](/entities/person-nicole-rothstein) [↗](/relationships/rel-2fda755c5017) (1)
 - [Erika Kirk](/entities/person-erika-kirk) → [Dennis Frantzve](/entities/person-dennis-frantzve) [↗](/relationships/rel-9ac28ef6d0bb) (2)
-- [Mia Grant](/entities/person-mia-grant) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-8b5c24bdd0da) (1)
+- [Mia Grant](/entities/person-mia-grant) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-8b5c24bdd0da) (2)
 - [Nicole Rothstein](/entities/person-nicole-rothstein) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-1604e771c5a2) (1)
 - [Robert Kolvet](/entities/person-robert-kolvet) → [Curtis Kolvet](/entities/person-curtis-kolvet) [↗](/relationships/rel-012dbf59bb4a) (1)
 - [Robert Kolvet](/entities/person-robert-kolvet) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-0c92e33359b6) (1)
+
+</details>
+
+<details>
+<summary>Mentored (14)</summary>
+
+- [Aleister Crowley](/entities/person-aleister-crowley) → [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday) [↗](/relationships/rel-e977367e56db) (1)
+- [Aleister Crowley](/entities/person-aleister-crowley) → [Jack Parsons](/entities/person-jack-parsons) [↗](/relationships/rel-ac4031f9ce59) (1)
+- [Andrew Breitbart](/entities/person-andrew-breitbart) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-bafad219334f) (1)
+- [David Horowitz](/entities/person-david-horowitz) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-b47ebc2e32bd) (2)
+- [Eileen Marx](/entities/person-eileen-marx) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-bc4b571a36e0) (1)
+- [Emma Goldman](/entities/person-emma-goldman) → [Margaret Sanger](/entities/person-margaret-sanger) [↗](/relationships/rel-f43114a7a2ef) (1)
+- [Greg Laurie](/entities/person-greg-laurie) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-268d3e3fd7f9) (1)
+- [Josh Hammer](/entities/person-josh-hammer) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-2e93f28281a2) (1)
+- [Ronald S. Godwin](/entities/person-ronald-s-godwin) → [Johnnie Moore](/entities/person-johnnie-moore) [↗](/relationships/rel-5df9dc849c7a) (1)
+- [Sun Myung Moon](/entities/person-sun-myung-moon) → [Ronald S. Godwin](/entities/person-ronald-s-godwin) [↗](/relationships/rel-bb308489608a) (1)
+- [Ted Dziak, S.J.](/entities/person-ted-dziak) → [Hunter Biden](/entities/person-hunter-biden) [↗](/relationships/rel-cbf81330779a) (1)
+- [Victor Marx](/entities/person-victor-marx) → [Corby Hall](/entities/person-corby-hall) [↗](/relationships/rel-c73f7044d3da) (1)
+- [Wilhelm Fliess](/entities/person-wilhelm-fliess) → [Sigmund Freud](/entities/person-sigmund-freud) [↗](/relationships/rel-3f29078b73ad) (1)
+- [William M. Watson, S.J.](/entities/person-william-m-watson-sj) → [Hunter Biden](/entities/person-hunter-biden) [↗](/relationships/rel-2365f857430c) (1)
+
+</details>
+
+<details>
+<summary>Mentored By (14)</summary>
+
+- [Ben Shapiro](/entities/person-ben-shapiro) → [David Horowitz](/entities/person-david-horowitz) [↗](/relationships/rel-0473d8c0efe8) (2)
+- [Ben Shapiro](/entities/person-ben-shapiro) → [Andrew Breitbart](/entities/person-andrew-breitbart) [↗](/relationships/rel-3a1846c22452) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Josh Hammer](/entities/person-josh-hammer) [↗](/relationships/rel-ed03d439fe66) (1)
+- [Corby Hall](/entities/person-corby-hall) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-952d5eb11aac) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Eileen Marx](/entities/person-eileen-marx) [↗](/relationships/rel-55e1dea67316) (1)
+- [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday) → [Aleister Crowley](/entities/person-aleister-crowley) [↗](/relationships/rel-a4bd241248d7) (1)
+- [Hunter Biden](/entities/person-hunter-biden) → [Ted Dziak, S.J.](/entities/person-ted-dziak) [↗](/relationships/rel-64650f2c547c) (1)
+- [Hunter Biden](/entities/person-hunter-biden) → [William M. Watson, S.J.](/entities/person-william-m-watson-sj) [↗](/relationships/rel-1e6f446e40d6) (1)
+- [Jack Parsons](/entities/person-jack-parsons) → [Aleister Crowley](/entities/person-aleister-crowley) [↗](/relationships/rel-2160c12eea8f) (1)
+- [Johnnie Moore](/entities/person-johnnie-moore) → [Ronald S. Godwin](/entities/person-ronald-s-godwin) [↗](/relationships/rel-27ee42a4b84d) (1)
+- [Margaret Sanger](/entities/person-margaret-sanger) → [Emma Goldman](/entities/person-emma-goldman) [↗](/relationships/rel-2bbbd4161771) (1)
+- [Ronald S. Godwin](/entities/person-ronald-s-godwin) → [Sun Myung Moon](/entities/person-sun-myung-moon) [↗](/relationships/rel-53e7b2893816) (1)
+- [Sigmund Freud](/entities/person-sigmund-freud) → [Wilhelm Fliess](/entities/person-wilhelm-fliess) [↗](/relationships/rel-0ab16c0c04c8) (1)
+- [Victor Marx](/entities/person-victor-marx) → [Greg Laurie](/entities/person-greg-laurie) [↗](/relationships/rel-5a440e6d1b80) (1)
 
 </details>
 
@@ -4335,24 +4478,6 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Advisor To (12)</summary>
-
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-d0289e7f7a3d) (2)
-- [David Axelrod](/entities/person-david-axelrod) → [Barack Obama](/entities/person-barack-obama) [↗](/relationships/rel-b0a02801a952) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [United States Department of Defense](/entities/org-us-department-of-defense) [↗](/relationships/rel-27a8a3e161cf) (1)
-- [Hervé Hoppenot](/entities/person-herve-hoppenot) → [Incyte](/entities/org-incyte) [↗](/relationships/rel-f1823c2de018) (1)
-- [Johnnie Moore](/entities/person-johnnie-moore) → [Aspen Institute](/entities/org-aspen-institute) [↗](/relationships/rel-a65b1f59b338) (1)
-- [Laura Loomer](/entities/person-laura-loomer) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-84de5832d3ad) (5)
-- [Mark Levin](/entities/person-mark-levin) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-bfd2c53bf749) (1)
-- [Michael T. Flynn](/entities/person-michael-t-flynn) → [Catholics for Catholics](/entities/org-catholics-for-catholics) [↗](/relationships/rel-f60a9dffd59f) (1)
-- [Paul E. Vallely](/entities/person-paul-e-vallely) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-89d73f390dc9) (2)
-- [Rob McCoy](/entities/person-rob-mccoy) → [Turning Point USA Faith](/entities/org-turning-point-usa-faith) [↗](/relationships/rel-cc87d3bd867e) (1)
-- [Steve Bannon](/entities/person-steve-bannon) → [Jeffrey Epstein](/entities/person-jeffrey-epstein) [↗](/relationships/rel-68e93a3b1de9) (1)
-- [Victor Marx](/entities/person-victor-marx) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-5e2bf5bf0ce7) (1)
-
-</details>
-
-<details>
 <summary>Appointed (12)</summary>
 
 - [Arizona State Senate](/entities/org-arizona-state-senate) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-870884741718) (1)
@@ -4367,24 +4492,6 @@ This page shows all extracted relationships between entities. Click any relation
 - [Spencer Cox](/entities/person-spencer-cox) → [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr) [↗](/relationships/rel-728196f2153f) (1)
 - [Spencer Cox](/entities/person-spencer-cox) → [Beau Mason](/entities/person-beau-mason) [↗](/relationships/rel-ba3045e7bca5) (1)
 - [Vladimir Lenin](/entities/person-vladimir-lenin) → [Ludwig Martens](/entities/person-ludwig-martens) [↗](/relationships/rel-12756e46cd40) (1)
-
-</details>
-
-<details>
-<summary>Advised By (12)</summary>
-
-- [Aspen Institute](/entities/org-aspen-institute) → [Johnnie Moore](/entities/person-johnnie-moore) [↗](/relationships/rel-0151ac2f493f) (1)
-- [Barack Obama](/entities/person-barack-obama) → [David Axelrod](/entities/person-david-axelrod) [↗](/relationships/rel-23d06a2232ad) (1)
-- [Catholics for Catholics](/entities/org-catholics-for-catholics) → [Michael T. Flynn](/entities/person-michael-t-flynn) [↗](/relationships/rel-ff583182093c) (1)
-- [Donald J. Trump](/entities/person-donald-trump) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-e4869caf0a86) (2)
-- [Donald J. Trump](/entities/person-donald-trump) → [Laura Loomer](/entities/person-laura-loomer) [↗](/relationships/rel-8d2bc753fbdb) (5)
-- [Donald J. Trump](/entities/person-donald-trump) → [Mark Levin](/entities/person-mark-levin) [↗](/relationships/rel-0584555535c3) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-7d17db27b89a) (1)
-- [Incyte](/entities/org-incyte) → [Hervé Hoppenot](/entities/person-herve-hoppenot) [↗](/relationships/rel-e3a240893749) (1)
-- [Jeffrey Epstein](/entities/person-jeffrey-epstein) → [Steve Bannon](/entities/person-steve-bannon) [↗](/relationships/rel-dc6c0dac753e) (1)
-- [Turning Point USA](/entities/org-turning-point-usa) → [Paul E. Vallely](/entities/person-paul-e-vallely) [↗](/relationships/rel-4b3c631fcc01) (2)
-- [Turning Point USA Faith](/entities/org-turning-point-usa-faith) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-3e976c0743d2) (1)
-- [United States Department of Defense](/entities/org-us-department-of-defense) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-b23e60d7129b) (1)
 
 </details>
 
@@ -4413,8 +4520,8 @@ This page shows all extracted relationships between entities. Click any relation
 - [Arkady Gaidemak](/entities/person-arkady-gaidemak) → [Branko International](/entities/org-branko-international) [↗](/relationships/rel-89840733bb68) (1)
 - [Barack Obama](/entities/person-barack-obama) → [Mitt Romney](/entities/person-mitt-romney) [↗](/relationships/rel-024c0ee2733e) (1)
 - [Branko International](/entities/org-branko-international) → [Arkady Gaidemak](/entities/person-arkady-gaidemak) [↗](/relationships/rel-3cc5cd9c9f60) (1)
-- [Donald J. Trump](/entities/person-donald-trump) → [Hillary Clinton](/entities/person-hillary-clinton) [↗](/relationships/rel-544c35325e3a) (1)
-- [Hillary Clinton](/entities/person-hillary-clinton) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-8fd365dcde1a) (1)
+- [Donald J. Trump](/entities/person-donald-trump) → [Hillary Clinton](/entities/person-hillary-clinton) [↗](/relationships/rel-544c35325e3a) (2)
+- [Hillary Clinton](/entities/person-hillary-clinton) → [Donald J. Trump](/entities/person-donald-trump) [↗](/relationships/rel-8fd365dcde1a) (2)
 - [Mitt Romney](/entities/person-mitt-romney) → [Barack Obama](/entities/person-barack-obama) [↗](/relationships/rel-e33b1d589218) (1)
 - [New York City](/entities/gpe-new-york-city) → [Zohran Mamdani](/entities/person-zohran-mamdani) [↗](/relationships/rel-4a8b5bd40925) (1)
 - [Phil Lyman](/entities/person-phil-lyman) → [Utah](/entities/gpe-utah) [↗](/relationships/rel-bf811ffcc693) (1)
@@ -4495,40 +4602,6 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Mentored (11)</summary>
-
-- [Aleister Crowley](/entities/person-aleister-crowley) → [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday) [↗](/relationships/rel-e977367e56db) (1)
-- [Aleister Crowley](/entities/person-aleister-crowley) → [Jack Parsons](/entities/person-jack-parsons) [↗](/relationships/rel-ac4031f9ce59) (1)
-- [David Horowitz](/entities/person-david-horowitz) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-b47ebc2e32bd) (1)
-- [Eileen Marx](/entities/person-eileen-marx) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-bc4b571a36e0) (1)
-- [Emma Goldman](/entities/person-emma-goldman) → [Margaret Sanger](/entities/person-margaret-sanger) [↗](/relationships/rel-f43114a7a2ef) (1)
-- [Greg Laurie](/entities/person-greg-laurie) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-268d3e3fd7f9) (1)
-- [Josh Hammer](/entities/person-josh-hammer) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-2e93f28281a2) (1)
-- [Ted Dziak, S.J.](/entities/person-ted-dziak) → [Hunter Biden](/entities/person-hunter-biden) [↗](/relationships/rel-cbf81330779a) (1)
-- [Victor Marx](/entities/person-victor-marx) → [Corby Hall](/entities/person-corby-hall) [↗](/relationships/rel-c73f7044d3da) (1)
-- [Wilhelm Fliess](/entities/person-wilhelm-fliess) → [Sigmund Freud](/entities/person-sigmund-freud) [↗](/relationships/rel-3f29078b73ad) (1)
-- [William M. Watson, S.J.](/entities/person-william-m-watson-sj) → [Hunter Biden](/entities/person-hunter-biden) [↗](/relationships/rel-2365f857430c) (1)
-
-</details>
-
-<details>
-<summary>Mentored By (11)</summary>
-
-- [Ben Shapiro](/entities/person-ben-shapiro) → [David Horowitz](/entities/person-david-horowitz) [↗](/relationships/rel-0473d8c0efe8) (1)
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Josh Hammer](/entities/person-josh-hammer) [↗](/relationships/rel-ed03d439fe66) (1)
-- [Corby Hall](/entities/person-corby-hall) → [Victor Marx](/entities/person-victor-marx) [↗](/relationships/rel-952d5eb11aac) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Eileen Marx](/entities/person-eileen-marx) [↗](/relationships/rel-55e1dea67316) (1)
-- [Frederick Charles Loveday](/entities/person-frederick-charles-raoul-loveday) → [Aleister Crowley](/entities/person-aleister-crowley) [↗](/relationships/rel-a4bd241248d7) (1)
-- [Hunter Biden](/entities/person-hunter-biden) → [Ted Dziak, S.J.](/entities/person-ted-dziak) [↗](/relationships/rel-64650f2c547c) (1)
-- [Hunter Biden](/entities/person-hunter-biden) → [William M. Watson, S.J.](/entities/person-william-m-watson-sj) [↗](/relationships/rel-1e6f446e40d6) (1)
-- [Jack Parsons](/entities/person-jack-parsons) → [Aleister Crowley](/entities/person-aleister-crowley) [↗](/relationships/rel-2160c12eea8f) (1)
-- [Margaret Sanger](/entities/person-margaret-sanger) → [Emma Goldman](/entities/person-emma-goldman) [↗](/relationships/rel-2bbbd4161771) (1)
-- [Sigmund Freud](/entities/person-sigmund-freud) → [Wilhelm Fliess](/entities/person-wilhelm-fliess) [↗](/relationships/rel-0ab16c0c04c8) (1)
-- [Victor Marx](/entities/person-victor-marx) → [Greg Laurie](/entities/person-greg-laurie) [↗](/relationships/rel-5a440e6d1b80) (1)
-
-</details>
-
-<details>
 <summary>Represented (11)</summary>
 
 - [Bryan Freedman](/entities/person-bryan-freedman) → [Justin Baldoni](/entities/person-justin-baldoni) [↗](/relationships/rel-d139f2418996) (1)
@@ -4595,6 +4668,38 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
+<summary>Chairman Of (10)</summary>
+
+- [Bill Ackman](/entities/person-bill-ackman) → [Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings) [↗](/relationships/rel-405660eed5a1) (1)
+- [Brendan Carr](/entities/person-brendan-carr) → [Federal Communications Commission](/entities/org-fcc) [↗](/relationships/rel-045fd99e5f2a) (1)
+- [Eddie Farnsworth](/entities/person-eddie-farnsworth) → [Arizona House Judiciary Committee](/entities/org-arizona-house-judiciary-committee) [↗](/relationships/rel-29e79a313fc5)
+- [Erika Kirk](/entities/person-erika-kirk) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-4e505835fb4f) (16)
+- [Johnnie Moore](/entities/person-johnnie-moore) → [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation) [↗](/relationships/rel-0221c496f8a1) (1)
+- [Mark Burnett](/entities/person-mark-burnett) → [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer) [↗](/relationships/rel-e89c979c48c2) (1)
+- [Phil Goldsberry](/entities/person-phil-goldsberry) → [Soter Global Ministries](/entities/org-soter-global-ministries) [↗](/relationships/rel-8ce66b24d156) (1)
+- [Rob McCoy](/entities/person-rob-mccoy) → [Turning Point USA Faith](/entities/org-turning-point-usa-faith) [↗](/relationships/rel-8a5511f4d2fd) (2)
+- [Steve Bannon](/entities/person-steve-bannon) → [Breitbart News](/entities/org-breitbart-news) [↗](/relationships/rel-c6051a390b0c) (1)
+- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) [↗](/relationships/rel-178366e9ad70) (1)
+
+</details>
+
+<details>
+<summary>Has Chairman (10)</summary>
+
+- [Arizona House Judiciary Committee](/entities/org-arizona-house-judiciary-committee) → [Eddie Farnsworth](/entities/person-eddie-farnsworth) [↗](/relationships/rel-cd1fd87dbb6a)
+- [Breitbart News](/entities/org-breitbart-news) → [Steve Bannon](/entities/person-steve-bannon) [↗](/relationships/rel-ecf2e637e2ff) (1)
+- [Federal Communications Commission](/entities/org-fcc) → [Brendan Carr](/entities/person-brendan-carr) [↗](/relationships/rel-7fcc5023c812) (1)
+- [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation) → [Johnnie Moore](/entities/person-johnnie-moore) [↗](/relationships/rel-a9b854979571) (1)
+- [Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings) → [Bill Ackman](/entities/person-bill-ackman) [↗](/relationships/rel-ca664e18fb6c) (1)
+- [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-5388cf604136) (1)
+- [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer) → [Mark Burnett](/entities/person-mark-burnett) [↗](/relationships/rel-eda6a5eec61a) (1)
+- [Soter Global Ministries](/entities/org-soter-global-ministries) → [Phil Goldsberry](/entities/person-phil-goldsberry) [↗](/relationships/rel-b734200494de) (1)
+- [Turning Point USA](/entities/org-turning-point-usa) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-dee66b9ed905) (16)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-cecfe5ef6a79) (2)
+
+</details>
+
+<details>
 <summary>Pastor Of (9)</summary>
 
 - [Gary Hamrick](/entities/person-gary-hamrick) → [Cornerstone Chapel](/entities/org-cornerstone-chapel) [↗](/relationships/rel-b7216a8d1d4f) (1)
@@ -4606,21 +4711,6 @@ This page shows all extracted relationships between entities. Click any relation
 - [Rob McCoy](/entities/person-rob-mccoy) → [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel) [↗](/relationships/rel-907074a83e46) (1)
 - [Rob McCoy](/entities/person-rob-mccoy) → [Encounter Church Vegas](/entities/org-encounter-church-vegas) [↗](/relationships/rel-5d653831ae13) (1)
 - [Russell Johnson](/entities/person-russell-johnson) → [The Pursuit](/entities/org-the-pursuit) [↗](/relationships/rel-beded940f129) (1)
-
-</details>
-
-<details>
-<summary>Chairman Of (9)</summary>
-
-- [Bill Ackman](/entities/person-bill-ackman) → [Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings) [↗](/relationships/rel-405660eed5a1) (1)
-- [Brendan Carr](/entities/person-brendan-carr) → [Federal Communications Commission](/entities/org-fcc) [↗](/relationships/rel-045fd99e5f2a) (1)
-- [Eddie Farnsworth](/entities/person-eddie-farnsworth) → [Arizona House Judiciary Committee](/entities/org-arizona-house-judiciary-committee) [↗](/relationships/rel-29e79a313fc5)
-- [Erika Kirk](/entities/person-erika-kirk) → [Turning Point USA](/entities/org-turning-point-usa) [↗](/relationships/rel-4e505835fb4f) (16)
-- [Johnnie Moore](/entities/person-johnnie-moore) → [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation) [↗](/relationships/rel-0221c496f8a1) (1)
-- [Mark Burnett](/entities/person-mark-burnett) → [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer) [↗](/relationships/rel-e89c979c48c2) (1)
-- [Phil Goldsberry](/entities/person-phil-goldsberry) → [Soter Global Ministries](/entities/org-soter-global-ministries) [↗](/relationships/rel-8ce66b24d156) (1)
-- [Rob McCoy](/entities/person-rob-mccoy) → [Turning Point USA Faith](/entities/org-turning-point-usa-faith) [↗](/relationships/rel-8a5511f4d2fd) (2)
-- [Tyler Bowyer](/entities/person-tyler-bowyer) → [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) [↗](/relationships/rel-178366e9ad70) (1)
 
 </details>
 
@@ -4640,17 +4730,32 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Has Chairman (9)</summary>
+<summary>Widow Of (9)</summary>
 
-- [Arizona House Judiciary Committee](/entities/org-arizona-house-judiciary-committee) → [Eddie Farnsworth](/entities/person-eddie-farnsworth) [↗](/relationships/rel-cd1fd87dbb6a)
-- [Federal Communications Commission](/entities/org-fcc) → [Brendan Carr](/entities/person-brendan-carr) [↗](/relationships/rel-7fcc5023c812) (1)
-- [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation) → [Johnnie Moore](/entities/person-johnnie-moore) [↗](/relationships/rel-a9b854979571) (1)
-- [Howard Hughes Holdings Inc.](/entities/org-howard-hughes-holdings) → [Bill Ackman](/entities/person-bill-ackman) [↗](/relationships/rel-ca664e18fb6c) (1)
-- [Maricopa County Republican Committee](/entities/org-maricopa-county-republican-committee) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-5388cf604136) (1)
-- [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer) → [Mark Burnett](/entities/person-mark-burnett) [↗](/relationships/rel-eda6a5eec61a) (1)
-- [Soter Global Ministries](/entities/org-soter-global-ministries) → [Phil Goldsberry](/entities/person-phil-goldsberry) [↗](/relationships/rel-b734200494de) (1)
-- [Turning Point USA](/entities/org-turning-point-usa) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-dee66b9ed905) (16)
-- [Turning Point USA Faith](/entities/org-turning-point-usa-faith) → [Rob McCoy](/entities/person-rob-mccoy) [↗](/relationships/rel-cecfe5ef6a79) (2)
+- [Allison Holker](/entities/person-allison-holker) → [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss) [↗](/relationships/rel-f835952cf94c) (1)
+- [Ellen R. Gordon](/entities/person-ellen-gordon) → [Melvin Gordon](/entities/person-melvin-gordon) [↗](/relationships/rel-737ab800a012) (1)
+- [Erika Kirk](/entities/person-erika-kirk) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-be17a77ff9b1) (67)
+- [Helen Comperatore](/entities/person-helen-comperatore) → [Corey Comperatore](/entities/person-corey-comperatore) [↗](/relationships/rel-6b59f8751b6c) (1)
+- [Katharine Graham](/entities/person-katharine-graham) → [Philip Graham](/entities/person-philip-graham) [↗](/relationships/rel-8dff30c101df) (1)
+- [Kouri Richins](/entities/person-kouri-richins) → [Eric Richins](/entities/person-eric-richins) [↗](/relationships/rel-c03dc0c64f0b) (2)
+- [Miriam Adelson](/entities/person-miriam-adelson) → [Sheldon Adelson](/entities/person-sheldon-adelson) [↗](/relationships/rel-2f2d2f828816) (1)
+- [Susie Breitbart](/entities/person-susie-breitbart) → [Andrew Breitbart](/entities/person-andrew-breitbart) [↗](/relationships/rel-3f518ece7972) (1)
+- [Vanessa Bryant](/entities/person-vanessa-bryant) → [Kobe Bryant](/entities/person-kobe-bryant) [↗](/relationships/rel-2a1d325a9db2) (1)
+
+</details>
+
+<details>
+<summary>Deceased Husband Of (9)</summary>
+
+- [Andrew Breitbart](/entities/person-andrew-breitbart) → [Susie Breitbart](/entities/person-susie-breitbart) [↗](/relationships/rel-a1ba388d1f11) (1)
+- [Charlie Kirk](/entities/person-charlie-kirk) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-c107c14a5295) (66)
+- [Corey Comperatore](/entities/person-corey-comperatore) → [Helen Comperatore](/entities/person-helen-comperatore) [↗](/relationships/rel-526fb920186c) (1)
+- [Eric Richins](/entities/person-eric-richins) → [Kouri Richins](/entities/person-kouri-richins) [↗](/relationships/rel-81a38c134769) (2)
+- [Kobe Bryant](/entities/person-kobe-bryant) → [Vanessa Bryant](/entities/person-vanessa-bryant) [↗](/relationships/rel-ce8ec54e6f0e) (1)
+- [Melvin Gordon](/entities/person-melvin-gordon) → [Ellen R. Gordon](/entities/person-ellen-gordon) [↗](/relationships/rel-874ba505d542) (1)
+- [Philip Graham](/entities/person-philip-graham) → [Katharine Graham](/entities/person-katharine-graham) [↗](/relationships/rel-b65e304389f6) (1)
+- [Sheldon Adelson](/entities/person-sheldon-adelson) → [Miriam Adelson](/entities/person-miriam-adelson) [↗](/relationships/rel-b8d7a1c8f296) (1)
+- [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss) → [Allison Holker](/entities/person-allison-holker) [↗](/relationships/rel-38ca285401c2) (1)
 
 </details>
 
@@ -4707,34 +4812,6 @@ This page shows all extracted relationships between entities. Click any relation
 - [Salem Podcast Network](/entities/org-salem-podcast-network) → [Josh Hammer](/entities/person-josh-hammer) [↗](/relationships/rel-53e2e06af7b7) (1)
 - [Summer House](/entities/work-summer-house-tv-series) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-d6457af180af) (1)
 - [Wolves and Finance](/entities/org-wolves-and-finance) → [Zach De Gregorio](/entities/person-zach-de-gregorio) [↗](/relationships/rel-c0d76f2555b7) (1)
-
-</details>
-
-<details>
-<summary>Widow Of (8)</summary>
-
-- [Allison Holker](/entities/person-allison-holker) → [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss) [↗](/relationships/rel-f835952cf94c) (1)
-- [Ellen R. Gordon](/entities/person-ellen-gordon) → [Melvin Gordon](/entities/person-melvin-gordon) [↗](/relationships/rel-737ab800a012) (1)
-- [Erika Kirk](/entities/person-erika-kirk) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-be17a77ff9b1) (67)
-- [Helen Comperatore](/entities/person-helen-comperatore) → [Corey Comperatore](/entities/person-corey-comperatore) [↗](/relationships/rel-6b59f8751b6c) (1)
-- [Katharine Graham](/entities/person-katharine-graham) → [Philip Graham](/entities/person-philip-graham) [↗](/relationships/rel-8dff30c101df) (1)
-- [Kouri Richins](/entities/person-kouri-richins) → [Eric Richins](/entities/person-eric-richins) [↗](/relationships/rel-c03dc0c64f0b) (2)
-- [Miriam Adelson](/entities/person-miriam-adelson) → [Sheldon Adelson](/entities/person-sheldon-adelson) [↗](/relationships/rel-2f2d2f828816) (1)
-- [Vanessa Bryant](/entities/person-vanessa-bryant) → [Kobe Bryant](/entities/person-kobe-bryant) [↗](/relationships/rel-2a1d325a9db2) (1)
-
-</details>
-
-<details>
-<summary>Deceased Husband Of (8)</summary>
-
-- [Charlie Kirk](/entities/person-charlie-kirk) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-c107c14a5295) (66)
-- [Corey Comperatore](/entities/person-corey-comperatore) → [Helen Comperatore](/entities/person-helen-comperatore) [↗](/relationships/rel-526fb920186c) (1)
-- [Eric Richins](/entities/person-eric-richins) → [Kouri Richins](/entities/person-kouri-richins) [↗](/relationships/rel-81a38c134769) (2)
-- [Kobe Bryant](/entities/person-kobe-bryant) → [Vanessa Bryant](/entities/person-vanessa-bryant) [↗](/relationships/rel-ce8ec54e6f0e) (1)
-- [Melvin Gordon](/entities/person-melvin-gordon) → [Ellen R. Gordon](/entities/person-ellen-gordon) [↗](/relationships/rel-874ba505d542) (1)
-- [Philip Graham](/entities/person-philip-graham) → [Katharine Graham](/entities/person-katharine-graham) [↗](/relationships/rel-b65e304389f6) (1)
-- [Sheldon Adelson](/entities/person-sheldon-adelson) → [Miriam Adelson](/entities/person-miriam-adelson) [↗](/relationships/rel-b8d7a1c8f296) (1)
-- [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss) → [Allison Holker](/entities/person-allison-holker) [↗](/relationships/rel-38ca285401c2) (1)
 
 </details>
 
@@ -5100,7 +5177,7 @@ This page shows all extracted relationships between entities. Click any relation
 <details>
 <summary>Former Ceo Of (3)</summary>
 
-- [Jeremy Boreing](/entities/person-jeremy-boreing) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-b7cd4f8e33f9) (1)
+- [Jeremy Boreing](/entities/person-jeremy-boreing) → [The Daily Wire](/entities/org-the-daily-wire) [↗](/relationships/rel-b7cd4f8e33f9) (2)
 - [Lori Frantzve](/entities/person-lori-frantzve) → [GTEC Industries](/entities/org-gtec-industries) [↗](/relationships/rel-3df6b4c908dc) (1)
 - [Thomas H. Patrick](/entities/person-thomas-h-patrick) → [Merrill Lynch](/entities/org-merrill-lynch) [↗](/relationships/rel-e633643f27b6) (1)
 
@@ -5111,7 +5188,7 @@ This page shows all extracted relationships between entities. Click any relation
 
 - [GTEC Industries](/entities/org-gtec-industries) → [Lori Frantzve](/entities/person-lori-frantzve) [↗](/relationships/rel-c5b48d7fdb98) (1)
 - [Merrill Lynch](/entities/org-merrill-lynch) → [Thomas H. Patrick](/entities/person-thomas-h-patrick) [↗](/relationships/rel-49c355ceab06) (1)
-- [The Daily Wire](/entities/org-the-daily-wire) → [Jeremy Boreing](/entities/person-jeremy-boreing) [↗](/relationships/rel-b49c5f2f991e) (1)
+- [The Daily Wire](/entities/org-the-daily-wire) → [Jeremy Boreing](/entities/person-jeremy-boreing) [↗](/relationships/rel-b49c5f2f991e) (2)
 
 </details>
 

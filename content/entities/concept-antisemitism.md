@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 122 mentions"
+description: "Antisemitism (Concepts) - 123 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -26,10 +26,10 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00">2025-10-01 · 00:00:21</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-23-09">2026-07-23 · 00:23:09</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>122</strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>123</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,7 +43,8 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-01-26" style="--pulse-height:57%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 8 mentions" title="2025-11-08 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-antisemitism-t-00-38-43" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-antisemitism-t-01-02-58" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-37" style="--pulse-height:36%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-32" style="--pulse-height:36%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-44" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-antisemitism-t-00-44-56" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-31" style="--pulse-height:43%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
@@ -86,7 +87,8 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-concept-antisemitism-t-00-01-26) | 8 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-antisemitism-t-00-38-43) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-antisemitism-t-01-02-58) | 1 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-37) | 5 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-32) | 5 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-44) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-antisemitism-t-00-44-56) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-31) | 6 |
@@ -126,7 +128,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (122)</strong></summary>
+<summary><strong class="section-title">Raw mentions (123)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -594,13 +596,13 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5 mentions)</summary>
 
-**[00:20:43](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-37)**
+**[00:20:43](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-32)**
 > "...t is king is in fact actually anti-Semitic and they created this whole video graphic to show..."
 
 **[00:39:19](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-38-55)**
 > "... rake and say something super anti-Semitic without realizing it?"
 
-**[00:21:21](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-21-21)**
+**[00:21:21](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-21-15)**
 > "...ie apart by drumming up weird anti-Semitism scandals and then having donors demand action."
 
 **[00:22:54](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-22-46)**
@@ -608,6 +610,14 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 **[00:39:10](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-38-55)**
 > "...me and some are calling me an anti-Semite. Why?"
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
+
+**[00:00:23](/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00)**
+> "Be anti-Semitic because Black people are actually Jew also. You g..."
 
 </details>
 
@@ -691,7 +701,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Antisemitism (20)</strong></summary>
+<summary><strong class="section-title">Statements about Antisemitism (21)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -815,6 +825,14 @@ _No relationships extracted yet._
 
 - [00:39:10](/episodes/ep-CMcktj3Egfo.md#t-00-38-55) (Claim) **Megyn Kelly** (via quoted speech): ["Megyn Kelly said pro-Israel Jewish media friends turned against her an..."](/statements/statement-404e98df0a8f.md)
   - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:00:37](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00) (Opinion) **Candace Owens**: ["Kanye West was right that people who oppose a particular agenda are bl..."](/statements/statement-0ad5a79042eb.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md)
 
 </details>
 

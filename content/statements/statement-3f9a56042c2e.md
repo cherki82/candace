@@ -26,7 +26,7 @@ type: "promise"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:52:12](/episodes/ep-CMcktj3Egfo.md#t-00-51-41) 
+**Timestamp:** [00:52:12](/episodes/ep-CMcktj3Egfo.md#t-00-51-40) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3132);return false;">Play</a>
 
 > I totally agree and I'm not voting until we figure out who killed Charlie Kirk and exactly how it happened. So I'm out.

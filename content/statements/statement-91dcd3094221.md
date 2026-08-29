@@ -1,16 +1,16 @@
 ---
-title: "Charlie Kirk’s trips to Korea and Japan were not principally..."
-description: "\"Charlie Kirk’s trips to Korea and Japan were not principally about defending suppressed Christianity.\" — Candace Owens"
+title: "Owens said she did not think Charlie Kirk's trips to Korea a..."
+description: "\"Owens said she did not think Charlie Kirk's trips to Korea and Japan were principally about defending suppressed Christianity.\" — Candace Owens"
 statement_id: "statement-91dcd3094221"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Charlie Kirk’s trips to Korea and Japan were not principally about defending suppressed Christianity.
+> Owens said she did not think Charlie Kirk's trips to Korea and Japan were principally about defending suppressed Christianity.
 
 ## Attribution
 
@@ -38,4 +38,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** No

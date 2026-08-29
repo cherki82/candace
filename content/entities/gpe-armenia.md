@@ -1,6 +1,6 @@
 ---
 title: "Armenia"
-description: "Armenia (Places) - 2 mentions"
+description: "Armenia (Places) - 3 mentions"
 id: "gpe-armenia"
 type: "GPE"
 categories:
@@ -17,10 +17,10 @@ _Type: Places_
 Source: [Government of Armenia official website](https://www.gov.am/en/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-armenia-t-00-35-10">2026-02-02 · 00:35:22</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-armenia-t-01-00-27">2026-01-09 · 01:00:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-armenia-t-00-40-12">2026-05-28 · 00:40:19</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,8 +29,9 @@ Source: [Government of Armenia official website](https://www.gov.am/en/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-armenia-t-00-35-10">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-armenia-t-01-00-27">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-armenia-t-01-00-27" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-armenia-t-00-35-10" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-armenia-t-00-40-12" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 </div>
@@ -38,6 +39,7 @@ Source: [Government of Armenia official website](https://www.gov.am/en/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-armenia-t-01-00-27) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-armenia-t-00-35-10) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-armenia-t-00-40-12) | 1 |
 
@@ -47,7 +49,7 @@ Source: [Government of Armenia official website](https://www.gov.am/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -62,6 +64,14 @@ Source: [Government of Armenia official website](https://www.gov.am/en/)
 
 **[00:35:22](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-armenia-t-00-35-10)**
 > "this obsession with getting into Armenia"
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
+
+**[01:00:27](/episodes/ep-wcD2khO3rOA.md#ent-gpe-armenia-t-01-00-27)**
+> "...oing on all around the world, Armenia."
 
 </details>
 

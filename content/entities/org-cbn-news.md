@@ -5,11 +5,19 @@ id: "org-cbn-news"
 type: "ORG"
 aliases:
   - "Christian Broadcasting Network News"
+categories:
+  - "Christian news organization"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Christian Broadcasting Network News
+
+**Categories:** Christian news organization
+
+**Entity verification:** verified
+> CBN's official profile describes CBN News as a multimedia news organization.
+Source: [CBN News | CBN](https://cbn.com/person/cbn-news)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-cbn-news-t-00-01-23">2025-11-13 · 00:02:00</a></strong></div>

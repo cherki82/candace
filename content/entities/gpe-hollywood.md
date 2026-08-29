@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 116 mentions"
+description: "Hollywood (Places) - 120 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -24,10 +24,10 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30">2025-09-18 · 00:12:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42">2026-08-07 · 00:44:51</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>116</strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>120</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-hollywood-t-00-39-15" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-hollywood-t-00-24-28" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-17" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-14-48" style="--pulse-height:27%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-15-01" style="--pulse-height:27%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-21" style="--pulse-height:13%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-hollywood-t-00-35-50" style="--pulse-height:13%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -93,6 +94,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-hollywood-t-00-39-15) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-hollywood-t-00-24-28) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-17) | 3 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-14-48) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-15-01) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-21) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-hollywood-t-00-35-50) | 2 |
@@ -128,7 +130,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (116)</strong></summary>
+<summary><strong class="section-title">Raw mentions (120)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -535,14 +537,31 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 **[00:15:25](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-15-01)**
 > "... of course, that explains the Hollywood tint to it all as well."
 
-**[00:18:47](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-18-28)**
+**[00:18:47](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-18-21)**
 > "...niversity in 2014, he went to Hollywood to start the PR company, the KAIROS Company. Andr..."
 
-**[00:19:27](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-19-10)**
+**[00:19:27](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-19-07)**
 > "despite going to Hollywood in 2015 to work with, and I should mention here,"
 
-**[00:26:33](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-26-09)**
+**[00:26:33](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-26-31)**
 > "that's when Johnnie went to Hollywood."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
+
+**[00:15:06](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-14-48)**
+> "...kson that it's plausible that Hollywood is being run by a gang."
+
+**[00:15:27](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-15-27)**
+> "Hollywood was started by gangs. Yes, there were Jewish mafi..."
+
+**[00:30:38](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-30-38)**
+> "Whether they are artists in Hollywood."
+
+**[00:36:58](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-36-46)**
+> "...w a lot of people that are in Hollywood,"
 
 </details>
 
@@ -688,7 +707,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hollywood (13)</strong></summary>
+<summary><strong class="section-title">Statements about Hollywood (14)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
@@ -769,8 +788,16 @@ _No relationships extracted yet._
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28) (Claim) **Candace Owens**: ["Johnnie Moore left Liberty University in 2014 for Hollywood to start t..."](/statements/statement-1b2adcf35658.md)
+- [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21) (Claim) **Candace Owens**: ["Johnnie Moore left Liberty University in 2014 for Hollywood to start t..."](/statements/statement-1b2adcf35658.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Liberty University](/entities/org-liberty-university.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:15:28](/episodes/ep-zSKrxIUMNqw.md#t-00-15-27) (Claim) **Candace Owens**: ["Hollywood was founded by gangs, including Jewish mafiosos and bootlegg..."](/statements/statement-3369186e5742.md)
+  - Also about: [Organized crime](/entities/concept-organized-crime.md)
 
 </details>
 

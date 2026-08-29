@@ -11,7 +11,7 @@ date: "2025-11-07"
 
 > Ben Shapiro joins Megyn Kelly on her tour stop in Florida and criticizes Owens, Carlson.
 
-## Mentioned In (27 times)
+## Mentioned In (28 times)
 
 ### 1. Charlie Kirk And The Crossing Of The Delaware | Candace Ep 2...
 
@@ -228,3 +228,11 @@ date: "2025-11-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2053);return false;">▶️ Play</a>
 
 > keep that alive." "And honestly, we all owe that to him." Ju
+
+### 28. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
+
+**Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
+**Timestamp:** [00:05:25](/episodes/ep-zSKrxIUMNqw.md#t-00-04-48) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(325);return false;">▶️ Play</a>
+
+> Ben stepped onto Megyn Kelly's stage while she was on tour

@@ -1,6 +1,6 @@
 ---
 title: "Child sex trafficking"
-description: "Child sex trafficking (Concepts) - 8 mentions"
+description: "Child sex trafficking (Concepts) - 9 mentions"
 id: "concept-child-sex-trafficking"
 type: "CONCEPT"
 categories:
@@ -19,10 +19,10 @@ Source: [U.S. Department of Justice — Human Trafficking](https://www.justice.g
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-child-sex-trafficking-t-00-34-22">2026-01-06 · 00:34:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-child-sex-trafficking-t-00-18-13">2026-02-13 · 00:18:15</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,6 +32,7 @@ Source: [U.S. Department of Justice — Human Trafficking](https://www.justice.g
 <p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-child-sex-trafficking-t-00-34-22">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-child-sex-trafficking-t-00-34-22" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-child-sex-trafficking-t-00-57-40" style="--pulse-height:14%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-child-sex-trafficking-t-00-18-13" style="--pulse-height:14%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -39,6 +40,7 @@ Source: [U.S. Department of Justice — Human Trafficking](https://www.justice.g
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-child-sex-trafficking-t-00-34-22) | 7 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-child-sex-trafficking-t-00-57-40) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-concept-child-sex-trafficking-t-00-18-13) | 1 |
 
 </details>
@@ -47,13 +49,21 @@ Source: [U.S. Department of Justice — Human Trafficking](https://www.justice.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
 
 **[00:18:15](/episodes/ep-1hcjQGgvxUY.md#ent-concept-child-sex-trafficking-t-00-18-13)**
 > "...he number one human human and child sex trafficking location in arizona a place called arizona mills ..."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
+
+**[00:57:53](/episodes/ep-zSKrxIUMNqw.md#ent-concept-child-sex-trafficking-t-00-57-40)**
+> "..., why does it always end with child sex trafficking every single time? Lord, bring them down. Yeah, L..."
 
 </details>
 
@@ -89,5 +99,18 @@ Source: [U.S. Department of Justice — Human Trafficking](https://www.justice.g
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Child sex trafficking (1)</strong></summary>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:57:53](/episodes/ep-zSKrxIUMNqw.md#t-00-57-40) (Opinion) **Candace Owens**: ["The investigation into Charlie Kirk's death repeatedly leads to child ..."](/statements/statement-bf4d82ca6126.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 </details>

@@ -3,9 +3,17 @@ title: "News World Communications"
 description: "News World Communications (Organizations) - 1 mention"
 id: "org-news-world-communications"
 type: "ORG"
+categories:
+  - "media holding company"
 ---
 
 _Type: Organizations_
+
+**Categories:** media holding company
+
+**Entity verification:** verified
+> Washington Post reporting identifies News World Communications as the parent company discussed in the episode.
+Source: [A Church in Flux Is Flush With Cash | The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-news-world-communications-t-01-06-16">2026-01-09 · 01:06:36</a></strong></div>

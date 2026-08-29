@@ -15,7 +15,7 @@ object: "org-advocates-faith-freedom"
 
 **[The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA)**
 
-- [01:10:06](/episodes/ep-wcD2khO3rOA#t-01-10-06): _the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son’s case._
+- [01:10:14](/episodes/ep-wcD2khO3rOA#t-01-10-14): _the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son's case._
 
 ### Related
 

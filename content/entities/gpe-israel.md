@@ -26,11 +26,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-israel-t-00-55-41">2026-08-21 · 00:55:41</a></strong></div>
-<div><span>Episodes</span><strong>140</strong></div>
+<div><span>Episodes</span><strong>141</strong></div>
 <div><span>Mentions</span><strong>1,559</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>299</strong></div>
-<div><span>Relationships</span><strong>56</strong></div>
+<div><span>Statements about</span><strong>300</strong></div>
+<div><span>Relationships</span><strong>58</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -85,8 +85,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-israel-t-00-48-20" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-00-42" style="--pulse-height:23%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 13 mentions" title="2025-12-20 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-israel-t-00-53-29" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 6 mentions" title="2026-01-05 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-israel-t-00-54-57" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-israel-t-00-34-01" style="--pulse-height:23%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 13 mentions" title="2026-01-09 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-00-45" style="--pulse-height:26%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 15 mentions" title="2026-01-12 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-00-45" style="--pulse-height:25%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 14 mentions" title="2026-01-12 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-11" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 12 mentions" title="2026-01-13 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-43-45" style="--pulse-height:9%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 5 mentions" title="2026-01-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-37-15" style="--pulse-height:9%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
@@ -230,8 +231,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-israel-t-00-48-20) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-israel-t-00-00-42) | 13 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-israel-t-00-53-29) | 6 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-israel-t-00-54-57) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-israel-t-00-34-01) | 13 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-00-45) | 15 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-00-45) | 14 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-11) | 12 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-43-45) | 5 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-37-15) | 5 |
@@ -3453,7 +3455,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (15 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (14 mentions)</summary>
 
 **[00:00:55](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-00-45)**
 > "...gyn Kelly is saying no to the Israel lobby bullying."
@@ -3470,22 +3472,22 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:05:31](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-04-51)**
 > "...ing at us. I just didn't love Israel."
 
-**[00:17:37](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-17-09)**
+**[00:17:37](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-17-03)**
 > "... passionately on the topic of Israel."
 
-**[00:21:03](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-20-37)**
+**[00:21:03](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-20-32)**
 > "...ous PR to defend the state of Israel."
 
 **[00:22:46](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-22-46)**
 > "I know the state of Israel is strong. It's as strong as it's ever been."
 
-**[00:32:09](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-31-49)**
+**[00:32:09](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-31-47)**
 > "...to be radically obsessed with Israel. It's not a component of this. It's just you can'..."
 
-**[00:34:14](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-34-00)**
+**[00:34:14](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-33-59)**
 > "...to be enemies of the state of Israel."
 
-**[00:34:29](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-34-00)**
+**[00:34:29](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-33-59)**
 > "...ents an existential threat to Israel."
 
 **[00:37:11](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-36-40)**
@@ -3496,9 +3498,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:42:32](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-42-32)**
 > "...t want to recognize that this Israel is starting to squeeze Americans."
-
-**[00:42:50](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-42-32)**
-> "...tually give my tax dollars to Israel,"
 
 </details>
 
@@ -3543,6 +3542,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:56:09](/episodes/ep-wcD2khO3rOA.md#ent-gpe-israel-t-00-55-40)**
 > "... churches that's working with Israel."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
+
+**[00:55:24](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-israel-t-00-54-57)**
+> "hey, what Israel is doing to the Palestinians is wrong."
 
 </details>
 
@@ -5898,7 +5905,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Supported By (4)</summary>
+<summary>Supported By (5)</summary>
 
 - **[Michele Bachmann](/entities/person-michele-bachmann.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -5927,6 +5934,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [Candace Owens x Ana Kasparian @ 00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10): “we have depleted 80 percent of our missile interceptors because we've given military aid to Israel, Ukraine”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:36:57](/episodes/ep-AH1KVKkweUE.md#t-00-36-38): “remove our ties from Israel, stop funding that demonic pedophilic state of Baal”
+
+</details>
+
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:26](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “Megyn Kelly sat down and discussed she's been at length under attack they are adding her to their list it's very obvious because she simply won't bend the knee she has said nothing wrong she actually is a Zionist and she supports Israel”
 
 </details>
 
@@ -5971,7 +5985,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (29)</summary>
+<summary>Referenced By (30)</summary>
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -6166,6 +6180,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
+- **[Megyn Kelly](/entities/person-megyn-kelly.md)** supporter of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:26](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “Megyn Kelly sat down and discussed she's been at length under attack they are adding her to their list it's very obvious because she simply won't bend the knee she has said nothing wrong she actually is a Zionist and she supports Israel”
+
+</details>
+
 - **[Clock Tower X LLC](/entities/org-clock-tower-x-llc.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -6199,7 +6220,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel (299)</strong></summary>
+<summary><strong class="section-title">Statements about Israel (300)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (3)</summary>
@@ -7187,7 +7208,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 - [00:04:49](/episodes/ep-CMcktj3Egfo.md#t-00-04-12) (Claim) **Candace Owens**: ["Candace Owens and Charlie Kirk traveled to Israel together in 2018."](/statements/statement-3f037ef51efe.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:33:31](/episodes/ep-CMcktj3Egfo.md#t-00-33-15) (Accusation) **Candace Owens**: ["Israel intentionally killed tens of thousands of Palestinian civilians..."](/statements/statement-b6b73a9dce86.md)
+- [00:33:31](/episodes/ep-CMcktj3Egfo.md#t-00-33-04) (Accusation) **Candace Owens**: ["Israel intentionally killed tens of thousands of Palestinian civilians..."](/statements/statement-b6b73a9dce86.md)
   - Also about: [Gaza](/entities/gpe-gaza.md), [Palestine](/entities/gpe-palestine.md), [Genocide](/entities/concept-genocide.md)
 
 - [00:37:08](/episodes/ep-CMcktj3Egfo.md#t-00-36-40) (Accusation) **Candace Owens**: ["Candace Owens said that if anything happened to Tucker Carlson or her,..."](/statements/statement-083d4f1df0d7.md)
@@ -7206,6 +7227,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:47:09](/episodes/ep-wcD2khO3rOA.md#t-00-46-51) (Claim) **Candace Owens**: ["Menachem Begin gifted Jerry Falwell Sr. a Learjet in 1979."](/statements/statement-d9ecb61b898d.md)
   - Also about: [Menachem Begin](/entities/person-menachem-begin.md), [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:55:28](/episodes/ep-zSKrxIUMNqw.md#t-00-54-57) (Opinion) **Candace Owens**: ["What Israel is doing to Palestinians is wrong."](/statements/statement-44d8ad95f2b6.md)
+  - Also about: [Palestine](/entities/gpe-palestine.md)
 
 </details>
 

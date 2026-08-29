@@ -1,6 +1,6 @@
 ---
 title: "Johnnie Moore"
-description: "Johnnie Moore (People) - 50 mentions"
+description: "Johnnie Moore (People) - 46 mentions"
 id: "person-johnnie-moore"
 type: "PERSON"
 aliases:
@@ -27,26 +27,26 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-johnnie-moore-t-00-18-23">2026-08-06 · 00:18:30</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>30</strong></div>
+<div><span>Relationships</span><strong>33</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (28 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (24 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 28 mentions" title="2026-01-12 · 28 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 24 mentions" title="2026-01-12 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-johnnie-moore-t-00-22-41" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-19-53" style="--pulse-height:18%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-32-47" style="--pulse-height:11%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-19-53" style="--pulse-height:21%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-32-47" style="--pulse-height:12%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-johnnie-moore-t-00-21-18" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-johnnie-moore-t-00-18-23" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
@@ -55,7 +55,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06) | 6 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45) | 28 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45) | 24 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28) | 1 |
@@ -72,7 +72,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -168,33 +168,30 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (28 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (24 mentions)</summary>
 
 **[00:18:12](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45)**
 > "a certain Johnnie Moore inserted himself into the meeting, the planning s..."
 
-**[00:18:21](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45)**
-> "...emember I told you about this Johnnie Moore character."
+**[00:18:28](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-18-21)**
+> "there was no reason for Johnnie to actually be there, even though he kind of grew..."
 
-**[00:18:47](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-18-28)**
+**[00:18:47](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-18-21)**
 > "...y. You will recall that he is Johnnie Moore’s partner, protégé, I do not know what you want t..."
 
-**[00:19:03](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-18-28)**
-> "You'll recall that. He's Johnnie Moore's partner,"
-
-**[00:19:23](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-19-10)**
+**[00:19:23](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-19-07)**
 > "...at the source told me is that Johnnie Moore,"
 
 **[00:19:52](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-19-52)**
 > "... Andrew Kolvet I mean back to Johnnie Moore Johnnie Moore immediately and"
 
-**[00:20:43](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-20-37)**
+**[00:20:43](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-20-32)**
 > "...erson, and a certain Reverend Johnnie Moore created a rapport and doubled down explaining tha..."
 
-**[00:20:59](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-20-37)**
+**[00:20:59](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-20-32)**
 > "Yeah, that's the same. That's Johnnie Moore and his beliefs pretty much in a nutshell."
 
-**[00:21:36](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-21-21)**
+**[00:21:36](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-21-15)**
 > "..., I want you to hear Reverend Johnnie Moore in his own words so you can catch his."
 
 **[00:23:17](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-23-16)**
@@ -203,31 +200,28 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 **[00:23:32](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-23-16)**
 > "It says Johnnie Moore was only 14 when he first stayed in the dorms at ..."
 
-**[00:25:51](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-25-24)**
+**[00:25:51](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-25-49)**
 > "so to speak, was Johnnie Moore,"
 
-**[00:26:14](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-26-09)**
+**[00:26:14](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-25-49)**
 > "Is Johnnie Moore's disciple or I don't know one of Ron Godwin's thre..."
 
-**[00:27:10](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-26-53)**
+**[00:27:10](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-27-10)**
 > "...er than the sometimes lurking Johnnie Moore,"
 
 **[00:49:11](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-49-11)**
 > "...aught red-handed and then the Johnnie Moore thing like you should have seen me like my mind w..."
 
-**[00:18:28](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-18-28)**
-> "there was no reason for Johnnie to actually be there, even though he kind of grew..."
-
-**[00:18:33](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-18-28)**
+**[00:18:33](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-18-21)**
 > "Johnnie had been at that campus since he was 14 years old..."
 
-**[00:24:09](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-24-00)**
+**[00:24:09](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-23-56)**
 > "But they also mentioned that Johnnie had some severe daddy issues. I am told directly ..."
 
-**[00:24:21](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-24-00)**
+**[00:24:21](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-23-56)**
 > "...ou learn that suddenly little Johnnie fell into a lot of money. He had a male mentor."
 
-**[00:24:38](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-24-00)**
+**[00:24:38](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-23-56)**
 > "So Johnnie was poor no more."
 
 **[00:24:47](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-24-41)**
@@ -236,23 +230,17 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 **[00:24:51](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-24-41)**
 > "...hat man's name is Ron Godwin, Johnnie's mentor."
 
-**[00:26:04](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-25-24)**
+**[00:26:04](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-25-49)**
 > "...I should have put technically Johnnie beneath him and Andrew,"
 
-**[00:26:26](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-26-09)**
-> "of course, his Johnnie boy left too,"
-
-**[00:26:31](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-26-09)**
-> "Johnnie was his protege."
-
-**[00:26:33](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-26-09)**
-> "And Johnnie,"
-
-**[00:26:33](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-26-09)**
+**[00:26:33](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-26-31)**
 > "that's when Johnnie went to Hollywood."
 
-**[00:27:33](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-26-53)**
+**[00:27:33](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-27-10)**
 > "...hey just ousted and they said Johnnie's now back and influential and making money here."
+
+**[00:19:03](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-18-21)**
+> "Johnnie Moore’s partner, protégé"
 
 </details>
 
@@ -302,7 +290,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21): “So now, you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-15): “So now, you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship,”
 
 </details>
 
@@ -338,7 +326,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:03](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “You'll recall that. He's Johnnie Moore's partner,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21): “Andrew Kolvet, like, he is—he is a part of, he was a part of the KAIROS Company. You will recall that he is Johnnie Moore’s partner, protégé, I do not know what you want to call it.”
 
 </details>
 
@@ -406,15 +394,16 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is going to leave Liberty University”
 
 </details>
 
 - **[Mark Burnett](/entities/person-mark-burnett.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is working for Mark Burnett”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:23](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Johnnie Moore, despite going to Hollywood in 2015 to work with, and I should mention here, Mark Burnett, it's who he went to go work for.”
 
 </details>
 
@@ -426,7 +415,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - **[KAIROS Company](/entities/org-kairos-company.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “he went to Hollywood to start the PR company, the KAIROS Company.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21): “he went to Hollywood to start the PR company, the KAIROS Company.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “start the Kairos company with Andrew”
 
 </details>
@@ -439,7 +428,19 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-31): “he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Mentored By (1)</summary>
+
+- **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:51](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “That man's name is Ron Godwin, Johnnie's mentor.”
 
 </details>
 
@@ -451,14 +452,14 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - **[Liberty University](/entities/org-liberty-university.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “paying him, I am told, an absurd amount monthly retainer.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:26](/episodes/ep-CMcktj3Egfo.md#t-00-27-10): “And I'll say allegedly here, even though my source comes directly from inside Liberty University, so I feel pretty confident that the information I received is accurate, that they just ousted and they said Johnnie's now back and influential and making money here.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (15)</summary>
+<summary>Referenced By (17)</summary>
 
 - **[Aspen Institute](/entities/org-aspen-institute.md)** advised by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -470,7 +471,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** close associate of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:03](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “You'll recall that. He's Johnnie Moore's partner,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21): “Andrew Kolvet, like, he is—he is a part of, he was a part of the KAIROS Company. You will recall that he is Johnnie Moore’s partner, protégé, I do not know what you want to call it.”
 
 </details>
 
@@ -491,7 +492,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - **[Liberty University](/entities/org-liberty-university.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “paying him, I am told, an absurd amount monthly retainer.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:26](/episodes/ep-CMcktj3Egfo.md#t-00-27-10): “And I'll say allegedly here, even though my source comes directly from inside Liberty University, so I feel pretty confident that the information I received is accurate, that they just ousted and they said Johnnie's now back and influential and making money here.”
 
 </details>
 
@@ -499,15 +500,16 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:20](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Johnnie Moore was the lead pastor at Liberty University prior to then leaving Liberty University to start the PR firm.”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21): “when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is going to leave Liberty University”
 
 </details>
 
 - **[Mark Burnett](/entities/person-mark-burnett.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is working for Mark Burnett”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:23](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Johnnie Moore, despite going to Hollywood in 2015 to work with, and I should mention here, Mark Burnett, it's who he went to go work for.”
 
 </details>
 
@@ -528,7 +530,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - **[KAIROS Company](/entities/org-kairos-company.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “he went to Hollywood to start the PR company, the KAIROS Company.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21): “he went to Hollywood to start the PR company, the KAIROS Company.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “start the Kairos company with Andrew”
 
 </details>
@@ -557,7 +559,14 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)** hired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-31): “he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+
+</details>
+
+- **[Ronald S. Godwin](/entities/person-ronald-s-godwin.md)** mentored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:24:51](/episodes/ep-CMcktj3Egfo.md#t-00-24-41): “That man's name is Ron Godwin, Johnnie's mentor.”
 
 </details>
 
@@ -565,6 +574,13 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:32:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-32-47): “Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner, Johnnie Moore on the board of NCRI when the Christ is King report was published.”
+
+</details>
+
+- **[Jordan Peterson](/entities/person-jordan-peterson.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:20:32](/episodes/ep-CMcktj3Egfo.md#t-00-20-32): “a year later Jordan Peterson, Dr. Jordan Peterson, and a certain Reverend Johnnie Moore created a rapport and doubled down explaining that Christ is king is in fact actually anti-Semitic and they created this whole video graphic”
 
 </details>
 
@@ -578,7 +594,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
 
-- [00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21) [✓] (Claim) ["Johnnie Moore said he was involved with the Anti-Defamation League in multiple w..."](/statements/statement-c12d906375c5.md)
+- [00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-15) [✓] (Claim) ["Johnnie Moore said he was involved with the Anti-Defamation League in multiple w..."](/statements/statement-c12d906375c5.md)
   - About: [Johnnie Moore](/entities/person-johnnie-moore.md), [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Aspen Institute](/entities/org-aspen-institute.md)
 
 - [00:22:54](/episodes/ep-CMcktj3Egfo.md#t-00-22-46) [○] (Promise) ["Johnnie Moore said Christians were committed to building a worldwide wall of Chr..."](/statements/statement-a7519478aa4c.md)
@@ -629,13 +645,13 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - [00:18:12](/episodes/ep-CMcktj3Egfo.md#t-00-17-45) (Claim) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["Johnnie Moore inserted himself into the 2021 Liberty University meetin..."](/statements/statement-ce4a641c25b3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Falkirk Center](/entities/org-falkirk-center.md), [Liberty University](/entities/org-liberty-university.md)
 
-- [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28) (Claim) **Candace Owens**: ["Johnnie Moore left Liberty University in 2014 for Hollywood to start t..."](/statements/statement-1b2adcf35658.md)
+- [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21) (Claim) **Candace Owens**: ["Johnnie Moore left Liberty University in 2014 for Hollywood to start t..."](/statements/statement-1b2adcf35658.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Liberty University](/entities/org-liberty-university.md), [KAIROS Company](/entities/org-kairos-company.md)
 
-- [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-37) (Claim) **Candace Owens**: ["Johnnie Moore serves on an Anti-Defamation League task force and recei..."](/statements/statement-84b00687125f.md)
+- [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-32) (Claim) **Candace Owens**: ["Johnnie Moore serves on an Anti-Defamation League task force and recei..."](/statements/statement-84b00687125f.md)
   - Also about: [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Simon Wiesenthal Center](/entities/org-simon-wiesenthal-center.md)
 
-- [00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21) (Claim) **Johnnie Moore** (via quoted speech): ["Johnnie Moore said he was involved with the Anti-Defamation League in ..."](/statements/statement-c12d906375c5.md)
+- [00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-15) (Claim) **Johnnie Moore** (via quoted speech): ["Johnnie Moore said he was involved with the Anti-Defamation League in ..."](/statements/statement-c12d906375c5.md)
   - Also about: [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Aspen Institute](/entities/org-aspen-institute.md)
 
 - [00:22:54](/episodes/ep-CMcktj3Egfo.md#t-00-22-46) (Promise) **Johnnie Moore** (via quoted speech): ["Johnnie Moore said Christians were committed to building a worldwide w..."](/statements/statement-a7519478aa4c.md)
@@ -644,21 +660,21 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - [00:23:32](/episodes/ep-CMcktj3Egfo.md#t-00-23-16) (Citation) **Christianity Today** (via quoted article): ["Johnnie Moore first stayed in Liberty University dormitories at age 14..."](/statements/statement-dba60f5b1e23.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md)
 
-- [00:24:17](/episodes/ep-CMcktj3Egfo.md#t-00-24-00) (Accusation) **Anonymous Source #3 (Ep CMcktj3Egfo)** (via paraphrase): ["A former schoolmate alleged that Johnnie Moore was caught with pornogr..."](/statements/statement-0ccd5965b377.md)
+- [00:24:17](/episodes/ep-CMcktj3Egfo.md#t-00-23-56) (Accusation) **Anonymous Source #3 (Ep CMcktj3Egfo)** (via paraphrase): ["A former schoolmate alleged that Johnnie Moore was caught with pornogr..."](/statements/statement-0ccd5965b377.md)
 
-- [00:24:28](/episodes/ep-CMcktj3Egfo.md#t-00-24-00) (Accusation) **Anonymous Source #3 (Ep CMcktj3Egfo)** (via paraphrase): ["A former schoolmate alleged that a male mentor bought new cars for Joh..."](/statements/statement-cb2342bc1b6d.md)
+- [00:24:28](/episodes/ep-CMcktj3Egfo.md#t-00-23-56) (Accusation) **Anonymous Source #3 (Ep CMcktj3Egfo)** (via paraphrase): ["A former schoolmate alleged that a male mentor bought new cars for Joh..."](/statements/statement-cb2342bc1b6d.md)
   - Also about: [Ronald S. Godwin](/entities/person-ronald-s-godwin.md), [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr.md), [Liberty University](/entities/org-liberty-university.md)
 
-- [00:25:49](/episodes/ep-CMcktj3Egfo.md#t-00-25-24) (Opinion) **Candace Owens**: ["Candace Owens suggested that Johnnie Moore appeared to be one of Ronal..."](/statements/statement-d2ad2ba744f0.md)
+- [00:25:49](/episodes/ep-CMcktj3Egfo.md#t-00-25-03) (Opinion) **Candace Owens**: ["Candace Owens suggested that Johnnie Moore appeared to be one of Ronal..."](/statements/statement-d2ad2ba744f0.md)
   - Also about: [Ronald S. Godwin](/entities/person-ronald-s-godwin.md)
 
-- [00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-26-09) (Claim) **Candace Owens**: ["Ronald S. Godwin retired from Liberty University in October 2014, John..."](/statements/statement-7fd842ade5ff.md)
+- [00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-25-49) (Claim) **Candace Owens**: ["Ronald S. Godwin retired from Liberty University in October 2014, John..."](/statements/statement-7fd842ade5ff.md)
   - Also about: [Ronald S. Godwin](/entities/person-ronald-s-godwin.md), [Liberty University](/entities/org-liberty-university.md)
 
-- [00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53) (Claim) **Candace Owens**: ["After succeeding Jerry Falwell Jr., Jerry Prevo fired Charlie Kirk fro..."](/statements/statement-3b1021647812.md)
+- [00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-31) (Claim) **Candace Owens**: ["After succeeding Jerry Falwell Jr., Jerry Prevo fired Charlie Kirk fro..."](/statements/statement-3b1021647812.md)
   - Also about: [Jerry Prevo](/entities/person-jerry-prevo.md), [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that Johnnie Moore received an un..."](/statements/statement-25f9058d892a.md)
+- [00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-27-10) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that Johnnie Moore received an un..."](/statements/statement-25f9058d892a.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md)
 
 </details>
@@ -669,7 +685,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - [00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) (Claim) **Candace Owens**: ["Andrew Kolvet worked in public relations at KAIROS Company under Johnn..."](/statements/statement-7f60801be0e3.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [KAIROS Company](/entities/org-kairos-company.md), [Liberty University](/entities/org-liberty-university.md)
 
-- [00:07:40](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) (Accusation) **Candace Owens**: ["Johnnie Moore was selected to lead the Gaza Humanitarian Foundation de..."](/statements/statement-5fc4301c1e7b.md)
+- [00:07:40](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) (Accusation) **Candace Owens**: ["Owens questioned why public-relations professional Johnnie Moore was s..."](/statements/statement-5fc4301c1e7b.md)
   - Also about: [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)
 
 </details>

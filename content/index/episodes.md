@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 158_
+_Total episodes: 159_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -215,6 +215,7 @@ _Total episodes: 158_
 ## Week of Jan 05 - 11, 2026
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md) — Fri, Jan 09
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md) — Wed, Jan 07
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md) — Tue, Jan 06
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md) — Mon, Jan 05
 

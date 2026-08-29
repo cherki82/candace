@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) critic of [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -40,6 +40,10 @@ object: "org-turning-point-usa"
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
 - [00:31:57](/episodes/ep-gG4ZoYUjUc8#t-00-31-57): _A lot of the stuff, as we've said, the common theme here is what Turning Point is doing is legal, but it's also immoral._
+
+**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
+
+- [00:50:24](/episodes/ep-zSKrxIUMNqw#t-00-50-24): _Turning point action seems to be problematic._
 
 ### Related
 

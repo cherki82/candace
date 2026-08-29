@@ -26,7 +26,7 @@ Source: [Erika Frantzve | Ministry](https://www.mrserikakirk.com/ministry)
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -290,7 +290,7 @@ Source: [Erika Frantzve | Ministry](https://www.mrserikakirk.com/ministry)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Everyday Heroes Like You (6)</strong></summary>
+<summary><strong class="section-title">Statements about Everyday Heroes Like You (7)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (2)</summary>
@@ -327,6 +327,14 @@ Source: [Erika Frantzve | Ministry](https://www.mrserikakirk.com/ministry)
 
 - [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58) (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-traffic..."](/statements/statement-eddb8602cc35.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+
+- [00:10:55](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) (Claim) **Candace Owens**: ["Lori Frantzve established the Everyday Heroes foundation, from which t..."](/statements/statement-131c88f72f66.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Romania](/entities/gpe-romania.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Justin Baldoni"
-description: "Justin Baldoni (People) - 35 mentions"
+description: "Justin Baldoni (People) - 37 mentions"
 id: "person-justin-baldoni"
 type: "PERSON"
 categories:
@@ -19,10 +19,10 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32">2025-10-28 · 00:44:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-justin-baldoni-t-00-21-41">2026-08-19 · 00:21:41</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,6 +32,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 <p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-justin-baldoni-t-00-43-30">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32" style="--pulse-height:18%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-baldoni-t-00-15-27" style="--pulse-height:18%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-baldoni-t-00-24-46" style="--pulse-height:64%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 7 mentions" title="2026-01-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-baldoni-t-00-59-37" style="--pulse-height:27%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-justin-baldoni-t-00-53-45" style="--pulse-height:73%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 8 mentions" title="2026-05-04 · 8 mentions"><span></span></a>
@@ -45,6 +46,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-baldoni-t-00-15-27) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-baldoni-t-00-24-46) | 7 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-baldoni-t-00-59-37) | 3 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-justin-baldoni-t-00-53-45) | 8 |
@@ -59,7 +61,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -196,6 +198,17 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 </details>
 
 <details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2 mentions)</summary>
+
+**[00:15:52](/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-baldoni-t-00-15-27)**
+> "...ing to get across to us. Even Justin Baldoni, actually,"
+
+**[00:16:20](/episodes/ep-zSKrxIUMNqw.md#ent-person-justin-baldoni-t-00-16-11)**
+> "...a nutshell. That was what the Justin Baldoni case was about."
+
+</details>
+
+<details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:44:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-justin-baldoni-t-00-44-32)**
@@ -316,7 +329,7 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Baldoni (7)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Baldoni (8)</strong></summary>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (3)</summary>
@@ -345,6 +358,14 @@ Source: [Justin Baldoni | IMDb](https://www.imdb.com/name/nm1682573/)
 
 - [00:29:17](/episodes/ep-GY6GWceEqtQ.md#t-00-28-53) (Opinion) **Taylor Swift** (via read message): ["Taylor Swift wrote that she thought Justin Baldoni knew something was ..."](/statements/statement-3e4d0ffe37fd.md)
   - Also about: [Blake Lively](/entities/person-blake-lively.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:16:05](/episodes/ep-zSKrxIUMNqw.md#t-00-15-27) (Accusation) **Candace Owens**: ["Candace Owens said she believed the Justin Baldoni dispute was an atte..."](/statements/statement-832b6566502e.md)
+  - Also about: [Ryan Reynolds](/entities/person-ryan-reynolds.md), [Blake Lively](/entities/person-blake-lively.md)
 
 </details>
 

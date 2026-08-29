@@ -1,6 +1,6 @@
 ---
 title: "Burton Hibbs"
-description: "Burton Hibbs (People) - 15 mentions"
+description: "Burton Hibbs (People) - 18 mentions"
 id: "person-burton-hibbs"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-burton-hibbs-t-00-33-02">2025-11-12 · 00:33:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03">2026-07-21 · 00:12:38</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-42" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#t-00-54-31" style="--pulse-height:20%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27" style="--pulse-height:40%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 2 mentions" title="2025-11-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-burton-hibbs-t-00-19-58" style="--pulse-height:60%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37" style="--pulse-height:20%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03" style="--pulse-height:20%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 </div>
@@ -53,6 +54,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-burton-hibbs-t-00-44-42) | 5 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#t-00-54-31) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-burton-hibbs-t-00-16-27) | 2 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-burton-hibbs-t-00-19-58) | 3 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-burton-hibbs-t-00-12-03) | 1 |
 
@@ -62,7 +64,7 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -77,6 +79,20 @@ Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://cro
 
 **[00:36:37](/episodes/ep-DEtFh2Ff-58.md#ent-person-burton-hibbs-t-00-36-37)**
 > "including Butch Hibbs"
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (3 mentions)</summary>
+
+**[00:20:40](/episodes/ep-wcD2khO3rOA.md#ent-person-burton-hibbs-t-00-19-58)**
+> "And Butch Hibbs, we have Jack Hibbs, their father,"
+
+**[00:20:42](/episodes/ep-wcD2khO3rOA.md#ent-person-burton-hibbs-t-00-19-58)**
+> "Butch Sr., military background,"
+
+**[00:20:44](/episodes/ep-wcD2khO3rOA.md#ent-person-burton-hibbs-t-00-20-44)**
+> "and I suspect Butch Hibbs also perhaps is involved in the military hi..."
 
 </details>
 

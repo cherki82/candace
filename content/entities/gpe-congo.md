@@ -1,6 +1,6 @@
 ---
 title: "Congo"
-description: "Congo (Places) - 2 mentions"
+description: "Congo (Places) - 3 mentions"
 id: "gpe-congo"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Democratic Republic of the Congo](https://en.wikipedia.org/wiki/Democra
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-congo-t-00-51-43">2025-10-31 · 00:52:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-congo-t-00-51-43">2025-10-31 · 00:52:22</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-congo-t-01-00-27">2026-01-09 · 01:00:27</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,12 +31,14 @@ Source: [Democratic Republic of the Congo](https://en.wikipedia.org/wiki/Democra
 <p>Highest activity: <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-congo-t-00-51-43">INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-congo-t-00-51-43" style="--pulse-height:100%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-congo-t-01-00-27" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-congo-t-00-51-43) | 2 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-congo-t-01-00-27) | 1 |
 
 </details>
 </section>
@@ -44,7 +46,15 @@ Source: [Democratic Republic of the Congo](https://en.wikipedia.org/wiki/Democra
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
+
+**[01:00:27](/episodes/ep-wcD2khO3rOA.md#ent-gpe-congo-t-01-00-27)**
+> "...at they're going to do in the Congo or how they're going to help with what's going on..."
+
+</details>
 
 <details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>

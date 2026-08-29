@@ -15,7 +15,7 @@ object: "person-johnnie-moore"
 
 **[American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo)**
 
-- [00:27:19](/episodes/ep-CMcktj3Egfo#t-00-27-19): _paying him, I am told, an absurd amount monthly retainer._
+- [00:27:26](/episodes/ep-CMcktj3Egfo#t-00-27-26): _And I'll say allegedly here, even though my source comes directly from inside Liberty University, so I feel pretty confident that the information I received is accurate, that they just ousted and they said Johnnie's now back and influential and making money here._
 
 ### Related
 

@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 313 mentions"
+description: "Jesus Christ (People) - 315 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
 <div><span>Episodes</span><strong>104</strong></div>
-<div><span>Mentions</span><strong>313</strong></div>
+<div><span>Mentions</span><strong>315</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -57,8 +57,8 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-04-16" style="--pulse-height:14%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-jesus-christ-t-00-52-32" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-36" style="--pulse-height:21%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#t-00-20-37" style="--pulse-height:21%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jesus-christ-t-00-25-03" style="--pulse-height:29%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-20" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-jesus-christ-t-00-59-24" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-19" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -166,8 +166,8 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-04-16) | 2 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-jesus-christ-t-00-52-32) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-36) | 3 |
-| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47) | 2 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-20-37) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47) | 3 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jesus-christ-t-00-25-03) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-20) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-jesus-christ-t-00-59-24) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-19) | 2 |
@@ -255,7 +255,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (313)</strong></summary>
+<summary><strong class="section-title">Raw mentions (315)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -1405,27 +1405,33 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4 mentions)</summary>
 
-**[00:20:37](/episodes/ep-CMcktj3Egfo.md#t-00-20-37)**
-> "before the whole Christ Is King debacle, that's what they put me on the l..."
-
-**[00:20:43](/episodes/ep-CMcktj3Egfo.md#t-00-20-37)**
+**[00:20:43](/episodes/ep-CMcktj3Egfo.md#ent-person-jesus-christ-t-00-25-03)**
 > "... doubled down explaining that Christ is king is in fact actually anti-Semitic and they..."
 
-**[00:20:57](/episodes/ep-CMcktj3Egfo.md#t-00-20-37)**
+**[00:20:57](/episodes/ep-CMcktj3Egfo.md#ent-person-jesus-christ-t-00-25-03)**
 > "was a radical for saying Christ is king."
+
+**[00:25:03](/episodes/ep-CMcktj3Egfo.md#ent-person-jesus-christ-t-00-25-03)**
+> "...e like the three disciples of Jesus."
+
+**[00:25:27](/episodes/ep-CMcktj3Egfo.md#ent-person-jesus-christ-t-00-25-03)**
+> "...e of you will put yourself in Jesus's position and multiply three disciples of your own..."
 
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2 mentions)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (3 mentions)</summary>
 
 **[01:09:59](/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47)**
 > "...do as brothers and sisters in Christ."
 
 **[01:19:37](/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-19-32)**
 > "... is about truth or honesty or jesus christ at all actually it actually feels like you're bei..."
+
+**[00:58:38](/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-00-58-29)**
+> "...ligious founders like Buddha, Jesus"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 280 mentions"
+description: "Nimi Skincare (Organizations) - 285 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -43,10 +43,10 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-nimi-skincare-t-00-51-30">2025-09-18 · 00:51:33</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-nimi-skincare-t-00-28-47">2026-08-19 · 00:28:47</a></strong></div>
-<div><span>Episodes</span><strong>64</strong></div>
-<div><span>Mentions</span><strong>280</strong></div>
+<div><span>Episodes</span><strong>65</strong></div>
+<div><span>Mentions</span><strong>285</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -72,7 +72,8 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-ewBzjVe3LNQ.md#t-01-08-39" style="--pulse-height:11%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-nimi-skincare-t-00-49-29" style="--pulse-height:67%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 6 mentions" title="2025-12-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-nimi-skincare-t-00-01-41" style="--pulse-height:56%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-nimi-skincare-t-00-45-49" style="--pulse-height:44%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-nimi-skincare-t-00-35-26" style="--pulse-height:44%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-nimi-skincare-t-00-45-49" style="--pulse-height:56%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-00-41" style="--pulse-height:89%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 8 mentions" title="2026-01-13 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-45-25" style="--pulse-height:11%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-nimi-skincare-t-00-33-30" style="--pulse-height:44%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
@@ -141,7 +142,8 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-01-08-39) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-nimi-skincare-t-00-49-29) | 6 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-nimi-skincare-t-00-01-41) | 5 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-nimi-skincare-t-00-45-49) | 4 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-nimi-skincare-t-00-35-26) | 4 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-nimi-skincare-t-00-45-49) | 5 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-00-41) | 8 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-45-25) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-nimi-skincare-t-00-33-30) | 4 |
@@ -195,7 +197,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (280)</strong></summary>
+<summary><strong class="section-title">Raw mentions (285)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
@@ -1022,7 +1024,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5 mentions)</summary>
 
 **[00:45:07](/episodes/ep-CMcktj3Egfo.md#ent-org-nimi-skincare-t-00-45-49)**
 > "... I always tell you guys about Nimi. I know a lot of people feel overwhelmed"
@@ -1035,6 +1037,26 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 
 **[00:46:11](/episodes/ep-CMcktj3Egfo.md#ent-org-nimi-skincare-t-00-45-49)**
 > "What I appreciate about NiMi skincare is the values behind the brand are steady."
+
+**[00:46:24](/episodes/ep-CMcktj3Egfo.md#ent-org-nimi-skincare-t-00-45-49)**
+> "...rn more, you can find them at nimiskincare.com."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
+
+**[00:35:26](/episodes/ep-zSKrxIUMNqw.md#ent-org-nimi-skincare-t-00-35-26)**
+> "... going to tell you guys about Nimi because when it comes to skincare,"
+
+**[00:35:47](/episodes/ep-zSKrxIUMNqw.md#ent-org-nimi-skincare-t-00-35-26)**
+> "I use Nimi because it's clean, it's straightforward,"
+
+**[00:36:05](/episodes/ep-zSKrxIUMNqw.md#ent-org-nimi-skincare-t-00-36-05)**
+> "Nimi skincare is made here in the USA and it's built around tha..."
+
+**[00:36:14](/episodes/ep-zSKrxIUMNqw.md#ent-org-nimi-skincare-t-00-36-05)**
+> "You can learn more at Nimi skincare."
 
 </details>
 
@@ -1416,6 +1438,19 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:25:15](/episodes/ep-AH1KVKkweUE.md#t-00-24-57): “All right, you guys, Nimi makes the best tallow skincare products that I've ever used.”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Nimi Skincare (1)</strong></summary>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:36:07](/episodes/ep-zSKrxIUMNqw.md#t-00-36-05) (Claim) **Candace Owens**: ["Nimi Skincare is made in the United States."](/statements/statement-4c8a5b1e7092.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
 
 </details>
 

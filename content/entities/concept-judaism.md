@@ -20,7 +20,7 @@ _Type: Concepts_
 Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/introduction-to-judaism)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23">2026-01-12 · 00:22:34</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21">2026-01-12 · 00:22:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
 <div><span>Episodes</span><strong>38</strong></div>
 <div><span>Mentions</span><strong>158</strong></div>
@@ -34,7 +34,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11">Candace x Bassem Youssef | Candace Ep 298</a> (24 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-34" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-13" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
@@ -77,7 +77,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23) | 3 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-34) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-13) | 4 |
@@ -771,7 +771,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
 
-**[00:22:34](/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-23)**
+**[00:22:34](/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21)**
 > "I'm not I'm not Jewish."
 
 **[00:34:46](/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-34-41)**

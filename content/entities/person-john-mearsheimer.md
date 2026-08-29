@@ -3,12 +3,17 @@ title: "John Mearsheimer"
 description: "John Mearsheimer (People) - 1 mention"
 id: "person-john-mearsheimer"
 type: "PERSON"
+categories:
+  - "international relations scholar"
 ---
 
 _Type: People_
 
+**Categories:** international relations scholar
+
 **Entity verification:** verified
-> Coauthor of The Israel Lobby named by the viewer email.
+> Macmillan's book page confirms John J. Mearsheimer as coauthor of The Israel Lobby and U.S. Foreign Policy.
+Source: [The Israel Lobby and U.S. Foreign Policy | Macmillan](https://us.macmillan.com/books/9781427202130/theisraellobbyandusforeignpolicy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-john-mearsheimer-t-00-43-21">2026-01-09 · 00:43:48</a></strong></div>
@@ -17,7 +22,7 @@ _Type: People_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,6 +59,28 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Authored (1)</summary>
+
+- **[The Israel Lobby and U.S. Foreign Policy](/entities/work-the-israel-lobby.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:43:48](/episodes/ep-wcD2khO3rOA.md#t-00-43-21): “I'm currently reading The Israel Lobby by John Mearsheimer.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[The Israel Lobby and U.S. Foreign Policy](/entities/work-the-israel-lobby.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:43:48](/episodes/ep-wcD2khO3rOA.md#t-00-43-21): “I'm currently reading The Israel Lobby by John Mearsheimer.”
+
+</details>
+
+</details>
 
 </details>

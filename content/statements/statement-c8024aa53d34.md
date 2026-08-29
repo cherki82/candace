@@ -1,6 +1,6 @@
 ---
-title: "The survivor repeatedly told the home she wanted to keep her..."
-description: "\"The survivor repeatedly told the home she wanted to keep her baby but was pressured to choose an adoptive family or face raising the child on the stre...\" — Anonymous Source #1 (Ep wcD2khO3rOA)"
+title: "The survivor said staff pressured her to choose an adoptive ..."
+description: "\"The survivor said staff pressured her to choose an adoptive family or face raising her baby on the street.\" — Anonymous Source #1 (Ep wcD2khO3rOA)"
 statement_id: "statement-c8024aa53d34"
 speaker: "Anonymous Source #1 (Ep wcD2khO3rOA)"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> The survivor repeatedly told the home she wanted to keep her baby but was pressured to choose an adoptive family or face raising the child on the street.
+> The survivor said staff pressured her to choose an adoptive family or face raising her baby on the street.
 
 ## Attribution
 
@@ -31,7 +31,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:29:16](/episodes/ep-wcD2khO3rOA.md#t-00-28-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1756);return false;">Play</a>
 
-> I kept telling them, no, I wanted to keep my baby
+> would you like your baby to be with this person or would you like to go raise your baby somewhere else on the street
 
 ## Verification
 

@@ -29,7 +29,7 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-31) 
+**Timestamp:** [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(537);return false;">Play</a>
 
 > Andrew called me up and he asked me, asked me, and I am not kidding, in earnest, he asked me, “Are you a witch?”

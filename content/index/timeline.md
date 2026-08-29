@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1680_
+_Total events: 1703_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -335,21 +335,21 @@ _Total events: 1680_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (271)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (768)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (103)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (273)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (772)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (104)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (35)</label>
-  <label for="tab-year-2022" class="tab-btn">2022 (19)</label>
+  <label for="tab-year-2022" class="tab-btn">2022 (21)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (21)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (14)</label>
   <label for="tab-year-2019" class="tab-btn">2019 (30)</label>
-  <label for="tab-year-2018" class="tab-btn">2018 (45)</label>
+  <label for="tab-year-2018" class="tab-btn">2018 (46)</label>
   <label for="tab-year-2017" class="tab-btn">2017 (18)</label>
-  <label for="tab-year-2016" class="tab-btn">2016 (12)</label>
-  <label for="tab-year-2015" class="tab-btn">2015 (10)</label>
+  <label for="tab-year-2016" class="tab-btn">2016 (15)</label>
+  <label for="tab-year-2015" class="tab-btn">2015 (11)</label>
   <label for="tab-year-2014" class="tab-btn">2014 (20)</label>
-  <label for="tab-year-2013" class="tab-btn">2013 (15)</label>
-  <label for="tab-year-2012" class="tab-btn">2012 (21)</label>
+  <label for="tab-year-2013" class="tab-btn">2013 (16)</label>
+  <label for="tab-year-2012" class="tab-btn">2012 (24)</label>
   <label for="tab-year-2011" class="tab-btn">2011 (15)</label>
   <label for="tab-year-2010" class="tab-btn">2010 (20)</label>
   <label for="tab-year-2009" class="tab-btn">2009 (14)</label>
@@ -365,20 +365,20 @@ _Total events: 1680_
   <label for="tab-year-1999" class="tab-btn">1999 (14)</label>
   <label for="tab-year-1998" class="tab-btn">1998 (7)</label>
   <label for="tab-year-1997" class="tab-btn">1997 (6)</label>
-  <label for="tab-year-1996" class="tab-btn">1996 (3)</label>
+  <label for="tab-year-1996" class="tab-btn">1996 (5)</label>
   <label for="tab-year-1995" class="tab-btn">1995 (7)</label>
-  <label for="tab-year-1994" class="tab-btn">1994 (4)</label>
+  <label for="tab-year-1994" class="tab-btn">1994 (5)</label>
   <label for="tab-year-1993" class="tab-btn">1993 (3)</label>
   <label for="tab-year-1992" class="tab-btn">1992 (1)</label>
   <label for="tab-year-1991" class="tab-btn">1991 (1)</label>
-  <label for="tab-year-1990" class="tab-btn">1990 (9)</label>
+  <label for="tab-year-1990" class="tab-btn">1990 (10)</label>
   <label for="tab-year-1989" class="tab-btn">1989 (4)</label>
   <label for="tab-year-1988" class="tab-btn">1988 (4)</label>
   <label for="tab-year-1987" class="tab-btn">1987 (2)</label>
   <label for="tab-year-1986" class="tab-btn">1986 (3)</label>
   <label for="tab-year-1985" class="tab-btn">1985 (2)</label>
   <label for="tab-year-1983" class="tab-btn">1983 (2)</label>
-  <label for="tab-year-1982" class="tab-btn">1982 (2)</label>
+  <label for="tab-year-1982" class="tab-btn">1982 (3)</label>
   <label for="tab-year-1981" class="tab-btn">1981 (3)</label>
   <label for="tab-year-1980" class="tab-btn">1980 (1)</label>
   <label for="tab-year-1979" class="tab-btn">1979 (3)</label>
@@ -4288,15 +4288,8 @@ _Total events: 1680_
 <div class="timeline-date">2026-01-23</div>
 <div class="timeline-desc"><a href="/events/event-2026-01-23-candace-owens-scheduled-the-next-book-cl.md">Candace Owens scheduled the next book-club session for January 23, 2026.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-23: Candace Owens scheduled the next book-club session for January 23, 2026. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:47:14](/episodes/ep-CMcktj3Egfo.md#t-00-46-33)
-
-</details>
 </div>
 
 <div class="timeline-event filter-item" id="event-2026-01-20-dave-rubin-posted-that-candace-owens-had">
@@ -4404,6 +4397,21 @@ _Total events: 1680_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-01-06-austin-smith-was-sentenced-for-using-for">
+<div class="timeline-date">2026-01-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-06-austin-smith-was-sentenced-for-using-for.md">Austin Smith was sentenced for using forged nomination-petition signatures in his 2024 primary campaign.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-06: Austin Smith was sentenced for using forged nomination-petition signatures in his 2024 primary campaign. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:48:04](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-01-06-candace-owens-announced-a-two-hour-book-">
 <div class="timeline-date">2026-01-06</div>
 <div class="timeline-desc"><a href="/events/event-2026-01-06-candace-owens-announced-a-two-hour-book-.md">Candace Owens announced a two-hour book-club episode for January 9 to finish Sigmund Freud and the Jewish Mystical Tradition.</a></div>
@@ -4415,6 +4423,21 @@ _Total events: 1680_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The... @ 01:01:31](/episodes/ep-HYn0P-P1wUw.md#t-01-01-31)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-01-06-candace-owens-said-her-program-revealed-">
+<div class="timeline-date">2026-01-06</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-06-candace-owens-said-her-program-revealed-.md">Candace Owens said her program revealed The Daily Wire's planned show targeting her and Tucker Carlson.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-06: Candace Owens said her program revealed The Daily Wire\'s planned show targeting her and Tucker Carlson. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:02:11](/episodes/ep-zSKrxIUMNqw.md#t-00-01-21)
 
 </details>
 </div>
@@ -4462,7 +4485,7 @@ _Total events: 1680_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:34:41](/episodes/ep-CMcktj3Egfo.md#t-00-34-00)
+- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:34:41](/episodes/ep-CMcktj3Egfo.md#t-00-34-41)
 
 </details>
 </div>
@@ -4613,7 +4636,7 @@ _Total events: 1680_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [You Won't Believe What Happened While We Were O... @ 00:10:01](/episodes/ep-OEAHy3SsIiI.md#t-00-09-19)
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:14:49](/episodes/ep-CMcktj3Egfo.md#t-00-14-18)
+- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:14:49](/episodes/ep-CMcktj3Egfo.md#t-00-14-25)
 - [BREAKING NEWS: Where Tyler Robinson Went On The... @ 00:58:08](/episodes/ep-HYn0P-P1wUw.md#t-00-57-56)
 
 </details>
@@ -4754,6 +4777,21 @@ _Total events: 1680_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-12-20-a-daily-wire-producer-contacted-maggie-w">
+<div class="timeline-date">2025-12-20</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-20-a-daily-wire-producer-contacted-maggie-w.md">A Daily Wire producer contacted Maggie Wegner about auditioning for a newly conceived solo show two days after Ben Shapiro's AmericaFest speech.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-20: A Daily Wire producer contacted Maggie Wegner about auditioning for a newly conceived solo show two days after Ben Shapiro\'s AmericaFest speech. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:06:43](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-12-19-ben-shapiro-speaks-at-amfest-2024-attack">
 <div class="timeline-date">2025-12-19</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-19-ben-shapiro-speaks-at-amfest-2024-attack.md">Ben Shapiro speaks at AmFest 2024 attacking Candace Owens and Tucker Carlson</a></div>
@@ -4814,6 +4852,21 @@ _Total events: 1680_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-12-19-steve-bannon-responded-at-americafest-by">
+<div class="timeline-date">2025-12-19</div>
+<div class="timeline-desc"><a href="/events/event-2025-12-19-steve-bannon-responded-at-americafest-by.md">Steve Bannon responded at AmericaFest by calling Ben Shapiro a spreading cancer and predicting he would move on Turning Point USA.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-19: Steve Bannon responded at AmericaFest by calling Ben Shapiro a spreading cancer and predicting he would move on Turning Point USA. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-17-38)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-12-18-tpusa-amfest-scheduled---tpusa-aims-to-s">
 <div class="timeline-date">2025-12-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-18-tpusa-amfest-scheduled---tpusa-aims-to-s.md">TPUSA AmFest scheduled - TPUSA aims to squash Charlie Kirk assassination investigation questions before this event</a></div>
@@ -4833,13 +4886,14 @@ _Total events: 1680_
 <div class="timeline-date">2025-12-18</div>
 <div class="timeline-desc"><a href="/events/event-2025-12-18-ben-shapiro-spoke-immediately-after-erik.md">Ben Shapiro spoke immediately after Erika Kirk opened AmericaFest and criticized Candace Owens, Tucker Carlson, and Megyn Kelly.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-12-18: Ben Shapiro spoke immediately after Erika Kirk opened AmericaFest and criticized Candace Owens, Tucker Carlson, and Megyn Kelly. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining”... @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38)
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57)
 
 </details>
 </div>
@@ -8034,6 +8088,21 @@ _Total events: 1680_
 
 **November**
 
+<div class="timeline-event filter-item" id="event-2025-11-austin-smith-pleaded-guilty-to-attempted">
+<div class="timeline-date">2025-11</div>
+<div class="timeline-desc"><a href="/events/event-2025-11-austin-smith-pleaded-guilty-to-attempted.md">Austin Smith pleaded guilty to attempted fraudulent schemes and illegal signing of election petitions.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-11: Austin Smith pleaded guilty to attempted fraudulent schemes and illegal signing of election petitions. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:49:16](/episodes/ep-zSKrxIUMNqw.md#t-00-48-41)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-11-additional-complaints-were-filed-allegin">
 <div class="timeline-date">2025-11</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-additional-complaints-were-filed-allegin.md">Additional complaints were filed alleging abuse at a Harvest-supported children's home in Romania.</a></div>
@@ -9292,7 +9361,7 @@ _Total events: 1680_
 <div class="timeline-date">2025-11-07</div>
 <div class="timeline-desc"><a href="/events/event-2025-11-07-ben-shapiro-joins-megyn-kelly-on-her-tour-stop-in.md">Ben Shapiro joins Megyn Kelly on her tour stop in Florida and criticizes Owens, Carlson.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">27× in 16 eps</span>
+<span class="timeline-badge mentions">28× in 17 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-11-07: Ben Shapiro joins Megyn Kelly on her tour stop in Florida and criticizes Owens, Carlson. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -9325,6 +9394,7 @@ _Total events: 1680_
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Ca... @ 00:32:10](/episodes/ep-sreYYcID-QY.md#t-00-31-58)
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:02:43](/episodes/ep-r1PS67aRmcA.md#t-00-02-10)
 - [Why Isn't The Trump Family Asking Questions Abo... @ 00:34:13](/episodes/ep-Qt0VHV-POCg.md#t-00-34-09)
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:05:25](/episodes/ep-zSKrxIUMNqw.md#t-00-04-48)
 
 </details>
 </div>
@@ -12008,13 +12078,14 @@ _Total events: 1680_
 <div class="timeline-date">2025-09-27</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-27-phil-lyman-meets-tim-ballard-while-in-town-amid-ki.md">Phil Lyman meets Tim Ballard while in town amid Kirk assassination investigation.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-27: Phil Lyman meets Tim Ballard while in town amid Kirk assassination investigation. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kir... @ 00:08:25](/episodes/ep-UBkFkg4UNY8.md#t-00-07-53)
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:18:01](/episodes/ep-wcD2khO3rOA.md#t-00-18-01)
 
 </details>
 </div>
@@ -19932,13 +20003,15 @@ _Total events: 1680_
 <div class="timeline-date">2025-09-10</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md">Charlie Kirk was assassinated at Utah Valley University.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">56× in 50 eps</span>
+<span class="timeline-badge mentions">60× in 51 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Charlie Kirk was assassinated at Utah Valley University. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [You Won't Believe What Happened While We Were O... @ 00:10:01](/episodes/ep-OEAHy3SsIiI.md#t-00-09-19)
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:47:11](/episodes/ep-zSKrxIUMNqw.md#t-00-46-39)
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:58:59](/episodes/ep-zSKrxIUMNqw.md#t-00-58-21)
 - [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:17:51](/episodes/ep-wcD2khO3rOA.md#t-00-17-24)
 - [American Horror Story: Charlie Kirk’s “Shining”... @ 00:11:31](/episodes/ep-CMcktj3Egfo.md#t-00-11-30)
 - [Myron Gaines x Candace Owens @ 00:52:43](/episodes/ep-2T39-oADLj0.md#t-00-52-09)
@@ -19994,6 +20067,8 @@ _Total events: 1680_
 - [Liar, Liar, TPUSA On Fire? More Exclusive Foota... @ 00:05:12](/episodes/ep-4JxgOclKzqg.md#t-00-04-58)
 - [Friends In High Temples: Charlie's Final Call W... @ 00:44:50](/episodes/ep-rupRLXmSndU.md#t-00-44-50)
 - [BREAKING NEWS: Where Tyler Robinson Went On The... @ 00:00:53](/episodes/ep-HYn0P-P1wUw.md#t-00-00-45)
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:47:30](/episodes/ep-zSKrxIUMNqw.md#t-00-47-22)
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:16:42](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11)
 
 </details>
 </div>
@@ -21020,6 +21095,21 @@ _Total events: 1680_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The... @ 00:09:29](/episodes/ep-HYn0P-P1wUw.md#t-00-08-57)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-10-candace-owens-said-a-hades-military-airc">
+<div class="timeline-date">2025-09-10</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-10-candace-owens-said-a-hades-military-airc.md">Candace Owens said a HADES military aircraft flew around Utah Valley University before and after Charlie Kirk's assassination.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10: Candace Owens said a HADES military aircraft flew around Utah Valley University before and after Charlie Kirk\'s assassination. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:20:11](/episodes/ep-wcD2khO3rOA.md#t-00-19-58)
 
 </details>
 </div>
@@ -29800,21 +29890,6 @@ _Total events: 1680_
 
 **November**
 
-<div class="timeline-event filter-item" id="event-2024-11-dennis-prager-fell-and-was-seriously-inj">
-<div class="timeline-date">2024-11</div>
-<div class="timeline-desc"><a href="/events/event-2024-11-dennis-prager-fell-and-was-seriously-inj.md">Dennis Prager fell and was seriously injured after publishing an article criticizing Candace Owens.</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2024-11: Dennis Prager fell and was seriously injured after publishing an article criticizing Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:09:30](/episodes/ep-CMcktj3Egfo.md#t-00-09-30)
-
-</details>
-</div>
-
 <div class="timeline-event filter-item" id="event-2024-11-victor-marx-traveled-to-haiti-and-met-ga">
 <div class="timeline-date">2024-11</div>
 <div class="timeline-desc"><a href="/events/event-2024-11-victor-marx-traveled-to-haiti-and-met-ga.md">Victor Marx traveled to Haiti and met gang leaders, as reported by CBN News</a></div>
@@ -29917,6 +29992,21 @@ _Total events: 1680_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [The Great Exodus From Utah? Where Did The "Egyp... @ 00:01:26](/episodes/ep-581dILVcEE4.md#t-00-00-44)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2024-11-12-dennis-prager-fell-and-was-seriously-inj">
+<div class="timeline-date">2024-11-12</div>
+<div class="timeline-desc"><a href="/events/event-2024-11-12-dennis-prager-fell-and-was-seriously-inj.md">Dennis Prager fell and was seriously injured after publishing an article criticizing Candace Owens.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-11-12: Dennis Prager fell and was seriously injured after publishing an article criticizing Candace Owens. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:09:30](/episodes/ep-CMcktj3Egfo.md#t-00-09-30)
 
 </details>
 </div>
@@ -31214,6 +31304,21 @@ _Total events: 1680_
 
 ****
 
+<div class="timeline-event filter-item" id="event-2024-austin-smith-dropped-his-arizona-house-r">
+<div class="timeline-date">2024</div>
+<div class="timeline-desc"><a href="/events/event-2024-austin-smith-dropped-his-arizona-house-r.md">Austin Smith dropped his Arizona House reelection bid after questions arose about signatures on his nomination petition.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024: Austin Smith dropped his Arizona House reelection bid after questions arose about signatures on his nomination petition. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:49:33](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2024-candace-owens-said-platform-restrictions">
 <div class="timeline-date">2024</div>
 <div class="timeline-desc"><a href="/events/event-2024-candace-owens-said-platform-restrictions.md">Candace Owens said platform restrictions forced her to build her website in 2024.</a></div>
@@ -32237,6 +32342,23 @@ _Total events: 1680_
 </details>
 </div>
 
+**October**
+
+<div class="timeline-event filter-item" id="event-2022-10-the-daily-wire-changed-candace-owenss-co">
+<div class="timeline-date">2022-10</div>
+<div class="timeline-desc"><a href="/events/event-2022-10-the-daily-wire-changed-candace-owenss-co.md">The Daily Wire changed Candace Owens's contract after she refused to issue a public statement condemning Kanye West.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022-10: The Daily Wire changed Candace Owens\'s contract after she refused to issue a public statement condemning Kanye West. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-19)
+
+</details>
+</div>
+
 **August**
 
 <div class="timeline-event filter-item" id="event-2022-01-01-tyler-robinson-involved-in-car-accident-captured-o">
@@ -32306,7 +32428,7 @@ _Total events: 1680_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:13:19](/episodes/ep-CMcktj3Egfo.md#t-00-12-51)
+- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:13:19](/episodes/ep-CMcktj3Egfo.md#t-00-13-06)
 
 </details>
 </div>
@@ -32436,6 +32558,21 @@ _Total events: 1680_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The... @ 00:31:45](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2022-kanye-west-posted-the-death-con-3-messag">
+<div class="timeline-date">2022</div>
+<div class="timeline-desc"><a href="/events/event-2022-kanye-west-posted-the-death-con-3-messag.md">Kanye West posted the “Death Con 3” message that Candace Owens said later cost her millions of dollars.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022: Kanye West posted the “Death Con 3” message that Candace Owens said later cost her millions of dollars. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:00:07](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00)
 
 </details>
 </div>
@@ -32889,7 +33026,7 @@ _Total events: 1680_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53)
+- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-31)
 
 </details>
 </div>
@@ -33701,7 +33838,7 @@ _Total events: 1680_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10)
+- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07)
 
 </details>
 </div>
@@ -34362,6 +34499,21 @@ _Total events: 1680_
 
 ****
 
+<div class="timeline-event filter-item" id="event-2018-an-older-spiritual-adviser-told-charlie-">
+<div class="timeline-date">2018</div>
+<div class="timeline-desc"><a href="/events/event-2018-an-older-spiritual-adviser-told-charlie-.md">An older spiritual adviser told Charlie Kirk that Kirk would die and that his death would save humanity.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2018: An older spiritual adviser told Charlie Kirk that Kirk would die and that his death would save humanity. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:43:52](/episodes/ep-zSKrxIUMNqw.md#t-00-43-18)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2018-candace-owens-and-charlie-kirk-traveled-">
 <div class="timeline-date">2018</div>
 <div class="timeline-desc"><a href="/events/event-2018-candace-owens-and-charlie-kirk-traveled-.md">Candace Owens and Charlie Kirk traveled to Israel together.</a></div>
@@ -34411,7 +34563,7 @@ _Total events: 1680_
 <div class="timeline-date">2018</div>
 <div class="timeline-desc"><a href="/events/event-2018-charlie-kirk-told-candace-owens-that-he-.md">Charlie Kirk told Candace Owens that he believed he would die young.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018: Charlie Kirk told Candace Owens that he believed he would die young. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -34420,6 +34572,7 @@ _Total events: 1680_
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:26:38](/episodes/ep-A39g5oqB_eM.md#t-00-26-32)
 - [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:02:38](/episodes/ep-eMtjzXkQrsU.md#t-00-02-38)
 - [Honey, I Shrunk The Footage! More Exclusive TPU... @ 00:41:44](/episodes/ep-_cNtgris8Ik.md#t-00-41-17)
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 01:23:58](/episodes/ep-wcD2khO3rOA.md#t-01-23-18)
 
 </details>
 </div>
@@ -35153,6 +35306,53 @@ _Total events: 1680_
 </details>
 </div>
 
+**March**
+
+<div class="timeline-event filter-item" id="event-2016-03-14-ben-shapiro-promoted-the-daily-wire-the-">
+<div class="timeline-date">2016-03-14</div>
+<div class="timeline-desc"><a href="/events/event-2016-03-14-ben-shapiro-promoted-the-daily-wire-the-.md">Ben Shapiro promoted The Daily Wire the day after announcing his resignation from Breitbart News.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2016-03-14: Ben Shapiro promoted The Daily Wire the day after announcing his resignation from Breitbart News. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:27:00](/episodes/ep-zSKrxIUMNqw.md#t-00-26-30)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2016-03-13-ben-shapiro-and-michelle-fields-announce">
+<div class="timeline-date">2016-03-13</div>
+<div class="timeline-desc"><a href="/events/event-2016-03-13-ben-shapiro-and-michelle-fields-announce.md">Ben Shapiro and Michelle Fields announced their resignations from Breitbart News.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2016-03-13: Ben Shapiro and Michelle Fields announced their resignations from Breitbart News. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:24:24](/episodes/ep-zSKrxIUMNqw.md#t-00-23-58)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2016-03-08-michelle-fields-alleged-that-corey-lewan">
+<div class="timeline-date">2016-03-08</div>
+<div class="timeline-desc"><a href="/events/event-2016-03-08-michelle-fields-alleged-that-corey-lewan.md">Michelle Fields alleged that Corey Lewandowski assaulted her at an event and displayed bruises.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2016-03-08: Michelle Fields alleged that Corey Lewandowski assaulted her at an event and displayed bruises. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:22:37](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03)
+
+</details>
+</div>
+
 ****
 
 <div class="timeline-event filter-item" id="event-2016-a-staged-ritual-resembling-a-human-sacri">
@@ -35385,6 +35585,21 @@ _Total events: 1680_
 
 ****
 
+<div class="timeline-event filter-item" id="event-2015-ben-shapiro-and-associates-began-quietly">
+<div class="timeline-date">2015</div>
+<div class="timeline-desc"><a href="/events/event-2015-ben-shapiro-and-associates-began-quietly.md">Ben Shapiro and associates began quietly building The Daily Wire near the end of 2015.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2015: Ben Shapiro and associates began quietly building The Daily Wire near the end of 2015. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:27:30](/episodes/ep-zSKrxIUMNqw.md#t-00-27-25)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2015-johnnie-moore-went-to-hollywood-and-work">
 <div class="timeline-date">2015</div>
 <div class="timeline-desc"><a href="/events/event-2015-johnnie-moore-went-to-hollywood-and-work.md">Johnnie Moore went to Hollywood and worked with Mark Burnett after leaving Liberty University.</a></div>
@@ -35395,7 +35610,7 @@ _Total events: 1680_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:19:27](/episodes/ep-CMcktj3Egfo.md#t-00-19-10)
+- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:19:27](/episodes/ep-CMcktj3Egfo.md#t-00-19-07)
 
 </details>
 </div>
@@ -35481,8 +35696,8 @@ _Total events: 1680_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-26-09)
-- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28)
+- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-25-49)
+- [American Horror Story: Charlie Kirk’s “Shining”... @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21)
 
 </details>
 </div>
@@ -36063,6 +36278,21 @@ _Total events: 1680_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2013-an-aircraft-discussed-in-the-episode-was">
+<div class="timeline-date">2013</div>
+<div class="timeline-desc"><a href="/events/event-2013-an-aircraft-discussed-in-the-episode-was.md">An aircraft discussed in the episode was registered in Romania from 2013 to 2015.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2013: An aircraft discussed in the episode was registered in Romania from 2013 to 2015. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:10:04](/episodes/ep-wcD2khO3rOA.md#t-00-10-04)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -36235,7 +36465,56 @@ _Total events: 1680_
 </details>
 </div>
 
+**April**
+
+<div class="timeline-event filter-item" id="event-2012-04-20-michael-cormier-died-candace-owens-descr">
+<div class="timeline-date">2012-04-20</div>
+<div class="timeline-desc"><a href="/events/event-2012-04-20-michael-cormier-died-candace-owens-descr.md">Michael Cormier died; Candace Owens described the cause as military-grade arsenic poisoning.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-04-20: Michael Cormier died; Candace Owens described the cause as military-grade arsenic poisoning. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:20:27](/episodes/ep-zSKrxIUMNqw.md#t-00-20-01)
+
+</details>
+</div>
+
+**March**
+
+<div class="timeline-event filter-item" id="event-2012-03-01-andrew-breitbart-died-at-age-43-from-wha">
+<div class="timeline-date">2012-03-01</div>
+<div class="timeline-desc"><a href="/events/event-2012-03-01-andrew-breitbart-died-at-age-43-from-wha.md">Andrew Breitbart died at age 43 from what was reported as an apparent heart attack.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-03-01: Andrew Breitbart died at age 43 from what was reported as an apparent heart attack. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:19:36](/episodes/ep-zSKrxIUMNqw.md#t-00-19-23)
+
+</details>
+</div>
+
 **February**
+
+<div class="timeline-event filter-item" id="event-2012-02-andrew-breitbart-hired-28-year-old-ben-s">
+<div class="timeline-date">2012-02</div>
+<div class="timeline-desc"><a href="/events/event-2012-02-andrew-breitbart-hired-28-year-old-ben-s.md">Andrew Breitbart hired 28-year-old Ben Shapiro as a Breitbart editor-at-large roughly two weeks before Breitbart died.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2012-02: Andrew Breitbart hired 28-year-old Ben Shapiro as a Breitbart editor-at-large roughly two weeks before Breitbart died. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Cand... @ 00:21:30](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26)
+
+</details>
+</div>
 
 <div class="timeline-event filter-item" id="event-2012-02-everyday-heroes-like-you-began-johnnys-l">
 <div class="timeline-date">2012-02</div>
@@ -37722,8 +38001,8 @@ _Total events: 1680_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:14:11](/episodes/ep-wcD2khO3rOA.md#t-00-14-11)
 - [A SHOCKING Discovery About The Man Who Mic’ed C... @ 00:25:22](/episodes/ep-G3zdOeHpvS0.md#t-00-25-14)
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:14:11](/episodes/ep-wcD2khO3rOA.md#t-00-14-11)
 
 </details>
 </div>
@@ -38917,12 +39196,12 @@ _Total events: 1680_
 
 **November**
 
-<div class="timeline-event filter-item" id="event-1997-11-23-the-washington-post-published-an-investi">
-<div class="timeline-date">1997-11-23</div>
-<div class="timeline-desc"><a href="/events/event-1997-11-23-the-washington-post-published-an-investi.md">The Washington Post published an investigation into Sun Myung Moon’s interlocking religious, business, media, and political network.</a></div>
+<div class="timeline-event filter-item" id="event-1997-11-22-the-washington-post-published-an-investi">
+<div class="timeline-date">1997-11-22</div>
+<div class="timeline-desc"><a href="/events/event-1997-11-22-the-washington-post-published-an-investi.md">The Washington Post published an investigation into Sun Myung Moon’s interlocking religious, business, media, and political network.</a></div>
 <div class="timeline-meta">
 <span class="timeline-badge mentions">1× in 1 ep</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('1997-11-23: The Washington Post published an investigation into Sun Myung Moon’s interlocking religious, business, media, and political network. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1997-11-22: The Washington Post published an investigation into Sun Myung Moon’s interlocking religious, business, media, and political network. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
@@ -39072,6 +39351,36 @@ _Total events: 1680_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:17:35](/episodes/ep-jTj9Ip46r4w.md#t-00-17-35)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1996-about-two-years-after-leaving-the-libert">
+<div class="timeline-date">1996</div>
+<div class="timeline-desc"><a href="/events/event-1996-about-two-years-after-leaving-the-libert.md">About two years after leaving the Liberty Godparent Home, the anonymous survivor received an invitation to enter Trump pageantry.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1996: About two years after leaving the Liberty Godparent Home, the anonymous survivor received an invitation to enter Trump pageantry. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:33:26](/episodes/ep-wcD2khO3rOA.md#t-00-33-18)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1996-news-world-communications-lent-liberty-u">
+<div class="timeline-date">1996</div>
+<div class="timeline-desc"><a href="/events/event-1996-news-world-communications-lent-liberty-u.md">News World Communications lent Liberty University $400,000 at 6 percent interest.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1996: News World Communications lent Liberty University $400,000 at 6 percent interest. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 01:06:36](/episodes/ep-wcD2khO3rOA.md#t-01-06-16)
 
 </details>
 </div>
@@ -39264,6 +39573,21 @@ _Total events: 1680_
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:41:40](/episodes/ep-jTj9Ip46r4w.md#t-00-41-14)
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:06:54](/episodes/ep-2tFYJf1klgY.md#t-00-06-32)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1994-the-anonymous-liberty-godparent-home-sur">
+<div class="timeline-date">1994</div>
+<div class="timeline-desc"><a href="/events/event-1994-the-anonymous-liberty-godparent-home-sur.md">The anonymous Liberty Godparent Home survivor said her pregnancy ended and labor was induced while she was at the home.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1994: The anonymous Liberty Godparent Home survivor said her pregnancy ended and labor was induced while she was at the home. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:28:20](/episodes/ep-wcD2khO3rOA.md#t-00-28-15)
 
 </details>
 </div>
@@ -39527,6 +39851,21 @@ _Total events: 1680_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:06:23](/episodes/ep-2tFYJf1klgY.md#t-00-06-06)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1990-the-far-eastern-economic-review-publishe">
+<div class="timeline-date">1990</div>
+<div class="timeline-desc"><a href="/events/event-1990-the-far-eastern-economic-review-publishe.md">The Far Eastern Economic Review published an analysis valuing the Unification Church land holdings in South Korea at more than $1 billion.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1990: The Far Eastern Economic Review published an analysis valuing the Unification Church land holdings in South Korea at more than $1 billion. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 01:04:08](/episodes/ep-wcD2khO3rOA.md#t-01-04-08)
 
 </details>
 </div>
@@ -39899,6 +40238,21 @@ _Total events: 1680_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:03:41](/episodes/ep-_vg7ucP1E0g.md#t-00-03-41)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-1982-jerry-falwell-sr-established-the-liberty">
+<div class="timeline-date">1982</div>
+<div class="timeline-desc"><a href="/events/event-1982-jerry-falwell-sr-established-the-liberty.md">Jerry Falwell Sr. established the Liberty Godparent Home.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1982: Jerry Falwell Sr. established the Liberty Godparent Home. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:35:30](/episodes/ep-wcD2khO3rOA.md#t-00-35-25)
 
 </details>
 </div>

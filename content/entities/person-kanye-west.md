@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 171 mentions"
+description: "Kanye West (People) - 186 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-kanye-west-t-00-46-33">2026-08-21 · 00:46:57</a></strong></div>
-<div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>171</strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>186</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>34</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -57,6 +57,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45" style="--pulse-height:9%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-01-07-28" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:43%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 15 mentions" title="2026-01-07 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
@@ -103,6 +104,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-kanye-west-t-00-00-45) | 3 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-kanye-west-t-00-15-40) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-01-07-28) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00) | 15 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58) | 6 |
@@ -131,7 +133,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (171)</strong></summary>
+<summary><strong class="section-title">Raw mentions (186)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (6 mentions)</summary>
@@ -451,6 +453,56 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 
 **[00:38:36](/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18)**
 > "...e Charlie Kirk moment and the Kanye tweet. And like I told you, watching Scott Adams ..."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (15 mentions)</summary>
+
+**[00:00:00](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00)**
+> "... letting you know that Kanye (Kanye West) was right."
+
+**[00:00:06](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00)**
+> "Kanye (Kanye West) was right."
+
+**[00:03:27](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-03-27)**
+> "...hich is essentially after the Kanye West tweet,"
+
+**[00:15:52](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-15-27)**
+> "Kanye West,"
+
+**[00:30:38](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-30-38)**
+> "Now I understand why Kanye (Kanye West), after he burned everything to the ground,"
+
+**[00:36:33](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-36-05)**
+> "...nd take the baton from Kanye (Kanye West) because he might still be napping. We don't even..."
+
+**[00:37:54](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-37-54)**
+> "I was not with Kanye (Kanye West) when he tweeted it. I did not retweet Kanye (Kan..."
+
+**[00:38:04](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-37-54)**
+> "...d not push a like when Kanye (Kanye West) tweeted it, but I sure as hell got peer pressure..."
+
+**[00:38:35](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-38-35)**
+> "The entire world condemned Kanye West."
+
+**[00:39:06](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-38-35)**
+> "...o come out and condemn Kanye (Kanye West) because I wasn't there. I didn't do anything and..."
+
+**[00:39:19](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-39-19)**
+> "... say something against Kanye (Kanye West),"
+
+**[00:40:34](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-39-59)**
+> "...ve something to say to Kanye (Kanye West),"
+
+**[00:43:37](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-43-18)**
+> "...hings blew up with the Kanye (Kanye West) tweet,"
+
+**[00:46:21](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-45-55)**
+> "...nk it's something that Kanye (Kanye West) should say a lot too."
+
+**[00:52:46](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-52-20)**
+> "...llions to say something about Kanye West."
 
 </details>
 
@@ -881,8 +933,9 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Friend Of (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
 
@@ -970,8 +1023,9 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
 
@@ -1060,7 +1114,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kanye West (28)</strong></summary>
+<summary><strong class="section-title">Statements about Kanye West (34)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2)</summary>
@@ -1110,6 +1164,29 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
   - Also about: [Vanity Fair](/entities/org-vanity-fair.md)
 
 - [00:44:35](/episodes/ep-A39g5oqB_eM.md#t-00-44-17) (Opinion) **Candace Owens**: ["I am never going to turn my back on Kanye West and will support him th..."](/statements/statement-4ea665b317ba.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (6)</summary>
+
+- [00:00:37](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00) (Opinion) **Candace Owens**: ["Kanye West was right that people who oppose a particular agenda are bl..."](/statements/statement-0ad5a79042eb.md)
+  - Also about: [Antisemitism](/entities/concept-antisemitism.md)
+
+- [00:03:29](/episodes/ep-zSKrxIUMNqw.md#t-00-03-27) (Accusation) **Candace Owens**: ["Ben Shapiro was not Charlie Kirk's friend and worked behind the scenes..."](/statements/statement-8581516af03e.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:37:45](/episodes/ep-zSKrxIUMNqw.md#t-00-37-16) (Claim) **Candace Owens**: ["Kanye West's “Death Con 3” tweet cost Candace Owens many millions of d..."](/statements/statement-f17a1df9b3bb.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kanye West’s “Death Con 3” tweet](/entities/event-kanye-west-death-con-3-tweet.md)
+
+- [00:38:41](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35) (Claim) **Candace Owens**: ["Kanye West lost his Adidas and Gap contracts after the 2022 post."](/statements/statement-27e1cba1d858.md)
+  - Also about: [Adidas](/entities/org-adidas.md), [Gap Inc.](/entities/org-gap-inc.md), [Kanye West’s “Death Con 3” tweet](/entities/event-kanye-west-death-con-3-tweet.md)
+
+- [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-19) (Accusation) **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless sh..."](/statements/statement-ced70ad0f846.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+- [00:52:47](/episodes/ep-zSKrxIUMNqw.md#t-00-52-20) (Claim) **Candace Owens**: ["Candace Owens turned down millions of dollars rather than denounce Kan..."](/statements/statement-f1ea4a5740c9.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

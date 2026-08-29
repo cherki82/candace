@@ -35,8 +35,8 @@ type: "promise"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Promise | **Verifiable:** No
+**Type:** Promise | **Verifiable:** Yes

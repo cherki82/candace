@@ -1,8 +1,8 @@
 ---
 title: "Sun Myung Moon’s network provided roughly $20–40 million tha..."
-description: "\"Sun Myung Moon’s network provided roughly $20–40 million that rescued Liberty University in the mid-1990s.\" — Candace Owens"
+description: "\"Sun Myung Moon’s network provided roughly $20–40 million that rescued Liberty University in the mid-1990s.\" — Anonymous Source #4 (Ep wcD2khO3rOA)"
 statement_id: "statement-b2b204dd2376"
-speaker: "Candace Owens"
+speaker: "Anonymous Source #4 (Ep wcD2khO3rOA)"
 type: "factual_claim"
 veracity: "false"
 ---
@@ -15,9 +15,10 @@ veracity: "false"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Anonymous Source #4 (Ep wcD2khO3rOA)](/entities/anon-src-wcD2khO3rOA-004.md) (Anonymous Source)
 
 **Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 **Original Source:** Email tip read by Candace Owens
 
 ## About

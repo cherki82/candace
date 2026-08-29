@@ -5,11 +5,19 @@ id: "org-korea-herald"
 type: "ORG"
 aliases:
   - "Korea Herald"
+categories:
+  - "newspaper"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Korea Herald
+
+**Categories:** newspaper
+
+**Entity verification:** verified
+> The publication's official site identifies The Korea Herald as a registered Seoul online newspaper.
+Source: [The Korea Herald](https://www.koreaherald.com/)
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>

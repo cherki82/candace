@@ -5,11 +5,19 @@ id: "law-south-korea-public-official-election-act"
 type: "LAW"
 aliases:
   - "Public Official Election Act"
+categories:
+  - "South Korean election law"
 ---
 
 _Type: Laws & Legislation_
 
 **Also known as:** Public Official Election Act
+
+**Categories:** South Korean election law
+
+**Entity verification:** verified
+> KLRI's English statute database confirms the canonical title Public Official Election Act.
+Source: [Public Official Election Act | Statutes of the Republic of Korea](https://elaw.klri.re.kr/eng_service/jomunPrint.do?cseq=48172&hseq=25035)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-law-south-korea-public-official-election-act-t-01-11-11">2026-01-09 · 01:11:11</a></strong></div>

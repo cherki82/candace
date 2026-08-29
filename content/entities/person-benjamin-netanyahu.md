@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 396 mentions"
+description: "Benjamin Netanyahu (People) - 398 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-benjamin-netanyahu-t-00-51-43">2026-08-21 · 00:52:19</a></strong></div>
-<div><span>Episodes</span><strong>95</strong></div>
-<div><span>Mentions</span><strong>396</strong></div>
+<div><span>Episodes</span><strong>96</strong></div>
+<div><span>Mentions</span><strong>398</strong></div>
 <div><span>Statements by</span><strong>25</strong></div>
 <div><span>Statements about</span><strong>127</strong></div>
-<div><span>Relationships</span><strong>57</strong></div>
+<div><span>Relationships</span><strong>59</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -75,8 +75,9 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-benjamin-netanyahu-t-00-14-12" style="--pulse-height:14%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 4 mentions" title="2025-12-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-benjamin-netanyahu-t-00-52-45" style="--pulse-height:21%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 6 mentions" title="2026-01-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-benjamin-netanyahu-t-00-15-28" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-benjamin-netanyahu-t-00-37-54" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-benjamin-netanyahu-t-00-47-30" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-35" style="--pulse-height:14%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-33" style="--pulse-height:14%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-32" style="--pulse-height:11%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-benjamin-netanyahu-t-00-42-40" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-benjamin-netanyahu-t-00-25-07" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
@@ -175,8 +176,9 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-benjamin-netanyahu-t-00-14-12) | 4 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-benjamin-netanyahu-t-00-52-45) | 6 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-benjamin-netanyahu-t-00-15-28) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-benjamin-netanyahu-t-00-37-54) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-benjamin-netanyahu-t-00-47-30) | 2 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-35) | 4 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-33) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-32) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-benjamin-netanyahu-t-00-42-40) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-benjamin-netanyahu-t-00-25-07) | 3 |
@@ -243,7 +245,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (396)</strong></summary>
+<summary><strong class="section-title">Raw mentions (398)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -1200,13 +1202,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4 mentions)</summary>
 
-**[00:05:53](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-35)**
+**[00:05:53](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-33)**
 > "...ere in this dream setting for Bibi Netanyahu's wife's funeral."
 
-**[00:32:23](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-35)**
+**[00:32:23](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-33)**
 > "It's why Bibi used to work for the CIA."
 
-**[00:33:11](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-32-35)**
+**[00:33:11](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-33-04)**
 > "I think that's something that Bibi Netanyahu actually underestimated."
 
 **[00:50:35](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-50-35)**
@@ -1222,6 +1224,17 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[01:18:16](/episodes/ep-wcD2khO3rOA.md#ent-person-benjamin-netanyahu-t-01-18-09)**
 > "the offer from Bibi Netanyahu,"
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2 mentions)</summary>
+
+**[00:38:15](/episodes/ep-zSKrxIUMNqw.md#ent-person-benjamin-netanyahu-t-00-37-54)**
+> "...out a statement against Bibi (Benjamin Netanyahu)?"
+
+**[00:38:21](/episodes/ep-zSKrxIUMNqw.md#ent-person-benjamin-netanyahu-t-00-37-54)**
+> "...ffing statement against Bibi (Benjamin Netanyahu)?"
 
 </details>
 
@@ -1971,13 +1984,20 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Formerly Worked For (2)</summary>
 
 - **[Boston Consulting Group](/entities/org-boston-consulting-group.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
+
+</details>
+
+- **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47): “It's why Bibi used to work for the CIA.”
 
 </details>
 
@@ -2178,7 +2198,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Referenced By (29)</summary>
+<summary>Referenced By (30)</summary>
 
 - **[Yair Netanyahu](/entities/person-yair-netanyahu.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2234,6 +2254,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
+
+</details>
+
+- **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47): “It's why Bibi used to work for the CIA.”
 
 </details>
 
@@ -2830,7 +2857,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
 
-- [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-49) (Accusation) **Candace Owens**: ["Mossad and the CIA are effectively inseparable, and Benjamin Netanyahu..."](/statements/statement-27fb03763d42.md)
+- [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47) (Opinion) **Candace Owens**: ["Candace Owens said it was almost as if Mossad and the CIA were insepar..."](/statements/statement-27fb03763d42.md)
   - Also about: [Mossad](/entities/org-mossad.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 - [00:50:35](/episodes/ep-CMcktj3Egfo.md#t-00-49-54) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens repeated an online claim that Javier Milei’s full surnam..."](/statements/statement-bf12f0690127.md)

@@ -3,9 +3,17 @@ title: "Women's Federation for World Peace"
 description: "Women's Federation for World Peace (Organizations) - 0 mentions"
 id: "org-womens-federation-for-world-peace"
 type: "ORG"
+categories:
+  - "international nonprofit"
 ---
 
 _Type: Organizations_
+
+**Categories:** international nonprofit
+
+**Entity verification:** verified
+> The organization's official site confirms the canonical name and international nonprofit identity.
+Source: [Who We Are | Women's Federation for World Peace USA](https://www.wfwp.us/about)
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>

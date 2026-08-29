@@ -29,10 +29,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10) 
+**Timestamp:** [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1176);return false;">Play</a>
 
-> Mark Burnett's very big name in reality TV world if you're in your head like I did immediately when I thought about that I was like wait wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough
+> wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough ... when Mark Burnett took over MGM became a chairperson of MGM they did acquire he was owned he owned summer house
 
 ## Verification
 

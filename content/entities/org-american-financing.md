@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 506 mentions"
+description: "American Financing (Organizations) - 511 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-41">2026-08-21 · 00:58:03</a></strong></div>
-<div><span>Episodes</span><strong>121</strong></div>
-<div><span>Mentions</span><strong>506</strong></div>
+<div><span>Episodes</span><strong>122</strong></div>
+<div><span>Mentions</span><strong>511</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -69,6 +69,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-58" style="--pulse-height:50%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 4 mentions" title="2025-12-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04" style="--pulse-height:50%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 4 mentions" title="2025-12-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-18" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-31" style="--pulse-height:62%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-american-financing-t-01-14-28" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-10" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-american-financing-t-00-50-31" style="--pulse-height:62%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
@@ -195,6 +196,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-58) | 4 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04) | 4 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-18) | 4 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-31) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-american-financing-t-01-14-28) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-10) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-american-financing-t-00-50-31) | 5 |
@@ -290,7 +292,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (506)</strong></summary>
+<summary><strong class="section-title">Raw mentions (511)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -1848,6 +1850,26 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 **[01:15:40](/episodes/ep-wcD2khO3rOA.md#ent-org-american-financing-t-01-15-07)**
 > "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. AmericanFinancing.net slash Owen..."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (5 mentions)</summary>
+
+**[00:53:51](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-31)**
+> "I want to tell you guys about American financing because between groceries, travel and higher pric..."
+
+**[00:54:00](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-31)**
+> "...ve considered reaching out to American financing,"
+
+**[00:54:09](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-31)**
+> "Well, that's why American financing created the smart equity loan,"
+
+**[00:54:31](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-54-16)**
+> "that's 800-795-1210 or visit americanfinancing.net slash us."
+
+**[00:54:43](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-54-16)**
+> "slash Owens. Again, that's AmericanFinancing.net slash Owens."
 
 </details>
 

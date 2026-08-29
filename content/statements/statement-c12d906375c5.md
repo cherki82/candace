@@ -29,10 +29,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21) 
+**Timestamp:** [00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1305);return false;">Play</a>
 
-> So now, you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship,
+> I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship, you know, I'm on the advisory board for the Aspen Institute and ADL's civil society fellowship.
 
 ## Verification
 

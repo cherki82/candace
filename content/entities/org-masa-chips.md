@@ -20,7 +20,7 @@ _Type: Organizations_
 Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-39">2026-01-12 · 00:44:45</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-26">2026-01-12 · 00:44:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-masa-chips-t-00-36-43">2026-04-15 · 00:36:48</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
@@ -34,7 +34,7 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-SubDoZWHARo.md#ent-org-masa-chips-t-00-35-20">Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-39" style="--pulse-height:75%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-26" style="--pulse-height:75%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-47" style="--pulse-height:75%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-masa-chips-t-00-25-37" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-28-54" style="--pulse-height:75%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
@@ -44,7 +44,7 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-39) | 3 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-26) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-47) | 3 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-masa-chips-t-00-25-37) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-28-54) | 3 |
@@ -117,14 +117,14 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
 
-**[00:44:45](/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-39)**
+**[00:44:45](/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-26)**
 > "Snacking on masa chips is nothing like eating regular chips. With masa,"
 
-**[00:45:04](/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-39)**
-> "My favorite flavors of masa chips are their habanera."
+**[00:45:04](/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-26)**
+> "My favorite flavors of MASA chips are their habanero"
 
 **[00:45:07](/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-45-07)**
-> "...l so if you are ready to give MASA a try simply click the link in the video descript..."
+> "if you are ready to give MASA a try"
 
 </details>
 

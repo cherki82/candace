@@ -1,6 +1,6 @@
 ---
 title: "Anti-Defamation League"
-description: "Anti-Defamation League (Organizations) - 46 mentions"
+description: "Anti-Defamation League (Organizations) - 45 mentions"
 id: "org-anti-defamation-league"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [About ADL](https://www.adl.org/about)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25">2025-10-01 · 00:31:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-org-anti-defamation-league-t-00-05-38">2026-07-27 · 00:06:05</a></strong></div>
 <div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -38,7 +38,7 @@ Source: [About ADL](https://www.adl.org/about)
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25" style="--pulse-height:10%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-00-00" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 29 mentions" title="2025-10-02 · 29 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-org-anti-defamation-league-t-00-22-18" style="--pulse-height:8%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-19-52" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-20-32" style="--pulse-height:14%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-anti-defamation-league-t-00-36-37" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-anti-defamation-league-t-00-19-58" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
@@ -52,7 +52,7 @@ Source: [About ADL](https://www.adl.org/about)
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25) | 3 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-00-00) | 29 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-anti-defamation-league-t-00-22-18) | 1 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-19-52) | 5 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-20-32) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-anti-defamation-league-t-00-36-37) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-anti-defamation-league-t-00-19-58) | 1 |
@@ -65,7 +65,7 @@ Source: [About ADL](https://www.adl.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
 
 <details>
 <summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
@@ -117,21 +117,18 @@ Source: [About ADL](https://www.adl.org/about)
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4 mentions)</summary>
 
-**[00:20:32](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-19-52)**
+**[00:20:32](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-20-32)**
 > "Do you remember back when the ADL put me on their list before I got fired,"
 
-**[00:21:09](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-20-37)**
+**[00:21:09](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-20-32)**
 > "He serves on the ADL task force."
 
 **[00:21:45](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-21-45)**
 > "...you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the..."
 
-**[00:21:55](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-21-45)**
-> "...d for the Aspen Institute and ADL's civil society fellowship."
-
-**[00:22:36](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-22-23)**
+**[00:22:36](/episodes/ep-CMcktj3Egfo.md#ent-org-anti-defamation-league-t-00-22-21)**
 > "...elt at home, you know, in the ADL community."
 
 </details>
@@ -324,7 +321,7 @@ Source: [About ADL](https://www.adl.org/about)
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21): “So now, you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-15): “So now, you know, I'm involved in the ADL in all kinds of ways, you know, I'm a part of the ADL and Aspen Institute's civil society fellowship,”
 
 </details>
 
@@ -404,10 +401,10 @@ Source: [About ADL](https://www.adl.org/about)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
 
-- [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-37) (Claim) **Candace Owens**: ["Johnnie Moore serves on an Anti-Defamation League task force and recei..."](/statements/statement-84b00687125f.md)
+- [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-32) (Claim) **Candace Owens**: ["Johnnie Moore serves on an Anti-Defamation League task force and recei..."](/statements/statement-84b00687125f.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Simon Wiesenthal Center](/entities/org-simon-wiesenthal-center.md)
 
-- [00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-21) (Claim) **Johnnie Moore** (via quoted speech): ["Johnnie Moore said he was involved with the Anti-Defamation League in ..."](/statements/statement-c12d906375c5.md)
+- [00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-15) (Claim) **Johnnie Moore** (via quoted speech): ["Johnnie Moore said he was involved with the Anti-Defamation League in ..."](/statements/statement-c12d906375c5.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Aspen Institute](/entities/org-aspen-institute.md)
 
 </details>

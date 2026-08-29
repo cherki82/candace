@@ -80,7 +80,7 @@ Source: [About | MGM Studios](https://mgm.com/titles/about/)
 - **[Mark Burnett](/entities/person-mark-burnett.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:52](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “when Mark Burnett took over MGM became a chairperson of MGM”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:52](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “when Mark Burnett took over MGM became a chairperson of MGM”
 
 </details>
 
@@ -92,7 +92,7 @@ Source: [About | MGM Studios](https://mgm.com/titles/about/)
 - **[Mark Burnett](/entities/person-mark-burnett.md)** chairman of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:52](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “when Mark Burnett took over MGM became a chairperson of MGM”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:52](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “when Mark Burnett took over MGM became a chairperson of MGM”
 
 </details>
 
@@ -114,7 +114,7 @@ Source: [About | MGM Studios](https://mgm.com/titles/about/)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10) (Claim) **Candace Owens**: ["Mark Burnett became chairman of MGM, which owned Summer House, and Eri..."](/statements/statement-40e79c3199ca.md)
+- [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07) (Claim) **Candace Owens**: ["Mark Burnett became chairman of MGM, which owned Summer House, and Eri..."](/statements/statement-40e79c3199ca.md)
   - Also about: [Mark Burnett](/entities/person-mark-burnett.md), [Summer House](/entities/work-summer-house-tv-series.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

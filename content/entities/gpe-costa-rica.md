@@ -3,9 +3,18 @@ title: "Costa Rica"
 description: "Costa Rica (Places) - 3 mentions"
 id: "gpe-costa-rica"
 type: "GPE"
+categories:
+  - "country"
+  - "Central America"
 ---
 
 _Type: Places_
+
+**Categories:** country, Central America
+
+**Entity verification:** verified
+> The United Nations member-state list confirms the canonical country name Costa Rica.
+Source: [Member States | United Nations](https://www.un.org/en/about-us/member-states)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-costa-rica-t-00-24-32">2025-11-13 · 00:25:03</a></strong></div>

@@ -3,12 +3,17 @@ title: "Menachem Begin"
 description: "Menachem Begin (People) - 1 mention"
 id: "person-menachem-begin"
 type: "PERSON"
+categories:
+  - "Israeli political leader"
 ---
 
 _Type: People_
 
+**Categories:** Israeli political leader
+
 **Entity verification:** verified
-> Former Israeli prime minister named in the episode.
+> Canonical name and role as Israeli prime minister are established in standard biographical sources.
+Source: [Menachem Begin | Britannica](https://www.britannica.com/biography/Menachem-Begin)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-menachem-begin-t-00-46-51">2026-01-09 · 00:47:19</a></strong></div>

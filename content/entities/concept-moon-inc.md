@@ -5,11 +5,15 @@ id: "concept-moon-inc"
 type: "CONCEPT"
 aliases:
   - "Moon Inc"
+categories:
+  - "Unification movement business network"
 ---
 
 _Type: Concepts_
 
 **Also known as:** Moon Inc
+
+**Categories:** Unification movement business network
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-moon-inc-t-00-52-18">2026-01-09 · 00:52:51</a></strong></div>

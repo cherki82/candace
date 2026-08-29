@@ -23,8 +23,8 @@ _Type: Places_
 > **Possibly overlapping entity records:** [Washington, D.C.](/entities/gpe-washington-dc). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
-> Official district portal confirms canonical place name.
-Source: [District of Columbia official website](https://dc.gov/)
+> Official District of Columbia government site confirms Washington, DC; source passages concern Washington institutions and RFK Stadium, not Washington state.
+Source: [Washington, DC](https://dc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>

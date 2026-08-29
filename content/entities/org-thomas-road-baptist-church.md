@@ -3,9 +3,17 @@ title: "Thomas Road Baptist Church"
 description: "Thomas Road Baptist Church (Organizations) - 2 mentions"
 id: "org-thomas-road-baptist-church"
 type: "ORG"
+categories:
+  - "Baptist church"
 ---
 
 _Type: Organizations_
+
+**Categories:** Baptist church
+
+**Entity verification:** verified
+> The church's official mission page confirms the canonical organization name and Baptist church identity.
+Source: [Mission | Thomas Road Baptist Church](https://trbc.org/about/mission/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-thomas-road-baptist-church-t-00-35-25">2026-01-09 · 00:35:33</a></strong></div>

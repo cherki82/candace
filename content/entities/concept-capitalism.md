@@ -13,7 +13,7 @@ _Type: Concepts_
 **Categories:** economic system, political economy
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-capitalism-t-00-00-00">2026-01-12 · 00:00:26</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-capitalism-t-00-00-00">2026-01-12 · 00:00:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-capitalism-t-00-25-41">2026-06-26 · 00:25:52</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
@@ -89,8 +89,8 @@ _Type: Concepts_
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
 
-**[00:00:26](/episodes/ep-CMcktj3Egfo.md#ent-concept-capitalism-t-00-00-00)**
-> "...ocused on the free market and capitalism,"
+**[00:00:22](/episodes/ep-CMcktj3Egfo.md#ent-concept-capitalism-t-00-00-00)**
+> "initial goals focused on the free market and capitalism"
 
 </details>
 

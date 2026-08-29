@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 247 mentions"
+description: "Christianity (Concepts) - 251 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -21,12 +21,12 @@ _Type: Concepts_
 Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & Facts](https://www.britannica.com/topic/Christianity)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55">2026-01-09 · 00:23:24</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27">2026-01-07 · 00:04:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
-<div><span>Episodes</span><strong>65</strong></div>
-<div><span>Mentions</span><strong>247</strong></div>
+<div><span>Episodes</span><strong>66</strong></div>
+<div><span>Mentions</span><strong>251</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,13 +35,14 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (35 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27" style="--pulse-height:11%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 35 mentions" title="2026-01-09 · 35 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-23" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-21" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-christianity-t-00-02-09" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49" style="--pulse-height:26%" aria-label="Myron Gaines x Candace Owens: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-35-08" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23" style="--pulse-height:40%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 14 mentions" title="2026-01-22 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-00-40" style="--pulse-height:40%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 14 mentions" title="2026-01-22 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43" style="--pulse-height:14%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04" style="--pulse-height:49%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 17 mentions" title="2026-01-29 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-christianity-t-00-40-25" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 5 mentions" title="2026-01-30 · 5 mentions"><span></span></a>
@@ -75,7 +76,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-xi8SYJTUXPM.md#t-00-00-00" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-christianity-t-01-26-59" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christianity-t-01-08-37" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-53-08" style="--pulse-height:9%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-52-28" style="--pulse-height:9%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 3 mentions" title="2026-04-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christianity-t-00-36-39" style="--pulse-height:14%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 5 mentions" title="2026-05-04 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-christianity-t-00-07-33" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christianity-t-00-02-38" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
@@ -105,13 +106,14 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55) | 35 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-23) | 3 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-21) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50) | 6 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-christianity-t-00-02-09) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49) | 9 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-35-08) | 4 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23) | 14 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-00-40) | 14 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43) | 5 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04) | 17 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-christianity-t-00-40-25) | 5 |
@@ -145,7 +147,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#t-00-00-00) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-concept-christianity-t-01-26-59) | 2 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-christianity-t-01-08-37) | 2 |
-| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-53-08) | 3 |
+| 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-52-28) | 3 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christianity-t-00-36-39) | 5 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-concept-christianity-t-00-07-33) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-christianity-t-00-02-38) | 1 |
@@ -177,7 +179,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (247)</strong></summary>
+<summary><strong class="section-title">Raw mentions (251)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -491,7 +493,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (3 mentions)</summary>
 
-**[00:52:59](/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-53-08)**
+**[00:52:59](/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-52-28)**
 > "That is not explicitly Jewish. In fact, I have been name-checking Christian Zionist pastor after Christian Zionist pastor."
 
 **[00:53:42](/episodes/ep-69A8TzAGHlU.md#ent-concept-christianity-t-00-53-08)**
@@ -991,7 +993,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (14 mentions)</summary>
 
-**[00:00:47](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23)**
+**[00:00:47](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-00-40)**
 > "...me from a loving, very loving Christian Zionist donor."
 
 **[00:01:28](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23)**
@@ -1087,7 +1089,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:55:36](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-55-36)**
 > "you know modern christian miracle you know that's fed slop but it's worse t..."
 
-**[00:56:52](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-55-36)**
+**[00:56:52](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-56-52)**
 > "... allowed to be anything but a christian zionist um and he was changing in the last few we..."
 
 </details>
@@ -1118,7 +1120,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
 
-**[00:22:35](/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-23)**
+**[00:22:35](/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-21)**
 > "I'm Christian."
 
 **[00:22:54](/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-46)**
@@ -1144,7 +1146,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:39:19](/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-39-09)**
 > "...g to you about this veneer of Christianity."
 
-**[00:41:42](/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-41-20)**
+**[00:41:42](/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-39-09)**
 > "...with almost what I would term Christian Inc."
 
 **[00:41:53](/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-41-53)**
@@ -1239,6 +1241,23 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 </details>
 
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
+
+**[00:04:48](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27)**
+> "And his strategy is to find Christians and to pressure them usually through financial me..."
+
+**[00:07:35](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27)**
+> "...ommentators. I said that as a Christian, I wanted to be honest about what I believe and b..."
+
+**[00:55:39](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-55-39)**
+> "And I'm glad that she followed her Christian heart there, man. Look, Mags (Maggie Wegner)—Mags Wegner—I'll tell you what: I would love to be the person that gets called if you are going for the next job. And I have a letter of recommendation, a video of recommendation."
+
+**[00:55:55](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-55-39)**
+> "I want Christianity to win. I want goodness and truth to win,"
+
+</details>
+
 </details>
 
 <details open>
@@ -1249,7 +1268,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christianity (23)</strong></summary>
+<summary><strong class="section-title">Statements about Christianity (24)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>
@@ -1394,6 +1413,14 @@ _No relationships extracted yet._
   - Also about: [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md)
 
 - [01:15:50](/episodes/ep-wcD2khO3rOA.md#t-01-15-07) (Accusation) **Candace Owens**: ["Christian organizations were infiltrated through a psychological opera..."](/statements/statement-5a051a7a4870.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:04:48](/episodes/ep-zSKrxIUMNqw.md#t-00-04-07) (Accusation) **Candace Owens**: ["Ben Shapiro's strategy is to find Christians and pressure them financi..."](/statements/statement-390b6882796b.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Christians](/entities/concept-christians.md)
 
 </details>
 

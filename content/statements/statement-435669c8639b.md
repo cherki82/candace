@@ -29,7 +29,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:16:29](/episodes/ep-CMcktj3Egfo.md#t-00-15-44) 
+**Timestamp:** [00:16:29](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(989);return false;">Play</a>
 
 > The aim was to harness the energy of Charlie's brand with the youth and to turn that into ministry for evangelicals and to inspire young people to go to Liberty University to sign up and to go to Liberty University because Jerry Falwell Jr.

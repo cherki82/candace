@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [00:37:04](/episodes/ep-wcD2khO3rOA.md#t-00-36-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2224);return false;">Play</a>
 
-> They have treated every individual who has sought assistance.
+> They have treated every individual who has sought assistance. with compassion and integrity.
 
 ## Verification
 

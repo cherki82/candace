@@ -28,7 +28,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:11:20](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) 
+**Timestamp:** [00:11:20](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(680);return false;">Play</a>
 
 > And then he got involved with Liberty University via Jerry Falwell Sr.

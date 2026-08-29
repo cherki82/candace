@@ -5,11 +5,15 @@ id: "concept-seven-mountain-mandate"
 type: "CONCEPT"
 aliases:
   - "Seven Mountains Mandate"
+categories:
+  - "Christian dominionist doctrine"
 ---
 
 _Type: Concepts_
 
 **Also known as:** Seven Mountains Mandate
+
+**Categories:** Christian dominionist doctrine
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-01">2025-11-10 · 00:13:32</a></strong></div>

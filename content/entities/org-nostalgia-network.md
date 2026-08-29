@@ -3,9 +3,17 @@ title: "Nostalgia Network"
 description: "Nostalgia Network (Organizations) - 0 mentions"
 id: "org-nostalgia-network"
 type: "ORG"
+categories:
+  - "television network"
 ---
 
 _Type: Organizations_
+
+**Categories:** television network
+
+**Entity verification:** verified
+> The quoted Washington Post source supports the Nostalgia Network name and media context.
+Source: [A Church in Flux Is Flush With Cash | The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>

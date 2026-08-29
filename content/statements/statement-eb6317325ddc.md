@@ -25,7 +25,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:44:03](/episodes/ep-CMcktj3Egfo.md#t-00-43-55) 
+**Timestamp:** [00:44:03](/episodes/ep-CMcktj3Egfo.md#t-00-43-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2643);return false;">Play</a>
 
 > I do not believe that our military is helping children around the world.

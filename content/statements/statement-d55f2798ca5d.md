@@ -1,8 +1,8 @@
 ---
 title: "Two years after leaving the home, the survivor unexpectedly ..."
-description: "\"Two years after leaving the home, the survivor unexpectedly received an invitation to join the Trump pageant world and did not know how organizers obt...\" — Anonymous Source #1 (Ep wcD2khO3rOA)"
+description: "\"Two years after leaving the home, the survivor unexpectedly received an invitation to join the Trump pageant world and did not know how organizers obt...\" — Candace Owens"
 statement_id: "statement-d55f2798ca5d"
-speaker: "Anonymous Source #1 (Ep wcD2khO3rOA)"
+speaker: "Candace Owens"
 type: "factual_claim"
 veracity: "unverifiable"
 ---
@@ -15,11 +15,9 @@ veracity: "unverifiable"
 
 ## Attribution
 
-**Speaker:** [Anonymous Source #1 (Ep wcD2khO3rOA)](/entities/anon-src-wcD2khO3rOA-001.md) (Anonymous Source)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Paraphrased
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Recorded interview with anonymous Liberty Godparent Home survivor
 
 ## About
 

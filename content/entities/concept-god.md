@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 539 mentions"
+description: "God (Concepts) - 542 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -22,8 +22,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>102</strong></div>
-<div><span>Mentions</span><strong>539</strong></div>
+<div><span>Episodes</span><strong>103</strong></div>
+<div><span>Mentions</span><strong>542</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -75,6 +75,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11" style="--pulse-height:13%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-00-15-01" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#t-01-00-51" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#t-00-32-50" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#t-00-22-55" style="--pulse-height:13%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-36-40" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#t-00-00-00" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
@@ -182,6 +183,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11) | 4 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-01-00-51) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#t-00-32-50) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#t-00-22-55) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-36-40) | 5 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00) | 6 |
@@ -250,7 +252,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (539)</strong></summary>
+<summary><strong class="section-title">Raw mentions (542)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -1642,10 +1644,10 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 **[00:50:49](/episodes/ep-CMcktj3Egfo.md#t-00-50-35)**
 > "...o Max and always all glory to God. You are correct."
 
-**[00:51:40](/episodes/ep-CMcktj3Egfo.md#t-00-50-58)**
+**[00:51:40](/episodes/ep-CMcktj3Egfo.md#t-00-51-40)**
 > "God bless you and your family."
 
-**[00:52:35](/episodes/ep-CMcktj3Egfo.md#t-00-52-25)**
+**[00:52:35](/episodes/ep-CMcktj3Egfo.md#t-00-52-20)**
 > "...ncourage you all to dream and God speaks to us in our dreams."
 
 </details>
@@ -1664,6 +1666,20 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[01:19:17](/episodes/ep-wcD2khO3rOA.md#t-01-18-49)**
 > "oh my God, so radical, everything's been debunked."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (3 mentions)</summary>
+
+**[00:32:50](/episodes/ep-zSKrxIUMNqw.md#t-00-32-50)**
+> "God forbid,"
+
+**[00:34:10](/episodes/ep-zSKrxIUMNqw.md#t-00-34-10)**
+> "...da that has completely erased God from the conversation."
+
+**[00:55:30](/episodes/ep-zSKrxIUMNqw.md#t-00-54-57)**
+> "...d from Australia. But I think God takes care of you in the end."
 
 </details>
 

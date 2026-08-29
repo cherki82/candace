@@ -3,6 +3,8 @@ title: "Christian Zionism"
 description: "Christian Zionism (Concepts) - 7 mentions"
 id: "concept-christian-zionism"
 type: "CONCEPT"
+aliases:
+  - "Christian Zionist"
 categories:
   - "religious ideology"
   - "political theology"
@@ -10,9 +12,9 @@ categories:
 
 _Type: Concepts_
 
-**Categories:** religious ideology, political theology
+**Also known as:** Christian Zionist
 
-> **Possibly overlapping entity records:** [Zionism](/entities/concept-zionism). These records share a name or alias; compare their histories before treating either count as complete.
+**Categories:** religious ideology, political theology
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christian-zionism-t-00-22-46">2026-01-12 · 00:22:54</a></strong></div>
@@ -30,7 +32,7 @@ _Type: Concepts_
 <p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christian-zionism-t-00-01-23">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christian-zionism-t-00-22-46" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#t-00-00-01" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-christian-zionism-t-00-00-01" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christian-zionism-t-00-01-23" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-christian-zionism-t-00-40-45" style="--pulse-height:50%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#t-00-53-11" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
@@ -41,7 +43,7 @@ _Type: Concepts_
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christian-zionism-t-00-22-46) | 1 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-00-01) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-christian-zionism-t-00-00-01) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christian-zionism-t-00-01-23) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-christian-zionism-t-00-40-45) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#t-00-53-11) | 1 |
@@ -93,7 +95,7 @@ _Type: Concepts_
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:00:01](/episodes/ep-2T39-oADLj0.md#t-00-00-01)**
+**[00:00:01](/episodes/ep-2T39-oADLj0.md#ent-concept-christian-zionism-t-00-00-01)**
 > "I think Charlie was not allowed to be anything but a Christian Zionist and he was changing in the last few weeks."
 
 </details>

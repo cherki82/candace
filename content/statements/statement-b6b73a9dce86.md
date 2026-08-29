@@ -29,10 +29,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:33:31](/episodes/ep-CMcktj3Egfo.md#t-00-33-15) 
+**Timestamp:** [00:33:31](/episodes/ep-CMcktj3Egfo.md#t-00-33-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2011);return false;">Play</a>
 
-> It's not that they're being accused by their own people of conducting and covering up these sex rituals against children in their forests. It's not because of the fact that tens of thousands of innocent Palestinians have been killed.
+> tens of thousands of innocent Palestinians have been killed. ... and that they've been intentionally targeted because they're conducting a genocide
 
 ## Verification
 

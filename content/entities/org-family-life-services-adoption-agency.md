@@ -5,11 +5,19 @@ id: "org-family-life-services-adoption-agency"
 type: "ORG"
 aliases:
   - "Family Life Services"
+categories:
+  - "adoption agency"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Family Life Services
+
+**Categories:** adoption agency
+
+**Entity verification:** verified
+> VPM identifies Family Life Services as the licensed adoption agency discussed alongside the separate maternity home.
+Source: ['Liberty Lost' podcast alleges program coerced pregnant teens into adoption | VPM](https://www.vpm.org/news/2025-08-12/liberty-lost-tj-raphael-maternity-home-family-life-services-adoption/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-family-life-services-adoption-agency-t-00-37-36">2026-01-09 · 00:37:42</a></strong></div>

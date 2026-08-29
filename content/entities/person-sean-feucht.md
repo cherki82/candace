@@ -26,7 +26,7 @@ _Type: People_
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -169,6 +169,19 @@ _Type: People_
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#t-00-10-20): “Sean Feucht is announced as the Turning Point USA Faith contributor”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Sean Feucht (1)</strong></summary>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+
+- [00:58:25](/episodes/ep-wcD2khO3rOA.md#t-00-57-44) (Claim) **Candace Owens**: ["Owens said Turning Point Faith held a pastor summit led by Rob McCoy a..."](/statements/statement-1b0c9fa3365f.md)
+  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>
 

@@ -16,7 +16,7 @@ _Type: Concepts_
 **Categories:** land acquisition concept
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-49">2026-01-12 · 00:31:54</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-47">2026-01-12 · 00:31:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-land-grab-t-00-01-23">2026-01-13 · 00:01:39</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -28,16 +28,16 @@ _Type: Concepts_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-49">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-47">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-49" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-47" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-land-grab-t-00-01-23" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-49) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-47) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-land-grab-t-00-01-23) | 1 |
 
 </details>
@@ -59,7 +59,7 @@ _Type: Concepts_
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
 
-**[00:31:54](/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-49)**
+**[00:31:54](/episodes/ep-CMcktj3Egfo.md#ent-concept-land-grab-t-00-31-47)**
 > "It feels like these are land grabs and you should be allowed to think through that w..."
 
 </details>
@@ -87,7 +87,7 @@ _No relationships extracted yet._
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-04) (Accusation) **Candace Owens**: ["Turning Point Faith’s real-estate activity is connected to non-natural..."](/statements/statement-f47f1d47dfa9.md)
+- [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) (Accusation) **Candace Owens**: ["Candace Owens suggested that Turning Point Faith's real-estate activit..."](/statements/statement-f47f1d47dfa9.md)
   - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md)
 
 </details>

@@ -28,10 +28,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-37) 
+**Timestamp:** [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1269);return false;">Play</a>
 
-> He serves on the ADL task force.
+> He serves on the ADL task force. He received the Medal of Valor from the Simon Wiesenthal Center.
 
 ## Verification
 

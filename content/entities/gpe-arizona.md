@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 252 mentions"
+description: "Arizona (Places) - 257 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -22,10 +22,10 @@ Source: [State of Arizona official website](https://az.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-arizona-t-00-48-33">2026-08-04 · 00:48:57</a></strong></div>
-<div><span>Episodes</span><strong>71</strong></div>
-<div><span>Mentions</span><strong>252</strong></div>
+<div><span>Episodes</span><strong>72</strong></div>
+<div><span>Mentions</span><strong>257</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -56,6 +56,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19" style="--pulse-height:11%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-arizona-t-00-48-17" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20" style="--pulse-height:84%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 16 mentions" title="2026-01-06 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-21" style="--pulse-height:26%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-27" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31" style="--pulse-height:21%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
@@ -132,6 +133,7 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-arizona-t-00-48-17) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20) | 16 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-21) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-27) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31) | 4 |
@@ -188,7 +190,7 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (252)</strong></summary>
+<summary><strong class="section-title">Raw mentions (257)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (4 mentions)</summary>
@@ -982,6 +984,26 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (5 mentions)</summary>
+
+**[00:01:29](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-21)**
+> "...been sentenced for a crime in Arizona."
+
+**[00:48:11](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-47-59)**
+> "...ler Bowyer)'s got his hand in Arizona politics."
+
+**[00:48:53](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-48-41)**
+> "...o questioned the integrity of Arizona's elections and served as a leader for the conserva..."
+
+**[00:49:33](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-49-24)**
+> "Smith represented an Arizona House district in the Phoenix suburbs for one ter..."
+
+**[00:49:43](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-49-24)**
+> "...h has become a major force in Arizona Republican politics."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (16 mentions)</summary>
 
 **[00:25:52](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20)**
@@ -1460,7 +1482,7 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Arizona (20)</strong></summary>
+<summary><strong class="section-title">Statements about Arizona (22)</strong></summary>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
@@ -1558,6 +1580,17 @@ Source: [State of Arizona official website](https://az.gov/)
 
 - [01:02:45](/episodes/ep-9naMwS0kMBE.md#t-01-02-36) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk learned Charlie Kirk was dead before her plane left Arizona..."](/statements/statement-ec2009b15dd4.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
+
+- [00:01:31](/episodes/ep-zSKrxIUMNqw.md#t-00-01-21) (Claim) **Candace Owens**: ["A former Turning Point Action employee was sentenced for a crime in Ar..."](/statements/statement-357b8882a56a.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Austin Smith](/entities/person-austin-smith.md)
+
+- [00:49:43](/episodes/ep-zSKrxIUMNqw.md#t-00-49-24) (Claim) **The Associated Press** (via quoted article): ["Turning Point Action is the campaign arm of Turning Point USA and a ma..."](/statements/statement-eda0bd04b008.md)
+  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

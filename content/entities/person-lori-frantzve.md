@@ -26,7 +26,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <div><span>Episodes</span><strong>29</strong></div>
 <div><span>Mentions</span><strong>232</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>100</strong></div>
+<div><span>Statements about</span><strong>101</strong></div>
 <div><span>Relationships</span><strong>51</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -1463,7 +1463,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lori Frantzve (100)</strong></summary>
+<summary><strong class="section-title">Statements about Lori Frantzve (101)</strong></summary>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2)</summary>
@@ -1826,7 +1826,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2)</summary>
+
+- [00:10:55](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) (Claim) **Candace Owens**: ["Lori Frantzve established the Everyday Heroes foundation, from which t..."](/statements/statement-131c88f72f66.md)
+  - Also about: [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md), [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Romania](/entities/gpe-romania.md)
 
 - [00:12:01](/episodes/ep-wcD2khO3rOA.md#t-00-11-27) (Claim) **Candace Owens**: ["There are no reports that Erika Kirk or Lori Frantzve participated in ..."](/statements/statement-b59d7472db95.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Otto Busher III](/entities/person-otto-busher-iii.md)

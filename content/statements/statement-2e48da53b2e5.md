@@ -30,7 +30,7 @@ veracity: "mixed"
 **Timestamp:** [00:11:58](/episodes/ep-CMcktj3Egfo.md#t-00-11-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(718);return false;">Play</a>
 
-> the Moonies cult was riddled with claims of sexual rituals,
+> the Moonies cult was riddled with claims of sexual rituals, physical and psychological abuse, and of course, as we've covered already, financial corruption.
 
 ## Verification
 

@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (10 mentions)
+### Evidence (11 mentions)
 
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
@@ -20,6 +20,10 @@ object: "person-candace-owens"
 **[A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ)**
 
 - [00:43:16](/episodes/ep-AoYZel7_cGQ#t-00-43-16): _he's betraying him every single day when he tells lies about who Charlie (Charlie Kirk) is who Charlie (Charlie Kirk) was and what Charlie (Charlie Kirk) was going through_
+
+**[American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo)**
+
+- [00:08:03](/episodes/ep-CMcktj3Egfo#t-00-08-03): _Andrew Kolvet never answered. Last time Andrew Kolvet and I spoke. Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed._
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 

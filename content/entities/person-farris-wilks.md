@@ -99,7 +99,7 @@ Source: [Schedule 13D — Dan Wilks, Farris Wilks, and Wilks Brothers](https://w
 - **[Dan Wilks](/entities/person-dan-wilks.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:21:48](/episodes/ep-wcD2khO3rOA.md#t-01-21-22): “You have to look at Farris and Dan Wilks”
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:22:35](/episodes/ep-wcD2khO3rOA.md#t-01-22-35): “I just had a dream that we have to look into the Wilks brothers.”
 
 </details>
 

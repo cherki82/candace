@@ -1,6 +1,6 @@
 ---
-title: "Jerry Falwell Sr. personally took photographs of girls at th..."
-description: "\"Jerry Falwell Sr. personally took photographs of girls at the Liberty Godparent Home.\" — Anonymous Source #1 (Ep wcD2khO3rOA)"
+title: "The survivor said Jerry Falwell Sr. personally took photogra..."
+description: "\"The survivor said Jerry Falwell Sr. personally took photographs of girls at the Liberty Godparent Home.\" — Anonymous Source #1 (Ep wcD2khO3rOA)"
 statement_id: "statement-eb0f128f2a49"
 speaker: "Anonymous Source #1 (Ep wcD2khO3rOA)"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> Jerry Falwell Sr. personally took photographs of girls at the Liberty Godparent Home.
+> The survivor said Jerry Falwell Sr. personally took photographs of girls at the Liberty Godparent Home.
 
 ## Attribution
 
@@ -32,7 +32,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:25:00](/episodes/ep-wcD2khO3rOA.md#t-00-24-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1500);return false;">Play</a>
 
-> Falwell Senior, senior... yeah they um I remember him and his wife there
+> Falwell Senior, senior. ... But Jerry Falwell Sr. was the one actually taking the photos? ... yeah they um I remember him and his wife there
 
 ## Verification
 

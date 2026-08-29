@@ -5,11 +5,19 @@ id: "org-international-fellowship-christians-jews"
 type: "ORG"
 aliases:
   - "International Fellowship of Christians & Jews"
+categories:
+  - "interfaith nonprofit"
 ---
 
 _Type: Organizations_
 
 **Also known as:** International Fellowship of Christians & Jews
+
+**Categories:** interfaith nonprofit
+
+**Entity verification:** verified
+> The organization's official site confirms the canonical name and interfaith nonprofit mission.
+Source: [About IFCJ](https://www.ifcj.org/who-we-are/about-ifcj)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-international-fellowship-christians-jews-t-00-59-47">2026-01-09 · 00:59:47</a></strong></div>

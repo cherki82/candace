@@ -3,9 +3,17 @@ title: "Central America"
 description: "Central America (Places) - 2 mentions"
 id: "gpe-central-america"
 type: "GPE"
+categories:
+  - "geographic region"
 ---
 
 _Type: Places_
+
+**Categories:** geographic region
+
+**Entity verification:** verified
+> Standard geographic reference confirms Central America as the region named in the source.
+Source: [Central America | Britannica](https://www.britannica.com/place/Central-America)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-central-america-t-00-48-52">2026-01-09 · 00:49:21</a></strong></div>
@@ -64,7 +72,7 @@ _No relationships extracted yet._
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:49:16](/episodes/ep-wcD2khO3rOA.md#t-00-48-52) (Accusation) **Candace Owens** (via read message): ["Sun Myung Moon used the Unification Church and affiliated organization..."](/statements/statement-ded6a2903d80.md)
+- [00:49:16](/episodes/ep-wcD2khO3rOA.md#t-00-48-52) (Accusation) **Anonymous Source #4 (Ep wcD2khO3rOA)** (via read message): ["Sun Myung Moon used the Unification Church and affiliated organization..."](/statements/statement-ded6a2903d80.md)
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md), [The Washington Times](/entities/org-washington-times.md)
 
 </details>

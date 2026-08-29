@@ -27,10 +27,10 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-47) 
+**Timestamp:** [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(483);return false;">Play</a>
 
-> And Andrew Kolvet never answered.
+> this is the text just sharing with you so you guys know if this all really happened. ... And Andrew Kolvet never answered.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "AmericaFest 2025"
-description: "AmericaFest 2025 (Events) - 37 mentions"
+description: "AmericaFest 2025 (Events) - 42 mentions"
 id: "event-americafest-2025"
 type: "EVENT"
 aliases:
@@ -26,11 +26,11 @@ Source: [AmericaFest](https://www.amfest.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04">2026-01-05 · 00:02:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-13-59">2026-07-23 · 00:14:19</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 <p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 10 mentions" title="2026-01-05 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-05-57" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-event-americafest-2025-t-00-38-25" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-08-57" style="--pulse-height:30%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-event-americafest-2025-t-00-22-00" style="--pulse-height:10%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -60,6 +61,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04) | 10 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-05-57) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-event-americafest-2025-t-00-38-25) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-08-57) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-event-americafest-2025-t-00-22-00) | 1 |
@@ -82,7 +84,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -215,7 +217,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 **[00:08:57](/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-08-57)**
 > "...d of, I want to say, ahead of AmFest—yeah, the notorious AmFest that Tucker spoke at. ..."
 
-**[00:14:49](/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-14-18)**
+**[00:14:49](/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-14-25)**
 > "... that I got as I was watching Amfest and this tent and like the microphone and like pu..."
 
 **[00:40:10](/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-39-38)**
@@ -231,6 +233,26 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 **[01:09:19](/episodes/ep-wcD2khO3rOA.md#ent-event-americafest-2025-t-01-09-10)**
 > "...rizona at Turning Point USA's AmFest. Asia correspondent Lucille Talusan spoke with hi..."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (5 mentions)</summary>
+
+**[00:05:57](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-05-57)**
+> "a speaking slot at AmFest, hitting the stage just after Erika Kirk opened, ..."
+
+**[00:06:43](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-06-43)**
+> "...after Ben Shapiro's speech at AmFest, a producer from The Daily Wire who has been noth..."
+
+**[00:09:39](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-09-23)**
+> "... wanted sent around following AmFest."
+
+**[00:17:48](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-17-38)**
+> "...most, telling the audience at AmFest in response to Ben Shapiro screaming about everyb..."
+
+**[00:29:44](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-29-18)**
+> "what he did after AmFest, make a show, anything,"
 
 </details>
 
@@ -275,40 +297,74 @@ Source: [AmericaFest](https://www.amfest.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Hosted Speaker (2)</summary>
+<summary>Hosted Speaker (4)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:15:30](/episodes/ep-ti5Fxrvegno.md#t-00-15-04): “Erika (Erika Kirk) allowing Ben Shapiro to open at AmFest behind her.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:04](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December”
 
 </details>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:02](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “So take a listen to what Steve Bannon said at AmFest last December about Ben (Ben Shapiro).”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:17:48](/episodes/ep-zSKrxIUMNqw.md#t-00-17-38): “It's a clip of Steve Bannon, first and foremost, telling the audience at AmFest in response to Ben Shapiro screaming about everybody.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-57): “the notorious AmFest that Tucker spoke at.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** spoke at this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:15:30](/episodes/ep-ti5Fxrvegno.md#t-00-15-04): “Erika (Erika Kirk) allowing Ben Shapiro to open at AmFest behind her.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:04](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December”
 
 </details>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** spoke at this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:02](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “So take a listen to what Steve Bannon said at AmFest last December about Ben (Ben Shapiro).”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:17:48](/episodes/ep-zSKrxIUMNqw.md#t-00-17-38): “It's a clip of Steve Bannon, first and foremost, telling the audience at AmFest in response to Ben Shapiro screaming about everybody.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-57): “the notorious AmFest that Tucker spoke at.”
 
 </details>
 
@@ -317,7 +373,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about AmericaFest 2025 (12)</strong></summary>
+<summary><strong class="section-title">Statements about AmericaFest 2025 (14)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -384,7 +440,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
 
-- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-31) (Claim) **Candace Owens**: ["Andrew Kolvet once called Candace Owens before AmericaFest and serious..."](/statements/statement-b6524823ffb8.md)
+- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-29) (Claim) **Candace Owens**: ["Andrew Kolvet once called Candace Owens before AmericaFest and serious..."](/statements/statement-b6524823ffb8.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md), [Witchcraft](/entities/concept-witchcraft.md)
 
 - [00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38) (Claim) **Megyn Kelly** (via quoted speech): ["Megyn Kelly said Ben Shapiro called her a coward at AmericaFest after ..."](/statements/statement-1ce5250cf0c5.md)
@@ -397,6 +453,17 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 - [00:38:45](/episodes/ep-wcD2khO3rOA.md#t-00-38-25) (Opinion) **Candace Owens**: ["AmericaFest felt spiritually dark and centered on money and on turning..."](/statements/statement-4cd3f81ba1dc.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
+
+- [00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro paid for a prime AmericaFest speaking slot after Erika Kir..."](/statements/statement-e71af1266a9d.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:06:43](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57) (Claim) **Maggie Wegner** (via read message): ["A Daily Wire producer contacted Maggie Wegner about auditioning for a ..."](/statements/statement-2343c09ee5ca.md)
+  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
 

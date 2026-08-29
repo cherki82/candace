@@ -3,9 +3,17 @@ title: "International Coalition for Religious Freedom"
 description: "International Coalition for Religious Freedom (Organizations) - 1 mention"
 id: "org-international-coalition-religious-freedom"
 type: "ORG"
+categories:
+  - "religious freedom advocacy organization"
 ---
 
 _Type: Organizations_
+
+**Categories:** religious freedom advocacy organization
+
+**Entity verification:** verified
+> The quoted Washington Post article directly names the International Coalition for Religious Freedom.
+Source: [A Church in Flux Is Flush With Cash | The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-international-coalition-religious-freedom-t-01-00-27">2026-01-09 · 01:00:52</a></strong></div>

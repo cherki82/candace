@@ -19,7 +19,7 @@ Source: [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-thomas-jefferson-t-00-01-47">2025-11-21 · 00:01:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-thomas-jefferson-t-00-35-24">2026-01-12 · 00:35:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-thomas-jefferson-t-00-35-18">2026-01-12 · 00:35:27</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,14 +33,14 @@ Source: [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)
 <p>Highest activity: <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-thomas-jefferson-t-00-01-47">Operation: “See you in Valhalla, Charlie”. | Candace Ep 270</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-thomas-jefferson-t-00-01-47" style="--pulse-height:100%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-thomas-jefferson-t-00-35-24" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-thomas-jefferson-t-00-35-18" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-thomas-jefferson-t-00-01-47) | 1 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-thomas-jefferson-t-00-35-24) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-thomas-jefferson-t-00-35-18) | 1 |
 
 </details>
 </section>
@@ -53,7 +53,7 @@ Source: [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
 
-**[00:35:27](/episodes/ep-CMcktj3Egfo.md#ent-person-thomas-jefferson-t-00-35-24)**
+**[00:35:27](/episodes/ep-CMcktj3Egfo.md#ent-person-thomas-jefferson-t-00-35-18)**
 > "...eft tears down the statues of Thomas Jefferson."
 
 </details>

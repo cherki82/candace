@@ -28,7 +28,7 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:37:43](/episodes/ep-CMcktj3Egfo.md#t-00-37-22) 
+**Timestamp:** [00:37:43](/episodes/ep-CMcktj3Egfo.md#t-00-37-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2263);return false;">Play</a>
 
 > That they choose to cover up the crimes of Jeffrey Epstein while pretending that speech in America is what's actually radical,

@@ -11,6 +11,10 @@ _Type: Events_
 
 **Categories:** United States military history
 
+**Entity verification:** verified
+> The U.S. Army Center of Military History uses Vietnam War as the canonical conflict name in its conflict research collection.
+Source: [Vietnam War | U.S. Army Center of Military History](https://history.army.mil/Research/Research-by-Conflict-and-Time-Period/Vietnam-War/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-event-vietnam-war-t-00-53-29">2025-11-13 · 00:53:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-57-17">2026-01-29 · 00:57:21</a></strong></div>

@@ -1,6 +1,6 @@
 ---
 title: "Japan"
-description: "Japan (Places) - 24 mentions"
+description: "Japan (Places) - 23 mentions"
 id: "gpe-japan"
 type: "GPE"
 aliases:
@@ -24,7 +24,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48">2025-11-06 · 00:46:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-japan-t-00-20-04">2026-08-03 · 00:20:15</a></strong></div>
 <div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,7 +38,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48" style="--pulse-height:60%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 3 mentions" title="2025-11-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00" style="--pulse-height:80%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-12-09" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-11-58" style="--pulse-height:80%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-13" style="--pulse-height:40%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-japan-t-00-08-25" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-japan-t-00-26-28" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48) | 3 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40) | 5 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-12-09) | 5 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-11-58) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-13) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-japan-t-00-08-25) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-japan-t-00-26-28) | 1 |
@@ -67,7 +67,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -121,21 +121,18 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4 mentions)</summary>
 
-**[00:12:09](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-12-09)**
+**[00:12:09](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-11-58)**
 > "... a political assassination in Japan."
 
-**[00:12:18](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-12-09)**
+**[00:12:18](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-11-58)**
 > "Let's go back to 2022 in Japan because I'll tell you the reason behind this assa..."
 
-**[00:13:06](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-12-51)**
-> "...tion of the prime minister of Japan. The prime minister, do you remember him,"
-
-**[00:13:20](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-12-51)**
+**[00:13:20](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-13-06)**
 > "...he longtime prime minister of Japan. He was shot and he was killed because a 41-year-..."
 
-**[00:13:58](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-13-34)**
+**[00:13:58](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-13-45)**
 > "Their membership in Japan's parliament either accepted donations or attended ..."
 
 </details>
@@ -214,7 +211,7 @@ _No relationships extracted yet._
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:13:49](/episodes/ep-CMcktj3Egfo.md#t-00-13-34) (Citation) **The New York Times** (via quoted article): ["A Liberal Democratic Party audit found that about 180 elected lawmaker..."](/statements/statement-bc1296aa48ae.md)
+- [00:13:49](/episodes/ep-CMcktj3Egfo.md#t-00-13-45) (Citation) **The New York Times** (via quoted article): ["A Liberal Democratic Party audit found that about 180 elected lawmaker..."](/statements/statement-bc1296aa48ae.md)
   - Also about: [Liberal Democratic Party of Japan](/entities/org-liberal-democratic-party-japan.md), [Unification Church](/entities/org-unification-church.md)
 
 </details>
@@ -225,7 +222,7 @@ _No relationships extracted yet._
 - [00:55:51](/episodes/ep-wcD2khO3rOA.md#t-00-55-40) (Claim) **The Washington Post** (via quoted article): ["Money from Japan and Korea funded Moon-affiliated U.S. operations, but..."](/statements/statement-29a1b0212d1b.md)
   - Also about: [Unification Church](/entities/org-unification-church.md), [South Korea](/entities/gpe-south-korea.md)
 
-- [01:04:32](/episodes/ep-wcD2khO3rOA.md#t-01-04-08) (Accusation) **Candace Owens**: ["Charlie Kirk’s trips to Korea and Japan were not principally about def..."](/statements/statement-91dcd3094221.md)
+- [01:04:32](/episodes/ep-wcD2khO3rOA.md#t-01-04-08) (Opinion) **Candace Owens**: ["Owens said she did not think Charlie Kirk's trips to Korea and Japan w..."](/statements/statement-91dcd3094221.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [South Korea](/entities/gpe-south-korea.md)
 
 </details>

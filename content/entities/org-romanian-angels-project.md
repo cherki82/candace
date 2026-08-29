@@ -27,7 +27,7 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 <div><span>Episodes</span><strong>11</strong></div>
 <div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -334,7 +334,7 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Romanian Angels Project (5)</strong></summary>
+<summary><strong class="section-title">Statements about Romanian Angels Project (6)</strong></summary>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2)</summary>
@@ -364,7 +364,10 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2)</summary>
+
+- [00:10:55](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) (Claim) **Candace Owens**: ["Lori Frantzve established the Everyday Heroes foundation, from which t..."](/statements/statement-131c88f72f66.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md), [Romania](/entities/gpe-romania.md)
 
 - [00:11:27](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) (Accusation) **Candace Owens**: ["The Romanian Angels Project worked with Colonel Otto Busher III, who w..."](/statements/statement-254404111778.md)
   - Also about: [Otto Busher III](/entities/person-otto-busher-iii.md), [Romania](/entities/gpe-romania.md)

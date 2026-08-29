@@ -24,7 +24,17 @@ type: "promise"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
+
+**Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
+**Timestamp:** [00:46:45](/episodes/ep-zSKrxIUMNqw.md#t-00-46-39) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2805);return false;">Play</a>
+
+> I'm trying to get to the bottom of who killed Charlie Kirk. And I intend to do that. I'm trying to get to the bottom of what the hell this situation has to do with Ben Shapiro. And I intend to do that.
+
+### 2. Candace x Bassem Youssef | Candace Ep 298
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
 **Timestamp:** [01:44:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) 

@@ -23,7 +23,7 @@ Source: [Dennis Prager | PragerU](https://www.prageru.com/presenters/dennis-prag
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -94,7 +94,26 @@ Source: [Dennis Prager | PragerU](https://www.prageru.com/presenters/dennis-prag
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Criticized (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:09:30](/episodes/ep-CMcktj3Egfo.md#t-00-09-30): “Dennis Prager, who had just written this open article about me, and it was not done in a very nice way”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:09:30](/episodes/ep-CMcktj3Egfo.md#t-00-09-30): “Dennis Prager, who had just written this open article about me, and it was not done in a very nice way”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

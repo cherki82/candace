@@ -5,11 +5,15 @@ id: "concept-operation-mocking-pastor"
 type: "CONCEPT"
 aliases:
   - "Operation Mockingpastor"
+categories:
+  - "media influence concept"
 ---
 
 _Type: Concepts_
 
 **Also known as:** Operation Mockingpastor
+
+**Categories:** media influence concept
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-operation-mocking-pastor-t-00-35-39">2025-09-23 · 00:35:55</a></strong></div>

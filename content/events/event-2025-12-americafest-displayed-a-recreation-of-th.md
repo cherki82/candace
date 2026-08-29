@@ -24,7 +24,7 @@ date: "2025-12"
 ### 2. American Horror Story: Charlie Kirk’s “Shining” Disciples. |...
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:14:49](/episodes/ep-CMcktj3Egfo.md#event-event-2025-12-americafest-displayed-a-recreation-of-th-t-00-14-18) 
+**Timestamp:** [00:14:49](/episodes/ep-CMcktj3Egfo.md#event-event-2025-12-americafest-displayed-a-recreation-of-th-t-00-14-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(889);return false;">▶️ Play</a>
 
 > that is exactly the strand of ick that I got as I was watching Amfest and this tent and like the

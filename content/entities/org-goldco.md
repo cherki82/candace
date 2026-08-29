@@ -1,6 +1,6 @@
 ---
 title: "Goldco"
-description: "Goldco (Organizations) - 18 mentions"
+description: "Goldco (Organizations) - 20 mentions"
 id: "org-goldco"
 type: "ORG"
 aliases:
@@ -23,8 +23,8 @@ Source: [About Goldco](https://goldco.com/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48">2025-10-01 · 00:23:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-goldco-t-00-21-14">2026-05-11 · 00:21:31</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
@@ -36,6 +36,7 @@ Source: [About Goldco](https://goldco.com/about/)
 <p>Highest activity: <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48">BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48" style="--pulse-height:100%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 3 mentions" title="2025-10-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-goldco-t-00-39-53" style="--pulse-height:67%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-goldco-t-00-32-47" style="--pulse-height:67%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-goldco-t-00-21-32" style="--pulse-height:67%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-goldco-t-00-23-46" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
@@ -51,6 +52,7 @@ Source: [About Goldco](https://goldco.com/about/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-goldco-t-00-23-48) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-goldco-t-00-39-53) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-goldco-t-00-32-47) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-goldco-t-00-21-32) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-goldco-t-00-23-46) | 3 |
@@ -67,7 +69,7 @@ Source: [About Goldco](https://goldco.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1 mentions)</summary>
@@ -156,6 +158,17 @@ Source: [About Goldco](https://goldco.com/about/)
 
 **[00:33:16](/episodes/ep-X92MllIHDzw.md#ent-org-goldco-t-00-32-47)**
 > "Goldco. They have helped tens of thousands of Americans ..."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2 mentions)</summary>
+
+**[00:40:09](/episodes/ep-wcD2khO3rOA.md#ent-org-goldco-t-00-39-53)**
+> "which is Goldco."
+
+**[00:40:17](/episodes/ep-wcD2khO3rOA.md#ent-org-goldco-t-00-39-53)**
+> "Goldco specializes in helping people protect their savin..."
 
 </details>
 

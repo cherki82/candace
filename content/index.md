@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>158 sources</strong> · processed through <time datetime="2026-08-21">2026-08-21</time> · generated <time datetime="2026-08-28">2026-08-28</time></p>
+<p class="kg-freshness"><strong>159 sources</strong> · processed through <time datetime="2026-08-21">2026-08-21</time> · generated <time datetime="2026-08-28">2026-08-28</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>6,837</strong><span>Claims &amp; statements</span></div>
-<div><strong>3,970</strong><span>Tracked entities</span></div>
-<div><strong>1,680</strong><span>Timeline events</span></div>
-<div><strong>2,671</strong><span>Research sources</span></div>
+<div><strong>6,902</strong><span>Claims &amp; statements</span></div>
+<div><strong>4,023</strong><span>Tracked entities</span></div>
+<div><strong>1,703</strong><span>Timeline events</span></div>
+<div><strong>2,708</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -69,33 +69,33 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="verification-feed">
 <article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-4bba71d4d586">Military personnel called Mitch Snow&#x27;s son on September 9, asked whether he knew Mitch Snow, and said he was listed as Mitch&#x27;s primary emergency contact.</a>
-<small>You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</small>
+<a href="/statements/statement-1b0c9fa3365f">Owens said Turning Point Faith held a pastor summit led by Rob McCoy and Sean Feucht.</a>
+<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-6a02934cd870">Andrew Kolvet was communicating behind the scenes with Paramount Tactical during its livestream.</a>
-<small>You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</small>
+<a href="/statements/statement-6dd328c8876c">The Washington Post reported that Moon&#x27;s American Freedom Coalition built support for Oliver North during the Iran-Contra probe with about $5 million and personnel supplied by Unificationists.</a>
+<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-dd41a700aabe">The Washington Post reported that a 1978 congressional investigation concluded the Unification Church and Moon&#x27;s other religious and secular organizations formed one international organization that moved money freely among its entities.</a>
+<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
 </article>
 <article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-fc3bddc16a7c">Candace Owens said The Daily Wire was trying to launch a show titled &#x27;In the Know&#x27; on Owens&#x27;s old social accounts with Madison Bransford, whom Owens described as apparently a Daily Wire intern, and said the show would make fun of Owens.</a>
-<small>You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</small>
+<a href="/statements/statement-131c88f72f66">Lori Frantzve established the Everyday Heroes foundation, from which the Romanian Angels Project emerged to work with the military in Romania helping orphans.</a>
+<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-e7a6e05acf90">Pope Leo XIV said the Gospel&#x27;s message is &quot;blessed are the peacemakers&quot; and that he would continue speaking against war and promoting peace, dialogue, and just solutions.</a>
-<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
+<a href="/statements/statement-c02c1d9f9d24">Owens said the aircraft later known as N888KG was registered in Romania from 2013 to 2015.</a>
+<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-cd30c664e00a">Candace Owens said Catholics cannot support Donald Trump in this moment.</a>
-<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-ecb6b851885c">Candace Owens said Donald Trump is not a Christian and that the Catholic Church should respond forcefully to the comparison of Trump with Jesus Christ.</a>
-<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
+<a href="/statements/statement-7617a96d8f2d">Ben Shapiro is like a cancer that spreads and metastasizes.</a>
+<small>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</small>
 </article>
 </div>
 

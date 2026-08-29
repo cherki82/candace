@@ -1,6 +1,6 @@
 ---
-title: "A Liberty University insider said Jerry Falwell Jr. was unfa..."
-description: "\"A Liberty University insider said Jerry Falwell Jr. was unfairly removed from leadership.\" — Anonymous Source #2 (Ep CMcktj3Egfo)"
+title: "A Liberty University insider allegedly said Jerry Falwell Jr..."
+description: "\"A Liberty University insider allegedly said Jerry Falwell Jr. was unfairly removed from leadership.\" — Anonymous Source #2 (Ep CMcktj3Egfo)"
 statement_id: "statement-79ad008ba250"
 speaker: "Anonymous Source #2 (Ep CMcktj3Egfo)"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> A Liberty University insider said Jerry Falwell Jr. was unfairly removed from leadership.
+> A Liberty University insider allegedly said Jerry Falwell Jr. was unfairly removed from leadership.
 
 ## Attribution
 
@@ -28,10 +28,10 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:15:44](/episodes/ep-CMcktj3Egfo.md#t-00-15-01) 
+**Timestamp:** [00:15:44](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(944);return false;">Play</a>
 
-> allegedly, they told me that Jerry Falwell Jr.
+> And I will say allegedly here, allegedly, they told me that Jerry Falwell Jr. ... Was also taken down, unfairly taken down is what they said.
 
 ## Verification
 

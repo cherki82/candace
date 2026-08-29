@@ -1,6 +1,6 @@
 ---
 title: "Rome"
-description: "Rome (Places) - 16 mentions"
+description: "Rome (Places) - 17 mentions"
 id: "gpe-rome"
 type: "GPE"
 categories:
@@ -18,10 +18,10 @@ _Type: Places_
 Source: [Roma Capitale](https://www.comune.roma.it/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-39">2026-01-19 · 00:38:39</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-rome-t-00-34-49">2026-01-07 · 00:34:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-rome-t-00-59-08">2026-05-04 · 00:59:08</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ Source: [Roma Capitale](https://www.comune.roma.it/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-rome-t-01-02-28">TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-rome-t-00-34-49" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-39" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-rome-t-00-20-03" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-rome-t-00-23-33" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
@@ -46,6 +47,7 @@ Source: [Roma Capitale](https://www.comune.roma.it/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-rome-t-00-34-49) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-39) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-rome-t-00-20-03) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-rome-t-00-23-33) | 1 |
@@ -62,7 +64,7 @@ Source: [Roma Capitale](https://www.comune.roma.it/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>
@@ -154,6 +156,14 @@ Source: [Roma Capitale](https://www.comune.roma.it/)
 
 **[00:38:39](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-39)**
 > "Pontifical Universities in Rome"
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
+
+**[00:34:49](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-rome-t-00-34-49)**
+> "...he pontifical universities in Rome."
 
 </details>
 

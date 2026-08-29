@@ -31,7 +31,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:04:49](/episodes/ep-CMcktj3Egfo.md#t-00-04-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(289);return false;">Play</a>
 
-> Back in 2018,
+> Back in 2018, Charlie and I went to Israel together.
 
 ## Verification
 

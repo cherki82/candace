@@ -6,15 +6,19 @@ type: "PERSON"
 aliases:
   - "TJ Raphael"
   - "Raphael"
+categories:
+  - "investigative journalist"
 ---
 
 _Type: People_
 
 **Also known as:** TJ Raphael, Raphael
 
+**Categories:** investigative journalist
+
 **Entity verification:** verified
-> Official podcast listing identifies T. J. Raphael as host and reporter.
-Source: [Liberty Lost - Apple Podcasts](https://podcasts.apple.com/us/podcast/liberty-lost/id1815337795)
+> VPM identifies T. J. Raphael as the journalist behind the Liberty Lost podcast.
+Source: ['Liberty Lost' podcast alleges program coerced pregnant teens into adoption | VPM](https://www.vpm.org/news/2025-08-12/liberty-lost-tj-raphael-maternity-home-family-life-services-adoption/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tj-raphael-t-00-37-25">2026-01-09 · 00:37:25</a></strong></div>

@@ -1,6 +1,6 @@
 ---
 title: "Jerry Falwell Sr."
-description: "Jerry Falwell Sr. (People) - 15 mentions"
+description: "Jerry Falwell Sr. (People) - 14 mentions"
 id: "person-jerry-falwell-sr"
 type: "PERSON"
 aliases:
@@ -8,23 +8,28 @@ aliases:
   - "Reverend Jerry Falwell"
   - "Rev. Jerry Falwell"
   - "Falwell Senior"
+categories:
+  - "evangelical leadership"
 ---
 
 _Type: People_
 
 **Also known as:** Jerry Falwell Sr, Reverend Jerry Falwell, Rev. Jerry Falwell, Falwell Senior
 
+**Categories:** evangelical leadership
+
 **Entity verification:** verified
-> Liberty University founder discussed extensively.
+> Liberty University's founder biography confirms the canonical name and institutional role.
+Source: [Dr. Jerry Falwell – Biography | Liberty University](https://www.liberty.edu/about/founder-jerry-falwell-senior/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-00">2026-01-09 · 00:25:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-24-41">2026-01-12 · 00:24:41</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,14 +38,14 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-00">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-00" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 10 mentions" title="2026-01-09 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-10-58" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-10-50" style="--pulse-height:40%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-sr-t-00-25-00) | 10 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-10-58) | 5 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-10-50) | 4 |
 
 </details>
 </section>
@@ -48,18 +53,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4 mentions)</summary>
 
-**[00:11:20](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-10-58)**
+**[00:11:20](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-10-50)**
 > "...d with Liberty University via Jerry Falwell Sr."
 
-**[00:17:03](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-16-29)**
-> "...he church and the school when Jerry Falwell Sr."
-
-**[00:17:09](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-17-09)**
+**[00:17:09](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-17-03)**
 > "...tors who made a fortune while Jerry Falwell Sr. was alive did not like that."
 
 **[00:23:37](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-sr-t-00-23-16)**
@@ -123,7 +125,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Founded (1)</summary>
+<summary>Founded (2)</summary>
 
 - **[Liberty Godparent Home](/entities/org-liberty-godparent-home.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -132,15 +134,29 @@ _Type: People_
 
 </details>
 
+- **[Liberty University](/entities/org-liberty-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:23:32](/episodes/ep-CMcktj3Egfo.md#t-00-23-16): “Johnnie Moore was only 14 when he first stayed in the dorms at Liberty University. And since then, he's pretty much remained at the school that Jerry Falwell Sr. founded 41 years ago in Lynchburg, Virginia.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Liberty Godparent Home](/entities/org-liberty-godparent-home.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:35:30](/episodes/ep-wcD2khO3rOA.md#t-00-35-25): “The maternity home was founded by Jerry Falwell Sr.”
+
+</details>
+
+- **[Liberty University](/entities/org-liberty-university.md)** founded by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:23:32](/episodes/ep-CMcktj3Egfo.md#t-00-23-16): “Johnnie Moore was only 14 when he first stayed in the dorms at Liberty University. And since then, he's pretty much remained at the school that Jerry Falwell Sr. founded 41 years ago in Lynchburg, Virginia.”
 
 </details>
 
@@ -161,13 +177,13 @@ _Type: People_
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3)</summary>
 
-- [00:11:20](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) (Claim) **Candace Owens**: ["Sun Myung Moon became involved with Liberty University through Jerry F..."](/statements/statement-e84babb7fb49.md)
+- [00:11:20](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Claim) **Candace Owens**: ["Sun Myung Moon became involved with Liberty University through Jerry F..."](/statements/statement-e84babb7fb49.md)
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Liberty University](/entities/org-liberty-university.md)
 
-- [00:17:14](/episodes/ep-CMcktj3Egfo.md#t-00-17-09) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that pastors resented the school-..."](/statements/statement-8bf064474698.md)
+- [00:17:14](/episodes/ep-CMcktj3Egfo.md#t-00-17-03) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that pastors resented the school-..."](/statements/statement-8bf064474698.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md), [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md)
 
-- [00:24:28](/episodes/ep-CMcktj3Egfo.md#t-00-24-00) (Accusation) **Anonymous Source #3 (Ep CMcktj3Egfo)** (via paraphrase): ["A former schoolmate alleged that a male mentor bought new cars for Joh..."](/statements/statement-cb2342bc1b6d.md)
+- [00:24:28](/episodes/ep-CMcktj3Egfo.md#t-00-23-56) (Accusation) **Anonymous Source #3 (Ep CMcktj3Egfo)** (via paraphrase): ["A former schoolmate alleged that a male mentor bought new cars for Joh..."](/statements/statement-cb2342bc1b6d.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Ronald S. Godwin](/entities/person-ronald-s-godwin.md), [Liberty University](/entities/org-liberty-university.md)
 
 </details>
@@ -175,7 +191,7 @@ _Type: People_
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2)</summary>
 
-- [00:25:00](/episodes/ep-wcD2khO3rOA.md#t-00-24-56) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["Jerry Falwell Sr. personally took photographs of girls at the Liberty ..."](/statements/statement-eb0f128f2a49.md)
+- [00:25:00](/episodes/ep-wcD2khO3rOA.md#t-00-24-56) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["The survivor said Jerry Falwell Sr. personally took photographs of gir..."](/statements/statement-eb0f128f2a49.md)
   - Also about: [Liberty Godparent Home](/entities/org-liberty-godparent-home.md)
 
 - [00:47:09](/episodes/ep-wcD2khO3rOA.md#t-00-46-51) (Claim) **Candace Owens**: ["Menachem Begin gifted Jerry Falwell Sr. a Learjet in 1979."](/statements/statement-d9ecb61b898d.md)

@@ -15,9 +15,13 @@ _Type: Organizations_
 
 **Categories:** advocacy
 
+**Entity verification:** verified
+> The organization's official site confirms the canonical Simon Wiesenthal Center name and its international offices.
+Source: [Offices Worldwide | Simon Wiesenthal Center](https://www.wiesenthal.com/about/regional-offices/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-19-21">2025-10-28 · 00:19:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-simon-wiesenthal-center-t-00-20-37">2026-01-12 · 00:21:11</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-simon-wiesenthal-center-t-00-20-32">2026-01-12 · 00:21:11</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -31,14 +35,14 @@ _Type: Organizations_
 <p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-19-21">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-19-21" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-simon-wiesenthal-center-t-00-20-37" style="--pulse-height:25%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-simon-wiesenthal-center-t-00-20-32" style="--pulse-height:25%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-19-21) | 4 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-simon-wiesenthal-center-t-00-20-37) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-simon-wiesenthal-center-t-00-20-32) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,7 @@ _Type: Organizations_
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
 
-**[00:21:11](/episodes/ep-CMcktj3Egfo.md#ent-org-simon-wiesenthal-center-t-00-20-37)**
+**[00:21:11](/episodes/ep-CMcktj3Egfo.md#ent-org-simon-wiesenthal-center-t-00-20-32)**
 > "...d the Medal of Valor from the Simon Wiesenthal Center."
 
 </details>
@@ -88,7 +92,7 @@ _No relationships extracted yet._
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-37) (Claim) **Candace Owens**: ["Johnnie Moore serves on an Anti-Defamation League task force and recei..."](/statements/statement-84b00687125f.md)
+- [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-32) (Claim) **Candace Owens**: ["Johnnie Moore serves on an Anti-Defamation League task force and recei..."](/statements/statement-84b00687125f.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Anti-Defamation League](/entities/org-anti-defamation-league.md)
 
 </details>

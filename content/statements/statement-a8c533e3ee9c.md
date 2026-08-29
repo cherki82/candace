@@ -1,6 +1,6 @@
 ---
-title: "Turning Point Faith is intended to function as a second Unif..."
-description: "\"Turning Point Faith is intended to function as a second Unification movement and pursue one-world government through religious unification.\" — Candace Owens"
+title: "Candace Owens said Turning Point Faith was intended to be th..."
+description: "\"Candace Owens said Turning Point Faith was intended to be the Moonies 2.0 and said the Unification Church's intention had been one-world government th...\" — Candace Owens"
 statement_id: "statement-a8c533e3ee9c"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> Turning Point Faith is intended to function as a second Unification movement and pursue one-world government through religious unification.
+> Candace Owens said Turning Point Faith was intended to be the Moonies 2.0 and said the Unification Church's intention had been one-world government through religious unification.
 
 ## Attribution
 
@@ -28,10 +28,10 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-38) 
+**Timestamp:** [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1660);return false;">Play</a>
 
-> the organization is intended to be the Moonies 2.0, the intention behind the Moonies cult,
+> a turning point faith is problematic, the organization is intended to be the Moonies 2.0, the intention behind the Moonies cult, by the way, in case it's not clear to you. ... Was one world government achieved through the concept of a unification church?
 
 ## Verification
 

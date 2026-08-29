@@ -27,7 +27,7 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:08:41](/episodes/ep-CMcktj3Egfo.md#t-00-08-31) 
+**Timestamp:** [00:08:41](/episodes/ep-CMcktj3Egfo.md#t-00-08-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(521);return false;">Play</a>
 
 > what I can tell you now is that two people within Andrew's inner circle reached out to me and told me that I should look more into Andrew Kolvet,

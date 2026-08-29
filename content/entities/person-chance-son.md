@@ -3,13 +3,17 @@ title: "Chance Son"
 description: "Chance Son (People) - 0 mentions"
 id: "person-chance-son"
 type: "PERSON"
+categories:
+  - "religious freedom advocate"
 ---
 
 _Type: People_
 
+**Categories:** religious freedom advocate
+
 **Entity verification:** verified
-> CBN report identifies Chance Son and his AmericaFest appearance.
-Source: [Support Grows for Imprisoned Korean Pastor - CBN News](https://cbn.com/news/world/support-grows-imprisoned-korean-pastor-after-son-speaks-amfest)
+> CBN's report identifies Chance Son as Hyun-bo Son's son and the AMFEST speaker interviewed.
+Source: [Support Grows for Imprisoned Korean Pastor After Son Speaks at AMFEST | CBN News](https://cbn.com/news/world/support-grows-imprisoned-korean-pastor-after-son-speaks-amfest)
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
@@ -38,7 +42,7 @@ _No mentions recorded._
 - **[Hyun-bo Son](/entities/person-hyun-bo-son.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:09:19](/episodes/ep-wcD2khO3rOA.md#t-01-09-10): “when his son Chance spoke in Arizona at Turning Point USA’s AmFest.”
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:09:19](/episodes/ep-wcD2khO3rOA.md#t-01-09-10): “when his son Chance spoke in Arizona at Turning Point USA's AmFest.”
 
 </details>
 
@@ -69,7 +73,7 @@ _No mentions recorded._
 - **[Hyun-bo Son](/entities/person-hyun-bo-son.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:09:19](/episodes/ep-wcD2khO3rOA.md#t-01-09-10): “when his son Chance spoke in Arizona at Turning Point USA’s AmFest.”
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:09:19](/episodes/ep-wcD2khO3rOA.md#t-01-09-10): “when his son Chance spoke in Arizona at Turning Point USA's AmFest.”
 
 </details>
 

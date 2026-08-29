@@ -5,6 +5,26 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-28 22:19:00
+
+**Added 1 episode(s):**
+  - `zSKrxIUMNqw`: DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
+**Added 53 new entity/entities**
+**Added 25 new event(s)**
+**Removed 2 event(s)**
+**Added 67 new statement(s)**
+**Removed 2 statement(s)**
+**Added 77 new relationship(s)**
+
+**Totals:**
+- Episodes: 159
+- Entities: 4023
+- Events: 1703
+- Statements: 6903
+- Relationships: 4419
+
+---
+
 ## 2026-08-28 20:21:44
 
 **Added 15 episode(s):**

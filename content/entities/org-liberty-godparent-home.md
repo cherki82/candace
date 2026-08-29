@@ -6,11 +6,19 @@ type: "ORG"
 aliases:
   - "Godparent Home"
   - "Liberty Godparent Maternity Home"
+categories:
+  - "maternity home"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Godparent Home, Liberty Godparent Maternity Home
+
+**Categories:** maternity home
+
+**Entity verification:** verified
+> VPM identifies Liberty Godparent Home as a maternity home in Lynchburg and distinguishes it from Family Life Services.
+Source: ['Liberty Lost' podcast alleges program coerced pregnant teens into adoption | VPM](https://www.vpm.org/news/2025-08-12/liberty-lost-tj-raphael-maternity-home-family-life-services-adoption/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-godparent-home-t-00-24-11">2026-01-09 · 00:24:11</a></strong></div>
@@ -150,7 +158,7 @@ _Type: Organizations_
 
 - [00:24:11](/episodes/ep-wcD2khO3rOA.md#t-00-23-37) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["At the Liberty Godparent Home in about 1994, residents were locked in ..."](/statements/statement-4894d8c0d26d.md)
 
-- [00:25:00](/episodes/ep-wcD2khO3rOA.md#t-00-24-56) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["Jerry Falwell Sr. personally took photographs of girls at the Liberty ..."](/statements/statement-eb0f128f2a49.md)
+- [00:25:00](/episodes/ep-wcD2khO3rOA.md#t-00-24-56) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["The survivor said Jerry Falwell Sr. personally took photographs of gir..."](/statements/statement-eb0f128f2a49.md)
   - Also about: [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr.md)
 
 - [00:26:57](/episodes/ep-wcD2khO3rOA.md#t-00-26-51) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["The survivor was moved alone to another room after a normal fetal chec..."](/statements/statement-0e776e5ba3a9.md)
@@ -158,13 +166,13 @@ _Type: Organizations_
 - [00:28:59](/episodes/ep-wcD2khO3rOA.md#t-00-28-58) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["Staff at the Liberty Godparent Home coerced residents to surrender bab..."](/statements/statement-e8f167fa4ef3.md)
   - Also about: [Family Life Services Adoption Agency](/entities/org-family-life-services-adoption-agency.md)
 
-- [00:29:16](/episodes/ep-wcD2khO3rOA.md#t-00-28-59) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["The survivor repeatedly told the home she wanted to keep her baby but ..."](/statements/statement-c8024aa53d34.md)
+- [00:29:16](/episodes/ep-wcD2khO3rOA.md#t-00-28-59) (Accusation) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["The survivor said staff pressured her to choose an adoptive family or ..."](/statements/statement-c8024aa53d34.md)
 
 - [00:30:26](/episodes/ep-wcD2khO3rOA.md#t-00-30-19) (Claim) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via quoted speech): ["The survivor could not find herself in the Liberty Godparent Home’s cu..."](/statements/statement-510c6d8ce86f.md)
 
 - [00:31:50](/episodes/ep-wcD2khO3rOA.md#t-00-31-32) (Accusation) **Candace Owens** (via paraphrase): ["After the survivor refused adoption, the home told her the fetus had n..."](/statements/statement-2821f895aff7.md)
 
-- [00:33:15](/episodes/ep-wcD2khO3rOA.md#t-00-32-37) (Claim) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via paraphrase): ["Two years after leaving the home, the survivor unexpectedly received a..."](/statements/statement-d55f2798ca5d.md)
+- [00:33:15](/episodes/ep-wcD2khO3rOA.md#t-00-32-37) (Claim) **Candace Owens** (via paraphrase): ["Two years after leaving the home, the survivor unexpectedly received a..."](/statements/statement-d55f2798ca5d.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
 - [00:35:05](/episodes/ep-wcD2khO3rOA.md#t-00-34-45) (Accusation) **Rachel Branning** (via quoted speech): ["The Liberty Godparent Home was defending itself against allegations of..."](/statements/statement-f9ad9b0b75b0.md)

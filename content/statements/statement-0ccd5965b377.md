@@ -27,7 +27,7 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:24:17](/episodes/ep-CMcktj3Egfo.md#t-00-24-00) 
+**Timestamp:** [00:24:17](/episodes/ep-CMcktj3Egfo.md#t-00-23-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1457);return false;">Play</a>
 
 > He got caught with some porn magazines and was pretty badly made fun of. OK,

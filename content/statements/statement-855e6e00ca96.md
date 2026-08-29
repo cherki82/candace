@@ -1,6 +1,6 @@
 ---
-title: "George Zinn was associated with child-sex-abuse allegations ..."
-description: "\"George Zinn was associated with child-sex-abuse allegations and told hospital staff that he expected payment for claiming responsibility at the Charli...\" — Candace Owens"
+title: "Owens said George Zinn had child sexual abuse material on hi..."
+description: "\"Owens said George Zinn had child sexual abuse material on his phone and told hospital staff that he expected payment for claiming responsibility at th...\" — Candace Owens"
 statement_id: "statement-855e6e00ca96"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> George Zinn was associated with child-sex-abuse allegations and told hospital staff that he expected payment for claiming responsibility at the Charlie Kirk shooting scene.
+> Owens said George Zinn had child sexual abuse material on his phone and told hospital staff that he expected payment for claiming responsibility at the Charlie Kirk shooting scene.
 
 ## Attribution
 
@@ -32,7 +32,7 @@ veracity: "mixed"
 **Timestamp:** [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(938);return false;">Play</a>
 
-> he told people at the hospital that he was treated at that he would be paid if he did this
+> George Zinn was arrested and then it was determined that he had. ... had pornographic images that's our decoy boy of children on his phone and as i told you he told people at the hospital that he was treated at that he would be paid if he did this he didn't know where the money was coming from but all he had to do was jump up and down and say it was me it was me
 
 ### 2. Myron Gaines x Candace Owens
 

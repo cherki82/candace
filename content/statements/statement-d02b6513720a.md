@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:42:50](/episodes/ep-CMcktj3Egfo.md#t-00-42-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2570);return false;">Play</a>
 
-> another party that I'm compelled to give my tax dollars to,
+> a Likud party representative who got up and gave a speech and declared me and Tucker Carlson to be enemies of the state of Israel. ... I'm compelled to actually give my tax dollars to Israel ... while we have to fund their military exercises all around the world, their military aims all around the world
 
 ## Verification
 

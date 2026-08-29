@@ -33,12 +33,12 @@ type: "opinion"
 **Timestamp:** [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2106);return false;">Play</a>
 
-> I am speaking of a poison being sold to the American people as patriotism.
+> I see a new enemy rising from within. ... I am speaking of a poison being sold to the American people as patriotism. I am speaking of the intellectual vandalism of Tucker Carlson and Candace Owens.
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

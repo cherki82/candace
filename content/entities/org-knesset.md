@@ -20,7 +20,7 @@ _Type: Organizations_
 Source: [The Work of the Knesset](https://main.knesset.gov.il/EN/about/pages/knessetwork.aspx)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-00">2026-01-12 · 00:34:07</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-33-59">2026-01-12 · 00:34:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-knesset-t-00-34-27">2026-05-05 · 00:34:27</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
@@ -32,9 +32,9 @@ Source: [The Work of the Knesset](https://main.knesset.gov.il/EN/about/pages/kne
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-00">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-33-59">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-00" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-33-59" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-knesset-t-01-05-39" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-knesset-t-00-10-22" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-knesset-t-00-34-27" style="--pulse-height:50%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
@@ -43,7 +43,7 @@ Source: [The Work of the Knesset](https://main.knesset.gov.il/EN/about/pages/kne
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-00) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-33-59) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-knesset-t-01-05-39) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-knesset-t-00-10-22) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-knesset-t-00-34-27) | 1 |
@@ -83,7 +83,7 @@ Source: [The Work of the Knesset](https://main.knesset.gov.il/EN/about/pages/kne
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2 mentions)</summary>
 
-**[00:34:07](/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-00)**
+**[00:34:07](/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-33-59)**
 > "...gic of psychopaths. Well, the Knesset—"
 
 **[00:34:42](/episodes/ep-CMcktj3Egfo.md#ent-org-knesset-t-00-34-41)**

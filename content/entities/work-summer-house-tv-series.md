@@ -20,7 +20,7 @@ _Type: Works & Media_
 Source: [Summer House - Official Site | Bravo](https://www.bravotv.com/summer-house?page=1)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-10">2026-01-12 · 00:19:36</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-07">2026-01-12 · 00:19:36</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-work-summer-house-tv-series-t-00-28-00">2026-03-18 · 00:28:20</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -32,9 +32,9 @@ Source: [Summer House - Official Site | Bravo](https://www.bravotv.com/summer-ho
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-10">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-07">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-10" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-07" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-work-summer-house-tv-series-t-00-05-48" style="--pulse-height:50%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-work-summer-house-tv-series-t-00-28-00" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
@@ -42,7 +42,7 @@ Source: [Summer House - Official Site | Bravo](https://www.bravotv.com/summer-ho
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-10) | 2 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-07) | 2 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-work-summer-house-tv-series-t-00-05-48) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-work-summer-house-tv-series-t-00-28-00) | 1 |
 
@@ -73,7 +73,7 @@ Source: [Summer House - Official Site | Bravo](https://www.bravotv.com/summer-ho
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2 mentions)</summary>
 
-**[00:19:36](/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-10)**
+**[00:19:36](/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-07)**
 > "...what's what's the show called Summer House in 2019 interestingly enough"
 
 **[00:19:52](/episodes/ep-CMcktj3Egfo.md#ent-work-summer-house-tv-series-t-00-19-52)**
@@ -92,7 +92,7 @@ Source: [Summer House - Official Site | Bravo](https://www.bravotv.com/summer-ho
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough”
 
 </details>
 
@@ -116,7 +116,7 @@ Source: [Summer House - Official Site | Bravo](https://www.bravotv.com/summer-ho
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough”
 
 </details>
 
@@ -137,7 +137,7 @@ Source: [Summer House - Official Site | Bravo](https://www.bravotv.com/summer-ho
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10) (Claim) **Candace Owens**: ["Mark Burnett became chairman of MGM, which owned Summer House, and Eri..."](/statements/statement-40e79c3199ca.md)
+- [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07) (Claim) **Candace Owens**: ["Mark Burnett became chairman of MGM, which owned Summer House, and Eri..."](/statements/statement-40e79c3199ca.md)
   - Also about: [Mark Burnett](/entities/person-mark-burnett.md), [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

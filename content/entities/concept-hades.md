@@ -18,6 +18,8 @@ _Type: Concepts_
 
 **Categories:** Greek mythology, Roman mythology, underworld deity
 
+> **Possibly overlapping entity records:** [High Accuracy Detection and Exploitation System](/entities/concept-high-accuracy-detection-and-exploitation-system). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Transcript explicitly equates Roman Pluto with Hades in its mythology discussion.
 

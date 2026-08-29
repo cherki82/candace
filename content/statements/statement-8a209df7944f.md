@@ -1,6 +1,6 @@
 ---
-title: "The Iran–Contra affair involved the CIA and Mossad trafficki..."
-description: "\"The Iran–Contra affair involved the CIA and Mossad trafficking weapons through South and Central America, and Jeffrey Epstein participated in that net...\" — Candace Owens"
+title: "Owens said the Iran-Contra affair involved the CIA and Mossa..."
+description: "\"Owens said the Iran-Contra affair involved the CIA and Mossad trafficking weapons through South and Central America and, if Mossad's account is believ...\" — Candace Owens"
 statement_id: "statement-8a209df7944f"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> The Iran–Contra affair involved the CIA and Mossad trafficking weapons through South and Central America, and Jeffrey Epstein participated in that network.
+> Owens said the Iran-Contra affair involved the CIA and Mossad trafficking weapons through South and Central America and, if Mossad's account is believed, Jeffrey Epstein participated by running weapons through South America.
 
 ## Attribution
 
@@ -33,7 +33,7 @@ veracity: "mixed"
 **Timestamp:** [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2919);return false;">Play</a>
 
-> the Iran-Contra scandal was a trafficking scandal that involved our government, the CIA, of course, the Mossad. Jeffrey Epstein was involved in the Iran-Contra scandal... running weapons through South America.
+> the Iran-Contra scandal was a trafficking scandal that involved our government, the CIA, of course, the Mossad. ... Jeffrey Epstein was involved in the Iran-Contra scandal. If the Mossad is to be believed, that's how they first brought him in, running weapons through South America.
 
 ## Verification
 

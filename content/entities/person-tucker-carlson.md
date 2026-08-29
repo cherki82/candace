@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 629 mentions"
+description: "Tucker Carlson (People) - 641 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14">2026-08-21 · 00:22:35</a></strong></div>
-<div><span>Episodes</span><strong>103</strong></div>
-<div><span>Mentions</span><strong>629</strong></div>
+<div><span>Episodes</span><strong>104</strong></div>
+<div><span>Mentions</span><strong>641</strong></div>
 <div><span>Statements by</span><strong>76</strong></div>
-<div><span>Statements about</span><strong>84</strong></div>
-<div><span>Relationships</span><strong>112</strong></div>
+<div><span>Statements about</span><strong>88</strong></div>
+<div><span>Relationships</span><strong>114</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -74,8 +74,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 4 mentions" title="2025-12-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19" style="--pulse-height:24%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 13 mentions" title="2025-12-20 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tucker-carlson-t-00-43-45" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11" style="--pulse-height:16%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 9 mentions" title="2026-01-07 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tucker-carlson-t-00-07-06" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45" style="--pulse-height:16%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 9 mentions" title="2026-01-12 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-11" style="--pulse-height:9%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-09" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-tucker-carlson-t-00-59-24" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -182,8 +183,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25) | 4 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19) | 13 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tucker-carlson-t-00-43-45) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11) | 9 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tucker-carlson-t-00-07-06) | 1 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45) | 6 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45) | 9 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-11) | 5 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-09) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-tucker-carlson-t-00-59-24) | 1 |
@@ -253,7 +255,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (629)</strong></summary>
+<summary><strong class="section-title">Raw mentions (641)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -1352,25 +1354,34 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (6 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (9 mentions)</summary>
 
 **[00:00:58](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45)**
 > "... gave a powerful statement to Tucker Carlson, who has just been declared an enemy of the state..."
 
-**[00:34:14](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-34-00)**
+**[00:34:14](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-33-59)**
 > "... a speech and declared me and Tucker Carlson to be enemies of the state of Israel."
 
 **[00:35:12](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-34-41)**
 > "...the intellectual vandalism of Tucker Carlson and Candace Owens."
 
-**[00:35:32](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-35-24)**
+**[00:35:32](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-35-18)**
 > "Tucker Carlson tears down the legacy of Winston Churchill."
 
-**[00:37:32](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-37-22)**
+**[00:37:32](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-37-15)**
 > "...overnment gives more flack to Tucker Carlson, our government representatives give more flack t..."
 
 **[00:38:52](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-38-26)**
 > "to Tucker Carlson about on his show,"
+
+**[00:08:57](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-08-57)**
+> "...ah, the notorious AmFest that Tucker spoke at. Andrew called me up and he asked me, as..."
+
+**[00:37:05](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-36-40)**
+> "...s. If anything happens to our Carlson or me, you obviously know that Israel was involve..."
+
+**[00:39:54](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-39-38)**
+> "...op it, make her stop it, make Tucker stop saying the things."
 
 </details>
 
@@ -1379,6 +1390,38 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:07:28](/episodes/ep-wcD2khO3rOA.md#ent-person-tucker-carlson-t-00-07-06)**
 > "... those of you who watched the Tucker Carlson had interviewed someone in the military. He was s..."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (9 mentions)</summary>
+
+**[00:02:11](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11)**
+> "... the intention to mock me and Tucker Carlson."
+
+**[00:02:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11)**
+> "It's always got to be Tucker Carlson and Candace Owens together. We're partners. Even the typical standard daily wire stan accounts had to admit that it was cringe."
+
+**[00:05:09](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-04-48)**
+> "...of stalking Candace Owens and Tucker Carlson because that's what the role was."
+
+**[00:05:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-05-25)**
+> "...giance against me and Tucker (Tucker Carlson)."
+
+**[00:06:11](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-05-57)**
+> "...cked me. He attacked Carlson (Tucker Carlson), and this time he also attacked Megyn Kelly beca..."
+
+**[00:07:27](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-07-27)**
+> "so when Candace or Tucker (Tucker Carlson) says something crazy,"
+
+**[00:07:35](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-07-27)**
+> "...actually like you and Tucker (Tucker Carlson) and I watch you both as I generally like most co..."
+
+**[00:12:50](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-12-29)**
+> "...when in reality you just hate Tucker Carlson and Candace."
+
+**[00:37:32](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-37-16)**
+> "... obsessed with me and Tucker (Tucker Carlson)."
 
 </details>
 
@@ -2799,9 +2842,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
 </details>
@@ -3020,7 +3064,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:52](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “to Tucker Carlson about on his show,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:26](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “Megyn Kelly sat down and discussed she's been at length under attack they are adding her to their list it's very obvious because she simply won't bend the knee she has said nothing wrong she actually is a Zionist and she supports Israel but for them they learn that you must fully allow us to control your speech or we'll attack you you know we will assassinate your character essentially assassinating the character comes first well here's what Megyn Kelly opened up to Tucker Carlson about on his show, and here's what she had to say.”
 
 </details>
 
@@ -3112,7 +3156,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Spoke At (3)</summary>
+<summary>Spoke At (4)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -3138,6 +3182,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[AmericaFest 2025](/entities/event-americafest-2025.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-57): “the notorious AmFest that Tucker spoke at.”
+
+</details>
+
 </details>
 
 <details>
@@ -3156,16 +3207,17 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Target Of Criticism From (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11): “the Daily Wire's cringe new show designed quite literally with the intention to mock me and Tucker Carlson.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (56)</summary>
+<summary>Referenced By (57)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -3225,9 +3277,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** critic of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11): “the Daily Wire's cringe new show designed quite literally with the intention to mock me and Tucker Carlson.”
 
 </details>
 
@@ -3247,9 +3300,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
 </details>
@@ -3449,6 +3503,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[AmericaFest 2025](/entities/event-americafest-2025.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-57): “the notorious AmFest that Tucker spoke at.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -3503,7 +3564,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:52](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “to Tucker Carlson about on his show,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:26](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “Megyn Kelly sat down and discussed she's been at length under attack they are adding her to their list it's very obvious because she simply won't bend the knee she has said nothing wrong she actually is a Zionist and she supports Israel but for them they learn that you must fully allow us to control your speech or we'll attack you you know we will assassinate your character essentially assassinating the character comes first well here's what Megyn Kelly opened up to Tucker Carlson about on his show, and here's what she had to say.”
 
 </details>
 
@@ -3898,7 +3959,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (84)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (88)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
@@ -4102,11 +4163,28 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) (Opinion) **Dan Illouz** (via quoted speech): ["Dan Illouz called Tucker Carlson and Candace Owens intellectual vandal..."](/statements/statement-27edd2ed7766.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Knesset](/entities/org-knesset.md)
 
-- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) (Opinion) **Dan Illouz** (via quoted speech): ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke le..."](/statements/statement-070429465919.md)
+- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-35-18) (Opinion) **Dan Illouz** (via quoted speech): ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke le..."](/statements/statement-070429465919.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:37:08](/episodes/ep-CMcktj3Egfo.md#t-00-36-40) (Accusation) **Candace Owens**: ["Candace Owens said that if anything happened to Tucker Carlson or her,..."](/statements/statement-083d4f1df0d7.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4)</summary>
+
+- [00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11) (Accusation) **Candace Owens**: ["The Daily Wire designed a new show specifically to mock Candace Owens ..."](/statements/statement-8d537c2f578a.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [The More You No-No](/entities/work-the-more-you-no-no.md)
+
+- [00:05:33](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro demanded Megyn Kelly's allegiance against Candace Owens an..."](/statements/statement-55cdeafd37b1.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro paid for a prime AmericaFest speaking slot after Erika Kir..."](/statements/statement-e71af1266a9d.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [AmericaFest 2025](/entities/event-americafest-2025.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:07:19](/episodes/ep-zSKrxIUMNqw.md#t-00-06-43) (Claim) **Maggie Wegner** (via read message): ["The proposed show was presented as comedy about both political sides, ..."](/statements/statement-52323bcfd490.md)
+  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
 

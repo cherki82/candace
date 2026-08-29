@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 224 mentions"
+description: "PreBorn! (Organizations) - 223 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -26,7 +26,7 @@ Source: [PreBorn!](https://preborn.com/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-28-26">2026-08-18 · 00:28:33</a></strong></div>
 <div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>224</strong></div>
+<div><span>Mentions</span><strong>223</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -63,7 +63,7 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-31-19" style="--pulse-height:86%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 6 mentions" title="2025-12-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 7 mentions" title="2025-12-18 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46" style="--pulse-height:71%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-14" style="--pulse-height:57%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-30" style="--pulse-height:43%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-36" style="--pulse-height:43%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-19" style="--pulse-height:43%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 3 mentions" title="2026-01-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-41" style="--pulse-height:43%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
@@ -138,7 +138,7 @@ Source: [PreBorn!](https://preborn.com/)
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-preborn-t-00-31-19) | 6 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44) | 7 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46) | 5 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-14) | 4 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-30) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-36) | 3 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-19) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-41) | 3 |
@@ -189,7 +189,7 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (224)</strong></summary>
+<summary><strong class="section-title">Raw mentions (223)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
@@ -758,19 +758,16 @@ Source: [PreBorn!](https://preborn.com/)
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
 
-**[00:28:52](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-14)**
+**[00:28:52](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-30)**
 > "Preborn sees this pain firsthand in the thousands of clin..."
 
-**[00:29:11](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-59)**
+**[00:29:11](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-29-08)**
 > "Preborn stands on the front lines, providing free ultraso..."
 
-**[00:29:37](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-59)**
+**[00:29:37](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-29-08)**
 > "Or you can visit preborn.com slash candace. Again, that's..."
-
-**[00:29:40](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-59)**
-> "again that's preborn.com slash candace"
 
 </details>
 

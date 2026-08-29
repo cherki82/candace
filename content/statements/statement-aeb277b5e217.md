@@ -24,7 +24,17 @@ type: "factual_claim"
 - [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
+
+**Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
+**Timestamp:** [00:41:49](/episodes/ep-zSKrxIUMNqw.md#t-00-41-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2509);return false;">Play</a>
+
+> so many precise messages of Charlie (Charlie Kirk), so convinced that he was going to die young. like just telling me that repeatedly: he was going to die young and that Turning Point was going to be involved, as I showed you.
+
+### 2. PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To ...
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
 **Timestamp:** [00:19:56](/episodes/ep-BKcOm32ZEGk.md#t-00-19-48) 

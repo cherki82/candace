@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (19 mentions)
+### Evidence (20 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -88,6 +88,10 @@ object: "person-candace-owens"
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
 
 - [00:09:42](/episodes/ep-xjzb_t5Tk9o#t-00-09-42): _This is after I left Daily Wire._
+
+**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
+
+- [00:00:45](/episodes/ep-zSKrxIUMNqw#t-00-00-45): _two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job._
 
 ### Related
 

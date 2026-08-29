@@ -30,7 +30,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <div><span>Episodes</span><strong>45</strong></div>
 <div><span>Mentions</span><strong>177</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
-<div><span>Statements about</span><strong>37</strong></div>
+<div><span>Statements about</span><strong>38</strong></div>
 <div><span>Relationships</span><strong>52</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -1477,7 +1477,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rob McCoy (37)</strong></summary>
+<summary><strong class="section-title">Statements about Rob McCoy (38)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -1530,7 +1530,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2)</summary>
+
+- [00:58:25](/episodes/ep-wcD2khO3rOA.md#t-00-57-44) (Claim) **Candace Owens**: ["Owens said Turning Point Faith held a pastor summit led by Rob McCoy a..."](/statements/statement-1b0c9fa3365f.md)
+  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Sean Feucht](/entities/person-sean-feucht.md)
 
 - [01:23:18](/episodes/ep-wcD2khO3rOA.md#t-01-22-35) (Claim) **Candace Owens**: ["Farris and Dan Wilks fund PragerU, The Daily Wire, megachurches, and R..."](/statements/statement-ef9d6dc77953.md)
   - Also about: [Farris Wilks](/entities/person-farris-wilks.md), [Dan Wilks](/entities/person-dan-wilks.md), [PragerU](/entities/org-prageru.md)

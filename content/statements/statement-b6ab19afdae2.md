@@ -1,6 +1,6 @@
 ---
-title: "Senior U.S. military leaders operate as mercenary squads pro..."
-description: "\"Senior U.S. military leaders operate as mercenary squads protecting criminal gangs.\" — Candace Owens"
+title: "Candace Owens said she thought senior U.S. military leaders ..."
+description: "\"Candace Owens said she thought senior U.S. military leaders operated as mercenary squads protecting criminal gangs.\" — Candace Owens"
 statement_id: "statement-b6ab19afdae2"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> Senior U.S. military leaders operate as mercenary squads protecting criminal gangs.
+> Candace Owens said she thought senior U.S. military leaders operated as mercenary squads protecting criminal gangs.
 
 ## Attribution
 
@@ -29,7 +29,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:50:58](/episodes/ep-CMcktj3Egfo.md#t-00-50-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3058);return false;">Play</a>
 
-> a lot of people are bought in fact i think our military at the top are actually just mercenary squads to protect the gangs
+> i think our military at the top are actually just mercenary squads to protect the gangs
 
 ## Verification
 
@@ -50,4 +50,4 @@ This sweeping allegation does not identify the senior military leaders, criminal
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

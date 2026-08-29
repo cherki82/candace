@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2613 mentions"
+description: "Candace Owens (People) - 2626 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-candace-owens-t-01-04-57">2026-08-21 · 01:05:31</a></strong></div>
-<div><span>Episodes</span><strong>155</strong></div>
-<div><span>Mentions</span><strong>2,613</strong></div>
-<div><span>Statements by</span><strong>4,758</strong></div>
-<div><span>Statements about</span><strong>553</strong></div>
-<div><span>Relationships</span><strong>748</strong></div>
+<div><span>Episodes</span><strong>156</strong></div>
+<div><span>Mentions</span><strong>2,626</strong></div>
+<div><span>Statements by</span><strong>4,800</strong></div>
+<div><span>Statements about</span><strong>567</strong></div>
+<div><span>Relationships</span><strong>752</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -86,8 +86,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-00-42" style="--pulse-height:60%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 36 mentions" title="2025-12-20 · 36 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-candace-owens-t-00-00-43" style="--pulse-height:18%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 11 mentions" title="2026-01-05 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-candace-owens-t-00-00-45" style="--pulse-height:22%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 13 mentions" title="2026-01-06 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-01-21" style="--pulse-height:23%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 14 mentions" title="2026-01-07 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-candace-owens-t-00-00-00" style="--pulse-height:18%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 11 mentions" title="2026-01-09 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-00-45" style="--pulse-height:32%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 19 mentions" title="2026-01-12 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-00-45" style="--pulse-height:28%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 17 mentions" title="2026-01-12 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-41" style="--pulse-height:12%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-00-40" style="--pulse-height:13%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 8 mentions" title="2026-01-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-candace-owens-t-00-43-39" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
@@ -246,8 +247,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-candace-owens-t-00-00-42) | 36 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-candace-owens-t-00-00-43) | 11 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-candace-owens-t-00-00-45) | 13 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-01-21) | 14 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-candace-owens-t-00-00-00) | 11 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-00-45) | 19 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-00-45) | 17 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-41) | 7 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-00-40) | 8 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-candace-owens-t-00-43-39) | 7 |
@@ -362,7 +364,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2613)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2626)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (34 mentions)</summary>
@@ -5371,12 +5373,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (19 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (17 mentions)</summary>
 
 **[00:01:09](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-00-45)**
 > "Welcome back to Candace."
 
-**[00:01:46](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-01-27)**
+**[00:01:46](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-01-26)**
 > "Candace hasn't spoken to Charlie in years, followed by op..."
 
 **[00:02:43](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-02-03)**
@@ -5385,40 +5387,31 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 **[00:02:49](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-02-49)**
 > "...he internet was operation lol Candace has dreams"
 
-**[00:03:45](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-03-32)**
+**[00:03:45](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-03-31)**
 > "...eels personally victimized by Candace Owens'"
 
-**[00:29:37](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-28-59)**
+**[00:29:37](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-29-08)**
 > "...u can visit preborn.com slash candace. Again, that's..."
 
-**[00:29:40](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-28-59)**
-> "...gain that's preborn.com slash candace"
-
-**[00:30:46](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-30-22)**
+**[00:30:46](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-30-33)**
 > "... today and use the promo code Candace at checkout and you'll get $20 off your first ord..."
 
-**[00:30:53](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-30-22)**
+**[00:30:53](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-30-33)**
 > "...riverbendranch.com promo code Candace."
 
 **[00:35:12](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-34-41)**
 > "...ndalism of Tucker Carlson and Candace Owens."
 
-**[00:35:40](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-35-24)**
+**[00:35:40](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-35-18)**
 > "Candace Owens says the roots of our faith are demonic."
 
 **[00:39:28](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-38-55)**
 > "... I won't condemn and say that Candace Owens is hateful. They want me really, really badly to ..."
 
-**[00:39:44](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-39-38)**
-> "I am not Candace Owens'"
-
 **[00:39:47](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-39-38)**
 > "...ill say something nasty about Candace, she could finally be controlled."
 
-**[00:45:07](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-45-07)**
-> "...can visit masachips.com slash candace and be sure to use promo code candace at checkout..."
-
-**[00:47:30](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-47-18)**
+**[00:47:30](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-47-12)**
 > "...nd her finger go max love you candace keep shining the light"
 
 **[00:48:55](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-48-27)**
@@ -5429,6 +5422,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 **[00:51:33](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-50-58)**
 > "...ur rights admire you so much. Candace, I have two grown kids, so I appreciate what a wa..."
+
+**[00:45:07](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-45-07)**
+> "you can visit masachips.com slash Candace, and be sure to use promo code Candace at checkout"
 
 </details>
 
@@ -5467,6 +5463,53 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 **[01:20:58](/episodes/ep-wcD2khO3rOA.md#ent-person-candace-owens-t-01-20-47)**
 > "Candace, my girlfriend and I listen to you every episode ..."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (14 mentions)</summary>
+
+**[00:01:53](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-01-21)**
+> "...ight back in. Welcome back to Candace."
+
+**[00:03:27](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-03-27)**
+> "I love the way Candace Owens thinks tweet,"
+
+**[00:05:09](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-04-48)**
+> "...ered for the role of stalking Candace Owens and Tucker Carlson because that's what the role w..."
+
+**[00:05:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-05-25)**
+> "to go after Candace Owens. And again, we are going to prove that."
+
+**[00:06:43](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-06-43)**
+> "It reads, Dear Candace, I believe it was two days after Ben Shapiro's sp..."
+
+**[00:07:27](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-07-27)**
+> "so when Candace or Tucker (Tucker Carlson) says something crazy,"
+
+**[00:11:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-11-44)**
+> "...s in regards to making fun of Candace. I may not be the right fit for this one,"
+
+**[00:12:07](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-11-44)**
+> "Nope. That's it. Understood. More opportunities down the road. Merry Christmas. It's required. It's required. If we're going to give you a show, we can make you a star, we can make you a star, but you have to be willing to attack Candace Owens. That's what we are casting for."
+
+**[00:12:50](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-12-29)**
+> "... just hate Tucker Carlson and Candace."
+
+**[00:29:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-29-18)**
+> "... like it's a show, but attack Candace."
+
+**[00:35:06](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-34-49)**
+> "You can use my discount code Candace to upgrade to pro and you'll get 25% off your fir..."
+
+**[00:35:26](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-35-26)**
+> "Visit magisterium.com slash Candace."
+
+**[00:39:06](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-38-35)**
+> "We're going to need a Candace Owens to do it too."
+
+**[00:02:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-02-11)**
+> "... got to be Tucker Carlson and Candace Owens together. We're partners. Even the typical standa..."
 
 </details>
 
@@ -8684,7 +8727,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused (31)</summary>
+<summary>Accused (32)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -8703,8 +8746,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11): “And Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:06:55](/episodes/ep-k8ueJdPFel4.md#t-00-06-32): “OK, Charlie (Charlie Kirk) could not stand Ben Shapiro. I have been telling you that because Ben (Ben Shapiro) operated behind the scenes to try to stop his rise.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:20:45](/episodes/ep-uC_GjKU8rs8.md#t-00-20-32): “People do not like his nature. You can spend years trying to destroy someone behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “Ben (Ben Shapiro) attempted to take over Andrew (Andrew Breitbart)'s company. And when that failed, he plotted to take down the company because why can't he have it?”
@@ -8712,12 +8756,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Tyler Bowyer needs to be looked at and investigated further.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
+
+</details>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-43): “two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.”
 
 </details>
 
@@ -8851,7 +8903,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
@@ -8863,6 +8915,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:43:16](/episodes/ep-AoYZel7_cGQ.md#t-00-43-10): “he's betraying him every single day when he tells lies about who Charlie (Charlie Kirk) is who Charlie (Charlie Kirk) was and what Charlie (Charlie Kirk) was going through”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:23:18](/episodes/ep-4JxgOclKzqg.md#t-00-23-14): “Because I got to tell you something, Andrew (Andrew Kolvet). Were it me and I was amongst my peers sitting on a jury, I would not accept your narrative that he looks like he's worried about people stealing.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:52:40](/episodes/ep-OEAHy3SsIiI.md#t-00-52-03): “Andrew (Andrew Kolvet) is being told to do these things. Andrew (Andrew Kolvet) is being told to attack me and to attack my narrative.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44): “Andrew Kolvet never answered. Last time Andrew Kolvet and I spoke. Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed.”
 
 </details>
 
@@ -9216,9 +9269,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Cousin Of (1)</summary>
 
 - **[Mia Grant](/entities/person-mia-grant.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:54:29](/episodes/ep-sKuYLNx3iRo.md#t-00-54-11): “Ashley (commenter; surname unverified) writes, 'Hi, Candace. Congratulations. Also curious what cousin Mia (Mia Grant)'s opinion is about Erika (Erika Kirk) when you both walked out of that meeting months ago.'”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:24](/episodes/ep-zSKrxIUMNqw.md#t-00-13-04): “And I was venting about this to my cousin, Mia (Mia Grant), you know, Mia (Mia Grant), who I just brought with me for no reason—for vibes,”
 
 </details>
 
@@ -9235,9 +9289,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:19](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “wanted to show you that because the Daily Wire continues to exhibit stalker vibes”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:00](/episodes/ep-zSKrxIUMNqw.md#t-00-12-29): “This was such a slimy act by a former employer.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-34): “this brings me to Daily Wire...they're unhinged”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:52](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these people are telling me there”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:26](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “People see the Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't want to support someone who tells them that they're evil and stupid and wrong for listening and supporting Theo Vaughn.”
@@ -9261,9 +9316,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:58:42](/episodes/ep-2T39-oADLj0.md#t-00-58-33): “wouldn't you just come right out to the public and say hey i don't know what happened but like charlie thought they were going to kill him i i do not like the way turning point is behaving i've made that clear and nobody is going to emotionally manipulate me and tell me that it's all good now and to attack turning point would be to attack his legacy charlie told me years ago that he had which i shared the messages”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:24](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Turning point action seems to be problematic.”
 - [A Legal Turning Point? | Candace Ep 292 @ 00:27:10](/episodes/ep-NIEbqsLAK8g.md#t-00-27-10): “Turning Point USA's lawyer is going to dispute Andrew and the worst person that PR money could buy, Paramount Tactical”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:31:57](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-15): “A lot of the stuff, as we've said, the common theme here is what Turning Point is doing is legal, but it's also immoral.”
@@ -9474,9 +9530,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:59](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “Benny (Ben Shapiro) boy i'm i'm ignorant but not that ignorant ... just get it off your chest Ben (Ben Shapiro)”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
@@ -9494,9 +9551,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
@@ -10297,7 +10355,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized By (41)</summary>
+<summary>Criticized By (42)</summary>
 
 - **[Eyal Yakobi](/entities/person-eyal-yakobi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -10406,9 +10464,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:10:06](/episodes/ep-r1PS67aRmcA.md#t-00-09-56): “I think that what Candace Owens (the host) is doing right now is evil.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “he again... attacked me.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:39:26](/episodes/ep-QRS_hR7NXaQ.md#t-00-39-26): “Did I hear that Candace (Candace Owens) said on her show she had dreams about playing Hogwarts chess with you? ... that's weird. It's a little bit weird.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:08](/episodes/ep-uC_GjKU8rs8.md#t-00-17-08): “I think that what Candace Owens is doing right now is evil. It is evil what she is doing right now.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:01:47](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “Because he's very anti-Candacism, Ben (Ben Shapiro). And it's just why he's always attacking me, Ben Shapiro, telling me people that I'm not on vacation when I am.”
@@ -10623,6 +10682,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:38:13](/episodes/ep-_cNtgris8Ik.md#t-00-38-05): “Yeah, if you go back far enough, I mean, that's why I mean, I put out that tweet basically saying, you know, Candace, your central foundational lie is that you and Charlie were friends. You were not friends.”
+
+</details>
+
+- **[Dennis Prager](/entities/person-dennis-prager.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:09:30](/episodes/ep-CMcktj3Egfo.md#t-00-09-30): “Dennis Prager, who had just written this open article about me, and it was not done in a very nice way”
 
 </details>
 
@@ -11236,9 +11302,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Fired By (3)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-14-12): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:41:58](/episodes/ep-BKcOm32ZEGk.md#t-00-41-36): “It's just been going on for two years... Like I just am not allowed to be fired from that company.”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:43:16](/episodes/ep-QdM9jLwjwLw.md#t-00-43-16): “one of the reasons I got fired is I said we should look into the history of pornography.”
@@ -11357,7 +11424,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:47:51](/episodes/ep-adJ4LNGp84I.md#t-00-47-25): “I used to read ads for them, ExpressVPN, when I was working for Daily Wire.”
@@ -11368,6 +11435,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): “In 2024, Ben fired me in March”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:00:37](/episodes/ep-OEAHy3SsIiI.md#t-00-00-00): “from when I used to work with them. It's very confusing, but I have the answer for why it happened.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-43): “two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:41:58](/episodes/ep-BKcOm32ZEGk.md#t-00-41-36): “It's just been going on for two years... Like I just am not allowed to be fired from that company.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “I worked at Daily Wire”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, ... do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire?”
@@ -11419,7 +11487,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Friend Of (8)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (39)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (40)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:00:10](/episodes/ep-YFmRH8p5lt0.md#t-00-00-00): “This is real life: the assassination of my friend, Charlie (Charlie Kirk).”
@@ -11429,6 +11497,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:33](/episodes/ep-ja26iltROkM.md#t-00-02-10): “Charlie and I were in New York for something or another, and he was falling for her hard”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:18](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “Charlie and I never—for a single second—stopped being friends.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-40): “At one time, a friend of Charlie's.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:31:06](/episodes/ep-zSKrxIUMNqw.md#t-00-30-38): “People like Charlie Kirk, who is my friend,”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:22:22](/episodes/ep-X92MllIHDzw.md#t-00-22-00): “we were just we've just been friends for years, obviously, it's not really that surprising.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:15](/episodes/ep-9naMwS0kMBE.md#t-00-38-01): “He knew better than anyone that Charlie and I were friends and that we remained friends until the very end.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:38](/episodes/ep-GY6GWceEqtQ.md#t-01-02-38): “i was charlie's friend not yours”
@@ -11486,8 +11555,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kanye West](/entities/person-kanye-west.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
 
@@ -12213,9 +12283,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:11:07](/episodes/ep-zSKrxIUMNqw.md#t-00-11-07): “The entire show was supposed to be designed as an attack against me.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:15](/episodes/ep-BKcOm32ZEGk.md#t-00-40-15): “They have dropped another video...using my face to attack me in a really strange way”
 
 </details>
@@ -12448,7 +12519,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Referenced By (365)</summary>
+<summary>Referenced By (367)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -12539,8 +12610,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11): “And Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:06:55](/episodes/ep-k8ueJdPFel4.md#t-00-06-32): “OK, Charlie (Charlie Kirk) could not stand Ben Shapiro. I have been telling you that because Ben (Ben Shapiro) operated behind the scenes to try to stop his rise.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:20:45](/episodes/ep-uC_GjKU8rs8.md#t-00-20-32): “People do not like his nature. You can spend years trying to destroy someone behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “Ben (Ben Shapiro) attempted to take over Andrew (Andrew Breitbart)'s company. And when that failed, he plotted to take down the company because why can't he have it?”
@@ -12548,12 +12620,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Tyler Bowyer needs to be looked at and investigated further.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
+
+</details>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-43): “two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.”
 
 </details>
 
@@ -12687,7 +12767,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
@@ -12699,6 +12779,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:43:16](/episodes/ep-AoYZel7_cGQ.md#t-00-43-10): “he's betraying him every single day when he tells lies about who Charlie (Charlie Kirk) is who Charlie (Charlie Kirk) was and what Charlie (Charlie Kirk) was going through”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:23:18](/episodes/ep-4JxgOclKzqg.md#t-00-23-14): “Because I got to tell you something, Andrew (Andrew Kolvet). Were it me and I was amongst my peers sitting on a jury, I would not accept your narrative that he looks like he's worried about people stealing.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:52:40](/episodes/ep-OEAHy3SsIiI.md#t-00-52-03): “Andrew (Andrew Kolvet) is being told to do these things. Andrew (Andrew Kolvet) is being told to attack me and to attack my narrative.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44): “Andrew Kolvet never answered. Last time Andrew Kolvet and I spoke. Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed.”
 
 </details>
 
@@ -12930,9 +13011,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Mia Grant](/entities/person-mia-grant.md)** cousin of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:54:29](/episodes/ep-sKuYLNx3iRo.md#t-00-54-11): “Ashley (commenter; surname unverified) writes, 'Hi, Candace. Congratulations. Also curious what cousin Mia (Mia Grant)'s opinion is about Erika (Erika Kirk) when you both walked out of that meeting months ago.'”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:24](/episodes/ep-zSKrxIUMNqw.md#t-00-13-04): “And I was venting about this to my cousin, Mia (Mia Grant), you know, Mia (Mia Grant), who I just brought with me for no reason—for vibes,”
 
 </details>
 
@@ -12944,9 +13026,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** critic of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:11:07](/episodes/ep-zSKrxIUMNqw.md#t-00-11-07): “The entire show was supposed to be designed as an attack against me.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:15](/episodes/ep-BKcOm32ZEGk.md#t-00-40-15): “They have dropped another video...using my face to attack me in a really strange way”
 
 </details>
@@ -13072,9 +13155,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:10:06](/episodes/ep-r1PS67aRmcA.md#t-00-09-56): “I think that what Candace Owens (the host) is doing right now is evil.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “he again... attacked me.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:39:26](/episodes/ep-QRS_hR7NXaQ.md#t-00-39-26): “Did I hear that Candace (Candace Owens) said on her show she had dreams about playing Hogwarts chess with you? ... that's weird. It's a little bit weird.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:08](/episodes/ep-uC_GjKU8rs8.md#t-00-17-08): “I think that what Candace Owens is doing right now is evil. It is evil what she is doing right now.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:01:47](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “Because he's very anti-Candacism, Ben (Ben Shapiro). And it's just why he's always attacking me, Ben Shapiro, telling me people that I'm not on vacation when I am.”
@@ -13292,6 +13376,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Dennis Prager](/entities/person-dennis-prager.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:09:30](/episodes/ep-CMcktj3Egfo.md#t-00-09-30): “Dennis Prager, who had just written this open article about me, and it was not done in a very nice way”
+
+</details>
+
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -13453,9 +13544,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:59](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “Benny (Ben Shapiro) boy i'm i'm ignorant but not that ignorant ... just get it off your chest Ben (Ben Shapiro)”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
@@ -13473,9 +13565,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
@@ -14797,10 +14890,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** fired this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:47](/episodes/ep-ja26iltROkM.md#t-00-40-37): “I was happy to be canceled from anything to say what I felt in my heart to be true”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-14-12): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:41:58](/episodes/ep-BKcOm32ZEGk.md#t-00-41-36): “It's just been going on for two years... Like I just am not allowed to be fired from that company.”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:43:16](/episodes/ep-QdM9jLwjwLw.md#t-00-43-16): “one of the reasons I got fired is I said we should look into the history of pornography.”
@@ -14912,11 +15006,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:00:37](/episodes/ep-OEAHy3SsIiI.md#t-00-00-00): “from when I used to work with them. It's very confusing, but I have the answer for why it happened.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-43): “two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:41:58](/episodes/ep-BKcOm32ZEGk.md#t-00-41-36): “It's just been going on for two years... Like I just am not allowed to be fired from that company.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “I worked at Daily Wire”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, ... do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire?”
@@ -14958,11 +15053,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:13:46](/episodes/ep-ozWJz2spBcI.md#t-00-13-44): “Charlie Kirk was a friend to Candace (Candace Owens) and never publicly spoke poorly of her, although he disagreed with her.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:43](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): “We were like brother and sister, always supporting each other publicly”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:31:06](/episodes/ep-zSKrxIUMNqw.md#t-00-30-38): “People like Charlie Kirk, who is my friend,”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:22:22](/episodes/ep-X92MllIHDzw.md#t-00-22-00): “we were just we've just been friends for years, obviously, it's not really that surprising.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:15](/episodes/ep-9naMwS0kMBE.md#t-00-38-01): “He knew better than anyone that Charlie and I were friends and that we remained friends until the very end.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:38](/episodes/ep-GY6GWceEqtQ.md#t-01-02-38): “i was charlie's friend not yours”
@@ -15021,8 +15117,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kanye West](/entities/person-kanye-west.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
 
@@ -15645,9 +15742,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** target of criticism from this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:19](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “wanted to show you that because the Daily Wire continues to exhibit stalker vibes”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:00](/episodes/ep-zSKrxIUMNqw.md#t-00-12-29): “This was such a slimy act by a former employer.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-34): “this brings me to Daily Wire...they're unhinged”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:52](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these people are telling me there”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:26](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “People see the Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't want to support someone who tells them that they're evil and stupid and wrong for listening and supporting Theo Vaughn.”
@@ -15671,9 +15769,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** target of criticism from this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:58:42](/episodes/ep-2T39-oADLj0.md#t-00-58-33): “wouldn't you just come right out to the public and say hey i don't know what happened but like charlie thought they were going to kill him i i do not like the way turning point is behaving i've made that clear and nobody is going to emotionally manipulate me and tell me that it's all good now and to attack turning point would be to attack his legacy charlie told me years ago that he had which i shared the messages”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:24](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Turning point action seems to be problematic.”
 - [A Legal Turning Point? | Candace Ep 292 @ 00:27:10](/episodes/ep-NIEbqsLAK8g.md#t-00-27-10): “Turning Point USA's lawyer is going to dispute Andrew and the worst person that PR money could buy, Paramount Tactical”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:31:57](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-15): “A lot of the stuff, as we've said, the common theme here is what Turning Point is doing is legal, but it's also immoral.”
@@ -15823,7 +15922,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (4758)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (4800)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (27)</summary>
@@ -16927,7 +17026,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (35)</summary>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (34)</summary>
 
 - [00:02:33](/episodes/ep-ds6umq1rHAw.md#t-00-02-08) [○] (Opinion) ["Candace Owens said that, based on her personal experience, she believes a Zionis..."](/statements/statement-81e98c7a8b2f.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Hollywood](/entities/gpe-hollywood.md)
@@ -16988,9 +17087,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:22:29](/episodes/ep-ds6umq1rHAw.md#t-00-22-29) [✓] (Claim) ["Owens said Frank William Gay son Robert C. Gay served as a managing director of ..."](/statements/statement-2bde41d90aad.md)
   - About: [Frank William Gay](/entities/person-frank-william-gay.md), [Robert C. Gay](/entities/person-robert-c-gay.md), [Mitt Romney](/entities/person-mitt-romney.md)
-
-- [00:23:47](/episodes/ep-ds6umq1rHAw.md#t-00-23-47) [◐] (Accusation) ["Tyler Bowyer has been running Turning Point USA and staffed nearly everyone arou..."](/statements/statement-00fcdc461d29.md)
-  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:23:47](/episodes/ep-ds6umq1rHAw.md#t-00-23-47) [○] (Claim) ["Owens said that in reality about half of Turning Point USA is Mormon."](/statements/statement-dc8a19c7a2dd.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Mormonism](/entities/concept-mormonism.md)
@@ -22867,13 +22963,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (22)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (19)</summary>
 
 - [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) [○] (Accusation) ["The Daily Wire refused to host Bassem Youssef because he had hurt Ben Shapiro's ..."](/statements/statement-07991641f9f1.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
-
-- [00:04:46](/episodes/ep-xjzb_t5Tk9o.md#t-00-04-20) [○] (Accusation) ["Jeremy Boreing publicly identified Owens's views that genocide is always wrong a..."](/statements/statement-22bf3ad02120.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) [○] (Accusation) ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phil Tourney ..."](/statements/statement-2bff31e56fad.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
@@ -22898,9 +22991,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:38:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-44) [◐] (Accusation) ["Christians, not Jews, were the largest victim group of World War II, and schools..."](/statements/statement-182bf867460f.md)
   - About: [World War II](/entities/event-world-war-ii.md), [Christians](/entities/concept-christians.md), [Judaism](/entities/concept-judaism.md)
-
-- [00:58:59](/episodes/ep-xjzb_t5Tk9o.md#t-00-58-54) [◐] (Claim) ["Candace Owens was banned from Australia, her YouTube channel was demonetized, an..."](/statements/statement-f6a05eb917b9.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md), [YouTube](/entities/org-youtube.md)
 
 - [01:06:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-12) [○] (Accusation) ["The media company where Candace Owens worked used her to appear committed to fre..."](/statements/statement-2a737a7f8122.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -22931,9 +23021,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [01:44:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-14) [○] (Accusation) ["The post-9/11 media environment conditioned children to fear Muslims so the Unit..."](/statements/statement-2350154ebb84.md)
   - About: [Islam](/entities/concept-islam.md), [Middle East](/entities/gpe-middle-east.md), [Israel](/entities/gpe-israel.md)
-
-- [01:44:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) [○] (Promise) ["Candace Owens intends to identify who killed Charlie Kirk and determine Ben Shap..."](/statements/statement-0652e878d946.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
 </details>
 
@@ -23571,7 +23658,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (16)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (15)</summary>
 
 - [00:00:19](/episodes/ep-BKcOm32ZEGk.md#t-00-00-00) [✗] (Claim) ["Fruit of the Loom's logo had a cornucopia."](/statements/statement-f364442bc84a.md)
   - About: [Fruit of the Loom](/entities/org-fruit-of-the-loom.md)
@@ -23590,9 +23677,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:19:52](/episodes/ep-BKcOm32ZEGk.md#t-00-19-48) [✓] (Accusation) ["The script for The Matrix was allegedly stolen."](/statements/statement-3d6f8ab67f82.md)
   - About: [The Matrix](/entities/work-the-matrix.md)
-
-- [00:19:56](/episodes/ep-BKcOm32ZEGk.md#t-00-19-48) [○] (Claim) ["Charlie Kirk repeatedly told Candace Owens that he would die young and that Turn..."](/statements/statement-aeb277b5e217.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:22:27](/episodes/ep-BKcOm32ZEGk.md#t-00-21-57) [○] (Accusation) ["People managing Charlie Kirk panicked when he began pushing back and decided to ..."](/statements/statement-be49665a1d41.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -23715,51 +23799,45 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (43)</summary>
-
-- [00:04:07](/episodes/ep-CMcktj3Egfo.md#t-00-03-32) [○] (Claim) ["After Charlie Kirk’s death, Candace Owens said she was not sleeping or eating an..."](/statements/statement-c05329536d58.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (41)</summary>
 
 - [00:04:49](/episodes/ep-CMcktj3Egfo.md#t-00-04-12) [?] (Claim) ["Candace Owens and Charlie Kirk traveled to Israel together in 2018."](/statements/statement-3f037ef51efe.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
-- [00:07:03](/episodes/ep-CMcktj3Egfo.md#t-00-06-20) [○] (Claim) ["Candace Owens said a recurring dream depicted Charlie Kirk telling her he had be..."](/statements/statement-4cb06630bbbf.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Purgatory](/entities/concept-purgatory.md)
-
-- [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-47) [?] (Claim) ["Candace Owens texted Andrew Kolvet about the dream and said he never answered."](/statements/statement-857b2e90108b.md)
+- [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) [?] (Claim) ["Candace Owens texted Andrew Kolvet about the dream and said he never answered."](/statements/statement-857b2e90108b.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-- [00:08:07](/episodes/ep-CMcktj3Egfo.md#t-00-07-47) [?] (Accusation) ["Andrew Kolvet orchestrated attacks against Candace Owens and was caught doing so..."](/statements/statement-312bf746c5f8.md)
+- [00:08:07](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) [?] (Accusation) ["Andrew Kolvet orchestrated attacks against Candace Owens and was caught doing so..."](/statements/statement-312bf746c5f8.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-31) [?] (Claim) ["Andrew Kolvet once called Candace Owens before AmericaFest and seriously asked w..."](/statements/statement-b6524823ffb8.md)
+- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-29) [?] (Claim) ["Andrew Kolvet once called Candace Owens before AmericaFest and seriously asked w..."](/statements/statement-b6524823ffb8.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
 
 - [00:09:30](/episodes/ep-CMcktj3Egfo.md#t-00-09-30) [✓] (Claim) ["Dennis Prager fell and was seriously injured after publishing a hostile article ..."](/statements/statement-b803b1beb659.md)
   - About: [Dennis Prager](/entities/person-dennis-prager.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:10:58](/episodes/ep-CMcktj3Egfo.md#t-00-10-14) [✗] (Accusation) ["Sun Myung Moon worked for the CIA while leading what became a religious cult."](/statements/statement-8d2e174b07b8.md)
+- [00:10:58](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) [✗] (Accusation) ["Sun Myung Moon worked for the CIA while leading what became a religious cult."](/statements/statement-8d2e174b07b8.md)
   - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Unification Church](/entities/org-unification-church.md)
 
-- [00:11:09](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) [✓] (Claim) ["The Unification movement bought land, buildings, blocks, and companies while Sun..."](/statements/statement-4da7059187b1.md)
+- [00:11:09](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) [✓] (Claim) ["The Unification movement bought land, buildings, blocks, and companies while Sun..."](/statements/statement-4da7059187b1.md)
   - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md), [Messianism](/entities/concept-messianism.md)
 
-- [00:11:20](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) [✓] (Claim) ["Sun Myung Moon became involved with Liberty University through Jerry Falwell Sr."](/statements/statement-e84babb7fb49.md)
+- [00:11:20](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) [✓] (Claim) ["Sun Myung Moon became involved with Liberty University through Jerry Falwell Sr."](/statements/statement-e84babb7fb49.md)
   - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Liberty University](/entities/org-liberty-university.md), [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr.md)
 
-- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) [?] (Accusation) ["Turning Point Faith was intended to turn Charlie Kirk into a controllable messia..."](/statements/statement-14661745d0ac.md)
+- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) [?] (Accusation) ["Turning Point Faith was intended to turn Charlie Kirk into a controllable messia..."](/statements/statement-14661745d0ac.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Messianism](/entities/concept-messianism.md)
 
 - [00:11:58](/episodes/ep-CMcktj3Egfo.md#t-00-11-30) [◐] (Accusation) ["The Unification movement was riddled with allegations of sexual rituals, physica..."](/statements/statement-2e48da53b2e5.md)
   - About: [Unification Church](/entities/org-unification-church.md), [Cult](/entities/concept-cult.md)
 
-- [00:12:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-09) [✓] (Claim) ["Turning Point USA solicits supporters to include retirement assets, property, an..."](/statements/statement-ac75f227285b.md)
+- [00:12:25](/episodes/ep-CMcktj3Egfo.md#t-00-11-58) [✓] (Claim) ["Turning Point USA solicits supporters to include retirement assets, property, an..."](/statements/statement-ac75f227285b.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Estate planning](/entities/concept-estate-planning.md)
 
-- [00:13:19](/episodes/ep-CMcktj3Egfo.md#t-00-12-51) [✓] (Claim) ["Shinzo Abe was assassinated by a man who blamed Abe’s Unification Church ties fo..."](/statements/statement-80ebe46bbebd.md)
+- [00:13:19](/episodes/ep-CMcktj3Egfo.md#t-00-13-06) [✓] (Claim) ["Shinzo Abe was assassinated by a man who blamed Abe’s Unification Church ties fo..."](/statements/statement-80ebe46bbebd.md)
   - About: [Shinzo Abe](/entities/person-shinzo-abe.md), [Unification Church](/entities/org-unification-church.md), [Assassination of Shinzo Abe](/entities/event-assassination-shinzo-abe.md)
 
-- [00:16:29](/episodes/ep-CMcktj3Egfo.md#t-00-15-44) [✓] (Claim) ["The Falkirk Center was designed to combine Charlie Kirk’s youth appeal with evan..."](/statements/statement-435669c8639b.md)
+- [00:16:29](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) [✓] (Claim) ["The Falkirk Center was designed to combine Charlie Kirk’s youth appeal with evan..."](/statements/statement-435669c8639b.md)
   - About: [Falkirk Center](/entities/org-falkirk-center.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Liberty University](/entities/org-liberty-university.md)
 
 - [00:16:55](/episodes/ep-CMcktj3Egfo.md#t-00-16-29) [✓] (Claim) ["Jerry Falwell Jr. separated Liberty University’s finances from the church’s fina..."](/statements/statement-28803a46380a.md)
@@ -23768,40 +23846,40 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45) [✗] (Claim) ["Charlie Kirk and Jerry Falwell Jr. established the Falkirk Center in 2021."](/statements/statement-c8e10a053699.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Falkirk Center](/entities/org-falkirk-center.md)
 
-- [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28) [◐] (Claim) ["Johnnie Moore left Liberty University in 2014 for Hollywood to start the KAIROS ..."](/statements/statement-1b2adcf35658.md)
+- [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21) [◐] (Claim) ["Johnnie Moore left Liberty University in 2014 for Hollywood to start the KAIROS ..."](/statements/statement-1b2adcf35658.md)
   - About: [Johnnie Moore](/entities/person-johnnie-moore.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Liberty University](/entities/org-liberty-university.md)
 
-- [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10) [◐] (Claim) ["Mark Burnett became chairman of MGM, which owned Summer House, and Erika Kirk ap..."](/statements/statement-40e79c3199ca.md)
+- [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07) [◐] (Claim) ["Mark Burnett became chairman of MGM, which owned Summer House, and Erika Kirk ap..."](/statements/statement-40e79c3199ca.md)
   - About: [Mark Burnett](/entities/person-mark-burnett.md), [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer.md), [Summer House](/entities/work-summer-house-tv-series.md)
 
-- [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-37) [✓] (Claim) ["Johnnie Moore serves on an Anti-Defamation League task force and received the Si..."](/statements/statement-84b00687125f.md)
+- [00:21:09](/episodes/ep-CMcktj3Egfo.md#t-00-20-32) [✓] (Claim) ["Johnnie Moore serves on an Anti-Defamation League task force and received the Si..."](/statements/statement-84b00687125f.md)
   - About: [Johnnie Moore](/entities/person-johnnie-moore.md), [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Simon Wiesenthal Center](/entities/org-simon-wiesenthal-center.md)
 
-- [00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-24-41) [◐] (Claim) ["Sun Myung Moon selected Ronald S. Godwin to run The Washington Times and declare..."](/statements/statement-8f5037a2478e.md)
+- [00:25:08](/episodes/ep-CMcktj3Egfo.md#t-00-25-03) [◐] (Claim) ["Sun Myung Moon selected Ronald S. Godwin to run The Washington Times and declare..."](/statements/statement-8f5037a2478e.md)
   - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Ronald S. Godwin](/entities/person-ronald-s-godwin.md), [The Washington Times](/entities/org-washington-times.md)
 
-- [00:25:49](/episodes/ep-CMcktj3Egfo.md#t-00-25-24) [○] (Opinion) ["Candace Owens suggested that Johnnie Moore appeared to be one of Ronald S. Godwi..."](/statements/statement-d2ad2ba744f0.md)
+- [00:25:49](/episodes/ep-CMcktj3Egfo.md#t-00-25-03) [○] (Opinion) ["Candace Owens suggested that Johnnie Moore appeared to be one of Ronald S. Godwi..."](/statements/statement-d2ad2ba744f0.md)
   - About: [Johnnie Moore](/entities/person-johnnie-moore.md), [Ronald S. Godwin](/entities/person-ronald-s-godwin.md)
 
-- [00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-26-09) [◐] (Claim) ["Ronald S. Godwin retired from Liberty University in October 2014, Johnnie Moore ..."](/statements/statement-7fd842ade5ff.md)
+- [00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-25-49) [◐] (Claim) ["Ronald S. Godwin retired from Liberty University in October 2014, Johnnie Moore ..."](/statements/statement-7fd842ade5ff.md)
   - About: [Ronald S. Godwin](/entities/person-ronald-s-godwin.md), [Johnnie Moore](/entities/person-johnnie-moore.md), [Liberty University](/entities/org-liberty-university.md)
 
-- [00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53) [◐] (Claim) ["After succeeding Jerry Falwell Jr., Jerry Prevo fired Charlie Kirk from Liberty ..."](/statements/statement-3b1021647812.md)
+- [00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-31) [◐] (Claim) ["After succeeding Jerry Falwell Jr., Jerry Prevo fired Charlie Kirk from Liberty ..."](/statements/statement-3b1021647812.md)
   - About: [Jerry Prevo](/entities/person-jerry-prevo.md), [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-38) [?] (Accusation) ["Turning Point Faith is intended to function as a second Unification movement and..."](/statements/statement-a8c533e3ee9c.md)
+- [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-10) [?] (Accusation) ["Candace Owens said Turning Point Faith was intended to be the Moonies 2.0 and sa..."](/statements/statement-a8c533e3ee9c.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md), [Unification Church](/entities/org-unification-church.md), [One-world government](/entities/concept-one-world-government.md)
 
-- [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-04) [?] (Accusation) ["Candace Owens said the Unification movement was likely a CIA operation and that ..."](/statements/statement-9c4ef026c214.md)
+- [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) [?] (Accusation) ["Candace Owens said the Unification movement was likely a CIA operation and that ..."](/statements/statement-9c4ef026c214.md)
   - About: [Unification Church](/entities/org-unification-church.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Turning Point Faith](/entities/org-turning-point-faith.md)
 
-- [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-04) [?] (Accusation) ["Turning Point Faith’s real-estate activity is connected to non-natural fires and..."](/statements/statement-f47f1d47dfa9.md)
+- [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) [?] (Accusation) ["Candace Owens suggested that Turning Point Faith's real-estate activity might be..."](/statements/statement-f47f1d47dfa9.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md), [Land grab](/entities/concept-land-grab.md)
 
-- [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-49) [✗] (Accusation) ["Mossad and the CIA are effectively inseparable, and Benjamin Netanyahu previousl..."](/statements/statement-27fb03763d42.md)
+- [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47) [✗] (Opinion) ["Candace Owens said it was almost as if Mossad and the CIA were inseparable and t..."](/statements/statement-27fb03763d42.md)
   - About: [Mossad](/entities/org-mossad.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
-- [00:33:31](/episodes/ep-CMcktj3Egfo.md#t-00-33-15) [✓] (Accusation) ["Israel intentionally killed tens of thousands of Palestinian civilians in Gaza i..."](/statements/statement-b6b73a9dce86.md)
+- [00:33:31](/episodes/ep-CMcktj3Egfo.md#t-00-33-04) [✓] (Accusation) ["Israel intentionally killed tens of thousands of Palestinian civilians in Gaza i..."](/statements/statement-b6b73a9dce86.md)
   - About: [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md), [Palestine](/entities/gpe-palestine.md)
 
 - [00:35:58](/episodes/ep-CMcktj3Egfo.md#t-00-35-55) [◐] (Accusation) ["A plot to murder Candace Owens was discovered on September 10, 2024, and the cas..."](/statements/statement-ab7e9c34db1f.md)
@@ -23810,7 +23888,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:37:08](/episodes/ep-CMcktj3Egfo.md#t-00-36-40) [○] (Accusation) ["Candace Owens said that if anything happened to Tucker Carlson or her, Israel wo..."](/statements/statement-083d4f1df0d7.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Israel](/entities/gpe-israel.md)
 
-- [00:37:43](/episodes/ep-CMcktj3Egfo.md#t-00-37-22) [?] (Accusation) ["The U.S. government covers up Jeffrey Epstein’s crimes while treating protected ..."](/statements/statement-5e1e15a29145.md)
+- [00:37:43](/episodes/ep-CMcktj3Egfo.md#t-00-37-15) [?] (Accusation) ["The U.S. government covers up Jeffrey Epstein’s crimes while treating protected ..."](/statements/statement-5e1e15a29145.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [United States](/entities/gpe-united-states.md), [Freedom of speech](/entities/concept-free-speech.md)
 
 - [00:41:09](/episodes/ep-CMcktj3Egfo.md#t-00-40-43) [?] (Claim) ["Seth Dillon sent Candace Owens messages pressuring her to publicly address Nick ..."](/statements/statement-f66e7f90707d.md)
@@ -23822,7 +23900,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:42:50](/episodes/ep-CMcktj3Egfo.md#t-00-42-32) [✓] (Claim) ["U.S. taxpayers fund Israel’s military activities even as a Likud member publicly..."](/statements/statement-d02b6513720a.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Likud](/entities/org-likud.md)
 
-- [00:44:03](/episodes/ep-CMcktj3Egfo.md#t-00-43-55) [○] (Accusation) ["Candace Owens said she did not believe the U.S. military’s purpose abroad was to..."](/statements/statement-eb6317325ddc.md)
+- [00:44:03](/episodes/ep-CMcktj3Egfo.md#t-00-43-49) [○] (Accusation) ["Candace Owens said she did not believe the U.S. military’s purpose abroad was to..."](/statements/statement-eb6317325ddc.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 - [00:48:45](/episodes/ep-CMcktj3Egfo.md#t-00-48-27) [○] (Promise) ["Candace Owens promised a future episode about Erika Kirk’s background and said s..."](/statements/statement-a32253660279.md)
@@ -23834,27 +23912,27 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:50:35](/episodes/ep-CMcktj3Egfo.md#t-00-49-54) [✗] (Claim) ["Candace Owens repeated an online claim that Javier Milei’s full surname is Milei..."](/statements/statement-bf12f0690127.md)
   - About: [Javier Milei](/entities/person-javier-milei.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
-- [00:50:58](/episodes/ep-CMcktj3Egfo.md#t-00-50-35) [?] (Accusation) ["Senior U.S. military leaders operate as mercenary squads protecting criminal gan..."](/statements/statement-b6ab19afdae2.md)
+- [00:50:58](/episodes/ep-CMcktj3Egfo.md#t-00-50-35) [?] (Accusation) ["Candace Owens said she thought senior U.S. military leaders operated as mercenar..."](/statements/statement-b6ab19afdae2.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 - [00:50:58](/episodes/ep-CMcktj3Egfo.md#t-00-50-35) [○] (Accusation) ["Candace Owens speculated that some school shootings may involve trafficked child..."](/statements/statement-314973a5341d.md)
   - About: [United States](/entities/gpe-united-states.md)
 
-- [00:51:41](/episodes/ep-CMcktj3Egfo.md#t-00-50-58) [○] (Accusation) ["Candace Owens said one-world government was the explicit aim of the network she ..."](/statements/statement-61d5d55173bf.md)
+- [00:51:41](/episodes/ep-CMcktj3Egfo.md#t-00-51-40) [○] (Opinion) ["Candace Owens said she believed one-world government was the explicit aim."](/statements/statement-61d5d55173bf.md)
   - About: [One-world government](/entities/concept-one-world-government.md)
 
-- [00:52:12](/episodes/ep-CMcktj3Egfo.md#t-00-51-41) [○] (Promise) ["Candace Owens said she would not vote until Charlie Kirk’s killing was fully exp..."](/statements/statement-3f9a56042c2e.md)
+- [00:52:12](/episodes/ep-CMcktj3Egfo.md#t-00-51-40) [○] (Promise) ["Candace Owens said she would not vote until Charlie Kirk’s killing was fully exp..."](/statements/statement-3f9a56042c2e.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Assassination of Charlie Kirk](/entities/event-assassination-charlie-kirk.md)
 
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (32)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (35)</summary>
 
-- [00:03:51](/episodes/ep-wcD2khO3rOA.md#t-00-03-29) [?] (Claim) ["A person directly involved in planning Charlie Kirk’s September 11 appearance at..."](/statements/statement-46eb164a6911.md)
+- [00:03:51](/episodes/ep-wcD2khO3rOA.md#t-00-03-29) [?] (Claim) ["Owens said a person directly involved in planning Charlie Kirk's September 11 ap..."](/statements/statement-46eb164a6911.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charis Bible College](/entities/org-charis-bible-college.md)
 
-- [00:05:32](/episodes/ep-wcD2khO3rOA.md#t-00-04-58) [○] (Accusation) ["The lack of advance security planning for Charlie Kirk’s next scheduled event in..."](/statements/statement-ac6469815827.md)
+- [00:05:32](/episodes/ep-wcD2khO3rOA.md#t-00-04-58) [○] (Accusation) ["The lack of advance security planning for Charlie Kirk's next scheduled event in..."](/statements/statement-ac6469815827.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:06:32](/episodes/ep-wcD2khO3rOA.md#t-00-06-24) [◐] (Claim) ["Tyler Bowyer, Erika Kirk, and Cabot Phillips attended and graduated from Liberty..."](/statements/statement-d5845184e457.md)
@@ -23863,11 +23941,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) [◐] (Claim) ["Andrew Kolvet worked in public relations at KAIROS Company under Johnnie Moore, ..."](/statements/statement-7f60801be0e3.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Johnnie Moore](/entities/person-johnnie-moore.md), [KAIROS Company](/entities/org-kairos-company.md)
 
-- [00:07:40](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) [◐] (Accusation) ["Johnnie Moore was selected to lead the Gaza Humanitarian Foundation despite bein..."](/statements/statement-5fc4301c1e7b.md)
+- [00:07:40](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) [◐] (Accusation) ["Owens questioned why public-relations professional Johnnie Moore was selected to..."](/statements/statement-5fc4301c1e7b.md)
   - About: [Johnnie Moore](/entities/person-johnnie-moore.md), [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)
 
 - [00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36) [◐] (Claim) ["Jerry Falwell Jr. and Charlie Kirk established the Falkirk Center, and after Fal..."](/statements/statement-b5a582fabd77.md)
   - About: [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Falkirk Center](/entities/org-falkirk-center.md)
+
+- [00:10:02](/episodes/ep-wcD2khO3rOA.md#t-00-09-20) [✓] (Claim) ["Owens said the aircraft later known as N888KG was registered in Romania from 201..."](/statements/statement-c02c1d9f9d24.md)
+  - About: [N888KG](/entities/vehicle-n888kg.md), [Romania](/entities/gpe-romania.md)
+
+- [00:10:55](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) [◐] (Claim) ["Lori Frantzve established the Everyday Heroes foundation, from which the Romania..."](/statements/statement-131c88f72f66.md)
+  - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md), [Romanian Angels Project](/entities/org-romanian-angels-project.md)
 
 - [00:11:27](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) [◐] (Accusation) ["The Romanian Angels Project worked with Colonel Otto Busher III, who was later a..."](/statements/statement-254404111778.md)
   - About: [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Otto Busher III](/entities/person-otto-busher-iii.md), [Romania](/entities/gpe-romania.md)
@@ -23887,17 +23971,23 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:15:20](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) [✓] (Accusation) ["David Frodsham, described as a civilian commander stationed at Fort Huachuca, wa..."](/statements/statement-10fa7511dab1.md)
   - About: [David Frodsham](/entities/person-david-frodsham.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
-- [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) [◐] (Accusation) ["George Zinn was associated with child-sex-abuse allegations and told hospital st..."](/statements/statement-855e6e00ca96.md)
+- [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) [◐] (Accusation) ["Owens said George Zinn had child sexual abuse material on his phone and told hos..."](/statements/statement-855e6e00ca96.md)
   - About: [George Zinn](/entities/person-george-zinn.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:16:00](/episodes/ep-wcD2khO3rOA.md#t-00-15-39) [?] (Claim) ["Andrew Piscadlo, a photographer initially suspected online after the Charlie Kir..."](/statements/statement-55e395695fbb.md)
   - About: [Andrew Piscadlo](/entities/person-andrew-piscadlo.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md)
+
+- [00:18:55](/episodes/ep-wcD2khO3rOA.md#t-00-18-45) [○] (Claim) ["Owens said Roy Edgar McCoy ran psychological operations for naval intelligence t..."](/statements/statement-099cf068ea5d.md)
+  - About: [Roy Edgar McCoy](/entities/person-roy-edgar-mccoy.md)
 
 - [00:20:07](/episodes/ep-wcD2khO3rOA.md#t-00-19-58) [?] (Claim) ["The HADES military aircraft flew around Utah Valley University shortly before an..."](/statements/statement-1be5d5cff87a.md)
   - About: [Utah Valley University](/entities/org-utah-valley-university.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:31:50](/episodes/ep-wcD2khO3rOA.md#t-00-31-32) [?] (Accusation) ["After the survivor refused adoption, the home told her the fetus had no heartbea..."](/statements/statement-2821f895aff7.md)
   - About: [Liberty Godparent Home](/entities/org-liberty-godparent-home.md)
+
+- [00:33:15](/episodes/ep-wcD2khO3rOA.md#t-00-32-37) [?] (Claim) ["Two years after leaving the home, the survivor unexpectedly received an invitati..."](/statements/statement-d55f2798ca5d.md)
+  - About: [Liberty Godparent Home](/entities/org-liberty-godparent-home.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 - [00:38:45](/episodes/ep-wcD2khO3rOA.md#t-00-38-25) [○] (Opinion) ["AmericaFest felt spiritually dark and centered on money and on turning Charlie K..."](/statements/statement-4cd3f81ba1dc.md)
   - About: [AmericaFest 2025](/entities/event-americafest-2025.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)
@@ -23914,31 +24004,28 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:47:30](/episodes/ep-wcD2khO3rOA.md#t-00-46-51) [?] (Claim) ["Benjamin Netanyahu offered to take Turning Point USA to the next level, but Char..."](/statements/statement-5c2477ef3180.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) [◐] (Accusation) ["The Iran–Contra affair involved the CIA and Mossad trafficking weapons through S..."](/statements/statement-8a209df7944f.md)
+- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) [◐] (Accusation) ["Owens said the Iran-Contra affair involved the CIA and Mossad trafficking weapon..."](/statements/statement-8a209df7944f.md)
   - About: [Iran–Contra affair](/entities/event-iran-contra-affair.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Mossad](/entities/org-mossad.md)
 
-- [00:49:16](/episodes/ep-wcD2khO3rOA.md#t-00-48-52) [◐] (Accusation) ["Sun Myung Moon used the Unification Church and affiliated organizations such as ..."](/statements/statement-ded6a2903d80.md)
-  - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md), [The Washington Times](/entities/org-washington-times.md)
+- [00:58:25](/episodes/ep-wcD2khO3rOA.md#t-00-57-44) [◐] (Claim) ["Owens said Turning Point Faith held a pastor summit led by Rob McCoy and Sean Fe..."](/statements/statement-1b0c9fa3365f.md)
+  - About: [Turning Point Faith](/entities/org-turning-point-faith.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sean Feucht](/entities/person-sean-feucht.md)
 
-- [00:50:02](/episodes/ep-wcD2khO3rOA.md#t-00-49-36) [✗] (Claim) ["Sun Myung Moon’s network provided roughly $20–40 million that rescued Liberty Un..."](/statements/statement-b2b204dd2376.md)
-  - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Liberty University](/entities/org-liberty-university.md)
-
-- [01:04:32](/episodes/ep-wcD2khO3rOA.md#t-01-04-08) [○] (Accusation) ["Charlie Kirk’s trips to Korea and Japan were not principally about defending sup..."](/statements/statement-91dcd3094221.md)
+- [01:04:32](/episodes/ep-wcD2khO3rOA.md#t-01-04-08) [○] (Opinion) ["Owens said she did not think Charlie Kirk's trips to Korea and Japan were princi..."](/statements/statement-91dcd3094221.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [South Korea](/entities/gpe-south-korea.md), [Japan](/entities/gpe-japan.md)
 
-- [01:07:03](/episodes/ep-wcD2khO3rOA.md#t-01-06-55) [?] (Accusation) ["Turning Point USA has become a sophisticated money-laundering network in which f..."](/statements/statement-b4cea32af74c.md)
+- [01:07:03](/episodes/ep-wcD2khO3rOA.md#t-01-06-55) [?] (Accusation) ["Owens said Turning Point USA felt like a complex financial web with money flowin..."](/statements/statement-b4cea32af74c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [01:11:11](/episodes/ep-wcD2khO3rOA.md#t-01-10-30) [✓] (Claim) ["Hyun-bo Son was accused of violating South Korea’s Public Official Election Act ..."](/statements/statement-7ebe5221d50a.md)
   - About: [Hyun-bo Son](/entities/person-hyun-bo-son.md), [South Korea's Public Official Election Act](/entities/law-south-korea-public-official-election-act.md), [South Korea's Local Education Autonomy Act](/entities/law-south-korea-local-education-autonomy-act.md)
 
-- [01:12:15](/episodes/ep-wcD2khO3rOA.md#t-01-11-56) [○] (Accusation) ["Charlie Kirk was assassinated because he rejected an offer to turn Turning Point..."](/statements/statement-b5023ea1ef67.md)
+- [01:12:15](/episodes/ep-wcD2khO3rOA.md#t-01-11-56) [○] (Accusation) ["Owens presented as her best guess that Charlie Kirk was assassinated because he ..."](/statements/statement-b5023ea1ef67.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Sun Myung Moon](/entities/person-sun-myung-moon.md)
 
 - [01:15:50](/episodes/ep-wcD2khO3rOA.md#t-01-15-07) [○] (Accusation) ["Christian organizations were infiltrated through a psychological operation, and ..."](/statements/statement-5a051a7a4870.md)
   - About: [Christianity](/entities/concept-christianity.md)
 
-- [01:18:01](/episodes/ep-wcD2khO3rOA.md#t-01-17-26) [○] (Accusation) ["An organized operation assassinated Charlie Kirk, multiple people are implicated..."](/statements/statement-52a6e1999296.md)
+- [01:18:01](/episodes/ep-wcD2khO3rOA.md#t-01-17-26) [○] (Accusation) ["Owens said she felt strongly that an operation to assassinate Charlie Kirk had t..."](/statements/statement-52a6e1999296.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [01:20:10](/episodes/ep-wcD2khO3rOA.md#t-01-19-32) [◐] (Claim) ["Paul E. Vallely, a retired Army intelligence officer and Turning Point USA advis..."](/statements/statement-45c522b4c832.md)
@@ -23946,6 +24033,149 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [01:23:18](/episodes/ep-wcD2khO3rOA.md#t-01-22-35) [◐] (Claim) ["Farris and Dan Wilks fund PragerU, The Daily Wire, megachurches, and Rob McCoy’s..."](/statements/statement-ef9d6dc77953.md)
   - About: [Farris Wilks](/entities/person-farris-wilks.md), [Dan Wilks](/entities/person-dan-wilks.md), [PragerU](/entities/org-prageru.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (46)</summary>
+
+- [00:00:37](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00) [○] (Opinion) ["Kanye West was right that people who oppose a particular agenda are blackballed."](/statements/statement-0ad5a79042eb.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Antisemitism](/entities/concept-antisemitism.md)
+
+- [00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-43) [◐] (Accusation) ["The Daily Wire has spent two years fighting Candace Owens after she left the com..."](/statements/statement-8f269b375d35.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:01:31](/episodes/ep-zSKrxIUMNqw.md#t-00-01-21) [✓] (Claim) ["A former Turning Point Action employee was sentenced for a crime in Arizona."](/statements/statement-357b8882a56a.md)
+  - About: [Turning Point Action](/entities/org-turning-point-action.md), [Austin Smith](/entities/person-austin-smith.md), [Arizona](/entities/gpe-arizona.md)
+
+- [00:01:43](/episodes/ep-zSKrxIUMNqw.md#t-00-01-21) [◐] (Accusation) ["Tyler Bowyer has been running Turning Point USA and staffed nearly everyone arou..."](/statements/statement-00fcdc461d29.md)
+  - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11) [○] (Accusation) ["The Daily Wire designed a new show specifically to mock Candace Owens and Tucker..."](/statements/statement-8d537c2f578a.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:03:29](/episodes/ep-zSKrxIUMNqw.md#t-00-03-27) [○] (Accusation) ["Ben Shapiro was not Charlie Kirk's friend and worked behind the scenes to impede..."](/statements/statement-8581516af03e.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:04:48](/episodes/ep-zSKrxIUMNqw.md#t-00-04-07) [○] (Accusation) ["Ben Shapiro's strategy is to find Christians and pressure them financially to at..."](/statements/statement-390b6882796b.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Christians](/entities/concept-christians.md), [Christianity](/entities/concept-christianity.md)
+
+- [00:05:33](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) [◐] (Accusation) ["Ben Shapiro demanded Megyn Kelly's allegiance against Candace Owens and Tucker C..."](/statements/statement-55cdeafd37b1.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) [◐] (Accusation) ["Ben Shapiro paid for a prime AmericaFest speaking slot after Erika Kirk and used..."](/statements/statement-e71af1266a9d.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [AmericaFest 2025](/entities/event-americafest-2025.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:12:24](/episodes/ep-zSKrxIUMNqw.md#t-00-11-44) [○] (Claim) ["Maggie Wegner did not receive the Daily Wire role after declining to make the au..."](/statements/statement-564a2d8e110c.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:14:33](/episodes/ep-zSKrxIUMNqw.md#t-00-14-12) [○] (Accusation) ["Jeremy Boreing publicly identified Owens's views that genocide is always wrong a..."](/statements/statement-22bf3ad02120.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:15:28](/episodes/ep-zSKrxIUMNqw.md#t-00-15-27) [✗] (Claim) ["Hollywood was founded by gangs, including Jewish mafiosos and bootleggers."](/statements/statement-3369186e5742.md)
+  - About: [Hollywood](/entities/gpe-hollywood.md), [Organized crime](/entities/concept-organized-crime.md)
+
+- [00:16:05](/episodes/ep-zSKrxIUMNqw.md#t-00-15-27) [✗] (Accusation) ["Candace Owens said she believed the Justin Baldoni dispute was an attempted host..."](/statements/statement-832b6566502e.md)
+  - About: [Justin Baldoni](/entities/person-justin-baldoni.md), [Ryan Reynolds](/entities/person-ryan-reynolds.md), [Blake Lively](/entities/person-blake-lively.md)
+
+- [00:16:42](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11) [✗] (Accusation) ["Charlie Kirk was killed when he tried to leave an entertainment gang."](/statements/statement-9e4c24f34534.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Organized crime](/entities/concept-organized-crime.md)
+
+- [00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11) [○] (Accusation) ["Candace Owens said Ben Shapiro's behavior since Charlie Kirk's assassination led..."](/statements/statement-b2b9cb99572e.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:54](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44) [○] (Accusation) ["Ben Shapiro has attempted hostile takeovers of several companies, including Cand..."](/statements/statement-2c3261c2e775.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:19:36](/episodes/ep-zSKrxIUMNqw.md#t-00-19-23) [✓] (Claim) ["Andrew Breitbart died on March 1, 2012, at age 43 from an apparent heart attack."](/statements/statement-ee54d4590dcc.md)
+  - About: [Andrew Breitbart](/entities/person-andrew-breitbart.md)
+
+- [00:20:06](/episodes/ep-zSKrxIUMNqw.md#t-00-20-01) [○] (Accusation) ["The Los Angeles coroner's office was corrupt when it handled Andrew Breitbart's ..."](/statements/statement-a8d538bb800f.md)
+  - About: [Andrew Breitbart](/entities/person-andrew-breitbart.md), [Los Angeles](/entities/gpe-los-angeles.md)
+
+- [00:20:21](/episodes/ep-zSKrxIUMNqw.md#t-00-20-01) [✗] (Claim) ["Forensic technician Michael Cormier was involved with Andrew Breitbart's autopsy..."](/statements/statement-fb0ab059a602.md)
+  - About: [Michael Cormier](/entities/person-michael-cormier.md), [Andrew Breitbart](/entities/person-andrew-breitbart.md)
+
+- [00:21:30](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26) [✓] (Claim) ["Andrew Breitbart hired 28-year-old Ben Shapiro as Breitbart editor-at-large two ..."](/statements/statement-1f63b3cc3c6d.md)
+  - About: [Andrew Breitbart](/entities/person-andrew-breitbart.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:21:39](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26) [✓] (Claim) ["Candace Owens said that, if Ben Shapiro is to be believed, Andrew Breitbart had ..."](/statements/statement-3933ccc045e9.md)
+  - About: [Andrew Breitbart](/entities/person-andrew-breitbart.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:21:50](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26) [✓] (Claim) ["An internal battle over Breitbart News's direction followed Andrew Breitbart's d..."](/statements/statement-ab9aa071bb6c.md)
+  - About: [Andrew Breitbart](/entities/person-andrew-breitbart.md), [Breitbart News](/entities/org-breitbart-news.md), [Steve Bannon](/entities/person-steve-bannon.md)
+
+- [00:23:18](/episodes/ep-zSKrxIUMNqw.md#t-00-22-44) [✓] (Claim) ["Michelle Fields alleged that Corey Lewandowski assaulted her at a 2016 event and..."](/statements/statement-17c09eca1c24.md)
+  - About: [Michelle Fields](/entities/person-michelle-fields.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:24:24](/episodes/ep-zSKrxIUMNqw.md#t-00-23-58) [✓] (Claim) ["Ben Shapiro and Michelle Fields resigned from Breitbart on March 13, 2016."](/statements/statement-5ef89f983b9e.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Michelle Fields](/entities/person-michelle-fields.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:28:04](/episodes/ep-zSKrxIUMNqw.md#t-00-28-02) [✓] (Claim) ["Candace Owens said Jamie Weinstein was a political journalist and podcaster, bel..."](/statements/statement-5575278ffbd0.md)
+  - About: [Jamie Weinstein](/entities/person-jamie-weinstein.md), [Michelle Fields](/entities/person-michelle-fields.md), [National Review](/entities/org-national-review.md)
+
+- [00:28:30](/episodes/ep-zSKrxIUMNqw.md#t-00-28-02) [✗] (Claim) ["Released video showed that Michelle Fields's bruises were not where Corey Lewand..."](/statements/statement-3e02b7b1ddcd.md)
+  - About: [Michelle Fields](/entities/person-michelle-fields.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md)
+
+- [00:28:37](/episodes/ep-zSKrxIUMNqw.md#t-00-28-02) [○] (Claim) ["The Fields-Lewandowski scandal permanently damaged Breitbart News."](/statements/statement-bafaa86fb842.md)
+  - About: [Breitbart News](/entities/org-breitbart-news.md), [Michelle Fields](/entities/person-michelle-fields.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md)
+
+- [00:29:52](/episodes/ep-zSKrxIUMNqw.md#t-00-29-18) [○] (Accusation) ["Ben Shapiro has targeted the David Horowitz Freedom Center, Candace Owens's comp..."](/statements/statement-7e48c6e0ae91.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:31:43](/episodes/ep-zSKrxIUMNqw.md#t-00-31-35) [◐] (Accusation) ["The Daily Wire pursued Candace Owens through litigation, donor pressure, and int..."](/statements/statement-a5535fb1488b.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:34:37](/episodes/ep-zSKrxIUMNqw.md#t-00-34-10) [✓] (Claim) ["Magisterium AI's answers cite original sources and its knowledge base grows thro..."](/statements/statement-231e04766484.md)
+  - About: [Magisterium AI](/entities/org-magisterium-ai.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+- [00:36:07](/episodes/ep-zSKrxIUMNqw.md#t-00-36-05) [✓] (Claim) ["Nimi Skincare is made in the United States."](/statements/statement-4c8a5b1e7092.md)
+  - About: [Nimi Skincare](/entities/org-nimi-skincare.md), [United States](/entities/gpe-united-states.md)
+
+- [00:37:45](/episodes/ep-zSKrxIUMNqw.md#t-00-37-16) [○] (Claim) ["Kanye West's “Death Con 3” tweet cost Candace Owens many millions of dollars."](/statements/statement-f17a1df9b3bb.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West’s “Death Con 3” tweet](/entities/event-kanye-west-death-con-3-tweet.md)
+
+- [00:38:41](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35) [◐] (Claim) ["Kanye West lost his Adidas and Gap contracts after the 2022 post."](/statements/statement-27e1cba1d858.md)
+  - About: [Kanye West](/entities/person-kanye-west.md), [Adidas](/entities/org-adidas.md), [Gap Inc.](/entities/org-gap-inc.md)
+
+- [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-19) [○] (Accusation) ["The Daily Wire threatened to reduce Candace Owens's contract unless she publicly..."](/statements/statement-ced70ad0f846.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
+
+- [00:41:49](/episodes/ep-zSKrxIUMNqw.md#t-00-41-17) [○] (Claim) ["Charlie Kirk repeatedly told Candace Owens that he would die young and that Turn..."](/statements/statement-aeb277b5e217.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57) [○] (Claim) ["Candace Owens said Schaefer Security provided Charlie Kirk's travel security whe..."](/statements/statement-e858de21dbac.md)
+  - About: [Schaefer Security](/entities/org-schaefer-security.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:46:45](/episodes/ep-zSKrxIUMNqw.md#t-00-46-39) [○] (Promise) ["Candace Owens intends to identify who killed Charlie Kirk and determine Ben Shap..."](/statements/statement-0652e878d946.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:50:44](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02) [○] (Claim) ["Charlie Kirk was establishing an internal DOGE-style cost review at Turning Poin..."](/statements/statement-ff124d0ea29b.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:51:30](/episodes/ep-zSKrxIUMNqw.md#t-00-51-02) [○] (Opinion) ["Candace Owens said she believed Charlie Kirk had discovered something about Turn..."](/statements/statement-98a9c3d1e72c.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:52:20](/episodes/ep-zSKrxIUMNqw.md#t-00-51-39) [◐] (Claim) ["Candace Owens was banned from Australia, her YouTube channel was demonetized, an..."](/statements/statement-f6a05eb917b9.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md), [YouTube](/entities/org-youtube.md)
+
+- [00:52:47](/episodes/ep-zSKrxIUMNqw.md#t-00-52-20) [○] (Claim) ["Candace Owens turned down millions of dollars rather than denounce Kanye West."](/statements/statement-f1ea4a5740c9.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
+
+- [00:55:28](/episodes/ep-zSKrxIUMNqw.md#t-00-54-57) [○] (Opinion) ["What Israel is doing to Palestinians is wrong."](/statements/statement-44d8ad95f2b6.md)
+  - About: [Israel](/entities/gpe-israel.md), [Palestine](/entities/gpe-palestine.md)
+
+- [00:57:00](/episodes/ep-zSKrxIUMNqw.md#t-00-57-00) [◐] (Accusation) ["Candace Owens said she believed chicken feed had been poisoned, questioned wheth..."](/statements/statement-2eca0af8616c.md)
+  - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Perdue Farms](/entities/org-perdue-farms.md), [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md)
+
+- [00:57:42](/episodes/ep-zSKrxIUMNqw.md#t-00-57-40) [✗] (Accusation) ["Brigitte Macron is suing people to suppress the truth that she was born male and..."](/statements/statement-802a4814cfb0.md)
+  - About: [Brigitte Macron](/entities/person-brigitte-macron.md), [France](/entities/gpe-france.md)
+
+- [00:57:53](/episodes/ep-zSKrxIUMNqw.md#t-00-57-40) [○] (Opinion) ["The investigation into Charlie Kirk's death repeatedly leads to child sex traffi..."](/statements/statement-bf4d82ca6126.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Child sex trafficking](/entities/concept-child-sex-trafficking.md)
+
+- [00:58:59](/episodes/ep-zSKrxIUMNqw.md#t-00-58-21) [○] (Opinion) ["Decentralized tips from viewers are solving the mystery of what happened to Char..."](/statements/statement-fd5071dc69ec.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -29992,7 +30222,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (553)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (567)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5)</summary>
@@ -31189,10 +31419,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (6)</summary>
-
-- [00:04:46](/episodes/ep-xjzb_t5Tk9o.md#t-00-04-20) (Accusation) **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is alwa..."](/statements/statement-22bf3ad02120.md)
-  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Genocide](/entities/concept-genocide.md)
+<summary>Candace x Bassem Youssef | Candace Ep 298 (3)</summary>
 
 - [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) (Accusation) **Candace Owens**: ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phi..."](/statements/statement-2bff31e56fad.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
@@ -31200,14 +31427,8 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-25-41) (Opinion) **Candace Owens**: ["Candace Owens and Charlie Kirk genuinely supported Israel because they..."](/statements/statement-eddb81ad71ef.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md)
 
-- [00:58:59](/episodes/ep-xjzb_t5Tk9o.md#t-00-58-54) (Claim) **Candace Owens**: ["Candace Owens was banned from Australia, her YouTube channel was demon..."](/statements/statement-f6a05eb917b9.md)
-  - Also about: [Australia](/entities/gpe-australia.md), [YouTube](/entities/org-youtube.md)
-
 - [01:06:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-12) (Accusation) **Candace Owens**: ["The media company where Candace Owens worked used her to appear commit..."](/statements/statement-2a737a7f8122.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md)
-
-- [01:44:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) (Promise) **Candace Owens**: ["Candace Owens intends to identify who killed Charlie Kirk and determin..."](/statements/statement-0652e878d946.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
 </details>
 
@@ -31390,16 +31611,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (6)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (5)</summary>
 
 - [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-59) (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler..."](/statements/statement-9afdb0bd9fc3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) (Opinion) **Candace Owens**: ["Based on her conversations with Charlie Kirk, Candace Owens believes h..."](/statements/statement-578962b6dc1a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:19:56](/episodes/ep-BKcOm32ZEGk.md#t-00-19-48) (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he would die young and..."](/statements/statement-aeb277b5e217.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-10) (Claim) **Candace Owens**: ["Candace Owens lost a job partly because she said pornography was a spi..."](/statements/statement-86cf5bc991df.md)
 
@@ -31411,21 +31629,18 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (14)</summary>
-
-- [00:04:07](/episodes/ep-CMcktj3Egfo.md#t-00-03-32) (Claim) **Candace Owens**: ["After Charlie Kirk’s death, Candace Owens said she was not sleeping or..."](/statements/statement-c05329536d58.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (13)</summary>
 
 - [00:04:49](/episodes/ep-CMcktj3Egfo.md#t-00-04-12) (Claim) **Candace Owens**: ["Candace Owens and Charlie Kirk traveled to Israel together in 2018."](/statements/statement-3f037ef51efe.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
-- [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-47) (Claim) **Candace Owens**: ["Candace Owens texted Andrew Kolvet about the dream and said he never a..."](/statements/statement-857b2e90108b.md)
+- [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) (Claim) **Candace Owens**: ["Candace Owens texted Andrew Kolvet about the dream and said he never a..."](/statements/statement-857b2e90108b.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-- [00:08:07](/episodes/ep-CMcktj3Egfo.md#t-00-07-47) (Accusation) **Candace Owens**: ["Andrew Kolvet orchestrated attacks against Candace Owens and was caugh..."](/statements/statement-312bf746c5f8.md)
+- [00:08:07](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) (Accusation) **Candace Owens**: ["Andrew Kolvet orchestrated attacks against Candace Owens and was caugh..."](/statements/statement-312bf746c5f8.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-31) (Claim) **Candace Owens**: ["Andrew Kolvet once called Candace Owens before AmericaFest and serious..."](/statements/statement-b6524823ffb8.md)
+- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-29) (Claim) **Candace Owens**: ["Andrew Kolvet once called Candace Owens before AmericaFest and serious..."](/statements/statement-b6524823ffb8.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [AmericaFest 2025](/entities/event-americafest-2025.md), [Witchcraft](/entities/concept-witchcraft.md)
 
 - [00:09:30](/episodes/ep-CMcktj3Egfo.md#t-00-09-30) (Claim) **Candace Owens**: ["Dennis Prager fell and was seriously injured after publishing a hostil..."](/statements/statement-b803b1beb659.md)
@@ -31434,7 +31649,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) (Opinion) **Dan Illouz** (via quoted speech): ["Dan Illouz called Tucker Carlson and Candace Owens intellectual vandal..."](/statements/statement-27edd2ed7766.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Knesset](/entities/org-knesset.md)
 
-- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) (Opinion) **Dan Illouz** (via quoted speech): ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke le..."](/statements/statement-070429465919.md)
+- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-35-18) (Opinion) **Dan Illouz** (via quoted speech): ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke le..."](/statements/statement-070429465919.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:35:58](/episodes/ep-CMcktj3Egfo.md#t-00-35-55) (Accusation) **Candace Owens**: ["A plot to murder Candace Owens was discovered on September 10, 2024, a..."](/statements/statement-ab7e9c34db1f.md)
@@ -31453,6 +31668,68 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:48:45](/episodes/ep-CMcktj3Egfo.md#t-00-48-27) (Promise) **Candace Owens**: ["Candace Owens promised a future episode about Erika Kirk’s background ..."](/statements/statement-a32253660279.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (19)</summary>
+
+- [00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-43) (Accusation) **Candace Owens**: ["The Daily Wire has spent two years fighting Candace Owens after she le..."](/statements/statement-8f269b375d35.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11) (Accusation) **Candace Owens**: ["The Daily Wire designed a new show specifically to mock Candace Owens ..."](/statements/statement-8d537c2f578a.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [The More You No-No](/entities/work-the-more-you-no-no.md)
+
+- [00:03:29](/episodes/ep-zSKrxIUMNqw.md#t-00-03-27) (Accusation) **Candace Owens**: ["Ben Shapiro was not Charlie Kirk's friend and worked behind the scenes..."](/statements/statement-8581516af03e.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Kanye West](/entities/person-kanye-west.md)
+
+- [00:05:33](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro demanded Megyn Kelly's allegiance against Candace Owens an..."](/statements/statement-55cdeafd37b1.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro paid for a prime AmericaFest speaking slot after Erika Kir..."](/statements/statement-e71af1266a9d.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [AmericaFest 2025](/entities/event-americafest-2025.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:07:19](/episodes/ep-zSKrxIUMNqw.md#t-00-06-43) (Claim) **Maggie Wegner** (via read message): ["The proposed show was presented as comedy about both political sides, ..."](/statements/statement-52323bcfd490.md)
+  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:08:02](/episodes/ep-zSKrxIUMNqw.md#t-00-07-27) (Claim) **Maggie Wegner** (via read message): ["The audition script and AI sample focused entirely on mocking Candace ..."](/statements/statement-30d7c5a773f6.md)
+  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md), [The More You No-No](/entities/work-the-more-you-no-no.md)
+
+- [00:14:33](/episodes/ep-zSKrxIUMNqw.md#t-00-14-12) (Accusation) **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is alwa..."](/statements/statement-22bf3ad02120.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Genocide](/entities/concept-genocide.md)
+
+- [00:18:54](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44) (Accusation) **Candace Owens**: ["Ben Shapiro has attempted hostile takeovers of several companies, incl..."](/statements/statement-2c3261c2e775.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:22:31](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03) (Accusation) **Anonymous Source #3 (Ep zSKrxIUMNqw)** (via paraphrase): ["A Breitbart executive told Candace Owens and Charlie Kirk that Ben Sha..."](/statements/statement-c6e9c9f99b51.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:29:52](/episodes/ep-zSKrxIUMNqw.md#t-00-29-18) (Accusation) **Candace Owens**: ["Ben Shapiro has targeted the David Horowitz Freedom Center, Candace Ow..."](/statements/statement-7e48c6e0ae91.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md), [The Babylon Bee](/entities/org-babylon-bee.md)
+
+- [00:31:43](/episodes/ep-zSKrxIUMNqw.md#t-00-31-35) (Accusation) **Candace Owens**: ["The Daily Wire pursued Candace Owens through litigation, donor pressur..."](/statements/statement-a5535fb1488b.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:37:45](/episodes/ep-zSKrxIUMNqw.md#t-00-37-16) (Claim) **Candace Owens**: ["Kanye West's “Death Con 3” tweet cost Candace Owens many millions of d..."](/statements/statement-f17a1df9b3bb.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md), [Kanye West’s “Death Con 3” tweet](/entities/event-kanye-west-death-con-3-tweet.md)
+
+- [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-19) (Accusation) **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless sh..."](/statements/statement-ced70ad0f846.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Kanye West](/entities/person-kanye-west.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
+
+- [00:41:49](/episodes/ep-zSKrxIUMNqw.md#t-00-41-17) (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he would die young and..."](/statements/statement-aeb277b5e217.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:46:45](/episodes/ep-zSKrxIUMNqw.md#t-00-46-39) (Promise) **Candace Owens**: ["Candace Owens intends to identify who killed Charlie Kirk and determin..."](/statements/statement-0652e878d946.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:52:20](/episodes/ep-zSKrxIUMNqw.md#t-00-51-39) (Claim) **Candace Owens**: ["Candace Owens was banned from Australia, her YouTube channel was demon..."](/statements/statement-f6a05eb917b9.md)
+  - Also about: [Australia](/entities/gpe-australia.md), [YouTube](/entities/org-youtube.md)
+
+- [00:52:47](/episodes/ep-zSKrxIUMNqw.md#t-00-52-20) (Claim) **Candace Owens**: ["Candace Owens turned down millions of dollars rather than denounce Kan..."](/statements/statement-f1ea4a5740c9.md)
+  - Also about: [Kanye West](/entities/person-kanye-west.md)
+
+- [00:58:59](/episodes/ep-zSKrxIUMNqw.md#t-00-58-21) (Opinion) **Candace Owens**: ["Decentralized tips from viewers are solving the mystery of what happen..."](/statements/statement-fd5071dc69ec.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

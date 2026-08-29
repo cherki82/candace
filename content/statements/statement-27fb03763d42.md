@@ -1,9 +1,9 @@
 ---
-title: "Mossad and the CIA are effectively inseparable, and Benjamin..."
-description: "\"Mossad and the CIA are effectively inseparable, and Benjamin Netanyahu previously worked for the CIA.\" — Candace Owens"
+title: "Candace Owens said it was almost as if Mossad and the CIA we..."
+description: "\"Candace Owens said it was almost as if Mossad and the CIA were inseparable and thought the show may previously have reported that Benjamin Netanyahu w...\" — Candace Owens"
 statement_id: "statement-27fb03763d42"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 veracity: "false"
 ---
 
@@ -11,7 +11,7 @@ veracity: "false"
 
 ## Statement
 
-> Mossad and the CIA are effectively inseparable, and Benjamin Netanyahu previously worked for the CIA.
+> Candace Owens said it was almost as if Mossad and the CIA were inseparable and thought the show may previously have reported that Benjamin Netanyahu worked for the CIA, adding, don't quote me on that.
 
 ## Attribution
 
@@ -28,10 +28,10 @@ veracity: "false"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-49) 
+**Timestamp:** [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1939);return false;">Play</a>
 
-> It's almost as if the Mossad and the CIA,
+> It's almost as if the Mossad and the CIA, there is no separation between the two. It's why Bibi used to work for the CIA. ... I think we uncovered that during our Epstein series, but don't quote me on that.
 
 ## Verification
 
@@ -53,4 +53,4 @@ Netanyahu’s official career history records service in the IDF, work at Boston
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

@@ -1,6 +1,6 @@
 ---
 title: "Anonymous Source #1 (Ep CMcktj3Egfo)"
-description: "Anonymous Source #1 (Ep CMcktj3Egfo) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #1 (Ep CMcktj3Egfo) (Anonymous Sources) - 1 mention"
 id: "anon-src-CMcktj3Egfo-001"
 type: "ANONYMOUS_SOURCE"
 ---
@@ -9,7 +9,7 @@ _Type: Anonymous Sources_
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,9 +19,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 
@@ -38,7 +36,7 @@ _No relationships extracted yet._
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:08:41](/episodes/ep-CMcktj3Egfo.md#t-00-08-31) [?] (Claim) ["Two people in Andrew Kolvet’s inner circle told Candace Owens to investigate Kol..."](/statements/statement-61a724f6d315.md)
+- [00:08:41](/episodes/ep-CMcktj3Egfo.md#t-00-08-29) [?] (Claim) ["Two people in Andrew Kolvet’s inner circle told Candace Owens to investigate Kol..."](/statements/statement-61a724f6d315.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>

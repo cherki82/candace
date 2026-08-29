@@ -1,6 +1,6 @@
 ---
 title: "Eastern Europe"
-description: "Eastern Europe (Places) - 42 mentions"
+description: "Eastern Europe (Places) - 44 mentions"
 id: "gpe-eastern-europe"
 type: "GPE"
 categories:
@@ -16,10 +16,10 @@ _Type: Places_
 Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-Europe)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#t-00-14-06">2026-01-16 · 00:14:43</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-eastern-europe-t-00-06-24">2026-01-09 · 00:06:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-eastern-europe-t-00-49-39">2026-07-14 · 00:49:57</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -30,6 +30,7 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-eastern-europe-t-00-00-01">Bride Of Charlie: The Lost Years... | Episode 5</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-eastern-europe-t-00-06-24" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-14-06" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#t-00-11-11" style="--pulse-height:14%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-eastern-europe-t-00-23-59" style="--pulse-height:57%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
@@ -53,6 +54,7 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-eastern-europe-t-00-06-24) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-14-06) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-eastern-europe-t-00-23-59) | 4 |
@@ -78,7 +80,7 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
@@ -293,6 +295,17 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 
 **[00:14:43](/episodes/ep-X92MllIHDzw.md#t-00-14-06)**
 > "the Eastern."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2 mentions)</summary>
+
+**[00:06:30](/episodes/ep-wcD2khO3rOA.md#ent-gpe-eastern-europe-t-00-06-24)**
+> "Eastern Europe."
+
+**[00:09:38](/episodes/ep-wcD2khO3rOA.md#ent-gpe-eastern-europe-t-00-09-20)**
+> "Now regarding Eastern Europe,"
 
 </details>
 

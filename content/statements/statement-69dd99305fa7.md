@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:01:49](/episodes/ep-wcD2khO3rOA.md#t-00-01-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(109);return false;">Play</a>
 
-> And so we started our first before that one, the 24th of the month prior... everything goes on that app and so when I get it they get it
+> what typical preparations entail for Charlie Kirk events. ... And so we started our first before that one, the 24th of the month prior. ... we put that in a timeline on an app so that this all goes up and every guy that's on that job can see all the intel that comes in.
 
 ## Verification
 

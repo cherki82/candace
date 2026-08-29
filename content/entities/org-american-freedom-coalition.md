@@ -3,9 +3,17 @@ title: "American Freedom Coalition"
 description: "American Freedom Coalition (Organizations) - 1 mention"
 id: "org-american-freedom-coalition"
 type: "ORG"
+categories:
+  - "political advocacy organization"
 ---
 
 _Type: Organizations_
+
+**Categories:** political advocacy organization
+
+**Entity verification:** verified
+> The quoted Washington Post source supports the American Freedom Coalition name and advocacy context.
+Source: [A Church in Flux Is Flush With Cash | The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-american-freedom-coalition-t-01-04-52">2026-01-09 · 01:05:24</a></strong></div>
@@ -13,8 +21,8 @@ _Type: Organizations_
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -51,6 +59,41 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Supporter Of (1)</summary>
+
+- **[Oliver North](/entities/person-oliver-north.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:05:32](/episodes/ep-wcD2khO3rOA.md#t-01-05-32): “a conservative group that built popular support for Colonel Oliver L. North during the Iran-Contra probe.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Oliver North](/entities/person-oliver-north.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:05:32](/episodes/ep-wcD2khO3rOA.md#t-01-05-32): “a conservative group that built popular support for Colonel Oliver L. North during the Iran-Contra probe.”
+
+</details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about American Freedom Coalition (1)</strong></summary>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+
+- [01:05:24](/episodes/ep-wcD2khO3rOA.md#t-01-04-52) (Claim) **The Washington Post** (via quoted article): ["The Washington Post reported that Moon's American Freedom Coalition bu..."](/statements/statement-6dd328c8876c.md)
+  - Also about: [Oliver North](/entities/person-oliver-north.md), [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md)
+
+</details>
 
 </details>

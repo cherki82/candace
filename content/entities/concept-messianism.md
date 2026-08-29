@@ -1,6 +1,6 @@
 ---
 title: "Messianism"
-description: "Messianism (Concepts) - 7 mentions"
+description: "Messianism (Concepts) - 11 mentions"
 id: "concept-messianism"
 type: "CONCEPT"
 aliases:
@@ -17,10 +17,10 @@ _Type: Concepts_
 **Categories:** religious concept
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-10-58">2026-01-12 · 00:11:17</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-messianism-t-00-38-25">2026-01-09 · 00:38:47</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-messianism-t-00-22-17">2026-03-17 · 00:22:17</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,18 +29,20 @@ _Type: Concepts_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-10-58">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-messianism-t-00-38-25">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-10-58" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-messianism-t-00-35-55" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-messianism-t-01-01-30" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-messianism-t-00-22-17" style="--pulse-height:33%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-messianism-t-00-38-25" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-10-50" style="--pulse-height:75%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-messianism-t-00-35-55" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-messianism-t-01-01-30" style="--pulse-height:50%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-messianism-t-00-22-17" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-10-58) | 3 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-messianism-t-00-38-25) | 4 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-10-50) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-messianism-t-00-35-55) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-messianism-t-01-01-30) | 2 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-messianism-t-00-22-17) | 1 |
@@ -51,7 +53,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
@@ -83,14 +85,31 @@ _Type: Concepts_
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
 
-**[00:11:17](/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-10-58)**
+**[00:11:17](/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-10-50)**
 > "Moon had minted himself as a messiah."
 
 **[00:11:30](/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-11-30)**
 > "...transform Charlie Kirk into a messiah of sorts whose image that they could control in h..."
 
-**[00:28:14](/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-28-14)**
+**[00:28:14](/episodes/ep-CMcktj3Egfo.md#ent-concept-messianism-t-00-27-54)**
 > "repeatedly establishing a messianic figure and they're expecting people to follow them becau..."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (4 mentions)</summary>
+
+**[00:38:47](/episodes/ep-wcD2khO3rOA.md#ent-concept-messianism-t-00-38-25)**
+> "...trying to turn Charlie into a messianic figure."
+
+**[00:51:44](/episodes/ep-wcD2khO3rOA.md#ent-concept-messianism-t-00-51-36)**
+> "you know, a Messiah."
+
+**[00:51:45](/episodes/ep-wcD2khO3rOA.md#ent-concept-messianism-t-00-51-36)**
+> "...ing to establish Charlie as a messianic figure and it's all become somehow about money, they don..."
+
+**[00:54:28](/episodes/ep-wcD2khO3rOA.md#ent-concept-messianism-t-00-54-10)**
+> "...he South Korean self-declared Messiah has grown increasingly vehement within the unific..."
 
 </details>
 
@@ -109,10 +128,10 @@ _No relationships extracted yet._
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
 
-- [00:11:09](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) (Claim) **Candace Owens**: ["The Unification movement bought land, buildings, blocks, and companies..."](/statements/statement-4da7059187b1.md)
+- [00:11:09](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Claim) **Candace Owens**: ["The Unification movement bought land, buildings, blocks, and companies..."](/statements/statement-4da7059187b1.md)
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md)
 
-- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
+- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
   - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

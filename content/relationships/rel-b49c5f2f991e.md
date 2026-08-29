@@ -11,11 +11,15 @@ object: "person-jeremy-boreing"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) has former CEO [Jeremy Boreing](/entities/person-jeremy-boreing)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 
 - [00:18:22](/episodes/ep-eLgD5yUVbko#t-00-18-22): _coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,_
+
+**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
+
+- [00:14:48](/episodes/ep-zSKrxIUMNqw#t-00-14-48): _That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers._
 
 ### Related
 

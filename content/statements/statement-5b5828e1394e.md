@@ -34,7 +34,7 @@ veracity: "true"
 **Timestamp:** [00:52:51](/episodes/ep-wcD2khO3rOA.md#t-00-52-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3171);return false;">Play</a>
 
-> This vast and bewildering multinational could be called Moon Inc. It is a sprawling collection of churches, nonprofit foundations, and for-profit holding companies.
+> This vast and bewildering multinational could be called Moon Inc. It is a sprawling collection of churches, nonprofit foundations, and for-profit holding companies. ... the Unification Church's investment is an important cog in a global machine that Moon uses to boost his credibility, spread his spiritual doctrine, and win political influence
 
 ## Verification
 

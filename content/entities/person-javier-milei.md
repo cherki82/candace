@@ -16,6 +16,10 @@ _Type: People_
 
 **Categories:** politics, government
 
+**Entity verification:** verified
+> Argentina's official presidency page identifies the canonical name Javier Gerardo Milei; the episode uses Javier Milei and Milei.
+Source: [Presidencia de la Nación | Argentina.gob.ar](https://www.argentina.gob.ar/presidencia)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-javier-milei-t-00-49-54">2026-01-12 · 00:50:33</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-javier-milei-t-00-49-54">2026-01-12 · 00:50:33</a></strong></div>

@@ -11,11 +11,7 @@ object: "person-sun-myung-moon"
 
 ## [Unification Church](/entities/org-unification-church) founded by [Sun Myung Moon](/entities/person-sun-myung-moon)
 
-### Evidence (2 mentions)
-
-**[American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo)**
-
-- [00:13:25](/episodes/ep-CMcktj3Egfo#t-00-13-25): _the Unification Church,_
+### Evidence (1 mentions)
 
 **[The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA)**
 

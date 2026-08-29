@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Tyler Bowyer](/entities/person-tyler-bowyer) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
@@ -28,6 +28,10 @@ object: "person-candace-owens"
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 
 - [00:27:18](/episodes/ep-ds6umq1rHAw#t-00-27-18): _the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm._
+
+**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
+
+- [00:50:03](/episodes/ep-zSKrxIUMNqw#t-00-50-03): _Tyler Bowyer needs to be looked at and investigated further._
 
 ### Related
 

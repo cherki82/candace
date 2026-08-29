@@ -1,6 +1,6 @@
 ---
 title: "In the No-No"
-description: "In the No-No (Works & Media) - 3 mentions"
+description: "In the No-No (Works & Media) - 4 mentions"
 id: "work-in-the-no-no"
 type: "WORK"
 categories:
@@ -18,9 +18,9 @@ Source: [The Daily Wire](https://www.dailywire.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-in-the-no-no-t-00-44-50">2026-01-06 · 00:45:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-in-the-no-no-t-01-04-49">2026-01-06 · 01:05:17</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-in-the-no-no-t-00-40-38">2026-01-07 · 00:40:57</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [The Daily Wire](https://www.dailywire.com/)
 <p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-in-the-no-no-t-00-44-50">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-in-the-no-no-t-00-44-50" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-in-the-no-no-t-00-40-38" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-work-in-the-no-no-t-00-44-50) | 3 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-in-the-no-no-t-00-40-38) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [The Daily Wire](https://www.dailywire.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
+
+**[00:40:57](/episodes/ep-zSKrxIUMNqw.md#ent-work-in-the-no-no-t-00-40-38)**
+> "That's the in the no-no joke."
+
+</details>
 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (3 mentions)</summary>

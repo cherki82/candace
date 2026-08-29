@@ -28,10 +28,10 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-26-53) 
+**Timestamp:** [00:27:19](/episodes/ep-CMcktj3Egfo.md#t-00-27-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1639);return false;">Play</a>
 
-> paying him, I am told, an absurd amount monthly retainer.
+> he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore, paying him, I am told, an absurd amount monthly retainer.
 
 ## Verification
 

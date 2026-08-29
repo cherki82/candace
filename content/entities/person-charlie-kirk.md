@@ -1,6 +1,6 @@
 ---
 title: "Charlie Kirk"
-description: "Charlie Kirk (People) - 5884 mentions"
+description: "Charlie Kirk (People) - 5931 mentions"
 id: "person-charlie-kirk"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-charlie-kirk-t-00-00-01">2025-09-11 · 00:00:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-charlie-kirk-t-01-05-38">2026-08-21 · 01:05:45</a></strong></div>
-<div><span>Episodes</span><strong>158</strong></div>
-<div><span>Mentions</span><strong>5,884</strong></div>
+<div><span>Episodes</span><strong>159</strong></div>
+<div><span>Mentions</span><strong>5,931</strong></div>
 <div><span>Statements by</span><strong>110</strong></div>
-<div><span>Statements about</span><strong>1,598</strong></div>
+<div><span>Statements about</span><strong>1,606</strong></div>
 <div><span>Relationships</span><strong>276</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -87,8 +87,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-charlie-kirk-t-00-00-00" style="--pulse-height:34%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 37 mentions" title="2025-12-20 · 37 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-charlie-kirk-t-00-08-35" style="--pulse-height:27%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 30 mentions" title="2026-01-05 · 30 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-charlie-kirk-t-00-00-45" style="--pulse-height:27%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 30 mentions" title="2026-01-06 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-01-21" style="--pulse-height:45%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 49 mentions" title="2026-01-07 · 49 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-charlie-kirk-t-00-00-57" style="--pulse-height:39%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 43 mentions" title="2026-01-09 · 43 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-00-45" style="--pulse-height:35%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 38 mentions" title="2026-01-12 · 38 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-00-45" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 36 mentions" title="2026-01-12 · 36 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-charlie-kirk-t-00-03-11" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 22 mentions" title="2026-01-13 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-charlie-kirk-t-00-00-40" style="--pulse-height:23%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 25 mentions" title="2026-01-14 · 25 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-10-47" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 15 mentions" title="2026-01-16 · 15 mentions"><span></span></a>
@@ -250,8 +251,9 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-charlie-kirk-t-00-00-00) | 37 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-charlie-kirk-t-00-08-35) | 30 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-charlie-kirk-t-00-00-45) | 30 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-01-21) | 49 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-charlie-kirk-t-00-00-57) | 43 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-00-45) | 38 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-00-45) | 36 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-charlie-kirk-t-00-03-11) | 22 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-charlie-kirk-t-00-00-40) | 25 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-10-47) | 15 |
@@ -367,7 +369,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5884)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5931)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (7 mentions)</summary>
@@ -10487,7 +10489,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (38 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (36 mentions)</summary>
 
 **[00:00:17](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-00-45)**
 > "Because when did Charlie's organization make a sudden switch?"
@@ -10498,52 +10500,49 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 **[00:00:52](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-00-45)**
 > "and Charlie Kirk."
 
-**[00:01:27](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:01:27](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "...misguided PR operations since Charlie Kirk's assassination. And I think that that is putting i..."
 
-**[00:01:46](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:01:46](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "Candace hasn't spoken to Charlie in years, followed by operation LOL Egyptian plan..."
 
-**[00:02:43](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:02:43](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "Candace has gone crazy. Charlie wasn't Catholic."
 
-**[00:03:59](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:03:59](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "...mediate three weeks following Charlie's assassination,"
 
-**[00:04:18](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:04:18](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "I didn't like it. I felt like Charlie was haunting me."
 
-**[00:04:43](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:04:43](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "...eplay of an actual lunch that Charlie and I did have in the past. Back in 2018,"
 
-**[00:04:49](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
-> "Charlie and I went to Israel together."
-
-**[00:04:51](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:04:51](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "...ame restaurant on a patio and Charlie began the conversation saying something that he a..."
 
-**[00:05:02](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:05:02](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "Charlie was sitting on the patio and he was eating hummus..."
 
-**[00:05:35](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:05:35](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "but Charlie was getting into the character. It was the greate..."
 
-**[00:06:18](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:06:18](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "Charlie said to me,"
 
-**[00:07:23](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-27)**
+**[00:07:23](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-01-26)**
 > "...tensively in the aftermath of Charlie's death."
 
-**[00:07:47](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-07-47)**
+**[00:07:47](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-07-44)**
 > "Charlie came to me and he sat down and he told me that he..."
 
-**[00:08:19](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-07-47)**
+**[00:08:19](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-07-44)**
 > "...rain went in the aftermath of Charlie's assassination."
 
-**[00:08:23](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-07-47)**
+**[00:08:23](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-07-44)**
 > "...these are good guys who loved Charlie Kirk."
 
-**[00:08:57](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-07-47)**
+**[00:08:57](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-07-44)**
 > "...about me and Andrew—back when Charlie was alive and things were great, Andrew called me..."
 
 **[00:11:30](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-11-30)**
@@ -10561,14 +10560,11 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 **[00:16:35](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-16-29)**
 > "... was to harness the energy of Charlie's brand with the youth and to turn that into minist..."
 
-**[00:17:28](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-17-09)**
+**[00:17:28](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-17-03)**
 > "So when Charlie Kirk came around and wanted to expand things in a way ..."
 
 **[00:17:45](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-17-45)**
 > "...that because what they did to Charlie is wrong and they're lying about what happened. A..."
-
-**[00:17:59](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-17-45)**
-> "Charlie Kirk,"
 
 **[00:18:05](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-17-45)**
 > "when Charlie Kirk was meeting at Liberty University about establish..."
@@ -10576,32 +10572,32 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 **[00:18:47](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-17-45)**
 > "Charlie and the Falkirk Center. And you should know that ..."
 
-**[00:19:17](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-19-10)**
+**[00:19:17](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-19-07)**
 > "...ot hired to be the PR guy for Charlie Kirk and Turning Point USA."
 
-**[00:21:21](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-19-10)**
+**[00:21:21](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-19-07)**
 > "...ing been meant to pull me and Charlie apart by drumming up weird anti-Semitism scandals..."
 
-**[00:26:53](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-26-53)**
+**[00:26:53](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-26-31)**
 > "...ndrew Kolvet, is now managing Charlie Kirk,"
 
-**[00:27:10](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-26-53)**
+**[00:27:10](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-27-10)**
 > "Is he fires Charlie Kirk and he also moves rather immediately to reinstate..."
 
-**[00:35:58](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-26-53)**
+**[00:35:58](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-27-10)**
 > "...lly a year from the date that Charlie was murdered on September 10th, someone was plott..."
 
-**[00:41:50](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-41-50)**
-> "...es as i believe the case with charlie kirk"
-
-**[00:47:30](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-47-18)**
+**[00:47:30](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-47-12)**
 > "...'s been discussing everything charlie kirk on x he writes Erika is the reason charlie even g..."
 
-**[00:51:55](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-51-41)**
+**[00:51:55](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-51-40)**
 > "Charlie did."
 
-**[00:52:06](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-51-41)**
+**[00:52:06](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-51-40)**
 > "...ntil we figure out who killed Charlie Kirk and exactly how it happened. So I'm out."
+
+**[00:41:50](/episodes/ep-CMcktj3Egfo.md#ent-person-charlie-kirk-t-00-41-50)**
+> "in some cases, as I believe the case with Charlie Kirk, some people are killed"
 
 </details>
 
@@ -10736,6 +10732,158 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 **[01:24:10](/episodes/ep-wcD2khO3rOA.md#ent-person-charlie-kirk-t-01-23-18)**
 > "...ings that were happening with Charlie."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (49 mentions)</summary>
+
+**[00:01:48](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-01-21)**
+> "...that was surrounding Charlie (Charlie Kirk)."
+
+**[00:03:03](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-02-56)**
+> "...l been trying to work through Charlie Kirk's assassination has catalyzed a certain derangement..."
+
+**[00:03:15](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-02-56)**
+> "...hy is he so obsessed with the Charlie Kirk narrative or rather obsessed with stopping people..."
+
+**[00:03:27](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-03-27)**
+> "like when Charlie (Charlie Kirk) was coming up, as soon as he, Ben (Ben Shapiro) ..."
+
+**[00:03:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-03-27)**
+> "...d thereafter is that Charlie (Charlie Kirk) and me, we proved to be inevitable,"
+
+**[00:05:47](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-05-25)**
+> "Charlie (Charlie Kirk), his perspective is that you are either going to..."
+
+**[00:16:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-16-11)**
+> "that I and Charlie Kirk both unwittingly signed ourselves up for."
+
+**[00:16:36](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-16-11)**
+> "...t for the last two years. And Charlie Kirk,"
+
+**[00:16:48](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-16-11)**
+> "... Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may kno..."
+
+**[00:16:56](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-16-56)**
+> "...s behaving as though Charlie (Charlie Kirk)'s company was promised to him 3000 years ago."
+
+**[00:17:13](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-16-56)**
+> "Benefit from Charlie (Charlie Kirk)'s death?"
+
+**[00:18:32](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-18-09)**
+> "...e he's always been envious of Charlie Kirk."
+
+**[00:18:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-18-44)**
+> "He has always been envious of Charlie Kirk."
+
+**[00:19:29](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-19-23)**
+> "...ike he's doing right now with Charlie Kirk."
+
+**[00:22:03](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-22-03)**
+> "...y was directly told to me and Charlie Kirk. We were in New Mexico at a corporate retreat, an..."
+
+**[00:29:18](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-29-18)**
+> "...having donors put pressure on Charlie Kirk,"
+
+**[00:31:06](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-30-38)**
+> "People like Charlie Kirk,"
+
+**[00:40:17](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-39-59)**
+> "... me as a formidable friend is Charlie Kirk."
+
+**[00:40:50](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-40-38)**
+> "... having a dream that Charlie (Charlie Kirk) was betrayed."
+
+**[00:41:03](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-40-38)**
+> "... meaningful relationship with Charlie Kirk himself."
+
+**[00:41:11](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-40-38)**
+> "Charlie (Charlie Kirk) was the king of dreams. It's insane how many mes..."
+
+**[00:41:17](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-41-17)**
+> "Charlie Kirk, about his dreams. He believed his dreams. You guys have no idea—the vivid dreams. I've only shown you one of the text messages. Since he was a kid, he had those dreams, by the way. And last year I was, like, going through a lot, reading back through our text exchanges. It was—I'll be honest—it was kind of scary."
+
+**[00:41:35](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-41-17)**
+> "... precise messages of Charlie (Charlie Kirk), so convinced that he was going to die young."
+
+**[00:41:57](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-41-57)**
+> "...age that I found was Charlie (Charlie Kirk) writing to me, ha, like, I'm not allowed to go a..."
+
+**[00:42:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-41-57)**
+> "Charlie (Charlie Kirk) was not allowed to go anywhere without security."
+
+**[00:42:32](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-41-57)**
+> "... was not well-known. Charlie (Charlie Kirk) was not well-known. Turning Point was in its inf..."
+
+**[00:42:56](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-42-40)**
+> "And Charlie (Charlie Kirk) and him, if memory serves correct,"
+
+**[00:43:07](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-42-40)**
+> "And Charlie (Charlie Kirk) would open up a lot to this particular man about..."
+
+**[00:43:18](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-43-18)**
+> "... man, but I do know that also Charlie would say, this guy is like the oracle. He also h..."
+
+**[00:43:33](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-43-18)**
+> "...eet you. That's what Charlie (Charlie Kirk) told me. I promise you I'm telling you the truth..."
+
+**[00:43:37](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-43-18)**
+> "...e point is that when Charlie (Charlie Kirk) and I got together before things blew up with th..."
+
+**[00:43:52](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-43-52)**
+> "This man didn't dissuade Charlie. He wasn't like, oh, like I was saying, you just ..."
+
+**[00:44:12](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-43-52)**
+> "...f interest in me and Charlie (Charlie Kirk)'s friendship. And it was like a movie."
+
+**[00:44:29](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-43-52)**
+> "Charlie (Charlie Kirk) had expressed to him that he felt, which I showe..."
+
+**[00:44:36](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-44-36)**
+> "... to refract and that Charlie (Charlie Kirk) and I were refracting."
+
+**[00:44:48](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-44-36)**
+> "...is up, but also that Charlie (Charlie Kirk)'s life was going to be short. I'm going to show ..."
+
+**[00:45:01](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-44-36)**
+> "Charlie (Charlie Kirk) wrote,"
+
+**[00:45:18](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-45-18)**
+> "...his discussion about Charlie (Charlie Kirk) telling me he was going to die young and that he..."
+
+**[00:45:45](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-45-18)**
+> "...e nothing could stop Charlie (Charlie Kirk) from believing that he was going to die and that..."
+
+**[00:46:07](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-45-55)**
+> "Charlie (Charlie Kirk) was betrayed."
+
+**[00:46:39](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-46-39)**
+> "And Charlie (Charlie Kirk) in the dream says he was betrayed."
+
+**[00:46:48](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-46-39)**
+> "...t to the bottom of who killed Charlie Kirk."
+
+**[00:47:54](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-47-22)**
+> "...put everybody around Charlie (Charlie Kirk). It's just a fact."
+
+**[00:48:21](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-47-59)**
+> "He's also pulling Charlie (Charlie Kirk) and helping to build Turning Point USA."
+
+**[00:50:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-50-44)**
+> "And we know Charlie (Charlie Kirk) was establishing this doge."
+
+**[00:51:30](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-51-02)**
+> "I think Charlie (Charlie Kirk) found something out about his organization very ..."
+
+**[00:57:53](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-57-40)**
+> "... child sex trafficking in it. Charlie Kirk's story, me looking into different people, it just ..."
+
+**[00:58:31](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-58-21)**
+> "...st three months that Charlie (Charlie Kirk) has been gone as they have mocked us, caricature..."
+
+**[00:58:59](/episodes/ep-zSKrxIUMNqw.md#ent-person-charlie-kirk-t-00-58-59)**
+> "...e mystery of what happened to Charlie Kirk on September 10th."
 
 </details>
 
@@ -19278,7 +19426,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-31): “Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
 
 </details>
 
@@ -19368,7 +19516,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): “Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell, Charlie Kirk, the Falkirk Center in 2021.”
 
 </details>
 
@@ -19385,11 +19533,12 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (35)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:13:46](/episodes/ep-ozWJz2spBcI.md#t-00-13-44): “Charlie Kirk was a friend to Candace (Candace Owens) and never publicly spoke poorly of her, although he disagreed with her.”
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:43](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): “We were like brother and sister, always supporting each other publicly”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:31:06](/episodes/ep-zSKrxIUMNqw.md#t-00-30-38): “People like Charlie Kirk, who is my friend,”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:22:22](/episodes/ep-X92MllIHDzw.md#t-00-22-00): “we were just we've just been friends for years, obviously, it's not really that surprising.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:15](/episodes/ep-9naMwS0kMBE.md#t-00-38-01): “He knew better than anyone that Charlie and I were friends and that we remained friends until the very end.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:38](/episodes/ep-GY6GWceEqtQ.md#t-01-02-38): “i was charlie's friend not yours”
@@ -20534,7 +20683,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - **[Jerry Prevo](/entities/person-jerry-prevo.md)** fired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-53): “Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:27:10](/episodes/ep-CMcktj3Egfo.md#t-00-26-31): “Is he fires Charlie Kirk and he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore,”
 
 </details>
 
@@ -20604,7 +20753,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): “Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell, Charlie Kirk, the Falkirk Center in 2021.”
 
 </details>
 
@@ -20616,7 +20765,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (39)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (40)</summary>
 
 - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00): “Charlie, my friend, is dead.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:00:10](/episodes/ep-YFmRH8p5lt0.md#t-00-00-00): “This is real life: the assassination of my friend, Charlie (Charlie Kirk).”
@@ -20626,6 +20775,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:02:33](/episodes/ep-ja26iltROkM.md#t-00-02-10): “Charlie and I were in New York for something or another, and he was falling for her hard”
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:18](/episodes/ep-sreYYcID-QY.md#t-00-09-40): “Charlie and I never—for a single second—stopped being friends.”
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:43](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-40): “At one time, a friend of Charlie's.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:31:06](/episodes/ep-zSKrxIUMNqw.md#t-00-30-38): “People like Charlie Kirk, who is my friend,”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:22:22](/episodes/ep-X92MllIHDzw.md#t-00-22-00): “we were just we've just been friends for years, obviously, it's not really that surprising.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:38:15](/episodes/ep-9naMwS0kMBE.md#t-00-38-01): “He knew better than anyone that Charlie and I were friends and that we remained friends until the very end.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:38](/episodes/ep-GY6GWceEqtQ.md#t-01-02-38): “i was charlie's friend not yours”
@@ -21949,7 +22099,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (1598)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (1606)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (12)</summary>
@@ -22538,10 +22688,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (12)</summary>
-
-- [00:23:47](/episodes/ep-ds6umq1rHAw.md#t-00-23-47) (Accusation) **Candace Owens**: ["Tyler Bowyer has been running Turning Point USA and staffed nearly eve..."](/statements/statement-00fcdc461d29.md)
-  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (11)</summary>
 
 - [00:26:36](/episodes/ep-ds6umq1rHAw.md#t-00-26-36) (Opinion) **Charlie Kirk** (via quoted document): ["Charlie Kirk wrote that he had no choice but to abandon the pro-Israel..."](/statements/statement-f70b394e5bb6.md)
   - Also about: [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md), [Israel](/entities/gpe-israel.md)
@@ -25133,7 +25280,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (8)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (7)</summary>
 
 - [00:23:19](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52) (Accusation) **Candace Owens**: ["Rob McCoy was not close to Charlie Kirk near the end because Kirk coul..."](/statements/statement-944e021ef357.md)
   - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -25155,9 +25302,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [01:14:20](/episodes/ep-xjzb_t5Tk9o.md#t-01-14-20) (Accusation) **Candace Owens**: ["U.S. state actors are colluding to cover up Charlie Kirk's assassinati..."](/statements/statement-31fb534345ef.md)
   - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
-
-- [01:44:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) (Promise) **Candace Owens**: ["Candace Owens intends to identify who killed Charlie Kirk and determin..."](/statements/statement-0652e878d946.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
 </details>
 
@@ -25414,7 +25558,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (7)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (6)</summary>
 
 - [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-59) (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler..."](/statements/statement-9afdb0bd9fc3.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
@@ -25429,9 +25573,6 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 
 - [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) (Opinion) **Candace Owens**: ["Based on her conversations with Charlie Kirk, Candace Owens believes h..."](/statements/statement-578962b6dc1a.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:19:56](/episodes/ep-BKcOm32ZEGk.md#t-00-19-48) (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he would die young and..."](/statements/statement-aeb277b5e217.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:22:27](/episodes/ep-BKcOm32ZEGk.md#t-00-21-57) (Accusation) **Candace Owens**: ["People managing Charlie Kirk panicked when he began pushing back and d..."](/statements/statement-be49665a1d41.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -25453,21 +25594,15 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (9)</summary>
-
-- [00:04:07](/episodes/ep-CMcktj3Egfo.md#t-00-03-32) (Claim) **Candace Owens**: ["After Charlie Kirk’s death, Candace Owens said she was not sleeping or..."](/statements/statement-c05329536d58.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (7)</summary>
 
 - [00:04:49](/episodes/ep-CMcktj3Egfo.md#t-00-04-12) (Claim) **Candace Owens**: ["Candace Owens and Charlie Kirk traveled to Israel together in 2018."](/statements/statement-3f037ef51efe.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Israel](/entities/gpe-israel.md)
 
-- [00:07:03](/episodes/ep-CMcktj3Egfo.md#t-00-06-20) (Claim) **Candace Owens**: ["Candace Owens said a recurring dream depicted Charlie Kirk telling her..."](/statements/statement-4cb06630bbbf.md)
-  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Purgatory](/entities/concept-purgatory.md)
-
-- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
+- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
   - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Messianism](/entities/concept-messianism.md)
 
-- [00:16:29](/episodes/ep-CMcktj3Egfo.md#t-00-15-44) (Claim) **Candace Owens**: ["The Falkirk Center was designed to combine Charlie Kirk’s youth appeal..."](/statements/statement-435669c8639b.md)
+- [00:16:29](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) (Claim) **Candace Owens**: ["The Falkirk Center was designed to combine Charlie Kirk’s youth appeal..."](/statements/statement-435669c8639b.md)
   - Also about: [Falkirk Center](/entities/org-falkirk-center.md), [Liberty University](/entities/org-liberty-university.md), [Evangelicalism](/entities/concept-evangelicalism.md)
 
 - [00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45) (Claim) **Candace Owens**: ["Charlie Kirk and Jerry Falwell Jr. established the Falkirk Center in 2..."](/statements/statement-c8e10a053699.md)
@@ -25476,10 +25611,10 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [00:18:12](/episodes/ep-CMcktj3Egfo.md#t-00-17-45) (Claim) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["Johnnie Moore inserted himself into the 2021 Liberty University meetin..."](/statements/statement-ce4a641c25b3.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Falkirk Center](/entities/org-falkirk-center.md), [Liberty University](/entities/org-liberty-university.md)
 
-- [00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53) (Claim) **Candace Owens**: ["After succeeding Jerry Falwell Jr., Jerry Prevo fired Charlie Kirk fro..."](/statements/statement-3b1021647812.md)
+- [00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-31) (Claim) **Candace Owens**: ["After succeeding Jerry Falwell Jr., Jerry Prevo fired Charlie Kirk fro..."](/statements/statement-3b1021647812.md)
   - Also about: [Jerry Prevo](/entities/person-jerry-prevo.md), [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Johnnie Moore](/entities/person-johnnie-moore.md)
 
-- [00:52:12](/episodes/ep-CMcktj3Egfo.md#t-00-51-41) (Promise) **Candace Owens**: ["Candace Owens said she would not vote until Charlie Kirk’s killing was..."](/statements/statement-3f9a56042c2e.md)
+- [00:52:12](/episodes/ep-CMcktj3Egfo.md#t-00-51-40) (Promise) **Candace Owens**: ["Candace Owens said she would not vote until Charlie Kirk’s killing was..."](/statements/statement-3f9a56042c2e.md)
   - Also about: [Assassination of Charlie Kirk](/entities/event-assassination-charlie-kirk.md)
 
 </details>
@@ -25487,16 +25622,16 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (12)</summary>
 
-- [00:03:51](/episodes/ep-wcD2khO3rOA.md#t-00-03-29) (Claim) **Candace Owens** (via paraphrase): ["A person directly involved in planning Charlie Kirk’s September 11 app..."](/statements/statement-46eb164a6911.md)
+- [00:03:51](/episodes/ep-wcD2khO3rOA.md#t-00-03-29) (Claim) **Candace Owens** (via paraphrase): ["Owens said a person directly involved in planning Charlie Kirk's Septe..."](/statements/statement-46eb164a6911.md)
   - Also about: [Charis Bible College](/entities/org-charis-bible-college.md)
 
-- [00:05:32](/episodes/ep-wcD2khO3rOA.md#t-00-04-58) (Accusation) **Candace Owens**: ["The lack of advance security planning for Charlie Kirk’s next schedule..."](/statements/statement-ac6469815827.md)
+- [00:05:32](/episodes/ep-wcD2khO3rOA.md#t-00-04-58) (Accusation) **Candace Owens**: ["The lack of advance security planning for Charlie Kirk's next schedule..."](/statements/statement-ac6469815827.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36) (Claim) **Candace Owens**: ["Jerry Falwell Jr. and Charlie Kirk established the Falkirk Center, and..."](/statements/statement-b5a582fabd77.md)
   - Also about: [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Falkirk Center](/entities/org-falkirk-center.md), [Turning Point Faith](/entities/org-turning-point-faith.md)
 
-- [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) (Accusation) **Candace Owens**: ["George Zinn was associated with child-sex-abuse allegations and told h..."](/statements/statement-855e6e00ca96.md)
+- [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) (Accusation) **Candace Owens**: ["Owens said George Zinn had child sexual abuse material on his phone an..."](/statements/statement-855e6e00ca96.md)
   - Also about: [George Zinn](/entities/person-george-zinn.md)
 
 - [00:20:07](/episodes/ep-wcD2khO3rOA.md#t-00-19-58) (Claim) **Candace Owens**: ["The HADES military aircraft flew around Utah Valley University shortly..."](/statements/statement-1be5d5cff87a.md)
@@ -25508,7 +25643,7 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [00:47:30](/episodes/ep-wcD2khO3rOA.md#t-00-46-51) (Claim) **Candace Owens**: ["Benjamin Netanyahu offered to take Turning Point USA to the next level..."](/statements/statement-5c2477ef3180.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [01:04:32](/episodes/ep-wcD2khO3rOA.md#t-01-04-08) (Accusation) **Candace Owens**: ["Charlie Kirk’s trips to Korea and Japan were not principally about def..."](/statements/statement-91dcd3094221.md)
+- [01:04:32](/episodes/ep-wcD2khO3rOA.md#t-01-04-08) (Opinion) **Candace Owens**: ["Owens said she did not think Charlie Kirk's trips to Korea and Japan w..."](/statements/statement-91dcd3094221.md)
   - Also about: [South Korea](/entities/gpe-south-korea.md), [Japan](/entities/gpe-japan.md)
 
 - [01:10:30](/episodes/ep-wcD2khO3rOA.md#t-01-10-12) (Claim) **Chance Son** (via quoted speech): ["Hyun-bo Son was arrested two days after meeting Charlie Kirk, after wa..."](/statements/statement-10490981e40b.md)
@@ -25517,10 +25652,54 @@ Source: [Charlie Kirk - Turning Point USA](https://www.tpusa.com/bio/charliekirk
 - [01:10:49](/episodes/ep-wcD2khO3rOA.md#t-01-10-30) (Promise) **Chance Son** (via quoted speech): ["Charlie Kirk promised Hyun-bo Son that he would use his platform to pu..."](/statements/statement-82885ff309fd.md)
   - Also about: [Hyun-bo Son](/entities/person-hyun-bo-son.md), [South Korea](/entities/gpe-south-korea.md)
 
-- [01:12:15](/episodes/ep-wcD2khO3rOA.md#t-01-11-56) (Accusation) **Candace Owens**: ["Charlie Kirk was assassinated because he rejected an offer to turn Tur..."](/statements/statement-b5023ea1ef67.md)
+- [01:12:15](/episodes/ep-wcD2khO3rOA.md#t-01-11-56) (Accusation) **Candace Owens**: ["Owens presented as her best guess that Charlie Kirk was assassinated b..."](/statements/statement-b5023ea1ef67.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Sun Myung Moon](/entities/person-sun-myung-moon.md)
 
-- [01:18:01](/episodes/ep-wcD2khO3rOA.md#t-01-17-26) (Accusation) **Candace Owens**: ["An organized operation assassinated Charlie Kirk, multiple people are ..."](/statements/statement-52a6e1999296.md)
+- [01:18:01](/episodes/ep-wcD2khO3rOA.md#t-01-17-26) (Accusation) **Candace Owens**: ["Owens said she felt strongly that an operation to assassinate Charlie ..."](/statements/statement-52a6e1999296.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (13)</summary>
+
+- [00:01:43](/episodes/ep-zSKrxIUMNqw.md#t-00-01-21) (Accusation) **Candace Owens**: ["Tyler Bowyer has been running Turning Point USA and staffed nearly eve..."](/statements/statement-00fcdc461d29.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:03:29](/episodes/ep-zSKrxIUMNqw.md#t-00-03-27) (Accusation) **Candace Owens**: ["Ben Shapiro was not Charlie Kirk's friend and worked behind the scenes..."](/statements/statement-8581516af03e.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
+
+- [00:16:42](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11) (Accusation) **Candace Owens**: ["Charlie Kirk was killed when he tried to leave an entertainment gang."](/statements/statement-9e4c24f34534.md)
+  - Also about: [Organized crime](/entities/concept-organized-crime.md)
+
+- [00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11) (Accusation) **Candace Owens**: ["Candace Owens said Ben Shapiro's behavior since Charlie Kirk's assassi..."](/statements/statement-b2b9cb99572e.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:18:34](/episodes/ep-zSKrxIUMNqw.md#t-00-18-09) (Prediction) **Steve Bannon** (via quoted speech): ["Ben Shapiro would move on Turning Point USA because he had always envi..."](/statements/statement-6a458fa0a3d8.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:22:31](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03) (Accusation) **Anonymous Source #3 (Ep zSKrxIUMNqw)** (via paraphrase): ["A Breitbart executive told Candace Owens and Charlie Kirk that Ben Sha..."](/statements/statement-c6e9c9f99b51.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:41:49](/episodes/ep-zSKrxIUMNqw.md#t-00-41-17) (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he would die young and..."](/statements/statement-aeb277b5e217.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-57) (Claim) **Candace Owens**: ["Candace Owens said Schaefer Security provided Charlie Kirk's travel se..."](/statements/statement-e858de21dbac.md)
+  - Also about: [Schaefer Security](/entities/org-schaefer-security.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Dan Flood](/entities/person-dan-flood.md)
+
+- [00:46:45](/episodes/ep-zSKrxIUMNqw.md#t-00-46-39) (Promise) **Candace Owens**: ["Candace Owens intends to identify who killed Charlie Kirk and determin..."](/statements/statement-0652e878d946.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:50:44](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02) (Claim) **Candace Owens**: ["Charlie Kirk was establishing an internal DOGE-style cost review at Tu..."](/statements/statement-ff124d0ea29b.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:51:30](/episodes/ep-zSKrxIUMNqw.md#t-00-51-02) (Opinion) **Candace Owens**: ["Candace Owens said she believed Charlie Kirk had discovered something ..."](/statements/statement-98a9c3d1e72c.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:57:53](/episodes/ep-zSKrxIUMNqw.md#t-00-57-40) (Opinion) **Candace Owens**: ["The investigation into Charlie Kirk's death repeatedly leads to child ..."](/statements/statement-bf4d82ca6126.md)
+  - Also about: [Child sex trafficking](/entities/concept-child-sex-trafficking.md)
+
+- [00:58:59](/episodes/ep-zSKrxIUMNqw.md#t-00-58-21) (Opinion) **Candace Owens**: ["Decentralized tips from viewers are solving the mystery of what happen..."](/statements/statement-fd5071dc69ec.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

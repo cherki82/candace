@@ -1,6 +1,6 @@
 ---
 title: "Andrew Kolvet"
-description: "Andrew Kolvet (People) - 810 mentions"
+description: "Andrew Kolvet (People) - 806 mentions"
 id: "person-andrew-kolvet"
 type: "PERSON"
 aliases:
@@ -24,9 +24,9 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-andrew-kolvet-t-00-13-27">2025-09-11 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-andrew-kolvet-t-00-59-02">2026-08-21 · 00:59:10</a></strong></div>
 <div><span>Episodes</span><strong>119</strong></div>
-<div><span>Mentions</span><strong>810</strong></div>
+<div><span>Mentions</span><strong>806</strong></div>
 <div><span>Statements by</span><strong>95</strong></div>
-<div><span>Statements about</span><strong>208</strong></div>
+<div><span>Statements about</span><strong>207</strong></div>
 <div><span>Relationships</span><strong>99</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -66,7 +66,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-andrew-kolvet-t-00-01-23" style="--pulse-height:63%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 27 mentions" title="2026-01-05 · 27 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-andrew-kolvet-t-00-14-53" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-andrew-kolvet-t-00-07-06" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03" style="--pulse-height:42%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 18 mentions" title="2026-01-12 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 14 mentions" title="2026-01-12 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-45" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-andrew-kolvet-t-00-02-09" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-42" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
@@ -190,7 +190,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-andrew-kolvet-t-00-01-23) | 27 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-andrew-kolvet-t-00-14-53) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-andrew-kolvet-t-00-07-06) | 6 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03) | 18 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03) | 14 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-45) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-andrew-kolvet-t-00-02-09) | 7 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-42) | 5 |
@@ -285,7 +285,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (810)</strong></summary>
+<summary><strong class="section-title">Raw mentions (806)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (14 mentions)</summary>
@@ -2571,7 +2571,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (18 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (14 mentions)</summary>
 
 **[00:07:07](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03)**
 > "and it was Andrew Kolvet."
@@ -2579,46 +2579,34 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 **[00:07:23](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03)**
 > "...act, I was very friendly with Andrew Kolvet. We had spoken extensively in the aftermath of Ch..."
 
-**[00:08:03](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-47)**
-> "And Andrew Kolvet never answered."
-
-**[00:08:05](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-47)**
-> "Last time Andrew Kolvet and I spoke."
-
-**[00:08:07](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-47)**
+**[00:08:07](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-44)**
 > "...and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually g..."
 
-**[00:08:41](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-08-31)**
+**[00:08:41](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-08-29)**
 > "... that I should look more into Andrew Kolvet,"
 
-**[00:08:57](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-08-31)**
+**[00:08:57](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-08-29)**
 > "...is another story about me and Andrew—back when Charlie was alive and things were great..."
 
-**[00:18:47](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-18-28)**
+**[00:18:47](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-18-21)**
 > "... company, the KAIROS Company. Andrew Kolvet, like, he is—he is a part of, he was a part of th..."
 
-**[00:19:10](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-19-10)**
+**[00:19:10](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-19-07)**
 > "Andrew Kolvet was the executive vice president and he effective..."
-
-**[00:19:17](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-19-10)**
-> "Andrew Kolvet, and then got hired to be the PR guy for Charlie ..."
 
 **[00:19:52](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-19-52)**
 > "...t on the show anyways back to Andrew Kolvet I mean back to Johnnie Moore Johnnie Moore immedi..."
 
-**[00:25:53](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-25-24)**
+**[00:25:53](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-25-49)**
 > "... company with none other than Andrew Kolvet of Turning Point USA."
 
-**[00:26:04](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-25-24)**
+**[00:26:04](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-25-49)**
 > "...cally Johnnie beneath him and Andrew,"
 
-**[00:26:09](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-25-24)**
-> "I'm wondering if Andrew,"
-
-**[00:26:53](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-26-53)**
+**[00:26:53](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-26-31)**
 > "Andrew Kolvet, is now managing Charlie Kirk,"
 
-**[00:28:14](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-28-14)**
+**[00:28:14](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-27-54)**
 > "...ou think about it and uh yeah Andrew Kolvet i think my dream might have meant something and t..."
 
 **[00:48:55](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-48-27)**
@@ -3333,7 +3321,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
@@ -3345,6 +3333,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:43:16](/episodes/ep-AoYZel7_cGQ.md#t-00-43-10): “he's betraying him every single day when he tells lies about who Charlie (Charlie Kirk) is who Charlie (Charlie Kirk) was and what Charlie (Charlie Kirk) was going through”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:23:18](/episodes/ep-4JxgOclKzqg.md#t-00-23-14): “Because I got to tell you something, Andrew (Andrew Kolvet). Were it me and I was amongst my peers sitting on a jury, I would not accept your narrative that he looks like he's worried about people stealing.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:52:40](/episodes/ep-OEAHy3SsIiI.md#t-00-52-03): “Andrew (Andrew Kolvet) is being told to do these things. Andrew (Andrew Kolvet) is being told to attack me and to attack my narrative.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44): “Andrew Kolvet never answered. Last time Andrew Kolvet and I spoke. Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed.”
 
 </details>
 
@@ -3444,7 +3433,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:03](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “You'll recall that. He's Johnnie Moore's partner,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21): “Andrew Kolvet, like, he is—he is a part of, he was a part of the KAIROS Company. You will recall that he is Johnnie Moore’s partner, protégé, I do not know what you want to call it.”
 
 </details>
 
@@ -3569,7 +3558,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
 
 </details>
 
@@ -3856,7 +3845,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:02:39](/episodes/ep-w1oqQbR_bYs.md#t-00-02-30): “this is what was divulged to me from Andrew Kolvet at the time”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:25:07](/episodes/ep-9naMwS0kMBE.md#t-00-25-07): “that was told to me from andrew colbet okay that's not some random conspiracy theorist uh it's the spokesperson for turning point usa”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:01:50](/episodes/ep-OEAHy3SsIiI.md#t-00-01-23): “the spokesperson of Turning Point USA,”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:17](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “Andrew Kolvet, and then got hired to be the PR guy for Charlie Kirk and Turning Point USA.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:17](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet, and then got hired to be the PR guy for Charlie Kirk and Turning Point USA.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:07](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:41:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-41-39): “Yeah, well, I feel like I'm answering your questions and his questions about, I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turning Point USA.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “our public relations—our longtime spokesperson Andrew Kolvet—and their chief marketing officer, Marina Minas”
@@ -3882,7 +3871,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <summary>Referenced By (48)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
@@ -3894,6 +3883,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:43:16](/episodes/ep-AoYZel7_cGQ.md#t-00-43-10): “he's betraying him every single day when he tells lies about who Charlie (Charlie Kirk) is who Charlie (Charlie Kirk) was and what Charlie (Charlie Kirk) was going through”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:23:18](/episodes/ep-4JxgOclKzqg.md#t-00-23-14): “Because I got to tell you something, Andrew (Andrew Kolvet). Were it me and I was amongst my peers sitting on a jury, I would not accept your narrative that he looks like he's worried about people stealing.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:52:40](/episodes/ep-OEAHy3SsIiI.md#t-00-52-03): “Andrew (Andrew Kolvet) is being told to do these things. Andrew (Andrew Kolvet) is being told to attack me and to attack my narrative.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44): “Andrew Kolvet never answered. Last time Andrew Kolvet and I spoke. Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed.”
 
 </details>
 
@@ -3965,7 +3955,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - **[Johnnie Moore](/entities/person-johnnie-moore.md)** close associate of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:03](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “You'll recall that. He's Johnnie Moore's partner,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21): “Andrew Kolvet, like, he is—he is a part of, he was a part of the KAIROS Company. You will recall that he is Johnnie Moore’s partner, protégé, I do not know what you want to call it.”
 
 </details>
 
@@ -4059,7 +4049,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:27:06](/episodes/ep-UBkFkg4UNY8.md#t-00-26-28): “Andrew Kolvet, who is a PR agent for Turning Point USA.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:25:07](/episodes/ep-9naMwS0kMBE.md#t-00-25-07): “that was told to me from andrew colbet okay that's not some random conspiracy theorist uh it's the spokesperson for turning point usa”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:01:50](/episodes/ep-OEAHy3SsIiI.md#t-00-01-23): “the spokesperson of Turning Point USA,”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:17](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “Andrew Kolvet, and then got hired to be the PR guy for Charlie Kirk and Turning Point USA.”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:17](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet, and then got hired to be the PR guy for Charlie Kirk and Turning Point USA.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:07](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:41:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-41-39): “Yeah, well, I feel like I'm answering your questions and his questions about, I mean, I'm talking about Andrew Kolvet at his position as he's a spokesperson for Turning Point USA.”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:19:58](/episodes/ep-B9TyCs-6o_0.md#t-00-19-58): “our public relations—our longtime spokesperson Andrew Kolvet—and their chief marketing officer, Marina Minas”
@@ -4083,7 +4073,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:07:14](/episodes/ep-wcD2khO3rOA.md#t-00-07-06): “Andrew Kolvet was working PR for the KAIROS Company under Johnnie Moore.”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-18-28): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:10](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “Andrew Kolvet was the executive vice president and he effectively was working for the Kairos company,”
 
 </details>
 
@@ -4771,7 +4761,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Andrew Kolvet (208)</strong></summary>
+<summary><strong class="section-title">Statements about Andrew Kolvet (207)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (7)</summary>
@@ -5517,23 +5507,20 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (6)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5)</summary>
 
-- [00:07:03](/episodes/ep-CMcktj3Egfo.md#t-00-06-20) (Claim) **Candace Owens**: ["Candace Owens said a recurring dream depicted Charlie Kirk telling her..."](/statements/statement-4cb06630bbbf.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Purgatory](/entities/concept-purgatory.md)
-
-- [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-47) (Claim) **Candace Owens**: ["Candace Owens texted Andrew Kolvet about the dream and said he never a..."](/statements/statement-857b2e90108b.md)
+- [00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) (Claim) **Candace Owens**: ["Candace Owens texted Andrew Kolvet about the dream and said he never a..."](/statements/statement-857b2e90108b.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:08:07](/episodes/ep-CMcktj3Egfo.md#t-00-07-47) (Accusation) **Candace Owens**: ["Andrew Kolvet orchestrated attacks against Candace Owens and was caugh..."](/statements/statement-312bf746c5f8.md)
+- [00:08:07](/episodes/ep-CMcktj3Egfo.md#t-00-07-44) (Accusation) **Candace Owens**: ["Andrew Kolvet orchestrated attacks against Candace Owens and was caugh..."](/statements/statement-312bf746c5f8.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:08:41](/episodes/ep-CMcktj3Egfo.md#t-00-08-31) (Claim) **Anonymous Source #1 (Ep CMcktj3Egfo)** (via paraphrase): ["Two people in Andrew Kolvet’s inner circle told Candace Owens to inves..."](/statements/statement-61a724f6d315.md)
+- [00:08:41](/episodes/ep-CMcktj3Egfo.md#t-00-08-29) (Claim) **Anonymous Source #1 (Ep CMcktj3Egfo)** (via paraphrase): ["Two people in Andrew Kolvet’s inner circle told Candace Owens to inves..."](/statements/statement-61a724f6d315.md)
 
-- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-31) (Claim) **Candace Owens**: ["Andrew Kolvet once called Candace Owens before AmericaFest and serious..."](/statements/statement-b6524823ffb8.md)
+- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-29) (Claim) **Candace Owens**: ["Andrew Kolvet once called Candace Owens before AmericaFest and serious..."](/statements/statement-b6524823ffb8.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [AmericaFest 2025](/entities/event-americafest-2025.md), [Witchcraft](/entities/concept-witchcraft.md)
 
-- [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28) (Claim) **Candace Owens**: ["Johnnie Moore left Liberty University in 2014 for Hollywood to start t..."](/statements/statement-1b2adcf35658.md)
+- [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21) (Claim) **Candace Owens**: ["Johnnie Moore left Liberty University in 2014 for Hollywood to start t..."](/statements/statement-1b2adcf35658.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Liberty University](/entities/org-liberty-university.md), [KAIROS Company](/entities/org-kairos-company.md)
 
 </details>

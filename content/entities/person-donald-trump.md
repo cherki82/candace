@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 959 mentions"
+description: "Donald J. Trump (People) - 968 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-37-05">2026-08-19 · 00:37:05</a></strong></div>
-<div><span>Episodes</span><strong>129</strong></div>
-<div><span>Mentions</span><strong>959</strong></div>
+<div><span>Episodes</span><strong>130</strong></div>
+<div><span>Mentions</span><strong>968</strong></div>
 <div><span>Statements by</span><strong>37</strong></div>
 <div><span>Statements about</span><strong>226</strong></div>
-<div><span>Relationships</span><strong>150</strong></div>
+<div><span>Relationships</span><strong>153</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -80,6 +80,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-03" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-56" style="--pulse-height:15%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44" style="--pulse-height:19%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 9 mentions" title="2026-01-07 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-donald-trump-t-00-21-28" style="--pulse-height:15%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 7 mentions" title="2026-01-09 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-donald-trump-t-00-42-32" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48" style="--pulse-height:15%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
@@ -214,6 +215,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-03) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-56) | 7 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44) | 9 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-donald-trump-t-00-21-28) | 7 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-donald-trump-t-00-42-32) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48) | 7 |
@@ -311,7 +313,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (959)</strong></summary>
+<summary><strong class="section-title">Raw mentions (968)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
@@ -3053,6 +3055,38 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (9 mentions)</summary>
+
+**[00:22:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44)**
+> "The story goes that Donald Trump was running for president against Hillary Clinton..."
+
+**[00:22:54](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44)**
+> "And whole media was against Donald Trump, except for Breitbart."
+
+**[00:23:31](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-23-18)**
+> "that's it. Think about how Trump treats women and yeah,"
+
+**[00:23:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-23-18)**
+> "That's standing behind Donald Trump. Are you still going to stand behind him, Breitba..."
+
+**[00:23:58](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-23-58)**
+> "He didn't like Trump and now he had the scandal and because they didn'..."
+
+**[00:25:45](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-25-15)**
+> "...e has shaped the company into Trump's personal Pravda."
+
+**[00:25:52](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-25-52)**
+> "In order to protect Trump's bully campaign manager,"
+
+**[00:26:03](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-25-52)**
+> "...deotape. Both Lewandowski and Trump maligned Michelle (Michelle Fields) in the most r..."
+
+**[00:25:39](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-25-15)**
+> "...to back another bully, Donald Trump."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (7 mentions)</summary>
 
 **[00:25:56](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-56)**
@@ -4035,7 +4069,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Criticized (12)</summary>
+<summary>Criticized (13)</summary>
 
 - **[Joe Kent](/entities/person-joe-kent.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -4129,6 +4163,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
+
+- **[Michelle Fields](/entities/person-michelle-fields.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:26:03](/episodes/ep-zSKrxIUMNqw.md#t-00-25-52): “Both Lewandowski and Trump maligned Michelle (Michelle Fields) in the most repulsive fashion.”
 
 </details>
 
@@ -4465,9 +4506,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Ran Against (1)</summary>
 
 - **[Hillary Clinton](/entities/person-hillary-clinton.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:15:52](/episodes/ep-xi8SYJTUXPM.md#t-00-15-52): “Now I want to switch gears here to travel back to late fall 2016, just before the election, the big election, Donald Trump versus Hillary Clinton. Donald Trump is traveling all throughout the country, giving us one liners about Hillary Clinton.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:22:44](/episodes/ep-zSKrxIUMNqw.md#t-00-22-44): “The story goes that Donald Trump was running for president against Hillary Clinton”
 
 </details>
 
@@ -4569,7 +4611,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Referenced By (75)</summary>
+<summary>Referenced By (77)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4925,6 +4967,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Michelle Fields](/entities/person-michelle-fields.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:26:03](/episodes/ep-zSKrxIUMNqw.md#t-00-25-52): “Both Lewandowski and Trump maligned Michelle (Michelle Fields) in the most repulsive fashion.”
+
+</details>
+
 - **[Brigitte Macron](/entities/person-brigitte-macron.md)** defended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -5084,9 +5133,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Hillary Clinton](/entities/person-hillary-clinton.md)** ran against this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:15:52](/episodes/ep-xi8SYJTUXPM.md#t-00-15-52): “Now I want to switch gears here to travel back to late fall 2016, just before the election, the big election, Donald Trump versus Hillary Clinton. Donald Trump is traveling all throughout the country, giving us one liners about Hillary Clinton.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:22:44](/episodes/ep-zSKrxIUMNqw.md#t-00-22-44): “The story goes that Donald Trump was running for president against Hillary Clinton”
 
 </details>
 
@@ -5150,6 +5200,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:46:15](/episodes/ep-2T39-oADLj0.md#t-00-46-00): “he had a lot of pressure on him not to do it right and he was like kind of going back and forth i know steve bannon had like went to the white house and told him don't do it or at least push it off a little bit and he bombed him and then he ended it there right who knows if you know if he didn't have that pressure from his base to not go to war if he had it would have expanded the conflict because we know israel wanted to right if this was like 2003 who knows if we wouldn't have just gone into like a full-on war but i think big voices in social media that we didn't have back in 03 were able to kind of pressure like hey we voted”
+
+</details>
+
+- **[Corey Lewandowski](/entities/person-corey-lewandowski.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:22:49](/episodes/ep-zSKrxIUMNqw.md#t-00-22-44): “The story goes that Donald Trump was running for president against Hillary Clinton, and he chose Corey Lewandowski to be his campaign manager.”
 
 </details>
 
@@ -6183,7 +6240,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:33:15](/episodes/ep-wcD2khO3rOA.md#t-00-32-37) (Claim) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via paraphrase): ["Two years after leaving the home, the survivor unexpectedly received a..."](/statements/statement-d55f2798ca5d.md)
+- [00:33:15](/episodes/ep-wcD2khO3rOA.md#t-00-32-37) (Claim) **Candace Owens** (via paraphrase): ["Two years after leaving the home, the survivor unexpectedly received a..."](/statements/statement-d55f2798ca5d.md)
   - Also about: [Liberty Godparent Home](/entities/org-liberty-godparent-home.md)
 
 </details>

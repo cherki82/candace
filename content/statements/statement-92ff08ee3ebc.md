@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [01:09:34](/episodes/ep-wcD2khO3rOA.md#t-01-09-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4174);return false;">Play</a>
 
-> Pastor Hyun-bo Son remains jailed in South Korea on election law charges and has drawn attention from the Korean administration for his stance on biblical truths.
+> His imprisonment has raised concerns about religious freedom in South Korea. ... Pastor Hyun-bo Son remains jailed in South Korea on election law charges and has drawn attention from the Korean administration for his stance on biblical truths.
 
 ## Verification
 

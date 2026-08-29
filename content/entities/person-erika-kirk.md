@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3023 mentions"
+description: "Erika Kirk (People) - 3025 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -28,11 +28,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-erika-kirk-t-01-05-38">2026-08-21 · 01:06:07</a></strong></div>
-<div><span>Episodes</span><strong>140</strong></div>
-<div><span>Mentions</span><strong>3,023</strong></div>
+<div><span>Episodes</span><strong>141</strong></div>
+<div><span>Mentions</span><strong>3,025</strong></div>
 <div><span>Statements by</span><strong>134</strong></div>
-<div><span>Statements about</span><strong>874</strong></div>
-<div><span>Relationships</span><strong>285</strong></div>
+<div><span>Statements about</span><strong>875</strong></div>
+<div><span>Relationships</span><strong>289</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -77,8 +77,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-00-00" style="--pulse-height:16%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 14 mentions" title="2025-12-20 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-erika-kirk-t-00-08-35" style="--pulse-height:30%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 26 mentions" title="2026-01-05 · 26 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-erika-kirk-t-00-06-45" style="--pulse-height:21%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 18 mentions" title="2026-01-06 · 18 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-erika-kirk-t-00-06-24" style="--pulse-height:12%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 10 mentions" title="2026-01-09 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-19-10" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-erika-kirk-t-00-05-57" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-erika-kirk-t-00-06-24" style="--pulse-height:13%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 11 mentions" title="2026-01-09 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-19-07" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-28-47" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-erika-kirk-t-00-00-00" style="--pulse-height:26%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 22 mentions" title="2026-01-16 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-erika-kirk-t-00-59-26" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
@@ -222,8 +223,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-erika-kirk-t-00-00-00) | 14 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-erika-kirk-t-00-08-35) | 26 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-erika-kirk-t-00-06-45) | 18 |
-| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-erika-kirk-t-00-06-24) | 10 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-19-10) | 3 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-erika-kirk-t-00-05-57) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-erika-kirk-t-00-06-24) | 11 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-19-07) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-28-47) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-erika-kirk-t-00-00-00) | 22 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-erika-kirk-t-00-59-26) | 5 |
@@ -332,7 +334,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3023)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3025)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (15 mentions)</summary>
@@ -8732,10 +8734,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
 
-**[00:19:36](/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-19-10)**
+**[00:19:36](/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-19-07)**
 > "...t that I was like wait wasn't Erika on a show randomly uh what's what's the show call..."
 
-**[00:47:30](/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-47-18)**
+**[00:47:30](/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-47-12)**
 > "...g charlie kirk on x he writes Erika is the reason charlie even got involved in the Fa..."
 
 **[00:47:54](/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-47-54)**
@@ -8744,7 +8746,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (10 mentions)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (11 mentions)</summary>
 
 **[00:06:32](/episodes/ep-wcD2khO3rOA.md#ent-person-erika-kirk-t-00-06-24)**
 > "...yer attended and he graduated Erika Kirk attended and she graduated Cabot Phillips attende..."
@@ -8775,6 +8777,17 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 **[00:33:18](/episodes/ep-wcD2khO3rOA.md#ent-person-erika-kirk-t-00-33-18)**
 > "is because Erika had said, you know, you have to submit your pictu..."
+
+**[00:21:37](/episodes/ep-wcD2khO3rOA.md#ent-person-erika-kirk-t-00-21-28)**
+> "...person in the video which was erica kirk simply discussing how she got involved with ..."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
+
+**[00:05:57](/episodes/ep-zSKrxIUMNqw.md#ent-person-erika-kirk-t-00-05-57)**
+> "... hitting the stage just after Erika Kirk opened, where he again..."
 
 </details>
 
@@ -10315,7 +10328,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - **[Summer House](/entities/work-summer-house-tv-series.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough”
 
 </details>
 
@@ -10953,6 +10966,18 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
+<summary>Formerly Member Of (1)</summary>
+
+- **[Falkirk Center](/entities/org-falkirk-center.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:47:54](/episodes/ep-CMcktj3Egfo.md#t-00-47-54): “yes obviously we know that Erika kirk was a was a Falkirk fellow”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Worked For (3)</summary>
 
 - **[The Corcoran Group](/entities/org-corcoran-group.md)**
@@ -11404,7 +11429,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Spoke At (6)</summary>
+<summary>Spoke At (7)</summary>
 
 - **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -11448,6 +11473,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. ... And she speaks at James Kaddis' Calvary Chapel Church.”
+
+</details>
+
+- **[AmericaFest 2025](/entities/event-americafest-2025.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
 
 </details>
 
@@ -11721,7 +11753,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>Referenced By (133)</summary>
+<summary>Referenced By (135)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (21)</summary>
@@ -11796,7 +11828,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 - **[Summer House](/entities/work-summer-house-tv-series.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10): “wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07): “wasn't Erika on a show randomly uh what's what's the show called Summer House in 2019 interestingly enough”
 
 </details>
 
@@ -12596,6 +12628,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 </details>
 
+- **[Falkirk Center](/entities/org-falkirk-center.md)** has former member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:47:54](/episodes/ep-CMcktj3Egfo.md#t-00-47-54): “yes obviously we know that Erika kirk was a was a Falkirk fellow”
+
+</details>
+
 - **[Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)** hosted speaker this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -12638,6 +12677,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:19:44](/episodes/ep-WoXd4oLwd3w.md#t-00-19-44): “Erika (Erika Kirk) travels aboard a private flight to Long Beach, California. ... And she speaks at James Kaddis' Calvary Chapel Church.”
+
+</details>
+
+- **[AmericaFest 2025](/entities/event-americafest-2025.md)** hosted speaker this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
 
 </details>
 
@@ -13621,7 +13667,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (874)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (875)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3)</summary>
@@ -16343,7 +16389,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3)</summary>
 
-- [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-10) (Claim) **Candace Owens**: ["Mark Burnett became chairman of MGM, which owned Summer House, and Eri..."](/statements/statement-40e79c3199ca.md)
+- [00:19:36](/episodes/ep-CMcktj3Egfo.md#t-00-19-07) (Claim) **Candace Owens**: ["Mark Burnett became chairman of MGM, which owned Summer House, and Eri..."](/statements/statement-40e79c3199ca.md)
   - Also about: [Mark Burnett](/entities/person-mark-burnett.md), [Metro-Goldwyn-Mayer](/entities/org-metro-goldwyn-mayer.md), [Summer House](/entities/work-summer-house-tv-series.md)
 
 - [00:48:27](/episodes/ep-CMcktj3Egfo.md#t-00-47-54) (Claim) **Erika Kirk** (via paraphrase): ["Erika Kirk has said that she lived in China and Costa Rica."](/statements/statement-cb22194523f7.md)
@@ -16362,6 +16408,14 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 - [00:12:01](/episodes/ep-wcD2khO3rOA.md#t-00-11-27) (Claim) **Candace Owens**: ["There are no reports that Erika Kirk or Lori Frantzve participated in ..."](/statements/statement-b59d7472db95.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Otto Busher III](/entities/person-otto-busher-iii.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro paid for a prime AmericaFest speaking slot after Erika Kir..."](/statements/statement-e71af1266a9d.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [AmericaFest 2025](/entities/event-americafest-2025.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

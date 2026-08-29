@@ -30,7 +30,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:13:49](/episodes/ep-CMcktj3Egfo.md#t-00-13-34) 
+**Timestamp:** [00:13:49](/episodes/ep-CMcktj3Egfo.md#t-00-13-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(829);return false;">Play</a>
 
 > the governing liberal Democratic Party found that some 180 of its elected lawmakers or almost half of its entire members.

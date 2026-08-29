@@ -1,6 +1,6 @@
 ---
 title: "Curtis Kolvet"
-description: "Curtis Kolvet (People) - 5 mentions"
+description: "Curtis Kolvet (People) - 6 mentions"
 id: "person-curtis-kolvet"
 type: "PERSON"
 aliases:
@@ -22,10 +22,10 @@ _Type: People_
 Source: [MISSION TO AFGHANISTAN: Nevada Guard's transportation company drives streets of Kabul](https://www.recordcourier.com/news/2012/dec/09/mission-to-afghanistan-nevada-guards-transportatio/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-person-curtis-kolvet-t-00-18-31">2026-03-04 · 00:18:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-curtis-kolvet-t-00-18-45">2026-01-09 · 00:18:53</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-curtis-kolvet-t-00-13-00">2026-06-26 · 00:13:00</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -36,6 +36,7 @@ Source: [MISSION TO AFGHANISTAN: Nevada Guard's transportation company drives st
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-curtis-kolvet-t-00-18-31">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-curtis-kolvet-t-00-18-45" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-curtis-kolvet-t-00-18-31" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-curtis-kolvet-t-00-13-00" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
@@ -43,6 +44,7 @@ Source: [MISSION TO AFGHANISTAN: Nevada Guard's transportation company drives st
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-curtis-kolvet-t-00-18-45) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-curtis-kolvet-t-00-18-31) | 4 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-curtis-kolvet-t-00-13-00) | 1 |
 
@@ -52,7 +54,7 @@ Source: [MISSION TO AFGHANISTAN: Nevada Guard's transportation company drives st
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -76,6 +78,14 @@ Source: [MISSION TO AFGHANISTAN: Nevada Guard's transportation company drives st
 
 **[00:24:55](/episodes/ep-y8lak3CRwDw.md#ent-person-curtis-kolvet-t-00-24-29)**
 > "...I had to realize that Captain Curtis Kolvet is the commander of Nevada's Army National Guard,..."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
+
+**[00:18:53](/episodes/ep-wcD2khO3rOA.md#ent-person-curtis-kolvet-t-00-18-45)**
+> "Curtis Kolvet and Robert Kolvet, Rob McCoy's father,"
 
 </details>
 

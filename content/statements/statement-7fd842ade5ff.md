@@ -28,10 +28,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-26-09) 
+**Timestamp:** [00:26:21](/episodes/ep-CMcktj3Egfo.md#t-00-25-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1581);return false;">Play</a>
 
-> We can tell you that when Ron Godwin retired from Liberty University in October of 2014,
+> when Ron Godwin retired from Liberty University in October of 2014, of course, his Johnnie boy left too ... all of a sudden he wanted back in at Liberty University and he was told no repeatedly.
 
 ## Verification
 

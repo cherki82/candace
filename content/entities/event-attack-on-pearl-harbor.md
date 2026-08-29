@@ -5,11 +5,19 @@ id: "event-attack-on-pearl-harbor"
 type: "EVENT"
 aliases:
   - "Pearl Harbor"
+categories:
+  - "World War II attack"
 ---
 
 _Type: Events_
 
 **Also known as:** Pearl Harbor
+
+**Categories:** World War II attack
+
+**Entity verification:** verified
+> The National Park Service identifies the December 7, 1941 event as the attack on Pearl Harbor.
+Source: [Pearl Harbor | Pearl Harbor National Memorial](https://www.nps.gov/perl/learn/historyculture/pearl-harbor.htm)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-event-attack-on-pearl-harbor-t-00-49-11">2026-01-12 · 00:49:43</a></strong></div>

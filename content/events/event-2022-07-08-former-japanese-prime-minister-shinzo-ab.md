@@ -14,7 +14,7 @@ date: "2022-07-08"
 ## Mentioned In
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:13:19](/episodes/ep-CMcktj3Egfo.md#event-event-2022-07-08-former-japanese-prime-minister-shinzo-ab-t-00-12-51) 
+**Timestamp:** [00:13:19](/episodes/ep-CMcktj3Egfo.md#event-event-2022-07-08-former-japanese-prime-minister-shinzo-ab-t-00-13-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(799);return false;">▶️ Play</a>
 
 > He was shot and he was killed because a 41-year-old man blamed the prime minister,

@@ -26,10 +26,10 @@ type: "opinion"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:25:49](/episodes/ep-CMcktj3Egfo.md#t-00-25-24) 
+**Timestamp:** [00:25:49](/episodes/ep-CMcktj3Egfo.md#t-00-25-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1549);return false;">Play</a>
 
-> looks like one of Godwin's three disciples,
+> looks like one of Godwin's three disciples, so to speak, was Johnnie Moore
 
 ## Verification
 

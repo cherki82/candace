@@ -15,7 +15,7 @@ object: "person-hyun-bo-son"
 
 **[The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA)**
 
-- [01:09:19](/episodes/ep-wcD2khO3rOA#t-01-09-19): _when his son Chance spoke in Arizona at Turning Point USA’s AmFest._
+- [01:09:19](/episodes/ep-wcD2khO3rOA#t-01-09-19): _when his son Chance spoke in Arizona at Turning Point USA's AmFest._
 
 ### Related
 

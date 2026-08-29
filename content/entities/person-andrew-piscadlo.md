@@ -5,14 +5,19 @@ id: "person-andrew-piscadlo"
 type: "PERSON"
 aliases:
   - "Andrew Pascadlo"
+categories:
+  - "military trafficking researcher"
 ---
 
 _Type: People_
 
 **Also known as:** Andrew Pascadlo
 
+**Categories:** military trafficking researcher
+
 **Entity verification:** verified
-> Name normalized from multiple independent transcript renderings; identity claims remain transcript-sourced.
+> Canonical spelling is supported by the source's visible research chart and repeated transcript context; the entity records only the named researcher, not independent endorsement of the claims.
+Source: [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](https://www.youtube.com/watch?v=wcD2khO3rOA)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-andrew-piscadlo-t-00-16-00">2026-01-09 · 00:16:00</a></strong></div>

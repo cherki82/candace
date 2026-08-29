@@ -12,6 +12,10 @@ _Type: Organizations_
 
 **Categories:** media, religion
 
+**Entity verification:** verified
+> The publication's official About page confirms the canonical Christianity Today name and global media-ministry identity.
+Source: [Who We Are | Christianity Today](https://www.christianitytoday.com/about/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-christianity-today-t-00-23-16">2026-01-12 · 00:23:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-org-christianity-today-t-00-23-16">2026-01-12 · 00:23:26</a></strong></div>

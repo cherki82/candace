@@ -139,7 +139,7 @@ Source: [South America: Human Geography | National Geographic](https://media.nat
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) (Accusation) **Candace Owens**: ["The Iran–Contra affair involved the CIA and Mossad trafficking weapons..."](/statements/statement-8a209df7944f.md)
+- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) (Accusation) **Candace Owens**: ["Owens said the Iran-Contra affair involved the CIA and Mossad traffick..."](/statements/statement-8a209df7944f.md)
   - Also about: [Iran–Contra affair](/entities/event-iran-contra-affair.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Mossad](/entities/org-mossad.md)
 
 </details>

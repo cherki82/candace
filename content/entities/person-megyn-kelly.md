@@ -1,6 +1,6 @@
 ---
 title: "Megyn Kelly"
-description: "Megyn Kelly (People) - 250 mentions"
+description: "Megyn Kelly (People) - 254 mentions"
 id: "person-megyn-kelly"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-megyn-kelly-t-00-11-22">2025-09-15 · 00:11:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-megyn-kelly-t-02-47-31">2026-08-14 · 02:47:31</a></strong></div>
-<div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>250</strong></div>
+<div><span>Episodes</span><strong>70</strong></div>
+<div><span>Mentions</span><strong>254</strong></div>
 <div><span>Statements by</span><strong>23</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
-<div><span>Relationships</span><strong>50</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>52</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -61,6 +61,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-megyn-kelly-t-00-27-06" style="--pulse-height:9%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-megyn-kelly-t-00-19-45" style="--pulse-height:13%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-megyn-kelly-t-00-51-51" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-megyn-kelly-t-00-05-25" style="--pulse-height:17%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-megyn-kelly-t-00-00-45" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-42-00" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-megyn-kelly-t-00-38-54" style="--pulse-height:9%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
@@ -135,6 +136,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-megyn-kelly-t-00-27-06) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-megyn-kelly-t-00-19-45) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-megyn-kelly-t-00-51-51) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-megyn-kelly-t-00-05-25) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-megyn-kelly-t-00-00-45) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-42-00) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-megyn-kelly-t-00-38-54) | 2 |
@@ -185,7 +187,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (250)</strong></summary>
+<summary><strong class="section-title">Raw mentions (254)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -754,6 +756,23 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
+
+**[00:05:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-megyn-kelly-t-00-05-25)**
+> "...en (Ben Shapiro) stepped onto Megyn Kelly's stage while she was on tour and he demanded her a..."
+
+**[00:05:47](/episodes/ep-zSKrxIUMNqw.md#ent-person-megyn-kelly-t-00-05-25)**
+> "...enes, all the attacks against Megyn Kelly."
+
+**[00:06:11](/episodes/ep-zSKrxIUMNqw.md#ent-person-megyn-kelly-t-00-05-57)**
+> "...nd this time he also attacked Megyn Kelly because she refused to pledge her loyalty to him ..."
+
+**[00:37:39](/episodes/ep-zSKrxIUMNqw.md#ent-person-megyn-kelly-t-00-37-16)**
+> "...s why they are now turning to Megyn Kelly in the same way, with the same viciousness."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
 **[00:51:51](/episodes/ep-HYn0P-P1wUw.md#ent-person-megyn-kelly-t-00-51-51)**
@@ -1316,9 +1335,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <summary>Criticized By (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Yes. Of course, the issue here is not just that Megyn Kelly has some questionable principles. and has been programming directly into the groiper right, it is that she remains a coward.”
@@ -1467,7 +1487,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:52](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “to Tucker Carlson about on his show,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:26](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “Megyn Kelly sat down and discussed she's been at length under attack they are adding her to their list it's very obvious because she simply won't bend the knee she has said nothing wrong she actually is a Zionist and she supports Israel but for them they learn that you must fully allow us to control your speech or we'll attack you you know we will assassinate your character essentially assassinating the character comes first well here's what Megyn Kelly opened up to Tucker Carlson about on his show, and here's what she had to say.”
 
 </details>
 
@@ -1501,7 +1521,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details>
-<summary>Supporter Of (2)</summary>
+<summary>Supporter Of (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1517,10 +1537,17 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 </details>
 
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:26](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “Megyn Kelly sat down and discussed she's been at length under attack they are adding her to their list it's very obvious because she simply won't bend the knee she has said nothing wrong she actually is a Zionist and she supports Israel”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (25)</summary>
+<summary>Referenced By (26)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1530,9 +1557,10 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Yes. Of course, the issue here is not just that Megyn Kelly has some questionable principles. and has been programming directly into the groiper right, it is that she remains a coward.”
@@ -1612,7 +1640,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:52](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “to Tucker Carlson about on his show,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:26](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “Megyn Kelly sat down and discussed she's been at length under attack they are adding her to their list it's very obvious because she simply won't bend the knee she has said nothing wrong she actually is a Zionist and she supports Israel but for them they learn that you must fully allow us to control your speech or we'll attack you you know we will assassinate your character essentially assassinating the character comes first well here's what Megyn Kelly opened up to Tucker Carlson about on his show, and here's what she had to say.”
 
 </details>
 
@@ -1708,6 +1736,13 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+
+</details>
+
+- **[Israel](/entities/gpe-israel.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:38:26](/episodes/ep-CMcktj3Egfo.md#t-00-38-26): “Megyn Kelly sat down and discussed she's been at length under attack they are adding her to their list it's very obvious because she simply won't bend the knee she has said nothing wrong she actually is a Zionist and she supports Israel”
 
 </details>
 
@@ -1822,7 +1857,7 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Megyn Kelly (19)</strong></summary>
+<summary><strong class="section-title">Statements about Megyn Kelly (21)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -1929,6 +1964,17 @@ Source: [Megyn Kelly official website](https://www.megynkelly.com/)
 
 - [00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38) (Claim) **Megyn Kelly** (via quoted speech): ["Megyn Kelly said Ben Shapiro called her a coward at AmericaFest after ..."](/statements/statement-1ce5250cf0c5.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
+
+- [00:05:33](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro demanded Megyn Kelly's allegiance against Candace Owens an..."](/statements/statement-55cdeafd37b1.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro paid for a prime AmericaFest speaking slot after Erika Kir..."](/statements/statement-e71af1266a9d.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [AmericaFest 2025](/entities/event-americafest-2025.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

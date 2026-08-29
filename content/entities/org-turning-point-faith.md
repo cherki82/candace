@@ -30,7 +30,7 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,7 +40,7 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-faith-t-00-09-20">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-faith-t-00-09-20" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 9 mentions" title="2026-01-09 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-10-58" style="--pulse-height:67%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-10-50" style="--pulse-height:67%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-faith-t-00-00-00" style="--pulse-height:56%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-turning-point-faith-t-00-35-11" style="--pulse-height:11%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-turning-point-faith-t-00-00-00" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-faith-t-00-09-20) | 9 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-10-58) | 6 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-10-50) | 6 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-faith-t-00-00-00) | 5 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-turning-point-faith-t-00-35-11) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-turning-point-faith-t-00-00-00) | 3 |
@@ -144,23 +144,23 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (6 mentions)</summary>
 
-**[00:11:24](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-10-58)**
+**[00:11:24](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-10-50)**
 > "...sode was that the true aim of Turning Point USA faith."
 
 **[00:16:29](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-16-29)**
 > "...hed what was the precursor to Turning Point Faith."
 
-**[00:27:43](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-27-38)**
+**[00:27:43](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-27-10)**
 > "When I say a turning point faith is problematic,"
 
-**[00:31:38](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-31-04)**
-> "the Turning Point Faith."
-
-**[00:31:39](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-31-04)**
+**[00:31:39](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-31-08)**
 > "And that's the reason Turning Point USA Faith wants to get into real estate. It feels like they..."
 
-**[00:47:30](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-47-18)**
+**[00:47:30](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-47-12)**
 > "... center and then the spin-off Turning Point usa faith she was brought in as his handler to move him in ..."
+
+**[00:31:22](/episodes/ep-CMcktj3Egfo.md#ent-org-turning-point-faith-t-00-31-08)**
+> "...re attempting that again, the Turning Point Faith."
 
 </details>
 
@@ -271,7 +271,7 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point Faith (13)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point Faith (14)</strong></summary>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>
@@ -315,28 +315,31 @@ Source: [TPUSA's The Believers' Summit: A Call to Unity and Biblical Truth | TPU
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4)</summary>
 
-- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-58) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
+- [00:11:26](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Turning Point Faith was intended to turn Charlie Kirk into a controlla..."](/statements/statement-14661745d0ac.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Messianism](/entities/concept-messianism.md)
 
-- [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-38) (Accusation) **Candace Owens**: ["Turning Point Faith is intended to function as a second Unification mo..."](/statements/statement-a8c533e3ee9c.md)
+- [00:27:40](/episodes/ep-CMcktj3Egfo.md#t-00-27-10) (Accusation) **Candace Owens**: ["Candace Owens said Turning Point Faith was intended to be the Moonies ..."](/statements/statement-a8c533e3ee9c.md)
   - Also about: [Unification Church](/entities/org-unification-church.md), [One-world government](/entities/concept-one-world-government.md)
 
-- [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-04) (Accusation) **Candace Owens**: ["Candace Owens said the Unification movement was likely a CIA operation..."](/statements/statement-9c4ef026c214.md)
+- [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) (Accusation) **Candace Owens**: ["Candace Owens said the Unification movement was likely a CIA operation..."](/statements/statement-9c4ef026c214.md)
   - Also about: [Unification Church](/entities/org-unification-church.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [South Korea](/entities/gpe-south-korea.md)
 
-- [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-04) (Accusation) **Candace Owens**: ["Turning Point Faith’s real-estate activity is connected to non-natural..."](/statements/statement-f47f1d47dfa9.md)
+- [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) (Accusation) **Candace Owens**: ["Candace Owens suggested that Turning Point Faith's real-estate activit..."](/statements/statement-f47f1d47dfa9.md)
   - Also about: [Land grab](/entities/concept-land-grab.md)
 
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (3)</summary>
 
 - [00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36) (Claim) **Candace Owens**: ["Jerry Falwell Jr. and Charlie Kirk established the Falkirk Center, and..."](/statements/statement-b5a582fabd77.md)
   - Also about: [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Falkirk Center](/entities/org-falkirk-center.md)
 
 - [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith works with Greg Laurie while Harvest Christian Fel..."](/statements/statement-6141210a0ed9.md)
   - Also about: [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
+
+- [00:58:25](/episodes/ep-wcD2khO3rOA.md#t-00-57-44) (Claim) **Candace Owens**: ["Owens said Turning Point Faith held a pastor summit led by Rob McCoy a..."](/statements/statement-1b0c9fa3365f.md)
+  - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Sean Feucht](/entities/person-sean-feucht.md)
 
 </details>
 

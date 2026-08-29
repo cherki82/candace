@@ -17,4 +17,4 @@ date: "2026-01-05"
 **Timestamp:** [00:34:41](/episodes/ep-CMcktj3Egfo.md#event-event-2026-01-05-likud-knesset-member-dan-illouz-delivere-t-00-34-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2081);return false;">▶️ Play</a>
 
-> mr Speaker,
+> Mr. Speaker, members of the Knesset, I stand here in Jerusalem, the eternal capital of the Jewish

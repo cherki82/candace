@@ -31,7 +31,7 @@ veracity: "false"
 **Timestamp:** [00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1077);return false;">Play</a>
 
-> the Falkirk Center in 2021.
+> they established Jerry Falwell, Charlie Kirk, the Falkirk Center in 2021.
 
 ## Verification
 

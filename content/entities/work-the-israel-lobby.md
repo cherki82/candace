@@ -6,13 +6,21 @@ type: "WORK"
 aliases:
   - "The Israel Lobby"
   - "Israel Lobby"
+categories:
+  - "political science book"
 ---
 
 _Type: Works & Media_
 
 **Also known as:** The Israel Lobby, Israel Lobby
 
+**Categories:** political science book
+
 > **Possibly overlapping entity records:** [Israel lobby](/entities/concept-israel-lobby). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Macmillan confirms the canonical title The Israel Lobby and U.S. Foreign Policy and its authors.
+Source: [The Israel Lobby and U.S. Foreign Policy | Macmillan](https://us.macmillan.com/books/9781427202130/theisraellobbyandusforeignpolicy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-work-the-israel-lobby-t-00-43-21">2026-01-09 · 00:43:48</a></strong></div>
@@ -21,7 +29,7 @@ _Type: Works & Media_
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -58,6 +66,28 @@ _Type: Works & Media_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Authored By (1)</summary>
+
+- **[John Mearsheimer](/entities/person-john-mearsheimer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:43:48](/episodes/ep-wcD2khO3rOA.md#t-00-43-21): “I'm currently reading The Israel Lobby by John Mearsheimer.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[John Mearsheimer](/entities/person-john-mearsheimer.md)** authored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:43:48](/episodes/ep-wcD2khO3rOA.md#t-00-43-21): “I'm currently reading The Israel Lobby by John Mearsheimer.”
+
+</details>
+
+</details>
 
 </details>

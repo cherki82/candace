@@ -6,11 +6,19 @@ type: "ORG"
 aliases:
   - "ABC 13"
   - "WSET"
+categories:
+  - "local television news outlet"
 ---
 
 _Type: Organizations_
 
 **Also known as:** ABC 13, WSET
+
+**Categories:** local television news outlet
+
+**Entity verification:** verified
+> VPM identifies WSET ABC 13 as the Lynchburg outlet that received and reported the home's 2025 statement.
+Source: ['Liberty Lost' podcast alleges program coerced pregnant teens into adoption | VPM](https://www.vpm.org/news/2025-08-12/liberty-lost-tj-raphael-maternity-home-family-life-services-adoption/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-wset-abc13-t-00-35-13">2026-01-09 · 00:35:20</a></strong></div>

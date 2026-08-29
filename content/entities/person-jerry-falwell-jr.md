@@ -6,14 +6,19 @@ type: "PERSON"
 aliases:
   - "Jerry Falwell Jr"
   - "Falwell Jr."
+categories:
+  - "Liberty University leadership"
 ---
 
 _Type: People_
 
 **Also known as:** Jerry Falwell Jr, Falwell Jr.
 
+**Categories:** Liberty University leadership
+
 **Entity verification:** verified
-> Former Liberty University president discussed by name.
+> Liberty University identifies Jerry Falwell Jr. as Jerry Falwell Sr.'s son and former university president.
+Source: [Dr. Jerry Falwell – Biography | Liberty University](https://www.liberty.edu/about/founder-jerry-falwell-senior/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jerry-falwell-jr-t-00-06-24">2026-01-09 · 00:07:02</a></strong></div>
@@ -54,7 +59,7 @@ _Type: People_
 **[00:00:51](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-jr-t-00-00-45)**
 > "Jerry Falwell Jr."
 
-**[00:15:44](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-jr-t-00-15-44)**
+**[00:15:44](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-jr-t-00-15-43)**
 > "allegedly, they told me that Jerry Falwell Jr."
 
 **[00:16:35](/episodes/ep-CMcktj3Egfo.md#ent-person-jerry-falwell-jr-t-00-16-29)**
@@ -85,7 +90,7 @@ _Type: People_
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): “Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell, Charlie Kirk, the Falkirk Center in 2021.”
 
 </details>
 
@@ -98,7 +103,7 @@ _Type: People_
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 00:08:44](/episodes/ep-wcD2khO3rOA.md#t-00-08-36): “Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.”
-- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell,”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45): “So yeah, they established Jerry Falwell, Charlie Kirk, the Falkirk Center in 2021.”
 
 </details>
 
@@ -112,22 +117,22 @@ _Type: People_
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (6)</summary>
 
-- [00:15:44](/episodes/ep-CMcktj3Egfo.md#t-00-15-01) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider said Jerry Falwell Jr. was unfairly remov..."](/statements/statement-79ad008ba250.md)
+- [00:15:44](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider allegedly said Jerry Falwell Jr. was unfa..."](/statements/statement-79ad008ba250.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md)
 
-- [00:16:15](/episodes/ep-CMcktj3Egfo.md#t-00-15-44) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that corrupt evangelical pastors ..."](/statements/statement-32100222e57f.md)
+- [00:16:15](/episodes/ep-CMcktj3Egfo.md#t-00-15-43) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that corrupt evangelical pastors ..."](/statements/statement-32100222e57f.md)
   - Also about: [Falkirk Center](/entities/org-falkirk-center.md), [Liberty University](/entities/org-liberty-university.md)
 
 - [00:16:55](/episodes/ep-CMcktj3Egfo.md#t-00-16-29) (Claim) **Candace Owens**: ["Jerry Falwell Jr. separated Liberty University’s finances from the chu..."](/statements/statement-28803a46380a.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md)
 
-- [00:17:14](/episodes/ep-CMcktj3Egfo.md#t-00-17-09) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that pastors resented the school-..."](/statements/statement-8bf064474698.md)
+- [00:17:14](/episodes/ep-CMcktj3Egfo.md#t-00-17-03) (Accusation) **Anonymous Source #2 (Ep CMcktj3Egfo)** (via paraphrase): ["A Liberty University insider alleged that pastors resented the school-..."](/statements/statement-8bf064474698.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md), [Jerry Falwell Sr.](/entities/person-jerry-falwell-sr.md)
 
 - [00:17:57](/episodes/ep-CMcktj3Egfo.md#t-00-17-45) (Claim) **Candace Owens**: ["Charlie Kirk and Jerry Falwell Jr. established the Falkirk Center in 2..."](/statements/statement-c8e10a053699.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Falkirk Center](/entities/org-falkirk-center.md)
 
-- [00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-53) (Claim) **Candace Owens**: ["After succeeding Jerry Falwell Jr., Jerry Prevo fired Charlie Kirk fro..."](/statements/statement-3b1021647812.md)
+- [00:27:02](/episodes/ep-CMcktj3Egfo.md#t-00-26-31) (Claim) **Candace Owens**: ["After succeeding Jerry Falwell Jr., Jerry Prevo fired Charlie Kirk fro..."](/statements/statement-3b1021647812.md)
   - Also about: [Jerry Prevo](/entities/person-jerry-prevo.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Johnnie Moore](/entities/person-johnnie-moore.md)
 
 </details>

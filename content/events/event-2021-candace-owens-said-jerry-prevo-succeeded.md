@@ -14,7 +14,7 @@ date: "2021"
 ## Mentioned In
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:27:02](/episodes/ep-CMcktj3Egfo.md#event-event-2021-candace-owens-said-jerry-prevo-succeeded-t-00-26-53) 
+**Timestamp:** [00:27:02](/episodes/ep-CMcktj3Egfo.md#event-event-2021-candace-owens-said-jerry-prevo-succeeded-t-00-26-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1622);return false;">▶️ Play</a>
 
 > Jerry Prevo is named as his successor and the very first thing that Jerry Prevo does.

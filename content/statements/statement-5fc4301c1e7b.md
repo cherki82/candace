@@ -1,6 +1,6 @@
 ---
-title: "Johnnie Moore was selected to lead the Gaza Humanitarian Fou..."
-description: "\"Johnnie Moore was selected to lead the Gaza Humanitarian Foundation despite being a public-relations professional with no apparent qualification for h...\" — Candace Owens"
+title: "Owens questioned why public-relations professional Johnnie M..."
+description: "\"Owens questioned why public-relations professional Johnnie Moore was selected to lead the Gaza Humanitarian Foundation and said the selection seemed r...\" — Candace Owens"
 statement_id: "statement-5fc4301c1e7b"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Johnnie Moore was selected to lead the Gaza Humanitarian Foundation despite being a public-relations professional with no apparent qualification for humanitarian food distribution.
+> Owens questioned why public-relations professional Johnnie Moore was selected to lead the Gaza Humanitarian Foundation and said the selection seemed remarkably corrupt.
 
 ## Attribution
 
@@ -30,7 +30,7 @@ veracity: "mixed"
 **Timestamp:** [00:07:40](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(460);return false;">Play</a>
 
-> Bizarrely, they decided that Johnnie Moore... was somehow equipped to lead the Gaza Humanitarian Fund... He was just running PR.
+> I have no idea why he got this position. It seems remarkably corrupt. ... He was just running PR.
 
 ## Verification
 

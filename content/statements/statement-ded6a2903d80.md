@@ -1,8 +1,8 @@
 ---
 title: "Sun Myung Moon used the Unification Church and affiliated or..."
-description: "\"Sun Myung Moon used the Unification Church and affiliated organizations such as CAUSA to support the Contras and promote the Reagan administration’s C...\" — Candace Owens"
+description: "\"Sun Myung Moon used the Unification Church and affiliated organizations such as CAUSA to support the Contras and promote the Reagan administration’s C...\" — Anonymous Source #4 (Ep wcD2khO3rOA)"
 statement_id: "statement-ded6a2903d80"
-speaker: "Candace Owens"
+speaker: "Anonymous Source #4 (Ep wcD2khO3rOA)"
 type: "accusation"
 veracity: "mixed"
 ---
@@ -15,9 +15,10 @@ veracity: "mixed"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Anonymous Source #4 (Ep wcD2khO3rOA)](/entities/anon-src-wcD2khO3rOA-004.md) (Anonymous Source)
 
 **Delivery:** Read from message
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 **Original Source:** Email tip read by Candace Owens
 
 ## About

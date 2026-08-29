@@ -43,7 +43,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-armed-forces-t-00-24-09" style="--pulse-height:33%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-united-states-armed-forces-t-00-37-21" style="--pulse-height:33%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15" style="--pulse-height:33%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-25" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16" style="--pulse-height:67%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
@@ -62,7 +62,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-armed-forces-t-00-24-09) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-armed-forces-t-00-37-21) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15) | 1 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-25) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16) | 2 |
@@ -162,7 +162,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
 
-**[00:32:46](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-35)**
+**[00:32:46](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-25)**
 > "...ate despite having the entire United States military at their beck and call and being able to mass mur..."
 
 </details>
@@ -438,9 +438,9 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
 
-- [00:44:03](/episodes/ep-CMcktj3Egfo.md#t-00-43-55) (Accusation) **Candace Owens**: ["Candace Owens said she did not believe the U.S. military’s purpose abr..."](/statements/statement-eb6317325ddc.md)
+- [00:44:03](/episodes/ep-CMcktj3Egfo.md#t-00-43-49) (Accusation) **Candace Owens**: ["Candace Owens said she did not believe the U.S. military’s purpose abr..."](/statements/statement-eb6317325ddc.md)
 
-- [00:50:58](/episodes/ep-CMcktj3Egfo.md#t-00-50-35) (Accusation) **Candace Owens**: ["Senior U.S. military leaders operate as mercenary squads protecting cr..."](/statements/statement-b6ab19afdae2.md)
+- [00:50:58](/episodes/ep-CMcktj3Egfo.md#t-00-50-35) (Accusation) **Candace Owens**: ["Candace Owens said she thought senior U.S. military leaders operated a..."](/statements/statement-b6ab19afdae2.md)
 
 </details>
 

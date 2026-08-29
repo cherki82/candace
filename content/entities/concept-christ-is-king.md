@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 42 mentions"
+description: "Christ Is King (Concepts) - 41 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -20,10 +20,10 @@ _Type: Concepts_
 Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37">2026-01-12 · 00:20:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32">2026-01-12 · 00:20:43</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-51-45">2026-08-04 · 00:52:11</a></strong></div>
 <div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,7 +34,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54">Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37" style="--pulse-height:60%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32" style="--pulse-height:40%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-20" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-christ-is-king-t-00-57-33" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christ-is-king-t-00-34-40" style="--pulse-height:40%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
@@ -60,7 +60,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37) | 3 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-20) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-christ-is-king-t-00-57-33) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christ-is-king-t-00-34-40) | 2 |
@@ -88,7 +88,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (3 mentions)</summary>
@@ -308,15 +308,12 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2 mentions)</summary>
 
-**[00:20:37](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37)**
-> "before the whole Christ Is King debacle, that's what they put me on the list for,"
-
-**[00:20:43](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37)**
+**[00:20:43](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32)**
 > "... doubled down explaining that Christ is king is in fact actually anti-Semitic and they created..."
 
-**[00:20:57](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37)**
+**[00:20:57](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32)**
 > "was a radical for saying Christ is king."
 
 </details>

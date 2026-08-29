@@ -1,6 +1,6 @@
 ---
-title: "A person directly involved in planning Charlie Kirk’s Septem..."
-description: "\"A person directly involved in planning Charlie Kirk’s September 11 appearance at Charis Bible College said there was no security plan or police coordi...\" — Candace Owens"
+title: "Owens said a person directly involved in planning Charlie Ki..."
+description: "\"Owens said a person directly involved in planning Charlie Kirk's September 11 appearance at Charis Bible College reported that there had been no secur...\" — Candace Owens"
 statement_id: "statement-46eb164a6911"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> A person directly involved in planning Charlie Kirk’s September 11 appearance at Charis Bible College said there was no security plan or police coordination before his assassination.
+> Owens said a person directly involved in planning Charlie Kirk's September 11 appearance at Charis Bible College reported that there had been no security plan in place before his assassination.
 
 ## Attribution
 
@@ -31,7 +31,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:03:51](/episodes/ep-wcD2khO3rOA.md#t-00-03-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(231);return false;">Play</a>
 
-> I received a tip from someone that was directly involved with the planning of an event that Charlie Kirk was supposed to attend the following day... they had absolutely no security plan in place.
+> I received a tip from someone that was directly involved with the planning of an event that Charlie Kirk was supposed to attend the following day. ... they had absolutely no security plan in place.
 
 ## Verification
 

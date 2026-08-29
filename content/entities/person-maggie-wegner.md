@@ -1,0 +1,127 @@
+---
+title: "Maggie Wegner"
+description: "Maggie Wegner (People) - 4 mentions"
+id: "person-maggie-wegner"
+type: "PERSON"
+aliases:
+  - "Maggie"
+  - "Mags"
+  - "Mags Wegner"
+categories:
+  - "content creator"
+  - "prospective media host"
+---
+
+_Type: People_
+
+**Also known as:** Maggie, Mags, Mags Wegner
+
+**Categories:** content creator, prospective media host
+
+**Entity verification:** verified
+> The primary episode spells Wegner’s name and identifies her social handle while presenting her first-person account.
+Source: [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](https://www.youtube.com/watch?v=zSKrxIUMNqw)
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-maggie-wegner-t-00-11-44">2026-01-07 · 00:12:24</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-maggie-wegner-t-00-55-39">2026-01-07 · 00:55:39</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-maggie-wegner-t-00-11-44">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (4 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-maggie-wegner-t-00-11-44" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-maggie-wegner-t-00-11-44) | 4 |
+
+</details>
+</section>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
+
+**[00:12:24](/episodes/ep-zSKrxIUMNqw.md#ent-person-maggie-wegner-t-00-11-44)**
+> "So Maggie (Maggie Wegner) did not get the role,"
+
+**[00:12:29](/episodes/ep-zSKrxIUMNqw.md#ent-person-maggie-wegner-t-00-12-29)**
+> "...ith it, you said your name is Maggie Wegner."
+
+**[00:54:48](/episodes/ep-zSKrxIUMNqw.md#ent-person-maggie-wegner-t-00-54-16)**
+> "...ts, people asking for Maggie (Maggie Wegner)'s socials, and I'm going to give you—this is her..."
+
+**[00:55:39](/episodes/ep-zSKrxIUMNqw.md#ent-person-maggie-wegner-t-00-55-39)**
+> "And I'm glad that she followed her Christian heart there, man. Look, Mags (Maggie Wegner)—Mags Wegner—I'll tell you what: I would love to be the person that gets called if you are going for the next job. And I have a letter of recommendation, a video of recommendation."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Maggie Wegner (4)</strong></summary>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4)</summary>
+
+- [00:06:43](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57) [○] (Claim) ["A Daily Wire producer contacted Maggie Wegner about auditioning for a solo show ..."](/statements/statement-2343c09ee5ca.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:07:19](/episodes/ep-zSKrxIUMNqw.md#t-00-06-43) [○] (Claim) ["The proposed show was presented as comedy about both political sides, but the pr..."](/statements/statement-52323bcfd490.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:08:02](/episodes/ep-zSKrxIUMNqw.md#t-00-07-27) [○] (Claim) ["The audition script and AI sample focused entirely on mocking Candace Owens."](/statements/statement-30d7c5a773f6.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [Candace Owens](/entities/person-candace-owens.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md)
+
+- [00:08:26](/episodes/ep-zSKrxIUMNqw.md#t-00-08-02) [○] (Claim) ["Maggie Wegner declined to submit the audition because it felt untrue and like hi..."](/statements/statement-c4a08b48a105.md)
+  - About: [Maggie Wegner](/entities/person-maggie-wegner.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Maggie Wegner (5)</strong></summary>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (5)</summary>
+
+- [00:06:43](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57) (Claim) **Maggie Wegner** (via read message): ["A Daily Wire producer contacted Maggie Wegner about auditioning for a ..."](/statements/statement-2343c09ee5ca.md)
+  - Also about: [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:07:19](/episodes/ep-zSKrxIUMNqw.md#t-00-06-43) (Claim) **Maggie Wegner** (via read message): ["The proposed show was presented as comedy about both political sides, ..."](/statements/statement-52323bcfd490.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:08:02](/episodes/ep-zSKrxIUMNqw.md#t-00-07-27) (Claim) **Maggie Wegner** (via read message): ["The audition script and AI sample focused entirely on mocking Candace ..."](/statements/statement-30d7c5a773f6.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md), [The More You No-No](/entities/work-the-more-you-no-no.md)
+
+- [00:08:26](/episodes/ep-zSKrxIUMNqw.md#t-00-08-02) (Claim) **Maggie Wegner** (via read message): ["Maggie Wegner declined to submit the audition because it felt untrue a..."](/statements/statement-c4a08b48a105.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:12:24](/episodes/ep-zSKrxIUMNqw.md#t-00-11-44) (Claim) **Candace Owens**: ["Maggie Wegner did not receive the Daily Wire role after declining to m..."](/statements/statement-564a2d8e110c.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
+
+</details>
+
+</details>

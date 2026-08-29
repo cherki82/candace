@@ -1,6 +1,6 @@
 ---
 title: "Robert Kolvet"
-description: "Robert Kolvet (People) - 4 mentions"
+description: "Robert Kolvet (People) - 5 mentions"
 id: "person-robert-kolvet"
 type: "PERSON"
 categories:
@@ -19,8 +19,8 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-robert-kolvet-t-00-23-32">2025-10-28 · 00:23:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-person-robert-kolvet-t-00-25-12">2026-03-04 · 00:25:12</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
@@ -32,6 +32,7 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-robert-kolvet-t-00-19-44">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-robert-kolvet-t-00-23-32" style="--pulse-height:33%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-robert-kolvet-t-00-18-45" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-robert-kolvet-t-00-19-44" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -39,6 +40,7 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-robert-kolvet-t-00-23-32) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-robert-kolvet-t-00-18-45) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-robert-kolvet-t-00-19-44) | 3 |
 
 </details>
@@ -47,7 +49,7 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (3 mentions)</summary>
@@ -60,6 +62,14 @@ Source: [Guard MPs train in Haiti during New Horizons](https://www.army.mil/arti
 
 **[00:25:12](/episodes/ep-y8lak3CRwDw.md#ent-person-robert-kolvet-t-00-25-12)**
 > "Robert Kolvet, who is his cousin, will simultaneously command t..."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
+
+**[00:18:53](/episodes/ep-wcD2khO3rOA.md#ent-person-robert-kolvet-t-00-18-45)**
+> "Curtis Kolvet and Robert Kolvet, Rob McCoy's father,"
 
 </details>
 

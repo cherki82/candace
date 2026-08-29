@@ -1,14 +1,12 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 344 mentions"
+description: "Zionism (Concepts) - 343 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
   - "Zionists"
   - "Zionism"
-  - "Christian Zionist"
   - "Zionist"
-  - "Christian Zionism"
 categories:
   - "political movement, Jewish nationalism"
   - "political movement"
@@ -16,11 +14,9 @@ categories:
 
 _Type: Concepts_
 
-**Also known as:** Zionists, Zionism, Christian Zionist, Zionist, Christian Zionism
+**Also known as:** Zionists, Zionism, Zionist
 
 **Categories:** political movement, Jewish nationalism, political movement
-
-> **Possibly overlapping entity records:** [Christian Zionism](/entities/concept-christian-zionism). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
 > The U.S. Holocaust Memorial Museum's Holocaust Encyclopedia confirms Zionism as the canonical movement name; transcript forms Zionist and Zionists are already stored aliases.
@@ -30,7 +26,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-48-49">2026-08-07 · 00:49:00</a></strong></div>
 <div><span>Episodes</span><strong>79</strong></div>
-<div><span>Mentions</span><strong>344</strong></div>
+<div><span>Mentions</span><strong>343</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -68,7 +64,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15" style="--pulse-height:43%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 7 mentions" title="2026-01-12 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51" style="--pulse-height:43%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-48" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-52-31" style="--pulse-height:21%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31" style="--pulse-height:93%" aria-label="Myron Gaines x Candace Owens: 13 mentions" title="2026-01-16 · 13 mentions"><span></span></a>
@@ -152,7 +148,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-concept-zionism-t-00-57-16) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15) | 6 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08) | 1 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51) | 7 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51) | 6 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-48) | 2 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-52-31) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31) | 13 |
@@ -211,7 +207,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (344)</strong></summary>
+<summary><strong class="section-title">Raw mentions (343)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (6 mentions)</summary>
@@ -935,10 +931,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:00:47](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40)**
 > "...loving, very loving Christian Zionist donor."
 
-**[00:01:28](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-01-23)**
+**[00:01:28](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40)**
 > "but also by Christian Zionist donors."
 
-**[00:01:31](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-01-23)**
+**[00:01:31](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40)**
 > "What is Christian Zionism? We're all wondering, we're having that conversat..."
 
 **[00:06:24](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42)**
@@ -984,7 +980,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:35:59](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31)**
 > "the Zionist lobby"
 
-**[00:00:01](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-00-01)**
+**[00:00:01](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-27-07)**
 > "...o be anything but a Christian Zionist and he was changing in the last few weeks."
 
 **[00:27:07](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-27-07)**
@@ -1048,18 +1044,15 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (7 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (6 mentions)</summary>
 
 **[00:05:24](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51)**
 > "Even when I was a Zionist, because it felt dangerous. You could sense the M..."
 
-**[00:21:18](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-20-37)**
+**[00:21:18](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-21-15)**
 > "They were born out of Zionist gangs,"
 
-**[00:22:54](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-20-37)**
-> "...ing a great wall of Christian Zionism all over the world to push back the forces of ant..."
-
-**[00:33:15](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-33-15)**
+**[00:33:15](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-33-04)**
 > "...in convincing all of us to be Zionists, uh,"
 
 **[00:36:47](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-36-40)**
@@ -1068,7 +1061,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:38:26](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-38-26)**
 > "...thing wrong she actually is a Zionist and she supports Israel but for them they learn t..."
 
-**[00:52:02](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-51-41)**
+**[00:52:02](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-51-40)**
 > "both houses that support the Zionists do not vote for them."
 
 </details>

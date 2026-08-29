@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk was assassinated because he rejected an offer t..."
-description: "\"Charlie Kirk was assassinated because he rejected an offer to turn Turning Point USA into a multibillion-dollar network modeled on Moon’s empire, and ...\" — Candace Owens"
+title: "Owens presented as her best guess that Charlie Kirk was assa..."
+description: "\"Owens presented as her best guess that Charlie Kirk was assassinated because he rejected an offer to turn Turning Point USA into a multibillion-dollar...\" — Candace Owens"
 statement_id: "statement-b5023ea1ef67"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Charlie Kirk was assassinated because he rejected an offer to turn Turning Point USA into a multibillion-dollar network modeled on Moon’s empire, and subordinates may have betrayed him for the financial opportunity.
+> Owens presented as her best guess that Charlie Kirk was assassinated because he rejected an offer to turn Turning Point USA into a multibillion-dollar network modeled on Moon's empire, and she speculated that subordinates might have betrayed him for the financial opportunity.
 
 ## Attribution
 

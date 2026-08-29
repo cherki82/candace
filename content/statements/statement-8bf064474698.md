@@ -29,7 +29,7 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:17:14](/episodes/ep-CMcktj3Egfo.md#t-00-17-09) 
+**Timestamp:** [00:17:14](/episodes/ep-CMcktj3Egfo.md#t-00-17-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1034);return false;">Play</a>
 
 > Well, apparently the pastors who made a fortune while Jerry Falwell Sr. was alive did not like that.

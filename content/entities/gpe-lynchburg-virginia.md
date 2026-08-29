@@ -5,15 +5,23 @@ id: "gpe-lynchburg-virginia"
 type: "GPE"
 aliases:
   - "Lynchburg"
+categories:
+  - "independent city"
 ---
 
 _Type: Places_
 
 **Also known as:** Lynchburg
 
+**Categories:** independent city
+
+**Entity verification:** verified
+> The City of Lynchburg's official page confirms Lynchburg, Virginia as an independent city.
+Source: [About Lynchburg | City of Lynchburg](https://www.lynchburgva.gov/638/About-Lynchburg)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-lynchburg-virginia-t-00-22-55">2026-01-09 · 00:22:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-lynchburg-virginia-t-00-24-00">2026-01-12 · 00:24:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-lynchburg-virginia-t-00-23-56">2026-01-12 · 00:24:00</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -53,7 +61,7 @@ _Type: Places_
 **[00:23:42](/episodes/ep-CMcktj3Egfo.md#ent-gpe-lynchburg-virginia-t-00-23-16)**
 > "founded 41 years ago in Lynchburg,"
 
-**[00:24:00](/episodes/ep-CMcktj3Egfo.md#ent-gpe-lynchburg-virginia-t-00-24-00)**
+**[00:24:00](/episodes/ep-CMcktj3Egfo.md#ent-gpe-lynchburg-virginia-t-00-23-56)**
 > "...aid he was getting outside of Lynchburg in high school."
 
 </details>

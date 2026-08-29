@@ -11,7 +11,7 @@ object: "person-kanye-west"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Kanye West](/entities/person-kanye-west)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
 
@@ -20,6 +20,10 @@ object: "person-kanye-west"
 **[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 
 - [00:46:17](/episodes/ep-_cNtgris8Ik#t-00-46-17): _I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship._
+
+**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
+
+- [00:39:15](/episodes/ep-zSKrxIUMNqw#t-00-39-15): _because he's my friend._
 
 ### Related
 

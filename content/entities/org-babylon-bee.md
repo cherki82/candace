@@ -1,6 +1,6 @@
 ---
 title: "The Babylon Bee"
-description: "The Babylon Bee (Organizations) - 7 mentions"
+description: "The Babylon Bee (Organizations) - 8 mentions"
 id: "org-babylon-bee"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/a
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47">2025-09-17 · 00:47:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-babylon-bee-t-00-37-11">2026-08-07 · 00:37:38</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/a
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-babylon-bee-t-00-27-42" style="--pulse-height:100%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-babylon-bee-t-00-29-18" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-babylon-bee-t-00-31-24" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-babylon-bee-t-00-37-11" style="--pulse-height:50%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 </div>
@@ -48,6 +49,7 @@ Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/a
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-babylon-bee-t-00-46-47) | 1 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-org-babylon-bee-t-00-27-42) | 2 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-babylon-bee-t-00-45-19) | 1 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-babylon-bee-t-00-29-18) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-babylon-bee-t-00-31-24) | 2 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-babylon-bee-t-00-37-11) | 1 |
 
@@ -57,7 +59,7 @@ Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/a
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -75,6 +77,14 @@ Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/a
 
 **[00:40:41](/episodes/ep-4YgrOhhy708.md#ent-org-babylon-bee-t-00-40-11)**
 > "...like the nice little touch of the Babylon Bee because now that we're getting into your true gui..."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
+
+**[00:29:55](/episodes/ep-zSKrxIUMNqw.md#ent-org-babylon-bee-t-00-29-18)**
+> "the Babylon Bee."
 
 </details>
 
@@ -119,6 +129,19 @@ Source: [Your Trusted Source for Christian News Satire](https://babylonbee.com/a
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:31:24](/episodes/ep-4YgrOhhy708.md#t-00-31-24): “Seth Dillon gets up there of the Babylon Bee”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about The Babylon Bee (1)</strong></summary>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:29:52](/episodes/ep-zSKrxIUMNqw.md#t-00-29-18) (Accusation) **Candace Owens**: ["Ben Shapiro has targeted the David Horowitz Freedom Center, Candace Ow..."](/statements/statement-7e48c6e0ae91.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

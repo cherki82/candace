@@ -508,7 +508,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) (Accusation) **Candace Owens**: ["George Zinn was associated with child-sex-abuse allegations and told h..."](/statements/statement-855e6e00ca96.md)
+- [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) (Accusation) **Candace Owens**: ["Owens said George Zinn had child sexual abuse material on his phone an..."](/statements/statement-855e6e00ca96.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

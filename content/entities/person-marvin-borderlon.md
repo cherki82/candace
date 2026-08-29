@@ -3,13 +3,17 @@ title: "Marvin Borderlon"
 description: "Marvin Borderlon (People) - 1 mention"
 id: "person-marvin-borderlon"
 type: "PERSON"
+categories:
+  - "religious movements advocate"
 ---
 
 _Type: People_
 
+**Categories:** religious movements advocate
+
 **Entity verification:** verified
-> Quoted source confirms spelling and role.
-Source: [A Church in Flux Is Flush with Cash - The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
+> The Washington Post article quoted in the episode identifies Marvin Borderlon and his role.
+Source: [A Church in Flux Is Flush With Cash | The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-marvin-borderlon-t-00-58-29">2026-01-09 · 00:58:38</a></strong></div>

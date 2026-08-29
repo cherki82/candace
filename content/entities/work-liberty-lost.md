@@ -5,14 +5,19 @@ id: "work-liberty-lost"
 type: "WORK"
 aliases:
   - "Liberty Lost podcast"
+categories:
+  - "investigative podcast"
 ---
 
 _Type: Works & Media_
 
 **Also known as:** Liberty Lost podcast
 
+**Categories:** investigative podcast
+
 **Entity verification:** verified
-Source: [Liberty Lost on Apple Podcasts](https://podcasts.apple.com/us/podcast/liberty-lost/id1815337795)
+> VPM identifies Liberty Lost as a six-episode investigative podcast produced by Wondery.
+Source: ['Liberty Lost' podcast alleges program coerced pregnant teens into adoption | VPM](https://www.vpm.org/news/2025-08-12/liberty-lost-tj-raphael-maternity-home-family-life-services-adoption/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-work-liberty-lost-t-00-35-13">2026-01-09 · 00:35:13</a></strong></div>

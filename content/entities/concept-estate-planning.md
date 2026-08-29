@@ -16,7 +16,7 @@ _Type: Concepts_
 **Categories:** legal and financial planning
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-51">2026-01-12 · 00:12:59</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-25">2026-01-12 · 00:12:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-32">2026-01-13 · 00:14:42</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -28,16 +28,16 @@ _Type: Concepts_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-51">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-25">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-51" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-25" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-32" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-51) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-25) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-32) | 1 |
 
 </details>
@@ -59,7 +59,7 @@ _Type: Concepts_
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
 
-**[00:12:59](/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-51)**
+**[00:12:59](/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-25)**
 > "...be included in your grandma's estate planning."
 
 </details>
@@ -79,7 +79,7 @@ _No relationships extracted yet._
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:12:25](/episodes/ep-CMcktj3Egfo.md#t-00-12-09) (Claim) **Candace Owens**: ["Turning Point USA solicits supporters to include retirement assets, pr..."](/statements/statement-ac75f227285b.md)
+- [00:12:25](/episodes/ep-CMcktj3Egfo.md#t-00-11-58) (Claim) **Candace Owens**: ["Turning Point USA solicits supporters to include retirement assets, pr..."](/statements/statement-ac75f227285b.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

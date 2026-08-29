@@ -144,7 +144,7 @@ Source: [Charis Bible College](https://www.charisbiblecollege.org/)
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:03:51](/episodes/ep-wcD2khO3rOA.md#t-00-03-29) (Claim) **Candace Owens** (via paraphrase): ["A person directly involved in planning Charlie Kirk’s September 11 app..."](/statements/statement-46eb164a6911.md)
+- [00:03:51](/episodes/ep-wcD2khO3rOA.md#t-00-03-29) (Claim) **Candace Owens** (via paraphrase): ["Owens said a person directly involved in planning Charlie Kirk's Septe..."](/statements/statement-46eb164a6911.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

@@ -51,7 +51,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05" style="--pulse-height:30%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-mossad-t-01-06-13" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07" style="--pulse-height:30%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-49" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-47" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-05" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-06" style="--pulse-height:10%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
@@ -96,7 +96,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05) | 3 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-mossad-t-01-06-13) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07) | 3 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-49) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-47) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-05) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-06) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07) | 8 |
@@ -403,7 +403,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
 
-**[00:32:19](/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-49)**
+**[00:32:19](/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-47)**
 > "It's almost as if the Mossad and the CIA,"
 
 </details>
@@ -787,7 +787,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-49) (Accusation) **Candace Owens**: ["Mossad and the CIA are effectively inseparable, and Benjamin Netanyahu..."](/statements/statement-27fb03763d42.md)
+- [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47) (Opinion) **Candace Owens**: ["Candace Owens said it was almost as if Mossad and the CIA were insepar..."](/statements/statement-27fb03763d42.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>
@@ -795,7 +795,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) (Accusation) **Candace Owens**: ["The Iran–Contra affair involved the CIA and Mossad trafficking weapons..."](/statements/statement-8a209df7944f.md)
+- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) (Accusation) **Candace Owens**: ["Owens said the Iran-Contra affair involved the CIA and Mossad traffick..."](/statements/statement-8a209df7944f.md)
   - Also about: [Iran–Contra affair](/entities/event-iran-contra-affair.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>

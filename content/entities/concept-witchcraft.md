@@ -105,7 +105,7 @@ _No relationships extracted yet._
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-31) (Claim) **Candace Owens**: ["Andrew Kolvet once called Candace Owens before AmericaFest and serious..."](/statements/statement-b6524823ffb8.md)
+- [00:08:57](/episodes/ep-CMcktj3Egfo.md#t-00-08-29) (Claim) **Candace Owens**: ["Andrew Kolvet once called Candace Owens before AmericaFest and serious..."](/statements/statement-b6524823ffb8.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
 
 </details>

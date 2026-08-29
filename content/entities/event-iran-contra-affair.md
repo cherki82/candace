@@ -1,6 +1,6 @@
 ---
 title: "Iran–Contra affair"
-description: "Iran–Contra affair (Events) - 11 mentions"
+description: "Iran–Contra affair (Events) - 13 mentions"
 id: "event-iran-contra-affair"
 type: "EVENT"
 aliases:
@@ -18,11 +18,15 @@ _Type: Events_
 
 **Categories:** United States political scandal
 
+**Entity verification:** verified
+> The U.S. State Department historian catalog confirms the canonical Iran-Contra Affair name and date range.
+Source: [Foreign Relations of the United States, Volume XXIII, Iran-Contra Affair](https://history.state.gov/historicaldocuments/frus1981-88v23)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-14">2025-12-09 · 00:00:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-event-iran-contra-affair-t-00-40-06">2026-06-26 · 00:40:06</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,18 +35,18 @@ _Type: Events_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-48-07">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-48-07">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-14" style="--pulse-height:67%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-48-07" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-event-iran-contra-affair-t-00-40-06" style="--pulse-height:17%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-14" style="--pulse-height:50%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-48-07" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 8 mentions" title="2026-01-09 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-event-iran-contra-affair-t-00-40-06" style="--pulse-height:12%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-event-iran-contra-affair-t-00-05-14) | 4 |
-| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-48-07) | 6 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-48-07) | 8 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-event-iran-contra-affair-t-00-40-06) | 1 |
 
 </details>
@@ -51,7 +55,7 @@ _Type: Events_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -62,7 +66,7 @@ _Type: Events_
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (6 mentions)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (8 mentions)</summary>
 
 **[00:48:33](/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-48-07)**
 > "...rding connections between via Iran-Contra scandal and Liberty University."
@@ -81,6 +85,12 @@ _Type: Events_
 
 **[00:52:11](/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-00-51-36)**
 > "...her, and yes, attached to the Iran-Contra affair and Israel and pumping money into Liberty Univers..."
+
+**[01:05:32](/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-01-05-32)**
+> "...el Oliver L. North during the Iran-Contra probe."
+
+**[01:05:59](/episodes/ep-wcD2khO3rOA.md#ent-event-iran-contra-affair-t-01-05-32)**
+> "...hing that actually helped the Iran-Contra."
 
 </details>
 
@@ -116,7 +126,7 @@ _No relationships extracted yet._
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) (Accusation) **Candace Owens**: ["The Iran–Contra affair involved the CIA and Mossad trafficking weapons..."](/statements/statement-8a209df7944f.md)
+- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) (Accusation) **Candace Owens**: ["Owens said the Iran-Contra affair involved the CIA and Mossad traffick..."](/statements/statement-8a209df7944f.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Mossad](/entities/org-mossad.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>

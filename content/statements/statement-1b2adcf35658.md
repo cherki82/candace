@@ -30,7 +30,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28) 
+**Timestamp:** [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-21) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1127);return false;">Play</a>
 
 > And you should know that when Johnnie left Liberty University in 2014, he went to Hollywood to start the PR company, the KAIROS Company.

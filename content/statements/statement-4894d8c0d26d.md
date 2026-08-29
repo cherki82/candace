@@ -31,7 +31,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:24:11](/episodes/ep-wcD2khO3rOA.md#t-00-23-37) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1451);return false;">Play</a>
 
-> We were locked in our room. We weren't allowed visitors.
+> We were locked in our room. We weren't allowed visitors. ... They used to take weird pictures of us.
 
 ## Verification
 

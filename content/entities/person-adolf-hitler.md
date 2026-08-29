@@ -1,6 +1,6 @@
 ---
 title: "Adolf Hitler"
-description: "Adolf Hitler (People) - 31 mentions"
+description: "Adolf Hitler (People) - 33 mentions"
 id: "person-adolf-hitler"
 type: "PERSON"
 aliases:
@@ -22,8 +22,8 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-adolf-hitler-t-00-00-00">2025-10-01 · 00:00:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-01-03-37">2026-08-21 · 01:04:06</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-38" style="--pulse-height:33%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 3 mentions" title="2025-11-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-adolf-hitler-t-00-39-16" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-adolf-hitler-t-00-57-00" style="--pulse-height:22%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55" style="--pulse-height:44%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39" style="--pulse-height:100%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 9 mentions" title="2026-08-21 · 9 mentions"><span></span></a>
 </div>
@@ -55,6 +56,7 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-adolf-hitler-t-00-00-38) | 3 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-adolf-hitler-t-00-39-16) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-adolf-hitler-t-00-57-00) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55) | 4 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39) | 9 |
 
@@ -64,7 +66,7 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (9 mentions)</summary>
@@ -112,6 +114,17 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 **[00:23:00](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-23-00)**
 > "...on bumped his head and became Adolf Hitler it's it becomes way too and then you go okay let ..."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (2 mentions)</summary>
+
+**[00:57:26](/episodes/ep-wcD2khO3rOA.md#ent-person-adolf-hitler-t-00-57-00)**
+> "We're going to call you Hitler."
+
+**[01:11:31](/episodes/ep-wcD2khO3rOA.md#ent-person-adolf-hitler-t-01-11-11)**
+> "the same as Hitler and the Nazis,"
 
 </details>
 

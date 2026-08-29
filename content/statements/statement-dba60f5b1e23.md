@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:23:32](/episodes/ep-CMcktj3Egfo.md#t-00-23-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1412);return false;">Play</a>
 
-> It says Johnnie Moore was only 14 when he first stayed in the dorms at Liberty University.
+> Johnnie Moore was only 14 when he first stayed in the dorms at Liberty University. ... more and his single mom family briefly lived in the dorms after his parents' divorce and a temporary stretch of homelessness.
 
 ## Verification
 

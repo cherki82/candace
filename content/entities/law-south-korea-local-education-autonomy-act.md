@@ -5,11 +5,19 @@ id: "law-south-korea-local-education-autonomy-act"
 type: "LAW"
 aliases:
   - "Local Education Autonomy Act"
+categories:
+  - "South Korean education law"
 ---
 
 _Type: Laws & Legislation_
 
 **Also known as:** Local Education Autonomy Act
+
+**Categories:** South Korean education law
+
+**Entity verification:** verified
+> KLRI's English statute database confirms the canonical title Local Education Autonomy Act.
+Source: [Local Education Autonomy Act | Statutes of the Republic of Korea](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=55612&lang=ENG)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-law-south-korea-local-education-autonomy-act-t-01-11-11">2026-01-09 · 01:11:11</a></strong></div>

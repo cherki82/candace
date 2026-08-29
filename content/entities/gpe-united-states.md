@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1902 mentions"
+description: "United States (Places) - 1895 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -27,9 +27,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09">2025-09-15 · 00:01:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38">2026-08-19 · 00:32:38</a></strong></div>
 <div><span>Episodes</span><strong>149</strong></div>
-<div><span>Mentions</span><strong>1,902</strong></div>
+<div><span>Mentions</span><strong>1,895</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>161</strong></div>
+<div><span>Statements about</span><strong>162</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -86,7 +86,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-01-41" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-united-states-t-00-16-00" style="--pulse-height:55%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 21 mentions" title="2026-01-09 · 21 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-22" style="--pulse-height:13%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-15" style="--pulse-height:13%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-united-states-t-00-01-23" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 8 mentions" title="2026-01-13 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-united-states-t-00-43-45" style="--pulse-height:13%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 5 mentions" title="2026-01-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-united-states-t-00-20-45" style="--pulse-height:11%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
@@ -240,7 +240,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36) | 4 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-01-41) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-united-states-t-00-16-00) | 21 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-22) | 5 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-15) | 5 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-united-states-t-00-01-23) | 8 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-united-states-t-00-43-45) | 5 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-united-states-t-00-20-45) | 4 |
@@ -348,7 +348,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1902)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1895)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -3253,16 +3253,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (5 mentions)</summary>
 
-**[00:32:46](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-22)**
+**[00:32:46](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-15)**
 > "...ate despite having the entire United States military at their beck and call and being able to..."
 
-**[00:37:27](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-22)**
+**[00:37:27](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-15)**
 > "in America first and that we should stop getting involved in..."
 
-**[00:37:43](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-22)**
+**[00:37:43](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-15)**
 > "...ile pretending that speech in America is what's actually radical,"
 
-**[00:38:19](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-38-06)**
+**[00:38:19](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-55)**
 > "... least stand up for speech in America."
 
 **[00:50:54](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-50-35)**
@@ -4573,7 +4573,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (161)</strong></summary>
+<summary><strong class="section-title">Statements about United States (162)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -5239,7 +5239,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3)</summary>
 
-- [00:37:43](/episodes/ep-CMcktj3Egfo.md#t-00-37-22) (Accusation) **Candace Owens**: ["The U.S. government covers up Jeffrey Epstein’s crimes while treating ..."](/statements/statement-5e1e15a29145.md)
+- [00:37:43](/episodes/ep-CMcktj3Egfo.md#t-00-37-15) (Accusation) **Candace Owens**: ["The U.S. government covers up Jeffrey Epstein’s crimes while treating ..."](/statements/statement-5e1e15a29145.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Freedom of speech](/entities/concept-free-speech.md)
 
 - [00:42:50](/episodes/ep-CMcktj3Egfo.md#t-00-42-32) (Claim) **Candace Owens**: ["U.S. taxpayers fund Israel’s military activities even as a Likud membe..."](/statements/statement-d02b6513720a.md)
@@ -5254,6 +5254,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:16:00](/episodes/ep-wcD2khO3rOA.md#t-00-15-39) (Claim) **Candace Owens**: ["Andrew Piscadlo, a photographer initially suspected online after the C..."](/statements/statement-55e395695fbb.md)
   - Also about: [Andrew Piscadlo](/entities/person-andrew-piscadlo.md), [Ukraine](/entities/gpe-ukraine.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:36:07](/episodes/ep-zSKrxIUMNqw.md#t-00-36-05) (Claim) **Candace Owens**: ["Nimi Skincare is made in the United States."](/statements/statement-4c8a5b1e7092.md)
+  - Also about: [Nimi Skincare](/entities/org-nimi-skincare.md)
 
 </details>
 

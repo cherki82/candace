@@ -1,6 +1,6 @@
 ---
-title: "An organized operation assassinated Charlie Kirk, multiple p..."
-description: "\"An organized operation assassinated Charlie Kirk, multiple people are implicated, and the episode’s financial-religious theory explains the motive.\" — Candace Owens"
+title: "Owens said she felt strongly that an operation to assassinat..."
+description: "\"Owens said she felt strongly that an operation to assassinate Charlie Kirk had taken place and implicated multiple people, and she thought the episode...\" — Candace Owens"
 statement_id: "statement-52a6e1999296"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> An organized operation assassinated Charlie Kirk, multiple people are implicated, and the episode’s financial-religious theory explains the motive.
+> Owens said she felt strongly that an operation to assassinate Charlie Kirk had taken place and implicated multiple people, and she thought the episode's financial-religious theory explained the motive.
 
 ## Attribution
 

@@ -3,13 +3,17 @@ title: "Lawrence Zilliox"
 description: "Lawrence Zilliox (People) - 1 mention"
 id: "person-lawrence-zilliox"
 type: "PERSON"
+categories:
+  - "Unification movement observer"
 ---
 
 _Type: People_
 
+**Categories:** Unification movement observer
+
 **Entity verification:** verified
-> Quoted source confirms spelling and role.
-Source: [A Church in Flux Is Flush with Cash - The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
+> The quoted Washington Post source supports the canonical spelling and context for Lawrence Zilliox.
+Source: [A Church in Flux Is Flush With Cash | The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-lawrence-zilliox-t-01-03-26">2026-01-09 · 01:03:43</a></strong></div>

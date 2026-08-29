@@ -1,6 +1,6 @@
 ---
 title: "Ronald Reagan"
-description: "Ronald Reagan (People) - 8 mentions"
+description: "Ronald Reagan (People) - 9 mentions"
 id: "person-ronald-reagan"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [The Reagans - Ronald Reagan Presidential Library](https://www.reaganlib
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ronald-reagan-t-00-05-54">2025-12-09 · 00:00:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-ronald-reagan-t-01-13-33">2026-05-21 · 01:13:59</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [The Reagans - Ronald Reagan Presidential Library](https://www.reaganlib
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ronald-reagan-t-00-05-54" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-ronald-reagan-t-00-35-37" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-ronald-reagan-t-00-49-36" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-ronald-reagan-t-00-20-39" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-ronald-reagan-t-00-52-02" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-ronald-reagan-t-01-13-33" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
@@ -48,6 +49,7 @@ Source: [The Reagans - Ronald Reagan Presidential Library](https://www.reaganlib
 |---|---|---:|
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-ronald-reagan-t-00-05-54) | 4 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-ronald-reagan-t-00-35-37) | 1 |
+| 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-ronald-reagan-t-00-49-36) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-ronald-reagan-t-00-20-39) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-ronald-reagan-t-00-52-02) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-ronald-reagan-t-01-13-33) | 1 |
@@ -58,7 +60,7 @@ Source: [The Reagans - Ronald Reagan Presidential Library](https://www.reaganlib
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
@@ -81,6 +83,14 @@ Source: [The Reagans - Ronald Reagan Presidential Library](https://www.reaganlib
 
 **[00:20:39](/episodes/ep-1IY2oD-_xVA.md#ent-person-ronald-reagan-t-00-20-39)**
 > "In 1983, DuPont completes the largest merger in corporate history with Conoco Oil, and they're able to do this thanks to Reagan and George Bush being in office, deregulating things, making it easier for private corporations to go in and do bigger deals."
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1 mentions)</summary>
+
+**[00:49:47](/episodes/ep-wcD2khO3rOA.md#ent-person-ronald-reagan-t-00-49-36)**
+> "And he also ran PR for the Reagan administration regarding U.S.'s involvement in Ce..."
 
 </details>
 

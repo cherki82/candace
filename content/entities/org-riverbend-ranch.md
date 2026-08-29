@@ -1,6 +1,6 @@
 ---
 title: "Riverbend Ranch"
-description: "Riverbend Ranch (Organizations) - 164 mentions"
+description: "Riverbend Ranch (Organizations) - 166 mentions"
 id: "org-riverbend-ranch"
 type: "ORG"
 aliases:
@@ -26,7 +26,7 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-riverbend-ranch-t-00-37-18">2025-09-17 · 00:37:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-riverbend-ranch-t-00-31-15">2026-03-18 · 00:31:23</a></strong></div>
 <div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>164</strong></div>
+<div><span>Mentions</span><strong>166</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -56,7 +56,7 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-org-riverbend-ranch-t-00-24-32" style="--pulse-height:89%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 8 mentions" title="2025-11-19 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-riverbend-ranch-t-00-34-23" style="--pulse-height:78%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 7 mentions" title="2025-12-03 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-riverbend-ranch-t-00-20-32" style="--pulse-height:89%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 8 mentions" title="2025-12-05 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-43" style="--pulse-height:44%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-08" style="--pulse-height:67%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-riverbend-ranch-t-00-25-47" style="--pulse-height:44%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-25-35" style="--pulse-height:44%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-11" style="--pulse-height:67%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 6 mentions" title="2026-03-12 · 6 mentions"><span></span></a>
@@ -85,7 +85,7 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-riverbend-ranch-t-00-24-32) | 8 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-riverbend-ranch-t-00-34-23) | 7 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-riverbend-ranch-t-00-20-32) | 8 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-43) | 4 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-08) | 6 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-riverbend-ranch-t-00-25-47) | 4 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-riverbend-ranch-t-00-25-35) | 4 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-riverbend-ranch-t-00-26-11) | 6 |
@@ -97,7 +97,7 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (164)</strong></summary>
+<summary><strong class="section-title">Raw mentions (166)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (6 mentions)</summary>
@@ -180,19 +180,25 @@ Source: [Our Ranch | Riverbend Ranch](https://riverbendranch.com/our-ranch/)
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (4 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (6 mentions)</summary>
 
-**[00:29:43](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-43)**
+**[00:29:43](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-08)**
 > "I want to tell you guys about Riverbend Ranch because if you have been following me for a while..."
 
-**[00:30:19](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-43)**
+**[00:30:19](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-48)**
 > "Riverbend Ranch is the perfect place to start."
 
-**[00:30:22](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-30-22)**
+**[00:30:22](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-29-48)**
 > "Riverbend Ranch has been creating an elite Angus herd by using ul..."
 
-**[00:30:39](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-30-22)**
+**[00:30:39](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-30-33)**
 > "All River Bend Ranch cattle are born and raised in the USA."
+
+**[00:30:46](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-30-33)**
+> "Head to riverbendranch.com today and use the promo code Candace at checkout ..."
+
+**[00:30:52](/episodes/ep-CMcktj3Egfo.md#ent-org-riverbend-ranch-t-00-30-33)**
+> "Again, that is riverbendranch.com promo code Candace."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 349 mentions"
+description: "France (Places) - 353 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -23,10 +23,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
-<div><span>Episodes</span><strong>55</strong></div>
-<div><span>Mentions</span><strong>349</strong></div>
+<div><span>Episodes</span><strong>56</strong></div>
+<div><span>Mentions</span><strong>353</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>39</strong></div>
+<div><span>Statements about</span><strong>40</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,6 +53,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32" style="--pulse-height:11%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 8 mentions" title="2025-12-09 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-48" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-35" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-france-t-00-22-34" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-france-t-01-00-11" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
@@ -113,6 +114,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32) | 8 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-48) | 4 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-35) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-france-t-00-22-34) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-france-t-01-00-11) | 2 |
@@ -157,7 +159,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (349)</strong></summary>
+<summary><strong class="section-title">Raw mentions (353)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -782,6 +784,23 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:40:37](/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14)**
 > "...sh and anybody's ever been in france"
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
+
+**[00:56:35](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-35)**
+> "...crazy things are happening in France."
+
+**[00:56:00](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-00)**
+> "...ast episode. This is from our French channel. We now have a French channel."
+
+**[00:56:24](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-00)**
+> "...rious because I can't say any French words. I swear I was in AP French."
+
+**[00:56:29](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-00)**
+> "...s don't believe me because my French is also awful, but not anymore. Not anymore on th..."
 
 </details>
 
@@ -1603,7 +1622,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (39)</strong></summary>
+<summary><strong class="section-title">Statements about France (40)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -1729,6 +1748,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:40:32](/episodes/ep-X92MllIHDzw.md#t-00-40-14) (Accusation) **Candace Owens**: ["Oh, I just got a quarter-million in Bitcoin from France from a guy who..."](/statements/statement-b212a8de94e1.md)
   - Also about: [Nick Fuentes](/entities/person-nick-fuentes.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
+
+- [00:57:42](/episodes/ep-zSKrxIUMNqw.md#t-00-57-40) (Accusation) **Candace Owens**: ["Brigitte Macron is suing people to suppress the truth that she was bor..."](/statements/statement-802a4814cfb0.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
 
 </details>
 

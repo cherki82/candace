@@ -3,13 +3,17 @@ title: "Lucille Talusan"
 description: "Lucille Talusan (People) - 1 mention"
 id: "person-lucille-talusan"
 type: "PERSON"
+categories:
+  - "Christian news journalist"
 ---
 
 _Type: People_
 
+**Categories:** Christian news journalist
+
 **Entity verification:** verified
-> CBN byline and clip identify its Asia correspondent.
-Source: [Support Grows for Imprisoned Korean Pastor - CBN News](https://cbn.com/news/world/support-grows-imprisoned-korean-pastor-after-son-speaks-amfest)
+> CBN's byline and author profile identify Lucille Talusan as its Asia correspondent.
+Source: [Support Grows for Imprisoned Korean Pastor After Son Speaks at AMFEST | CBN News](https://cbn.com/news/world/support-grows-imprisoned-korean-pastor-after-son-speaks-amfest)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-lucille-talusan-t-01-09-10">2026-01-09 · 01:09:19</a></strong></div>

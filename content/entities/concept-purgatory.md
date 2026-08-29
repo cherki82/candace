@@ -3,17 +3,21 @@ title: "Purgatory"
 description: "Purgatory (Concepts) - 2 mentions"
 id: "concept-purgatory"
 type: "CONCEPT"
+categories:
+  - "Christian theology"
 ---
 
 _Type: Concepts_
 
+**Categories:** Christian theology
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-purgatory-t-00-04-12">2026-01-12 · 00:04:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-purgatory-t-00-07-47">2026-01-12 · 00:07:55</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-purgatory-t-00-07-44">2026-01-12 · 00:07:55</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,7 +48,7 @@ _Type: Concepts_
 **[00:04:28](/episodes/ep-CMcktj3Egfo.md#ent-concept-purgatory-t-00-04-12)**
 > "and we spoke about souls in purgatory."
 
-**[00:07:55](/episodes/ep-CMcktj3Egfo.md#ent-concept-purgatory-t-00-07-47)**
+**[00:07:55](/episodes/ep-CMcktj3Egfo.md#ent-concept-purgatory-t-00-07-44)**
 > "I believe his soul was in purgatory and I believe that you know much more than you've..."
 
 </details>
@@ -55,18 +59,5 @@ _Type: Concepts_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements about Purgatory (1)</strong></summary>
-
-<details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
-
-- [00:07:03](/episodes/ep-CMcktj3Egfo.md#t-00-06-20) (Claim) **Candace Owens**: ["Candace Owens said a recurring dream depicted Charlie Kirk telling her..."](/statements/statement-4cb06630bbbf.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-
-</details>
 
 </details>

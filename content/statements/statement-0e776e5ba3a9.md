@@ -31,7 +31,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:26:57](/episodes/ep-wcD2khO3rOA.md#t-00-26-51) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1617);return false;">Play</a>
 
-> Everything was fine that night, and then they moved me... the next morning I all of a sudden didn't have a heartbeat
+> Everything was fine that night, and then they moved me, which was weird, they moved me to another room by myself. ... the next morning I all of a sudden didn't have a heartbeat and I had to go in. ... they had to induce the labor.
 
 ## Verification
 

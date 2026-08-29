@@ -11,7 +11,7 @@ date: "2018"
 
 > Charlie Kirk told Candace Owens that he believed he would die young.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -36,3 +36,11 @@ date: "2018"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2504);return false;">▶️ Play</a>
 
 > in 2018, Charlie foresaw that he was going to die young and that I was going to carry on the torch
+
+### 4. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
+
+**Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
+**Timestamp:** [01:23:58](/episodes/ep-wcD2khO3rOA.md#event-event-2018-charlie-kirk-told-candace-owens-that-he--t-01-23-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(5038);return false;">▶️ Play</a>
+
+> Charlie was going through in 2018 when he was having visions that he was going to die.

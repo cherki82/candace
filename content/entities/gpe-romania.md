@@ -22,7 +22,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <div><span>Episodes</span><strong>25</strong></div>
 <div><span>Mentions</span><strong>152</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>53</strong></div>
+<div><span>Statements about</span><strong>55</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -765,7 +765,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Romania (53)</strong></summary>
+<summary><strong class="section-title">Statements about Romania (55)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2)</summary>
@@ -989,7 +989,13 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details>
-<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (4)</summary>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (6)</summary>
+
+- [00:10:02](/episodes/ep-wcD2khO3rOA.md#t-00-09-20) (Claim) **Candace Owens**: ["Owens said the aircraft later known as N888KG was registered in Romani..."](/statements/statement-c02c1d9f9d24.md)
+  - Also about: [N888KG](/entities/vehicle-n888kg.md)
+
+- [00:10:55](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) (Claim) **Candace Owens**: ["Lori Frantzve established the Everyday Heroes foundation, from which t..."](/statements/statement-131c88f72f66.md)
+  - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md), [Romanian Angels Project](/entities/org-romanian-angels-project.md)
 
 - [00:11:27](/episodes/ep-wcD2khO3rOA.md#t-00-10-47) (Accusation) **Candace Owens**: ["The Romanian Angels Project worked with Colonel Otto Busher III, who w..."](/statements/statement-254404111778.md)
   - Also about: [Romanian Angels Project](/entities/org-romanian-angels-project.md), [Otto Busher III](/entities/person-otto-busher-iii.md)

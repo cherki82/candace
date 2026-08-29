@@ -5,11 +5,19 @@ id: "gpe-seoul"
 type: "GPE"
 aliases:
   - "Seoul, South Korea"
+categories:
+  - "national capital"
 ---
 
 _Type: Places_
 
 **Also known as:** Seoul, South Korea
+
+**Categories:** national capital
+
+**Entity verification:** verified
+> The Seoul Metropolitan Government confirms Seoul as the capital city of the Republic of Korea.
+Source: [About Seoul | Seoul Metropolitan Government](https://english.seoul.go.kr/seoul-views/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-seoul-t-01-10-12">2026-01-09 · 01:10:27</a></strong></div>

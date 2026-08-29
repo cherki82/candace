@@ -40,7 +40,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-the-new-york-times-t-00-17-32" style="--pulse-height:22%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-the-new-york-times-t-00-09-46" style="--pulse-height:22%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-34" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-45" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-the-new-york-times-t-00-28-53" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-the-new-york-times-t-00-05-46" style="--pulse-height:56%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-new-york-times-t-01-22-26" style="--pulse-height:44%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
@@ -79,7 +79,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-the-new-york-times-t-00-28-48) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-the-new-york-times-t-00-17-32) | 2 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-the-new-york-times-t-00-09-46) | 2 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-34) | 1 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-45) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-the-new-york-times-t-00-28-53) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-the-new-york-times-t-00-05-46) | 5 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-new-york-times-t-01-22-26) | 4 |
@@ -440,7 +440,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1 mentions)</summary>
 
-**[00:13:45](/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-34)**
+**[00:13:45](/episodes/ep-CMcktj3Egfo.md#ent-org-the-new-york-times-t-00-13-45)**
 > "This is per the New York Times. They wrote, quote,"
 
 </details>
@@ -659,7 +659,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>
 
-- [00:13:49](/episodes/ep-CMcktj3Egfo.md#t-00-13-34) [✓] (Citation) ["A Liberal Democratic Party audit found that about 180 elected lawmakers—nearly h..."](/statements/statement-bc1296aa48ae.md)
+- [00:13:49](/episodes/ep-CMcktj3Egfo.md#t-00-13-45) [✓] (Citation) ["A Liberal Democratic Party audit found that about 180 elected lawmakers—nearly h..."](/statements/statement-bc1296aa48ae.md)
   - About: [Liberal Democratic Party of Japan](/entities/org-liberal-democratic-party-japan.md), [Unification Church](/entities/org-unification-church.md), [Japan](/entities/gpe-japan.md)
 
 </details>

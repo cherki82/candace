@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 452 mentions"
+description: "Ben Shapiro (People) - 489 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ben-shapiro-t-00-49-53">2026-08-21 · 00:50:06</a></strong></div>
-<div><span>Episodes</span><strong>67</strong></div>
-<div><span>Mentions</span><strong>452</strong></div>
-<div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>86</strong></div>
-<div><span>Relationships</span><strong>80</strong></div>
+<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>489</strong></div>
+<div><span>Statements by</span><strong>21</strong></div>
+<div><span>Statements about</span><strong>108</strong></div>
+<div><span>Relationships</span><strong>94</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -50,6 +50,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-00" style="--pulse-height:78%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 42 mentions" title="2025-12-20 · 42 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-ben-shapiro-t-00-08-35" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-ben-shapiro-t-00-45-33" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-02-56" style="--pulse-height:69%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 37 mentions" title="2026-01-07 · 37 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-ben-shapiro-t-01-16-51" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-ben-shapiro-t-00-39-38" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-ben-shapiro-t-00-21-25" style="--pulse-height:13%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
@@ -122,6 +123,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-ben-shapiro-t-00-00-00) | 42 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-ben-shapiro-t-00-08-35) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-ben-shapiro-t-00-45-33) | 4 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-02-56) | 37 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-ben-shapiro-t-01-16-51) | 6 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-ben-shapiro-t-00-39-38) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-ben-shapiro-t-00-21-25) | 7 |
@@ -182,7 +184,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (452)</strong></summary>
+<summary><strong class="section-title">Raw mentions (489)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -1276,7 +1278,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 **[00:40:10](/episodes/ep-CMcktj3Egfo.md#ent-person-ben-shapiro-t-00-39-38)**
 > "I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,"
 
-**[00:40:32](/episodes/ep-CMcktj3Egfo.md#ent-person-ben-shapiro-t-00-40-22)**
+**[00:40:32](/episodes/ep-CMcktj3Egfo.md#ent-person-ben-shapiro-t-00-40-19)**
 > "...lly the last text I have from Ben Shapiro."
 
 </details>
@@ -1301,6 +1303,122 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 **[01:22:35](/episodes/ep-wcD2khO3rOA.md#ent-person-ben-shapiro-t-01-21-22)**
 > "...Wilks brothers. So weird that Ben, the reason he's being sent out is because the Wi..."
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (37 mentions)</summary>
+
+**[00:03:15](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-02-56)**
+> "Ben (Ben Shapiro) was not a friend of Charlie Kirk."
+
+**[00:03:27](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-03-27)**
+> "...oming up, as soon as he, Ben (Ben Shapiro) began to perceive Charlie (Charlie Kirk) as a th..."
+
+**[00:04:19](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-04-07)**
+> "... who are being manipulated by Ben Shapiro to do his dirty bidding,"
+
+**[00:05:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-05-25)**
+> "Ben (Ben Shapiro) stepped onto Megyn Kelly's stage while she was o..."
+
+**[00:05:47](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-05-25)**
+> "Ben (Ben Shapiro) is directing that from behind the scenes, all th..."
+
+**[00:05:57](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-05-57)**
+> "Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking ..."
+
+**[00:06:43](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-06-43)**
+> "...believe it was two days after Ben Shapiro's speech at AmFest, a producer from The Daily Wire ..."
+
+**[00:09:39](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-09-23)**
+> "... sample of the show that Ben (Ben Shapiro) wanted sent around following AmFest."
+
+**[00:11:01](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-10-51)**
+> "...ese are questions people like Ben Shapiro don't want us to ask."
+
+**[00:16:48](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-16-11)**
+> "And Ben Shapiro's behavior since Charlie Kirk's assassination leads..."
+
+**[00:17:13](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-16-56)**
+> "...be the first time at all that Ben Shapiro sought to pervert the legacy of a dead man to his..."
+
+**[00:17:32](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-16-56)**
+> "Yeah, I'm talking about what Ben Shapiro did before."
+
+**[00:17:48](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-17-38)**
+> "...ence at AmFest in response to Ben Shapiro screaming about everybody."
+
+**[00:17:55](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-17-38)**
+> "... and he tells the truth about Ben Shapiro because he knows Ben Shapiro from Breitbart."
+
+**[00:18:09](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-18-09)**
+> "But Ben Shapiro is like a cancer,"
+
+**[00:19:09](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-18-44)**
+> "Ben (Ben Shapiro) has represented himself as having been mentored ..."
+
+**[00:19:16](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-18-44)**
+> "Ben (Ben Shapiro) loved Andrew Breitbart, ostensibly, right?"
+
+**[00:21:26](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-21-26)**
+> "...art) hired a then 28-year-old Ben Shapiro to be the editor-at-large of Breitbart."
+
+**[00:21:39](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-21-26)**
+> "Now, if Ben (Ben Shapiro) is to be believed,"
+
+**[00:21:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-21-26)**
+> "... Breitbart) had mentored Ben (Ben Shapiro),"
+
+**[00:22:03](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-22-03)**
+> "Ben (Ben Shapiro) felt this company perhaps was also promised to h..."
+
+**[00:22:31](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-22-03)**
+> "...us the true story of how Ben (Ben Shapiro) started the Daily Wire on scandal."
+
+**[00:23:52](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-23-18)**
+> "...gation that she made and Ben (Ben Shapiro) didn't like that."
+
+**[00:24:13](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-23-58)**
+> "not on Ben (Ben Shapiro)'s watch."
+
+**[00:24:24](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-23-58)**
+> "Ben (Ben Shapiro) and Michelle Fields doubly decided that they wer..."
+
+**[00:24:35](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-24-35)**
+> "Ben (Ben Shapiro) made a glorious one about the values of Andrew (..."
+
+**[00:26:03](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-24-35)**
+> "...ny from the Washington Post's Ben Terris, physical bruises and a videotape. Both Le..."
+
+**[00:27:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-27-25)**
+> "...really happened was that Ben (Ben Shapiro) had been not happy with the fact that they were ..."
+
+**[00:28:37](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-28-37)**
+> "...was allegedly manufactured by Ben Shapiro and his friend Jamie Weinstein to attack a..."
+
+**[00:29:18](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-29-18)**
+> "...ybe taking a page out of Ben (Ben Shapiro)'s book and standing up to the actual bullies who..."
+
+**[00:29:49](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-29-18)**
+> "That is the true Ben Shapiro."
+
+**[00:31:06](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-30-38)**
+> "Ben (Ben Shapiro),"
+
+**[00:32:50](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-32-50)**
+> "...doesn't, it doesn't with Ben (Ben Shapiro) and that's why I think he's a scary dude."
+
+**[00:33:17](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-32-50)**
+> "Ben (Ben Shapiro)."
+
+**[00:46:52](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-46-39)**
+> "...this situation has to do with Ben Shapiro."
+
+**[00:47:00](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-46-39)**
+> "What is making Ben Shapiro nervous?"
+
+**[00:51:39](/episodes/ep-zSKrxIUMNqw.md#ent-person-ben-shapiro-t-00-51-39)**
+> "... I wanted to fully respond to Ben Shapiro because I think that too is a piece of this. Like..."
 
 </details>
 
@@ -1894,8 +2012,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Accused By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11): “And Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:06:55](/episodes/ep-k8ueJdPFel4.md#t-00-06-32): “OK, Charlie (Charlie Kirk) could not stand Ben Shapiro. I have been telling you that because Ben (Ben Shapiro) operated behind the scenes to try to stop his rise.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:20:45](/episodes/ep-uC_GjKU8rs8.md#t-00-20-32): “People do not like his nature. You can spend years trying to destroy someone behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “Ben (Ben Shapiro) attempted to take over Andrew (Andrew Breitbart)'s company. And when that failed, he plotted to take down the company because why can't he have it?”
@@ -1906,6 +2025,25 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:16](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “He tried to take over Breitbart and I ran him out of there.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Advised By (2)</summary>
+
+- **[Andrew Breitbart](/entities/person-andrew-breitbart.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:21:42](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26): “Andrew (Andrew Breitbart) had mentored Ben (Ben Shapiro),”
+
+</details>
+
+- **[David Horowitz](/entities/person-david-horowitz.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:25](/episodes/ep-zSKrxIUMNqw.md#t-00-18-09): “He tried to take over David Horowitz's, who was his mentor.”
 
 </details>
 
@@ -1924,12 +2062,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Criticized (8)</summary>
+<summary>Criticized (9)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Yes. Of course, the issue here is not just that Megyn Kelly has some questionable principles. and has been programming directly into the groiper right, it is that she remains a coward.”
@@ -1937,9 +2076,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
 </details>
@@ -1959,12 +2099,20 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:10:06](/episodes/ep-r1PS67aRmcA.md#t-00-09-56): “I think that what Candace Owens (the host) is doing right now is evil.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “he again... attacked me.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:39:26](/episodes/ep-QRS_hR7NXaQ.md#t-00-39-26): “Did I hear that Candace (Candace Owens) said on her show she had dreams about playing Hogwarts chess with you? ... that's weird. It's a little bit weird.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:08](/episodes/ep-uC_GjKU8rs8.md#t-00-17-08): “I think that what Candace Owens is doing right now is evil. It is evil what she is doing right now.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:01:47](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “Because he's very anti-Candacism, Ben (Ben Shapiro). And it's just why he's always attacking me, Ben Shapiro, telling me people that I'm not on vacation when I am.”
+
+</details>
+
+- **[Steve Bannon](/entities/person-steve-bannon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-25-15): “Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy.”
 
 </details>
 
@@ -1996,9 +2144,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:59](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “Benny (Ben Shapiro) boy i'm i'm ignorant but not that ignorant ... just get it off your chest Ben (Ben Shapiro)”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
@@ -2016,8 +2165,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-17-38): “But Ben Shapiro is like a cancer,”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads.”
 
 </details>
@@ -2080,8 +2230,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Formerly Worked For (1)</summary>
 
 - **[Breitbart News](/entities/org-breitbart-news.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:54](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35): “I have resigned from Breitbart News as editor at large.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
 
 </details>
@@ -2092,22 +2243,37 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Founded (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): “Ben would say management fired me... He wanted to make sure my reputation and livelihood was also destroyed”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:22:03](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03): “And a chief shared with us the true story of how Ben (Ben Shapiro) started the Daily Wire on scandal.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Friend Of (1)</summary>
+<summary>Friend Of (3)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:19](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “literally said our friendship,”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:38](/episodes/ep-uC_GjKU8rs8.md#t-00-19-27): “Ben (Ben Shapiro) trying to destroy me, trying to destroy Megyn Kelly, that means trying to destroy a former colleague and someone like Megyn Kelly who he said was his friend.”
+
+</details>
+
+- **[Jamie Weinstein](/entities/person-jamie-weinstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:28:02](/episodes/ep-zSKrxIUMNqw.md#t-00-27-25): “So he and his best friend Jamie Weinstein decided to cook up a scandal.”
+
+</details>
+
+- **[Andrew Breitbart](/entities/person-andrew-breitbart.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:57](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35): “I met Andrew (Andrew Breitbart) when I was 17 years old and remained his friend until his tragic death.”
 
 </details>
 
@@ -2127,6 +2293,18 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:25:54](/episodes/ep-amqTMimDr0A.md#t-00-25-38): “Now, we were able to discover that Ben Shapiro and his wife have been donating a life and legacy amount to the Jewish Federation of Omaha, Nebraska.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Hired By (1)</summary>
+
+- **[Andrew Breitbart](/entities/person-andrew-breitbart.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:21:26](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26): “just two weeks before he died, Andrew (Andrew Breitbart) hired a then 28-year-old Ben Shapiro to be the editor-at-large of Breitbart.”
 
 </details>
 
@@ -2188,12 +2366,20 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Mentored By (1)</summary>
+<summary>Mentored By (2)</summary>
 
 - **[David Horowitz](/entities/person-david-horowitz.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads. ... He tried to take over David Horowitz's who was his mentor.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:25](/episodes/ep-zSKrxIUMNqw.md#t-00-18-09): “He tried to take over David Horowitz's, who was his mentor.”
+
+</details>
+
+- **[Andrew Breitbart](/entities/person-andrew-breitbart.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:21:44](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26): “Andrew (Andrew Breitbart) had mentored Ben (Ben Shapiro)”
 
 </details>
 
@@ -2247,10 +2433,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[AmericaFest 2025](/entities/event-americafest-2025.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:15:30](/episodes/ep-ti5Fxrvegno.md#t-00-15-04): “Erika (Erika Kirk) allowing Ben Shapiro to open at AmFest behind her.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:04](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December”
 
 </details>
 
@@ -2305,11 +2493,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Referenced By (40)</summary>
+<summary>Referenced By (47)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11): “And Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:06:55](/episodes/ep-k8ueJdPFel4.md#t-00-06-32): “OK, Charlie (Charlie Kirk) could not stand Ben Shapiro. I have been telling you that because Ben (Ben Shapiro) operated behind the scenes to try to stop his rise.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:20:45](/episodes/ep-uC_GjKU8rs8.md#t-00-20-32): “People do not like his nature. You can spend years trying to destroy someone behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:48](/episodes/ep-amqTMimDr0A.md#t-00-05-48): “Ben (Ben Shapiro) attempted to take over Andrew (Andrew Breitbart)'s company. And when that failed, he plotted to take down the company because why can't he have it?”
@@ -2331,10 +2520,25 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+- **[Andrew Breitbart](/entities/person-andrew-breitbart.md)** advisor to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:21:42](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26): “Andrew (Andrew Breitbart) had mentored Ben (Ben Shapiro),”
+
+</details>
+
+- **[David Horowitz](/entities/person-david-horowitz.md)** advisor to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:25](/episodes/ep-zSKrxIUMNqw.md#t-00-18-09): “He tried to take over David Horowitz's, who was his mentor.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:40:59](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “Benny (Ben Shapiro) boy i'm i'm ignorant but not that ignorant ... just get it off your chest Ben (Ben Shapiro)”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately. Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:23](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “Ben (Ben Shapiro) should be given a swirly every single day of his life. Ben Shapiro's head belongs in a toilet permanently.”
@@ -2352,8 +2556,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Steve Bannon](/entities/person-steve-bannon.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-17-38): “But Ben Shapiro is like a cancer,”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads.”
 
 </details>
@@ -2373,9 +2578,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:06:23](/episodes/ep-MUA9ebCF4Ow.md#t-00-05-50): “lied to Megyn Kelly's face”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “and this time he also attacked Megyn Kelly”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December,”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:37](/episodes/ep-uC_GjKU8rs8.md#t-00-17-37): “Yes. Of course, the issue here is not just that Megyn Kelly has some questionable principles. and has been programming directly into the groiper right, it is that she remains a coward.”
@@ -2383,9 +2589,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
 </details>
@@ -2405,12 +2612,20 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:10:06](/episodes/ep-r1PS67aRmcA.md#t-00-09-56): “I think that what Candace Owens (the host) is doing right now is evil.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “he again... attacked me.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:39:26](/episodes/ep-QRS_hR7NXaQ.md#t-00-39-26): “Did I hear that Candace (Candace Owens) said on her show she had dreams about playing Hogwarts chess with you? ... that's weird. It's a little bit weird.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:17:08](/episodes/ep-uC_GjKU8rs8.md#t-00-17-08): “I think that what Candace Owens is doing right now is evil. It is evil what she is doing right now.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 01:01:47](/episodes/ep-WoXd4oLwd3w.md#t-01-01-30): “Because he's very anti-Candacism, Ben (Ben Shapiro). And it's just why he's always attacking me, Ben Shapiro, telling me people that I'm not on vacation when I am.”
+
+</details>
+
+- **[Steve Bannon](/entities/person-steve-bannon.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-25-15): “Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew (Andrew Breitbart)'s legacy.”
 
 </details>
 
@@ -2467,16 +2682,18 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Breitbart News](/entities/org-breitbart-news.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:54](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35): “I have resigned from Breitbart News as editor at large.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:05:37](/episodes/ep-amqTMimDr0A.md#t-00-05-04): “And I am not the only one. Steve Bannon, the once executive chairman to Breitbart News, Ben (Ben Shapiro)'s former employer, explained this, how after Andrew Breitbart died.”
 
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): “Ben would say management fired me... He wanted to make sure my reputation and livelihood was also destroyed”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:22:03](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03): “And a chief shared with us the true story of how Ben (Ben Shapiro) started the Daily Wire on scandal.”
 
 </details>
 
@@ -2485,6 +2702,20 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:19](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “literally said our friendship,”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:19:38](/episodes/ep-uC_GjKU8rs8.md#t-00-19-27): “Ben (Ben Shapiro) trying to destroy me, trying to destroy Megyn Kelly, that means trying to destroy a former colleague and someone like Megyn Kelly who he said was his friend.”
+
+</details>
+
+- **[Jamie Weinstein](/entities/person-jamie-weinstein.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:28:02](/episodes/ep-zSKrxIUMNqw.md#t-00-27-25): “So he and his best friend Jamie Weinstein decided to cook up a scandal.”
+
+</details>
+
+- **[Andrew Breitbart](/entities/person-andrew-breitbart.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:24:57](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35): “I met Andrew (Andrew Breitbart) when I was 17 years old and remained his friend until his tragic death.”
 
 </details>
 
@@ -2502,6 +2733,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 </details>
 
+- **[Andrew Breitbart](/entities/person-andrew-breitbart.md)** hired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:21:26](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26): “just two weeks before he died, Andrew (Andrew Breitbart) hired a then 28-year-old Ben Shapiro to be the editor-at-large of Breitbart.”
+
+</details>
+
 - **[America Fest](/entities/event-america-fest.md)** hosted speaker this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -2510,10 +2748,12 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[AmericaFest 2025](/entities/event-americafest-2025.md)** hosted speaker this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:15:30](/episodes/ep-ti5Fxrvegno.md#t-00-15-04): “Erika (Erika Kirk) allowing Ben Shapiro to open at AmFest behind her.”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:04:37](/episodes/ep-H9p2ZGHAs9A.md#t-00-04-23): “Ben Shapiro, who was, in fact, an enemy to her husband, effectively opened AmFest. She came out first and then Ben Shapiro came out second.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57): “Thereafter, Ben (Ben Shapiro) quite literally paid money for a prime speaking spot, a speaking slot at AmFest, hitting the stage just after Erika Kirk opened”
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:40:04](/episodes/ep-CMcktj3Egfo.md#t-00-39-38): “I was called a coward by Ben Shapiro at the Turning Point event AmFest in December”
 
 </details>
 
@@ -2561,9 +2801,17 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[David Horowitz](/entities/person-david-horowitz.md)** mentored this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:06:07](/episodes/ep-amqTMimDr0A.md#t-00-06-07): “Ben Shapiro is like a cancer and that cancer spreads. ... He tried to take over David Horowitz's who was his mentor.”
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:18:25](/episodes/ep-zSKrxIUMNqw.md#t-00-18-09): “He tried to take over David Horowitz's, who was his mentor.”
+
+</details>
+
+- **[Andrew Breitbart](/entities/person-andrew-breitbart.md)** mentored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:21:44](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26): “Andrew (Andrew Breitbart) had mentored Ben (Ben Shapiro)”
 
 </details>
 
@@ -2622,7 +2870,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Ben Shapiro (18)</strong></summary>
+<summary><strong class="section-title">Statements by Ben Shapiro (21)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
@@ -2699,6 +2947,20 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (3)</summary>
+
+- [00:24:51](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35) [✓] (Claim) ["Ben Shapiro announced that he resigned as Breitbart News editor-at-large effecti..."](/statements/statement-a50fc27fa7e6.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:24:57](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35) [✓] (Claim) ["Ben Shapiro said he met Andrew Breitbart at 17 and joined Breitbart News two wee..."](/statements/statement-687c08f450af.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Andrew Breitbart](/entities/person-andrew-breitbart.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-25-15) [✓] (Accusation) ["Ben Shapiro accused Steve Bannon of betraying Andrew Breitbart's mission by back..."](/statements/statement-3ca08f51b7f0.md)
+  - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Steve Bannon](/entities/person-steve-bannon.md), [Andrew Breitbart](/entities/person-andrew-breitbart.md)
+
+</details>
+
+<details>
 <summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (3)</summary>
 
 - [00:01:45](/episodes/ep-r1PS67aRmcA.md#t-00-01-26) [✓] (Opinion) ["Accusing any American Jew who is pro-Israel of being an “Israel Firster” is a pu..."](/statements/statement-288a141452cd.md)
@@ -2723,7 +2985,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ben Shapiro (86)</strong></summary>
+<summary><strong class="section-title">Statements about Ben Shapiro (108)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
@@ -2922,7 +3184,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (4)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (3)</summary>
 
 - [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) (Accusation) **Candace Owens**: ["The Daily Wire refused to host Bassem Youssef because he had hurt Ben ..."](/statements/statement-07991641f9f1.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Bassem Youssef](/entities/person-bassem-youssef.md)
@@ -2931,9 +3193,6 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 - [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-51) (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video ..."](/statements/statement-316c32dcf384.md)
   - Also about: [Hamas](/entities/org-hamas.md), [European Union](/entities/org-european-union.md), [Palestinian Authority](/entities/org-palestinian-authority.md)
-
-- [01:44:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) (Promise) **Candace Owens**: ["Candace Owens intends to identify who killed Charlie Kirk and determin..."](/statements/statement-0652e878d946.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -2972,6 +3231,79 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 - [00:40:10](/episodes/ep-CMcktj3Egfo.md#t-00-39-38) (Claim) **Megyn Kelly** (via quoted speech): ["Megyn Kelly said Ben Shapiro called her a coward at AmericaFest after ..."](/statements/statement-1ce5250cf0c5.md)
   - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (23)</summary>
+
+- [00:03:29](/episodes/ep-zSKrxIUMNqw.md#t-00-03-27) (Accusation) **Candace Owens**: ["Ben Shapiro was not Charlie Kirk's friend and worked behind the scenes..."](/statements/statement-8581516af03e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
+
+- [00:04:48](/episodes/ep-zSKrxIUMNqw.md#t-00-04-07) (Accusation) **Candace Owens**: ["Ben Shapiro's strategy is to find Christians and pressure them financi..."](/statements/statement-390b6882796b.md)
+  - Also about: [Christians](/entities/concept-christians.md), [Christianity](/entities/concept-christianity.md)
+
+- [00:05:33](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro demanded Megyn Kelly's allegiance against Candace Owens an..."](/statements/statement-55cdeafd37b1.md)
+  - Also about: [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-25) (Accusation) **Candace Owens**: ["Ben Shapiro paid for a prime AmericaFest speaking slot after Erika Kir..."](/statements/statement-e71af1266a9d.md)
+  - Also about: [AmericaFest 2025](/entities/event-americafest-2025.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:06:43](/episodes/ep-zSKrxIUMNqw.md#t-00-05-57) (Claim) **Maggie Wegner** (via read message): ["A Daily Wire producer contacted Maggie Wegner about auditioning for a ..."](/statements/statement-2343c09ee5ca.md)
+  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:16:48](/episodes/ep-zSKrxIUMNqw.md#t-00-16-11) (Accusation) **Candace Owens**: ["Candace Owens said Ben Shapiro's behavior since Charlie Kirk's assassi..."](/statements/statement-b2b9cb99572e.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:09](/episodes/ep-zSKrxIUMNqw.md#t-00-17-38) (Opinion) **Steve Bannon** (via quoted speech): ["Ben Shapiro is like a cancer that spreads and metastasizes."](/statements/statement-7617a96d8f2d.md)
+
+- [00:18:21](/episodes/ep-zSKrxIUMNqw.md#t-00-18-09) (Accusation) **Steve Bannon** (via quoted speech): ["Ben Shapiro tried to take over Breitbart, and Steve Bannon ran him out..."](/statements/statement-ea849b863091.md)
+  - Also about: [Breitbart News](/entities/org-breitbart-news.md), [Steve Bannon](/entities/person-steve-bannon.md)
+
+- [00:18:25](/episodes/ep-zSKrxIUMNqw.md#t-00-18-09) (Accusation) **Steve Bannon** (via quoted speech): ["Ben Shapiro tried to take over David Horowitz's organization."](/statements/statement-a3031b0c2835.md)
+  - Also about: [David Horowitz](/entities/person-david-horowitz.md), [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md)
+
+- [00:18:34](/episodes/ep-zSKrxIUMNqw.md#t-00-18-09) (Prediction) **Steve Bannon** (via quoted speech): ["Ben Shapiro would move on Turning Point USA because he had always envi..."](/statements/statement-6a458fa0a3d8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:54](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44) (Accusation) **Candace Owens**: ["Ben Shapiro has attempted hostile takeovers of several companies, incl..."](/statements/statement-2c3261c2e775.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:21:30](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26) (Claim) **Candace Owens**: ["Andrew Breitbart hired 28-year-old Ben Shapiro as Breitbart editor-at-..."](/statements/statement-1f63b3cc3c6d.md)
+  - Also about: [Andrew Breitbart](/entities/person-andrew-breitbart.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:21:39](/episodes/ep-zSKrxIUMNqw.md#t-00-21-26) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said that, if Ben Shapiro is to be believed, Andrew Brei..."](/statements/statement-3933ccc045e9.md)
+  - Also about: [Andrew Breitbart](/entities/person-andrew-breitbart.md)
+
+- [00:22:31](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03) (Accusation) **Anonymous Source #3 (Ep zSKrxIUMNqw)** (via paraphrase): ["A Breitbart executive told Candace Owens and Charlie Kirk that Ben Sha..."](/statements/statement-c6e9c9f99b51.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:24:24](/episodes/ep-zSKrxIUMNqw.md#t-00-23-58) (Claim) **Candace Owens**: ["Ben Shapiro and Michelle Fields resigned from Breitbart on March 13, 2..."](/statements/statement-5ef89f983b9e.md)
+  - Also about: [Michelle Fields](/entities/person-michelle-fields.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:24:51](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35) (Claim) **Ben Shapiro** (via quoted document): ["Ben Shapiro announced that he resigned as Breitbart News editor-at-lar..."](/statements/statement-a50fc27fa7e6.md)
+  - Also about: [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:24:57](/episodes/ep-zSKrxIUMNqw.md#t-00-24-35) (Claim) **Ben Shapiro** (via quoted document): ["Ben Shapiro said he met Andrew Breitbart at 17 and joined Breitbart Ne..."](/statements/statement-687c08f450af.md)
+  - Also about: [Andrew Breitbart](/entities/person-andrew-breitbart.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:25:33](/episodes/ep-zSKrxIUMNqw.md#t-00-25-15) (Accusation) **Ben Shapiro** (via quoted document): ["Ben Shapiro accused Steve Bannon of betraying Andrew Breitbart's missi..."](/statements/statement-3ca08f51b7f0.md)
+  - Also about: [Steve Bannon](/entities/person-steve-bannon.md), [Andrew Breitbart](/entities/person-andrew-breitbart.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md)
+
+- [00:27:30](/episodes/ep-zSKrxIUMNqw.md#t-00-27-25) (Claim) **Anonymous Source #3 (Ep zSKrxIUMNqw)** (via paraphrase): ["The Daily Wire was being built quietly by the end of 2015 but lacked t..."](/statements/statement-bf654a3ba7de.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Breitbart News](/entities/org-breitbart-news.md)
+
+- [00:28:02](/episodes/ep-zSKrxIUMNqw.md#t-00-27-25) (Accusation) **Anonymous Source #3 (Ep zSKrxIUMNqw)** (via paraphrase): ["Ben Shapiro and Jamie Weinstein manufactured the Michelle Fields scand..."](/statements/statement-55139d451989.md)
+  - Also about: [Jamie Weinstein](/entities/person-jamie-weinstein.md), [Michelle Fields](/entities/person-michelle-fields.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:28:37](/episodes/ep-zSKrxIUMNqw.md#t-00-28-02) (Claim) **Candace Owens**: ["The Fields-Lewandowski scandal permanently damaged Breitbart News."](/statements/statement-bafaa86fb842.md)
+  - Also about: [Breitbart News](/entities/org-breitbart-news.md), [Michelle Fields](/entities/person-michelle-fields.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md)
+
+- [00:29:52](/episodes/ep-zSKrxIUMNqw.md#t-00-29-18) (Accusation) **Candace Owens**: ["Ben Shapiro has targeted the David Horowitz Freedom Center, Candace Ow..."](/statements/statement-7e48c6e0ae91.md)
+  - Also about: [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md), [Candace Owens](/entities/person-candace-owens.md), [The Babylon Bee](/entities/org-babylon-bee.md)
+
+- [00:46:45](/episodes/ep-zSKrxIUMNqw.md#t-00-46-39) (Promise) **Candace Owens**: ["Candace Owens intends to identify who killed Charlie Kirk and determin..."](/statements/statement-0652e878d946.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

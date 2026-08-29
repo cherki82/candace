@@ -6,15 +6,19 @@ type: "PERSON"
 aliases:
   - "Carey Hezekiah"
   - "Carey Falwell"
+categories:
+  - "Falwell family history"
 ---
 
 _Type: People_
 
 **Also known as:** Carey Hezekiah, Carey Falwell
 
+**Categories:** Falwell family history
+
 **Entity verification:** verified
-> Source confirms the full name and family relationship.
-Source: [Prophets of Boom - Forbes](https://www.forbes.com/forbes/2006/0918/118.html)
+> Published biographical reporting confirms Carey Hezekiah Falwell as Jerry Falwell Sr.'s father.
+Source: [Inside Jerry Falwell Jr.’s Unlikely Rise and Precipitous Fall | Vanity Fair](https://www.vanityfair.com/news/2022/01/inside-jerry-falwell-jr-unlikely-rise-and-precipitous-fall)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-carey-hezekiah-falwell-t-00-44-43">2026-01-09 · 00:44:43</a></strong></div>

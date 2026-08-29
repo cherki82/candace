@@ -1,16 +1,16 @@
 ---
-title: "Candace Owens said one-world government was the explicit aim..."
-description: "\"Candace Owens said one-world government was the explicit aim of the network she was discussing.\" — Candace Owens"
+title: "Candace Owens said she believed one-world government was the..."
+description: "\"Candace Owens said she believed one-world government was the explicit aim.\" — Candace Owens"
 statement_id: "statement-61d5d55173bf"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Candace Owens said one-world government was the explicit aim of the network she was discussing.
+> Candace Owens said she believed one-world government was the explicit aim.
 
 ## Attribution
 
@@ -25,7 +25,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:51:41](/episodes/ep-CMcktj3Egfo.md#t-00-50-58) 
+**Timestamp:** [00:51:41](/episodes/ep-CMcktj3Egfo.md#t-00-51-40) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3101);return false;">Play</a>
 
 > If this really does become one world government, and I do believe that that is the explicit aim.
@@ -36,4 +36,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** No

@@ -6,11 +6,19 @@ type: "ORG"
 aliases:
   - "SEC"
   - "Securities and Exchange Commission"
+categories:
+  - "federal securities regulator"
 ---
 
 _Type: Organizations_
 
 **Also known as:** SEC, Securities and Exchange Commission
+
+**Categories:** federal securities regulator
+
+**Entity verification:** verified
+> The SEC's official about page confirms the canonical agency name and federal securities-regulator role.
+Source: [About the SEC](https://www.sec.gov/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-securities-and-exchange-commission-t-01-02-43">2026-01-09 · 01:02:43</a></strong></div>

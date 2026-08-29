@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Ben Shapiro](/entities/person-ben-shapiro) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 
 - [00:20:45](/episodes/ep-uC_GjKU8rs8#t-00-20-45): _People do not like his nature. You can spend years trying to destroy someone behind the scenes like Ben (Ben Shapiro) did to Charlie Kirk and then._
+
+**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
+
+- [00:16:48](/episodes/ep-zSKrxIUMNqw#t-00-16-48): _And Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows._
 
 ### Related
 

@@ -5,11 +5,19 @@ id: "org-martial-arts-federation-world-peace"
 type: "ORG"
 aliases:
   - "Martial Arts Federation"
+categories:
+  - "martial arts nonprofit"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Martial Arts Federation
+
+**Categories:** martial arts nonprofit
+
+**Entity verification:** verified
+> The quoted Washington Post article directly names the Martial Arts Federation for World Peace.
+Source: [A Church in Flux Is Flush With Cash | The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-martial-arts-federation-world-peace-t-01-00-27">2026-01-09 · 01:00:59</a></strong></div>

@@ -3,12 +3,17 @@ title: "Rachel Branning"
 description: "Rachel Branning (People) - 1 mention"
 id: "person-rachel-branning"
 type: "PERSON"
+categories:
+  - "local television journalist"
 ---
 
 _Type: People_
 
+**Categories:** local television journalist
+
 **Entity verification:** verified
-> WSET ABC 13 reporter identified in the embedded report.
+> The source clip and VPM's account identify Rachel Branning as the WSET ABC 13 reporter covering the Liberty Godparent Home.
+Source: ['Liberty Lost' podcast alleges program coerced pregnant teens into adoption | VPM](https://www.vpm.org/news/2025-08-12/liberty-lost-tj-raphael-maternity-home-family-life-services-adoption/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-rachel-branning-t-00-35-13">2026-01-09 · 00:35:20</a></strong></div>

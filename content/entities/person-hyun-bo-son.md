@@ -6,15 +6,19 @@ type: "PERSON"
 aliases:
   - "Pastor Hyun-bo Son"
   - "Pastor Son"
+categories:
+  - "South Korean pastor"
 ---
 
 _Type: People_
 
 **Also known as:** Pastor Hyun-bo Son, Pastor Son
 
+**Categories:** South Korean pastor
+
 **Entity verification:** verified
-> CBN report confirms canonical name and case.
-Source: [From Pulpit to Prison - CBN News](https://cbn.com/news/world/pulpit-prison-s-korean-crackdown-pastor-could-muzzle-religious-expression)
+> CBN's published report confirms the canonical name Hyun-bo Son and the case discussed in the clip.
+Source: [Support Grows for Imprisoned Korean Pastor After Son Speaks at AMFEST | CBN News](https://cbn.com/news/world/support-grows-imprisoned-korean-pastor-after-son-speaks-amfest)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-hyun-bo-son-t-01-09-10">2026-01-09 · 01:09:11</a></strong></div>
@@ -87,7 +91,7 @@ Source: [From Pulpit to Prison - CBN News](https://cbn.com/news/world/pulpit-pri
 - **[Chance Son](/entities/person-chance-son.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:09:19](/episodes/ep-wcD2khO3rOA.md#t-01-09-10): “when his son Chance spoke in Arizona at Turning Point USA’s AmFest.”
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:09:19](/episodes/ep-wcD2khO3rOA.md#t-01-09-10): “when his son Chance spoke in Arizona at Turning Point USA's AmFest.”
 
 </details>
 
@@ -99,7 +103,7 @@ Source: [From Pulpit to Prison - CBN News](https://cbn.com/news/world/pulpit-pri
 - **[Advocates for Faith & Freedom](/entities/org-advocates-faith-freedom.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:06](/episodes/ep-wcD2khO3rOA.md#t-01-09-47): “the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son’s case.”
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:14](/episodes/ep-wcD2khO3rOA.md#t-01-10-12): “the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son's case.”
 
 </details>
 
@@ -111,7 +115,7 @@ Source: [From Pulpit to Prison - CBN News](https://cbn.com/news/world/pulpit-pri
 - **[Chance Son](/entities/person-chance-son.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:09:19](/episodes/ep-wcD2khO3rOA.md#t-01-09-10): “when his son Chance spoke in Arizona at Turning Point USA’s AmFest.”
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:09:19](/episodes/ep-wcD2khO3rOA.md#t-01-09-10): “when his son Chance spoke in Arizona at Turning Point USA's AmFest.”
 
 </details>
 
@@ -125,7 +129,7 @@ Source: [From Pulpit to Prison - CBN News](https://cbn.com/news/world/pulpit-pri
 - **[Advocates for Faith & Freedom](/entities/org-advocates-faith-freedom.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:06](/episodes/ep-wcD2khO3rOA.md#t-01-09-47): “the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son’s case.”
+- [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 @ 01:10:14](/episodes/ep-wcD2khO3rOA.md#t-01-10-12): “the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son's case.”
 
 </details>
 

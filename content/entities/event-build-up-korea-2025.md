@@ -5,11 +5,19 @@ id: "event-build-up-korea-2025"
 type: "EVENT"
 aliases:
   - "Build Up Korea"
+categories:
+  - "political and cultural conference"
 ---
 
 _Type: Events_
 
 **Also known as:** Build Up Korea
+
+**Categories:** political and cultural conference
+
+**Entity verification:** verified
+> The event's official site confirms the Build Up Korea 2025 name, dates, venue, and speakers.
+Source: [Build Up Korea 2025 | Official Site](https://www.buildupkorea.org/Main.asp)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-event-build-up-korea-2025-t-01-08-24">2026-01-09 · 01:08:44</a></strong></div>

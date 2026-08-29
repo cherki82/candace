@@ -1,6 +1,6 @@
 ---
-title: "Turning Point USA has become a sophisticated money-launderin..."
-description: "\"Turning Point USA has become a sophisticated money-laundering network in which funds move through a complex web and kickbacks return money to insiders...\" — Candace Owens"
+title: "Owens said Turning Point USA felt like a complex financial w..."
+description: "\"Owens said Turning Point USA felt like a complex financial web with money flowing back to certain people and kickbacks, resembling sophisticated money...\" — Candace Owens"
 statement_id: "statement-b4cea32af74c"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> Turning Point USA has become a sophisticated money-laundering network in which funds move through a complex web and kickbacks return money to insiders.
+> Owens said Turning Point USA felt like a complex financial web with money flowing back to certain people and kickbacks, resembling sophisticated money laundering.
 
 ## Attribution
 

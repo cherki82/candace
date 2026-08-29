@@ -3,12 +3,17 @@ title: "Richard Rubenstein"
 description: "Richard Rubenstein (People) - 0 mentions"
 id: "person-richard-rubenstein"
 type: "PERSON"
+categories:
+  - "university president"
 ---
 
 _Type: People_
 
+**Categories:** university president
+
 **Entity verification:** verified
-> University of Bridgeport president quoted in the episode.
+> The quoted Washington Post source supports Richard Rubenstein's canonical spelling and University of Bridgeport role.
+Source: [A Church in Flux Is Flush With Cash | The Washington Post](https://www.washingtonpost.com/archive/politics/1997/11/23/a-church-in-flux-is-flush-with-cash/c2a09f64-01bc-4779-b8d1-d4e36bb7e528/)
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>

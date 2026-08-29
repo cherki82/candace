@@ -229,7 +229,7 @@ Source: [BCG modelled plan to relocate Palestinians from Gaza - Financial Times 
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:07:40](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) (Accusation) **Candace Owens**: ["Johnnie Moore was selected to lead the Gaza Humanitarian Foundation de..."](/statements/statement-5fc4301c1e7b.md)
+- [00:07:40](/episodes/ep-wcD2khO3rOA.md#t-00-07-06) (Accusation) **Candace Owens**: ["Owens questioned why public-relations professional Johnnie Moore was s..."](/statements/statement-5fc4301c1e7b.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md)
 
 </details>

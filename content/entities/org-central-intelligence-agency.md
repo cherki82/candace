@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 178 mentions"
+description: "Central Intelligence Agency (Organizations) - 177 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -25,10 +25,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29">2026-08-18 · 00:31:35</a></strong></div>
 <div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>178</strong></div>
+<div><span>Mentions</span><strong>177</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>61</strong></div>
-<div><span>Relationships</span><strong>24</strong></div>
+<div><span>Relationships</span><strong>28</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -62,7 +62,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-35-51" style="--pulse-height:41%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 7 mentions" title="2026-01-05 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-central-intelligence-agency-t-00-48-07" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-58" style="--pulse-height:41%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 7 mentions" title="2026-01-12 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-50" style="--pulse-height:35%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-central-intelligence-agency-t-00-13-05" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-59" style="--pulse-height:53%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 9 mentions" title="2026-01-14 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-central-intelligence-agency-t-00-32-03" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -136,7 +136,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-central-intelligence-agency-t-00-32-10) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-35-51) | 7 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-central-intelligence-agency-t-00-48-07) | 5 |
-| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-58) | 7 |
+| 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-50) | 6 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-central-intelligence-agency-t-00-13-05) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-59) | 9 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-central-intelligence-agency-t-00-32-03) | 1 |
@@ -186,7 +186,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (178)</strong></summary>
+<summary><strong class="section-title">Raw mentions (177)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -696,25 +696,22 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (7 mentions)</summary>
+<summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (6 mentions)</summary>
 
-**[00:11:00](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-58)**
+**[00:11:00](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-50)**
 > "... was actually working for the CIA,"
 
-**[00:28:07](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-27-38)**
+**[00:28:07](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-27-54)**
 > "...h is just, I don't know, some CIA clone,"
 
-**[00:31:04](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-31-04)**
+**[00:31:04](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-30-33)**
 > "...ke it was orchestrated by the CIA."
 
-**[00:31:27](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-31-04)**
+**[00:31:27](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-31-08)**
 > "...t the entire thing was just a CIA operation and they are attempting that again,"
 
-**[00:32:19](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-31-49)**
+**[00:32:19](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-31-47)**
 > "...most as if the Mossad and the CIA,"
-
-**[00:32:23](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-31-49)**
-> "...why Bibi used to work for the CIA."
 
 **[00:49:11](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-49-11)**
 > "...orean War that's the American CIA infiltration"
@@ -1139,7 +1136,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Formerly Employed (5)</summary>
+<summary>Formerly Employed (7)</summary>
 
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1177,6 +1174,20 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 </details>
 
+- **[Sun Myung Moon](/entities/person-sun-myung-moon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:10:50](/episodes/ep-CMcktj3Egfo.md#t-00-10-50): “I told you guys all about this Korean man, Sun Myung Moon, who was actually working for the CIA, sad, while leading effectively what became a religious cult.”
+
+</details>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47): “It's why Bibi used to work for the CIA.”
+
+</details>
+
 </details>
 
 <details>
@@ -1192,7 +1203,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1248,6 +1259,20 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:31:35](/episodes/ep-4JxgOclKzqg.md#t-00-31-29): “There was a man named John Kiriakou who is a former CIA officer who had a conscience back in 2007 during the quote-unquote war on terror.”
+
+</details>
+
+- **[Sun Myung Moon](/entities/person-sun-myung-moon.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:10:50](/episodes/ep-CMcktj3Egfo.md#t-00-10-50): “I told you guys all about this Korean man, Sun Myung Moon, who was actually working for the CIA, sad, while leading effectively what became a religious cult.”
+
+</details>
+
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47): “It's why Bibi used to work for the CIA.”
 
 </details>
 
@@ -1495,13 +1520,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (3)</summary>
 
-- [00:10:58](/episodes/ep-CMcktj3Egfo.md#t-00-10-14) (Accusation) **Candace Owens**: ["Sun Myung Moon worked for the CIA while leading what became a religiou..."](/statements/statement-8d2e174b07b8.md)
+- [00:10:58](/episodes/ep-CMcktj3Egfo.md#t-00-10-50) (Accusation) **Candace Owens**: ["Sun Myung Moon worked for the CIA while leading what became a religiou..."](/statements/statement-8d2e174b07b8.md)
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Unification Church](/entities/org-unification-church.md)
 
-- [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-04) (Accusation) **Candace Owens**: ["Candace Owens said the Unification movement was likely a CIA operation..."](/statements/statement-9c4ef026c214.md)
+- [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) (Accusation) **Candace Owens**: ["Candace Owens said the Unification movement was likely a CIA operation..."](/statements/statement-9c4ef026c214.md)
   - Also about: [Unification Church](/entities/org-unification-church.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [South Korea](/entities/gpe-south-korea.md)
 
-- [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-49) (Accusation) **Candace Owens**: ["Mossad and the CIA are effectively inseparable, and Benjamin Netanyahu..."](/statements/statement-27fb03763d42.md)
+- [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-47) (Opinion) **Candace Owens**: ["Candace Owens said it was almost as if Mossad and the CIA were insepar..."](/statements/statement-27fb03763d42.md)
   - Also about: [Mossad](/entities/org-mossad.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>
@@ -1509,7 +1534,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) (Accusation) **Candace Owens**: ["The Iran–Contra affair involved the CIA and Mossad trafficking weapons..."](/statements/statement-8a209df7944f.md)
+- [00:48:39](/episodes/ep-wcD2khO3rOA.md#t-00-48-07) (Accusation) **Candace Owens**: ["Owens said the Iran-Contra affair involved the CIA and Mossad traffick..."](/statements/statement-8a209df7944f.md)
   - Also about: [Iran–Contra affair](/entities/event-iran-contra-affair.md), [Mossad](/entities/org-mossad.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>

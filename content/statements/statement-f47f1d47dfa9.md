@@ -1,6 +1,6 @@
 ---
-title: "Turning Point Faith’s real-estate activity is connected to n..."
-description: "\"Turning Point Faith’s real-estate activity is connected to non-natural fires and land grabs around the world.\" — Candace Owens"
+title: "Candace Owens suggested that Turning Point Faith's real-esta..."
+description: "\"Candace Owens suggested that Turning Point Faith's real-estate activity might be connected to purportedly non-natural fires and land grabs around the ...\" — Candace Owens"
 statement_id: "statement-f47f1d47dfa9"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> Turning Point Faith’s real-estate activity is connected to non-natural fires and land grabs around the world.
+> Candace Owens suggested that Turning Point Faith's real-estate activity might be connected to purportedly non-natural fires and land grabs around the world.
 
 ## Attribution
 
@@ -27,10 +27,10 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md)
-**Timestamp:** [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-04) 
+**Timestamp:** [00:31:39](/episodes/ep-CMcktj3Egfo.md#t-00-31-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1899);return false;">Play</a>
 
-> And that's the reason Turning Point USA Faith wants to get into real estate. It feels like they're buying up so much land and now we're having these fires that are happening.
+> It feels like they're buying up so much land and now we're having these fires that are happening. ... they're trying to tell you that these disasters are natural, but it's becoming pretty apparent they're not. ... It feels like these are land grabs
 
 ## Verification
 
@@ -51,4 +51,4 @@ The episode alleges a global pattern connecting Turning Point Faith real estate,
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

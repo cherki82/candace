@@ -5,15 +5,19 @@ id: "person-abbi-johnson"
 type: "PERSON"
 aliases:
   - "Abby Johnson"
+categories:
+  - "Liberty Godparent Home survivor"
 ---
 
 _Type: People_
 
 **Also known as:** Abby Johnson
 
+**Categories:** Liberty Godparent Home survivor
+
 **Entity verification:** verified
-> VPM identifies the Liberty Lost subject and spelling.
-Source: [VPM interview about Liberty Lost](https://www.vpm.org/news/2025-08-12/liberty-lost-tj-raphael-maternity-home-family-life-services-adoption)
+> VPM identifies Abbi Johnson as a former Liberty Godparent Home resident and source in the reporting.
+Source: ['Liberty Lost' podcast alleges program coerced pregnant teens into adoption | VPM](https://www.vpm.org/news/2025-08-12/liberty-lost-tj-raphael-maternity-home-family-life-services-adoption/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-abbi-johnson-t-00-36-01">2026-01-09 · 00:36:02</a></strong></div>

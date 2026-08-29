@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 153 mentions"
+description: "Artificial intelligence (Concepts) - 160 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-12-10">2026-01-05 · 00:12:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-15-47">2026-08-21 · 00:15:47</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>153</strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>160</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,6 +36,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <p>Highest activity: <a href="/episodes/ep-4DvYXBn_5JI.md#t-00-36-33">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-00-12-10" style="--pulse-height:14%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#t-00-07-27" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-25-30" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#t-00-37-57" style="--pulse-height:14%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-51-59" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
@@ -84,6 +85,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-12-10) | 2 |
+| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#t-00-07-27) | 7 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-25-30) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-37-57) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-51-59) | 1 |
@@ -133,7 +135,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (153)</strong></summary>
+<summary><strong class="section-title">Raw mentions (160)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -793,6 +795,32 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 </details>
 
 <details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (7 mentions)</summary>
+
+**[00:07:56](/episodes/ep-zSKrxIUMNqw.md#t-00-07-27)**
+> "He sent the script and an AI video along with it as to what they wanted me to ..."
+
+**[00:08:38](/episodes/ep-zSKrxIUMNqw.md#t-00-08-38)**
+> "...for me. Attached below is the AI video that they sent me and the text that I sent ..."
+
+**[00:08:55](/episodes/ep-zSKrxIUMNqw.md#t-00-08-38)**
+> "I was told not to share the AI video the day after you announced on your show th..."
+
+**[00:09:23](/episodes/ep-zSKrxIUMNqw.md#t-00-09-23)**
+> "...'m just going to show you the AI video that they sent out to people,"
+
+**[00:09:39](/episodes/ep-zSKrxIUMNqw.md#t-00-09-23)**
+> "but this is an AI video sample of the show that Ben (Ben Shapiro) w..."
+
+**[00:34:25](/episodes/ep-zSKrxIUMNqw.md#t-00-34-10)**
+> "...hy I actually use magisterium AI,"
+
+**[00:34:37](/episodes/ep-zSKrxIUMNqw.md#t-00-34-10)**
+> "And unlike the other AI that's out there, Magisterium AI actually brings ..."
+
+</details>
+
+<details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
 **[00:12:10](/episodes/ep-OEAHy3SsIiI.md#t-00-12-10)**
@@ -813,7 +841,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Artificial intelligence (28)</strong></summary>
+<summary><strong class="section-title">Statements about Artificial intelligence (30)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2)</summary>
@@ -965,6 +993,17 @@ _No relationships extracted yet._
 
 - [00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04) (Accusation) **Bassem Youssef**: ["Peter Thiel, Alex Karp, and Larry Ellison use technology to kill Pales..."](/statements/statement-ae788c4a1be2.md)
   - Also about: [Peter Thiel](/entities/person-peter-thiel.md), [Alexander Karp](/entities/person-alex-karp.md), [Larry Ellison](/entities/person-larry-ellison.md)
+
+</details>
+
+<details>
+<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
+
+- [00:08:02](/episodes/ep-zSKrxIUMNqw.md#t-00-07-27) (Claim) **Maggie Wegner** (via read message): ["The audition script and AI sample focused entirely on mocking Candace ..."](/statements/statement-30d7c5a773f6.md)
+  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Candace Owens](/entities/person-candace-owens.md), [The More You No-No](/entities/work-the-more-you-no-no.md)
+
+- [00:34:37](/episodes/ep-zSKrxIUMNqw.md#t-00-34-10) (Claim) **Candace Owens**: ["Magisterium AI's answers cite original sources and its knowledge base ..."](/statements/statement-231e04766484.md)
+  - Also about: [Magisterium AI](/entities/org-magisterium-ai.md)
 
 </details>
 
