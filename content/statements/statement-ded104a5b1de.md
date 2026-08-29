@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk was threatened financially by both Jewish donor..."
-description: "\"Charlie Kirk was threatened financially by both Jewish donors and Christian Zionist donors.\" — Candace Owens"
+title: "Owens said she would characterize Charlie Kirk as having bee..."
+description: "\"Owens said she would characterize Charlie Kirk as having been threatened financially by both Jewish donors and Christian Zionist donors.\" — Candace Owens"
 statement_id: "statement-ded104a5b1de"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Charlie Kirk was threatened financially by both Jewish donors and Christian Zionist donors.
+> Owens said she would characterize Charlie Kirk as having been threatened financially by both Jewish donors and Christian Zionist donors.
 
 ## Attribution
 
@@ -27,7 +27,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:01:17](/episodes/ep-gG4ZoYUjUc8.md#t-00-00-40) 
+**Timestamp:** [00:01:17](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-17) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(77);return false;">Play</a>
 
 > Look, Charlie (Charlie Kirk) was threatened. He was threatened a lot, I would say threatened financially. And I want to be clear, it wasn't just by Jewish donors, but also by Christian Zionist donors.

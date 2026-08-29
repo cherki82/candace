@@ -1,6 +1,6 @@
 ---
 title: "Dave Rubin"
-description: "Dave Rubin (People) - 30 mentions"
+description: "Dave Rubin (People) - 29 mentions"
 id: "person-dave-rubin"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08">2025-09-11 · 00:07:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-41-04">2026-06-24 · 00:41:04</a></strong></div>
 <div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -34,18 +34,18 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (16 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-07">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (15 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-person-dave-rubin-t-00-07-08" style="--pulse-height:8%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-person-dave-rubin-t-00-55-29" style="--pulse-height:8%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-dave-rubin-t-00-31-57" style="--pulse-height:8%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-37-04" style="--pulse-height:8%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-05-50" style="--pulse-height:19%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-05-50" style="--pulse-height:20%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 16 mentions" title="2026-01-20 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-07" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 15 mentions" title="2026-01-20 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-dave-rubin-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-37-28" style="--pulse-height:25%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-37-28" style="--pulse-height:27%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,7 +57,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-dave-rubin-t-00-37-04) | 1 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-dave-rubin-t-00-05-50) | 3 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-dave-rubin-t-00-13-30) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19) | 16 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-07) | 15 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-rubin-t-01-05-01) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-dave-rubin-t-00-00-00) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-dave-rubin-t-00-37-28) | 4 |
@@ -68,7 +68,7 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (4 mentions)</summary>
@@ -104,51 +104,48 @@ Source: [About | The Rubin Report](https://www.daverubin.com/about)
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (16 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (15 mentions)</summary>
 
-**[00:28:43](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-19)**
+**[00:28:43](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-28-07)**
 > "All right, we got to get to Dave Rubin because let me tell you,"
 
 **[00:29:29](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-29-29)**
 > "...t Daily Wire I worked with uh David Rubin actually one of the very first shows that I did t..."
 
-**[00:30:51](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-30-25)**
+**[00:30:50](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-30-25)**
 > "And so Dave Rubin starts his morning today choosing Zionist violenc..."
 
-**[00:31:24](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-31-07)**
+**[00:31:20](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-31-07)**
 > "..., you know, once upon a time, Dave Rubin used to try to say he was a comedian and you used..."
 
 **[00:32:00](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-32-00)**
 > "... is always wrong so it's like Dave Rubin replied and was like how"
 
-**[00:32:16](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-32-00)**
+**[00:32:14](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-32-00)**
 > "...ause there's a lot wrong with Dave Rubin. There's a lot wrong with Dave"
 
 **[00:32:22](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-32-22)**
 > "...here's a whole lot wrong with Dave Rubin. I mean, you could you could open that up and go ..."
 
-**[00:32:54](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-32-22)**
+**[00:32:54](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-32-54)**
 > "...n't believe for a second that Dave Rubin would have sat back for years on a story like thi..."
 
 **[00:34:30](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-34-30)**
 > "... i stopped being friends with dave rubin is a situation that made me extremely uncomfortab..."
 
-**[00:34:43](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-34-30)**
-> "Dave Rubin hired a person who worked with me on my team, not..."
-
-**[00:35:35](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-35-08)**
+**[00:35:08](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-35-08)**
 > "I see Dave Rubin again,"
 
 **[00:36:51](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-36-51)**
 > "... i stopped being friends with dave rubin i never shared that story until the audacity of t..."
 
-**[00:39:12](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-38-54)**
+**[00:39:08](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-00-38-54)**
 > "I've done nothing wrong to Dave Rubin other than disagreed with him about the topic of ..."
 
 **[01:07:21](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-01-07-21)**
 > "...i don't know you know i blame dave rubin he pissed me off today i'm just tired of all thei..."
 
-**[01:13:17](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-01-13-00)**
+**[01:13:04](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-01-13-00)**
 > "Dave Rubin, Prager University."
 
 **[01:14:56](/episodes/ep-9naMwS0kMBE.md#ent-person-dave-rubin-t-01-14-56)**

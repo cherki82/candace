@@ -54,7 +54,7 @@ _No relationships extracted yet._
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1)</summary>
 
-- [00:29:02](/episodes/ep-Wjul6YV6izo.md#t-00-28-30) (Accusation) **Candace Owens**: ["The anonymous email source was deliberately targeted in a church by Tu..."](/statements/statement-24340c165afd.md)
+- [00:29:02](/episodes/ep-Wjul6YV6izo.md#t-00-28-30) (Accusation) **Candace Owens**: ["Candace Owens accused Stacy Sheridan, acting at Erika Kirk's direction..."](/statements/statement-24340c165afd.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

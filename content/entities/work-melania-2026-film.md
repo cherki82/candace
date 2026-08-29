@@ -24,8 +24,8 @@ _Type: Works & Media_
 Source: [Watch Melania, now streaming on Prime Video | About Amazon](https://www.aboutamazon.com/news/entertainment/melania-trump-documentary-amazon-mgm-studios)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-27-33">2026-01-20 · 00:28:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-19">2026-01-20 · 00:28:39</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-07">2026-01-20 · 00:28:07</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-07">2026-01-20 · 00:28:36</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -36,15 +36,15 @@ Source: [Watch Melania, now streaming on Prime Video | About Amazon](https://www
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-27-33">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-07">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-27-33" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-07" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-27-33) | 3 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-07) | 3 |
 
 </details>
 </section>
@@ -57,13 +57,13 @@ Source: [Watch Melania, now streaming on Prime Video | About Amazon](https://www
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (3 mentions)</summary>
 
-**[00:28:12](/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-27-33)**
+**[00:28:07](/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-07)**
 > "...g you guys about the new film Melania from Amazon MGM Studios."
 
-**[00:28:19](/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-19)**
+**[00:28:19](/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-07)**
 > "Melania is a new film that takes you inside the 20 days l..."
 
-**[00:28:39](/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-19)**
+**[00:28:36](/episodes/ep-9naMwS0kMBE.md#ent-work-melania-2026-film-t-00-28-07)**
 > "Melania,"
 
 </details>

@@ -15,9 +15,11 @@ veracity: "false"
 
 ## Attribution
 
-**Speaker:** [Rob Skiba](/entities/person-rob-skiba.md) (Guest)
+**Speaker:** [Rob Skiba](/entities/person-rob-skiba.md) (Quoted)
 
-**Delivery:** Made directly
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Rob Skiba Babylon Rising presentation clip
 
 ## About
 

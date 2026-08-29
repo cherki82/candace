@@ -27,7 +27,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:09:53](/episodes/ep-gG4ZoYUjUc8.md#t-00-09-53) 
+**Timestamp:** [00:09:53](/episodes/ep-gG4ZoYUjUc8.md#t-00-09-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(593);return false;">Play</a>
 
 > Critique what Israel is doing after what's been done in Gaza. They've effectively turned Gaza into a parking lot, and this is how you come at him over Tucker (Tucker Carlson)'s speech, Tucker (Tucker Carlson)'s totally reasonable speech, speaking about Jeffrey Epstein. Hey, he harmed children, and he is being protected because he did that on behalf of Israel. He did that for Israel. Blackmail operation for Israel.

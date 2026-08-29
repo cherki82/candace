@@ -57,7 +57,7 @@ Source: [U.S. Department of Justice: Religious Liberty Commission](https://www.j
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2 mentions)</summary>
 
 **[00:28:02](/episodes/ep-hWTdXHGQ8R4.md#ent-org-presidential-religious-liberty-commission-t-00-27-23)**
-> "...J. Trump has this White House Religious Liberty Commission."
+> "And so President Donald J. Trump has this White House Religious Liberty Commission."
 
 **[00:35:41](/episodes/ep-hWTdXHGQ8R4.md#ent-org-presidential-religious-liberty-commission-t-00-35-12)**
 > "...ent Trump (Donald J. Trump)'s Religious Liberty Commission."

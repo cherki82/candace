@@ -28,10 +28,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:54:07](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3247);return false;">Play</a>
+**Timestamp:** [00:54:10](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3250);return false;">Play</a>
 
-> Again, 21 years old to just leave, but to again stalk because that's what you do. You stalk, you pretend it's a business, but you're glorified stalkers in this time in the most sadistic manner possibly ever offering an obscene amount of money to her maid of honor at that wedding that you didn't want her to have to hurt her, replacing her with her maid of honor because you wanted Brett Cooper.
+> offering an obscene amount of money to her maid of honor at that wedding that you didn't want her to have to hurt her, replacing her with her maid of honor because you wanted Brett Cooper.
 
 ## Verification
 

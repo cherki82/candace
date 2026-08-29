@@ -1,6 +1,6 @@
 ---
 title: "Vietnam"
-description: "Vietnam (Places) - 4 mentions"
+description: "Vietnam (Places) - 5 mentions"
 id: "gpe-vietnam"
 type: "GPE"
 categories:
@@ -19,8 +19,8 @@ Source: [Government of Vietnam](https://vietnam.gov.vn/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-vietnam-t-00-53-29">2025-11-13 · 00:53:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-vietnam-t-00-36-00">2026-05-13 · 00:36:00</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ Source: [Government of Vietnam](https://vietnam.gov.vn/)
 <p>Highest activity: <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-vietnam-t-00-53-29">What Did Charlie Kirk Discover Near The End? | Candace Ep 264</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-vietnam-t-00-53-29" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 2 mentions" title="2025-11-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-vietnam-t-00-20-17" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-vietnam-t-00-28-12" style="--pulse-height:50%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-gpe-vietnam-t-00-36-00" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
@@ -40,6 +41,7 @@ Source: [Government of Vietnam](https://vietnam.gov.vn/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-vietnam-t-00-53-29) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-vietnam-t-00-20-17) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-vietnam-t-00-28-12) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-gpe-vietnam-t-00-36-00) | 1 |
 
@@ -49,7 +51,7 @@ Source: [Government of Vietnam](https://vietnam.gov.vn/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (1 mentions)</summary>
@@ -64,6 +66,14 @@ Source: [Government of Vietnam](https://vietnam.gov.vn/)
 
 **[00:28:41](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-vietnam-t-00-28-12)**
 > "... just, what did they survive? Vietnam, the streets of Compton. Actually, it turns out t..."
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+
+**[00:20:17](/episodes/ep-9naMwS0kMBE.md#ent-gpe-vietnam-t-00-20-17)**
+> "...e career, spy career began in Vietnam."
 
 </details>
 

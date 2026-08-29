@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel"
-description: "Kash Patel (People) - 255 mentions"
+description: "Kash Patel (People) - 262 mentions"
 id: "person-kash-patel"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-kash-patel-t-00-08-42">2025-09-17 · 00:09:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-kash-patel-t-01-05-38">2026-08-21 · 01:05:54</a></strong></div>
-<div><span>Episodes</span><strong>76</strong></div>
-<div><span>Mentions</span><strong>255</strong></div>
+<div><span>Episodes</span><strong>77</strong></div>
+<div><span>Mentions</span><strong>262</strong></div>
 <div><span>Statements by</span><strong>18</strong></div>
-<div><span>Statements about</span><strong>52</strong></div>
+<div><span>Statements about</span><strong>55</strong></div>
 <div><span>Relationships</span><strong>35</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -96,6 +96,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-kash-patel-t-00-12-32" style="--pulse-height:15%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-14-05" style="--pulse-height:92%" aria-label="Candace Owens x Ana Kasparian: 12 mentions" title="2026-05-28 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-02-16" style="--pulse-height:46%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 6 mentions" title="2026-06-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-kash-patel-t-00-00-45" style="--pulse-height:54%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 7 mentions" title="2026-06-15 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-00-00" style="--pulse-height:46%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 6 mentions" title="2026-06-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-kash-patel-t-00-01-18" style="--pulse-height:23%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-kash-patel-t-00-04-17" style="--pulse-height:15%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
@@ -177,6 +178,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-kash-patel-t-00-12-32) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-kash-patel-t-00-14-05) | 12 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-kash-patel-t-00-02-16) | 6 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-kash-patel-t-00-00-45) | 7 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-00-00) | 6 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-kash-patel-t-00-01-18) | 3 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-kash-patel-t-00-04-17) | 2 |
@@ -201,7 +203,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (255)</strong></summary>
+<summary><strong class="section-title">Raw mentions (262)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -417,6 +419,32 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 
 **[00:51:41](/episodes/ep-h76ZN-xXC6c.md#ent-person-kash-patel-t-00-51-14)**
 > "we FOIA Kash Patel's travel itinerary and get denied. Erika Kirk cries..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (7 mentions)</summary>
+
+**[00:00:57](/episodes/ep-5NQyGuRYbU8.md#ent-person-kash-patel-t-00-00-45)**
+> "In fact, I'm rather peeved. Lastly, we FOIA'd Kash Patel's travel schedule for the days leading up to Charlie Kirk's assassination."
+
+**[00:27:46](/episodes/ep-5NQyGuRYbU8.md#ent-person-kash-patel-t-00-27-34)**
+> "...like at least. So I requested Kash Patel's schedule, travel schedule in the lead up to Charl..."
+
+**[00:28:36](/episodes/ep-5NQyGuRYbU8.md#ent-person-kash-patel-t-00-28-20)**
+> "Doesn't mean Kash Patel was on the flight, but, you know, just doing a bi..."
+
+**[00:28:53](/episodes/ep-5NQyGuRYbU8.md#ent-person-kash-patel-t-00-28-53)**
+> "...endar meetings, and travel of Kash Patel for the period of September 7, 2025 through to Se..."
+
+**[00:31:38](/episodes/ep-5NQyGuRYbU8.md#ent-person-kash-patel-t-00-31-27)**
+> "...st me saying that I requested Kash Patel's records, which, again, is my right as a tax-payin..."
+
+**[00:46:03](/episodes/ep-5NQyGuRYbU8.md#ent-person-kash-patel-t-00-45-34)**
+> "...khead rights, just looking at Kash Patel. He constantly looks like he is in a state of ter..."
+
+**[00:46:11](/episodes/ep-5NQyGuRYbU8.md#ent-person-kash-patel-t-00-46-11)**
+> "...gest that something terrified Kash Patel. Let me look at those FBI's, man, really is somet..."
 
 </details>
 
@@ -1734,7 +1762,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
 
-- [00:34:31](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19) [○] (Opinion) ["America needs to wake up and prioritize Israel."](/statements/statement-128edc963b97.md)
+- [00:34:31](/episodes/ep-xjzb_t5Tk9o.md#t-00-34-19) [✓] (Opinion) ["America needs to wake up and prioritize Israel."](/statements/statement-128edc963b97.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
 
 </details>
@@ -1800,7 +1828,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kash Patel (52)</strong></summary>
+<summary><strong class="section-title">Statements about Kash Patel (55)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
@@ -1865,13 +1893,27 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
 
 - [00:38:39](/episodes/ep-h76ZN-xXC6c.md#t-00-38-35) (Accusation) **Candace Owens**: ["Owens said Kash Patel instructed federal agents to take hospital foota..."](/statements/statement-d1530284b223.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:49:51](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4)</summary>
+
+- [00:27:59](/episodes/ep-5NQyGuRYbU8.md#t-00-27-34) (Claim) **Candace Owens**: ["Candace Owens said an FBI plane landed in Salt Lake City on September ..."](/statements/statement-395c6ab99170.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:53](/episodes/ep-5NQyGuRYbU8.md#t-00-28-53) (Citation) **Candace Owens**: ["Candace Owens said her FOIA request sought Kash Patel's official sched..."](/statements/statement-841d0ce9235c.md)
+  - Also about: [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md)
+
+- [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
   - Also about: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+- [00:34:01](/episodes/ep-5NQyGuRYbU8.md#t-00-33-25) (Promise) **Candace Owens**: ["Candace Owens promised to keep filing requests until she got to the bo..."](/statements/statement-53e946a74d19.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [FBI](/entities/org-fbi.md), [Blake Neff](/entities/person-blake-neff.md)
 
 </details>
 
@@ -2015,7 +2057,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
-- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) (Accusation) **Candace Owens**: ["Andrew Kolvet, Michael McCoy, and McCoy's wife met with senior White H..."](/statements/statement-58c3c37a76f1.md)
+- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) (Accusation) **Candace Owens**: ["Candace Owens said Andrew Kolvet and, allegedly, Michael McCoy and McC..."](/statements/statement-58c3c37a76f1.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md), [White House](/entities/org-white-house.md)
 
 </details>

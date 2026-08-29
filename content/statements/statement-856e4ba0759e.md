@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [00:31:12](/episodes/ep-9naMwS0kMBE.md#t-00-31-07) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1872);return false;">Play</a>
 
-> To the Charlie Kirk thing, I have literally no idea what he's talking about. Asked my husband. He's like zero memory of us even discussing Charlie Kirk.
+> He tweets that he has been holding onto this for a very long time. But that one time I went to his house for dinner and I told him that I hated Charlie Kirk. ... To the Charlie Kirk thing, I have literally no idea what he's talking about. Asked my husband. He's like zero memory of us even discussing Charlie Kirk.
 
 ## Verification
 

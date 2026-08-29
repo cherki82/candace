@@ -1,6 +1,6 @@
 ---
-title: "Charlie Kirk's warning that 'they' were going to kill him re..."
-description: "\"Charlie Kirk's warning that 'they' were going to kill him referred to Israel.\" — Candace Owens"
+title: "Candace Owens said she believed Charlie Kirk's warning that ..."
+description: "\"Candace Owens said she believed Charlie Kirk's warning that 'they' were going to kill him referred to Israel.\" — Candace Owens"
 statement_id: "statement-0e44b7398934"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> Charlie Kirk's warning that 'they' were going to kill him referred to Israel.
+> Candace Owens said she believed Charlie Kirk's warning that 'they' were going to kill him referred to Israel.
 
 ## Attribution
 
@@ -51,4 +51,4 @@ Transcript context reviewed. Kirk's alleged warning that 'they'll kill me' is no
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

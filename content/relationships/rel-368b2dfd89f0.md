@@ -11,7 +11,7 @@ object: "org-pure-talk"
 
 ## [America's Warrior Partnership](/entities/org-americas-warrior-partnership) funded by [Pure Talk](/entities/org-pure-talk)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
 
@@ -20,6 +20,10 @@ object: "org-pure-talk"
 **[Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs)**
 
 - [00:28:14](/episodes/ep-1mYNOqzAdXs#t-00-28-14): _Pure Talk is veteran led. So helping veterans is their North star. They have donated over half a million dollars to America's warrior partnership._
+
+**[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
+
+- [00:27:03](/episodes/ep-5NQyGuRYbU8#t-00-27-03): _Pure Talk will match that donation_
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 

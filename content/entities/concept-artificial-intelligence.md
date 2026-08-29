@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 161 mentions"
+description: "Artificial intelligence (Concepts) - 159 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -24,7 +24,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-12-10">2026-01-05 · 00:12:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-15-47">2026-08-21 · 00:15:47</a></strong></div>
 <div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>161</strong></div>
+<div><span>Mentions</span><strong>159</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,9 +41,9 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-artificial-intelligence-t-00-06-17" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#t-00-37-57" style="--pulse-height:14%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-51-59" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-18-28" style="--pulse-height:21%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-18-39" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#t-00-45-42" style="--pulse-height:21%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41" style="--pulse-height:29%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41" style="--pulse-height:21%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-35-35" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-35-10" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#t-00-37-47" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
@@ -91,9 +91,9 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-artificial-intelligence-t-00-06-17) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-37-57) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-51-59) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#t-00-18-28) | 3 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#t-00-18-39) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#t-00-45-42) | 3 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41) | 4 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41) | 3 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-35-35) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-00-35-10) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47) | 1 |
@@ -137,7 +137,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (161)</strong></summary>
+<summary><strong class="section-title">Raw mentions (159)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -722,16 +722,13 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[00:41:05](/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41)**
-> "other AIs"
+**[00:41:00](/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41)**
+> "Magisterium AI actually brings the receipts, meaning every singl..."
 
 **[00:40:54](/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41)**
 > "That's why I use Magisterium AI because this isn't just about the past. It's also..."
-
-**[00:41:08](/episodes/ep-xjzb_t5Tk9o.md#t-00-40-41)**
-> "Magisterium AI actually brings the receipts, meaning every singl..."
 
 **[00:46:33](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04)**
 > "...t labs in order to test these AI advanced horrible lethal weapons."
@@ -753,15 +750,12 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 </details>
 
 <details>
-<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:19:02](/episodes/ep-gG4ZoYUjUc8.md#t-00-18-28)**
+**[00:19:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-18-39)**
 > "That's why I use magisterium AI because it's not just about the past. It's about ..."
 
-**[00:19:15](/episodes/ep-gG4ZoYUjUc8.md#t-00-19-12)**
-> "And unlike the other AI programs out there,"
-
-**[00:19:18](/episodes/ep-gG4ZoYUjUc8.md#t-00-19-12)**
+**[00:19:15](/episodes/ep-gG4ZoYUjUc8.md#t-00-19-15)**
 > "magisterium AI actually brings the receipts, meaning every singl..."
 
 </details>

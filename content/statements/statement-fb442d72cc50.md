@@ -50,7 +50,7 @@ Streaming analytics records 6.1 million peak viewers on Casimito's YouTube chann
 - [Streams Charts: FIFA World Cup 2022 YouTube statistics](https://streamscharts.com/news/fifa-world-cup-statistics-twitch-and-youtube)
 - [FIFA: Streaming success in Brazil](https://www.fifa.com/en/articles/fifa-hails-streaming-success-in-brazil-attracting-all-new-fans-to-the-fifa-world-cup)
 
-*Verified: 2026-08-16T09:04:18.744701*
+*Verified: 2026-08-29T14:35:05.547195*
 
 ---
 

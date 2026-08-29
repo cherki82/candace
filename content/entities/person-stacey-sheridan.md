@@ -269,7 +269,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 - **[Kenneth Starr](/entities/person-kenneth-starr.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Resume where she says she worked there for eight years, but in Ken Starr's office. But the point is, is that for almost a decade she worked for Ken Starr at the exact same time that he was working with Jeffrey Epstein, okay?”
 
 </details>
 
@@ -357,7 +357,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 - **[Kenneth Starr](/entities/person-kenneth-starr.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Resume where she says she worked there for eight years, but in Ken Starr's office. But the point is, is that for almost a decade she worked for Ken Starr at the exact same time that he was working with Jeffrey Epstein, okay?”
 
 </details>
 

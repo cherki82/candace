@@ -1,6 +1,6 @@
 ---
 title: "The U.S. military hired Michael Aquino to run psychological ..."
-description: "\"The U.S. military hired Michael Aquino to run psychological operations because of his literal Satanism and interest in harming children.\" — Candace Owens"
+description: "\"The U.S. military hired Michael Aquino to run psychological operations because he was an avowed Satanist who founded the Temple of Set.\" — Candace Owens"
 statement_id: "statement-c43c2657be6a"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> The U.S. military hired Michael Aquino to run psychological operations because of his literal Satanism and interest in harming children.
+> The U.S. military hired Michael Aquino to run psychological operations because he was an avowed Satanist who founded the Temple of Set.
 
 ## Attribution
 

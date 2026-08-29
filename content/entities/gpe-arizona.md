@@ -59,9 +59,9 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-21" style="--pulse-height:26%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-43" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31" style="--pulse-height:21%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36" style="--pulse-height:21%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01" style="--pulse-height:42%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 8 mentions" title="2026-01-22 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-23" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-22" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-arizona-t-00-17-57" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-arizona-t-00-29-56" style="--pulse-height:16%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-arizona-t-00-21-55" style="--pulse-height:11%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
@@ -136,9 +136,9 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-21) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-43) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01) | 8 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-23) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-22) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-arizona-t-00-17-57) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-arizona-t-00-29-56) | 3 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-arizona-t-00-21-55) | 2 |
@@ -907,7 +907,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:13:37](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-23)**
+**[00:13:28](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-22)**
 > "she grew up in Arizona, right?"
 
 </details>
@@ -915,25 +915,25 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (8 mentions)</summary>
 
-**[00:00:02](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01)**
+**[00:00:01](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01)**
 > "Arizona,"
 
-**[00:13:21](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-13-21)**
+**[00:13:21](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-12-55)**
 > "...n in a town called Saukett in Arizona,"
 
-**[00:14:02](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-13-21)**
+**[00:14:02](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-13-40)**
 > "That's what she moved to Arizona for."
 
-**[00:16:20](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-13-21)**
+**[00:16:12](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-13-40)**
 > "...ssue the public notice in the Arizona Chinese News,"
 
-**[00:16:29](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-13-21)**
+**[00:16:29](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-13-40)**
 > "...ice. They got it notarized by Arizona Chinese American Publication saying,"
 
-**[00:16:49](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-13-21)**
+**[00:16:49](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-13-40)**
 > "... on December 1st. OK, now the Arizona Chinese newspaper,"
 
-**[00:17:41](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-17-02)**
+**[00:17:37](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-17-18)**
 > "Arizona in April of 1990."
 
 **[00:45:00](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-45-00)**
@@ -944,13 +944,13 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>
 
-**[00:08:34](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31)**
+**[00:08:31](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36)**
 > "And apparently Miss Arizona USA has the same thing, that the Miss Arizona USA..."
 
-**[00:08:46](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31)**
+**[00:08:44](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36)**
 > "...to Erika Kirk's reign as Miss Arizona USA and read her social media,"
 
-**[00:09:31](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-09-01)**
+**[00:09:30](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36)**
 > "...a was it was her year as Miss Arizona,"
 
 **[01:02:45](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-01-02-36)**
@@ -1553,7 +1553,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>
 
-- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) (Claim) **Candace Owens**: ["Erika Kirk was living in Arizona before her parents divorced in 1998, ..."](/statements/statement-284a8c2d9ea5.md)
+- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) (Claim) **Candace Owens**: ["After attending daycare in Cincinnati in 1992, Erika Kirk moved to Ari..."](/statements/statement-284a8c2d9ea5.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
 
 - [00:50:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-23) (Claim) **Candace Owens**: ["Erika Kirk attended Walnut Corner Children's Center in Cincinnati in 1..."](/statements/statement-b0345e34cb8d.md)

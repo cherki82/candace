@@ -60,7 +60,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tyler-bowyer-t-00-06-24" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-08" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-03-31" style="--pulse-height:24%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-50" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-38" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-tyler-bowyer-t-00-22-38" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-tyler-bowyer-t-00-01-56" style="--pulse-height:12%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
@@ -128,7 +128,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tyler-bowyer-t-00-06-24) | 5 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-08) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-03-31) | 4 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-50) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-38) | 2 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-tyler-bowyer-t-00-22-38) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-tyler-bowyer-t-00-01-56) | 2 |
@@ -796,10 +796,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:21:45](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29)**
+**[00:21:39](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29)**
 > "... that somebody pulled up from Tyler Bowyer,"
 
-**[00:22:09](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29)**
+**[00:22:08](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29)**
 > "...or maybe get a lawyer to send Tyler Bowyer a letter."
 
 </details>
@@ -807,10 +807,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
 
-**[00:12:57](/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-50)**
+**[00:12:57](/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-38)**
 > "Tyler Bowyer was a sexual deviant"
 
-**[00:17:18](/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-17-07)**
+**[00:17:17](/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-17-07)**
 > "...oney with Stacey Sheridan and Tyler Bowyer and Erika Kirk at Turning Point USA."
 
 </details>
@@ -818,13 +818,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>
 
-**[00:03:37](/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-03-31)**
+**[00:03:31](/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-03-31)**
 > "Tyler Bowyer and Andrew Kolvet,"
 
 **[00:49:45](/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-49-23)**
 > "...prove it. I ranted at him and Tyler Bowyer in a group chat."
 
-**[00:49:56](/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-49-55)**
+**[00:49:55](/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-49-55)**
 > "...ple and I screamed at him and Tyler Bowyer in a chat about it."
 
 **[01:08:36](/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-01-08-36)**
@@ -1221,7 +1221,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Tyler Bowyer needs to be looked at and investigated further.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
@@ -1370,7 +1370,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43): “I told you he's a sexual deviant. It's like, I mean, there's just so much out there.”
@@ -1535,9 +1535,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Worked With (2)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:35](/episodes/ep-HYn0P-P1wUw.md#t-00-28-35): “Tyler (Tyler Bowyer) got on stage and he told the audience that Erika (Erika Kirk) had called him asking how she could get involved and that he then made a decision to put her behind Donald Trump. Here is Tyler (Tyler Bowyer) making that statement in his own words at Charlie Kirk's memorial. ... At his wedding, I told the story of talking Charlie (Charlie Kirk) into moving to Arizona. He was an adamant Chicago boy. I needed to break that. Selfishly, I wanted him to love Arizona because I had recently convinced him to move Turning Point USA to Arizona.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:29:01](/episodes/ep-ti5Fxrvegno.md#t-00-28-47): “After that we talked. It was obvious she was the perfect person for the job that Charlie (Charlie Kirk) and I had devised in one of our 24-hour planning sessions.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:29:01](/episodes/ep-ti5Fxrvegno.md#t-00-28-47): “After that we talked. It was obvious she was the perfect person for the job that Charlie (Charlie Kirk) and I had devised in one of our 24-hour planning sessions.”
 
 </details>
@@ -1588,7 +1589,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Tyler Bowyer needs to be looked at and investigated further.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
@@ -1658,7 +1659,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43): “I told you he's a sexual deviant. It's like, I mean, there's just so much out there.”
@@ -2163,7 +2164,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1)</summary>
 
-- [00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50) (Accusation) **Candace Owens**: ["Candace Owens accused Tyler Bowyer of being a sexual deviant and said ..."](/statements/statement-a1dae78aa791.md)
+- [00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38) (Accusation) **Candace Owens**: ["Candace Owens accused Tyler Bowyer of being a sexual deviant and said ..."](/statements/statement-a1dae78aa791.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 71 mentions"
+description: "Pro-Israel advocacy (Concepts) - 73 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -23,10 +23,10 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27">2025-10-31 · 00:12:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04">2026-08-21 · 00:51:24</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>71</strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
+<div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,7 +39,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-20" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55" style="--pulse-height:29%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-27" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-26" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-pro-israel-advocacy-t-00-39-33" style="--pulse-height:43%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-pro-israel-advocacy-t-00-04-56" style="--pulse-height:29%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-pro-israel-advocacy-t-00-19-32" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
@@ -54,6 +54,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-pro-israel-advocacy-t-00-31-11" style="--pulse-height:29%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-concept-pro-israel-advocacy-t-00-12-06" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-concept-pro-israel-advocacy-t-00-17-07" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 7 mentions" title="2026-06-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-concept-pro-israel-advocacy-t-00-41-38" style="--pulse-height:29%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-pro-israel-advocacy-t-00-31-24" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-pro-israel-advocacy-t-00-42-32" style="--pulse-height:29%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-pro-israel-advocacy-t-00-42-01" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
@@ -75,7 +76,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-20) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36) | 2 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-27) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-26) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-pro-israel-advocacy-t-00-39-33) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-concept-pro-israel-advocacy-t-00-04-56) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-pro-israel-advocacy-t-00-19-32) | 1 |
@@ -90,6 +91,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-pro-israel-advocacy-t-00-31-11) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-pro-israel-advocacy-t-00-12-06) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-concept-pro-israel-advocacy-t-00-17-07) | 7 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-concept-pro-israel-advocacy-t-00-41-38) | 2 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-concept-pro-israel-advocacy-t-00-31-24) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-pro-israel-advocacy-t-00-42-32) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-concept-pro-israel-advocacy-t-00-42-01) | 1 |
@@ -109,7 +111,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -228,6 +230,17 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 **[00:31:40](/episodes/ep-G3zdOeHpvS0.md#ent-concept-pro-israel-advocacy-t-00-31-24)**
 > "...and saying he was leaving the pro-Israel cause and having a rabbi call him and Josh Hammer..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:42:08](/episodes/ep-5NQyGuRYbU8.md#ent-concept-pro-israel-advocacy-t-00-41-38)**
+> "I'm partnering further, taking over his company and partnering further with pro-Israel narratives and pro-Israel pastors who I told Tucker Carlson that I hated the pastors that were around him."
+
+**[00:42:21](/episodes/ep-5NQyGuRYbU8.md#ent-concept-pro-israel-advocacy-t-00-42-21)**
+> "... in July before she went to a pro-Israel summit at Bill Ackman's house."
 
 </details>
 
@@ -421,7 +434,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:06:57](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-27)**
+**[00:06:57](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-26)**
 > "...ters over to any body that is pro-Israel."
 
 </details>
@@ -489,7 +502,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (31)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (32)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2)</summary>
@@ -553,6 +566,14 @@ _No relationships extracted yet._
 
 - [00:43:19](/episodes/ep-VMNWMXX1vO8.md#t-00-43-16) (Promise) **Charlie Kirk** (via quoted post): ["You've left me no choice but to abandon the pro-Israel cause."](/statements/statement-0643c9f58907.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:42:21](/episodes/ep-5NQyGuRYbU8.md#t-00-42-21) (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk was anti-Israel in July before attending..."](/statements/statement-f57f9d2de6a5.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Bill Ackman](/entities/person-bill-ackman.md), [Anti-Israel sentiment](/entities/concept-anti-israel-sentiment.md)
 
 </details>
 

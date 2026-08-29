@@ -1,6 +1,6 @@
 ---
 title: "Freedom of Information Act"
-description: "Freedom of Information Act (Laws & Legislation) - 50 mentions"
+description: "Freedom of Information Act (Laws & Legislation) - 57 mentions"
 id: "law-freedom-of-information-act"
 type: "LAW"
 aliases:
@@ -23,10 +23,10 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-law-freedom-of-information-act-t-00-26-27">2025-10-06 · 00:26:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-law-freedom-of-information-act-t-00-44-42">2026-06-26 · 00:45:17</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-law-freedom-of-information-act-t-00-00-00" style="--pulse-height:38%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-law-freedom-of-information-act-t-00-46-17" style="--pulse-height:50%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 4 mentions" title="2026-06-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-law-freedom-of-information-act-t-00-00-41" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 8 mentions" title="2026-06-13 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-law-freedom-of-information-act-t-00-00-45" style="--pulse-height:88%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 7 mentions" title="2026-06-15 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-law-freedom-of-information-act-t-00-45-37" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 8 mentions" title="2026-06-16 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-law-freedom-of-information-act-t-00-53-39" style="--pulse-height:12%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-law-freedom-of-information-act-t-00-01-18" style="--pulse-height:75%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 6 mentions" title="2026-06-18 · 6 mentions"><span></span></a>
@@ -64,6 +65,7 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-law-freedom-of-information-act-t-00-00-00) | 3 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-law-freedom-of-information-act-t-00-46-17) | 4 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-law-freedom-of-information-act-t-00-00-41) | 8 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-law-freedom-of-information-act-t-00-00-45) | 7 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-law-freedom-of-information-act-t-00-45-37) | 8 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-law-freedom-of-information-act-t-00-53-39) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-law-freedom-of-information-act-t-00-01-18) | 6 |
@@ -75,7 +77,7 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
@@ -151,6 +153,32 @@ Source: [What is FOIA? | FOIA.gov](https://www.foia.gov/about.html)
 
 **[00:53:29](/episodes/ep-h76ZN-xXC6c.md#ent-law-freedom-of-information-act-t-00-52-57)**
 > "...did correctly by following an FOIA request. And it's very simple to send somebody a ..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (7 mentions)</summary>
+
+**[00:00:57](/episodes/ep-5NQyGuRYbU8.md#ent-law-freedom-of-information-act-t-00-00-45)**
+> "In fact, I'm rather peeved. Lastly, we FOIA'd Kash Patel's travel schedule for the days leading up to Charlie Kirk's assassination."
+
+**[00:28:53](/episodes/ep-5NQyGuRYbU8.md#ent-law-freedom-of-information-act-t-00-28-53)**
+> "We wrote pursuant to the Freedom of Information Act, listed that I request copies of records reflecti..."
+
+**[00:29:49](/episodes/ep-5NQyGuRYbU8.md#ent-law-freedom-of-information-act-t-00-29-28)**
+> "...rtions identified as specific FOIA exemptions relied upon for any withholding. Thank..."
+
+**[00:30:29](/episodes/ep-5NQyGuRYbU8.md#ent-law-freedom-of-information-act-t-00-30-08)**
+> "...urity. The least we can do is FOIA around and find out, unfortunately, here's what w..."
+
+**[00:31:51](/episodes/ep-5NQyGuRYbU8.md#ent-law-freedom-of-information-act-t-00-31-27)**
+> "...action to me merely filing an FOIA request and want you to compare it to what you ju..."
+
+**[00:32:36](/episodes/ep-5NQyGuRYbU8.md#ent-law-freedom-of-information-act-t-00-32-05)**
+> "...it, this is why we are filing FOIA requests. This is why, despite Andrew Kolvet lyin..."
+
+**[00:32:51](/episodes/ep-5NQyGuRYbU8.md#ent-law-freedom-of-information-act-t-00-32-45)**
+> "We filed an FOIA request, then we followed up on our FOIA request,..."
 
 </details>
 
@@ -304,7 +332,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Freedom of Information Act (18)</strong></summary>
+<summary><strong class="section-title">Statements about Freedom of Information Act (19)</strong></summary>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
@@ -317,15 +345,23 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
 
 - [00:45:37](/episodes/ep-h76ZN-xXC6c.md#t-00-45-10) (Citation) **Candace Owens**: ["Owens said the Freedom of Information Act ordinarily requires a respon..."](/statements/statement-266502cb19f4.md)
 
-- [00:49:51](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
-  - Also about: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Kash Patel](/entities/person-kash-patel.md)
-
 - [00:51:21](/episodes/ep-h76ZN-xXC6c.md#t-00-51-14) (Accusation) **FBI** (via quoted post): ["The FBI said it would be a clickbait lie for Owens to tell her audienc..."](/statements/statement-59d4161f27ad.md)
   - Also about: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2)</summary>
+
+- [00:28:53](/episodes/ep-5NQyGuRYbU8.md#t-00-28-53) (Citation) **Candace Owens**: ["Candace Owens said her FOIA request sought Kash Patel's official sched..."](/statements/statement-841d0ce9235c.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
+
+- [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Kash Patel](/entities/person-kash-patel.md)
 
 </details>
 

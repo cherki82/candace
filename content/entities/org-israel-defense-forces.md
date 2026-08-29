@@ -29,7 +29,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <div><span>Episodes</span><strong>17</strong></div>
 <div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -303,7 +303,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 **[00:46:26](/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-46-04)**
 > "They openly donate to the IDF. They openly have their headquarters in Israel."
 
-**[01:21:17](/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-01-21-15)**
+**[01:21:15](/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-01-21-15)**
 > "...ok at the suicide rate of the IDF soldiers who top themselves after fighting in Gaz..."
 
 **[01:34:26](/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-01-34-26)**
@@ -472,7 +472,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Israel Defense Forces (20)</strong></summary>
+<summary><strong class="section-title">Statements about Israel Defense Forces (22)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1)</summary>
@@ -578,13 +578,19 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (4)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (6)</summary>
 
 - [00:45:42](/episodes/ep-xjzb_t5Tk9o.md#t-00-45-42) (Claim) **Bassem Youssef**: ["Isn't ICE trained by the IDF, and why is an American security field of..."](/statements/statement-fe8c511e15f6.md)
   - Also about: [U.S. Immigration and Customs Enforcement](/entities/org-us-immigration-and-customs-enforcement.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)
 
 - [00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04) (Accusation) **Bassem Youssef**: ["Peter Thiel, Alex Karp, and Larry Ellison use technology to kill Pales..."](/statements/statement-ae788c4a1be2.md)
   - Also about: [Peter Thiel](/entities/person-peter-thiel.md), [Alexander Karp](/entities/person-alex-karp.md), [Larry Ellison](/entities/person-larry-ellison.md)
+
+- [01:21:46](/episodes/ep-xjzb_t5Tk9o.md#t-01-21-46) (Citation) **Bassem Youssef**: ["Bassem Youssef said Breaking the Silence is a group of former IDF sold..."](/statements/statement-7bd7a3fccfcd.md)
+  - Also about: [Breaking the Silence](/entities/org-breaking-the-silence.md), [Gaza](/entities/gpe-gaza.md), [West Bank](/entities/gpe-west-bank.md)
+
+- [01:23:11](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-11) (Accusation) **Bassem Youssef**: ["Bassem Youssef claimed that The New York Times editorial team is full ..."](/statements/statement-11b5e1a0d224.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Mossad](/entities/org-mossad.md)
 
 - [01:24:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-42) (Citation) **Bassem Youssef**: ["Israeli media reported the Hannibal Directive, Israeli soldiers killin..."](/statements/statement-dffdfa972b19.md)
   - Also about: [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-the-new-york-times.md), [CNN](/entities/org-cnn.md)

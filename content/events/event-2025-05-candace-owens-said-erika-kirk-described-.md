@@ -14,7 +14,7 @@ date: "2025-05"
 ## Mentioned In
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:04:29](/episodes/ep-QdM9jLwjwLw.md#t-00-04-19) 
+**Timestamp:** [00:04:29](/episodes/ep-QdM9jLwjwLw.md#t-00-04-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(269);return false;">▶️ Play</a>
 
 > calling about the letter that Charlie wrote him back in May.

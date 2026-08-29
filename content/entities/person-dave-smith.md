@@ -47,7 +47,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-dave-smith-t-00-40-02" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-dave-smith-t-00-44-56" style="--pulse-height:29%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-37" style="--pulse-height:14%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-30" style="--pulse-height:14%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18" style="--pulse-height:29%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-48" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24" style="--pulse-height:14%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
@@ -69,7 +69,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-dave-smith-t-01-04-11) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-dave-smith-t-00-40-02) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-dave-smith-t-00-44-56) | 2 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-37) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-30) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-48) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24) | 1 |
@@ -133,7 +133,7 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[01:00:48](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-37)**
+**[01:00:48](/episodes/ep-GY6GWceEqtQ.md#ent-person-dave-smith-t-01-00-30)**
 > "Dave Smith is another"
 
 </details>

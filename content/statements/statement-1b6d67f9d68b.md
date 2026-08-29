@@ -48,7 +48,7 @@ Detailed contemporaneous wardrobe coverage and performance imagery identify Bad 
 - [Vogue: Bad Bunny's 2026 Super Bowl outfit](https://www.vogue.com/article/bad-bunny-super-bowl-2026-outfit-halftime-show)
 - [Sporting News: Bad Bunny's Super Bowl outfits](https://www.sportingnews.com/uk/nfl/news/bad-bunnys-super-bowl-60-outfits-halftime-show-performance/4f7c0b89896228923102564c)
 
-*Verified: 2026-08-16T09:06:22.038875*
+*Verified: 2026-08-29T14:35:05.547178*
 
 ---
 

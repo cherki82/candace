@@ -3,10 +3,11 @@ title: "I am never going to turn my back on Kanye West and will supp..."
 description: "\"I am never going to turn my back on Kanye West and will support him through every season.\" — Candace Owens"
 statement_id: "statement-4ea665b317ba"
 speaker: "Candace Owens"
-type: "opinion"
+type: "promise"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -32,8 +33,22 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript records Candace Owens saying that she would never turn her back on Ye and was there for him in all seasons. The primary episode and a separately published transcript reproduce that wording. As an open-ended promise, this verifies that Owens made the commitment as of the episode date; lifetime fulfillment cannot yet be evaluated.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Candace Owens: EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](https://www.youtube.com/watch?v=A39g5oqB_eM)
+- [Podscripts: EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 Transcript and Discussion](https://podscripts.co/podcasts/candace/exclusive-leaked-tpusa-audio-candace-ep-296)
+
+*Verified: 2026-08-29T09:33:32.551029*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Promise | **Verifiable:** Yes

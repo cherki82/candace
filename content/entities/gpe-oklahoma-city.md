@@ -17,8 +17,8 @@ _Type: Places_
 Source: [City of Oklahoma City](https://www.okc.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-oklahoma-city-t-00-48-04">2026-01-20 · 00:48:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-oklahoma-city-t-00-48-04">2026-01-20 · 00:48:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-oklahoma-city-t-00-48-04">2026-01-20 · 00:48:23</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-oklahoma-city-t-00-48-04">2026-01-20 · 00:48:23</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -50,7 +50,7 @@ Source: [City of Oklahoma City](https://www.okc.gov/)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:48:31](/episodes/ep-9naMwS0kMBE.md#ent-gpe-oklahoma-city-t-00-48-04)**
+**[00:48:23](/episodes/ep-9naMwS0kMBE.md#ent-gpe-oklahoma-city-t-00-48-04)**
 > "you know, and Oklahoma City. And we just kept going over and over and over."
 
 </details>

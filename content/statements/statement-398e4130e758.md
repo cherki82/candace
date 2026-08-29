@@ -30,10 +30,10 @@ type: "factual_claim"
 ### 1. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:31:49](/episodes/ep-QdM9jLwjwLw.md#t-00-31-26) 
+**Timestamp:** [00:31:49](/episodes/ep-QdM9jLwjwLw.md#t-00-31-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1909);return false;">Play</a>
 
-> It's actually stunning to consider that when they opted to have the three-way call with the doctor, okay, when they hurried and called the surgeon because I did an episode and I was like, hey, something's really weird that you guys should know is that, you know, the bullet didn't go through. There was no blood in the back of Charlie (Charlie Kirk) and then Erika (Erika Kirk) and Andrew (Andrew Kolvet) got on the phone with the surgeon.
+> It's actually stunning to consider that when they opted to have the three-way call with the doctor, okay, when they hurried and called the surgeon because I did an episode and I was like, hey, something's really weird that you guys should know is that, you know, the bullet didn't go through. There was no blood in the back of Charlie (Charlie Kirk) and then Erika (Erika Kirk) and Andrew (Andrew Kolvet) got on the phone with the surgeon. ... That was on the day of Charlie (Charlie Kirk)'s actual funeral mass.
 
 ### 2. Here’s Why It’s Time For The Police To Question Erika Kirk… ...
 

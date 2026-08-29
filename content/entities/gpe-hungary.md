@@ -70,7 +70,7 @@ Source: [About Hungary](https://abouthungary.hu/)
 **[00:48:42](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hungary-t-00-48-39)**
 > "...man-era Britain but filmed in Hungary involving Italian bulls meant to be from Spain."
 
-**[00:55:57](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hungary-t-00-55-17)**
+**[00:55:50](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hungary-t-00-55-50)**
 > "...hat you had a mental break in Hungary."
 
 </details>
@@ -98,7 +98,7 @@ _No relationships extracted yet._
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
 
-- [00:55:57](/episodes/ep-QdM9jLwjwLw.md#t-00-55-17) (Claim) **Candace Owens**: ["Jeremy Boreing admitted to me that he had a mental breakdown in Hungar..."](/statements/statement-db0eae515314.md)
+- [00:55:50](/episodes/ep-QdM9jLwjwLw.md#t-00-55-50) (Claim) **Candace Owens**: ["Jeremy Boreing admitted to me that he had a mental breakdown in Hungar..."](/statements/statement-db0eae515314.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>

@@ -25,23 +25,13 @@ veracity: "mixed"
 - [Australia](/entities/gpe-australia.md) (gpe)
 - [YouTube](/entities/org-youtube.md) (org)
 
-## Appearances (2)
-
-### 1. DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286
+## Source
 
 **Episode:** [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md)
 **Timestamp:** [00:52:20](/episodes/ep-zSKrxIUMNqw.md#t-00-51-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3140);return false;">Play</a>
 
 > banned from Australia, having our YouTube channel demonetized, people calling our sponsors.
-
-### 2. Candace x Bassem Youssef | Candace Ep 298
-
-**Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
-**Timestamp:** [00:58:59](/episodes/ep-xjzb_t5Tk9o.md#t-00-58-54) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3539);return false;">Play</a>
-
-> Please, I'm banned from Australia.
 
 ## Verification
 

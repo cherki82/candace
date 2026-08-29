@@ -23,7 +23,7 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -76,7 +76,29 @@ Source: [About Vanity Fair](https://www.vanityfair.com/info/about-vanity-fair)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Interviewed (1)</summary>
+
+- **[Kanye West](/entities/person-kanye-west.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:06](/episodes/ep-A39g5oqB_eM.md#t-00-43-34): “Kanye (Kanye West)'s apology also sat down with Vanity Fair or answered questions for Vanity Fair about this apology,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Kanye West](/entities/person-kanye-west.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:06](/episodes/ep-A39g5oqB_eM.md#t-00-43-34): “Kanye (Kanye West)'s apology also sat down with Vanity Fair or answered questions for Vanity Fair about this apology,”
+
+</details>
+
+</details>
 
 </details>
 

@@ -33,7 +33,7 @@ type: "accusation"
 **Timestamp:** [00:47:30](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2850);return false;">Play</a>
 
-> endorsements above all else brand Beckham comes first family love is decided by how much you post on social media or how quickly you drop everything to show up and post for a family photo even if it's at the expense of our professional obligations we have gone out of our way for years to show up and to support at every fashion show every party and every press activity to show our perfect family but the one time that my wife asked for my mom's support to save displaced dogs
+> Family values public promotion and endorsements above all else. Brand Beckham comes first. Family love is decided by how much you post on social media or how quickly you drop everything to show up and post for a family photo, even if it's at the expense of our professional obligations.
 
 ## Verification
 

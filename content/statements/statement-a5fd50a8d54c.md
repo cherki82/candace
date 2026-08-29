@@ -49,7 +49,7 @@ A scholarly legal-history article reproduces and cites the 1985 Thomas Martin me
 
 - [University of St. Thomas Law Journal: Operation Sojourner](https://lawudc.elsevierpure.com/ws/portalfiles/portal/39718813/U.%20St.%20Thomas%20L.J..pdf)
 
-*Verified: 2026-08-16T09:05:00.768064*
+*Verified: 2026-08-29T14:35:05.547210*
 
 ---
 

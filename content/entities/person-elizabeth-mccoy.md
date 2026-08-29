@@ -43,7 +43,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-25" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-18-49" style="--pulse-height:75%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-elizabeth-mccoy-t-01-08-36" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-06-01" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-elizabeth-mccoy-t-00-27-33" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-elizabeth-mccoy-t-00-02-54" style="--pulse-height:25%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26" style="--pulse-height:25%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
@@ -68,7 +68,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-25) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-18-49) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-elizabeth-mccoy-t-01-08-36) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-06-01) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-elizabeth-mccoy-t-00-27-33) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-elizabeth-mccoy-t-00-02-54) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#t-00-13-26) | 1 |
@@ -210,8 +210,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[01:06:01](/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44)**
-> "by conspiracy Elizabeth McCoy"
+**[01:06:01](/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-06-01)**
+> "Yeah, it's either—we're so—I do think you get, like, stupid rich. You know what I mean? You ever seen something like, she's stupid rich? Like, she's got so much money. Nicola Peltz is stupid rich, right? They don't know what to do. It's like it's pouring in, it's never going away, and so we're just going to inconvenience the rest of you. That's one option. Or, you know, by conspiracy, Elizabeth McCoy, she's coming up in the ranks. She's just in the ear like, yeah, send the cease and desist. Okay, that's a good idea."
 
 </details>
 

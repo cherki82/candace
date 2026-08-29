@@ -52,7 +52,7 @@ The episode shows search-result remnants attributed to LinkedIn and ZoomInfo. Th
 - [DHS: Southwest Border Task Force roster](https://www.dhs.gov/xlibrary/assets/hsac-southwest-border-task-force.pdf)
 - [Candace episode page: Halftime Wars](https://pod.wave.co/podcast/candace-cc79581b-6fe8-428e-ac65-6f1bc0d005e4/halftime-wars-tpusa-vs-the-nfl-candace-ep-304)
 
-*Verified: 2026-08-16T09:05:00.506063*
+*Verified: 2026-08-29T14:35:05.547208*
 
 ---
 

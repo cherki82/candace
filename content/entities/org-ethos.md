@@ -1,6 +1,6 @@
 ---
 title: "Ethos"
-description: "Ethos (Organizations) - 49 mentions"
+description: "Ethos (Organizations) - 53 mentions"
 id: "org-ethos"
 type: "ORG"
 aliases:
@@ -23,8 +23,8 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-ethos-t-00-46-15">2026-03-23 · 00:46:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-ethos-t-00-57-37">2026-08-17 · 00:57:37</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-ethos-t-00-46-15" style="--pulse-height:50%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 3 mentions" title="2026-03-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-ethos-t-01-10-06" style="--pulse-height:67%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 4 mentions" title="2026-04-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-ethos-t-00-50-52" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-ethos-t-00-44-24" style="--pulse-height:67%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 4 mentions" title="2026-06-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-ethos-t-00-29-19" style="--pulse-height:83%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 5 mentions" title="2026-06-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-ethos-t-00-50-10" style="--pulse-height:50%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 3 mentions" title="2026-06-23 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-ethos-t-01-12-33" style="--pulse-height:50%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
@@ -55,6 +56,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-ethos-t-00-46-15) | 3 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-ethos-t-01-10-06) | 4 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-ethos-t-00-50-52) | 3 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-ethos-t-00-44-24) | 4 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-ethos-t-00-29-19) | 5 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-ethos-t-00-50-10) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-ethos-t-01-12-33) | 3 |
@@ -71,7 +73,7 @@ Source: [About Ethos](https://www.ethos.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (6 mentions)</summary>
@@ -232,6 +234,23 @@ Source: [About Ethos](https://www.ethos.com/about/)
 
 **[00:30:27](/episodes/ep-3QJqtW_NOSI.md#ent-org-ethos-t-00-30-04)**
 > "Get your free quote at ethos.com slash candace. Again, that's ethos.com slash ..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4 mentions)</summary>
+
+**[00:44:24](/episodes/ep-5NQyGuRYbU8.md#ent-org-ethos-t-00-44-24)**
+> "That's why I love Ethos because with Ethos, you can apply online in just minutes. There's no medical exams, no waiting rooms."
+
+**[00:44:30](/episodes/ep-5NQyGuRYbU8.md#ent-org-ethos-t-00-44-24)**
+> "...ally stands out to me is that Ethos helps match you with coverage that actually fits ..."
+
+**[00:44:44](/episodes/ep-5NQyGuRYbU8.md#ent-org-ethos-t-00-44-24)**
+> "...y with life insurance through Ethos."
+
+**[00:44:53](/episodes/ep-5NQyGuRYbU8.md#ent-org-ethos-t-00-44-24)**
+> "...ou can get your free quote at ethos.com slash Candace. Again, that is E-T-H-O-S dot c..."
 
 </details>
 

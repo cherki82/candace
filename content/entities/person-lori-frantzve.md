@@ -37,7 +37,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-53" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-lori-frantzve-t-00-10-47" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-22" style="--pulse-height:15%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 9 mentions" title="2026-01-22 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-40" style="--pulse-height:15%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 9 mentions" title="2026-01-22 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-lori-frantzve-t-00-21-11" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-lori-frantzve-t-00-30-24" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-lori-frantzve-t-00-20-02" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
@@ -71,7 +71,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-53) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-lori-frantzve-t-00-10-47) | 4 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-22) | 9 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-40) | 9 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-lori-frantzve-t-00-21-11) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-lori-frantzve-t-00-30-24) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-lori-frantzve-t-00-20-02) | 1 |
@@ -882,32 +882,32 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (9 mentions)</summary>
 
-**[00:11:59](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-22)**
+**[00:12:01](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-40)**
 > "Lori Frantzve."
 
-**[00:12:01](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-22)**
-> "Lori Frantzve."
-
-**[00:13:08](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-12-41)**
+**[00:13:08](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-12-55)**
 > "... not a bar to entry for Lori (Lori Frantzve) and Larry (Larry Guinta) to pursue a business wi..."
 
-**[00:13:56](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-13-21)**
+**[00:13:56](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-13-40)**
 > "this is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Just..."
 
-**[00:14:14](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-14-05)**
+**[00:14:11](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-14-11)**
 > "L-O-R-I-N rather than Lori (Lori Frantzve),"
 
-**[00:15:15](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-14-47)**
+**[00:15:11](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-14-57)**
 > "...d be right next door to Lori (Lori Frantzve) and Larry (Larry Guinta)'s Spirit Tech,"
 
-**[00:16:20](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-16-17)**
+**[00:16:12](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-16-12)**
 > "...arry (Larry Guinta) and Lori (Lori Frantzve) and the other two decided that for this business..."
 
-**[00:18:18](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-17-43)**
+**[00:18:11](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-18-02)**
 > "that also back when Lori Frantzve formed Eurotech,"
 
-**[00:15:32](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-15-32)**
+**[00:15:30](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-14-57)**
 > "...filing of Desert Tech is that Lorin Frantzve is listed as a 20% stakeholder in the business."
+
+**[00:11:52](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-40)**
+> "... to, it was not her directly, Lori Frantzve."
 
 </details>
 
@@ -1100,7 +1100,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - **[United States Department of Justice](/entities/org-united-states-department-of-justice.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21): “This is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Justice. That's what she moved to Arizona for.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-40): “This is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Justice. That's what she moved to Arizona for.”
 
 </details>
 
@@ -1145,7 +1145,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - **[Larry Guinta](/entities/person-larry-guinta.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32): “Lorin Frantzve is listed as a 20% stakeholder in the business. Larry Guinta, her husband, is also listed as a stakeholder and as the business's registered agent.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-57): “Lorin Frantzve is listed as a 20% stakeholder in the business. Larry Guinta, her husband, is also listed as a stakeholder and as the business's registered agent.”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:07:39](/episodes/ep-VMNWMXX1vO8.md#t-00-07-39): “Lori (Lori Frantzve) presenting on the House floor with her second husband, Larry Guinta, actually third husband, Larry Guinta”
 
 </details>
@@ -1182,7 +1182,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47): “The business that they filed is called Desert Spirit Tech, LLC ... Lorin Frantzve is listed as a 20% stakeholder in the business.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-57): “The business that they filed is called Desert Spirit Tech, LLC ... Lorin Frantzve is listed as a 20% stakeholder in the business.”
 
 </details>
 
@@ -1199,10 +1199,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Parent Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-40): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:40](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “And these question marks are really regarding her mother, Lori Frantzve.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:27](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Lori (Erika Kirk's mother; surname unverified) is Erica (Erika Kirk)'s real mother.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:17:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erika Kirk has learned a lot from her mother, Lori Frantzve.”
@@ -1217,6 +1217,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:46](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “Turning Point Action actually built a backdoor. It has connections to Erika's mother. ... And if it was turning point action, then there would be a direct tie to Lori Frantzve.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:18](/episodes/ep-7FS1tUeSfdE.md#t-00-17-01): “Erika Kirk's mom.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:45:50](/episodes/ep-9CuC1yf8-PU.md#t-00-45-23): “trauma, abuse, stressful experiences. I don't love the relationship she has with her mother. I find her mother, there's just something about Lori (Lori Frantzve), I'll tell you that much.”
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:31](/episodes/ep-DYD_QHMPwqM.md#t-00-30-24): “Erika Kirk was not with her mother on September 10th. I will say that I do not believe that Erika Kirk was with Lori Frantzve on September 10th.”
 
 </details>
 
@@ -1228,14 +1229,14 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - **[Lyle Reams](/entities/person-lyle-reams.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06): “Guinta is Erika (Erika Kirk)'s stepfather, and they have a repeat business partner, a repeat business couple, Shelley and Lyle Reams, meaning they formed businesses with these people.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:01](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-40): “Guinta is Erika (Erika Kirk)'s stepfather, and they have a repeat business partner, a repeat business couple, Shelly and Lyle Reams, meaning they formed businesses with these people.”
 
 </details>
 
 - **[Shelly M. Reams](/entities/person-shelly-reams.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06): “Guinta is Erika (Erika Kirk)'s stepfather, and they have a repeat business partner, a repeat business couple, Shelley and Lyle Reams, meaning they formed businesses with these people.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:01](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-40): “Guinta is Erika (Erika Kirk)'s stepfather, and they have a repeat business partner, a repeat business couple, Shelly and Lyle Reams, meaning they formed businesses with these people.”
 
 </details>
 
@@ -1284,10 +1285,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** child of this
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-40): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:40](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “And these question marks are really regarding her mother, Lori Frantzve.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:27](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Lori (Erika Kirk's mother; surname unverified) is Erica (Erika Kirk)'s real mother.”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:17:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erika Kirk has learned a lot from her mother, Lori Frantzve.”
@@ -1302,6 +1303,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:46](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “Turning Point Action actually built a backdoor. It has connections to Erika's mother. ... And if it was turning point action, then there would be a direct tie to Lori Frantzve.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:18](/episodes/ep-7FS1tUeSfdE.md#t-00-17-01): “Erika Kirk's mom.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:45:50](/episodes/ep-9CuC1yf8-PU.md#t-00-45-23): “trauma, abuse, stressful experiences. I don't love the relationship she has with her mother. I find her mother, there's just something about Lori (Lori Frantzve), I'll tell you that much.”
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:31](/episodes/ep-DYD_QHMPwqM.md#t-00-30-24): “Erika Kirk was not with her mother on September 10th. I will say that I do not believe that Erika Kirk was with Lori Frantzve on September 10th.”
 
 </details>
 
@@ -1334,7 +1336,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - **[United States Department of Justice](/entities/org-united-states-department-of-justice.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21): “This is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Justice. That's what she moved to Arizona for.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-40): “This is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Justice. That's what she moved to Arizona for.”
 
 </details>
 
@@ -1427,7 +1429,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)** owned by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-47): “The business that they filed is called Desert Spirit Tech, LLC ... Lorin Frantzve is listed as a 20% stakeholder in the business.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:15:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-57): “The business that they filed is called Desert Spirit Tech, LLC ... Lorin Frantzve is listed as a 20% stakeholder in the business.”
 
 </details>
 
@@ -1730,7 +1732,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [00:32:02](/episodes/ep-ZAsV0fHGBiM.md#t-00-31-35) (Accusation) **Candace Owens**: ["Lori Frantzve's family has a history of breaking the law and committin..."](/statements/statement-79d2a319b9ad.md)
   - Also about: [Loretta Abbas](/entities/person-loretta-abbas.md), [Mason Abbas](/entities/person-mason-abbas.md)
 
-- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) (Claim) **Candace Owens**: ["Erika Kirk was living in Arizona before her parents divorced in 1998, ..."](/statements/statement-284a8c2d9ea5.md)
+- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) (Claim) **Candace Owens**: ["After attending daycare in Cincinnati in 1992, Erika Kirk moved to Ari..."](/statements/statement-284a8c2d9ea5.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Arizona](/entities/gpe-arizona.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
 
 </details>
@@ -1792,7 +1794,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [00:27:11](/episodes/ep-QRS_hR7NXaQ.md#t-00-26-37) (Claim) **Candace Owens**: ["Lori Frantzve has Lyme disease, and Charlie Kirk had told Candace Owen..."](/statements/statement-a7672e8353a0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Europe](/entities/gpe-europe.md)
 
-- [00:28:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-27-58) (Claim) **Candace Owens**: ["On September 8, Charlie Kirk took Lori Frantzve to a clinic for Lyme-d..."](/statements/statement-68103e28f508.md)
+- [00:28:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-27-58) (Claim) **Candace Owens**: ["Candace Owens said she had learned, and believed it accurate, that on ..."](/statements/statement-68103e28f508.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:29:32](/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18) (Claim) **Candace Owens**: ["Charlie Kirk appeared from his home studio on September 8, did not go ..."](/statements/statement-02ee1c00b0fd.md)
@@ -1800,7 +1802,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 - [00:30:25](/episodes/ep-QRS_hR7NXaQ.md#t-00-30-01) (Claim) **Candace Owens**: ["Accounting for travel and a one-to-two-hour treatment, Lori Frantzve's..."](/statements/statement-e38c2d6f54c4.md)
 
-- [00:31:42](/episodes/ep-QRS_hR7NXaQ.md#t-00-31-42) (Accusation) **Candace Owens**: ["A fan saw Erika Kirk at a football game after Candace Owens had been t..."](/statements/statement-cbba92e845f2.md)
+- [00:31:42](/episodes/ep-QRS_hR7NXaQ.md#t-00-31-42) (Accusation) **Candace Owens** (via paraphrase): ["A fan saw Erika Kirk at a football game after Candace Owens had been t..."](/statements/statement-cbba92e845f2.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:32:19](/episodes/ep-QRS_hR7NXaQ.md#t-00-32-19) (Accusation) **Candace Owens**: ["I think we were being emotionally manipulated not to ask questions abo..."](/statements/statement-0d3fe45b5277.md)
@@ -1811,16 +1813,16 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (4)</summary>
 
-- [00:13:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41) (Claim) **Candace Owens**: ["In 2017, Lori Frantzve and Larry Guinta formed Desert Spirit Tek with ..."](/statements/statement-f03ca85f4493.md)
+- [00:13:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55) (Claim) **Candace Owens**: ["Owens said Lyle Reams's prior indictment apparently did not prevent Lo..."](/statements/statement-f03ca85f4493.md)
   - Also about: [Larry Guinta](/entities/person-larry-guinta.md), [Lyle Reams](/entities/person-lyle-reams.md), [Shelly M. Reams](/entities/person-shelly-reams.md)
 
-- [00:15:32](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32) (Citation) **Candace Owens**: ["Lorin Frantzve was listed as a 20% stakeholder in Desert Spirit Tek; L..."](/statements/statement-c68a49b165e9.md)
+- [00:15:32](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-57) (Citation) **Candace Owens**: ["Lorin Frantzve was listed as a 20% stakeholder in Desert Spirit Tek; L..."](/statements/statement-c68a49b165e9.md)
   - Also about: [Larry Guinta](/entities/person-larry-guinta.md), [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)
 
-- [00:16:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-17) (Citation) **Candace Owens**: ["Desert Spirit Tek's required public notice was published through Arizo..."](/statements/statement-7dccfb54b85d.md)
+- [00:16:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-12) (Citation) **Candace Owens**: ["Desert Spirit Tek's required public notice was published through Arizo..."](/statements/statement-7dccfb54b85d.md)
   - Also about: [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md), [Arizona Chinese News](/entities/org-arizona-chinese-news.md), [Larry Guinta](/entities/person-larry-guinta.md)
 
-- [00:18:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-17-43) (Promise) **Candace Owens**: ["Candace Owens promised to investigate Lori Frantzve's business history..."](/statements/statement-d1afc40959eb.md)
+- [00:18:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-18-02) (Promise) **Candace Owens**: ["Candace Owens promised to investigate Lori Frantzve's business history..."](/statements/statement-d1afc40959eb.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

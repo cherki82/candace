@@ -16,8 +16,8 @@ _Type: Organizations_
 Source: [CNBC About](https://www.cnbc.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnbc-t-00-35-23">2026-01-29 · 00:35:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnbc-t-00-35-23">2026-01-29 · 00:35:33</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnbc-t-00-35-23">2026-01-29 · 00:35:32</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnbc-t-00-35-23">2026-01-29 · 00:35:32</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -49,7 +49,7 @@ Source: [CNBC About](https://www.cnbc.com/about/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:35:33](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnbc-t-00-35-23)**
+**[00:35:32](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnbc-t-00-35-23)**
 > "Fox News, CNBC"
 
 </details>

@@ -35,7 +35,7 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 <p>Highest activity: <a href="/episodes/ep-SubDoZWHARo.md#ent-org-masa-chips-t-00-35-20">Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-26" style="--pulse-height:75%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-47" style="--pulse-height:75%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-44" style="--pulse-height:75%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-masa-chips-t-00-25-37" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-28-54" style="--pulse-height:75%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-masa-chips-t-00-35-20" style="--pulse-height:100%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 4 mentions" title="2026-04-15 · 4 mentions"><span></span></a>
@@ -45,7 +45,7 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-masa-chips-t-00-44-26) | 3 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-47) | 3 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-44) | 3 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-masa-chips-t-00-25-37) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-masa-chips-t-00-28-54) | 3 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-masa-chips-t-00-35-20) | 4 |
@@ -103,13 +103,13 @@ Source: [MASA Chips — About](https://www.masachips.com/pages/about)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (3 mentions)</summary>
 
-**[00:35:51](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-47)**
+**[00:35:51](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-44)**
 > "...o want to tell you guys about Masa chips."
 
-**[00:36:24](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-47)**
+**[00:36:20](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-35-44)**
 > "Snacking on masa chips is nothing like eating regular chips with masa. Y..."
 
-**[00:36:40](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-36-30)**
+**[00:36:39](/episodes/ep-QdM9jLwjwLw.md#ent-org-masa-chips-t-00-36-29)**
 > "My favorite flavors of masa chips are their habanero and the original flavor as wel..."
 
 </details>

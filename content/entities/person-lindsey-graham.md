@@ -1,6 +1,6 @@
 ---
 title: "Lindsey Graham"
-description: "Lindsey Graham (People) - 35 mentions"
+description: "Lindsey Graham (People) - 36 mentions"
 id: "person-lindsey-graham"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-00-46">2025-11-03 · 00:01:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-person-lindsey-graham-t-00-35-35">2026-07-27 · 00:35:56</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-lindsey-graham-t-00-57-39" style="--pulse-height:12%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-lindsey-graham-t-00-13-58" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-43-36" style="--pulse-height:75%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 6 mentions" title="2026-03-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-lindsey-graham-t-00-50-03" style="--pulse-height:12%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-lindsey-graham-t-00-53-34" style="--pulse-height:12%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-lindsey-graham-t-00-50-21" style="--pulse-height:12%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-lindsey-graham-t-00-35-08" style="--pulse-height:38%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
@@ -59,6 +60,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-lindsey-graham-t-00-57-39) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-lindsey-graham-t-00-13-58) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-43-36) | 6 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-lindsey-graham-t-00-50-03) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-lindsey-graham-t-00-53-34) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-lindsey-graham-t-00-50-21) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-lindsey-graham-t-00-35-08) | 3 |
@@ -69,7 +71,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
 
 <details>
 <summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (3 mentions)</summary>
@@ -98,6 +100,14 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 
 **[00:53:57](/episodes/ep-X3VKJVJ7cN4.md#ent-person-lindsey-graham-t-00-53-34)**
 > "...had nicer things to say about Lindsey Graham, more to say about Lindsey Graham, I suppose, tha..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:50:24](/episodes/ep-5NQyGuRYbU8.md#ent-person-lindsey-graham-t-00-50-03)**
+> "So I'll give you a time frame. Like I will be a dictator that retires. Of course, and I'm willing to hand over the power to another reasonable dictator, but I'm not dealing with Lindsey Graham in Congress."
 
 </details>
 
@@ -160,7 +170,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[01:10:48](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lindsey-graham-t-01-10-43)**
+**[01:10:43](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lindsey-graham-t-01-10-43)**
 > "Lindsey Graham"
 
 **[01:10:50](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lindsey-graham-t-01-10-43)**
@@ -366,13 +376,21 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lindsey Graham (6)</strong></summary>
+<summary><strong class="section-title">Statements about Lindsey Graham (7)</strong></summary>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>
 
 - [00:44:31](/episodes/ep-7ERqbYElOfs.md#t-00-44-18) (Accusation) **Candace Owens**: ["Lindsey Graham said he only stopped by Walt Disney World, but TMZ show..."](/statements/statement-7aaf31aed2a8.md)
   - Also about: [Walt Disney World Resort](/entities/org-walt-disney-world-resort.md), [TMZ](/entities/org-tmz.md)
+
+</details>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+
+- [01:10:50](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43) (Accusation) **Candace Owens**: ["Candace Owens implied that Israel has a blackmail file on Lindsey Grah..."](/statements/statement-7a4a955214b1.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </details>
 

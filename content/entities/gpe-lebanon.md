@@ -1,6 +1,6 @@
 ---
 title: "Lebanon"
-description: "Lebanon (Places) - 23 mentions"
+description: "Lebanon (Places) - 25 mentions"
 id: "gpe-lebanon"
 type: "GPE"
 aliases:
@@ -21,12 +21,12 @@ _Type: Places_
 Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27">2026-01-20 · 00:20:29</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27">2026-01-20 · 00:20:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51">2026-08-03 · 00:48:51</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,7 +36,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <p>Highest activity: <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-06-54">Candace Owens x Ana Kasparian</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19" style="--pulse-height:17%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-lebanon-t-00-35-55" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-lebanon-t-00-05-17" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-lebanon-t-00-05-43" style="--pulse-height:17%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
@@ -45,6 +45,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-lebanon-t-00-33-38" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-43-55" style="--pulse-height:33%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-06-54" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 6 mentions" title="2026-05-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-lebanon-t-00-12-01" style="--pulse-height:50%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-lebanon-t-00-01-16" style="--pulse-height:17%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-lebanon-t-00-53-29" style="--pulse-height:17%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51" style="--pulse-height:17%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
@@ -54,7 +55,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-lebanon-t-00-35-55) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-lebanon-t-00-05-17) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-lebanon-t-00-05-43) | 1 |
@@ -63,6 +64,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-lebanon-t-00-33-38) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-lebanon-t-01-43-55) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-06-54) | 6 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-lebanon-t-00-12-01) | 3 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-lebanon-t-00-01-16) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-lebanon-t-00-53-29) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51) | 1 |
@@ -73,7 +75,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -96,6 +98,20 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 
 **[00:01:16](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-lebanon-t-00-01-16)**
 > "But it was. It's very interesting to realize all of these connections between potential connections, I should say, between Butler, Trump (Donald J. Trump)'s nonchalant approach to investigating Butler, which is like not at all the Charlie Kirk assassination, potentially the beeper and pager exploding in Lebanon and Syria."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3 mentions)</summary>
+
+**[00:12:17](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-lebanon-t-00-12-01)**
+> "Anyway, let's hit fast forward again. Just two months after the Butler shooting, Corey Comperatore loses his life, and then a never-before-seen terror attack is executed with precision, which involves PETN explosives. On September 17th and on September 18th of 2024, there was a massive series of pager explosions across Lebanon and Syria, wounding more than three..."
+
+**[00:12:59](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-lebanon-t-00-12-59)**
+> "...s playing at home in southern Lebanon when an unfamiliar noise rang out from his dad's ..."
+
+**[00:13:22](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-lebanon-t-00-13-22)**
+> "In another home in southern Lebanon, Sarah Jafal had no time to respond after picking..."
 
 </details>
 
@@ -180,7 +196,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2 mentions)</summary>
 
 **[00:36:25](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-lebanon-t-00-35-55)**
-> "...these relics like in Baalbek, Lebanon."
+> "Now, I want to show you this. I don't know if you have pulled this in yet, Skylar (show producer; surname unverified), some of these relics, like in Baalbek, Lebanon."
 
 **[00:36:37](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-lebanon-t-00-36-37)**
 > "...Israel is trying to take over Lebanon right now that won't be here for a very long time..."
@@ -188,12 +204,9 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:27:48](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19)**
-> "1982 in Lebanon"
-
-**[01:27:42](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19)**
+**[01:27:40](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-lebanon-t-01-27-19)**
 > "...s for American troops 1982 in Lebanon"
 
 </details>
@@ -201,7 +214,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:20:29](/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27)**
+**[00:20:27](/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27)**
 > "... President Gemayel of Beirut, Lebanon at the time of the bombing of the Marine barracks..."
 
 </details>
@@ -215,9 +228,10 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <summary>Attacked By (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace Owens x Ana Kasparian @ 00:37:06](/episodes/ep-SKNJPul29zU.md#t-00-36-49): “You got to understand why Hezbollah exists in the first place. Hezbollah formed in the 1980s after Israel invaded southern Lebanon.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:12:17](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01): “there was a massive series of pager explosions across Lebanon and Syria ... it was Israel Israel.”
 
 </details>
 
@@ -239,9 +253,10 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <summary>Referenced By (2)</summary>
 
 - **[Israel](/entities/gpe-israel.md)** attacked this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace Owens x Ana Kasparian @ 00:37:06](/episodes/ep-SKNJPul29zU.md#t-00-36-49): “You got to understand why Hezbollah exists in the first place. Hezbollah formed in the 1980s after Israel invaded southern Lebanon.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:12:17](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01): “there was a massive series of pager explosions across Lebanon and Syria ... it was Israel Israel.”
 
 </details>
 
@@ -257,7 +272,24 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Lebanon (7)</strong></summary>
+<summary><strong class="section-title">Statements about Lebanon (11)</strong></summary>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4)</summary>
+
+- [00:12:17](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01) (Claim) **Candace Owens**: ["Candace Owens said the September 17-18, 2024 pager explosions across L..."](/statements/statement-4d44c111cb98.md)
+  - Also about: [Syria](/entities/gpe-syria.md), [PETN](/entities/concept-petn.md)
+
+- [00:13:54](/episodes/ep-5NQyGuRYbU8.md#t-00-13-54) (Claim) **Candace Owens**: ["Candace Owens said the pagers used in the September 2024 attack were r..."](/statements/statement-43958b992678.md)
+  - Also about: [PETN](/entities/concept-petn.md), [Hezbollah](/entities/org-hezbollah.md), [Syria](/entities/gpe-syria.md)
+
+- [00:14:21](/episodes/ep-5NQyGuRYbU8.md#t-00-14-21) (Claim) **Candace Owens**: ["Candace Owens said Israel carried out the September 2024 pager explosi..."](/statements/statement-ceac50e2b0c0.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Mossad](/entities/org-mossad.md), [Syria](/entities/gpe-syria.md)
+
+- [00:23:03](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31) (Accusation) **Candace Owens**: ["Candace Owens accused the United States of supplying Israel with white..."](/statements/statement-0d783c32b84b.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2)</summary>
@@ -297,7 +329,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
-- [00:06:34](/episodes/ep-DYD_QHMPwqM.md#t-00-06-23) (Claim) **Rob Skiba**: ["The Mount Hermon location is 33.33 degrees north and 33.33 degrees eas..."](/statements/statement-f77747a08c3e.md)
+- [00:06:34](/episodes/ep-DYD_QHMPwqM.md#t-00-06-23) (Claim) **Rob Skiba** (via quoted speech): ["The Mount Hermon location is 33.33 degrees north and 33.33 degrees eas..."](/statements/statement-f77747a08c3e.md)
   - Also about: [Paris meridian](/entities/concept-paris-meridian.md), [David Flynn](/entities/person-david-flynn.md)
 
 </details>

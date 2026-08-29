@@ -25,23 +25,13 @@ type: "accusation"
 - [Lee Trotter](/entities/person-lee-trotter.md) (person)
 - [HIPAA](/entities/law-hipaa.md) (law)
 
-## Appearances (2)
-
-### 1. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
+## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-02-52) 
+**Timestamp:** [00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-03-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(182);return false;">Play</a>
 
-> confirmed for a fact that she lied. She lied to my face, actually regarding the superman neck because she blamed that on Andrew Kolvet said that he went rogue that Dr. Lee Trotter also went rogue violated HIPAA that they hopped on the phone and did this without her consent or knowledge and on top of that Andrew (Andrew Kolvet) then sends out a tweet i'm i told you confirmed she the doctor did not violate HIPAA it was actually a three-way call
-
-### 2. Here’s Why It’s Time For The Police To Question Erika Kirk… ...
-
-**Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
-**Timestamp:** [00:13:34](/episodes/ep-ti5Fxrvegno.md#t-00-12-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(814);return false;">Play</a>
-
-> Erika (Erika Kirk) allegedly is the one who put forth this three-way call. She's on the call. There was no HIPAA violation here. And she is the one that suggested that Charlie (Charlie Kirk) has a Superman neck. ... Andrew (Andrew Kolvet) had said on X, too, "Superman neck," and we're led to believe for a very long time that that was referring to, I don't know, something the surgeon said, which she didn't.
+> confirmed for a fact that she lied. She lied to my face, actually regarding the superman neck because she blamed that on Andrew Kolvet said that he went rogue that Dr. Lee Trotter also went rogue violated HIPAA that they hopped on the phone and did this without her consent or knowledge and on top of that Andrew (Andrew Kolvet) then sends out a tweet i'm i told you confirmed she the doctor did not violate HIPAA it was actually a three-way call all. ... And the statement pertaining to Superman neck came from her. Andrew Kolvet in that regard was doing Erika (Erika Kirk)'s bidding.
 
 ## Verification
 

@@ -410,7 +410,7 @@ Source: [Kent Randall Frantzve genealogy record](https://gw.geneanet.org/tdowlin
 - [00:27:13](/episodes/ep-ZAsV0fHGBiM.md#t-00-26-39) (Citation) **Candace Owens**: ["Across two divorce documents there are four plausible marriage dates f..."](/statements/statement-18aacb0f9374.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md), [Marblehead, Massachusetts](/entities/gpe-marblehead-massachusetts.md)
 
-- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) (Claim) **Candace Owens**: ["Erika Kirk was living in Arizona before her parents divorced in 1998, ..."](/statements/statement-284a8c2d9ea5.md)
+- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) (Claim) **Candace Owens**: ["After attending daycare in Cincinnati in 1992, Erika Kirk moved to Ari..."](/statements/statement-284a8c2d9ea5.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Arizona](/entities/gpe-arizona.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
 
 </details>

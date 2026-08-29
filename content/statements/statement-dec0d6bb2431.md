@@ -1,6 +1,6 @@
 ---
-title: "Candace Owens withdrew her support from Donald Trump over hi..."
-description: "\"Candace Owens withdrew her support from Donald Trump over his treatment of the Epstein files, which she characterized as defending pedophiles.\" — Candace Owens"
+title: "Asked whether she was still 'Team Trump,' Candace Owens answ..."
+description: "\"Asked whether she was still 'Team Trump,' Candace Owens answered no and said she does not go halfway with defending pedophiles.\" — Candace Owens"
 statement_id: "statement-dec0d6bb2431"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Candace Owens withdrew her support from Donald Trump over his treatment of the Epstein files, which she characterized as defending pedophiles.
+> Asked whether she was still 'Team Trump,' Candace Owens answered no and said she does not go halfway with defending pedophiles.
 
 ## Attribution
 
@@ -21,7 +21,6 @@ type: "opinion"
 ## About
 
 - [Donald J. Trump](/entities/person-donald-trump.md) (person)
-- [Jeffrey Epstein](/entities/person-jeffrey-epstein.md) (person)
 
 ## Source
 
@@ -29,7 +28,7 @@ type: "opinion"
 **Timestamp:** [01:39:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(5948);return false;">Play</a>
 
-> like that was it that was like goodbye like look no i mean there is i do not go halfway with defending pedophiles goodbye goodbye yeah
+> Are ... you still team Trump (Donald J. Trump)? ... like that was it that was like goodbye like look no i mean there is i do not go halfway with defending pedophiles goodbye goodbye yeah
 
 ## Verification
 

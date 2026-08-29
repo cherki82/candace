@@ -11,11 +11,15 @@ object: "person-alex-clark"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Alex Clark](/entities/person-alex-clark)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
 - [00:50:38](/episodes/ep-1hcjQGgvxUY#t-00-50-38): _apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,_
+
+**[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
+
+- [00:48:15](/episodes/ep-5NQyGuRYbU8#t-00-48-15): _if your chihuahua happens to be named alex clark ... she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans_
 
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 

@@ -1,23 +1,32 @@
 ---
 title: "Diddy"
-description: "Diddy (People) - 13 mentions"
+description: "Diddy (People) - 14 mentions"
 id: "person-diddy"
 type: "PERSON"
 aliases:
   - "P. Diddy"
   - "Sean Combs"
   - "Puff Daddy"
+categories:
+  - "music industry"
+  - "Sean Combs legal proceedings"
 ---
 
 _Type: People_
 
 **Also known as:** P. Diddy, Sean Combs, Puff Daddy
 
+**Categories:** music industry, Sean Combs legal proceedings
+
+**Entity verification:** verified
+> Associated Press identifies Sean Combs by the stage name Diddy; this verifies the existing canonical display and Sean Combs alias used by the transcript context.
+Source: [Defense concedes Sean 'Diddy' Combs had violent outbursts, but say no federal crimes occurred | AP](https://apnews.com/article/3eed7dca61020818ab4e3cd842f2aab3)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28">2025-11-13 · 00:22:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-03-28">2026-06-10 · 00:03:55</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,6 +38,7 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09">Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28" style="--pulse-height:86%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 6 mentions" title="2025-11-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-diddy-t-00-21-38" style="--pulse-height:14%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 7 mentions" title="2026-06-10 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -36,6 +46,7 @@ _Type: People_
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28) | 6 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-diddy-t-00-21-38) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-02-09) | 7 |
 
 </details>
@@ -44,7 +55,7 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (7 mentions)</summary>
@@ -69,6 +80,14 @@ _Type: People_
 
 **[00:03:55](/episodes/ep-tXoI0TTKVrs.md#ent-person-diddy-t-00-03-28)**
 > "You know, despite all of Diddy's crimes, I got to say at the very least he did not..."
+
+</details>
+
+<details>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
+
+**[00:22:03](/episodes/ep-CEF7gQRWYCE.md#ent-person-diddy-t-00-21-38)**
+> "what was happening with Diddy and Cassie (Cassie Ventura)"
 
 </details>
 

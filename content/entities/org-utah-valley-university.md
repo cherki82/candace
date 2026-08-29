@@ -32,7 +32,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <div><span>Mentions</span><strong>242</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>53</strong></div>
-<div><span>Relationships</span><strong>22</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -1295,12 +1295,19 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Attended By (1)</summary>
+<summary>Attended By (2)</summary>
 
 - **[Mitchell Curtiss](/entities/person-mitchell-curtiss.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:21:06](/episodes/ep-Vu6Y24pqhZs.md#t-00-21-06): “and one of them had only just graduated from UVU I'm not kidding talk about beginner's luck I'm told Mitchell Curtiss of Pleasant Grove Police”
+
+</details>
+
+- **[Jack David Solomon](/entities/person-jack-david-solomon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39): “He graduated from what is today known as Utah Valley University.”
 
 </details>
 
@@ -1411,12 +1418,19 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Mitchell Curtiss](/entities/person-mitchell-curtiss.md)** attended this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:21:06](/episodes/ep-Vu6Y24pqhZs.md#t-00-21-06): “and one of them had only just graduated from UVU I'm not kidding talk about beginner's luck I'm told Mitchell Curtiss of Pleasant Grove Police”
+
+</details>
+
+- **[Jack David Solomon](/entities/person-jack-david-solomon.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39): “He graduated from what is today known as Utah Valley University.”
 
 </details>
 

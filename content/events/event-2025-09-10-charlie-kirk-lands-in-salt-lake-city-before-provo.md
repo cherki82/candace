@@ -12,7 +12,7 @@ time: "09:23"
 
 > Charlie Kirk lands in Salt Lake City before Provo event
 
-## Mentioned In (150 times)
+## Mentioned In (151 times)
 
 ### 1. Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | C...
 
@@ -1206,7 +1206,15 @@ time: "09:23"
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
 
-### 150. Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean Abo...
+### 150. Erika Cries…Again. A Mysterious Death In Pennsylvania Reigni...
+
+**Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
+**Timestamp:** [00:27:59](/episodes/ep-5NQyGuRYbU8.md#event-event-2025-09-10-charlie-kirk-lands-in-salt-lake-city-before-provo-t-00-27-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1679);return false;">▶️ Play</a>
+
+> he first went to Salt Lake City on the morning of the 10th
+
+### 151. Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean Abo...
 
 **Episode:** [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md)
 **Timestamp:** [00:12:05](/episodes/ep-X3VKJVJ7cN4.md#event-event-2025-09-10-charlie-kirk-lands-in-salt-lake-city-before-provo-t-00-11-36) 

@@ -22,7 +22,7 @@ Source: [About - Regis University](https://www.regis.edu/about/)
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -101,7 +101,29 @@ Source: [About - Regis University](https://www.regis.edu/about/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Attended By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:35:51](/episodes/ep-ti5Fxrvegno.md#t-00-35-20): “she's got so many universities she went to, is everything online beyond first semester of freshman year? Regis University, we have Loyola Marymount University. We've got Arizona State University. We've got Liberty University.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:35:51](/episodes/ep-ti5Fxrvegno.md#t-00-35-20): “she's got so many universities she went to, is everything online beyond first semester of freshman year? Regis University, we have Loyola Marymount University. We've got Arizona State University. We've got Liberty University.”
+
+</details>
+
+</details>
 
 </details>
 

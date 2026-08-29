@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1893 mentions"
+description: "United States (Places) - 1874 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -28,10 +28,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-00-37">2025-09-11 · 00:00:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38">2026-08-19 · 00:32:38</a></strong></div>
-<div><span>Episodes</span><strong>152</strong></div>
-<div><span>Mentions</span><strong>1,893</strong></div>
+<div><span>Episodes</span><strong>153</strong></div>
+<div><span>Mentions</span><strong>1,874</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>162</strong></div>
+<div><span>Statements about</span><strong>163</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -97,19 +97,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-united-states-t-00-05-32" style="--pulse-height:26%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 12 mentions" title="2026-01-16 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-united-states-t-00-15-45" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 15 mentions" title="2026-01-16 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-united-states-t-00-01-15" style="--pulse-height:43%" aria-label="A Legal Turning Point? | Candace Ep 292: 20 mentions" title="2026-01-19 · 20 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-21-11" style="--pulse-height:35%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 16 mentions" title="2026-01-20 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-united-states-t-00-31-02" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-03-23" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-21-11" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 15 mentions" title="2026-01-20 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-united-states-t-00-30-52" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-03-19" style="--pulse-height:9%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-united-states-t-00-31-34" style="--pulse-height:52%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 24 mentions" title="2026-01-27 · 24 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05" style="--pulse-height:41%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 19 mentions" title="2026-01-28 · 19 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-11-06" style="--pulse-height:87%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 40 mentions" title="2026-01-29 · 40 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-11-06" style="--pulse-height:89%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 41 mentions" title="2026-01-29 · 41 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-united-states-t-00-10-19" style="--pulse-height:35%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 16 mentions" title="2026-01-30 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-united-states-t-00-00-00" style="--pulse-height:26%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 12 mentions" title="2026-02-02 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-united-states-t-00-19-00" style="--pulse-height:26%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 12 mentions" title="2026-02-03 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-united-states-t-00-33-50" style="--pulse-height:11%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 5 mentions" title="2026-02-04 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45" style="--pulse-height:65%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 30 mentions" title="2026-02-05 · 30 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45" style="--pulse-height:13%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 6 mentions" title="2026-02-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-united-states-t-00-02-52" style="--pulse-height:54%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 25 mentions" title="2026-02-09 · 25 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-united-states-t-00-01-30" style="--pulse-height:48%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 22 mentions" title="2026-02-10 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-united-states-t-00-01-30" style="--pulse-height:46%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 21 mentions" title="2026-02-10 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-united-states-t-00-26-18" style="--pulse-height:22%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 10 mentions" title="2026-02-11 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-54-02" style="--pulse-height:26%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 12 mentions" title="2026-02-13 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-united-states-t-00-08-32" style="--pulse-height:30%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 14 mentions" title="2026-02-25 · 14 mentions"><span></span></a>
@@ -163,6 +163,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-09-58" style="--pulse-height:13%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 6 mentions" title="2026-06-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-12-23" style="--pulse-height:43%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 20 mentions" title="2026-06-11 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-united-states-t-00-17-07" style="--pulse-height:11%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 5 mentions" title="2026-06-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-united-states-t-00-26-17" style="--pulse-height:13%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 6 mentions" title="2026-06-15 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-united-states-t-01-13-39" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-23-43" style="--pulse-height:13%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 6 mentions" title="2026-06-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-06-08" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 15 mentions" title="2026-06-18 · 15 mentions"><span></span></a>
@@ -254,19 +255,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-united-states-t-00-05-32) | 12 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-united-states-t-00-15-45) | 15 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-united-states-t-00-01-15) | 20 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-21-11) | 16 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-united-states-t-00-31-02) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-03-23) | 3 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-21-11) | 15 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-united-states-t-00-30-52) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-03-19) | 4 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-united-states-t-00-31-34) | 24 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05) | 19 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-11-06) | 40 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-11-06) | 41 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-united-states-t-00-10-19) | 16 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-united-states-t-00-00-00) | 12 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-united-states-t-00-19-00) | 12 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-united-states-t-00-33-50) | 5 |
-| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45) | 30 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45) | 6 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-united-states-t-00-02-52) | 25 |
-| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-united-states-t-00-01-30) | 22 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-united-states-t-00-01-30) | 21 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-united-states-t-00-26-18) | 10 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-united-states-t-00-54-02) | 12 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-united-states-t-00-08-32) | 14 |
@@ -320,6 +321,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-united-states-t-00-09-58) | 6 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-united-states-t-00-12-23) | 20 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-united-states-t-00-17-07) | 5 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-united-states-t-00-26-17) | 6 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-united-states-t-01-13-39) | 2 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-united-states-t-00-23-43) | 6 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-united-states-t-00-06-08) | 15 |
@@ -356,7 +358,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1893)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1874)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -911,6 +913,29 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:01:02](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-united-states-t-00-00-35)**
 > "That's got to be going on. The United States seems to be being run these days by a car filled with clowns."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (6 mentions)</summary>
+
+**[00:26:27](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-united-states-t-00-26-17)**
+> "Again, that's twc.health slash Candace and it's for U.S. USA residents only. I also want to remind you guys about Pure Talk because America does not stand for 250 years as a beacon of hope without the brave men and women willing to put their lives on the line to defend it."
+
+**[00:22:57](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-united-states-t-00-22-31)**
+> "...n, and I'd like to think that America had nothing to do with it, but, you know, I know ..."
+
+**[00:26:42](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-united-states-t-00-26-17)**
+> "...omers will raise $250,000 for America's warrior partnership by the end of July."
+
+**[00:27:03](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-united-states-t-00-26-17)**
+> "...tunity to round up to support America's Warrior Partnership and Pure Talk will match that..."
+
+**[00:31:38](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-united-states-t-00-31-27)**
+> "...s a tax-paying citizen of the United States of America, for some reason this deeply upset Bla..."
+
+**[00:25:58](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-united-states-t-00-25-40)**
+> "...o-access Rx parasite cleanse, USA compounded ivermectin and mebendazole. which para..."
 
 </details>
 
@@ -3085,10 +3110,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:37:57](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-united-states-t-00-36-41)**
 > "with Turning Point USA,"
 
-**[00:38:23](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-united-states-t-00-38-00)**
+**[00:38:23](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-united-states-t-00-38-09)**
 > "...tion to how people all across America felt,"
 
-**[00:45:29](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-united-states-t-00-38-00)**
+**[00:45:29](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-united-states-t-00-38-09)**
 > "...weird. The Secret Founding of America is what we are reading."
 
 **[00:51:32](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-united-states-t-00-51-23)**
@@ -3097,7 +3122,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (22 mentions)</summary>
+<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (21 mentions)</summary>
 
 **[00:01:57](/episodes/ep-ti5Fxrvegno.md#ent-gpe-united-states-t-00-01-30)**
 > "it's a child's program here in America"
@@ -3136,9 +3161,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...arlie Kirk's assassination by USA Today states that Erika Kirk worked as a real est..."
 
 **[00:28:27](/episodes/ep-ti5Fxrvegno.md#ent-gpe-united-states-t-00-24-29)**
-> "... for a job with Turning Point USA."
-
-**[00:28:30](/episodes/ep-ti5Fxrvegno.md#ent-gpe-united-states-t-00-24-29)**
 > "... for a job with Turning Point USA."
 
 **[00:30:32](/episodes/ep-ti5Fxrvegno.md#ent-gpe-united-states-t-00-24-29)**
@@ -3248,97 +3270,25 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (30 mentions)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (6 mentions)</summary>
 
 **[00:15:04](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "college campuses in America"
+> "...o do with college campuses in America full stop?"
 
 **[00:15:55](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-15-54)**
-> "France, Israel, the United States"
+> "the United States, this time it would be Egypt rather than Angola, ..."
 
 **[00:22:05](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-21-32)**
 > "GoldCo is celebrating America's 250th anniversary."
 
-**[00:02:31](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "was Turning Point USA."
-
-**[00:03:18](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "That Turning Point USA watches every episode of this podcast and that pe..."
-
-**[00:04:23](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "...ons director of Turning Point USA."
-
-**[00:06:37](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "...ere coming into Turning Point USA."
-
-**[00:12:26](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "... Justin Strife (Turning Point USA representative; surname spelling unverified) and ..."
-
-**[00:12:35](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "...Why did Justin (Turning Point USA representative; surname spelling unverified) try ..."
-
-**[00:12:40](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "Justin (Turning Point USA representative; surname spelling unverified),"
-
-**[00:12:42](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "Justin (Turning Point USA representative; surname spelling unverified)."
-
-**[00:13:29](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "... Justin Streif (Turning Point USA representative; surname spelling unverified)."
-
-**[00:13:36](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "Don Orico (Turning Point USA representative; full-name spelling unverified) of..."
-
-**[00:13:51](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-14-45)**
-> "... yet a donor to Turning Point USA. Why was he given so much priority?"
-
-**[00:16:41](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-15-54)**
-> "...offered to take Turning Point USA to the next level and that Charlie (Charlie Kirk)..."
-
-**[00:18:23](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-15-54)**
-> "...) going to take Turning Point USA to the next level in exchange for what?"
-
-**[00:23:59](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-21-32)**
-> "...d the scenes at Turning Point USA,"
-
-**[00:24:36](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-21-32)**
-> "...ons manager for Turning Point USA and I was a part of the recent kind of mass termi..."
-
-**[00:25:03](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-21-32)**
-> "...encompassing of Turning Point USA and Turning Point Action,"
-
-**[00:25:09](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-21-32)**
-> "... I did work for Turning Point USA."
-
 **[00:25:41](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-25-18)**
 > "In December, we obviously had America Fest here in Phoenix, Arizona, and that was nonst..."
 
-**[00:26:13](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-25-18)**
-> "...o is the CMO of Turning Point USA,"
-
-**[00:36:57](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-25-18)**
-> "...re doing and call Tax Network USA."
-
-**[00:37:06](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-25-18)**
-> "This is where Tax Network USA comes in with over 15 years in the business."
-
-**[00:38:47](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-25-18)**
-> "...ing billions to Turning Point USA Catholics?"
-
-**[00:39:44](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-25-18)**
-> "... Justin Strife (Turning Point USA representative; surname spelling unverified) know..."
-
-**[00:39:47](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-25-18)**
-> "Justin (Turning Point USA representative; surname spelling unverified) has ..."
-
-**[00:43:19](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-25-18)**
-> "... and feeling at Turning Point USA now you have to rely on lawyers and legal letters..."
+**[00:44:24](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-44-01)**
+> "U.S. flag poll guy writes,"
 
 **[00:45:02](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-44-39)**
 > "Cat Lady for America writes,"
-
-**[00:45:55](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-united-states-t-00-44-39)**
-> "...rites, 'Boycott Turning Point USA's halftime show.' I forgot they made the announce..."
 
 </details>
 
@@ -3498,7 +3448,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (40 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (41 mentions)</summary>
 
 **[00:05:09](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-11-06)**
 > "Turning Point USA"
@@ -3515,7 +3465,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:28:02](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-28-02)**
 > "...ord the left is using to slit America's throat"
 
-**[00:29:51](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-29-27)**
+**[00:29:27](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-29-27)**
 > "...d of arrived on the shores of America,"
 
 **[00:34:31](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-34-19)**
@@ -3554,7 +3504,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:48:38](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-48-38)**
 > "I promise you it is not America."
 
-**[00:49:42](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-49-20)**
+**[00:49:39](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-49-20)**
 > "if that's how many are in America now,"
 
 **[00:49:59](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-49-20)**
@@ -3563,13 +3513,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:53:41](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-53-24)**
 > "...nes and I come to here to the United States like it's true you don't have any red lines but y..."
 
-**[00:54:44](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-54-34)**
+**[00:54:34](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-54-34)**
 > "...nstall BBN Yahoo as president United States what will we actually"
 
-**[00:55:26](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-55-12)**
+**[00:55:21](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-55-12)**
 > "...ou know, we always hear about America sanctioning a country,"
 
-**[00:55:59](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-55-49)**
+**[00:55:57](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-55-49)**
 > "This is what happens when America sanctions a person in a foreign country."
 
 **[00:56:04](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-55-49)**
@@ -3587,13 +3537,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:58:00](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-57-32)**
 > "...on the most free spots in the United States, which is the universities."
 
-**[01:09:05](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-57-32)**
+**[01:09:02](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-57-32)**
 > "...racking him and Turning Point USA faith events was that the fake names, the real na..."
 
-**[01:10:09](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-09-52)**
+**[01:09:59](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-09-52)**
 > "live in America,"
 
-**[01:10:40](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-10-37)**
+**[01:10:37](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-10-37)**
 > "And that's how America was taken over,"
 
 **[01:15:00](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-15-00)**
@@ -3602,7 +3552,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[01:15:34](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-15-22)**
 > "and I say America is not poor the problem with America that it lack..."
 
-**[01:22:17](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-22-12)**
+**[01:22:12](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-22-12)**
 > "U.S. Liberty."
 
 **[01:28:32](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-28-32)**
@@ -3615,10 +3565,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "And black America was like,"
 
 **[01:36:54](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-36-54)**
-> "think ever America has been a psychological experiment."
+> "think ever America has been a psychological experiment. And if we ca..."
 
 **[01:44:43](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-01-44-43)**
 > "...trol is not doing podcasts in america"
+
+**[00:08:06](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-united-states-t-00-11-06)**
+> "...ke little spy nodes in in the US malls"
 
 </details>
 
@@ -3628,34 +3581,34 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:35:37](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "Nimi skincare is made here in America and built around that same idea of discipline over trends."
 
-**[00:39:48](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-39-48)**
+**[00:39:47](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-39-47)**
 > "She was during the BLM movement in America. Some of the content that we made when we first brought Candace (Candace Owens) on was focused on that topic,"
 
 **[00:00:21](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "...n first over at Turning Point USA before Charlie (Charlie Kirk)'s memorial in a cor..."
 
-**[00:08:47](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
+**[00:08:42](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "...h. This is when Turning Point USA employees are told that Erika (Erika Kirk) is goi..."
 
-**[00:09:41](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
+**[00:09:37](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "...essly to ensure Turning Point USA was built to survive even the greatest test."
 
 **[00:09:48](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "...f the board for Turning Point USA."
 
-**[00:12:10](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
+**[00:12:04](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "which was that Turning Point USA should have waited and instead appointed an inter..."
 
-**[00:13:52](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
+**[00:13:50](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "...fundraising for Turning Point USA,"
 
-**[00:18:07](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
+**[00:18:06](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "Turning Point USA will continue like my husband always wanted and i..."
 
 **[00:20:36](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "...the family, the turning point USA family with me,"
 
-**[00:26:39](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
+**[00:26:38](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
 > "...nue to maintain Turning Point USA the behemoth that he wanted it to be this massive..."
 
 **[00:33:22](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-35-05)**
@@ -3664,22 +3617,22 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:40:59](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
 > "... ultimately backfire on Black America like it did burn down Black American cities."
 
-**[00:52:27](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
+**[00:52:26](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
 > "...d to Dallas, to Turning Point USA,"
 
-**[00:53:08](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
+**[00:53:04](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
 > "Turning Point USA live streams their events,"
 
 **[00:58:52](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
 > "...y in the office Turning Point USA watches this show live in the office and then fir..."
 
-**[01:04:09](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
+**[01:03:50](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
 > "...still directing Turning Point USA rather than acknowledging that Turning Point USA ..."
 
 **[01:07:23](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
 > "...g is wrong with Turning Point USA it's kind of been obvious since Charlie (Charlie ..."
 
-**[01:07:52](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
+**[01:07:48](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-united-states-t-00-40-30)**
 > "... not right with Turning Point USA."
 
 </details>
@@ -3762,61 +3715,61 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (4 mentions)</summary>
 
-**[00:03:38](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-03-23)**
+**[00:03:31](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-03-19)**
 > "...ed in the murder of a sitting U.S. president."
 
-**[00:07:10](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-07-10)**
+**[00:07:03](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-07-03)**
 > "not just the United States, but of course to Charlie Kirk until the very end..."
 
-**[00:43:49](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-07-10)**
+**[00:43:44](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-20-50)**
 > "...e a TPUSA alternative that is America first and not Philadelphia first to reach young A..."
+
+**[00:21:22](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-united-states-t-00-20-50)**
+> "Open to USA residents only. That's twc.health.candace. Use co..."
 
 </details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:31:21](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-united-states-t-00-31-02)**
+**[00:31:17](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-united-states-t-00-30-52)**
 > "And America"
 
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (16 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (15 mentions)</summary>
 
-**[00:21:20](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-21-11)**
+**[00:21:11](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-21-11)**
 > "that the United States military is literally run by sexual deviants heav..."
 
 **[00:21:28](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-21-28)**
 > "and that the United States military,"
 
-**[00:21:46](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-21-45)**
+**[00:21:45](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-21-45)**
 > "...come mind slaves and that the U.S. military literally as as outrageous as it sounds ..."
 
 **[00:22:44](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-22-34)**
 > "...est incursion into history in america people that are developing these programs the sli..."
 
-**[00:27:48](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-27-33)**
+**[00:27:44](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-27-32)**
 > "...incare is clean. It's made in America and it's built around steady principles."
 
-**[00:42:26](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-42-24)**
+**[00:42:24](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-42-24)**
 > "Why the sudden flip from America first to a Zionist slave?"
 
-**[00:43:13](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-43-13)**
+**[00:43:11](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-43-11)**
 > "...'s not a best interest of the United States based motive."
 
 **[00:44:06](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-43-52)**
 > "...o fail because that means the United States fails."
 
 **[00:45:22](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-45-17)**
-> "who pledges to be to place America's priorities first."
-
-**[00:45:26](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-45-17)**
 > "...cing any interest outside the United States over the United States interest."
 
-**[00:46:42](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-46-25)**
+**[00:46:40](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-46-25)**
 > "Give me someone who places America's priorities first or I'm not on board."
 
 **[00:47:31](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-47-31)**
@@ -3831,7 +3784,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:51:08](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-00-50-45)**
 > "...sual that on its surface, the United States claims not to do that."
 
-**[01:07:15](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-01-06-48)**
+**[01:07:11](/episodes/ep-9naMwS0kMBE.md#ent-gpe-united-states-t-01-06-48)**
 > "America's home for home loans."
 
 </details>
@@ -6840,7 +6793,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (162)</strong></summary>
+<summary><strong class="section-title">Statements about United States (163)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -6912,6 +6865,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:21:39](/episodes/ep-3QJqtW_NOSI.md#t-00-21-39) (Accusation) **Candace Owens**: ["Owens said DynCorp officers accused of trafficking, forced prostitutio..."](/statements/statement-95658714bfaa.md)
   - Also about: [DynCorp International](/entities/org-dyncorp-international.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:23:03](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31) (Accusation) **Candace Owens**: ["Candace Owens accused the United States of supplying Israel with white..."](/statements/statement-0d783c32b84b.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Lebanon](/entities/gpe-lebanon.md)
 
 </details>
 
@@ -7418,7 +7379,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (13)</summary>
 
-- [00:23:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-23-34) (Claim) **Candace Owens**: ["The 1960s were a period of military social-engineering experiments con..."](/statements/statement-444c368e6213.md)
+- [00:23:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-23-34) (Claim) **Candace Owens**: ["The 60s were a period of military social-engineering experiments condu..."](/statements/statement-444c368e6213.md)
   - Also about: [Manson Family murders](/entities/event-manson-family-murders.md)
 
 - [00:28:02](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-02) (Opinion) **Charlie Kirk** (via quoted tweet): ["Islam is the sword the left is using to slit America's throat."](/statements/statement-ba0363b34bd7.md)
@@ -7432,10 +7393,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:36:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-36-15) (Opinion) **Bassem Youssef**: ["The United States does not hide the truth so much as choose not to rep..."](/statements/statement-03a9172e0b51.md)
 
-- [00:54:14](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-06) (Prediction) **Bassem Youssef**: ["As pro-Israel control weakens, the system will become more brutal and ..."](/statements/statement-f41942a6569d.md)
+- [00:54:14](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-05) (Prediction) **Bassem Youssef**: ["As pro-Israel control weakens, the system will become more brutal and ..."](/statements/statement-f41942a6569d.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
-- [00:55:03](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-47) (Claim) **Bassem Youssef**: ["Thirty-seven or thirty-eight U.S. states have laws barring boycotts of..."](/statements/statement-607cf7642194.md)
+- [00:55:03](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-48) (Claim) **Bassem Youssef**: ["Thirty-seven or thirty-eight U.S. states have laws barring boycotts of..."](/statements/statement-607cf7642194.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
 - [00:55:35](/episodes/ep-xjzb_t5Tk9o.md#t-00-55-35) (Claim) **Bassem Youssef**: ["U.S. sanctions against an International Criminal Court judge made him ..."](/statements/statement-c5d5be24691e.md)
@@ -7461,10 +7422,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2)</summary>
 
-- [00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-23) (Accusation) **Tucker Carlson** (via quoted speech): ["The CIA has done horrible things, murdered people, and participated in..."](/statements/statement-753bec0ddb38.md)
+- [00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-19) (Accusation) **Tucker Carlson** (via quoted speech): ["Tucker Carlson said he thought the CIA had done horrible things, murde..."](/statements/statement-753bec0ddb38.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
-- [00:03:52](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-23) (Opinion) **Tucker Carlson** (via quoted speech): ["Criticizing a government agency does not make someone a hater, and cit..."](/statements/statement-c8cbbbcc7aef.md)
+- [00:03:52](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-19) (Opinion) **Tucker Carlson** (via quoted speech): ["Criticizing a government agency does not make someone a hater, and cit..."](/statements/statement-c8cbbbcc7aef.md)
 
 </details>
 

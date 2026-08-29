@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:13:27](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(807);return false;">Play</a>
 
-> Just after Charlie (Charlie Kirk) was shot, and again, ... I have proof Pierre (Pierre Falcone) had a phone call with Justin Streif (Turning Point USA representative; surname spelling unverified). ... He also had a phone call with Mr. ... Don Orico (Turning Point USA representative; full-name spelling unverified) of Turning Point USA down in Tampa. ... he knew that Charlie (Charlie Kirk) was dead before the rest of the world did.
+> Just after Charlie (Charlie Kirk) was shot, and again, ... I have proof Pierre (Pierre Falcone) had a phone call with Justin Streiff. ... He also had a phone call with Mr. ... Don Orico (Turning Point USA representative; full-name spelling unverified) of Turning Point USA down in Tampa. ... he knew that Charlie (Charlie Kirk) was dead before the rest of the world did.
 
 ## Verification
 

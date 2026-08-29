@@ -27,7 +27,7 @@ Source: [Center Furthers Jewish-Mormon Kinship — Deseret News](https://www.des
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -102,12 +102,31 @@ Source: [Center Furthers Jewish-Mormon Kinship — Deseret News](https://www.des
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Has Former Board Member (1)</summary>
+
+- **[Jack David Solomon](/entities/person-jack-david-solomon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “He also served on the Center for Jewish Studies on the board at UVU.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Jack David Solomon](/entities/person-jack-david-solomon.md)** board member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:10:59](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59): “He helped to build the UVU campus as a board member for UVU Center for Jewish Studies, professor of political science at BYU.”
+
+</details>
+
+- **[Jack David Solomon](/entities/person-jack-david-solomon.md)** former board member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “He also served on the Center for Jewish Studies on the board at UVU.”
 
 </details>
 

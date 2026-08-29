@@ -32,7 +32,7 @@ type: "accusation"
 **Timestamp:** [00:34:47](/episodes/ep-GY6GWceEqtQ.md#t-00-34-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2087);return false;">Play</a>
 
-> I'm not being controlled. ... I'm standing up for myself for the first time in my life, for my entire life. ... My parents have controlled narratives in the press about our family. ... he writes the performative social media posts family events and inauthentic relationships have been a fixture of the life that i was born into
+> I'm not being controlled. I'm standing up for myself for the first time in my life, for my entire life. ... My parents have controlled narratives in the press about our family. ... He writes, the performative social media posts, family events, and inauthentic relationships have been a fixture of the life that I was born into.
 
 ## Verification
 

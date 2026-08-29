@@ -45,7 +45,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-13-19" style="--pulse-height:45%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 5 mentions" title="2025-10-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-09-05" style="--pulse-height:27%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 3 mentions" title="2025-11-18 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-tmz-t-00-28-18" style="--pulse-height:27%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-tmz-t-00-27-30" style="--pulse-height:9%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-tmz-t-00-27-26" style="--pulse-height:9%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-tmz-t-00-48-13" style="--pulse-height:9%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-tmz-t-00-57-30" style="--pulse-height:9%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-tmz-t-00-44-18" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
@@ -68,7 +68,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-tmz-t-00-13-19) | 5 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-org-tmz-t-00-09-05) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-tmz-t-00-28-18) | 3 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-tmz-t-00-27-30) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-tmz-t-00-27-26) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-tmz-t-00-48-13) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-tmz-t-00-57-30) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-tmz-t-00-44-18) | 1 |
@@ -150,7 +150,7 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:27:45](/episodes/ep-GY6GWceEqtQ.md#ent-org-tmz-t-00-27-30)**
+**[00:27:26](/episodes/ep-GY6GWceEqtQ.md#ent-org-tmz-t-00-27-26)**
 > "take over the movie and TMZ's like oh this doesn't look great for Taylor (Taylor Swift) because she remember her story she was like I just walked into the apartment Justin Baldoni was there had nothing to do with anything"
 
 </details>

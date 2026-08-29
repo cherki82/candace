@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:13:55](/episodes/ep-Wjul6YV6izo.md#t-00-13-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(835);return false;">Play</a>
 
-> i attended the memorial and i ended up sitting next to father blank he was actually the priest that flew with Erika to utah he was with her when they called her that he did not make it he prayed over him she actually asked him to pray the rosary there at the hospital and he
+> he was actually the priest that flew with Erika to utah he was with her when they called her that he did not make it he prayed over him she actually asked him to pray the rosary there at the hospital ... He said the homily at the private funeral the Friday before the memorial.
 
 ## Verification
 

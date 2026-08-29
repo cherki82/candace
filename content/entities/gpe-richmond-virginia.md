@@ -1,6 +1,6 @@
 ---
 title: "Richmond, Virginia"
-description: "Richmond, Virginia (Places) - 2 mentions"
+description: "Richmond, Virginia (Places) - 3 mentions"
 id: "gpe-richmond-virginia"
 type: "GPE"
 aliases:
@@ -20,12 +20,12 @@ _Type: Places_
 Source: [City of Richmond, Virginia](https://rva.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-richmond-virginia-t-00-23-09">2026-07-29 · 00:23:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-richmond-virginia-t-00-28-20">2026-06-15 · 00:28:24</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-richmond-virginia-t-00-23-09">2026-07-29 · 00:23:27</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -34,12 +34,14 @@ Source: [City of Richmond, Virginia](https://rva.gov/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-richmond-virginia-t-00-23-09">EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-richmond-virginia-t-00-28-20" style="--pulse-height:50%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-richmond-virginia-t-00-23-09" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-richmond-virginia-t-00-28-20) | 1 |
 | 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-richmond-virginia-t-00-23-09) | 2 |
 
 </details>
@@ -48,7 +50,7 @@ Source: [City of Richmond, Virginia](https://rva.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
@@ -58,6 +60,14 @@ Source: [City of Richmond, Virginia](https://rva.gov/)
 
 **[00:23:27](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-richmond-virginia-t-00-23-09)**
 > "Richmond, Virginia just fires the inspector general who was there, J..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:28:24](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-richmond-virginia-t-00-28-20)**
+> "That's all. Could be nothing. But it leaves Richmond, Virginia at 9.50 a.m. It gets into Salt Lake at 12 p.m. and then it departs Salt Lake just an hour later."
 
 </details>
 
@@ -112,7 +122,7 @@ Source: [City of Richmond, Virginia](https://rva.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Richmond, Virginia (2)</strong></summary>
+<summary><strong class="section-title">Statements about Richmond, Virginia (3)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2)</summary>
@@ -122,6 +132,14 @@ Source: [City of Richmond, Virginia](https://rva.gov/)
 
 - [00:23:27](/episodes/ep-Vu6Y24pqhZs.md#t-00-23-09) (Claim) **Candace Owens**: ["Owens said Richmond fired inspector general James Osuna after six year..."](/statements/statement-7a8fff0a549c.md)
   - Also about: [James Osuna](/entities/person-james-osuna.md), [Non-disclosure agreement](/entities/concept-nondisclosure-agreement.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:28:24](/episodes/ep-5NQyGuRYbU8.md#t-00-28-20) (Claim) **Candace Owens**: ["Candace Owens said the FBI plane left Richmond at 9:50 a.m., reached S..."](/statements/statement-db7072ff5529.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
 
 </details>
 

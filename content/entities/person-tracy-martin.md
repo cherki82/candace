@@ -27,7 +27,7 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -346,12 +346,31 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Parent Of (1)</summary>
+
+- **[Tracy Martin's daughter (identity unverified)](/entities/person-tracy-martins-daughter-identity-unverified.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:25:18](/episodes/ep-4YgrOhhy708.md#t-00-24-43): “Tracy (Tracy Martin) told friends that her daughter, possibly Erika (Erika Kirk)'s assistant, was supposed to be at UVU on September 10th, but Tracy (Tracy Martin) had a bad feeling about it.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:32:32](/episodes/ep-amqTMimDr0A.md#t-00-32-16): “And that family friend is exactly who I suspected it was, Tracy Martin, because Tracy Martin also lies.”
+
+</details>
+
+- **[Tracy Martin's daughter (identity unverified)](/entities/person-tracy-martins-daughter-identity-unverified.md)** child of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:25:18](/episodes/ep-4YgrOhhy708.md#t-00-24-43): “Tracy (Tracy Martin) told friends that her daughter, possibly Erika (Erika Kirk)'s assistant, was supposed to be at UVU on September 10th, but Tracy (Tracy Martin) had a bad feeling about it.”
 
 </details>
 
@@ -475,10 +494,10 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 - [00:27:02](/episodes/ep-DYD_QHMPwqM.md#t-00-26-52) (Claim) **Anonymous Source #2 (Ep DYD_QHMPwqM)** (via read message): ["Anonymous tipsters reported that Erika Kirk was with Tracy Martin when..."](/statements/statement-e843c1eedce5.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Michael McCoy](/entities/person-michael-mccoy.md)
 
-- [00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25) (Claim) **Tracy Martin**: ["Tracy Martin has been a close friend of Erika Kirk for almost 15 years..."](/statements/statement-82243709232f.md)
+- [00:28:25](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25) (Claim) **Tracy Martin** (via quoted speech): ["Tracy Martin has been a close friend of Erika Kirk for almost 15 years..."](/statements/statement-82243709232f.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:28:50](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25) (Claim) **Tracy Martin**: ["Erika Kirk organized the Romanian Angels project, through which partic..."](/statements/statement-738e60b71126.md)
+- [00:28:50](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25) (Claim) **Tracy Martin** (via quoted speech): ["Erika Kirk organized the Romanian Angels project, through which partic..."](/statements/statement-738e60b71126.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Romanian Angels Project](/entities/org-romanian-angels-project.md)
 
 </details>

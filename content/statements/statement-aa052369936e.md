@@ -51,7 +51,7 @@ The episode accurately presents this as an anonymous, uncertain tip. An official
 - [DHS: Southwest Border Task Force roster](https://www.dhs.gov/xlibrary/assets/hsac-southwest-border-task-force.pdf)
 - [USNORTHCOM: Joint Task Force-Southern Border established](https://www.northcom.mil/Newsroom/News/Article/Article/4120682/new-joint-task-force-established-to-lead-usnorthcom-efforts-on-southern-border/)
 
-*Verified: 2026-08-16T09:05:00.246056*
+*Verified: 2026-08-29T14:35:05.547206*
 
 ---
 

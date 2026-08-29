@@ -23,7 +23,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -185,6 +185,18 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details>
+<summary>Formerly Roommate Of (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:40:30](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57): “why does her one-time roommate, Nicole Rothstein, allege that half of their family, referring to her and Erica (Erika Kirk)'s family, is Jewish?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Friend Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -197,7 +209,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** cousin of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -210,6 +222,13 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:52:42](/episodes/ep-w1oqQbR_bYs.md#t-00-52-09): “This Nicole Rothstein who defends her in the comments currently”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** formerly roommate of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:40:30](/episodes/ep-ZAsV0fHGBiM.md#t-00-39-57): “why does her one-time roommate, Nicole Rothstein, allege that half of their family, referring to her and Erica (Erika Kirk)'s family, is Jewish?”
 
 </details>
 

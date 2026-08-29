@@ -15,7 +15,7 @@ object: "person-claudia-heffner-peltz"
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
-- [00:53:22](/episodes/ep-GY6GWceEqtQ#t-00-53-22): _the wife as well claudia her mother was really nice_
+- [00:53:22](/episodes/ep-GY6GWceEqtQ#t-00-53-22): _the wife as well Claudia (Nicola Peltz's mother; surname unverified) was really nice_
 
 ### Related
 

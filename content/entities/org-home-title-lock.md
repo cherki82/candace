@@ -17,7 +17,7 @@ _Type: Organizations_
 Source: [Home Title Lock](https://www.hometitlelock.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-36-04">2026-01-22 · 00:36:35</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-35-59">2026-01-22 · 00:36:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#t-00-43-39">2026-08-19 · 00:43:47</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
@@ -31,7 +31,7 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-home-title-lock-t-00-50-04">REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-36-04" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-35-59" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-home-title-lock-t-00-48-57" style="--pulse-height:33%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-home-title-lock-t-00-49-34" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-home-title-lock-t-00-57-00" style="--pulse-height:33%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
@@ -43,7 +43,7 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-36-04) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-35-59) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-home-title-lock-t-00-48-57) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-home-title-lock-t-00-49-34) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-home-title-lock-t-00-57-00) | 1 |
@@ -122,7 +122,7 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:36:35](/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-36-04)**
+**[00:36:35](/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-35-59)**
 > "...hat's why I've partnered with Home Title Lock so that you can protect your equity and find out ..."
 
 </details>
@@ -138,7 +138,7 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:36:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-36-04): “That's why I've partnered with Home Title Lock so that you can protect your equity and find out today if you are already a victim.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:36:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-35-59): “That's why I've partnered with Home Title Lock so that you can protect your equity and find out today if you are already a victim.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:57:19](/episodes/ep-UYkXV9mYbT4.md#t-00-57-00): “If you're a homeowner without protection in place, this could be you. That's why I've partnered with Home Title Lock.”
 
 </details>

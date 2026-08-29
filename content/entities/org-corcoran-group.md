@@ -31,7 +31,7 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -165,6 +165,18 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Based In (1)</summary>
+
+- **[New York](/entities/gpe-new-york.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:32:38](/episodes/ep-ti5Fxrvegno.md#t-00-32-21): “beginning a career with Corcoran Real Estate, which is a massive real estate firm in New York.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -217,7 +229,7 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Pamela Liebman](/entities/person-pamela-liebman.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -241,6 +253,13 @@ Source: [Corcoran Arrives in Washington, D.C. - The Corcoran Group](https://inha
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:39:23](/episodes/ep-IqHsl7d2dos.md#t-00-39-23): “The consistent Rothschild connections in Erika (Erika Kirk)'s life, whether it's through the Corcoran Group, which we had already showed you, established according to Jeffrey Epstein's emails by Lynn Forester de Rothschild.”
+
+</details>
+
+- **[New York](/entities/gpe-new-york.md)** location of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:32:38](/episodes/ep-ti5Fxrvegno.md#t-00-32-21): “beginning a career with Corcoran Real Estate, which is a massive real estate firm in New York.”
 
 </details>
 

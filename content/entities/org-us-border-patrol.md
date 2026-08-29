@@ -30,7 +30,7 @@ Source: [U.S. Customs and Border Protection: Border Patrol established](https://
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -82,7 +82,29 @@ Source: [U.S. Customs and Border Protection: Border Patrol established](https://
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Thomas Martin (Tucson Border Patrol agent)](/entities/person-thomas-martin-tucson-border-patrol-agent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:23:12](/episodes/ep-4YgrOhhy708.md#t-00-22-53): “we learn that Thomas agent Thomas Martin of the Border Patrol was writing to his superiors.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Thomas Martin (Tucson Border Patrol agent)](/entities/person-thomas-martin-tucson-border-patrol-agent.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:23:12](/episodes/ep-4YgrOhhy708.md#t-00-22-53): “we learn that Thomas agent Thomas Martin of the Border Patrol was writing to his superiors.”
+
+</details>
+
+</details>
 
 </details>
 

@@ -16,8 +16,8 @@ _Type: Places_
 Source: [Official website of Denmark](https://denmark.dk/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-denmark-t-00-47-40">2026-01-29 · 00:47:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-denmark-t-00-47-40">2026-01-29 · 00:47:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-denmark-t-00-47-40">2026-01-29 · 00:47:40</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-denmark-t-00-47-40">2026-01-29 · 00:47:40</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -49,7 +49,7 @@ Source: [Official website of Denmark](https://denmark.dk/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:47:56](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-denmark-t-00-47-40)**
+**[00:47:40](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-denmark-t-00-47-40)**
 > "happening to Denmark"
 
 </details>

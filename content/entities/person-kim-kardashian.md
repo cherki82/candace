@@ -37,7 +37,7 @@ Source: [Kim Kardashian West Is 'Over' Her 'Feud' With Taylor Swift](https://abc
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-kim-kardashian-t-00-12-53" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-kim-kardashian-t-00-23-14" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-kim-kardashian-t-00-26-13" style="--pulse-height:50%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-kim-kardashian-t-00-26-07" style="--pulse-height:50%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kim-kardashian-t-00-23-40" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -46,7 +46,7 @@ Source: [Kim Kardashian West Is 'Over' Her 'Feud' With Taylor Swift](https://abc
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kim-kardashian-t-00-12-53) | 2 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-kim-kardashian-t-00-23-14) | 2 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-kim-kardashian-t-00-26-13) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-kim-kardashian-t-00-26-07) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-kim-kardashian-t-00-23-40) | 1 |
 
 </details>
@@ -68,8 +68,8 @@ Source: [Kim Kardashian West Is 'Over' Her 'Feud' With Taylor Swift](https://abc
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:26:13](/episodes/ep-GY6GWceEqtQ.md#ent-person-kim-kardashian-t-00-26-13)**
-> "and then her fans reacted when this dropped and was like oh my no you're a feminist this is so wrong and then Taylor Swift came out and um actually Tree her PR the woman that's a savage that runs the whole thing said this is this is a lie she never heard this song never happened and turns out that Kanye (Kanye West) had video of it and Kim Kardashian who I don't even like just started dropping the receipts and you see that he called her"
+**[00:26:13](/episodes/ep-GY6GWceEqtQ.md#ent-person-kim-kardashian-t-00-26-07)**
+> "And then her fans reacted when this dropped and were like, oh my, no, you're a feminist. This is so wrong. And then Taylor Swift came out—and actually Tree (Taylor Swift's agent; surname unverified), her PR, the woman that's a savage that runs the whole thing, said this is a lie. She never heard this song. It never happened. And it turns out that Kanye (Kanye West) had video of it, and Kim Kardashian, who I don't even like, just started dropping the receipts, and you see that he called her."
 
 </details>
 

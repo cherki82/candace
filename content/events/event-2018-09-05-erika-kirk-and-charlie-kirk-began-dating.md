@@ -11,17 +11,9 @@ date: "2018-09-05"
 
 > Erika Kirk and Charlie Kirk went on their first date on September 5, 2018.
 
-## Mentioned In (4 times)
+## Mentioned In (3 times)
 
-### 1. An Open Letter To Erika Kirk | Candace Ep 303
-
-**Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
-**Timestamp:** [00:04:02](/episodes/ep-mFuno0TuuQQ.md#t-00-04-02) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(242);return false;">▶️ Play</a>
-
-> You and Charlie began dating in earnest in 2019, and in retrospect,
-
-### 2. Here’s Why It’s Time For The Police To Question Erika Kirk… ...
+### 1. Here’s Why It’s Time For The Police To Question Erika Kirk… ...
 
 **Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
 **Timestamp:** [00:30:11](/episodes/ep-ti5Fxrvegno.md#t-00-30-11) 
@@ -29,7 +21,7 @@ date: "2018-09-05"
 
 > messages with Charlie that this date thing happened September of 2018.
 
-### 3. Bride Of Charlie: Crazy In Love | Episode 7
+### 2. Bride Of Charlie: Crazy In Love | Episode 7
 
 **Episode:** [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md)
 **Timestamp:** [00:05:07](/episodes/ep-DdPjoy5W-wY.md#t-00-05-07) 
@@ -37,7 +29,7 @@ date: "2018-09-05"
 
 > she goes on her first official date with Charlie in September of 2018.
 
-### 4. The Whistleblower: Did Epstein’s Network Reemerge In Charlie...
+### 3. The Whistleblower: Did Epstein’s Network Reemerge In Charlie...
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:03:05](/episodes/ep-3QJqtW_NOSI.md#event-event-2018-09-05-erika-kirk-and-charlie-kirk-began-dating-t-00-03-05) 

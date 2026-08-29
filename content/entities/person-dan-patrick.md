@@ -23,7 +23,7 @@ Source: [Lieutenant Governor of Texas Dan Patrick: About](https://www.ltgov.texa
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -67,6 +67,30 @@ Source: [Lieutenant Governor of Texas Dan Patrick: About](https://www.ltgov.texa
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused (1)</summary>
+
+- **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... no member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue. ... This was my decision.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:36:09](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57): “you're taking a ton of money from Zionists. Can you just own that, Dan (Dan Patrick)? ... You're outright purchased by Israel.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Fired (1)</summary>
 
 - **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)**
@@ -79,7 +103,21 @@ Source: [Lieutenant Governor of Texas Dan Patrick: About](https://www.ltgov.texa
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:36:09](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57): “you're taking a ton of money from Zionists. Can you just own that, Dan (Dan Patrick)? ... You're outright purchased by Israel.”
+
+</details>
+
+- **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... no member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue. ... This was my decision.”
+
+</details>
 
 - **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)** fired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

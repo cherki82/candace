@@ -11,7 +11,7 @@ object: "person-andrew-kolvet"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Andrew Kolvet](/entities/person-andrew-kolvet)
 
-### Evidence (11 mentions)
+### Evidence (12 mentions)
 
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
@@ -48,6 +48,10 @@ object: "person-andrew-kolvet"
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
 - [00:10:17](/episodes/ep-UYkXV9mYbT4#t-00-10-17): _Erika (Erika Kirk) lied. Erika (Erika Kirk) and Andrew (Andrew Kolvet) colluded. on how to message to the public about this little fact that was never meant to be known to us._
+
+**[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
+
+- [00:54:12](/episodes/ep-Wjul6YV6izo#t-00-54-12): _when I saw her and Andrew Kolvet colluding ... then I realized he's the one organizing the Paramount Tactical and also the Alex Jones ... that it was Andrew Kolvet the whole time._
 
 **[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
 

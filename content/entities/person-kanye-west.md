@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 185 mentions"
+description: "Kanye West (People) - 184 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -26,10 +26,10 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-kanye-west-t-00-46-33">2026-08-21 · 00:46:57</a></strong></div>
 <div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>185</strong></div>
+<div><span>Mentions</span><strong>184</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>34</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -60,8 +60,8 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:43%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 15 mentions" title="2026-01-07 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-31" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-23" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-kanye-west-t-00-43-34" style="--pulse-height:26%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 9 mentions" title="2026-01-27 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-kanye-west-t-01-32-52" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-52-38" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -107,8 +107,8 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00) | 15 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58) | 6 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-31) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58) | 5 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-23) | 4 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-kanye-west-t-00-43-34) | 9 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-kanye-west-t-01-32-52) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-52-38) | 1 |
@@ -133,7 +133,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (185)</strong></summary>
+<summary><strong class="section-title">Raw mentions (184)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (6 mentions)</summary>
@@ -400,22 +400,22 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (4 mentions)</summary>
 
-**[00:25:49](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-31)**
+**[00:25:43](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-23)**
 > "was the Kanye West situation"
 
-**[00:25:53](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-31)**
+**[00:25:53](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-23)**
 > "Kanye (Kanye West) called her up and asked her about using her name..."
 
-**[00:26:13](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-26-13)**
-> "...ned and turns out that Kanye (Kanye West) had video of it and Kim Kardashian who I don't e..."
+**[00:26:13](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-26-07)**
+> "And then her fans reacted when this dropped and were like, oh my, no, you're a feminist. This is so wrong. And then Taylor Swift came out—and actually Tree (Taylor Swift's agent; surname unverified), her PR, the woman that's a savage that runs the whole thing, said this is a lie. She never heard this song. It never happened. And it turns out that Kanye (Kanye West) had video of it, and Kim Kardashian, who I don't even like, just started dropping the receipts, and you see that he called her."
 
-**[00:26:52](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-26-13)**
+**[00:26:52](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-26-52)**
 > "Where is the video of Kanye (Kanye West) telling me that he was going to call me that bit..."
 
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (6 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (5 mentions)</summary>
 
 **[00:33:58](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58)**
 > "...he trip when i went to go see kanye right"
@@ -423,13 +423,10 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 **[00:34:08](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-34-08)**
 > "i went to go see kanye that's why i'm wearing the same outfit for me and..."
 
-**[00:34:25](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-34-08)**
-> "never met kanye or Peter Thiel and he's kind of presenting this l..."
-
 **[00:36:51](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-36-51)**
 > "...his rant but i gotta get this kanye out that he complained he's such a cheap ass okay..."
 
-**[00:38:15](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-38-01)**
+**[00:38:14](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-38-01)**
 > "He was there when the Kanye tweet happened because of an event that all three..."
 
 **[00:40:19](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-40-19)**
@@ -930,11 +927,12 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <summary>Friend Of (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). I love Ye (Kanye West). He's like a brother to me. I am never going to turn my back on Ye (Kanye West). I'm here for the Ye (Kanye West) of all seasons. He and I agree on many things, disagree on many things at all times. If he wants to apologize to people that he specifically has hurt, he is welcome to do that.”
 
 </details>
 
@@ -947,6 +945,18 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:00:35](/episodes/ep-c5BcKF91iec.md#t-00-00-00): “But then I had to very quickly get over to Wyoming because Kanye had invited me to his album release party.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (1)</summary>
+
+- **[Vanity Fair](/entities/org-vanity-fair.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:06](/episodes/ep-A39g5oqB_eM.md#t-00-43-34): “Kanye (Kanye West)'s apology also sat down with Vanity Fair or answered questions for Vanity Fair about this apology,”
 
 </details>
 
@@ -1003,7 +1013,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Scott Adams](/entities/person-scott-adams.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1020,11 +1030,19 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). I love Ye (Kanye West). He's like a brother to me. I am never going to turn my back on Ye (Kanye West). I'm here for the Ye (Kanye West) of all seasons. He and I agree on many things, disagree on many things at all times. If he wants to apologize to people that he specifically has hurt, he is welcome to do that.”
+
+</details>
+
+- **[Vanity Fair](/entities/org-vanity-fair.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:06](/episodes/ep-A39g5oqB_eM.md#t-00-43-34): “Kanye (Kanye West)'s apology also sat down with Vanity Fair or answered questions for Vanity Fair about this apology,”
 
 </details>
 
@@ -1160,7 +1178,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 - [00:44:13](/episodes/ep-A39g5oqB_eM.md#t-00-43-34) (Claim) **Kanye West** (via quoted article): ["The behavior for which Kanye West apologized resulted from a bipolar e..."](/statements/statement-c33402e9cefa.md)
   - Also about: [Vanity Fair](/entities/org-vanity-fair.md)
 
-- [00:44:35](/episodes/ep-A39g5oqB_eM.md#t-00-44-17) (Opinion) **Candace Owens**: ["I am never going to turn my back on Kanye West and will support him th..."](/statements/statement-4ea665b317ba.md)
+- [00:44:35](/episodes/ep-A39g5oqB_eM.md#t-00-44-17) (Promise) **Candace Owens**: ["I am never going to turn my back on Kanye West and will support him th..."](/statements/statement-4ea665b317ba.md)
 
 </details>
 

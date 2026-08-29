@@ -47,7 +47,7 @@ Nielsen's finalized national measurement reports a 125.6 million average audienc
 
 - [Nielsen: Super Bowl LX audience measurement](https://www.nielsen.com/news-center/2026/super-bowl-lx-2026/)
 
-*Verified: 2026-08-16T09:04:17.608416*
+*Verified: 2026-08-29T14:35:05.547172*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Five days after Charlie Kirk's assassination, Erika Kirk hel..."
-description: "\"Five days after Charlie Kirk's assassination, Erika Kirk held a Zoom call recommending that employees take time off to grieve; Owens said Erika Kirk a...\" — Candace Owens"
+description: "\"Five days after Charlie Kirk's assassination, Erika Kirk held a Zoom call recommending that employees take time off to grieve; Owens said that, appare...\" — Candace Owens"
 statement_id: "statement-f6bf2f5e1ab3"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Five days after Charlie Kirk's assassination, Erika Kirk held a Zoom call recommending that employees take time off to grieve; Owens said Erika Kirk and Stacy Sheridan were in the office every day afterward.
+> Five days after Charlie Kirk's assassination, Erika Kirk held a Zoom call recommending that employees take time off to grieve; Owens said that, apparently, Erika Kirk and Stacy Sheridan were in the office every day afterward.
 
 ## Attribution
 

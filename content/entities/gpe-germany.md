@@ -27,7 +27,7 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,7 +37,7 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03" style="--pulse-height:60%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-germany-t-00-18-20" style="--pulse-height:80%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-18" style="--pulse-height:40%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-16" style="--pulse-height:40%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-germany-t-00-30-08" style="--pulse-height:80%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-germany-t-00-39-45" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-germany-t-00-13-33" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
@@ -59,7 +59,7 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 |---|---|---:|
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03) | 3 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-germany-t-00-18-20) | 4 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-18) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-16) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-germany-t-00-30-08) | 4 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-germany-t-00-39-45) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-germany-t-00-13-33) | 1 |
@@ -197,7 +197,7 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:40:11](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-germany-t-00-39-45)**
+**[00:40:06](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-germany-t-00-39-45)**
 > "Jews being killed in Germany"
 
 </details>
@@ -222,7 +222,7 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
 
-**[00:23:18](/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-18)**
+**[00:23:16](/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-16)**
 > "...tary and is stationed over in Germany and to where he goes, we don't know."
 
 **[00:50:45](/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-50-45)**
@@ -266,7 +266,29 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Edith Montgomery](/entities/person-edith-montgomery.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:44](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): “The person claims that Edith Walker, who I've since learned emigrated from Germany after World War II,”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Edith Montgomery](/entities/person-edith-montgomery.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:44](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): “The person claims that Edith Walker, who I've since learned emigrated from Germany after World War II,”
+
+</details>
+
+</details>
 
 </details>
 

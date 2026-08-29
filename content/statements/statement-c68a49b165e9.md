@@ -28,7 +28,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:15:32](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32) 
+**Timestamp:** [00:15:32](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-57) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(932);return false;">Play</a>
 
 > But what we can discern from the filing of Desert Tech is that Lorin Frantzve is listed as a 20% stakeholder in the business. Larry Guinta, her husband, is also listed as a stakeholder and as the business's registered agent.

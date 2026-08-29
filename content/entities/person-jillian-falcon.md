@@ -245,7 +245,7 @@ Source: [Jillian Falcon (@jillianplease) / X](https://mobile.twitter.com/jillian
 - [00:14:25](/episodes/ep-1hcjQGgvxUY.md#t-00-13-57) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reports that Jillian Falcon and Erika Kirk never met in ..."](/statements/statement-94a9eff8d7fe.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:15:34](/episodes/ep-1hcjQGgvxUY.md#t-00-15-23) (Claim) **Candace Owens**: ["Erika Kirk arranged for 15-year-old Jillian Falcon to have photographs..."](/statements/statement-11bfa4323505.md)
+- [00:15:34](/episodes/ep-1hcjQGgvxUY.md#t-00-15-23) (Claim) **Candace Owens**: ["Candace Owens says Jillian Falcon told her that Erika Kirk arranged fo..."](/statements/statement-11bfa4323505.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:16:40](/episodes/ep-1hcjQGgvxUY.md#t-00-16-04) (Accusation) **Candace Owens**: ["Candace Owens calls Erika Kirk's alleged arrangement of a photo shoot ..."](/statements/statement-6483e6b288b8.md)

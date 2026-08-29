@@ -15,7 +15,7 @@ object: "person-tree-paine"
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
-- [00:25:40](/episodes/ep-GY6GWceEqtQ#t-00-25-40): _Taylor ... Tree, her agent, is like, nope, cut that front off. We're going to save you._
+- [00:25:31](/episodes/ep-GY6GWceEqtQ#t-00-25-31): _You got to give credit where credit is due. She's first class on the Titanic, okay? A lot of time thought it was going to sink, and then Tree (Taylor Swift's agent; surname unverified) is like, nope, cut that front off._
 
 ### Related
 

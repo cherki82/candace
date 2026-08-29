@@ -22,12 +22,12 @@ Source: [Singer, Martin D. | Singer Weinsten Wolf & Jonelis](https://www.singerl
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-martin-d-singer-t-00-49-21">2026-01-21 · 00:49:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-martin-d-singer-t-00-49-21">2026-01-21 · 00:49:55</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-martin-d-singer-t-00-49-55">2026-01-21 · 00:49:55</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -57,7 +57,7 @@ Source: [Singer, Martin D. | Singer Weinsten Wolf & Jonelis](https://www.singerl
 **[00:49:48](/episodes/ep-GY6GWceEqtQ.md#ent-person-martin-d-singer-t-00-49-21)**
 > "she hired Marty Singer"
 
-**[00:49:55](/episodes/ep-GY6GWceEqtQ.md#ent-person-martin-d-singer-t-00-49-21)**
+**[00:49:55](/episodes/ep-GY6GWceEqtQ.md#ent-person-martin-d-singer-t-00-49-55)**
 > "She hired Marty Singer to sue this little company because her chihuahua ..."
 
 </details>
@@ -67,6 +67,28 @@ Source: [Singer, Martin D. | Singer Weinsten Wolf & Jonelis](https://www.singerl
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Represented (1)</summary>
+
+- **[Nicola Peltz](/entities/person-nicola-peltz.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:48:58](/episodes/ep-GY6GWceEqtQ.md#t-00-48-48): “Nicola (Nicola Peltz) says that her dog was all weird ... She hired Marty Singer to sue this little company because her chihuahua died.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Nicola Peltz](/entities/person-nicola-peltz.md)** represented by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:48:58](/episodes/ep-GY6GWceEqtQ.md#t-00-48-48): “Nicola (Nicola Peltz) says that her dog was all weird ... She hired Marty Singer to sue this little company because her chihuahua died.”
+
+</details>
+
+</details>
 
 </details>

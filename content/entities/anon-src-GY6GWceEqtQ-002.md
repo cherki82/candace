@@ -41,7 +41,7 @@ Source: [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 2
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:32](/episodes/ep-GY6GWceEqtQ.md#t-00-54-31): “I don't even have words for the words that you've written in the notes on your phone and thought it was okay to just put that on your Instagram ... Brooklyn (Brooklyn Beckham), story.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:32](/episodes/ep-GY6GWceEqtQ.md#t-00-54-32): “This is a message for Brooklyn Beckham. ... I don't even have words for the words that you've written in the notes on your phone and thought it was okay to just put that on your Instagram”
 
 </details>
 
@@ -53,7 +53,7 @@ Source: [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 2
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:32](/episodes/ep-GY6GWceEqtQ.md#t-00-54-31): “I don't even have words for the words that you've written in the notes on your phone and thought it was okay to just put that on your Instagram ... Brooklyn (Brooklyn Beckham), story.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:54:32](/episodes/ep-GY6GWceEqtQ.md#t-00-54-32): “This is a message for Brooklyn Beckham. ... I don't even have words for the words that you've written in the notes on your phone and thought it was okay to just put that on your Instagram”
 
 </details>
 

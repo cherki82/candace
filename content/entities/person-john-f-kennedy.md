@@ -1,6 +1,6 @@
 ---
 title: "John F. Kennedy"
-description: "John F. Kennedy (People) - 106 mentions"
+description: "John F. Kennedy (People) - 109 mentions"
 id: "person-john-f-kennedy"
 type: "PERSON"
 aliases:
@@ -26,8 +26,8 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55">2025-09-19 · 00:01:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-01-06-38">2026-08-17 · 01:06:38</a></strong></div>
-<div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>106</strong></div>
+<div><span>Episodes</span><strong>60</strong></div>
+<div><span>Mentions</span><strong>109</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -88,6 +88,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-john-f-kennedy-t-00-52-00" style="--pulse-height:14%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-john-f-kennedy-t-00-24-00" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-john-f-kennedy-t-00-26-38" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-john-f-kennedy-t-00-02-44" style="--pulse-height:14%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-john-f-kennedy-t-00-46-19" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-john-f-kennedy-t-00-28-38" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-01-00-50" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
@@ -152,6 +153,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-john-f-kennedy-t-00-52-00) | 2 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-john-f-kennedy-t-00-24-00) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-john-f-kennedy-t-00-26-38) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-john-f-kennedy-t-00-02-44) | 2 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-john-f-kennedy-t-00-46-19) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-john-f-kennedy-t-00-28-38) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-01-00-50) | 1 |
@@ -168,7 +170,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+<summary><strong class="section-title">Raw mentions (109)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -245,6 +247,17 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 
 **[00:46:33](/episodes/ep-h76ZN-xXC6c.md#ent-person-john-f-kennedy-t-00-46-19)**
 > "We need more than 20 days. Now, that's like if you're saying I want every document from 1963 onward about JFK."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:02:53](/episodes/ep-5NQyGuRYbU8.md#ent-person-john-f-kennedy-t-00-02-44)**
+> "Probably even the same as JFK. By the way, if it wasn't for divine providence, ..."
+
+**[00:35:03](/episodes/ep-5NQyGuRYbU8.md#ent-person-john-f-kennedy-t-00-34-59)**
+> "...re is it? Who the f*** killed JFK? Like, come out with it. What the f***? Who f***i..."
 
 </details>
 
@@ -439,10 +452,10 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
 
-**[00:12:16](/episodes/ep-xjzb_t5Tk9o.md#ent-person-john-f-kennedy-t-00-12-00)**
+**[00:12:11](/episodes/ep-xjzb_t5Tk9o.md#ent-person-john-f-kennedy-t-00-12-00)**
 > "World War II to JFK"
 
-**[00:48:39](/episodes/ep-xjzb_t5Tk9o.md#ent-person-john-f-kennedy-t-00-48-38)**
+**[00:48:38](/episodes/ep-xjzb_t5Tk9o.md#ent-person-john-f-kennedy-t-00-48-38)**
 > "... empire and LBJ murdered JFK (John F. Kennedy), got his boys in there."
 
 **[01:10:34](/episodes/ep-xjzb_t5Tk9o.md#ent-person-john-f-kennedy-t-01-10-34)**
@@ -849,7 +862,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
 
-- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) (Accusation) **Candace Owens**: ["The Manson murders and the events of the 1960s were the U.S. governmen..."](/statements/statement-58c0cd378779.md)
+- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) (Accusation) **Candace Owens**: ["The Manson murders and the events of the '60s were the U.S. government..."](/statements/statement-58c0cd378779.md)
   - Also about: [Charles Manson](/entities/person-charles-manson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </details>
@@ -857,7 +870,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
 
-- [00:43:34](/episodes/ep-A39g5oqB_eM.md#t-00-42-54) (Accusation) **Candace Owens**: ["Lyndon B. Johnson helped murder John F. Kennedy, set him up, then clea..."](/statements/statement-752644045760.md)
+- [00:43:34](/episodes/ep-A39g5oqB_eM.md#t-00-42-54) (Accusation) **Candace Owens**: ["I kind of feel like the military cult has been in power since Lyndon B..."](/statements/statement-752644045760.md)
   - Also about: [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md)
 
 </details>

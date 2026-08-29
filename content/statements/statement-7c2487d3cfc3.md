@@ -25,23 +25,13 @@ veracity: "mixed"
 - [Israel](/entities/gpe-israel.md) (gpe)
 - [Washington, D.C.](/entities/gpe-washington-d-c.md) (gpe)
 
-## Appearances (2)
-
-### 1. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
+## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
 **Timestamp:** [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(431);return false;">Play</a>
 
 > lindsey graham was just doing what lindsey graham does he's i think personally he's got the largest blackmail file whatever israel has on him it is terrifying okay it is terrifying we know what lindsey graham probably gets up to we've had some male hookers come out come out and make some allegations
-
-### 2. Candace x Bassem Youssef | Candace Ep 298
-
-**Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
-**Timestamp:** [01:10:50](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4250);return false;">Play</a>
-
-> And I mean, whatever they've got on Lindsey Graham,
 
 ## Verification
 

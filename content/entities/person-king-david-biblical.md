@@ -1,6 +1,6 @@
 ---
 title: "King David"
-description: "King David (People) - 18 mentions"
+description: "King David (People) - 21 mentions"
 id: "person-king-david-biblical"
 type: "PERSON"
 aliases:
@@ -22,8 +22,8 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46">2025-10-30 · 00:42:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20">2026-04-01 · 00:48:20</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,9 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 13 mentions" title="2025-10-30 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-king-david-biblical-t-00-56-00" style="--pulse-height:15%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-david-biblical-t-00-36-13" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-king-david-biblical-t-00-45-55" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-king-david-biblical-t-00-48-47" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-00-59-49" style="--pulse-height:15%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
@@ -45,6 +48,9 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 |---|---|---:|
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46) | 13 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-king-david-biblical-t-00-56-00) | 2 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-david-biblical-t-00-36-13) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-king-david-biblical-t-00-45-55) | 1 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-king-david-biblical-t-00-48-47) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-00-59-49) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20) | 1 |
 
@@ -54,7 +60,7 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
@@ -72,6 +78,30 @@ Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegat
 
 **[01:00:30](/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-01-00-30)**
 > "...ons and we all hope we have a David like you. Go Maxer in faith and prayer."
+
+</details>
+
+<details>
+<summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1 mentions)</summary>
+
+**[00:48:47](/episodes/ep-4YgrOhhy708.md#ent-person-king-david-biblical-t-00-48-47)**
+> "which stay max ps thank you for reading comments last week i stand by saying that you are Charlie (Charlie Kirk)'s david yeah i saw them they were trying to like make that fetch um by the way first of all that's a real condition i actually want to find it that is a real thing that people go through and i don't know why that should shock you like there are all sorts of things like people who can um they see colors when they hear sounds i don't know if they consider this to be disorders or what it is i know Kanye (Kanye West) has that"
+
+</details>
+
+<details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>
+
+**[00:45:55](/episodes/ep-mFuno0TuuQQ.md#ent-person-king-david-biblical-t-00-45-55)**
+> "Amy O writes, 'You are Charlie (Charlie Kirk)'s David. Christ is King. Keep going, Max, and stay max.'"
+
+</details>
+
+<details>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>
+
+**[00:36:17](/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-david-biblical-t-00-36-13)**
+> "that Candace (Candace Owens) would become a David in the fight for America."
 
 </details>
 

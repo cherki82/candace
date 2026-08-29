@@ -1,6 +1,6 @@
 ---
 title: "Peter Thiel"
-description: "Peter Thiel (People) - 19 mentions"
+description: "Peter Thiel (People) - 18 mentions"
 id: "person-peter-thiel"
 type: "PERSON"
 categories:
@@ -20,7 +20,7 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-21">2026-01-14 · 00:25:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-peter-thiel-t-00-03-42">2026-03-11 · 00:03:42</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -29,10 +29,10 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-peter-thiel-t-00-24-28">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-21" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17" style="--pulse-height:86%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-peter-thiel-t-00-46-04" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-peter-thiel-t-00-24-28" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 7 mentions" title="2026-02-02 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-peter-thiel-t-00-17-28" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
@@ -43,7 +43,7 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-21) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17) | 7 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17) | 6 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-peter-thiel-t-00-46-04) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-peter-thiel-t-00-24-28) | 7 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-peter-thiel-t-00-17-28) | 1 |
@@ -55,7 +55,7 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2 mentions)</summary>
@@ -111,7 +111,7 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (7 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (6 mentions)</summary>
 
 **[00:33:32](/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17)**
 > "...are doing this here we are at Peter Thiel's house in LA strangely she never mentioned to me t..."
@@ -121,9 +121,6 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 
 **[00:34:08](/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-34-08)**
 > "... was he then said let's go to Peter Thiel's house okay i don't know Peter Thiel i literally d..."
-
-**[00:34:25](/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-34-08)**
-> "never met kanye or Peter Thiel and he's kind of presenting this like i'm being a..."
 
 **[00:36:51](/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-36-51)**
 > "...bout how he's done drugs with Peter Thiel and also you want to talk about being a bad frien..."

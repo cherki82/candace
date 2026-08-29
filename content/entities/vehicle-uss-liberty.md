@@ -101,13 +101,13 @@ Source: [Naval History and Heritage Command: The Six-Day War and USS Liberty](ht
 **[00:05:37](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-05-22)**
 > "...en't actually the crew of the USS Liberty were threatened."
 
-**[00:05:56](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-05-22)**
+**[00:05:54](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-05-22)**
 > "...ollars for the victims of the USS Liberty."
 
-**[00:08:55](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-08-34)**
+**[00:08:51](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-00-08-34)**
 > "...s but to your point about the USS Liberty just to show you how far this goes in terms of pr..."
 
-**[01:25:34](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-01-25-31)**
+**[01:25:31](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-uss-liberty-t-01-25-31)**
 > "...gree with Phil Tourney of the USS Liberty."
 
 </details>

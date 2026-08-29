@@ -1,6 +1,6 @@
 ---
 title: "CBS News"
-description: "CBS News (Organizations) - 24 mentions"
+description: "CBS News (Organizations) - 23 mentions"
 id: "org-cbs-news"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-org-cbs-news-t-00-15-24">2025-11-20 · 00:15:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-cbs-news-t-00-43-38">2026-07-23 · 00:44:07</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -41,7 +41,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-36-08" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-cbs-news-t-00-24-01" style="--pulse-height:33%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
@@ -60,7 +60,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08) | 3 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-36-08) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31) | 3 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-org-cbs-news-t-00-24-01) | 1 |
@@ -75,7 +75,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -143,10 +143,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
-
-**[01:12:16](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16)**
-> "Bari Weiss at CBS"
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
 **[01:12:16](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16)**
 > "why they put Bari Weiss at CBS."

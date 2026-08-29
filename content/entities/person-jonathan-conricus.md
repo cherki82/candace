@@ -16,13 +16,13 @@ _Type: People_
 Source: [Jonathan Conricus](https://en.wikipedia.org/wiki/Jonathan_Conricus)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jonathan-conricus-t-01-04-24">2026-01-29 · 01:04:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jonathan-conricus-t-01-04-24">2026-01-29 · 01:04:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jonathan-conricus-t-01-04-24">2026-01-29 · 01:04:24</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jonathan-conricus-t-01-04-24">2026-01-29 · 01:04:24</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,7 +49,7 @@ Source: [Jonathan Conricus](https://en.wikipedia.org/wiki/Jonathan_Conricus)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:04:25](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jonathan-conricus-t-01-04-24)**
+**[01:04:24](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jonathan-conricus-t-01-04-24)**
 > "someone called Jonathan Conricus"
 
 </details>
@@ -84,7 +84,19 @@ Source: [Jonathan Conricus](https://en.wikipedia.org/wiki/Jonathan_Conricus)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Piers Morgan](/entities/person-piers-morgan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:24](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF spokesman”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Bassem Youssef](/entities/person-bassem-youssef.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -97,6 +109,13 @@ Source: [Jonathan Conricus](https://en.wikipedia.org/wiki/Jonathan_Conricus)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF ... spokesman, and out of nowhere he said, "There is no famine in Gaza. There are so many videos of fat Palestinians—fat." He emphasized "fat."”
+
+</details>
+
+- **[Piers Morgan](/entities/person-piers-morgan.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:24](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF spokesman”
 
 </details>
 

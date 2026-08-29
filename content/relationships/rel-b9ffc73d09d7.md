@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Milo Yiannopoulos](/entities/person-milo-yiannopoulos) interviewed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
+
+- [00:47:30](/episodes/ep-hWTdXHGQ8R4#t-00-47-30): _maybe you can get an interview with Milo (Milo Yiannopoulos) to talk about the Epstein files he could give insight because he had that drama a few years back he talks about underage gay parties with adults check his Rogan interview Milo (Milo Yiannopoulos) called this behavior out years ago i had on the show recently i don't believe we spoke about the Epstein files but you can find that episode_
 
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 

@@ -42,7 +42,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-18" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#t-00-38-09" style="--pulse-height:10%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-jean-michel-trogneux-t-00-00-01" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 10 mentions" title="2025-12-01 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-18" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-16" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-jean-michel-trogneux-t-00-04-42" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34" style="--pulse-height:10%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 </div>
@@ -55,7 +55,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-jean-michel-trogneux-t-00-08-18) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-38-09) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-jean-michel-trogneux-t-00-00-01) | 10 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-18) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-16) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-jean-michel-trogneux-t-00-04-42) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-jean-michel-trogneux-t-00-09-34) | 1 |
 
@@ -86,7 +86,7 @@ Source: [Picture doesn't prove baseless conspiracy theory Brigitte Macron is a m
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:23:18](/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-18)**
+**[00:23:16](/episodes/ep-9naMwS0kMBE.md#ent-person-jean-michel-trogneux-t-00-23-16)**
 > "And Jean-Michel Trogneau disappears after he joins the military and is stationed over in Germany and to where he goes, we don't know."
 
 </details>

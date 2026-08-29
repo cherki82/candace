@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens says the men wearing maroon at the Charlie Kir..."
-description: "\"Candace Owens says the men wearing maroon at the Charlie Kirk event were somehow involved and that there was coordination.\" — Candace Owens"
+description: "\"Candace Owens says the men wearing maroon at the Charlie Kirk event were somehow involved and that some coordination seemed to be happening.\" — Candace Owens"
 statement_id: "statement-d75bf645cb20"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Candace Owens says the men wearing maroon at the Charlie Kirk event were somehow involved and that there was coordination.
+> Candace Owens says the men wearing maroon at the Charlie Kirk event were somehow involved and that some coordination seemed to be happening.
 
 ## Attribution
 

@@ -1,6 +1,6 @@
 ---
-title: "The 1960s were a period of military social-engineering exper..."
-description: "\"The 1960s were a period of military social-engineering experiments conducted through events such as the Manson murders and the establishment of church...\" — Candace Owens"
+title: "The 60s were a period of military social-engineering experim..."
+description: "\"The 60s were a period of military social-engineering experiments conducted through events such as the Manson murders and the establishment of churches...\" — Candace Owens"
 statement_id: "statement-444c368e6213"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> The 1960s were a period of military social-engineering experiments conducted through events such as the Manson murders and the establishment of churches.
+> The 60s were a period of military social-engineering experiments conducted through events such as the Manson murders and the establishment of churches.
 
 ## Attribution
 

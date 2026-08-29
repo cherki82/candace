@@ -88,7 +88,7 @@ Source: [PBD Podcast](https://www.youtube.com/@PBDPodcast)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:26:49](/episodes/ep-xjzb_t5Tk9o.md#ent-work-pbd-podcast-t-00-26-33)**
+**[00:26:43](/episodes/ep-xjzb_t5Tk9o.md#ent-work-pbd-podcast-t-00-26-33)**
 > "on the PBD podcast"
 
 </details>

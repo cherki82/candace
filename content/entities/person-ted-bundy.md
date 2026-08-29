@@ -17,7 +17,7 @@ _Type: People_
 Source: [What to know about serial killer Ted Bundy and his rampage of violence](https://apnews.com/article/20f8cfacdff5331a9e06fd2b0837abcd)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02">2026-01-21 · 00:50:27</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-49-55">2026-01-21 · 00:50:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-50">2026-05-06 · 00:44:17</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -31,14 +31,14 @@ Source: [What to know about serial killer Ted Bundy and his rampage of violence]
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-18">Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-49-55" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-18" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-49-55) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-ted-bundy-t-00-43-18) | 3 |
 
 </details>
@@ -66,7 +66,7 @@ Source: [What to know about serial killer Ted Bundy and his rampage of violence]
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:50:27](/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-50-02)**
+**[00:50:23](/episodes/ep-GY6GWceEqtQ.md#ent-person-ted-bundy-t-00-49-55)**
 > "we've gone from Ted Bundy to Jeffrey Dahmer"
 
 </details>

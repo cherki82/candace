@@ -21,7 +21,7 @@ _Type: Organizations_
 Source: [What is NATO?](https://www.nato.int/cps/en/natohq/what_is_nato.htm)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-org-north-atlantic-treaty-organization-t-00-19-51">2026-01-20 · 00:19:57</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-org-north-atlantic-treaty-organization-t-00-19-51">2026-01-20 · 00:19:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-north-atlantic-treaty-organization-t-00-48-26">2026-06-26 · 00:48:26</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
@@ -115,7 +115,7 @@ Source: [What is NATO?](https://www.nato.int/cps/en/natohq/what_is_nato.htm)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
 
-**[00:19:57](/episodes/ep-9naMwS0kMBE.md#ent-org-north-atlantic-treaty-organization-t-00-19-51)**
+**[00:19:51](/episodes/ep-9naMwS0kMBE.md#ent-org-north-atlantic-treaty-organization-t-00-19-51)**
 > "NATO?"
 
 **[00:20:03](/episodes/ep-9naMwS0kMBE.md#ent-org-north-atlantic-treaty-organization-t-00-20-03)**

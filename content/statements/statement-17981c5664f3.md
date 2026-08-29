@@ -1,8 +1,8 @@
 ---
 title: "Erika Kirk told Candace Owens that Turning Point USA hired a..."
-description: "\"Erika Kirk told Candace Owens that Turning Point USA hired a crisis PR team because Andrew Kolvet had made mistakes.\" — Erika Kirk"
+description: "\"Erika Kirk told Candace Owens that Turning Point USA hired a crisis PR team because Andrew Kolvet had made mistakes.\" — Candace Owens"
 statement_id: "statement-17981c5664f3"
-speaker: "Erika Kirk"
+speaker: "Candace Owens"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Erika Kirk](/entities/person-erika-kirk.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Paraphrased
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

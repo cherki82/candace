@@ -11,11 +11,15 @@ object: "person-doug-degroote"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has board member [Doug DeGroote](/entities/person-doug-degroote)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
 
 **[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
 
 - [00:08:47](/episodes/ep-QdM9jLwjwLw#t-00-08-47): _the date is September 16th. This is when Turning Point USA employees are told that Erika (Erika Kirk) is going to be replacing Charlie (Charlie Kirk) as the CEO and chairman. ... The public is going to be informed a day later on September 17th in a public letter signed off by. ... Doug DeGroote is on the board, and I should be clear that when Doug DeGroote, going backward and looking at the announcements,_
+
+**[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
+
+- [00:23:25](/episodes/ep-mFuno0TuuQQ#t-00-23-25): _Doug DeGroote, that board member that announced you as the CEO, made it really biblical._
 
 ### Related
 

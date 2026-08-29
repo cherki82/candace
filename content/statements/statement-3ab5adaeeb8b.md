@@ -50,7 +50,7 @@ Dillon's sworn testimony confirms heated debate, and Megyn Kelly publicly report
 - [DOJ Religious Liberty Commission hearing transcript](https://www.justice.gov/religious-liberty-commission/media/1435436/dl?inline=)
 - [Axios: Dispute over the Hamptons meeting](https://www.axios.com/2025/09/17/charlie-kirk-israel-candace-owens-ackman)
 
-*Verified: 2026-08-16T09:05:58.564786*
+*Verified: 2026-08-29T14:35:05.547233*
 
 ---
 

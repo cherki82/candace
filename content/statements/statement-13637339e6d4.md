@@ -28,7 +28,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:10:12](/episodes/ep-QdM9jLwjwLw.md#t-00-09-30) 
+**Timestamp:** [00:10:12](/episodes/ep-QdM9jLwjwLw.md#t-00-09-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(612);return false;">Play</a>
 
 > I know, because Andrew Kolvet told me before the public knew that the board had selected Erika (Erika Kirk) within about 72 hours of Charlie (Charlie Kirk)'s death.

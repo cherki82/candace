@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Justice"
-description: "United States Department of Justice (Organizations) - 39 mentions"
+description: "United States Department of Justice (Organizations) - 40 mentions"
 id: "org-united-states-department-of-justice"
 type: "ORG"
 aliases:
@@ -25,10 +25,10 @@ _Type: Organizations_
 Source: [About DOJ | United States Department of Justice](https://www.justice.gov/about)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21">2026-01-22 · 00:13:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-40">2026-01-22 · 00:13:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-department-of-justice-t-00-47-38">2026-07-29 · 00:48:02</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -39,7 +39,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-eMtjzXkQrsU.md#ent-org-united-states-department-of-justice-t-00-11-20">A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-40" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-united-states-department-of-justice-t-00-46-05" style="--pulse-height:12%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-united-states-department-of-justice-t-00-16-06" style="--pulse-height:62%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-29-58" style="--pulse-height:38%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
@@ -51,6 +51,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-department-of-justice-t-00-12-10" style="--pulse-height:12%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-department-of-justice-t-00-39-59" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-department-of-justice-t-00-48-39" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-department-of-justice-t-00-30-49" style="--pulse-height:12%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-united-states-department-of-justice-t-00-00-00" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-department-of-justice-t-00-32-16" style="--pulse-height:12%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-department-of-justice-t-00-06-01" style="--pulse-height:12%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
@@ -62,7 +63,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-40) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-united-states-department-of-justice-t-00-46-05) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-united-states-department-of-justice-t-00-16-06) | 5 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-united-states-department-of-justice-t-00-29-58) | 3 |
@@ -74,6 +75,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-united-states-department-of-justice-t-00-12-10) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-united-states-department-of-justice-t-00-39-59) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-department-of-justice-t-00-48-39) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-department-of-justice-t-00-30-49) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-united-states-department-of-justice-t-00-00-00) | 4 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-department-of-justice-t-00-32-16) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-department-of-justice-t-00-06-01) | 1 |
@@ -87,7 +89,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -143,6 +145,14 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 **[01:03:02](/episodes/ep-h76ZN-xXC6c.md#ent-org-united-states-department-of-justice-t-01-02-34)**
 > "... response from the FBI or the Department of Justice rather."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:31:07](/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-department-of-justice-t-00-30-49)**
+> "That's not going to be us. Three, there was a need for consultation. with another agency or two or more DOJ components, that's probably going to be us."
 
 </details>
 
@@ -288,7 +298,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:13:56](/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21)**
+**[00:13:56](/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-40)**
 > "...is doing defense work for the Department of Justice."
 
 </details>
@@ -336,7 +346,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21): “This is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Justice. That's what she moved to Arizona for.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-40): “This is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Justice. That's what she moved to Arizona for.”
 
 </details>
 
@@ -362,7 +372,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21): “This is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Justice. That's what she moved to Arizona for.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-40): “This is at a time when Lori (Lori Frantzve) is doing defense work for the Department of Justice. That's what she moved to Arizona for.”
 
 </details>
 

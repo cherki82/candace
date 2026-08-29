@@ -17,13 +17,13 @@ _Type: People_
 Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/uploads/2025/04/Press-Release-Border-Battle-Limited-Series_10052022.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57">2026-01-22 · 00:32:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-32-34">2026-01-22 · 00:32:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-00-01">2026-07-29 · 00:00:23</a></strong></div>
 <div><span>Episodes</span><strong>10</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -31,7 +31,7 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-marina-minas-t-00-19-58">EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57" style="--pulse-height:50%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-32-34" style="--pulse-height:50%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-marina-minas-t-00-58-52" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#t-00-25-59" style="--pulse-height:25%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-marina-minas-t-00-36-41" style="--pulse-height:25%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57) | 2 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-32-34) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-marina-minas-t-00-58-52) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-marina-minas-t-00-36-41) | 1 |
@@ -150,7 +150,7 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 **[00:58:52](/episodes/ep-QdM9jLwjwLw.md#ent-person-marina-minas-t-00-58-52)**
 > "...gside Stacy Sheridan and this Marina Minas who I need to take time to look into who apparent..."
 
-**[00:33:14](/episodes/ep-QdM9jLwjwLw.md#ent-person-marina-minas-t-00-32-55)**
+**[00:33:14](/episodes/ep-QdM9jLwjwLw.md#ent-person-marina-minas-t-00-33-14)**
 > "...re being conducted by Marina (Marina Minas),"
 
 </details>
@@ -158,10 +158,10 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:32:38](/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57)**
+**[00:32:34](/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-32-34)**
 > "Marina Minas, this is the Uber chick."
 
-**[00:32:41](/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-31-57)**
+**[00:32:41](/episodes/ep-gG4ZoYUjUc8.md#ent-person-marina-minas-t-00-32-34)**
 > "The Marina Minas, she..."
 
 </details>
@@ -177,7 +177,7 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), ... the COO, who's talking to Uber drivers for the tea. ... Hey, have you heard anything about Turning Point USA?”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), ... the COO, who's talking to Uber drivers for the tea. ... Hey, have you heard anything about Turning Point USA?”
 
 </details>
 
@@ -187,10 +187,11 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:24:58](/episodes/ep-B9TyCs-6o_0.md#t-00-24-35): “Marina, this psycho, is going to then just a few months later be behind getting Aubrey fired”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:25:07](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07): “So rich that they're like, you're a commie, Candace. Someone tweeted, I think their COL, this is Marina Minas who did that the other day. I'm going, you guys are literally responding to the free markets by saying the free markets need to be stopped and making private phone calls to advertisers.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), the COO, who's talking to Uber drivers for the tea.”
 
 </details>
 
@@ -224,13 +225,14 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:24:58](/episodes/ep-B9TyCs-6o_0.md#t-00-24-35): “Marina, this psycho, is going to then just a few months later be behind getting Aubrey fired”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:25:07](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07): “So rich that they're like, you're a commie, Candace. Someone tweeted, I think their COL, this is Marina Minas who did that the other day. I'm going, you guys are literally responding to the free markets by saying the free markets need to be stopped and making private phone calls to advertisers.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), the COO, who's talking to Uber drivers for the tea.”
 
 </details>
 
@@ -254,7 +256,14 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** has COO this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), ... the COO, who's talking to Uber drivers for the tea. ... Hey, have you heard anything about Turning Point USA?”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), ... the COO, who's talking to Uber drivers for the tea. ... Hey, have you heard anything about Turning Point USA?”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:58:52](/episodes/ep-QdM9jLwjwLw.md#t-00-58-52): “she was in the office every day and she was making informed decisions alongside Stacy Sheridan and this Marina Minas”
 
 </details>
 
@@ -263,7 +272,7 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Marina Minas (4)</strong></summary>
+<summary><strong class="section-title">Statements about Marina Minas (5)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
@@ -290,10 +299,13 @@ Source: [Turning Point USA Releases BORDER BATTLE](https://tpusa.com/wp-content/
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2)</summary>
 
-- [00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55) (Accusation) **Candace Owens**: ["TPUSA employees were fired because Marina Minas conducted loyalty test..."](/statements/statement-27d005de6f1a.md)
+- [00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14) (Accusation) **Candace Owens**: ["TPUSA employees were fired because Marina Minas conducted loyalty test..."](/statements/statement-27d005de6f1a.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:58:26](/episodes/ep-QdM9jLwjwLw.md#t-00-58-26) (Claim) **Anonymous Source #1 (Ep QdM9jLwjwLw)** (via read message): ["Current and former Turning Point USA employees told Owens that Erika K..."](/statements/statement-ef51a8d54215.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

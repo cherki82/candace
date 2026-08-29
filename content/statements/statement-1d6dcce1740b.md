@@ -17,7 +17,6 @@ type: "accusation"
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Paraphrased
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
 
 ## About
 

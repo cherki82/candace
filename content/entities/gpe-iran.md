@@ -1010,10 +1010,10 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[00:55:32](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-00-55-12)**
+**[00:55:30](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-00-55-12)**
 > "sanctions on Iran"
 
-**[01:10:56](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-01-10-43)**
+**[01:10:50](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-01-10-43)**
 > "...hat they want. We got to bomb Iran right now."
 
 **[01:42:22](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-01-42-22)**

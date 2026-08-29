@@ -1,6 +1,6 @@
 ---
-title: "Michael McCoy called his wife before calling Erika Kirk afte..."
-description: "\"Michael McCoy called his wife before calling Erika Kirk after Charlie Kirk was shot.\" — Candace Owens"
+title: "Michael McCoy called his wife before calling Erika Kirk."
+description: "\"Michael McCoy called his wife before calling Erika Kirk.\" — Candace Owens"
 statement_id: "statement-147b258e47d4"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Michael McCoy called his wife before calling Erika Kirk after Charlie Kirk was shot.
+> Michael McCoy called his wife before calling Erika Kirk.
 
 ## Attribution
 
@@ -22,15 +22,14 @@ type: "factual_claim"
 
 - [Michael McCoy](/entities/person-michael-mccoy.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md)
-**Timestamp:** [00:25:20](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-42) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1520);return false;">Play</a>
+**Timestamp:** [00:24:54](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-42) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1494);return false;">Play</a>
 
-> We later learned that actually that phone call did not come in within seconds. Actually, Mikey called his wife first, so much for that training that Charlie (Charlie Kirk) allegedly gave him.
+> on September 10th, Erika (Erika Kirk) was at the hospital while her mother was receiving treatments. ... they said that she was in the hospital when Mikey McCoy called her, ... We later learned that actually that phone call did not come in within seconds. Actually, Mikey called his wife first,
 
 ## Verification
 

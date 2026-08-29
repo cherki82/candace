@@ -1,6 +1,6 @@
 ---
 title: "Joe Rogan"
-description: "Joe Rogan (People) - 60 mentions"
+description: "Joe Rogan (People) - 62 mentions"
 id: "person-joe-rogan"
 type: "PERSON"
 categories:
@@ -19,11 +19,11 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-joe-rogan-t-00-02-20">2025-10-27 · 00:02:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-joe-rogan-t-00-01-00">2026-08-19 · 00:01:28</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
-<div><span>Statements by</span><strong>10</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Statements by</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-joe-rogan-t-00-27-42" style="--pulse-height:12%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-37-43" style="--pulse-height:88%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 7 mentions" title="2026-05-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-joe-rogan-t-00-43-09" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-joe-rogan-t-00-34-07" style="--pulse-height:25%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-joe-rogan-t-00-51-37" style="--pulse-height:12%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-joe-rogan-t-00-02-11" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 8 mentions" title="2026-08-07 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-joe-rogan-t-00-43-15" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
@@ -71,6 +72,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-joe-rogan-t-00-27-42) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-joe-rogan-t-00-37-43) | 7 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-joe-rogan-t-00-43-09) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-joe-rogan-t-00-34-07) | 2 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-person-joe-rogan-t-00-51-37) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-joe-rogan-t-00-02-11) | 8 |
 | 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-joe-rogan-t-00-43-15) | 1 |
@@ -87,7 +89,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (62)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -218,6 +220,17 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 **[00:51:56](/episodes/ep-iB-YtO3UZOg.md#ent-person-joe-rogan-t-00-51-37)**
 > "Do you get what I mean? be if you're gonna be a man and you're gonna podcast like and they kind of carved out the podcast space but who was it it was the military bros it was like joe rogan having on like ufc fighters they were talking about their diet and their exercise and you're like oh that's a man podcast now we have these like sissies we're like you hear what candace said yesterday oh did you hear what candace please don't do that it's so gross it's so gross i hate looking at these men"
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:34:34](/episodes/ep-5NQyGuRYbU8.md#ent-person-joe-rogan-t-00-34-07)**
+> "I mean, even Joe Rogan, I don't know if you saw this over the weekend, he jumped into the ring similarly asking the obvious, being a rational thinker, a layman, if you will, who's just wondering why nothing makes sense. He hosted Cameron Hanes on his podcast and here's what he had to say."
+
+**[00:35:29](/episodes/ep-5NQyGuRYbU8.md#ent-person-joe-rogan-t-00-35-29)**
+> "Easy, Joe Rogan. His best friends and the people around him are g..."
 
 </details>
 
@@ -440,12 +453,19 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details>
-<summary>Interviewed (2)</summary>
+<summary>Interviewed (3)</summary>
 
 - **[Peter Thiel](/entities/person-peter-thiel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:26:27](/episodes/ep-CEF7gQRWYCE.md#t-00-25-53): “And Peter Thiel, who was mentioned early on as being someone who was friends with Epstein, went on to Rogan at the end of last year and sort of intimated that he really didn't know Epstein that well,”
+
+</details>
+
+- **[Cameron Hanes](/entities/person-cameron-hanes.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:34:34](/episodes/ep-5NQyGuRYbU8.md#t-00-34-07): “He hosted Cameron Hanes on his podcast and here's what he had to say.”
 
 </details>
 
@@ -459,7 +479,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Mark Normand](/entities/person-mark-normand.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -518,6 +538,13 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 </details>
 
+- **[Cameron Hanes](/entities/person-cameron-hanes.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:34:34](/episodes/ep-5NQyGuRYbU8.md#t-00-34-07): “He hosted Cameron Hanes on his podcast and here's what he had to say.”
+
+</details>
+
 - **[Andrew Wilson](/entities/person-andrew-wilson.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -530,7 +557,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Joe Rogan (10)</strong></summary>
+<summary><strong class="section-title">Statements by Joe Rogan (11)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2)</summary>
@@ -540,6 +567,14 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 - [00:35:57](/episodes/ep-4JxgOclKzqg.md#t-00-35-57) [✓] (Accusation) ["Joe Rogan alleged that a photo presented as Tyler Robinson had been horizontally..."](/statements/statement-f397df00ca9c.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:35:12](/episodes/ep-5NQyGuRYbU8.md#t-00-35-12) [✓] (Accusation) ["Joe Rogan rhetorically asked why the account of Charlie Kirk's killing was cloud..."](/statements/statement-a92777d65883.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Joe Rogan](/entities/person-joe-rogan.md)
 
 </details>
 
@@ -590,7 +625,7 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Joe Rogan (2)</strong></summary>
+<summary><strong class="section-title">Statements about Joe Rogan (3)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
@@ -604,6 +639,14 @@ Source: [Joe Rogan official biography](https://www.joerogan.com/about)
 
 - [00:33:19](/episodes/ep-HGtMfbePDKk.md#t-00-33-19) (Claim) **Candace Owens**: ["Owens said Joe Rogan offered to host her debate with Andrew Wilson in ..."](/statements/statement-891ae07e6bf2.md)
   - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Candace Owens](/entities/person-candace-owens.md), [Texas](/entities/gpe-texas.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:35:12](/episodes/ep-5NQyGuRYbU8.md#t-00-35-12) (Accusation) **Joe Rogan** (via quoted speech): ["Joe Rogan rhetorically asked why the account of Charlie Kirk's killing..."](/statements/statement-a92777d65883.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

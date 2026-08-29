@@ -28,7 +28,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:36:24](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06) 
+**Timestamp:** [00:36:24](/episodes/ep-GY6GWceEqtQ.md#t-00-36-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2184);return false;">Play</a>
 
 > Somebody then pulled up a receipt and her dress was in the making for a year. ... So I don't know what he considers to be the 11th hour.

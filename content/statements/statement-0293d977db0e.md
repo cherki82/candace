@@ -1,6 +1,6 @@
 ---
-title: "Since Charlie Kirk's assassination, Turning Point USA receiv..."
-description: "\"Since Charlie Kirk's assassination, Turning Point USA received 100,000 chapter requests and 300,000 new donors, and had more than 50,000 hat orders an...\" — Erika Kirk"
+title: "Erika Kirk said that since Charlie Kirk's assassination, Tur..."
+description: "\"Erika Kirk said that since Charlie Kirk's assassination, Turning Point USA had 100,000 chapter requests and 300,000 new donors; she said she thought i...\" — Erika Kirk"
 statement_id: "statement-0293d977db0e"
 speaker: "Erika Kirk"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Since Charlie Kirk's assassination, Turning Point USA received 100,000 chapter requests and 300,000 new donors, and had more than 50,000 hat orders and 20,000 AmericaFest registrations.
+> Erika Kirk said that since Charlie Kirk's assassination, Turning Point USA had 100,000 chapter requests and 300,000 new donors; she said she thought it had more than 50,000 hat orders, alongside over 20,000 AmericaFest registrations.
 
 ## Attribution
 

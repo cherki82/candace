@@ -35,7 +35,7 @@ Source: [State of Georgia](https://georgia.gov/)
 <p>Highest activity: <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-georgia-us-state-t-00-02-56">Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-53-52" style="--pulse-height:9%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45" style="--pulse-height:9%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#t-00-38-53" style="--pulse-height:9%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-georgia-us-state-t-00-02-56" style="--pulse-height:100%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 11 mentions" title="2026-04-15 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-gpe-georgia-us-state-t-00-04-36" style="--pulse-height:64%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 7 mentions" title="2026-04-16 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-georgia-us-state-t-00-22-07" style="--pulse-height:18%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
@@ -45,7 +45,7 @@ Source: [State of Georgia](https://georgia.gov/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-53-52) | 1 |
-| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-53) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-georgia-us-state-t-00-02-56) | 11 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-gpe-georgia-us-state-t-00-04-36) | 7 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-georgia-us-state-t-00-22-07) | 2 |
@@ -136,7 +136,7 @@ Source: [State of Georgia](https://georgia.gov/)
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
 
-**[00:39:12](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45)**
+**[00:39:12](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-53)**
 > "...ing up to it in Fayetteville, Georgia."
 
 </details>

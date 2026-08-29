@@ -38,7 +38,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18" style="--pulse-height:26%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-bible-t-00-26-55" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14" style="--pulse-height:26%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-23" style="--pulse-height:16%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-17" style="--pulse-height:16%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-bible-t-01-06-57" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-bible-t-00-33-44" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-work-bible-t-00-01-35" style="--pulse-height:32%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
@@ -69,7 +69,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18) | 5 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-bible-t-00-26-55) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14) | 5 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-23) | 3 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-17) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-bible-t-01-06-57) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-bible-t-00-33-44) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-work-bible-t-00-01-35) | 6 |
@@ -436,13 +436,13 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
 
-**[00:01:44](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-23)**
+**[00:01:37](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-17)**
 > "...ing to try to package it in a Bible verse,"
 
-**[00:08:14](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-07-51)**
+**[00:08:14](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-07-44)**
 > "...s the last time you read your Bible,"
 
-**[00:09:32](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-09-17)**
+**[00:09:32](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-09-06)**
 > "oh, but it's it's it's in a Bible verse. So he should be like chill with that. No, ..."
 
 </details>

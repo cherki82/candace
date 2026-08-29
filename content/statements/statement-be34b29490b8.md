@@ -1,6 +1,6 @@
 ---
-title: "Erika Kirk is orchestrating a great deal behind the scenes w..."
-description: "\"Erika Kirk is orchestrating a great deal behind the scenes while keeping her hands clean.\" — Candace Owens"
+title: "My general opinion is that Erika Kirk is orchestrating a gre..."
+description: "\"My general opinion is that Erika Kirk is orchestrating a great deal behind the scenes while keeping her hands clean.\" — Candace Owens"
 statement_id: "statement-be34b29490b8"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> Erika Kirk is orchestrating a great deal behind the scenes while keeping her hands clean.
+> My general opinion is that Erika Kirk is orchestrating a great deal behind the scenes while keeping her hands clean.
 
 ## Attribution
 

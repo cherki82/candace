@@ -23,7 +23,7 @@ _Type: Events_
 Source: [What to know about State Farm Stadium, the venue hosting Charlie Kirk memorial service](https://apnews.com/article/ff4815a8ec8f4eb6f4855360a98a04fa)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-charlie-kirk-memorial-service-2025-t-00-23-39">2026-01-22 · 00:23:54</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-charlie-kirk-memorial-service-2025-t-00-23-23">2026-01-22 · 00:23:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-event-charlie-kirk-memorial-service-2025-t-00-30-38">2026-03-11 · 00:34:48</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -37,14 +37,14 @@ Source: [What to know about State Farm Stadium, the venue hosting Charlie Kirk m
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-event-charlie-kirk-memorial-service-2025-t-00-30-38">EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-charlie-kirk-memorial-service-2025-t-00-23-39" style="--pulse-height:50%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-charlie-kirk-memorial-service-2025-t-00-23-23" style="--pulse-height:50%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-event-charlie-kirk-memorial-service-2025-t-00-30-38" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 2 mentions" title="2026-03-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-event-charlie-kirk-memorial-service-2025-t-00-23-39) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-event-charlie-kirk-memorial-service-2025-t-00-23-23) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-event-charlie-kirk-memorial-service-2025-t-00-30-38) | 2 |
 
 </details>
@@ -69,7 +69,7 @@ Source: [What to know about State Farm Stadium, the venue hosting Charlie Kirk m
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:23:54](/episodes/ep-gG4ZoYUjUc8.md#ent-event-charlie-kirk-memorial-service-2025-t-00-23-39)**
+**[00:23:54](/episodes/ep-gG4ZoYUjUc8.md#ent-event-charlie-kirk-memorial-service-2025-t-00-23-23)**
 > "...n at Charlie (Charlie Kirk)'s Memorial Service."
 
 </details>

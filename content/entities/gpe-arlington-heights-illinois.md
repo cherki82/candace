@@ -27,7 +27,7 @@ Source: [Suburban visionary for gifted education dies in Florida | Daily Herald]
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -70,7 +70,29 @@ Source: [Suburban visionary for gifted education dies in Florida | Daily Herald]
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:33:06](/episodes/ep-A39g5oqB_eM.md#t-00-32-59): “Edith Marie Walker in Arlington Heights, where Charlie (Charlie Kirk) grew up.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:33:06](/episodes/ep-A39g5oqB_eM.md#t-00-32-59): “Edith Marie Walker in Arlington Heights, where Charlie (Charlie Kirk) grew up.”
+
+</details>
+
+</details>
 
 </details>
 

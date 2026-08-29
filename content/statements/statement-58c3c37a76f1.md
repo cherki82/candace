@@ -1,6 +1,6 @@
 ---
-title: "Andrew Kolvet, Michael McCoy, and McCoy's wife met with seni..."
-description: "\"Andrew Kolvet, Michael McCoy, and McCoy's wife met with senior White House officials while presenting a prerecorded Charlie Kirk Show interview as liv...\" — Candace Owens"
+title: "Candace Owens said Andrew Kolvet and, allegedly, Michael McC..."
+description: "\"Candace Owens said Andrew Kolvet and, allegedly, Michael McCoy and McCoy's wife met with senior White House officials while presenting a prerecorded C...\" — Candace Owens"
 statement_id: "statement-58c3c37a76f1"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> Andrew Kolvet, Michael McCoy, and McCoy's wife met with senior White House officials while presenting a prerecorded Charlie Kirk Show interview as live from Arizona.
+> Candace Owens said Andrew Kolvet and, allegedly, Michael McCoy and McCoy's wife met with senior White House officials while presenting a prerecorded Charlie Kirk Show interview as live from Arizona.
 
 ## Attribution
 

@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) appeared with [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (8 mentions)
+### Evidence (9 mentions)
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
@@ -40,6 +40,10 @@ object: "person-candace-owens"
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 
 - [00:50:06](/episodes/ep-puuMVxEu5NU#t-00-50-06): _I stood next to him. I don't believe there's a single person who did more events with Charlie Kirk than me._
+
+**[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
+
+- [00:56:33](/episodes/ep-xjzb_t5Tk9o#t-00-56-33): _when I was being protested, when I was speaking at some UK campuses, me and Charlie (Charlie Kirk), they were like very polite._
 
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 

@@ -49,7 +49,7 @@ The official program upload currently has more than 20 million accumulated views
 - [TPUSA: The All-American Halftime Show](https://www.youtube.com/watch?v=nJszMT9wZtQ)
 - [YouTube Help: How engagement metrics are counted](https://support.google.com/youtube/answer/2991785)
 
-*Verified: 2026-08-16T09:04:19.263029*
+*Verified: 2026-08-29T14:35:05.547199*
 
 ---
 

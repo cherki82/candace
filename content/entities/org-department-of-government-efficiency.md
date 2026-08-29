@@ -23,7 +23,7 @@ _Type: Organizations_
 Source: [Establishing And Implementing The President's Department Of Government Efficiency](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-department-of-government-efficiency-t-00-05-05">2026-01-21 · 00:05:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-department-of-government-efficiency-t-00-05-05">2026-01-21 · 00:05:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#ent-org-department-of-government-efficiency-t-00-55-24">2026-03-03 · 00:55:34</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -66,7 +66,7 @@ Source: [Establishing And Implementing The President's Department Of Government 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:05:31](/episodes/ep-GY6GWceEqtQ.md#ent-org-department-of-government-efficiency-t-00-05-05)**
+**[00:05:29](/episodes/ep-GY6GWceEqtQ.md#ent-org-department-of-government-efficiency-t-00-05-05)**
 > "So we obviously broke the story about Charlie (Charlie Kirk) establishing a doge seven days before he died,"
 
 </details>

@@ -32,7 +32,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:42:47](/episodes/ep-GY6GWceEqtQ.md#t-00-42-06) 
+**Timestamp:** [00:42:47](/episodes/ep-GY6GWceEqtQ.md#t-00-42-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2567);return false;">Play</a>
 
 > When dinner, ... which was masterminded by Thierry is on both culinary and event design was over, the newlyweds had their first dance to Only Fools Rush In, ... which was performed by rising South African artist Lloyiso. Then the friends then joined the young couple on the dance. ... And then it tells us that Marc Anthony took over the DJ decks to close out the celebrations.

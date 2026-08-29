@@ -111,7 +111,7 @@ Source: [Lyndon B. Johnson - LBJ Library](https://www.lbjlibrary.org/life-and-le
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[00:48:39](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lyndon-b-johnson-t-00-48-38)**
+**[00:48:38](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lyndon-b-johnson-t-00-48-38)**
 > "LBJ murdered JFK"
 
 **[00:59:45](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lyndon-b-johnson-t-00-59-21)**
@@ -130,7 +130,7 @@ Source: [Lyndon B. Johnson - LBJ Library](https://www.lbjlibrary.org/life-and-le
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:47:46](/episodes/ep-9naMwS0kMBE.md#ent-person-lyndon-b-johnson-t-00-47-31)**
+**[00:47:43](/episodes/ep-9naMwS0kMBE.md#ent-person-lyndon-b-johnson-t-00-47-31)**
 > "...is is the moment that we lost LBJ, who was obviously a C&"
 
 </details>
@@ -169,7 +169,7 @@ _No relationships extracted yet._
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
 
-- [00:43:34](/episodes/ep-A39g5oqB_eM.md#t-00-42-54) (Accusation) **Candace Owens**: ["Lyndon B. Johnson helped murder John F. Kennedy, set him up, then clea..."](/statements/statement-752644045760.md)
+- [00:43:34](/episodes/ep-A39g5oqB_eM.md#t-00-42-54) (Accusation) **Candace Owens**: ["I kind of feel like the military cult has been in power since Lyndon B..."](/statements/statement-752644045760.md)
   - Also about: [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
 </details>

@@ -18,8 +18,8 @@ _Type: People_
 Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm Beach Estate](https://www.vogue.com/article/nicola-peltz-marries-brooklyn-beckham-palm-beach-wedding)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-48">2026-01-21 · 00:43:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-48">2026-01-21 · 00:43:13</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-47">2026-01-21 · 00:43:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-47">2026-01-21 · 00:43:04</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -30,15 +30,15 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-48">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-47">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-48" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-47" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-48) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-47) | 1 |
 
 </details>
 </section>
@@ -51,7 +51,7 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:43:13](/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-48)**
+**[00:43:04](/episodes/ep-GY6GWceEqtQ.md#ent-person-gordon-ramsay-t-00-42-47)**
 > "celebrity chef Gordon Ramsay"
 
 </details>

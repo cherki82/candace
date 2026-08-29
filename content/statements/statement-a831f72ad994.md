@@ -1,6 +1,6 @@
 ---
-title: "Candace Owens says Alex Clark demanded that Seth Dillon call..."
-description: "\"Candace Owens says Alex Clark demanded that Seth Dillon call Owens's sponsors and make them choose between Clark and Owens.\" — Candace Owens"
+title: "Candace Owens says Alex Clark apparently demanded that Seth ..."
+description: "\"Candace Owens says Alex Clark apparently demanded that Seth Dillon call Owens's sponsors and make them choose between Clark and Owens.\" — Candace Owens"
 statement_id: "statement-a831f72ad994"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Candace Owens says Alex Clark demanded that Seth Dillon call Owens's sponsors and make them choose between Clark and Owens.
+> Candace Owens says Alex Clark apparently demanded that Seth Dillon call Owens's sponsors and make them choose between Clark and Owens.
 
 ## Attribution
 

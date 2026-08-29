@@ -11,7 +11,11 @@ object: "person-charlie-kirk"
 
 ## [Tucker Carlson](/entities/person-tucker-carlson) friend of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
+
+- [00:40:25](/episodes/ep-5NQyGuRYbU8#t-00-40-25): _Because in the manner in which Tucker (Tucker Carlson) expressed it, okay? ... him being a friend to Charlie (Charlie Kirk) and Erika (Erika Kirk)_
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 

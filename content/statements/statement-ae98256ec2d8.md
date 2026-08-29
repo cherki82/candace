@@ -48,7 +48,7 @@ Contemporaneous reporting confirms the program was prerecorded in Atlanta rather
 
 - [Us Weekly: All-American Halftime Show was prerecorded](https://www.usmagazine.com/entertainment/news/turning-point-usas-all-american-halftime-show-wasnt-broadcast-live/)
 
-*Verified: 2026-08-16T09:04:17.781204*
+*Verified: 2026-08-29T14:35:05.547181*
 
 ---
 

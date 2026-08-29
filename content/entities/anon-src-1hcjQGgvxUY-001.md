@@ -3,9 +3,14 @@ title: "Anonymous Source #1 (Ep 1hcjQGgvxUY)"
 description: "Anonymous Source #1 (Ep 1hcjQGgvxUY) (Anonymous Sources) - 1 mention"
 id: "anon-src-1hcjQGgvxUY-001"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "embedded YouTube narrator"
+  - "identity unverified"
 ---
 
 _Type: Anonymous Sources_
+
+**Categories:** embedded YouTube narrator, identity unverified
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>

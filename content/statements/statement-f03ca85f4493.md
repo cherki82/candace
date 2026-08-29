@@ -1,6 +1,6 @@
 ---
-title: "In 2017, Lori Frantzve and Larry Guinta formed Desert Spirit..."
-description: "\"In 2017, Lori Frantzve and Larry Guinta formed Desert Spirit Tek with Lyle and Shelly Reams.\" — Candace Owens"
+title: "Owens said Lyle Reams's prior indictment apparently did not ..."
+description: "\"Owens said Lyle Reams's prior indictment apparently did not prevent Lori Frantzve and Larry Guinta from forming Desert Spirit Tek with Lyle and Shelly...\" — Candace Owens"
 statement_id: "statement-f03ca85f4493"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> In 2017, Lori Frantzve and Larry Guinta formed Desert Spirit Tek with Lyle and Shelly Reams.
+> Owens said Lyle Reams's prior indictment apparently did not prevent Lori Frantzve and Larry Guinta from forming Desert Spirit Tek with Lyle and Shelly Reams in 2017.
 
 ## Attribution
 
@@ -30,7 +30,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:13:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41) 
+**Timestamp:** [00:13:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(788);return false;">Play</a>
 
 > Anyways, this background I'm telling you about Lyle (Lyle Reams) because it was apparently not a bar to entry for Lori (Lori Frantzve) and Larry (Larry Guinta) to pursue a business with Lyle (Lyle Reams) because fast forward to 2017 and together they filed to open a business. ... According to the formation docs, the business that they filed is called Desert Spirit Tech, LLC.

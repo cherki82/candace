@@ -26,7 +26,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:13:03](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50) 
+**Timestamp:** [00:13:03](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(783);return false;">Play</a>
 
 > Turning Point USA faith, ... the military. I'm sorry I looked up these people. I'm sorry that Rob McCoy is out there defending somebody who went to prison for molesting kids.

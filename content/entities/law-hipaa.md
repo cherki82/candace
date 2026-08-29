@@ -41,7 +41,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-41" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-law-hipaa-t-01-11-10" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-02-52" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-03-02" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-law-hipaa-t-00-22-31" style="--pulse-height:67%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-law-hipaa-t-00-12-58" style="--pulse-height:33%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-law-hipaa-t-00-10-02" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
@@ -60,7 +60,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-41) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-law-hipaa-t-01-11-10) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-02-52) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-03-02) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-law-hipaa-t-00-22-31) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-law-hipaa-t-00-12-58) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-law-hipaa-t-00-10-02) | 3 |
@@ -175,10 +175,10 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:03:02](/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-02-52)**
+**[00:03:02](/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-03-02)**
 > "...tter also went rogue violated HIPAA that they hopped on the phone and did this withou..."
 
-**[00:03:43](/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-03-36)**
+**[00:03:43](/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-03-43)**
 > "She knew that HIPAA, he didn't violate HIPAA. She lied in a doctor,"
 
 </details>
@@ -186,7 +186,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[01:11:22](/episodes/ep-9naMwS0kMBE.md#ent-law-hipaa-t-01-11-10)**
+**[01:11:19](/episodes/ep-9naMwS0kMBE.md#ent-law-hipaa-t-01-11-10)**
 > "...never trusted that because of HIPAA. Like you can say Andrew went rogue, but you're n..."
 
 </details>
@@ -247,7 +247,7 @@ _No relationships extracted yet._
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
 
-- [00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-02-52) (Accusation) **Candace Owens**: ["Erika Kirk lied about Andrew Kolvet and Dr. Lee Trotter going rogue an..."](/statements/statement-2824555a224c.md)
+- [00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-03-02) (Accusation) **Candace Owens**: ["Erika Kirk lied about Andrew Kolvet and Dr. Lee Trotter going rogue an..."](/statements/statement-2824555a224c.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Lee Trotter](/entities/person-lee-trotter.md)
 
 </details>

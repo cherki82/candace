@@ -1,6 +1,6 @@
 ---
-title: "Donald Trump had to become personally involved to secure Sta..."
-description: "\"Donald Trump had to become personally involved to secure State Farm Stadium for Charlie Kirk's memorial.\" — Anonymous Source #3 (Ep Wjul6YV6izo)"
+title: "Apparently, Donald Trump had to become personally involved t..."
+description: "\"Apparently, Donald Trump had to become personally involved to secure State Farm Stadium for Charlie Kirk's memorial.\" — Anonymous Source #3 (Ep Wjul6YV6izo)"
 statement_id: "statement-3999c954cfb4"
 speaker: "Anonymous Source #3 (Ep Wjul6YV6izo)"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Donald Trump had to become personally involved to secure State Farm Stadium for Charlie Kirk's memorial.
+> Apparently, Donald Trump had to become personally involved to secure State Farm Stadium for Charlie Kirk's memorial.
 
 ## Attribution
 
@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:24:55](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1495);return false;">Play</a>
 
-> Trump had to get personally involved to secure the Cardinal Stadium.
+> Apparently, ... Trump had to get personally involved to secure the Cardinal Stadium.
 
 ## Verification
 

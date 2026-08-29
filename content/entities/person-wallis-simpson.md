@@ -17,8 +17,8 @@ _Type: People_
 Source: [1936: Wallis Simpson](https://time.com/5793482/wallis-simpson-100-women-of-the-year/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-31-02">2026-01-21 · 00:31:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-31-02">2026-01-21 · 00:31:36</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-30-52">2026-01-21 · 00:31:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-30-52">2026-01-21 · 00:31:33</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -29,15 +29,15 @@ Source: [1936: Wallis Simpson](https://time.com/5793482/wallis-simpson-100-women
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-31-02">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-30-52">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-31-02" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-30-52" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-31-02) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-30-52) | 2 |
 
 </details>
 </section>
@@ -50,10 +50,10 @@ Source: [1936: Wallis Simpson](https://time.com/5793482/wallis-simpson-100-women
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
 
-**[00:31:28](/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-31-02)**
+**[00:31:25](/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-30-52)**
 > "Wallis Simpson goes over"
 
-**[00:31:36](/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-31-02)**
+**[00:31:33](/episodes/ep-GY6GWceEqtQ.md#ent-person-wallis-simpson-t-00-30-52)**
 > "Wallis Simpson?"
 
 </details>

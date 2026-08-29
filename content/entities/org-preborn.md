@@ -65,8 +65,8 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46" style="--pulse-height:71%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-30" style="--pulse-height:43%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-34" style="--pulse-height:43%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-19" style="--pulse-height:43%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 3 mentions" title="2026-01-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-41" style="--pulse-height:43%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-16" style="--pulse-height:43%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 3 mentions" title="2026-01-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-50" style="--pulse-height:43%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-preborn-t-00-31-49" style="--pulse-height:43%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-preborn-t-00-18-12" style="--pulse-height:29%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-preborn-t-00-27-23" style="--pulse-height:14%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
@@ -140,8 +140,8 @@ Source: [PreBorn!](https://preborn.com/)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46) | 5 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-30) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-34) | 3 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-19) | 3 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-41) | 3 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-16) | 3 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-50) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-preborn-t-00-31-49) | 3 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-preborn-t-00-18-12) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-preborn-t-00-27-23) | 1 |
@@ -718,13 +718,13 @@ Source: [PreBorn!](https://preborn.com/)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (3 mentions)</summary>
 
-**[00:34:05](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-41)**
+**[00:34:03](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-50)**
 > "Preborn helped rescue over 80,000 babies,"
 
-**[00:34:11](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-41)**
+**[00:34:10](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-50)**
 > "...mother in crisis walks into a preborn network clinic and sees her baby on an ultrasound..."
 
-**[00:34:59](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-34-26)**
+**[00:34:54](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-34-29)**
 > "Or you can visit preborn.com slash Candace. Again, that's preborn.com slas..."
 
 </details>
@@ -732,13 +732,13 @@ Source: [PreBorn!](https://preborn.com/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (3 mentions)</summary>
 
-**[00:21:46](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-19)**
+**[00:21:40](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-16)**
 > "last year Preborn helped rescue"
 
-**[00:21:59](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-19)**
+**[00:21:59](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-59)**
 > "...mother in crisis walks into a Preborn network clinic and sees her baby on an ultrasound..."
 
-**[00:22:41](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-22-04)**
+**[00:22:41](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-22-41)**
 > "...say the keyword baby or visit preborn.com slash Candace. Again, that's preborn.com slas..."
 
 </details>

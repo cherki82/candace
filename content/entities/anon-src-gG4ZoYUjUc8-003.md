@@ -38,13 +38,13 @@ _No relationships extracted yet._
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3)</summary>
 
-- [00:07:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-10) [○] (Accusation) ["Why would you platform anti-Semites like Candace and Tucker? There are many evan..."](/statements/statement-b9f31005c32c.md)
+- [00:07:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) [○] (Accusation) ["Why would you platform anti-Semites like Candace and Tucker? There are many evan..."](/statements/statement-b9f31005c32c.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:07:51](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51) [○] (Accusation) ["You threatened Jews and Christians with your 30 million followers? Be very caref..."](/statements/statement-0373cf4aea65.md)
+- [00:07:51](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-44) [○] (Accusation) ["You threatened Jews and Christians with your 30 million followers? Be very caref..."](/statements/statement-0373cf4aea65.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Christians](/entities/concept-christians.md), [Judaism](/entities/concept-judaism.md)
 
-- [00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51) [○] (Claim) ["The TPUSA Tampa event was a disaster; Michele Bachmann was booed and about 10% o..."](/statements/statement-7f23eb0471a6.md)
+- [00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-08-29) [○] (Claim) ["The TPUSA Tampa event was a disaster; Michele Bachmann was booed and about 10% o..."](/statements/statement-7f23eb0471a6.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Michele Bachmann](/entities/person-michele-bachmann.md), [Israel](/entities/gpe-israel.md)
 
 </details>
@@ -57,7 +57,7 @@ _No relationships extracted yet._
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:07:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-10) (Citation) **Candace Owens**: ["The donor's text message was real, and Andrew Kolvet and Erika Kirk co..."](/statements/statement-5bc36f47fa27.md)
+- [00:07:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) (Citation) **Candace Owens**: ["The donor's text message was real, and Andrew Kolvet and Erika Kirk co..."](/statements/statement-5bc36f47fa27.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

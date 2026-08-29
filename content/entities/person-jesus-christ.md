@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 319 mentions"
+description: "Jesus Christ (People) - 321 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>106</strong></div>
-<div><span>Mentions</span><strong>319</strong></div>
+<div><span>Episodes</span><strong>108</strong></div>
+<div><span>Mentions</span><strong>321</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -64,10 +64,11 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-jesus-christ-t-00-59-24" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-16" style="--pulse-height:21%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-jesus-christ-t-00-45-09" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-46" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jesus-christ-t-01-14-38" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-39" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-jesus-christ-t-00-18-10" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-24" style="--pulse-height:21%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-00-34-16" style="--pulse-height:43%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-36" style="--pulse-height:14%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-00-34-14" style="--pulse-height:43%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-jesus-christ-t-00-13-55" style="--pulse-height:64%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 9 mentions" title="2026-01-30 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jesus-christ-t-00-47-50" style="--pulse-height:36%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-jesus-christ-t-00-33-44" style="--pulse-height:29%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
@@ -119,6 +120,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-jesus-christ-t-00-02-48" style="--pulse-height:21%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-jesus-christ-t-00-18-48" style="--pulse-height:21%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-jesus-christ-t-00-58-39" style="--pulse-height:21%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-jesus-christ-t-00-37-22" style="--pulse-height:14%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-jesus-christ-t-00-33-16" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-jesus-christ-t-00-28-44" style="--pulse-height:29%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-jesus-christ-t-00-34-38" style="--pulse-height:36%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 5 mentions" title="2026-06-22 · 5 mentions"><span></span></a>
@@ -175,10 +177,11 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-jesus-christ-t-00-59-24) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-16) | 3 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-jesus-christ-t-00-45-09) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-46) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jesus-christ-t-01-14-38) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-39) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-jesus-christ-t-00-18-10) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-24) | 3 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-00-34-16) | 6 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-36) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-00-34-14) | 6 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-jesus-christ-t-00-13-55) | 9 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jesus-christ-t-00-47-50) | 5 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-jesus-christ-t-00-33-44) | 4 |
@@ -230,6 +233,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-jesus-christ-t-00-02-48) | 3 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-jesus-christ-t-00-18-48) | 3 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-jesus-christ-t-00-58-39) | 3 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-jesus-christ-t-00-37-22) | 2 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-jesus-christ-t-00-33-16) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-jesus-christ-t-00-28-44) | 4 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-jesus-christ-t-00-34-38) | 5 |
@@ -259,7 +263,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (319)</strong></summary>
+<summary><strong class="section-title">Raw mentions (321)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -572,6 +576,17 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 **[00:38:08](/episodes/ep-G3zdOeHpvS0.md#ent-person-jesus-christ-t-00-38-08)**
 > "...are not committed to the word jesus christ that is not what they are in the business of they..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:37:32](/episodes/ep-5NQyGuRYbU8.md#ent-person-jesus-christ-t-00-37-22)**
+> "Since finding a church, I recently got baptized. My kids attend Sunday school, and we talk about Jesus in our home daily."
+
+**[00:49:16](/episodes/ep-5NQyGuRYbU8.md#ent-person-jesus-christ-t-00-48-41)**
+> "...e today. We love you, Candace Christ is king."
 
 </details>
 
@@ -1325,7 +1340,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (6 mentions)</summary>
 
-**[00:34:17](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-00-34-16)**
+**[00:34:14](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-00-34-14)**
 > "We are not Jesus Christ"
 
 **[00:25:30](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-00-25-30)**
@@ -1334,27 +1349,24 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 **[01:29:57](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-01-29-57)**
 > "i'm ready to accept jesus christ right now i'm i'm i'm feeling all of these crosse..."
 
-**[01:35:58](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-01-35-51)**
+**[01:35:51](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-01-35-51)**
 > "...st of all he doesn't call him Jesus Christ."
 
-**[01:42:12](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-01-41-42)**
+**[01:42:07](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-01-41-42)**
 > "Christ is king,"
 
-**[01:44:10](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-01-44-10)**
+**[01:44:09](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jesus-christ-t-01-44-09)**
 > "think Jesus"
 
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (3 mentions)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-24)**
+**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-36)**
 > "...sly fire her over having said christ is king we'll do this during lent because surely ..."
 
-**[01:05:15](/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-01-05-02)**
-> "Christ is king."
-
-**[01:05:16](/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-01-05-02)**
+**[01:05:15](/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-01-05-15)**
 > "...ward and to realize I tweeted Christ is king."
 
 </details>
@@ -1370,11 +1382,19 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:42:06](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-46)**
+**[00:42:02](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-39)**
 > "...Erika (Erika Kirk) never says Jesus Christ. She just can't say it. She only ever says the Lo..."
 
-**[00:43:09](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-42-26)**
+**[00:43:09](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-43-04)**
 > "Christ is king."
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+
+**[01:14:38](/episodes/ep-9naMwS0kMBE.md#ent-person-jesus-christ-t-01-14-38)**
+> "...rn up the lights to max power Christ is king totally agree with that and it does feel ..."
 
 </details>
 

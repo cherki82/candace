@@ -1,6 +1,6 @@
 ---
 title: "Aurora, Colorado"
-description: "Aurora, Colorado (Places) - 5 mentions"
+description: "Aurora, Colorado (Places) - 7 mentions"
 id: "gpe-aurora-colorado"
 type: "GPE"
 aliases:
@@ -21,10 +21,10 @@ _Type: Places_
 Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.youtube.com/watch?v=y8lak3CRwDw)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-aurora-colorado-t-00-28-43">2026-03-04 · 00:28:53</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-aurora-colorado-t-00-13-31">2026-01-20 · 00:13:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aurora-colorado-t-00-53-43">2026-05-13 · 00:53:50</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-aurora-colorado-t-00-29-57">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-aurora-colorado-t-00-13-31" style="--pulse-height:67%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-aurora-colorado-t-00-29-57" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 3 mentions" title="2026-03-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aurora-colorado-t-00-53-43" style="--pulse-height:67%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 </div>
@@ -42,6 +43,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-aurora-colorado-t-00-13-31) | 2 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-aurora-colorado-t-00-29-57) | 3 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-aurora-colorado-t-00-53-43) | 2 |
 
@@ -51,7 +53,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (2 mentions)</summary>
@@ -75,6 +77,17 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 
 **[00:28:53](/episodes/ep-y8lak3CRwDw.md#ent-gpe-aurora-colorado-t-00-28-43)**
 > "that Batman shooting that took place in Aurora, Colorado"
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
+
+**[00:13:31](/episodes/ep-9naMwS0kMBE.md#ent-gpe-aurora-colorado-t-00-13-31)**
+> "...r here to go to this movie in aurora colorado it's a really"
+
+**[00:14:10](/episodes/ep-9naMwS0kMBE.md#ent-gpe-aurora-colorado-t-00-14-10)**
+> "... also of course this location aurora colorado which is where my shooting took place uh..."
 
 </details>
 

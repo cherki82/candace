@@ -1,6 +1,6 @@
 ---
 title: "Christians"
-description: "Christians (Concepts) - 115 mentions"
+description: "Christians (Concepts) - 113 mentions"
 id: "concept-christians"
 type: "CONCEPT"
 categories:
@@ -20,7 +20,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-concept-christians-t-00-52-17">2025-09-17 · 00:52:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christians-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
 <div><span>Episodes</span><strong>52</strong></div>
-<div><span>Mentions</span><strong>115</strong></div>
+<div><span>Mentions</span><strong>113</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -60,8 +60,8 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christians-t-00-22-46" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christians-t-00-05-34" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-christians-t-00-02-09" style="--pulse-height:10%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-01-23" style="--pulse-height:30%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-24-38" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-01-17" style="--pulse-height:30%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-24-38" style="--pulse-height:60%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-christians-t-00-02-09" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christians-t-00-31-48" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-christians-t-00-41-29" style="--pulse-height:10%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
@@ -117,8 +117,8 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christians-t-00-22-46) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christians-t-00-05-34) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-christians-t-00-02-09) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-01-23) | 3 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-24-38) | 8 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-01-17) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-24-38) | 6 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-christians-t-00-02-09) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christians-t-00-31-48) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-concept-christians-t-00-41-29) | 1 |
@@ -147,7 +147,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (115)</strong></summary>
+<summary><strong class="section-title">Raw mentions (113)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -378,30 +378,24 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (8 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (6 mentions)</summary>
 
 **[00:24:55](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-24-38)**
 > "...d it's okay that they spit on Christians it's okay that Israel cannot build a single churc..."
 
-**[00:38:51](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-38-44)**
+**[00:38:44](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-38-44)**
 > "...s that were happening against Christians,"
-
-**[00:38:53](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-38-44)**
-> "mass murder of Christians,"
-
-**[00:38:55](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-38-44)**
-> "... War II were not Jews, it was Christians."
 
 **[01:16:05](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-01-16-05)**
 > "... don't know about evangelical christians who used to that kind of humiliation saying that ..."
 
-**[01:36:04](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-01-35-51)**
+**[01:36:02](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-01-35-51)**
 > "...ny and it's like those stupid christians they think that they if they support israel it wi..."
 
-**[01:36:33](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-01-36-30)**
+**[01:36:30](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-01-36-30)**
 > "... talk openly about how stupid Christians and Muslims are and how they use them to fight wi..."
 
-**[01:36:40](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-01-36-39)**
+**[01:36:39](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-01-36-39)**
 > "...hat I think they believe that Christians are stupid."
 
 </details>
@@ -409,13 +403,13 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
 
-**[00:01:40](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-01-23)**
+**[00:01:37](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-01-17)**
 > "here is how Christians better behave and act."
 
-**[00:07:37](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-07-10)**
+**[00:07:35](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-07-03)**
 > "Jews and Christians,"
 
-**[00:07:59](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-07-51)**
+**[00:07:56](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-07-44)**
 > "You threatened Jews and Christians with your 30 million followers?"
 
 </details>
@@ -820,7 +814,7 @@ _No relationships extracted yet._
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:07:51](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51) (Accusation) **Anonymous Source #3 (Ep gG4ZoYUjUc8)** (via read message): ["You threatened Jews and Christians with your 30 million followers? Be ..."](/statements/statement-0373cf4aea65.md)
+- [00:07:51](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-44) (Accusation) **Anonymous Source #3 (Ep gG4ZoYUjUc8)** (via read message): ["You threatened Jews and Christians with your 30 million followers? Be ..."](/statements/statement-0373cf4aea65.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Judaism](/entities/concept-judaism.md)
 
 </details>

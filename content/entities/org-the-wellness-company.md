@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 85 mentions"
+description: "The Wellness Company (Organizations) - 87 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29">2025-09-17 · 00:59:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-29-09">2026-08-18 · 00:29:20</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>85</strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -62,6 +62,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-the-wellness-company-t-00-27-33" style="--pulse-height:50%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-the-wellness-company-t-00-14-38" style="--pulse-height:50%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 2 mentions" title="2026-05-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-the-wellness-company-t-00-26-54" style="--pulse-height:50%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-the-wellness-company-t-00-25-03" style="--pulse-height:50%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-31-31" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-26-36" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-the-wellness-company-t-00-29-02" style="--pulse-height:50%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
@@ -102,6 +103,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-org-the-wellness-company-t-00-27-33) | 2 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-the-wellness-company-t-00-14-38) | 2 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-the-wellness-company-t-00-26-54) | 2 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-the-wellness-company-t-00-25-03) | 2 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-31-31) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-26-36) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-the-wellness-company-t-00-29-02) | 2 |
@@ -118,7 +120,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (85)</strong></summary>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
@@ -212,6 +214,17 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 > "I also want to tell you guys about The Wellness Company"
 
 **[00:32:13](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-32-13)**
+> "The wellness company offers a hard-to-access Rx parasite cleanse, USA ..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:25:19](/episodes/ep-5NQyGuRYbU8.md#ent-org-the-wellness-company-t-00-25-03)**
+> "I also want to tell you guys about the wellness company because Americans love sushi over the last two decades raw fish consumption has exploded."
+
+**[00:25:58](/episodes/ep-5NQyGuRYbU8.md#ent-org-the-wellness-company-t-00-25-40)**
 > "The wellness company offers a hard-to-access Rx parasite cleanse, USA ..."
 
 </details>
@@ -357,7 +370,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (4 mentions)</summary>
 
-**[00:20:10](/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-19-55)**
+**[00:20:07](/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-19-55)**
 > "Also reminding you guys about The Wellness Company because the big medical hack of 2025 was several ..."
 
 **[00:20:39](/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-20-39)**
@@ -366,7 +379,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 **[00:20:50](/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-20-50)**
 > "The wellness company's compounded ivermectin and fenbendazole is a docto..."
 
-**[00:21:05](/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-20-50)**
+**[00:20:59](/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-20-50)**
 > "The wellness company makes the process fully digital,"
 
 </details>

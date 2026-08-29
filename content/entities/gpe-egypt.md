@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 245 mentions"
+description: "Egypt (Places) - 244 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -23,7 +23,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-egypt-t-00-46-14">2026-07-20 · 00:46:14</a></strong></div>
 <div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>245</strong></div>
+<div><span>Mentions</span><strong>244</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -65,7 +65,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-egypt-t-00-56-52" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-egypt-t-00-01-32" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-egypt-t-00-28-43" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-00-13-44" style="--pulse-height:56%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 10 mentions" title="2026-01-29 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-00-13-44" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 9 mentions" title="2026-01-29 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-egypt-t-00-10-58" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-egypt-t-00-34-32" style="--pulse-height:22%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-egypt-t-00-15-54" style="--pulse-height:28%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 5 mentions" title="2026-02-05 · 5 mentions"><span></span></a>
@@ -119,7 +119,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-egypt-t-00-56-52) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-egypt-t-00-01-32) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-egypt-t-00-28-43) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-00-13-44) | 10 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-00-13-44) | 9 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-egypt-t-00-10-58) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-egypt-t-00-34-32) | 4 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-egypt-t-00-15-54) | 5 |
@@ -144,7 +144,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (245)</strong></summary>
+<summary><strong class="section-title">Raw mentions (244)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
@@ -376,7 +376,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (10 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (9 mentions)</summary>
 
 **[00:13:44](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-00-13-44)**
 > "in Egypt"
@@ -387,16 +387,13 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 **[00:14:27](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-00-14-12)**
 > "After Iraq, he went to Egypt and he led the Lavon Affair in 1954."
 
-**[01:09:05](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-01-09-02)**
+**[01:09:02](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-01-09-02)**
 > "... Charlie Kirk thing and these Egyptian planes that were tracking him and Turning Point U..."
 
-**[01:09:21](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-01-09-18)**
-> "...it. But obviously we all know Egypt,"
-
-**[01:09:24](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-01-09-18)**
+**[01:09:18](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-01-09-18)**
 > "...they're running stuff through Egypt, obviously."
 
-**[01:09:31](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-01-09-30)**
+**[01:09:31](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-01-09-31)**
 > "...orts. I got the list of every Egyptian name that's on this."
 
 **[01:26:30](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-01-26-30)**
@@ -1237,7 +1234,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 - [01:09:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-18) (Accusation) **Candace Owens**: ["Candace Owens is convinced the Egyptian planes connected to Charlie Ki..."](/statements/statement-cca1d6a784f0.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
-- [01:09:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-30) (Claim) **Candace Owens**: ["A dead Palestinian's exact full name appeared on the list of names con..."](/statements/statement-f9e8a15fff29.md)
+- [01:09:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-31) (Claim) **Candace Owens**: ["A dead Palestinian's exact full name appeared on the list of names con..."](/statements/statement-f9e8a15fff29.md)
   - Also about: [Palestine](/entities/gpe-palestine.md)
 
 </details>

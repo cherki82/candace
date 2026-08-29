@@ -1,6 +1,6 @@
 ---
 title: "Bolsheviks"
-description: "Bolsheviks (Concepts) - 15 mentions"
+description: "Bolsheviks (Concepts) - 16 mentions"
 id: "concept-bolsheviks"
 type: "CONCEPT"
 aliases:
@@ -22,8 +22,8 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-concept-bolsheviks-t-00-56-19">2025-10-29 · 00:56:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-bolsheviks-t-00-26-32">2026-06-18 · 00:26:40</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 <a href="/episodes/ep-LATnak75Si0.md#ent-concept-bolsheviks-t-00-26-36" style="--pulse-height:50%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-bolsheviks-t-00-52-13" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-bolsheviks-t-00-47-31" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-bolsheviks-t-00-17-22" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-bolsheviks-t-00-33-55" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-concept-bolsheviks-t-00-57-26" style="--pulse-height:50%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
@@ -54,6 +55,7 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-concept-bolsheviks-t-00-26-36) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-bolsheviks-t-00-52-13) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-bolsheviks-t-00-54-53) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-bolsheviks-t-00-47-31) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-bolsheviks-t-00-17-22) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-bolsheviks-t-00-33-55) | 2 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-concept-bolsheviks-t-00-57-26) | 1 |
@@ -68,7 +70,7 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2 mentions)</summary>
@@ -130,8 +132,16 @@ Source: [Encyclopaedia Britannica: Bolshevik](https://www.britannica.com/topic/B
 **[00:17:22](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-bolsheviks-t-00-17-22)**
 > "where did all these Bolsheviks go"
 
-**[00:37:52](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-bolsheviks-t-00-37-51)**
+**[00:37:51](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-bolsheviks-t-00-37-51)**
 > "...o what I was saying about the Bolsheviks. I mean, one episode we were speaking about even ..."
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+
+**[00:47:31](/episodes/ep-9naMwS0kMBE.md#ent-concept-bolsheviks-t-00-47-31)**
+> "...leading up to it. I think the Bolsheviks had infiltrated, obviously."
 
 </details>
 

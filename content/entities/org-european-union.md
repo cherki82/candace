@@ -20,7 +20,7 @@ _Type: Organizations_
 Source: [European Union: A Short Guide to the EU](https://op.europa.eu/webpub/com/short-guide-eu/en/about-eu.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-european-union-t-00-06-51">2026-01-29 · 00:07:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-european-union-t-00-07-09">2026-01-29 · 00:07:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#t-00-26-28">2026-03-17 · 00:26:28</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
@@ -34,7 +34,7 @@ Source: [European Union: A Short Guide to the EU](https://op.europa.eu/webpub/co
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-european-union-t-00-07-03">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-european-union-t-00-06-51" style="--pulse-height:17%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-european-union-t-00-07-09" style="--pulse-height:17%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-european-union-t-00-07-03" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 6 mentions" title="2026-03-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#t-00-57-25" style="--pulse-height:17%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#t-00-20-27" style="--pulse-height:17%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
@@ -44,7 +44,7 @@ Source: [European Union: A Short Guide to the EU](https://op.europa.eu/webpub/co
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-european-union-t-00-06-51) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-european-union-t-00-07-09) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-european-union-t-00-07-03) | 6 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#t-00-57-25) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#t-00-20-27) | 1 |
@@ -108,7 +108,7 @@ Source: [European Union: A Short Guide to the EU](https://op.europa.eu/webpub/co
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:07:09](/episodes/ep-xjzb_t5Tk9o.md#ent-org-european-union-t-00-06-51)**
+**[00:07:09](/episodes/ep-xjzb_t5Tk9o.md#ent-org-european-union-t-00-07-09)**
 > "aid from the European Union"
 
 </details>
@@ -183,7 +183,7 @@ Source: [European Union: A Short Guide to the EU](https://op.europa.eu/webpub/co
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
 
-- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-51) (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video ..."](/statements/statement-316c32dcf384.md)
+- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-07-09) (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video ..."](/statements/statement-316c32dcf384.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hamas](/entities/org-hamas.md), [Palestinian Authority](/entities/org-palestinian-authority.md)
 
 </details>

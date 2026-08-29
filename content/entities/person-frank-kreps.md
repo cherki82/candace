@@ -27,7 +27,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -64,7 +64,29 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Arrested (1)</summary>
+
+- **[Mason Abbas](/entities/person-mason-abbas.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:34:02](/episodes/ep-ZAsV0fHGBiM.md#t-00-33-40): “Yes, Mason Abbas was arrested yesterday by County Detective Frank Kreps.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Mason Abbas](/entities/person-mason-abbas.md)** arrested by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:34:02](/episodes/ep-ZAsV0fHGBiM.md#t-00-33-40): “Yes, Mason Abbas was arrested yesterday by County Detective Frank Kreps.”
+
+</details>
+
+</details>
 
 </details>
 

@@ -11,11 +11,15 @@ object: "person-jeremy-boreing"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) has former CEO [Jeremy Boreing](/entities/person-jeremy-boreing)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
 - [00:43:25](/episodes/ep-2T39-oADLj0#t-00-43-25): _twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil_
+
+**[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
+
+- [00:00:37](/episodes/ep-QdM9jLwjwLw#t-00-00-37): _And speaking of different ways to grieve, the now former CEO of Daily Wire, Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground._
 
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 

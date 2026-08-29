@@ -1,6 +1,6 @@
 ---
-title: "Turning Point USA presented an Uber driver's secondhand acco..."
-description: "\"Turning Point USA presented an Uber driver's secondhand account naming Aubrey Laitsch as one of the reasons for her termination.\" — Aubrey Laitsch"
+title: "Aubrey Laitsch said Turning Point USA presented an alleged s..."
+description: "\"Aubrey Laitsch said Turning Point USA presented an alleged secondhand Uber-driver account naming her as one of the reasons for her termination.\" — Aubrey Laitsch"
 statement_id: "statement-b63461df8d24"
 speaker: "Aubrey Laitsch"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Turning Point USA presented an Uber driver's secondhand account naming Aubrey Laitsch as one of the reasons for her termination.
+> Aubrey Laitsch said Turning Point USA presented an alleged secondhand Uber-driver account naming her as one of the reasons for her termination.
 
 ## Attribution
 

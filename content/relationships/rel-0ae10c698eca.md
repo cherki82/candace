@@ -11,7 +11,11 @@ object: "person-donald-trump"
 
 ## [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) met with [Donald J. Trump](/entities/person-donald-trump)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
+
+- [00:21:50](/episodes/ep-5NQyGuRYbU8#t-00-21-50): _Bibi (Benjamin Netanyahu) Netanyahu enters the White House and presents President Trump (Donald Trump) with a gift, a golden pager, a nod to the Mossad's pager operation._
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 

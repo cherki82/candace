@@ -47,7 +47,7 @@ Whether Charlie Kirk's parents privately contacted Owens is knowable chiefly to 
 
 - [AP: Charlie Kirk's parents to attend preliminary hearing](https://apnews.com/article/charlie-kirk-erika-tyler-robinson-29803559dfff5dbfeaf952615e27f517)
 
-*Verified: 2026-08-16T09:06:22.299998*
+*Verified: 2026-08-29T14:35:05.547241*
 
 ---
 

@@ -1,22 +1,22 @@
 ---
-title: "Erika Kirk waited about an hour for Andrew Kolvet to land an..."
-description: "\"Erika Kirk waited about an hour for Andrew Kolvet to land and embraced him on the tarmac before going to the hospital.\" — Candace Owens"
+title: "Candace Owens said Andrew Kolvet told her that he and Erika ..."
+description: "\"Candace Owens said Andrew Kolvet told her that he and Erika Kirk embraced on the tarmac, and Owens inferred from their flight times that Erika waited ...\" — Candace Owens"
 statement_id: "statement-86bfdd14d7d9"
 speaker: "Candace Owens"
-type: "accusation"
+type: "factual_claim"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Erika Kirk waited about an hour for Andrew Kolvet to land and embraced him on the tarmac before going to the hospital.
+> Candace Owens said Andrew Kolvet told her that he and Erika Kirk embraced on the tarmac, and Owens inferred from their flight times that Erika waited about an hour before going to the hospital.
 
 ## Attribution
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Made directly
+**Delivery:** Paraphrased
 
 ## About
 
@@ -37,4 +37,4 @@ _This statement has not yet been verified._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** Yes

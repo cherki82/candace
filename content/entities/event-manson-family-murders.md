@@ -73,7 +73,7 @@ _No relationships extracted yet._
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
 
-- [00:23:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-23-34) (Claim) **Candace Owens**: ["The 1960s were a period of military social-engineering experiments con..."](/statements/statement-444c368e6213.md)
+- [00:23:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-23-34) (Claim) **Candace Owens**: ["The 60s were a period of military social-engineering experiments condu..."](/statements/statement-444c368e6213.md)
   - Also about: [United States](/entities/gpe-united-states.md)
 
 </details>

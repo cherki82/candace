@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 123 mentions"
+description: "Terrell Farnsworth (People) - 124 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 categories:
@@ -19,10 +19,10 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41">2025-11-12 · 00:16:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-terrell-farnsworth-t-00-02-43">2026-08-21 · 00:02:50</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>123</strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>124</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
-<div><span>Statements about</span><strong>53</strong></div>
+<div><span>Statements about</span><strong>54</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-06-57" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-terrell-farnsworth-t-00-27-54" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-terrell-farnsworth-t-00-17-58" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#t-00-04-45" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-terrell-farnsworth-t-00-06-11" style="--pulse-height:35%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 15 mentions" title="2026-06-22 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-terrell-farnsworth-t-00-23-02" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-terrell-farnsworth-t-00-19-39" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
@@ -73,6 +74,7 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-06-57) | 5 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-terrell-farnsworth-t-00-27-54) | 2 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-terrell-farnsworth-t-00-17-58) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-terrell-farnsworth-t-00-06-11) | 15 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-terrell-farnsworth-t-00-23-02) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-terrell-farnsworth-t-00-19-39) | 2 |
@@ -91,7 +93,7 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+<summary><strong class="section-title">Raw mentions (124)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -394,6 +396,14 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 
 **[00:44:20](/episodes/ep-VMNWMXX1vO8.md#ent-person-terrell-farnsworth-t-00-44-01)**
 > "...mble fast enough and Terrell (Terrell Farnsworth) couldn't scramble fast enough. And new witnesses..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:05:04](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45)**
+> "Terrell (associate present at the scene; surname and spelling unverified) starts recording him. It is so chilling to hear Charlie (Charlie Kirk) basically describe regarding Butler what we have all recognized regarding his assassination."
 
 </details>
 
@@ -748,7 +758,7 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (53)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (54)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (11)</summary>
@@ -865,6 +875,14 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 
 - [00:17:27](/episodes/ep-VMNWMXX1vO8.md#t-00-16-58) (Accusation) **Candace Owens**: ["My theory is that Terrell Farnsworth scrambled to remove the camera's ..."](/statements/statement-28dc2a93e039.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Shaped charge](/entities/concept-shaped-charge.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:05:04](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45) (Claim) **Candace Owens**: ["Candace Owens said a person identified in the cleaned transcript as Te..."](/statements/statement-28e8ff4b5485.md)
+  - Also about: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

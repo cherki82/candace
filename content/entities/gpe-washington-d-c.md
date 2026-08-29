@@ -1,6 +1,6 @@
 ---
 title: "Washington, D.C."
-description: "Washington, D.C. (Places) - 84 mentions"
+description: "Washington, D.C. (Places) - 86 mentions"
 id: "gpe-washington-d-c"
 type: "GPE"
 aliases:
@@ -30,9 +30,9 @@ Source: [Washington, DC](https://dc.gov/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-washington-d-c-t-00-12-10">2025-09-11 · 00:12:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-washington-d-c-t-00-53-02">2026-08-04 · 00:53:02</a></strong></div>
 <div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>84</strong></div>
+<div><span>Mentions</span><strong>86</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,9 +52,9 @@ Source: [Washington, DC](https://dc.gov/)
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-50" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-18-50" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-washington-d-c-t-00-07-13" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#t-01-04-00" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#t-01-03-49" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-34-29" style="--pulse-height:38%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-34-29" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-washington-d-c-t-00-05-28" style="--pulse-height:12%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-washington-d-c-t-00-55-30" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
@@ -96,9 +96,9 @@ Source: [Washington, DC](https://dc.gov/)
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-50) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-18-50) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-washington-d-c-t-00-07-13) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-01-04-00) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-01-03-49) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43) | 3 |
-| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-34-29) | 3 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-34-29) | 4 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-washington-d-c-t-00-05-28) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-washington-d-c-t-00-55-30) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-washington-d-c-t-00-34-55) | 2 |
@@ -131,7 +131,7 @@ Source: [Washington, DC](https://dc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+<summary><strong class="section-title">Raw mentions (86)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (3 mentions)</summary>
@@ -427,7 +427,7 @@ Source: [Washington, DC](https://dc.gov/)
 </details>
 
 <details>
-<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (3 mentions)</summary>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (4 mentions)</summary>
 
 **[00:34:29](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-34-29)**
 > "on March 19th in Washington, D.C."
@@ -438,12 +438,15 @@ Source: [Washington, DC](https://dc.gov/)
 **[00:36:08](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-35-44)**
 > "D.C. on March 19th."
 
+**[00:35:59](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-washington-d-c-t-00-35-44)**
+> "...ic Prayer for America Gala in Washington, D.C. on March 19th."
+
 </details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[01:10:40](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43)**
+**[01:10:37](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43)**
 > "go to D.C."
 
 **[01:10:43](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-washington-d-c-t-01-10-43)**
@@ -457,10 +460,10 @@ Source: [Washington, DC](https://dc.gov/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
 
-**[01:04:13](/episodes/ep-GY6GWceEqtQ.md#t-01-04-00)**
+**[01:04:07](/episodes/ep-GY6GWceEqtQ.md#t-01-03-49)**
 > "DC and Hollywood are the same thing"
 
-**[01:04:16](/episodes/ep-GY6GWceEqtQ.md#t-01-04-00)**
+**[01:04:16](/episodes/ep-GY6GWceEqtQ.md#t-01-03-49)**
 > "...er and they're like uglier in DC."
 
 </details>
@@ -606,7 +609,7 @@ Source: [Washington, DC](https://dc.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Washington, D.C. (13)</strong></summary>
+<summary><strong class="section-title">Statements about Washington, D.C. (14)</strong></summary>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1)</summary>
@@ -651,6 +654,14 @@ Source: [Washington, DC](https://dc.gov/)
 
 - [00:35:57](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44) (Promise) **John Yep**: ["Catholics for Catholics announced Candace Owens as a keynote speaker a..."](/statements/statement-4d40eb78d0bf.md)
   - Also about: [Catholics for Catholics](/entities/org-catholics-for-catholics.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+
+- [01:10:50](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43) (Accusation) **Candace Owens**: ["Candace Owens implied that Israel has a blackmail file on Lindsey Grah..."](/statements/statement-7a4a955214b1.md)
+  - Also about: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md)
 
 </details>
 

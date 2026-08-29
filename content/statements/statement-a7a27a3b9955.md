@@ -28,10 +28,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:51:17](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3077);return false;">Play</a>
+**Timestamp:** [00:51:16](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3076);return false;">Play</a>
 
-> Jeremy (Jeremy Boreing) actually personally reviewed Andrew Klavan's episode before it went out the first.
+> True story. Jeremy (Jeremy Boreing) actually personally reviewed Andrew Klavan's episode before it went out the first. ... attack after we amicably departed.
 
 ## Verification
 

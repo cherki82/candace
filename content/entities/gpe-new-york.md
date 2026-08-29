@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "New York (Places) - 149 mentions"
+description: "New York (Places) - 151 mentions"
 id: "gpe-new-york"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [State of New York](https://www.ny.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-50-22">2025-09-15 · 00:50:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-new-york-t-00-13-05">2026-07-31 · 00:13:14</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>149</strong></div>
+<div><span>Episodes</span><strong>42</strong></div>
+<div><span>Mentions</span><strong>151</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,6 +49,7 @@ Source: [State of New York](https://www.ny.gov/)
 <a href="/episodes/ep-mKXdKV-OBog.md#t-00-28-48" style="--pulse-height:8%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#t-00-19-05" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#t-00-17-32" style="--pulse-height:15%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-york-t-00-57-54" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-35-51" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-t-00-28-00" style="--pulse-height:23%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-new-york-t-00-51-35" style="--pulse-height:23%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
@@ -66,6 +67,7 @@ Source: [State of New York](https://www.ny.gov/)
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22" style="--pulse-height:15%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28" style="--pulse-height:54%" aria-label="Candace x Hunter Biden: The Interview: 7 mentions" title="2026-05-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-t-00-25-49" style="--pulse-height:31%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 4 mentions" title="2026-06-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-new-york-t-00-50-03" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-t-00-36-10" style="--pulse-height:38%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 5 mentions" title="2026-06-23 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-t-00-37-18" style="--pulse-height:23%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-new-york-t-00-24-29" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
@@ -94,6 +96,7 @@ Source: [State of New York](https://www.ny.gov/)
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#t-00-28-48) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-19-05) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#t-00-17-32) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-york-t-00-57-54) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-35-51) | 5 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-t-00-28-00) | 3 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-new-york-t-00-51-35) | 3 |
@@ -111,6 +114,7 @@ Source: [State of New York](https://www.ny.gov/)
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-new-york-t-00-30-22) | 2 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-new-york-t-00-15-28) | 7 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-new-york-t-00-25-49) | 4 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-new-york-t-00-50-03) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-t-00-36-10) | 5 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-t-00-37-18) | 3 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-new-york-t-00-24-29) | 1 |
@@ -122,7 +126,7 @@ Source: [State of New York](https://www.ny.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (149)</strong></summary>
+<summary><strong class="section-title">Raw mentions (151)</strong></summary>
 
 <details>
 <summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (2 mentions)</summary>
@@ -174,6 +178,14 @@ Source: [State of New York](https://www.ny.gov/)
 
 **[00:36:57](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-new-york-t-00-36-10)**
 > "...lothing line while she was in New York City. She was also a reality TV star while she wa..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:50:03](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-new-york-t-00-50-03)**
+> "Did you do the foyer? Is it in the foyer? See, I just, I can't. You know why? Because I'm born in New York and my whole family's from New York and like that accent is giving, it's giving BK for me."
 
 </details>
 
@@ -515,8 +527,8 @@ Source: [State of New York](https://www.ny.gov/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (5 mentions)</summary>
 
-**[01:35:58](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-35-51)**
-> "in New York"
+**[01:35:51](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-35-51)**
+> "...s lectures in Los Angeles, in New York and just first of all he doesn't call him Jesus C..."
 
 **[01:22:26](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-23-21)**
 > "... it's interesting because the New York Times contacted me, they're doing some big piece ..."
@@ -527,8 +539,16 @@ Source: [State of New York](https://www.ny.gov/)
 **[01:23:21](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-23-21)**
 > "isn't like the New York Times who had proudly published a piece like wher..."
 
-**[01:23:42](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-23-21)**
+**[01:23:43](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-new-york-t-01-23-21)**
 > "This is the New York Times."
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+
+**[00:57:54](/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-york-t-00-57-54)**
+> "Was it raised in New York at the Hamptons retreat?"
 
 </details>
 
@@ -777,7 +797,19 @@ Source: [State of New York](https://www.ny.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Location Of (1)</summary>
+<summary>Birthplace Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:50:03](/episodes/ep-5NQyGuRYbU8.md#t-00-49-24): “Because I'm born in New York and my whole family's from New York”
+
+</details>
+
+</details>
+
+<details>
+<summary>Location Of (2)</summary>
 
 - **[Russian Soviet Government Bureau](/entities/org-russian-soviet-government-bureau.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -786,15 +818,36 @@ Source: [State of New York](https://www.ny.gov/)
 
 </details>
 
+- **[The Corcoran Group](/entities/org-corcoran-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:32:38](/episodes/ep-ti5Fxrvegno.md#t-00-32-21): “beginning a career with Corcoran Real Estate, which is a massive real estate firm in New York.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Russian Soviet Government Bureau](/entities/org-russian-soviet-government-bureau.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:26:07](/episodes/ep-YeEtS7nix3o.md#t-00-25-49): “Martens' unofficial Soviet Bureau in New York.”
+
+</details>
+
+- **[The Corcoran Group](/entities/org-corcoran-group.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:32:38](/episodes/ep-ti5Fxrvegno.md#t-00-32-21): “beginning a career with Corcoran Real Estate, which is a massive real estate firm in New York.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** born in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:50:03](/episodes/ep-5NQyGuRYbU8.md#t-00-49-24): “Because I'm born in New York and my whole family's from New York”
 
 </details>
 

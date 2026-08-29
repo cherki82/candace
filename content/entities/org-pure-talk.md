@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 202 mentions"
+description: "Pure Talk (Organizations) - 204 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -25,8 +25,8 @@ Source: [PureTalk](https://www.puretalk.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-47">2025-09-15 · 00:55:47</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-57-01">2026-08-21 · 00:57:05</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>202</strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>204</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -49,7 +49,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-52-58" style="--pulse-height:29%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-pure-talk-t-00-35-11" style="--pulse-height:86%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 6 mentions" title="2026-01-27 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 7 mentions" title="2026-01-29 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22" style="--pulse-height:71%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-pure-talk-t-00-52-00" style="--pulse-height:71%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-pure-talk-t-00-33-05" style="--pulse-height:71%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 5 mentions" title="2026-02-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-pure-talk-t-00-47-31" style="--pulse-height:86%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 6 mentions" title="2026-02-25 · 6 mentions"><span></span></a>
@@ -66,6 +66,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-14" style="--pulse-height:57%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-pure-talk-t-00-45-02" style="--pulse-height:57%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-pure-talk-t-00-20-12" style="--pulse-height:86%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 6 mentions" title="2026-06-11 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-pure-talk-t-00-26-17" style="--pulse-height:57%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 4 mentions" title="2026-06-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-pure-talk-t-00-30-04" style="--pulse-height:86%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 6 mentions" title="2026-06-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-pure-talk-t-00-31-12" style="--pulse-height:71%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43" style="--pulse-height:86%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
@@ -94,7 +95,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-52-58) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-pure-talk-t-00-35-11) | 6 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22) | 7 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22) | 5 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-pure-talk-t-00-52-00) | 5 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-pure-talk-t-00-33-05) | 5 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-pure-talk-t-00-47-31) | 6 |
@@ -111,6 +112,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-pure-talk-t-00-21-14) | 4 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-pure-talk-t-00-45-02) | 4 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-pure-talk-t-00-20-12) | 6 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-pure-talk-t-00-26-17) | 4 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-pure-talk-t-00-30-04) | 6 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-pure-talk-t-00-31-12) | 5 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43) | 6 |
@@ -129,7 +131,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (202)</strong></summary>
+<summary><strong class="section-title">Raw mentions (204)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -363,6 +365,23 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 **[00:31:35](/episodes/ep-3QJqtW_NOSI.md#ent-org-pure-talk-t-00-31-30)**
 > "Again, that's puretalk.com/Owens to start saving."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4 mentions)</summary>
+
+**[00:26:27](/episodes/ep-5NQyGuRYbU8.md#ent-org-pure-talk-t-00-26-17)**
+> "Again, that's twc.health slash Candace and it's for U.S. USA residents only. I also want to remind you guys about Pure Talk because America does not stand for 250 years as a beacon of hope without the brave men and women willing to put their lives on the line to defend it."
+
+**[00:26:42](/episodes/ep-5NQyGuRYbU8.md#ent-org-pure-talk-t-00-26-17)**
+> "To honor those patriots, Pure Talk and its customers will raise $250,000 for America..."
+
+**[00:27:03](/episodes/ep-5NQyGuRYbU8.md#ent-org-pure-talk-t-00-26-55)**
+> "...ch your cell phone service to Pure Talk this month, you'll have an opportunity to round u..."
+
+**[00:27:22](/episodes/ep-5NQyGuRYbU8.md#ent-org-pure-talk-t-00-26-55)**
+> "...pany that shares your values, Pure Talk. So head to puretalk.com slash Owens to make the ..."
 
 </details>
 
@@ -669,28 +688,22 @@ Source: [PureTalk](https://www.puretalk.com/)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (7 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (5 mentions)</summary>
 
 **[01:19:22](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
-> "remind you about PureTalk"
-
-**[01:20:01](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
-> "Take the switch to Pure Talk"
-
-**[01:19:27](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
 > "PureTalk gives you unlimited talk, text, and plenty of dat..."
 
-**[01:19:34](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
+**[01:20:01](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-20-01)**
+> "Take the switch to Pure Talk"
+
+**[01:19:30](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
 > "PureTalk is an American wireless company who supports our ..."
 
-**[01:19:43](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
+**[01:19:39](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
 > "PureTalk uses the same towers as the big carriers,"
 
-**[01:19:54](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
+**[01:19:53](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
 > "Head to puretalk.com slash Owens and you'll get 50% off your first..."
-
-**[01:19:59](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22)**
-> "that is puretalk.com slash Owens."
 
 </details>
 
@@ -983,13 +996,14 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Funded (1)</summary>
 
 - **[America's Warrior Partnership](/entities/org-americas-warrior-partnership.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:05](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “They donate over half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the front lines of preventing veteran suicide.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:28:14](/episodes/ep-1mYNOqzAdXs.md#t-00-27-54): “Pure Talk is veteran led. So helping veterans is their North star. They have donated over half a million dollars to America's warrior partnership.”
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:20:40](/episodes/ep-19vHhjF7-NA.md#t-00-20-12): “PureTalk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:27:03](/episodes/ep-5NQyGuRYbU8.md#t-00-26-55): “Pure Talk will match that donation”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:32:11](/episodes/ep-IqHsl7d2dos.md#t-00-31-51): “PureTalk will match that donation until they hit $250,000. So enjoy unlimited talk, unlimited text, and unlimited high-speed data for just $34.99 a month.”
 
 </details>
@@ -1039,13 +1053,14 @@ Source: [PureTalk](https://www.puretalk.com/)
 </details>
 
 - **[America's Warrior Partnership](/entities/org-americas-warrior-partnership.md)** funded by this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:23:55](/episodes/ep-DEtFh2Ff-58.md#t-00-23-45): “PureTalk is veteran-led, so helping veterans is their North Star. They've donated over half a million dollars to America's Warrior Partnership.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:48:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-48-40): “PeerTalk is veteran-led, so helping veterans is their North Star. They have donated over half a million dollars to America's warrior partnership, a fantastic organization that is on the front lines of preventing veteran suicide.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:05](/episodes/ep-ZIH5-V6UPkg.md#t-00-22-37): “They donate over half a million dollars to America's Warrior Partnership, which is a fantastic organization that is on the front lines of preventing veteran suicide.”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:28:14](/episodes/ep-1mYNOqzAdXs.md#t-00-27-54): “Pure Talk is veteran led. So helping veterans is their North star. They have donated over half a million dollars to America's warrior partnership.”
 - [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 @ 00:20:40](/episodes/ep-19vHhjF7-NA.md#t-00-20-12): “PureTalk and its customers will raise $250,000 for America's Warrior Partnership by the end of July.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:27:03](/episodes/ep-5NQyGuRYbU8.md#t-00-26-55): “Pure Talk will match that donation”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:32:11](/episodes/ep-IqHsl7d2dos.md#t-00-31-51): “PureTalk will match that donation until they hit $250,000. So enjoy unlimited talk, unlimited text, and unlimited high-speed data for just $34.99 a month.”
 
 </details>

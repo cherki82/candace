@@ -1,6 +1,6 @@
 ---
 title: "Corey Comperatore"
-description: "Corey Comperatore (People) - 5 mentions"
+description: "Corey Comperatore (People) - 14 mentions"
 id: "person-corey-comperatore"
 type: "PERSON"
 categories:
@@ -17,28 +17,30 @@ _Type: People_
 Source: [Congressional Record — Honoring the Life of Corey Comperatore](https://www.congress.gov/118/crec/2024/07/22/170/118/CREC-2024-07-22-house.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-corey-comperatore-t-00-02-16">2026-06-16 · 00:02:22</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-00-01">2026-06-15 · 00:00:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-corey-comperatore-t-00-28-10">2026-07-16 · 00:28:17</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-corey-comperatore-t-00-02-16">The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-00-01">Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-corey-comperatore-t-00-02-16" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-corey-comperatore-t-00-48-59" style="--pulse-height:50%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-corey-comperatore-t-00-00-43" style="--pulse-height:100%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-00-01" style="--pulse-height:100%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 9 mentions" title="2026-06-15 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-corey-comperatore-t-00-02-16" style="--pulse-height:22%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-corey-comperatore-t-00-48-59" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-corey-comperatore-t-00-00-43" style="--pulse-height:22%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-00-01) | 9 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-corey-comperatore-t-00-02-16) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-corey-comperatore-t-00-48-59) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-corey-comperatore-t-00-00-43) | 2 |
@@ -49,7 +51,7 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
@@ -81,6 +83,38 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 
 </details>
 
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (9 mentions)</summary>
+
+**[00:00:22](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-00-01)**
+> "It was actually a firefighter named Corey Comperatore. A story which features an actual widow who I am told still has some lingering questions about what took place on that fateful evening."
+
+**[00:10:53](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-10-53)**
+> "Mark Liti's friend's name was Corey Comperatore. Yes, it was Corey Comperatore who Mark Liti had confided his secret to, that he had done something that he wasn't supposed to."
+
+**[00:11:03](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-10-53)**
+> "... what end? Did he tell Corey (Corey Comperatore) more about what he was doing with those explosiv..."
+
+**[00:11:10](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-10-53)**
+> "...ive today, as we know. Corey (Corey Comperatore) and his family had quite an odd evening the nigh..."
+
+**[00:11:26](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-11-26)**
+> "In fact, Corey (Corey Comperatore) had grabbed regular tickets for he and his famil..."
+
+**[00:11:55](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-11-26)**
+> "Corey Comperatore then is shot in the head."
+
+**[00:12:17](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-12-01)**
+> "...hs after the Butler shooting, Corey Comperatore loses his life, and then a never-before-seen terr..."
+
+**[00:23:44](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-23-44)**
+> "... it on authority the widow of Corey Comperatore and the family of Corey Comperatore is not like T..."
+
+**[00:24:04](/episodes/ep-5NQyGuRYbU8.md#ent-person-corey-comperatore-t-00-23-44)**
+> "... they are receiving about how Corey Comperatore was killed. Imagine that."
+
+</details>
+
 </details>
 
 <details open>
@@ -99,7 +133,14 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 </details>
 
 <details>
-<summary>Friend Of (1)</summary>
+<summary>Friend Of (2)</summary>
+
+- **[Mark A. Liti](/entities/person-mark-liti.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:10:53](/episodes/ep-5NQyGuRYbU8.md#t-00-10-16): “Mark Liti's friend's name was Corey Comperatore. Yes, it was Corey Comperatore who Mark Liti had confided his secret to, that he had done something that he wasn't supposed to.”
+
+</details>
 
 - **[Don Porter (identity not independently verified)](/entities/anon-src-h76ZN-xXC6c-don-porter.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -111,7 +152,14 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Mark A. Liti](/entities/person-mark-liti.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:10:53](/episodes/ep-5NQyGuRYbU8.md#t-00-10-16): “Mark Liti's friend's name was Corey Comperatore. Yes, it was Corey Comperatore who Mark Liti had confided his secret to, that he had done something that he wasn't supposed to.”
+
+</details>
 
 - **[Don Porter (identity not independently verified)](/entities/anon-src-h76ZN-xXC6c-don-porter.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -132,7 +180,7 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Corey Comperatore (3)</strong></summary>
+<summary><strong class="section-title">Statements about Corey Comperatore (7)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3)</summary>
@@ -145,6 +193,23 @@ Source: [Congressional Record — Honoring the Life of Corey Comperatore](https:
 
 - [00:30:53](/episodes/ep-puuMVxEu5NU.md#t-00-30-53) (Opinion) **Helen Comperatore** (via quoted speech): ["Helen Comperatore asked President Donald Trump not to forget the famil..."](/statements/statement-40fed6b1b378.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Helen Comperatore](/entities/person-helen-comperatore.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4)</summary>
+
+- [00:10:53](/episodes/ep-5NQyGuRYbU8.md#t-00-10-53) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Corey Comperatore was the longtime high-school frie..."](/statements/statement-a03200bad64e.md)
+  - Also about: [Mark A. Liti](/entities/person-mark-liti.md)
+
+- [00:11:26](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) (Claim) **Candace Owens**: ["Candace Owens said an unknown woman unexpectedly escorted Corey Comper..."](/statements/statement-6079ef812e56.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:11:55](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) (Claim) **Candace Owens**: ["Candace Owens said Corey Comperatore was then shot in the head at the ..."](/statements/statement-a286f1402e98.md)
+  - Also about: [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:23:44](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) (Claim) **Anonymous Source #1 (Ep 5NQyGuRYbU8)** (via paraphrase): ["An unnamed authority said Corey Comperatore's widow and family were di..."](/statements/statement-ea615daf7444.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 
 </details>
 

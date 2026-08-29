@@ -1,6 +1,6 @@
 ---
 title: "Stanford University"
-description: "Stanford University (Organizations) - 9 mentions"
+description: "Stanford University (Organizations) - 8 mentions"
 id: "org-stanford-university"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [About Stanford | Stanford University](https://www.stanford.edu/about)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-stanford-university-t-00-35-53">2025-09-17 · 00:36:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-stanford-university-t-00-17-50">2026-08-11 · 00:17:50</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -34,14 +34,14 @@ Source: [About Stanford | Stanford University](https://www.stanford.edu/about)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-16-52">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-16-52">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-stanford-university-t-00-35-53" style="--pulse-height:33%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-stanford-university-t-00-33-20" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-stanford-university-t-00-23-08" style="--pulse-height:33%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-16-52" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-stanford-university-t-00-32-12" style="--pulse-height:67%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-stanford-university-t-00-17-50" style="--pulse-height:33%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-stanford-university-t-00-35-53" style="--pulse-height:50%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-stanford-university-t-00-33-20" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-stanford-university-t-00-23-08" style="--pulse-height:50%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-16-52" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-stanford-university-t-00-32-12" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-stanford-university-t-00-17-50" style="--pulse-height:50%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,7 +50,7 @@ Source: [About Stanford | Stanford University](https://www.stanford.edu/about)
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-stanford-university-t-00-35-53) | 1 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-stanford-university-t-00-33-20) | 1 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-stanford-university-t-00-23-08) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-16-52) | 3 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-16-52) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-stanford-university-t-00-32-12) | 2 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-stanford-university-t-00-17-50) | 1 |
 
@@ -60,7 +60,7 @@ Source: [About Stanford | Stanford University](https://www.stanford.edu/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -82,15 +82,12 @@ Source: [About Stanford | Stanford University](https://www.stanford.edu/about)
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (3 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
 
 **[01:16:52](/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-16-52)**
 > "...l classes for free for her at stanford it is oh please continue this part it's so good i..."
 
-**[01:18:53](/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-18-50)**
-> "Look, Stanford University."
-
-**[01:18:54](/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-18-50)**
+**[01:18:50](/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-18-50)**
 > "Stanford University. That's a respectable university."
 
 </details>

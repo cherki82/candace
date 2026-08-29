@@ -27,7 +27,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:04:19](/episodes/ep-QdM9jLwjwLw.md#t-00-04-19) 
+**Timestamp:** [00:04:19](/episodes/ep-QdM9jLwjwLw.md#t-00-03-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(259);return false;">Play</a>
 
 > I have since confirmed what Andrew Kolvet said with two people that are not related to Andrew Kolvet at all.

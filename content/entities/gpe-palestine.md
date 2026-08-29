@@ -1,6 +1,6 @@
 ---
 title: "Palestine"
-description: "Palestine (Places) - 78 mentions"
+description: "Palestine (Places) - 75 mentions"
 id: "gpe-palestine"
 type: "GPE"
 categories:
@@ -20,9 +20,9 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46">2025-09-18 · 00:55:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50">2026-08-07 · 01:01:05</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>78</strong></div>
+<div><span>Mentions</span><strong>75</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -75,7 +75,7 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+<summary><strong class="section-title">Raw mentions (75)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (3 mentions)</summary>
@@ -165,13 +165,13 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[00:12:04](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-00-12-00)**
+**[00:12:00](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-00-12-00)**
 > "what happens in Palestine"
 
 **[00:13:07](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-00-13-07)**
 > "Palestine,"
 
-**[01:09:31](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-01-09-30)**
+**[01:09:31](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-palestine-t-01-09-31)**
 > "This person died in Palestine and this exact full name is one of the passports...."
 
 </details>
@@ -251,7 +251,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Palestine (15)</strong></summary>
+<summary><strong class="section-title">Statements about Palestine (16)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -286,7 +286,7 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (8)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (9)</summary>
 
 - [00:15:00](/episodes/ep-xjzb_t5Tk9o.md#t-00-15-00) (Accusation) **Bassem Youssef**: ["Two Mossad operatives attacked the Mexican parliament one month after ..."](/statements/statement-fc03702f2775.md)
   - Also about: [Mossad](/entities/org-mossad.md)
@@ -306,10 +306,13 @@ _No relationships extracted yet._
 - [00:57:32](/episodes/ep-xjzb_t5Tk9o.md#t-00-57-32) (Claim) **Bassem Youssef**: ["A Palestinian friend of Bassem Youssef and two companions were shot wh..."](/statements/statement-dc58e12a62df.md)
   - Also about: [United States](/entities/gpe-united-states.md)
 
+- [00:59:16](/episodes/ep-xjzb_t5Tk9o.md#t-00-59-16) (Accusation) **Candace Owens**: ["Candace Owens said Australia banned her for standing up for Palestinia..."](/statements/statement-700851080c3a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md)
+
 - [01:04:51](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24) (Claim) **Jonathan Conricus** (via quoted speech): ["There is no famine in Gaza because videos show fat Palestinians."](/statements/statement-a6b762428fc3.md)
   - Also about: [Jonathan Conricus](/entities/person-jonathan-conricus.md), [Gaza](/entities/gpe-gaza.md)
 
-- [01:09:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-30) (Claim) **Candace Owens**: ["A dead Palestinian's exact full name appeared on the list of names con..."](/statements/statement-f9e8a15fff29.md)
+- [01:09:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-31) (Claim) **Candace Owens**: ["A dead Palestinian's exact full name appeared on the list of names con..."](/statements/statement-f9e8a15fff29.md)
   - Also about: [Egypt](/entities/gpe-egypt.md)
 
 </details>

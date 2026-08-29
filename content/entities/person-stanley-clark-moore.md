@@ -107,7 +107,7 @@ Source: [Stan Moore (director)](https://en.wikipedia.org/wiki/Stan_Moore_(direct
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
 
-- [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) (Claim) **Candace Owens**: ["Stanley Clark Moore has a U.S. Air Force background and later worked f..."](/statements/statement-4700141ba93b.md)
+- [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) (Claim) **Candace Owens**: ["If his Wikipedia biography is to be believed, Stanley Clark Moore has ..."](/statements/statement-4700141ba93b.md)
   - Also about: [United States Air Force](/entities/org-united-states-air-force.md), [NASA](/entities/org-nasa.md)
 
 </details>

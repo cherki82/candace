@@ -31,7 +31,7 @@ Source: [State of Nevada](https://nv.gov/)
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-nevada-t-00-13-48">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (17 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-nevada-t-00-24-39" style="--pulse-height:35%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-nevada-t-00-26-30" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-nevada-t-00-26-26" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-nevada-t-00-46-04" style="--pulse-height:12%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#t-00-27-51" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-nevada-t-00-13-48" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 17 mentions" title="2026-03-04 · 17 mentions"><span></span></a>
@@ -45,7 +45,7 @@ Source: [State of Nevada](https://nv.gov/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-nevada-t-00-24-39) | 6 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-nevada-t-00-26-30) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-nevada-t-00-26-26) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-nevada-t-00-46-04) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#t-00-27-51) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-nevada-t-00-13-48) | 17 |
@@ -190,7 +190,7 @@ Source: [State of Nevada](https://nv.gov/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:26:30](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-nevada-t-00-26-30)**
+**[00:26:26](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-nevada-t-00-26-26)**
 > "...municated. Maybe I saw her in Nevada. I don't know. I shouldn't say never in my life. ..."
 
 </details>

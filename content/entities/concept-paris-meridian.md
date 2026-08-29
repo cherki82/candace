@@ -77,10 +77,10 @@ _No relationships extracted yet._
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (2)</summary>
 
-- [00:06:34](/episodes/ep-DYD_QHMPwqM.md#t-00-06-23) (Claim) **Rob Skiba**: ["The Mount Hermon location is 33.33 degrees north and 33.33 degrees eas..."](/statements/statement-f77747a08c3e.md)
+- [00:06:34](/episodes/ep-DYD_QHMPwqM.md#t-00-06-23) (Claim) **Rob Skiba** (via quoted speech): ["The Mount Hermon location is 33.33 degrees north and 33.33 degrees eas..."](/statements/statement-f77747a08c3e.md)
   - Also about: [Lebanon](/entities/gpe-lebanon.md), [David Flynn](/entities/person-david-flynn.md)
 
-- [00:07:16](/episodes/ep-DYD_QHMPwqM.md#t-00-07-04) (Claim) **Rob Skiba**: ["The Paris prime meridian is referred to in the occult as the devil's l..."](/statements/statement-0179d53166e5.md)
+- [00:07:16](/episodes/ep-DYD_QHMPwqM.md#t-00-07-04) (Claim) **Rob Skiba** (via quoted speech): ["The Paris prime meridian is referred to in the occult as the devil's l..."](/statements/statement-0179d53166e5.md)
   - Also about: [Greenwich meridian](/entities/concept-greenwich-meridian.md)
 
 </details>

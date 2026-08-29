@@ -23,7 +23,7 @@ Source: [National Journal](https://www.nationaljournal.com/)
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -60,6 +60,28 @@ Source: [National Journal](https://www.nationaljournal.com/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Interviewed (1)</summary>
+
+- **[Bill Montgomery](/entities/person-bill-montgomery.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:56](/episodes/ep-A39g5oqB_eM.md#t-00-27-17): “Anyways, it reads in the Atlantic, Montgomery was at Benedictine University in Western Chicago suburb of Lyle, Illinois, for the college's youth government day in May of 2012. The slate of speakers put the kids. To sleep, he told the National Journal.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Bill Montgomery](/entities/person-bill-montgomery.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:56](/episodes/ep-A39g5oqB_eM.md#t-00-27-17): “Anyways, it reads in the Atlantic, Montgomery was at Benedictine University in Western Chicago suburb of Lyle, Illinois, for the college's youth government day in May of 2012. The slate of speakers put the kids. To sleep, he told the National Journal.”
+
+</details>
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Uber Technologies"
-description: "Uber Technologies (Organizations) - 13 mentions"
+description: "Uber Technologies (Organizations) - 17 mentions"
 id: "org-uber-technologies"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#t-00-32-55">2026-01-28 · 00:33:19</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-22-14">2026-01-22 · 00:22:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#t-00-36-41">2026-02-10 · 00:36:41</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,18 +33,20 @@ Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#t-00-25-59">An Open Letter To Erika Kirk | Candace Ep 303</a> (10 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#t-00-23-40">An Open Letter To Erika Kirk | Candace Ep 303</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-32-55" style="--pulse-height:20%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#t-00-25-59" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 10 mentions" title="2026-02-05 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#t-00-36-41" style="--pulse-height:10%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-22-14" style="--pulse-height:56%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 5 mentions" title="2026-01-22 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-33-14" style="--pulse-height:22%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#t-00-23-40" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 9 mentions" title="2026-02-05 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#t-00-36-41" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55) | 2 |
-| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) | 10 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#t-00-22-14) | 5 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14) | 2 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#t-00-23-40) | 9 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#t-00-36-41) | 1 |
 
 </details>
@@ -53,7 +55,7 @@ Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
 
 <details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
@@ -64,13 +66,13 @@ Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (10 mentions)</summary>
-
-**[00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59)**
-> "which was an Uber ride"
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (9 mentions)</summary>
 
 **[00:24:17](/episodes/ep-mFuno0TuuQQ.md#t-00-23-40)**
 > "...ed over or questioned over an Uber ride."
+
+**[00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59)**
+> "which was an Uber ride."
 
 **[00:26:34](/episodes/ep-mFuno0TuuQQ.md#t-00-26-34)**
 > "...g Point executive got into an Uber one day and they randomly just kind of started ta..."
@@ -82,10 +84,7 @@ Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 > "And the Uber driver told the Turning Point executive that his ..."
 
 **[00:27:23](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14)**
-> "what was the employee's name and the Uber driver allegedly said Aubrey (Aubrey Laitsch), Aubrey (Aubrey Laitsch) who?"
-
-**[00:28:27](/episodes/ep-mFuno0TuuQQ.md#t-00-28-27)**
-> "... your boss about something an Uber driver said."
+> "...s the employee's name and the Uber driver allegedly said Aubrey (Aubrey Laitsch), Au..."
 
 **[00:28:30](/episodes/ep-mFuno0TuuQQ.md#t-00-28-27)**
 > "... your boss about something an Uber driver said,"
@@ -101,11 +100,31 @@ Source: [About Us | Uber](https://www.uber.com/us/en/about/)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:33:19](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55)**
+**[00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14)**
 > "the COO, who's talking to Uber drivers for the tea."
 
-**[00:33:24](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55)**
+**[00:33:22](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14)**
 > "Well, I heard that this Uber driver said that you may have said something. Bri..."
+
+</details>
+
+<details>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (5 mentions)</summary>
+
+**[00:22:34](/episodes/ep-gG4ZoYUjUc8.md#t-00-22-14)**
+> "...told that the CMO got into an Uber car and asked just striking up some conversation ..."
+
+**[00:23:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-22-53)**
+> "...oing on at the company. So an Uber driver was making small chat with an executive at..."
+
+**[00:23:23](/episodes/ep-gG4ZoYUjUc8.md#t-00-23-23)**
+> "... and starts asking about this Uber conversation. And of course, the employees have l..."
+
+**[00:24:54](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-42)**
+> "...at first person regarding the Uber thing then said, if you want to know my actual op..."
+
+**[00:32:34](/episodes/ep-gG4ZoYUjUc8.md#t-00-32-34)**
+> "...ay? Marina Minas, this is the Uber chick."
 
 </details>
 
@@ -124,7 +143,7 @@ _No relationships extracted yet._
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>
 
-- [00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) (Claim) **Aubrey Laitsch**: ["Turning Point USA presented an Uber driver's secondhand account naming..."](/statements/statement-b63461df8d24.md)
+- [00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) (Claim) **Aubrey Laitsch**: ["Aubrey Laitsch said Turning Point USA presented an alleged secondhand ..."](/statements/statement-b63461df8d24.md)
   - Also about: [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

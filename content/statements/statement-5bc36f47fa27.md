@@ -28,7 +28,7 @@ type: "citation"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:07:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-10) 
+**Timestamp:** [00:07:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(434);return false;">Play</a>
 
 > Now, I'm letting you know that I have copy and pasted this message and sent it to my team and sent it back because I want to make sure. that where and who this message came from is not obvious, but this is a real message. Andrew Kolvet can confirm it's real. Erika Kirk can confirm it's real that Charlie Kirk received this.

@@ -27,7 +27,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -155,7 +155,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (8 mentions)</summary>
 
-**[00:02:10](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59)**
+**[00:02:07](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-01-59)**
 > "You were with Piers Morgan"
 
 **[00:26:51](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-26-33)**
@@ -164,13 +164,13 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 **[00:40:33](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-40-27)**
 > "... show them the clip of you on Piers Morgan because I"
 
-**[00:42:52](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-42-49)**
+**[00:42:52](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-00-42-47)**
 > "...is Bassem (Bassem Youssef) on Piers Morgan,"
 
 **[01:04:19](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-01-04-19)**
 > "What I said on Piers Morgan"
 
-**[01:04:25](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-01-04-24)**
+**[01:04:24](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-01-04-24)**
 > "... of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, w..."
 
 **[01:45:10](/episodes/ep-xjzb_t5Tk9o.md#ent-person-piers-morgan-t-01-45-10)**
@@ -267,7 +267,7 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 </details>
 
 <details>
-<summary>Interviewed (4)</summary>
+<summary>Interviewed (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -300,10 +300,17 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 </details>
 
+- **[Jonathan Conricus](/entities/person-jonathan-conricus.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:24](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF spokesman”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -354,6 +361,13 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:00:26](/episodes/ep-ChuWo-n49B8.md#t-00-00-26): “don't watch it and i said okay then my husband said do not watch it after he saw it i can't even watch scary movies i've shared that with you i'm very like spiritually sensitive to that stuff i can't i can hardly make it through an Erika Kirk interview speaking of which in hilarious news Piers Morgan interviewed one of her spiritual advisors Victor Marx man that we interviewed and Piers Morgan is very confused this man who summons angels and demons into the room”
+
+</details>
+
+- **[Jonathan Conricus](/entities/person-jonathan-conricus.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:24](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF spokesman”
 
 </details>
 

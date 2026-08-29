@@ -31,7 +31,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:36:41](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06) 
+**Timestamp:** [00:36:41](/episodes/ep-GY6GWceEqtQ.md#t-00-36-40) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2201);return false;">Play</a>
 
 > Weeks before our big day, ... my parents repeatedly pressured and attempted to bribe me into signing away the rights to my name, which would have affected me, ... my wife and our future children. ... My holdout affected the payday and they have never treated me the same since.

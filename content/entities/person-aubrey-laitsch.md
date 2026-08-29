@@ -250,7 +250,7 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 - [00:24:36](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36) [◐] (Claim) ["Aubrey Laitsch was a former Turning Point USA public relations manager, was part..."](/statements/statement-cfe99cd1d833.md)
   - About: [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Turning Point USA](/entities/org-turning-point-usa.md), [The ATK Company](/entities/org-the-atk-company.md)
 
-- [00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) [✓] (Claim) ["Turning Point USA presented an Uber driver's secondhand account naming Aubrey La..."](/statements/statement-b63461df8d24.md)
+- [00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) [✓] (Claim) ["Aubrey Laitsch said Turning Point USA presented an alleged secondhand Uber-drive..."](/statements/statement-b63461df8d24.md)
   - About: [Aubrey Laitsch](/entities/person-aubrey-laitsch.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Uber Technologies](/entities/org-uber-technologies.md)
 
 - [00:27:35](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14) [✓] (Accusation) ["I have a gut feeling that I was terminated from Turning Point because I am quest..."](/statements/statement-c0299f0d3781.md)
@@ -321,7 +321,7 @@ Source: [Aubrey Laitsch (@AubreyLaitsch) on X](https://x.com/AubreyLaitsch)
 - [00:24:36](/episodes/ep-mFuno0TuuQQ.md#t-00-24-36) (Claim) **Aubrey Laitsch**: ["Aubrey Laitsch was a former Turning Point USA public relations manager..."](/statements/statement-cfe99cd1d833.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [The ATK Company](/entities/org-the-atk-company.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-- [00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) (Claim) **Aubrey Laitsch**: ["Turning Point USA presented an Uber driver's secondhand account naming..."](/statements/statement-b63461df8d24.md)
+- [00:26:33](/episodes/ep-mFuno0TuuQQ.md#t-00-25-59) (Claim) **Aubrey Laitsch**: ["Aubrey Laitsch said Turning Point USA presented an alleged secondhand ..."](/statements/statement-b63461df8d24.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Uber Technologies](/entities/org-uber-technologies.md)
 
 - [00:27:35](/episodes/ep-mFuno0TuuQQ.md#t-00-27-14) (Accusation) **Aubrey Laitsch**: ["I have a gut feeling that I was terminated from Turning Point because ..."](/statements/statement-c0299f0d3781.md)

@@ -19,7 +19,7 @@ _Type: Concepts_
 Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch.ac.uk/download/3722/understanding_21st-century_militant_anti-fascism_full_report.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-41">2026-01-28 · 00:01:03</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-37">2026-01-28 · 00:00:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42">2026-08-11 · 00:25:00</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -31,9 +31,9 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-41">Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-37">Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-41" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-37" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-antifa-t-00-06-15" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
@@ -41,7 +41,7 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-41) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-37) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-antifa-t-00-06-15) | 1 |
 | 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42) | 1 |
 
@@ -72,7 +72,7 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:01:03](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-41)**
+**[00:00:48](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-37)**
 > "correlating us to Antifa thugs and also this show to pornography."
 
 </details>

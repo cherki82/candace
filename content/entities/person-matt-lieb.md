@@ -22,7 +22,7 @@ Source: [Bad Hasbara - The World's Most Moral Podcast](https://podcasts.apple.co
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -72,12 +72,31 @@ Source: [Bad Hasbara - The World's Most Moral Podcast](https://podcasts.apple.co
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Operates (1)</summary>
+
+- **[Bad Hasbara](/entities/work-bad-hasbara.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:18:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-18-39): “actually make this the mainstream and a lot of my Jewish friends are feel that they're silenced they're sidelined we have seen a lot of like Jewish artists directors and and and actresses and actors they go on and they speak up and you see what happens they are being called an anti-semitic the next day one of my love closest friend Matt Leib is a ... Yeah, he's a comedian. He's a stand-up comedian. ... He has like a whole show called Bad Hasbara and he just talks about like the Hasbara techniques.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Bassem Youssef](/entities/person-bassem-youssef.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:18:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-18-39): “actually make this the mainstream and a lot of my Jewish friends are feel that they're silenced they're sidelined we have seen a lot of like Jewish artists directors and and and actresses and actors they go on and they speak up and you see what happens they are being called an anti-semitic the next day one of my love closest friend Matt Leib is a”
+
+</details>
+
+- **[Bad Hasbara](/entities/work-bad-hasbara.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:18:39](/episodes/ep-xjzb_t5Tk9o.md#t-00-18-39): “actually make this the mainstream and a lot of my Jewish friends are feel that they're silenced they're sidelined we have seen a lot of like Jewish artists directors and and and actresses and actors they go on and they speak up and you see what happens they are being called an anti-semitic the next day one of my love closest friend Matt Leib is a ... Yeah, he's a comedian. He's a stand-up comedian. ... He has like a whole show called Bad Hasbara and he just talks about like the Hasbara techniques.”
 
 </details>
 

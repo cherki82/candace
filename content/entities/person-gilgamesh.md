@@ -172,13 +172,13 @@ _No relationships extracted yet._
 - [00:02:48](/episodes/ep-DYD_QHMPwqM.md#t-00-02-15) (Claim) **Candace Owens**: ["The United States extracted Gilgamesh's tomb roughly two years after i..."](/statements/statement-a4f00f59c158.md)
   - Also about: [Iraq](/entities/gpe-iraq.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
-- [00:14:29](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29) (Claim) **Rob Skiba**: ["Gilgamesh's body was found in the Iraqi desert in 2003."](/statements/statement-f7b359dfbfc5.md)
+- [00:14:29](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29) (Claim) **Rob Skiba** (via quoted speech): ["Gilgamesh's body was found in the Iraqi desert in 2003."](/statements/statement-f7b359dfbfc5.md)
   - Also about: [Iraq](/entities/gpe-iraq.md)
 
 - [00:15:38](/episodes/ep-DYD_QHMPwqM.md#t-00-15-37) (Claim) **Anonymous Source #1 (Ep DYD_QHMPwqM)** (via quoted speech): ["A special operations general said Gilgamesh's remains were in a remark..."](/statements/statement-ced4013d40eb.md)
   - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
-- [00:16:16](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba**: ["The U.S. military occupation phase of Iraq began one month after Gilga..."](/statements/statement-f4626fc51b27.md)
+- [00:16:16](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba** (via quoted speech): ["The U.S. military occupation phase of Iraq began one month after Gilga..."](/statements/statement-f4626fc51b27.md)
   - Also about: [Iraq](/entities/gpe-iraq.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </details>

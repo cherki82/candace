@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "China (Places) - 56 mentions"
+description: "China (Places) - 55 mentions"
 id: "gpe-china"
 type: "GPE"
 categories:
@@ -20,7 +20,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42">2025-10-01 · 00:30:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-china-t-00-44-43">2026-07-21 · 00:45:04</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,7 +36,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-china-t-00-16-17" style="--pulse-height:55%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-27" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 11 mentions" title="2026-01-19 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-china-t-00-48-34" style="--pulse-height:18%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12" style="--pulse-height:18%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12" style="--pulse-height:9%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-china-t-00-36-05" style="--pulse-height:9%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-china-t-00-05-08" style="--pulse-height:9%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-19-34" style="--pulse-height:36%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 4 mentions" title="2026-03-03 · 4 mentions"><span></span></a>
@@ -57,7 +57,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-china-t-00-16-17) | 6 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-27) | 11 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-china-t-00-48-34) | 2 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-china-t-00-36-05) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-china-t-00-05-08) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-china-t-00-19-34) | 4 |
@@ -75,7 +75,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -221,10 +221,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
-
-**[00:55:30](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12)**
-> "sanctions on China"
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
 **[00:55:30](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12)**
 > "There's sanctions on China,"

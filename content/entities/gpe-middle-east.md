@@ -47,7 +47,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11" style="--pulse-height:38%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-04-53" style="--pulse-height:38%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-middle-east-t-00-42-00" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-49" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-48" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-middle-east-t-00-34-26" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-middle-east-t-00-52-59" style="--pulse-height:12%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-middle-east-t-00-02-59" style="--pulse-height:12%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
@@ -88,7 +88,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-04-53) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-middle-east-t-00-42-00) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-49) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-48) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-middle-east-t-00-34-26) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-middle-east-t-00-52-59) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-middle-east-t-00-02-59) | 1 |
@@ -383,7 +383,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[00:51:14](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-49)**
+**[00:51:14](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-48)**
 > "violence that happened in the Middle East"
 
 **[00:53:41](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-53-24)**

@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Blake Neff](/entities/person-blake-neff) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (27 mentions)
+### Evidence (28 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:42:05](/episodes/ep-2tFYJf1klgY#t-00-42-05): _Blake Neff is obviously demented. I don't know what's wrong with this person._
+
+**[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
+
+- [00:46:55](/episodes/ep-5NQyGuRYbU8#t-00-46-55): _What is wrong with Blake Neff? Why is the whole concept of asking questions just so upsetting for him?_
 
 **[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
 

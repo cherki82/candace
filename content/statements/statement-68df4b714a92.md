@@ -1,9 +1,9 @@
 ---
-title: "Jeffrey Epstein's associates believed their DNA was better t..."
-description: "\"Jeffrey Epstein's associates believed their DNA was better than everyone else's.\" — Maria Farmer"
+title: "Maria Farmer believed that Jeffrey Epstein's associates thou..."
+description: "\"Maria Farmer believed that Jeffrey Epstein's associates thought their DNA was better than everyone else's.\" — Maria Farmer"
 statement_id: "statement-68df4b714a92"
 speaker: "Maria Farmer"
-type: "accusation"
+type: "opinion"
 veracity: "unverifiable"
 ---
 
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Statement
 
-> Jeffrey Epstein's associates believed their DNA was better than everyone else's.
+> Maria Farmer believed that Jeffrey Epstein's associates thought their DNA was better than everyone else's.
 
 ## Attribution
 
@@ -50,4 +50,4 @@ Transcript context reviewed. Epstein promoted eugenic and hereditarian ideas, bu
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** No

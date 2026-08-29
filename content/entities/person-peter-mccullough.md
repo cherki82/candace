@@ -1,6 +1,6 @@
 ---
 title: "Peter A. McCullough"
-description: "Peter A. McCullough (People) - 11 mentions"
+description: "Peter A. McCullough (People) - 12 mentions"
 id: "person-peter-mccullough"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-peter-mccullough-t-00-29-53">2026-01-05 · 00:29:53</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-person-peter-mccullough-t-00-29-09">2026-08-18 · 00:29:09</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -43,6 +43,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-peter-mccullough-t-00-42-14" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-peter-mccullough-t-00-15-23" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-peter-mccullough-t-00-27-28" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-peter-mccullough-t-00-25-40" style="--pulse-height:100%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-peter-mccullough-t-00-31-31" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-peter-mccullough-t-00-26-36" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-peter-mccullough-t-00-29-44" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
@@ -59,6 +60,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-peter-mccullough-t-00-42-14) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-peter-mccullough-t-00-15-23) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-peter-mccullough-t-00-27-28) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-peter-mccullough-t-00-25-40) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-peter-mccullough-t-00-31-31) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-peter-mccullough-t-00-26-36) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-peter-mccullough-t-00-29-44) | 1 |
@@ -70,7 +72,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -101,6 +103,14 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 
 **[00:32:04](/episodes/ep-sKuYLNx3iRo.md#ent-person-peter-mccullough-t-00-31-31)**
 > "Dr. Peter McCullough recommends doing a parasite cleanse"
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:25:49](/episodes/ep-5NQyGuRYbU8.md#ent-person-peter-mccullough-t-00-25-40)**
+> "This is why many physicians are raising awareness about parasite exposure. Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure."
 
 </details>
 

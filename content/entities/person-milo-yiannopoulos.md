@@ -270,9 +270,10 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “George (George Farmer) had never even met Milo at all not once in London until the day that I interviewed him here in this house”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:47:30](/episodes/ep-hWTdXHGQ8R4.md#t-00-47-30): “maybe you can get an interview with Milo (Milo Yiannopoulos) to talk about the Epstein files he could give insight because he had that drama a few years back he talks about underage gay parties with adults check his Rogan interview Milo (Milo Yiannopoulos) called this behavior out years ago i had on the show recently i don't believe we spoke about the Epstein files but you can find that episode”
 
 </details>
 
@@ -336,9 +337,10 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “George (George Farmer) had never even met Milo at all not once in London until the day that I interviewed him here in this house”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:47:30](/episodes/ep-hWTdXHGQ8R4.md#t-00-47-30): “maybe you can get an interview with Milo (Milo Yiannopoulos) to talk about the Epstein files he could give insight because he had that drama a few years back he talks about underage gay parties with adults check his Rogan interview Milo (Milo Yiannopoulos) called this behavior out years ago i had on the show recently i don't believe we spoke about the Epstein files but you can find that episode”
 
 </details>
 

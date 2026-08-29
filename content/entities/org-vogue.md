@@ -76,7 +76,7 @@ _No relationships extracted yet._
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1)</summary>
 
-- [00:42:47](/episodes/ep-GY6GWceEqtQ.md#t-00-42-06) (Citation) **Candace Owens**: ["Candace Owens cited Vogue's wedding account as saying Brooklyn Beckham..."](/statements/statement-9bd1178b84fb.md)
+- [00:42:47](/episodes/ep-GY6GWceEqtQ.md#t-00-42-47) (Citation) **Candace Owens**: ["Candace Owens cited Vogue's wedding account as saying Brooklyn Beckham..."](/statements/statement-9bd1178b84fb.md)
   - Also about: [Brooklyn Beckham](/entities/person-brooklyn-beckham.md), [Nicola Peltz](/entities/person-nicola-peltz.md), [Only Fools Rush In](/entities/work-only-fools-rush-in.md)
 
 </details>

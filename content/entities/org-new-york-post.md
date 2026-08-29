@@ -36,7 +36,7 @@ Source: [New York Post](https://nypost.com/)
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-new-york-post-t-00-34-10" style="--pulse-height:17%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-new-york-post-t-00-48-10" style="--pulse-height:17%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-org-new-york-post-t-00-34-57" style="--pulse-height:17%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-new-york-post-t-00-32-31" style="--pulse-height:17%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-new-york-post-t-00-32-18" style="--pulse-height:17%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-new-york-post-t-00-03-00" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-new-york-post-t-00-33-13" style="--pulse-height:17%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-new-york-post-t-00-46-37" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [New York Post](https://nypost.com/)
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-org-new-york-post-t-00-34-10) | 1 |
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-new-york-post-t-00-48-10) | 1 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-org-new-york-post-t-00-34-57) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-new-york-post-t-00-32-31) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-new-york-post-t-00-32-18) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-org-new-york-post-t-00-03-00) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-new-york-post-t-00-33-13) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-new-york-post-t-00-46-37) | 2 |
@@ -141,7 +141,7 @@ Source: [New York Post](https://nypost.com/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:32:39](/episodes/ep-GY6GWceEqtQ.md#ent-org-new-york-post-t-00-32-31)**
+**[00:32:26](/episodes/ep-GY6GWceEqtQ.md#ent-org-new-york-post-t-00-32-18)**
 > "leaking to the New York Post"
 
 </details>

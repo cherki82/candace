@@ -29,7 +29,7 @@ type: "opinion"
 **Timestamp:** [01:36:50](/episodes/ep-xjzb_t5Tk9o.md#t-01-36-50) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(5810);return false;">Play</a>
 
-> Yeah, exactly. We've also been under one of the most intense psychological experiments, ... I think. ... think ever America has been a psychological experiment. ... And if we can control the media, ... if we can control the education system, ... you know, get them into school, we can control Hollywood. Yeah,
+> think ever America has been a psychological experiment. And if we can control the media, if we can control the education system, you know, get them into school, we can control Hollywood.
 
 ## Verification
 

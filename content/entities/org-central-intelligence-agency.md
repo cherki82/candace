@@ -67,7 +67,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-56" style="--pulse-height:47%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 8 mentions" title="2026-01-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-central-intelligence-agency-t-00-32-03" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-23" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-19" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-central-intelligence-agency-t-00-36-32" style="--pulse-height:12%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-central-intelligence-agency-t-00-22-52" style="--pulse-height:18%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-central-intelligence-agency-t-00-50-31" style="--pulse-height:12%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
@@ -141,7 +141,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-56) | 8 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-central-intelligence-agency-t-00-32-03) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-23) | 2 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-19) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-central-intelligence-agency-t-00-36-32) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-central-intelligence-agency-t-00-22-52) | 3 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-central-intelligence-agency-t-00-50-31) | 2 |
@@ -603,7 +603,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[00:23:06](/episodes/ep-xjzb_t5Tk9o.md#ent-org-central-intelligence-agency-t-00-22-52)**
+**[00:22:58](/episodes/ep-xjzb_t5Tk9o.md#ent-org-central-intelligence-agency-t-00-22-52)**
 > "literally a CIA operation"
 
 **[00:23:34](/episodes/ep-xjzb_t5Tk9o.md#ent-org-central-intelligence-agency-t-00-23-34)**
@@ -628,10 +628,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:03:23](/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-23)**
+**[00:03:19](/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-19)**
 > "...ry close person who worked at CIA."
 
-**[00:03:33](/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-23)**
+**[00:03:31](/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-19)**
 > "...d me from saying, I think the CIA has done some horrible things,"
 
 </details>
@@ -1104,7 +1104,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-23): “prohibited me from saying, I think the CIA has done some horrible things,”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-19): “prohibited me from saying, I think the CIA has done some horrible things,”
 
 </details>
 
@@ -1216,7 +1216,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-23): “prohibited me from saying, I think the CIA has done some horrible things,”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-19): “prohibited me from saying, I think the CIA has done some horrible things,”
 
 </details>
 
@@ -1439,7 +1439,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2)</summary>
 
-- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) (Accusation) **Candace Owens**: ["The Manson murders and the events of the 1960s were the U.S. governmen..."](/statements/statement-58c0cd378779.md)
+- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) (Accusation) **Candace Owens**: ["The Manson murders and the events of the '60s were the U.S. government..."](/statements/statement-58c0cd378779.md)
   - Also about: [Charles Manson](/entities/person-charles-manson.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
 - [00:14:20](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) (Accusation) **Candace Owens**: ["If you think that MKUltra ever stopped, I hope that the Epstein files ..."](/statements/statement-2f046a337a54.md)
@@ -1471,7 +1471,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-23) (Accusation) **Tucker Carlson** (via quoted speech): ["The CIA has done horrible things, murdered people, and participated in..."](/statements/statement-753bec0ddb38.md)
+- [00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-19) (Accusation) **Tucker Carlson** (via quoted speech): ["Tucker Carlson said he thought the CIA had done horrible things, murde..."](/statements/statement-753bec0ddb38.md)
   - Also about: [United States](/entities/gpe-united-states.md)
 
 </details>

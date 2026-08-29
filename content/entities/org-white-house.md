@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 264 mentions"
+description: "White House (Organizations) - 266 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -19,11 +19,11 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-white-house-t-00-19-57">2026-08-11 · 00:20:27</a></strong></div>
-<div><span>Episodes</span><strong>72</strong></div>
-<div><span>Mentions</span><strong>264</strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>266</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>68</strong></div>
-<div><span>Relationships</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>70</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -93,6 +93,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-white-house-t-01-19-11" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-white-house-t-00-00-00" style="--pulse-height:14%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 4 mentions" title="2026-06-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-white-house-t-00-14-41" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-white-house-t-00-21-50" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-white-house-t-00-47-04" style="--pulse-height:10%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 3 mentions" title="2026-06-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-white-house-t-00-51-35" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-00-36" style="--pulse-height:24%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 7 mentions" title="2026-06-18 · 7 mentions"><span></span></a>
@@ -170,6 +171,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-white-house-t-01-19-11) | 2 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-white-house-t-00-00-00) | 4 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-white-house-t-00-14-41) | 2 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-white-house-t-00-21-50) | 2 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-white-house-t-00-47-04) | 3 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-white-house-t-00-51-35) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-white-house-t-00-00-36) | 7 |
@@ -187,7 +189,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (264)</strong></summary>
+<summary><strong class="section-title">Raw mentions (266)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -323,6 +325,17 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 **[00:00:35](/episodes/ep-h76ZN-xXC6c.md#ent-org-white-house-t-00-00-35)**
 > "We're going to go over that. I feel like somewhere in the world. world Kim Jong-un is just laughing his head off right you could just look look around us the front yard of the White House has been transformed into a UFC arena our nation's FBI is monitoring Candace's tweets and admonishing her for clickbait And Israel is signaling to the world that Trump (Donald J. Trump) has no power. They're going to do whatever they want."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:21:50](/episodes/ep-5NQyGuRYbU8.md#ent-org-white-house-t-00-21-50)**
+> "Bibi (Benjamin Netanyahu) Netanyahu enters the White House and presents President Trump (Donald Trump) with a gift, a golden pager, a nod to the Mossad's pager operation."
+
+**[00:36:58](/episodes/ep-5NQyGuRYbU8.md#ent-org-white-house-t-00-36-53)**
+> "...that was being boosted at the White House, why the Department of War is saying this needs t..."
 
 </details>
 
@@ -1107,13 +1120,13 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>
 
-**[00:06:37](/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-06-24)**
+**[00:06:35](/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-06-24)**
 > "... he was protecting her at the White House when they did the Charlie Kirk Day,"
 
 **[00:07:06](/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-07-06)**
 > "...ole also in that frame at the White House or in Washington,"
 
-**[00:20:29](/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-20-27)**
+**[00:20:27](/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-20-27)**
 > "was the liaison between the White House and President Gemayel of Beirut, Lebanon at the t..."
 
 **[00:33:32](/episodes/ep-9naMwS0kMBE.md#ent-org-white-house-t-00-33-17)**
@@ -1384,9 +1397,16 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
-<summary>Met With (1)</summary>
+<summary>Met With (2)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56): “but Andrew Kolvet and alleged Mikey McCoy and his wife went down to meet with the White House and they wanted the public to think that they were in Arizona.”
+
+</details>
+
+- **[Michael McCoy](/entities/person-michael-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56): “but Andrew Kolvet and alleged Mikey McCoy and his wife went down to meet with the White House and they wanted the public to think that they were in Arizona.”
@@ -1408,7 +1428,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1439,6 +1459,13 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 </details>
 
+- **[Michael McCoy](/entities/person-michael-mccoy.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56): “but Andrew Kolvet and alleged Mikey McCoy and his wife went down to meet with the White House and they wanted the public to think that they were in Arizona.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1459,7 +1486,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (68)</strong></summary>
+<summary><strong class="section-title">Statements about White House (70)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3)</summary>
@@ -1502,6 +1529,17 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 - [00:53:59](/episodes/ep-G3zdOeHpvS0.md#t-00-53-59) (Accusation) **Candace Owens**: ["Owens alleged that White House Correspondence Center messaging was sta..."](/statements/statement-4befe9ff6f09.md)
   - Also about: [United States Department of Defense](/entities/org-us-department-of-defense.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2)</summary>
+
+- [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Claim) **Candace Owens**: ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager..."](/statements/statement-d2fa62164eb6.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [Mossad](/entities/org-mossad.md)
+
+- [00:36:58](/episodes/ep-5NQyGuRYbU8.md#t-00-36-53) (Claim) **Candace Owens**: ["Candace Owens said the White House was boosting an Erika Kirk clip and..."](/statements/statement-d2025aa7dc9e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
 
 </details>
 
@@ -1770,7 +1808,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
-- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) (Accusation) **Candace Owens**: ["Andrew Kolvet, Michael McCoy, and McCoy's wife met with senior White H..."](/statements/statement-58c3c37a76f1.md)
+- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) (Accusation) **Candace Owens**: ["Candace Owens said Andrew Kolvet and, allegedly, Michael McCoy and McC..."](/statements/statement-58c3c37a76f1.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Kash Patel](/entities/person-kash-patel.md)
 
 </details>

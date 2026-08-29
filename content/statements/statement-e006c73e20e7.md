@@ -30,7 +30,7 @@ veracity: "mixed"
 **Timestamp:** [00:17:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-17-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1058);return false;">Play</a>
 
-> Okay. The only problem is that it's just not true. ... Erica (Erika Kirk) was not raised by a single mother, ... like at all. ... Kent (Kenneth Frantzve) was actually a stay-at-home dad.
+> Erica (Erika Kirk) was not raised by a single mother, ... like at all. ... Erica (Erika Kirk)'s father, ... Kent (Kenneth Frantzve), by the way, he's Kenneth Frantzve, but he goes by Kent, ... was always in her life. ... So much so that for entire years of her childhood, ... Kent (Kenneth Frantzve) was actually a stay-at-home dad.
 
 ## Verification
 

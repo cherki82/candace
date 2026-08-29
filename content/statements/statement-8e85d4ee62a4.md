@@ -26,7 +26,7 @@ type: "opinion"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-36) 
+**Timestamp:** [00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1145);return false;">Play</a>
 
 > In fact, I signed on the dotted line to work beside Charlie Kirk because he built a company that I believed in. ... and now everything that that company seems to be about runs counter to my belief. In fact, there are strong contractual arguments to be made about.

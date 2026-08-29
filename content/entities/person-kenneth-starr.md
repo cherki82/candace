@@ -59,7 +59,7 @@ Source: [Pepperdine Dispute Resolution Law Journal | Kenneth Starr](https://law.
 > "Kenneth Starr at Pepperdine University."
 
 **[00:20:09](/episodes/ep-1hcjQGgvxUY.md#ent-person-kenneth-starr-t-00-20-09)**
-> "resume where she says she worked there for eight years but in Ken Starr's office but the point is is that for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein okay"
+> "Resume where she says she worked there for eight years, but in Ken Starr's office. But the point is, is that for almost a decade she worked for Ken Starr at the exact same time that he was working with Jeffrey Epstein, okay?"
 
 </details>
 
@@ -74,7 +74,7 @@ Source: [Pepperdine Dispute Resolution Law Journal | Kenneth Starr](https://law.
 - **[Stacey Sheridan](/entities/person-stacey-sheridan.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Resume where she says she worked there for eight years, but in Ken Starr's office. But the point is, is that for almost a decade she worked for Ken Starr at the exact same time that he was working with Jeffrey Epstein, okay?”
 
 </details>
 
@@ -86,7 +86,7 @@ Source: [Pepperdine Dispute Resolution Law Journal | Kenneth Starr](https://law.
 - **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Resume where she says she worked there for eight years, but in Ken Starr's office. But the point is, is that for almost a decade she worked for Ken Starr at the exact same time that he was working with Jeffrey Epstein, okay?”
 
 </details>
 
@@ -98,7 +98,7 @@ Source: [Pepperdine Dispute Resolution Law Journal | Kenneth Starr](https://law.
 - **[Stacey Sheridan](/entities/person-stacey-sheridan.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “for almost a decade she worked for Ken Star at the exact same time that he was working with Jeffrey Epstein”
+- [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:09](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Resume where she says she worked there for eight years, but in Ken Starr's office. But the point is, is that for almost a decade she worked for Ken Starr at the exact same time that he was working with Jeffrey Epstein, okay?”
 
 </details>
 

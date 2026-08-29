@@ -4,9 +4,10 @@ description: "\"I want there to always be full transparency, with all of the fac
 statement_id: "statement-a59b8afdf1ec"
 speaker: "Erika Kirk"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,8 +35,21 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Transcript context at 58-113s was reviewed. The source episode accurately combines Erika Kirk's quoted remarks that she wanted full transparency, all facts on the table, a full public display of what happened, and no confusion about who did it and why. Fox News's contemporaneous report of the interview reproduces those same remarks.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Erika Kirk battles for cameras in courtroom while expanding TPUSA chapters in new state partnership](https://www.foxnews.com/media/erika-kirk-battles-cameras-courtroom-while-expanding-tpusa-chapters-new-state-partnership.amp)
+
+*Verified: 2026-08-29T14:02:19.263005*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

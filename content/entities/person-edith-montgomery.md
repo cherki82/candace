@@ -1,6 +1,6 @@
 ---
 title: "Edith Montgomery"
-description: "Edith Montgomery (People) - 7 mentions"
+description: "Edith Montgomery (People) - 8 mentions"
 id: "person-edith-montgomery"
 type: "PERSON"
 aliases:
@@ -27,24 +27,24 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08">2026-01-27 · 00:30:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-33-43">2026-01-27 · 00:33:55</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 7 mentions" title="2026-01-27 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 8 mentions" title="2026-01-27 · 8 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08) | 7 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08) | 8 |
 
 </details>
 </section>
@@ -52,10 +52,10 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
-<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (7 mentions)</summary>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (8 mentions)</summary>
 
 **[00:30:29](/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-30-08)**
 > "...Bill Montgomery and his wife, Edith Montgomery,"
@@ -78,12 +78,27 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 **[00:33:55](/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-33-43)**
 > "...interested in edith walker um edith walker montgomery and where she came from in germany and who her fa..."
 
+**[00:32:41](/episodes/ep-A39g5oqB_eM.md#ent-person-edith-montgomery-t-00-32-17)**
+> "... (Bill Montgomery) and Edith (Edith Walker Montgomery)."
+
 </details>
 
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Formerly Lived In (1)</summary>
+
+- **[Germany](/entities/gpe-germany.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:44](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): “The person claims that Edith Walker, who I've since learned emigrated from Germany after World War II,”
+
+</details>
+
+</details>
 
 <details>
 <summary>Formerly Worked For (1)</summary>
@@ -122,7 +137,14 @@ Source: [William Thomas Montgomery (1940-2020) | FamilySearch](https://ancestors
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Germany](/entities/gpe-germany.md)** former residence of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:30:44](/episodes/ep-A39g5oqB_eM.md#t-00-30-08): “The person claims that Edith Walker, who I've since learned emigrated from Germany after World War II,”
+
+</details>
 
 - **[Shaklee Corporation](/entities/org-shaklee-corporation.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

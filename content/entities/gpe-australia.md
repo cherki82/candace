@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 51 mentions"
+description: "Australia (Places) - 50 mentions"
 id: "gpe-australia"
 type: "GPE"
 categories:
@@ -20,9 +20,9 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28">2025-09-18 · 00:41:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26">2026-06-26 · 00:48:26</a></strong></div>
 <div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,7 +46,7 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-australia-t-00-22-44" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-australia-t-01-13-44" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-59-01" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-australia-t-00-34-29" style="--pulse-height:33%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-australia-t-00-20-01" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-australia-t-00-26-28" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
@@ -77,7 +77,7 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49) | 6 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-australia-t-00-22-44) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-australia-t-01-13-44) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54) | 4 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-59-01) | 3 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-australia-t-00-34-29) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-australia-t-00-20-01) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-australia-t-00-26-28) | 1 |
@@ -95,7 +95,7 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -202,19 +202,16 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[00:59:01](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54)**
-> "banned from Australia"
-
-**[00:58:59](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54)**
+**[00:59:01](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-59-01)**
 > "Please, I'm banned from Australia."
-
-**[00:59:02](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-59-02)**
-> "you from Australia?"
 
 **[00:59:06](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-59-06)**
 > "...e danger as horses going into Australia? Oh my god,"
+
+**[00:58:54](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54)**
+> "... far. Please, I'm banned from Australia."
 
 </details>
 
@@ -390,13 +387,21 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Australia (5)</strong></summary>
+<summary><strong class="section-title">Statements about Australia (6)</strong></summary>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1)</summary>
 
 - [00:34:39](/episodes/ep-QRS_hR7NXaQ.md#t-00-34-29) (Accusation) **Candace Owens**: ["The Zionist lobby of Australia blocked Candace Owens's planned Austral..."](/statements/statement-746f17570ab2.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Zionism](/entities/concept-zionism.md)
+
+</details>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+
+- [00:59:16](/episodes/ep-xjzb_t5Tk9o.md#t-00-59-16) (Accusation) **Candace Owens**: ["Candace Owens said Australia banned her for standing up for Palestinia..."](/statements/statement-700851080c3a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Palestine](/entities/gpe-palestine.md)
 
 </details>
 

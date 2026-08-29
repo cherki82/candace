@@ -77,7 +77,7 @@ Source: [United States Military Academy | West Point Redbook](https://catalog.we
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:05:23](/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-military-academy-t-00-04-58)**
+**[00:05:20](/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-military-academy-t-00-04-58)**
 > "West Point and you built this because you care about remarke..."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "U.S. Department of Veterans Affairs"
-description: "U.S. Department of Veterans Affairs (Organizations) - 13 mentions"
+description: "U.S. Department of Veterans Affairs (Organizations) - 14 mentions"
 id: "org-us-department-of-veterans-affairs"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [About the Department - U.S. Department of Veterans Affairs](https://dep
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#t-00-33-53">2025-12-01 · 00:34:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#t-00-33-19">2026-08-03 · 00:33:19</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,7 @@ Source: [About the Department - U.S. Department of Veterans Affairs](https://dep
 <a href="/episodes/ep-tB5SXXmd9vU.md#t-00-33-53" style="--pulse-height:25%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#t-00-13-10" style="--pulse-height:75%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#t-00-20-48" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#t-00-26-55" style="--pulse-height:25%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#t-00-53-35" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#t-00-30-48" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-31-51" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
@@ -51,6 +52,7 @@ Source: [About the Department - U.S. Department of Veterans Affairs](https://dep
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-00-13-10) | 3 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-20-48) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#t-00-26-55) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#t-00-53-35) | 4 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#t-00-30-48) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-31-51) | 1 |
@@ -62,7 +64,7 @@ Source: [About the Department - U.S. Department of Veterans Affairs](https://dep
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2 mentions)</summary>
@@ -105,6 +107,14 @@ Source: [About the Department - U.S. Department of Veterans Affairs](https://dep
 
 **[01:00:26](/episodes/ep-h76ZN-xXC6c.md#t-01-00-26)**
 > "... the particular people at the VA. I'm sure there are tons of people who are workin..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:26:55](/episodes/ep-5NQyGuRYbU8.md#t-00-26-55)**
+> "access to VA benefits, transportation, and counseling, the tangible things that give veterans a hand up. And here's how you can help."
 
 </details>
 

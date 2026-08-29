@@ -1,6 +1,6 @@
 ---
-title: "Jeffrey Epstein trafficked people through modeling and pagea..."
-description: "\"Jeffrey Epstein trafficked people through modeling and pageant organizations, including MC2 Model Management, Victoria's Secret, and Miss Universe.\" — Candace Owens"
+title: "Jeffrey Epstein and Jean-Luc Brunel trafficked through model..."
+description: "\"Jeffrey Epstein and Jean-Luc Brunel trafficked through modeling organizations such as MC2 Model Management; Owens also linked their activity to Victor...\" — Candace Owens"
 statement_id: "statement-0072d63905d3"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Jeffrey Epstein trafficked people through modeling and pageant organizations, including MC2 Model Management, Victoria's Secret, and Miss Universe.
+> Jeffrey Epstein and Jean-Luc Brunel trafficked through modeling organizations such as MC2 Model Management; Owens also linked their activity to Victoria's Secret and Miss Universe.
 
 ## Attribution
 

@@ -102,7 +102,7 @@ Source: [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](https:/
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:16:47](/episodes/ep-9naMwS0kMBE.md#ent-concept-project-looking-glass-t-00-16-33)**
+**[00:16:33](/episodes/ep-9naMwS0kMBE.md#ent-concept-project-looking-glass-t-00-16-33)**
 > "MKUltra, Project Looking Glass,"
 
 </details>

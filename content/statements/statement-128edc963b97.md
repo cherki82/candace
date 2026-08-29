@@ -4,9 +4,10 @@ description: "\"America needs to wake up and prioritize Israel.\" — Kash Patel
 statement_id: "statement-128edc963b97"
 speaker: "Kash Patel"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,8 +37,22 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Contemporary reports with the video record Kash Patel saying, 'We need America to wake up and prioritize Israel,' during a 2024 interview. The canonical wording omits the introductory 'we need' but preserves the substance. This verifies the quotation, not an endorsement of the opinion.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Did Kash Patel Really Say America Should Prioritise Israel? FBI Director Roasted Over Resurfaced Video](https://www.ibtimes.co.uk/fbi-director-kash-patel-backlash-prioritise-israel-1791981)
+- [Nominee for FBI director Kash Patel about Israel: We need America to prioritize Israel](https://worldisraelnews.com/watch-nominee-for-fbi-director-kash-patel-about-israel-we-need-america-to-prioritize-israel/)
+
+*Verified: 2026-08-29T10:55:21.098136*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

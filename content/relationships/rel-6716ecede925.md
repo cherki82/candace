@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Blake Neff](/entities/person-blake-neff) criticized [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (10 mentions)
+### Evidence (11 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:43:35](/episodes/ep-2tFYJf1klgY#t-00-43-35): _I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it._
+
+**[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
+
+- [00:32:05](/episodes/ep-5NQyGuRYbU8#t-00-32-05): _the latest thing that candace will fixate on for the next two weeks as all important the key to blowing the case wide open so that she has an excuse to harass more people_
 
 **[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
 

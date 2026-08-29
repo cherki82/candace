@@ -24,7 +24,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-jay-z-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-45">2026-02-11 · 00:38:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-09">2026-02-11 · 00:38:48</a></strong></div>
 <div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -44,7 +44,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-jay-z-t-00-47-54" style="--pulse-height:20%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jay-z-t-00-21-12" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-jay-z-t-00-04-02" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 5 mentions" title="2026-02-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-45" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-09" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,7 +57,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-jay-z-t-00-47-54) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jay-z-t-00-21-12) | 5 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-jay-z-t-00-04-02) | 5 |
-| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-45) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-09) | 1 |
 
 </details>
 </section>
@@ -70,7 +70,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
 
-**[00:38:48](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-45)**
+**[00:38:48](/episodes/ep-hWTdXHGQ8R4.md#ent-person-jay-z-t-00-38-09)**
 > "...ike Hillary Clinton. I've got Jay-Z and I've got Beyonce."
 
 </details>
@@ -169,7 +169,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:22:03](/episodes/ep-CEF7gQRWYCE.md#t-00-21-38): “I have not been a Jay-Z fan for a very long time. It is very obvious. He sold this out to the feds. He's clearly working for the feds. I have always believed that the individual that came forward and was honest about what was happening with Diddy and Cass and talking about how the feds do deal with rappers, ... He was about to let loose on a bunch of people who were doing the blackballing. And I do very much believe that Jay-Z is a part of that, that,”
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:22:03](/episodes/ep-CEF7gQRWYCE.md#t-00-21-38): “I have not been a Jay-Z fan for a very long time. It is very obvious. He sold this out to the feds. He's clearly working for the feds. I have always believed that the individual that came forward and was honest about what was happening with Diddy and Cassie (Cassie Ventura), and talking about how the feds do deal with rappers,”
 
 </details>
 
@@ -193,7 +193,7 @@ Source: [Rock & Roll Hall of Fame: JAY-Z](https://rockhall.com/inductees/jay-z/)
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:22:03](/episodes/ep-CEF7gQRWYCE.md#t-00-21-38): “I have not been a Jay-Z fan for a very long time. It is very obvious. He sold this out to the feds. He's clearly working for the feds. I have always believed that the individual that came forward and was honest about what was happening with Diddy and Cass and talking about how the feds do deal with rappers, ... He was about to let loose on a bunch of people who were doing the blackballing. And I do very much believe that Jay-Z is a part of that, that,”
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:22:03](/episodes/ep-CEF7gQRWYCE.md#t-00-21-38): “I have not been a Jay-Z fan for a very long time. It is very obvious. He sold this out to the feds. He's clearly working for the feds. I have always believed that the individual that came forward and was honest about what was happening with Diddy and Cassie (Cassie Ventura), and talking about how the feds do deal with rappers,”
 
 </details>
 

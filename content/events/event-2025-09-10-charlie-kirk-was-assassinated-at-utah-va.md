@@ -80,7 +80,7 @@ date: "2025-09-10"
 ### 9. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:07:08](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-20-34) 
+**Timestamp:** [00:07:08](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-20-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(428);return false;">▶️ Play</a>
 
 > So obviously given Charlie's assassination and the direction that my investigation took into what happened on that day,
@@ -88,7 +88,7 @@ date: "2025-09-10"
 ### 10. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:21:04](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-20-34) 
+**Timestamp:** [00:21:04](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-20-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1264);return false;">▶️ Play</a>
 
 > how much people actually care about learning what happened on September 10th.
@@ -96,7 +96,7 @@ date: "2025-09-10"
 ### 11. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:21:19](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-20-34) 
+**Timestamp:** [00:21:19](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-20-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1279);return false;">▶️ Play</a>
 
 > And I would like to know truthfully what took place on September 10th. And if I have a platform,

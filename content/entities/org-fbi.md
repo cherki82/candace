@@ -1,6 +1,6 @@
 ---
 title: "FBI"
-description: "FBI (Organizations) - 705 mentions"
+description: "FBI (Organizations) - 711 mentions"
 id: "org-fbi"
 type: "ORG"
 aliases:
@@ -28,10 +28,10 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-fbi-t-00-36-23">2025-09-15 · 00:36:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-fbi-t-00-31-13">2026-08-21 · 00:31:49</a></strong></div>
-<div><span>Episodes</span><strong>86</strong></div>
-<div><span>Mentions</span><strong>705</strong></div>
+<div><span>Episodes</span><strong>87</strong></div>
+<div><span>Mentions</span><strong>711</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>178</strong></div>
+<div><span>Statements about</span><strong>182</strong></div>
 <div><span>Relationships</span><strong>27</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -103,6 +103,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-fbi-t-00-11-09" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-fbi-t-00-14-10" style="--pulse-height:13%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-fbi-t-00-02-16" style="--pulse-height:23%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 7 mentions" title="2026-06-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-fbi-t-00-27-34" style="--pulse-height:19%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 6 mentions" title="2026-06-15 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-fbi-t-00-00-00" style="--pulse-height:45%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 14 mentions" title="2026-06-16 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-fbi-t-00-04-32" style="--pulse-height:26%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 8 mentions" title="2026-06-17 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-fbi-t-00-43-12" style="--pulse-height:13%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 4 mentions" title="2026-06-18 · 4 mentions"><span></span></a>
@@ -194,6 +195,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-org-fbi-t-00-11-09) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-fbi-t-00-14-10) | 4 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-fbi-t-00-02-16) | 7 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-fbi-t-00-27-34) | 6 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-fbi-t-00-00-00) | 14 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-fbi-t-00-04-32) | 8 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-fbi-t-00-43-12) | 4 |
@@ -224,7 +226,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (705)</strong></summary>
+<summary><strong class="section-title">Raw mentions (711)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3 mentions)</summary>
@@ -848,6 +850,29 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 
 **[01:07:39](/episodes/ep-h76ZN-xXC6c.md#ent-org-fbi-t-01-07-31)**
 > "...rank turek which was like the feds were looking for the necklace"
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (6 mentions)</summary>
+
+**[00:27:59](/episodes/ep-5NQyGuRYbU8.md#ent-org-fbi-t-00-27-34)**
+> "I don't know, because journalism, but also because there was this FBI plane, definitively an FBI plane that landed into Salt Lake City, Utah on September 8th. So, you know, Charlie (Charlie Kirk), remember, he first went to Salt Lake City on the morning of the 10th, which I found to be very unusual that he would go there and do that weird restaurant interview, whatever it was, as his final interview."
+
+**[00:10:16](/episodes/ep-5NQyGuRYbU8.md#ent-org-fbi-t-00-10-16)**
+> "...le, being investigated by the feds. Was there somebody on the outside that was seeki..."
+
+**[00:28:20](/episodes/ep-5NQyGuRYbU8.md#ent-org-fbi-t-00-28-20)**
+> "Well, there was an FBI plane that went to Salt Lake City, Utah on Septem..."
+
+**[00:30:22](/episodes/ep-5NQyGuRYbU8.md#ent-org-fbi-t-00-30-08)**
+> "On FBI business, it's not our business. That's our right..."
+
+**[00:30:49](/episodes/ep-5NQyGuRYbU8.md#ent-org-fbi-t-00-30-49)**
+> "...er that are separate from the FBI."
+
+**[00:46:11](/episodes/ep-5NQyGuRYbU8.md#ent-org-fbi-t-00-46-11)**
+> "...h Patel. Let me look at those FBI's, man, really is something."
 
 </details>
 
@@ -2902,15 +2927,20 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 <summary><strong class="section-title">Statements by FBI (5)</strong></summary>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
 
 - [00:49:08](/episodes/ep-h76ZN-xXC6c.md#t-00-48-27) [✓] (Accusation) ["The FBI told Candace Owens that her show, like the fake news media, would be cal..."](/statements/statement-87ca8c118c60.md)
   - About: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:49:51](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08) [✓] (Citation) ["The FBI's FOIA response told Candace Owens that unusual circumstances applied to..."](/statements/statement-e8bbf7d482af.md)
+- [00:51:21](/episodes/ep-h76ZN-xXC6c.md#t-00-51-14) [✓] (Accusation) ["The FBI said it would be a clickbait lie for Owens to tell her audience that her..."](/statements/statement-59d4161f27ad.md)
   - About: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
 
-- [00:51:21](/episodes/ep-h76ZN-xXC6c.md#t-00-51-14) [✓] (Accusation) ["The FBI said it would be a clickbait lie for Owens to tell her audience that her..."](/statements/statement-59d4161f27ad.md)
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) [✓] (Citation) ["The FBI's FOIA response told Candace Owens that unusual circumstances applied to..."](/statements/statement-e8bbf7d482af.md)
   - About: [FBI](/entities/org-fbi.md), [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
 
 </details>
@@ -2933,7 +2963,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about FBI (178)</strong></summary>
+<summary><strong class="section-title">Statements about FBI (182)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -3172,7 +3202,7 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (6)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (5)</summary>
 
 - [00:12:54](/episodes/ep-h76ZN-xXC6c.md#t-00-12-46) (Claim) **Candace Owens**: ["Bomb dogs were available at the scene but were not brought to the area..."](/statements/statement-5523cb6b2441.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -3183,14 +3213,31 @@ Source: [FBI Laboratory Division](https://www.fbi.gov/how-we-investigate/laborat
 - [00:49:08](/episodes/ep-h76ZN-xXC6c.md#t-00-48-27) (Accusation) **FBI** (via quoted post): ["The FBI told Candace Owens that her show, like the fake news media, wo..."](/statements/statement-87ca8c118c60.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:49:51](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Kash Patel](/entities/person-kash-patel.md)
-
 - [00:51:06](/episodes/ep-h76ZN-xXC6c.md#t-00-50-33) (Accusation) **Candace Owens**: ["Owens said documents requested by Tyler Robinson's defense team had re..."](/statements/statement-07f02b082191.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 - [00:51:21](/episodes/ep-h76ZN-xXC6c.md#t-00-51-14) (Accusation) **FBI** (via quoted post): ["The FBI said it would be a clickbait lie for Owens to tell her audienc..."](/statements/statement-59d4161f27ad.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (5)</summary>
+
+- [00:27:59](/episodes/ep-5NQyGuRYbU8.md#t-00-27-34) (Claim) **Candace Owens**: ["Candace Owens said an FBI plane landed in Salt Lake City on September ..."](/statements/statement-395c6ab99170.md)
+  - Also about: [Salt Lake City](/entities/gpe-salt-lake-city.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:28:24](/episodes/ep-5NQyGuRYbU8.md#t-00-28-20) (Claim) **Candace Owens**: ["Candace Owens said the FBI plane left Richmond at 9:50 a.m., reached S..."](/statements/statement-db7072ff5529.md)
+  - Also about: [Richmond, Virginia](/entities/gpe-richmond-virginia.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+- [00:28:53](/episodes/ep-5NQyGuRYbU8.md#t-00-28-53) (Citation) **Candace Owens**: ["Candace Owens said her FOIA request sought Kash Patel's official sched..."](/statements/statement-841d0ce9235c.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+- [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:34:01](/episodes/ep-5NQyGuRYbU8.md#t-00-33-25) (Promise) **Candace Owens**: ["Candace Owens promised to keep filing requests until she got to the bo..."](/statements/statement-53e946a74d19.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kash Patel](/entities/person-kash-patel.md), [Blake Neff](/entities/person-blake-neff.md)
 
 </details>
 

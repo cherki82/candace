@@ -43,7 +43,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 19 mentions" title="2026-01-19 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-texas-t-00-13-23" style="--pulse-height:32%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-texas-t-00-42-10" style="--pulse-height:21%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-56-02" style="--pulse-height:11%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-55-50" style="--pulse-height:11%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-texas-t-00-36-10" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-texas-t-00-00-01" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-texas-t-00-03-27" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
@@ -79,7 +79,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54) | 19 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-texas-t-00-13-23) | 6 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-texas-t-00-42-10) | 4 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-56-02) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-55-50) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-texas-t-00-36-10) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-texas-t-00-00-01) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-texas-t-00-03-27) | 1 |
@@ -365,10 +365,10 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:56:27](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-56-02)**
+**[00:56:19](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-55-50)**
 > "is to return back to Texas,"
 
-**[00:56:53](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-56-45)**
+**[00:56:50](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-56-34)**
 > "...e's best suited to go back to Texas to quit playing pretend in the real world and to ..."
 
 </details>
@@ -408,7 +408,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 **[00:16:07](/episodes/ep-9naMwS0kMBE.md#ent-gpe-texas-t-00-16-07)**
 > "...Bronzeville and New Braunfels Texas and you know Colorado Springs area whatever you w..."
 
-**[00:36:43](/episodes/ep-9naMwS0kMBE.md#ent-gpe-texas-t-00-36-38)**
+**[00:36:38](/episodes/ep-9naMwS0kMBE.md#ent-gpe-texas-t-00-36-38)**
 > "Texas is where he moved to."
 
 </details>

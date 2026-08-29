@@ -28,7 +28,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -203,7 +203,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[00:23:31](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52)**
+**[00:23:30](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52)**
 > "for the Navy"
 
 **[01:22:12](/episodes/ep-xjzb_t5Tk9o.md#t-01-22-12)**
@@ -335,7 +335,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Formerly Employed (5)</summary>
+<summary>Formerly Employed (6)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -374,6 +374,13 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 </details>
 
+- **[Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:20:16](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00): “Jonathan Pollard scandal of 1987, ... when a U.S. Army contractor, who's actually working for the Navy,”
+
+</details>
+
 </details>
 
 <details>
@@ -401,7 +408,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Frank Turek](/entities/person-frank-turek.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -437,6 +444,13 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:03:05](/episodes/ep-N4uM8Jdr410.md#t-00-02-41): “What do we have? It is Robert O'Neill, the former United States Navy SEAL Team 6 sniper who killed Osama bin Laden.”
+
+</details>
+
+- **[Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:20:16](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00): “Jonathan Pollard scandal of 1987, ... when a U.S. Army contractor, who's actually working for the Navy,”
 
 </details>
 

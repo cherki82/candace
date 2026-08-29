@@ -26,7 +26,7 @@ type: "opinion"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:31:55](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-15) 
+**Timestamp:** [00:31:55](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-51) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1915);return false;">Play</a>
 
 > Is it illegal? No, you could do this. A lot of the stuff, as we've said, the common theme here is what Turning Point is doing is legal, but it's also immoral. i wouldn't do it i would be so honest like look we appreciate every obviously everything you've done you've been killing yourself you know what we're a little paranoid schizo right now and we just don't know who to trust we gotta get rid of everybody um erica has no trust that's why she doesn't want to be in here because she doesn't know who's actually the person leaking give that girl something

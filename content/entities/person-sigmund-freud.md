@@ -22,7 +22,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -504,6 +504,18 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 </details>
 
 <details>
+<summary>Friend Of (1)</summary>
+
+- **[Wilhelm Fliess](/entities/person-wilhelm-fliess.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:03:56](/episodes/ep-CEF7gQRWYCE.md#t-00-03-32): “This I'm going to read from you is actually a direct quotation from Sigmund Freud. ... he's writing a letter to his best friend, also the person he was having a gay affair with, who mentored him, Wilhelm Fliess.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Member Of (1)</summary>
 
 - **[B'nai B'rith International](/entities/org-bnai-brith-international.md)**
@@ -530,12 +542,19 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:12:46](/episodes/ep-DYD_QHMPwqM.md#t-00-12-39): “It's everything that I have learned studying Sigmund Freud. ... I told you Sigmund Freud was a Satanist.”
+
+</details>
+
+- **[Wilhelm Fliess](/entities/person-wilhelm-fliess.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:03:56](/episodes/ep-CEF7gQRWYCE.md#t-00-03-32): “This I'm going to read from you is actually a direct quotation from Sigmund Freud. ... he's writing a letter to his best friend, also the person he was having a gay affair with, who mentored him, Wilhelm Fliess.”
 
 </details>
 

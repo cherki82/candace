@@ -90,13 +90,13 @@ Source: [Meet Phil | The Phil Tourney Podcast](https://philtourney.com/about)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[00:08:55](/episodes/ep-xjzb_t5Tk9o.md#ent-person-phillip-f-tourney-t-00-08-34)**
+**[00:08:51](/episodes/ep-xjzb_t5Tk9o.md#ent-person-phillip-f-tourney-t-00-08-34)**
 > "I hosted Phil Tourney"
 
 **[01:22:26](/episodes/ep-xjzb_t5Tk9o.md#ent-person-phillip-f-tourney-t-01-22-26)**
 > "...of it and found my video with Phil Tourney because that got like 7 million views and were go..."
 
-**[01:25:34](/episodes/ep-xjzb_t5Tk9o.md#ent-person-phillip-f-tourney-t-01-25-31)**
+**[01:25:31](/episodes/ep-xjzb_t5Tk9o.md#ent-person-phillip-f-tourney-t-01-25-31)**
 > "I agree with Phil Tourney of the USS Liberty."
 
 </details>

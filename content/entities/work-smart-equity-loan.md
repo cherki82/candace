@@ -1,6 +1,6 @@
 ---
 title: "SMART Equity Loan"
-description: "SMART Equity Loan (Works & Media) - 85 mentions"
+description: "SMART Equity Loan (Works & Media) - 84 mentions"
 id: "work-smart-equity-loan"
 type: "WORK"
 aliases:
@@ -25,7 +25,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11">2025-10-06 · 00:55:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-smart-equity-loan-t-03-00-28">2026-08-14 · 03:00:33</a></strong></div>
 <div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>85</strong></div>
+<div><span>Mentions</span><strong>84</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -43,9 +43,9 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-31" style="--pulse-height:67%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-work-smart-equity-loan-t-01-15-07" style="--pulse-height:67%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49" style="--pulse-height:67%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-10" style="--pulse-height:67%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-19" style="--pulse-height:67%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-26" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-39" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-16" style="--pulse-height:67%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-16" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-smart-equity-loan-t-00-42-04" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-smart-equity-loan-t-00-38-20" style="--pulse-height:67%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-work-smart-equity-loan-t-00-42-18" style="--pulse-height:67%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
@@ -92,9 +92,9 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-31) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-work-smart-equity-loan-t-01-15-07) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49) | 2 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-10) | 2 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-19) | 2 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-26) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-39) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-16) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-16) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-work-smart-equity-loan-t-00-42-04) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-work-smart-equity-loan-t-00-38-20) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-work-smart-equity-loan-t-00-42-18) | 2 |
@@ -136,7 +136,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (85)</strong></summary>
+<summary><strong class="section-title">Raw mentions (84)</strong></summary>
 
 <details>
 <summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
@@ -501,7 +501,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 **[00:42:13](/episodes/ep-xjzb_t5Tk9o.md#ent-work-smart-equity-loan-t-00-42-04)**
 > "Smart Equity Loan"
 
-**[00:42:23](/episodes/ep-xjzb_t5Tk9o.md#ent-work-smart-equity-loan-t-00-42-04)**
+**[00:42:20](/episodes/ep-xjzb_t5Tk9o.md#ent-work-smart-equity-loan-t-00-42-04)**
 > "the SMART equity loan offers a fixed rate,"
 
 </details>
@@ -509,10 +509,10 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:57:26](/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-26)**
+**[00:57:26](/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-16)**
 > "...merican Financing created the Smart Equity Loan. It's a simple, smart way to get your."
 
-**[00:57:36](/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-26)**
+**[00:57:30](/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-16)**
 > "the smart equity loan offers a fixed rate so you'll have one predictabl..."
 
 </details>
@@ -520,22 +520,19 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:37:26](/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-19)**
+**[00:37:26](/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-16)**
 > "...merican financing created the smart equity loan,"
 
-**[00:37:36](/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-19)**
+**[00:37:33](/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-16)**
 > "the Smart Equity Loan offers a fixed rate,"
 
 </details>
 
 <details>
-<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
+<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:57:39](/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-10)**
+**[00:57:39](/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-39)**
 > "American Financing created the Smart Equity Loan"
-
-**[00:57:50](/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-10)**
-> "the Smart Equity Loan offers a fixed rate."
 
 </details>
 

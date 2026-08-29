@@ -21,7 +21,7 @@ _Type: Events_
 Source: [The National WWII Museum: World War II](https://www.nationalww2museum.org/war)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-12-00">2026-01-29 · 00:12:16</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-12-00">2026-01-29 · 00:12:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-event-world-war-ii-t-00-40-44">2026-06-11 · 00:41:05</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
@@ -74,16 +74,16 @@ Source: [The National WWII Museum: World War II](https://www.nationalww2museum.o
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
 
-**[00:37:52](/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-37-51)**
+**[00:37:51](/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-37-51)**
 > "told us about World War Two"
 
-**[00:12:16](/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-12-00)**
+**[00:12:11](/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-12-00)**
 > "... told Yes. about history from World War II to JFK (John F. Kennedy)."
 
 **[00:38:00](/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-37-51)**
 > "about world war ii and the things and they panicked and it was hilar..."
 
-**[00:38:55](/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-38-44)**
+**[00:38:44](/episodes/ep-xjzb_t5Tk9o.md#ent-event-world-war-ii-t-00-38-44)**
 > "...hat the number one victims of World War II were not Jews, it was Christians."
 
 </details>

@@ -21,7 +21,7 @@ _Type: Organizations_
 Source: [Company Information | Whole Foods Market](https://wfm.amazon.com/company-info)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-10">2026-01-21 · 00:57:19</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03">2026-01-21 · 00:57:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-whole-foods-market-t-00-52-13">2026-08-18 · 00:52:13</a></strong></div>
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
@@ -33,9 +33,9 @@ Source: [Company Information | Whole Foods Market](https://wfm.amazon.com/compan
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-10">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-10" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-whole-foods-market-t-00-26-21" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-whole-foods-market-t-00-38-19" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-whole-foods-market-t-00-48-32" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Company Information | Whole Foods Market](https://wfm.amazon.com/compan
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-10) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-whole-foods-market-t-00-26-21) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-whole-foods-market-t-00-38-19) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-whole-foods-market-t-00-48-32) | 1 |
@@ -134,7 +134,7 @@ Source: [Company Information | Whole Foods Market](https://wfm.amazon.com/compan
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:57:19](/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-10)**
+**[00:57:16](/episodes/ep-GY6GWceEqtQ.md#ent-org-whole-foods-market-t-00-57-03)**
 > "Whole Foods"
 
 </details>

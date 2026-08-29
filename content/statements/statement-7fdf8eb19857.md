@@ -62,7 +62,7 @@ Washington Post reporting confirms Kirk opposed deeper U.S. involvement in Iran 
 - [Washington Post: Trump faces competing pressure over Iran](https://www.washingtonpost.com/politics/2025/06/20/trump-iran-war-decision/)
 - [White House: U.S. operation against Iranian nuclear facilities](https://www.whitehouse.gov/releases/2025/06/what-they-are-saying-president-trumps-display-of-peace-through-strength/)
 
-*Verified: 2026-08-16T09:05:01.197211*
+*Verified: 2026-08-29T14:35:05.547218*
 
 ---
 

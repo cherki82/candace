@@ -53,7 +53,7 @@ Source: [Oracle executive biography: Larry Ellison](https://www.oracle.com/il-en
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[00:46:21](/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-46-04)**
+**[00:46:18](/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-46-04)**
 > "Larry Ellison"
 
 **[00:52:49](/episodes/ep-xjzb_t5Tk9o.md#ent-person-larry-ellison-t-00-52-49)**

@@ -44,7 +44,7 @@ Source: [Timcast](https://timcast.com/)
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22" style="--pulse-height:25%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-22-36" style="--pulse-height:17%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-tim-pool-t-00-51-55" style="--pulse-height:17%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-18" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-19" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-tim-pool-t-00-27-22" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-00-56-59" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
@@ -63,7 +63,7 @@ Source: [Timcast](https://timcast.com/)
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-tim-pool-t-00-21-22) | 3 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-22-36) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-tim-pool-t-00-51-55) | 2 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-18) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-19) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-tim-pool-t-00-27-22) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-56-59) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) | 1 |
@@ -130,7 +130,7 @@ Source: [Timcast](https://timcast.com/)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:44:49](/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-18)**
+**[00:44:49](/episodes/ep-9naMwS0kMBE.md#ent-person-tim-pool-t-00-44-19)**
 > "... I mean, this like ridiculous Tim Pool meltdown of what about the midterms? What about t..."
 
 </details>

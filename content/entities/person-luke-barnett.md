@@ -27,7 +27,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -64,6 +64,28 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Pastor Of (1)</summary>
+
+- **[Dream City Church](/entities/org-dream-city-church.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:54](/episodes/ep-DYD_QHMPwqM.md#t-00-30-54): “dream city church is coming up a lot people have emailed me about dream city church and about that Pastor Luke (Dream City Church pastor; surname unverified) and his involvement”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Dream City Church](/entities/org-dream-city-church.md)** has pastor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:54](/episodes/ep-DYD_QHMPwqM.md#t-00-30-54): “dream city church is coming up a lot people have emailed me about dream city church and about that Pastor Luke (Dream City Church pastor; surname unverified) and his involvement”
+
+</details>
+
+</details>
 
 </details>

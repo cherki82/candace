@@ -14,7 +14,7 @@ date: "2025-12-15"
 ## Mentioned In
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:08:20](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-12-15-a-turning-point-usa-attorney-requested-t-t-00-07-51) 
+**Timestamp:** [00:08:20](/episodes/ep-GY6GWceEqtQ.md#event-event-2025-12-15-a-turning-point-usa-attorney-requested-t-t-00-08-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(500);return false;">▶️ Play</a>
 
 > We terminated our contract in December 15th. I requested a retraction of Ms.

@@ -24,8 +24,8 @@ _Type: Organizations_
 Source: [Arizona Chinese News - About Us](https://www.azchinesenews1.com/web/about.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-17">2026-01-22 · 00:16:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-17">2026-01-22 · 00:16:49</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-12">2026-01-22 · 00:16:12</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-49">2026-01-22 · 00:16:49</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -36,15 +36,15 @@ Source: [Arizona Chinese News - About Us](https://www.azchinesenews1.com/web/abo
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-17">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-12">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-17" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-12" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-17) | 3 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-12) | 3 |
 
 </details>
 </section>
@@ -57,13 +57,13 @@ Source: [Arizona Chinese News - About Us](https://www.azchinesenews1.com/web/abo
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
 
-**[00:16:20](/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-17)**
+**[00:16:12](/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-12)**
 > "...ssue the public notice in the Arizona Chinese News,"
 
-**[00:16:29](/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-17)**
+**[00:16:29](/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-12)**
 > "...ice. They got it notarized by Arizona Chinese American Publication saying,"
 
-**[00:16:49](/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-17)**
+**[00:16:49](/episodes/ep-gG4ZoYUjUc8.md#ent-org-arizona-chinese-news-t-00-16-49)**
 > "... on December 1st. OK, now the Arizona Chinese newspaper,"
 
 </details>
@@ -83,7 +83,7 @@ _No relationships extracted yet._
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:16:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-17) (Citation) **Candace Owens**: ["Desert Spirit Tek's required public notice was published through Arizo..."](/statements/statement-7dccfb54b85d.md)
+- [00:16:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-12) (Citation) **Candace Owens**: ["Desert Spirit Tek's required public notice was published through Arizo..."](/statements/statement-7dccfb54b85d.md)
   - Also about: [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Larry Guinta](/entities/person-larry-guinta.md)
 
 </details>

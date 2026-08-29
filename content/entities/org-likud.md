@@ -27,7 +27,7 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 <div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -124,6 +124,18 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:32:32](/episodes/ep-hWTdXHGQ8R4.md#t-00-32-32): “it's being run by the Likud party. And effectively what that is, is just a team of mass murderers.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -148,7 +160,14 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:32:32](/episodes/ep-hWTdXHGQ8R4.md#t-00-32-32): “it's being run by the Likud party. And effectively what that is, is just a team of mass murderers.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

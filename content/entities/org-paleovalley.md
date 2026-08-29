@@ -350,7 +350,7 @@ Source: [Paleovalley](https://paleovalley.com/)
 > "...t 20% off your first order at PaleoValley.com, and use code CANDACE at checkout."
 
 **[00:52:17](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-52-11)**
-> "out, that's paleovalley.com, promo code Candace at checkout."
+> "That's PaleoValley.com, promo code CANDACE at checkout."
 
 **[00:53:20](/episodes/ep-1hcjQGgvxUY.md#ent-org-paleovalley-t-00-52-52)**
 > "paleo valley beef."
@@ -506,13 +506,14 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:09:43](/episodes/ep-YeEtS7nix3o.md#t-01-09-14): “Paleo Valley is still with us. It is the one snack that you'll always find in my bag.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:41:27](/episodes/ep-puuMVxEu5NU.md#t-00-41-07): “All right, you guys, one snack that you will always find in my bag is Paleo Valley beef sticks”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:30:33](/episodes/ep-AoYZel7_cGQ.md#t-00-30-26): “So if you are looking for a clean, convenient protein snack that tastes as good as it sounds, check out Paleo Valley Beef Sticks.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:49:12](/episodes/ep-Wjul6YV6izo.md#t-00-49-03): “Also want to tell you guys about Paleo Valley because something that my team and I are always craving are their beef sticks. Paleo Valley makes their meat sticks with 100% grass-fed beef ... so you can feel good about what you are eating and what you're supporting.”
 
 </details>
 
@@ -522,13 +523,14 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:09:43](/episodes/ep-YeEtS7nix3o.md#t-01-09-14): “Paleo Valley is still with us. It is the one snack that you'll always find in my bag.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:41:27](/episodes/ep-puuMVxEu5NU.md#t-00-41-07): “All right, you guys, one snack that you will always find in my bag is Paleo Valley beef sticks”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:30:33](/episodes/ep-AoYZel7_cGQ.md#t-00-30-26): “So if you are looking for a clean, convenient protein snack that tastes as good as it sounds, check out Paleo Valley Beef Sticks.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:49:12](/episodes/ep-Wjul6YV6izo.md#t-00-49-03): “Also want to tell you guys about Paleo Valley because something that my team and I are always craving are their beef sticks. Paleo Valley makes their meat sticks with 100% grass-fed beef ... so you can feel good about what you are eating and what you're supporting.”
 
 </details>
 

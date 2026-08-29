@@ -36,7 +36,7 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 <p>Highest activity: <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36">UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-meghan-markle-t-00-31-02" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-meghan-markle-t-00-31-38" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-meghan-markle-t-00-02-57" style="--pulse-height:33%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-meghan-markle-t-00-01-09" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-meghan-markle-t-00-56-09" style="--pulse-height:33%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36) | 3 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-meghan-markle-t-00-31-02) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-meghan-markle-t-00-31-38) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-meghan-markle-t-00-02-57) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-person-meghan-markle-t-00-01-09) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-meghan-markle-t-00-56-09) | 1 |
@@ -86,7 +86,7 @@ Source: [Prince Harry, Duke of Sussex - National Portrait Gallery](https://www.n
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:31:42](/episodes/ep-GY6GWceEqtQ.md#ent-person-meghan-markle-t-00-31-02)**
+**[00:31:38](/episodes/ep-GY6GWceEqtQ.md#ent-person-meghan-markle-t-00-31-38)**
 > "Meghan Markle goes over there"
 
 </details>

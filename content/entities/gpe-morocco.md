@@ -1,6 +1,6 @@
 ---
 title: "Morocco"
-description: "Morocco (Places) - 7 mentions"
+description: "Morocco (Places) - 8 mentions"
 id: "gpe-morocco"
 type: "GPE"
 categories:
@@ -19,8 +19,8 @@ Source: [Official portal of Morocco](https://www.maroc.ma/en)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-morocco-t-00-13-15">2025-12-01 · 00:13:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-morocco-t-00-44-25">2026-08-03 · 00:44:25</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -32,6 +32,7 @@ Source: [Official portal of Morocco](https://www.maroc.ma/en)
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-morocco-t-00-02-51">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-morocco-t-00-13-15" style="--pulse-height:25%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-morocco-t-00-13-44" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-morocco-t-00-02-51" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-morocco-t-00-12-57" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-morocco-t-00-44-25" style="--pulse-height:25%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
@@ -41,6 +42,7 @@ Source: [Official portal of Morocco](https://www.maroc.ma/en)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-morocco-t-00-13-15) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-morocco-t-00-13-44) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-morocco-t-00-02-51) | 4 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-morocco-t-00-12-57) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-morocco-t-00-44-25) | 1 |
@@ -51,7 +53,7 @@ Source: [Official portal of Morocco](https://www.maroc.ma/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -83,6 +85,14 @@ Source: [Official portal of Morocco](https://www.maroc.ma/en)
 
 **[00:38:21](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-morocco-t-00-38-00)**
 > "it runs right through to Morocco."
+
+</details>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
+
+**[00:13:44](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-morocco-t-00-13-44)**
+> "...ople in Iraq and in Egypt and Morocco lived there for hundreds of years."
 
 </details>
 

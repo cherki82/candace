@@ -29,7 +29,7 @@ type: "factual_claim"
 ### 1. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:03:54](/episodes/ep-QdM9jLwjwLw.md#t-00-03-36) 
+**Timestamp:** [00:03:54](/episodes/ep-QdM9jLwjwLw.md#t-00-03-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(234);return false;">Play</a>
 
 > We've also now confirmed that she was at the Hamptons Retreat, the now infamous Hamptons Retreat. She was present when Bibi (Benjamin Netanyahu) called.

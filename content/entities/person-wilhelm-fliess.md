@@ -26,7 +26,7 @@ Source: [Bibliothèque nationale de France: Fließ, Wilhelm (1858-1928)](https:/
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -73,6 +73,18 @@ Source: [Bibliothèque nationale de France: Fließ, Wilhelm (1858-1928)](https:/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Friend Of (1)</summary>
+
+- **[Sigmund Freud](/entities/person-sigmund-freud.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:03:56](/episodes/ep-CEF7gQRWYCE.md#t-00-03-32): “This I'm going to read from you is actually a direct quotation from Sigmund Freud. ... he's writing a letter to his best friend, also the person he was having a gay affair with, who mentored him, Wilhelm Fliess.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Mentored (1)</summary>
 
 - **[Sigmund Freud](/entities/person-sigmund-freud.md)**
@@ -97,12 +109,19 @@ Source: [Bibliothèque nationale de France: Fließ, Wilhelm (1858-1928)](https:/
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Robert Fliess](/entities/person-robert-fliess.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:04:05](/episodes/ep-CEF7gQRWYCE.md#t-00-03-32): “Now, I should skip to the part and tell you Wilhelm Fliess also molested his own son, Robert Fliess. Robert Fliess spoke about that when he got older,”
+
+</details>
+
+- **[Sigmund Freud](/entities/person-sigmund-freud.md)** friend of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:03:56](/episodes/ep-CEF7gQRWYCE.md#t-00-03-32): “This I'm going to read from you is actually a direct quotation from Sigmund Freud. ... he's writing a letter to his best friend, also the person he was having a gay affair with, who mentored him, Wilhelm Fliess.”
 
 </details>
 

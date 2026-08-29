@@ -29,7 +29,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:07:51](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51) 
+**Timestamp:** [00:07:51](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(471);return false;">Play</a>
 
 > You say people are accusing you of being an anti-Semite because you disagree with the Israeli government. Well, what is it exactly that you disagree with? You threatened Jews and Christians with your 30 million followers? Are you kidding? Be very careful, Charlie (Charlie Kirk). You are in violation of the Ninth Commandment by bearing false witness against your brother Judah.

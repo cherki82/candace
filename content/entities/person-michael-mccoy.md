@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 353 mentions"
+description: "Michael McCoy (People) - 357 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -19,17 +19,17 @@ _Type: People_
 **Categories:** Turning Point USA
 
 **Entity verification:** verified
-> External program page and transcript context confirm canonical name; source identifies him in TPUSA context.
-Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/programs/charlie-kirk-today/episodes/michael-mccoy-blake-neff-october-13-2025-charlie-kirk-today)
+> Source-local role resolves Mikey to Michael McCoy: the episode calls him Charlie Kirk’s former intern/assistant, while external reporting identifies Mikey McCoy as Kirk’s former chief of staff and a TPUSA colleague. Existing canonical aliases include Mikey.
+Source: [This Is Going to Radicalize Millions of Americans: Young MAGA Plots a Future After Charlie Kirk](https://www.vanityfair.com/news/story/this-is-going-to-radicalize-millions-of-americans-young-maga-plots-a-future-after-charlie-kirk)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-michael-mccoy-t-01-06-19">2026-08-21 · 01:06:28</a></strong></div>
-<div><span>Episodes</span><strong>71</strong></div>
-<div><span>Mentions</span><strong>353</strong></div>
+<div><span>Episodes</span><strong>73</strong></div>
+<div><span>Mentions</span><strong>357</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>75</strong></div>
-<div><span>Relationships</span><strong>30</strong></div>
+<div><span>Statements about</span><strong>76</strong></div>
+<div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -65,10 +65,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-michael-mccoy-t-00-06-24" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-michael-mccoy-t-00-59-40" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-michael-mccoy-t-00-18-49" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-person-michael-mccoy-t-00-10-03" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-michael-mccoy-t-00-29-56" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-michael-mccoy-t-00-24-42" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-michael-mccoy-t-00-24-42" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-michael-mccoy-t-00-21-01" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-michael-mccoy-t-00-23-00" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-michael-mccoy-t-00-23-00" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-michael-mccoy-t-00-02-54" style="--pulse-height:10%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 4 mentions" title="2026-02-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-michael-mccoy-t-00-01-27" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-michael-mccoy-t-00-37-19" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 13 mentions" title="2026-02-13 · 13 mentions"><span></span></a>
@@ -92,6 +93,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-michael-mccoy-t-00-24-28" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-michael-mccoy-t-00-32-40" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-michael-mccoy-t-00-23-41" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-michael-mccoy-t-00-04-45" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-michael-mccoy-t-00-34-19" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 3 mentions" title="2026-06-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-michael-mccoy-t-00-03-11" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-michael-mccoy-t-00-25-48" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
@@ -141,10 +143,11 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-michael-mccoy-t-00-06-24) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-michael-mccoy-t-00-59-40) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-michael-mccoy-t-00-18-49) | 1 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-michael-mccoy-t-00-10-03) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-michael-mccoy-t-00-29-56) | 2 |
-| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-michael-mccoy-t-00-24-42) | 1 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-michael-mccoy-t-00-24-42) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-michael-mccoy-t-00-21-01) | 3 |
-| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-michael-mccoy-t-00-23-00) | 1 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-michael-mccoy-t-00-23-00) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-michael-mccoy-t-00-02-54) | 4 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-michael-mccoy-t-00-01-27) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-michael-mccoy-t-00-37-19) | 13 |
@@ -168,6 +171,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-michael-mccoy-t-00-24-28) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-michael-mccoy-t-00-32-40) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-michael-mccoy-t-00-23-41) | 2 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-michael-mccoy-t-00-04-45) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-michael-mccoy-t-00-34-19) | 3 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-michael-mccoy-t-00-03-11) | 4 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-michael-mccoy-t-00-25-48) | 1 |
@@ -191,7 +195,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (353)</strong></summary>
+<summary><strong class="section-title">Raw mentions (357)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -468,6 +472,14 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 **[00:37:19](/episodes/ep-h76ZN-xXC6c.md#ent-person-michael-mccoy-t-00-37-19)**
 > "...ot the first call from Mikey (Michael McCoy). Because I was in the emergency room after we go..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:04:57](/episodes/ep-5NQyGuRYbU8.md#ent-person-michael-mccoy-t-00-04-45)**
+> "What were his friends doing? Right. No one called 911. Mikey McCoy (Michael McCoy) didn't call. He called his wife."
 
 </details>
 
@@ -845,10 +857,13 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (1 mentions)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (2 mentions)</summary>
 
 **[00:23:32](/episodes/ep-mFuno0TuuQQ.md#ent-person-michael-mccoy-t-00-23-00)**
-> "I know he was meeting with Mikey (former Charlie Kirk intern/assistant; surname unverified) the other day."
+> "I know he was meeting with Mikey (former Charlie Kirk intern/assistant; surname un..."
+
+**[00:23:37](/episodes/ep-mFuno0TuuQQ.md#ent-person-michael-mccoy-t-00-23-00)**
+> "So weird, Mikey (former Charlie Kirk intern/assistant; surname un..."
 
 </details>
 
@@ -867,10 +882,13 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (1 mentions)</summary>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (2 mentions)</summary>
 
 **[00:25:15](/episodes/ep-QRS_hR7NXaQ.md#ent-person-michael-mccoy-t-00-24-42)**
 > "when Mikey McCoy called her"
+
+**[00:25:24](/episodes/ep-QRS_hR7NXaQ.md#ent-person-michael-mccoy-t-00-25-24)**
+> "Actually, Mikey called his wife first, so much for that training ..."
 
 </details>
 
@@ -882,6 +900,14 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 
 **[00:49:56](/episodes/ep-CEF7gQRWYCE.md#ent-person-michael-mccoy-t-00-49-56)**
 > "They know Mikey McCoy. People have said I've seen Mikey McCoy on this d..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1 mentions)</summary>
+
+**[00:10:05](/episodes/ep-A39g5oqB_eM.md#ent-person-michael-mccoy-t-00-10-03)**
+> "Mikey (Michael McCoy),"
 
 </details>
 
@@ -1613,12 +1639,19 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appeared With (1)</summary>
+<summary>Appeared With (2)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:10:00](/episodes/ep-A39g5oqB_eM.md#t-00-09-18): “We're not going to mention what restaurant it's at, but the McCoys are there, Elizabeth (one of the McCoys; full identity unverified), Mikey (Michael McCoy), Erika (Erika Kirk), and they're in joyous spirits is exactly what the email said of someone who was there. They were in joyous spirits.”
 
 </details>
 
@@ -1715,9 +1748,10 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <summary>Formerly Worked For (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:23:37](/episodes/ep-mFuno0TuuQQ.md#t-00-23-00): “So weird, Mikey (former Charlie Kirk intern/assistant; surname unverified) didn't. Went straight from high school, was just Charlie (Charlie Kirk)'s intern assistant and now he's sitting down with board members and discussing how they should invest into restaurants.”
 
 </details>
 
@@ -1748,12 +1782,26 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>Met With (1)</summary>
+<summary>Met With (3)</summary>
 
 - **[Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): “Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense.”
+
+</details>
+
+- **[White House](/entities/org-white-house.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56): “but Andrew Kolvet and alleged Mikey McCoy and his wife went down to meet with the White House and they wanted the public to think that they were in Arizona.”
+
+</details>
+
+- **[Doug DeGroote](/entities/person-doug-degroote.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:23:25](/episodes/ep-mFuno0TuuQQ.md#t-00-23-00): “Doug DeGroote, that board member that announced you as the CEO, made it really biblical. Could you send him my regards? I know he was meeting with Mikey (former Charlie Kirk intern/assistant; surname unverified) the other day.”
 
 </details>
 
@@ -1811,12 +1859,19 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>Referenced By (15)</summary>
+<summary>Referenced By (18)</summary>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:22:57](/episodes/ep-es7PWdFGoFI.md#t-00-22-39): “Blake Neff called his mom. His call with his mother lasted 45 seconds.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:10:00](/episodes/ep-A39g5oqB_eM.md#t-00-09-18): “We're not going to mention what restaurant it's at, but the McCoys are there, Elizabeth (one of the McCoys; full identity unverified), Mikey (Michael McCoy), Erika (Erika Kirk), and they're in joyous spirits is exactly what the email said of someone who was there. They were in joyous spirits.”
 
 </details>
 
@@ -1855,9 +1910,10 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:49](/episodes/ep-q1NRQQAYS_Q.md#t-00-35-33): “It continues. Ms. Kirk was sitting in her mother's hospital room at 1123 a.m. local time in Phoenix when she saw the number of her husband's longtime assistant, Michael McCoy, appear on her phone.”
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:23:37](/episodes/ep-mFuno0TuuQQ.md#t-00-23-00): “So weird, Mikey (former Charlie Kirk intern/assistant; surname unverified) didn't. Went straight from high school, was just Charlie (Charlie Kirk)'s intern assistant and now he's sitting down with board members and discussing how they should invest into restaurants.”
 
 </details>
 
@@ -1906,6 +1962,20 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:08](/episodes/ep-SKGUzGHymcI.md#t-00-29-52): “Elizabeth McCoy screamed, she grabbed her phone, she ran out. Mikey probably called her, that would make sense.”
+
+</details>
+
+- **[White House](/entities/org-white-house.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56): “but Andrew Kolvet and alleged Mikey McCoy and his wife went down to meet with the White House and they wanted the public to think that they were in Arizona.”
+
+</details>
+
+- **[Doug DeGroote](/entities/person-doug-degroote.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:23:25](/episodes/ep-mFuno0TuuQQ.md#t-00-23-00): “Doug DeGroote, that board member that announced you as the CEO, made it really biblical. Could you send him my regards? I know he was meeting with Mikey (former Charlie Kirk intern/assistant; surname unverified) the other day.”
 
 </details>
 
@@ -1982,7 +2052,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael McCoy (75)</strong></summary>
+<summary><strong class="section-title">Statements about Michael McCoy (76)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2078,10 +2148,13 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1)</summary>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2)</summary>
 
-- [00:34:29](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19) (Claim) **Candace Owens**: ["Candace Owens said Michael McCoy did not call 911 after Charlie Kirk w..."](/statements/statement-65843859383b.md)
+- [00:04:57](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45) (Claim) **Candace Owens**: ["Candace Owens said Michael McCoy did not call 911 after Charlie Kirk w..."](/statements/statement-65843859383b.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:04](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45) (Claim) **Candace Owens**: ["Candace Owens said a person identified in the cleaned transcript as Te..."](/statements/statement-28e8ff4b5485.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -2191,8 +2264,8 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (2)</summary>
 
-- [00:25:20](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-42) (Claim) **Candace Owens**: ["Michael McCoy called his wife before calling Erika Kirk after Charlie ..."](/statements/statement-147b258e47d4.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:24:54](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-42) (Claim) **Candace Owens**: ["Michael McCoy called his wife before calling Erika Kirk."](/statements/statement-147b258e47d4.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:25:34](/episodes/ep-QRS_hR7NXaQ.md#t-00-25-24) (Claim) **Candace Owens**: ["Michael McCoy called Erika Kirk more than three minutes later and adde..."](/statements/statement-8ac90651df3d.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -2202,7 +2275,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
-- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) (Accusation) **Candace Owens**: ["Andrew Kolvet, Michael McCoy, and McCoy's wife met with senior White H..."](/statements/statement-58c3c37a76f1.md)
+- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) (Accusation) **Candace Owens**: ["Candace Owens said Andrew Kolvet and, allegedly, Michael McCoy and McC..."](/statements/statement-58c3c37a76f1.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [White House](/entities/org-white-house.md), [Kash Patel](/entities/person-kash-patel.md)
 
 </details>

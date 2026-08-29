@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 66 mentions"
+description: "United States Department of Defense (Organizations) - 69 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -29,10 +29,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59">2026-07-29 · 00:04:24</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>66</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>39</strong></div>
+<div><span>Statements about</span><strong>41</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -63,6 +63,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-us-department-of-defense-t-00-20-02" style="--pulse-height:88%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 7 mentions" title="2026-06-10 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-us-department-of-defense-t-00-26-01" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-us-department-of-defense-t-00-46-02" style="--pulse-height:50%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 4 mentions" title="2026-06-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-us-department-of-defense-t-00-00-45" style="--pulse-height:38%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-us-department-of-defense-t-00-47-04" style="--pulse-height:12%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-us-department-of-defense-t-00-53-59" style="--pulse-height:12%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-us-department-of-defense-t-00-11-35" style="--pulse-height:38%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
@@ -98,6 +99,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-us-department-of-defense-t-00-20-02) | 7 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-us-department-of-defense-t-00-26-01) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-us-department-of-defense-t-00-46-02) | 4 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-us-department-of-defense-t-00-00-45) | 3 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-us-department-of-defense-t-00-47-04) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-us-department-of-defense-t-00-53-59) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-us-department-of-defense-t-00-11-35) | 3 |
@@ -113,7 +115,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
@@ -203,6 +205,20 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 **[00:47:19](/episodes/ep-h76ZN-xXC6c.md#ent-org-us-department-of-defense-t-00-47-04)**
 > "They referred to her as an emotional asset. And this was done within a period about an hour after the shooting when that should not have been the concern to the Department of War."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3 mentions)</summary>
+
+**[00:00:45](/episodes/ep-5NQyGuRYbU8.md#ent-org-us-department-of-defense-t-00-00-45)**
+> "After my memory resurfaced regarding her summertime anti-Israel stance, I cannot really be all that bothered with the Department of War's emotional asset."
+
+**[00:35:54](/episodes/ep-5NQyGuRYbU8.md#ent-org-us-department-of-defense-t-00-35-29)**
+> "... she was described as in that Department of War executive office email. She's just an quote unquo..."
+
+**[00:36:58](/episodes/ep-5NQyGuRYbU8.md#ent-org-us-department-of-defense-t-00-36-53)**
+> "...d at the White House, why the Department of War is saying this needs to be the number one clip by..."
 
 </details>
 
@@ -373,7 +389,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:04:59](/episodes/ep-9naMwS0kMBE.md#ent-org-us-department-of-defense-t-00-04-42)**
+**[00:04:58](/episodes/ep-9naMwS0kMBE.md#ent-org-us-department-of-defense-t-00-04-42)**
 > "...bout the fact that her mother DOD contracts and once you start looking into what he..."
 
 </details>
@@ -675,7 +691,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Department of Defense (39)</strong></summary>
+<summary><strong class="section-title">Statements about United States Department of Defense (41)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
@@ -718,6 +734,17 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 - [00:57:53](/episodes/ep-G3zdOeHpvS0.md#t-00-57-42) (Accusation) **Anonymous Source #7 (Ep G3zdOeHpvS0)** (via quoted speech): ["An unnamed source told Owens, in an account Owens explicitly caveated ..."](/statements/statement-57184a85ec06.md)
   - Also about: [American Red Cross](/entities/org-american-red-cross.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2)</summary>
+
+- [00:35:54](/episodes/ep-5NQyGuRYbU8.md#t-00-35-29) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of serving as an emotional asset whos..."](/statements/statement-79fa092c5d1d.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:36:58](/episodes/ep-5NQyGuRYbU8.md#t-00-36-53) (Claim) **Candace Owens**: ["Candace Owens said the White House was boosting an Erika Kirk clip and..."](/statements/statement-d2025aa7dc9e.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [White House](/entities/org-white-house.md)
 
 </details>
 

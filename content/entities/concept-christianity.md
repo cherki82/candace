@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 251 mentions"
+description: "Christianity (Concepts) - 247 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -24,7 +24,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27">2026-01-07 · 00:04:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
 <div><span>Episodes</span><strong>66</strong></div>
-<div><span>Mentions</span><strong>251</strong></div>
+<div><span>Mentions</span><strong>247</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,9 +42,9 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-christianity-t-00-02-09" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-45" style="--pulse-height:26%" aria-label="Myron Gaines x Candace Owens: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-35-08" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-00-40" style="--pulse-height:40%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 14 mentions" title="2026-01-22 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43" style="--pulse-height:14%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04" style="--pulse-height:49%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 17 mentions" title="2026-01-29 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-17" style="--pulse-height:37%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 13 mentions" title="2026-01-22 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-40-45" style="--pulse-height:14%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-christianity-t-00-40-25" style="--pulse-height:14%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 5 mentions" title="2026-01-30 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-christianity-t-00-02-09" style="--pulse-height:9%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-christianity-t-00-09-31" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
@@ -113,9 +113,9 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-christianity-t-00-02-09) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-45) | 9 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-35-08) | 4 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-00-40) | 14 |
-| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43) | 5 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04) | 17 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-17) | 13 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-40-45) | 5 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04) | 14 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-christianity-t-00-40-25) | 5 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-christianity-t-00-02-09) | 3 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-christianity-t-00-09-31) | 2 |
@@ -179,7 +179,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (251)</strong></summary>
+<summary><strong class="section-title">Raw mentions (247)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -915,12 +915,12 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (17 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (14 mentions)</summary>
 
-**[00:21:28](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04)**
+**[00:21:27](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04)**
 > "as a Christian"
 
-**[00:21:09](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04)**
+**[00:21:04](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-04)**
 > "... if you are Muslim if you are Christian I mean obviously I want you guys to all be Christ..."
 
 **[00:21:32](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-21-32)**
@@ -935,34 +935,25 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:25:30](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-25-30)**
 > "...g their own people, their own Christian followers down in order to be loyal not to God, n..."
 
-**[00:30:50](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-30-48)**
+**[00:30:48](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-30-48)**
 > "a very right-wing, very Christian nationalist lens."
 
 **[00:33:57](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
 > "...ng about that that is ChatGPT Christianity,"
 
-**[00:34:04](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
-> "being Christian is is the we are flawed."
-
-**[00:38:51](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
+**[00:38:44](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
 > "...s that were happening against Christians,"
-
-**[00:38:53](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
-> "mass murder of Christians,"
-
-**[00:38:55](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
-> "... War II were not Jews, it was Christians."
 
 **[01:16:05](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
 > "... don't know about evangelical christians who used to that kind of humiliation saying that ..."
 
-**[01:36:04](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
+**[01:36:02](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
 > "...ny and it's like those stupid christians they think that they if they support israel it wi..."
 
-**[01:36:33](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
+**[01:36:30](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
 > "... talk openly about how stupid Christians and Muslims are and how they use them to fight wi..."
 
-**[01:36:40](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
+**[01:36:39](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-00-33-32)**
 > "...hat I think they believe that Christians are stupid."
 
 **[01:42:07](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christianity-t-01-41-42)**
@@ -973,10 +964,10 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (5 mentions)</summary>
 
-**[00:34:20](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43)**
+**[00:34:20](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-40-45)**
 > "a threat from a Christian Zionist."
 
-**[00:38:26](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43)**
+**[00:38:26](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-40-45)**
 > "... guys are like that's not how christians would write this it turns out that well lori card..."
 
 **[00:40:46](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-40-45)**
@@ -991,48 +982,45 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 </details>
 
 <details>
-<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (14 mentions)</summary>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (13 mentions)</summary>
 
-**[00:00:47](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-00-40)**
+**[00:00:38](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-17)**
 > "...me from a loving, very loving Christian Zionist donor."
 
-**[00:01:28](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23)**
+**[00:01:17](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-17)**
 > "but also by Christian Zionist donors."
 
-**[00:01:31](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23)**
+**[00:01:31](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-17)**
 > "What is Christian Zionism? We're all wondering, we're having that c..."
 
-**[00:01:37](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23)**
+**[00:01:37](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-17)**
 > "Doesn't feel too Christian. It kind of feels like."
 
-**[00:01:40](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-01-23)**
-> "here is how Christians better behave and act."
-
-**[00:06:20](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-05-42)**
+**[00:06:14](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-05-42)**
 > "this time from a female Christian donor,"
 
-**[00:07:37](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-07-10)**
+**[00:07:35](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-05-42)**
 > "Jews and Christians,"
 
-**[00:07:44](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-07-10)**
+**[00:07:44](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-05-42)**
 > "There are many evangelical Christian Zionists who would never give these people the op..."
 
-**[00:07:59](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-07-10)**
+**[00:07:56](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-05-42)**
 > "You threatened Jews and Christians with your 30 million followers?"
 
-**[00:09:43](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-09-17)**
+**[00:09:43](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-09-43)**
 > "...ike you're pretending to be a Christian, but you have specific marching orders and you do..."
 
-**[00:38:01](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-37-19)**
+**[00:38:01](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-38-01)**
 > "... was evil and it was just not Christian."
 
-**[00:39:26](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-39-10)**
+**[00:39:25](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-39-10)**
 > "...h you that there is a lack of Christianity in the way that that was handled and the fact tha..."
 
-**[00:42:26](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-42-26)**
+**[00:42:20](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-42-20)**
 > "Christian Zionism has been put on trial this year, and I'm ..."
 
-**[00:42:39](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-42-26)**
+**[00:42:37](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-42-20)**
 > "...th this veneer of your loving Christian sister is telling you this."
 
 </details>
@@ -1043,14 +1031,14 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:35:08](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-35-08)**
 > "...o crazy he has a really rigid christian household and his parents are fearful for him to ..."
 
-**[00:45:20](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-45-17)**
-> "you give me a Christian."
-
-**[00:45:26](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-45-17)**
+**[00:45:22](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-45-17)**
 > "...voting for people who are not Christian or who are anti-Christian, and I'm done voting fo..."
 
 **[00:46:40](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-46-25)**
 > "...draw the line here. Give me a Christian."
+
+**[00:45:17](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-45-17)**
+> "...rly on my show, you give me a Christian."
 
 </details>
 
@@ -1388,7 +1376,7 @@ _No relationships extracted yet._
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:42:24](/episodes/ep-gG4ZoYUjUc8.md#t-00-41-46) (Opinion) **Candace Owens**: ["Christian Zionism is not a religious philosophy; its adherents act lik..."](/statements/statement-22e9c3c32661.md)
+- [00:42:24](/episodes/ep-gG4ZoYUjUc8.md#t-00-42-20) (Opinion) **Candace Owens**: ["Owens said she thought Christian Zionism was not a religious philosoph..."](/statements/statement-22e9c3c32661.md)
   - Also about: [Christian Zionism](/entities/concept-christian-zionism.md)
 
 </details>

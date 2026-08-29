@@ -1,6 +1,6 @@
 ---
-title: "France and Israel were involved in Charlie Kirk's assassinat..."
-description: "\"France and Israel were involved in Charlie Kirk's assassination.\" — Candace Owens"
+title: "Candace Owens said, 'I think France and Israel are involved ..."
+description: "\"Candace Owens said, 'I think France and Israel are involved in Charlie Kirk's assassination,' and put the allegation forward with full confidence.\" — Candace Owens"
 statement_id: "statement-ec63bfd7c4f9"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> France and Israel were involved in Charlie Kirk's assassination.
+> Candace Owens said, 'I think France and Israel are involved in Charlie Kirk's assassination,' and put the allegation forward with full confidence.
 
 ## Attribution
 

@@ -23,8 +23,8 @@ _Type: People_
 Source: [Unabomber | FBI](https://www.fbi.gov/history/cases-and-criminals/unabomber)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-theodore-kaczynski-t-00-21-28">2026-01-20 · 00:21:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-theodore-kaczynski-t-00-21-28">2026-01-20 · 00:21:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-theodore-kaczynski-t-00-21-28">2026-01-20 · 00:21:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-theodore-kaczynski-t-00-21-28">2026-01-20 · 00:21:28</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -56,7 +56,7 @@ Source: [Unabomber | FBI](https://www.fbi.gov/history/cases-and-criminals/unabom
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:21:31](/episodes/ep-9naMwS0kMBE.md#ent-person-theodore-kaczynski-t-00-21-28)**
+**[00:21:28](/episodes/ep-9naMwS0kMBE.md#ent-person-theodore-kaczynski-t-00-21-28)**
 > "...eople like Jeffrey Dahmer and Kaczynski and McVeigh and Oswald and a host of other people..."
 
 </details>

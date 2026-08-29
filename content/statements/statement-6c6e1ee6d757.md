@@ -50,7 +50,7 @@ This is a claim about what Mitch Snow has consistently said, not proof that the 
 - [Stew Peters Show: Mitch Snow follow-up interview transcript](https://fight.fudgie.org/search/show/st/episode/20260106_Tue_v71qumu)
 - [IBTimes UK: Cabot Phillips disputes Fort Huachuca claim](https://www.ibtimes.co.uk/you-are-being-lied-cabot-phillips-fires-back-candace-owens-over-arizona-military-base-claims-1767286)
 
-*Verified: 2026-08-16T09:04:59.719403*
+*Verified: 2026-08-29T14:35:05.547201*
 
 ---
 

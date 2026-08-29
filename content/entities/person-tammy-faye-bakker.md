@@ -22,8 +22,8 @@ _Type: People_
 Source: [The Lost Sheep of Danny McBride's The Righteous Gemstones](https://www.newyorker.com/magazine/2022/01/24/the-lost-sheep-of-danny-mcbrides-the-righteous-gemstones)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-10">2026-01-22 · 00:43:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-10">2026-01-22 · 00:43:18</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-04">2026-01-22 · 00:43:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-04">2026-01-22 · 00:43:13</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [The Lost Sheep of Danny McBride's The Righteous Gemstones](https://www.
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-10">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-04">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-10" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-04" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-10) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-04) | 1 |
 
 </details>
 </section>
@@ -55,7 +55,7 @@ Source: [The Lost Sheep of Danny McBride's The Righteous Gemstones](https://www.
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:43:18](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-10)**
+**[00:43:13](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tammy-faye-bakker-t-00-43-04)**
 > "led by Tammy Faye,"
 
 </details>

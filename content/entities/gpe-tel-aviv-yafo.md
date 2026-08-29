@@ -22,7 +22,7 @@ _Type: Places_
 Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePage.aspx)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-tel-aviv-yafo-t-00-45-42">2026-01-29 · 00:45:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-tel-aviv-yafo-t-00-45-42">2026-01-29 · 00:45:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-tel-aviv-yafo-t-00-29-50">2026-06-11 · 00:29:50</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
@@ -116,7 +116,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/Pages/HomePa
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[00:45:56](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-tel-aviv-yafo-t-00-45-42)**
+**[00:45:54](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-tel-aviv-yafo-t-00-45-42)**
 > "field offices is in Tel Aviv"
 
 **[00:46:09](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-tel-aviv-yafo-t-00-46-04)**

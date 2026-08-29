@@ -1,6 +1,6 @@
 ---
 title: "Tyler Robinson"
-description: "Tyler Robinson (People) - 976 mentions"
+description: "Tyler Robinson (People) - 977 mentions"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tyler-robinson-t-00-39-50">2025-09-15 · 00:40:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-robinson-t-01-02-36">2026-08-21 · 01:03:01</a></strong></div>
-<div><span>Episodes</span><strong>101</strong></div>
-<div><span>Mentions</span><strong>976</strong></div>
+<div><span>Episodes</span><strong>102</strong></div>
+<div><span>Mentions</span><strong>977</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>404</strong></div>
 <div><span>Relationships</span><strong>27</strong></div>
@@ -108,6 +108,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-tyler-robinson-t-00-33-39" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-tyler-robinson-t-00-25-40" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 8 mentions" title="2026-05-28 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-tyler-robinson-t-00-41-38" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-00-13-31" style="--pulse-height:13%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 13 mentions" title="2026-06-16 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-robinson-t-00-08-01" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 5 mentions" title="2026-06-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-robinson-t-00-45-22" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
@@ -214,6 +215,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-tyler-robinson-t-00-33-39) | 3 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-tyler-robinson-t-00-25-40) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37) | 8 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-tyler-robinson-t-00-41-38) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-tyler-robinson-t-00-13-31) | 13 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-robinson-t-00-08-01) | 5 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-robinson-t-00-45-22) | 4 |
@@ -250,7 +252,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (976)</strong></summary>
+<summary><strong class="section-title">Raw mentions (977)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (7 mentions)</summary>
@@ -2039,6 +2041,14 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 </details>
 
 <details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:42:02](/episodes/ep-5NQyGuRYbU8.md#ent-person-tyler-robinson-t-00-41-38)**
+> "She has a complete 180 and says people that ask questions about Israel, that's brain rot. I have no, I accept the Tyler Robinson narrative."
+
+</details>
+
+<details>
 <summary>Candace Owens x Ana Kasparian (8 mentions)</summary>
 
 **[00:51:48](/episodes/ep-SKNJPul29zU.md#ent-person-tyler-robinson-t-00-51-37)**
@@ -2766,7 +2776,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 **[00:36:50](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tyler-robinson-t-01-08-37)**
 > "...meone like Jake Lang or Tommy Robinson whatever they go and they they start doing this a..."
 
-**[01:08:38](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tyler-robinson-t-01-08-37)**
+**[01:08:37](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tyler-robinson-t-01-08-37)**
 > "Tyler Robinson,"
 
 </details>

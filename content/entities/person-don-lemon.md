@@ -1,6 +1,6 @@
 ---
 title: "Don Lemon"
-description: "Don Lemon (People) - 7 mentions"
+description: "Don Lemon (People) - 8 mentions"
 id: "person-don-lemon"
 type: "PERSON"
 categories:
@@ -20,7 +20,7 @@ Source: [Don Lemon to Host New Talk Show on CNN+](https://cnnpressroom.blogs.cnn
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-44-24">2026-01-30 · 00:44:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-47-40">2026-01-30 · 00:47:41</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,15 +29,15 @@ Source: [Don Lemon to Host New Talk Show on CNN+](https://cnnpressroom.blogs.cnn
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-44-24">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-44-24">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-44-24" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 6 mentions" title="2026-01-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-44-24" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 7 mentions" title="2026-01-30 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-44-24) | 6 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-44-24) | 7 |
 
 </details>
 </section>
@@ -45,10 +45,10 @@ Source: [Don Lemon to Host New Talk Show on CNN+](https://cnnpressroom.blogs.cnn
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
-<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (6 mentions)</summary>
+<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (7 mentions)</summary>
 
 **[00:44:38](/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-44-24)**
 > "...some of your comments on this Don Lemon arrest."
@@ -67,6 +67,9 @@ Source: [Don Lemon to Host New Talk Show on CNN+](https://cnnpressroom.blogs.cnn
 
 **[00:47:41](/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-47-40)**
 > "Like Don Lemon, obviously his head belongs in a toilet."
+
+**[00:44:46](/episodes/ep-Wjul6YV6izo.md#ent-person-don-lemon-t-00-44-46)**
+> "...i'm done done and the idea of Don Lemon being in prison is funny uh but objectively him b..."
 
 </details>
 

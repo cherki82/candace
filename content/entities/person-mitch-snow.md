@@ -1,6 +1,6 @@
 ---
 title: "Mitch Snow"
-description: "Mitch Snow (People) - 109 mentions"
+description: "Mitch Snow (People) - 107 mentions"
 id: "person-mitch-snow"
 type: "PERSON"
 categories:
@@ -20,7 +20,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09">2026-01-05 · 00:35:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mitch-snow-t-00-31-13">2026-08-21 · 00:31:41</a></strong></div>
 <div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>109</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -38,8 +38,8 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-11-29" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-50" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42" style="--pulse-height:26%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-51" style="--pulse-height:26%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42" style="--pulse-height:21%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-42" style="--pulse-height:21%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 4 mentions" title="2026-01-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-mitch-snow-t-00-17-54" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#t-00-33-58" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-mitch-snow-t-00-00-01" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
@@ -67,8 +67,8 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-11-29) | 3 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-50) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42) | 5 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-51) | 5 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42) | 4 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-42) | 4 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-mitch-snow-t-00-17-54) | 2 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-58) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-mitch-snow-t-00-00-01) | 2 |
@@ -91,7 +91,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (109)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -358,36 +358,30 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (5 mentions)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (4 mentions)</summary>
 
-**[00:06:03](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-51)**
+**[00:05:51](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-42)**
 > "...espite also going into Mitch (Mitch Snow)'s entire past,"
 
-**[00:06:07](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-51)**
-> "Mitch Snow's past."
-
-**[00:11:31](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-11-31)**
+**[00:11:28](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-11-28)**
 > "...nt. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about t..."
 
-**[00:11:53](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-11-31)**
+**[00:11:55](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-11-28)**
 > "...d of wanted to kick Mitchell (Mitch Snow)."
 
-**[00:11:55](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-11-31)**
-> "Mitchell (Mitch Snow)."
+**[00:11:48](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-11-28)**
+> "...d of wanted to kick Mitchell (Mitch Snow)."
 
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (5 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>
 
-**[00:04:46](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42)**
+**[00:04:42](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42)**
 > "Of course, when I shared the Mitch Snow thing, I knew nothing about Fort Huachuca. I knew..."
 
 **[01:15:26](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-01-15-19)**
 > "...speaking to a commenter about Mitch Snow."
-
-**[01:15:30](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-01-15-19)**
-> "...were running Operation Debunk Mitch."
 
 **[01:15:32](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-01-15-19)**
 > "...tive on Fort Huachuca because Mitch's baby mama from 20 years ago has something to say."
@@ -612,7 +606,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-31): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-28): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
 
 </details>
 
@@ -638,7 +632,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 - **[Candace Owens](/entities/person-candace-owens.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-31): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-28): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Switzerland"
-description: "Switzerland (Places) - 6 mentions"
+description: "Switzerland (Places) - 8 mentions"
 id: "gpe-switzerland"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [About Switzerland | Federal Department of Foreign Affairs](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-switzerland-t-00-45-19">2025-11-13 · 00:45:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-switzerland-t-00-50-31">2026-01-30 · 00:50:51</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-switzerland-t-00-22-31">2026-06-15 · 00:22:48</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,8 +33,9 @@ Source: [About Switzerland | Federal Department of Foreign Affairs](https://www.
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-switzerland-t-00-45-19" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-switzerland-t-00-33-47" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-switzerland-t-01-29-47" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-switzerland-t-01-29-47" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-switzerland-t-00-50-31" style="--pulse-height:50%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-switzerland-t-00-22-31" style="--pulse-height:50%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,8 +43,9 @@ Source: [About Switzerland | Federal Department of Foreign Affairs](https://www.
 |---|---|---:|
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-switzerland-t-00-45-19) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-switzerland-t-00-33-47) | 2 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-switzerland-t-01-29-47) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-switzerland-t-01-29-47) | 2 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-switzerland-t-00-50-31) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-switzerland-t-00-22-31) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [About Switzerland | Federal Department of Foreign Affairs](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:22:48](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-switzerland-t-00-22-31)**
+> "Switzerland gifted very appropriately a Swiss watch. What's up with the golden pager, Bibi (Benjamin Netanyahu)? Frankly, it was crass and it was off-putting."
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>
@@ -62,10 +72,13 @@ Source: [About Switzerland | Federal Department of Foreign Affairs](https://www.
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
 **[01:29:57](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-switzerland-t-01-29-47)**
 > "I'm from Switzerland"
+
+**[01:29:53](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-switzerland-t-01-29-47)**
+> ".... Sesame writes, hi, I'm from Switzerland."
 
 </details>
 

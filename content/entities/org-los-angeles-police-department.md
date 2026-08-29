@@ -20,8 +20,8 @@ _Type: Organizations_
 Source: [LAPD: Our History](https://www.lapdonline.org/our-history/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47">2026-01-29 · 00:51:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47">2026-01-29 · 00:51:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47">2026-01-29 · 00:51:47</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47">2026-01-29 · 00:51:47</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -53,7 +53,7 @@ Source: [LAPD: Our History](https://www.lapdonline.org/our-history/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:51:56](/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47)**
+**[00:51:47](/episodes/ep-xjzb_t5Tk9o.md#t-00-51-47)**
 > "NYPDs and LAPDs"
 
 </details>

@@ -71,7 +71,7 @@ Source: [City of Philadelphia](https://www.phila.gov/)
 **[01:47:10](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-philadelphia-pennsylvania-t-01-46-57)**
 > "Philadelphia"
 
-**[01:47:06](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-philadelphia-pennsylvania-t-01-46-57)**
+**[01:46:57](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-philadelphia-pennsylvania-t-01-46-57)**
 > "to, and I'm gonna be in Philadelphia, D_C_ Houston, Atlanta."
 
 </details>

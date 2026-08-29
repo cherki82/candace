@@ -71,7 +71,7 @@ Source: [Kelso, Frank B. | Naval History and Heritage Command](https://www.histo
 - **[George Griggs](/entities/person-george-griggs.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:19:51](/episodes/ep-9naMwS0kMBE.md#t-00-19-51): “Your husband is and has been the head of special operations under Admiral Kelso, NATO? Yes.”
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:19:51](/episodes/ep-9naMwS0kMBE.md#t-00-19-51): “It's true that your husband is and has been the head of special operations under Admiral Kelso, NATO?”
 
 </details>
 

@@ -37,7 +37,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallas.gov/Pages/default.
 <p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-dallas-texas-t-00-04-02">A Legal Turning Point? | Candace Ep 292</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-dallas-texas-t-00-04-02" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 8 mentions" title="2026-01-19 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-dallas-texas-t-00-52-27" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-dallas-texas-t-00-51-54" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-dallas-texas-t-00-08-44" style="--pulse-height:12%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -45,7 +45,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallas.gov/Pages/default.
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-dallas-texas-t-00-04-02) | 8 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-dallas-texas-t-00-52-27) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-dallas-texas-t-00-51-54) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-dallas-texas-t-00-08-44) | 1 |
 
 </details>
@@ -67,7 +67,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallas.gov/Pages/default.
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:52:27](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-dallas-texas-t-00-52-27)**
+**[00:52:26](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-dallas-texas-t-00-51-54)**
 > "... woman that you just fired to Dallas, to Turning Point USA,"
 
 </details>
@@ -157,7 +157,7 @@ Source: [Welcome to the City of Dallas, Texas](https://dallas.gov/Pages/default.
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
 
-- [00:52:27](/episodes/ep-QdM9jLwjwLw.md#t-00-51-50) (Accusation) **Candace Owens**: ["Jeremy Boreing sent an intern to follow me to a Turning Point USA even..."](/statements/statement-c88afe6fd106.md)
+- [00:52:30](/episodes/ep-QdM9jLwjwLw.md#t-00-51-54) (Accusation) **Candace Owens**: ["Jeremy Boreing sent an intern to follow me to a Turning Point USA even..."](/statements/statement-c88afe6fd106.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>

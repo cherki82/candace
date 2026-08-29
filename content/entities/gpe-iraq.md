@@ -242,7 +242,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 **[00:12:25](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-12-25)**
 > "the Iraq war"
 
-**[00:13:23](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-13-07)**
+**[00:13:16](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-13-07)**
 > "...light of the Jewish people in Iraq."
 
 **[00:13:27](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-13-07)**
@@ -251,7 +251,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 **[00:13:44](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-13-44)**
 > "...ut they like Jewish people in Iraq and in Egypt and Morocco lived there for hundreds..."
 
-**[00:14:13](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-14-12)**
+**[00:14:12](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-14-12)**
 > "and that happened in Iraq and then because of that 150,000 Jews went in jus..."
 
 **[00:14:27](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-14-12)**
@@ -260,7 +260,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 **[00:37:24](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-37-06)**
 > "You know how America went to Iraq and they used shock and awe,"
 
-**[00:57:21](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-57-17)**
+**[00:57:17](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iraq-t-00-57-17)**
 > "...country who stood against the Iraq war."
 
 </details>
@@ -368,13 +368,13 @@ _No relationships extracted yet._
 - [00:02:48](/episodes/ep-DYD_QHMPwqM.md#t-00-02-15) (Claim) **Candace Owens**: ["The United States extracted Gilgamesh's tomb roughly two years after i..."](/statements/statement-a4f00f59c158.md)
   - Also about: [Gilgamesh](/entities/person-gilgamesh.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
-- [00:14:29](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29) (Claim) **Rob Skiba**: ["Gilgamesh's body was found in the Iraqi desert in 2003."](/statements/statement-f7b359dfbfc5.md)
+- [00:14:29](/episodes/ep-DYD_QHMPwqM.md#t-00-14-29) (Claim) **Rob Skiba** (via quoted speech): ["Gilgamesh's body was found in the Iraqi desert in 2003."](/statements/statement-f7b359dfbfc5.md)
   - Also about: [Gilgamesh](/entities/person-gilgamesh.md)
 
-- [00:16:16](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba**: ["The U.S. military occupation phase of Iraq began one month after Gilga..."](/statements/statement-f4626fc51b27.md)
+- [00:16:16](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba** (via quoted speech): ["The U.S. military occupation phase of Iraq began one month after Gilga..."](/statements/statement-f4626fc51b27.md)
   - Also about: [Gilgamesh](/entities/person-gilgamesh.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
-- [00:16:23](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba**: ["The United States established 500 military bases and the world's large..."](/statements/statement-0a48e8c11483.md)
+- [00:16:23](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba** (via quoted speech): ["The United States established 500 military bases and the world's large..."](/statements/statement-0a48e8c11483.md)
   - Also about: [Babylon](/entities/gpe-babylon.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </details>

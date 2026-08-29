@@ -22,7 +22,7 @@ Source: [Knesset: Naftali Bennett](https://main.knesset.gov.il/EN/About/Lexicon/
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -75,12 +75,31 @@ Source: [Knesset: Naftali Bennett](https://main.knesset.gov.il/EN/About/Lexicon/
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Former Prime Minister Of (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:50](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Naftali Bennett, the former Israeli prime minister.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:20:06](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00): “Naftali Bennett, the former Israeli prime minister. Said, quote, as a former Israeli Prime Minister, with the Mossad having reported directly to me, I say to you with 100% certainty, the accusation that Jeffrey Epstein somehow worked for Israel or the Mossad running a blackmail ring is categorically and totally false. This accusation is a lie being peddled by prominent online personalities such as Tucker Carlson, pretending they know things they don't.”
+
+</details>
+
+- **[Israel](/entities/gpe-israel.md)** has former prime minister this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:50](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Naftali Bennett, the former Israeli prime minister.”
 
 </details>
 

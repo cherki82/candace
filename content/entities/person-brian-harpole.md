@@ -52,7 +52,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-26" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-05" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 8 mentions" title="2026-01-19 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-00-07-06" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-13" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-21" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-brian-harpole-t-00-31-03" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-brian-harpole-t-00-32-41" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-brian-harpole-t-00-14-06" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
@@ -108,7 +108,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-26) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-05) | 8 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-00-07-06) | 5 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-13) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-21) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-brian-harpole-t-00-31-03) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-brian-harpole-t-00-32-41) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-brian-harpole-t-00-14-06) | 1 |
@@ -1090,7 +1090,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
 
-**[00:09:30](/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-13)**
+**[00:09:30](/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-21)**
 > "Brian Harpole"
 
 **[00:11:52](/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-11-21)**
@@ -1107,14 +1107,14 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 **[01:16:36](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-01-16-36)**
 > "...e a bad guy and also identify Brian Harpole."
 
-**[01:20:08](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-01-20-03)**
+**[01:20:03](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-01-20-03)**
 > "...ace as good cop interrogating Brian Harpole."
 
-**[01:20:25](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-01-20-03)**
-> "Brian Harpole."
-
-**[01:20:29](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-01-20-03)**
+**[01:20:26](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-01-20-03)**
 > "...have to be who you are that's brian harpole"
+
+**[01:20:21](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-01-20-03)**
+> "...e to be like the way you are, Brian Harpole."
 
 </details>
 
@@ -1482,7 +1482,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-13): “brian harpole that's a lot a lot happened there with that car crash interview am i being punished because you lied”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:07:30](/episodes/ep-4DvYXBn_5JI.md#t-00-07-03): “And Brian Harpole has all but confirmed our reporting in his court filing against me. Look at what he wrote regarding Charis Bible. ... Really? I think they just keep forgetting that I went on tour with Charlie for three years. That's uncommon.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:00:41](/episodes/ep-sKuYLNx3iRo.md#t-00-00-41): “I think Brian (Brian Harpole)'s a liar, liar, pants on fire. And feel free, Brian Harpole, to add that statement to your lawsuit against me.”
@@ -1682,7 +1682,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-13): “brian harpole that's a lot a lot happened there with that car crash interview am i being punished because you lied”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:07:30](/episodes/ep-4DvYXBn_5JI.md#t-00-07-03): “And Brian Harpole has all but confirmed our reporting in his court filing against me. Look at what he wrote regarding Charis Bible. ... Really? I think they just keep forgetting that I went on tour with Charlie for three years. That's uncommon.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:00:41](/episodes/ep-sKuYLNx3iRo.md#t-00-00-41): “I think Brian (Brian Harpole)'s a liar, liar, pants on fire. And feel free, Brian Harpole, to add that statement to your lawsuit against me.”

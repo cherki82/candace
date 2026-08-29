@@ -114,7 +114,7 @@ _No relationships extracted yet._
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
 
-- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) (Accusation) **Candace Owens**: ["The Manson murders and the events of the 1960s were the U.S. governmen..."](/statements/statement-58c0cd378779.md)
+- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) (Accusation) **Candace Owens**: ["The Manson murders and the events of the '60s were the U.S. government..."](/statements/statement-58c0cd378779.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
 </details>

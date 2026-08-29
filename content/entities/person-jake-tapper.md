@@ -21,7 +21,7 @@ Source: [CNN profile: Jake Tapper](https://www.cnn.com/profiles/jake-tapper-prof
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -109,6 +109,19 @@ Source: [CNN profile: Jake Tapper](https://www.cnn.com/profiles/jake-tapper-prof
 - [Candace x Hunter Biden: The Interview @ 00:00:54](/episodes/ep-Ux1kzgQxkws.md#t-00-00-43): “also going after Jake Tapper and George Clooney”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jake Tapper (1)</strong></summary>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+
+- [01:25:06](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-06) (Accusation) **Bassem Youssef**: ["Bassem Youssef accused Jake Tapper of discussing what Youssef called '..."](/statements/statement-d5a2d57278ec.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>
 

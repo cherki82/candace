@@ -1,14 +1,14 @@
 ---
 id: "xjzb_t5Tk9o"
 title: "Candace x Bassem Youssef | Candace Ep 298"
-description: "Candace x Bassem Youssef | Candace Ep 298 - 187 entities, 11 events, 24 factual claims"
+description: "Candace x Bassem Youssef | Candace Ep 298 - 193 entities, 14 events, 23 factual claims"
 published: "2026-01-29"
 youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 
 **Published:** 2026-01-29 | [Watch on YouTube](https://www.youtube.com/watch?v=xjzb_t5Tk9o)
 
-**Stats:** 187 entities | 11 events | 24 factual claims
+**Stats:** 193 entities | 14 events | 23 factual claims
 
 ---
 
@@ -62,49 +62,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-41.md" class="timestamp-link">00:01:41</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=101" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I know. And you tried to get all of your people to vote for it. Like you tried to skip the system. I didn't even ask you to vote for me. I won it fair and square in large part thanks to the fact that I was fired from <span id="ent-org-the-daily-wire-t-00-01-41"><a href="/entities/org-the-daily-wire.md">Daily Wire</a></span> that year. And you had a little something to do with it. ^t-00-01-41
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-54.md" class="timestamp-link">00:01:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=114" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** did i ^t-00-01-54
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-55.md" class="timestamp-link">00:01:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=115" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** You ^t-00-01-55
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-55.md" class="timestamp-link">00:01:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=115" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** how ^t-00-01-55
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-55.md" class="timestamp-link">00:01:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=115" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** did, ^t-00-01-55
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-56.md" class="timestamp-link">00:01:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=116" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-00-01-56
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-56.md" class="timestamp-link">00:01:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=116" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** actually. ^t-00-01-56
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-56.md" class="timestamp-link">00:01:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=116" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** come how ^t-00-01-56
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-56.md" class="timestamp-link">00:01:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=116" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** This is ^t-00-01-56
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-57.md" class="timestamp-link">00:01:57</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=117" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** come ^t-00-01-57
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-01-54.md" class="timestamp-link">00:01:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=114" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** did i You how did, actually. come how This is come ^t-00-01-54
 
 ---
 **🎤 Candace Owens**
@@ -256,11 +216,13 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-05-22.md" class="timestamp-link">00:05:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=322" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** The way that <span id="ent-person-ben-shapiro-t-00-05-22"><a href="/entities/person-ben-shapiro.md">Ben Shapiro</a></span> answered, he was just lying through his teeth very quickly. And he started to say, well, there has been an investigation and it was obviously wrong and it was obvious and it was proved beyond any doubt that it was a mistake. It wasn't. There was a lot of investigation where they weren't actually the crew of the <span id="ent-vehicle-uss-liberty-t-00-05-22"><a href="/entities/vehicle-uss-liberty.md">USS Liberty</a></span> were threatened. They had a gag order. They couldn't talk. And you know the beauty about this is that for 15 years <span id="ent-gpe-israel-t-00-05-22"><a href="/entities/gpe-israel.md">Israel</a></span> fought this tooth and nail and they finally paid compensation. You know how much they pay? Six million dollars for damages in the USS Liberties and six million dollars for the victims of the <a href="/entities/vehicle-uss-liberty.md">USS Liberty</a>. This is the value of USS soldiers. ^t-00-05-22
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-06-07.md" class="timestamp-link">00:06:07</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=367" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** that were killed in that and you can see him as he was debating the kid that he was just making things up it it it was already proven it was already behind the bridge it's the best that's the first one the second time he was on the morning show with uh <span id="ent-person-charlamagne-tha-god-t-00-06-07"><a href="/entities/person-charlamagne-tha-god.md">Charlamagne tha God</a></span> and <a href="/entities/person-charlamagne-tha-god.md">Charlamagne tha God</a> asked him does is did <span id="ent-gpe-israel-t-00-06-07"><a href="/entities/gpe-israel.md">israel</a></span> commit genocide and he started going through this <span id="ent-person-jordan-peterson-t-00-06-07"><a href="/entities/person-jordan-peterson.md">jordan peterson</a></span> word salad style just speaking very quickly having like big talking it's not it's not a genocide because they're intended and then you can see <a href="/entities/person-charlamagne-tha-god.md">Charlamagne tha God</a> looking at him as like that motherfucker is lying but i cannot say how you know he he's looking and just like this guy is lying to me but he cannot pinpoint it the next day <span id="ent-person-mehdi-hasan-t-00-06-07"><a href="/entities/person-mehdi-hasan.md">Mehdi Hasan</a></span> came on the show ^t-00-06-07
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-06-07.md" class="timestamp-link">00:06:07</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=367" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** that were killed in that and you can see him as he was debating the kid that he was just making things up it it it was already proven it was already behind the bridge it's the best that's the first one the second time he was on the morning show with uh <span id="ent-person-charlamagne-tha-god-t-00-06-07"><a href="/entities/person-charlamagne-tha-god.md">Charlamagne tha God</a></span> and <a href="/entities/person-charlamagne-tha-god.md">Charlamagne tha God</a> asked him does is did <span id="ent-gpe-israel-t-00-06-07"><a href="/entities/gpe-israel.md">israel</a></span> commit genocide and he started going through this ^t-00-06-07
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-06-51.md" class="timestamp-link">00:06:51</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=411" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** And he went through details why is <span id="ent-gpe-israel-t-00-06-51"><a href="/entities/gpe-israel.md">Israel</a></span> committing genocide. But if you're there and he's speaking too fast, you don't know what he's saying, so you cannot respond. And the third story is my favorite, because this was a premeditated manipulative lie. He talks a lot about how <span id="ent-org-hamas-t-00-06-51"><a href="/entities/org-hamas.md">Hamas</a></span>... uses the aid from the <span id="ent-org-european-union-t-00-06-51"><a href="/entities/org-european-union.md">european union</a></span> to create weapons right that's his old thing and then he brought in a video with <a href="/entities/org-hamas.md">hamas</a> and the palestinian authorities in <span id="ent-gpe-gaza-t-00-06-51"><a href="/entities/gpe-gaza.md">gaza</a></span> digging out water pipes and say you see these are the water pipes that are put there by the eu and this is <a href="/entities/org-hamas.md">hamas</a> extracting them and making weapons from them The beauty about this clip, that this clip had an Arabic narration, ^t-00-06-51
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-06-29.md" class="timestamp-link">00:06:29</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=389" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** <span id="ent-person-jordan-peterson-t-00-06-29"><a href="/entities/person-jordan-peterson.md">jordan peterson</a></span> word salad style just speaking very quickly having like big talking it's not it's not a genocide because they're intended and then you can see <span id="ent-person-charlamagne-tha-god-t-00-06-29"><a href="/entities/person-charlamagne-tha-god.md">Charlamagne tha God</a></span> looking at him as like that motherfucker is lying but i cannot say how you know he he's looking and just like this guy is lying to me but he cannot pinpoint it the next day <span id="ent-person-mehdi-hasan-t-00-06-29"><a href="/entities/person-mehdi-hasan.md">Mehdi Hasan</a></span> came on the show And he went through details why is <span id="ent-gpe-israel-t-00-06-29"><a href="/entities/gpe-israel.md">Israel</a></span> committing genocide. But if you're there and he's speaking too fast, you don't know what he's saying, so you cannot respond. And the third story is my favorite, because this was a premeditated manipulative lie. He talks a lot about how <span id="ent-org-hamas-t-00-06-29"><a href="/entities/org-hamas.md">Hamas</a></span>... ^t-00-06-29
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-07-35.md" class="timestamp-link">00:07:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=455" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** it has <span id="ent-org-hamas-t-00-07-35"><a href="/entities/org-hamas.md">Hamas</a></span> officials talking over it, and they said that they discovered water pipes inside, like being dug from inside <span id="ent-gpe-israel-t-00-07-35"><a href="/entities/gpe-israel.md">Israel</a></span> to steal their water. So when they discovered it, they dug it out and they used those weapons against <a href="/entities/gpe-israel.md">Israel</a>. So he took like a video knowing exactly what's their narration is, and he changed it. And actually, a shout out to Wali Rashid. dear Rashid you actually brought a like a video from him in your show before about the little moles the little <a href="/entities/gpe-israel.md">Israeli</a> nose in the moles if you remember ^t-00-07-35
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-07-09.md" class="timestamp-link">00:07:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=429" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** uses the aid from the <span id="ent-org-european-union-t-00-07-09"><a href="/entities/org-european-union.md">european union</a></span> to create weapons right that's his old thing and then he brought in a video with <span id="ent-org-hamas-t-00-07-09"><a href="/entities/org-hamas.md">hamas</a></span> and the palestinian authorities in <span id="ent-gpe-gaza-t-00-07-09"><a href="/entities/gpe-gaza.md">gaza</a></span> digging out water pipes and say you see these are the water pipes that are put there by the eu and this is <a href="/entities/org-hamas.md">hamas</a> extracting them and making weapons from them The beauty about this clip, that this clip had an Arabic narration, it has <a href="/entities/org-hamas.md">Hamas</a> officials talking over it, and they said that they discovered water pipes inside, like being dug from inside <span id="ent-gpe-israel-t-00-07-09"><a href="/entities/gpe-israel.md">Israel</a></span> to steal their water. ^t-00-07-09
+
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-07-45.md" class="timestamp-link">00:07:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=465" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** So when they discovered it, they dug it out and they used those weapons against <span id="ent-gpe-israel-t-00-07-45"><a href="/entities/gpe-israel.md">Israel</a></span>. So he took like a video knowing exactly what's their narration is, and he changed it. And actually, a shout out to Wali Rashid. dear Rashid you actually brought a like a video from him in your show before about the little moles the little <a href="/entities/gpe-israel.md">Israeli</a> nose in the moles if you remember ^t-00-07-45
 
 ---
 **🎤 Candace Owens**
@@ -342,44 +304,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-44.md" class="timestamp-link">00:10:44</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=644" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** this guy a liar twice and it's just i couldn't believe it like we were so far i mean i was being sued left and right for them for everything but that i thought i just like this is and this was <span id="ent-person-jeremy-boreing-t-00-10-44"><a href="/entities/person-jeremy-boreing.md">Jeremy Boreing</a></span> jeremy boring being at the helm of <span id="ent-org-the-daily-wire-t-00-10-44"><a href="/entities/org-the-daily-wire.md">the daily wire</a></span> yeah he sent me that lawsuit on his birthday as a birthday ^t-00-10-44
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-57.md" class="timestamp-link">00:10:57</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=657" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** that's ^t-00-10-57
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-58.md" class="timestamp-link">00:10:58</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=658" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** to present ^t-00-10-58
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-58.md" class="timestamp-link">00:10:58</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=658" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** very ^t-00-10-58
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-58.md" class="timestamp-link">00:10:58</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=658" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** himself ^t-00-10-58
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-58.md" class="timestamp-link">00:10:58</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=658" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** boring ^t-00-10-58
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-58.md" class="timestamp-link">00:10:58</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=658" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** yeah ^t-00-10-58
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-59.md" class="timestamp-link">00:10:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=659" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** and predictable ^t-00-10-59
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-59.md" class="timestamp-link">00:10:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=659" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** but this ^t-00-10-59
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-10-57.md" class="timestamp-link">00:10:57</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=657" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** that's to present very himself boring yeah and predictable but this ^t-00-10-57
 
 ---
 **🎤 Bassem Youssef**
@@ -414,7 +341,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-11-40.md" class="timestamp-link">00:11:40</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=700" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** And they already have uh I have a friend of mine who went to the uh a film festival, the <span id="ent-event-cannes-film-festival-t-00-11-40"><a href="/entities/event-cannes-film-festival.md">Cannes Film Festival</a></span> last year. that one year after October 7th, and they already have pledged over $200 million<span id="event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-11-40"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md" class="event-indicator" title="Timeline event">📅</a></span> to produce TV shows, movies in order to retell October 7th from the Israeli point of view.<a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md" class="event-indicator" title="Timeline event">📅</a> ^t-00-11-40
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-11-40.md" class="timestamp-link">00:11:40</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=700" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** And they already have uh I have a friend of mine who went to the uh a film festival, the <span id="ent-event-cannes-film-festival-t-00-11-40"><a href="/entities/event-cannes-film-festival.md">Cannes Film Festival</a></span> last year. that one year after October 7th, and they already have pledged over $200 million<span id="event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-11-40"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md" class="event-indicator" title="Timeline event">📅</a></span> to produce TV shows, movies in order to retell October 7th from the <span id="ent-gpe-israel-t-00-11-40"><a href="/entities/gpe-israel.md">Israeli</a></span> point of view.<a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md" class="event-indicator" title="Timeline event">📅</a> ^t-00-11-40
 
 ---
 **🎤 Candace Owens**
@@ -446,7 +373,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-13-44.md" class="timestamp-link">00:13:44</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=824" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they didn't, but they like <span id="ent-concept-judaism-t-00-13-44"><a href="/entities/concept-judaism.md">Jewish</a></span> people in <span id="ent-gpe-iraq-t-00-13-44"><a href="/entities/gpe-iraq.md">Iraq</a></span> and in <span id="ent-gpe-egypt-t-00-13-44"><a href="/entities/gpe-egypt.md">Egypt</a></span> and Morocco lived there for hundreds of years. So they needed to push them. So 1951, 1950, 1950, 1951. <span id="ent-gpe-israel-t-00-13-44"><a href="/entities/gpe-israel.md">Israel</a></span> sends a <span id="ent-org-mossad-t-00-13-44"><a href="/entities/org-mossad.md">Mossad</a></span> agent and then he leads four to five different bomb attacks on <a href="/entities/concept-judaism.md">Jewish</a> synagogues and <a href="/entities/concept-judaism.md">Jewish</a> communities. They killed their own people. ^t-00-13-44
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-13-44.md" class="timestamp-link">00:13:44</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=824" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they didn't, but they like <span id="ent-concept-judaism-t-00-13-44"><a href="/entities/concept-judaism.md">Jewish</a></span> people in <span id="ent-gpe-iraq-t-00-13-44"><a href="/entities/gpe-iraq.md">Iraq</a></span> and in <span id="ent-gpe-egypt-t-00-13-44"><a href="/entities/gpe-egypt.md">Egypt</a></span> and <span id="ent-gpe-morocco-t-00-13-44"><a href="/entities/gpe-morocco.md">Morocco</a></span> lived there for hundreds of years. So they needed to push them. So 1951, 1950, 1950, 1951. <span id="ent-gpe-israel-t-00-13-44"><a href="/entities/gpe-israel.md">Israel</a></span> sends a <span id="ent-org-mossad-t-00-13-44"><a href="/entities/org-mossad.md">Mossad</a></span> agent and then he leads four to five different bomb attacks on <a href="/entities/concept-judaism.md">Jewish</a> synagogues and <a href="/entities/concept-judaism.md">Jewish</a> communities. They killed their own people. ^t-00-13-44
 
 ---
 **🎤 Candace Owens**
@@ -468,7 +395,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-15-00.md" class="timestamp-link">00:15:00</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=900" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yeah and then 1994 the bombing of the israeli embassy in london it was done by <span id="ent-org-mossad-t-00-15-00"><a href="/entities/org-mossad.md">mossad</a></span><span id="event-event-1994-07-26-a-car-bomb-exploded-outside-the-israeli--t-00-15-00"><a href="/events/event-1994-07-26-a-car-bomb-exploded-outside-the-israeli-.md" class="event-indicator" title="Timeline event">📅</a></span> and then they nailed they kind of nailed two palestinians for it uh one month after 9-11 which is the biggest full flag operation in october 2001 there was an attack of the mexican parliament<span id="event-event-2001-10-10-two-armed-individuals-were-detained-insi-t-00-15-00"><a href="/events/event-2001-10-10-two-armed-individuals-were-detained-insi.md" class="event-indicator" title="Timeline event">📅</a></span> By two <a href="/entities/org-mossad.md">Mossad</a> individuals and they were also like being they pretended to be Palestinians, but they were discovered before the morning ^t-00-15-00
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-15-00.md" class="timestamp-link">00:15:00</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=900" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yeah and then 1994 the bombing of the <span id="ent-gpe-israel-t-00-15-00"><a href="/entities/gpe-israel.md">israeli</a></span> embassy in london it was done by <span id="ent-org-mossad-t-00-15-00"><a href="/entities/org-mossad.md">mossad</a></span><span id="event-event-1994-07-26-a-car-bomb-exploded-outside-the-israeli--t-00-15-00"><a href="/events/event-1994-07-26-a-car-bomb-exploded-outside-the-israeli-.md" class="event-indicator" title="Timeline event">📅</a></span> and then they nailed they kind of nailed two palestinians for it uh one month after 9-11 which is the biggest full flag operation in october 2001 there was an attack of the mexican parliament<span id="event-event-2001-10-10-two-armed-individuals-were-detained-insi-t-00-15-00"><a href="/events/event-2001-10-10-two-armed-individuals-were-detained-insi.md" class="event-indicator" title="Timeline event">📅</a></span> By two <a href="/entities/org-mossad.md">Mossad</a> individuals and they were also like being they pretended to be Palestinians, but they were discovered before the morning ^t-00-15-00
 
 ---
 **🎤 Candace Owens**
@@ -481,29 +408,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-15-28.md" class="timestamp-link">00:15:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=928" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** So you see all and of course we have the Bondi uh the <span id="ent-event-2025-bondi-beach-shooting-t-00-15-28"><a href="/entities/event-2025-bondi-beach-shooting.md">Bondi attack</a></span> I think I gave pictures to one of your producers like our son Ostrovsky who's like one of those trolls on <span id="ent-org-x-platform-t-00-15-28"><a href="/entities/org-x-platform.md">Twitter</a></span> he happened to be on October 7th a survivor October 7th and then he posted his picture<span id="event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-15-28"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md" class="event-indicator" title="Timeline event">📅</a></span> a selfie while he's on the floor and he has blood all over him yeah that's the picture okay which is obvious looks fake ^t-00-15-28
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-15-49.md" class="timestamp-link">00:15:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=949" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It ^t-00-15-49
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-15-49.md" class="timestamp-link">00:15:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=949" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** and ^t-00-15-49
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-15-50.md" class="timestamp-link">00:15:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=950" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** just, ^t-00-15-50
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-15-50.md" class="timestamp-link">00:15:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=950" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yeah, then the ^t-00-15-50
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-15-50.md" class="timestamp-link">00:15:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=950" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** it's ^t-00-15-50
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-15-49.md" class="timestamp-link">00:15:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=949" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** It and just, yeah, then the it's ^t-00-15-49
 
 ---
 **🎤 Bassem Youssef**
@@ -540,39 +447,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-17-22.md" class="timestamp-link">00:17:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1042" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** more about the Bolshevik revolution and then going hey but where did all these <span id="ent-concept-bolsheviks-t-00-17-22"><a href="/entities/concept-bolsheviks.md">Bolsheviks</a></span> go oh oh oh uh <span id="ent-person-benjamin-netanyahu-t-00-17-22"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> Milikovsky uh now he wants you to think that he's just uh <span id="ent-concept-judaism-t-00-17-22"><a href="/entities/concept-judaism.md">Jewish</a></span> and there's nothing else to see here no this is uh they will become whatever they have to become they ^t-00-17-22
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-17-40.md" class="timestamp-link">00:17:40</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1060" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I see ^t-00-17-40
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-17-40.md" class="timestamp-link">00:17:40</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1060" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** are like ^t-00-17-40
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-17-41.md" class="timestamp-link">00:17:41</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1061" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** one to be ^t-00-17-41
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-17-41.md" class="timestamp-link">00:17:41</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1061" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** their ^t-00-17-41
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-17-41.md" class="timestamp-link">00:17:41</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1061" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** cast ^t-00-17-41
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-17-41.md" class="timestamp-link">00:17:41</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1061" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** brains ^t-00-17-41
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-17-41.md" class="timestamp-link">00:17:41</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1061" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** in <span id="ent-gpe-hollywood-t-00-17-41"><a href="/entities/gpe-hollywood.md">Hollywood</a></span>. ^t-00-17-41
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-17-40.md" class="timestamp-link">00:17:40</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1060" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I see are like one to be their cast brains in <span id="ent-gpe-hollywood-t-00-17-40"><a href="/entities/gpe-hollywood.md">Hollywood</a></span>. ^t-00-17-40
 
 ---
 **🎤 Candace Owens**
@@ -612,7 +489,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-18-39.md" class="timestamp-link">00:18:39</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1119" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** actually make this the mainstream and a lot of my <span id="ent-concept-judaism-t-00-18-39"><a href="/entities/concept-judaism.md">Jewish</a></span> friends are feel that they're silenced they're sidelined we have seen a lot of like <a href="/entities/concept-judaism.md">Jewish</a> artists directors and and and actresses and actors they go on and they speak up and you see what happens they are being called an <span id="ent-concept-antisemitism-t-00-18-39"><a href="/entities/concept-antisemitism.md">anti-semitic</a></span> the next day one of my love closest friend Matt Leib is a yeah he's he's a comedian he's a stand-up comedian he has like a whole show called uh <span id="ent-work-bad-hasbara-t-00-18-39"><a href="/entities/work-bad-hasbara.md">bad hasbara</a></span> and he just talks about like the hasbara techniques he told me that at the age of 26 he was like a raging liberal <span id="ent-concept-zionism-t-00-18-39"><a href="/entities/concept-zionism.md">zionist</a></span> and he went on a birthright trip to <span id="ent-gpe-israel-t-00-18-39"><a href="/entities/gpe-israel.md">israel</a></span> Yeah, he's a comedian. He's a stand-up comedian. He has like a whole show called <a href="/entities/work-bad-hasbara.md">Bad Hasbara</a> and he just talks about like the Hasbara techniques. He told me that at the age of 26 he was like a raging liberal <a href="/entities/concept-zionism.md">Zionist</a> and he went on a birthright trip to <a href="/entities/gpe-israel.md">Israel</a>. ^t-00-18-39
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-18-39.md" class="timestamp-link">00:18:39</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1119" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** actually make this the mainstream and a lot of my <span id="ent-concept-judaism-t-00-18-39"><a href="/entities/concept-judaism.md">Jewish</a></span> friends are feel that they're silenced they're sidelined we have seen a lot of like <a href="/entities/concept-judaism.md">Jewish</a> artists directors and and and actresses and actors they go on and they speak up and you see what happens they are being called an <span id="ent-concept-antisemitism-t-00-18-39"><a href="/entities/concept-antisemitism.md">anti-semitic</a></span> the next day one of my love closest friend Matt Leib is a Yeah, he's a comedian. He's a stand-up comedian. He has like a whole show called <span id="ent-work-bad-hasbara-t-00-18-39"><a href="/entities/work-bad-hasbara.md">Bad Hasbara</a></span> and he just talks about like the <span id="ent-concept-hasbara-t-00-18-39"><a href="/entities/concept-hasbara.md">Hasbara</a></span> techniques. He told me that at the age of 26 he was like a raging liberal <span id="ent-concept-zionism-t-00-18-39"><a href="/entities/concept-zionism.md">Zionist</a></span> and he went on a birthright trip to <span id="ent-gpe-israel-t-00-18-39"><a href="/entities/gpe-israel.md">Israel</a></span>. ^t-00-18-39
 
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-19-17.md" class="timestamp-link">00:19:17</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1157" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** and then the one thing that he flipped him he said like we were like a bunch of 20 years old and then we find that the main speaker in our event was <span id="ent-person-benjamin-netanyahu-t-00-19-17"><a href="/entities/person-benjamin-netanyahu.md">benjamin netanyahu</a></span> accompanied by mariam edelson it's like wait a minute this is too much effort this is too much effort to get this in and then he went back and he started to read more and he's like completely now he's an anti-zionist jew and there's many of these people and i and i and i feel so bad add that they have to it just they can't help it that not to take many of this on themselves ^t-00-19-17
 
@@ -629,9 +506,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-01.md" class="timestamp-link">00:20:01</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1201" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Because they're not, that's what I'm saying, it's not a religion. It's a political philosophy. And that's why it's so important to separate it. Like <span id="ent-concept-zionism-t-00-20-01"><a href="/entities/concept-zionism.md">Zionists</a></span> are just tried and true psychopaths. There's no way you could look at what happened in <span id="ent-gpe-gaza-t-00-20-01"><a href="/entities/gpe-gaza.md">Gaza</a></span> to look out at what they did, how they told us they were going to do it, talking about real estate deals. And you've got to pull this up, Skylar, when you get a second, just some of the video footage of what <a href="/entities/gpe-gaza.md">Gaza</a> looks like today, and then to look you in the face and feel nothing and say, no, that was necessary response to October 7th. There's something wrong with you. And then when people, when they can't train people to be inhumane alongside them, the viciousness with which they attack people for being human, that's why I say I can't wrap my head around it. I actually wonder what happened to these people when they were kids. Because something inside of you has flipped. ^t-00-20-01
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-01.md" class="timestamp-link">00:20:01</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1201" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Because they're not, that's what I'm saying, it's not a religion. It's a political philosophy. And that's why it's so important to separate it. Like <span id="ent-concept-zionism-t-00-20-01"><a href="/entities/concept-zionism.md">Zionists</a></span> are just tried and true psychopaths. There's no way you could look at what happened in <span id="ent-gpe-gaza-t-00-20-01"><a href="/entities/gpe-gaza.md">Gaza</a></span> to look out at what they did, how they told us they were going to do it, talking about real estate deals. And you've got to pull this up, Skylar, when you get a second, just some of the video footage of what <a href="/entities/gpe-gaza.md">Gaza</a> looks like today, and then to look you in the face and feel nothing and say, no, that was necessary response to October 7th. There's something wrong with you. And then when people, when they can't train people to be inhumane alongside them, the viciousness with which they attack people for being human, that's why I say I can't wrap my head around it. I actually wonder what happened to these people when they were kids. ^t-00-20-01
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-45.md" class="timestamp-link">00:20:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1245" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** This is not like any person should have a humane response to seeing, here we go, some ^t-00-20-45
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-43.md" class="timestamp-link">00:20:43</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1243" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Because something inside of you has flipped. This is not like any person should have a humane response to seeing, here we go, some ^t-00-20-43
 
 ---
 **🎤 Bassem Youssef**
@@ -641,27 +518,17 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-50.md" class="timestamp-link">00:20:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1250" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** humane response to seeing what they've done. This is, and that's not even, that's like, ^t-00-20-50
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-50.md" class="timestamp-link">00:20:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1250" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** humane response to seeing what they've done. This is, and that's not even, ^t-00-20-50
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-55.md" class="timestamp-link">00:20:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1255" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** That's ^t-00-20-55
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-55.md" class="timestamp-link">00:20:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1255" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** that's, ^t-00-20-55
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-56.md" class="timestamp-link">00:20:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1256" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** before. ^t-00-20-56
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-55.md" class="timestamp-link">00:20:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1255" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** that's like, That's that's, before. yeah, ^t-00-20-55
 
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-56.md" class="timestamp-link">00:20:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1256" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** yeah, this is basically when they got started. ^t-00-20-56
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-20-57.md" class="timestamp-link">00:20:57</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1257" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** this is basically when they got started. ^t-00-20-57
 
 ---
 **🎤 Bassem Youssef**
@@ -691,32 +558,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-21-04.md" class="timestamp-link">00:21:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1264" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** blackmail, the Epstein stuff, the defense. of Epstein gaslighting us about Epstein and you go okay uh it's literally I don't care if you are <span id="ent-concept-judaism-t-00-21-04"><a href="/entities/concept-judaism.md">Jewish</a></span> if you are <span id="ent-concept-islam-t-00-21-04"><a href="/entities/concept-islam.md">Muslim</a></span> if you are <span id="ent-concept-christianity-t-00-21-04"><a href="/entities/concept-christianity.md">Christian</a></span> I mean obviously I want you guys to all be <a href="/entities/concept-christianity.md">Christian</a> but can we all unite to recognize that we have <span id="ent-concept-satanism-t-00-21-04"><a href="/entities/concept-satanism.md">Satanists</a></span> among us like this is this is this is a satanic ^t-00-21-04
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-21-04.md" class="timestamp-link">00:21:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1264" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** blackmail, the <span id="ent-person-jeffrey-epstein-t-00-21-04"><a href="/entities/person-jeffrey-epstein.md">Epstein</a></span> stuff, the defense. of <a href="/entities/person-jeffrey-epstein.md">Epstein</a> gaslighting us about <a href="/entities/person-jeffrey-epstein.md">Epstein</a> and you go okay uh it's literally I don't care if you are <span id="ent-concept-judaism-t-00-21-04"><a href="/entities/concept-judaism.md">Jewish</a></span> if you are <span id="ent-concept-islam-t-00-21-04"><a href="/entities/concept-islam.md">Muslim</a></span> if you are <span id="ent-concept-christianity-t-00-21-04"><a href="/entities/concept-christianity.md">Christian</a></span> I mean obviously I want you guys to all be <a href="/entities/concept-christianity.md">Christian</a> but can we all unite to recognize that we have <span id="ent-concept-satanism-t-00-21-04"><a href="/entities/concept-satanism.md">Satanists</a></span> among us like this is this is this is a satanic ^t-00-21-04
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-21-27.md" class="timestamp-link">00:21:27</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1287" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I have a ^t-00-21-27
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-21-28.md" class="timestamp-link">00:21:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1288" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** philosophy ^t-00-21-28
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-21-28.md" class="timestamp-link">00:21:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1288" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** question for ^t-00-21-28
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-21-28.md" class="timestamp-link">00:21:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1288" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** that ^t-00-21-28
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-21-28.md" class="timestamp-link">00:21:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1288" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you. ^t-00-21-28
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-21-27.md" class="timestamp-link">00:21:27</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1287" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I have a philosophy question for that you. ^t-00-21-27
 
 ---
 **🎤 Candace Owens**
@@ -793,9 +640,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-23-34.md" class="timestamp-link">00:23:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1414" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** This entire church, <span id="ent-org-calvary-chapel-t-00-23-34"><a href="/entities/org-calvary-chapel.md">Calvary Chapel Church</a></span> is a <span id="ent-org-central-intelligence-agency-t-00-23-34"><a href="/entities/org-central-intelligence-agency.md">CIA</a></span> story. A place for hippies to go. Who do you think created hippie culture? I mean, I give people the books to read. You gotta read <span id="ent-work-chaos-charles-manson-cia-secret-history-t-00-23-34"><a href="/entities/work-chaos-charles-manson-cia-secret-history.md">chaos</a></span>. It's a must read. read, understand what they accomplished in the 60s. LOL to anybody who thinks that suddenly a bunch of people just wanted to smoke pot and, you know, leave their families and go play guitars out in the West. I mean, the 60s, that entire decade was all about military experimenting with social engineering and social engineering via things like the <span id="ent-event-manson-family-murders-t-00-23-34"><a href="/entities/event-manson-family-murders.md">Manson murders</a></span>, social engineering via establishing churches. Everybody's welcome here. ^t-00-23-34
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-23-34.md" class="timestamp-link">00:23:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1414" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** This entire church, <span id="ent-org-calvary-chapel-t-00-23-34"><a href="/entities/org-calvary-chapel.md">Calvary Chapel Church</a></span> is a <span id="ent-org-central-intelligence-agency-t-00-23-34"><a href="/entities/org-central-intelligence-agency.md">CIA</a></span> story. A place for hippies to go. Who do you think created hippie culture? I mean, I give people the books to read. You gotta read <span id="ent-work-chaos-charles-manson-cia-secret-history-t-00-23-34"><a href="/entities/work-chaos-charles-manson-cia-secret-history.md">chaos</a></span>. It's a must read. read, understand what they accomplished in the 60s. LOL to anybody who thinks that suddenly a bunch of people just wanted to smoke pot and, you know, leave their families and go play guitars out in the West. I mean, the 60s, that entire decade was all about military experimenting with social engineering and social engineering via things like the <span id="ent-event-manson-family-murders-t-00-23-34"><a href="/entities/event-manson-family-murders.md">Manson murders</a></span>, social engineering via establishing churches. ^t-00-23-34
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-24-11.md" class="timestamp-link">00:24:11</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1451" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** but what is the underlying goal the underlying goal of many of these churches too many of these churches is to commit people to <span id="ent-gpe-israel-t-00-24-11"><a href="/entities/gpe-israel.md">israel</a></span> by any means necessary to believe that they will not be saved unless they worship <span id="ent-person-miriam-adelson-t-00-24-11"><a href="/entities/person-miriam-adelson.md">miriam adelson</a></span> and <span id="ent-person-benjamin-netanyahu-t-00-24-11"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> which is wild <a href="/entities/person-miriam-adelson.md">miriam adelson</a>'s money and wealth comes from debauchery debauchery i mean what are we talking about they built <span id="ent-gpe-las-vegas-nevada-t-00-24-11"><a href="/entities/gpe-las-vegas-nevada.md">las vegas</a></span> yeah ^t-00-24-11
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-24-09.md" class="timestamp-link">00:24:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1449" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Everybody's welcome here. but what is the underlying goal the underlying goal of many of these churches too many of these churches is to commit people to <span id="ent-gpe-israel-t-00-24-09"><a href="/entities/gpe-israel.md">israel</a></span> by any means necessary to believe that they will not be saved unless they worship <span id="ent-person-miriam-adelson-t-00-24-09"><a href="/entities/person-miriam-adelson.md">miriam adelson</a></span> and <span id="ent-person-benjamin-netanyahu-t-00-24-09"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> which is wild <a href="/entities/person-miriam-adelson.md">miriam adelson</a>'s money and wealth comes from debauchery debauchery i mean what are we talking about they built <span id="ent-gpe-las-vegas-nevada-t-00-24-09"><a href="/entities/gpe-las-vegas-nevada.md">las vegas</a></span> yeah ^t-00-24-09
 
 ---
 **🎤 Bassem Youssef**
@@ -827,9 +674,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-25-41.md" class="timestamp-link">00:25:41</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1541" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Right. No, it is upside down land, but I think it's being fixed and it's being corrected. And like I said, it's in large part due to people learning the pressure that <span id="ent-person-charlie-kirk-t-00-25-41"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> was under. And this was a person who was evangelical. He was a <span id="ent-concept-zionism-t-00-25-41"><a href="/entities/concept-zionism.md">Zionist</a></span>. He truly, and I know that you have an opinion about <a href="/entities/person-charlie-kirk.md">Charlie</a> and the stuff that he was doing, but I can tell you that <a href="/entities/person-charlie-kirk.md">Charlie</a> was genuine. In the same way that I always say to people, I obviously regret that I worked inside of <a href="/entities/concept-zionism.md">Zionist</a> organizations. I regret my ignorance. I shouldn't say I regret that I worked there because I actually believe that God put me there for a reason because I had to see it from the inside and I can give people now clarity on how these things work but I regret that I was ignorant about what was happening in <span id="ent-gpe-gaza-t-00-25-41"><a href="/entities/gpe-gaza.md">Gaza</a></span> and I think people should know that <a href="/entities/person-charlie-kirk.md">Charlie</a>, me, ^t-00-25-41
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-25-41.md" class="timestamp-link">00:25:41</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1541" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Right. No, it is upside down land, but I think it's being fixed and it's being corrected. And like I said, it's in large part due to people learning the pressure that <span id="ent-person-charlie-kirk-t-00-25-41"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> was under. And this was a person who was evangelical. He was a <span id="ent-concept-zionism-t-00-25-41"><a href="/entities/concept-zionism.md">Zionist</a></span>. He truly, and I know that you have an opinion about <a href="/entities/person-charlie-kirk.md">Charlie</a> and the stuff that he was doing, but I can tell you that <a href="/entities/person-charlie-kirk.md">Charlie</a> was genuine. In the same way that I always say to people, I obviously regret that I worked inside of <a href="/entities/concept-zionism.md">Zionist</a> organizations. I regret my ignorance. ^t-00-25-41
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-26-25.md" class="timestamp-link">00:26:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1585" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** we were genuine in our support for <span id="ent-gpe-israel-t-00-26-25"><a href="/entities/gpe-israel.md">Israel</a></span> because we genuinely believe we were being told the truth by our friends. ^t-00-26-25
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-26-09.md" class="timestamp-link">00:26:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1569" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I shouldn't say I regret that I worked there because I actually believe that God put me there for a reason because I had to see it from the inside and I can give people now clarity on how these things work but I regret that I was ignorant about what was happening in <span id="ent-gpe-gaza-t-00-26-09"><a href="/entities/gpe-gaza.md">Gaza</a></span> and I think people should know that <span id="ent-person-charlie-kirk-t-00-26-09"><a href="/entities/person-charlie-kirk.md">Charlie</a></span>, me, we were genuine in our support for <span id="ent-gpe-israel-t-00-26-09"><a href="/entities/gpe-israel.md">Israel</a></span> because we genuinely believe we were being told the truth by our friends. ^t-00-26-09
 
 ---
 **🎤 Bassem Youssef**
@@ -912,29 +759,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-30.md" class="timestamp-link">00:28:30</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1710" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And <span id="ent-person-charlie-kirk-t-00-28-30"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> didn't run his <span id="ent-org-x-platform-t-00-28-30"><a href="/entities/org-x-platform.md">Twitter</a></span> feed. ^t-00-28-30
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-31.md" class="timestamp-link">00:28:31</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1711" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yeah ^t-00-28-31
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-31.md" class="timestamp-link">00:28:31</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1711" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-person-andrew-kolvet-t-00-28-31"><a href="/entities/person-andrew-kolvet.md">Andrew</a></span> ^t-00-28-31
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-31.md" class="timestamp-link">00:28:31</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1711" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** okay ^t-00-28-31
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-31.md" class="timestamp-link">00:28:31</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1711" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Kolvet did. ^t-00-28-31
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-32.md" class="timestamp-link">00:28:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1712" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-00-28-32
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-31.md" class="timestamp-link">00:28:31</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1711" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** yeah <span id="ent-person-andrew-kolvet-t-00-28-31"><a href="/entities/person-andrew-kolvet.md">Andrew</a></span> okay Kolvet did. ^t-00-28-31
 
 ---
 **🎤 Candace Owens**
@@ -967,43 +794,18 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-42.md" class="timestamp-link">00:28:42</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1722" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** but you at a certain point you also had very negative ideas about this i mean i remember you ^t-00-28-42
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-47.md" class="timestamp-link">00:28:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1727" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** it's ^t-00-28-47
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-47.md" class="timestamp-link">00:28:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1727" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** saying that ^t-00-28-47
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-47.md" class="timestamp-link">00:28:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1727" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** a part ^t-00-28-47
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-48.md" class="timestamp-link">00:28:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1728" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** that ^t-00-28-48
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-48.md" class="timestamp-link">00:28:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1728" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** of the package. ^t-00-28-48
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-48.md" class="timestamp-link">00:28:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1728" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yeah ^t-00-28-48
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-47.md" class="timestamp-link">00:28:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1727" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** it's saying that a part that of the package. yeah ^t-00-28-47
 
 ---
 **🎤 Candace Owens**
 
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-28-48.md" class="timestamp-link">00:28:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1728" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So it's like when you go, like I was saying on this tour to <span id="ent-gpe-israel-t-00-28-48"><a href="/entities/gpe-israel.md">Israel</a></span>, it's so weird to revisit it because I just I don't think I'm an idiot. i'm an idiot but apparently i was just accepting everything that people that i thought were my friends and were <span id="ent-concept-zionism-t-00-28-48"><a href="/entities/concept-zionism.md">zionists</a></span> were telling me because they're very good at playing the part like they are your friends and they want you to be good and they want you to like you know avoid the traps like they're guiding you and you're new to politics and let me try to very quickly so you understand what's happening and here we are just trying to open an embassy that's what me and charlie were there for here we are just trying to open an embassy and like look at these terrible <span id="ent-concept-islam-t-00-28-48"><a href="/entities/concept-islam.md">muslims</a></span> that are like throwing things at us and trying to murder people at the border and you're going to be safe and we've got security for you to make sure of these terrible <a href="/entities/concept-islam.md">Muslims</a>. ^t-00-28-48
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-29-27.md" class="timestamp-link">00:29:27</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1767" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So it's literally a psychological operation and I want people to know that you have to separate the people that genuinely believe what they're saying versus people who are quite literally being given money and are defending psychopaths when it's very obvious. And I think October 7th, fast forwarding to where we are right now with all of So the information that's now out there, now that this argument, this debate has kind of arrived on the shores of <span id="ent-gpe-united-states-t-00-29-27"><a href="/entities/gpe-united-states.md">America</a></span>, meaning people are getting fired, excommunicated, being smeared, people that you know, you now you the the information is accessible and <span id="ent-person-charlie-kirk-t-00-29-27"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> was changing. That's the reality. He just was and they tried to bury this and he he said, no, ^t-00-29-27
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-29-27.md" class="timestamp-link">00:29:27</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1767" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So it's literally a psychological operation and I want people to know that you have to separate the people that genuinely believe what they're saying versus people who are quite literally being given money and are defending psychopaths when it's very obvious. And I think October 7th, fast forwarding to where we are right now with all of So the information that's now out there, now that this argument, this debate has kind of arrived on the shores of <span id="ent-gpe-united-states-t-00-29-27"><a href="/entities/gpe-united-states.md">America</a></span>, meaning people are getting fired, excommunicated, being smeared, people that you know, you now you the the information is accessible and <span id="ent-person-charlie-kirk-t-00-29-27"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> was changing. ^t-00-29-27
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-30-08.md" class="timestamp-link">00:30:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1808" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** here's interesting fact. When <span id="ent-person-benjamin-netanyahu-t-00-30-08"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> went on a little mini tour and went on everyone's shows sometime. time in august ^t-00-30-08
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-30-03.md" class="timestamp-link">00:30:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1803" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** That's the reality. He just was and they tried to bury this and he he said, no, here's interesting fact. When <span id="ent-person-benjamin-netanyahu-t-00-30-03"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> went on a little mini tour and went on everyone's shows sometime. time in august ^t-00-30-03
 
 ---
 **🎤 Bassem Youssef**
@@ -1041,29 +843,14 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-30-59.md" class="timestamp-link">00:30:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1859" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** maybe if he was given time, maybe he would have like crossed over to... to the other side like you and so like you know i now i believe that everything i said about i don't know it's a kind of a far-fetched but ^t-00-30-59
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-31-09.md" class="timestamp-link">00:31:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1869" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** We ^t-00-31-09
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-31-09.md" class="timestamp-link">00:31:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1869" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** maybe ^t-00-31-09
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-31-09.md" class="timestamp-link">00:31:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1869" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** We maybe were if on with 9-11. ^t-00-31-09
 
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-31-09.md" class="timestamp-link">00:31:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1869" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** were ^t-00-31-09
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-31-10.md" class="timestamp-link">00:31:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1870" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** if ^t-00-31-10
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-31-10.md" class="timestamp-link">00:31:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1870" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** on with 9-11. That was the ultimate psychological operation. ^t-00-31-10
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-31-11.md" class="timestamp-link">00:31:11</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1871" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** That was the ultimate psychological operation. ^t-00-31-11
 
 ---
 **🎤 Bassem Youssef**
@@ -1123,7 +910,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-31-37.md" class="timestamp-link">00:31:37</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1897" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** the airport and no more evil <span id="ent-concept-islam-t-00-31-37"><a href="/entities/concept-islam.md">muslims</a></span> will get you and you're like okay what do i have to do to comply with that that's a psychological operation and that's why when we even revealed yesterday you know part of these these erica calls from five days after her husband died and she's appealing to <span id="ent-org-turning-point-usa-t-00-31-37"><a href="/entities/org-turning-point-usa.md">turning point usa</a></span> the employees of like you know it's okay i'm gonna protect you she uses this exact same strategy i'm gonna protect you your jobs are safe we're a family now after a trauma it's trauma bonding is a trauma and you don't know what's happening but i'm here to keep you safe ^t-00-31-37
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-31-37.md" class="timestamp-link">00:31:37</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1897" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** the airport and no more evil <span id="ent-concept-islam-t-00-31-37"><a href="/entities/concept-islam.md">muslims</a></span> will get you and you're like okay what do i have to do to comply with that that's a psychological operation and that's why when we even revealed yesterday you know part of these these <span id="ent-person-erika-kirk-t-00-31-37"><a href="/entities/person-erika-kirk.md">erica</a></span> calls from five days after her husband died<span id="event-event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning-t-00-31-37"><a href="/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md" class="event-indicator" title="Timeline event">📅</a></span> and she's appealing to <span id="ent-org-turning-point-usa-t-00-31-37"><a href="/entities/org-turning-point-usa.md">turning point usa</a></span> the employees of like you know it's okay i'm gonna protect you she uses this exact same strategy i'm gonna protect you your jobs are safe we're a family now after a trauma it's trauma bonding is a trauma and you don't know what's happening but i'm here to keep you safe ^t-00-31-37
 
 ---
 **🎤 Bassem Youssef**
@@ -1198,17 +985,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-32-53.md" class="timestamp-link">00:32:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1973" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I don't want yeah, to get into it. ^t-00-32-53
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-32-54.md" class="timestamp-link">00:32:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1974" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:**  ^t-00-32-54
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-32-54.md" class="timestamp-link">00:32:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1974" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** She's part of it. ^t-00-32-54
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-32-53.md" class="timestamp-link">00:32:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1973" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I don't want yeah, to get into it. She's part of it. ^t-00-32-53
 
 ---
 **🎤 Candace Owens**
@@ -1226,29 +1003,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-33-03.md" class="timestamp-link">00:33:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1983" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** What do you think? I mean, just on the outside of this, looking in as someone who was not a fan of <span id="ent-person-charlie-kirk-t-00-33-03"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>, ^t-00-33-03
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-33-07.md" class="timestamp-link">00:33:07</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1987" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I'll ^t-00-33-07
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-33-07.md" class="timestamp-link">00:33:07</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1987" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** and ^t-00-33-07
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-33-08.md" class="timestamp-link">00:33:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1988" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** tell you what ^t-00-33-08
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-33-08.md" class="timestamp-link">00:33:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1988" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I actually ^t-00-33-08
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-33-08.md" class="timestamp-link">00:33:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1988" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I think. ^t-00-33-08
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-33-07.md" class="timestamp-link">00:33:07</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=1987" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I'll and tell you what I actually I think. ^t-00-33-07
 
 ---
 **🎤 Candace Owens**
@@ -1293,9 +1050,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-33-32.md" class="timestamp-link">00:33:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2012" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And you know, what's funny is they were using the same going back to the psychological operations where they're telling us to like suspend rationality and this is supernatural and this is because like God is with her and like I mean, even when she said to Jesse Waters that she didn't even need to take a sleeping pill, she didn't need to have a glass of wine that she slept, she said she slept fine and accepted that this is what God wanted so instantly. And there's something about that that is <span id="ent-work-chatgpt-t-00-33-32"><a href="/entities/work-chatgpt.md">ChatGPT</a></span> <span id="ent-concept-christianity-t-00-33-32"><a href="/entities/concept-christianity.md">Christianity</a></span>, where it's like you're just going to keep saying God wanted this like, no, being <a href="/entities/concept-christianity.md">Christian</a> is is the we are flawed. We are not. Of course, you're going to contend with God. You're going to bargain. We don't get it right. Of course, you're going to ask questions. Why? Why did this have to happen? ^t-00-33-32
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-33-32.md" class="timestamp-link">00:33:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2012" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And you know, what's funny is they were using the same going back to the psychological operations where they're telling us to like suspend rationality and this is supernatural and this is because like God is with her and like I mean, even when she said to Jesse Waters that she didn't even need to take a sleeping pill, she didn't need to have a glass of wine that she slept, she said she slept fine and accepted that this is what God wanted so instantly. And there's something about that that is <span id="ent-work-chatgpt-t-00-33-32"><a href="/entities/work-chatgpt.md">ChatGPT</a></span> <span id="ent-concept-christianity-t-00-33-32"><a href="/entities/concept-christianity.md">Christianity</a></span>, where it's like you're just going to keep saying God wanted this like, no, being <a href="/entities/concept-christianity.md">Christian</a> is is the we are flawed. We are not. Of course, you're going to contend with God. You're going to bargain. We don't get it right. Of course, you're going to ask questions. ^t-00-33-32
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-16.md" class="timestamp-link">00:34:16</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2056" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** We're not we're not perfect. We are not <span id="ent-person-jesus-christ-t-00-34-16"><a href="/entities/person-jesus-christ.md">Jesus Christ</a></span>. ^t-00-34-16
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-14.md" class="timestamp-link">00:34:14</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2054" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Why? Why did this have to happen? We're not we're not perfect. We are not <span id="ent-person-jesus-christ-t-00-34-14"><a href="/entities/person-jesus-christ.md">Jesus Christ</a></span>. ^t-00-34-14
 
 ---
 **🎤 Bassem Youssef**
@@ -1303,29 +1060,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-19.md" class="timestamp-link">00:34:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2059" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** What is bothering me even more than <a href="/entities/person-erika-kirk.md">Erika Kirk</a>? is that I mean <span id="ent-person-erika-kirk-t-00-34-19"><a href="/entities/person-erika-kirk.md">Erika</a></span> is playing a part but there is people who are supposed to serve the American people like the director of an <span id="ent-org-federal-bureau-of-investigation-t-00-34-19"><a href="/entities/org-federal-bureau-of-investigation.md">FBI</a></span> Mr. <span id="ent-person-kash-patel-t-00-34-19"><a href="/entities/person-kash-patel.md">Kash Patel</a></span> who even before he got into office he said <span id="ent-gpe-united-states-t-00-34-19"><a href="/entities/gpe-united-states.md">America</a></span> needs to wake up and prioritize <span id="ent-gpe-israel-t-00-34-19"><a href="/entities/gpe-israel.md">Israel</a></span> which is a very weird thing to say by ^t-00-34-19
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-39.md" class="timestamp-link">00:34:39</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2079" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** He lives in ^t-00-34-39
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-40.md" class="timestamp-link">00:34:40</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2080" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** by ^t-00-34-40
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-40.md" class="timestamp-link">00:34:40</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2080" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-gpe-las-vegas-nevada-t-00-34-40"><a href="/entities/gpe-las-vegas-nevada.md">Las Vegas</a></span> with ^t-00-34-40
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-40.md" class="timestamp-link">00:34:40</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2080" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** <span id="ent-org-federal-bureau-of-investigation-t-00-34-40"><a href="/entities/org-federal-bureau-of-investigation.md">FBI</a></span> director ^t-00-34-40
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-41.md" class="timestamp-link">00:34:41</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2081" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** a dude. ^t-00-34-41
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-39.md" class="timestamp-link">00:34:39</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2079" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** He lives in by <span id="ent-gpe-las-vegas-nevada-t-00-34-39"><a href="/entities/gpe-las-vegas-nevada.md">Las Vegas</a></span> with <span id="ent-org-federal-bureau-of-investigation-t-00-34-39"><a href="/entities/org-federal-bureau-of-investigation.md">FBI</a></span> director a dude. ^t-00-34-39
 
 ---
 **🎤 Bassem Youssef**
@@ -1333,39 +1070,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-43.md" class="timestamp-link">00:34:43</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2083" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** oh that the honey put up we should hear ^t-00-34-43
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-45.md" class="timestamp-link">00:34:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2085" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** No, ^t-00-34-45
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-46.md" class="timestamp-link">00:34:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2086" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** oh ^t-00-34-46
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-46.md" class="timestamp-link">00:34:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2086" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** he doesn't live with her. ^t-00-34-46
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-46.md" class="timestamp-link">00:34:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2086" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-00-34-46
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-46.md" class="timestamp-link">00:34:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2086" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** She lives ^t-00-34-46
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-47.md" class="timestamp-link">00:34:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2087" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** oh ^t-00-34-47
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-47.md" class="timestamp-link">00:34:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2087" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** here. ^t-00-34-47
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-45.md" class="timestamp-link">00:34:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2085" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** No, oh he doesn't live with her. She lives oh here. ^t-00-34-45
 
 ---
 **🎤 Bassem Youssef**
@@ -1373,54 +1080,14 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-47.md" class="timestamp-link">00:34:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2087" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** my god oh she lives here and he lives with it oh i can't he's the fbi director and i'm i don't know i mean i'm ^t-00-34-47
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-53.md" class="timestamp-link">00:34:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2093" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I'm ^t-00-34-53
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-53.md" class="timestamp-link">00:34:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2093" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** i'm ^t-00-34-53
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-54.md" class="timestamp-link">00:34:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2094" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** just ^t-00-34-54
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-53.md" class="timestamp-link">00:34:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2093" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I'm i'm just a new stating i'm a fact. a new citizen here i'm I'm just stating a fact. ^t-00-34-53
 
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-54.md" class="timestamp-link">00:34:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2094" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** a new ^t-00-34-54
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-54.md" class="timestamp-link">00:34:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2094" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** stating ^t-00-34-54
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-54.md" class="timestamp-link">00:34:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2094" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** i'm ^t-00-34-54
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-54.md" class="timestamp-link">00:34:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2094" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** a fact. ^t-00-34-54
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-54.md" class="timestamp-link">00:34:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2094" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** a new citizen here i'm ^t-00-34-54
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-55.md" class="timestamp-link">00:34:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2095" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I'm just stating a fact. ^t-00-34-55
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-56.md" class="timestamp-link">00:34:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2096" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** i'm but but but oh in <span id="ent-gpe-las-vegas-nevada-t-00-34-56"><a href="/entities/gpe-las-vegas-nevada.md">las vegas</a></span> is this where you know the israeli cyber security guy was also found out to be a pedophile and then he was let go you know what's so funny about this story I'm sure that everybody knows here what like knows this story. There's the head of the cybersecurity in Netanyahu's office. He comes to <a href="/entities/gpe-las-vegas-nevada.md">Las Vegas</a> and just like, you know, to pass time, he was found with a minor and it was a sting operation, but then he was allowed to leave. ^t-00-34-56
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-34-56.md" class="timestamp-link">00:34:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2096" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** i'm but but but oh in <span id="ent-gpe-las-vegas-nevada-t-00-34-56"><a href="/entities/gpe-las-vegas-nevada.md">las vegas</a></span> is this where you know the <span id="ent-gpe-israel-t-00-34-56"><a href="/entities/gpe-israel.md">israeli</a></span> cyber security guy was also found out to be a pedophile and then he was let go you know what's so funny about this story I'm sure that everybody knows here what like knows this story. There's the head of the cybersecurity in <span id="ent-person-benjamin-netanyahu-t-00-34-56"><a href="/entities/person-benjamin-netanyahu.md">Netanyahu</a></span>'s office. He comes to <a href="/entities/gpe-las-vegas-nevada.md">Las Vegas</a> and just like, you know, to pass time, he was found with a minor and it was a sting operation, but then he was allowed to leave. ^t-00-34-56
 
 ---
 **🎤 Candace Owens**
@@ -1430,7 +1097,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-35-23.md" class="timestamp-link">00:35:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2123" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** This happened in the <span id="ent-gpe-united-states-t-00-35-23"><a href="/entities/gpe-united-states.md">United States</a></span>. You know what's the most important thing about this is that not a single media outlet reported that this ever happened. <span id="ent-org-abc-news-t-00-35-23"><a href="/entities/org-abc-news.md">ABC</a></span>, <span id="ent-org-fox-news-t-00-35-23"><a href="/entities/org-fox-news.md">Fox News</a></span>, <span id="ent-org-cnbc-t-00-35-23"><a href="/entities/org-cnbc.md">CNBC</a></span>, <span id="ent-org-cnn-t-00-35-23"><a href="/entities/org-cnn.md">CNN</a></span>, nothing. If you have a foreign country who's supposed to be your ally sending high security officers here and they are not just once, many times and they're involved in pedophile rings and they're allowed to leave. But that's okay because we need to talk about the Somalis in Minneapolis. We need to talk about the Arabs in <span id="ent-gpe-michigan-t-00-35-23"><a href="/entities/gpe-michigan.md">Michigan</a></span>. It just and then you have like the acting D.A. who happened to be an Israeli national who ^t-00-35-23
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-35-23.md" class="timestamp-link">00:35:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2123" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** This happened in the <span id="ent-gpe-united-states-t-00-35-23"><a href="/entities/gpe-united-states.md">United States</a></span>. You know what's the most important thing about this is that not a single media outlet reported that this ever happened. <span id="ent-org-abc-news-t-00-35-23"><a href="/entities/org-abc-news.md">ABC</a></span>, <span id="ent-org-fox-news-t-00-35-23"><a href="/entities/org-fox-news.md">Fox News</a></span>, <span id="ent-org-cnbc-t-00-35-23"><a href="/entities/org-cnbc.md">CNBC</a></span>, <span id="ent-org-cnn-t-00-35-23"><a href="/entities/org-cnn.md">CNN</a></span>, nothing. If you have a foreign country who's supposed to be your ally sending high security officers here and they are not just once, many times and they're involved in pedophile rings and they're allowed to leave. But that's okay because we need to talk about the Somalis in <span id="ent-gpe-minneapolis-t-00-35-23"><a href="/entities/gpe-minneapolis.md">Minneapolis</a></span>. We need to talk about the Arabs in <span id="ent-gpe-michigan-t-00-35-23"><a href="/entities/gpe-michigan.md">Michigan</a></span>. It just and then you have like the acting D.A. who happened to be an <span id="ent-gpe-israel-t-00-35-23"><a href="/entities/gpe-israel.md">Israeli</a></span> national who ^t-00-35-23
 
 ---
 **🎤 Candace Owens**
@@ -1475,34 +1142,14 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-37-06.md" class="timestamp-link">00:37:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2226" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they will never say anything about the other stuff So everything that you are faced with in the news is that the stuff that they want you to see, they will not hide it, okay, we have democracy, but we'll not talk about it. This is how they selectively push the narrative, like what happened October 7th. I call it shock and awe.<span id="event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-37-06"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md" class="event-indicator" title="Timeline event">📅</a></span> You know how <span id="ent-gpe-united-states-t-00-37-06"><a href="/entities/gpe-united-states.md">America</a></span> went to <span id="ent-gpe-iraq-t-00-37-06"><a href="/entities/gpe-iraq.md">Iraq</a></span> and they used shock and awe, like extreme attack? They do this. So decapitated babies, babies in ovens, pregnant ^t-00-37-06
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-37-34.md" class="timestamp-link">00:37:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2254" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So ^t-00-37-34
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-37-34.md" class="timestamp-link">00:37:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2254" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** women having ^t-00-37-34
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-37-34.md" class="timestamp-link">00:37:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2254" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** over ^t-00-37-34
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-37-34.md" class="timestamp-link">00:37:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2254" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** So women having over their... And the top. it is... ^t-00-37-34
 
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-37-34.md" class="timestamp-link">00:37:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2254" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** their... And ^t-00-37-34
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-37-35.md" class="timestamp-link">00:37:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2255" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** the top. ^t-00-37-35
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-37-35.md" class="timestamp-link">00:37:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2255" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** it is... It has become so much of an emotional shock. that if you start questioning it is like how come you question babies getting decapitated you're <span id="ent-concept-antisemitism-t-00-37-35"><a href="/entities/concept-antisemitism.md">anti-semitic</a></span> you don't like you don't care about babies and this is how they pushed it and and then becomes it becomes the news ^t-00-37-35
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-37-35.md" class="timestamp-link">00:37:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2255" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** It has become so much of an emotional shock. that if you start questioning it is like how come you question babies getting decapitated you're <span id="ent-concept-antisemitism-t-00-37-35"><a href="/entities/concept-antisemitism.md">anti-semitic</a></span> you don't like you don't care about babies and this is how they pushed it and and then becomes it becomes the news ^t-00-37-35
 
 ---
 **🎤 Candace Owens**
@@ -1602,67 +1249,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-39-45.md" class="timestamp-link">00:39:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2385" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** <span id="ent-vehicle-ss-patria-t-00-39-45"><a href="/entities/vehicle-ss-patria.md">Patria</a></span> was a ship that came from <span id="ent-gpe-europe-t-00-39-45"><a href="/entities/gpe-europe.md">Europe</a></span> that has 1,500 <span id="ent-concept-judaism-t-00-39-45"><a href="/entities/concept-judaism.md">Jewish</a></span> refugees, 1940s, and the port of <span id="ent-gpe-haifa-t-00-39-45"><a href="/entities/gpe-haifa.md">Haifa</a></span>. And then the <span id="ent-org-haganah-t-00-39-45"><a href="/entities/org-haganah.md">Haganah</a></span>, which is one of the <a href="/entities/gpe-israel.md">Israeli</a> <span id="ent-concept-zionism-t-00-39-45"><a href="/entities/concept-zionism.md">Zionist</a></span> gang, they blew it up because the British authorities wouldn't let it go, wouldn't let it dock, and they wanted to actually divert it to <span id="ent-gpe-mauritius-t-00-39-45"><a href="/entities/gpe-mauritius.md">Mauritius</a></span>. So they bomb it, and I think they killed 150 Jews, their own people. They didn't care about Jews being killed in <span id="ent-gpe-germany-t-00-39-45"><a href="/entities/gpe-germany.md">Germany</a></span>, by the way. They didn't care. They just used them as a bargaining chip in order to create <span id="ent-gpe-israel-t-00-39-45"><a href="/entities/gpe-israel.md">Israel</a></span>. So it's not really about being <a href="/entities/concept-judaism.md">Jewish</a>. They don't care. They don't really care. ^t-00-39-45
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-39-45.md" class="timestamp-link">00:39:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2385" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** <span id="ent-vehicle-ss-patria-t-00-39-45"><a href="/entities/vehicle-ss-patria.md">Patria</a></span> was a ship that came from <span id="ent-gpe-europe-t-00-39-45"><a href="/entities/gpe-europe.md">Europe</a></span> that has 1,500 <span id="ent-concept-judaism-t-00-39-45"><a href="/entities/concept-judaism.md">Jewish</a></span> refugees, 1940s, and the port of <span id="ent-gpe-haifa-t-00-39-45"><a href="/entities/gpe-haifa.md">Haifa</a></span>. And then the <span id="ent-org-haganah-t-00-39-45"><a href="/entities/org-haganah.md">Haganah</a></span>, which is one of the <a href="/entities/gpe-israel.md">Israeli</a> <span id="ent-concept-zionism-t-00-39-45"><a href="/entities/concept-zionism.md">Zionist</a></span> gang, they blew it up<span id="event-event-1940-11-25-the-haganah-bombed-the-refugee-ship-patr-t-00-39-45"><a href="/events/event-1940-11-25-the-haganah-bombed-the-refugee-ship-patr.md" class="event-indicator" title="Timeline event">📅</a></span> because the British authorities wouldn't let it go, wouldn't let it dock, and they wanted to actually divert it to <span id="ent-gpe-mauritius-t-00-39-45"><a href="/entities/gpe-mauritius.md">Mauritius</a></span>. So they bomb it, and I think they killed 150 Jews, their own people. They didn't care about Jews being killed in <span id="ent-gpe-germany-t-00-39-45"><a href="/entities/gpe-germany.md">Germany</a></span>, by the way. They didn't care. They just used them as a bargaining chip in order to create <span id="ent-gpe-israel-t-00-39-45"><a href="/entities/gpe-israel.md">Israel</a></span>. So it's not really about being <a href="/entities/concept-judaism.md">Jewish</a>. They don't care. ^t-00-39-45
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-24.md" class="timestamp-link">00:40:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2424" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Oh, ^t-00-40-24
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-24.md" class="timestamp-link">00:40:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2424" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** It's ^t-00-40-24
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-24.md" class="timestamp-link">00:40:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2424" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** because they're ^t-00-40-24
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-24.md" class="timestamp-link">00:40:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2424" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** the same way ^t-00-40-24
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-25.md" class="timestamp-link">00:40:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2425" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** not if like people ^t-00-40-25
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-25.md" class="timestamp-link">00:40:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2425" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** <span id="ent-org-islamic-state-t-00-40-25"><a href="/entities/org-islamic-state.md">ISIS</a></span> ^t-00-40-25
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-25.md" class="timestamp-link">00:40:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2425" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** were taught fighting ^t-00-40-25
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-25.md" class="timestamp-link">00:40:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2425" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** or ^t-00-40-25
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-26.md" class="timestamp-link">00:40:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2426" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** or not ^t-00-40-26
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-26.md" class="timestamp-link">00:40:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2426" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Qaeda. ^t-00-40-26
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-26.md" class="timestamp-link">00:40:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2426" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Jews. ^t-00-40-26
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-26.md" class="timestamp-link">00:40:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2426" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** They don't care about <span id="ent-concept-islam-t-00-40-26"><a href="/entities/concept-islam.md">Muslims</a></span> dying. ^t-00-40-26
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-40-23.md" class="timestamp-link">00:40:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2423" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** They don't really care. Oh, It's because they're the same way not if like people <span id="ent-org-islamic-state-t-00-40-23"><a href="/entities/org-islamic-state.md">ISIS</a></span> were taught fighting or or not Qaeda. Jews. They don't care about <span id="ent-concept-islam-t-00-40-23"><a href="/entities/concept-islam.md">Muslims</a></span> dying. ^t-00-40-23
 
 ---
 **🎤 Candace Owens**
@@ -1691,9 +1283,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-41-20.md" class="timestamp-link">00:41:20</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2480" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It's a knowledge base that grows daily from their exclusive digitized work inside the Pontifical Universities in <span id="ent-gpe-rome-t-00-41-20"><a href="/entities/gpe-rome.md">Rome</a></span>. It is the number one <span id="ent-concept-catholicism-t-00-41-20"><a href="/entities/concept-catholicism.md">Catholic</a></span> answer engine in the world for a reason. If you want to discover the intellectual depth and the peace that I have found in the <a href="/entities/concept-catholicism.md">Catholic</a> faith, start there. You can head to <span id="ent-org-magisterium-ai-t-00-41-20"><a href="/entities/org-magisterium-ai.md">magisterium</a></span>.com slash <span id="ent-person-candace-owens-t-00-41-20"><a href="/entities/person-candace-owens.md">Candace</a></span> or download the app for free on iOS or <span id="ent-work-android-t-00-41-20"><a href="/entities/work-android.md">Android</a></span>. You can use my discount code <a href="/entities/person-candace-owens.md">Candace</a> to upgrade to pro and you'll get 25% off your first year. That is $2.99 per month, peace and purpose for the price of a cup of coffee. It's a no brainer. Visit <a href="/entities/org-magisterium-ai.md">magisterium</a>.com slash <a href="/entities/person-candace-owens.md">Candace</a>. Also remind you guys about <span id="ent-org-american-financing-t-00-41-20"><a href="/entities/org-american-financing.md">American financing</a></span> because between groceries, travel and higher prices, it is easy to feel overwhelmed, especially if you are already relying on credit cards to cover the basics. ^t-00-41-20
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-42-04.md" class="timestamp-link">00:42:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2524" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** If that debt is piling up, you should know that you are not alone. If you are a homeowner, you might have considered reaching out to <span id="ent-org-american-financing-t-00-42-04"><a href="/entities/org-american-financing.md">American financing</a></span>, but maybe hesitated because you didn't want to give up your loan mortgage rate. Well, that's why <a href="/entities/org-american-financing.md">American financing</a> created the <span id="ent-work-smart-equity-loan-t-00-42-04"><a href="/entities/work-smart-equity-loan.md">Smart Equity Loan</a></span>, which is a simple, smart way to get your finances back on track without giving up your loan mortgage rate. rate. Unlike a <span id="ent-concept-home-equity-line-of-credit-t-00-42-04"><a href="/entities/concept-home-equity-line-of-credit.md">HELOC</a></span>, which can fluctuate with the market, the <a href="/entities/work-smart-equity-loan.md">SMART equity loan</a> offers a fixed rate, so you'll have one predictable monthly payment. It lets you use your home's equity to pay off high interest debt, free up your cash flow, and still keep your existing mortgage intact. There are no upfront fees. To find out if you qualify, call 800-795-1210. That's 800-795-1210. Or visit <a href="/entities/org-american-financing.md">AmericanFinancing</a>.net slash Owens. That's <a href="/entities/org-american-financing.md">AmericanFinancing</a>.net slash Owens. All right, guys, I want to show you this clip. ^t-00-42-04
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-42-04.md" class="timestamp-link">00:42:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2524" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** If that debt is piling up, you should know that you are not alone. If you are a homeowner, you might have considered reaching out to <span id="ent-org-american-financing-t-00-42-04"><a href="/entities/org-american-financing.md">American financing</a></span>, but maybe hesitated because you didn't want to give up your loan mortgage rate. Well, that's why <a href="/entities/org-american-financing.md">American financing</a> created the <span id="ent-work-smart-equity-loan-t-00-42-04"><a href="/entities/work-smart-equity-loan.md">Smart Equity Loan</a></span>, which is a simple, smart way to get your finances back on track without giving up your loan mortgage rate. rate. Unlike a <span id="ent-concept-home-equity-line-of-credit-t-00-42-04"><a href="/entities/concept-home-equity-line-of-credit.md">HELOC</a></span>, which can fluctuate with the market, the <a href="/entities/work-smart-equity-loan.md">SMART equity loan</a> offers a fixed rate, so you'll have one predictable monthly payment. It lets you use your home's equity to pay off high interest debt, free up your cash flow, and still keep your existing mortgage intact. There are no upfront fees. To find out if you qualify, call 800-795-1210. That's 800-795-1210. Or visit <a href="/entities/org-american-financing.md">AmericanFinancing</a>.net slash Owens. That's <a href="/entities/org-american-financing.md">AmericanFinancing</a>.net slash Owens. ^t-00-42-04
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-42-49.md" class="timestamp-link">00:42:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2569" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It's just incredible. It is we've kind of spliced it together here. But this is <span id="ent-person-bassem-youssef-t-00-42-49"><a href="/entities/person-bassem-youssef.md">Bassem</a></span> on <span id="ent-person-piers-morgan-t-00-42-49"><a href="/entities/person-piers-morgan.md">Piers Morgan</a></span>, the clip where he just uses humor. That's why we need the comedians because they're brilliant and they have a way of delivering a point in a way that is not controversial and it makes you go, what is wrong with us as a society? It's dark humor and they are they are the best at it. Take a look at this. ^t-00-42-49
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-42-47.md" class="timestamp-link">00:42:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2567" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, guys, I want to show you this clip. It's just incredible. It is we've kind of spliced it together here. But this is <span id="ent-person-bassem-youssef-t-00-42-47"><a href="/entities/person-bassem-youssef.md">Bassem</a></span> on <span id="ent-person-piers-morgan-t-00-42-47"><a href="/entities/person-piers-morgan.md">Piers Morgan</a></span>, the clip where he just uses humor. That's why we need the comedians because they're brilliant and they have a way of delivering a point in a way that is not controversial and it makes you go, what is wrong with us as a society? It's dark humor and they are they are the best at it. Take a look at this. ^t-00-42-47
 
 ---
 **🎤 Bassem Youssef**
@@ -1708,7 +1300,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-43-12.md" class="timestamp-link">00:43:12</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2592" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** because it has been different from one tier to another. So if you look to this graph, for example, this is the death of Israeli and Palestinians, and it's changing from one year to year. It's like fluctuating like crypto. So my question is today what is the going rate today for human lives? I mean, 2014 was a great year for <span id="ent-person-ben-shapiro-t-00-43-12"><a href="/entities/person-ben-shapiro.md">Ben Shapiro</a></span>. 88 Israelis were died and there was 2,329 Palestinians killed on the other side. type. That is one Israeli for 27 Palestinians. That is a very good exchange rate. What I'm saying is what is the exchange rate ^t-00-43-12
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-43-12.md" class="timestamp-link">00:43:12</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2592" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** because it has been different from one tier to another. So if you look to this graph, for example, this is the death of <a href="/entities/gpe-israel.md">Israeli</a> and Palestinians, and it's changing from one year to year. It's like fluctuating like crypto. So my question is today what is the going rate today for human lives? I mean, 2014 was a great year for <span id="ent-person-ben-shapiro-t-00-43-12"><a href="/entities/person-ben-shapiro.md">Ben Shapiro</a></span>. 88 <span id="ent-gpe-israel-t-00-43-12"><a href="/entities/gpe-israel.md">Israelis</a></span> were died and there was 2,329 Palestinians killed on the other side. type. That is one <a href="/entities/gpe-israel.md">Israeli</a> for 27 Palestinians. That is a very good exchange rate. What I'm saying is what is the exchange rate ^t-00-43-12
 
 ---
 **🎤 Piers Morgan**
@@ -1728,9 +1320,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-43-43.md" class="timestamp-link">00:43:43</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2623" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** so you guys will be happy. <span id="ent-org-hamas-t-00-43-43"><a href="/entities/org-hamas.md">Hamas</a></span> has absolutely no control in <span id="ent-gpe-west-bank-t-00-43-43"><a href="/entities/gpe-west-bank.md">the West Bank</a></span> and this is the beginning of this street. Only through August, 37 Palestinian kids were killed. No music festival, no paragliding, no <a href="/entities/org-hamas.md">Hamas</a>. Since the occupation of <a href="/entities/gpe-west-bank.md">the West Bank</a>, 7,000 Palestinians were killed. killed. No music festival, no paragliding, no <a href="/entities/org-hamas.md">Hamas</a>. This is the problem. <span id="ent-gpe-israel-t-00-43-43"><a href="/entities/gpe-israel.md">Israel</a></span> always victimizes itself, and I have never seen a victim putting their oppressor under siege and bombing them 24-7. <a href="/entities/gpe-israel.md">Israel</a> wants you to believe that they are the victim. Dealing with <a href="/entities/gpe-israel.md">Israel</a> is so difficult. It's like being in a relationship with a narcissistic psychopath. He f***ed you up, and then he makes you think it's your fault. I have two questions. The question is, ^t-00-43-43
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-43-43.md" class="timestamp-link">00:43:43</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2623" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** so you guys will be happy. <span id="ent-org-hamas-t-00-43-43"><a href="/entities/org-hamas.md">Hamas</a></span> has absolutely no control in <span id="ent-gpe-west-bank-t-00-43-43"><a href="/entities/gpe-west-bank.md">the West Bank</a></span> and this is the beginning of this street. Only through August, 37 Palestinian kids were killed. No music festival, no paragliding, no <a href="/entities/org-hamas.md">Hamas</a>. Since the occupation of <a href="/entities/gpe-west-bank.md">the West Bank</a>, 7,000 Palestinians were killed. killed. No music festival, no paragliding, no <a href="/entities/org-hamas.md">Hamas</a>. This is the problem. <span id="ent-gpe-israel-t-00-43-43"><a href="/entities/gpe-israel.md">Israel</a></span> always victimizes itself, and I have never seen a victim putting their oppressor under siege and bombing them 24-7. <a href="/entities/gpe-israel.md">Israel</a> wants you to believe that they are the victim. Dealing with <a href="/entities/gpe-israel.md">Israel</a> is so difficult. It's like being in a relationship with a narcissistic psychopath. ^t-00-43-43
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-44-26.md" class="timestamp-link">00:44:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2666" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** how can you justify the killing in <span id="ent-gpe-west-bank-t-00-44-26"><a href="/entities/gpe-west-bank.md">the West Bank</a></span>, where <span id="ent-org-hamas-t-00-44-26"><a href="/entities/org-hamas.md">Hamas</a></span> does not exist, and if the disproportionate response during the overall of these years have actually worked, what will be new this time that did not happen before? I just ^t-00-44-26
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-44-21.md" class="timestamp-link">00:44:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2661" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** He f***ed you up, and then he makes you think it's your fault. I have two questions. The question is, how can you justify the killing in <span id="ent-gpe-west-bank-t-00-44-21"><a href="/entities/gpe-west-bank.md">the West Bank</a></span>, where <span id="ent-org-hamas-t-00-44-21"><a href="/entities/org-hamas.md">Hamas</a></span> does not exist, and if the disproportionate response during the overall of these years have actually worked, what will be new this time that did not happen before? I just ^t-00-44-21
 
 ---
 **🎤 Piers Morgan**
@@ -1760,7 +1352,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-44-56.md" class="timestamp-link">00:44:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2696" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** well they could do it they're continuing like the <span id="ent-gpe-gaza-t-00-44-56"><a href="/entities/gpe-gaza.md">Gaza</a></span> war never ended the ceasefire never happened they actually they killed more children since the ceasefire more than Israeli kids were killed since 1948 ^t-00-44-56
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-44-56.md" class="timestamp-link">00:44:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2696" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** well they could do it they're continuing like the <span id="ent-gpe-gaza-t-00-44-56"><a href="/entities/gpe-gaza.md">Gaza</a></span> war never ended the ceasefire never happened they actually they killed more children since the ceasefire more than <span id="ent-gpe-israel-t-00-44-56"><a href="/entities/gpe-israel.md">Israeli</a></span> kids were killed since 1948 ^t-00-44-56
 
 ---
 **🎤 Candace Owens**
@@ -1780,7 +1372,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-45-12.md" class="timestamp-link">00:45:12</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2712" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** In three weeks, they killed more children from the Palestinian side more than Israeli kids were killed all through 75 years. ^t-00-45-12
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-45-12.md" class="timestamp-link">00:45:12</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2712" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** In three weeks, they killed more children from the Palestinian side more than <span id="ent-gpe-israel-t-00-45-12"><a href="/entities/gpe-israel.md">Israeli</a></span> kids were killed all through 75 years. ^t-00-45-12
 
 ---
 **🎤 Candace Owens**
@@ -1833,39 +1425,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-45-42.md" class="timestamp-link">00:45:42</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2742" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I mean, isn't like <span id="ent-org-us-immigration-and-customs-enforcement-t-00-45-42"><a href="/entities/org-us-immigration-and-customs-enforcement.md">ice</a></span> has been trained by the <span id="ent-org-israel-defense-forces-t-00-45-42"><a href="/entities/org-israel-defense-forces.md">IDF</a></span>? Isn't that the same tactics that's used by <a href="/entities/org-us-immigration-and-customs-enforcement.md">ice</a>? and used by many of the police departments. They get trained. They're actually one of the <a href="/entities/org-us-immigration-and-customs-enforcement.md">ICE</a> offices. When they did the locations, they found that the location of one of their field offices is in <span id="ent-gpe-tel-aviv-yafo-t-00-45-42"><a href="/entities/gpe-tel-aviv-yafo.md">Tel Aviv</a></span>. ^t-00-45-42
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-46-00.md" class="timestamp-link">00:46:00</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2760" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah. ^t-00-46-00
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-46-01.md" class="timestamp-link">00:46:01</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2761" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Why do we have <span id="ent-org-us-immigration-and-customs-enforcement-t-00-46-01"><a href="/entities/org-us-immigration-and-customs-enforcement.md">ICE</a></span> ^t-00-46-01
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-46-02.md" class="timestamp-link">00:46:02</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2762" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I ^t-00-46-02
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-46-02.md" class="timestamp-link">00:46:02</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2762" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** office ^t-00-46-02
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-46-02.md" class="timestamp-link">00:46:02</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2762" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** think ^t-00-46-02
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-46-02.md" class="timestamp-link">00:46:02</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2762" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** in Tel ^t-00-46-02
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-46-02.md" class="timestamp-link">00:46:02</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2762" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** it was <span id="ent-org-us-department-homeland-security-t-00-46-02"><a href="/entities/org-us-department-homeland-security.md">Department of Homeland Security</a></span>. ^t-00-46-02
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-46-00.md" class="timestamp-link">00:46:00</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2760" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Yeah. Why do we have <span id="ent-org-us-immigration-and-customs-enforcement-t-00-46-00"><a href="/entities/org-us-immigration-and-customs-enforcement.md">ICE</a></span> I office think in Tel it was <span id="ent-org-us-department-homeland-security-t-00-46-00"><a href="/entities/org-us-department-homeland-security.md">Department of Homeland Security</a></span>. ^t-00-46-00
 
 ---
 **🎤 Bassem Youssef**
@@ -1963,29 +1525,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-48-29.md" class="timestamp-link">00:48:29</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2909" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** that means do you think like <span id="ent-gpe-united-states-t-00-48-29"><a href="/entities/gpe-united-states.md">america</a></span> is now like like ^t-00-48-29
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-48-32.md" class="timestamp-link">00:48:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2912" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** but ^t-00-48-32
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-48-32.md" class="timestamp-link">00:48:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2912" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** the word ^t-00-48-32
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-48-32.md" class="timestamp-link">00:48:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2912" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** it's not even <span id="ent-gpe-united-states-t-00-48-32"><a href="/entities/gpe-united-states.md">America</a></span>. ^t-00-48-32
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-48-33.md" class="timestamp-link">00:48:33</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2913" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** hoa ^t-00-48-33
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-48-33.md" class="timestamp-link">00:48:33</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2913" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** We just, we just, ^t-00-48-33
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-48-32.md" class="timestamp-link">00:48:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2912" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** but the word it's not even <span id="ent-gpe-united-states-t-00-48-32"><a href="/entities/gpe-united-states.md">America</a></span>. hoa We just, we just, ^t-00-48-32
 
 ---
 **🎤 Bassem Youssef**
@@ -2005,7 +1547,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-48-38.md" class="timestamp-link">00:48:38</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2918" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I promise you it is not <span id="ent-gpe-united-states-t-00-48-38"><a href="/entities/gpe-united-states.md">America</a></span>. We might have been brainwashed, but this is very clearly like an Israeli empire and <span id="ent-person-lyndon-b-johnson-t-00-48-38"><a href="/entities/person-lyndon-b-johnson.md">LBJ</a></span> murdered <span id="ent-person-john-f-kennedy-t-00-48-38"><a href="/entities/person-john-f-kennedy.md">JFK</a></span>, got his boys in there. and took over our military and everything else is just noise and <span id="ent-gpe-hollywood-t-00-48-38"><a href="/entities/gpe-hollywood.md">Hollywood</a></span> and manipulation and now it's cracking and now people are looking up and going wait why are we being so controlled why are our kids being led to believe that they have to support <span id="ent-concept-zionism-t-00-48-38"><a href="/entities/concept-zionism.md">Zionism</a></span> why why are why am I not allowed to make a decision about whether I think this or think that the fake algorithm pretending that people are popular when they're not and so the mass awakening hasn't been panicked they're making a lot of mistakes right now case in point going after Going after <span id="ent-person-rachel-accurso-t-00-48-38"><a href="/entities/person-rachel-accurso.md">Miss Rachel</a></span> seems like an unbelievable mistake. But I do think the biggest threat to their empire is the awareness. ^t-00-48-38
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-48-38.md" class="timestamp-link">00:48:38</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2918" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I promise you it is not <span id="ent-gpe-united-states-t-00-48-38"><a href="/entities/gpe-united-states.md">America</a></span>. We might have been brainwashed, but this is very clearly like an <span id="ent-gpe-israel-t-00-48-38"><a href="/entities/gpe-israel.md">Israeli</a></span> empire and <span id="ent-person-lyndon-b-johnson-t-00-48-38"><a href="/entities/person-lyndon-b-johnson.md">LBJ</a></span> murdered <span id="ent-person-john-f-kennedy-t-00-48-38"><a href="/entities/person-john-f-kennedy.md">JFK</a></span>, got his boys in there. and took over our military and everything else is just noise and <span id="ent-gpe-hollywood-t-00-48-38"><a href="/entities/gpe-hollywood.md">Hollywood</a></span> and manipulation and now it's cracking and now people are looking up and going wait why are we being so controlled why are our kids being led to believe that they have to support <span id="ent-concept-zionism-t-00-48-38"><a href="/entities/concept-zionism.md">Zionism</a></span> why why are why am I not allowed to make a decision about whether I think this or think that the fake algorithm pretending that people are popular when they're not and so the mass awakening hasn't been panicked they're making a lot of mistakes right now case in point going after Going after <span id="ent-person-rachel-accurso-t-00-48-38"><a href="/entities/person-rachel-accurso.md">Miss Rachel</a></span> seems like an unbelievable mistake. But I do think the biggest threat to their empire is the awareness. ^t-00-48-38
 
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-49-20.md" class="timestamp-link">00:49:20</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=2960" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And that's why they're like sloppy, like we're just going to buy <span id="ent-org-tiktok-t-00-49-20"><a href="/entities/org-tiktok.md">TikTok</a></span>. I don't think the money is the real power. The illusion, the trick was actually the illusion. We all believed they were the victims. We watched the movies. We were our kids were we were in the classroom. We bought into the 9-11 rhetoric. The danger for them. is when all of a sudden they go 330 million people, if that's how many are in <span id="ent-gpe-united-states-t-00-49-20"><a href="/entities/gpe-united-states.md">America</a></span> now, wake up and go, wait a second, I actually think what you're doing is pretty horrific. What's their next move? ^t-00-49-20
 
@@ -2022,9 +1564,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-50-04.md" class="timestamp-link">00:50:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3004" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** We know the people in power, they are corrupt. We all the people in power, they are terrible. They have all kinds of bad things happening, but we cannot speak up because it's too dangerous. So we shut up, but everybody knows. In <span id="ent-gpe-united-states-t-00-50-04"><a href="/entities/gpe-united-states.md">America</a></span>, everybody knows and everybody can talk. You can talk, but we dare you to change anything. So you vote, you talk, you protest, you go online, nobody will put you in jail, you feel like you participated, but the end result is nothing changes. They look at you and say, yes, the Epstein files, there's victim, nothing will happen. You have evidence, you have evidence about Epstein, every single TV show, every single comedy show is making fun of it, but nothing is really moving forward. You see the difference? ^t-00-50-04
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-50-04.md" class="timestamp-link">00:50:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3004" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** We know the people in power, they are corrupt. We all the people in power, they are terrible. They have all kinds of bad things happening, but we cannot speak up because it's too dangerous. So we shut up, but everybody knows. In <span id="ent-gpe-united-states-t-00-50-04"><a href="/entities/gpe-united-states.md">America</a></span>, everybody knows and everybody can talk. You can talk, but we dare you to change anything. So you vote, you talk, you protest, you go online, nobody will put you in jail, you feel like you participated, but the end result is nothing changes. They look at you and say, yes, the <span id="ent-person-jeffrey-epstein-t-00-50-04"><a href="/entities/person-jeffrey-epstein.md">Epstein</a></span> files, there's victim, nothing will happen. You have evidence, you have evidence about <a href="/entities/person-jeffrey-epstein.md">Epstein</a>, every single TV show, every single comedy show is making fun of it, but nothing is really moving forward. ^t-00-50-04
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-50-49.md" class="timestamp-link">00:50:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3049" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Yeah, I'm giving you this margin of liberty, but... Do you think you can do anything with the liberty? What if <span id="ent-person-donald-trump-t-00-50-49"><a href="/entities/person-donald-trump.md">Trump</a></span> tomorrow decides he's going to run for a third term? What would happen? What a federal judge will just like put some, what would happen? What you're going to get the military to remove him from office? What would prevent them from from kind of enforcing martial laws or starting to take your liberties. We have to, because the world has been desensitized by how much violence that happened in <span id="ent-gpe-middle-east-t-00-50-49"><a href="/entities/gpe-middle-east.md">the Middle East</a></span> that now people are kind of like, they are desensitized. It can happen to us anytime now. And I mean... ^t-00-50-49
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-50-48.md" class="timestamp-link">00:50:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3048" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** You see the difference? Yeah, I'm giving you this margin of liberty, but... Do you think you can do anything with the liberty? What if <span id="ent-person-donald-trump-t-00-50-48"><a href="/entities/person-donald-trump.md">Trump</a></span> tomorrow decides he's going to run for a third term? What would happen? What a federal judge will just like put some, what would happen? What you're going to get the military to remove him from office? What would prevent them from from kind of enforcing martial laws or starting to take your liberties. We have to, because the world has been desensitized by how much violence that happened in <span id="ent-gpe-middle-east-t-00-50-48"><a href="/entities/gpe-middle-east.md">the Middle East</a></span> that now people are kind of like, they are desensitized. It can happen to us anytime now. And I mean... ^t-00-50-48
 
 ---
 **🎤 Candace Owens**
@@ -2044,7 +1586,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-51-47.md" class="timestamp-link">00:51:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3107" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** We have seen people losing their jobs, losing their careers, being beaten, being arrested, being shot. be having NYPDs and LAPDs having Israeli special operations officers on site with them, what would prevent them from doing that outside of a university campus? You see, it is the same thing happening, but you're moving very slowly because the ^t-00-51-47
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-51-47.md" class="timestamp-link">00:51:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3107" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** We have seen people losing their jobs, losing their careers, being beaten, being arrested, being shot. be having NYPDs and LAPDs having <span id="ent-gpe-israel-t-00-51-47"><a href="/entities/gpe-israel.md">Israeli</a></span> special operations officers on site with them, what would prevent them from doing that outside of a university campus? You see, it is the same thing happening, but you're moving very slowly because the ^t-00-51-47
 
 ---
 **🎤 Candace Owens**
@@ -2076,9 +1618,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-53-24.md" class="timestamp-link">00:53:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3204" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** but that's why I say you're going to be on the trajectory where it's going to be becoming more brutal, more stupid, and then they completely lose control. I don't know how many years kind of, but we're heading to that direction because here's the difference between third world countries and the West. the western countries because I was told this when I was growing up it's like oh my god you're in <span id="ent-gpe-middle-east-t-00-53-24"><a href="/entities/gpe-middle-east.md">the Middle East</a></span> you have all of these red lines you have all of these red lines you cannot cross the red lines and I come to here to the <span id="ent-gpe-united-states-t-00-53-24"><a href="/entities/gpe-united-states.md">United States</a></span> like it's true you don't have any red lines but you have two blue lines You cannot cross these two blue lines. That's your only lines. So you can talk about the president, you can make fun of the president, about the Democrats, about the government, about the judge. Nothing is off limit. ^t-00-53-24
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-53-24.md" class="timestamp-link">00:53:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3204" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** but that's why I say you're going to be on the trajectory where it's going to be becoming more brutal, more stupid, and then they completely lose control. I don't know how many years kind of, but we're heading to that direction because here's the difference between third world countries and the West. the western countries because I was told this when I was growing up it's like oh my god you're in <span id="ent-gpe-middle-east-t-00-53-24"><a href="/entities/gpe-middle-east.md">the Middle East</a></span> you have all of these red lines you have all of these red lines you cannot cross the red lines and I come to here to the <span id="ent-gpe-united-states-t-00-53-24"><a href="/entities/gpe-united-states.md">United States</a></span> like it's true you don't have any red lines but you have two blue lines You cannot cross these two blue lines. That's your only lines. So you can talk about the president, you can make fun of the president, about the Democrats, about the government, about the judge. ^t-00-53-24
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-06.md" class="timestamp-link">00:54:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3246" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** But when you cross these two blue lines with a little bit of star in the middle, this is where we get you. And now you know who has the power. So I think the more and more people are waking up, the more. brutal that we're going to become the more outspoken more stupid more blunt in your face they're going to become and then at a certain point people will either give up disenfranchise or just people go underground and you will see a violent counter-attack coming from the people ^t-00-54-06
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-05.md" class="timestamp-link">00:54:05</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3245" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Nothing is off limit. But when you cross these two blue lines with a little bit of star in the middle, this is where we get you. And now you know who has the power. So I think the more and more people are waking up, the more. brutal that we're going to become the more outspoken more stupid more blunt in your face they're going to become and then at a certain point people will either give up disenfranchise or just people go underground and you will see a violent counter-attack coming from the people ^t-00-54-05
 
 ---
 **🎤 Candace Owens**
@@ -2086,64 +1628,19 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-34.md" class="timestamp-link">00:54:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3274" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I actually think you're right I think you're absolutely right because you thinking about that they came out and they were like oh we're going to run <span id="ent-person-donald-trump-t-00-54-34"><a href="/entities/person-donald-trump.md">Trump</a></span> for a third term or if they just came out and were like you know what you guys have no power we're we're going to and install BBN Yahoo as president <span id="ent-gpe-united-states-t-00-54-34"><a href="/entities/gpe-united-states.md">United States</a></span> what will we actually ^t-00-54-34
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-46.md" class="timestamp-link">00:54:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3286" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Yeah, ^t-00-54-46
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-46.md" class="timestamp-link">00:54:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3286" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** do yeah ^t-00-54-46
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-46.md" class="timestamp-link">00:54:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3286" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Yeah, do yeah nothing. Nothing. ^t-00-54-46
 
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-46.md" class="timestamp-link">00:54:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3286" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** nothing. ^t-00-54-46
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-48.md" class="timestamp-link">00:54:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3288" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Because people took for granted, oh, the president is going to be there for a couple of terms and he's going to leave. What happens if he doesn't? Oh, the president cannot put me in jail because of my opinion. Now it's happening. People are being deported, being put in jail. People are losing government contracts. You have 37, 38 states that have laws. that you cannot boycott <span id="ent-gpe-israel-t-00-54-48"><a href="/entities/gpe-israel.md">Israel</a></span>, ^t-00-54-48
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-47.md" class="timestamp-link">00:54:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3287" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:**  ^t-00-54-47
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-54-47.md" class="timestamp-link">00:54:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3287" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Nothing. Because people took for granted, oh, the president is going to be there for a couple of terms and he's going to leave. What happens if he doesn't? Oh, the president cannot put me in jail because of my opinion. Now it's happening. People are being deported, being put in jail. People are losing government contracts. You have 37, 38 states that have laws. that you cannot boycott <span id="ent-gpe-israel-t-00-54-47"><a href="/entities/gpe-israel.md">Israel</a></span>, which ^t-00-54-47
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-55-10.md" class="timestamp-link">00:55:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3310" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Crazy. ^t-00-55-10
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-55-10.md" class="timestamp-link">00:55:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3310" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** is crazy. ^t-00-55-10
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-55-11.md" class="timestamp-link">00:55:11</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3311" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** That's crazy. ^t-00-55-11
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-55-11.md" class="timestamp-link">00:55:11</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3311" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** actually, ^t-00-55-11
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-55-11.md" class="timestamp-link">00:55:11</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3311" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:**  ^t-00-55-11
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-55-11.md" class="timestamp-link">00:55:11</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3311" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** and that's the law. ^t-00-55-11
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-55-12.md" class="timestamp-link">00:55:12</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3312" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah. ^t-00-55-12
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-55-10.md" class="timestamp-link">00:55:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3310" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** which Crazy. is crazy. That's crazy. actually, and that's the law. Yeah. ^t-00-55-10
 
 ---
 **🎤 Bassem Youssef**
@@ -2247,52 +1744,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-58-54.md" class="timestamp-link">00:58:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3534" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I'm not saying that it would never go this far. It has gone very far. Please, I'm banned from <span id="ent-gpe-australia-t-00-58-54"><a href="/entities/gpe-australia.md">Australia</a></span>. I mean, I have seen ^t-00-58-54
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-58-54.md" class="timestamp-link">00:58:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3534" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I'm not saying that it would never go this far. It has gone very far. Please, I'm banned from <span id="ent-gpe-australia-t-00-58-54"><a href="/entities/gpe-australia.md">Australia</a></span>. ^t-00-58-54
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-01.md" class="timestamp-link">00:59:01</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3541" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** How ^t-00-59-01
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-01.md" class="timestamp-link">00:59:01</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3541" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** what they're ^t-00-59-01
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-02.md" class="timestamp-link">00:59:02</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3542" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** can they ban ^t-00-59-02
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-02.md" class="timestamp-link">00:59:02</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3542" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** willing to ^t-00-59-02
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-02.md" class="timestamp-link">00:59:02</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3542" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you from <span id="ent-gpe-australia-t-00-59-02"><a href="/entities/gpe-australia.md">Australia</a></span>? ^t-00-59-02
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-03.md" class="timestamp-link">00:59:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3543" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** do. ^t-00-59-03
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-03.md" class="timestamp-link">00:59:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3543" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  Your ^t-00-59-03
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-03.md" class="timestamp-link">00:59:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3543" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Their ^t-00-59-03
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-03.md" class="timestamp-link">00:59:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3543" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** have ^t-00-59-03
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-01.md" class="timestamp-link">00:59:01</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3541" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I mean, I have seen How what they're can they ban willing to you from <span id="ent-gpe-australia-t-00-59-01"><a href="/entities/gpe-australia.md">Australia</a></span>? do. Your Their have ^t-00-59-01
 
 ---
 **🎤 Candace Owens**
@@ -2305,49 +1762,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-06.md" class="timestamp-link">00:59:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3546" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** the same danger as horses going into <span id="ent-gpe-australia-t-00-59-06"><a href="/entities/gpe-australia.md">Australia</a></span>? Oh my god, ^t-00-59-06
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-09.md" class="timestamp-link">00:59:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3549" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I ^t-00-59-09
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-09.md" class="timestamp-link">00:59:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3549" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they're ^t-00-59-09
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-09.md" class="timestamp-link">00:59:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3549" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** know. ^t-00-59-09
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-09.md" class="timestamp-link">00:59:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3549" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** treating ^t-00-59-09
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-09.md" class="timestamp-link">00:59:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3549" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It's crazy. ^t-00-59-09
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-10.md" class="timestamp-link">00:59:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3550" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you like ^t-00-59-10
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-10.md" class="timestamp-link">00:59:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3550" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It's ^t-00-59-10
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-10.md" class="timestamp-link">00:59:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3550" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** a horse. ^t-00-59-10
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-10.md" class="timestamp-link">00:59:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3550" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** completely crazy. ^t-00-59-10
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-00-59-09.md" class="timestamp-link">00:59:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3549" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I they're know. treating It's crazy. you like It's a horse. completely crazy. ^t-00-59-09
 
 ---
 **🎤 Bassem Youssef**
@@ -2442,7 +1859,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-00-24.md" class="timestamp-link">01:00:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3624" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Okay, here's the thing. You have 98% of <span id="ent-org-united-states-congress-t-01-00-24"><a href="/entities/org-united-states-congress.md">Congress</a></span> and the Senate. ^t-01-00-24
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-00-24.md" class="timestamp-link">01:00:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3624" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Okay, here's the thing. You have 98% of <span id="ent-org-united-states-congress-t-01-00-24"><a href="/entities/org-united-states-congress.md">Congress</a></span> and <span id="ent-org-us-senate-t-01-00-24"><a href="/entities/org-us-senate.md">the Senate</a></span>. ^t-01-00-24
 
 ---
 **🎤 Candace Owens**
@@ -2507,54 +1924,14 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-01-22.md" class="timestamp-link">01:01:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3682" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** god is is going to win and i i do think part of it was the awareness they needed they needed the spell like you know <span id="ent-person-benjamin-netanyahu-t-01-01-22"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> believed yeah we've got power we've got politicians we've got this we've got the you know we could take the guns we can move all this we can traffic children nobody nobody blinks an eye we got Epstein out all of this stuff but it did rely on the trick of the illusion and I think they they underestimated how much relied on the illusion and that's why they're panicking about Gen Z because that's the future and there's a lot of people and would they if they could mass kill everybody in this country yeah they would I believe these people are psychopaths like I said watching their reaction to the Palestinians and what they've done people for saying the right thing like <span id="ent-person-rachel-accurso-t-01-01-22"><a href="/entities/person-rachel-accurso.md">Miss Rachel</a></span> shows you that there's no life in these people ^t-01-01-22
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-01-22.md" class="timestamp-link">01:01:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3682" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** god is is going to win and i i do think part of it was the awareness they needed they needed the spell like you know <span id="ent-person-benjamin-netanyahu-t-01-01-22"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> believed yeah we've got power we've got politicians we've got this we've got the you know we could take the guns we can move all this we can traffic children nobody nobody blinks an eye we got <span id="ent-person-jeffrey-epstein-t-01-01-22"><a href="/entities/person-jeffrey-epstein.md">Epstein</a></span> out all of this stuff but it did rely on the trick of the illusion and I think they they underestimated how much relied on the illusion and that's why they're panicking about Gen Z because that's the future and there's a lot of people and would they if they could mass kill everybody in this country yeah they would I believe these people are psychopaths like I said watching their reaction to the Palestinians and what they've done people for saying the right thing like <span id="ent-person-rachel-accurso-t-01-01-22"><a href="/entities/person-rachel-accurso.md">Miss Rachel</a></span> shows you that there's no life in these people ^t-01-01-22
 
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-00.md" class="timestamp-link">01:02:00</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3720" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** these people this is the synagogue of <span id="ent-concept-satan-t-01-02-00"><a href="/entities/concept-satan.md">satan</a></span> the people that stand up and say that's fine are they're satanic that's i genuinely wonder what happened to them when they were kids ^t-01-02-00
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-07.md" class="timestamp-link">01:02:07</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3727" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Maybe ^t-01-02-07
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-08.md" class="timestamp-link">01:02:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3728" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** and ^t-01-02-08
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-08.md" class="timestamp-link">01:02:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3728" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** we don't need ^t-01-02-08
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-09.md" class="timestamp-link">01:02:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3729" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** and i ^t-01-02-09
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-09.md" class="timestamp-link">01:02:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3729" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** a ^t-01-02-09
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-09.md" class="timestamp-link">01:02:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3729" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** think they were brainwashed ^t-01-02-09
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-10.md" class="timestamp-link">01:02:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3730" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** revolution. ^t-01-02-10
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-10.md" class="timestamp-link">01:02:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3730" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** we ^t-01-02-10
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-10.md" class="timestamp-link">01:02:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3730" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Maybe we need an exorcist. ^t-01-02-10
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-02-07.md" class="timestamp-link">01:02:07</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3727" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Maybe and we don't need and i a think they were brainwashed revolution. we Maybe we need an exorcist. ^t-01-02-07
 
 ---
 **🎤 Candace Owens**
@@ -2574,29 +1951,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-03-20.md" class="timestamp-link">01:03:20</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3800" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** you know combination of things with him uh i would love to know i would sit down and ask him these questions it's just not normal um he because he fixates that's what makes me nervous about him is there's an obsession he fixates he can't let it go he can't i mean he's he's been so fixated on <span id="ent-person-tucker-carlson-t-01-03-20"><a href="/entities/person-tucker-carlson.md">tucker carlson</a></span> even when i was up <span id="ent-org-the-daily-wire-t-01-03-20"><a href="/entities/org-the-daily-wire.md">daily wire</a></span> it's like his it's you would think and <a href="/entities/person-tucker-carlson.md">tucker</a> never ever spoke about him never while i was there it's it's a fixation and there is a neuroticism there um And I don't I don't know what happened to him but I know he's got like a very too close relationship with his dad like his dad follows ^t-01-03-20
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-03-52.md" class="timestamp-link">01:03:52</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3832" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Do ^t-01-03-52
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-03-52.md" class="timestamp-link">01:03:52</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3832" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** him to every ^t-01-03-52
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-03-52.md" class="timestamp-link">01:03:52</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3832" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you think he wasn't ^t-01-03-52
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-03-52.md" class="timestamp-link">01:03:52</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3832" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** job. ^t-01-03-52
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-03-53.md" class="timestamp-link">01:03:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3833" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** loved? ^t-01-03-53
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-03-52.md" class="timestamp-link">01:03:52</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3832" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Do him to every you think he wasn't job. loved? ^t-01-03-52
 
 ---
 **🎤 Candace Owens**
@@ -2679,29 +2036,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-05-06.md" class="timestamp-link">01:05:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3906" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** into getting under your skin so now the conversation is not about what's happening in <span id="ent-gpe-gaza-t-01-05-06"><a href="/entities/gpe-gaza.md">gaza</a></span> it's about like now like what i've just said and then they will they they are their masters in doing that trolling them and see all of their conversation all of their debates their point their their the whole thing is to them making you lose control and lose lose your temper so they will divert the conversation going somewhere else you'll see that it's it's it's they're very good at doing ^t-01-05-06
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-05-33.md" class="timestamp-link">01:05:33</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3933" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah, ^t-01-05-33
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-05-34.md" class="timestamp-link">01:05:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3934" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** this and ^t-01-05-34
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-05-34.md" class="timestamp-link">01:05:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3934" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** no, ^t-01-05-34
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-05-34.md" class="timestamp-link">01:05:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3934" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-01-05-34
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-05-34.md" class="timestamp-link">01:05:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3934" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** you're absolutely right. And I don't. ^t-01-05-34
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-05-33.md" class="timestamp-link">01:05:33</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3933" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Yeah, this and no, you're absolutely right. And I don't. ^t-01-05-33
 
 ---
 **🎤 Bassem Youssef**
@@ -2719,29 +2056,14 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-05-55.md" class="timestamp-link">01:05:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3955" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Just give any whatever like mantras, whatever like soundbites just like to throw at the situation to divert the conversation. ^t-01-05-55
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-06-03.md" class="timestamp-link">01:06:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3963" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Mm ^t-01-06-03
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-06-03.md" class="timestamp-link">01:06:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3963" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** This ^t-01-06-03
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-06-03.md" class="timestamp-link">01:06:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3963" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Mm This hmm. is what they do. Yeah, ^t-01-06-03
 
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-06-03.md" class="timestamp-link">01:06:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3963" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** hmm. ^t-01-06-03
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-06-04.md" class="timestamp-link">01:06:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3964" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** is what they do. ^t-01-06-04
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-06-04.md" class="timestamp-link">01:06:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3964" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah, I agree with you. It's like it's like master manipulation and I came out of it. So I realize now. ^t-01-06-04
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-06-05.md" class="timestamp-link">01:06:05</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=3965" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I agree with you. It's like it's like master manipulation and I came out of it. So I realize now. ^t-01-06-05
 
 ---
 **🎤 Bassem Youssef**
@@ -2776,44 +2098,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-06-58.md" class="timestamp-link">01:06:58</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4018" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** connected to I know who they're communicating with I know what publications they're speaking to I can see the hand of oh this you know Marissa at <span id="ent-org-prageru-t-01-06-58"><a href="/entities/org-prageru.md">PragerU</a></span> who I adored when I worked for her I'm like oh this is this is a Marissa thing and so I think God wanted me blinded for that time and I because I could so now when I'm telling the story about <span id="ent-person-charlie-kirk-t-01-06-58"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> even I'm I have so much more weight I'm telling the public no this is what was going on this is who put this person in this organization this is who he was arguing with So it kind of, in many ways, I had to go through all of it. Otherwise, I'm just like throwing opinions at the wall and it represents an existential threat to these organizations to go, ^t-01-06-58
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-35.md" class="timestamp-link">01:07:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4055" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yes ^t-01-07-35
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-35.md" class="timestamp-link">01:07:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4055" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** okay, ^t-01-07-35
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-35.md" class="timestamp-link">01:07:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4055" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-01-07-35
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-35.md" class="timestamp-link">01:07:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4055" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** no, ^t-01-07-35
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-35.md" class="timestamp-link">01:07:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4055" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-01-07-35
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-35.md" class="timestamp-link">01:07:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4055" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** but she came from the inside. ^t-01-07-35
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-36.md" class="timestamp-link">01:07:36</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4056" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** that's ^t-01-07-36
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-36.md" class="timestamp-link">01:07:36</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4056" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** She's not just, ^t-01-07-36
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-35.md" class="timestamp-link">01:07:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4055" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** yes okay, no, but she came from the inside. that's She's not just, ^t-01-07-35
 
 ---
 **🎤 Bassem Youssef**
@@ -2821,59 +2108,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-37.md" class="timestamp-link">01:07:37</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4057" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** exactly that's why you and charlie and all of the people who trying to flip their this is you are more dangerous like someone like me because he's an arab he's a <span id="ent-concept-islam-t-01-07-37"><a href="/entities/concept-islam.md">muslim</a></span> he already ^t-01-07-37
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-47.md" class="timestamp-link">01:07:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4067" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** yeah, ^t-01-07-47
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-47.md" class="timestamp-link">01:07:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4067" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** he ^t-01-07-47
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-47.md" class="timestamp-link">01:07:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4067" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** he ^t-01-07-47
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-48.md" class="timestamp-link">01:07:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4068" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** already did there ^t-01-07-48
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-48.md" class="timestamp-link">01:07:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4068" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** 9-11. ^t-01-07-48
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-48.md" class="timestamp-link">01:07:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4068" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yeah yeah 9 ^t-01-07-48
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-49.md" class="timestamp-link">01:07:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4069" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** That's ^t-01-07-49
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-49.md" class="timestamp-link">01:07:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4069" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** -11 of course ^t-01-07-49
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-49.md" class="timestamp-link">01:07:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4069" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** what did 9-11. ^t-01-07-49
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-50.md" class="timestamp-link">01:07:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4070" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** no ^t-01-07-50
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-50.md" class="timestamp-link">01:07:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4070" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Mm ^t-01-07-50
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-07-47.md" class="timestamp-link">01:07:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4067" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** yeah, he he already did there 9-11. yeah yeah 9 That's -11 of course what did 9-11. no Mm ^t-01-07-47
 
 ---
 **🎤 Bassem Youssef**
@@ -3043,37 +2280,17 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-18.md" class="timestamp-link">01:09:18</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4158" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** which is like, I'm convinced these were Israeli planes. That's why they're panicking about it. But obviously we all know <span id="ent-gpe-egypt-t-01-09-18"><a href="/entities/gpe-egypt.md">Egypt</a></span>, the whole thing, they're running stuff through <a href="/entities/gpe-egypt.md">Egypt</a>, obviously. But yeah, ^t-01-09-18
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-18.md" class="timestamp-link">01:09:18</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4158" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** which is like, I'm convinced these were <span id="ent-gpe-israel-t-01-09-18"><a href="/entities/gpe-israel.md">Israeli</a></span> planes. That's why they're panicking about it. But obviously we all know <span id="ent-gpe-egypt-t-01-09-18"><a href="/entities/gpe-egypt.md">Egypt</a></span>, the whole thing, they're running stuff through <a href="/entities/gpe-egypt.md">Egypt</a>, obviously. ^t-01-09-18
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-29.md" class="timestamp-link">01:09:29</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4169" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they ^t-01-09-29
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-29.md" class="timestamp-link">01:09:29</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4169" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** there ^t-01-09-29
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-29.md" class="timestamp-link">01:09:29</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4169" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** have no ^t-01-09-29
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-28.md" class="timestamp-link">01:09:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4168" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** But yeah, they there have no I was like, idea oh, this is interesting. ^t-01-09-28
 
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-29.md" class="timestamp-link">01:09:29</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4169" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I was like, ^t-01-09-29
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-30.md" class="timestamp-link">01:09:30</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4170" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** idea ^t-01-09-30
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-30.md" class="timestamp-link">01:09:30</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4170" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** oh, this is interesting. This person died in <span id="ent-gpe-palestine-t-01-09-30"><a href="/entities/gpe-palestine.md">Palestine</a></span> and this exact full name is one of the passports. I got the list of every <span id="ent-gpe-egypt-t-01-09-30"><a href="/entities/gpe-egypt.md">Egyptian</a></span> name that's on this. ^t-01-09-30
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-09-31.md" class="timestamp-link">01:09:31</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4171" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** This person died in <span id="ent-gpe-palestine-t-01-09-31"><a href="/entities/gpe-palestine.md">Palestine</a></span> and this exact full name is one of the passports. I got the list of every <span id="ent-gpe-egypt-t-01-09-31"><a href="/entities/gpe-egypt.md">Egyptian</a></span> name that's on this. ^t-01-09-31
 
 ---
 **🎤 Bassem Youssef**
@@ -3193,7 +2410,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-11-19.md" class="timestamp-link">01:11:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4279" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** They wipe this away. That's how Israeli blackmail files are created. They got that. That story, we have no idea. This happened in a congressional building on the congressional floor, and we have no answers as to what that was actually about. Who ^t-01-11-19
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-11-19.md" class="timestamp-link">01:11:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4279" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** They wipe this away. That's how <span id="ent-gpe-israel-t-01-11-19"><a href="/entities/gpe-israel.md">Israeli</a></span> blackmail files are created. They got that. That story, we have no idea. This happened in a congressional building on the congressional floor, and we have no answers as to what that was actually about. Who ^t-01-11-19
 
 ---
 **🎤 Bassem Youssef**
@@ -3208,7 +2425,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-11-36.md" class="timestamp-link">01:11:36</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4296" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** And it's funny like how when everybody's talking about Epstein, they were like, you cannot say like, oh, nobody's talking about Epstein. Everybody talks about Epstein, comedy shows, whatever, but they never talk about the very obvious connection with a foreign intelligence. you see like open abc epstein nbc epstein cnn epstein comedy centered epstein but they never talk about the israeli connection ^t-01-11-36
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-11-36.md" class="timestamp-link">01:11:36</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4296" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** And it's funny like how when everybody's talking about <span id="ent-person-jeffrey-epstein-t-01-11-36"><a href="/entities/person-jeffrey-epstein.md">Epstein</a></span>, they were like, you cannot say like, oh, nobody's talking about <a href="/entities/person-jeffrey-epstein.md">Epstein</a>. Everybody talks about <a href="/entities/person-jeffrey-epstein.md">Epstein</a>, comedy shows, whatever, but they never talk about the very obvious connection with a foreign intelligence. you see like open abc <a href="/entities/person-jeffrey-epstein.md">epstein</a> nbc <a href="/entities/person-jeffrey-epstein.md">epstein</a> cnn <a href="/entities/person-jeffrey-epstein.md">epstein</a> comedy centered <a href="/entities/person-jeffrey-epstein.md">epstein</a> but they never talk about the <span id="ent-gpe-israel-t-01-11-36"><a href="/entities/gpe-israel.md">israeli</a></span> connection ^t-01-11-36
 
 ---
 **🎤 Candace Owens**
@@ -3273,7 +2490,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-12-17.md" class="timestamp-link">01:12:17</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4337" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** That's what's coming. They're working on that narrative. They just have to figure it out. And it's like, it is the most despicable thing. That was for me done with <span id="ent-person-donald-trump-t-01-12-17"><a href="/entities/person-donald-trump.md">Trump</a></span>. As soon as he said what Epstein files, easiest way to lose me as talk about the children. If we can't defend the children, what kind of nation are we? If we as a country turn away when we know children are being abused, and then I started to realize, oh, that's the name of the game. Like that's what the <span id="ent-org-central-intelligence-agency-t-01-12-17"><a href="/entities/org-central-intelligence-agency.md">CIA</a></span> is doing. They are trafficking human beings. This is what they are involved in. And we're all kind of waking up to that spell. and then they have us arguing with each other left versus right that's why i'm like are you team god are you team <span id="ent-concept-satan-t-01-12-17"><a href="/entities/concept-satan.md">satan</a></span> and it's actually kind of shocking how many people are team <a href="/entities/concept-satan.md">satan</a> i will say that ^t-01-12-17
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-12-17.md" class="timestamp-link">01:12:17</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4337" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** That's what's coming. They're working on that narrative. They just have to figure it out. And it's like, it is the most despicable thing. That was for me done with <span id="ent-person-donald-trump-t-01-12-17"><a href="/entities/person-donald-trump.md">Trump</a></span>. As soon as he said what <span id="ent-person-jeffrey-epstein-t-01-12-17"><a href="/entities/person-jeffrey-epstein.md">Epstein</a></span> files, easiest way to lose me as talk about the children. If we can't defend the children, what kind of nation are we? If we as a country turn away when we know children are being abused, and then I started to realize, oh, that's the name of the game. Like that's what the <span id="ent-org-central-intelligence-agency-t-01-12-17"><a href="/entities/org-central-intelligence-agency.md">CIA</a></span> is doing. They are trafficking human beings. This is what they are involved in. And we're all kind of waking up to that spell. and then they have us arguing with each other left versus right that's why i'm like are you team god are you team <span id="ent-concept-satan-t-01-12-17"><a href="/entities/concept-satan.md">satan</a></span> and it's actually kind of shocking how many people are team <a href="/entities/concept-satan.md">satan</a> i will say that ^t-01-12-17
 
 ---
 **🎤 Bassem Youssef**
@@ -3343,42 +2560,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-26.md" class="timestamp-link">01:14:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4466" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** make them collude to cover it. Okay. There's only one state in the world. Okay. Who's involved? All you have to know is <span id="ent-gpe-israel-t-01-14-26"><a href="/entities/gpe-israel.md">Israel</a></span>'s involved because it's a cover up. That's it. There's only one nation that would be involved. You got <span id="ent-person-benjamin-netanyahu-t-01-14-26"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> calling him. Everyone's lying. lying about it they're pretending i mean <a href="/entities/person-benjamin-netanyahu.md">Bibi</a> going on a press tour immediately after to say I ^t-01-14-26
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-26.md" class="timestamp-link">01:14:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4466" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** make them collude to cover it. Okay. There's only one state in the world. Okay. Who's involved? All you have to know is <span id="ent-gpe-israel-t-01-14-26"><a href="/entities/gpe-israel.md">Israel</a></span>'s involved because it's a cover up. That's it. There's only one nation that would be involved. You got <span id="ent-person-benjamin-netanyahu-t-01-14-26"><a href="/entities/person-benjamin-netanyahu.md">Bibi</a></span> calling him. Everyone's lying. lying about it they're pretending i mean <a href="/entities/person-benjamin-netanyahu.md">Bibi</a> going on a press tour immediately after to say ^t-01-14-26
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-43.md" class="timestamp-link">01:14:43</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4483" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** we ^t-01-14-43
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-43.md" class="timestamp-link">01:14:43</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4483" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** did not kill ^t-01-14-43
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-44.md" class="timestamp-link">01:14:44</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4484" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** did not ^t-01-14-44
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-44.md" class="timestamp-link">01:14:44</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4484" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-person-charlie-kirk-t-01-14-44"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> ^t-01-14-44
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-44.md" class="timestamp-link">01:14:44</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4484" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** kill <span id="ent-person-charlie-kirk-t-01-14-44"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> ^t-01-14-44
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-45.md" class="timestamp-link">01:14:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4485" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Kirk. ^t-01-14-45
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-45.md" class="timestamp-link">01:14:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4485" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Kirk it's ^t-01-14-45
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-14-43.md" class="timestamp-link">01:14:43</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4483" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** We did not kill <span id="ent-person-charlie-kirk-t-01-14-43"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>. It's— ^t-01-14-43
 
 ---
 **🎤 Candace Owens**
@@ -3403,17 +2590,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-15-19.md" class="timestamp-link">01:15:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4519" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And <span id="ent-gpe-ukraine-t-01-15-19"><a href="/entities/gpe-ukraine.md">Ukraine</a></span>, ^t-01-15-19
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-15-20.md" class="timestamp-link">01:15:20</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4520" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-01-15-20
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-15-20.md" class="timestamp-link">01:15:20</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4520" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** by the way, because that's where they're actually from. They're from <span id="ent-gpe-ukraine-t-01-15-20"><a href="/entities/gpe-ukraine.md">Ukraine</a></span>. ^t-01-15-20
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-15-19.md" class="timestamp-link">01:15:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4519" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And <span id="ent-gpe-ukraine-t-01-15-19"><a href="/entities/gpe-ukraine.md">Ukraine</a></span>, by the way, because that's where they're actually from. They're from <a href="/entities/gpe-ukraine.md">Ukraine</a>. ^t-01-15-19
 
 ---
 **🎤 Bassem Youssef**
@@ -3453,67 +2630,22 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-19.md" class="timestamp-link">01:16:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4579" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah. And I say that about ^t-01-16-19
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-19.md" class="timestamp-link">01:16:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4579" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah. ^t-01-16-19
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-20.md" class="timestamp-link">01:16:20</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4580" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** i ^t-01-16-20
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-20.md" class="timestamp-link">01:16:20</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4580" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** it. ^t-01-16-20
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-20.md" class="timestamp-link">01:16:20</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4580" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** immigrated for this ^t-01-16-20
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-19.md" class="timestamp-link">01:16:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4579" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** And I say that about i it. immigrated for this Yeah. Well, ^t-01-16-19
 
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-21.md" class="timestamp-link">01:16:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4581" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah. Well, that's that's look at even the drop in testosterone over the years. That's. That's intentional. The mass poisoning ^t-01-16-21
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-23.md" class="timestamp-link">01:16:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4583" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** that's that's look at even the drop in testosterone over the years. ^t-01-16-23
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-27.md" class="timestamp-link">01:16:27</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4587" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Oh, ^t-01-16-27
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-27.md" class="timestamp-link">01:16:27</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4587" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** of ^t-01-16-27
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-28.md" class="timestamp-link">01:16:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4588" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** do you ^t-01-16-28
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-28.md" class="timestamp-link">01:16:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4588" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** men, ^t-01-16-28
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-28.md" class="timestamp-link">01:16:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4588" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** think we're ^t-01-16-28
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-28.md" class="timestamp-link">01:16:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4588" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** the water. ^t-01-16-28
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-28.md" class="timestamp-link">01:16:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4588" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** now ^t-01-16-28
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-29.md" class="timestamp-link">01:16:29</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4589" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Oh, that's a fact. ^t-01-16-29
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-16-26.md" class="timestamp-link">01:16:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4586" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** That's. That's intentional. The mass poisoning Oh, of do you men, think we're the water. now Oh, that's a fact. ^t-01-16-26
 
 ---
 **🎤 Bassem Youssef**
@@ -3548,52 +2680,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-14.md" class="timestamp-link">01:17:14</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4634" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** it's just it's about identity politics. It's not whether it's the <span id="ent-concept-lgbt-t-01-17-14"><a href="/entities/concept-lgbt.md">LGBT</a></span>. <a href="/entities/concept-lgbt.md">lgbtq</a> whether it's ^t-01-17-14
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-14.md" class="timestamp-link">01:17:14</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4634" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** it's just it's about identity politics. ^t-01-17-14
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-18.md" class="timestamp-link">01:17:18</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4638" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** the ^t-01-17-18
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-18.md" class="timestamp-link">01:17:18</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4638" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** just like ^t-01-17-18
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-18.md" class="timestamp-link">01:17:18</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4638" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** attack ^t-01-17-18
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-18.md" class="timestamp-link">01:17:18</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4638" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they want ^t-01-17-18
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-19.md" class="timestamp-link">01:17:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4639" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** on ^t-01-17-19
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-19.md" class="timestamp-link">01:17:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4639" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they ^t-01-17-19
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-19.md" class="timestamp-link">01:17:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4639" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** manhood is ^t-01-17-19
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-19.md" class="timestamp-link">01:17:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4639" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** want ^t-01-17-19
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-19.md" class="timestamp-link">01:17:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4639" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** significant but ^t-01-17-19
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-16.md" class="timestamp-link">01:17:16</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4636" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** It's not whether it's the <span id="ent-concept-lgbt-t-01-17-16"><a href="/entities/concept-lgbt.md">LGBT</a></span>. <a href="/entities/concept-lgbt.md">lgbtq</a> whether it's the just like attack they want on they manhood is want significant but ^t-01-17-16
 
 ---
 **🎤 Bassem Youssef**
@@ -3626,29 +2718,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-24.md" class="timestamp-link">01:17:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4644" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** is masculinity is what they hate the most ^t-01-17-24
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-26.md" class="timestamp-link">01:17:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4646" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** we ^t-01-17-26
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-26.md" class="timestamp-link">01:17:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4646" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** true ^t-01-17-26
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-26.md" class="timestamp-link">01:17:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4646" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** need more ^t-01-17-26
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-26.md" class="timestamp-link">01:17:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4646" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** masculine ^t-01-17-26
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-26.md" class="timestamp-link">01:17:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4646" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** viagra ^t-01-17-26
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-26.md" class="timestamp-link">01:17:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4646" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** we true need more masculine viagra ^t-01-17-26
 
 ---
 **🎤 Candace Owens**
@@ -3683,9 +2755,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-53.md" class="timestamp-link">01:17:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4673" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** speak about credit for a second because nobody really teaches you how to build it. And if your credit score is low or non-existent, it can feel impossible to fix. That's where <span id="ent-org-kikoff-t-01-17-53"><a href="/entities/org-kikoff.md">Kickoff</a></span> comes in. <a href="/entities/org-kikoff.md">Kickoff</a> is designed to help you build credit safely and simply without taking on debt or stressing over. Over complicated rules, users with credit under 600 grew an average of 25 points in their first month with on-time payments. With transparent, affordable plans starting at just $5 a month, no hidden fees and zero interest, <a href="/entities/org-kikoff.md">Kickoff</a> helps you score big when it comes to credit. It's simple, you make on-time payments, credit boroughs see good behavior, and your credit can grow fast. With the premium or ultimate plan, the rent reporting feature helps you build credit. build credit with the rent that you already pay. ^t-01-17-53
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-17-53.md" class="timestamp-link">01:17:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4673" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** speak about credit for a second because nobody really teaches you how to build it. And if your credit score is low or non-existent, it can feel impossible to fix. That's where <span id="ent-org-kikoff-t-01-17-53"><a href="/entities/org-kikoff.md">Kickoff</a></span> comes in. <a href="/entities/org-kikoff.md">Kickoff</a> is designed to help you build credit safely and simply without taking on debt or stressing over. Over complicated rules, users with credit under 600 grew an average of 25 points in their first month with on-time payments. With transparent, affordable plans starting at just $5 a month, no hidden fees and zero interest, <a href="/entities/org-kikoff.md">Kickoff</a> helps you score big when it comes to credit. It's simple, you make on-time payments, credit boroughs see good behavior, and your credit can grow fast. With the premium or ultimate plan, the rent reporting feature helps you build credit. ^t-01-17-53
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-18-34.md" class="timestamp-link">01:18:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4714" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Plus only positive on-time rent payments get reported to help boost your credit. You can sign up in minutes from your phone. There's no credit check, no hidden fees, and no interest. Start building credit with <a href="/entities/org-kikoff.md">Kickoff</a> today and get your first month for as little as $1. That's 80% off the normal price when you go to <span id="ent-org-kikoff-t-01-18-34"><a href="/entities/org-kikoff.md">getkickoff</a></span>.com slash <span id="ent-person-candace-owens-t-01-18-34"><a href="/entities/person-candace-owens.md">Candace</a></span> today. That's <a href="/entities/org-kikoff.md">kickoff</a> without the C. So visit <a href="/entities/org-kikoff.md">getkickoff</a>. Dot-com slash <a href="/entities/person-candace-owens.md">Candace</a>. ^t-01-18-34
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-18-33.md" class="timestamp-link">01:18:33</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4713" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** build credit with the rent that you already pay. Plus only positive on-time rent payments get reported to help boost your credit. You can sign up in minutes from your phone. There's no credit check, no hidden fees, and no interest. Start building credit with <a href="/entities/org-kikoff.md">Kickoff</a> today and get your first month for as little as $1. That's 80% off the normal price when you go to <span id="ent-org-kikoff-t-01-18-33"><a href="/entities/org-kikoff.md">getkickoff</a></span>.com slash <span id="ent-person-candace-owens-t-01-18-33"><a href="/entities/person-candace-owens.md">Candace</a></span> today. That's <a href="/entities/org-kikoff.md">kickoff</a> without the C. So visit <a href="/entities/org-kikoff.md">getkickoff</a>. Dot-com slash <a href="/entities/person-candace-owens.md">Candace</a>. ^t-01-18-33
 
 ---
 **🎤 Advertisement Disclaimer Narrator**
@@ -3695,9 +2767,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-19-22.md" class="timestamp-link">01:19:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4762" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys want to also remind you about <a href="/entities/org-pure-talk.md">PureTalk</a> because for just $25 a month, <a href="/entities/org-pure-talk.md">PureTalk</a> gives you unlimited talk, text, and plenty of data. Now compare that to big wireless. They'd rather charge your family hundreds every month. <a href="/entities/org-pure-talk.md">PureTalk</a> is an American wireless company who supports our veterans and invests in a U.S.-only customer service team. So when you call, you're speaking to someone right here at home. <a href="/entities/org-pure-talk.md">PureTalk</a> uses the same towers as the big carriers, so enjoy superior 5G coverage. rage without the inflated price. Just $25 a month for talk, text, and plenty of data. There's no contract, no cancellation fee. What are you waiting for? Head to <a href="/entities/org-pure-talk.md">puretalk</a>.com slash Owens and you'll get 50% off your first month. Again, that is <a href="/entities/org-pure-talk.md">puretalk</a>.com slash Owens. Take the switch to <span id="ent-org-pure-talk-t-01-19-22"><a href="/entities/org-pure-talk.md">Pure Talk</a></span>. Okay, we have comments. ^t-01-19-22
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-19-22.md" class="timestamp-link">01:19:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4762" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** All right, you guys want to also remind you about <span id="ent-org-pure-talk-t-01-19-22"><a href="/entities/org-pure-talk.md">PureTalk</a></span> because for just $25 a month, <a href="/entities/org-pure-talk.md">PureTalk</a> gives you unlimited talk, text, and plenty of data. Now compare that to big wireless. They'd rather charge your family hundreds every month. <a href="/entities/org-pure-talk.md">PureTalk</a> is an American wireless company who supports our veterans and invests in a U.S.-only customer service team. So when you call, you're speaking to someone right here at home. <a href="/entities/org-pure-talk.md">PureTalk</a> uses the same towers as the big carriers, so enjoy superior 5G coverage. rage without the inflated price. Just $25 a month for talk, text, and plenty of data. There's no contract, no cancellation fee. What are you waiting for? Head to <a href="/entities/org-pure-talk.md">puretalk</a>.com slash Owens and you'll get 50% off your first month. Again, that is <a href="/entities/org-pure-talk.md">puretalk</a>.com slash Owens. ^t-01-19-22
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-20-06.md" class="timestamp-link">01:20:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4806" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Charlie's Angel writes, ^t-01-20-06
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-20-01.md" class="timestamp-link">01:20:01</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4801" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Take the switch to <span id="ent-org-pure-talk-t-01-20-01"><a href="/entities/org-pure-talk.md">Pure Talk</a></span>. Okay, we have comments. Charlie's Angel writes, ^t-01-20-01
 
 ---
 **🎤 Bassem Youssef**
@@ -3780,34 +2852,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-21-10.md" class="timestamp-link">01:21:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4870" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I'm so sorry. I think it was the ^t-01-21-10
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-21-12.md" class="timestamp-link">01:21:12</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4872" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I ^t-01-21-12
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-21-12.md" class="timestamp-link">01:21:12</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4872" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** passport ^t-01-21-12
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-21-12.md" class="timestamp-link">01:21:12</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4872" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** guess ^t-01-21-12
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-21-13.md" class="timestamp-link">01:21:13</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4873" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** at ^t-01-21-13
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-21-13.md" class="timestamp-link">01:21:13</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4873" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you ^t-01-21-13
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-21-13.md" class="timestamp-link">01:21:13</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4873" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** 9-11. ^t-01-21-13
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-21-12.md" class="timestamp-link">01:21:12</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4872" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I passport guess at you 9-11. ^t-01-21-12
 
 ---
 **🎤 Bassem Youssef**
@@ -3837,27 +2884,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-22-06.md" class="timestamp-link">01:22:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4926" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Wow. Wow. I would like to see that ^t-01-22-06
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-22-06.md" class="timestamp-link">01:22:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4926" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Wow. Wow. ^t-01-22-06
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-22-08.md" class="timestamp-link">01:22:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4928" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** It's ^t-01-22-08
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-22-08.md" class="timestamp-link">01:22:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4928" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** actually ^t-01-22-08
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-22-08.md" class="timestamp-link">01:22:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4928" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** called <span id="ent-org-breaking-the-silence-t-01-22-08"><a href="/entities/org-breaking-the-silence.md">breaking the silence</a></span>. ^t-01-22-08
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-22-10.md" class="timestamp-link">01:22:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4930" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** interesting. ^t-01-22-10
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-22-08.md" class="timestamp-link">01:22:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=4928" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I would like to see that It's actually called <span id="ent-org-breaking-the-silence-t-01-22-08"><a href="/entities/org-breaking-the-silence.md">breaking the silence</a></span>. interesting. ^t-01-22-08
 
 ---
 **🎤 Bassem Youssef**
@@ -3904,7 +2936,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-23-21.md" class="timestamp-link">01:23:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5001" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** isn't like <span id="ent-org-the-new-york-times-t-01-23-21"><a href="/entities/org-the-new-york-times.md">the New York Times</a></span> who had proudly published a piece like where they were saying there is about there is more tunnels inside the underneath <span id="ent-gpe-gaza-t-01-23-21"><a href="/entities/gpe-gaza.md">Gaza</a></span> more than the length of the <span id="ent-gpe-new-york-t-01-23-21"><a href="/entities/gpe-new-york.md">New York</a></span> time in the <a href="/entities/gpe-new-york.md">New York</a> subway system which I didn't know that <span id="ent-org-hamas-t-01-23-21"><a href="/entities/org-hamas.md">Hamas</a></span> were great builders they should come and build their own infrastructure This is <a href="/entities/org-the-new-york-times.md">the New York Times</a>. This is the level of proficiency. They had like screams without voices or whatever. They had like a whole piece about the rape, that rape hoax, which was completely fabricated. There were Israelis that were mentioned in the article that said like that didn't happen. This is not what they told us. ^t-01-23-21
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-23-21.md" class="timestamp-link">01:23:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5001" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** isn't like <span id="ent-org-the-new-york-times-t-01-23-21"><a href="/entities/org-the-new-york-times.md">the New York Times</a></span> who had proudly published a piece like where they were saying there is about there is more tunnels inside the underneath <span id="ent-gpe-gaza-t-01-23-21"><a href="/entities/gpe-gaza.md">Gaza</a></span> more than the length of the <span id="ent-gpe-new-york-t-01-23-21"><a href="/entities/gpe-new-york.md">New York</a></span> time in the <a href="/entities/gpe-new-york.md">New York</a> subway system which I didn't know that <span id="ent-org-hamas-t-01-23-21"><a href="/entities/org-hamas.md">Hamas</a></span> were great builders they should come and build their own infrastructure This is <a href="/entities/org-the-new-york-times.md">the New York Times</a>. This is the level of proficiency. They had like screams without voices or whatever. They had like a whole piece about the rape, that rape hoax, which was completely fabricated. There were <span id="ent-gpe-israel-t-01-23-21"><a href="/entities/gpe-israel.md">Israelis</a></span> that were mentioned in the article that said like that didn't happen. This is not what they told us. ^t-01-23-21
 
 ---
 **🎤 Candace Owens**
@@ -3954,7 +2986,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-24-42.md" class="timestamp-link">01:24:42</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5082" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they don't even they don't even i mean all of the information that we got about the hannibal directive about israeli soldiers killing their own people about the stand down operation we got this from israeli media all of this in israeli media but not a single word about that in New Year's Times about <span id="ent-org-cnn-t-01-24-42"><a href="/entities/org-cnn.md">CNN</a></span> nothing yeah ^t-01-24-42
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-24-42.md" class="timestamp-link">01:24:42</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5082" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they don't even they don't even i mean all of the information that we got about the hannibal directive about <span id="ent-gpe-israel-t-01-24-42"><a href="/entities/gpe-israel.md">israeli</a></span> soldiers killing their own people about the stand down operation we got this from <a href="/entities/gpe-israel.md">israeli</a> media all of this in <a href="/entities/gpe-israel.md">israeli</a> media but not a single word about that in New Year's Times about <span id="ent-org-cnn-t-01-24-42"><a href="/entities/org-cnn.md">CNN</a></span> nothing yeah ^t-01-24-42
 
 ---
 **🎤 Candace Owens**
@@ -3984,42 +3016,17 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-06.md" class="timestamp-link">01:25:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5106" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you will have <span id="ent-person-jake-tapper-t-01-25-06"><a href="/entities/person-jake-tapper.md">Jake Tapper</a></span> talking every single day about the fake rape stories but he will never say anything about what's being reported in the Israeli media ^t-01-25-06
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-06.md" class="timestamp-link">01:25:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5106" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you will have <span id="ent-person-jake-tapper-t-01-25-06"><a href="/entities/person-jake-tapper.md">Jake Tapper</a></span> talking every single day about the fake rape stories but he will never say anything about what's being reported in the <span id="ent-gpe-israel-t-01-25-06"><a href="/entities/gpe-israel.md">Israeli</a></span> media ^t-01-25-06
+
+---
+**🎤 Bassem Youssef / Candace Owens (overlap)**
+
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-14.md" class="timestamp-link">01:25:14</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5114" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** It themselves yeah is true. It is absolutely true. yes Katia writes, ^t-01-25-14
 
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-14.md" class="timestamp-link">01:25:14</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5114" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It ^t-01-25-14
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-14.md" class="timestamp-link">01:25:14</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5114" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** themselves yeah ^t-01-25-14
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-15.md" class="timestamp-link">01:25:15</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5115" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** is true. ^t-01-25-15
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-15.md" class="timestamp-link">01:25:15</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5115" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-01-25-15
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-15.md" class="timestamp-link">01:25:15</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5115" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It is absolutely true. ^t-01-25-15
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-16.md" class="timestamp-link">01:25:16</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5116" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yes ^t-01-25-16
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-17.md" class="timestamp-link">01:25:17</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5117" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Katia writes, <span id="ent-person-candace-owens-t-01-25-17"><a href="/entities/person-candace-owens.md">Candace</a></span>, please tell <span id="ent-person-bassem-youssef-t-01-25-17"><a href="/entities/person-bassem-youssef.md">Bassem</a></span> that I loved him in the TV show <span id="ent-work-lioness-t-01-25-17"><a href="/entities/work-lioness.md">Lioness</a></span> as Amrohi. Amrohi, he ^t-01-25-17
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-25-18.md" class="timestamp-link">01:25:18</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5118" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-person-candace-owens-t-01-25-18"><a href="/entities/person-candace-owens.md">Candace</a></span>, please tell <span id="ent-person-bassem-youssef-t-01-25-18"><a href="/entities/person-bassem-youssef.md">Bassem</a></span> that I loved him in the TV show <span id="ent-work-lioness-t-01-25-18"><a href="/entities/work-lioness.md">Lioness</a></span> as Amrohi. Amrohi, he ^t-01-25-18
 
 ---
 **🎤 Bassem Youssef**
@@ -4059,7 +3066,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-26-09.md" class="timestamp-link">01:26:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5169" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** captain yells prepare we're about to be torpedoed and i that moment of consciousness when you realize that your friends are the ones that set you up you can't even describe you can't even think through that emotion where you're going he's like we had a little uh we had star of david's idf sorry idea star of david israeli flags inside of the ship because we were going out there to ^t-01-26-09
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-26-09.md" class="timestamp-link">01:26:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5169" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** captain yells prepare we're about to be torpedoed and i that moment of consciousness when you realize that your friends are the ones that set you up you can't even describe you can't even think through that emotion where you're going he's like we had a little uh we had star of david's idf sorry idea star of david <span id="ent-gpe-israel-t-01-26-09"><a href="/entities/gpe-israel.md">israeli</a></span> flags inside of the ship because we were going out there to ^t-01-26-09
 
 ---
 **🎤 Bassem Youssef**
@@ -4092,34 +3099,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-26-47.md" class="timestamp-link">01:26:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5207" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** so we're being attacked by by arab nations and then suddenly you see these little idf boats coming up and you're going yes okay finally support and he's like he's and then he suddenly hears prepare to be torpedoed and that idf soldier then gives him the middle finger made eye contact and to this day people are gaslighting him they didn't ^t-01-26-47
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-27-04.md" class="timestamp-link">01:27:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5224" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Oh, ^t-01-27-04
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-27-05.md" class="timestamp-link">01:27:05</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5225" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** know it ^t-01-27-05
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-27-05.md" class="timestamp-link">01:27:05</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5225" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they didn't know. ^t-01-27-05
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-27-05.md" class="timestamp-link">01:27:05</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5225" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:**  ^t-01-27-05
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-27-05.md" class="timestamp-link">01:27:05</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5225" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** And then ^t-01-27-05
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-27-06.md" class="timestamp-link">01:27:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5226" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** was a mistake ^t-01-27-06
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-27-04.md" class="timestamp-link">01:27:04</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5224" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Oh, know it they didn't know. And then was a mistake ^t-01-27-04
 
 ---
 **🎤 Bassem Youssef**
@@ -4154,7 +3136,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-27-54.md" class="timestamp-link">01:27:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5274" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** That in that book, he said that the Israelis, the <span id="ent-org-mossad-t-01-27-54"><a href="/entities/org-mossad.md">Mossad</a></span> knew quite well about the bombing, when it's going to happen, the Bloomer-Cedars-Bentz van that was going to be used in the attack, and they withheld the information from the American troops and they said like, well, let them deal with it. ^t-01-27-54
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-27-54.md" class="timestamp-link">01:27:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5274" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** That in that book, he said that the <span id="ent-gpe-israel-t-01-27-54"><a href="/entities/gpe-israel.md">Israelis</a></span>, the <span id="ent-org-mossad-t-01-27-54"><a href="/entities/org-mossad.md">Mossad</a></span> knew quite well about the bombing, when it's going to happen, the Bloomer-Cedars-Bentz van that was going to be used in the attack, and they withheld the information from the American troops and they said like, well, let them deal with it. ^t-01-27-54
 
 ---
 **🎤 Candace Owens**
@@ -4197,49 +3179,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-13.md" class="timestamp-link">01:29:13</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5353" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they shout lies into becoming truth there's no evidence ^t-01-29-13
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-17.md" class="timestamp-link">01:29:17</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5357" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** there's ^t-01-29-17
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-17.md" class="timestamp-link">01:29:17</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5357" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** they're ^t-01-29-17
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-17.md" class="timestamp-link">01:29:17</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5357" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** no evidence there's ^t-01-29-17
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-17.md" class="timestamp-link">01:29:17</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5357" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** no evidence ^t-01-29-17
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-18.md" class="timestamp-link">01:29:18</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5358" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** no evidence he was <span id="ent-org-mossad-t-01-29-18"><a href="/entities/org-mossad.md">Mossad</a></span> It's not? ^t-01-29-18
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-19.md" class="timestamp-link">01:29:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5359" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** there's no evidence ^t-01-29-19
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-19.md" class="timestamp-link">01:29:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5359" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** There's ^t-01-29-19
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-19.md" class="timestamp-link">01:29:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5359" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** there's ^t-01-29-19
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-19.md" class="timestamp-link">01:29:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5359" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** no evidence. ^t-01-29-19
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-17.md" class="timestamp-link">01:29:17</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5357" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** there's they're no evidence there's no evidence no evidence he was <span id="ent-org-mossad-t-01-29-17"><a href="/entities/org-mossad.md">Mossad</a></span> It's not? there's no evidence There's there's no evidence. ^t-01-29-17
 
 ---
 **🎤 Bassem Youssef**
@@ -4247,69 +3189,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-20.md" class="timestamp-link">01:29:20</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5360" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** nothing there's no evidence it didn't happen ^t-01-29-20
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-22.md" class="timestamp-link">01:29:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5362" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** No ^t-01-29-22
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-22.md" class="timestamp-link">01:29:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5362" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** it ^t-01-29-22
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-22.md" class="timestamp-link">01:29:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5362" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** evidence. ^t-01-29-22
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-22.md" class="timestamp-link">01:29:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5362" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** didn't ^t-01-29-22
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-23.md" class="timestamp-link">01:29:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5363" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It ^t-01-29-23
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-23.md" class="timestamp-link">01:29:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5363" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** happen ^t-01-29-23
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-23.md" class="timestamp-link">01:29:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5363" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** did not happen. ^t-01-29-23
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-23.md" class="timestamp-link">01:29:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5363" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** it did not ^t-01-29-23
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-24.md" class="timestamp-link">01:29:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5364" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Zero ^t-01-29-24
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-24.md" class="timestamp-link">01:29:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5364" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** happen that's ^t-01-29-24
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-24.md" class="timestamp-link">01:29:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5364" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** evidence. ^t-01-29-24
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-25.md" class="timestamp-link">01:29:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5365" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** a lie you're ^t-01-29-25
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-26.md" class="timestamp-link">01:29:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5366" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It's crazy. ^t-01-29-26
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-22.md" class="timestamp-link">01:29:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5362" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** No it evidence. didn't It happen did not happen. it did not Zero happen that's evidence. a lie you're It's crazy. ^t-01-29-22
 
 ---
 **🎤 Bassem Youssef**
@@ -4324,37 +3206,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-36.md" class="timestamp-link">01:29:36</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5376" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** for them evidence is just suggestions like the same way we egyptians treat traffic lights just suggestions questions ^t-01-29-36
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-36.md" class="timestamp-link">01:29:36</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5376" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** for them evidence is just suggestions like the same way we egyptians treat traffic lights ^t-01-29-36
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-45.md" class="timestamp-link">01:29:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5385" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay, ^t-01-29-45
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-45.md" class="timestamp-link">01:29:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5385" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** it's ^t-01-29-45
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-46.md" class="timestamp-link">01:29:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5386" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Nod ^t-01-29-46
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-46.md" class="timestamp-link">01:29:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5386" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** not i'm ^t-01-29-46
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-46.md" class="timestamp-link">01:29:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5386" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Bois writes, ^t-01-29-46
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-47.md" class="timestamp-link">01:29:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5387" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-01-29-47
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-44.md" class="timestamp-link">01:29:44</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5384" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** just suggestions questions Okay, it's Nod not i'm [unintelligible name] writes, ^t-01-29-44
 
 ---
 **🎤 Candace Owens**
@@ -4367,39 +3224,14 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-29-57.md" class="timestamp-link">01:29:57</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5397" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** i'm ready to accept <span id="ent-person-jesus-christ-t-01-29-57"><a href="/entities/person-jesus-christ.md">jesus christ</a></span> right now i'm i'm i'm feeling all of these crosses and all of these things i feel like i'm i'm i'm i'm ready to get <a href="/entities/person-jesus-christ.md">jesus</a> into ^t-01-29-57
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-30-06.md" class="timestamp-link">01:30:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5406" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It's ^t-01-30-06
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-30-06.md" class="timestamp-link">01:30:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5406" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** my heart ^t-01-30-06
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-30-06.md" class="timestamp-link">01:30:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5406" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** It's my heart working. yes It's working. yes Not my place writes, when are you? ^t-01-30-06
 
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-30-06.md" class="timestamp-link">01:30:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5406" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** working. ^t-01-30-06
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-30-06.md" class="timestamp-link">01:30:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5406" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yes ^t-01-30-06
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-30-06.md" class="timestamp-link">01:30:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5406" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** It's working. ^t-01-30-06
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-30-07.md" class="timestamp-link">01:30:07</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5407" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** yes ^t-01-30-07
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-30-08.md" class="timestamp-link">01:30:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5408" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Not my place writes, when are you? When are you having the very public famous and influential Palestinian <span id="ent-person-dj-khaled-t-01-30-08"><a href="/entities/person-dj-khaled.md">DJ Khaled</a></span> on so he has the platform and opportunity to speak on behalf of the people of the nation that he came from? I have a whole thing about the DJs. ^t-01-30-08
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-30-11.md" class="timestamp-link">01:30:11</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5411" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** When are you having the very public famous and influential Palestinian <span id="ent-person-dj-khaled-t-01-30-11"><a href="/entities/person-dj-khaled.md">DJ Khaled</a></span> on so he has the platform and opportunity to speak on behalf of the people of the nation that he came from? I have a whole thing about the DJs. ^t-01-30-11
 
 ---
 **🎤 Bassem Youssef**
@@ -4576,7 +3408,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-32-37.md" class="timestamp-link">01:32:37</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5557" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** but he didn't bring someone from pro-palestinian you brought like an like an israeli or like a pro-israeli <span id="ent-concept-judaism-t-01-32-37"><a href="/entities/concept-judaism.md">jewish</a></span> rabbi who was just like telling you all of these you just let him speak he didn't ^t-01-32-37
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-32-37.md" class="timestamp-link">01:32:37</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5557" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** but he didn't bring someone from pro-palestinian you brought like an like an <span id="ent-gpe-israel-t-01-32-37"><a href="/entities/gpe-israel.md">israeli</a></span> or like a pro-israeli <span id="ent-concept-judaism-t-01-32-37"><a href="/entities/concept-judaism.md">jewish</a></span> rabbi who was just like telling you all of these you just let him speak he didn't ^t-01-32-37
 
 ---
 **🎤 Candace Owens**
@@ -4604,54 +3436,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-42.md" class="timestamp-link">01:33:42</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5622" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** was fantastic I still always say he is always welcome back. I genuinely enjoyed it. I was on a roller coaster of just trying to follow. ^t-01-33-42
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-50.md" class="timestamp-link">01:33:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5630" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Do you think you can get ^t-01-33-50
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-51.md" class="timestamp-link">01:33:51</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5631" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And ^t-01-33-51
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-51.md" class="timestamp-link">01:33:51</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5631" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** him on the ^t-01-33-51
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-52.md" class="timestamp-link">01:33:52</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5632" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** then I realized, oh, I figured it out. This is supremacy. ^t-01-33-52
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-55.md" class="timestamp-link">01:33:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5635" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Wait wait wait can ^t-01-33-55
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-55.md" class="timestamp-link">01:33:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5635" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** You could probably ^t-01-33-55
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-56.md" class="timestamp-link">01:33:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5636" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Do ^t-01-33-56
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-56.md" class="timestamp-link">01:33:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5636" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** get ^t-01-33-56
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-56.md" class="timestamp-link">01:33:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5636" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you think ^t-01-33-56
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-56.md" class="timestamp-link">01:33:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5636" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** him. ^t-01-33-56
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-33-50.md" class="timestamp-link">01:33:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5630" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Do you think you can get And him on the then I realized, oh, I figured it out. This is supremacy. Wait wait wait can You could probably Do get you think him. ^t-01-33-50
 
 ---
 **🎤 Bassem Youssef**
@@ -4664,39 +3451,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-00.md" class="timestamp-link">01:34:00</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5640" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I think he would. And you know what he did afterwards? He was like, I can help you. And he told me I could have a private screening of October 7th.<span id="event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-01-34-00"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md" class="event-indicator" title="Timeline event">📅</a></span> He was going to they were going to bring the laptop to me to see what the Palestinian what <span id="ent-org-hamas-t-01-34-00"><a href="/entities/org-hamas.md">Hamas</a></span> did. And then I would understand why racism is fine as long as ^t-01-34-00
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-15.md" class="timestamp-link">01:34:15</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5655" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** it's It's ^t-01-34-15
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-15.md" class="timestamp-link">01:34:15</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5655" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** for ^t-01-34-15
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-15.md" class="timestamp-link">01:34:15</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5655" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** interesting that ^t-01-34-15
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-15.md" class="timestamp-link">01:34:15</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5655" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** perpetuated ^t-01-34-15
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-16.md" class="timestamp-link">01:34:16</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5656" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** we never ^t-01-34-16
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-16.md" class="timestamp-link">01:34:16</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5656" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** by saw <span id="ent-concept-zionism-t-01-34-16"><a href="/entities/concept-zionism.md">Zionists</a></span>. ^t-01-34-16
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-16.md" class="timestamp-link">01:34:16</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5656" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** that screening. We never saw this. ^t-01-34-16
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-15.md" class="timestamp-link">01:34:15</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5655" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** it's It's for interesting that perpetuated we never by saw <span id="ent-concept-zionism-t-01-34-15"><a href="/entities/concept-zionism.md">Zionists</a></span>. that screening. We never saw this. ^t-01-34-15
 
 ---
 **🎤 Candace Owens**
@@ -4704,44 +3461,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-18.md" class="timestamp-link">01:34:18</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5658" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I was like, why can't we show the public? ^t-01-34-18
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-21.md" class="timestamp-link">01:34:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5661" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** two and ^t-01-34-21
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-21.md" class="timestamp-link">01:34:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5661" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** You ^t-01-34-21
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-21.md" class="timestamp-link">01:34:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5661" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** a half years ^t-01-34-21
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-21.md" class="timestamp-link">01:34:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5661" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** guys ^t-01-34-21
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-21.md" class="timestamp-link">01:34:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5661" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** now ^t-01-34-21
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-21.md" class="timestamp-link">01:34:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5661" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** love ^t-01-34-21
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-22.md" class="timestamp-link">01:34:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5662" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** and ^t-01-34-22
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-22.md" class="timestamp-link">01:34:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5662" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** that. ^t-01-34-22
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-21.md" class="timestamp-link">01:34:21</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5661" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** two and You a half years guys now love and that. ^t-01-34-21
 
 ---
 **🎤 Bassem Youssef**
@@ -4749,39 +3471,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-22.md" class="timestamp-link">01:34:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5662" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** so like we haven't there's stuff that we cannot ^t-01-34-22
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-24.md" class="timestamp-link">01:34:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5664" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** We ^t-01-34-24
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-24.md" class="timestamp-link">01:34:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5664" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** just you ^t-01-34-24
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-24.md" class="timestamp-link">01:34:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5664" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** could not show you ^t-01-34-24
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-25.md" class="timestamp-link">01:34:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5665" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** really ^t-01-34-25
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-25.md" class="timestamp-link">01:34:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5665" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** why. ^t-01-34-25
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-25.md" class="timestamp-link">01:34:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5665" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you ^t-01-34-25
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-25.md" class="timestamp-link">01:34:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5665" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** You show everything. ^t-01-34-25
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-34-24.md" class="timestamp-link">01:34:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5664" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** We just you could not show you really why. you You show everything. ^t-01-34-24
 
 ---
 **🎤 Bassem Youssef**
@@ -4879,39 +3571,14 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-48.md" class="timestamp-link">01:36:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5808" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** But if you have your own pastors ^t-01-36-48
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-49.md" class="timestamp-link">01:36:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5809" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Well, ^t-01-36-49
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-49.md" class="timestamp-link">01:36:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5809" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** telling them ^t-01-36-49
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-49.md" class="timestamp-link">01:36:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5809" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Well, telling them we've also that you're been under not special. Yeah, ^t-01-36-49
 
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-49.md" class="timestamp-link">01:36:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5809" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** we've also ^t-01-36-49
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-49.md" class="timestamp-link">01:36:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5809" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** that you're ^t-01-36-49
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-49.md" class="timestamp-link">01:36:49</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5809" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** been under ^t-01-36-49
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-50.md" class="timestamp-link">01:36:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5810" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** not special. ^t-01-36-50
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-50.md" class="timestamp-link">01:36:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5810" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah, exactly. We've also been under one of the most intense psychological experiments, I think. ^t-01-36-50
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-36-50.md" class="timestamp-link">01:36:50</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5810" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** exactly. We've also been under one of the most intense psychological experiments, I think. ^t-01-36-50
 
 ---
 **🎤 Bassem Youssef**
@@ -4931,7 +3598,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-24.md" class="timestamp-link">01:37:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5844" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** it's glitching and we're happy that's the other thing they are miserable every time you see them they're angry they're ranting they're screaming they're saying that they're victims i mean they're so vitriolic they're like pulling up did you see what they did to tucker's brother they <span id="ent-person-laura-loomer-t-01-37-24"><a href="/entities/person-laura-loomer.md">laura loomer</a></span> by the way they're scraping ^t-01-37-24
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-24.md" class="timestamp-link">01:37:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5844" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** it's glitching and we're happy that's the other thing they are miserable every time you see them they're angry they're ranting they're screaming they're saying that they're victims i mean they're so vitriolic they're like pulling up did you see what they did to <span id="ent-person-tucker-carlson-t-01-37-24"><a href="/entities/person-tucker-carlson.md">tucker</a></span>'s brother they <span id="ent-person-laura-loomer-t-01-37-24"><a href="/entities/person-laura-loomer.md">laura loomer</a></span> by the way they're scraping ^t-01-37-24
 
 ---
 **🎤 Bassem Youssef**
@@ -4969,34 +3636,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-43.md" class="timestamp-link">01:37:43</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5863" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you descend that low, ^t-01-37-43
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-45.md" class="timestamp-link">01:37:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5865" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** yeah ^t-01-37-45
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-45.md" class="timestamp-link">01:37:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5865" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** <span id="ent-person-laura-loomer-t-01-37-45"><a href="/entities/person-laura-loomer.md">Laura Loomer</a></span>. humor seriously ^t-01-37-45
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-46.md" class="timestamp-link">01:37:46</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5866" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah, ^t-01-37-46
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-47.md" class="timestamp-link">01:37:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5867" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:**  ^t-01-37-47
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-47.md" class="timestamp-link">01:37:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5867" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** they're desperate. ^t-01-37-47
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-47.md" class="timestamp-link">01:37:47</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5867" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** no ^t-01-37-47
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-45.md" class="timestamp-link">01:37:45</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5865" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** yeah <span id="ent-person-laura-loomer-t-01-37-45"><a href="/entities/person-laura-loomer.md">Laura Loomer</a></span>. humor seriously Yeah, they're desperate. no ^t-01-37-45
 
 ---
 **🎤 Candace Owens**
@@ -5029,29 +3671,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-54.md" class="timestamp-link">01:37:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5874" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** if they are desperate they're they're buying everything i mean they are desperate but with a lot of money Yeah, if ^t-01-37-54
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-59.md" class="timestamp-link">01:37:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5879" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** but people ^t-01-37-59
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-59.md" class="timestamp-link">01:37:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5879" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you have larry ^t-01-37-59
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-59.md" class="timestamp-link">01:37:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5879" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** are saying ^t-01-37-59
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-38-00.md" class="timestamp-link">01:38:00</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5880" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** ellison ^t-01-38-00
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-38-00.md" class="timestamp-link">01:38:00</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5880" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** no. ^t-01-38-00
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-37-59.md" class="timestamp-link">01:37:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5879" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** but people you have larry are saying ellison no. ^t-01-37-59
 
 ---
 **🎤 Bassem Youssef**
@@ -5071,27 +3693,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-38-08.md" class="timestamp-link">01:38:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5888" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** what makes them angry is they have all the money, they're buying it, and they still have no influence. The numbers are not ticking upward towards <span id="ent-gpe-israel-t-01-38-08"><a href="/entities/gpe-israel.md">Israel</a></span>. That's what makes them angry. It's like, whoa, I'm a bajillionaire and I bought <span id="ent-org-tiktok-t-01-38-08"><a href="/entities/org-tiktok.md">TikTok</a></span>. Why aren't the TikTokers saying they love <a href="/entities/gpe-israel.md">Israel</a>? That's what drives them ^t-01-38-08
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-38-08.md" class="timestamp-link">01:38:08</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5888" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** what makes them angry is they have all the money, they're buying it, and they still have no influence. The numbers are not ticking upward towards <span id="ent-gpe-israel-t-01-38-08"><a href="/entities/gpe-israel.md">Israel</a></span>. That's what makes them angry. It's like, whoa, I'm a bajillionaire and I bought <span id="ent-org-tiktok-t-01-38-08"><a href="/entities/org-tiktok.md">TikTok</a></span>. Why aren't the TikTokers saying they love <a href="/entities/gpe-israel.md">Israel</a>? ^t-01-38-08
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-38-23.md" class="timestamp-link">01:38:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5903" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** But ^t-01-38-23
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-38-24.md" class="timestamp-link">01:38:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5904" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** mad. ^t-01-38-24
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-38-24.md" class="timestamp-link">01:38:24</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5904" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** do you think it matters? ^t-01-38-24
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-38-25.md" class="timestamp-link">01:38:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5905" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** I think it does. ^t-01-38-25
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-38-22.md" class="timestamp-link">01:38:22</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5902" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** That's what drives them But mad. do you think it matters? I think it does. ^t-01-38-22
 
 ---
 **🎤 Bassem Youssef**
@@ -5171,7 +3778,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-03.md" class="timestamp-link">01:39:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5943" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** know epstein get ^t-01-39-03
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-03.md" class="timestamp-link">01:39:03</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5943" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** know <span id="ent-person-jeffrey-epstein-t-01-39-03"><a href="/entities/person-jeffrey-epstein.md">epstein</a></span> get ^t-01-39-03
 
 ---
 **🎤 Bassem Youssef**
@@ -5224,59 +3831,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-19.md" class="timestamp-link">01:39:19</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5959" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** disenfranchised i'm disenfranchised and and i love how they abuse me talk about going back to your narcissistic abuse they literally are like eff you can't get it in the country you can't get can't get back onto a stage we're going to make sure you can never speak anywhere and then they're like why isn't she telling people to vote for that oh oh oh she got up in my podcast why aren't you telling people to vote are you out of your mind i hate all of you i think you guys are all a part of the same demonic entity your you your god is <span id="ent-concept-satan-t-01-39-19"><a href="/entities/concept-satan.md">satan</a></span> you guys are <span id="ent-concept-baal-t-01-39-19"><a href="/entities/concept-baal.md">Baal</a></span> worshipers you will continue to kill and sacrifice children um until that until you feel uh that that demon rewards you and ^t-01-39-19
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-53.md" class="timestamp-link">01:39:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5993" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Oh my ^t-01-39-53
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-54.md" class="timestamp-link">01:39:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5994" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** i stand ^t-01-39-54
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-54.md" class="timestamp-link">01:39:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5994" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** god, ^t-01-39-54
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-54.md" class="timestamp-link">01:39:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5994" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** against ^t-01-39-54
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-54.md" class="timestamp-link">01:39:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5994" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** <span id="ent-person-candace-owens-t-01-39-54"><a href="/entities/person-candace-owens.md">Candace</a></span>, ^t-01-39-54
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-54.md" class="timestamp-link">01:39:54</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5994" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** you yeah ^t-01-39-54
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-55.md" class="timestamp-link">01:39:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5995" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** you're intense. ^t-01-39-55
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-55.md" class="timestamp-link">01:39:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5995" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** this ^t-01-39-55
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-56.md" class="timestamp-link">01:39:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5996" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** You're ^t-01-39-56
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-56.md" class="timestamp-link">01:39:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5996" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** is how i feel ^t-01-39-56
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-56.md" class="timestamp-link">01:39:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5996" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** intense. ^t-01-39-56
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-39-53.md" class="timestamp-link">01:39:53</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=5993" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** Oh my i stand god, against <span id="ent-person-candace-owens-t-01-39-53"><a href="/entities/person-candace-owens.md">Candace</a></span>, you yeah you're intense. this You're is how i feel intense. ^t-01-39-53
 
 ---
 **🎤 Candace Owens**
@@ -5304,39 +3861,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-02.md" class="timestamp-link">01:40:02</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6002" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** i and that's why i want them to know is it's i know because of how committed these people are to <span id="ent-concept-satan-t-01-40-02"><a href="/entities/concept-satan.md">satan</a></span> because they literally hired <span id="ent-concept-satanism-t-01-40-02"><a href="/entities/concept-satanism.md">satanists</a></span> to run psychological operations in the military as we covered uh <span id="ent-person-michael-aquino-t-01-40-02"><a href="/entities/person-michael-aquino.md">michael aquino</a></span> and um paul about like literally <span id="ent-org-temple-of-set-t-01-40-02"><a href="/entities/org-temple-of-set.md">temple of set</a></span> was at <span id="ent-gpe-fort-huachuca-t-01-40-02"><a href="/entities/gpe-fort-huachuca.md">Fort Huachuca</a></span> like they an avowed started his own <a href="/entities/org-temple-of-set.md">temple of set</a> everything and that was the reason they hired him they're like these are the qualifications we're looking for you gotta listen my podcast very interesting ^t-01-40-02
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-25.md" class="timestamp-link">01:40:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6025" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I have listened ^t-01-40-25
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-26.md" class="timestamp-link">01:40:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6026" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** yeah ^t-01-40-26
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-26.md" class="timestamp-link">01:40:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6026" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** to your podcast. ^t-01-40-26
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-26.md" class="timestamp-link">01:40:26</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6026" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** no i like ^t-01-40-26
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-27.md" class="timestamp-link">01:40:27</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6027" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I do. ^t-01-40-27
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-27.md" class="timestamp-link">01:40:27</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6027" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** i'm ^t-01-40-27
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-27.md" class="timestamp-link">01:40:27</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6027" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I can. ^t-01-40-27
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-25.md" class="timestamp-link">01:40:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6025" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I have listened yeah to your podcast. no i like I do. i'm I can. ^t-01-40-25
 
 ---
 **🎤 Candace Owens**
@@ -5349,64 +3876,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-32.md" class="timestamp-link">01:40:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6032" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Oh, I remember that guy with his eyebrow. ^t-01-40-32
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-34.md" class="timestamp-link">01:40:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6034" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** yeah ^t-01-40-34
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-34.md" class="timestamp-link">01:40:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6034" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I remember the eyebrow. ^t-01-40-34
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-35.md" class="timestamp-link">01:40:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6035" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** yeah ^t-01-40-35
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-35.md" class="timestamp-link">01:40:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6035" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Oh, ^t-01-40-35
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-35.md" class="timestamp-link">01:40:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6035" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:**  ^t-01-40-35
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-35.md" class="timestamp-link">01:40:35</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6035" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** that's Aquino, that guy. ^t-01-40-35
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-36.md" class="timestamp-link">01:40:36</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6036" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** yeah he's ^t-01-40-36
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-37.md" class="timestamp-link">01:40:37</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6037" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** He has another ^t-01-40-37
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-37.md" class="timestamp-link">01:40:37</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6037" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** yeah ^t-01-40-37
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-38.md" class="timestamp-link">01:40:38</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6038" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** picture ^t-01-40-38
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-38.md" class="timestamp-link">01:40:38</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6038" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** he ^t-01-40-38
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-38.md" class="timestamp-link">01:40:38</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6038" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** with ^t-01-40-38
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-40-34.md" class="timestamp-link">01:40:34</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6034" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** yeah I remember the eyebrow. yeah Oh, that's Aquino, that guy. yeah he's He has another yeah picture he with ^t-01-40-34
 
 ---
 **🎤 Candace Owens**
@@ -5556,32 +4028,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-43-23.md" class="timestamp-link">01:43:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6203" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** a very, very, very interesting background. So 2001 in the summer, my return ticket from <span id="ent-gpe-miami-t-01-43-23"><a href="/entities/gpe-miami.md">Miami</a></span> was 17th of September, six days after 9-11. and then my money ran out a week before 9-11 so I just like changed my ticket and I came back<span id="event-event-2001-09-bassem-youssef-changed-his-return-flight-t-01-43-23"><a href="/events/event-2001-09-bassem-youssef-changed-his-return-flight.md" class="event-indicator" title="Timeline event">📅</a></span> and as I was just still like you know jet lagged my mom wakes me up Maybe I didn't see like the first tower going down. I was like, oh my God, I was supposed to be ^t-01-43-23
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-43-23.md" class="timestamp-link">01:43:23</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6203" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** a very, very, very interesting background. So 2001 in the summer, my return ticket from <span id="ent-gpe-miami-t-01-43-23"><a href="/entities/gpe-miami.md">Miami</a></span> was 17th of September, six days after 9-11. and then my money ran out a week before 9-11 so I just like changed my ticket and I came back<span id="event-event-2001-09-bassem-youssef-changed-his-return-flight-t-01-43-23"><a href="/events/event-2001-09-bassem-youssef-changed-his-return-flight.md" class="event-indicator" title="Timeline event">📅</a></span> and as I was just still like you know jet lagged my mom wakes me up Maybe I didn't see like the first tower going down. I was like, ^t-01-43-23
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-43-58.md" class="timestamp-link">01:43:58</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6238" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** oh ^t-01-43-58
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-43-58.md" class="timestamp-link">01:43:58</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6238" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** there. ^t-01-43-58
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-43-59.md" class="timestamp-link">01:43:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6239" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** my ^t-01-43-59
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-43-59.md" class="timestamp-link">01:43:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6239" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I ^t-01-43-59
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-43-59.md" class="timestamp-link">01:43:59</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6239" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** all ^t-01-43-59
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-43-56.md" class="timestamp-link">01:43:56</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6236" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** oh my God, I was supposed to be oh there. my I all ^t-01-43-56
 
 ---
 **🎤 Bassem Youssef**
@@ -5594,29 +4046,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-06.md" class="timestamp-link">01:44:06</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6246" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** right well thank goodness you were broke before that happened because it was crazy i mean i always remember ^t-01-44-06
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-09.md" class="timestamp-link">01:44:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6249" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I ^t-01-44-09
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-09.md" class="timestamp-link">01:44:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6249" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** being like ^t-01-44-09
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-10.md" class="timestamp-link">01:44:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6250" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** think <span id="ent-person-jesus-christ-t-01-44-10"><a href="/entities/person-jesus-christ.md">Jesus</a></span> ^t-01-44-10
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-10.md" class="timestamp-link">01:44:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6250" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** i ^t-01-44-10
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-10.md" class="timestamp-link">01:44:10</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6250" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** saved me. ^t-01-44-10
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-09.md" class="timestamp-link">01:44:09</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6249" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** I being like think <span id="ent-person-jesus-christ-t-01-44-09"><a href="/entities/person-jesus-christ.md">Jesus</a></span> i saved me. ^t-01-44-09
 
 ---
 **🎤 Candace Owens**
@@ -5641,32 +4073,12 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-25.md" class="timestamp-link">01:44:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6265" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Like they were training us up as these little soldiers, but really all they wanted to do was just like bomb things in <span id="ent-gpe-middle-east-t-01-44-25"><a href="/entities/gpe-middle-east.md">the Middle East</a></span> for <span id="ent-gpe-israel-t-01-44-25"><a href="/entities/gpe-israel.md">Israel</a></span>, obviously. and at least for <a href="/entities/gpe-israel.md">israel</a> obviously ^t-01-44-25
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-25.md" class="timestamp-link">01:44:25</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6265" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Like they were training us up as these little soldiers, but really all they wanted to do was just like bomb things in <span id="ent-gpe-middle-east-t-01-44-25"><a href="/entities/gpe-middle-east.md">the Middle East</a></span> for <span id="ent-gpe-israel-t-01-44-25"><a href="/entities/gpe-israel.md">Israel</a></span>, obviously. ^t-01-44-25
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-31.md" class="timestamp-link">01:44:31</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6271" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** we're just ^t-01-44-31
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-31.md" class="timestamp-link">01:44:31</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6271" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** um ^t-01-44-31
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-31.md" class="timestamp-link">01:44:31</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6271" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** following ^t-01-44-31
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-32.md" class="timestamp-link">01:44:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6272" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** weapons ^t-01-44-32
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-32.md" class="timestamp-link">01:44:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6272" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** like ^t-01-44-32
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-44-30.md" class="timestamp-link">01:44:30</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6270" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** and at least for <span id="ent-gpe-israel-t-01-44-30"><a href="/entities/gpe-israel.md">israel</a></span> obviously we're just um following weapons like ^t-01-44-30
 
 ---
 **🎤 Candace Owens**
@@ -5866,27 +4278,17 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-46-28.md" class="timestamp-link">01:46:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6388" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Yes, I am actually having the <span id="ent-work-belly-of-the-beast-tour-t-01-46-28"><a href="/entities/work-belly-of-the-beast-tour.md">belly of the beast tour</a></span>, which ^t-01-46-28
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-46-28.md" class="timestamp-link">01:46:28</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6388" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Yes, I am actually having the <span id="ent-work-belly-of-the-beast-tour-t-01-46-28"><a href="/entities/work-belly-of-the-beast-tour.md">belly of the beast tour</a></span>, ^t-01-46-28
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-46-32.md" class="timestamp-link">01:46:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6392" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Belly ^t-01-46-32
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-46-32.md" class="timestamp-link">01:46:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6392" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** is belly ^t-01-46-32
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-46-32.md" class="timestamp-link">01:46:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6392" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** of the beast. ^t-01-46-32
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-46-32.md" class="timestamp-link">01:46:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6392" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** which Belly is <span id="ent-work-belly-of-the-beast-tour-t-01-46-32"><a href="/entities/work-belly-of-the-beast-tour.md">belly of the beast</a></span>. of the beast, ^t-01-46-32
 
 ---
 **🎤 Bassem Youssef**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-46-32.md" class="timestamp-link">01:46:32</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6392" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** of the beast, which is basically talks about like my experience as a immigrant coming and finding here coming by finding. I'm finding myself that I'm a citizen of the empire it's a very new exciting feeling like being part of this which actually your story too you were in the <span id="ent-work-belly-of-the-beast-tour-t-01-46-32"><a href="/entities/work-belly-of-the-beast-tour.md">belly of the beast</a></span> in <span id="ent-org-the-daily-wire-t-01-46-32"><a href="/entities/org-the-daily-wire.md">the daily wire</a></span> ^t-01-46-32
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-46-33.md" class="timestamp-link">01:46:33</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6393" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** which is basically talks about like my experience as a immigrant coming and finding here coming by finding. I'm finding myself that I'm a citizen of the empire it's a very new exciting feeling like being part of this which actually your story too you were in the <span id="ent-work-belly-of-the-beast-tour-t-01-46-33"><a href="/entities/work-belly-of-the-beast-tour.md">belly of the beast</a></span> in <span id="ent-org-the-daily-wire-t-01-46-33"><a href="/entities/org-the-daily-wire.md">the daily wire</a></span> ^t-01-46-33
 
 ---
 **🎤 Candace Owens**
@@ -5949,39 +4351,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-11.md" class="timestamp-link">01:47:11</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6431" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** Twentieth I'm gonna be in <span id="ent-gpe-portland-oregon-t-01-47-11"><a href="/entities/gpe-portland-oregon.md">Portland</a></span>, twenty first ^t-01-47-11
 
 ---
-**🎤 Candace Owens**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-13.md" class="timestamp-link">01:47:13</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6433" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-gpe-portland-oregon-t-01-47-13"><a href="/entities/gpe-portland-oregon.md">Portland</a></span>. ^t-01-47-13
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-13.md" class="timestamp-link">01:47:13</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6433" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** I'm gonna be in <span id="ent-gpe-seattle-washington-t-01-47-13"><a href="/entities/gpe-seattle-washington.md">Seattle</a></span>. ^t-01-47-13
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-14.md" class="timestamp-link">01:47:14</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6434" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Okay. ^t-01-47-14
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-14.md" class="timestamp-link">01:47:14</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6434" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** So that's my first two ^t-01-47-14
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-16.md" class="timestamp-link">01:47:16</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6436" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** But ^t-01-47-16
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-16.md" class="timestamp-link">01:47:16</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6436" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** big ^t-01-47-16
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-16.md" class="timestamp-link">01:47:16</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6436" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** where can they buy tickets? ^t-01-47-16
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-13.md" class="timestamp-link">01:47:13</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6433" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** <span id="ent-gpe-portland-oregon-t-01-47-13"><a href="/entities/gpe-portland-oregon.md">Portland</a></span>. I'm gonna be in <span id="ent-gpe-seattle-washington-t-01-47-13"><a href="/entities/gpe-seattle-washington.md">Seattle</a></span>. Okay. So that's my first two But big where can they buy tickets? ^t-01-47-13
 
 ---
 **🎤 Bassem Youssef**
@@ -6024,29 +4396,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 **<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-48.md" class="timestamp-link">01:47:48</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6468" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** He's the reason that I did everything. No one's been going after him. It's a little bit ridiculous that I wanted him out of the air when it was the entire thing ^t-01-47-48
 
 ---
-**🎤 Bassem Youssef**
+**🎤 Bassem Youssef / Candace Owens (overlap)**
 
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-55.md" class="timestamp-link">01:47:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6475" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** He ^t-01-47-55
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-55.md" class="timestamp-link">01:47:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6475" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** was his ^t-01-47-55
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-55.md" class="timestamp-link">01:47:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6475" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** canceled ^t-01-47-55
-
----
-**🎤 Candace Owens**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-55.md" class="timestamp-link">01:47:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6475" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** fault. ^t-01-47-55
-
----
-**🎤 Bassem Youssef**
-
-**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-55.md" class="timestamp-link">01:47:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6475" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef:** a few shows. ^t-01-47-55
+**<a href="/timestamps/ep-xjzb_t5Tk9o/t-01-47-55.md" class="timestamp-link">01:47:55</a> <a href="https://www.youtube.com/watch?v=xjzb_t5Tk9o&t=6475" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Bassem Youssef / Candace Owens (overlap):** He was his canceled fault. a few shows. ^t-01-47-55
 
 ---
 **🎤 Candace Owens**
@@ -6065,8 +4417,9 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 # Appendix: Knowledge Graph Data
 
 <details>
-<summary><strong>Timeline Events (11)</strong></summary>
+<summary><strong>Timeline Events (14)</strong></summary>
 
+- **1940-11-25**: [The Haganah bombed the refugee ship Patria in Haifa harbor.](/events/event-1940-11-25-the-haganah-bombed-the-refugee-ship-patr.md)
 - **1946-07-22**: [The King David Hotel in Jerusalem was bombed.](/events/event-1946-07-22-the-king-david-hotel-in-jerusalem-was-bo.md)
 - **1954**: [The Lavon Affair covert bombing operation took place in Egypt.](/events/event-1954-the-lavon-affair-covert-bombing-operatio.md)
 - **1994-07-26**: [A car bomb exploded outside the Israeli embassy in London.](/events/event-1994-07-26-a-car-bomb-exploded-outside-the-israeli-.md)
@@ -6078,21 +4431,23 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 - **2019-12**: [Bassem Youssef became a United States citizen.](/events/event-2019-12-bassem-youssef-became-a-united-states-ci.md)
 - **2023-10-07**: [The October 7 Hamas-led attack on Israel occurred.](/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md)
 - **2024-11-25**: [Bassem Youssef was nominated for StopAntisemitism's 2024 Antisemite of the Year title.](/events/event-2024-11-25-bassem-youssef-was-nominated-for-stopant.md)
+- **2025-08**: [Candace Owens said Benjamin Netanyahu called Charlie Kirk during the Hamptons retreat, offered to elevate Turning Point USA, and Kirk declined.](/events/event-2025-08-candace-owens-said-benjamin-netanyahu-ca.md)
+- **2025-09-16**: [Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.](/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md)
 
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (187)</strong></summary>
+<summary><strong>Entities Mentioned (193)</strong></summary>
 
-**Concepts:** [Antisemitism](/entities/concept-antisemitism.md), [Apollo program](/entities/concept-apollo-program.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md), [BDSM](/entities/concept-bdsm.md), [Baal](/entities/concept-baal.md), [Bolsheviks](/entities/concept-bolsheviks.md), [Catholicism](/entities/concept-catholicism.md), [Christianity](/entities/concept-christianity.md), [Christians](/entities/concept-christians.md), [Diversity, equity, and inclusion](/entities/concept-diversity-equity-inclusion.md), [God](/entities/concept-god.md), [Home equity line of credit](/entities/concept-home-equity-line-of-credit.md), [Islam](/entities/concept-islam.md), [Judaism](/entities/concept-judaism.md), [LGBT](/entities/concept-lgbt.md), [Satan](/entities/concept-satan.md), [Satanism](/entities/concept-satanism.md), [Zionism](/entities/concept-zionism.md)
+**Concepts:** [Antisemitism](/entities/concept-antisemitism.md), [Apollo program](/entities/concept-apollo-program.md), [Artificial intelligence](/entities/concept-artificial-intelligence.md), [BDSM](/entities/concept-bdsm.md), [Baal](/entities/concept-baal.md), [Bolsheviks](/entities/concept-bolsheviks.md), [Catholicism](/entities/concept-catholicism.md), [Christianity](/entities/concept-christianity.md), [Christians](/entities/concept-christians.md), [Diversity, equity, and inclusion](/entities/concept-diversity-equity-inclusion.md), [God](/entities/concept-god.md), [Hasbara](/entities/concept-hasbara.md), [Home equity line of credit](/entities/concept-home-equity-line-of-credit.md), [Islam](/entities/concept-islam.md), [Judaism](/entities/concept-judaism.md), [LGBT](/entities/concept-lgbt.md), [Satan](/entities/concept-satan.md), [Satanism](/entities/concept-satanism.md), [Zionism](/entities/concept-zionism.md)
 
 **Events:** [2025 Bondi Beach shooting](/entities/event-2025-bondi-beach-shooting.md), [Cannes Film Festival](/entities/event-cannes-film-festival.md), [Lavon Affair](/entities/event-lavon-affair.md), [Manson Family murders](/entities/event-manson-family-murders.md), [Vietnam War](/entities/event-vietnam-war.md), [World War II](/entities/event-world-war-ii.md)
 
-**Places:** [Africa](/entities/gpe-africa.md), [Asia](/entities/gpe-asia.md), [Atlanta, Georgia](/entities/gpe-atlanta-georgia.md), [Australia](/entities/gpe-australia.md), [Cairo](/entities/gpe-cairo.md), [China](/entities/gpe-china.md), [Denmark](/entities/gpe-denmark.md), [Egypt](/entities/gpe-egypt.md), [Europe](/entities/gpe-europe.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Gaza](/entities/gpe-gaza.md), [Germany](/entities/gpe-germany.md), [Greenland](/entities/gpe-greenland.md), [Haifa](/entities/gpe-haifa.md), [Hollywood](/entities/gpe-hollywood.md), [Houston, Texas](/entities/gpe-houston-texas.md), [Iran](/entities/gpe-iran.md), [Iraq](/entities/gpe-iraq.md), [Israel](/entities/gpe-israel.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Latin America](/entities/gpe-latin-america.md), [Lebanon](/entities/gpe-lebanon.md), [Los Angeles](/entities/gpe-los-angeles.md), [Mauritius](/entities/gpe-mauritius.md), [Miami](/entities/gpe-miami.md), [Michigan](/entities/gpe-michigan.md), [Middle East](/entities/gpe-middle-east.md), [Minnesota](/entities/gpe-minnesota.md), [New Jersey](/entities/gpe-new-jersey.md), [New York](/entities/gpe-new-york.md), [Palestine](/entities/gpe-palestine.md), [Paris](/entities/gpe-paris-france.md), [Philadelphia, Pennsylvania](/entities/gpe-philadelphia-pennsylvania.md), [Portland, Oregon](/entities/gpe-portland-oregon.md), [Rome](/entities/gpe-rome.md), [Seattle, Washington](/entities/gpe-seattle-washington.md), [Silicon Valley](/entities/gpe-silicon-valley.md), [Switzerland](/entities/gpe-switzerland.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md), [Ukraine](/entities/gpe-ukraine.md), [United Kingdom](/entities/gpe-united-kingdom.md), [United States](/entities/gpe-united-states.md), [Washington, D.C.](/entities/gpe-washington-d-c.md), [West Bank](/entities/gpe-west-bank.md)
+**Places:** [Africa](/entities/gpe-africa.md), [Asia](/entities/gpe-asia.md), [Atlanta, Georgia](/entities/gpe-atlanta-georgia.md), [Australia](/entities/gpe-australia.md), [Cairo](/entities/gpe-cairo.md), [China](/entities/gpe-china.md), [Denmark](/entities/gpe-denmark.md), [Egypt](/entities/gpe-egypt.md), [Europe](/entities/gpe-europe.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Gaza](/entities/gpe-gaza.md), [Germany](/entities/gpe-germany.md), [Greenland](/entities/gpe-greenland.md), [Haifa](/entities/gpe-haifa.md), [Hollywood](/entities/gpe-hollywood.md), [Houston, Texas](/entities/gpe-houston-texas.md), [Iran](/entities/gpe-iran.md), [Iraq](/entities/gpe-iraq.md), [Israel](/entities/gpe-israel.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Latin America](/entities/gpe-latin-america.md), [Lebanon](/entities/gpe-lebanon.md), [Los Angeles](/entities/gpe-los-angeles.md), [Mauritius](/entities/gpe-mauritius.md), [Miami](/entities/gpe-miami.md), [Michigan](/entities/gpe-michigan.md), [Middle East](/entities/gpe-middle-east.md), [Minneapolis](/entities/gpe-minneapolis.md), [Minnesota](/entities/gpe-minnesota.md), [Morocco](/entities/gpe-morocco.md), [New Jersey](/entities/gpe-new-jersey.md), [New York](/entities/gpe-new-york.md), [Palestine](/entities/gpe-palestine.md), [Paris](/entities/gpe-paris-france.md), [Philadelphia, Pennsylvania](/entities/gpe-philadelphia-pennsylvania.md), [Portland, Oregon](/entities/gpe-portland-oregon.md), [Rome](/entities/gpe-rome.md), [Seattle, Washington](/entities/gpe-seattle-washington.md), [Silicon Valley](/entities/gpe-silicon-valley.md), [Switzerland](/entities/gpe-switzerland.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md), [Ukraine](/entities/gpe-ukraine.md), [United Kingdom](/entities/gpe-united-kingdom.md), [United States](/entities/gpe-united-states.md), [Washington, D.C.](/entities/gpe-washington-d-c.md), [West Bank](/entities/gpe-west-bank.md)
 
-**Organizations:** [ABC News](/entities/org-abc-news.md), [Al-Qaida](/entities/org-al-qaida.md), [American Financing](/entities/org-american-financing.md), [Auschwitz-Birkenau State Museum](/entities/org-auschwitz-birkenau-state-museum.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Breaking the Silence](/entities/org-breaking-the-silence.md), [CBS News](/entities/org-cbs-news.md), [CNBC](/entities/org-cnbc.md), [CNN](/entities/org-cnn.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Church of Satan](/entities/org-church-of-satan.md), [European Union](/entities/org-european-union.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Fox News](/entities/org-fox-news.md), [HBO](/entities/org-hbo.md), [Haganah](/entities/org-haganah.md), [Hamas](/entities/org-hamas.md), [International Criminal Court](/entities/org-international-criminal-court.md), [Islamic State](/entities/org-islamic-state.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Kikoff](/entities/org-kikoff.md), [Los Angeles Police Department](/entities/org-los-angeles-police-department.md), [Magisterium AI](/entities/org-magisterium-ai.md), [Mossad](/entities/org-mossad.md), [Nelk](/entities/org-nelk-boys.md), [New York City Police Department](/entities/org-new-york-city-police-department.md), [Nike](/entities/org-nike.md), [Palestinian Authority](/entities/org-palestinian-authority.md), [Paramount+](/entities/org-paramount-plus.md), [PragerU](/entities/org-prageru.md), [Pure Talk](/entities/org-pure-talk.md), [Rumble](/entities/org-rumble.md), [StopAntisemitism](/entities/org-stopantisemitism.md), [Temple of Set](/entities/org-temple-of-set.md), [The Daily Wire](/entities/org-the-daily-wire.md), [The New York Times](/entities/org-the-new-york-times.md), [The San Diego Union-Tribune](/entities/org-san-diego-union-tribune.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [U.S. Immigration and Customs Enforcement](/entities/org-us-immigration-and-customs-enforcement.md), [United States Congress](/entities/org-united-states-congress.md), [United States Department of Homeland Security](/entities/org-us-department-homeland-security.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [United States Navy](/entities/org-united-states-navy.md), [X](/entities/org-x-platform.md), [YouTube](/entities/org-youtube.md)
+**Organizations:** [ABC News](/entities/org-abc-news.md), [Al-Qaida](/entities/org-al-qaida.md), [American Financing](/entities/org-american-financing.md), [Auschwitz-Birkenau State Museum](/entities/org-auschwitz-birkenau-state-museum.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Breaking the Silence](/entities/org-breaking-the-silence.md), [CBS News](/entities/org-cbs-news.md), [CNBC](/entities/org-cnbc.md), [CNN](/entities/org-cnn.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Church of Satan](/entities/org-church-of-satan.md), [European Union](/entities/org-european-union.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Fox News](/entities/org-fox-news.md), [HBO](/entities/org-hbo.md), [Haganah](/entities/org-haganah.md), [Hamas](/entities/org-hamas.md), [International Criminal Court](/entities/org-international-criminal-court.md), [Islamic State](/entities/org-islamic-state.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Kikoff](/entities/org-kikoff.md), [Los Angeles Police Department](/entities/org-los-angeles-police-department.md), [Magisterium AI](/entities/org-magisterium-ai.md), [Mossad](/entities/org-mossad.md), [Nelk](/entities/org-nelk-boys.md), [New York City Police Department](/entities/org-new-york-city-police-department.md), [Nike](/entities/org-nike.md), [Palestinian Authority](/entities/org-palestinian-authority.md), [Paramount+](/entities/org-paramount-plus.md), [PragerU](/entities/org-prageru.md), [Pure Talk](/entities/org-pure-talk.md), [Rumble](/entities/org-rumble.md), [StopAntisemitism](/entities/org-stopantisemitism.md), [Temple of Set](/entities/org-temple-of-set.md), [The Daily Wire](/entities/org-the-daily-wire.md), [The New York Times](/entities/org-the-new-york-times.md), [The San Diego Union-Tribune](/entities/org-san-diego-union-tribune.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [U.S. Immigration and Customs Enforcement](/entities/org-us-immigration-and-customs-enforcement.md), [United States Congress](/entities/org-united-states-congress.md), [United States Department of Homeland Security](/entities/org-us-department-homeland-security.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [United States Navy](/entities/org-united-states-navy.md), [United States Senate](/entities/org-us-senate.md), [X](/entities/org-x-platform.md), [YouTube](/entities/org-youtube.md)
 
-**People:** [Alexander Karp](/entities/person-alex-karp.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Arsen Ostrovsky](/entities/person-arsen-ostrovsky.md), [Avi Shlaim](/entities/person-avi-shlaim.md), [Bari Weiss](/entities/person-bari-weiss.md), [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlamagne tha God](/entities/person-charlamagne-tha-god.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [DJ Khaled](/entities/person-dj-khaled.md), [Donald J. Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jack Parsons](/entities/person-jack-parsons.md), [Jake Lang](/entities/person-jake-lang.md), [Jake Tapper](/entities/person-jake-tapper.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jesus Christ](/entities/person-jesus-christ.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Jonathan Conricus](/entities/person-jonathan-conricus.md), [Jordan Peterson](/entities/person-jordan-peterson.md), [Josef Mengele](/entities/person-josef-mengele.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Larry Ellison](/entities/person-larry-ellison.md), [Laura Loomer](/entities/person-laura-loomer.md), [Lindsey Graham](/entities/person-lindsey-graham.md), [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md), [Marissa Streit](/entities/person-marissa-streit.md), [Matt Lieb](/entities/person-matt-lieb.md), [Mehdi Hasan](/entities/person-mehdi-hasan.md), [Michael Aquino](/entities/person-michael-aquino.md), [Michael Barclay](/entities/person-michael-barclay.md), [Mike Pompeo](/entities/person-mike-pompeo.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Miriam Adelson](/entities/person-miriam-adelson.md), [Norman Finkelstein](/entities/person-norman-finkelstein.md), [Peter Thiel](/entities/person-peter-thiel.md), [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [Piers Morgan](/entities/person-piers-morgan.md), [Rachel Accurso](/entities/person-rachel-accurso.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Theo Von](/entities/person-theo-von.md), [Tim Dillon](/entities/person-tim-dillon.md), [Tommy Robinson](/entities/person-tommy-robinson.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Viktor Ostrovsky](/entities/person-viktor-ostrovsky.md), [Ward Boston](/entities/person-ward-boston.md), [Yosef Mizrachi](/entities/person-yosef-mizrachi.md)
+**People:** [Alexander Karp](/entities/person-alex-karp.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Arsen Ostrovsky](/entities/person-arsen-ostrovsky.md), [Avi Shlaim](/entities/person-avi-shlaim.md), [Bari Weiss](/entities/person-bari-weiss.md), [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlamagne tha God](/entities/person-charlamagne-tha-god.md), [Charles Manson](/entities/person-charles-manson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [DJ Khaled](/entities/person-dj-khaled.md), [Donald J. Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jack Parsons](/entities/person-jack-parsons.md), [Jake Lang](/entities/person-jake-lang.md), [Jake Tapper](/entities/person-jake-tapper.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jesus Christ](/entities/person-jesus-christ.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Jonathan Conricus](/entities/person-jonathan-conricus.md), [Jordan Peterson](/entities/person-jordan-peterson.md), [Josef Mengele](/entities/person-josef-mengele.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Larry Ellison](/entities/person-larry-ellison.md), [Laura Loomer](/entities/person-laura-loomer.md), [Lindsey Graham](/entities/person-lindsey-graham.md), [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md), [Marissa Streit](/entities/person-marissa-streit.md), [Matt Lieb](/entities/person-matt-lieb.md), [Mehdi Hasan](/entities/person-mehdi-hasan.md), [Michael Aquino](/entities/person-michael-aquino.md), [Michael Barclay](/entities/person-michael-barclay.md), [Mike Pompeo](/entities/person-mike-pompeo.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Miriam Adelson](/entities/person-miriam-adelson.md), [Norman Finkelstein](/entities/person-norman-finkelstein.md), [Peter Thiel](/entities/person-peter-thiel.md), [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [Piers Morgan](/entities/person-piers-morgan.md), [Rachel Accurso](/entities/person-rachel-accurso.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Theo Von](/entities/person-theo-von.md), [Tim Dillon](/entities/person-tim-dillon.md), [Tommy Robinson](/entities/person-tommy-robinson.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Viktor Ostrovsky](/entities/person-viktor-ostrovsky.md), [Wally Rashid](/entities/person-wally-rashid.md), [Ward Boston](/entities/person-ward-boston.md), [Yosef Mizrachi](/entities/person-yosef-mizrachi.md)
 
 **Vehicles:** [SS Patria](/entities/vehicle-ss-patria.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
 
@@ -6101,7 +4456,7 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
 </details>
 
 <details>
-<summary><strong>Statements (61)</strong></summary>
+<summary><strong>Statements (64)</strong></summary>
 
 - [00:01:46](#t-00-01-41) [◐] (Claim) **Candace Owens**: ["The Daily Wire fired Candace Owens in March 2024 without advance warning."](/statements/statement-27686b3d8a63.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -6111,13 +4466,11 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 - [00:03:10](#t-00-03-10) [○] (Accusation) **Bassem Youssef**: ["Ben Shapiro is a confident liar who lies easily and speaks quickly so facts cann..."](/statements/statement-5b5bc40c1951.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md)
-- [00:04:46](#t-00-04-20) [○] (Accusation) **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is always wrong a..."](/statements/statement-22bf3ad02120.md)
-  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 - [00:05:37](#t-00-05-22) [✓] (Claim) **Bassem Youssef**: ["USS Liberty crew members were threatened, placed under a gag order, and unable t..."](/statements/statement-1be9d32310a7.md)
   - About: [USS Liberty](/entities/vehicle-uss-liberty.md), [United States Navy](/entities/org-united-states-navy.md)
 - [00:05:47](#t-00-05-22) [◐] (Claim) **Bassem Youssef**: ["After fighting the USS Liberty matter for 15 years, Israel paid six million doll..."](/statements/statement-501294768e98.md)
   - About: [USS Liberty](/entities/vehicle-uss-liberty.md), [Israel](/entities/gpe-israel.md)
-- [00:07:09](#t-00-06-51) [○] (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video to claim H..."](/statements/statement-316c32dcf384.md)
+- [00:07:09](#t-00-07-09) [○] (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video to claim H..."](/statements/statement-316c32dcf384.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hamas](/entities/org-hamas.md), [European Union](/entities/org-european-union.md)
 - [00:10:07](#t-00-10-07) [○] (Accusation) **Candace Owens**: ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phil Tourney ..."](/statements/statement-2bff31e56fad.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
@@ -6137,23 +4490,23 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
   - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 - [00:23:19](#t-00-22-52) [○] (Accusation) **Candace Owens**: ["Rob McCoy was not close to Charlie Kirk near the end because Kirk could not stan..."](/statements/statement-944e021ef357.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-- [00:23:55](#t-00-23-34) [○] (Claim) **Candace Owens**: ["The 1960s were a period of military social-engineering experiments conducted thr..."](/statements/statement-444c368e6213.md)
+- [00:23:55](#t-00-23-34) [○] (Claim) **Candace Owens**: ["The 60s were a period of military social-engineering experiments conducted throu..."](/statements/statement-444c368e6213.md)
   - About: [Manson Family murders](/entities/event-manson-family-murders.md), [United States](/entities/gpe-united-states.md)
-- [00:26:09](#t-00-25-41) [○] (Opinion) **Candace Owens**: ["Candace Owens and Charlie Kirk genuinely supported Israel because they believed ..."](/statements/statement-eddb81ad71ef.md)
+- [00:26:09](#t-00-26-09) [○] (Opinion) **Candace Owens**: ["Candace Owens and Charlie Kirk genuinely supported Israel because they believed ..."](/statements/statement-eddb81ad71ef.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:27:26](#t-00-27-02) [○] (Accusation) **Bassem Youssef**: ["Charlie Kirk falsely claimed that a Jewish person entering an Arab neighborhood ..."](/statements/statement-7f5ab000e3f0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Judaism](/entities/concept-judaism.md), [Israel](/entities/gpe-israel.md)
-- [00:28:02](#t-00-28-02) [○] (Opinion) **Charlie Kirk**: ["Islam is the sword the left is using to slit America's throat."](/statements/statement-ba0363b34bd7.md)
+- [00:28:02](#t-00-28-02) [✓] (Opinion) **Charlie Kirk**: ["Islam is the sword the left is using to slit America's throat."](/statements/statement-ba0363b34bd7.md)
   - About: [Islam](/entities/concept-islam.md), [United States](/entities/gpe-united-states.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:28:30](#t-00-28-30) [○] (Claim) **Candace Owens**: ["Charlie Kirk did not run his Twitter feed; Andrew Kolvet did."](/statements/statement-a0ce59f5bb16.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [X](/entities/org-x-platform.md)
-- [00:30:14](#t-00-30-14) [✓] (Claim) **Candace Owens**: ["Charlie Kirk was abandoning the pro-Israel cause 48 hours before he was assassin..."](/statements/statement-3497281e5ebb.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:29:55](#t-00-29-27) [✓] (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk was changing and had written that he had no choi..."](/statements/statement-e53e9c33f4b6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 - [00:30:14](#t-00-30-14) [?] (Claim) **Candace Owens**: ["Benjamin Netanyahu offered to take Turning Point USA to the next level, but Char..."](/statements/statement-5c2477ef3180.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:34:22](#t-00-34-19) [○] (Accusation) **Bassem Youssef**: ["Erika Kirk is playing a part."](/statements/statement-4f92a865f713.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
-- [00:34:31](#t-00-34-19) [○] (Opinion) **Kash Patel**: ["America needs to wake up and prioritize Israel."](/statements/statement-128edc963b97.md)
+- [00:34:31](#t-00-34-19) [✓] (Opinion) **Kash Patel**: ["America needs to wake up and prioritize Israel."](/statements/statement-128edc963b97.md)
   - About: [Kash Patel](/entities/person-kash-patel.md), [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
 - [00:35:11](#t-00-34-56) [◐] (Claim) **Bassem Youssef**: ["A cybersecurity official in Benjamin Netanyahu's office was caught with a minor ..."](/statements/statement-12caa8c5bc5c.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md), [Israel](/entities/gpe-israel.md)
@@ -6175,36 +4528,44 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
   - About: [U.S. Immigration and Customs Enforcement](/entities/org-us-immigration-and-customs-enforcement.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Tel Aviv-Yafo](/entities/gpe-tel-aviv-yafo.md)
 - [00:46:18](#t-00-46-04) [◐] (Accusation) **Bassem Youssef**: ["Peter Thiel, Alex Karp, and Larry Ellison use technology to kill Palestinians an..."](/statements/statement-ae788c4a1be2.md)
   - About: [Peter Thiel](/entities/person-peter-thiel.md), [Alexander Karp](/entities/person-alex-karp.md), [Larry Ellison](/entities/person-larry-ellison.md)
-- [00:54:14](#t-00-54-06) [○] (Prediction) **Bassem Youssef**: ["As pro-Israel control weakens, the system will become more brutal and a violent ..."](/statements/statement-f41942a6569d.md)
+- [00:54:14](#t-00-54-05) [○] (Prediction) **Bassem Youssef**: ["As pro-Israel control weakens, the system will become more brutal and a violent ..."](/statements/statement-f41942a6569d.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
-- [00:55:03](#t-00-54-47) [◐] (Claim) **Bassem Youssef**: ["Thirty-seven or thirty-eight U.S. states have laws barring boycotts of Israel."](/statements/statement-607cf7642194.md)
+- [00:55:03](#t-00-54-48) [◐] (Claim) **Bassem Youssef**: ["Thirty-seven or thirty-eight U.S. states have laws barring boycotts of Israel."](/statements/statement-607cf7642194.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
 - [00:55:35](#t-00-55-35) [✓] (Claim) **Bassem Youssef**: ["U.S. sanctions against an International Criminal Court judge made him unable to ..."](/statements/statement-c5d5be24691e.md)
   - About: [International Criminal Court](/entities/org-international-criminal-court.md), [United States](/entities/gpe-united-states.md)
 - [00:57:32](#t-00-57-32) [✓] (Claim) **Bassem Youssef**: ["A Palestinian friend of Bassem Youssef and two companions were shot while he was..."](/statements/statement-dc58e12a62df.md)
   - About: [Palestine](/entities/gpe-palestine.md), [United States](/entities/gpe-united-states.md)
-- [00:58:59](#t-00-58-54) [◐] (Claim) **Candace Owens**: ["Candace Owens was banned from Australia, her YouTube channel was demonetized, an..."](/statements/statement-f6a05eb917b9.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md), [YouTube](/entities/org-youtube.md)
+- [00:59:16](#t-00-59-16) [◐] (Accusation) **Candace Owens**: ["Candace Owens said Australia banned her for standing up for Palestinians and inn..."](/statements/statement-700851080c3a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md), [Palestine](/entities/gpe-palestine.md)
 - [01:04:51](#t-01-04-24) [✓] (Claim) **Jonathan Conricus**: ["There is no famine in Gaza because videos show fat Palestinians."](/statements/statement-a6b762428fc3.md)
   - About: [Jonathan Conricus](/entities/person-jonathan-conricus.md), [Gaza](/entities/gpe-gaza.md), [Palestine](/entities/gpe-palestine.md)
 - [01:06:21](#t-01-06-12) [○] (Accusation) **Candace Owens**: ["The media company where Candace Owens worked used her to appear committed to fre..."](/statements/statement-2a737a7f8122.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
 - [01:09:18](#t-01-09-18) [○] (Accusation) **Candace Owens**: ["Candace Owens is convinced the Egyptian planes connected to Charlie Kirk were Is..."](/statements/statement-cca1d6a784f0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Egypt](/entities/gpe-egypt.md)
-- [01:09:31](#t-01-09-30) [○] (Claim) **Candace Owens**: ["A dead Palestinian's exact full name appeared on the list of names connected to ..."](/statements/statement-f9e8a15fff29.md)
+- [01:09:31](#t-01-09-31) [○] (Claim) **Candace Owens**: ["A dead Palestinian's exact full name appeared on the list of names connected to ..."](/statements/statement-f9e8a15fff29.md)
   - About: [Palestine](/entities/gpe-palestine.md), [Egypt](/entities/gpe-egypt.md)
-- [01:10:50](#t-01-10-43) [◐] (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israel has on h..."](/statements/statement-7c2487d3cfc3.md)
+- [01:10:50](#t-01-10-43) [✓] (Accusation) **Candace Owens**: ["Candace Owens implied that Israel has a blackmail file on Lindsey Graham that ma..."](/statements/statement-7a4a955214b1.md)
   - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 - [01:12:35](#t-01-12-17) [○] (Accusation) **Candace Owens**: ["The CIA traffics human beings."](/statements/statement-fa17dca9df6b.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 - [01:14:20](#t-01-14-20) [○] (Accusation) **Candace Owens**: ["U.S. state actors are colluding to cover up Charlie Kirk's assassination, which ..."](/statements/statement-31fb534345ef.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+- [01:21:46](#t-01-21-46) [◐] (Citation) **Bassem Youssef**: ["Bassem Youssef said Breaking the Silence is a group of former IDF soldiers who d..."](/statements/statement-7bd7a3fccfcd.md)
+  - About: [Breaking the Silence](/entities/org-breaking-the-silence.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Gaza](/entities/gpe-gaza.md)
 - [01:22:12](#t-01-22-12) [✓] (Accusation) **Ward Boston**: ["The USS Liberty investigation was a cover-up and the attack was deliberate."](/statements/statement-477a982ea9ac.md)
   - About: [Ward Boston](/entities/person-ward-boston.md), [USS Liberty](/entities/vehicle-uss-liberty.md), [United States Navy](/entities/org-united-states-navy.md)
+- [01:23:11](#t-01-23-11) [○] (Accusation) **Bassem Youssef**: ["Bassem Youssef claimed that The New York Times editorial team is full of former ..."](/statements/statement-11b5e1a0d224.md)
+  - About: [The New York Times](/entities/org-the-new-york-times.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Mossad](/entities/org-mossad.md)
+- [01:23:21](#t-01-23-21) [◐] (Citation) **Bassem Youssef**: ["The New York Times published a claim that tunnels beneath Gaza were longer than ..."](/statements/statement-99b36b327440.md)
+  - About: [The New York Times](/entities/org-the-new-york-times.md), [Gaza](/entities/gpe-gaza.md), [New York City](/entities/gpe-new-york-city.md)
 - [01:23:49](#t-01-23-21) [◐] (Accusation) **Bassem Youssef**: ["The New York Times published a completely fabricated rape story whose named Isra..."](/statements/statement-9d5a06e8c485.md)
   - About: [The New York Times](/entities/org-the-new-york-times.md), [Israel](/entities/gpe-israel.md)
 - [01:24:42](#t-01-24-42) [◐] (Citation) **Bassem Youssef**: ["Israeli media reported the Hannibal Directive, Israeli soldiers killing Israelis..."](/statements/statement-dffdfa972b19.md)
   - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-the-new-york-times.md)
+- [01:25:06](#t-01-25-06) [◐] (Accusation) **Bassem Youssef**: ["Bassem Youssef accused Jake Tapper of discussing what Youssef called 'fake rape ..."](/statements/statement-d5a2d57278ec.md)
+  - About: [Jake Tapper](/entities/person-jake-tapper.md), [Israel](/entities/gpe-israel.md)
 - [01:26:30](#t-01-26-30) [✓] (Claim) **Phillip F. Tourney**: ["Phil Tourney recalled that USS Liberty crew initially thought Israeli boats were..."](/statements/statement-4c21e1b441cd.md)
   - About: [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
 - [01:27:54](#t-01-27-54) [◐] (Citation) **Viktor Ostrovsky**: ["Mossad knew in advance about the 1982 bombing of U.S. Marines in Lebanon, includ..."](/statements/statement-f57afac0145f.md)
@@ -6217,13 +4578,13 @@ youtube_url: "https://www.youtube.com/watch?v=xjzb_t5Tk9o"
   - About: [Michael Barclay](/entities/person-michael-barclay.md), [Antisemitism](/entities/concept-antisemitism.md), [Judaism](/entities/concept-judaism.md)
 - [01:36:50](#t-01-36-50) [○] (Opinion) **Candace Owens**: ["The United States is a psychological experiment shaped through control of media,..."](/statements/statement-ad218993eadf.md)
   - About: [United States](/entities/gpe-united-states.md), [Hollywood](/entities/gpe-hollywood.md)
-- [01:39:08](#t-01-39-08) [○] (Opinion) **Candace Owens**: ["Candace Owens withdrew her support from Donald Trump over his treatment of the E..."](/statements/statement-dec0d6bb2431.md)
-  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
-- [01:40:02](#t-01-40-02) [◐] (Accusation) **Candace Owens**: ["The U.S. military hired Michael Aquino to run psychological operations because o..."](/statements/statement-c43c2657be6a.md)
+- [01:39:08](#t-01-39-08) [○] (Opinion) **Candace Owens**: ["Asked whether she was still 'Team Trump,' Candace Owens answered no and said she..."](/statements/statement-dec0d6bb2431.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
+- [01:40:02](#t-01-40-02) [◐] (Accusation) **Candace Owens**: ["The U.S. military hired Michael Aquino to run psychological operations because h..."](/statements/statement-c43c2657be6a.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [Temple of Set](/entities/org-temple-of-set.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [01:44:18](#t-01-44-14) [○] (Accusation) **Candace Owens**: ["The post-9/11 media environment conditioned children to fear Muslims so the Unit..."](/statements/statement-2350154ebb84.md)
   - About: [Islam](/entities/concept-islam.md), [Middle East](/entities/gpe-middle-east.md), [Israel](/entities/gpe-israel.md)
-- [01:44:55](#t-01-44-43) [○] (Promise) **Candace Owens**: ["Candace Owens intends to identify who killed Charlie Kirk and determine Ben Shap..."](/statements/statement-0652e878d946.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+- [01:44:55](#t-01-44-43) [✓] (Promise) **Candace Owens**: ["Candace Owens said she will find out who killed Charlie Kirk."](/statements/statement-26964063f24a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

@@ -51,7 +51,7 @@ The official transcript records Dillon's first-person claim that Owens's poster 
 - [DOJ Religious Liberty Commission hearing transcript](https://www.justice.gov/religious-liberty-commission/media/1435436/dl?inline=)
 - [JTA/Times of Israel: Texas man charged with threats](https://www.timesofisrael.com/texas-man-charged-with-making-antisemitic-death-threats-against-jewish-right-wing-pundits/)
 
-*Verified: 2026-08-16T09:05:58.051010*
+*Verified: 2026-08-29T14:35:05.547228*
 
 ---
 

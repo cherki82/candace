@@ -24,7 +24,7 @@ date: "2025-09-22"
 ### 2. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:08:06](/episodes/ep-QdM9jLwjwLw.md#event-event-2025-09-22-erika-kirk-led-a-corporate-wide-turning--t-00-08-02) 
+**Timestamp:** [00:08:06](/episodes/ep-QdM9jLwjwLw.md#event-event-2025-09-22-erika-kirk-led-a-corporate-wide-turning--t-00-07-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(486);return false;">▶️ Play</a>
 
 > yesterday when we played the corporate-wide call hosted by Erika

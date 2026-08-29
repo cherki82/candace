@@ -22,7 +22,7 @@ Source: [Who We Are | American Cancer Society](https://www.cancer.org/about-us/w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-american-cancer-society-t-00-04-02">2026-01-19 · 00:04:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-org-american-cancer-society-t-01-13-44">2026-01-20 · 01:13:54</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-org-american-cancer-society-t-01-13-44">2026-01-20 · 01:13:53</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -56,13 +56,13 @@ Source: [Who We Are | American Cancer Society](https://www.cancer.org/about-us/w
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (3 mentions)</summary>
 
-**[01:13:29](/episodes/ep-9naMwS0kMBE.md#ent-org-american-cancer-society-t-01-13-00)**
+**[01:13:25](/episodes/ep-9naMwS0kMBE.md#ent-org-american-cancer-society-t-01-13-00)**
 > "we were speaking about the American Cancer Society,"
 
-**[01:13:48](/episodes/ep-9naMwS0kMBE.md#ent-org-american-cancer-society-t-01-13-44)**
+**[01:13:44](/episodes/ep-9naMwS0kMBE.md#ent-org-american-cancer-society-t-01-13-44)**
 > "...at that money is going to the American Cancer Society."
 
-**[01:13:54](/episodes/ep-9naMwS0kMBE.md#ent-org-american-cancer-society-t-01-13-44)**
+**[01:13:53](/episodes/ep-9naMwS0kMBE.md#ent-org-american-cancer-society-t-01-13-44)**
 > "...ll of the fundraising for the American Cancer Society is bogus. They are not looking for a cure."
 
 </details>

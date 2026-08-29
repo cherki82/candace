@@ -28,18 +28,18 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 <div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-41">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-34-10" style="--pulse-height:80%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-37-57" style="--pulse-height:80%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-28" style="--pulse-height:80%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-41" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-39" style="--pulse-height:80%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-magisterium-ai-t-00-45-42" style="--pulse-height:80%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-magisterium-ai-t-00-40-41" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-magisterium-ai-t-00-35-35" style="--pulse-height:80%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
@@ -51,8 +51,8 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 |---|---|---:|
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-34-10) | 4 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-37-57) | 4 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49) | 5 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-28) | 4 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-41) | 5 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-39) | 4 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-magisterium-ai-t-00-45-42) | 4 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-magisterium-ai-t-00-40-41) | 4 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-magisterium-ai-t-00-35-35) | 4 |
@@ -109,7 +109,7 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 **[00:40:54](/episodes/ep-xjzb_t5Tk9o.md#ent-org-magisterium-ai-t-00-40-41)**
 > "Magisterium AI"
 
-**[00:41:08](/episodes/ep-xjzb_t5Tk9o.md#ent-org-magisterium-ai-t-00-40-41)**
+**[00:41:00](/episodes/ep-xjzb_t5Tk9o.md#ent-org-magisterium-ai-t-00-40-41)**
 > "Magisterium AI actually brings the receipts, meaning every singl..."
 
 **[00:41:37](/episodes/ep-xjzb_t5Tk9o.md#ent-org-magisterium-ai-t-00-41-20)**
@@ -140,13 +140,13 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (4 mentions)</summary>
 
-**[00:19:02](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-28)**
+**[00:19:00](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-39)**
 > "That's why I use magisterium AI because it's not just about the past. It's about ..."
 
-**[00:19:18](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-19-12)**
+**[00:19:15](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-19-15)**
 > "magisterium AI actually brings the receipts, meaning every singl..."
 
-**[00:19:49](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-19-12)**
+**[00:19:49](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-19-15)**
 > "Go to magisterium.com slash Candace or download the app."
 
 **[00:20:07](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-19-55)**
@@ -157,19 +157,19 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (5 mentions)</summary>
 
-**[00:22:49](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49)**
+**[00:22:49](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-41)**
 > "tell you guys about Magisterium AI"
 
-**[00:23:05](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49)**
+**[00:23:05](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-41)**
 > "That's why I use Magisterium AI."
 
-**[00:23:18](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49)**
+**[00:23:16](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-23-16)**
 > "Magisterium AI actually brings the receipts, meaning that every ..."
 
-**[00:23:48](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-23-33)**
+**[00:23:48](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-23-16)**
 > "Go to magisterium.com slash Candace or download the app for free on..."
 
-**[00:24:04](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-23-33)**
+**[00:24:03](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-23-58)**
 > "Visit magisterium.com slash candace."
 
 </details>
@@ -213,7 +213,29 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Endorsed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:36:15](/episodes/ep-Wjul6YV6izo.md#t-00-35-35): “That's why I use Magisterium AI.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:36:15](/episodes/ep-Wjul6YV6izo.md#t-00-35-35): “That's why I use Magisterium AI.”
+
+</details>
+
+</details>
 
 </details>
 

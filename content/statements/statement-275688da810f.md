@@ -28,7 +28,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58) 
+**Timestamp:** [00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-27-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1646);return false;">Play</a>
 
 > But now her messages are out and it turns out that Taylor Swift ... called Justin Baldoni a B-I-T-C-H with a tiny violin and she knew that Blake Lively was going to file that sexual harassment complaint to get these publishing rights,

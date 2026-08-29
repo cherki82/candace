@@ -68,7 +68,7 @@ Source: [Warren Commission Report, Chapter 5 | National Archives](https://www.ar
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
 
-**[00:21:31](/episodes/ep-9naMwS0kMBE.md#ent-person-lee-harvey-oswald-t-00-21-28)**
+**[00:21:28](/episodes/ep-9naMwS0kMBE.md#ent-person-lee-harvey-oswald-t-00-21-28)**
 > "...and Kaczynski and McVeigh and Oswald and a host of other people who have a sexual devi..."
 
 **[00:22:16](/episodes/ep-9naMwS0kMBE.md#ent-person-lee-harvey-oswald-t-00-22-16)**

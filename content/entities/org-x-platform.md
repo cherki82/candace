@@ -1,6 +1,6 @@
 ---
 title: "X"
-description: "X (Organizations) - 34 mentions"
+description: "X (Organizations) - 35 mentions"
 id: "org-x-platform"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [About X — X Corp.](https://about.x.com/en)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#t-00-19-58">2026-01-06 · 00:20:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-x-platform-t-00-24-49">2026-08-17 · 00:24:49</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,10 +40,11 @@ Source: [About X — X Corp.](https://about.x.com/en)
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-x-platform-t-00-43-14" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18" style="--pulse-height:80%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#t-00-58-15" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-32-11" style="--pulse-height:40%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-31-49" style="--pulse-height:40%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-x-platform-t-00-28-30" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-x-platform-t-00-48-14" style="--pulse-height:20%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#t-00-13-40" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#t-00-37-53" style="--pulse-height:20%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#t-00-35-00" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#t-00-58-07" style="--pulse-height:20%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
@@ -65,10 +66,11 @@ Source: [About X — X Corp.](https://about.x.com/en)
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-x-platform-t-00-43-14) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18) | 4 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-58-15) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-32-11) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-31-49) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-x-platform-t-00-28-30) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-x-platform-t-00-48-14) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#t-00-13-40) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#t-00-37-53) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#t-00-35-00) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#t-00-58-07) | 1 |
@@ -88,7 +90,7 @@ Source: [About X — X Corp.](https://about.x.com/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -211,6 +213,14 @@ Source: [About X — X Corp.](https://about.x.com/en)
 </details>
 
 <details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12)**
+> "Here is how Dan Patrick announced it on X,"
+
+</details>
+
+<details>
 <summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
 
 **[00:13:57](/episodes/ep-ti5Fxrvegno.md#t-00-13-40)**
@@ -232,7 +242,7 @@ Source: [About X — X Corp.](https://about.x.com/en)
 **[00:28:30](/episodes/ep-xjzb_t5Tk9o.md#ent-org-x-platform-t-00-28-30)**
 > "Twitter feed"
 
-**[00:15:31](/episodes/ep-xjzb_t5Tk9o.md#ent-org-x-platform-t-00-15-28)**
+**[00:15:28](/episodes/ep-xjzb_t5Tk9o.md#ent-org-x-platform-t-00-15-28)**
 > "...s like one of those trolls on Twitter he happened to be on October 7th a survivor Octob..."
 
 </details>
@@ -240,10 +250,10 @@ Source: [About X — X Corp.](https://about.x.com/en)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:32:14](/episodes/ep-QdM9jLwjwLw.md#t-00-32-11)**
+**[00:32:11](/episodes/ep-QdM9jLwjwLw.md#t-00-31-49)**
 > "Like that was a priority for them to have something to issue as a statement onto X to try to explain away why a .30-06 didn't go through."
 
-**[00:32:46](/episodes/ep-QdM9jLwjwLw.md#t-00-32-11)**
+**[00:32:40](/episodes/ep-QdM9jLwjwLw.md#t-00-32-33)**
 > "to hire crisis PR people and a bunch of accounts on X to tell us that it's ungodly for us to not just sit there and be lied to?"
 
 </details>
@@ -262,14 +272,14 @@ Source: [About X — X Corp.](https://about.x.com/en)
 **[00:08:18](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18)**
 > "...f you look at the president's Twitter account,"
 
-**[00:08:22](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18)**
-> "the pope's Twitter account,"
-
 **[00:47:08](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-47-08)**
 > "...ta unfollow tucker carlson on twitter excuse me i'm sorry um why are you every sunday p..."
 
-**[01:22:13](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-01-22-04)**
+**[01:22:14](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-01-22-04)**
 > "you can find me on Twitter."
+
+**[01:22:08](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-01-22-04)**
+> "...n Coleman, you can find me on Twitter."
 
 </details>
 

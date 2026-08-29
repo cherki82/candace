@@ -4,9 +4,10 @@ description: "\"It is important not to make Islamophobic remarks during a religi
 statement_id: "statement-dfaf37811d2a"
 speaker: "Carrie Prejean Boller"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,8 +36,21 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript context presents this as Carrie Prejean Boller's quoted remark during the hearing. The official Justice Department transcript records her saying at 01:35:08 that it was important not to make Islamophobic remarks while there. This verifies the quotation and attribution, not the objective truth of the normative judgment.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Transcript: Fifth Hearing of the Religious Liberty Commission, Parts I and II](https://www.justice.gov/religious-liberty-commission/media/1435436/dl?inline=)
+
+*Verified: 2026-08-29T15:31:39.303208*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

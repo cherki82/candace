@@ -42,7 +42,7 @@ Source: [About – Jordan Peterson](https://www.jordanbpeterson.com/about/)
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-jordan-peterson-t-00-58-04" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 5 mentions" title="2025-11-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-jordan-peterson-t-00-18-00" style="--pulse-height:40%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jordan-peterson-t-00-09-30" style="--pulse-height:40%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jordan-peterson-t-00-06-07" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jordan-peterson-t-00-06-29" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jordan-peterson-t-00-35-38" style="--pulse-height:40%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-jordan-peterson-t-00-22-41" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jordan-peterson-t-00-43-58" style="--pulse-height:20%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
@@ -54,7 +54,7 @@ Source: [About – Jordan Peterson](https://www.jordanbpeterson.com/about/)
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jordan-peterson-t-00-58-04) | 5 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-jordan-peterson-t-00-18-00) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jordan-peterson-t-00-09-30) | 2 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jordan-peterson-t-00-06-07) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jordan-peterson-t-00-06-29) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-jordan-peterson-t-00-35-38) | 2 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-jordan-peterson-t-00-22-41) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jordan-peterson-t-00-43-58) | 1 |
@@ -97,7 +97,7 @@ Source: [About – Jordan Peterson](https://www.jordanbpeterson.com/about/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:06:29](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jordan-peterson-t-00-06-07)**
+**[00:06:29](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jordan-peterson-t-00-06-29)**
 > "Jordan Peterson word salad style"
 
 </details>

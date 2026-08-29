@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 113 mentions"
+description: "Instagram (Organizations) - 112 mentions"
 id: "org-instagram"
 type: "ORG"
 categories:
@@ -20,7 +20,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56">2025-09-11 · 00:05:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-instagram-t-00-42-55">2026-08-19 · 00:43:06</a></strong></div>
 <div><span>Episodes</span><strong>58</strong></div>
-<div><span>Mentions</span><strong>113</strong></div>
+<div><span>Mentions</span><strong>112</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,7 +29,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-31-47">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-31-38">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56" style="--pulse-height:12%" aria-label="To My Friend, Charlie Kirk.: 1 mentions" title="2025-09-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-instagram-t-00-01-20" style="--pulse-height:25%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 2 mentions" title="2025-09-18 · 2 mentions"><span></span></a>
@@ -54,12 +54,12 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-instagram-t-00-16-00" style="--pulse-height:38%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-instagram-t-00-12-06" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-instagram-t-00-03-46" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-31-47" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 8 mentions" title="2026-01-21 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-instagram-t-00-54-35" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-31-38" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 8 mentions" title="2026-01-21 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-instagram-t-00-54-30" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-instagram-t-00-28-30" style="--pulse-height:12%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-instagram-t-00-51-20" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-instagram-t-00-24-01" style="--pulse-height:38%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-org-instagram-t-00-28-07" style="--pulse-height:62%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 5 mentions" title="2026-02-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-org-instagram-t-00-28-07" style="--pulse-height:50%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 4 mentions" title="2026-02-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-instagram-t-00-03-34" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-instagram-t-00-07-59" style="--pulse-height:38%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-instagram-t-00-14-20" style="--pulse-height:38%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
@@ -117,12 +117,12 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-instagram-t-00-16-00) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-instagram-t-00-12-06) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-instagram-t-00-03-46) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-31-47) | 8 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-instagram-t-00-54-35) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-31-38) | 8 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-instagram-t-00-54-30) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-instagram-t-00-28-30) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-instagram-t-00-51-20) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-instagram-t-00-24-01) | 3 |
-| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-instagram-t-00-28-07) | 5 |
+| 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-instagram-t-00-28-07) | 4 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-instagram-t-00-03-34) | 2 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-instagram-t-00-07-59) | 3 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-instagram-t-00-14-20) | 3 |
@@ -159,7 +159,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+<summary><strong class="section-title">Raw mentions (112)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -457,10 +457,10 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 </details>
 
 <details>
-<summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (5 mentions)</summary>
+<summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (4 mentions)</summary>
 
-**[00:28:30](/episodes/ep-4YgrOhhy708.md#ent-org-instagram-t-00-28-07)**
-> "...Erika (Erika Kirk) purged her Instagram of a lot of pictures,"
+**[00:28:21](/episodes/ep-4YgrOhhy708.md#ent-org-instagram-t-00-28-07)**
+> "on June 19th, Erika (Erika Kirk) purged her Instagram of a lot of pictures,"
 
 **[00:28:42](/episodes/ep-4YgrOhhy708.md#ent-org-instagram-t-00-28-07)**
 > "... delete 126 posts off of your Instagram page?"
@@ -470,9 +470,6 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 
 **[00:30:19](/episodes/ep-4YgrOhhy708.md#ent-org-instagram-t-00-30-13)**
 > "...Erika (Erika Kirk) purged her Instagram."
-
-**[00:28:21](/episodes/ep-4YgrOhhy708.md#ent-org-instagram-t-00-28-07)**
-> "on June 19th, Erika (Erika Kirk) purged her Instagram of a lot of pictures,"
 
 </details>
 
@@ -509,7 +506,7 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:54:41](/episodes/ep-QdM9jLwjwLw.md#ent-org-instagram-t-00-54-35)**
+**[00:54:30](/episodes/ep-QdM9jLwjwLw.md#ent-org-instagram-t-00-54-30)**
 > "...irl as an anti-Semite over an Instagram like because she liked a year-end roundup of my p..."
 
 </details>
@@ -517,28 +514,28 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (8 mentions)</summary>
 
-**[00:32:10](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-31-47)**
+**[00:32:07](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-31-38)**
 > "unfollowed them on Instagram"
 
-**[00:32:26](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-31-47)**
+**[00:32:26](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-32-18)**
 > "I sit out onto his Instagram stories,"
 
 **[00:34:58](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-34-58)**
-> "...ege and regarding inauthentic instagram posts"
+> "Okay, yeah, you're like 18. I mean, you just got me—well, how young was he to get married? Twenty-three. Again, it kind of makes sense. You were living in their house. Why would you be speaking to the press? What have you done? You have two famous parents. Okay, let's keep going. He writes, the performative social media posts, family events, and inauthentic relationships have been a fixture of the life that I was born into. And by life, he means a life of extraordinary wealth and privilege. And regarding inauthentic Instagram posts"
 
 **[00:35:25](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-35-25)**
-> "posts welcome to instagram welcome to social media by fred have you scrolled..."
+> "welcome to Instagram. Welcome to social media, my friend. Have you scrolled through your own feed? You and your wife: I love you. I love you, baby. I love you. You're so perfect. I love you. I love you more. I love you, my sprinkle-poop-bear-baby-boop-boob. I love you with some baby. It's wonderful. I love you. And now you're posting, and you're about to tell us that you have debilitating anxiety. Yeah, welcome to social media. Everyone's posting the highlights."
 
-**[00:36:56](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-36-44)**
+**[00:36:56](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-36-40)**
 > "Okay, you're putting this on Instagram."
 
-**[00:40:09](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-39-33)**
+**[00:40:09](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-40-09)**
 > "...re you really putting this on Instagram?"
 
-**[00:54:32](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-54-31)**
+**[00:54:32](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-54-32)**
 > "...okay to just put that on your Instagram"
 
-**[00:55:00](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-54-56)**
+**[00:54:56](/episodes/ep-GY6GWceEqtQ.md#ent-org-instagram-t-00-54-56)**
 > "not on Instagram."
 
 </details>

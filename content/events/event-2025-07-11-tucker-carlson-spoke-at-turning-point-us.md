@@ -24,7 +24,7 @@ date: "2025-07-11"
 ### 2. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:01:58](/episodes/ep-gG4ZoYUjUc8.md#event-event-2025-07-11-tucker-carlson-spoke-at-turning-point-us-t-00-01-23) 
+**Timestamp:** [00:01:58](/episodes/ep-gG4ZoYUjUc8.md#event-event-2025-07-11-tucker-carlson-spoke-at-turning-point-us-t-00-01-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(118);return false;">▶️ Play</a>
 
 > He stepped out of line because he hosted Tucker Carlson at their SAS event in July.

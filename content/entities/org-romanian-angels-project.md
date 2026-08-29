@@ -358,7 +358,7 @@ Source: [An Ideal Day According to Erika Frantzve](https://www.arizonafoothillsm
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
-- [00:28:50](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25) (Claim) **Tracy Martin**: ["Erika Kirk organized the Romanian Angels project, through which partic..."](/statements/statement-738e60b71126.md)
+- [00:28:50](/episodes/ep-DYD_QHMPwqM.md#t-00-28-25) (Claim) **Tracy Martin** (via quoted speech): ["Erika Kirk organized the Romanian Angels project, through which partic..."](/statements/statement-738e60b71126.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tracy Martin](/entities/person-tracy-martin.md)
 
 </details>

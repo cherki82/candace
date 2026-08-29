@@ -27,10 +27,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:53:15](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3195);return false;">Play</a>
+**Timestamp:** [00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3191);return false;">Play</a>
 
-> I might even rank you bizarrely telling Brett Cooper, ... then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic.
+> you bizarrely telling Brett Cooper, then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic.
 
 ## Verification
 

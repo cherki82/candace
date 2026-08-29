@@ -27,7 +27,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:24:12](/episodes/ep-gG4ZoYUjUc8.md#t-00-23-39) 
+**Timestamp:** [00:24:12](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1452);return false;">Play</a>
 
 > And yet, according to this person, Turning Point USA has brought in $250 million since Charlie (Charlie Kirk)'s assassination.

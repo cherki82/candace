@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2625 mentions"
+description: "Candace Owens (People) - 2633 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-candace-owens-t-01-04-57">2026-08-21 · 01:05:31</a></strong></div>
-<div><span>Episodes</span><strong>156</strong></div>
-<div><span>Mentions</span><strong>2,625</strong></div>
-<div><span>Statements by</span><strong>4,803</strong></div>
-<div><span>Statements about</span><strong>567</strong></div>
-<div><span>Relationships</span><strong>758</strong></div>
+<div><span>Episodes</span><strong>157</strong></div>
+<div><span>Mentions</span><strong>2,633</strong></div>
+<div><span>Statements by</span><strong>4,856</strong></div>
+<div><span>Statements about</span><strong>573</strong></div>
+<div><span>Relationships</span><strong>776</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -94,12 +94,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-candace-owens-t-00-43-39" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-00-34" style="--pulse-height:13%" aria-label="Myron Gaines x Candace Owens: 8 mentions" title="2026-01-16 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-35-11" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-09-46" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 15 mentions" title="2026-01-20 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-00-41" style="--pulse-height:17%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 10 mentions" title="2026-01-21 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-00-40" style="--pulse-height:18%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 11 mentions" title="2026-01-22 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-09-42" style="--pulse-height:22%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 13 mentions" title="2026-01-20 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-00-40" style="--pulse-height:17%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 10 mentions" title="2026-01-21 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-00-38" style="--pulse-height:22%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 13 mentions" title="2026-01-22 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-candace-owens-t-00-00-40" style="--pulse-height:20%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 12 mentions" title="2026-01-27 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-38-56" style="--pulse-height:48%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 29 mentions" title="2026-01-28 · 29 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-00-13" style="--pulse-height:22%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 13 mentions" title="2026-01-29 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-38-56" style="--pulse-height:45%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 27 mentions" title="2026-01-28 · 27 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-00-13" style="--pulse-height:18%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 11 mentions" title="2026-01-29 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-candace-owens-t-00-00-45" style="--pulse-height:37%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 22 mentions" title="2026-01-30 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-candace-owens-t-00-00-45" style="--pulse-height:17%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-candace-owens-t-00-00-00" style="--pulse-height:23%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 14 mentions" title="2026-02-03 · 14 mentions"><span></span></a>
@@ -160,6 +160,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-candace-owens-t-00-01-25" style="--pulse-height:20%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 12 mentions" title="2026-06-10 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-candace-owens-t-00-01-23" style="--pulse-height:15%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 9 mentions" title="2026-06-11 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-candace-owens-t-00-08-36" style="--pulse-height:27%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 16 mentions" title="2026-06-13 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-00-45" style="--pulse-height:18%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 11 mentions" title="2026-06-15 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-candace-owens-t-00-00-35" style="--pulse-height:22%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 13 mentions" title="2026-06-16 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-candace-owens-t-00-00-45" style="--pulse-height:17%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 10 mentions" title="2026-06-17 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-candace-owens-t-00-02-01" style="--pulse-height:20%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 12 mentions" title="2026-06-18 · 12 mentions"><span></span></a>
@@ -255,12 +256,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-candace-owens-t-00-43-39) | 7 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-00-34) | 8 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-35-11) | 7 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-09-46) | 15 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-00-41) | 10 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-00-40) | 11 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-09-42) | 13 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-00-40) | 10 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-00-38) | 13 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-candace-owens-t-00-00-40) | 12 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-38-56) | 29 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-00-13) | 13 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-38-56) | 27 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-00-13) | 11 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-candace-owens-t-00-00-45) | 22 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-candace-owens-t-00-00-45) | 10 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-candace-owens-t-00-00-00) | 14 |
@@ -321,6 +322,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-candace-owens-t-00-01-25) | 12 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-candace-owens-t-00-01-23) | 9 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-candace-owens-t-00-08-36) | 16 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-00-45) | 11 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-candace-owens-t-00-00-35) | 13 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-candace-owens-t-00-00-45) | 10 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-candace-owens-t-00-02-01) | 12 |
@@ -364,7 +366,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2625)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2633)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (34 mentions)</summary>
@@ -2257,6 +2259,44 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 **[01:11:43](/episodes/ep-h76ZN-xXC6c.md#ent-person-candace-owens-t-01-11-39)**
 > "...m Shar, writes, we stand with Candace, mighty and strong, unwavering. We are, we all ar..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (11 mentions)</summary>
+
+**[00:01:23](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-00-45)**
+> "LOL. Nope. Welcome back to Candace."
+
+**[00:24:49](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-24-19)**
+> "Debt.com slash Candice. So stop juggling multiple payments and get one l..."
+
+**[00:25:09](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-25-03)**
+> "...ay at PDS. yes debt.com slash Candace. Again, that's pdsdebt.com slash Candace."
+
+**[00:26:17](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-26-17)**
+> ".... So head to twc.health slash Candace and use code Candace at checkout to save $52 plus..."
+
+**[00:26:27](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-26-17)**
+> "...gain, that's twc.health slash Candace and it's for U.S. USA residents only. I also want..."
+
+**[00:32:05](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-32-05)**
+> "...can see the latest thing that candace will fixate on for the next two weeks as all impo..."
+
+**[00:44:53](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-44-24)**
+> "...free quote at ethos.com slash Candace. Again, that is E-T-H-O-S dot com slash Candace."
+
+**[00:47:56](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-47-30)**
+> "...pect that auntie leash writes candace you dropped so many bombs last week my mind is bl..."
+
+**[00:49:16](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-48-41)**
+> "...uper cute today. We love you, Candace Christ is king."
+
+**[00:50:11](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-50-03)**
+> "Lovable Latte writes, Candace Owens for dictator 2028. It's the only way, you guys, i..."
+
+**[00:51:51](/episodes/ep-5NQyGuRYbU8.md#ent-person-candace-owens-t-00-51-51)**
+> "some merch get decked out in candace owens merch the stop anti-cannibalism cup it's working ..."
 
 </details>
 
@@ -4568,10 +4608,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 > "So welcome back to Candace."
 
 **[00:28:45](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-28-21)**
-> "... for you at pdsdebt.com slash Candace. Again, that's pdsdebt."
+> "Take back control in 30 seconds. Get your free personalized assessment and the best option for you at PDSDebt.com/Candace. Again, that's PDS"
 
 **[00:28:54](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-28-21)**
-> "Debt.com slash Candace."
+> "Debt.com/Candace."
 
 **[00:52:11](/episodes/ep-1hcjQGgvxUY.md#ent-person-candace-owens-t-00-52-11)**
 > "...PaleoValley.com, and use code CANDACE at checkout."
@@ -4940,28 +4980,19 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (13 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (11 mentions)</summary>
 
-**[00:00:23](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-00-13)**
-> "Candace Owens"
-
-**[00:00:25](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-00-13)**
+**[00:00:20](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-00-13)**
 > "Candace Owens."
 
 **[00:41:37](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-41-20)**
-> "...head to magisterium.com slash Candace or download the app for free on iOS or Android."
-
-**[00:41:42](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-41-20)**
 > "You can use my discount code Candace to upgrade to pro and you'll get 25% off your fir..."
 
 **[00:41:52](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-00-41-20)**
 > ".... Visit magisterium.com slash Candace."
 
-**[01:18:43](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-18-34)**
+**[01:18:43](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-18-33)**
 > "...ou go to getkickoff.com slash Candace today."
-
-**[01:18:58](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-18-34)**
-> "Dot-com slash Candace."
 
 **[01:19:00](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-19-00)**
 > "...n up via GetKickoff.com slash Candace to activate offer."
@@ -4969,48 +5000,48 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 **[01:20:09](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-20-09)**
 > "yay for Candace hosting him when he was on the Nelk podcast."
 
-**[01:25:18](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-25-17)**
+**[01:25:18](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-25-18)**
 > "Candace, please tell Bassem (Bassem Youssef) that I loved..."
 
 **[01:33:34](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-33-34)**
 > "...e comments if you want to see Candace do an episode about like the behind the scenes of..."
 
-**[01:39:54](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-39-54)**
+**[01:39:53](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-39-53)**
 > "Candace,"
 
 **[01:47:44](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-47-44)**
 > "is like oh candace is crazy she's average"
 
+**[01:18:54](/episodes/ep-xjzb_t5Tk9o.md#ent-person-candace-owens-t-01-18-33)**
+> "...sit getkickoff. Dot-com slash Candace."
+
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (29 mentions)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (27 mentions)</summary>
 
 **[00:38:56](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-38-56)**
 > "When Candace (Candace Owens) works for you,"
 
-**[00:39:05](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-04)**
+**[00:39:04](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-04)**
 > "I certainly think that hiring Candace (Candace Owens) is probably the biggest mistake of my professional life so far."
 
 **[00:39:13](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-04)**
 > "At the time, I had misgivings about Candace (Candace Owens), but it wasn't a completely cynical decision. I believe that."
 
 **[00:39:21](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-04)**
-> "But Candace (Candace Owens) could be a great force for good in the world."
-
-**[00:39:24](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-04)**
 > "I still believe that Candace (Candace Owens) is the most talented person I've ever met,"
 
-**[00:39:48](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-48)**
+**[00:39:47](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-47)**
 > "She was during the BLM movement in America. Some of the content that we made when we first brought Candace (Candace Owens) on was focused on that topic,"
 
-**[00:40:01](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-48)**
+**[00:40:01](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-47)**
 > "I've said before, Candace (Candace Owens) is like nuclear energy."
 
-**[00:40:11](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-48)**
+**[00:40:07](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-47)**
 > "Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill,"
 
-**[00:40:20](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-48)**
+**[00:40:20](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-39-47)**
 > "The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage."
 
 **[00:40:37](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-40-30)**
@@ -5019,58 +5050,55 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 **[00:42:08](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-42-08)**
 > "You say people tell you that they listen to Candace (Candace Owens). I had a guy tell me recently, he said."
 
-**[00:42:14](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-42-08)**
+**[00:42:13](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-42-08)**
 > "she keeps telling me about things that she hears Candace (Candace Owens) say,"
 
-**[00:42:27](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-42-08)**
+**[00:42:26](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-42-08)**
 > "I said, well, the same level of shame should accompany both statements. Like one should be ashamed to say publicly that they're watching Candace Owens now. And Candace Owens who."
 
-**[00:42:50](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-42-08)**
+**[00:42:43](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-42-08)**
 > "well, what do you make of what Candace (Candace Owens) said?"
 
 **[00:44:14](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-44-14)**
-> "Candace Owens is engaged in a,"
-
-**[00:44:19](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-44-14)**
 > "Candace (Candace Owens) is engaged in a project of self-aggrandizement."
 
 **[00:44:24](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-44-14)**
 > "I've asked Candace (Candace Owens) on two separate occasions,"
 
-**[00:44:46](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-44-14)**
+**[00:44:43](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-44-14)**
 > "Candace (Candace Owens) is actually saying something somewhat profound."
 
 **[00:49:00](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-48-57)**
 > "Jeremy Boreing to have a mental a mental break and we all just had to be subjected to it as people that are working at the Daily Wire and you would think that after taking a hiatus she would come back and realizing this failed nobody wanted to buy it nobody wanted anything to do with it because like always he casts himself in every role Jeremy Boreing's razors Jeremy Boreing's hair products Jeremy Boreing's high school project Jeremy Boreing Jeremy Boreing all the time build the stage because I want to fire Candace you would"
 
-**[00:49:39](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-49-39)**
+**[00:49:37](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-49-37)**
 > "I would say it was a mistake not to just end things amicably with Candace, especially when she gave me the option after Ben (Ben Shapiro) jumped up on a table and accused her of being a faux sophisticate because she said genocide is always wrong."
 
-**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-50-24)**
+**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-50-36)**
 > "at but i can fix it my next big plan is to do what we did to breitbart we'll create a fake scandal we'll accuse candace who's actually hard working super pregnant we'll accuse her of being anti-semitic and gloriously fire her over having said christ is king we'll do this during lent because surely that will lead to more Daily Wire signups it worked for us once at breitbart i think we could do it again the world will see it our way"
 
-**[00:59:19](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-58-52)**
+**[00:59:15](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-58-52)**
 > "Kiki writes Candace (Candace Owens), what do you mean Erika (Erika Kirk) said she was watching your show in the beginning and learning her husband was just murdered and she was waiting to tune into your next episode she did not call and ask you for every detail be for real Erika (Erika Kirk) she thinks we are dumb."
 
-**[01:02:58](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-01-02-58)**
+**[01:02:56](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-01-02-39)**
 > "I will keep dropping these and more if we can get two hour episodes with Candace (Candace Owens). But I love what we get. So appreciate it. That's it."
 
 **[01:05:39](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-01-05-39)**
 > "that's just crazy that genuinely is just so objectively crazy and they do this without even flinching they're like whoa did you see what Candace Owens said on her podcast that's pornography the sexual rituals going on in Israel the people that are standing up in Knesset talking about how they're being raped and the politicians are all in on it Israel blackmailing people using sexual blackmail the mass murder of the children that is not pornography"
 
-**[00:01:09](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-00-41)**
+**[00:01:08](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-00-37)**
 > "welcome back to Candace."
 
-**[00:34:59](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-34-26)**
+**[00:34:54](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-34-29)**
 > "...u can visit preborn.com slash Candace. Again, that's preborn.com slash Candace."
 
-**[00:36:47](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-36-30)**
+**[00:36:39](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-36-29)**
 > "...can visit masachips.com slash Candace and use promo code Candace at checkout for 25% of..."
 
-**[00:58:12](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-58-10)**
+**[00:58:12](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-00-58-01)**
 > "...e things easier into one Club Candace tier for $11.99 a month, or you can pay $120 for ..."
 
-**[01:05:08](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-01-05-02)**
+**[01:05:05](/episodes/ep-QdM9jLwjwLw.md#ent-person-candace-owens-t-01-04-34)**
 > "Team Candace. Take it to the max. I'm with you all the way. Th..."
 
 </details>
@@ -5117,89 +5145,92 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (11 mentions)</summary>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (13 mentions)</summary>
 
-**[00:01:00](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-00-40)**
+**[00:01:00](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-00-38)**
 > "Welcome back to Candace."
 
 **[00:05:42](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-05-42)**
 > "...nking that he wants to invite Candace."
 
-**[00:06:55](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-06-27)**
+**[00:06:50](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-06-26)**
 > "tons to say about Candace Owens."
 
-**[00:07:39](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-07-10)**
+**[00:07:35](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-07-03)**
 > "...ou platform anti-Semites like Candace and Tucker (Tucker Carlson)?"
 
-**[00:09:00](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-08-33)**
+**[00:08:59](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-08-29)**
 > "Candace, and the rest."
 
-**[00:19:49](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-19-12)**
+**[00:19:49](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-19-15)**
 > "Go to magisterium.com slash Candace or download the app."
 
-**[00:21:14](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-20-50)**
+**[00:21:08](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-20-50)**
 > "head to twc.health.candace and use code Candace at checkout to save $90 off ..."
 
-**[00:21:24](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-20-50)**
+**[00:21:22](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-20-50)**
 > "That's twc.health.candace. Use code Candace at checkout."
 
 **[00:36:41](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-36-41)**
 > "You can use my promo code Candace at hometitlelock.com and you'll get a free title ..."
 
-**[00:36:56](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-36-41)**
+**[00:36:50](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-36-41)**
 > "...home.titlelock.com promo code Candace or use the link in the description below."
 
-**[00:41:43](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-41-07)**
+**[00:41:39](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-41-39)**
 > "Candace Owens, Ian Carroll,"
+
+**[00:19:55](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-19-55)**
+> "You can use my discount code CANDICE to upgrade to pro and get 25% off your first year..."
+
+**[00:20:07](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-19-55)**
+> "Visit magisterium.com slash CANDICE. Also reminding you guys about The Wellness Compa..."
 
 </details>
 
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (10 mentions)</summary>
 
-**[00:00:56](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-00-41)**
+**[00:00:56](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-00-40)**
 > "So welcome back to Candace."
 
-**[00:22:41](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-22-04)**
+**[00:22:41](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-22-41)**
 > "...by or visit preborn.com slash Candace. Again, that's preborn.com slash Candace."
 
-**[00:23:48](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-23-33)**
-> "Go to magisterium.com slash Candace or download the app for free on iOS or Android."
+**[00:23:48](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-23-16)**
+> "Go to magisterium.com slash Candace or download the app for free on iOS or Android. Use my discount code Candace to upgrade to Pro, and you'll get"
 
-**[00:23:54](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-23-33)**
-> "Use my discount code Candace to upgrade to pro and you'll get 25% off."
-
-**[00:24:04](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-23-33)**
+**[00:24:03](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-23-58)**
 > "Visit magisterium.com slash candace."
 
-**[00:25:11](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-24-46)**
+**[00:25:11](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-24-42)**
 > "... you guys another coin in the Candace was right jar I said let me tell you something ab..."
 
-**[00:57:03](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-56-28)**
+**[00:57:03](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-57-03)**
 > "... beekeepersnaturals.com slash Candace or enter code Candace at checkout to get 20% off ..."
-
-**[00:57:10](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-57-10)**
-> "... beekeepersnaturals.com slash Candace or enter code Candace at checkout."
 
 **[00:58:15](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-58-15)**
 > "... the way that's being phrased candace owens kicks off her lawsuit era yeah the candace owens ..."
 
-**[01:01:40](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-01-01-12)**
+**[01:01:38](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-01-01-12)**
 > "we stand with you, Candace. I hope this helps to get you out from under the ..."
+
+**[00:04:36](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-04-18)**
+> "That's what they got mad at Candace about."
+
+**[00:04:46](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-04-46)**
+> "They got mad at Candace about. They're like, why are you telling people n..."
 
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (15 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (13 mentions)</summary>
 
-**[00:09:46](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-09-46)**
+**[00:09:42](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-09-42)**
 > "...t you guys are clear. It says Candace Knable because she now runs that feed as he was e..."
 
-**[00:27:03](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-26-49)**
+**[00:27:00](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-26-49)**
 > "...by or visit preborn.com slash Candace. Again,"
-
-**[00:27:07](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-26-49)**
-> "that's preborn.com slash Candace."
 
 **[00:30:25](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-30-25)**
 > "...t's going to be a takedown of candace owens and that's what her new focus is at Prager Univer..."
@@ -5210,28 +5241,25 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 **[01:05:04](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-04-44)**
 > "...1000 or visit tnusa.com slash Candace for your free discovery call with Tax Network USA..."
 
-**[01:05:13](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-04-44)**
-> "that's tnusa.com slash Candace."
-
 **[01:06:07](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-06-07)**
 > "...by going to fatty15.com slash Candace and using code Candace at checkout."
 
 **[01:06:16](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-06-07)**
 > "that's fatty15.com slash Candace and use promo code Candace at checkout."
 
-**[01:14:10](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-13-44)**
+**[01:14:09](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-13-44)**
 > "when you crack this, Candace, it's going to be so sweet."
 
 **[01:14:56](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-14-56)**
 > "...o ever keep the clips running candace and make sure you spell baron with one r love you"
 
-**[01:17:24](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-17-22)**
+**[01:17:22](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-17-22)**
 > "But Candace just went through all the steps she took to verif..."
 
-**[01:20:08](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-20-03)**
+**[01:20:03](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-20-03)**
 > "...n image of you as bad cop and Candace as good cop interrogating Brian Harpole."
 
-**[01:21:30](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-21-00)**
+**[01:21:26](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-21-00)**
 > "Candace is going max."
 
 **[01:22:14](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-01-22-04)**
@@ -8724,7 +8752,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused (32)</summary>
+<summary>Accused (34)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -8756,7 +8784,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Tyler Bowyer needs to be looked at and investigated further.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
@@ -8786,7 +8814,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
@@ -8806,18 +8834,19 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:31:37](/episodes/ep-AoYZel7_cGQ.md#t-00-31-37): “You are being shy because you're hiding something. You guys have just been lying about a lot.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:42:07](/episodes/ep-ChuWo-n49B8.md#t-00-41-54): “And that's really scary. It's the same paganism that is found and they try to protect it and say you can't question it now because we are giving it a new veneer and this veneer is that it's godly and we know scripture and we're not going to address the fact that at you know Turning Point USA events there are having gay orgies and that this person is cheating on this person this person is sleeping with this person an unbelievable amount of gay men that work at Turning Point USA.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:26:24](/episodes/ep-4JxgOclKzqg.md#t-00-26-06): “And why did Turning Point USA gaslight us about the significance of the footage?”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:42:09](/episodes/ep-Wjul6YV6izo.md#t-00-41-36): “Satan is a liar. We're tracking the Turning Point USA lies.”
 
 </details>
 
 - **[Blake Lively](/entities/person-blake-lively.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “behave how are we glorifying these people it made us spiritually sick looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights because that's what happened and when she was told no you can't take this over she said oh I don't I don't nobody tells me no never been told no my whole life and her and her husband conspired you”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42): “behave how are we glorifying these people it made us spiritually sick looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights because that's what happened and when she was told no you can't take this over she said oh I don't I don't nobody tells me no never been told no my whole life and her and her husband conspired you”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -8833,6 +8862,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02): “Erika (Erika Kirk) lied. Erika (Erika Kirk) and Andrew (Andrew Kolvet) colluded. on how to message to the public about this little fact that was never meant to be known to us.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:56:04](/episodes/ep-qZ8RWfyuewQ.md#t-00-55-23): “That I said you murdered your husband? What does that mean? Did you shoot your husband? No, I'm not accusing you of shooting your husband. ... What I am accusing that I have been open about on the show. Is that it reeks of dishonesty? ... You lied about that, Erica (Erika Kirk).”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:18:22](/episodes/ep-KpxIBWkNsSs.md#t-00-18-00): “Turns out she didn't graduate magna cum laude and she also didn't graduate summa cum laude. She didn't graduate with any honors and she did not graduate with a double degree.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:43:30](/episodes/ep-5NQyGuRYbU8.md#t-00-43-02): “She lied to her husband about her viewpoints.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:41:17](/episodes/ep-9CuC1yf8-PU.md#t-00-40-41): “I don't think she knows she's lying. ... She's lying.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:52:31](/episodes/ep-IqHsl7d2dos.md#t-00-52-31): “When Project Constitution gets something wrong, but something this serious and this heavy, she stays quiet about. And I believe the people I'm speaking to. I believe them. They have no reason to say this—that she was managing modeling apartments for the models—and that doesn't make sense to me why they would just make that up.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:46:23](/episodes/ep-puuMVxEu5NU.md#t-00-46-04): “she lied to my face. I can't come back from that when people try to sell her to me or say like, maybe it's like, no guys, she lied to my face.”
@@ -8840,13 +8870,16 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:34:54](/episodes/ep-amqTMimDr0A.md#t-00-34-54): “She came out dressed like an assassin and name checked me and accused me of accusing her of killing her husband, which was meant to invite hate toward me.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:03:32](/episodes/ep-HZvwbfePe7o.md#t-00-03-04): “And what really happened, I told you, was Erika (Erika Kirk) and her close family friend planted that article and then it backfired and then they tried to DARVO tactic me.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:38:47](/episodes/ep-4JxgOclKzqg.md#t-00-38-47): “I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-03-02): “confirmed for a fact that she lied. She lied to my face, actually regarding the superman neck because she blamed that on Andrew Kolvet said that he went rogue that Dr. Lee Trotter also went rogue violated HIPAA that they hopped on the phone and did this without her consent or knowledge”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:30](/episodes/ep-Wjul6YV6izo.md#t-00-54-08): “So why did Erika lie to me? Why are we lying to Candace? Why are you lying to Candace?”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:20:30](/episodes/ep-hWTdXHGQ8R4.md#t-00-20-30): “because they have not been honest in their portrayal about what their relationship was and I will leave it at that this like idea of this amazing godly relationship with that that's that is not accurate and it would not have been relevant if Erika (Erika Kirk) had kept it honest throughout this entire process but she's not she's getting caught in a lot of lies”
 
 </details>
 
 - **[JAY-Z](/entities/person-jay-z.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:22:03](/episodes/ep-CEF7gQRWYCE.md#t-00-21-38): “I have not been a Jay-Z fan for a very long time. It is very obvious. He sold this out to the feds. He's clearly working for the feds. I have always believed that the individual that came forward and was honest about what was happening with Diddy and Cass and talking about how the feds do deal with rappers, ... He was about to let loose on a bunch of people who were doing the blackballing. And I do very much believe that Jay-Z is a part of that, that,”
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:22:03](/episodes/ep-CEF7gQRWYCE.md#t-00-21-38): “I have not been a Jay-Z fan for a very long time. It is very obvious. He sold this out to the feds. He's clearly working for the feds. I have always believed that the individual that came forward and was honest about what was happening with Diddy and Cassie (Cassie Ventura), and talking about how the feds do deal with rappers,”
 
 </details>
 
@@ -8900,7 +8933,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
@@ -8913,6 +8946,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:23:18](/episodes/ep-4JxgOclKzqg.md#t-00-23-14): “Because I got to tell you something, Andrew (Andrew Kolvet). Were it me and I was amongst my peers sitting on a jury, I would not accept your narrative that he looks like he's worried about people stealing.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:52:40](/episodes/ep-OEAHy3SsIiI.md#t-00-52-03): “Andrew (Andrew Kolvet) is being told to do these things. Andrew (Andrew Kolvet) is being told to attack me and to attack my narrative.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44): “Andrew Kolvet never answered. Last time Andrew Kolvet and I spoke. Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:12](/episodes/ep-Wjul6YV6izo.md#t-00-54-08): “when I saw her and Andrew Kolvet colluding ... then I realized he's the one organizing the Paramount Tactical and also the Alex Jones ... that it was Andrew Kolvet the whole time.”
 
 </details>
 
@@ -9029,6 +9063,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Likud](/entities/org-likud.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:32:32](/episodes/ep-hWTdXHGQ8R4.md#t-00-32-32): “it's being run by the Likud party. And effectively what that is, is just a team of mass murderers.”
+
+</details>
+
+- **[Dan Patrick](/entities/person-dan-patrick.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:36:09](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57): “you're taking a ton of money from Zionists. Can you just own that, Dan (Dan Patrick)? ... You're outright purchased by Israel.”
+
+</details>
+
 </details>
 
 <details>
@@ -9049,10 +9097,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:19:15](/episodes/ep-k8ueJdPFel4.md#t-00-19-15): “I'll just ask you straight up. Is Candace Owens doing something evil by attacking Erika Kirk?”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:04:34](/episodes/ep-YeEtS7nix3o.md#t-00-04-21): “Candace Owens went to Russia to just do propaganda work on behalf of the Russian regime.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:49:37](/episodes/ep-QdM9jLwjwLw.md#t-00-49-37): “And you know what else was a mistake? If I'm Jeremy Boreing, I would say it was a mistake not to just end things amicably with Candace, especially when she gave me the option after Ben (Ben Shapiro) jumped up on a table and accused her of being a faux sophisticate because she said genocide is always wrong.”
 
 </details>
 
@@ -9139,7 +9188,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “Now somebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50): “Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him.”
@@ -9149,6 +9198,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:24:51](/episodes/ep-OgRyiOAVtWU.md#t-00-24-37): “If you have disagreement, as Charlie (Charlie Kirk) and I said repeatedly on many stages, you should be welcome to the front of the line.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:57:22](/episodes/ep-ds6umq1rHAw.md#t-00-56-54): “a 15-minute compilation video of you and Charlie (Charlie Kirk) laughing together on YouTube”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:35:58](/episodes/ep-_cNtgris8Ik.md#t-00-35-47): “said okay what like I watched that clip and that's not what was happening then they obviously move on and by the way he says oh well then later on she gets obsessed with Jews first off he's talking about a gap of 2018 when I was speaking about nationalism on stage with Charlie by the way they're leaving that part out as well I was with Charlie and journalists were in the room and nobody had a problem with it at all and then BuzzFeed pulls the clip months later And then he fast forward and says, oh,”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:56:33](/episodes/ep-xjzb_t5Tk9o.md#t-00-56-16): “when I was being protested, when I was speaking at some UK campuses, me and Charlie (Charlie Kirk), they were like very polite.”
 
 </details>
 
@@ -9186,11 +9236,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Attacked By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:35:45](/episodes/ep-X3VKJVJ7cN4.md#t-00-35-20): “Behind the scenes, she's quite nasty, actually. That's fact. She's been leading these attacks against me.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:00:01](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01): “All right, you guys, happy Tuesday. So rather unexpectedly yesterday, I was informed by a daily mail reporter who was seeking comment that Erika Kirk was about to go on the attack against me in the press. The article did drop yesterday evening and it is quite shocking.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “the Daily Mail article of Erica (Erika Kirk) referring to me as a soulless ghoul and a B.I.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-40): “But I do believe firmly from the beginning that Erika (Erika Kirk) was intimately involved in the PR messaging and the PR campaign at different times against me, sometimes against the entire world, but against me in particular.”
 
 </details>
 
@@ -9228,7 +9279,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-25-23): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:52:21](/episodes/ep-7ERqbYElOfs.md#t-00-52-21): “Make him a sandwich, which is, I love you guys that are writing me emails about it. It was a really, really fun book to read, I mean to write, and it's taken me like years actually to write it.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 01:04:37](/episodes/ep-eLgD5yUVbko.md#t-01-04-11): “going to be on friday i did not appreciate that we had an open friday and it just made more sense to make it on friday to bump it um so yeah uh that will be on friday to make up for it and thank you guys for your patience um we only have two more meetings for this book so this friday and then one more and we'll be done and then the next book we're going to read is my book so i'm super excited about that make them a sandwich so buy that ahead of time if you guys want to jump in and join the book the book club the next book we're going to read is making a sandwich which i have just been very happy about um i i might be a little biased but i think the author's great and that is uh that's a signed copy you can also buy regular copies on amazon and yeah anyway you guys uh some of your comments let's do did i just read no i just read the comments from yesterday A few before we go.”
@@ -9248,6 +9299,18 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 01:04:47](/episodes/ep-i8m_6D4QGmk.md#t-01-04-35): “And I did the Kamala Chronicles, but I've been off that like hardcore MAGA Trump chain for a while.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Born In (1)</summary>
+
+- **[New York](/entities/gpe-new-york.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:50:03](/episodes/ep-5NQyGuRYbU8.md#t-00-49-24): “Because I'm born in New York and my whole family's from New York”
 
 </details>
 
@@ -9331,7 +9394,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:24](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Turning point action seems to be problematic.”
 - [A Legal Turning Point? | Candace Ep 292 @ 00:27:10](/episodes/ep-NIEbqsLAK8g.md#t-00-27-10): “Turning Point USA's lawyer is going to dispute Andrew and the worst person that PR money could buy, Paramount Tactical”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:31:57](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-15): “A lot of the stuff, as we've said, the common theme here is what Turning Point is doing is legal, but it's also immoral.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:31:57](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-51): “A lot of the stuff, as we've said, the common theme here is what Turning Point is doing is legal, but it's also immoral.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:42:09](/episodes/ep-Wjul6YV6izo.md#t-00-41-36): “Satan is a liar. We're tracking the turning point USA lies.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:14:20](/episodes/ep-4YgrOhhy708.md#t-00-14-03): “Turning Point USA are effectively the righteous gemstones now if you don't like Erika (Erika Kirk) then it's because you don't like Jesus (Jesus Christ) if you don't like what turning points become it's because you do not like Jesus (Jesus Christ) this is our new purchased reality”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:35:47](/episodes/ep-_cNtgris8Ik.md#t-00-35-47): “That is why Turning Point USA is trash. They are trash for that. There was no confusion. It was just an attempt to smear me.”
@@ -9373,7 +9436,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized (96)</summary>
+<summary>Criticized (98)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -9384,7 +9447,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (43)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (45)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:02:29](/episodes/ep-6DhWawD4ZiM.md#t-00-02-09): “The majority of people think Turning Point is acting suspicious”
@@ -9409,6 +9472,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:14:14](/episodes/ep-1QZ4X6q1DPg.md#t-00-13-29): “So this would imply that Turning Point USA used AI tools to add a sentence that Charlie (Charlie Kirk) never said, handing the reins over, handing the reins of his company over to his wife.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:32:40](/episodes/ep-cPidFQDJLbo.md#t-00-32-19): “That is not something that we are going to let go. We need to keep the pressure on Erika Kirk and Turning Point USA.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:38:18](/episodes/ep-YeEtS7nix3o.md#t-00-38-00): “now we have to talk about Turning Point's disastrous Women's Leadership Summit. It was just, man, it's just sad to see what this once bright organization has become.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:49:07](/episodes/ep-5NQyGuRYbU8.md#t-00-48-41): “Turning Point USA because it just grew so remarkably corrupt in such a short space of time and they're just behaving like they have everything to hide.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:33:34](/episodes/ep-h76ZN-xXC6c.md#t-00-33-34): “I mean, objectively speaking, the actions of the Turning Point USA team look infinitely more suspicious to me than Tyler Robinson's. I'm just going to put that out there.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:35:08](/episodes/ep-IqHsl7d2dos.md#t-00-35-00): “I don't think you guys aren't interested in exploring any of these things. Do you guys think a turning point USA will be interested in whether or not maroon berets were there on the ground that day?”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:50:03](/episodes/ep-a2bZf4fic10.md#t-00-49-53): “...more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.”
@@ -9429,6 +9493,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:37:40](/episodes/ep-4JxgOclKzqg.md#t-00-37-40): “You just have to love Joe Rogan for having the courage to just have a boy's chat publicly which everyone's relating to and laughing to except for Turning Point USA because this has been their PR strategy, this bizarre strategy to go after the comedians for noticing,”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:17:30](/episodes/ep-9hRcfSrri70.md#t-00-16-58): “When it comes to Turning Point USA, it's just amazing. It feels like we're just being perpetually gaslit by them.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:09:19](/episodes/ep-OEAHy3SsIiI.md#t-00-09-19): “Now, maybe Turning Point USA is not striving for relatability and that's fine. Money can, in fact, be your motive. But for me, when it moved toward becoming an abomination, abomination. The thing that sent me over the edge was when I saw the tent.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 01:07:23](/episodes/ep-QdM9jLwjwLw.md#t-01-07-23): “it's very obvious something is wrong with Turning Point USA”
 
 </details>
 
@@ -9447,12 +9512,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (60)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (62)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-42): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:23:00](/episodes/ep-A39g5oqB_eM.md#t-00-23-00): “I don't know what to say. ... all of this makes my skin crawl. ... It genuinely makes my skin crawl. I'm going to go ahead and say that.”
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-07): “But I do believe firmly from the beginning that Erika (Erika Kirk) was intimately involved in the PR messaging and the PR campaign at different times against me,”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-40): “But I do believe firmly from the beginning that Erika (Erika Kirk) was intimately involved in the PR messaging and the PR campaign at different times against me,”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:07:48](/episodes/ep-mFuno0TuuQQ.md#t-00-07-40): “Erika (Erika Kirk), you lied to my face as we sat down in that hotel and we spoke for four hours.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:12:52](/episodes/ep-ti5Fxrvegno.md#t-00-12-13): “Erika (Erika Kirk) should be dragged into a police precinct.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:16:56](/episodes/ep-1hcjQGgvxUY.md#t-00-16-46): “So Erica (Erika Kirk) having done this is completely and utterly creepy.”
@@ -9488,6 +9553,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:32:40](/episodes/ep-cPidFQDJLbo.md#t-00-32-19): “That is not something that we are going to let go. We need to keep the pressure on Erika Kirk and Turning Point USA.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:46:01](/episodes/ep-YeEtS7nix3o.md#t-00-45-36): “Erika can't draw the same crowd. Women don't trust her. We are designed to have a spiritual intuition about people and our spiritual intuition about Erika Kirk says no.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:28:55](/episodes/ep-WoXd4oLwd3w.md#t-00-28-30): “And when I look at that and I plot that on the timeline, it convinces me that Erika (Erika Kirk) is a psychopath, genuinely convinces me that Eric is a psychopath”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:35:54](/episodes/ep-5NQyGuRYbU8.md#t-00-35-29): “Erika (Erika Kirk) ... Her job is to cry.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:18:15](/episodes/ep-h76ZN-xXC6c.md#t-00-17-52): “as a point which further illustrates the lack of interest, the apathy of Erika Kirk.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:43:20](/episodes/ep-G3zdOeHpvS0.md#t-00-43-09): “I don't think anybody looking at Erika Kirk ... reasonably thinks that she's a victim. ... she comes across like a player in this at best”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:27:44](/episodes/ep-VMNWMXX1vO8.md#t-00-27-22): “Erika (Erika Kirk) can't get through a speech that's pre-written without a blunder, without saying something ridiculous.”
@@ -9509,6 +9575,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:27:21](/episodes/ep-HGtMfbePDKk.md#t-00-26-41): “You are spectacularly terrible. at pr it's like it is something how bad he is at pr it is something to be noticed a sight to behold is andrew colvette and erica kirk sitting there going this is going to be good for pr”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:21](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “Just terrible, terrible. I mean, without question, the biggest loser was Erika Kirk, Andrew Kolvet. Blake Neff, the Turning Point USA organization, more broadly speaking, because we seem to be reaching a new depth of their PR disaster.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:38:47](/episodes/ep-4JxgOclKzqg.md#t-00-38-47): “I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 
 </details>
 
@@ -9539,7 +9606,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -9552,6 +9619,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:40:10](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-37): “this fan of mine, a small fan of mine, apparently really loves the midget horse and she was pestering her mother to bring back up the midget horse that Ben Shapiro rides around Nashville on.”
 - [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins and the Ben Shapiros”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:51:51](/episodes/ep-5NQyGuRYbU8.md#t-00-51-27): “ben shapiro ... he's making up rumors about me”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:46:24](/episodes/ep-sKuYLNx3iRo.md#t-00-45-51): “But then Ben Shapiro, it's a bizarre talent he has. He thinks that people disagreeing with him is a declaration of war.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:59:56](/episodes/ep-EtLHqDbxqks.md#t-00-59-50): “And then you find out about Ben Shapiro's character and how he operates behind the scenes to stop people just like Megyn Kelly has had that experience recently.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:21:55](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “Ben Shapiro is on the phone receiving updates, but he's totally not involved, guys. Totally not. Just curious about why they're having a going out of sale business.”
@@ -9564,7 +9632,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43): “I told you he's a sexual deviant. It's like, I mean, there's just so much out there.”
@@ -9576,7 +9644,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:38:51](/episodes/ep-GY6GWceEqtQ.md#t-00-38-51): “This is not a problem that is worth saying your parents are dead to you over ... You are not suffering.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:38:51](/episodes/ep-GY6GWceEqtQ.md#t-00-38-49): “This is not a problem that is worth saying your parents are dead to you over ... You are not suffering.”
 
 </details>
 
@@ -9590,14 +9658,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Blake Lively](/entities/person-blake-lively.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:38:26](/episodes/ep-puuMVxEu5NU.md#t-00-38-00): “This is the story of Turning Point USA, the story of Blake Lively. We're too big to fail. ... And all of these people are failing because we live in a new age.”
 
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -9609,6 +9677,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:28:04](/episodes/ep-4DvYXBn_5JI.md#t-00-27-29): “What kind of exploded the Fort Huachuca story was this unnecessary coordination that was discovered between Andrew Kolvet, who was supposed to have been, you know. ... moved away from PR because he was failing miserably at it.”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:26:36](/episodes/ep-1QZ4X6q1DPg.md#t-00-26-24): “What is Blake (Blake Neff)'s excuse? What is Andrew Kolvet's excuse? What is Erika Kirk's excuse for this buffoonery? Because that's what it is. It is buffoonery.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:32:36](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05): “Andrew Kolvet lying and trying to”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:57:00](/episodes/ep-9CuC1yf8-PU.md#t-00-57-00): “talk about a critical error was having Andrew Kolvet press send on the superman neck he eats good veggies tweet”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:59:09](/episodes/ep-EtLHqDbxqks.md#t-00-59-09): “Andrew Kolvet finally coming up to the surface, deceitful, the Judas. No question my dream was on point about who he is and everyone is now seeing his character.”
@@ -9626,13 +9695,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:23:18](/episodes/ep-4JxgOclKzqg.md#t-00-23-14): “Because I got to tell you something, Andrew (Andrew Kolvet). Were it me and I was amongst my peers sitting on a jury, I would not accept your narrative that he looks like he's worried about people stealing.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:01:42](/episodes/ep-OEAHy3SsIiI.md#t-00-01-23): “So happy new year to Johnny from Missouri. Happy new year, actually, to everyone except for Andrew Kolvet, the spokesperson of Turning Point USA, who has been working behind the scenes to have me smeared. Yeah, Andrew (Andrew Kolvet), you got caught.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:56](/episodes/ep-Wjul6YV6izo.md#t-00-55-29): “so many things I'm mad about that I'm now learning from the people that were wrongly fired at Turning Point USA. ... Andrew Kolvet again went rogue in that interview with Alex Clark. not true and try again another lie”
 
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
 <details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-13): “brian harpole that's a lot a lot happened there with that car crash interview am i being punished because you lied”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:07:30](/episodes/ep-4DvYXBn_5JI.md#t-00-07-03): “And Brian Harpole has all but confirmed our reporting in his court filing against me. Look at what he wrote regarding Charis Bible. ... Really? I think they just keep forgetting that I went on tour with Charlie for three years. That's uncommon.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:00:41](/episodes/ep-sKuYLNx3iRo.md#t-00-00-41): “I think Brian (Brian Harpole)'s a liar, liar, pants on fire. And feel free, Brian Harpole, to add that statement to your lawsuit against me.”
@@ -9646,7 +9716,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:28:09](/episodes/ep-k1b1NDCrNFs.md#t-00-27-59): “The former CEO of Daily Wire, you will recall he got forced out of the company, generally speaking, because he's a deranged psycho.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:43:47](/episodes/ep-sKuYLNx3iRo.md#t-00-43-14): “Jeremy Boreing constantly needing to fulfill his childhood fantasies. Now, he tried to scrape back some of that price tag by getting rid of me.”
@@ -9712,11 +9782,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Alex Clark](/entities/person-alex-clark.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:48:15](/episodes/ep-5NQyGuRYbU8.md#t-00-47-30): “if your chihuahua happens to be named alex clark ... she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans”
 
 </details>
 
@@ -9765,7 +9836,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -9777,6 +9848,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:02](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “So I hope that helps. I know it's difficult. Like I said, when you lie, you have to have a good memory.”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:24:27](/episodes/ep-1QZ4X6q1DPg.md#t-00-24-20): “I called out Blake Neff. He writes this long tweet thinking that this was the booyah, booyah boy Blake (Blake Neff) over here.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:46:55](/episodes/ep-5NQyGuRYbU8.md#t-00-46-11): “What is wrong with Blake Neff? Why is the whole concept of asking questions just so upsetting for him?”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08): “Blake Neff is a liar. He is a coward. He is a backstabber”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
@@ -9798,7 +9870,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -9818,6 +9890,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Candace x Hunter Biden: The Interview @ 00:59:42](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “There's zero interest. That's another thing that just completely for me was like done with Trump whatsoever.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:49:14](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56): “He's a Trojan horse. He has completely let people in to destroy America. ... How can anybody have a defense of Donald J. Trump in this moment?”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:56:19](/episodes/ep-WoXd4oLwd3w.md#t-00-56-05): “President Trump (Donald Trump), please resign if you have any dignity left. He has no dignity left. There's no point. ... And he's just going to do what he's told to do. He has no courage. Forget the digging that he has no, he's a coward.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:23:26](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13): “Trump (Donald Trump)'s reaction to it. He's satisfied. He wants it shut down. That's not how a man would act if it was an assassination attempt against him.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:01:16](/episodes/ep-h76ZN-xXC6c.md#t-00-01-16): “Trump (Donald J. Trump)'s nonchalant approach to investigating Butler, which is like not at all”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:19](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Don't arrive at a debate defending Trump (Donald Trump)'s administration right now, right? And the Iran war.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:52:24](/episodes/ep-a2bZf4fic10.md#t-00-52-24): “If you're going to be the president of the United States and you're going to call someone the most vile person of the year and your options are sitting before you, I mean, that would even be a great time to sell that Tyler Robinson did it.”
@@ -9871,11 +9944,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02): “Bibi (Benjamin Netanyahu) is your master. Maybe it's Miriam Adelson that lights the fire and Bibi (Benjamin Netanyahu) that makes the shadows on the wall.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:22:48](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31): “What's up with the golden pager, Bibi (Benjamin Netanyahu)? Frankly, it was crass and it was off-putting.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:35:19](/episodes/ep-HZvwbfePe7o.md#t-00-35-08): “Bibi (Benjamin Netanyahu) will be probably in the situation where I'm telling Trump (Donald Trump) who else has to die for the empire of Baal.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:32:53](/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22): “promoting and celebrating people who harm children, protecting people who harm children. We have Bibi (Benjamin Netanyahu) in DC right now and it sickens me.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:50:07](/episodes/ep-9hRcfSrri70.md#t-00-49-45): “Joshua Steves writes, are we ever going to talk about how Bibi (Benjamin Netanyahu) is probably dead? I don't think he is. I think when all that stuff was happening, he was probably hiding and being a coward and using AI.”
@@ -9912,10 +9986,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Marina Minas](/entities/person-marina-minas.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:24:58](/episodes/ep-B9TyCs-6o_0.md#t-00-24-35): “Marina, this psycho, is going to then just a few months later be behind getting Aubrey fired”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:25:07](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07): “So rich that they're like, you're a commie, Candace. Someone tweeted, I think their COL, this is Marina Minas who did that the other day. I'm going, you guys are literally responding to the free markets by saying the free markets need to be stopped and making private phone calls to advertisers.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), the COO, who's talking to Uber drivers for the tea.”
 
 </details>
 
@@ -10244,10 +10319,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13): “It's very strange. I'll show you this. Seth Dillon, resident liar, Hamptons guy. He writes the main reason Alex Jones was held liable was not that he questioned an official narrative.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:40:31](/episodes/ep-4YgrOhhy708.md#t-00-40-11): “And Seth (Seth Dillon), you just look like a liar.”
 
 </details>
 
@@ -10361,6 +10437,21 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Taylor Swift](/entities/person-taylor-swift.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:26:58](/episodes/ep-GY6GWceEqtQ.md#t-00-26-52): “it didn't seem honest to me ... now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin”
+
+</details>
+
+- **[Stacy Sheridan](/entities/person-stacy-sheridan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:14:39](/episodes/ep-QdM9jLwjwLw.md#t-00-14-02): “That is my personal opinion that there is no rung in hell that Stacy Sheridan will not descend upon for a dollar.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:28:07](/episodes/ep-Wjul6YV6izo.md#t-00-27-46): “she gets a little tap from Stacy Sheridan who should burst into flames when she walks into a church, ... That woman was targeted in that church, okay?”
+
+</details>
+
 </details>
 
 <details>
@@ -10416,7 +10507,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
@@ -10426,6 +10517,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:19:26](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-26): “really satisfying to me about being a black girl from the hood being able to like walk into a ritzy bar in Greenwich and leave with the hottest white guy there and basically like ruin the relationship of like the popular white girl this is how she used to speak and for some reason there's a lot of people that are really afraid of this nappy headed black bitch who just has a lot to say but not really a lot to offer so I'm not afraid of Candace Owens”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:52:57](/episodes/ep-WoXd4oLwd3w.md#t-00-52-46): “it also says that Owens mocked Loomer's receipts with a clown emoji and a fake long receipt clip while Loomer called it cringe”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:01:35](/episodes/ep-hWTdXHGQ8R4.md#t-00-01-27): “it is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.”
 
 </details>
 
@@ -10560,7 +10652,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-48): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:51:31](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31): “This video is Prime Candace. Every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims.”
 
 </details>
@@ -10584,13 +10676,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:25:50](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-37): “And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I'm speaking the truth rather than lies.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:32:05](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05): “the latest thing that candace will fixate on for the next two weeks as all important the key to blowing the case wide open so that she has an excuse to harass more people”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:34:32](/episodes/ep-X3VKJVJ7cN4.md#t-00-34-08): “Blake Neff referred to me as a knife wielding psychopath on the subway.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:45:48](/episodes/ep-OgRyiOAVtWU.md#t-00-45-48): “Nothing compares remotely to the fact that Candace Owens has spent a sustained 10 months making effectively every episode of her show about finding some new way to target Erika (Erika Kirk), target Turning Point, target other people who are in the Turning Point universe, target”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:13:56](/episodes/ep-1CFDtD0IgEg.md#t-00-13-22): “Blake Neff comes at us like this on X. ... Candace (Candace Owens) starts harassing another random Utah police officer, accuses him of being a dirty cop”
@@ -10749,12 +10842,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Defended (12)</summary>
+<summary>Defended (13)</summary>
 
 - **[Marc Anthony](/entities/person-marc-anthony.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:44:15](/episodes/ep-GY6GWceEqtQ.md#t-00-44-03): “Marc Anthony is actually the victim here. We are out here flaming Marc Anthony for being true to his Latino roots.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:44:15](/episodes/ep-GY6GWceEqtQ.md#t-00-43-55): “Marc Anthony is actually the victim here. We are out here flaming Marc Anthony for being true to his Latino roots.”
 
 </details>
 
@@ -10841,10 +10934,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Brett Cooper](/entities/person-brett-cooper.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30): “And when you sued me for that, for standing up for Brett Cooper, I want you to know that I communicated to my legal team that I would accept that.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Defended By (3)</summary>
+<summary>Defended By (4)</summary>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -10867,6 +10967,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:03:06](/episodes/ep-1QZ4X6q1DPg.md#t-00-03-01): “And the criticism of you for asking the questions for someone who was like a brother to you. It's like, what the F are you talking about? I listen to you and I go, right on.”
 - [Candace x Hunter Biden: The Interview @ 01:01:51](/episodes/ep-Ux1kzgQxkws.md#t-01-01-51): “coming from someone who you've attacked politically, you've, you know, had all of your criticism, which I have no problem with, and we disagree on so many things, but I listen to you and I go, right on.”
+
+</details>
+
+- **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:33:02](/episodes/ep-4YgrOhhy708.md#t-00-33-02): “No, I don't. ... I haven't ... heard one thing out of her mouth that I would say is anti-Semitic.”
 
 </details>
 
@@ -10893,7 +11000,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Mitch Snow](/entities/person-mitch-snow.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-31): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-28): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
 
 </details>
 
@@ -10935,7 +11042,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Endorsed (30)</summary>
+<summary>Endorsed (31)</summary>
 
 - **[Riverbend Ranch](/entities/org-riverbend-ranch.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -11010,7 +11117,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -11045,6 +11152,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:40:30](/episodes/ep-ZZGWo6oDscc.md#t-00-40-10): “also reminding you guys about american financing”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:37:16](/episodes/ep-Wjul6YV6izo.md#t-00-37-02): “I'll also remind you guys about American Financing ... my friends at American Financing are helping homeowners pay off that high interest debt at rates in the low fives.”
 
 </details>
 
@@ -11227,13 +11335,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Paleovalley](/entities/org-paleovalley.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:09:43](/episodes/ep-YeEtS7nix3o.md#t-01-09-14): “Paleo Valley is still with us. It is the one snack that you'll always find in my bag.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:41:27](/episodes/ep-puuMVxEu5NU.md#t-00-41-07): “All right, you guys, one snack that you will always find in my bag is Paleo Valley beef sticks”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:30:33](/episodes/ep-AoYZel7_cGQ.md#t-00-30-26): “So if you are looking for a clean, convenient protein snack that tastes as good as it sounds, check out Paleo Valley Beef Sticks.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:49:12](/episodes/ep-Wjul6YV6izo.md#t-00-49-03): “Also want to tell you guys about Paleo Valley because something that my team and I are always craving are their beef sticks. Paleo Valley makes their meat sticks with 100% grass-fed beef ... so you can feel good about what you are eating and what you're supporting.”
 
 </details>
 
@@ -11281,6 +11390,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:48:36](/episodes/ep-ds6umq1rHAw.md#t-00-48-25): “That's why I want to share something that I find incredibly valuable. It's a traditional Catholic book company called Loretto Publications”
+
+</details>
+
+- **[Magisterium AI](/entities/org-magisterium-ai.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:36:15](/episodes/ep-Wjul6YV6izo.md#t-00-35-35): “That's why I use Magisterium AI.”
 
 </details>
 
@@ -11354,7 +11470,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “Here is a video of the then CEO Jeremy Boring”
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
 
 </details>
 
@@ -11483,9 +11599,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:32:22](/episodes/ep-k1b1NDCrNFs.md#t-00-32-11): “I was first made aware of the arrest and charges laid against him in an incident after wrecking his truck at three times the legal limit while carrying a loaded firearm, shortly after it happened, back when Candace still worked for me at The Daily Wire.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire?”
 
 </details>
 
@@ -11575,11 +11692,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kanye West](/entities/person-kanye-west.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). I love Ye (Kanye West). He's like a brother to me. I am never going to turn my back on Ye (Kanye West). I'm here for the Ye (Kanye West) of all seasons. He and I agree on many things, disagree on many things at all times. If he wants to apologize to people that he specifically has hurt, he is welcome to do that.”
 
 </details>
 
@@ -11702,7 +11820,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Norman Finkelstein](/entities/person-norman-finkelstein.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I was very excited to sit down and have a conversation... with Norman Finkelstein.”
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:42](/episodes/ep-Qt0VHV-POCg.md#t-00-39-34): “we will be releasing on Friday with Norman Finkelstein...I was able to sit down with him again—this time on my totally owned show.”
@@ -11710,6 +11828,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): “a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:38:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-21): “numbers change and i was grateful to sit down with norm finkelstein and i asked him about that question you know because he's like my parents uh one of his parents was in auschwitz and the other parent was i'm blanking on which of the other camps they were in and he said he acknowledges it he's like yeah of course he said my parents told me some people were taking the tattoos off and some people were putting them on you”
 - [Candace Owens x Ana Kasparian @ 01:17:15](/episodes/ep-SKNJPul29zU.md#t-01-17-15): “I love that you're willing to have people like, you know, Norm Finkelstein on.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:51](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “We had Norm Finkelstein on this show.”
 
 </details>
 
@@ -11782,9 +11901,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “George (George Farmer) had never even met Milo at all not once in London until the day that I interviewed him here in this house”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:47:30](/episodes/ep-hWTdXHGQ8R4.md#t-00-47-30): “maybe you can get an interview with Milo (Milo Yiannopoulos) to talk about the Epstein files he could give insight because he had that drama a few years back he talks about underage gay parties with adults check his Rogan interview Milo (Milo Yiannopoulos) called this behavior out years ago i had on the show recently i don't believe we spoke about the Epstein files but you can find that episode”
 
 </details>
 
@@ -12036,7 +12156,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Justin Streiff](/entities/person-justin-streiff.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-34): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-44): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:15:30](/episodes/ep-7FS1tUeSfdE.md#t-00-14-57): “He was, as you will recall, also the person that Erika (Erika Kirk) brought with her for our four-hour sit-down meeting.”
 
@@ -12045,24 +12165,24 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Nelson Peltz](/entities/person-nelson-peltz.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:30](/episodes/ep-GY6GWceEqtQ.md#t-00-52-04): “I met I met Nelson Peltz. I like Nelson Peltz. I do.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:30](/episodes/ep-GY6GWceEqtQ.md#t-00-51-48): “I met I met Nelson Peltz. I like Nelson Peltz. I do.”
 
 </details>
 
 - **[David Beckham](/entities/person-david-beckham.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:27](/episodes/ep-GY6GWceEqtQ.md#t-00-52-04): “i've actually met both of their dads ... David Beckham strange circumstances also ended up somewhere”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:27](/episodes/ep-GY6GWceEqtQ.md#t-00-51-48): “i've actually met both of their dads ... David Beckham strange circumstances also ended up somewhere”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-34): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-34): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:07:17](/episodes/ep-QdM9jLwjwLw.md#t-00-07-17): “But Erika (Erika Kirk) during our face-to-face meeting had no recollection of his wife stepping off of the plane. When I asked, I said, was he with his wife?”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-44): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:07:17](/episodes/ep-QdM9jLwjwLw.md#t-00-06-59): “But Erika (Erika Kirk) during our face-to-face meeting had no recollection of his wife stepping off of the plane. When I asked, I said, was he with his wife?”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:31:58](/episodes/ep-ti5Fxrvegno.md#t-00-31-37): “Erika (Erika Kirk) was in New York City. I met her at a steakhouse shortly thereafter.”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:45:28](/episodes/ep-nPhCKwJ6ye8.md#t-02-45-14): “Then again, context matters. I sit down with with Erika for four hours under the assumption that she had some evidence right like I'm like I actually this is why I did not engage in any like Erika everyone's questioning what she's wearing and all this stuff I was like I'm gonna wait here because I don't know just it feels weird to think that”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:04:34](/episodes/ep-DdPjoy5W-wY.md#t-00-04-27): “I also spoke to her and met with her”
@@ -12076,6 +12196,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Candace Owens x Ana Kasparian @ 00:51:07](/episodes/ep-SKNJPul29zU.md#t-00-51-01): “I sat down with Erika (Erika Kirk) and she explained to me they were sort of moving toward this May date”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:39:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-39-47): “My source was Andrew Kolvet. It was, I told Erika that when we met face to face.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:11:08](/episodes/ep-OgRyiOAVtWU.md#t-00-10-50): “And initially when I sat down with Erika (Erika Kirk), I did not know who Danny Philip was. How could I have known?”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:52:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58): “And I told you when I sat down with Erika (Erika Kirk), they didn't have anything. They weren't hiding anything.”
 
 </details>
 
@@ -12265,7 +12386,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Supporter Of (3)</summary>
+<summary>Supporter Of (4)</summary>
 
 - **[Thomas Sowell](/entities/person-thomas-sowell.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -12287,6 +12408,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:34:00](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31): “paintings about the forgotten American. They tapped into how Americans were feeling in the flyover states, the reason why people put Trump into office, the reason why I backed Trump.”
+
+</details>
+
+- **[Victoria Beckham](/entities/person-victoria-beckham.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:55:39](/episodes/ep-GY6GWceEqtQ.md#t-00-55-04): “And yeah, that's just, they can cut a check and support it from afar. Very team Victoria Beckham.”
 
 </details>
 
@@ -12356,11 +12484,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>Warned (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56): “He was naive to what the wrong money could invite into his life. And I warned him.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41): “I wish that Charlie Kirk had listened to me because I warned him.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:24:09](/episodes/ep-cPidFQDJLbo.md#t-00-23-44): “Because I told him not to trust any of those people. All of the people that the world now sees are the snakes that were in Charlie (Charlie Kirk)'s garden, I saw them first, and I warned Charlie (Charlie Kirk) about those people.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:14:35](/episodes/ep-QdM9jLwjwLw.md#t-00-14-02): “But it was Stacy Sheridan, who I've told her since day one, I personally warned Charlie (Charlie Kirk) about her.”
 
 </details>
 
@@ -12401,8 +12530,8 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:52:09](/episodes/ep-2T39-oADLj0.md#t-00-52-09): “um so let me ask you this with uh charlie kirk because uh you're definitely one of the most outspoken people um when it comes to the charlie kirk investigation and what's going on there obviously you knew him personally you guys have worked together for many years um i'll kind of just turn it to you and you can just tell me because you've been looking at this for a while now it's almost two yeah it's over two months now um can you take us through”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-36): “I signed on the dotted line to work beside Charlie Kirk because he built a company that I believed in.”
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 01:01:12](/episodes/ep-QdM9jLwjwLw.md#t-01-00-48): “and their mamas good bye again unconscionable something i could not have known when i signed that agreement to tour with Charlie (Charlie Kirk) kirk is that he was going to be publicly assassinated and the people at the organization that he built okay many nights of no sleep”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-45): “I signed on the dotted line to work beside Charlie Kirk because he built a company that I believed in.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 01:01:12](/episodes/ep-QdM9jLwjwLw.md#t-01-01-12): “and their mamas good bye again unconscionable something i could not have known when i signed that agreement to tour with Charlie (Charlie Kirk) kirk is that he was going to be publicly assassinated and the people at the organization that he built okay many nights of no sleep”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:05:28](/episodes/ep-mFuno0TuuQQ.md#t-00-05-28): “It was strange because we had always collaborated on and taken those sorts of meetings together.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:09:15](/episodes/ep-ti5Fxrvegno.md#t-00-08-49): “no one on earth has done more college campus events with Charlie Kirk than me.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:11:38](/episodes/ep-1hcjQGgvxUY.md#t-00-11-21): “Charlie Kirk and I did a lot on the road discussing father absence”
@@ -12425,7 +12554,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:06:56](/episodes/ep-GY6GWceEqtQ.md#t-00-06-27): “Turning point, I obviously had a long speaking arrangement, speaking contract, which was still in effect when Charlie (Charlie Kirk) was assassinated. ... we moved to terminate that agreement”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:06:56](/episodes/ep-GY6GWceEqtQ.md#t-00-06-26): “Turning point, I obviously had a long speaking arrangement, speaking contract, which was still in effect when Charlie (Charlie Kirk) was assassinated. ... we moved to terminate that agreement”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:57:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-57-28): “like when he actually the night before said they're going to kill me they were like oh no Charlie (Charlie Kirk) was great he was so excited no never had that thought ever like it just there's just so many things they say I can flick up one another I find it like I said to be based off of my own experience of which I have a lot raising money with Turning Point USA I have a ton of experience raising money with Turning Point USA I have never heard that question asked from a donor ever”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:13:21](/episodes/ep-uC_GjKU8rs8.md#t-00-13-21): “I left Turning Point USA. Neither one of those companies were destroyed by my exit. In fact, we were all friends when I left. I went on to work with Turning Point all the way through until this year, actually, contractually.”
 
@@ -12434,7 +12563,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Home Title Lock](/entities/org-home-title-lock.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:36:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-36-04): “That's why I've partnered with Home Title Lock so that you can protect your equity and find out today if you are already a victim.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:36:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-35-59): “That's why I've partnered with Home Title Lock so that you can protect your equity and find out today if you are already a victim.”
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:57:19](/episodes/ep-UYkXV9mYbT4.md#t-00-57-00): “If you're a homeowner without protection in place, this could be you. That's why I've partnered with Home Title Lock.”
 
 </details>
@@ -12546,7 +12675,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Referenced By (370)</summary>
+<summary>Referenced By (379)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -12563,10 +12692,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:19:15](/episodes/ep-k8ueJdPFel4.md#t-00-19-15): “I'll just ask you straight up. Is Candace Owens doing something evil by attacking Erika Kirk?”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:04:34](/episodes/ep-YeEtS7nix3o.md#t-00-04-21): “Candace Owens went to Russia to just do propaganda work on behalf of the Russian regime.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:49:37](/episodes/ep-QdM9jLwjwLw.md#t-00-49-37): “And you know what else was a mistake? If I'm Jeremy Boreing, I would say it was a mistake not to just end things amicably with Candace, especially when she gave me the option after Ben (Ben Shapiro) jumped up on a table and accused her of being a faux sophisticate because she said genocide is always wrong.”
 
 </details>
 
@@ -12650,7 +12780,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Tyler Bowyer needs to be looked at and investigated further.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
@@ -12680,7 +12810,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:19](/episodes/ep-1IY2oD-_xVA.md#t-00-45-19): “somebody who was within turning point usa confirmed to me That money was indeed missing out of Turning Point USA. ... I can back that up 100%, which is why I'm saying it publicly, that there were millions missing out of Turning Point USA, and they were wondering where that money was going.”
@@ -12700,18 +12830,19 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:31:37](/episodes/ep-AoYZel7_cGQ.md#t-00-31-37): “You are being shy because you're hiding something. You guys have just been lying about a lot.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:42:07](/episodes/ep-ChuWo-n49B8.md#t-00-41-54): “And that's really scary. It's the same paganism that is found and they try to protect it and say you can't question it now because we are giving it a new veneer and this veneer is that it's godly and we know scripture and we're not going to address the fact that at you know Turning Point USA events there are having gay orgies and that this person is cheating on this person this person is sleeping with this person an unbelievable amount of gay men that work at Turning Point USA.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:26:24](/episodes/ep-4JxgOclKzqg.md#t-00-26-06): “And why did Turning Point USA gaslight us about the significance of the footage?”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:42:09](/episodes/ep-Wjul6YV6izo.md#t-00-41-36): “Satan is a liar. We're tracking the Turning Point USA lies.”
 
 </details>
 
 - **[Blake Lively](/entities/person-blake-lively.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “behave how are we glorifying these people it made us spiritually sick looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights because that's what happened and when she was told no you can't take this over she said oh I don't I don't nobody tells me no never been told no my whole life and her and her husband conspired you”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42): “behave how are we glorifying these people it made us spiritually sick looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights because that's what happened and when she was told no you can't take this over she said oh I don't I don't nobody tells me no never been told no my whole life and her and her husband conspired you”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (21)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:44:15](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43): “I've clocked Erika on another lie. ... She's now twice lied about a Dan Flood message.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi.”
@@ -12727,6 +12858,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:10:17](/episodes/ep-UYkXV9mYbT4.md#t-00-10-02): “Erika (Erika Kirk) lied. Erika (Erika Kirk) and Andrew (Andrew Kolvet) colluded. on how to message to the public about this little fact that was never meant to be known to us.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:56:04](/episodes/ep-qZ8RWfyuewQ.md#t-00-55-23): “That I said you murdered your husband? What does that mean? Did you shoot your husband? No, I'm not accusing you of shooting your husband. ... What I am accusing that I have been open about on the show. Is that it reeks of dishonesty? ... You lied about that, Erica (Erika Kirk).”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:18:22](/episodes/ep-KpxIBWkNsSs.md#t-00-18-00): “Turns out she didn't graduate magna cum laude and she also didn't graduate summa cum laude. She didn't graduate with any honors and she did not graduate with a double degree.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:43:30](/episodes/ep-5NQyGuRYbU8.md#t-00-43-02): “She lied to her husband about her viewpoints.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:41:17](/episodes/ep-9CuC1yf8-PU.md#t-00-40-41): “I don't think she knows she's lying. ... She's lying.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:52:31](/episodes/ep-IqHsl7d2dos.md#t-00-52-31): “When Project Constitution gets something wrong, but something this serious and this heavy, she stays quiet about. And I believe the people I'm speaking to. I believe them. They have no reason to say this—that she was managing modeling apartments for the models—and that doesn't make sense to me why they would just make that up.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:46:23](/episodes/ep-puuMVxEu5NU.md#t-00-46-04): “she lied to my face. I can't come back from that when people try to sell her to me or say like, maybe it's like, no guys, she lied to my face.”
@@ -12734,13 +12866,16 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:34:54](/episodes/ep-amqTMimDr0A.md#t-00-34-54): “She came out dressed like an assassin and name checked me and accused me of accusing her of killing her husband, which was meant to invite hate toward me.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:03:32](/episodes/ep-HZvwbfePe7o.md#t-00-03-04): “And what really happened, I told you, was Erika (Erika Kirk) and her close family friend planted that article and then it backfired and then they tried to DARVO tactic me.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:38:47](/episodes/ep-4JxgOclKzqg.md#t-00-38-47): “I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-03-02): “confirmed for a fact that she lied. She lied to my face, actually regarding the superman neck because she blamed that on Andrew Kolvet said that he went rogue that Dr. Lee Trotter also went rogue violated HIPAA that they hopped on the phone and did this without her consent or knowledge”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:30](/episodes/ep-Wjul6YV6izo.md#t-00-54-08): “So why did Erika lie to me? Why are we lying to Candace? Why are you lying to Candace?”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:20:30](/episodes/ep-hWTdXHGQ8R4.md#t-00-20-30): “because they have not been honest in their portrayal about what their relationship was and I will leave it at that this like idea of this amazing godly relationship with that that's that is not accurate and it would not have been relevant if Erika (Erika Kirk) had kept it honest throughout this entire process but she's not she's getting caught in a lot of lies”
 
 </details>
 
 - **[JAY-Z](/entities/person-jay-z.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:22:03](/episodes/ep-CEF7gQRWYCE.md#t-00-21-38): “I have not been a Jay-Z fan for a very long time. It is very obvious. He sold this out to the feds. He's clearly working for the feds. I have always believed that the individual that came forward and was honest about what was happening with Diddy and Cass and talking about how the feds do deal with rappers, ... He was about to let loose on a bunch of people who were doing the blackballing. And I do very much believe that Jay-Z is a part of that, that,”
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:22:03](/episodes/ep-CEF7gQRWYCE.md#t-00-21-38): “I have not been a Jay-Z fan for a very long time. It is very obvious. He sold this out to the feds. He's clearly working for the feds. I have always believed that the individual that came forward and was honest about what was happening with Diddy and Cassie (Cassie Ventura), and talking about how the feds do deal with rappers,”
 
 </details>
 
@@ -12794,7 +12929,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:33:24](/episodes/ep-SgVcnx4Oh30.md#t-00-33-24): “we now know that Andrew Kolvet is in the business of faking live shows in order to give himself an alibi.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:09:23](/episodes/ep-DEtFh2Ff-58.md#t-00-08-45): “it suggests, certainly, that there may have been some sort of a foreknowledge because for what other reason would Andrew be sitting on a tarmac just about to fly to Scottsdale when Charlie gets shot?”
@@ -12807,6 +12942,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:23:18](/episodes/ep-4JxgOclKzqg.md#t-00-23-14): “Because I got to tell you something, Andrew (Andrew Kolvet). Were it me and I was amongst my peers sitting on a jury, I would not accept your narrative that he looks like he's worried about people stealing.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:52:40](/episodes/ep-OEAHy3SsIiI.md#t-00-52-03): “Andrew (Andrew Kolvet) is being told to do these things. Andrew (Andrew Kolvet) is being told to attack me and to attack my narrative.”
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:08:03](/episodes/ep-CMcktj3Egfo.md#t-00-07-44): “Andrew Kolvet never answered. Last time Andrew Kolvet and I spoke. Now, of course, fast forward to today, and we learn that it has been Andrew Kolvet orchestrating all of these attacks. He actually got caught red-handed.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:12](/episodes/ep-Wjul6YV6izo.md#t-00-54-08): “when I saw her and Andrew Kolvet colluding ... then I realized he's the one organizing the Paramount Tactical and also the Alex Jones ... that it was Andrew Kolvet the whole time.”
 
 </details>
 
@@ -12923,8 +13059,22 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Likud](/entities/org-likud.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:32:32](/episodes/ep-hWTdXHGQ8R4.md#t-00-32-32): “it's being run by the Likud party. And effectively what that is, is just a team of mass murderers.”
+
+</details>
+
+- **[Dan Patrick](/entities/person-dan-patrick.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:36:09](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-57): “you're taking a ton of money from Zionists. Can you just own that, Dan (Dan Patrick)? ... You're outright purchased by Israel.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#t-00-00-01): “Now somebody sent me this throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:12:21](/episodes/ep-hWTdXHGQ8R4.md#t-00-11-50): “Has Charlie (Charlie Kirk) never been to UVU before? ... No, he has actually been with me. ... I've done UVU with him.”
@@ -12934,6 +13084,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:24:51](/episodes/ep-OgRyiOAVtWU.md#t-00-24-37): “If you have disagreement, as Charlie (Charlie Kirk) and I said repeatedly on many stages, you should be welcome to the front of the line.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:57:22](/episodes/ep-ds6umq1rHAw.md#t-00-56-54): “a 15-minute compilation video of you and Charlie (Charlie Kirk) laughing together on YouTube”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:35:58](/episodes/ep-_cNtgris8Ik.md#t-00-35-47): “said okay what like I watched that clip and that's not what was happening then they obviously move on and by the way he says oh well then later on she gets obsessed with Jews first off he's talking about a gap of 2018 when I was speaking about nationalism on stage with Charlie by the way they're leaving that part out as well I was with Charlie and journalists were in the room and nobody had a problem with it at all and then BuzzFeed pulls the clip months later And then he fast forward and says, oh,”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:56:33](/episodes/ep-xjzb_t5Tk9o.md#t-00-56-16): “when I was being protested, when I was speaking at some UK campuses, me and Charlie (Charlie Kirk), they were like very polite.”
 
 </details>
 
@@ -12973,11 +13124,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** attacked this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:35:45](/episodes/ep-X3VKJVJ7cN4.md#t-00-35-20): “Behind the scenes, she's quite nasty, actually. That's fact. She's been leading these attacks against me.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:00:01](/episodes/ep-OgRyiOAVtWU.md#t-00-00-01): “All right, you guys, happy Tuesday. So rather unexpectedly yesterday, I was informed by a daily mail reporter who was seeking comment that Erika Kirk was about to go on the attack against me in the press. The article did drop yesterday evening and it is quite shocking.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:00:01](/episodes/ep-ds6umq1rHAw.md#t-00-00-01): “the Daily Mail article of Erica (Erika Kirk) referring to me as a soulless ghoul and a B.I.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-40): “But I do believe firmly from the beginning that Erika (Erika Kirk) was intimately involved in the PR messaging and the PR campaign at different times against me, sometimes against the entire world, but against me in particular.”
 
 </details>
 
@@ -13005,7 +13157,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-25-23): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:52:21](/episodes/ep-7ERqbYElOfs.md#t-00-52-21): “Make him a sandwich, which is, I love you guys that are writing me emails about it. It was a really, really fun book to read, I mean to write, and it's taken me like years actually to write it.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 01:04:37](/episodes/ep-eLgD5yUVbko.md#t-01-04-11): “going to be on friday i did not appreciate that we had an open friday and it just made more sense to make it on friday to bump it um so yeah uh that will be on friday to make up for it and thank you guys for your patience um we only have two more meetings for this book so this friday and then one more and we'll be done and then the next book we're going to read is my book so i'm super excited about that make them a sandwich so buy that ahead of time if you guys want to jump in and join the book the book club the next book we're going to read is making a sandwich which i have just been very happy about um i i might be a little biased but i think the author's great and that is uh that's a signed copy you can also buy regular copies on amazon and yeah anyway you guys uh some of your comments let's do did i just read no i just read the comments from yesterday A few before we go.”
@@ -13025,6 +13177,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 01:04:47](/episodes/ep-i8m_6D4QGmk.md#t-01-04-35): “And I did the Kamala Chronicles, but I've been off that like hardcore MAGA Trump chain for a while.”
+
+</details>
+
+- **[New York](/entities/gpe-new-york.md)** birthplace of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:50:03](/episodes/ep-5NQyGuRYbU8.md#t-00-49-24): “Because I'm born in New York and my whole family's from New York”
 
 </details>
 
@@ -13127,7 +13286,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
@@ -13139,6 +13298,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:19:26](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-26): “really satisfying to me about being a black girl from the hood being able to like walk into a ritzy bar in Greenwich and leave with the hottest white guy there and basically like ruin the relationship of like the popular white girl this is how she used to speak and for some reason there's a lot of people that are really afraid of this nappy headed black bitch who just has a lot to say but not really a lot to offer so I'm not afraid of Candace Owens”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:52:57](/episodes/ep-WoXd4oLwd3w.md#t-00-52-46): “it also says that Owens mocked Loomer's receipts with a clown emoji and a fake long receipt clip while Loomer called it cringe”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:01:35](/episodes/ep-hWTdXHGQ8R4.md#t-00-01-27): “it is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.”
 
 </details>
 
@@ -13276,7 +13436,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-48): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47): “Candace (Candace Owens), all those same gifts that she has at various times used for good, she's now using for ill, ... The problem is, if what you're pursuing is bad and you're the best at it, you're going to do an incredible amount of damage, and Candace (Candace Owens) is doing an incredible amount of damage.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:51:31](/episodes/ep-k1b1NDCrNFs.md#t-00-51-31): “This video is Prime Candace. Every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims.”
 
 </details>
@@ -13300,13 +13460,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:25:50](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-37): “And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I'm speaking the truth rather than lies.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:32:05](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05): “the latest thing that candace will fixate on for the next two weeks as all important the key to blowing the case wide open so that she has an excuse to harass more people”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:34:32](/episodes/ep-X3VKJVJ7cN4.md#t-00-34-08): “Blake Neff referred to me as a knife wielding psychopath on the subway.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:45:48](/episodes/ep-OgRyiOAVtWU.md#t-00-45-48): “Nothing compares remotely to the fact that Candace Owens has spent a sustained 10 months making effectively every episode of her show about finding some new way to target Erika (Erika Kirk), target Turning Point, target other people who are in the Turning Point universe, target”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:13:56](/episodes/ep-1CFDtD0IgEg.md#t-00-13-22): “Blake Neff comes at us like this on X. ... Candace (Candace Owens) starts harassing another random Utah police officer, accuses him of being a dirty cop”
@@ -13433,7 +13594,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (42)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (44)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#t-00-22-14): “Even Turning Point USA—they're just like, we've accepted. Obviously there are holes in this narrative, and they're just like, we're gonna just keep up his show.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:33:17](/episodes/ep-1hcjQGgvxUY.md#t-00-32-42): “they obviously were always panicked and then they issue a dumb statement.”
@@ -13457,6 +13618,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:14:14](/episodes/ep-1QZ4X6q1DPg.md#t-00-13-29): “So this would imply that Turning Point USA used AI tools to add a sentence that Charlie (Charlie Kirk) never said, handing the reins over, handing the reins of his company over to his wife.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:32:40](/episodes/ep-cPidFQDJLbo.md#t-00-32-19): “That is not something that we are going to let go. We need to keep the pressure on Erika Kirk and Turning Point USA.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:38:18](/episodes/ep-YeEtS7nix3o.md#t-00-38-00): “now we have to talk about Turning Point's disastrous Women's Leadership Summit. It was just, man, it's just sad to see what this once bright organization has become.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:49:07](/episodes/ep-5NQyGuRYbU8.md#t-00-48-41): “Turning Point USA because it just grew so remarkably corrupt in such a short space of time and they're just behaving like they have everything to hide.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:33:34](/episodes/ep-h76ZN-xXC6c.md#t-00-33-34): “I mean, objectively speaking, the actions of the Turning Point USA team look infinitely more suspicious to me than Tyler Robinson's. I'm just going to put that out there.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:35:08](/episodes/ep-IqHsl7d2dos.md#t-00-35-00): “I don't think you guys aren't interested in exploring any of these things. Do you guys think a turning point USA will be interested in whether or not maroon berets were there on the ground that day?”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:50:03](/episodes/ep-a2bZf4fic10.md#t-00-49-53): “...more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.”
@@ -13477,6 +13639,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:37:40](/episodes/ep-4JxgOclKzqg.md#t-00-37-40): “You just have to love Joe Rogan for having the courage to just have a boy's chat publicly which everyone's relating to and laughing to except for Turning Point USA because this has been their PR strategy, this bizarre strategy to go after the comedians for noticing,”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:17:30](/episodes/ep-9hRcfSrri70.md#t-00-16-58): “When it comes to Turning Point USA, it's just amazing. It feels like we're just being perpetually gaslit by them.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:09:19](/episodes/ep-OEAHy3SsIiI.md#t-00-09-19): “Now, maybe Turning Point USA is not striving for relatability and that's fine. Money can, in fact, be your motive. But for me, when it moved toward becoming an abomination, abomination. The thing that sent me over the edge was when I saw the tent.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 01:07:23](/episodes/ep-QdM9jLwjwLw.md#t-01-07-23): “it's very obvious something is wrong with Turning Point USA”
 
 </details>
 
@@ -13495,12 +13658,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (60)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (62)</summary>
 
 - [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 @ 00:01:51](/episodes/ep-6DhWawD4ZiM.md#t-00-01-29): “I'm sorry, but that whole thing right there is frustrating”
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-22): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:25:00](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-42): “A lot of the employees feel ... Erika (Erika Kirk) doesn't even know their names ... And so it doesn't feel like the same company. Yeah, I think that's a reasonable thing.”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:23:00](/episodes/ep-A39g5oqB_eM.md#t-00-23-00): “I don't know what to say. ... all of this makes my skin crawl. ... It genuinely makes my skin crawl. I'm going to go ahead and say that.”
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-07): “But I do believe firmly from the beginning that Erika (Erika Kirk) was intimately involved in the PR messaging and the PR campaign at different times against me,”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-40): “But I do believe firmly from the beginning that Erika (Erika Kirk) was intimately involved in the PR messaging and the PR campaign at different times against me,”
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:07:48](/episodes/ep-mFuno0TuuQQ.md#t-00-07-40): “Erika (Erika Kirk), you lied to my face as we sat down in that hotel and we spoke for four hours.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:12:52](/episodes/ep-ti5Fxrvegno.md#t-00-12-13): “Erika (Erika Kirk) should be dragged into a police precinct.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:16:56](/episodes/ep-1hcjQGgvxUY.md#t-00-16-46): “So Erica (Erika Kirk) having done this is completely and utterly creepy.”
@@ -13536,6 +13699,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:32:40](/episodes/ep-cPidFQDJLbo.md#t-00-32-19): “That is not something that we are going to let go. We need to keep the pressure on Erika Kirk and Turning Point USA.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:46:01](/episodes/ep-YeEtS7nix3o.md#t-00-45-36): “Erika can't draw the same crowd. Women don't trust her. We are designed to have a spiritual intuition about people and our spiritual intuition about Erika Kirk says no.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:28:55](/episodes/ep-WoXd4oLwd3w.md#t-00-28-30): “And when I look at that and I plot that on the timeline, it convinces me that Erika (Erika Kirk) is a psychopath, genuinely convinces me that Eric is a psychopath”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:35:54](/episodes/ep-5NQyGuRYbU8.md#t-00-35-29): “Erika (Erika Kirk) ... Her job is to cry.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:18:15](/episodes/ep-h76ZN-xXC6c.md#t-00-17-52): “as a point which further illustrates the lack of interest, the apathy of Erika Kirk.”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:43:20](/episodes/ep-G3zdOeHpvS0.md#t-00-43-09): “I don't think anybody looking at Erika Kirk ... reasonably thinks that she's a victim. ... she comes across like a player in this at best”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:27:44](/episodes/ep-VMNWMXX1vO8.md#t-00-27-22): “Erika (Erika Kirk) can't get through a speech that's pre-written without a blunder, without saying something ridiculous.”
@@ -13557,6 +13721,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:27:21](/episodes/ep-HGtMfbePDKk.md#t-00-26-41): “You are spectacularly terrible. at pr it's like it is something how bad he is at pr it is something to be noticed a sight to behold is andrew colvette and erica kirk sitting there going this is going to be good for pr”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:00:21](/episodes/ep-E7P2ShoYDUA.md#t-00-00-01): “Just terrible, terrible. I mean, without question, the biggest loser was Erika Kirk, Andrew Kolvet. Blake Neff, the Turning Point USA organization, more broadly speaking, because we seem to be reaching a new depth of their PR disaster.”
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:38:47](/episodes/ep-4JxgOclKzqg.md#t-00-38-47): “I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:54:01](/episodes/ep-Wjul6YV6izo.md#t-00-53-24): “Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie.”
 
 </details>
 
@@ -13585,7 +13750,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -13598,6 +13763,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:40:10](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-37): “this fan of mine, a small fan of mine, apparently really loves the midget horse and she was pestering her mother to bring back up the midget horse that Ben Shapiro rides around Nashville on.”
 - [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins and the Ben Shapiros”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:51:51](/episodes/ep-5NQyGuRYbU8.md#t-00-51-27): “ben shapiro ... he's making up rumors about me”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:46:24](/episodes/ep-sKuYLNx3iRo.md#t-00-45-51): “But then Ben Shapiro, it's a bizarre talent he has. He thinks that people disagreeing with him is a declaration of war.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:59:56](/episodes/ep-EtLHqDbxqks.md#t-00-59-50): “And then you find out about Ben Shapiro's character and how he operates behind the scenes to stop people just like Megyn Kelly has had that experience recently.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:21:55](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “Ben Shapiro is on the phone receiving updates, but he's totally not involved, guys. Totally not. Just curious about why they're having a going out of sale business.”
@@ -13610,7 +13776,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-59): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:30:43](/episodes/ep-2tFYJf1klgY.md#t-00-30-43): “I told you he's a sexual deviant. It's like, I mean, there's just so much out there.”
@@ -13622,7 +13788,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Brooklyn Beckham](/entities/person-brooklyn-beckham.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:38:51](/episodes/ep-GY6GWceEqtQ.md#t-00-38-51): “This is not a problem that is worth saying your parents are dead to you over ... You are not suffering.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:38:51](/episodes/ep-GY6GWceEqtQ.md#t-00-38-49): “This is not a problem that is worth saying your parents are dead to you over ... You are not suffering.”
 
 </details>
 
@@ -13636,14 +13802,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Blake Lively](/entities/person-blake-lively.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42): “looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:54:26](/episodes/ep-uC_GjKU8rs8.md#t-00-54-26): “just complete i mean there was nothing left there was nothing left and she was pompous and she was arrogant and she was connected but we're living a different time truth wins and trying to humiliate him saying he sexually assaulted her or sexually harassed her whatever it was doing that as a pr move to destroy his family destroying his family with those sorts of”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:38:26](/episodes/ep-puuMVxEu5NU.md#t-00-38-00): “This is the story of Turning Point USA, the story of Blake Lively. We're too big to fail. ... And all of these people are failing because we live in a new age.”
 
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (29)</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57): “Andrew Kolvet, please. ... I would love for the spokesperson of Turning Point USA to stop. ... texting people to do his dirty work”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:18:36](/episodes/ep-4YgrOhhy708.md#t-00-18-36): “The man who had to deal with the full brunt of Andrew (Andrew Kolvet) and Erika (Erika Kirk)'s PR machine, ... they were digging up his past, claiming that he was a habitual liar.”
@@ -13655,6 +13821,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:28:04](/episodes/ep-4DvYXBn_5JI.md#t-00-27-29): “What kind of exploded the Fort Huachuca story was this unnecessary coordination that was discovered between Andrew Kolvet, who was supposed to have been, you know. ... moved away from PR because he was failing miserably at it.”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:26:36](/episodes/ep-1QZ4X6q1DPg.md#t-00-26-24): “What is Blake (Blake Neff)'s excuse? What is Andrew Kolvet's excuse? What is Erika Kirk's excuse for this buffoonery? Because that's what it is. It is buffoonery.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:32:36](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05): “Andrew Kolvet lying and trying to”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:57:00](/episodes/ep-9CuC1yf8-PU.md#t-00-57-00): “talk about a critical error was having Andrew Kolvet press send on the superman neck he eats good veggies tweet”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:59:09](/episodes/ep-EtLHqDbxqks.md#t-00-59-09): “Andrew Kolvet finally coming up to the surface, deceitful, the Judas. No question my dream was on point about who he is and everyone is now seeing his character.”
@@ -13672,13 +13839,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:23:18](/episodes/ep-4JxgOclKzqg.md#t-00-23-14): “Because I got to tell you something, Andrew (Andrew Kolvet). Were it me and I was amongst my peers sitting on a jury, I would not accept your narrative that he looks like he's worried about people stealing.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:00:39](/episodes/ep-_cNtgris8Ik.md#t-00-00-39): “Andrew Kolvet, by the way. is lying so badly he brought on andrew wilson who i debated last friday onto their beavis and butthead platform and he tries to smear me i'm talking about Andrew Kolvet not andrew wilson he tries to smear me as a hitler lover and the smear was so bad him and blake are like is what they do that andrew wilson actually interjects yes the person that i just debated was the one who interjects and is like OK, to be fair,”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:01:42](/episodes/ep-OEAHy3SsIiI.md#t-00-01-23): “So happy new year to Johnny from Missouri. Happy new year, actually, to everyone except for Andrew Kolvet, the spokesperson of Turning Point USA, who has been working behind the scenes to have me smeared. Yeah, Andrew (Andrew Kolvet), you got caught.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:55:56](/episodes/ep-Wjul6YV6izo.md#t-00-55-29): “so many things I'm mad about that I'm now learning from the people that were wrongly fired at Turning Point USA. ... Andrew Kolvet again went rogue in that interview with Alex Clark. not true and try again another lie”
 
 </details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-13): “brian harpole that's a lot a lot happened there with that car crash interview am i being punished because you lied”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:09:30](/episodes/ep-GY6GWceEqtQ.md#t-00-09-21): “Okay, so someone's with a calculator, and they're calculating. I'm wondering if there's a spreadsheet running of the damage that's being done by Turning Point USA themselves, like Andrew Kolvet. If we're going to sue anybody for accruing damages, if I'm running the company, I'd go with Andrew Kolvet first. Brian Harpole—that's a lot. A lot happened there with that car-crash interview. Am I being punished because you lied?”
 - [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 @ 00:05:43](/episodes/ep-69A8TzAGHlU.md#t-00-05-43): “It's my opinion. opinion that it demonstrates professional incompetence not to have an ambulance on standby in case anything happens. Sorry, Brian (Brian Harpole). I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:07:30](/episodes/ep-4DvYXBn_5JI.md#t-00-07-03): “And Brian Harpole has all but confirmed our reporting in his court filing against me. Look at what he wrote regarding Charis Bible. ... Really? I think they just keep forgetting that I went on tour with Charlie for three years. That's uncommon.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:00:41](/episodes/ep-sKuYLNx3iRo.md#t-00-00-41): “I think Brian (Brian Harpole)'s a liar, liar, pants on fire. And feel free, Brian Harpole, to add that statement to your lawsuit against me.”
@@ -13692,7 +13860,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:46:32](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24): “really build stages every time he speaks at Daily Wire. Jeremy Boreing is a person that is so obsessed with himself and thinks about nobody else that he put the company into debt what happened what's the true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhood theater kid dreams right he ... blew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush paying to transport bulls across the continent of Europe and the process obviously plummeting a once financially healthy company into the ground I am told last number I heard was 67 million dollars”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:48:34](/episodes/ep-uC_GjKU8rs8.md#t-00-48-34): “that but that was all on my birthday it was so weird and it just it it was very daily wire coded because last time when they like sent lawsuits it was like on Jeremy Boreing's birthday and by the way he cannot be removed from the disaster that is like the reason they got into debt he was just like maniacal he stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into uh the talent it was we couldn't get answers it was like”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:28:09](/episodes/ep-k1b1NDCrNFs.md#t-00-27-59): “The former CEO of Daily Wire, you will recall he got forced out of the company, generally speaking, because he's a deranged psycho.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:43:47](/episodes/ep-sKuYLNx3iRo.md#t-00-43-14): “Jeremy Boreing constantly needing to fulfill his childhood fantasies. Now, he tried to scrape back some of that price tag by getting rid of me.”
@@ -13758,11 +13926,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Alex Clark](/entities/person-alex-clark.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:48:15](/episodes/ep-5NQyGuRYbU8.md#t-00-47-30): “if your chihuahua happens to be named alex clark ... she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans”
 
 </details>
 
@@ -13811,7 +13980,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Blake Neff](/entities/person-blake-neff.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -13823,6 +13992,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:02](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “So I hope that helps. I know it's difficult. Like I said, when you lie, you have to have a good memory.”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:24:27](/episodes/ep-1QZ4X6q1DPg.md#t-00-24-20): “I called out Blake Neff. He writes this long tweet thinking that this was the booyah, booyah boy Blake (Blake Neff) over here.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:46:55](/episodes/ep-5NQyGuRYbU8.md#t-00-46-11): “What is wrong with Blake Neff? Why is the whole concept of asking questions just so upsetting for him?”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08): “Blake Neff is a liar. He is a coward. He is a backstabber”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
@@ -13844,7 +14014,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -13864,6 +14034,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Candace x Hunter Biden: The Interview @ 00:59:42](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “There's zero interest. That's another thing that just completely for me was like done with Trump whatsoever.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:49:14](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56): “He's a Trojan horse. He has completely let people in to destroy America. ... How can anybody have a defense of Donald J. Trump in this moment?”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:56:19](/episodes/ep-WoXd4oLwd3w.md#t-00-56-05): “President Trump (Donald Trump), please resign if you have any dignity left. He has no dignity left. There's no point. ... And he's just going to do what he's told to do. He has no courage. Forget the digging that he has no, he's a coward.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:23:26](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13): “Trump (Donald Trump)'s reaction to it. He's satisfied. He wants it shut down. That's not how a man would act if it was an assassination attempt against him.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:01:16](/episodes/ep-h76ZN-xXC6c.md#t-00-01-16): “Trump (Donald J. Trump)'s nonchalant approach to investigating Butler, which is like not at all”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:19](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Don't arrive at a debate defending Trump (Donald Trump)'s administration right now, right? And the Iran war.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:52:24](/episodes/ep-a2bZf4fic10.md#t-00-52-24): “If you're going to be the president of the United States and you're going to call someone the most vile person of the year and your options are sitting before you, I mean, that would even be a great time to sell that Tyler Robinson did it.”
@@ -13917,11 +14088,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02): “Bibi (Benjamin Netanyahu) is your master. Maybe it's Miriam Adelson that lights the fire and Bibi (Benjamin Netanyahu) that makes the shadows on the wall.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:22:48](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31): “What's up with the golden pager, Bibi (Benjamin Netanyahu)? Frankly, it was crass and it was off-putting.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:35:19](/episodes/ep-HZvwbfePe7o.md#t-00-35-08): “Bibi (Benjamin Netanyahu) will be probably in the situation where I'm telling Trump (Donald Trump) who else has to die for the empire of Baal.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:32:53](/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22): “promoting and celebrating people who harm children, protecting people who harm children. We have Bibi (Benjamin Netanyahu) in DC right now and it sickens me.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:50:07](/episodes/ep-9hRcfSrri70.md#t-00-49-45): “Joshua Steves writes, are we ever going to talk about how Bibi (Benjamin Netanyahu) is probably dead? I don't think he is. I think when all that stuff was happening, he was probably hiding and being a coward and using AI.”
@@ -13958,10 +14130,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Marina Minas](/entities/person-marina-minas.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:24:58](/episodes/ep-B9TyCs-6o_0.md#t-00-24-35): “Marina, this psycho, is going to then just a few months later be behind getting Aubrey fired”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:25:07](/episodes/ep-OgRyiOAVtWU.md#t-00-25-07): “So rich that they're like, you're a commie, Candace. Someone tweeted, I think their COL, this is Marina Minas who did that the other day. I'm going, you guys are literally responding to the free markets by saying the free markets need to be stopped and making private phone calls to advertisers.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14): “For no reason other than loyalty tests that are being conducted by Marina (Marina Minas), the COO, who's talking to Uber drivers for the tea.”
 
 </details>
 
@@ -14290,10 +14463,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13): “It's very strange. I'll show you this. Seth Dillon, resident liar, Hamptons guy. He writes the main reason Alex Jones was held liable was not that he questioned an official narrative.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:40:31](/episodes/ep-4YgrOhhy708.md#t-00-40-11): “And Seth (Seth Dillon), you just look like a liar.”
 
 </details>
 
@@ -14407,6 +14581,21 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Taylor Swift](/entities/person-taylor-swift.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:26:58](/episodes/ep-GY6GWceEqtQ.md#t-00-26-52): “it didn't seem honest to me ... now her messages are out and it turns out that Taylor Swift called Justin Baldoni a B-I-T-C-H with a tiny violin”
+
+</details>
+
+- **[Stacy Sheridan](/entities/person-stacy-sheridan.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:14:39](/episodes/ep-QdM9jLwjwLw.md#t-00-14-02): “That is my personal opinion that there is no rung in hell that Stacy Sheridan will not descend upon for a dollar.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:28:07](/episodes/ep-Wjul6YV6izo.md#t-00-27-46): “she gets a little tap from Stacy Sheridan who should burst into flames when she walks into a church, ... That woman was targeted in that church, okay?”
+
+</details>
+
 - **[Shmuley Boteach](/entities/person-shmuley-boteach.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -14464,10 +14653,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:33:02](/episodes/ep-4YgrOhhy708.md#t-00-33-02): “No, I don't. ... I haven't ... heard one thing out of her mouth that I would say is anti-Semitic.”
+
+</details>
+
 - **[Marc Anthony](/entities/person-marc-anthony.md)** defended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:44:15](/episodes/ep-GY6GWceEqtQ.md#t-00-44-03): “Marc Anthony is actually the victim here. We are out here flaming Marc Anthony for being true to his Latino roots.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:44:15](/episodes/ep-GY6GWceEqtQ.md#t-00-43-55): “Marc Anthony is actually the victim here. We are out here flaming Marc Anthony for being true to his Latino roots.”
 
 </details>
 
@@ -14551,6 +14747,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:54:17](/episodes/ep-a2bZf4fic10.md#t-00-53-42): “And it was like something went wrong. I don't know. I, from the beginning, I have not sensed that Mikey (Michael McCoy) is a purely evil person. I don't get that from him. I think his father is.”
+
+</details>
+
+- **[Brett Cooper](/entities/person-brett-cooper.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30): “And when you sued me for that, for standing up for Brett Cooper, I want you to know that I communicated to my legal team that I would accept that.”
 
 </details>
 
@@ -14660,7 +14863,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -14695,6 +14898,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:40:30](/episodes/ep-ZZGWo6oDscc.md#t-00-40-10): “also reminding you guys about american financing”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:37:16](/episodes/ep-Wjul6YV6izo.md#t-00-37-02): “I'll also remind you guys about American Financing ... my friends at American Financing are helping homeowners pay off that high interest debt at rates in the low fives.”
 
 </details>
 
@@ -14877,13 +15081,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Paleovalley](/entities/org-paleovalley.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:09:43](/episodes/ep-YeEtS7nix3o.md#t-01-09-14): “Paleo Valley is still with us. It is the one snack that you'll always find in my bag.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:41:27](/episodes/ep-puuMVxEu5NU.md#t-00-41-07): “All right, you guys, one snack that you will always find in my bag is Paleo Valley beef sticks”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:30:33](/episodes/ep-AoYZel7_cGQ.md#t-00-30-26): “So if you are looking for a clean, convenient protein snack that tastes as good as it sounds, check out Paleo Valley Beef Sticks.”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:49:12](/episodes/ep-Wjul6YV6izo.md#t-00-49-03): “Also want to tell you guys about Paleo Valley because something that my team and I are always craving are their beef sticks. Paleo Valley makes their meat sticks with 100% grass-fed beef ... so you can feel good about what you are eating and what you're supporting.”
 
 </details>
 
@@ -14934,6 +15139,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Magisterium AI](/entities/org-magisterium-ai.md)** endorsed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:36:15](/episodes/ep-Wjul6YV6izo.md#t-00-35-35): “That's why I use Magisterium AI.”
+
+</details>
+
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** fired this
 <details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
@@ -14968,7 +15180,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:12:18](/episodes/ep-w1oqQbR_bYs.md#t-00-12-00): “Here is a video of the then CEO Jeremy Boring”
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:51:39](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16): “It's now been two years and you would think, Jeremy (Jeremy Boreing), ... I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA,”
 
 </details>
 
@@ -15084,9 +15296,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:32:22](/episodes/ep-k1b1NDCrNFs.md#t-00-32-11): “I was first made aware of the arrest and charges laid against him in an incident after wrecking his truck at three times the legal limit while carrying a loaded firearm, shortly after it happened, back when Candace still worked for me at The Daily Wire.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire?”
 
 </details>
 
@@ -15162,11 +15375,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Kanye West](/entities/person-kanye-west.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:39:15](/episodes/ep-zSKrxIUMNqw.md#t-00-38-35): “because he's my friend.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:43:54](/episodes/ep-BxN2-aeMYIs.md#t-00-43-38): “Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend.”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:46:17](/episodes/ep-_cNtgris8Ik.md#t-00-45-56): “I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship.”
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:44:31](/episodes/ep-A39g5oqB_eM.md#t-00-44-17): “Because this comes up all the time. There's always this Candace, Ye (Kanye West). I love Ye (Kanye West). He's like a brother to me. I am never going to turn my back on Ye (Kanye West). I'm here for the Ye (Kanye West) of all seasons. He and I agree on many things, disagree on many things at all times. If he wants to apologize to people that he specifically has hurt, he is welcome to do that.”
 
 </details>
 
@@ -15381,13 +15595,14 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Norman Finkelstein](/entities/person-norman-finkelstein.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I was very excited to sit down and have a conversation... with Norman Finkelstein.”
 - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#t-00-14-30): “when Norm Finkelstein was on our show”
 - [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): “a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:38:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-21): “numbers change and i was grateful to sit down with norm finkelstein and i asked him about that question you know because he's like my parents uh one of his parents was in auschwitz and the other parent was i'm blanking on which of the other camps they were in and he said he acknowledges it he's like yeah of course he said my parents told me some people were taking the tattoos off and some people were putting them on you”
 - [Candace Owens x Ana Kasparian @ 01:17:15](/episodes/ep-SKNJPul29zU.md#t-01-17-15): “I love that you're willing to have people like, you know, Norm Finkelstein on.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:51](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “We had Norm Finkelstein on this show.”
 
 </details>
 
@@ -15459,9 +15674,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:02:53](/episodes/ep-qZ8RWfyuewQ.md#t-01-02-53): “George (George Farmer) had never even met Milo at all not once in London until the day that I interviewed him here in this house”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:47:30](/episodes/ep-hWTdXHGQ8R4.md#t-00-47-30): “maybe you can get an interview with Milo (Milo Yiannopoulos) to talk about the Epstein files he could give insight because he had that drama a few years back he talks about underage gay parties with adults check his Rogan interview Milo (Milo Yiannopoulos) called this behavior out years ago i had on the show recently i don't believe we spoke about the Epstein files but you can find that episode”
 
 </details>
 
@@ -15575,7 +15791,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Justin Streiff](/entities/person-justin-streiff.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-34): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-44): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:17:20](/episodes/ep-B9TyCs-6o_0.md#t-00-16-52): “when I had the opportunity to sit down with Erika Kirk and Justin Streiff”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:15:30](/episodes/ep-7FS1tUeSfdE.md#t-00-14-57): “He was, as you will recall, also the person that Erika (Erika Kirk) brought with her for our four-hour sit-down meeting.”
 
@@ -15584,24 +15800,24 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Nelson Peltz](/entities/person-nelson-peltz.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:30](/episodes/ep-GY6GWceEqtQ.md#t-00-52-04): “I met I met Nelson Peltz. I like Nelson Peltz. I do.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:30](/episodes/ep-GY6GWceEqtQ.md#t-00-51-48): “I met I met Nelson Peltz. I like Nelson Peltz. I do.”
 
 </details>
 
 - **[David Beckham](/entities/person-david-beckham.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:27](/episodes/ep-GY6GWceEqtQ.md#t-00-52-04): “i've actually met both of their dads ... David Beckham strange circumstances also ended up somewhere”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:52:27](/episodes/ep-GY6GWceEqtQ.md#t-00-51-48): “i've actually met both of their dads ... David Beckham strange circumstances also ended up somewhere”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (17)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (18)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:50:20](/episodes/ep-OEAHy3SsIiI.md#t-00-49-35): “And that to me ran counter to my meeting with Erika (Erika Kirk).”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:48](/episodes/ep-HYn0P-P1wUw.md#t-00-26-34): “I decided to ask Erika (Erika Kirk) in person during our sit-down how she met Tyler (Tyler Bowyer).”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-34): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:07:17](/episodes/ep-QdM9jLwjwLw.md#t-00-07-17): “But Erika (Erika Kirk) during our face-to-face meeting had no recollection of his wife stepping off of the plane. When I asked, I said, was he with his wife?”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:08:44](/episodes/ep-GY6GWceEqtQ.md#t-00-08-44): “we had this open book discussion I sat down with Erika (Erika Kirk) and Justin Streiff”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:07:17](/episodes/ep-QdM9jLwjwLw.md#t-00-06-59): “But Erika (Erika Kirk) during our face-to-face meeting had no recollection of his wife stepping off of the plane. When I asked, I said, was he with his wife?”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:31:58](/episodes/ep-ti5Fxrvegno.md#t-00-31-37): “Erika (Erika Kirk) was in New York City. I met her at a steakhouse shortly thereafter.”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 02:45:28](/episodes/ep-nPhCKwJ6ye8.md#t-02-45-14): “Then again, context matters. I sit down with with Erika for four hours under the assumption that she had some evidence right like I'm like I actually this is why I did not engage in any like Erika everyone's questioning what she's wearing and all this stuff I was like I'm gonna wait here because I don't know just it feels weird to think that”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:04:34](/episodes/ep-DdPjoy5W-wY.md#t-00-04-27): “I also spoke to her and met with her”
@@ -15615,6 +15831,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [Candace Owens x Ana Kasparian @ 00:51:07](/episodes/ep-SKNJPul29zU.md#t-00-51-01): “I sat down with Erika (Erika Kirk) and she explained to me they were sort of moving toward this May date”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:39:47](/episodes/ep-X3VKJVJ7cN4.md#t-00-39-47): “My source was Andrew Kolvet. It was, I told Erika that when we met face to face.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:11:08](/episodes/ep-OgRyiOAVtWU.md#t-00-10-50): “And initially when I sat down with Erika (Erika Kirk), I did not know who Danny Philip was. How could I have known?”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:52:36](/episodes/ep-hWTdXHGQ8R4.md#t-00-51-58): “And I told you when I sat down with Erika (Erika Kirk), they didn't have anything. They weren't hiding anything.”
 
 </details>
 
@@ -15772,6 +15989,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Victoria Beckham](/entities/person-victoria-beckham.md)** supported by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:55:39](/episodes/ep-GY6GWceEqtQ.md#t-00-55-04): “And yeah, that's just, they can cut a check and support it from afar. Very team Victoria Beckham.”
+
+</details>
+
 - **[Hasan Piker](/entities/person-hasan-piker.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -15820,7 +16044,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:24](/episodes/ep-zSKrxIUMNqw.md#t-00-50-02): “Turning point action seems to be problematic.”
 - [A Legal Turning Point? | Candace Ep 292 @ 00:27:10](/episodes/ep-NIEbqsLAK8g.md#t-00-27-10): “Turning Point USA's lawyer is going to dispute Andrew and the worst person that PR money could buy, Paramount Tactical”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44): “Because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover-up.”
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:31:57](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-15): “A lot of the stuff, as we've said, the common theme here is what Turning Point is doing is legal, but it's also immoral.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:31:57](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-51): “A lot of the stuff, as we've said, the common theme here is what Turning Point is doing is legal, but it's also immoral.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:42:09](/episodes/ep-Wjul6YV6izo.md#t-00-41-36): “Satan is a liar. We're tracking the turning point USA lies.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:14:20](/episodes/ep-4YgrOhhy708.md#t-00-14-03): “Turning Point USA are effectively the righteous gemstones now if you don't like Erika (Erika Kirk) then it's because you don't like Jesus (Jesus Christ) if you don't like what turning points become it's because you do not like Jesus (Jesus Christ) this is our new purchased reality”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:35:47](/episodes/ep-_cNtgris8Ik.md#t-00-35-47): “That is why Turning Point USA is trash. They are trash for that. There was no confusion. It was just an attempt to smear me.”
@@ -15897,11 +16121,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** warned by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:06:59](/episodes/ep-mFuno0TuuQQ.md#t-00-06-56): “He was naive to what the wrong money could invite into his life. And I warned him.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:37:16](/episodes/ep-hWTdXHGQ8R4.md#t-00-36-41): “I wish that Charlie Kirk had listened to me because I warned him.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:24:09](/episodes/ep-cPidFQDJLbo.md#t-00-23-44): “Because I told him not to trust any of those people. All of the people that the world now sees are the snakes that were in Charlie (Charlie Kirk)'s garden, I saw them first, and I warned Charlie (Charlie Kirk) about those people.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:14:35](/episodes/ep-QdM9jLwjwLw.md#t-00-14-02): “But it was Stacy Sheridan, who I've told her since day one, I personally warned Charlie (Charlie Kirk) about her.”
 
 </details>
 
@@ -15930,7 +16155,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Mitch Snow](/entities/person-mitch-snow.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-31): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:11:31](/episodes/ep-QdM9jLwjwLw.md#t-00-11-28): “Now, my first 72 hours was a little bit different. On my end, when Mitchell (Mitch Snow), my PR agent sent me a very kind message about the infinite press requests that we had been receiving, people seeking a statement from me regarding how I felt about Charlie (Charlie Kirk)'s public assassination,”
 
 </details>
 
@@ -15974,7 +16199,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (4803)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (4856)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (27)</summary>
@@ -18326,7 +18551,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (26)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (25)</summary>
 
 - [00:03:08](/episodes/ep-h76ZN-xXC6c.md#t-00-03-00) [✓] (Claim) ["Candace Owens said Charlie Kirk may have been killed by a RØDE wireless micropho..."](/statements/statement-d98c1d72c175.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
@@ -18370,9 +18595,6 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:33:26](/episodes/ep-h76ZN-xXC6c.md#t-00-32-52) [○] (Opinion) ["Owens said Turning Point USA team's actions looked more suspicious to her than T..."](/statements/statement-4cf63e6df528.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-- [00:34:29](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19) [○] (Claim) ["Candace Owens said Michael McCoy did not call 911 after Charlie Kirk was shot an..."](/statements/statement-65843859383b.md)
-  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
 - [00:34:55](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19) [○] (Accusation) ["Owens said Blake Neff called his mother rather than 911 after Charlie Kirk was s..."](/statements/statement-ea591d600db9.md)
   - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -18405,6 +18627,119 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [01:09:05](/episodes/ep-h76ZN-xXC6c.md#t-01-08-51) [◐] (Claim) ["Owens said Charlie Kirk's necklace visibly broke before he reacted to the wound,..."](/statements/statement-d9cd5981541c.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (36)</summary>
+
+- [00:01:41](/episodes/ep-5NQyGuRYbU8.md#t-00-01-41) [○] (Accusation) ["Candace Owens accused Turning Point USA of making a complete and mysterious reve..."](/statements/statement-7537bc4551d4.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:02:27](/episodes/ep-5NQyGuRYbU8.md#t-00-02-27) [◐] (Claim) ["Candace Owens said Charlie Kirk formally rejected the narrative of the Butler, P..."](/statements/statement-9238347a8ba8.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:04:57](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45) [○] (Claim) ["Candace Owens said Michael McCoy did not call 911 after Charlie Kirk was shot an..."](/statements/statement-65843859383b.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:04](/episodes/ep-5NQyGuRYbU8.md#t-00-04-45) [○] (Claim) ["Candace Owens said a person identified in the cleaned transcript as Terrell, wit..."](/statements/statement-28e8ff4b5485.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:05:49](/episodes/ep-5NQyGuRYbU8.md#t-00-05-24) [○] (Accusation) ["Candace Owens accused Erika Kirk of rewarding Charlie Kirk's members and securit..."](/statements/statement-4d377e1599cf.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:14](/episodes/ep-5NQyGuRYbU8.md#t-00-06-03) [✓] (Claim) ["Candace Owens said Mark A. Liti died after an unknown object exploded in his bur..."](/statements/statement-8d3381aa7997.md)
+  - About: [Mark A. Liti](/entities/person-mark-liti.md), [Pennsylvania](/entities/gpe-pennsylvania.md)
+
+- [00:08:03](/episodes/ep-5NQyGuRYbU8.md#t-00-07-36) [✓] (Claim) ["Candace Owens said Mark A. Liti was a supervisor at SureFire Wireline LLC in Kit..."](/statements/statement-fb41aef8d211.md)
+  - About: [Mark A. Liti](/entities/person-mark-liti.md), [SureFire Wireline LLC](/entities/org-surefire-wireline.md), [Kittanning, Pennsylvania](/entities/gpe-kittanning-pennsylvania.md)
+
+- [00:08:33](/episodes/ep-5NQyGuRYbU8.md#t-00-08-15) [✗] (Claim) ["Candace Owens said SureFire Wireline's pump-down perforating work requires PETN ..."](/statements/statement-774523039260.md)
+  - About: [SureFire Wireline LLC](/entities/org-surefire-wireline.md), [PETN](/entities/concept-petn.md)
+
+- [00:09:22](/episodes/ep-5NQyGuRYbU8.md#t-00-08-53) [○] (Accusation) ["Candace Owens alleged that Mark A. Liti confessed to his longtime high-school fr..."](/statements/statement-a8dc6e8de59f.md)
+  - About: [Mark A. Liti](/entities/person-mark-liti.md), [SureFire Wireline LLC](/entities/org-surefire-wireline.md), [PETN](/entities/concept-petn.md)
+
+- [00:09:30](/episodes/ep-5NQyGuRYbU8.md#t-00-08-53) [○] (Accusation) ["Candace Owens said the ATF was apparently investigating Mark A. Liti for alleged..."](/statements/statement-a74383a15a76.md)
+  - About: [Mark A. Liti](/entities/person-mark-liti.md), [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md), [PETN](/entities/concept-petn.md)
+
+- [00:10:53](/episodes/ep-5NQyGuRYbU8.md#t-00-10-53) [○] (Claim) ["Candace Owens said Corey Comperatore was the longtime high-school friend to whom..."](/statements/statement-a03200bad64e.md)
+  - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Mark A. Liti](/entities/person-mark-liti.md)
+
+- [00:11:26](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) [○] (Claim) ["Candace Owens said an unknown woman unexpectedly escorted Corey Comperatore and ..."](/statements/statement-6079ef812e56.md)
+  - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:11:55](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) [✓] (Claim) ["Candace Owens said Corey Comperatore was then shot in the head at the Butler ral..."](/statements/statement-a286f1402e98.md)
+  - About: [Corey Comperatore](/entities/person-corey-comperatore.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:12:17](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01) [◐] (Claim) ["Candace Owens said the September 17-18, 2024 pager explosions across Lebanon and..."](/statements/statement-4d44c111cb98.md)
+  - About: [Lebanon](/entities/gpe-lebanon.md), [Syria](/entities/gpe-syria.md), [PETN](/entities/concept-petn.md)
+
+- [00:13:54](/episodes/ep-5NQyGuRYbU8.md#t-00-13-54) [✓] (Claim) ["Candace Owens said the pagers used in the September 2024 attack were rigged with..."](/statements/statement-43958b992678.md)
+  - About: [PETN](/entities/concept-petn.md), [Hezbollah](/entities/org-hezbollah.md), [Lebanon](/entities/gpe-lebanon.md)
+
+- [00:14:21](/episodes/ep-5NQyGuRYbU8.md#t-00-14-21) [✓] (Claim) ["Candace Owens said Israel carried out the September 2024 pager explosions."](/statements/statement-ceac50e2b0c0.md)
+  - About: [Israel](/entities/gpe-israel.md), [Mossad](/entities/org-mossad.md), [Lebanon](/entities/gpe-lebanon.md)
+
+- [00:14:49](/episodes/ep-5NQyGuRYbU8.md#t-00-14-21) [✓] (Claim) ["Candace Owens said Israel interrupted the pager supply chain by creating shell c..."](/statements/statement-1d838b92918b.md)
+  - About: [Israel](/entities/gpe-israel.md), [Mossad](/entities/org-mossad.md), [Hezbollah](/entities/org-hezbollah.md)
+
+- [00:17:23](/episodes/ep-5NQyGuRYbU8.md#t-00-16-56) [✓] (Citation) ["Candace Owens cited a Reuters graphic estimating that six grams of PETN were put..."](/statements/statement-8155a9b44c7e.md)
+  - About: [Reuters](/entities/org-reuters.md), [PETN](/entities/concept-petn.md)
+
+- [00:20:42](/episodes/ep-5NQyGuRYbU8.md#t-00-20-25) [◐] (Claim) ["Candace Owens said a test showed that 20 grams of PETN produced an impact compar..."](/statements/statement-a56b6279c3d6.md)
+  - About: [PETN](/entities/concept-petn.md), [YouTube](/entities/org-youtube.md)
+
+- [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) [✓] (Claim) ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager at the Wh..."](/statements/statement-d2fa62164eb6.md)
+  - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
+
+- [00:23:03](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31) [◐] (Accusation) ["Candace Owens accused the United States of supplying Israel with white phosphoru..."](/statements/statement-0d783c32b84b.md)
+  - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Lebanon](/entities/gpe-lebanon.md)
+
+- [00:27:59](/episodes/ep-5NQyGuRYbU8.md#t-00-27-34) [○] (Claim) ["Candace Owens said an FBI plane landed in Salt Lake City on September 8, two day..."](/statements/statement-395c6ab99170.md)
+  - About: [FBI](/entities/org-fbi.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:28:24](/episodes/ep-5NQyGuRYbU8.md#t-00-28-20) [○] (Claim) ["Candace Owens said the FBI plane left Richmond at 9:50 a.m., reached Salt Lake C..."](/statements/statement-db7072ff5529.md)
+  - About: [FBI](/entities/org-fbi.md), [Richmond, Virginia](/entities/gpe-richmond-virginia.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
+
+- [00:28:53](/episodes/ep-5NQyGuRYbU8.md#t-00-28-53) [✓] (Citation) ["Candace Owens said her FOIA request sought Kash Patel's official schedule, calen..."](/statements/statement-841d0ce9235c.md)
+  - About: [Kash Patel](/entities/person-kash-patel.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [FBI](/entities/org-fbi.md)
+
+- [00:34:01](/episodes/ep-5NQyGuRYbU8.md#t-00-33-25) [✓] (Promise) ["Candace Owens promised to keep filing requests until she got to the bottom of th..."](/statements/statement-53e946a74d19.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
+
+- [00:34:07](/episodes/ep-5NQyGuRYbU8.md#t-00-34-07) [○] (Accusation) ["Candace Owens accused Blake Neff and Turning Point USA of covering up informatio..."](/statements/statement-3755d2aa3f2f.md)
+  - About: [Blake Neff](/entities/person-blake-neff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:35:54](/episodes/ep-5NQyGuRYbU8.md#t-00-35-29) [○] (Accusation) ["Candace Owens accused Erika Kirk of serving as an emotional asset whose job was ..."](/statements/statement-79fa092c5d1d.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:36:58](/episodes/ep-5NQyGuRYbU8.md#t-00-36-53) [○] (Claim) ["Candace Owens said the White House was boosting an Erika Kirk clip and the Depar..."](/statements/statement-d2025aa7dc9e.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [White House](/entities/org-white-house.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
+
+- [00:39:55](/episodes/ep-5NQyGuRYbU8.md#t-00-39-36) [○] (Claim) ["Candace Owens said her husband independently remembered Tucker Carlson telling t..."](/statements/statement-3ce8d6dacd89.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:54](/episodes/ep-5NQyGuRYbU8.md#t-00-40-54) [○] (Accusation) ["Candace Owens said Tucker Carlson told her that Erika Kirk hated the pastors aro..."](/statements/statement-f37f61e45948.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:41:38](/episodes/ep-5NQyGuRYbU8.md#t-00-41-38) [○] (Accusation) ["Candace Owens accused Erika Kirk of playing both sides while pushing Charlie Kir..."](/statements/statement-4e9f3c1dbba8.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Anti-Israel sentiment](/entities/concept-anti-israel-sentiment.md)
+
+- [00:42:21](/episodes/ep-5NQyGuRYbU8.md#t-00-42-21) [○] (Claim) ["Candace Owens said Erika Kirk was anti-Israel in July before attending a pro-Isr..."](/statements/statement-f57f9d2de6a5.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Bill Ackman](/entities/person-bill-ackman.md), [Anti-Israel sentiment](/entities/concept-anti-israel-sentiment.md)
+
+- [00:42:34](/episodes/ep-5NQyGuRYbU8.md#t-00-42-21) [○] (Accusation) ["Candace Owens speculated that if Erika Kirk intentionally pushed Charlie Kirk to..."](/statements/statement-6eb2599977d3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Anti-Israel sentiment](/entities/concept-anti-israel-sentiment.md)
+
+- [00:43:30](/episodes/ep-5NQyGuRYbU8.md#t-00-43-02) [○] (Accusation) ["Candace Owens accused Erika Kirk of lying to Charlie Kirk about her views on Isr..."](/statements/statement-7c6a2e126c97.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
+
+- [00:49:07](/episodes/ep-5NQyGuRYbU8.md#t-00-48-41) [○] (Accusation) ["Candace Owens accused Turning Point USA of becoming remarkably corrupt in a shor..."](/statements/statement-e846adaf9625.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:51:02](/episodes/ep-5NQyGuRYbU8.md#t-00-50-41) [○] (Claim) ["Candace Owens said her account of Tucker Carlson's dinner with Charlie and Erika..."](/statements/statement-6137d4a5a9a1.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 
@@ -22212,7 +22547,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (45)</summary>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (46)</summary>
 
 - [00:00:00](/episodes/ep-ZAsV0fHGBiM.md#t-00-00-00) [◐] (Accusation) ["Erika Kirk, despite having no professional qualifications, was placed at the top..."](/statements/statement-e96658700847.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -22238,7 +22573,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:13:04](/episodes/ep-ZAsV0fHGBiM.md#t-00-12-53) [◐] (Claim) ["The author of The Assault on Truth controlled the Sigmund Freud Archives and los..."](/statements/statement-4498ab606dc4.md)
   - About: [The Assault on Truth: Freud's Suppression of the Seduction Theory](/entities/work-the-assault-on-truth.md), [Sigmund Freud](/entities/person-sigmund-freud.md)
 
-- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) [○] (Accusation) ["The Manson murders and the events of the 1960s were the U.S. government and CIA ..."](/statements/statement-58c0cd378779.md)
+- [00:13:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-13-33) [○] (Accusation) ["The Manson murders and the events of the '60s were the U.S. government and CIA '..."](/statements/statement-58c0cd378779.md)
   - About: [Charles Manson](/entities/person-charles-manson.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
 - [00:14:20](/episodes/ep-ZAsV0fHGBiM.md#t-00-14-13) [✗] (Accusation) ["If you think that MKUltra ever stopped, I hope that the Epstein files and the st..."](/statements/statement-2f046a337a54.md)
@@ -22252,6 +22587,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:15:50](/episodes/ep-ZAsV0fHGBiM.md#t-00-15-39) [○] (Claim) ["Candace Owens sent Erika Kirk four questions about past statements that did not ..."](/statements/statement-baf5e2632b31.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+- [00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24) [✓] (Citation) ["Erika Kirk confirmed to The New York Times that the least traumatizing part of C..."](/statements/statement-e2816d35af3b.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:17:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-17-08) [◐] (Claim) ["Erika Kirk was not raised by a single mother; her father was always in her life ..."](/statements/statement-e006c73e20e7.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Kent Randall Frantzve](/entities/person-kent-randall-frantzve.md)
@@ -22331,7 +22669,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:45:51](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) [◐] (Claim) ["Jack Solomon and Norman Vance founded Advanced Patent Technology in 1968; it man..."](/statements/statement-2e0ea31a6b66.md)
   - About: [Jack David Solomon](/entities/person-jack-david-solomon.md), [Norman LaVerne Vance](/entities/person-norman-laverne-vance.md), [Advanced Patent Technology, Inc.](/entities/org-advanced-patent-technology.md)
 
-- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) [✓] (Claim) ["Erika Kirk was living in Arizona before her parents divorced in 1998, contrary t..."](/statements/statement-284a8c2d9ea5.md)
+- [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) [✓] (Claim) ["After attending daycare in Cincinnati in 1992, Erika Kirk moved to Arizona befor..."](/statements/statement-284a8c2d9ea5.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Arizona](/entities/gpe-arizona.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
 
 - [00:50:33](/episodes/ep-ZAsV0fHGBiM.md#t-00-50-23) [○] (Claim) ["Erika Kirk attended Walnut Corner Children's Center in Cincinnati in 1992 before..."](/statements/statement-b0345e34cb8d.md)
@@ -22369,7 +22707,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:14:25](/episodes/ep-1hcjQGgvxUY.md#t-00-13-57) [○] (Claim) ["Candace Owens reports that Jillian Falcon and Erika Kirk never met in person aga..."](/statements/statement-94a9eff8d7fe.md)
   - About: [Jillian Falcon](/entities/person-jillian-falcon.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:15:34](/episodes/ep-1hcjQGgvxUY.md#t-00-15-23) [○] (Claim) ["Erika Kirk arranged for 15-year-old Jillian Falcon to have photographs taken by ..."](/statements/statement-11bfa4323505.md)
+- [00:15:34](/episodes/ep-1hcjQGgvxUY.md#t-00-15-23) [○] (Claim) ["Candace Owens says Jillian Falcon told her that Erika Kirk arranged for 15-year-..."](/statements/statement-11bfa4323505.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Jillian Falcon](/entities/person-jillian-falcon.md)
 
 - [00:16:40](/episodes/ep-1hcjQGgvxUY.md#t-00-16-04) [○] (Accusation) ["Candace Owens calls Erika Kirk's alleged arrangement of a photo shoot for a 15-y..."](/statements/statement-6483e6b288b8.md)
@@ -22426,7 +22764,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:41:08](/episodes/ep-1hcjQGgvxUY.md#t-00-40-58) [○] (Opinion) ["Candace Owens retired from politics on the day Charlie Kirk was killed because s..."](/statements/statement-06278ec0beae.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) [○] (Accusation) ["Candace Owens says Alex Clark demanded that Seth Dillon call Owens's sponsors an..."](/statements/statement-a831f72ad994.md)
+- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) [○] (Accusation) ["Candace Owens says Alex Clark apparently demanded that Seth Dillon call Owens's ..."](/statements/statement-a831f72ad994.md)
   - About: [Alex Clark](/entities/person-alex-clark.md), [Seth Dillon](/entities/person-seth-dillon.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11) [○] (Accusation) ["Candace Owens says she thinks Steven Crowder knew he was distributing 'Fed slop'..."](/statements/statement-65babe2d7be9.md)
@@ -22452,7 +22790,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:18:54](/episodes/ep-hWTdXHGQ8R4.md#t-00-18-48) [○] (Claim) ["I think Charlie Kirk removed his wedding photo from his home set on September 9."](/statements/statement-05607cf31763.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:20:19](/episodes/ep-hWTdXHGQ8R4.md#t-00-20-04) [○] (Accusation) ["I believe Charlie and Erika Kirk had a major argument during Charlie Kirk's fina..."](/statements/statement-71887bb7b231.md)
+- [00:20:19](/episodes/ep-hWTdXHGQ8R4.md#t-00-20-04) [○] (Accusation) ["I feel, and I could be wrong, that Charlie and Erika Kirk had a major argument d..."](/statements/statement-71887bb7b231.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:20:30](/episodes/ep-hWTdXHGQ8R4.md#t-00-20-30) [○] (Accusation) ["Turning Point USA and Erika Kirk have not honestly portrayed Charlie and Erika K..."](/statements/statement-7e69d590b952.md)
@@ -22500,7 +22838,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (13)</summary>
+<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (16)</summary>
 
 - [00:01:09](/episodes/ep-ti5Fxrvegno.md#t-00-00-45) [○] (Opinion) ["Erika Kirk should be taken to a police precinct for questioning."](/statements/statement-76ca6651e83f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -22513,6 +22851,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:12:13](/episodes/ep-ti5Fxrvegno.md#t-00-12-13) [?] (Accusation) ["What sort of best friend would protect her daughter based on intuition but not c..."](/statements/statement-d04d0bfff82d.md)
   - About: [Tracy Martin](/entities/person-tracy-martin.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:34](/episodes/ep-ti5Fxrvegno.md#t-00-12-58) [✓] (Accusation) ["Candace Owens said Erika Kirk allegedly initiated and participated in the three-..."](/statements/statement-0405ad7119c3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:16:07](/episodes/ep-ti5Fxrvegno.md#t-00-15-44) [✓] (Claim) ["Candace Owens said Charlie Kirk rejected hosting Benjamin Netanyahu on his show ..."](/statements/statement-810751682abb.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
 
 - [00:16:32](/episodes/ep-ti5Fxrvegno.md#t-00-16-27) [?] (Claim) ["Benjamin Netanyahu, Erika Kirk, and Ben Shapiro were scheduled to film something..."](/statements/statement-ca0b88460c1c.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Erika Kirk](/entities/person-erika-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -22540,6 +22884,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:46:21](/episodes/ep-ti5Fxrvegno.md#t-00-45-47) [?] (Accusation) ["People are being killed on American soil because foreign nations have an issue w..."](/statements/statement-1b8266b81682.md)
   - About: [United States](/entities/gpe-united-states.md)
+
+- [00:47:10](/episodes/ep-ti5Fxrvegno.md#t-00-46-54) [✓] (Promise) ["Candace Owens said she would retire from podcasting if the federal government ad..."](/statements/statement-103fe5bc592b.md)
+  - About: [the federal government](/entities/org-the-federal-government.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -22642,7 +22989,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (14)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (18)</summary>
 
 - [00:02:25](/episodes/ep-mFuno0TuuQQ.md#t-00-01-56) [○] (Accusation) ["Turning Point USA had the first access to 4K footage, seized the cameras, was ca..."](/statements/statement-e14df9518c67.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -22656,22 +23003,34 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:09:33](/episodes/ep-mFuno0TuuQQ.md#t-00-09-03) [○] (Claim) ["Charlie Kirk predicted his own death in detailed written messages and expressed ..."](/statements/statement-244422d9e416.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:12:26](/episodes/ep-mFuno0TuuQQ.md#t-00-11-55) [○] (Accusation) ["Erika Kirk and Justin Streiff lied about knowing Pierre Falcone, even though bot..."](/statements/statement-171d680155e3.md)
+- [00:12:26](/episodes/ep-mFuno0TuuQQ.md#t-00-11-55) [○] (Accusation) ["Candace Owens accused Erika Kirk and Justin Streiff of lying about knowing Pierr..."](/statements/statement-171d680155e3.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
+
+- [00:13:09](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40) [○] (Claim) ["Candace Owens said a deal with Pierre Falcone worth billions of dollars went thr..."](/statements/statement-0eb93f1270e5.md)
+  - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:13:27](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22) [○] (Claim) ["Pierre Falcone spoke with Justin Streiff and another Turning Point USA represent..."](/statements/statement-71178c913be4.md)
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:19:00](/episodes/ep-mFuno0TuuQQ.md#t-00-18-38) [○] (Accusation) ["France and Israel were involved in Charlie Kirk's assassination."](/statements/statement-ec63bfd7c4f9.md)
+- [00:16:41](/episodes/ep-mFuno0TuuQQ.md#t-00-16-39) [○] (Claim) ["Candace Owens said Andrew Kolvet told her that Benjamin Netanyahu offered to tak..."](/statements/statement-f609ed16db52.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:17:51](/episodes/ep-mFuno0TuuQQ.md#t-00-17-23) [◐] (Claim) ["Candace Owens said that, according to Andrew Kolvet, Charlie Kirk declined to ho..."](/statements/statement-763344341425.md)
+  - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:18:34](/episodes/ep-mFuno0TuuQQ.md#t-00-18-08) [◐] (Claim) ["Candace Owens said Turning Point USA was already worth $100 million and was clos..."](/statements/statement-7dadf2b33743.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:19:00](/episodes/ep-mFuno0TuuQQ.md#t-00-18-38) [○] (Accusation) ["Candace Owens said, 'I think France and Israel are involved in Charlie Kirk's as..."](/statements/statement-ec63bfd7c4f9.md)
   - About: [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:19:08](/episodes/ep-mFuno0TuuQQ.md#t-00-19-08) [○] (Accusation) ["I also now have very strong evidence which suggests that you lied about your whe..."](/statements/statement-35355faecacf.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:20:05](/episodes/ep-mFuno0TuuQQ.md#t-00-20-05) [○] (Accusation) ["Erika Kirk waited about an hour for Andrew Kolvet to land and embraced him on th..."](/statements/statement-86bfdd14d7d9.md)
+- [00:20:05](/episodes/ep-mFuno0TuuQQ.md#t-00-20-05) [○] (Claim) ["Candace Owens said Andrew Kolvet told her that he and Erika Kirk embraced on the..."](/statements/statement-86bfdd14d7d9.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-- [00:29:42](/episodes/ep-mFuno0TuuQQ.md#t-00-29-10) [○] (Accusation) ["The Turning Point USA firings were motivated by targeting people suspected of di..."](/statements/statement-78472a8d8e64.md)
+- [00:29:42](/episodes/ep-mFuno0TuuQQ.md#t-00-29-10) [○] (Accusation) ["Candace Owens said she thought the Turning Point USA firings were motivated by t..."](/statements/statement-78472a8d8e64.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:32:04](/episodes/ep-mFuno0TuuQQ.md#t-00-31-20) [○] (Accusation) ["AmericaFest looked like pay-to-play, and it seemed like Israel was paying."](/statements/statement-1277ab577b1b.md)
@@ -22680,7 +23039,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:35:07](/episodes/ep-mFuno0TuuQQ.md#t-00-34-53) [◐] (Claim) ["Fired Turning Point USA employees received no bonus or other support and started..."](/statements/statement-edd8f815a8c8.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [GoFundMe](/entities/org-gofundme.md)
 
-- [00:40:57](/episodes/ep-mFuno0TuuQQ.md#t-00-40-32) [○] (Accusation) ["A very well-planned, military-level psychological operation was intended to trau..."](/statements/statement-e0a0e4ecea6f.md)
+- [00:40:57](/episodes/ep-mFuno0TuuQQ.md#t-00-40-32) [○] (Accusation) ["Candace Owens said she thought a very well-planned, military-level psychological..."](/statements/statement-e0a0e4ecea6f.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Psychological operations](/entities/concept-psychological-operations.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:44:07](/episodes/ep-mFuno0TuuQQ.md#t-00-44-01) [○] (Claim) ["Turning Point USA also fired Aubrey Laitsch's fiancé, wiping out the household's..."](/statements/statement-b3038e6e6707.md)
@@ -22825,8 +23184,8 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:23:42](/episodes/ep-QRS_hR7NXaQ.md#t-00-23-23) [◐] (Claim) ["On September 7, 2025, three days before Charlie Kirk died, Erika Kirk posted her..."](/statements/statement-4aa2585ad158.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:25:20](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-42) [○] (Claim) ["Michael McCoy called his wife before calling Erika Kirk after Charlie Kirk was s..."](/statements/statement-147b258e47d4.md)
-  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [00:24:54](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-42) [○] (Claim) ["Michael McCoy called his wife before calling Erika Kirk."](/statements/statement-147b258e47d4.md)
+  - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:25:34](/episodes/ep-QRS_hR7NXaQ.md#t-00-25-24) [○] (Claim) ["Michael McCoy called Erika Kirk more than three minutes later and added her to t..."](/statements/statement-8ac90651df3d.md)
   - About: [Michael McCoy](/entities/person-michael-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -22840,7 +23199,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:27:11](/episodes/ep-QRS_hR7NXaQ.md#t-00-26-37) [○] (Claim) ["Lori Frantzve has Lyme disease, and Charlie Kirk had told Candace Owens that he ..."](/statements/statement-a7672e8353a0.md)
   - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Europe](/entities/gpe-europe.md)
 
-- [00:28:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-27-58) [○] (Claim) ["On September 8, Charlie Kirk took Lori Frantzve to a clinic for Lyme-disease tre..."](/statements/statement-68103e28f508.md)
+- [00:28:18](/episodes/ep-QRS_hR7NXaQ.md#t-00-27-58) [○] (Claim) ["Candace Owens said she had learned, and believed it accurate, that on September ..."](/statements/statement-68103e28f508.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
 
 - [00:29:09](/episodes/ep-QRS_hR7NXaQ.md#t-00-28-41) [◐] (Claim) ["Charlie Kirk returned from Korea and Tokyo very late on September 7 or early on ..."](/statements/statement-bbfcb0da24ce.md)
@@ -22926,10 +23285,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:28:29](/episodes/ep-CEF7gQRWYCE.md#t-00-28-00) [?] (Claim) ["Palantir personnel were placed at Fort Huachuca in July."](/statements/statement-0edc61c073b8.md)
   - About: [Palantir Technologies](/entities/org-palantir-technologies.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
-- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) [?] (Accusation) ["Andrew Kolvet, Michael McCoy, and McCoy's wife met with senior White House offic..."](/statements/statement-58c3c37a76f1.md)
+- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) [?] (Accusation) ["Candace Owens said Andrew Kolvet and, allegedly, Michael McCoy and McCoy's wife ..."](/statements/statement-58c3c37a76f1.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md), [White House](/entities/org-white-house.md)
 
-- [00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-31-05) [◐] (Accusation) ["Jeffrey Epstein trafficked people through modeling and pageant organizations, in..."](/statements/statement-0072d63905d3.md)
+- [00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-31-05) [◐] (Accusation) ["Jeffrey Epstein and Jean-Luc Brunel trafficked through modeling organizations su..."](/statements/statement-0072d63905d3.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md), [MC2 Model Management](/entities/org-mc2-model-management.md)
 
 - [00:33:57](/episodes/ep-CEF7gQRWYCE.md#t-00-33-44) [✗] (Claim) ["Hillary Clinton sought the location of Gilgamesh's tomb a few days before the Un..."](/statements/statement-2fc68010550a.md)
@@ -22944,7 +23303,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:39:12](/episodes/ep-CEF7gQRWYCE.md#t-00-38-44) [◐] (Claim) ["Josh Hammer clarified that Charlie Kirk sent the message about abandoning the pr..."](/statements/statement-e58d9c8b9844.md)
   - About: [Josh Hammer](/entities/person-josh-hammer.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
 
-- [00:44:04](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43) [?] (Accusation) ["Charlie Kirk's warning that 'they' were going to kill him referred to Israel."](/statements/statement-0e44b7398934.md)
+- [00:44:04](/episodes/ep-CEF7gQRWYCE.md#t-00-43-43) [?] (Accusation) ["Candace Owens said she believed Charlie Kirk's warning that 'they' were going to..."](/statements/statement-0e44b7398934.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:44:53](/episodes/ep-CEF7gQRWYCE.md#t-00-44-28) [?] (Accusation) ["Erika Kirk twice lied about Charlie Kirk's message to Dan Flood: first denying i..."](/statements/statement-308b34519eea.md)
@@ -22956,10 +23315,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (18)</summary>
+<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (19)</summary>
 
 - [00:00:26](/episodes/ep-Wjul6YV6izo.md#t-00-00-00) [○] (Opinion) ["Turning Point Faith feels a bit psyoppy, like a psychological operation."](/statements/statement-53940d78332e.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md)
+
+- [00:01:45](/episodes/ep-Wjul6YV6izo.md#t-00-01-30) [○] (Claim) ["Erika Kirk told Candace Owens that Turning Point USA hired a crisis PR team beca..."](/statements/statement-17981c5664f3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:08:21](/episodes/ep-Wjul6YV6izo.md#t-00-07-37) [◐] (Claim) ["Vanessa Bryant's first interview after Kobe Bryant's death was four months later..."](/statements/statement-b313115e63cf.md)
   - About: [Vanessa Bryant](/entities/person-vanessa-bryant.md), [Kobe Bryant](/entities/person-kobe-bryant.md), [Naismith Memorial Basketball Hall of Fame](/entities/org-naismith-memorial-basketball-hall-of-fame.md)
@@ -22973,7 +23335,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:25:39](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) [◐] (Citation) ["Archived State Farm Stadium calendars showed no RV show scheduled for the weeken..."](/statements/statement-7bbcc406efeb.md)
   - About: [State Farm Stadium](/entities/org-state-farm-stadium.md), [Wayback Machine](/entities/work-wayback-machine.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:29:02](/episodes/ep-Wjul6YV6izo.md#t-00-28-30) [○] (Accusation) ["The anonymous email source was deliberately targeted in a church by Turning Poin..."](/statements/statement-24340c165afd.md)
+- [00:29:02](/episodes/ep-Wjul6YV6izo.md#t-00-28-30) [○] (Accusation) ["Candace Owens accused Stacy Sheridan, acting at Erika Kirk's direction, of targe..."](/statements/statement-24340c165afd.md)
   - About: [Anonymous Source #1 (Ep Wjul6YV6izo)](/entities/anon-src-Wjul6YV6izo-001.md), [Erika Kirk](/entities/person-erika-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md)
 
 - [00:35:44](/episodes/ep-Wjul6YV6izo.md#t-00-35-35) [◐] (Accusation) ["Turning Point USA figures used people's trauma, emotions, and spirituality to ma..."](/statements/statement-97cbb3f7f53b.md)
@@ -23009,13 +23371,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:57:25](/episodes/ep-Wjul6YV6izo.md#t-00-57-25) [◐] (Promise) ["Candace Owens will produce a two-episode profile about Erika Kirk's background t..."](/statements/statement-6ccd4c34e2fa.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:58:15](/episodes/ep-Wjul6YV6izo.md#t-00-57-51) [○] (Opinion) ["Zionism is an objectively racist philosophy."](/statements/statement-ad5978ae882b.md)
+- [00:58:15](/episodes/ep-Wjul6YV6izo.md#t-00-57-51) [✓] (Opinion) ["Candace Owens said she now believes that Zionism is an objectively racist philos..."](/statements/statement-ad5978ae882b.md)
   - About: [Zionism](/entities/concept-zionism.md)
 
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (19)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (23)</summary>
 
 - [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) [○] (Accusation) ["The Daily Wire refused to host Bassem Youssef because he had hurt Ben Shapiro's ..."](/statements/statement-07991641f9f1.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -23029,14 +23391,17 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:23:19](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52) [○] (Accusation) ["Rob McCoy was not close to Charlie Kirk near the end because Kirk could not stan..."](/statements/statement-944e021ef357.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:23:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-23-34) [○] (Claim) ["The 1960s were a period of military social-engineering experiments conducted thr..."](/statements/statement-444c368e6213.md)
+- [00:23:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-23-34) [○] (Claim) ["The 60s were a period of military social-engineering experiments conducted throu..."](/statements/statement-444c368e6213.md)
   - About: [Manson Family murders](/entities/event-manson-family-murders.md), [United States](/entities/gpe-united-states.md)
 
-- [00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-25-41) [○] (Opinion) ["Candace Owens and Charlie Kirk genuinely supported Israel because they believed ..."](/statements/statement-eddb81ad71ef.md)
+- [00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-09) [○] (Opinion) ["Candace Owens and Charlie Kirk genuinely supported Israel because they believed ..."](/statements/statement-eddb81ad71ef.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:28:30](/episodes/ep-xjzb_t5Tk9o.md#t-00-28-30) [○] (Claim) ["Charlie Kirk did not run his Twitter feed; Andrew Kolvet did."](/statements/statement-a0ce59f5bb16.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [X](/entities/org-x-platform.md)
+
+- [00:29:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-29-27) [✓] (Claim) ["Candace Owens said Charlie Kirk was changing and had written that he had no choi..."](/statements/statement-e53e9c33f4b6.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:38:00](/episodes/ep-xjzb_t5Tk9o.md#t-00-37-51) [◐] (Citation) ["The Auschwitz Museum said that many claims made about Josef Mengele were fabrica..."](/statements/statement-57ffefc420c4.md)
   - About: [Auschwitz-Birkenau State Museum](/entities/org-auschwitz-birkenau-state-museum.md), [Josef Mengele](/entities/person-josef-mengele.md), [World War II](/entities/event-world-war-ii.md)
@@ -23044,14 +23409,20 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:38:55](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-44) [◐] (Accusation) ["Christians, not Jews, were the largest victim group of World War II, and schools..."](/statements/statement-182bf867460f.md)
   - About: [World War II](/entities/event-world-war-ii.md), [Christians](/entities/concept-christians.md), [Judaism](/entities/concept-judaism.md)
 
+- [00:59:16](/episodes/ep-xjzb_t5Tk9o.md#t-00-59-16) [◐] (Accusation) ["Candace Owens said Australia banned her for standing up for Palestinians and inn..."](/statements/statement-700851080c3a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md), [Palestine](/entities/gpe-palestine.md)
+
 - [01:06:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-12) [○] (Accusation) ["The media company where Candace Owens worked used her to appear committed to fre..."](/statements/statement-2a737a7f8122.md)
   - About: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [01:09:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-18) [○] (Accusation) ["Candace Owens is convinced the Egyptian planes connected to Charlie Kirk were Is..."](/statements/statement-cca1d6a784f0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Egypt](/entities/gpe-egypt.md)
 
-- [01:09:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-30) [○] (Claim) ["A dead Palestinian's exact full name appeared on the list of names connected to ..."](/statements/statement-f9e8a15fff29.md)
+- [01:09:31](/episodes/ep-xjzb_t5Tk9o.md#t-01-09-31) [○] (Claim) ["A dead Palestinian's exact full name appeared on the list of names connected to ..."](/statements/statement-f9e8a15fff29.md)
   - About: [Palestine](/entities/gpe-palestine.md), [Egypt](/entities/gpe-egypt.md)
+
+- [01:10:50](/episodes/ep-xjzb_t5Tk9o.md#t-01-10-43) [✓] (Accusation) ["Candace Owens implied that Israel has a blackmail file on Lindsey Graham that ma..."](/statements/statement-7a4a955214b1.md)
+  - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 - [01:12:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-17) [○] (Accusation) ["The CIA traffics human beings."](/statements/statement-fa17dca9df6b.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
@@ -23065,90 +23436,107 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [01:36:50](/episodes/ep-xjzb_t5Tk9o.md#t-01-36-50) [○] (Opinion) ["The United States is a psychological experiment shaped through control of media,..."](/statements/statement-ad218993eadf.md)
   - About: [United States](/entities/gpe-united-states.md), [Hollywood](/entities/gpe-hollywood.md)
 
-- [01:39:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-08) [○] (Opinion) ["Candace Owens withdrew her support from Donald Trump over his treatment of the E..."](/statements/statement-dec0d6bb2431.md)
-  - About: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+- [01:39:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-08) [○] (Opinion) ["Asked whether she was still 'Team Trump,' Candace Owens answered no and said she..."](/statements/statement-dec0d6bb2431.md)
+  - About: [Donald J. Trump](/entities/person-donald-trump.md)
 
-- [01:40:02](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-02) [◐] (Accusation) ["The U.S. military hired Michael Aquino to run psychological operations because o..."](/statements/statement-c43c2657be6a.md)
+- [01:40:02](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-02) [◐] (Accusation) ["The U.S. military hired Michael Aquino to run psychological operations because h..."](/statements/statement-c43c2657be6a.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [Temple of Set](/entities/org-temple-of-set.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [01:44:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-14) [○] (Accusation) ["The post-9/11 media environment conditioned children to fear Muslims so the Unit..."](/statements/statement-2350154ebb84.md)
   - About: [Islam](/entities/concept-islam.md), [Middle East](/entities/gpe-middle-east.md), [Israel](/entities/gpe-israel.md)
 
+- [01:44:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) [✓] (Promise) ["Candace Owens said she will find out who killed Charlie Kirk."](/statements/statement-26964063f24a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (24)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (29)</summary>
 
-- [00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-07) [○] (Accusation) ["I believe Erika Kirk was intimately involved in PR messaging and campaigns again..."](/statements/statement-47efce043ea4.md)
+- [00:01:32](/episodes/ep-QdM9jLwjwLw.md#t-00-01-26) [✓] (Claim) ["Owens said the prior episode mistakenly showed Bob Ferguson as Bob Flood, that F..."](/statements/statement-b8e728ebea82.md)
+
+- [00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-40) [○] (Accusation) ["I believe Erika Kirk was intimately involved in PR messaging and campaigns again..."](/statements/statement-47efce043ea4.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-02-52) [○] (Accusation) ["Erika Kirk lied about Andrew Kolvet and Dr. Lee Trotter going rogue and violatin..."](/statements/statement-2824555a224c.md)
+- [00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-03-02) [○] (Accusation) ["Erika Kirk lied about Andrew Kolvet and Dr. Lee Trotter going rogue and violatin..."](/statements/statement-2824555a224c.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Lee Trotter](/entities/person-lee-trotter.md)
 
-- [00:03:54](/episodes/ep-QdM9jLwjwLw.md#t-00-03-36) [○] (Claim) ["Erika Kirk attended the Hamptons retreat and was present when Benjamin Netanyahu..."](/statements/statement-114253bc2666.md)
+- [00:03:54](/episodes/ep-QdM9jLwjwLw.md#t-00-03-43) [○] (Claim) ["Erika Kirk attended the Hamptons retreat and was present when Benjamin Netanyahu..."](/statements/statement-114253bc2666.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:04:14](/episodes/ep-QdM9jLwjwLw.md#t-00-03-36) [○] (Claim) ["Andrew Kolvet said Benjamin Netanyahu offered to fund Turning Point USA 'to the ..."](/statements/statement-79edb97ebcdb.md)
+- [00:04:14](/episodes/ep-QdM9jLwjwLw.md#t-00-03-43) [○] (Claim) ["Andrew Kolvet said Benjamin Netanyahu offered to fund Turning Point USA 'to the ..."](/statements/statement-79edb97ebcdb.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:04:19](/episodes/ep-QdM9jLwjwLw.md#t-00-04-19) [○] (Claim) ["Two people unrelated to Andrew Kolvet corroborated his account of Netanyahu offe..."](/statements/statement-bcb47b271910.md)
+- [00:04:19](/episodes/ep-QdM9jLwjwLw.md#t-00-03-43) [○] (Claim) ["Two people unrelated to Andrew Kolvet corroborated his account of Netanyahu offe..."](/statements/statement-bcb47b271910.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:04:29](/episodes/ep-QdM9jLwjwLw.md#t-00-04-19) [◐] (Claim) ["Erika Kirk said Netanyahu made no funding offer and called about Charlie Kirk's ..."](/statements/statement-b12d7c13cc68.md)
+- [00:04:29](/episodes/ep-QdM9jLwjwLw.md#t-00-04-25) [◐] (Claim) ["Erika Kirk said Netanyahu made no funding offer and called about Charlie Kirk's ..."](/statements/statement-b12d7c13cc68.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:04:39](/episodes/ep-QdM9jLwjwLw.md#t-00-04-19) [○] (Claim) ["Andrew Kolvet told me Charlie Kirk described the Hamptons summit as an intervent..."](/statements/statement-eb7c304afb25.md)
+- [00:04:39](/episodes/ep-QdM9jLwjwLw.md#t-00-04-25) [○] (Claim) ["Andrew Kolvet told me Charlie Kirk described the Hamptons summit as an intervent..."](/statements/statement-eb7c304afb25.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
-- [00:05:15](/episodes/ep-QdM9jLwjwLw.md#t-00-05-15) [○] (Claim) ["Erika Kirk and Andrew Kolvet worked together on the Fort Huachuca PR response."](/statements/statement-e41a6e2314e4.md)
+- [00:05:15](/episodes/ep-QdM9jLwjwLw.md#t-00-05-05) [○] (Claim) ["Erika Kirk and Andrew Kolvet worked together on the Fort Huachuca PR response."](/statements/statement-e41a6e2314e4.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
-- [00:10:12](/episodes/ep-QdM9jLwjwLw.md#t-00-09-30) [○] (Claim) ["The Turning Point USA board selected Erika Kirk as CEO within about 72 hours of ..."](/statements/statement-13637339e6d4.md)
+- [00:10:12](/episodes/ep-QdM9jLwjwLw.md#t-00-09-48) [○] (Claim) ["The Turning Point USA board selected Erika Kirk as CEO within about 72 hours of ..."](/statements/statement-13637339e6d4.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-- [00:15:30](/episodes/ep-QdM9jLwjwLw.md#t-00-14-50) [○] (Claim) ["No member of Erika Kirk's immediate family was at the hospital; she was accompan..."](/statements/statement-0b1bd3df5a88.md)
+- [00:13:03](/episodes/ep-QdM9jLwjwLw.md#t-00-12-40) [○] (Claim) ["No member of Erika Kirk's immediate family was at the hospital; she was accompan..."](/statements/statement-0b1bd3df5a88.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:31:19](/episodes/ep-QdM9jLwjwLw.md#t-00-30-50) [○] (Accusation) ["I believe Erika Kirk orchestrated the PR campaign from behind the scenes while a..."](/statements/statement-6d8e0b8baead.md)
+- [00:13:50](/episodes/ep-QdM9jLwjwLw.md#t-00-13-22) [○] (Claim) ["Stacy Sheridan, Turning Point USA's head of fundraising, filmed Charlie Kirk in ..."](/statements/statement-f9592bce4f7b.md)
+  - About: [Stacy Sheridan](/entities/person-stacy-sheridan.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:16:46](/episodes/ep-QdM9jLwjwLw.md#t-00-16-46) [◐] (Accusation) ["Owens said Turning Point USA fired employees after raising a quarter billion dol..."](/statements/statement-638a6657d18a.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:31:11](/episodes/ep-QdM9jLwjwLw.md#t-00-31-11) [○] (Accusation) ["I believe Erika Kirk orchestrated the PR campaign from behind the scenes while a..."](/statements/statement-6d8e0b8baead.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:31:49](/episodes/ep-QdM9jLwjwLw.md#t-00-31-26) [○] (Claim) ["Erika Kirk and Andrew Kolvet held the three-way call with Charlie Kirk's surgeon..."](/statements/statement-398e4130e758.md)
+- [00:31:49](/episodes/ep-QdM9jLwjwLw.md#t-00-31-49) [○] (Claim) ["Erika Kirk and Andrew Kolvet held the three-way call with Charlie Kirk's surgeon..."](/statements/statement-398e4130e758.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55) [◐] (Accusation) ["TPUSA employees were fired because Marina Minas conducted loyalty tests based on..."](/statements/statement-27d005de6f1a.md)
+- [00:33:14](/episodes/ep-QdM9jLwjwLw.md#t-00-33-14) [◐] (Accusation) ["TPUSA employees were fired because Marina Minas conducted loyalty tests based on..."](/statements/statement-27d005de6f1a.md)
   - About: [Marina Minas](/entities/person-marina-minas.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:46:53](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30) [◐] (Accusation) ["Owens said she was told Jeremy Boreing spent about $67 million on his film proje..."](/statements/statement-e105cd32e317.md)
+- [00:46:53](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24) [◐] (Accusation) ["Owens said she was told Jeremy Boreing spent about $67 million on his film proje..."](/statements/statement-e105cd32e317.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 - [00:47:18](/episodes/ep-QdM9jLwjwLw.md#t-00-46-53) [○] (Accusation) ["The Daily Wire emptied a savings account and borrowed money personally from Ben ..."](/statements/statement-ddbe7f83380d.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-24) [○] (Accusation) ["Owens sarcastically characterized The Daily Wire's decision as a plan to create ..."](/statements/statement-6470de56359a.md)
+- [00:50:09](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) [○] (Claim) ["Jeremy Boreing told Owens that The Daily Wire suspected she might have been secr..."](/statements/statement-173c5f852dca.md)
+  - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
+
+- [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) [○] (Accusation) ["Owens sarcastically characterized The Daily Wire's decision as a plan to create ..."](/statements/statement-6470de56359a.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:51:17](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) [○] (Claim) ["Jeremy Boreing personally reviewed Andrew Klavan's first episode attacking me af..."](/statements/statement-a7a27a3b9955.md)
+- [00:51:16](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16) [○] (Claim) ["Jeremy Boreing personally reviewed Andrew Klavan's first episode attacking me af..."](/statements/statement-a7a27a3b9955.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Andrew Klavan](/entities/person-andrew-klavan.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:51:28](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) [○] (Accusation) ["The Daily Wire's management believed firing me would produce mass subscriptions ..."](/statements/statement-6de1995a2afb.md)
+- [00:51:25](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16) [○] (Accusation) ["The Daily Wire's management believed firing me would produce mass subscriptions ..."](/statements/statement-6de1995a2afb.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:52:27](/episodes/ep-QdM9jLwjwLw.md#t-00-51-50) [○] (Accusation) ["Jeremy Boreing sent an intern to follow me to a Turning Point USA event in Dalla..."](/statements/statement-c88afe6fd106.md)
+- [00:52:30](/episodes/ep-QdM9jLwjwLw.md#t-00-51-54) [○] (Accusation) ["Jeremy Boreing sent an intern to follow me to a Turning Point USA event in Dalla..."](/statements/statement-c88afe6fd106.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:53:15](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) [○] (Accusation) ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that she should ..."](/statements/statement-f49b5ad7509e.md)
+- [00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) [○] (Accusation) ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that she should ..."](/statements/statement-f49b5ad7509e.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:54:07](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) [◐] (Accusation) ["The Daily Wire offered Brett Cooper's maid of honor a large sum to replace Coope..."](/statements/statement-1910477f2c11.md)
+- [00:54:10](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) [◐] (Accusation) ["The Daily Wire offered Brett Cooper's maid of honor a large sum to replace Coope..."](/statements/statement-1910477f2c11.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:55:57](/episodes/ep-QdM9jLwjwLw.md#t-00-55-17) [○] (Claim) ["Jeremy Boreing admitted to me that he had a mental breakdown in Hungary and did ..."](/statements/statement-db0eae515314.md)
+- [00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30) [○] (Accusation) ["The Daily Wire sued Owens for publicly defending Brett Cooper and sought a penal..."](/statements/statement-34eca4708040.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:55:50](/episodes/ep-QdM9jLwjwLw.md#t-00-55-50) [○] (Claim) ["Jeremy Boreing admitted to me that he had a mental breakdown in Hungary and did ..."](/statements/statement-db0eae515314.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Hungary](/entities/gpe-hungary.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-58) [○] (Accusation) ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrupt me if I ..."](/statements/statement-41320863a4cd.md)
+- [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-39) [○] (Accusation) ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrupt me if I ..."](/statements/statement-41320863a4cd.md)
   - About: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-08-08) [○] (Claim) ["The Daily Wire denied my request to host Bassem Youssef while I worked there."](/statements/statement-97b38798c1ab.md)
+- [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-07-56) [○] (Claim) ["The Daily Wire denied my request to host Bassem Youssef while I worked there."](/statements/statement-97b38798c1ab.md)
   - About: [Bassem Youssef](/entities/person-bassem-youssef.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
@@ -23201,22 +23589,22 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:41:21](/episodes/ep-A39g5oqB_eM.md#t-00-40-45) [◐] (Claim) ["Lori Cardoza-Moore has a background in acting and romance-hotline work."](/statements/statement-b89a0081fb0b.md)
   - About: [Laurie Cardoza-Moore](/entities/person-laurie-cardoza-moore.md)
 
-- [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) [✗] (Claim) ["Stanley Clark Moore has a U.S. Air Force background and later worked for NASA."](/statements/statement-4700141ba93b.md)
+- [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) [✗] (Claim) ["If his Wikipedia biography is to be believed, Stanley Clark Moore has a U.S. Air..."](/statements/statement-4700141ba93b.md)
   - About: [Stanley Clark Moore](/entities/person-stanley-clark-moore.md), [United States Air Force](/entities/org-united-states-air-force.md), [NASA](/entities/org-nasa.md)
 
-- [00:43:34](/episodes/ep-A39g5oqB_eM.md#t-00-42-54) [✗] (Accusation) ["Lyndon B. Johnson helped murder John F. Kennedy, set him up, then cleaned house ..."](/statements/statement-752644045760.md)
+- [00:43:34](/episodes/ep-A39g5oqB_eM.md#t-00-42-54) [✗] (Accusation) ["I kind of feel like the military cult has been in power since Lyndon B. Johnson ..."](/statements/statement-752644045760.md)
   - About: [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md), [John F. Kennedy](/entities/person-john-f-kennedy.md)
 
-- [00:44:35](/episodes/ep-A39g5oqB_eM.md#t-00-44-17) [○] (Opinion) ["I am never going to turn my back on Kanye West and will support him through ever..."](/statements/statement-4ea665b317ba.md)
+- [00:44:35](/episodes/ep-A39g5oqB_eM.md#t-00-44-17) [✓] (Promise) ["I am never going to turn my back on Kanye West and will support him through ever..."](/statements/statement-4ea665b317ba.md)
   - About: [Kanye West](/entities/person-kanye-west.md)
 
-- [00:48:19](/episodes/ep-A39g5oqB_eM.md#t-00-47-53) [?] (Accusation) ["Erika Kirk is orchestrating a great deal behind the scenes while keeping her han..."](/statements/statement-be34b29490b8.md)
+- [00:48:19](/episodes/ep-A39g5oqB_eM.md#t-00-47-53) [?] (Accusation) ["My general opinion is that Erika Kirk is orchestrating a great deal behind the s..."](/statements/statement-be34b29490b8.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
 
 - [00:49:55](/episodes/ep-A39g5oqB_eM.md#t-00-49-19) [✗] (Claim) ["The majority of Turning Point USA's money comes from small donors."](/statements/statement-792ccfc33ed9.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:58:15](/episodes/ep-A39g5oqB_eM.md#t-00-57-58) [○] (Accusation) ["Former Turning Point USA employees are realizing the organization was a cult, an..."](/statements/statement-2362378a6209.md)
+- [00:58:15](/episodes/ep-A39g5oqB_eM.md#t-00-57-58) [○] (Accusation) ["I think a lot of former Turning Point USA employees are realizing it was a cult,..."](/statements/statement-2362378a6209.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -23224,55 +23612,55 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (17)</summary>
 
-- [00:01:17](/episodes/ep-gG4ZoYUjUc8.md#t-00-00-40) [◐] (Accusation) ["Charlie Kirk was threatened financially by both Jewish donors and Christian Zion..."](/statements/statement-ded104a5b1de.md)
+- [00:01:17](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-17) [◐] (Accusation) ["Owens said she would characterize Charlie Kirk as having been threatened financi..."](/statements/statement-ded104a5b1de.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Christian Zionism](/entities/concept-christian-zionism.md)
 
 - [00:05:50](/episodes/ep-gG4ZoYUjUc8.md#t-00-05-42) [✓] (Claim) ["On September 9, the day before he died, Charlie Kirk texted a small group of TPU..."](/statements/statement-5927b880a8a1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:07:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-10) [○] (Citation) ["The donor's text message was real, and Andrew Kolvet and Erika Kirk could confir..."](/statements/statement-5bc36f47fa27.md)
+- [00:07:14](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) [○] (Citation) ["The donor's text message was real, and Andrew Kolvet and Erika Kirk could confir..."](/statements/statement-5bc36f47fa27.md)
   - About: [Anonymous Source #3 (Ep gG4ZoYUjUc8)](/entities/anon-src-gG4ZoYUjUc8-003.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-- [00:09:53](/episodes/ep-gG4ZoYUjUc8.md#t-00-09-53) [◐] (Accusation) ["Jeffrey Epstein harmed children and was protected because he acted on behalf of ..."](/statements/statement-506cc286f1bf.md)
+- [00:09:53](/episodes/ep-gG4ZoYUjUc8.md#t-00-09-43) [◐] (Accusation) ["Jeffrey Epstein harmed children and was protected because he acted on behalf of ..."](/statements/statement-506cc286f1bf.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Israel](/entities/gpe-israel.md)
 
-- [00:12:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06) [○] (Accusation) ["Lyle Reams was indicted in 1998 for sexual conduct with a minor under 15, and th..."](/statements/statement-3eb176ceb7c2.md)
+- [00:12:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-18) [○] (Accusation) ["Lyle Reams was indicted in 1998 for sexual conduct with a minor under 15, and th..."](/statements/statement-3eb176ceb7c2.md)
   - About: [Lyle Reams](/entities/person-lyle-reams.md)
 
-- [00:13:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41) [✓] (Claim) ["In 2017, Lori Frantzve and Larry Guinta formed Desert Spirit Tek with Lyle and S..."](/statements/statement-f03ca85f4493.md)
+- [00:13:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55) [✓] (Claim) ["Owens said Lyle Reams's prior indictment apparently did not prevent Lori Frantzv..."](/statements/statement-f03ca85f4493.md)
   - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Larry Guinta](/entities/person-larry-guinta.md), [Lyle Reams](/entities/person-lyle-reams.md)
 
-- [00:14:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-05) [○] (Claim) ["The business address listed for Desert Spirit Tek, 26 Rose and Thobie, does not ..."](/statements/statement-0916860698c2.md)
+- [00:14:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-11) [○] (Claim) ["The business address listed for Desert Spirit Tek, 26 Rose and Thobie, does not ..."](/statements/statement-0916860698c2.md)
   - About: [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md), [Sacaton, Arizona](/entities/gpe-sacaton-arizona.md)
 
-- [00:15:32](/episodes/ep-gG4ZoYUjUc8.md#t-00-15-32) [◐] (Citation) ["Lorin Frantzve was listed as a 20% stakeholder in Desert Spirit Tek; Larry Guint..."](/statements/statement-c68a49b165e9.md)
+- [00:15:32](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-57) [◐] (Citation) ["Lorin Frantzve was listed as a 20% stakeholder in Desert Spirit Tek; Larry Guint..."](/statements/statement-c68a49b165e9.md)
   - About: [Lori Frantzve](/entities/person-lori-frantzve.md), [Larry Guinta](/entities/person-larry-guinta.md), [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)
 
-- [00:16:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-17) [✓] (Citation) ["Desert Spirit Tek's required public notice was published through Arizona Chinese..."](/statements/statement-7dccfb54b85d.md)
+- [00:16:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-12) [✓] (Citation) ["Desert Spirit Tek's required public notice was published through Arizona Chinese..."](/statements/statement-7dccfb54b85d.md)
   - About: [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md), [Arizona Chinese News](/entities/org-arizona-chinese-news.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
 
-- [00:18:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-17-43) [✓] (Promise) ["Candace Owens promised to investigate Lori Frantzve's business history further a..."](/statements/statement-d1afc40959eb.md)
+- [00:18:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-18-02) [✓] (Promise) ["Candace Owens promised to investigate Lori Frantzve's business history further a..."](/statements/statement-d1afc40959eb.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
 
 - [00:22:34](/episodes/ep-gG4ZoYUjUc8.md#t-00-22-14) [✓] (Accusation) ["Andrew Kolvet questioned a TPUSA employee over an Uber driver's secondhand accou..."](/statements/statement-10f521c04fa3.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:24:12](/episodes/ep-gG4ZoYUjUc8.md#t-00-23-39) [○] (Claim) ["According to a former employee, Turning Point USA brought in $250 million after ..."](/statements/statement-d4d2819e60ff.md)
+- [00:24:12](/episodes/ep-gG4ZoYUjUc8.md#t-00-24-04) [○] (Claim) ["According to a former employee, Turning Point USA brought in $250 million after ..."](/statements/statement-d4d2819e60ff.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:31:55](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-15) [○] (Opinion) ["Turning Point USA's firing was legal but immoral."](/statements/statement-93fefe1c1168.md)
+- [00:31:55](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-51) [○] (Opinion) ["Turning Point USA's firing was legal but immoral."](/statements/statement-93fefe1c1168.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Anonymous Source #1 (Ep gG4ZoYUjUc8)](/entities/anon-src-gG4ZoYUjUc8-001.md)
 
-- [00:32:54](/episodes/ep-gG4ZoYUjUc8.md#t-00-32-43) [✓] (Accusation) ["A TPUSA general counsel allegedly used a fake Zoom meeting to reach a part-time ..."](/statements/statement-38aa00b9713e.md)
+- [00:32:54](/episodes/ep-gG4ZoYUjUc8.md#t-00-32-34) [✓] (Accusation) ["Owens alleged that while a part-time TPUSA employee was on a fake Zoom meeting a..."](/statements/statement-38aa00b9713e.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:35:03](/episodes/ep-gG4ZoYUjUc8.md#t-00-34-39) [◐] (Claim) ["Five days after Charlie Kirk's assassination, Erika Kirk held a Zoom call recomm..."](/statements/statement-f6bf2f5e1ab3.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Stacy Sheridan](/entities/person-stacy-sheridan.md)
 
-- [00:42:24](/episodes/ep-gG4ZoYUjUc8.md#t-00-41-46) [○] (Opinion) ["Christian Zionism is not a religious philosophy; its adherents act like a cult a..."](/statements/statement-22e9c3c32661.md)
+- [00:42:24](/episodes/ep-gG4ZoYUjUc8.md#t-00-42-20) [○] (Opinion) ["Owens said she thought Christian Zionism was not a religious philosophy; she com..."](/statements/statement-22e9c3c32661.md)
   - About: [Christian Zionism](/entities/concept-christian-zionism.md), [Christianity](/entities/concept-christianity.md)
 
-- [00:44:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-43-49) [○] (Opinion) ["In the wake of Charlie Kirk's assassination, Turning Point USA is becoming the n..."](/statements/statement-8897c961bc29.md)
+- [00:44:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-43-44) [○] (Opinion) ["Owens said it seemed that, in the wake of Charlie Kirk's assassination, Turning ..."](/statements/statement-8897c961bc29.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Republican National Committee](/entities/org-republican-national-committee.md)
 
 </details>
@@ -23286,64 +23674,64 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:05:31](/episodes/ep-GY6GWceEqtQ.md#t-00-05-05) [◐] (Claim) ["Candace Owens broke the story that Charlie Kirk established a DOGE initiative se..."](/statements/statement-9ec8fcdc6c35.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Department of Government Efficiency](/entities/org-department-of-government-efficiency.md)
 
-- [00:07:04](/episodes/ep-GY6GWceEqtQ.md#t-00-06-27) [◐] (Claim) ["Candace Owens and Turning Point USA had a speaking contract dating to approximat..."](/statements/statement-695ed570afc3.md)
+- [00:07:04](/episodes/ep-GY6GWceEqtQ.md#t-00-07-04) [◐] (Claim) ["Candace Owens and Turning Point USA had a speaking contract dating to approximat..."](/statements/statement-695ed570afc3.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:07:08](/episodes/ep-GY6GWceEqtQ.md#t-00-07-08) [◐] (Claim) ["Candace Owens moved to terminate her Turning Point USA speaking agreement after ..."](/statements/statement-f399a8ba8997.md)
+- [00:07:08](/episodes/ep-GY6GWceEqtQ.md#t-00-07-04) [◐] (Claim) ["Candace Owens moved to terminate her Turning Point USA speaking agreement after ..."](/statements/statement-f399a8ba8997.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:10:50](/episodes/ep-GY6GWceEqtQ.md#t-00-10-42) [✓] (Claim) ["Candace Owens denied that Turning Point USA executives repeatedly made themselve..."](/statements/statement-424846c1e5e5.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:12:13](/episodes/ep-GY6GWceEqtQ.md#t-00-12-05) [◐] (Accusation) ["Candace Owens said Erika Kirk publicly denied that Charlie Kirk had said the nig..."](/statements/statement-b080a877b7b1.md)
+- [00:12:13](/episodes/ep-GY6GWceEqtQ.md#t-00-12-01) [◐] (Accusation) ["Candace Owens said Erika Kirk publicly denied that Charlie Kirk had said the nig..."](/statements/statement-b080a877b7b1.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
 
-- [00:12:50](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50) [○] (Accusation) ["Candace Owens maintained that some people at Turning Point USA are not good peop..."](/statements/statement-b21cae26652f.md)
+- [00:12:50](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38) [○] (Accusation) ["Candace Owens maintained that some people at Turning Point USA are not good peop..."](/statements/statement-b21cae26652f.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50) [○] (Accusation) ["Candace Owens accused Tyler Bowyer of being a sexual deviant and said she stood ..."](/statements/statement-a1dae78aa791.md)
+- [00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38) [○] (Accusation) ["Candace Owens accused Tyler Bowyer of being a sexual deviant and said she stood ..."](/statements/statement-a1dae78aa791.md)
   - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
-- [00:13:03](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50) [✓] (Accusation) ["Candace Owens accused Rob McCoy of defending someone who went to prison for mole..."](/statements/statement-b06f5b5b67ca.md)
+- [00:13:03](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38) [✓] (Accusation) ["Candace Owens accused Rob McCoy of defending someone who went to prison for mole..."](/statements/statement-b06f5b5b67ca.md)
   - About: [Rob McCoy](/entities/person-rob-mccoy.md)
 
-- [00:13:40](/episodes/ep-GY6GWceEqtQ.md#t-00-13-34) [✓] (Claim) ["Candace Owens said she repeatedly requested information over several weeks, rece..."](/statements/statement-563e711166d1.md)
+- [00:13:40](/episodes/ep-GY6GWceEqtQ.md#t-00-13-19) [✓] (Claim) ["Candace Owens said she repeatedly requested information over several weeks, rece..."](/statements/statement-563e711166d1.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [00:15:44](/episodes/ep-GY6GWceEqtQ.md#t-00-15-44) [○] (Accusation) ["Candace Owens argued that Turning Point USA's repeated lies make it fair and rea..."](/statements/statement-d92b18e1be5c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-36) [○] (Opinion) ["Candace Owens said Turning Point USA's current direction runs counter to her bel..."](/statements/statement-8e85d4ee62a4.md)
+- [00:19:05](/episodes/ep-GY6GWceEqtQ.md#t-00-18-45) [○] (Opinion) ["Candace Owens said Turning Point USA's current direction runs counter to her bel..."](/statements/statement-8e85d4ee62a4.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:19:29](/episodes/ep-GY6GWceEqtQ.md#t-00-19-15) [✓] (Promise) ["Candace Owens promised not to choose silence and to continue investigating Charl..."](/statements/statement-bbcbb0d3ae3d.md)
+- [00:19:27](/episodes/ep-GY6GWceEqtQ.md#t-00-19-27) [✓] (Promise) ["Candace Owens promised not to choose silence and to continue investigating Charl..."](/statements/statement-bbcbb0d3ae3d.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:20:44](/episodes/ep-GY6GWceEqtQ.md#t-00-20-34) [✓] (Promise) ["Candace Owens proposed that Turning Point USA name a price to release her from t..."](/statements/statement-a3424f537647.md)
+- [00:20:44](/episodes/ep-GY6GWceEqtQ.md#t-00-20-31) [✓] (Promise) ["Candace Owens proposed that Turning Point USA name a price to release her from t..."](/statements/statement-a3424f537647.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [GoFundMe](/entities/org-gofundme.md)
 
-- [00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46) [◐] (Accusation) ["Candace Owens accused Blake Lively and her husband of conspiring to take publish..."](/statements/statement-45b6979f6063.md)
+- [00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42) [◐] (Accusation) ["Candace Owens accused Blake Lively and her husband of conspiring to take publish..."](/statements/statement-45b6979f6063.md)
   - About: [Blake Lively](/entities/person-blake-lively.md), [Justin Baldoni](/entities/person-justin-baldoni.md), [Taylor Swift](/entities/person-taylor-swift.md)
 
-- [00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-26-58) [◐] (Accusation) ["Candace Owens said Taylor Swift's messages showed that Swift called Justin Baldo..."](/statements/statement-275688da810f.md)
+- [00:27:26](/episodes/ep-GY6GWceEqtQ.md#t-00-27-26) [◐] (Accusation) ["Candace Owens said Taylor Swift's messages showed that Swift called Justin Baldo..."](/statements/statement-275688da810f.md)
   - About: [Taylor Swift](/entities/person-taylor-swift.md), [Justin Baldoni](/entities/person-justin-baldoni.md), [Blake Lively](/entities/person-blake-lively.md)
 
-- [00:28:08](/episodes/ep-GY6GWceEqtQ.md#t-00-28-08) [✓] (Accusation) ["Candace Owens said Blake Lively texted Taylor Swift a replacement scene to revie..."](/statements/statement-1ac81af28771.md)
+- [00:28:05](/episodes/ep-GY6GWceEqtQ.md#t-00-28-05) [✓] (Accusation) ["Candace Owens said Blake Lively texted Taylor Swift a replacement scene to revie..."](/statements/statement-1ac81af28771.md)
   - About: [Blake Lively](/entities/person-blake-lively.md), [Taylor Swift](/entities/person-taylor-swift.md), [Justin Baldoni](/entities/person-justin-baldoni.md)
 
-- [00:36:24](/episodes/ep-GY6GWceEqtQ.md#t-00-36-06) [✓] (Claim) ["Candace Owens said evidence showed Nicola Peltz's wedding dress had been in prod..."](/statements/statement-5b94af2e1b09.md)
+- [00:36:24](/episodes/ep-GY6GWceEqtQ.md#t-00-36-03) [✓] (Claim) ["Candace Owens said evidence showed Nicola Peltz's wedding dress had been in prod..."](/statements/statement-5b94af2e1b09.md)
   - About: [Nicola Peltz](/entities/person-nicola-peltz.md), [Brooklyn Beckham](/entities/person-brooklyn-beckham.md), [Victoria Beckham](/entities/person-victoria-beckham.md)
 
-- [00:42:47](/episodes/ep-GY6GWceEqtQ.md#t-00-42-06) [✓] (Citation) ["Candace Owens cited Vogue's wedding account as saying Brooklyn Beckham and Nicol..."](/statements/statement-9bd1178b84fb.md)
+- [00:42:47](/episodes/ep-GY6GWceEqtQ.md#t-00-42-47) [✓] (Citation) ["Candace Owens cited Vogue's wedding account as saying Brooklyn Beckham and Nicol..."](/statements/statement-9bd1178b84fb.md)
   - About: [Vogue](/entities/org-vogue.md), [Brooklyn Beckham](/entities/person-brooklyn-beckham.md), [Nicola Peltz](/entities/person-nicola-peltz.md)
 
-- [00:48:29](/episodes/ep-GY6GWceEqtQ.md#t-00-48-14) [◐] (Accusation) ["Candace Owens accused Nicola Peltz of repeatedly suing people when she does not ..."](/statements/statement-d276dca91abe.md)
+- [00:48:29](/episodes/ep-GY6GWceEqtQ.md#t-00-48-10) [◐] (Accusation) ["Candace Owens accused Nicola Peltz of repeatedly suing people when she does not ..."](/statements/statement-d276dca91abe.md)
   - About: [Nicola Peltz](/entities/person-nicola-peltz.md)
 
-- [00:50:02](/episodes/ep-GY6GWceEqtQ.md#t-00-50-02) [○] (Claim) ["Candace Owens said an autopsy found that Nicola Peltz's Chihuahua had fluid in i..."](/statements/statement-991716d00fec.md)
+- [00:50:02](/episodes/ep-GY6GWceEqtQ.md#t-00-49-55) [○] (Claim) ["Candace Owens said an autopsy found that Nicola Peltz's Chihuahua had fluid in i..."](/statements/statement-991716d00fec.md)
   - About: [Nicola Peltz](/entities/person-nicola-peltz.md)
 
-- [00:50:35](/episodes/ep-GY6GWceEqtQ.md#t-00-50-02) [◐] (Claim) ["Candace Owens said Nicola Peltz went through three wedding contracts, one of whi..."](/statements/statement-72f035d25d2b.md)
+- [00:50:35](/episodes/ep-GY6GWceEqtQ.md#t-00-50-34) [◐] (Claim) ["Candace Owens said Nicola Peltz went through three wedding contracts, one of whi..."](/statements/statement-72f035d25d2b.md)
   - About: [Nicola Peltz](/entities/person-nicola-peltz.md), [Nelson Peltz](/entities/person-nelson-peltz.md)
 
 - [00:58:41](/episodes/ep-GY6GWceEqtQ.md#t-00-58-41) [✓] (Claim) ["Candace Owens said she heard that approximately 15 Turning Point USA employees h..."](/statements/statement-54f7e662ed94.md)
@@ -23355,7 +23743,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [01:02:06](/episodes/ep-GY6GWceEqtQ.md#t-01-01-57) [○] (Accusation) ["Candace Owens accused Turning Point USA spokesperson Andrew Kolvet of texting ot..."](/statements/statement-9557bcd02e1e.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [01:06:49](/episodes/ep-GY6GWceEqtQ.md#t-01-06-28) [✓] (Promise) ["Candace Owens said her response to Turning Point USA would be that she was willi..."](/statements/statement-d5b5f5ac1127.md)
+- [01:06:49](/episodes/ep-GY6GWceEqtQ.md#t-01-06-37) [✓] (Promise) ["Candace Owens said her response to Turning Point USA would be that she was willi..."](/statements/statement-d5b5f5ac1127.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -23363,7 +23751,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (20)</summary>
 
-- [00:01:49](/episodes/ep-9naMwS0kMBE.md#t-00-01-32) [○] (Accusation) ["Turning Point USA fired an employee and everyone associated with her after findi..."](/statements/statement-c0625bfadc7e.md)
+- [00:01:49](/episodes/ep-9naMwS0kMBE.md#t-00-01-32) [○] (Accusation) ["According to Candace Owens, Turning Point USA apparently panicked after Andrew K..."](/statements/statement-c0625bfadc7e.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:05:07](/episodes/ep-9naMwS0kMBE.md#t-00-05-07) [○] (Claim) ["Dan Flood's father ran intelligence at Fort Huachuca."](/statements/statement-3bc00d28c353.md)
@@ -30283,7 +30671,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (567)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (573)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5)</summary>
@@ -30716,16 +31104,27 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (3)</summary>
+<summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (2)</summary>
 
 - [00:49:08](/episodes/ep-h76ZN-xXC6c.md#t-00-48-27) (Accusation) **FBI** (via quoted post): ["The FBI told Candace Owens that her show, like the fake news media, wo..."](/statements/statement-87ca8c118c60.md)
   - Also about: [FBI](/entities/org-fbi.md)
 
-- [00:49:51](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
-  - Also about: [FBI](/entities/org-fbi.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Kash Patel](/entities/person-kash-patel.md)
-
 - [00:51:21](/episodes/ep-h76ZN-xXC6c.md#t-00-51-14) (Accusation) **FBI** (via quoted post): ["The FBI said it would be a clickbait lie for Owens to tell her audienc..."](/statements/statement-59d4161f27ad.md)
   - Also about: [FBI](/entities/org-fbi.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3)</summary>
+
+- [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) (Citation) **FBI** (via quoted document): ["The FBI's FOIA response told Candace Owens that unusual circumstances ..."](/statements/statement-e8bbf7d482af.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Freedom of Information Act](/entities/law-freedom-of-information-act.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:32:05](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05) (Prediction) **Blake Neff** (via quoted post): ["Blake Neff predicted that Candace Owens would fixate on her latest inq..."](/statements/statement-1fdb3b78920a.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+- [00:34:01](/episodes/ep-5NQyGuRYbU8.md#t-00-33-25) (Promise) **Candace Owens**: ["Candace Owens promised to keep filing requests until she got to the bo..."](/statements/statement-53e946a74d19.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md), [Blake Neff](/entities/person-blake-neff.md)
 
 </details>
 
@@ -31382,7 +31781,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:41:08](/episodes/ep-1hcjQGgvxUY.md#t-00-40-58) (Opinion) **Candace Owens**: ["Candace Owens retired from politics on the day Charlie Kirk was killed..."](/statements/statement-06278ec0beae.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark demanded that Seth Dillon call Owens's s..."](/statements/statement-a831f72ad994.md)
+- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark apparently demanded that Seth Dillon cal..."](/statements/statement-a831f72ad994.md)
   - Also about: [Alex Clark](/entities/person-alex-clark.md), [Seth Dillon](/entities/person-seth-dillon.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -31441,7 +31840,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:07:49](/episodes/ep-mFuno0TuuQQ.md#t-00-07-40) (Accusation) **Candace Owens**: ["Erika Kirk lied to Candace Owens and authorized people with substantia..."](/statements/statement-3f803398419f.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:40:57](/episodes/ep-mFuno0TuuQQ.md#t-00-40-32) (Accusation) **Candace Owens**: ["A very well-planned, military-level psychological operation was intend..."](/statements/statement-e0a0e4ecea6f.md)
+- [00:40:57](/episodes/ep-mFuno0TuuQQ.md#t-00-40-32) (Accusation) **Candace Owens**: ["Candace Owens said she thought a very well-planned, military-level psy..."](/statements/statement-e0a0e4ecea6f.md)
   - Also about: [Psychological operations](/entities/concept-psychological-operations.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -31472,7 +31871,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (2)</summary>
 
-- [00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-38-29) (Accusation) **Frank Turek** (via quoted speech): ["Candace Owens has completely lost credibility by saying that certain d..."](/statements/statement-d88a14b53cdf.md)
+- [00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-38-29) (Accusation) **Frank Turek** (via quoted speech): ["Frank Turek said he thinks Candace Owens has completely lost credibili..."](/statements/statement-d88a14b53cdf.md)
 
 - [00:40:04](/episodes/ep-Wjul6YV6izo.md#t-00-39-46) (Accusation) **Frank Turek** (via quoted speech): ["People who slander Erika Kirk and others, make accusations and lies, a..."](/statements/statement-6e02e8501d42.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -31480,23 +31879,29 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (3)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (5)</summary>
 
 - [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) (Accusation) **Candace Owens**: ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phi..."](/statements/statement-2bff31e56fad.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md)
 
-- [00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-25-41) (Opinion) **Candace Owens**: ["Candace Owens and Charlie Kirk genuinely supported Israel because they..."](/statements/statement-eddb81ad71ef.md)
+- [00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-09) (Opinion) **Candace Owens**: ["Candace Owens and Charlie Kirk genuinely supported Israel because they..."](/statements/statement-eddb81ad71ef.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md)
+
+- [00:59:16](/episodes/ep-xjzb_t5Tk9o.md#t-00-59-16) (Accusation) **Candace Owens**: ["Candace Owens said Australia banned her for standing up for Palestinia..."](/statements/statement-700851080c3a.md)
+  - Also about: [Australia](/entities/gpe-australia.md), [Palestine](/entities/gpe-palestine.md)
 
 - [01:06:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-12) (Accusation) **Candace Owens**: ["The media company where Candace Owens worked used her to appear commit..."](/statements/statement-2a737a7f8122.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Israel](/entities/gpe-israel.md)
 
+- [01:44:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-44-43) (Promise) **Candace Owens**: ["Candace Owens said she will find out who killed Charlie Kirk."](/statements/statement-26964063f24a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (14)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (16)</summary>
 
-- [00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-07) (Accusation) **Candace Owens**: ["I believe Erika Kirk was intimately involved in PR messaging and campa..."](/statements/statement-47efce043ea4.md)
+- [00:02:40](/episodes/ep-QdM9jLwjwLw.md#t-00-02-40) (Accusation) **Candace Owens**: ["I believe Erika Kirk was intimately involved in PR messaging and campa..."](/statements/statement-47efce043ea4.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:39:05](/episodes/ep-QdM9jLwjwLw.md#t-00-39-04) (Opinion) **Jeremy Boreing** (via quoted speech): ["Hiring Candace Owens was probably the biggest mistake of my profession..."](/statements/statement-0862ed4e26eb.md)
@@ -31504,7 +31909,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:39:24](/episodes/ep-QdM9jLwjwLw.md#t-00-39-04) (Opinion) **Jeremy Boreing** (via quoted speech): ["Candace Owens is the most talented person I have ever met, not just in..."](/statements/statement-56e5544ccc82.md)
 
-- [00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-48) (Accusation) **Jeremy Boreing** (via quoted speech): ["Candace Owens is now using her talents for ill and doing an incredible..."](/statements/statement-aa6882ee7b11.md)
+- [00:40:11](/episodes/ep-QdM9jLwjwLw.md#t-00-39-47) (Accusation) **Jeremy Boreing** (via quoted speech): ["Candace Owens is now using her talents for ill and doing an incredible..."](/statements/statement-aa6882ee7b11.md)
 
 - [00:42:56](/episodes/ep-QdM9jLwjwLw.md#t-00-42-52) (Opinion) **Jeremy Boreing** (via quoted speech): ["Candace Owens's show is rhetorical pornography that titillates, genera..."](/statements/statement-548e5487e1a3.md)
 
@@ -31512,24 +31917,30 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [00:44:28](/episodes/ep-QdM9jLwjwLw.md#t-00-44-14) (Claim) **Jeremy Boreing** (via quoted speech): ["On two occasions, Candace Owens told me she believed what the people b..."](/statements/statement-6077ce105277.md)
 
-- [00:44:56](/episodes/ep-QdM9jLwjwLw.md#t-00-44-14) (Accusation) **Jeremy Boreing** (via quoted speech): ["Candace Owens is articulating audience capture as a virtue by saying w..."](/statements/statement-6622bc153825.md)
+- [00:44:49](/episodes/ep-QdM9jLwjwLw.md#t-00-44-49) (Accusation) **Jeremy Boreing** (via quoted speech): ["Candace Owens is articulating audience capture as a virtue by saying w..."](/statements/statement-6622bc153825.md)
 
-- [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-24) (Accusation) **Candace Owens**: ["Owens sarcastically characterized The Daily Wire's decision as a plan ..."](/statements/statement-6470de56359a.md)
+- [00:50:09](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) (Claim) **Candace Owens** (via paraphrase): ["Jeremy Boreing told Owens that The Daily Wire suspected she might have..."](/statements/statement-173c5f852dca.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+- [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) (Accusation) **Candace Owens**: ["Owens sarcastically characterized The Daily Wire's decision as a plan ..."](/statements/statement-6470de56359a.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Antisemitism](/entities/concept-antisemitism.md)
 
-- [00:51:17](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) (Claim) **Candace Owens**: ["Jeremy Boreing personally reviewed Andrew Klavan's first episode attac..."](/statements/statement-a7a27a3b9955.md)
+- [00:51:16](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16) (Claim) **Candace Owens**: ["Jeremy Boreing personally reviewed Andrew Klavan's first episode attac..."](/statements/statement-a7a27a3b9955.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Andrew Klavan](/entities/person-andrew-klavan.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:51:28](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) (Accusation) **Candace Owens**: ["The Daily Wire's management believed firing me would produce mass subs..."](/statements/statement-6de1995a2afb.md)
+- [00:51:25](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16) (Accusation) **Candace Owens**: ["The Daily Wire's management believed firing me would produce mass subs..."](/statements/statement-6de1995a2afb.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:52:27](/episodes/ep-QdM9jLwjwLw.md#t-00-51-50) (Accusation) **Candace Owens**: ["Jeremy Boreing sent an intern to follow me to a Turning Point USA even..."](/statements/statement-c88afe6fd106.md)
+- [00:52:30](/episodes/ep-QdM9jLwjwLw.md#t-00-51-54) (Accusation) **Candace Owens**: ["Jeremy Boreing sent an intern to follow me to a Turning Point USA even..."](/statements/statement-c88afe6fd106.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-58) (Accusation) **Candace Owens** (via paraphrase): ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrup..."](/statements/statement-41320863a4cd.md)
+- [00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30) (Accusation) **Candace Owens**: ["The Daily Wire sued Owens for publicly defending Brett Cooper and soug..."](/statements/statement-34eca4708040.md)
+  - Also about: [Brett Cooper](/entities/person-brett-cooper.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-39) (Accusation) **Candace Owens** (via paraphrase): ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrup..."](/statements/statement-41320863a4cd.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-08-08) (Claim) **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked..."](/statements/statement-97b38798c1ab.md)
+- [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-07-56) (Claim) **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked..."](/statements/statement-97b38798c1ab.md)
   - Also about: [Bassem Youssef](/entities/person-bassem-youssef.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
@@ -31540,10 +31951,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:05:50](/episodes/ep-gG4ZoYUjUc8.md#t-00-05-42) (Claim) **Candace Owens**: ["On September 9, the day before he died, Charlie Kirk texted a small gr..."](/statements/statement-5927b880a8a1.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [AmericaFest 2025](/entities/event-americafest-2025.md)
 
-- [00:07:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-10) (Accusation) **Anonymous Source #3 (Ep gG4ZoYUjUc8)** (via read message): ["Why would you platform anti-Semites like Candace and Tucker? There are..."](/statements/statement-b9f31005c32c.md)
+- [00:07:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) (Accusation) **Anonymous Source #3 (Ep gG4ZoYUjUc8)** (via read message): ["Why would you platform anti-Semites like Candace and Tucker? There are..."](/statements/statement-b9f31005c32c.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christian Zionism](/entities/concept-christian-zionism.md)
 
-- [00:18:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-17-43) (Promise) **Candace Owens**: ["Candace Owens promised to investigate Lori Frantzve's business history..."](/statements/statement-d1afc40959eb.md)
+- [00:18:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-18-02) (Promise) **Candace Owens**: ["Candace Owens promised to investigate Lori Frantzve's business history..."](/statements/statement-d1afc40959eb.md)
   - Also about: [Lori Frantzve](/entities/person-lori-frantzve.md)
 
 </details>
@@ -31554,13 +31965,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:00:06](/episodes/ep-GY6GWceEqtQ.md#t-00-00-00) (Claim) **Candace Owens**: ["Candace Owens received her first legal letter of 2026 from Turning Poi..."](/statements/statement-217eaed40bf6.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:07:04](/episodes/ep-GY6GWceEqtQ.md#t-00-06-27) (Claim) **Candace Owens**: ["Candace Owens and Turning Point USA had a speaking contract dating to ..."](/statements/statement-695ed570afc3.md)
+- [00:07:04](/episodes/ep-GY6GWceEqtQ.md#t-00-07-04) (Claim) **Candace Owens**: ["Candace Owens and Turning Point USA had a speaking contract dating to ..."](/statements/statement-695ed570afc3.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:07:08](/episodes/ep-GY6GWceEqtQ.md#t-00-07-08) (Claim) **Candace Owens**: ["Candace Owens moved to terminate her Turning Point USA speaking agreem..."](/statements/statement-f399a8ba8997.md)
+- [00:07:08](/episodes/ep-GY6GWceEqtQ.md#t-00-07-04) (Claim) **Candace Owens**: ["Candace Owens moved to terminate her Turning Point USA speaking agreem..."](/statements/statement-f399a8ba8997.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:08:20](/episodes/ep-GY6GWceEqtQ.md#t-00-07-51) (Accusation) **Turning Point USA** (via quoted document): ["Turning Point USA said it requested retraction of Candace Owens's disp..."](/statements/statement-09e22e786e44.md)
+- [00:08:20](/episodes/ep-GY6GWceEqtQ.md#t-00-08-20) (Accusation) **Turning Point USA** (via quoted document): ["Turning Point USA said it requested retraction of Candace Owens's disp..."](/statements/statement-09e22e786e44.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:10:22](/episodes/ep-GY6GWceEqtQ.md#t-00-09-56) (Claim) **Turning Point USA** (via quoted document): ["Turning Point USA said Candace Owens freely accepted a contractual non..."](/statements/statement-bf8384906e64.md)
@@ -31578,19 +31989,19 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:11:19](/episodes/ep-GY6GWceEqtQ.md#t-00-10-42) (Accusation) **Turning Point USA** (via quoted document): ["Turning Point USA accused Candace Owens of publishing a list of lies a..."](/statements/statement-39319278e237.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:12:38](/episodes/ep-GY6GWceEqtQ.md#t-00-12-05) (Accusation) **Turning Point USA** (via quoted document): ["Turning Point USA said Candace Owens claimed some of its people were n..."](/statements/statement-20bf7b7ba3ec.md)
+- [00:12:38](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38) (Accusation) **Turning Point USA** (via quoted document): ["Turning Point USA said Candace Owens claimed some of its people were n..."](/statements/statement-20bf7b7ba3ec.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:13:25](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50) (Accusation) **Turning Point USA** (via quoted document): ["Turning Point USA accused Candace Owens of saying an employee was inte..."](/statements/statement-a4319cf0a0b3.md)
+- [00:13:25](/episodes/ep-GY6GWceEqtQ.md#t-00-13-19) (Accusation) **Turning Point USA** (via quoted document): ["Turning Point USA accused Candace Owens of saying an employee was inte..."](/statements/statement-a4319cf0a0b3.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
-- [00:14:33](/episodes/ep-GY6GWceEqtQ.md#t-00-14-17) (Claim) **Turning Point USA** (via quoted document): ["Turning Point USA demanded that Candace Owens cease stating or implyin..."](/statements/statement-007583232c21.md)
+- [00:14:33](/episodes/ep-GY6GWceEqtQ.md#t-00-14-31) (Claim) **Turning Point USA** (via quoted document): ["Turning Point USA demanded that Candace Owens cease stating or implyin..."](/statements/statement-007583232c21.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:20:44](/episodes/ep-GY6GWceEqtQ.md#t-00-20-34) (Promise) **Candace Owens**: ["Candace Owens proposed that Turning Point USA name a price to release ..."](/statements/statement-a3424f537647.md)
+- [00:20:44](/episodes/ep-GY6GWceEqtQ.md#t-00-20-31) (Promise) **Candace Owens**: ["Candace Owens proposed that Turning Point USA name a price to release ..."](/statements/statement-a3424f537647.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [GoFundMe](/entities/org-gofundme.md)
 
-- [01:06:49](/episodes/ep-GY6GWceEqtQ.md#t-01-06-28) (Promise) **Candace Owens**: ["Candace Owens said her response to Turning Point USA would be that she..."](/statements/statement-d5b5f5ac1127.md)
+- [01:06:49](/episodes/ep-GY6GWceEqtQ.md#t-01-06-37) (Promise) **Candace Owens**: ["Candace Owens said her response to Turning Point USA would be that she..."](/statements/statement-d5b5f5ac1127.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -31598,7 +32009,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (3)</summary>
 
-- [00:01:49](/episodes/ep-9naMwS0kMBE.md#t-00-01-32) (Accusation) **Candace Owens**: ["Turning Point USA fired an employee and everyone associated with her a..."](/statements/statement-c0625bfadc7e.md)
+- [00:01:49](/episodes/ep-9naMwS0kMBE.md#t-00-01-32) (Accusation) **Candace Owens**: ["According to Candace Owens, Turning Point USA apparently panicked afte..."](/statements/statement-c0625bfadc7e.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 - [00:30:55](/episodes/ep-9naMwS0kMBE.md#t-00-30-25) (Accusation) **Dave Rubin** (via quoted tweet): ["Dave Rubin said Candace Owens told him at dinner that she hated Charli..."](/statements/statement-e9206aa17cd1.md)

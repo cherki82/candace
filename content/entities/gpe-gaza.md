@@ -26,7 +26,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <div><span>Episodes</span><strong>41</strong></div>
 <div><span>Mentions</span><strong>152</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>27</strong></div>
+<div><span>Statements about</span><strong>29</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -50,7 +50,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-gaza-t-00-43-45" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-gaza-t-00-33-39" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-gaza-t-00-35-58" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-gaza-t-00-09-53" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-gaza-t-00-09-43" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-gaza-t-00-41-08" style="--pulse-height:14%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-01-59" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-gaza-t-00-17-34" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -96,7 +96,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-gaza-t-00-43-45) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-gaza-t-00-33-39) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-gaza-t-00-35-58) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-gaza-t-00-09-53) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-gaza-t-00-09-43) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-gaza-t-00-41-08) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-01-59) | 14 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-gaza-t-00-17-34) | 1 |
@@ -492,25 +492,25 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 **[00:02:07](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-01-59)**
 > "what was happening in Gaza"
 
-**[00:07:09](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-06-51)**
+**[00:07:09](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-07-09)**
 > "...he palestinian authorities in gaza digging out water pipes and say you see these are..."
 
-**[00:11:09](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-11-06)**
+**[00:11:06](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-11-06)**
 > "...nderstand what's happening in Gaza,"
 
 **[00:11:34](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-11-27)**
 > "...cause there was no victims in Gaza."
 
-**[00:20:05](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-20-01)**
+**[00:20:01](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-20-01)**
 > "...ould look at what happened in Gaza to look out at what they did, how they told us th..."
 
 **[00:20:17](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-20-01)**
 > "... of the video footage of what Gaza looks like today,"
 
-**[00:26:09](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-25-41)**
+**[00:26:09](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-26-09)**
 > "...t about what was happening in Gaza and I think people should know that Charlie (Char..."
 
-**[00:27:53](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-27-38)**
+**[00:27:38](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-27-38)**
 > "...there is no high buildings in Gaza anymore like stupid Muslims and that hurt a lot o..."
 
 **[00:44:56](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-00-44-56)**
@@ -522,10 +522,10 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 **[01:05:06](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-01-05-06)**
 > "...not about what's happening in gaza it's about like now like what i've just said and ..."
 
-**[01:21:17](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-01-21-15)**
+**[01:21:15](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-01-21-15)**
 > "... themselves after fighting in Gaza even though they are guilty of a new Holocaust."
 
-**[01:22:01](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-01-21-46)**
+**[01:21:46](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-01-21-46)**
 > "...scenes of their operations in Gaza and West Bank and it's been going on for years."
 
 **[01:23:21](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-gaza-t-01-23-21)**
@@ -536,10 +536,10 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:41:37](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-gaza-t-00-41-08)**
+**[00:41:35](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-gaza-t-00-41-08)**
 > "...i (Benjamin Netanyahu) did to Gaza."
 
-**[01:06:07](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-gaza-t-01-05-39)**
+**[01:06:04](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-gaza-t-01-05-39)**
 > "...g over the television sets in Gaza and blaring out pornography to use it as a spirit..."
 
 </details>
@@ -547,7 +547,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:09:53](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-gaza-t-00-09-53)**
+**[00:09:53](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-gaza-t-00-09-43)**
 > "...ing after what's been done in Gaza. They've effectively turned Gaza into a parking l..."
 
 </details>
@@ -793,7 +793,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Gaza (27)</strong></summary>
+<summary><strong class="section-title">Statements about Gaza (29)</strong></summary>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (2)</summary>
@@ -882,12 +882,12 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (4)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (6)</summary>
 
-- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-51) (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video ..."](/statements/statement-316c32dcf384.md)
+- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-07-09) (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video ..."](/statements/statement-316c32dcf384.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hamas](/entities/org-hamas.md), [European Union](/entities/org-european-union.md)
 
-- [00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-25-41) (Opinion) **Candace Owens**: ["Candace Owens and Charlie Kirk genuinely supported Israel because they..."](/statements/statement-eddb81ad71ef.md)
+- [00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-09) (Opinion) **Candace Owens**: ["Candace Owens and Charlie Kirk genuinely supported Israel because they..."](/statements/statement-eddb81ad71ef.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:45:12](/episodes/ep-xjzb_t5Tk9o.md#t-00-45-11) (Claim) **Bassem Youssef**: ["In three weeks after the ceasefire, more Palestinian children were kil..."](/statements/statement-beb2a9a4d827.md)
@@ -895,6 +895,12 @@ _No relationships extracted yet._
 
 - [01:04:51](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24) (Claim) **Jonathan Conricus** (via quoted speech): ["There is no famine in Gaza because videos show fat Palestinians."](/statements/statement-a6b762428fc3.md)
   - Also about: [Jonathan Conricus](/entities/person-jonathan-conricus.md), [Palestine](/entities/gpe-palestine.md)
+
+- [01:21:46](/episodes/ep-xjzb_t5Tk9o.md#t-01-21-46) (Citation) **Bassem Youssef**: ["Bassem Youssef said Breaking the Silence is a group of former IDF sold..."](/statements/statement-7bd7a3fccfcd.md)
+  - Also about: [Breaking the Silence](/entities/org-breaking-the-silence.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [West Bank](/entities/gpe-west-bank.md)
+
+- [01:23:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) (Citation) **Bassem Youssef**: ["The New York Times published a claim that tunnels beneath Gaza were lo..."](/statements/statement-99b36b327440.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [New York City](/entities/gpe-new-york-city.md)
 
 </details>
 

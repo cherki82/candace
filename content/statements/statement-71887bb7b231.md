@@ -1,6 +1,6 @@
 ---
-title: "I believe Charlie and Erika Kirk had a major argument during..."
-description: "\"I believe Charlie and Erika Kirk had a major argument during Charlie Kirk's final night.\" — Candace Owens"
+title: "I feel, and I could be wrong, that Charlie and Erika Kirk ha..."
+description: "\"I feel, and I could be wrong, that Charlie and Erika Kirk had a major argument during Charlie Kirk's final night.\" — Candace Owens"
 statement_id: "statement-71887bb7b231"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> I believe Charlie and Erika Kirk had a major argument during Charlie Kirk's final night.
+> I feel, and I could be wrong, that Charlie and Erika Kirk had a major argument during Charlie Kirk's final night.
 
 ## Attribution
 

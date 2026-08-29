@@ -289,7 +289,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 **[00:14:43](/episodes/ep-9naMwS0kMBE.md#ent-org-united-states-air-force-t-00-14-10)**
 > "It was the Buckley Air Force Base from the year 2000 to 2021."
 
-**[01:11:22](/episodes/ep-9naMwS0kMBE.md#ent-org-united-states-air-force-t-01-11-10)**
+**[01:11:19](/episodes/ep-9naMwS0kMBE.md#ent-org-united-states-air-force-t-01-11-10)**
 > "...ed surgeon who trained on the Air Force base went rogue and just opened up to a PR agent ..."
 
 </details>
@@ -644,7 +644,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 - [00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43) (Claim) **Candace Owens**: ["Bill Montgomery served in the U.S. Air Force Reserve and was from Linc..."](/statements/statement-f20ea24a8eac.md)
   - Also about: [Bill Montgomery](/entities/person-bill-montgomery.md), [Lincoln, Nebraska](/entities/gpe-lincoln-nebraska.md)
 
-- [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) (Claim) **Candace Owens**: ["Stanley Clark Moore has a U.S. Air Force background and later worked f..."](/statements/statement-4700141ba93b.md)
+- [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) (Claim) **Candace Owens**: ["If his Wikipedia biography is to be believed, Stanley Clark Moore has ..."](/statements/statement-4700141ba93b.md)
   - Also about: [Stanley Clark Moore](/entities/person-stanley-clark-moore.md), [NASA](/entities/org-nasa.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Blake Neff"
-description: "Blake Neff (People) - 358 mentions"
+description: "Blake Neff (People) - 368 mentions"
 id: "person-blake-neff"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#t-00-15-02">2025-10-07 · 00:15:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-blake-neff-t-00-24-21">2026-08-21 · 00:24:21</a></strong></div>
-<div><span>Episodes</span><strong>70</strong></div>
-<div><span>Mentions</span><strong>358</strong></div>
-<div><span>Statements by</span><strong>45</strong></div>
-<div><span>Statements about</span><strong>48</strong></div>
+<div><span>Episodes</span><strong>71</strong></div>
+<div><span>Mentions</span><strong>368</strong></div>
+<div><span>Statements by</span><strong>46</strong></div>
+<div><span>Statements about</span><strong>51</strong></div>
 <div><span>Relationships</span><strong>37</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -83,6 +83,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-blake-neff-t-00-16-41" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-31-11" style="--pulse-height:11%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-31-27" style="--pulse-height:56%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 10 mentions" title="2026-06-15 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-30-41" style="--pulse-height:11%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-04-32" style="--pulse-height:22%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45" style="--pulse-height:50%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 9 mentions" title="2026-06-22 · 9 mentions"><span></span></a>
@@ -158,6 +159,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-blake-neff-t-01-00-36) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-blake-neff-t-00-16-41) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-blake-neff-t-00-31-11) | 2 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-31-27) | 10 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-30-41) | 2 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-blake-neff-t-00-04-32) | 4 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-blake-neff-t-00-44-45) | 9 |
@@ -189,7 +191,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (358)</strong></summary>
+<summary><strong class="section-title">Raw mentions (368)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -740,6 +742,41 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 **[00:35:00](/episodes/ep-h76ZN-xXC6c.md#ent-person-blake-neff-t-00-35-00)**
 > "...fe and he didn't call 911 and Blake Neff didn't call 911. He called his mother and neither..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (10 mentions)</summary>
+
+**[00:31:38](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-31-27)**
+> "Now, for some reason, just me saying that I requested Kash Patel's records, which, again, is my right as a tax-paying citizen of the United States of America, for some reason this deeply upset Blake Neff."
+
+**[00:31:51](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-31-27)**
+> "...n things don't add up. Here's Blake Neff, the new representative of the Charlie Kirk show."
+
+**[00:32:05](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-32-05)**
+> "... kirk show really here's what blake neff wrote crashing out here we can see the latest thi..."
+
+**[00:32:30](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-32-05)**
+> "...ueen of not moving on, Blake (Blake Neff)."
+
+**[00:33:04](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-32-45)**
+> "...nd I also want to say, Blake (Blake Neff), you're right. I am obsessed with who killed Cha..."
+
+**[00:34:01](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-33-25)**
+> "...moving on. How's that, Blake (Blake Neff)?"
+
+**[00:34:17](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-34-07)**
+> "...hat we can say is that Blake (Blake Neff) does reflect the general mood of Turning Point U..."
+
+**[00:35:48](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-34-07)**
+> "...estions than people like like Neff, Andrew Kolvet and Erika (Erika Kirk)."
+
+**[00:46:29](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-46-11)**
+> "...hings off why is that sending blake neff into another hissy fit and spiral"
+
+**[00:46:55](/episodes/ep-5NQyGuRYbU8.md#ent-person-blake-neff-t-00-46-55)**
+> "What is wrong with Blake Neff? Why is the whole concept of asking questions jus..."
 
 </details>
 
@@ -1321,7 +1358,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[01:02:00](/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-neff-t-01-01-57)**
+**[01:01:57](/episodes/ep-GY6GWceEqtQ.md#ent-person-blake-neff-t-01-01-57)**
 > "I have said, Blake Neff"
 
 </details>
@@ -1656,13 +1693,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:25:50](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-37): “And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I'm speaking the truth rather than lies.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:32:05](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05): “the latest thing that candace will fixate on for the next two weeks as all important the key to blowing the case wide open so that she has an excuse to harass more people”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:34:32](/episodes/ep-X3VKJVJ7cN4.md#t-00-34-08): “Blake Neff referred to me as a knife wielding psychopath on the subway.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:45:48](/episodes/ep-OgRyiOAVtWU.md#t-00-45-48): “Nothing compares remotely to the fact that Candace Owens has spent a sustained 10 months making effectively every episode of her show about finding some new way to target Erika (Erika Kirk), target Turning Point, target other people who are in the Turning Point universe, target”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:13:56](/episodes/ep-1CFDtD0IgEg.md#t-00-13-22): “Blake Neff comes at us like this on X. ... Candace (Candace Owens) starts harassing another random Utah police officer, accuses him of being a dirty cop”
@@ -1705,7 +1743,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1717,6 +1755,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:02](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “So I hope that helps. I know it's difficult. Like I said, when you lie, you have to have a good memory.”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:24:27](/episodes/ep-1QZ4X6q1DPg.md#t-00-24-20): “I called out Blake Neff. He writes this long tweet thinking that this was the booyah, booyah boy Blake (Blake Neff) over here.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:46:55](/episodes/ep-5NQyGuRYbU8.md#t-00-46-11): “What is wrong with Blake Neff? Why is the whole concept of asking questions just so upsetting for him?”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08): “Blake Neff is a liar. He is a coward. He is a backstabber”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
@@ -1875,7 +1914,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (28)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:42:05](/episodes/ep-2tFYJf1klgY.md#t-00-41-55): “Blake Neff is obviously demented. I don't know what's wrong with this person.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:33:17](/episodes/ep-ZzAT2xijKGQ.md#t-00-33-17): “He's one of my favorite characters because he always just says too much and it's never good.”
@@ -1887,6 +1926,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:31:02](/episodes/ep-xi8SYJTUXPM.md#t-00-30-52): “So I hope that helps. I know it's difficult. Like I said, when you lie, you have to have a good memory.”
 - [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 @ 00:35:56](/episodes/ep-Pb7UlpRdW6U.md#t-00-35-31): “Please give the name a new show. Just call it the Andrew (Andrew Kolvet) and Blake (Blake Neff) saga, you know? Andrew (Andrew Kolvet) and Blake (Blake Neff) complain about everything.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:24:27](/episodes/ep-1QZ4X6q1DPg.md#t-00-24-20): “I called out Blake Neff. He writes this long tweet thinking that this was the booyah, booyah boy Blake (Blake Neff) over here.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:46:55](/episodes/ep-5NQyGuRYbU8.md#t-00-46-11): “What is wrong with Blake Neff? Why is the whole concept of asking questions just so upsetting for him?”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:31:09](/episodes/ep-h76ZN-xXC6c.md#t-00-30-41): “Andrew Kolvet would have to go, Blake (Blake Neff), don't want to see it.”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:48:08](/episodes/ep-VMNWMXX1vO8.md#t-00-48-08): “Blake Neff is a liar. He is a coward. He is a backstabber”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:40:04](/episodes/ep-a2bZf4fic10.md#t-00-39-35): “Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?”
@@ -1908,13 +1948,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:43:35](/episodes/ep-2tFYJf1klgY.md#t-00-43-25): “I have avoided commenting on most of what Candace Owens' claims are the past few months. However, her last episode contained such a blatant untruth about Charlie (Charlie Kirk)'s daily life that I feel compelled to correct it.”
 - [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:16:58](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28): “Some would say he got a little too complex, okay? He said this, Candace, we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false and normal evidentiary logic has no effect on you.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:29:00](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “So he quotes me as saying liars on the Internet have falsely claimed that his parents recognized the gun.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:28:34](/episodes/ep-xi8SYJTUXPM.md#t-00-28-34): “This is a remarkably precise way to be dishonest because when one simply bothers to read the charging document, one sees that Robinson's parents did not recognize the gun.”
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:25:50](/episodes/ep-1QZ4X6q1DPg.md#t-00-25-37): “And Blake (Blake Neff) said, yeah, Candace, since I'm not a malignant narcissist, I don't actually care what my ratio is as long as I'm speaking the truth rather than lies.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:32:05](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05): “the latest thing that candace will fixate on for the next two weeks as all important the key to blowing the case wide open so that she has an excuse to harass more people”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:34:32](/episodes/ep-X3VKJVJ7cN4.md#t-00-34-08): “Blake Neff referred to me as a knife wielding psychopath on the subway.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:45:48](/episodes/ep-OgRyiOAVtWU.md#t-00-45-48): “Nothing compares remotely to the fact that Candace Owens has spent a sustained 10 months making effectively every episode of her show about finding some new way to target Erika (Erika Kirk), target Turning Point, target other people who are in the Turning Point universe, target”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:13:56](/episodes/ep-1CFDtD0IgEg.md#t-00-13-22): “Blake Neff comes at us like this on X. ... Candace (Candace Owens) starts harassing another random Utah police officer, accuses him of being a dirty cop”
@@ -2018,7 +2059,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (45)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (46)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2)</summary>
@@ -2110,6 +2151,14 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 - [00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45) [✓] (Accusation) ["Those of us who knew Charlie Kirk best—a group that does not include Tucker Carl..."](/statements/statement-607e9bf642ac.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:32:05](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05) [✓] (Prediction) ["Blake Neff predicted that Candace Owens would fixate on her latest inquiry for t..."](/statements/statement-1fdb3b78920a.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Blake Neff](/entities/person-blake-neff.md)
 
 </details>
 
@@ -2248,7 +2297,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Blake Neff (48)</strong></summary>
+<summary><strong class="section-title">Statements about Blake Neff (51)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2382,6 +2431,20 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 - [00:34:55](/episodes/ep-h76ZN-xXC6c.md#t-00-34-19) (Accusation) **Candace Owens**: ["Owens said Blake Neff called his mother rather than 911 after Charlie ..."](/statements/statement-ea591d600db9.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3)</summary>
+
+- [00:32:05](/episodes/ep-5NQyGuRYbU8.md#t-00-32-05) (Prediction) **Blake Neff** (via quoted post): ["Blake Neff predicted that Candace Owens would fixate on her latest inq..."](/statements/statement-1fdb3b78920a.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:34:01](/episodes/ep-5NQyGuRYbU8.md#t-00-33-25) (Promise) **Candace Owens**: ["Candace Owens promised to keep filing requests until she got to the bo..."](/statements/statement-53e946a74d19.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kash Patel](/entities/person-kash-patel.md), [FBI](/entities/org-fbi.md)
+
+- [00:34:07](/episodes/ep-5NQyGuRYbU8.md#t-00-34-07) (Accusation) **Candace Owens**: ["Candace Owens accused Blake Neff and Turning Point USA of covering up ..."](/statements/statement-3755d2aa3f2f.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

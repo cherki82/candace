@@ -1,6 +1,6 @@
 ---
-title: "On September 8, Charlie Kirk took Lori Frantzve to a clinic ..."
-description: "\"On September 8, Charlie Kirk took Lori Frantzve to a clinic for Lyme-disease treatment.\" — Candace Owens"
+title: "Candace Owens said she had learned, and believed it accurate..."
+description: "\"Candace Owens said she had learned, and believed it accurate, that on September 8 Charlie Kirk took Lori Frantzve to a clinic for Lyme-disease treatme...\" — Candace Owens"
 statement_id: "statement-68103e28f508"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> On September 8, Charlie Kirk took Lori Frantzve to a clinic for Lyme-disease treatment.
+> Candace Owens said she had learned, and believed it accurate, that on September 8 Charlie Kirk took Lori Frantzve to a clinic for Lyme-disease treatment.
 
 ## Attribution
 

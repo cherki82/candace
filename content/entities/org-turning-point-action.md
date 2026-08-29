@@ -43,7 +43,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-21" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-action-t-00-54-55" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-action-t-00-17-08" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-17" style="--pulse-height:14%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-04" style="--pulse-height:14%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-turning-point-action-t-00-17-26" style="--pulse-height:14%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-turning-point-action-t-00-24-36" style="--pulse-height:14%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-45-57" style="--pulse-height:29%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
@@ -66,7 +66,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-turning-point-action-t-00-01-21) | 7 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-turning-point-action-t-00-54-55) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-turning-point-action-t-00-17-08) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-17) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-04) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-turning-point-action-t-00-17-26) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-turning-point-action-t-00-24-36) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-turning-point-action-t-00-45-57) | 2 |
@@ -196,7 +196,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:14:23](/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-17)**
+**[00:14:16](/episodes/ep-GY6GWceEqtQ.md#ent-org-turning-point-action-t-00-14-04)**
 > "people at Turning Point Action"
 
 </details>
@@ -498,7 +498,7 @@ Source: [Turning Point Action](https://www.tpaction.com/)
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
 
-- [00:17:59](/episodes/ep-A39g5oqB_eM.md#t-00-17-26) (Opinion) **Erika Kirk** (via quoted speech): ["Turning Point USA and Turning Point Action will move full steam ahead ..."](/statements/statement-9e689af3fe42.md)
+- [00:17:59](/episodes/ep-A39g5oqB_eM.md#t-00-17-26) (Promise) **Erika Kirk** (via quoted speech): ["Turning Point USA and Turning Point Action will move full steam ahead ..."](/statements/statement-9e689af3fe42.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

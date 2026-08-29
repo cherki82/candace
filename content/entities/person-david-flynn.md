@@ -73,7 +73,7 @@ _No relationships extracted yet._
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
-- [00:06:34](/episodes/ep-DYD_QHMPwqM.md#t-00-06-23) (Claim) **Rob Skiba**: ["The Mount Hermon location is 33.33 degrees north and 33.33 degrees eas..."](/statements/statement-f77747a08c3e.md)
+- [00:06:34](/episodes/ep-DYD_QHMPwqM.md#t-00-06-23) (Claim) **Rob Skiba** (via quoted speech): ["The Mount Hermon location is 33.33 degrees north and 33.33 degrees eas..."](/statements/statement-f77747a08c3e.md)
   - Also about: [Lebanon](/entities/gpe-lebanon.md), [Paris meridian](/entities/concept-paris-meridian.md)
 
 </details>

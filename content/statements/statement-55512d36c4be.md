@@ -30,7 +30,7 @@ type: "accusation"
 **Timestamp:** [00:37:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-37-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2268);return false;">Play</a>
 
-> they'll a producer will just kind of write in some questions like before people jump online that will just write some questions to get the discussion going and I would just imagine that there's a lot of producers that are writing questions that Ben (Ben Shapiro) wants them to ask so that he could answer and kind of diss me and that's what you're going to see here and so because they're like running out of things to say about me
+> they'll a producer will just kind of write in some questions like before people jump online that will just write some questions to get the discussion going and I would just imagine that there's a lot of producers that are writing questions. that Ben (Ben Shapiro) wants them to ask so that he could answer and kind of dis me and that's what you're going to see here and so because they're like running out of things to say about me
 
 ## Verification
 

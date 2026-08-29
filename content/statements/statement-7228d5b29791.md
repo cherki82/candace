@@ -33,7 +33,7 @@ veracity: "true"
 **Timestamp:** [00:19:42](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1182);return false;">Play</a>
 
-> In her high school yearbook, actually, ... Kent (Kenneth Frantzve) is included, ... her father, ... biological father, ... in a collage, and so are his parents, ... her grandparents, ... Carl (Carl Kenneth Frantzve) and Elaine (Elaine Frantzve),
+> In her high school yearbook, actually, ... Kent (Kenneth Frantzve) is included, ... her father, ... biological father, ... in a collage, and so are his parents, ... her grandparents, ... Carl (Carl Kenneth Frantzve) and Elaine (Elaine Frantzve), ... But he's featured there, too. ... You've got Larry (Larry Guinta) in the photo.
 
 ## Verification
 

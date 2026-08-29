@@ -11,7 +11,7 @@ object: "person-norman-finkelstein"
 
 ## [Candace Owens](/entities/person-candace-owens) interviewed [Norman Finkelstein](/entities/person-norman-finkelstein)
 
-### Evidence (6 mentions)
+### Evidence (7 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -20,6 +20,10 @@ object: "person-norman-finkelstein"
 **[Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0)**
 
 - [00:15:11](/episodes/ep-LATnak75Si0#t-00-15-11): _when Norm Finkelstein was on our show_
+
+**[CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ)**
+
+- [00:50:51](/episodes/ep-QRS_hR7NXaQ#t-00-50-51): _We had Norm Finkelstein on this show._
 
 **[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
 

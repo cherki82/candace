@@ -16,7 +16,7 @@ _Type: Places_
 Source: [State of Michigan](https://www.michigan.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-michigan-t-00-35-23">2026-01-29 · 00:35:53</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-michigan-t-00-35-23">2026-01-29 · 00:35:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-michigan-t-00-53-21">2026-08-14 · 00:53:45</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
@@ -108,7 +108,7 @@ Source: [State of Michigan](https://www.michigan.gov/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:35:53](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-michigan-t-00-35-23)**
+**[00:35:50](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-michigan-t-00-35-23)**
 > "Arabs in Michigan"
 
 </details>

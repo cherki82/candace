@@ -37,8 +37,8 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-blackout-t-00-48-11" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-51-13" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-work-blackout-t-00-07-35" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-10" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-10" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-50" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-01" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-work-blackout-t-00-50-31" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-blackout-t-00-55-01" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-work-blackout-t-00-35-59" style="--pulse-height:33%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
@@ -57,8 +57,8 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-blackout-t-00-48-11) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-51-13) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-blackout-t-00-07-35) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-10) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-10) | 2 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-50) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-01) | 2 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-work-blackout-t-00-50-31) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-blackout-t-00-55-01) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-work-blackout-t-00-35-59) | 1 |
@@ -125,10 +125,10 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:58:10](/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-10)**
+**[00:58:05](/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-01)**
 > "Make Him a Sandwich and Blackout, both hand-signed by me."
 
-**[00:23:45](/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-10)**
+**[00:23:42](/episodes/ep-QdM9jLwjwLw.md#ent-work-blackout-t-00-58-01)**
 > "We still have major blackouts in Nashville,"
 
 </details>
@@ -136,7 +136,7 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:39:50](/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-10)**
+**[00:39:50](/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-50)**
 > "...es of Make Him a Sandwich and Blackout, both hand signed by me."
 
 </details>

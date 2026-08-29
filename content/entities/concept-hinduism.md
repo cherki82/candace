@@ -91,7 +91,7 @@ _No relationships extracted yet._
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
-- [00:11:34](/episodes/ep-DYD_QHMPwqM.md#t-00-11-34) (Claim) **Rob Skiba**: ["CERN placed a statue of the Hindu god Shiva outside its entrance."](/statements/statement-bfeb9e46b34f.md)
+- [00:11:34](/episodes/ep-DYD_QHMPwqM.md#t-00-11-34) (Claim) **Rob Skiba** (via quoted speech): ["CERN placed a statue of the Hindu god Shiva outside its entrance."](/statements/statement-bfeb9e46b34f.md)
   - Also about: [CERN](/entities/org-cern.md), [Shiva](/entities/concept-shiva.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
-title: "A very well-planned, military-level psychological operation ..."
-description: "\"A very well-planned, military-level psychological operation was intended to traumatize and psychologically neutralize Candace Owens.\" — Candace Owens"
+title: "Candace Owens said she thought a very well-planned, military..."
+description: "\"Candace Owens said she thought a very well-planned, military-level psychological operation was intended to traumatize and psychologically neutralize h...\" — Candace Owens"
 statement_id: "statement-e0a0e4ecea6f"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> A very well-planned, military-level psychological operation was intended to traumatize and psychologically neutralize Candace Owens.
+> Candace Owens said she thought a very well-planned, military-level psychological operation was intended to traumatize and psychologically neutralize her.
 
 ## Attribution
 
@@ -34,8 +34,8 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

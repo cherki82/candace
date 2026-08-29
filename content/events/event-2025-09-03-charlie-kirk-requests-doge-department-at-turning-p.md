@@ -11,7 +11,7 @@ date: "2025-09-03"
 
 > Charlie Kirk requests DOGE department at Turning Point USA.
 
-## Mentioned In (182 times)
+## Mentioned In (183 times)
 
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
@@ -1468,3 +1468,11 @@ date: "2025-09-03"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1631);return false;">▶️ Play</a>
 
 > Charlie wanted to seven days before he died to establish a DOGE audit
+
+### 183. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
+
+**Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
+**Timestamp:** [00:05:29](/episodes/ep-GY6GWceEqtQ.md#t-00-05-05) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(329);return false;">▶️ Play</a>
+
+> Charlie establishing a doge seven days before he died

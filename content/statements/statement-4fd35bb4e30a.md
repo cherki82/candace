@@ -28,7 +28,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:59:24](/episodes/ep-GY6GWceEqtQ.md#t-00-59-24) 
+**Timestamp:** [00:59:24](/episodes/ep-GY6GWceEqtQ.md#t-00-59-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3564);return false;">Play</a>
 
 > Another donor who was at the Aspen event does remember. ... actually says that they do remember Charlie (Charlie Kirk) mentioning Erika (Erika Kirk) if you know situation something happened that Erika (Erika Kirk) would know what to do so that seems to check out the donor I think is a very good person and obviously doesn't want to be on record but you know different I brought that up yesterday about whether or not that actually happened in Aspen and there is a donor that does specifically remember that so important to update that again this is an open investigation

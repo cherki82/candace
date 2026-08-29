@@ -35,7 +35,7 @@ Source: [FAA — FBO Industry Profile](https://www.faa.gov/airports/resources/pu
 <p>Highest activity: <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-fixed-base-operator-t-00-09-14">REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-fixed-base-operator-t-00-38-59" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-fixed-base-operator-t-01-03-42" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-fixed-base-operator-t-01-03-43" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-concept-fixed-base-operator-t-00-09-14" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 4 mentions" title="2026-03-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-fixed-base-operator-t-00-17-24" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-fixed-base-operator-t-00-10-42" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
@@ -45,7 +45,7 @@ Source: [FAA — FBO Industry Profile](https://www.faa.gov/airports/resources/pu
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-fixed-base-operator-t-00-38-59) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-fixed-base-operator-t-01-03-42) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-fixed-base-operator-t-01-03-43) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-concept-fixed-base-operator-t-00-09-14) | 4 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-fixed-base-operator-t-00-17-24) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-fixed-base-operator-t-00-10-42) | 2 |
@@ -97,7 +97,7 @@ Source: [FAA — FBO Industry Profile](https://www.faa.gov/airports/resources/pu
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[01:03:45](/episodes/ep-9naMwS0kMBE.md#ent-concept-fixed-base-operator-t-01-03-42)**
+**[01:03:43](/episodes/ep-9naMwS0kMBE.md#ent-concept-fixed-base-operator-t-01-03-43)**
 > "whether it went back to the FBO in the back or whether it was more in the public"
 
 </details>

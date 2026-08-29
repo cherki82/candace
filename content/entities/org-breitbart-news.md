@@ -38,7 +38,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51" style="--pulse-height:8%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-breitbart-news-t-00-23-20" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-breitbart-news-t-00-17-38" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 33 mentions" title="2026-01-07 · 33 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-24" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-36" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-05-04" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -48,7 +48,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-breitbart-news-t-00-23-20) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-breitbart-news-t-00-17-38) | 33 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-24) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-36) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-breitbart-news-t-00-05-04) | 2 |
 
 </details>
@@ -73,7 +73,7 @@ Source: [Who Breitbart Is...Really](https://media.breitbart.com/media/2019/11/ab
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-24)**
+**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-org-breitbart-news-t-00-50-36)**
 > "... plan is to do what we did to breitbart we'll create a fake scandal we'll accuse candace ..."
 
 </details>

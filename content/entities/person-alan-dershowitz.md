@@ -27,7 +27,7 @@ Source: [Harvard Law School: Alan M. Dershowitz](https://hls.harvard.edu/faculty
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -103,12 +103,50 @@ Source: [Harvard Law School: Alan M. Dershowitz](https://hls.harvard.edu/faculty
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Criticized By (1)</summary>
+
+- **[Norman Finkelstein](/entities/person-norman-finkelstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Threatened By (1)</summary>
+
+- **[Norman Finkelstein](/entities/person-norman-finkelstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Norman Finkelstein](/entities/person-norman-finkelstein.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
+
+</details>
 
 - **[Joe Kent](/entities/person-joe-kent.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:15:41](/episodes/ep-I0OaY6Gryqk.md#t-00-15-14): “Alan Dershowitz just went just threw it back to, you know, neo-Nazi Jew hating Israel basher quits administration.”
+
+</details>
+
+- **[Norman Finkelstein](/entities/person-norman-finkelstein.md)** threatened this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
 
 </details>
 

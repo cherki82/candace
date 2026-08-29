@@ -81,7 +81,7 @@ Source: [Who owns the Federal Reserve?](https://www.federalreserve.gov/faqs/abou
 **[00:00:33](/episodes/ep-9naMwS0kMBE.md#ent-org-federal-reserve-system-t-00-06-24)**
 > "You would think the feds would do that,"
 
-**[00:06:51](/episodes/ep-9naMwS0kMBE.md#ent-org-federal-reserve-system-t-00-06-24)**
+**[00:06:35](/episodes/ep-9naMwS0kMBE.md#ent-org-federal-reserve-system-t-00-06-24)**
 > "which is like, you know, the Fed has to do that. If they kill you, they have to gi..."
 
 **[01:06:36](/episodes/ep-9naMwS0kMBE.md#ent-org-federal-reserve-system-t-01-06-07)**

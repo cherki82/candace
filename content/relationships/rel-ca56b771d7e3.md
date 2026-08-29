@@ -11,7 +11,7 @@ object: "org-paleovalley"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [Paleovalley](/entities/org-paleovalley)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
 
 **[BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE)**
 
@@ -24,6 +24,10 @@ object: "org-paleovalley"
 **[LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8)**
 
 - [01:24:53](/episodes/ep-Dkxa9OUA9K8#t-01-24-53): _Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley._
+
+**[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
+
+- [00:49:12](/episodes/ep-Wjul6YV6izo#t-00-49-12): _Also want to tell you guys about Paleo Valley because something that my team and I are always craving are their beef sticks. Paleo Valley makes their meat sticks with 100% grass-fed beef ... so you can feel good about what you are eating and what you're supporting._
 
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 

@@ -17,8 +17,8 @@ _Type: People_
 Source: [Glenn Greenwald - Bio/CV](https://www.congress.gov/117/meeting/house/111315/witnesses/HHRG-117-JU05-Bio-GreenwaldG-20210312.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-07">2026-01-22 · 00:41:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-07">2026-01-22 · 00:41:45</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-39">2026-01-22 · 00:41:39</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-39">2026-01-22 · 00:41:39</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -29,15 +29,15 @@ Source: [Glenn Greenwald - Bio/CV](https://www.congress.gov/117/meeting/house/11
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-07">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-39">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-07" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-39" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-07) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-39) | 1 |
 
 </details>
 </section>
@@ -50,7 +50,7 @@ Source: [Glenn Greenwald - Bio/CV](https://www.congress.gov/117/meeting/house/11
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:41:45](/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-07)**
+**[00:41:39](/episodes/ep-gG4ZoYUjUc8.md#ent-person-glenn-greenwald-t-00-41-39)**
 > "Glenn Greenwald,"
 
 </details>

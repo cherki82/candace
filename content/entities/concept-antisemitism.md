@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 122 mentions"
+description: "Antisemitism (Concepts) - 123 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -26,8 +26,8 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00">2025-10-01 · 00:00:21</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-23-09">2026-07-23 · 00:23:09</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>122</strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>123</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,8 +50,8 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-29" style="--pulse-height:36%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-antisemitism-t-00-35-01" style="--pulse-height:21%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-antisemitism-t-00-30-12" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-02-39" style="--pulse-height:21%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-00-50-24" style="--pulse-height:21%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-03-19" style="--pulse-height:21%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-00-50-36" style="--pulse-height:21%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-00-13" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-antisemitism-t-00-04-55" style="--pulse-height:43%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 6 mentions" title="2026-02-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-antisemitism-t-00-41-24" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -73,6 +73,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-SKNJPul29zU.md#ent-concept-antisemitism-t-00-09-55" style="--pulse-height:21%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-00-26-29" style="--pulse-height:21%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-06-10" style="--pulse-height:14%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-concept-antisemitism-t-00-16-56" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-19-58" style="--pulse-height:21%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-02-47" style="--pulse-height:21%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
@@ -94,8 +95,8 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-29) | 5 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-antisemitism-t-00-35-01) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-antisemitism-t-00-30-12) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-02-39) | 3 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-00-50-24) | 3 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-03-19) | 3 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-00-50-36) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-00-13) | 14 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-antisemitism-t-00-04-55) | 6 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-antisemitism-t-00-41-24) | 1 |
@@ -117,6 +118,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-antisemitism-t-00-09-55) | 3 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-concept-antisemitism-t-00-26-29) | 3 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-antisemitism-t-00-06-10) | 2 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-concept-antisemitism-t-00-16-56) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-antisemitism-t-00-19-58) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-antisemitism-t-00-02-47) | 3 |
@@ -128,7 +130,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (122)</strong></summary>
+<summary><strong class="section-title">Raw mentions (123)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -174,6 +176,14 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 **[00:44:02](/episodes/ep-sKuYLNx3iRo.md#ent-concept-antisemitism-t-00-43-58)**
 > "she's anti-Semitic"
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:17:09](/episodes/ep-5NQyGuRYbU8.md#ent-concept-antisemitism-t-00-16-56)**
+> "It's just incredible. That when I say it, it sounds like an anti-Semitic conspiracy theory, but they say it, it's just like, you know, we're taking credit for what we do. We're the best at this and we're sophisticated and we'd like to tell you here on 60 Minutes anyway."
 
 </details>
 
@@ -402,7 +412,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 **[00:33:11](/episodes/ep-4YgrOhhy708.md#ent-concept-antisemitism-t-00-33-11)**
 > "...her mouth that I would say is anti-Semitic."
 
-**[00:35:19](/episodes/ep-4YgrOhhy708.md#ent-concept-antisemitism-t-00-35-13)**
+**[00:35:19](/episodes/ep-4YgrOhhy708.md#ent-concept-antisemitism-t-00-35-12)**
 > "call you anti-Semitic, et cetera,"
 
 </details>
@@ -472,7 +482,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 **[00:00:54](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-00-13)**
 > "...y one of the nominees for the anti-Semite of the year this year was Miss Rachel."
 
-**[00:01:17](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-00-59)**
+**[00:01:14](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-00-59)**
 > "They're what is it? Stop anti-Semitism."
 
 **[00:01:20](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-01-20)**
@@ -484,7 +494,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 **[00:27:02](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-27-02)**
 > "...t if you ask that that's your anti-semite but my and he asked other question about the the ..."
 
-**[00:37:40](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-37-35)**
+**[00:37:35](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-00-37-35)**
 > "...es getting decapitated you're anti-semitic you don't like you don't care about babies and th..."
 
 **[01:21:13](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-antisemitism-t-01-21-13)**
@@ -504,13 +514,13 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (3 mentions)</summary>
 
-**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-00-50-24)**
+**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-00-50-36)**
 > "...ant we'll accuse her of being anti-semitic and gloriously fire her over having said christ i..."
 
-**[00:54:41](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-00-54-35)**
+**[00:54:30](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-00-54-30)**
 > "... pop culture young girl as an anti-Semite over an Instagram like because she liked a year-e..."
 
-**[01:05:21](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-01-05-02)**
+**[01:05:20](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antisemitism-t-01-05-15)**
 > "...nd tried to spin that into an anti-semitic attack and but we're not going to acknowledge the..."
 
 </details>
@@ -518,13 +528,13 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
 
-**[00:03:19](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-02-39)**
+**[00:03:19](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-03-19)**
 > "There's nothing anti-Semitic about saying that. There's nothing even anti-Isra..."
 
-**[00:07:39](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-02-39)**
+**[00:07:35](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-03-19)**
 > "why would you platform anti-Semites like Candace and Tucker (Tucker Carlson)?"
 
-**[00:07:51](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-07-51)**
+**[00:07:51](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-07-44)**
 > "... are accusing you of being an anti-Semite because you disagree with the Israeli government."
 
 </details>
@@ -533,7 +543,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
 **[00:30:12](/episodes/ep-9naMwS0kMBE.md#ent-concept-antisemitism-t-00-30-12)**
-> "...w that I sound like I'm being anti-Semitic, but I swear it's like Keston bomb or something."
+> "And I know that I sound like I'm being anti-Semitic, but I swear it's like Kestenbaum or something."
 
 </details>
 
@@ -790,7 +800,7 @@ _No relationships extracted yet._
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
 
-- [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-24) (Accusation) **Candace Owens**: ["Owens sarcastically characterized The Daily Wire's decision as a plan ..."](/statements/statement-6470de56359a.md)
+- [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) (Accusation) **Candace Owens**: ["Owens sarcastically characterized The Daily Wire's decision as a plan ..."](/statements/statement-6470de56359a.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
@@ -798,7 +808,7 @@ _No relationships extracted yet._
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:07:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-10) (Accusation) **Anonymous Source #3 (Ep gG4ZoYUjUc8)** (via read message): ["Why would you platform anti-Semites like Candace and Tucker? There are..."](/statements/statement-b9f31005c32c.md)
+- [00:07:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) (Accusation) **Anonymous Source #3 (Ep gG4ZoYUjUc8)** (via read message): ["Why would you platform anti-Semites like Candace and Tucker? There are..."](/statements/statement-b9f31005c32c.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

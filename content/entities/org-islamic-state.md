@@ -109,7 +109,7 @@ Source: [National Counterterrorism Center: ISIS](https://www.dni.gov/nctc/groups
 **[00:18:27](/episodes/ep-xjzb_t5Tk9o.md#ent-org-islamic-state-t-00-18-15)**
 > "people from ISIS"
 
-**[00:40:25](/episodes/ep-xjzb_t5Tk9o.md#ent-org-islamic-state-t-00-40-25)**
+**[00:40:23](/episodes/ep-xjzb_t5Tk9o.md#ent-org-islamic-state-t-00-40-23)**
 > "ISIS"
 
 </details>

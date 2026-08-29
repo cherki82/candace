@@ -167,7 +167,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:33:33](/episodes/ep-xjzb_t5Tk9o.md#t-00-33-32)**
+**[00:33:32](/episodes/ep-xjzb_t5Tk9o.md#t-00-33-32)**
 > "she said to Jesse Waters"
 
 </details>

@@ -49,7 +49,7 @@ The official TPUSA upload confirms Erika Kirk's first post-assassination address
 - [TPUSA: A statement from Erika Kirk](https://www.youtube.com/watch?v=e5SHpvRYg_o)
 - [Axios: Erika Kirk's first remarks after Charlie Kirk's death](https://www.axios.com/2025/09/13/charlie-kirk-wife-erika-shooting-remarks)
 
-*Verified: 2026-08-16T09:04:19.004905*
+*Verified: 2026-08-29T14:35:05.547197*
 
 ---
 

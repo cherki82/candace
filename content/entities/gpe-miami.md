@@ -108,7 +108,7 @@ Source: [City of Miami](https://www.miami.gov/Home)
 **[01:42:55](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-miami-t-01-42-45)**
 > "...ney and summer 2001 I went to Miami."
 
-**[01:43:28](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-miami-t-01-43-23)**
+**[01:43:23](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-miami-t-01-43-23)**
 > "my return ticket from Miami was 17th of September,"
 
 **[01:43:59](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-miami-t-01-43-59)**

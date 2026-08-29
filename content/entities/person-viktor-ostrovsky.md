@@ -20,7 +20,7 @@ _Type: People_
 Source: [Victor Ostrovsky | Penguin Random House](https://www.penguinrandomhouse.com/authors/246311/victor-ostrovsky/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-27-19">2026-01-29 · 01:27:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-27-19">2026-01-29 · 01:27:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-viktor-ostrovsky-t-00-39-43">2026-04-16 · 00:39:43</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -63,7 +63,7 @@ Source: [Victor Ostrovsky | Penguin Random House](https://www.penguinrandomhouse
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[01:27:48](/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-27-19)**
+**[01:27:40](/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-27-19)**
 > "book by a Mossad agent called Viktor Ostrovsky"
 
 **[01:28:44](/episodes/ep-xjzb_t5Tk9o.md#ent-person-viktor-ostrovsky-t-01-28-44)**

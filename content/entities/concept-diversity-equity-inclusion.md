@@ -20,7 +20,7 @@ _Type: Concepts_
 Source: [Merriam-Webster: DEI](https://www.merriam-webster.com/dictionary/DEI)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-diversity-equity-inclusion-t-00-01-20">2026-01-29 · 00:01:24</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-diversity-equity-inclusion-t-00-01-20">2026-01-29 · 00:01:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-diversity-equity-inclusion-t-00-16-47">2026-05-11 · 00:16:47</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
@@ -72,7 +72,7 @@ Source: [Merriam-Webster: DEI](https://www.merriam-webster.com/dictionary/DEI)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:01:24](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-diversity-equity-inclusion-t-00-01-20)**
+**[00:01:20](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-diversity-equity-inclusion-t-00-01-20)**
 > "it wasn't DEI"
 
 </details>

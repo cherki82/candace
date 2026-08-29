@@ -1,6 +1,6 @@
 ---
-title: "Stanley Clark Moore has a U.S. Air Force background and late..."
-description: "\"Stanley Clark Moore has a U.S. Air Force background and later worked for NASA.\" — Candace Owens"
+title: "If his Wikipedia biography is to be believed, Stanley Clark ..."
+description: "\"If his Wikipedia biography is to be believed, Stanley Clark Moore has a U.S. Air Force background and later worked for NASA.\" — Candace Owens"
 statement_id: "statement-4700141ba93b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "false"
 
 ## Statement
 
-> Stanley Clark Moore has a U.S. Air Force background and later worked for NASA.
+> If his Wikipedia biography is to be believed, Stanley Clark Moore has a U.S. Air Force background and later worked for NASA.
 
 ## Attribution
 

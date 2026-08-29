@@ -27,7 +27,7 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -114,6 +114,18 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “he has been watching every minute of this show since i left the daily wire that was actually Alyssa (Alyssa Cordova)'s job when when um back when Jeremy (Jeremy Boreing) was there they used to keep a file”
+
+</details>
+
+</details>
+
+<details>
 <summary>Worked With (1)</summary>
 
 - **[Ian Miles Cheong](/entities/person-ian-miles-cheong.md)**
@@ -126,7 +138,14 @@ Source: [Alyssa Cordova Named Executive Producer of The Jeremy Boreing Show | Ba
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “he has been watching every minute of this show since i left the daily wire that was actually Alyssa (Alyssa Cordova)'s job when when um back when Jeremy (Jeremy Boreing) was there they used to keep a file”
+
+</details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

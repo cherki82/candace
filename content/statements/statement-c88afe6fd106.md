@@ -29,10 +29,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:52:27](/episodes/ep-QdM9jLwjwLw.md#t-00-51-50) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3147);return false;">Play</a>
+**Timestamp:** [00:52:30](/episodes/ep-QdM9jLwjwLw.md#t-00-51-54) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3150);return false;">Play</a>
 
-> I might even rank having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA, ... followed by a somehow even worse decision as a CEO to then author a maniacal, almost five-page-long email to the entire company admitting to the act,
+> having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA, to put her on a plane, an intern. ... author a maniacal, almost five-page-long email to the entire company admitting to the act, justifying the decision to secretly follow someone that you had gloriously fired, saying, and I quote, it's my right, it's my right to know what she's saying.
 
 ## Verification
 

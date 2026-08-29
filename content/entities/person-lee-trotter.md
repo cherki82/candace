@@ -1,6 +1,6 @@
 ---
 title: "Lee Trotter"
-description: "Lee Trotter (People) - 25 mentions"
+description: "Lee Trotter (People) - 26 mentions"
 id: "person-lee-trotter"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37">2025-10-28 · 00:29:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-person-lee-trotter-t-00-45-18">2026-04-30 · 00:45:51</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -41,8 +41,8 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-53" style="--pulse-height:60%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-lee-trotter-t-00-19-58" style="--pulse-height:40%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-02-52" style="--pulse-height:20%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-lee-trotter-t-00-12-58" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-03-02" style="--pulse-height:20%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-lee-trotter-t-00-12-58" style="--pulse-height:40%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-lee-trotter-t-00-09-30" style="--pulse-height:60%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-lee-trotter-t-00-19-19" style="--pulse-height:20%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-lee-trotter-t-01-01-45" style="--pulse-height:40%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
@@ -57,8 +57,8 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-53) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-lee-trotter-t-00-19-58) | 2 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-02-52) | 1 |
-| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-lee-trotter-t-00-12-58) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-03-02) | 1 |
+| 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-lee-trotter-t-00-12-58) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-lee-trotter-t-00-09-30) | 3 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-lee-trotter-t-00-19-19) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-lee-trotter-t-01-01-45) | 2 |
@@ -70,7 +70,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
@@ -117,17 +117,20 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 </details>
 
 <details>
-<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (1 mentions)</summary>
+<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2 mentions)</summary>
 
 **[00:13:27](/episodes/ep-ti5Fxrvegno.md#ent-person-lee-trotter-t-00-12-58)**
 > "Lee Trotter, the surgeon,"
+
+**[00:13:24](/episodes/ep-ti5Fxrvegno.md#ent-person-lee-trotter-t-00-12-58)**
+> "...emergency three-way call with Dr. Lee Trotter, the surgeon,"
 
 </details>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:03:02](/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-02-52)**
+**[00:03:02](/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-03-02)**
 > "...d that he went rogue that Dr. Lee Trotter also went rogue violated HIPAA that they hopped o..."
 
 </details>
@@ -298,10 +301,10 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2)</summary>
 
-- [00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-02-52) (Accusation) **Candace Owens**: ["Erika Kirk lied about Andrew Kolvet and Dr. Lee Trotter going rogue an..."](/statements/statement-2824555a224c.md)
+- [00:03:02](/episodes/ep-QdM9jLwjwLw.md#t-00-03-02) (Accusation) **Candace Owens**: ["Erika Kirk lied about Andrew Kolvet and Dr. Lee Trotter going rogue an..."](/statements/statement-2824555a224c.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [HIPAA](/entities/law-hipaa.md)
 
-- [00:31:49](/episodes/ep-QdM9jLwjwLw.md#t-00-31-26) (Claim) **Candace Owens**: ["Erika Kirk and Andrew Kolvet held the three-way call with Charlie Kirk..."](/statements/statement-398e4130e758.md)
+- [00:31:49](/episodes/ep-QdM9jLwjwLw.md#t-00-31-49) (Claim) **Candace Owens**: ["Erika Kirk and Andrew Kolvet held the three-way call with Charlie Kirk..."](/statements/statement-398e4130e758.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

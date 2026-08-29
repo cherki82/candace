@@ -39,16 +39,17 @@ veracity: "true"
 
 ### Analysis
 
-Transcript context is a news anchor reporting Erika Kirk's appointment. Turning Point USA's current staff page identifies her as CEO and Board Chair and says she was appointed after Charlie Kirk's September 2025 assassination; AP reported that the board unanimously elected her as its next leader.
+The source-scoped transcript context is a news-anchor report that Erika Kirk was named the new CEO of Turning Point USA. Current live review confirms the appointment: Turning Point USA's team page identifies her as CEO and Board Chair and says she was appointed after Charlie Kirk's September 2025 assassination; AP independently reported that the board unanimously elected her CEO and board chair.
 
 **Confidence:** High
 
 **Sources:**
 
 - [Erika Kirk - Staff | Turning Point USA](https://tpusa.com/staff/?uid=1461)
-- [Charlie Kirk's Turning Point taps his widow as its next leader | AP News](https://apnews.com/article/turning-point-charlie-kirk-erika-kirk-trump-ff9141ca3fd5b8f1a103e7eb03f7535b)
+- [Charlie Kirk's Turning Point makes Erika Kirk its next leader | AP News](https://apnews.com/article/turning-point-charlie-kirk-erika-kirk-trump-ff9141ca3fd5b8f1a103e7eb03f7535b)
+- [Team | Turning Point USA](https://tpusa.com/team/)
 
-*Verified: 2026-08-16T12:59:28.888932*
+*Verified: 2026-08-29T16:17:58.054789*
 
 ---
 

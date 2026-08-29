@@ -11,7 +11,11 @@ object: "person-kanye-west"
 
 ## [Candace Owens](/entities/person-candace-owens) friend of [Kanye West](/entities/person-kanye-west)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
+
+- [00:44:31](/episodes/ep-A39g5oqB_eM#t-00-44-31): _Because this comes up all the time. There's always this Candace, Ye (Kanye West). I love Ye (Kanye West). He's like a brother to me. I am never going to turn my back on Ye (Kanye West). I'm here for the Ye (Kanye West) of all seasons. He and I agree on many things, disagree on many things at all times. If he wants to apologize to people that he specifically has hurt, he is welcome to do that._
 
 **[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
 

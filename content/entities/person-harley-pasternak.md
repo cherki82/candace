@@ -75,7 +75,7 @@ Source: [Harley Pasternak, M.Sc. | Penguin Random House](https://www.penguinrand
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:40:20](/episodes/ep-9naMwS0kMBE.md#ent-person-harley-pasternak-t-00-40-19)**
+**[00:40:19](/episodes/ep-9naMwS0kMBE.md#ent-person-harley-pasternak-t-00-40-19)**
 > "...ke exposing the messages with Harley Pasternak, you realize it's the same cult and"
 
 </details>

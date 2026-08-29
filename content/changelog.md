@@ -5,6 +5,25 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-29 17:09:42
+
+**Added 1 episode(s):**
+  - `5NQyGuRYbU8`: Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349
+**Added 29 new entity/entities**
+**Added 19 new event(s)**
+**Removed 1 event(s)**
+**Added 71 new statement(s)**
+**Added 149 new relationship(s)**
+
+**Totals:**
+- Episodes: 160
+- Entities: 4058
+- Events: 1722
+- Statements: 6977
+- Relationships: 4599
+
+---
+
 ## 2026-08-29 06:53:54
 
 **Added 6 new entity/entities**

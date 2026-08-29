@@ -16,7 +16,7 @@ _Type: People_
 Source: [DJ Khaled](https://en.wikipedia.org/wiki/DJ_Khaled)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-08">2026-01-29 · 01:30:11</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-11">2026-01-29 · 01:30:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-23">2026-01-29 · 01:30:23</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -28,15 +28,15 @@ Source: [DJ Khaled](https://en.wikipedia.org/wiki/DJ_Khaled)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-08">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-11">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-08" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-11" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-08) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-11) | 2 |
 
 </details>
 </section>
@@ -49,7 +49,7 @@ Source: [DJ Khaled](https://en.wikipedia.org/wiki/DJ_Khaled)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[01:30:11](/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-08)**
+**[01:30:11](/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-11)**
 > "Palestinian DJ Khaled"
 
 **[01:30:23](/episodes/ep-xjzb_t5Tk9o.md#ent-person-dj-khaled-t-01-30-23)**

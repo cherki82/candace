@@ -84,7 +84,7 @@ _No relationships extracted yet._
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
-- [00:10:52](/episodes/ep-DYD_QHMPwqM.md#t-00-10-16) (Citation) **Rob Skiba**: ["CERN's stated objective was to recreate the Big Bang."](/statements/statement-d2f375812dec.md)
+- [00:10:52](/episodes/ep-DYD_QHMPwqM.md#t-00-10-16) (Citation) **Rob Skiba** (via quoted speech): ["CERN's stated objective was to recreate the Big Bang."](/statements/statement-d2f375812dec.md)
   - Also about: [CERN](/entities/org-cern.md)
 
 </details>

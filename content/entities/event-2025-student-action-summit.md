@@ -24,7 +24,7 @@ _Type: Events_
 Source: [Student Action Summit 2025](https://www.sas2025.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-23">2026-01-22 · 00:01:58</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-58">2026-01-22 · 00:01:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-event-2025-student-action-summit-t-00-17-53">2026-06-13 · 00:18:25</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
@@ -36,9 +36,9 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-23">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-58">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-23" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-58" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-event-2025-student-action-summit-t-00-16-38" style="--pulse-height:50%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-event-2025-student-action-summit-t-00-21-40" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-event-2025-student-action-summit-t-00-17-53" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-23) | 2 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-58) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-event-2025-student-action-summit-t-00-16-38) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-event-2025-student-action-summit-t-00-21-40) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-event-2025-student-action-summit-t-00-17-53) | 2 |
@@ -93,10 +93,10 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:01:58](/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-23)**
+**[00:01:58](/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-01-58)**
 > "...osted Tucker Carlson at their SAS event in July."
 
-**[00:08:29](/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-07-51)**
+**[00:08:29](/episodes/ep-gG4ZoYUjUc8.md#ent-event-2025-student-action-summit-t-00-08-29)**
 > "Your TPUSA Tampa event was a disaster."
 
 </details>
@@ -112,7 +112,7 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-23): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-17): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:16:38](/episodes/ep-4YgrOhhy708.md#t-00-16-38): “Tucker (Tucker Carlson) said when he got onto stage at SAS”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:15:56](/episodes/ep-WoXd4oLwd3w.md#t-00-15-43): “that just in the midst of Charlie (Charlie Kirk)'s SAS, the Student Action Summit ... Well, it turns out Tucker (Tucker Carlson) spoke on July 11th.”
 
@@ -121,7 +121,7 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 - **[Michele Bachmann](/entities/person-michele-bachmann.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51): “Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-44): “Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.”
 
 </details>
 
@@ -140,7 +140,7 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** spoke at this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-23): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-17): “In July ... Charlie (Charlie Kirk) ... hosted Tucker Carlson at their SAS event in July.”
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:16:38](/episodes/ep-4YgrOhhy708.md#t-00-16-38): “Tucker (Tucker Carlson) said when he got onto stage at SAS”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:15:56](/episodes/ep-WoXd4oLwd3w.md#t-00-15-43): “that just in the midst of Charlie (Charlie Kirk)'s SAS, the Student Action Summit ... Well, it turns out Tucker (Tucker Carlson) spoke on July 11th.”
 
@@ -149,7 +149,7 @@ Source: [Student Action Summit 2025](https://www.sas2025.com/)
 - **[Michele Bachmann](/entities/person-michele-bachmann.md)** spoke at this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51): “Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:08:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-44): “Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.”
 
 </details>
 

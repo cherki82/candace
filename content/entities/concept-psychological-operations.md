@@ -348,7 +348,7 @@ _No relationships extracted yet._
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (1)</summary>
 
-- [00:40:57](/episodes/ep-mFuno0TuuQQ.md#t-00-40-32) (Accusation) **Candace Owens**: ["A very well-planned, military-level psychological operation was intend..."](/statements/statement-e0a0e4ecea6f.md)
+- [00:40:57](/episodes/ep-mFuno0TuuQQ.md#t-00-40-32) (Accusation) **Candace Owens**: ["Candace Owens said she thought a very well-planned, military-level psy..."](/statements/statement-e0a0e4ecea6f.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

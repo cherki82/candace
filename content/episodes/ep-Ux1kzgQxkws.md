@@ -1662,7 +1662,7 @@ youtube_url: "https://www.youtube.com/watch?v=Ux1kzgQxkws"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-Ux1kzgQxkws/t-01-11-58.md" class="timestamp-link">01:11:58</a> <a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4318" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** <span id="ent-person-jared-kushner-t-01-11-58"><a href="/entities/person-jared-kushner.md">Jared</a></span>, it wasn't a joke and that is. That is the And deal. ^t-01-11-58
+**<a href="/timestamps/ep-Ux1kzgQxkws/t-01-11-58.md" class="timestamp-link">01:11:58</a> <a href="https://www.youtube.com/watch?v=Ux1kzgQxkws&t=4318" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Jared, it wasn't a joke and that is. That is the And deal. ^t-01-11-58
 
 ---
 **🎤 Hunter Biden**

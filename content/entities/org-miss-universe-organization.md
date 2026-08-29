@@ -121,7 +121,7 @@ _No relationships extracted yet._
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
-- [00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-31-05) (Accusation) **Candace Owens**: ["Jeffrey Epstein trafficked people through modeling and pageant organiz..."](/statements/statement-0072d63905d3.md)
+- [00:31:05](/episodes/ep-CEF7gQRWYCE.md#t-00-31-05) (Accusation) **Candace Owens**: ["Jeffrey Epstein and Jean-Luc Brunel trafficked through modeling organi..."](/statements/statement-0072d63905d3.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md), [MC2 Model Management](/entities/org-mc2-model-management.md)
 
 </details>

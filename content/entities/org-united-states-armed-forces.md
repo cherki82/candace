@@ -262,7 +262,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 - **[Michael Aquino](/entities/person-michael-aquino.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-34): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
 
 </details>
 
@@ -302,7 +302,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 - **[Michael Aquino](/entities/person-michael-aquino.md)** hired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-34): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
 
 </details>
 
@@ -402,10 +402,10 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 - [00:15:38](/episodes/ep-DYD_QHMPwqM.md#t-00-15-37) (Claim) **Anonymous Source #1 (Ep DYD_QHMPwqM)** (via quoted speech): ["A special operations general said Gilgamesh's remains were in a remark..."](/statements/statement-ced4013d40eb.md)
   - Also about: [Gilgamesh](/entities/person-gilgamesh.md)
 
-- [00:16:16](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba**: ["The U.S. military occupation phase of Iraq began one month after Gilga..."](/statements/statement-f4626fc51b27.md)
+- [00:16:16](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba** (via quoted speech): ["The U.S. military occupation phase of Iraq began one month after Gilga..."](/statements/statement-f4626fc51b27.md)
   - Also about: [Gilgamesh](/entities/person-gilgamesh.md), [Iraq](/entities/gpe-iraq.md)
 
-- [00:16:23](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba**: ["The United States established 500 military bases and the world's large..."](/statements/statement-0a48e8c11483.md)
+- [00:16:23](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba** (via quoted speech): ["The United States established 500 military bases and the world's large..."](/statements/statement-0a48e8c11483.md)
   - Also about: [Iraq](/entities/gpe-iraq.md), [Babylon](/entities/gpe-babylon.md)
 
 </details>

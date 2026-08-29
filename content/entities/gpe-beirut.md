@@ -17,8 +17,8 @@ _Type: Places_
 Source: [Municipality of Beirut](https://www.beirut.gov.lb/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-beirut-t-00-20-27">2026-01-20 · 00:20:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-beirut-t-00-21-01">2026-01-20 · 00:21:05</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-beirut-t-00-20-27">2026-01-20 · 00:20:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-beirut-t-00-21-01">2026-01-20 · 00:21:01</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -50,10 +50,10 @@ Source: [Municipality of Beirut](https://www.beirut.gov.lb/)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
 
-**[00:20:29](/episodes/ep-9naMwS0kMBE.md#ent-gpe-beirut-t-00-20-27)**
+**[00:20:27](/episodes/ep-9naMwS0kMBE.md#ent-gpe-beirut-t-00-20-27)**
 > "...ouse and President Gemayel of Beirut, Lebanon at the time of the bombing of the Marine..."
 
-**[00:21:05](/episodes/ep-9naMwS0kMBE.md#ent-gpe-beirut-t-00-21-01)**
+**[00:21:01](/episodes/ep-9naMwS0kMBE.md#ent-gpe-beirut-t-00-21-01)**
 > "...he bombing was coming down in Beirut before it occurred."
 
 </details>

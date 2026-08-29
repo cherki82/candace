@@ -23,7 +23,7 @@ _Type: Organizations_
 Source: [Republican National Committee | RNC](https://www.rnc.org/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49">2026-01-22 · 00:44:10</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-44">2026-01-22 · 00:44:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-republican-national-committee-t-00-17-37">2026-07-20 · 00:17:57</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
@@ -35,9 +35,9 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-44">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-44" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-republican-national-committee-t-00-45-36" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-republican-national-committee-t-00-45-36" style="--pulse-height:50%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-republican-national-committee-t-00-17-37" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49) | 2 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-44) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-republican-national-committee-t-00-45-36) | 2 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-republican-national-committee-t-00-45-36) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-republican-national-committee-t-00-17-37) | 2 |
@@ -92,10 +92,10 @@ Source: [Republican National Committee | RNC](https://www.rnc.org/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:44:10](/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49)**
+**[00:44:10](/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-44)**
 > "wanted to become the new RNC. He felt that people just gave the RNC millions a..."
 
-**[00:44:25](/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-49)**
+**[00:44:18](/episodes/ep-gG4ZoYUjUc8.md#ent-org-republican-national-committee-t-00-43-44)**
 > "it's becoming the new RNC, but with a faith bent."
 
 </details>
@@ -123,7 +123,7 @@ _No relationships extracted yet._
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:44:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-43-49) (Opinion) **Candace Owens**: ["In the wake of Charlie Kirk's assassination, Turning Point USA is beco..."](/statements/statement-8897c961bc29.md)
+- [00:44:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-43-44) (Opinion) **Candace Owens**: ["Owens said it seemed that, in the wake of Charlie Kirk's assassination..."](/statements/statement-8897c961bc29.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

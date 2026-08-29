@@ -17,7 +17,7 @@ _Type: Places_
 Source: [Manhattan Community Board 1 | NYC.gov](https://www.nyc.gov/site/manhattancb1/index.page)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-manhattan-t-00-02-39">2026-01-22 · 00:02:47</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-manhattan-t-00-02-39">2026-01-22 · 00:02:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Pb7UlpRdW6U.md#ent-gpe-manhattan-t-00-30-37">2026-05-14 · 00:30:37</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
@@ -105,7 +105,7 @@ Source: [Manhattan Community Board 1 | NYC.gov](https://www.nyc.gov/site/manhatt
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:02:47](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-manhattan-t-00-02-39)**
+**[00:02:39](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-manhattan-t-00-02-39)**
 > "... largest residential house in Manhattan?"
 
 </details>

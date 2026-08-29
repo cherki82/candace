@@ -28,7 +28,7 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -156,6 +156,18 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Thomas Martin (Tucson Border Patrol agent)](/entities/person-thomas-martin-tucson-border-patrol-agent.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:24:35](/episodes/ep-4YgrOhhy708.md#t-00-24-03): “we know that he's been living in the Tucson area for decades, decades, at least up until 2011.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Location Of (1)</summary>
 
 - **[Davis-Monthan Air Force Base](/entities/org-davis-monthan-air-force-base.md)**
@@ -168,12 +180,19 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Davis-Monthan Air Force Base](/entities/org-davis-monthan-air-force-base.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:38:09](/episodes/ep-HYn0P-P1wUw.md#t-00-38-09): “Connecting a final dot here. Arizona politicians happened to travel down to the Davis-Monthan base for their annual Commanders Summit where Arizona community leaders meet with military men. ... It's a little over an hour north in Tucson.”
+
+</details>
+
+- **[Thomas Martin (Tucson Border Patrol agent)](/entities/person-thomas-martin-tucson-border-patrol-agent.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:24:35](/episodes/ep-4YgrOhhy708.md#t-00-24-03): “we know that he's been living in the Tucson area for decades, decades, at least up until 2011.”
 
 </details>
 

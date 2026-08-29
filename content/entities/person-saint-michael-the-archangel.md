@@ -1,6 +1,6 @@
 ---
 title: "Saint Michael the Archangel"
-description: "Saint Michael the Archangel (People) - 13 mentions"
+description: "Saint Michael the Archangel (People) - 14 mentions"
 id: "person-saint-michael-the-archangel"
 type: "PERSON"
 aliases:
@@ -29,7 +29,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-14-14">2026-01-06 · 00:14:15</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-saint-michael-the-archangel-t-00-58-18">2026-06-26 · 00:58:53</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,11 +38,11 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-saint-michael-the-archangel-t-00-56-08">TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-14-14" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-saint-michael-the-archangel-t-01-00-38" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14" style="--pulse-height:75%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-saint-michael-the-archangel-t-00-07-54" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-saint-michael-the-archangel-t-01-06-59" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-person-saint-michael-the-archangel-t-01-30-18" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
@@ -54,7 +54,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-14-14) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-saint-michael-the-archangel-t-01-00-38) | 1 |
-| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14) | 3 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14) | 4 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-saint-michael-the-archangel-t-00-07-54) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-saint-michael-the-archangel-t-01-06-59) | 2 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-person-saint-michael-the-archangel-t-01-30-18) | 1 |
@@ -66,7 +66,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>
@@ -113,7 +113,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 </details>
 
 <details>
-<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (3 mentions)</summary>
+<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (4 mentions)</summary>
 
 **[00:29:35](/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14)**
 > "um from saint michael the same actually same cave that sits behind me and here's where i actually see god working that this woman sent me this email that a 50 000 emails coming in i saw this email i saved this email and she happened to have this might have this is actually i'm just thinking about this live i got this relic when was i in wyoming i got it in wyoming from the priest in wyoming"
@@ -123,6 +123,9 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 
 **[00:33:36](/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-33-28)**
 > "...s we don't want to talk about saint michael no wrong crowd for this shabbat shalom daddy's ho..."
+
+**[00:38:22](/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-37-46)**
+> "...lics from the same cave where St. Michael appeared in Italy."
 
 </details>
 

@@ -25,19 +25,19 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-12-40">An Open Letter To Erika Kirk | Candace Ep 303</a> (14 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-11-55">An Open Letter To Erika Kirk | Candace Ep 303</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 7 mentions" title="2025-12-08 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-46" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-12-40" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 14 mentions" title="2026-02-05 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-11-55" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 14 mentions" title="2026-02-05 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-pierre-falcone-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-aPOyk1i2LOc.md#t-01-46-50" style="--pulse-height:14%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04) | 7 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-46) | 2 |
-| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-12-40) | 14 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-11-55) | 14 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-pierre-falcone-t-00-00-00) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56) | 1 |
 | 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#t-01-46-50) | 2 |
@@ -92,6 +92,9 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <details>
 <summary>An Open Letter To Erika Kirk | Candace Ep 303 (14 mentions)</summary>
 
+**[00:12:35](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-11-55)**
+> "You know exactly who Pierre (Pierre Falcone) is. Why did Justin (Justin Streiff) try to say t..."
+
 **[00:12:44](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-12-40)**
 > "...e personally met with Pierre (Pierre Falcone)."
 
@@ -99,7 +102,7 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 > "...eal on the table with Pierre (Pierre Falcone),"
 
 **[00:13:29](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-13-22)**
-> "I have proof Pierre (Pierre Falcone) had a phone call with Justin Streif (Turning Poi..."
+> "I have proof Pierre (Pierre Falcone) had a phone call with Justin Streiff."
 
 **[00:13:45](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-13-22)**
 > "Pierre (Pierre Falcone),"
@@ -126,13 +129,10 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 > "Who is Pierre (Pierre Falcone) from France who's giving billions to Turning Poi..."
 
 **[00:39:44](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-39-03)**
-> "...ied) know exactly who Pierre (Pierre Falcone) is."
+> "...eiff know exactly who Pierre (Pierre Falcone) is."
 
 **[00:39:47](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-39-03)**
-> "...erified) has met with Pierre (Pierre Falcone)."
-
-**[00:12:35](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-11-55)**
-> "You know exactly who Pierre (Pierre Falcone) is."
+> "...Streiff) has met with Pierre (Pierre Falcone)."
 
 </details>
 
@@ -230,7 +230,26 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Spoke With (2)</summary>
+
+- **[Justin Streiff](/entities/person-justin-streiff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:13:29](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22): “I have proof Pierre (Pierre Falcone) had a phone call with Justin Streiff.”
+
+</details>
+
+- **[Don Orico (Turning Point USA representative; full-name spelling unverified)](/entities/person-don-orico-turning-point-usa-representative-full-name-spelling-unverified.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:13:29](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22): “I have proof Pierre (Pierre Falcone) had a phone call with Justin Streiff. He also had a phone call with Mr. Don Orico (Turning Point USA representative; full-name spelling unverified) of Turning Point USA down in Tampa.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[France](/entities/gpe-france.md)** birthplace of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -260,12 +279,26 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 
 </details>
 
+- **[Justin Streiff](/entities/person-justin-streiff.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:13:29](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22): “I have proof Pierre (Pierre Falcone) had a phone call with Justin Streiff.”
+
+</details>
+
+- **[Don Orico (Turning Point USA representative; full-name spelling unverified)](/entities/person-don-orico-turning-point-usa-representative-full-name-spelling-unverified.md)** spoke with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:13:29](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22): “I have proof Pierre (Pierre Falcone) had a phone call with Justin Streiff. He also had a phone call with Mr. Don Orico (Turning Point USA representative; full-name spelling unverified) of Turning Point USA down in Tampa.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pierre Falcone (18)</strong></summary>
+<summary><strong class="section-title">Statements about Pierre Falcone (19)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1)</summary>
@@ -276,10 +309,13 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (2)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (3)</summary>
 
-- [00:12:26](/episodes/ep-mFuno0TuuQQ.md#t-00-11-55) (Accusation) **Candace Owens**: ["Erika Kirk and Justin Streiff lied about knowing Pierre Falcone, even ..."](/statements/statement-171d680155e3.md)
+- [00:12:26](/episodes/ep-mFuno0TuuQQ.md#t-00-11-55) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk and Justin Streiff of lying about kno..."](/statements/statement-171d680155e3.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:09](/episodes/ep-mFuno0TuuQQ.md#t-00-12-40) (Claim) **Candace Owens**: ["Candace Owens said a deal with Pierre Falcone worth billions of dollar..."](/statements/statement-0eb93f1270e5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:13:27](/episodes/ep-mFuno0TuuQQ.md#t-00-13-22) (Claim) **Candace Owens**: ["Pierre Falcone spoke with Justin Streiff and another Turning Point USA..."](/statements/statement-71178c913be4.md)
   - Also about: [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

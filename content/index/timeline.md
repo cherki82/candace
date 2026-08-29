@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1704_
+_Total events: 1722_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -335,18 +335,18 @@ _Total events: 1704_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (274)</label>
-  <label for="tab-year-2025" class="tab-btn">2025 (772)</label>
-  <label for="tab-year-2024" class="tab-btn">2024 (104)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (282)</label>
+  <label for="tab-year-2025" class="tab-btn">2025 (775)</label>
+  <label for="tab-year-2024" class="tab-btn">2024 (105)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (35)</label>
-  <label for="tab-year-2022" class="tab-btn">2022 (21)</label>
+  <label for="tab-year-2022" class="tab-btn">2022 (22)</label>
   <label for="tab-year-2021" class="tab-btn">2021 (21)</label>
   <label for="tab-year-2020" class="tab-btn">2020 (14)</label>
   <label for="tab-year-2019" class="tab-btn">2019 (30)</label>
   <label for="tab-year-2018" class="tab-btn">2018 (46)</label>
-  <label for="tab-year-2017" class="tab-btn">2017 (18)</label>
+  <label for="tab-year-2017" class="tab-btn">2017 (19)</label>
   <label for="tab-year-2016" class="tab-btn">2016 (15)</label>
-  <label for="tab-year-2015" class="tab-btn">2015 (11)</label>
+  <label for="tab-year-2015" class="tab-btn">2015 (12)</label>
   <label for="tab-year-2014" class="tab-btn">2014 (20)</label>
   <label for="tab-year-2013" class="tab-btn">2013 (16)</label>
   <label for="tab-year-2012" class="tab-btn">2012 (24)</label>
@@ -358,7 +358,7 @@ _Total events: 1704_
   <label for="tab-year-2006" class="tab-btn">2006 (15)</label>
   <label for="tab-year-2005" class="tab-btn">2005 (10)</label>
   <label for="tab-year-2004" class="tab-btn">2004 (2)</label>
-  <label for="tab-year-2003" class="tab-btn">2003 (12)</label>
+  <label for="tab-year-2003" class="tab-btn">2003 (14)</label>
   <label for="tab-year-2002" class="tab-btn">2002 (5)</label>
   <label for="tab-year-2001" class="tab-btn">2001 (7)</label>
   <label for="tab-year-2000" class="tab-btn">2000 (2)</label>
@@ -405,7 +405,7 @@ _Total events: 1704_
   <label for="tab-year-1944" class="tab-btn">1944 (1)</label>
   <label for="tab-year-1943" class="tab-btn">1943 (1)</label>
   <label for="tab-year-1941" class="tab-btn">1941 (1)</label>
-  <label for="tab-year-1940" class="tab-btn">1940 (1)</label>
+  <label for="tab-year-1940" class="tab-btn">1940 (2)</label>
   <label for="tab-year-1939" class="tab-btn">1939 (1)</label>
   <label for="tab-year-1937" class="tab-btn">1937 (1)</label>
   <label for="tab-year-1935" class="tab-btn">1935 (1)</label>
@@ -2355,6 +2355,21 @@ _Total events: 1704_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-05-02-candace-owens-gives-birth">
+<div class="timeline-date">2026-05-02</div>
+<div class="timeline-desc"><a href="/events/event-2026-05-02-candace-owens-gives-birth.md">Candace Owens gives birth.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-05-02: Candace Owens gives birth. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsy... @ 00:39:20](/episodes/ep-5NQyGuRYbU8.md#t-00-38-57)
+
+</details>
+</div>
+
 **April**
 
 <div class="timeline-event filter-item" id="event-2026-04-lance-twiggs-gave-a-recorded-interview-u">
@@ -3899,6 +3914,36 @@ _Total events: 1704_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-02-11-laura-loomer-called-for-erika-kirk-to-su">
+<div class="timeline-date">2026-02-11</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-11-laura-loomer-called-for-erika-kirk-to-su.md">Laura Loomer called for Erika Kirk to sue Candace Owens in an X post.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-11: Laura Loomer called for Erika Kirk to sue Candace Owens in an X post. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:01:27](/episodes/ep-hWTdXHGQ8R4.md#t-00-00-46)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-10-a-discrepancy-involving-charlie-kirks-ho">
+<div class="timeline-date">2026-02-10</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-10-a-discrepancy-involving-charlie-kirks-ho.md">A discrepancy involving Charlie Kirk's home-studio wedding photo began trending online.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-10: A discrepancy involving Charlie Kirk\'s home-studio wedding photo began trending online. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:02:33](/episodes/ep-hWTdXHGQ8R4.md#t-00-02-11)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-02-09-the-religious-liberty-commission-held-a-">
 <div class="timeline-date">2026-02-09</div>
 <div class="timeline-desc"><a href="/events/event-2026-02-09-the-religious-liberty-commission-held-a-.md">The Religious Liberty Commission held a hearing on antisemitism where Carrie Prejean Boller questioned Seth Dillon under oath.</a></div>
@@ -3956,7 +4001,7 @@ _Total events: 1704_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:09:57](/episodes/ep-4YgrOhhy708.md#t-00-09-30)
-- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:39:12](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45)
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:39:12](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-53)
 
 </details>
 </div>
@@ -4002,6 +4047,51 @@ _Total events: 1704_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:27:22](/episodes/ep-UYkXV9mYbT4.md#t-00-27-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-03-candace-owens-said-rob-skibas-son-emaile">
+<div class="timeline-date">2026-02-03</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-03-candace-owens-said-rob-skibas-son-emaile.md">Candace Owens said Rob Skiba's son emailed her to thank her for discussing his father.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-03: Candace Owens said Rob Skiba\'s son emailed her to thank her for discussing his father. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:03:35](/episodes/ep-DYD_QHMPwqM.md#t-00-02-59)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-03-candace-owens-said-unnamed-parties-ackno">
+<div class="timeline-date">2026-02-03</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-03-candace-owens-said-unnamed-parties-ackno.md">Candace Owens said unnamed parties acknowledged that multiple sets of prints were on the gun.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-03: Candace Owens said unnamed parties acknowledged that multiple sets of prints were on the gun. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:37:31](/episodes/ep-DYD_QHMPwqM.md#t-00-37-12)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-02-02-candace-owens-said-kevin-sorbo-tweeted-t">
+<div class="timeline-date">2026-02-02</div>
+<div class="timeline-desc"><a href="/events/event-2026-02-02-candace-owens-said-kevin-sorbo-tweeted-t.md">Candace Owens said Kevin Sorbo tweeted that he left Hollywood because he believed it was full of pedophiles.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-02-02: Candace Owens said Kevin Sorbo tweeted that he left Hollywood because he believed it was full of pedophiles. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:45:17](/episodes/ep-QRS_hR7NXaQ.md#t-00-44-52)
 
 </details>
 </div>
@@ -4190,6 +4280,21 @@ _Total events: 1704_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-01-candace-owens-said-turning-point-usa-fil">
+<div class="timeline-date">2026-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-candace-owens-said-turning-point-usa-fil.md">Candace Owens said Turning Point USA filmed its All-American Halftime Show in Fayetteville, Georgia over two days.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01: Candace Owens said Turning Point USA filmed its All-American Halftime Show in Fayetteville, Georgia over two days. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And... @ 00:39:58](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-28)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-01-30-epstein-files-were-released">
 <div class="timeline-date">2026-01-30</div>
 <div class="timeline-desc"><a href="/events/event-2026-01-30-epstein-files-were-released.md">Epstein files were released.</a></div>
@@ -4284,6 +4389,21 @@ _Total events: 1704_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2026-01-27-candace-owenss-show-mistakenly-displayed">
+<div class="timeline-date">2026-01-27</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-27-candace-owenss-show-mistakenly-displayed.md">Candace Owens's show mistakenly displayed a photograph of Bob Ferguson while discussing Bob Flood.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-27: Candace Owens\'s show mistakenly displayed a photograph of Bob Ferguson while discussing Bob Flood. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:01:32](/episodes/ep-QdM9jLwjwLw.md#t-00-01-26)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2026-01-26-kanye-west-published-a-full-page-apology">
 <div class="timeline-date">2026-01-26</div>
 <div class="timeline-desc"><a href="/events/event-2026-01-26-kanye-west-published-a-full-page-apology.md">Kanye West published a full-page apology advertisement in The Wall Street Journal.</a></div>
@@ -4326,13 +4446,14 @@ _Total events: 1704_
 <div class="timeline-date">2026-01-20</div>
 <div class="timeline-desc"><a href="/events/event-2026-01-20-candace-owens-received-a-cease-and-desis.md">Candace Owens received a cease-and-desist letter from Turning Point USA.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2026-01-20: Candace Owens received a cease-and-desist letter from Turning Point USA. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:00:06](/episodes/ep-GY6GWceEqtQ.md#t-00-00-00)
+- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:21:29](/episodes/ep-gG4ZoYUjUc8.md#t-00-21-29)
 
 </details>
 </div>
@@ -5056,7 +5177,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:08:20](/episodes/ep-GY6GWceEqtQ.md#t-00-07-51)
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:08:20](/episodes/ep-GY6GWceEqtQ.md#t-00-08-20)
 
 </details>
 </div>
@@ -6100,7 +6221,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:08:13](/episodes/ep-GY6GWceEqtQ.md#t-00-07-51)
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:08:13](/episodes/ep-GY6GWceEqtQ.md#t-00-07-44)
 
 </details>
 </div>
@@ -7561,7 +7682,7 @@ _Total events: 1704_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:10:10](/episodes/ep-GY6GWceEqtQ.md#t-00-09-56)
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:14:33](/episodes/ep-GY6GWceEqtQ.md#t-00-14-17)
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:14:33](/episodes/ep-GY6GWceEqtQ.md#t-00-14-31)
 
 </details>
 </div>
@@ -11537,27 +11658,10 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:10:12](/episodes/ep-QdM9jLwjwLw.md#t-00-10-12)
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:10:12](/episodes/ep-QdM9jLwjwLw.md#t-00-09-48)
 - [BREAKING! The White House Attempted To Rescind ... @ 00:20:14](/episodes/ep-7FS1tUeSfdE.md#t-00-19-43)
 - [Hunter Biden Returns. The White House Ghosts Me... @ 00:08:21](/episodes/ep-1QZ4X6q1DPg.md#t-00-08-12)
 - [Honey, I Shrunk The Footage! More Exclusive TPU... @ 00:53:10](/episodes/ep-_cNtgris8Ik.md#t-00-52-50)
-
-</details>
-</div>
-
-<div class="timeline-event filter-item" id="event-2025-09-candace-owens-said-erika-kirk-and-andrew">
-<div class="timeline-date">2025-09</div>
-<div class="timeline-desc"><a href="/events/event-2025-09-candace-owens-said-erika-kirk-and-andrew.md">Candace Owens said Erika Kirk and Andrew Kolvet held a three-way call with Charlie Kirk's surgeon in September 2025.</a></div>
-<div class="timeline-meta">
-<span class="timeline-badge mentions">3× in 3 eps</span>
-<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09: Candace Owens said Erika Kirk and Andrew Kolvet held a three-way call with Charlie Kirk\'s surgeon in September 2025. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
-</div>
-<details>
-<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
-
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:31:49](/episodes/ep-QdM9jLwjwLw.md#t-00-31-26)
-- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:22:46](/episodes/ep-DYD_QHMPwqM.md#t-00-22-31)
-- [Here’s Why It’s Time For The Police To Question... @ 00:13:11](/episodes/ep-ti5Fxrvegno.md#t-00-12-58)
 
 </details>
 </div>
@@ -12650,7 +12754,7 @@ _Total events: 1704_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:00:51](/episodes/ep-A39g5oqB_eM.md#t-00-00-40)
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:08:06](/episodes/ep-QdM9jLwjwLw.md#t-00-08-02)
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:08:06](/episodes/ep-QdM9jLwjwLw.md#t-00-07-41)
 - [Okay…These Text Messages Are Crazy! | Candace E... @ 00:38:52](/episodes/ep-1hcjQGgvxUY.md#t-00-38-46)
 
 </details>
@@ -13281,13 +13385,16 @@ _Total events: 1704_
 <div class="timeline-date">2025-09-20</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-20-candace-owens-said-erika-kirk-and-andrew.md">Candace Owens said Erika Kirk and Andrew Kolvet conferenced Charlie Kirk's surgeon about their public response.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">4× in 4 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-20: Candace Owens said Erika Kirk and Andrew Kolvet conferenced Charlie Kirk\'s surgeon about their public response. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:09:30](/episodes/ep-UYkXV9mYbT4.md#t-00-09-30)
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:31:49](/episodes/ep-QdM9jLwjwLw.md#t-00-31-49)
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:22:46](/episodes/ep-DYD_QHMPwqM.md#t-00-22-31)
+- [Here’s Why It’s Time For The Police To Question... @ 00:13:11](/episodes/ep-ti5Fxrvegno.md#t-00-12-58)
 
 </details>
 </div>
@@ -14047,7 +14154,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:08:58](/episodes/ep-QdM9jLwjwLw.md#t-00-08-46)
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:08:58](/episodes/ep-QdM9jLwjwLw.md#t-00-08-24)
 - [Coming soon... @ 00:00:30](/episodes/ep-LKR94FQ5p3o.md#t-00-00-30)
 
 </details>
@@ -14849,20 +14956,21 @@ _Total events: 1704_
 <div class="timeline-date">2025-09-16</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning.md">Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">8× in 8 eps</span>
+<span class="timeline-badge mentions">9× in 9 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-16: Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk\'s assassination. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:35:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-34-39)
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:08:47](/episodes/ep-QdM9jLwjwLw.md#t-00-08-46)
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:08:47](/episodes/ep-QdM9jLwjwLw.md#t-00-08-24)
 - [AND ANOTHER ONE: Charlie's Text On September 9t... @ 00:02:04](/episodes/ep-Wjul6YV6izo.md#t-00-01-30)
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:24:01](/episodes/ep-QRS_hR7NXaQ.md#t-00-24-01)
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:10:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-10-44)
 - [Update! Erika Did Not Go Home. Source Confirms ... @ 00:35:57](/episodes/ep-KpxIBWkNsSs.md#t-00-35-57)
 - [The FBI Crashes Out. We Examine The Exploding M... @ 00:21:33](/episodes/ep-h76ZN-xXC6c.md#t-00-21-21)
 - [I Survive My First Death Hoax, Erika Kirk Makes... @ 00:09:06](/episodes/ep-VMNWMXX1vO8.md#t-00-08-56)
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:31:37](/episodes/ep-xjzb_t5Tk9o.md#t-00-31-37)
 
 </details>
 </div>
@@ -18550,7 +18658,7 @@ _Total events: 1704_
 <div class="timeline-date">2025-09-10 <span class='time'>09:23</span></div>
 <div class="timeline-desc"><a href="/events/event-2025-09-10-charlie-kirk-lands-in-salt-lake-city-before-provo.md">Charlie Kirk lands in Salt Lake City before Provo event</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">150× in 25 eps</span>
+<span class="timeline-badge mentions">151× in 26 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-10 09:23: Charlie Kirk lands in Salt Lake City before Provo event - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -18705,6 +18813,7 @@ _Total events: 1704_
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#t-00-08-16)
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
+- [Erika Cries…Again. A Mysterious Death In Pennsy... @ 00:27:59](/episodes/ep-5NQyGuRYbU8.md#t-00-27-34)
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Co... @ 00:12:05](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36)
 
 </details>
@@ -20032,9 +20141,9 @@ _Total events: 1704_
 - [Myron Gaines x Candace Owens @ 00:52:43](/episodes/ep-2T39-oADLj0.md#t-00-52-09)
 - [A Legal Turning Point? | Candace Ep 292 @ 00:06:17](/episodes/ep-NIEbqsLAK8g.md#t-00-06-03)
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:07:26](/episodes/ep-9naMwS0kMBE.md#t-00-07-14)
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:07:08](/episodes/ep-GY6GWceEqtQ.md#t-00-07-08)
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:21:04](/episodes/ep-GY6GWceEqtQ.md#t-00-20-34)
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:21:19](/episodes/ep-GY6GWceEqtQ.md#t-00-20-34)
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:07:08](/episodes/ep-GY6GWceEqtQ.md#t-00-07-04)
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:21:04](/episodes/ep-GY6GWceEqtQ.md#t-00-20-31)
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:21:19](/episodes/ep-GY6GWceEqtQ.md#t-00-21-16)
 - [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:35:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-34-39)
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:06:03](/episodes/ep-A39g5oqB_eM.md#t-00-05-46)
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:00:34](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00)
@@ -20131,7 +20240,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:06:53](/episodes/ep-QdM9jLwjwLw.md#t-00-06-35)
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:06:53](/episodes/ep-QdM9jLwjwLw.md#t-00-06-18)
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfr... @ 00:25:17](/episodes/ep-DYD_QHMPwqM.md#t-00-24-40)
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:20:05](/episodes/ep-mFuno0TuuQQ.md#t-00-20-05)
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:16:13](/episodes/ep-B9TyCs-6o_0.md#t-00-16-13)
@@ -22827,6 +22936,36 @@ _Total events: 1704_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-09-08-fbi-plane-makes-a-brief-stop-in-salt-lak">
+<div class="timeline-date">2025-09-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-fbi-plane-makes-a-brief-stop-in-salt-lak.md">FBI plane makes a brief stop in Salt Lake City, Utah.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: FBI plane makes a brief stop in Salt Lake City, Utah. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsy... @ 00:27:59](/episodes/ep-5NQyGuRYbU8.md#t-00-27-34)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-09-08-a-catholics-for-catholics-announcement-s">
+<div class="timeline-date">2025-09-08</div>
+<div class="timeline-desc"><a href="/events/event-2025-09-08-a-catholics-for-catholics-announcement-s.md">A Catholics for Catholics announcement said Charlie Kirk made known his intention to have Candace Owens speak at his signature event.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-08: A Catholics for Catholics announcement said Charlie Kirk made known his intention to have Candace Owens speak at his signature event. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:35:48](/episodes/ep-QRS_hR7NXaQ.md#t-00-35-44)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-09-07-charlie-kirk-speaks-at-sanseito-party-sy">
 <div class="timeline-date">2025-09-07</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-07-charlie-kirk-speaks-at-sanseito-party-sy.md">Charlie Kirk speaks at Sanseito party symposium in Tokyo, Japan</a></div>
@@ -23310,7 +23449,7 @@ _Total events: 1704_
 <div class="timeline-date">2025-09-03</div>
 <div class="timeline-desc"><a href="/events/event-2025-09-03-charlie-kirk-requests-doge-department-at-turning-p.md">Charlie Kirk requests DOGE department at Turning Point USA.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">182× in 26 eps</span>
+<span class="timeline-badge mentions">183× in 27 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-09-03: Charlie Kirk requests DOGE department at Turning Point USA. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -23498,6 +23637,7 @@ _Total events: 1704_
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59)
 - [Andrew Kolvet Blames Me For Erika PR Backlash |... @ 00:27:11](/episodes/ep-ds6umq1rHAw.md#t-00-26-36)
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:05:29](/episodes/ep-GY6GWceEqtQ.md#t-00-05-05)
 
 </details>
 </div>
@@ -23647,13 +23787,14 @@ _Total events: 1704_
 <div class="timeline-date">2025-08</div>
 <div class="timeline-desc"><a href="/events/event-2025-08-candace-owens-said-benjamin-netanyahu-ca.md">Candace Owens said Benjamin Netanyahu called Charlie Kirk during the Hamptons retreat, offered to elevate Turning Point USA, and Kirk declined.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-08: Candace Owens said Benjamin Netanyahu called Charlie Kirk during the Hamptons retreat, offered to elevate Turning Point USA, and Kirk declined. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epste... @ 00:33:32](/episodes/ep-WoXd4oLwd3w.md#t-00-32-58)
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:30:14](/episodes/ep-xjzb_t5Tk9o.md#t-00-30-14)
 
 </details>
 </div>
@@ -27304,7 +27445,7 @@ _Total events: 1704_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Myron Gaines x Candace Owens @ 00:57:10](/episodes/ep-2T39-oADLj0.md#t-00-56-52)
-- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-23)
+- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:01:58](/episodes/ep-gG4ZoYUjUc8.md#t-00-01-58)
 - [REVEALED! Trump Scolded Charlie Kirk Over Epste... @ 00:18:41](/episodes/ep-WoXd4oLwd3w.md#t-00-18-35)
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:50:50](/episodes/ep-UYkXV9mYbT4.md#t-00-50-50)
 
@@ -28030,7 +28171,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:04:29](/episodes/ep-QdM9jLwjwLw.md#t-00-04-19)
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…... @ 00:04:29](/episodes/ep-QdM9jLwjwLw.md#t-00-04-25)
 
 </details>
 </div>
@@ -28046,6 +28187,21 @@ _Total events: 1704_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jer... @ 00:47:48](/episodes/ep-k1b1NDCrNFs.md#t-00-47-27)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2025-05-explosives-testing-video-featuring-20-gr">
+<div class="timeline-date">2025-05</div>
+<div class="timeline-desc"><a href="/events/event-2025-05-explosives-testing-video-featuring-20-gr.md">Explosives-testing video featuring 20 grams of PETN is published.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-05: Explosives-testing video featuring 20 grams of PETN is published. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsy... @ 00:20:52](/episodes/ep-5NQyGuRYbU8.md#t-00-20-25)
 
 </details>
 </div>
@@ -29130,6 +29286,21 @@ _Total events: 1704_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2025-02-04-benjamin-netanyahu-presents-donald-trump">
+<div class="timeline-date">2025-02-04</div>
+<div class="timeline-desc"><a href="/events/event-2025-02-04-benjamin-netanyahu-presents-donald-trump.md">Benjamin Netanyahu presents Donald Trump with a golden pager at the White House.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2025-02-04: Benjamin Netanyahu presents Donald Trump with a golden pager at the White House. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsy... @ 00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2025-02-04-allison-holker-releases-memoir-this-far-">
 <div class="timeline-date">2025-02-04</div>
 <div class="timeline-desc"><a href="/events/event-2025-02-04-allison-holker-releases-memoir-this-far-.md">Allison Holker releases memoir This Far about Stephen Boss</a></div>
@@ -29255,13 +29426,14 @@ _Total events: 1704_
 <div class="timeline-date">2025-01-20</div>
 <div class="timeline-desc"><a href="/events/event-2025-01-20-donald-trump-is-sworn-in-as-president-of.md">Donald Trump is sworn in as president of the United States</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2025-01-20: Donald Trump is sworn in as president of the United States - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [A Tale of Two PR Disasters: Blake Lively & Turn... @ 00:37:02](/episodes/ep-eMtjzXkQrsU.md#t-00-37-02)
+- [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:41:26](/episodes/ep-9naMwS0kMBE.md#t-00-41-15)
 
 </details>
 </div>
@@ -29340,7 +29512,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:40:38](/episodes/ep-GY6GWceEqtQ.md#t-00-40-11)
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:40:38](/episodes/ep-GY6GWceEqtQ.md#t-00-40-09)
 
 </details>
 </div>
@@ -30172,6 +30344,21 @@ _Total events: 1704_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2024-09-17-two-day-series-of-pager-explosions-begin">
+<div class="timeline-date">2024-09-17</div>
+<div class="timeline-desc"><a href="/events/event-2024-09-17-two-day-series-of-pager-explosions-begin.md">Two-day series of pager explosions begins across Lebanon and Syria.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2024-09-17: Two-day series of pager explosions begins across Lebanon and Syria. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsy... @ 00:12:17](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2024-09-15-ryan-routh-attempted-to-assassinate-dona">
 <div class="timeline-date">2024-09-15</div>
 <div class="timeline-desc"><a href="/events/event-2024-09-15-ryan-routh-attempted-to-assassinate-dona.md">Ryan Routh attempted to assassinate Donald Trump at Trump International Golf Club in West Palm Beach.</a></div>
@@ -30380,7 +30567,7 @@ _Total events: 1704_
 <div class="timeline-date">2024-07-13</div>
 <div class="timeline-desc"><a href="/events/event-2024-07-13-thomas-matthew-crooks-attempts-to-assassinate-trum.md">Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">6× in 4 eps</span>
+<span class="timeline-badge mentions">7× in 5 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2024-07-13: Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -30391,6 +30578,7 @@ _Total events: 1704_
 - [BREAKING NEWS: FBI Pressuring Utah To Close The... @ 00:20:50](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29)
 - [An Open Letter To President Donald Trump (My Re... @ 00:31:16](/episodes/ep-ZIH5-V6UPkg.md#t-00-31-04)
 - [The World Is A Stage: Trump Survives...Again? |... @ 00:02:13](/episodes/ep-BxN2-aeMYIs.md#t-00-01-44)
+- [Erika Cries…Again. A Mysterious Death In Pennsy... @ 00:10:38](/episodes/ep-5NQyGuRYbU8.md#t-00-10-16)
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep... @ 00:41:08](/episodes/ep-a2bZf4fic10.md#t-00-40-48)
 
 </details>
@@ -32377,6 +32565,21 @@ _Total events: 1704_
 
 **August**
 
+<div class="timeline-event filter-item" id="event-2022-08-23-mark-a-leidy-dies-in-an-explosion-involv">
+<div class="timeline-date">2022-08-23</div>
+<div class="timeline-desc"><a href="/events/event-2022-08-23-mark-a-leidy-dies-in-an-explosion-involv.md">Mark A. Liti dies in an explosion involving a backyard burn barrel.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2022-08-23: Mark A. Liti dies in an explosion involving a backyard burn barrel. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsy... @ 00:06:14](/episodes/ep-5NQyGuRYbU8.md#t-00-06-03)
+
+</details>
+</div>
+
 <div class="timeline-event filter-item" id="event-2022-01-01-tyler-robinson-involved-in-car-accident-captured-o">
 <div class="timeline-date">2022-08-01</div>
 <div class="timeline-desc"><a href="/events/event-2022-01-01-tyler-robinson-involved-in-car-accident-captured-o.md">Tyler Robinson involved in car accident captured on police bodycam</a></div>
@@ -32603,7 +32806,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:00:41](/episodes/ep-GY6GWceEqtQ.md#t-00-00-41)
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:00:41](/episodes/ep-GY6GWceEqtQ.md#t-00-00-40)
 
 </details>
 </div>
@@ -33908,13 +34111,14 @@ _Total events: 1704_
 <div class="timeline-date">2019</div>
 <div class="timeline-desc"><a href="/events/event-2019-charlie-kirk-and-erika-frantzve-began-da.md">Charlie Kirk and Erika Frantzve began dating.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2019: Charlie Kirk and Erika Frantzve began dating. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Ki... @ 02:51:04](/episodes/ep-nPhCKwJ6ye8.md#t-02-51-04)
+- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:04:02](/episodes/ep-mFuno0TuuQQ.md#t-00-04-02)
 
 </details>
 </div>
@@ -34265,13 +34469,12 @@ _Total events: 1704_
 <div class="timeline-date">2018-09-05</div>
 <div class="timeline-desc"><a href="/events/event-2018-09-05-erika-kirk-and-charlie-kirk-began-dating.md">Erika Kirk and Charlie Kirk went on their first date on September 5, 2018.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">4× in 4 eps</span>
+<span class="timeline-badge mentions">3× in 3 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2018-09-05: Erika Kirk and Charlie Kirk went on their first date on September 5, 2018. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:04:02](/episodes/ep-mFuno0TuuQQ.md#t-00-04-02)
 - [Here’s Why It’s Time For The Police To Question... @ 00:30:11](/episodes/ep-ti5Fxrvegno.md#t-00-30-11)
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:05:07](/episodes/ep-DdPjoy5W-wY.md#t-00-05-07)
 - [The Whistleblower: Did Epstein’s Network Reemer... @ 00:03:05](/episodes/ep-3QJqtW_NOSI.md#t-00-02-42)
@@ -34779,7 +34982,22 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:16:47](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-17)
+- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:16:47](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-12)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2017-12-01-candace-owens-said-desert-spirit-techs-p">
+<div class="timeline-date">2017-12-01</div>
+<div class="timeline-desc"><a href="/events/event-2017-12-01-candace-owens-said-desert-spirit-techs-p.md">Candace Owens said Desert Spirit Tech's public-notice proof was signed.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2017-12-01: Candace Owens said Desert Spirit Tech\'s public-notice proof was signed. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:16:49](/episodes/ep-gG4ZoYUjUc8.md#t-00-16-49)
 
 </details>
 </div>
@@ -35042,13 +35260,14 @@ _Total events: 1704_
 <div class="timeline-date">2017-07-24</div>
 <div class="timeline-desc"><a href="/events/event-2017-07-24-lori-frantzve-opened-desert-spirit-tech-.md">Lori Frantzve opened Desert Spirit Tech LLC.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">1× in 1 ep</span>
+<span class="timeline-badge mentions">2× in 2 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2017-07-24: Lori Frantzve opened Desert Spirit Tech LLC. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:15:47](/episodes/ep-_vg7ucP1E0g.md#t-00-15-36)
+- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:13:08](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55)
 
 </details>
 </div>
@@ -35687,6 +35906,21 @@ _Total events: 1704_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Per... @ 00:35:14](/episodes/ep-ChuWo-n49B8.md#t-00-34-54)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2015-candace-owens-said-lori-frantzve-was-pre">
+<div class="timeline-date">2015</div>
+<div class="timeline-desc"><a href="/events/event-2015-candace-owens-said-lori-frantzve-was-pre.md">Candace Owens said Lori Frantzve was present beside Erika Kirk while Erika stood behind Donald Trump.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2015: Candace Owens said Lori Frantzve was present beside Erika Kirk while Erika stood behind Donald Trump. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:23:12](/episodes/ep-QRS_hR7NXaQ.md#t-00-22-38)
 
 </details>
 </div>
@@ -38588,6 +38822,36 @@ _Total events: 1704_
 </details>
 </div>
 
+<div class="timeline-event filter-item" id="event-2003-candace-owens-said-the-bbc-reported-that">
+<div class="timeline-date">2003</div>
+<div class="timeline-desc"><a href="/events/event-2003-candace-owens-said-the-bbc-reported-that.md">Candace Owens said the BBC reported that Jorg Fassbinder had discovered Gilgamesh's tomb.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2003: Candace Owens said the BBC reported that Jorg Fassbinder had discovered Gilgamesh\'s tomb. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:09:09](/episodes/ep-QRS_hR7NXaQ.md#t-00-08-46)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2003-candace-owens-said-artifacts-from-babylo">
+<div class="timeline-date">2003</div>
+<div class="timeline-desc"><a href="/events/event-2003-candace-owens-said-artifacts-from-babylo.md">Candace Owens said artifacts from Babylon museums, library, and archive were stolen and destroyed during the Iraq war.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2003: Candace Owens said artifacts from Babylon museums, library, and archive were stolen and destroyed during the Iraq war. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace ... @ 00:11:34](/episodes/ep-QRS_hR7NXaQ.md#t-00-11-34)
+
+</details>
+</div>
+
 </div>
 </div>
 
@@ -39039,7 +39303,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:12:55](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41)
+- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:12:55](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55)
 
 </details>
 </div>
@@ -39166,7 +39430,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:12:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-06)
+- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:12:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-18)
 
 </details>
 </div>
@@ -39770,7 +40034,7 @@ _Total events: 1704_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:17:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-17-02)
+- [Erika’s Inquisition: TPUSA Employees FIRED For…... @ 00:17:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-17-18)
 
 </details>
 </div>
@@ -41421,6 +41685,23 @@ _Total events: 1704_
 <div class="timeline-container">
 
 <h2 id="year-1940">1940</h2>
+
+**November**
+
+<div class="timeline-event filter-item" id="event-1940-11-25-the-haganah-bombed-the-refugee-ship-patr">
+<div class="timeline-date">1940-11-25</div>
+<div class="timeline-desc"><a href="/events/event-1940-11-25-the-haganah-bombed-the-refugee-ship-patr.md">The Haganah bombed the refugee ship Patria in Haifa harbor.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('1940-11-25: The Haganah bombed the refugee ship Patria in Haifa harbor. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:39:53](/episodes/ep-xjzb_t5Tk9o.md#t-00-39-45)
+
+</details>
+</div>
 
 **May**
 

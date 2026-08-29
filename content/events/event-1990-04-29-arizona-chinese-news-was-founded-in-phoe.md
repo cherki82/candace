@@ -14,7 +14,7 @@ date: "1990-04-29"
 ## Mentioned In
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:17:39](/episodes/ep-gG4ZoYUjUc8.md#event-event-1990-04-29-arizona-chinese-news-was-founded-in-phoe-t-00-17-02) 
+**Timestamp:** [00:17:39](/episodes/ep-gG4ZoYUjUc8.md#event-event-1990-04-29-arizona-chinese-news-was-founded-in-phoe-t-00-17-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1059);return false;">▶️ Play</a>
 
 > the Chinese news agency was founded in Phoenix, Arizona in April of 1990.

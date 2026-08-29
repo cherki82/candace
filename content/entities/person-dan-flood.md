@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 107 mentions"
+description: "Dan Flood (People) - 108 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24">2025-11-20 · 00:33:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04">2026-08-21 · 00:51:04</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>43</strong></div>
+<div><span>Statements about</span><strong>44</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,8 +44,8 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-57" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-dan-flood-t-00-04-13" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 10 mentions" title="2026-01-19 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 10 mentions" title="2026-01-20 · 10 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dan-flood-t-00-12-05" style="--pulse-height:10%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07" style="--pulse-height:90%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 9 mentions" title="2026-01-20 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-dan-flood-t-00-12-01" style="--pulse-height:10%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-dan-flood-t-00-30-51" style="--pulse-height:30%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dan-flood-t-00-40-46" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-dan-flood-t-00-23-11" style="--pulse-height:30%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
@@ -63,6 +63,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37" style="--pulse-height:30%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-dan-flood-t-00-12-27" style="--pulse-height:10%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-dan-flood-t-01-06-06" style="--pulse-height:10%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-dan-flood-t-00-05-24" style="--pulse-height:10%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-dan-flood-t-00-40-02" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-09-14" style="--pulse-height:40%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52" style="--pulse-height:40%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
@@ -86,8 +87,8 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-57) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-dan-flood-t-00-04-13) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00) | 10 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07) | 10 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dan-flood-t-00-12-05) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07) | 9 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-dan-flood-t-00-12-01) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-dan-flood-t-00-30-51) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-dan-flood-t-00-40-46) | 10 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-dan-flood-t-00-23-11) | 3 |
@@ -105,6 +106,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-dan-flood-t-00-07-37) | 3 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-dan-flood-t-00-12-27) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-dan-flood-t-01-06-06) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-dan-flood-t-00-05-24) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-dan-flood-t-00-40-02) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-dan-flood-t-00-09-14) | 4 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52) | 4 |
@@ -121,7 +123,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -216,6 +218,14 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 **[00:40:02](/episodes/ep-G3zdOeHpvS0.md#ent-person-dan-flood-t-00-40-02)**
 > "...t going hard, and I hear Dan (Dan Flood) just calling out the directions to Justin (Justi..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:05:49](/episodes/ep-5NQyGuRYbU8.md#ent-person-dan-flood-t-00-05-24)**
+> "I hate to be the one to tell you this, but your wife is actually going to offer your members and your security team a raise after your assassination, like she did to Dan Flood."
 
 </details>
 
@@ -436,30 +446,27 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:12:29](/episodes/ep-GY6GWceEqtQ.md#ent-person-dan-flood-t-00-12-05)**
+**[00:12:26](/episodes/ep-GY6GWceEqtQ.md#ent-person-dan-flood-t-00-12-01)**
 > "he also messaged Dan Flood"
 
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (10 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (9 mentions)</summary>
 
 **[00:05:07](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07)**
 > "...got to mention yesterday that Dan Flood's father ran intel at Fort Huachuca so they're all ..."
 
-**[00:05:32](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07)**
-> "tip yesterday that Dan Flood, not only has he not been fired,"
-
-**[00:05:47](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-42)**
+**[00:05:42](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-42)**
 > "I had never heard that Dan Flood got fired."
 
 **[00:05:49](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-42)**
 > "... know what they're doing with Dan Flood. I don't know what he's doing in New Braunfels, b..."
 
-**[00:06:00](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-42)**
+**[00:05:57](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-42)**
 > "I don't believe that Dan Flood is innocent in this in any stretch of imagination..."
 
-**[00:06:29](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-06-24)**
+**[00:06:24](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-06-24)**
 > "...of back forth between him and Dan Flood where he was going to demote Dan Flood. Okay."
 
 **[00:06:35](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-06-24)**
@@ -471,7 +478,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 **[00:59:10](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-58-54)**
 > "...ed not only Andrew Kolvet but Dan Flood the night before and said that he was worried he ..."
 
-**[01:13:31](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-01-13-00)**
+**[01:13:25](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-01-13-00)**
 > "...on who gave me that tip about Dan Flood and said that he ran with these people said that ..."
 
 </details>
@@ -797,7 +804,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (43)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (44)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -830,6 +837,14 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 - [00:57:47](/episodes/ep-sKuYLNx3iRo.md#t-00-57-33) (Claim) **Candace Owens**: ["Owens said Dan Flood declined a promotion offered by Erika Kirk."](/statements/statement-851e7da527d5.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:05:49](/episodes/ep-5NQyGuRYbU8.md#t-00-05-24) (Accusation) **Candace Owens**: ["Candace Owens accused Erika Kirk of rewarding Charlie Kirk's members a..."](/statements/statement-4d377e1599cf.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -915,7 +930,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1)</summary>
 
-- [00:12:13](/episodes/ep-GY6GWceEqtQ.md#t-00-12-05) (Accusation) **Candace Owens**: ["Candace Owens said Erika Kirk publicly denied that Charlie Kirk had sa..."](/statements/statement-b080a877b7b1.md)
+- [00:12:13](/episodes/ep-GY6GWceEqtQ.md#t-00-12-01) (Accusation) **Candace Owens**: ["Candace Owens said Erika Kirk publicly denied that Charlie Kirk had sa..."](/statements/statement-b080a877b7b1.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Glenn Beck](/entities/person-glenn-beck.md)
 
 </details>

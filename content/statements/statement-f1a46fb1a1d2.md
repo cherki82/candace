@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:36:54](/episodes/ep-ZAsV0fHGBiM.md#t-00-36-24) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2214);return false;">Play</a>
 
-> She definitively was close to her grandfather. ... We know this because she posts about him many, ... many times over the years, referring to him affectionately as her morfar.
+> Carl Kenneth Frantzve is Erica (Erika Kirk)'s... ... paternal grandfather. ... She definitively was close to her grandfather. ... We know this because she posts about him many, ... many times over the years, referring to him affectionately as her morfar.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 258 mentions"
+description: "Frank Turek (People) - 261 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23">2025-09-22 · 00:54:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-frank-turek-t-00-47-58">2026-08-10 · 00:47:58</a></strong></div>
 <div><span>Episodes</span><strong>53</strong></div>
-<div><span>Mentions</span><strong>258</strong></div>
+<div><span>Mentions</span><strong>261</strong></div>
 <div><span>Statements by</span><strong>33</strong></div>
 <div><span>Statements about</span><strong>48</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
@@ -55,7 +55,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-frank-turek-t-00-19-13" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-01-01-26" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-14" style="--pulse-height:16%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:24%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 6 mentions" title="2026-01-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:36%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 9 mentions" title="2026-01-30 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-frank-turek-t-00-46-11" style="--pulse-height:16%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-frank-turek-t-00-29-18" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-frank-turek-t-00-02-11" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
@@ -113,7 +113,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-frank-turek-t-00-19-13) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-01-01-26) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-14) | 4 |
-| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00) | 6 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00) | 9 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-frank-turek-t-00-46-11) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-frank-turek-t-00-29-18) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-frank-turek-t-00-02-11) | 2 |
@@ -154,7 +154,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (258)</strong></summary>
+<summary><strong class="section-title">Raw mentions (261)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2 mentions)</summary>
@@ -925,7 +925,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 </details>
 
 <details>
-<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (6 mentions)</summary>
+<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (9 mentions)</summary>
 
 **[00:00:38](/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00)**
 > "Frank Turek,"
@@ -944,6 +944,15 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 
 **[00:40:58](/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-40-58)**
 > "Frank Turek murder where murder when you see that act of murd..."
+
+**[00:00:37](/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00)**
+> "Dr. Frank Turek,"
+
+**[00:33:24](/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-45)**
+> "... or presence. Rather, you got Dr. Frank Turek and apparently,"
+
+**[00:40:50](/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-38-29)**
+> "...rlie Kirk welcome to the show Dr. Frank Turek murder where murder when you see that act of murd..."
 
 </details>
 
@@ -1688,10 +1697,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (2)</summary>
 
-- [00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-38-29) [○] (Accusation) ["Candace Owens has completely lost credibility by saying that certain dreams are ..."](/statements/statement-d88a14b53cdf.md)
+- [00:39:02](/episodes/ep-Wjul6YV6izo.md#t-00-38-29) [✓] (Accusation) ["Frank Turek said he thinks Candace Owens has completely lost credibility because..."](/statements/statement-d88a14b53cdf.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:40:04](/episodes/ep-Wjul6YV6izo.md#t-00-39-46) [○] (Accusation) ["People who slander Erika Kirk and others, make accusations and lies, and stir up..."](/statements/statement-6e02e8501d42.md)
+- [00:40:04](/episodes/ep-Wjul6YV6izo.md#t-00-39-46) [✓] (Accusation) ["People who slander Erika Kirk and others, make accusations and lies, and stir up..."](/statements/statement-6e02e8501d42.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

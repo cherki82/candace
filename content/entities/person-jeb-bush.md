@@ -87,9 +87,10 @@ Source: [Jeb Bush — American Presidency Project](https://www.presidency.ucsb.e
 <summary>Appeared With (1)</summary>
 
 - **[John T. Golle](/entities/person-john-t-golle.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:31:37](/episodes/ep-1IY2oD-_xVA.md#t-00-31-31): “Well, I told you already that John T. Golle is the CEO of Tesseract. He does that announcement about it with Jeb Bush, who is supporting charter schools.”
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:05](/episodes/ep-ZAsV0fHGBiM.md#t-00-51-40): “John T. Golle and Jeb Bush went on to Good Morning America to announce the project the schools would come to be known as Tesseract Schools”
 
 </details>
 
@@ -99,9 +100,10 @@ Source: [Jeb Bush — American Presidency Project](https://www.presidency.ucsb.e
 <summary>Referenced By (1)</summary>
 
 - **[John T. Golle](/entities/person-john-t-golle.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:31:37](/episodes/ep-1IY2oD-_xVA.md#t-00-31-31): “Well, I told you already that John T. Golle is the CEO of Tesseract. He does that announcement about it with Jeb Bush, who is supporting charter schools.”
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:05](/episodes/ep-ZAsV0fHGBiM.md#t-00-51-40): “John T. Golle and Jeb Bush went on to Good Morning America to announce the project the schools would come to be known as Tesseract Schools”
 
 </details>
 

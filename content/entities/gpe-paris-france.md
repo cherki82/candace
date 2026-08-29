@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 11 mentions"
+description: "Paris (Places) - 10 mentions"
 id: "gpe-paris-france"
 type: "GPE"
 aliases:
@@ -25,7 +25,7 @@ Source: [Ville de Paris](https://www.paris.fr/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-france-t-00-36-16">2026-01-16 · 00:36:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-paris-france-t-00-53-38">2026-03-17 · 00:53:38</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,7 +37,7 @@ Source: [Ville de Paris](https://www.paris.fr/)
 <p>Highest activity: <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-france-t-00-07-04">REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-france-t-00-36-16" style="--pulse-height:33%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-france-t-00-07-04" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-france-t-00-02-27" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-france-t-00-03-18" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Ville de Paris](https://www.paris.fr/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-paris-france-t-00-36-16) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-paris-france-t-00-07-04) | 3 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-paris-france-t-00-02-27) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-paris-france-t-00-03-18) | 2 |
@@ -62,7 +62,7 @@ Source: [Ville de Paris](https://www.paris.fr/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
@@ -114,10 +114,7 @@ Source: [Ville de Paris](https://www.paris.fr/)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
-
-**[01:08:12](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52)**
-> "bombing attack in Paris"
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
 **[01:07:52](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-paris-france-t-01-07-52)**
 > "...as like a a bombing attack in paris 2015 and you can google this by the way you just ..."

@@ -16,7 +16,7 @@ date: "2025-09-10"
 ### 1. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:06:53](/episodes/ep-QdM9jLwjwLw.md#event-event-2025-09-10-candace-owens-said-andrew-kolvet-arrived-t-00-06-35) 
+**Timestamp:** [00:06:53](/episodes/ep-QdM9jLwjwLw.md#event-event-2025-09-10-candace-owens-said-andrew-kolvet-arrived-t-00-06-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(413);return false;">▶️ Play</a>
 
 > when he stepped off of the plane in Provo on September 10th

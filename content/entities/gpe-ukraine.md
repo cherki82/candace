@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-description: "Ukraine (Places) - 80 mentions"
+description: "Ukraine (Places) - 79 mentions"
 id: "gpe-ukraine"
 type: "GPE"
 aliases:
@@ -24,7 +24,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-ukraine-t-00-36-43">2026-08-07 · 00:36:43</a></strong></div>
 <div><span>Episodes</span><strong>36</strong></div>
-<div><span>Mentions</span><strong>80</strong></div>
+<div><span>Mentions</span><strong>79</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -52,7 +52,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00" style="--pulse-height:20%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-ukraine-t-00-12-53" style="--pulse-height:40%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-58" style="--pulse-height:10%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-19" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-19" style="--pulse-height:10%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-ukraine-t-00-16-47" style="--pulse-height:20%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-ukraine-t-00-04-53" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-ukraine-t-00-57-25" style="--pulse-height:10%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
@@ -93,7 +93,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-ukraine-t-00-12-53) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-58) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-19) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-19) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-ukraine-t-00-16-47) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-ukraine-t-00-04-53) | 2 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-ukraine-t-00-57-25) | 1 |
@@ -119,7 +119,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (80)</strong></summary>
+<summary><strong class="section-title">Raw mentions (79)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -308,12 +308,9 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
 **[01:15:19](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-19)**
-> "And Ukraine"
-
-**[01:15:20](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-20)**
 > "...e actually from. They're from Ukraine."
 
 </details>

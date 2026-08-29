@@ -1,6 +1,6 @@
 ---
 title: "United States Secret Service"
-description: "United States Secret Service (Organizations) - 30 mentions"
+description: "United States Secret Service (Organizations) - 33 mentions"
 id: "org-united-states-secret-service"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00">2025-11-19 · 00:11:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-united-states-secret-service-t-00-04-51">2026-07-22 · 00:05:13</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,6 +47,7 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-secret-service-t-00-47-31" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-united-states-secret-service-t-00-07-26" style="--pulse-height:33%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-secret-service-t-00-11-05" style="--pulse-height:17%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-secret-service-t-00-02-44" style="--pulse-height:50%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-42-11" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-29-32" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-united-states-secret-service-t-00-04-51" style="--pulse-height:17%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
@@ -68,6 +69,7 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-united-states-secret-service-t-00-47-31) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-united-states-secret-service-t-00-07-26) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-united-states-secret-service-t-00-11-05) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-secret-service-t-00-02-44) | 3 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-42-11) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-secret-service-t-00-29-32) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-united-states-secret-service-t-00-04-51) | 1 |
@@ -78,7 +80,7 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -110,6 +112,20 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 
 **[00:45:23](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-secret-service-t-00-45-23)**
 > "We are also asking the Secret Service and the DHS for Andrew Kolvet's White House meeti..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3 mentions)</summary>
+
+**[00:02:59](/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-secret-service-t-00-02-44)**
+> "Two bullets went right by him, one of which hit him and he got shot. We now know that the shooter was identified by Secret Service three hours before him, that there was a roof unattended, 120 yards away from Trump (Donald Trump)."
+
+**[00:03:19](/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-secret-service-t-00-02-44)**
+> "...pporters. Police did nothing. Secret Service did nothing."
+
+**[00:23:44](/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-secret-service-t-00-23-44)**
+> "... not happy with the fact that Secret Service agents never lost their jobs."
 
 </details>
 
@@ -275,7 +291,14 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:03:19](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44): “People saw him, Trump (Donald Trump) supporters. Police did nothing. Secret Service did nothing.”
+
+</details>
 
 - **[Helen Comperatore](/entities/person-helen-comperatore.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -287,7 +310,14 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:03:19](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44): “People saw him, Trump (Donald Trump) supporters. Police did nothing. Secret Service did nothing.”
+
+</details>
 
 - **[Helen Comperatore](/entities/person-helen-comperatore.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -315,13 +345,33 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Secret Service (11)</strong></summary>
+<summary><strong class="section-title">Statements about United States Secret Service (16)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
 
 - [00:31:08](/episodes/ep-puuMVxEu5NU.md#t-00-31-08) (Claim) **Unidentified NewsNation Reporter** (via quoted speech): ["A NewsNation reporter said the Secret Service waited a year to contact..."](/statements/statement-3ae5539c937f.md)
   - Also about: [Helen Comperatore](/entities/person-helen-comperatore.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (5)</summary>
+
+- [00:02:59](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the Butler shooter had been identified by the Secret..."](/statements/statement-0c6ddd52e5d8.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:03:19](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk accused police and the Secret Service of doing nothing wh..."](/statements/statement-8dbe26d75745.md)
+  - Also about: [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:04:29](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said no one had been fired or resigned over the Butler as..."](/statements/statement-039fbdeeecc6.md)
+  - Also about: [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:04:29](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) (Prediction) **Charlie Kirk** (via quoted speech): ["Charlie Kirk predicted that no one would probably be held accountable ..."](/statements/statement-263553151d32.md)
+  - Also about: [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:23:44](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) (Claim) **Anonymous Source #1 (Ep 5NQyGuRYbU8)** (via paraphrase): ["An unnamed authority said Corey Comperatore's widow and family were di..."](/statements/statement-ea615daf7444.md)
+  - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
 
 </details>
 

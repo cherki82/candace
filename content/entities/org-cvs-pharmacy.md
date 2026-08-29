@@ -21,7 +21,7 @@ _Type: Organizations_
 Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cvs.com/store-locator/landing)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10">2026-01-21 · 00:57:20</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03">2026-01-21 · 00:57:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-cvs-pharmacy-t-00-42-56">2026-08-11 · 00:43:18</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
@@ -33,9 +33,9 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-cvs-pharmacy-t-00-44-08" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-cvs-pharmacy-t-00-26-21" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-cvs-pharmacy-t-00-38-19" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
@@ -54,7 +54,7 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-cvs-pharmacy-t-00-44-08) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-cvs-pharmacy-t-00-26-21) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-cvs-pharmacy-t-00-38-19) | 1 |
@@ -184,7 +184,7 @@ Source: [Pharmacy and Drugstore Locations | CVS Pharmacy Locator](https://www.cv
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:57:20](/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-10)**
+**[00:57:16](/episodes/ep-GY6GWceEqtQ.md#ent-org-cvs-pharmacy-t-00-57-03)**
 > "CVS"
 
 </details>

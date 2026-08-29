@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 240 mentions"
+description: "Fort Huachuca (Places) - 239 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -26,7 +26,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-fort-huachuca-t-00-31-13">2026-08-21 · 00:31:41</a></strong></div>
 <div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>240</strong></div>
+<div><span>Mentions</span><strong>239</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>111</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -49,12 +49,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-26" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-huachuca-t-00-00-00" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 21 mentions" title="2026-01-16 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-25" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42" style="--pulse-height:24%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-34" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-15" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42" style="--pulse-height:19%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-19" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-05" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-fort-huachuca-t-01-40-02" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-fort-huachuca-t-00-28-00" style="--pulse-height:19%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-fort-huachuca-t-00-30-39" style="--pulse-height:14%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 3 mentions" title="2026-02-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-fort-huachuca-t-00-28-30" style="--pulse-height:14%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-fort-huachuca-t-00-30-39" style="--pulse-height:19%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-fort-huachuca-t-00-17-54" style="--pulse-height:10%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fort-huachuca-t-00-02-51" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-fort-huachuca-t-00-20-53" style="--pulse-height:10%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
@@ -102,12 +102,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-26) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-huachuca-t-00-00-00) | 21 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-25) | 2 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42) | 5 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-34) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-15) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42) | 4 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-19) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-05) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-fort-huachuca-t-01-40-02) | 1 |
-| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-fort-huachuca-t-00-28-00) | 4 |
-| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-fort-huachuca-t-00-30-39) | 3 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-fort-huachuca-t-00-28-30) | 3 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-fort-huachuca-t-00-30-39) | 4 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-gpe-fort-huachuca-t-00-17-54) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fort-huachuca-t-00-02-51) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-fort-huachuca-t-00-20-53) | 2 |
@@ -145,7 +145,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (240)</strong></summary>
+<summary><strong class="section-title">Raw mentions (239)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -685,7 +685,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (3 mentions)</summary>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (4 mentions)</summary>
 
 **[00:30:58](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-fort-huachuca-t-00-30-39)**
 > "that has been the alibi for Fort Huachuca"
@@ -696,16 +696,16 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 **[00:32:08](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-fort-huachuca-t-00-31-42)**
 > "...esist and they they mentioned Fort Huachuca I I"
 
+**[00:31:17](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-fort-huachuca-t-00-31-17)**
+> "...tions when I was asking about Huachuca she's with her mom she's with her mom until she t..."
+
 </details>
 
 <details>
-<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (4 mentions)</summary>
-
-**[00:28:29](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-fort-huachuca-t-00-28-00)**
-> "...o Palantir boys were put onto Fort Huachuca Air Base in July we'll get into that later um and..."
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (3 mentions)</summary>
 
 **[00:28:30](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-fort-huachuca-t-00-28-30)**
-> "...o Palantir boys were put onto Fort Huachuca airbase in July we'll get into that later um and ..."
+> "also Palantir boys were put onto Fort Huachuca airbase in July we'll get into that later um and now we're supposed to believe that he just like oh I didn't I couldn't look in any further I had no context to figure out what Epstein was accused of and I decided to still be friends with him despite all the allegations despite him admitting to what he did right he caught a plea deal uh via Acosta who was told to leave Epstein alone that's if if Acosta is to be believed"
 
 **[00:31:58](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-fort-huachuca-t-00-31-49)**
 > "...ve been working to verify her Fort Huachuca alibi."
@@ -726,7 +726,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:05:15](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-15)**
+**[00:05:15](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-05)**
 > "...were working together on that Fort Huachuca PR response we got the craziest attacks I've ever..."
 
 </details>
@@ -734,18 +734,15 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:13:34](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-34)**
+**[00:13:34](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-19)**
 > "Kirk was at Fort Huachuca"
 
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (5 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>
 
 **[00:04:42](/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42)**
-> "...aking of drones, I think that Fort Huachuca panicked them."
-
-**[00:04:46](/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42)**
 > "...w thing, I knew nothing about Fort Huachuca. I knew nothing about the military."
 
 **[00:05:07](/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-05-07)**
@@ -1424,7 +1421,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
 
-- [00:05:15](/episodes/ep-QdM9jLwjwLw.md#t-00-05-15) (Claim) **Candace Owens**: ["Erika Kirk and Andrew Kolvet worked together on the Fort Huachuca PR r..."](/statements/statement-e41a6e2314e4.md)
+- [00:05:15](/episodes/ep-QdM9jLwjwLw.md#t-00-05-05) (Claim) **Candace Owens**: ["Erika Kirk and Andrew Kolvet worked together on the Fort Huachuca PR r..."](/statements/statement-e41a6e2314e4.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -1432,10 +1429,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2)</summary>
 
-- [00:13:25](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50) (Accusation) **Turning Point USA** (via quoted document): ["Turning Point USA accused Candace Owens of saying an employee was inte..."](/statements/statement-a4319cf0a0b3.md)
+- [00:13:25](/episodes/ep-GY6GWceEqtQ.md#t-00-13-19) (Accusation) **Turning Point USA** (via quoted document): ["Turning Point USA accused Candace Owens of saying an employee was inte..."](/statements/statement-a4319cf0a0b3.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:13:40](/episodes/ep-GY6GWceEqtQ.md#t-00-13-34) (Claim) **Candace Owens**: ["Candace Owens said she repeatedly requested information over several w..."](/statements/statement-563e711166d1.md)
+- [00:13:40](/episodes/ep-GY6GWceEqtQ.md#t-00-13-19) (Claim) **Candace Owens**: ["Candace Owens said she repeatedly requested information over several w..."](/statements/statement-563e711166d1.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

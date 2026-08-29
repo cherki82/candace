@@ -22,8 +22,8 @@ _Type: People_
 Source: [U.S. Department of Labor: Alexander Acosta](https://www.dol.gov/general/aboutdol/history/acosta)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#t-00-28-00">2026-02-02 · 00:28:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#t-00-28-00">2026-02-02 · 00:28:29</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#t-00-28-30">2026-02-02 · 00:28:30</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#t-00-28-30">2026-02-02 · 00:28:30</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [U.S. Department of Labor: Alexander Acosta](https://www.dol.gov/general
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-28-00">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-28-30">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CEF7gQRWYCE.md#t-00-28-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#t-00-28-30" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-00-28-00) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-00-28-30) | 1 |
 
 </details>
 </section>
@@ -55,8 +55,8 @@ Source: [U.S. Department of Labor: Alexander Acosta](https://www.dol.gov/general
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
 
-**[00:28:29](/episodes/ep-CEF7gQRWYCE.md#t-00-28-00)**
-> "he caught a plea deal via Acosta"
+**[00:28:30](/episodes/ep-CEF7gQRWYCE.md#t-00-28-30)**
+> "also Palantir boys were put onto Fort Huachuca airbase in July we'll get into that later um and now we're supposed to believe that he just like oh I didn't I couldn't look in any further I had no context to figure out what Epstein was accused of and I decided to still be friends with him despite all the allegations despite him admitting to what he did right he caught a plea deal uh via Acosta who was told to leave Epstein alone that's if if Acosta is to be believed"
 
 </details>
 

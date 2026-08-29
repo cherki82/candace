@@ -21,8 +21,8 @@ _Type: Vehicles_
 Source: [The RMS Titanic | Smithsonian Institution](https://www.si.edu/spotlight/titanic)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-31">2026-01-21 · 00:25:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-31">2026-01-21 · 00:25:33</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-23">2026-01-21 · 00:25:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-23">2026-01-21 · 00:25:31</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,15 +33,15 @@ Source: [The RMS Titanic | Smithsonian Institution](https://www.si.edu/spotlight
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-31">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-23">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-31" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-23" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-31) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-23) | 1 |
 
 </details>
 </section>
@@ -54,7 +54,7 @@ Source: [The RMS Titanic | Smithsonian Institution](https://www.si.edu/spotlight
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:25:33](/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-31)**
+**[00:25:31](/episodes/ep-GY6GWceEqtQ.md#ent-vehicle-rms-titanic-t-00-25-23)**
 > "She's first class on the Titanic"
 
 </details>

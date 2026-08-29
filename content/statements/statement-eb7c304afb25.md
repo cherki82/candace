@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:04:39](/episodes/ep-QdM9jLwjwLw.md#t-00-04-19) 
+**Timestamp:** [00:04:39](/episodes/ep-QdM9jLwjwLw.md#t-00-04-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(279);return false;">Play</a>
 
-> Andrew (Andrew Kolvet) confirmed to me that Charlie (Charlie Kirk) described that summit as...
+> Andrew (Andrew Kolvet) confirmed to me that Charlie (Charlie Kirk) described that summit as... like an intervention was being staged over Israel.
 
 ## Verification
 

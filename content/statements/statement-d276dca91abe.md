@@ -26,7 +26,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:48:29](/episodes/ep-GY6GWceEqtQ.md#t-00-48-14) 
+**Timestamp:** [00:48:29](/episodes/ep-GY6GWceEqtQ.md#t-00-48-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2909);return false;">Play</a>
 
 > Nicola (Nicola Peltz), it's what she does. It's a thing. She sues people over and over again when she doesn't get what she wants. ... Case in point, a lawsuit that's currently going through the court system where ... and so she's been suing she's been suing this place that literally just cleans dogs

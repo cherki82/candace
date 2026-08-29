@@ -1,6 +1,6 @@
 ---
 title: "MKUltra"
-description: "MKUltra (Concepts) - 43 mentions"
+description: "MKUltra (Concepts) - 44 mentions"
 id: "concept-mkultra"
 type: "CONCEPT"
 aliases:
@@ -27,7 +27,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44">2025-09-24 · 00:26:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mkultra-t-00-45-38">2026-07-29 · 00:45:38</a></strong></div>
 <div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,7 +46,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59" style="--pulse-height:29%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-mkultra-t-00-35-51" style="--pulse-height:29%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-mkultra-t-00-30-06" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-mkultra-t-00-16-33" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-mkultra-t-00-16-33" style="--pulse-height:29%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-mkultra-t-00-36-32" style="--pulse-height:29%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-mkultra-t-00-32-21" style="--pulse-height:14%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-13-33" style="--pulse-height:71%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 5 mentions" title="2026-02-25 · 5 mentions"><span></span></a>
@@ -69,7 +69,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-concept-mkultra-t-00-02-59) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-mkultra-t-00-35-51) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-mkultra-t-00-30-06) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-mkultra-t-00-16-33) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-mkultra-t-00-16-33) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-mkultra-t-00-36-32) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-mkultra-t-00-32-21) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-mkultra-t-00-13-33) | 5 |
@@ -86,7 +86,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
@@ -197,10 +197,13 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
 
-**[00:16:47](/episodes/ep-9naMwS0kMBE.md#ent-concept-mkultra-t-00-16-33)**
+**[00:16:33](/episodes/ep-9naMwS0kMBE.md#ent-concept-mkultra-t-00-16-33)**
 > "MKUltra, Project Looking Glass,"
+
+**[00:22:44](/episodes/ep-9naMwS0kMBE.md#ent-concept-mkultra-t-00-22-34)**
+> "...grams the slightest into into mk ultra i mean even stories that shouldn't be running par..."
 
 </details>
 

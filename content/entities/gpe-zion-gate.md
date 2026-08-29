@@ -1,11 +1,12 @@
 ---
 title: "Zion Gate"
-description: "Zion Gate (Places) - 1 mention"
+description: "Zion Gate (Places) - 7 mentions"
 id: "gpe-zion-gate"
 type: "GPE"
 aliases:
   - "Zion’s Gate"
   - "Zions Gate"
+  - "Zion's Gate"
 categories:
   - "Jerusalem landmarks"
   - "Old City of Jerusalem"
@@ -13,7 +14,7 @@ categories:
 
 _Type: Places_
 
-**Also known as:** Zion’s Gate, Zions Gate
+**Also known as:** Zion’s Gate, Zions Gate, Zion's Gate
 
 **Categories:** Jerusalem landmarks, Old City of Jerusalem
 
@@ -22,10 +23,10 @@ _Type: Places_
 Source: [Zion Gate — Jerusalem Municipality](https://www.jerusalem.muni.il/en/experience/points-of-interest/zion-gate/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57">2026-02-25 · 00:40:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57">2026-02-25 · 00:40:09</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57">2026-02-25 · 00:39:57</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-45-19">2026-02-25 · 00:45:39</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,15 +35,15 @@ Source: [Zion Gate — Jerusalem Municipality](https://www.jerusalem.muni.il/en/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 7 mentions" title="2026-02-25 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57) | 1 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57) | 7 |
 
 </details>
 </section>
@@ -50,13 +51,31 @@ Source: [Zion Gate — Jerusalem Municipality](https://www.jerusalem.muni.il/en/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
-<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (7 mentions)</summary>
 
 **[00:40:09](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57)**
 > "...cation sign for restoring the Zion Gate in Jerusalem."
+
+**[00:39:57](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57)**
+> "what is known as Zion's Gate in Jerusalem. She posts a picture with a pretty c..."
+
+**[00:40:21](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-39-57)**
+> "...Erica (Erika Kirk) describing Zion's gate as her family's dedication?"
+
+**[00:40:56](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-40-41)**
+> "the Zion's Gate is their dedication."
+
+**[00:42:36](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-42-30)**
+> "...her family and declaring that Zion's Gate,"
+
+**[00:44:05](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-43-57)**
+> "...o financed the restoration of Zion's Gate in Jerusalem."
+
+**[00:45:39](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-zion-gate-t-00-45-19)**
+> "... Studies on the board at UVU. Zion's Gate,"
 
 </details>
 

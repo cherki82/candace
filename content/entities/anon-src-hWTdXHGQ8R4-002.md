@@ -40,7 +40,7 @@ _No relationships extracted yet._
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
 
-- [00:29:13](/episodes/ep-hWTdXHGQ8R4.md#t-00-29-09) [○] (Opinion) ["Anti-Zionism is antisemitism because denying only the Jewish people a state whil..."](/statements/statement-43bf924d2904.md)
+- [00:29:13](/episodes/ep-hWTdXHGQ8R4.md#t-00-29-09) [✓] (Opinion) ["Anti-Zionism is antisemitism because denying only the Jewish people a state whil..."](/statements/statement-43bf924d2904.md)
   - About: [Anti-Zionism](/entities/concept-anti-zionism.md), [Antisemitism](/entities/concept-antisemitism.md), [Israel](/entities/gpe-israel.md)
 
 </details>

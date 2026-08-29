@@ -20,8 +20,8 @@ _Type: Organizations_
 Source: [StopAntisemitism: About](https://stopantisemitism.org/about)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-stopantisemitism-t-00-01-07">2026-01-29 · 00:01:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-stopantisemitism-t-00-01-07">2026-01-29 · 00:01:17</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-stopantisemitism-t-00-01-07">2026-01-29 · 00:01:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-stopantisemitism-t-00-01-07">2026-01-29 · 00:01:14</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -53,7 +53,7 @@ Source: [StopAntisemitism: About](https://stopantisemitism.org/about)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:01:17](/episodes/ep-xjzb_t5Tk9o.md#ent-org-stopantisemitism-t-00-01-07)**
+**[00:01:14](/episodes/ep-xjzb_t5Tk9o.md#ent-org-stopantisemitism-t-00-01-07)**
 > "what is it? Stop anti-Semitism"
 
 </details>

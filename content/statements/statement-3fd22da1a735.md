@@ -29,7 +29,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:04:47](/episodes/ep-gG4ZoYUjUc8.md#t-00-04-06) 
+**Timestamp:** [00:04:47](/episodes/ep-gG4ZoYUjUc8.md#t-00-04-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(287);return false;">Play</a>
 
 > Were you working on behalf of Mossad? Were you running a blackmail operation on behalf of a foreign government?

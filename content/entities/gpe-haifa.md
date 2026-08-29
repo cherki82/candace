@@ -16,7 +16,7 @@ _Type: Places_
 Source: [Haifa Municipality](https://www.haifa.muni.il/?lang=en)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-haifa-t-00-39-45">2026-01-29 · 00:39:51</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-haifa-t-00-39-45">2026-01-29 · 00:39:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-haifa-t-00-40-12">2026-05-28 · 00:40:12</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
@@ -68,7 +68,7 @@ Source: [Haifa Municipality](https://www.haifa.muni.il/?lang=en)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:39:51](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-haifa-t-00-39-45)**
+**[00:39:45](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-haifa-t-00-39-45)**
 > "the port of Haifa"
 
 </details>

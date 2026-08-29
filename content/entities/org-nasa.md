@@ -156,7 +156,7 @@ Source: [About NASA](https://www.nasa.gov/about/)
 - [00:37:51](/episodes/ep-A39g5oqB_eM.md#t-00-37-17) (Claim) **Candace Owens**: ["The moon landing did not happen."](/statements/statement-7ee03a10ae70.md)
   - Also about: [Moon landing](/entities/concept-moon-landing.md)
 
-- [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) (Claim) **Candace Owens**: ["Stanley Clark Moore has a U.S. Air Force background and later worked f..."](/statements/statement-4700141ba93b.md)
+- [00:42:15](/episodes/ep-A39g5oqB_eM.md#t-00-42-10) (Claim) **Candace Owens**: ["If his Wikipedia biography is to be believed, Stanley Clark Moore has ..."](/statements/statement-4700141ba93b.md)
   - Also about: [Stanley Clark Moore](/entities/person-stanley-clark-moore.md), [United States Air Force](/entities/org-united-states-air-force.md)
 
 </details>

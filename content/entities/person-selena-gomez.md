@@ -18,7 +18,7 @@ _Type: People_
 Source: [Revealed: Why Nicola Peltz didn't attend Selena Gomez and Benny Blanco's wedding](https://www.standard.co.uk/showbiz/nicola-peltz-selena-gomez-benny-blanco-wedding-b1250424.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-22">2026-01-21 · 00:51:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-48">2026-01-21 · 00:51:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-55-04">2026-01-21 · 00:55:11</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -30,15 +30,15 @@ Source: [Revealed: Why Nicola Peltz didn't attend Selena Gomez and Benny Blanco'
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-22">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-48">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-22" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-48" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-22) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-48) | 2 |
 
 </details>
 </section>
@@ -51,7 +51,7 @@ Source: [Revealed: Why Nicola Peltz didn't attend Selena Gomez and Benny Blanco'
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
 
-**[00:51:48](/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-22)**
+**[00:51:48](/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-51-48)**
 > "her relationship with Selena Gomez"
 
 **[00:55:11](/episodes/ep-GY6GWceEqtQ.md#ent-person-selena-gomez-t-00-55-04)**

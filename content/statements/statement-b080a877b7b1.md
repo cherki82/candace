@@ -31,7 +31,7 @@ veracity: "mixed"
 ### 1. IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | C...
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:12:13](/episodes/ep-GY6GWceEqtQ.md#t-00-12-05) 
+**Timestamp:** [00:12:13](/episodes/ep-GY6GWceEqtQ.md#t-00-12-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(733);return false;">Play</a>
 
 > They conceded. ... And Erika (Erika Kirk) came out and said, Charlie (Charlie Kirk), ... I had his phone. He never said the night before that he was afraid he was going to die. She said that on Glenn Beck. They then get in front of me. They say, ... yeah, no, he did. ... I didn't know because it was in a special, you know, app. ... he also messaged Dan Flood. I didn't know because we're not talking to Dan Flood.

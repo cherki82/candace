@@ -1,6 +1,6 @@
 ---
-title: "The Manson murders and the events of the 1960s were the U.S...."
-description: "\"The Manson murders and the events of the 1960s were the U.S. government and CIA 'gone wild' after John F. Kennedy's assassination.\" — Candace Owens"
+title: "The Manson murders and the events of the '60s were the U.S. ..."
+description: "\"The Manson murders and the events of the '60s were the U.S. government and CIA 'gone wild' after John F. Kennedy's assassination.\" — Candace Owens"
 statement_id: "statement-58c0cd378779"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> The Manson murders and the events of the 1960s were the U.S. government and CIA 'gone wild' after John F. Kennedy's assassination.
+> The Manson murders and the events of the '60s were the U.S. government and CIA 'gone wild' after John F. Kennedy's assassination.
 
 ## Attribution
 

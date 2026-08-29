@@ -95,7 +95,7 @@ Source: [Claire Bidwell Smith | Author and Grief Therapist](https://clairebidwel
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1)</summary>
 
-- [00:04:59](/episodes/ep-Wjul6YV6izo.md#t-00-04-51) [○] (Opinion) ["Widows are uniquely grief policed through judgments about their appearance, tone..."](/statements/statement-a90c51353fa3.md)
+- [00:04:59](/episodes/ep-Wjul6YV6izo.md#t-00-04-51) [✓] (Opinion) ["Widows are uniquely grief policed through judgments about their appearance, tone..."](/statements/statement-a90c51353fa3.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

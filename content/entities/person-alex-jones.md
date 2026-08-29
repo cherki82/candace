@@ -40,7 +40,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-44" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 12 mentions" title="2026-01-05 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-05" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51" style="--pulse-height:39%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
@@ -62,7 +62,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-44) | 12 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-05) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51) | 7 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-alex-jones-t-00-59-43) | 1 |
@@ -216,7 +216,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:05:15](/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15)**
+**[00:05:15](/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-05)**
 > "...est attacks I've ever endured Alex Jones quite entertainingly he's coming for me my whole ..."
 
 </details>

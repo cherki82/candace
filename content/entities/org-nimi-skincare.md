@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 286 mentions"
+description: "Nimi Skincare (Organizations) - 287 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -44,7 +44,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-nimi-skincare-t-00-51-30">2025-09-18 · 00:51:33</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-nimi-skincare-t-00-28-47">2026-08-19 · 00:28:47</a></strong></div>
 <div><span>Episodes</span><strong>65</strong></div>
-<div><span>Mentions</span><strong>286</strong></div>
+<div><span>Mentions</span><strong>287</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -80,8 +80,8 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-33" style="--pulse-height:67%" aria-label="A Legal Turning Point? | Candace Ep 292: 6 mentions" title="2026-01-19 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-26-49" style="--pulse-height:78%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-nimi-skincare-t-00-01-27" style="--pulse-height:78%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 7 mentions" title="2026-01-27 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05" style="--pulse-height:78%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 7 mentions" title="2026-01-28 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-nimi-skincare-t-00-33-44" style="--pulse-height:11%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05" style="--pulse-height:56%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-nimi-skincare-t-00-33-44" style="--pulse-height:44%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-nimi-skincare-t-00-18-18" style="--pulse-height:56%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 5 mentions" title="2026-02-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-nimi-skincare-t-00-33-50" style="--pulse-height:67%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 6 mentions" title="2026-02-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-nimi-skincare-t-00-00-44" style="--pulse-height:56%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
@@ -150,8 +150,8 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-33) | 6 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-26-49) | 7 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-nimi-skincare-t-00-01-27) | 7 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05) | 7 |
-| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-nimi-skincare-t-00-33-44) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05) | 5 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-nimi-skincare-t-00-33-44) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-nimi-skincare-t-00-18-18) | 5 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-nimi-skincare-t-00-33-50) | 6 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-nimi-skincare-t-00-00-44) | 5 |
@@ -197,7 +197,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (286)</strong></summary>
+<summary><strong class="section-title">Raw mentions (287)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
@@ -858,15 +858,24 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 </details>
 
 <details>
-<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (4 mentions)</summary>
 
 **[00:33:53](/episodes/ep-CEF7gQRWYCE.md#ent-org-nimi-skincare-t-00-33-44)**
 > "That's NIMI skincare.com."
 
+**[00:33:40](/episodes/ep-CEF7gQRWYCE.md#ent-org-nimi-skincare-t-00-33-00)**
+> "Nimi Skincare is made here in America and built around that sam..."
+
+**[00:33:44](/episodes/ep-CEF7gQRWYCE.md#ent-org-nimi-skincare-t-00-33-44)**
+> "So make Nimi your friend in skincare."
+
+**[00:33:46](/episodes/ep-CEF7gQRWYCE.md#ent-org-nimi-skincare-t-00-33-44)**
+> "Visit nimiskincare.com today."
+
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (7 mentions)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (5 mentions)</summary>
 
 **[00:35:05](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05)**
 > "...asons that I have stayed with Nimi skincare is that they make consistency really easy. There ..."
@@ -874,19 +883,13 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 **[00:35:19](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05)**
 > "...in the long run. I stick with Nimi because"
 
-**[00:35:21](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05)**
-> "Nimi, because it's clean, it's simple,"
-
 **[00:35:37](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05)**
 > "Nimi skincare is made here in America and built around that sam..."
 
-**[00:35:42](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05)**
-> "So make Nimi your friend in skincare."
-
-**[00:35:44](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05)**
+**[00:35:44](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-44)**
 > "Visit NimiSkincare.com today."
 
-**[00:35:51](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-47)**
+**[00:35:51](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-44)**
 > "That's NIMIskinCare.com. Also want to tell you guys about Masa chips."
 
 </details>
@@ -923,22 +926,22 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 **[00:27:10](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-26-49)**
 > "Also remind you guys about Nimi skincare."
 
-**[00:27:18](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-26-49)**
+**[00:27:16](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-26-49)**
 > "...here values show up. And with Nimi,"
 
 **[00:27:27](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-26-49)**
 > "...e mentioned before that every Nimi box is a small Bible verse."
 
-**[00:27:48](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-27-33)**
+**[00:27:44](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-27-32)**
 > "Nimi skincare is clean. It's made in America and it's built aro..."
 
-**[00:27:56](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-27-33)**
+**[00:27:52](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-27-32)**
 > "...xactly why I have stayed with Nimi Skin Care."
 
-**[00:28:00](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-27-33)**
+**[00:28:00](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-27-32)**
 > "...ou can learn more by visiting NimiSkinCare.com and using my code Candice10 at checkout to sa..."
 
-**[00:28:07](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-27-33)**
+**[00:28:07](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-28-07)**
 > "... a friend in skin care. Visit NIMISkinCare.com today."
 
 </details>

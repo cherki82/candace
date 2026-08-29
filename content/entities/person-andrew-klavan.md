@@ -37,7 +37,7 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35" style="--pulse-height:62%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 5 mentions" title="2025-11-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#t-00-21-50" style="--pulse-height:100%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 8 mentions" title="2025-12-20 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-07" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-16" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-andrew-klavan-t-00-16-02" style="--pulse-height:12%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-andrew-klavan-t-00-59-06" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 </div>
@@ -47,7 +47,7 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 |---|---|---:|
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-klavan-t-00-03-35) | 5 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#t-00-21-50) | 8 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-07) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-16) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-andrew-klavan-t-00-16-02) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-andrew-klavan-t-00-59-06) | 1 |
 
@@ -78,7 +78,7 @@ Source: [About & Contact | Andrew Klavan](https://www.andrewklavan.com/about-con
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:51:17](/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-07)**
+**[00:51:16](/episodes/ep-QdM9jLwjwLw.md#ent-person-andrew-klavan-t-00-51-16)**
 > "... actually personally reviewed Andrew Klavan's episode before it went out the first."
 
 </details>
@@ -147,7 +147,7 @@ _No relationships extracted yet._
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
 
-- [00:51:17](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) (Claim) **Candace Owens**: ["Jeremy Boreing personally reviewed Andrew Klavan's first episode attac..."](/statements/statement-a7a27a3b9955.md)
+- [00:51:16](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16) (Claim) **Candace Owens**: ["Jeremy Boreing personally reviewed Andrew Klavan's first episode attac..."](/statements/statement-a7a27a3b9955.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>

@@ -44,7 +44,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44" style="--pulse-height:14%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18" style="--pulse-height:29%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22" style="--pulse-height:29%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-07" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-39" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45" style="--pulse-height:29%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-ian-carroll-t-01-00-47" style="--pulse-height:14%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-ian-carroll-t-00-43-05" style="--pulse-height:57%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
@@ -72,7 +72,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44) | 1 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22) | 2 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-07) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-39) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-ian-carroll-t-01-00-47) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-ian-carroll-t-00-43-05) | 4 |
@@ -232,7 +232,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:41:43](/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-07)**
+**[00:41:39](/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-39)**
 > "Candace Owens, Ian Carroll,"
 
 </details>

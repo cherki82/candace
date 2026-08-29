@@ -1,6 +1,6 @@
 ---
 title: "Miriam Adelson"
-description: "Miriam Adelson (People) - 27 mentions"
+description: "Miriam Adelson (People) - 28 mentions"
 id: "person-miriam-adelson"
 type: "PERSON"
 categories:
@@ -20,8 +20,8 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-miriam-adelson-t-01-07-05">2025-10-28 · 01:06:47</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07">2026-07-22 · 00:21:32</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -43,6 +43,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-23-41" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 3 mentions" title="2026-05-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-miriam-adelson-t-00-43-51" style="--pulse-height:67%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-miriam-adelson-t-00-15-03" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-miriam-adelson-t-00-46-55" style="--pulse-height:33%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07" style="--pulse-height:67%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 </div>
@@ -61,6 +62,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-person-miriam-adelson-t-00-23-41) | 3 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-miriam-adelson-t-00-43-51) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-miriam-adelson-t-00-15-03) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-miriam-adelson-t-00-46-55) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-26-49) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-miriam-adelson-t-00-21-07) | 2 |
 
@@ -70,7 +72,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>
@@ -91,6 +93,14 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 
 **[00:27:22](/episodes/ep-VMNWMXX1vO8.md#ent-person-miriam-adelson-t-00-27-22)**
 > "...as the CEO. And I don't think Miriam Adelson wants to be the CEO. And I should say that this i..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:47:01](/episodes/ep-5NQyGuRYbU8.md#ent-person-miriam-adelson-t-00-46-55)**
+> "Anyway, we have some comments for today's episode. First up is Haley. Haley writes, if Charlie Kirk and Andrew Kolvet both witnessed Donald Trump saying the thing about Miriam Adelson."
 
 </details>
 
@@ -177,7 +187,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 **[00:48:09](/episodes/ep-xjzb_t5Tk9o.md#ent-person-miriam-adelson-t-00-48-09)**
 > "Miriam Adelson's money"
 
-**[00:24:11](/episodes/ep-xjzb_t5Tk9o.md#ent-person-miriam-adelson-t-00-24-11)**
+**[00:24:09](/episodes/ep-xjzb_t5Tk9o.md#ent-person-miriam-adelson-t-00-24-09)**
 > "... be saved unless they worship miriam adelson and Bibi (Benjamin Netanyahu) which is wild miria..."
 
 </details>

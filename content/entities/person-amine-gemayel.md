@@ -22,8 +22,8 @@ _Type: People_
 Source: [Amine Gemayel | Presidency of Lebanon](https://presidency.gov.lb/presidency/alshykh-amyn-aljmy-l)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-amine-gemayel-t-00-20-27">2026-01-20 · 00:20:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-amine-gemayel-t-00-20-27">2026-01-20 · 00:20:29</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-amine-gemayel-t-00-20-27">2026-01-20 · 00:20:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-amine-gemayel-t-00-20-27">2026-01-20 · 00:20:27</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -55,7 +55,7 @@ Source: [Amine Gemayel | Presidency of Lebanon](https://presidency.gov.lb/presid
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:20:29](/episodes/ep-9naMwS0kMBE.md#ent-person-amine-gemayel-t-00-20-27)**
+**[00:20:27](/episodes/ep-9naMwS0kMBE.md#ent-person-amine-gemayel-t-00-20-27)**
 > "...n between the White House and President Gemayel of Beirut, Lebanon at the time of the bombing of ..."
 
 </details>

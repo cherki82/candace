@@ -15,7 +15,7 @@ object: "person-lyle-reams"
 
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
-- [00:12:08](/episodes/ep-gG4ZoYUjUc8#t-00-12-08): _Guinta is Erika (Erika Kirk)'s stepfather, and they have a repeat business partner, a repeat business couple, Shelley and Lyle Reams, meaning they formed businesses with these people._
+- [00:12:01](/episodes/ep-gG4ZoYUjUc8#t-00-12-01): _Guinta is Erika (Erika Kirk)'s stepfather, and they have a repeat business partner, a repeat business couple, Shelly and Lyle Reams, meaning they formed businesses with these people._
 
 ### Related
 

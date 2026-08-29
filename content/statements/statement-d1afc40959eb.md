@@ -27,7 +27,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:18:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-17-43) 
+**Timestamp:** [00:18:11](/episodes/ep-gG4ZoYUjUc8.md#t-00-18-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1091);return false;">Play</a>
 
 > And it's especially shady given the fact that it looks like, and I'm going to prod that narrative further, that also back when Lori Frantzve formed Eurotech, there was another shady character involved back in Cincinnati, Ohio. This seems to be a common theme. And we need to look into it further. And I promise you that I am now going to because I don't like when people send legal letters to my house because I'm telling the truth.

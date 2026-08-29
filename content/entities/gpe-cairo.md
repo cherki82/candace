@@ -98,7 +98,7 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:43:20](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-cairo-t-01-42-45)**
+**[01:43:05](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-cairo-t-01-42-45)**
 > "salsa dancing school in Cairo"
 
 </details>

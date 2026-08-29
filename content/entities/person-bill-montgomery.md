@@ -28,7 +28,7 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>21</strong></div>
+<div><span>Relationships</span><strong>23</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -79,9 +79,6 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 **[00:31:14](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-30-51)**
 > "The person claims that Bill (Bill Montgomery) and his wife and a certain Robert Flood, who is ..."
 
-**[00:32:41](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-32-17)**
-> "...ble learning more about Bill (Bill Montgomery) and Edith."
-
 **[00:32:47](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-32-17)**
 > "Where did Bill (Bill Montgomery) serve in the military?"
 
@@ -90,6 +87,9 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 
 **[00:27:58](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-27-17)**
 > "Montgomery was at Benedictine University in Western Chicago suburb of Lyle,"
+
+**[00:32:41](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-32-17)**
+> "I'm having a lot of trouble, and the reason I'm putting this out there is I'm having trouble learning more about Bill (Bill Montgomery) and Edith (Edith Walker Montgomery)."
 
 </details>
 
@@ -217,6 +217,18 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 </details>
 
 <details>
+<summary>Interviewed By (1)</summary>
+
+- **[National Journal](/entities/org-national-journal.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:56](/episodes/ep-A39g5oqB_eM.md#t-00-27-17): “Anyways, it reads in the Atlantic, Montgomery was at Benedictine University in Western Chicago suburb of Lyle, Illinois, for the college's youth government day in May of 2012. The slate of speakers put the kids. To sleep, he told the National Journal.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Married To (1)</summary>
 
 - **[Edith Montgomery](/entities/person-edith-montgomery.md)**
@@ -248,7 +260,7 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[United States Armed Forces](/entities/org-united-states-armed-forces.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -309,6 +321,13 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 
 </details>
 
+- **[National Journal](/entities/org-national-journal.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:27:56](/episodes/ep-A39g5oqB_eM.md#t-00-27-17): “Anyways, it reads in the Atlantic, Montgomery was at Benedictine University in Western Chicago suburb of Lyle, Illinois, for the college's youth government day in May of 2012. The slate of speakers put the kids. To sleep, he told the National Journal.”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -333,7 +352,7 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
 
-- [00:28:30](/episodes/ep-A39g5oqB_eM.md#t-00-27-58) [✓] (Claim) ["Charlie Kirk needed to delay college and start an organization to reach young pe..."](/statements/statement-b5628f2b17f6.md)
+- [00:28:30](/episodes/ep-A39g5oqB_eM.md#t-00-27-58) [✓] (Opinion) ["Charlie Kirk needed to delay college and start an organization to reach young pe..."](/statements/statement-b5628f2b17f6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Bill Montgomery](/entities/person-bill-montgomery.md)
 
 </details>
@@ -346,7 +365,7 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (4)</summary>
 
-- [00:28:30](/episodes/ep-A39g5oqB_eM.md#t-00-27-58) (Claim) **Bill Montgomery** (via quoted article): ["Charlie Kirk needed to delay college and start an organization to reac..."](/statements/statement-b5628f2b17f6.md)
+- [00:28:30](/episodes/ep-A39g5oqB_eM.md#t-00-27-58) (Opinion) **Bill Montgomery** (via quoted article): ["Charlie Kirk needed to delay college and start an organization to reac..."](/statements/statement-b5628f2b17f6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43) (Claim) **Candace Owens**: ["Bill Montgomery served in the U.S. Air Force Reserve and was from Linc..."](/statements/statement-f20ea24a8eac.md)

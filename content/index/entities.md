@@ -2,7 +2,7 @@
 title: "Entities"
 ---
 
-_Total entities: 4029_
+_Total entities: 4058_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -37,14 +37,14 @@ _Total entities: 4029_
 <input type="radio" id="tab-anonymous_source" name="entity-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-person" class="tab-btn">People (1342)</label>
-  <label for="tab-org" class="tab-btn">Organizations (998)</label>
-  <label for="tab-gpe" class="tab-btn">Places (480)</label>
+  <label for="tab-person" class="tab-btn">People (1357)</label>
+  <label for="tab-org" class="tab-btn">Organizations (1006)</label>
+  <label for="tab-gpe" class="tab-btn">Places (482)</label>
   <label for="tab-event" class="tab-btn">Events (50)</label>
-  <label for="tab-concept" class="tab-btn">Concepts (273)</label>
+  <label for="tab-concept" class="tab-btn">Concepts (274)</label>
   <label for="tab-date" class="tab-btn">Dates (56)</label>
   <label for="tab-vehicle" class="tab-btn">Vehicles (17)</label>
-  <label for="tab-work" class="tab-btn">Works & Media (285)</label>
+  <label for="tab-work" class="tab-btn">Works & Media (288)</label>
   <label for="tab-law" class="tab-btn">Laws & Legislation (18)</label>
   <label for="tab-anonymous_source" class="tab-btn">Anonymous Sources (510)</label>
 </div>
@@ -79,66 +79,66 @@ _Total entities: 4029_
 
 <div class="tab-content tab-content-person">
 
-_1342 peoples sorted by most mentioned_
+_1357 peoples sorted by most mentioned_
 
 <div class="filter-item">
 
-- [Charlie Kirk](/entities/person-charlie-kirk.md) (5928 mentions)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (5950 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Erika Kirk](/entities/person-erika-kirk.md) (3026 mentions)
+- [Erika Kirk](/entities/person-erika-kirk.md) (3047 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Candace Owens](/entities/person-candace-owens.md) (2625 mentions)
+- [Candace Owens](/entities/person-candace-owens.md) (2633 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Tyler Robinson](/entities/person-tyler-robinson.md) (976 mentions)
+- [Donald J. Trump](/entities/person-donald-trump.md) (987 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Donald J. Trump](/entities/person-donald-trump.md) (966 mentions)
+- [Tyler Robinson](/entities/person-tyler-robinson.md) (977 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Andrew Kolvet](/entities/person-andrew-kolvet.md) (806 mentions)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) (805 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Tucker Carlson](/entities/person-tucker-carlson.md) (648 mentions)
+- [Tucker Carlson](/entities/person-tucker-carlson.md) (655 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Ben Shapiro](/entities/person-ben-shapiro.md) (489 mentions)
+- [Ben Shapiro](/entities/person-ben-shapiro.md) (490 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Jeffrey Epstein](/entities/person-jeffrey-epstein.md) (457 mentions)
+- [Jeffrey Epstein](/entities/person-jeffrey-epstein.md) (482 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (400 mentions)
+- [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (405 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Blake Neff](/entities/person-blake-neff.md) (358 mentions)
+- [Blake Neff](/entities/person-blake-neff.md) (368 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Michael McCoy](/entities/person-michael-mccoy.md) (353 mentions)
+- [Michael McCoy](/entities/person-michael-mccoy.md) (357 mentions)
 
 </div>
 <div class="filter-item">
@@ -148,7 +148,7 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Jesus Christ](/entities/person-jesus-christ.md) (319 mentions)
+- [Jesus Christ](/entities/person-jesus-christ.md) (321 mentions)
 
 </div>
 <div class="filter-item">
@@ -158,12 +158,12 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Frank Turek](/entities/person-frank-turek.md) (258 mentions)
+- [Kash Patel](/entities/person-kash-patel.md) (262 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Kash Patel](/entities/person-kash-patel.md) (255 mentions)
+- [Frank Turek](/entities/person-frank-turek.md) (261 mentions)
 
 </div>
 <div class="filter-item">
@@ -198,27 +198,27 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Kanye West](/entities/person-kanye-west.md) (185 mentions)
+- [Kanye West](/entities/person-kanye-west.md) (184 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Rob McCoy](/entities/person-rob-mccoy.md) (176 mentions)
+- [Rob McCoy](/entities/person-rob-mccoy.md) (178 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Baron Coleman](/entities/person-baron-coleman.md) (145 mentions)
+- [Baron Coleman](/entities/person-baron-coleman.md) (142 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Laura Loomer](/entities/person-laura-loomer.md) (141 mentions)
+- [Laura Loomer](/entities/person-laura-loomer.md) (140 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (123 mentions)
+- [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (124 mentions)
 
 </div>
 <div class="filter-item">
@@ -233,7 +233,12 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Mitch Snow](/entities/person-mitch-snow.md) (109 mentions)
+- [John F. Kennedy](/entities/person-john-f-kennedy.md) (109 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Dan Flood](/entities/person-dan-flood.md) (108 mentions)
 
 </div>
 <div class="filter-item">
@@ -243,17 +248,17 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Dan Flood](/entities/person-dan-flood.md) (107 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Joe Kent](/entities/person-joe-kent.md) (107 mentions)
 
 </div>
 <div class="filter-item">
 
-- [John F. Kennedy](/entities/person-john-f-kennedy.md) (106 mentions)
+- [Mitch Snow](/entities/person-mitch-snow.md) (107 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Bari Weiss](/entities/person-bari-weiss.md) (102 mentions)
 
 </div>
 <div class="filter-item">
@@ -263,12 +268,7 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Bari Weiss](/entities/person-bari-weiss.md) (101 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Justin Streiff](/entities/person-justin-streiff.md) (98 mentions)
+- [Justin Streiff](/entities/person-justin-streiff.md) (102 mentions)
 
 </div>
 <div class="filter-item">
@@ -283,7 +283,7 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Bill Ackman](/entities/person-bill-ackman.md) (84 mentions)
+- [Bill Ackman](/entities/person-bill-ackman.md) (86 mentions)
 
 </div>
 <div class="filter-item">
@@ -323,7 +323,7 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Alex Clark](/entities/person-alex-clark.md) (64 mentions)
+- [Alex Clark](/entities/person-alex-clark.md) (65 mentions)
 
 </div>
 <div class="filter-item">
@@ -333,7 +333,7 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Joe Rogan](/entities/person-joe-rogan.md) (60 mentions)
+- [Joe Rogan](/entities/person-joe-rogan.md) (62 mentions)
 
 </div>
 <div class="filter-item">
@@ -378,6 +378,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Joe Biden](/entities/person-joe-biden.md) (50 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Spencer Cox](/entities/person-spencer-cox.md) (50 mentions)
 
 </div>
@@ -388,12 +393,12 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Joe Biden](/entities/person-joe-biden.md) (49 mentions)
+- [Tim Pool](/entities/person-tim-pool.md) (48 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Tim Pool](/entities/person-tim-pool.md) (48 mentions)
+- [Dan Bongino](/entities/person-dan-bongino.md) (47 mentions)
 
 </div>
 <div class="filter-item">
@@ -404,11 +409,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Thomas Massie](/entities/person-thomas-massie.md) (47 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Dan Bongino](/entities/person-dan-bongino.md) (46 mentions)
 
 </div>
 <div class="filter-item">
@@ -424,11 +424,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Sun Myung Moon](/entities/person-sun-myung-moon.md) (44 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Jared Kushner](/entities/person-jared-kushner.md) (43 mentions)
 
 </div>
 <div class="filter-item">
@@ -463,7 +458,7 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Taylor Swift](/entities/person-taylor-swift.md) (40 mentions)
+- [Jared Kushner](/entities/person-jared-kushner.md) (40 mentions)
 
 </div>
 <div class="filter-item">
@@ -493,12 +488,22 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Justin Baldoni](/entities/person-justin-baldoni.md) (37 mentions)
+- [Taylor Swift](/entities/person-taylor-swift.md) (38 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Cabot Phillips](/entities/person-cabot-phillips.md) (36 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Justin Baldoni](/entities/person-justin-baldoni.md) (36 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Lindsey Graham](/entities/person-lindsey-graham.md) (36 mentions)
 
 </div>
 <div class="filter-item">
@@ -509,11 +514,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Jillian Falcon](/entities/person-jillian-falcon.md) (35 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Lindsey Graham](/entities/person-lindsey-graham.md) (35 mentions)
 
 </div>
 <div class="filter-item">
@@ -538,6 +538,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Hillary Clinton](/entities/person-hillary-clinton.md) (33 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Jon Aaron Bray](/entities/person-jon-aaron-bray.md) (33 mentions)
 
 </div>
@@ -558,11 +563,6 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Hillary Clinton](/entities/person-hillary-clinton.md) (32 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Pam Bondi](/entities/person-pam-bondi.md) (32 mentions)
 
 </div>
@@ -578,11 +578,6 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Dave Rubin](/entities/person-dave-rubin.md) (30 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Hunter Biden](/entities/person-hunter-biden.md) (30 mentions)
 
 </div>
@@ -593,12 +588,22 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Stacy Sheridan](/entities/person-stacy-sheridan.md) (30 mentions)
+- [Dave Rubin](/entities/person-dave-rubin.md) (29 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Stacy Sheridan](/entities/person-stacy-sheridan.md) (29 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Lou Taylor](/entities/person-lou-taylor.md) (28 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Miriam Adelson](/entities/person-miriam-adelson.md) (28 mentions)
 
 </div>
 <div class="filter-item">
@@ -618,11 +623,6 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Miriam Adelson](/entities/person-miriam-adelson.md) (27 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Nate Brooksby](/entities/person-nate-brooksby.md) (27 mentions)
 
 </div>
@@ -638,6 +638,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Lee Trotter](/entities/person-lee-trotter.md) (26 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Nimrod](/entities/person-nimrod.md) (26 mentions)
 
 </div>
@@ -649,11 +654,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Jack Hibbs](/entities/person-jack-hibbs.md) (25 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Lee Trotter](/entities/person-lee-trotter.md) (25 mentions)
 
 </div>
 <div class="filter-item">
@@ -723,7 +723,17 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Barack Obama](/entities/person-barack-obama.md) (21 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md) (21 mentions)
+
+</div>
+<div class="filter-item">
+
+- [King David](/entities/person-king-david-biblical.md) (21 mentions)
 
 </div>
 <div class="filter-item">
@@ -734,11 +744,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Aleister Crowley](/entities/person-aleister-crowley.md) (20 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Barack Obama](/entities/person-barack-obama.md) (20 mentions)
 
 </div>
 <div class="filter-item">
@@ -754,6 +759,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Gary Melton](/entities/person-gary-melton.md) (20 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Nicola Peltz](/entities/person-nicola-peltz.md) (20 mentions)
 
 </div>
 <div class="filter-item">
@@ -779,11 +789,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Michael Jackson](/entities/person-michael-jackson.md) (19 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Peter Thiel](/entities/person-peter-thiel.md) (19 mentions)
 
 </div>
 <div class="filter-item">
@@ -823,17 +828,12 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [King David](/entities/person-king-david-biblical.md) (18 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Larry Guinta](/entities/person-larry-guinta.md) (18 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Mark Amodei](/entities/person-mark-amodei.md) (18 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Peter Thiel](/entities/person-peter-thiel.md) (18 mentions)
 
 </div>
 <div class="filter-item">
@@ -859,11 +859,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Marina Minas](/entities/person-marina-minas.md) (17 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Nicola Peltz](/entities/person-nicola-peltz.md) (17 mentions)
 
 </div>
 <div class="filter-item">
@@ -903,7 +898,17 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Brooklyn Beckham](/entities/person-brooklyn-beckham.md) (16 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Jimmy Chérizier](/entities/person-jimmy-cherizier.md) (16 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Larry Guinta](/entities/person-larry-guinta.md) (16 mentions)
 
 </div>
 <div class="filter-item">
@@ -928,12 +933,12 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Brooklyn Beckham](/entities/person-brooklyn-beckham.md) (15 mentions)
+- [Eddie Farnsworth](/entities/person-eddie-farnsworth.md) (15 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Eddie Farnsworth](/entities/person-eddie-farnsworth.md) (15 mentions)
+- [Gigi Kirk](/entities/person-gigi-kirk.md) (15 mentions)
 
 </div>
 <div class="filter-item">
@@ -988,6 +993,16 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Corey Comperatore](/entities/person-corey-comperatore.md) (14 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Diddy](/entities/person-diddy.md) (14 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Faith Kates](/entities/person-faith-kates.md) (14 mentions)
 
 </div>
@@ -1019,6 +1034,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Perez Hilton](/entities/person-perez-hilton.md) (14 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Saint Michael the Archangel](/entities/person-saint-michael-the-archangel.md) (14 mentions)
 
 </div>
 <div class="filter-item">
@@ -1058,11 +1078,6 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Diddy](/entities/person-diddy.md) (13 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Harry Myers](/entities/person-harry-myers.md) (13 mentions)
 
 </div>
@@ -1079,11 +1094,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Mia Grant](/entities/person-mia-grant.md) (13 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Saint Michael the Archangel](/entities/person-saint-michael-the-archangel.md) (13 mentions)
 
 </div>
 <div class="filter-item">
@@ -1128,6 +1138,16 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Marc Anthony](/entities/person-marc-anthony.md) (12 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Peter A. McCullough](/entities/person-peter-mccullough.md) (12 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Rob Skiba](/entities/person-rob-skiba.md) (12 mentions)
 
 </div>
@@ -1144,6 +1164,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [The Game](/entities/person-the-game.md) (12 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Thomas Martin (Tucson Border Patrol agent)](/entities/person-thomas-martin-tucson-border-patrol-agent.md) (12 mentions)
 
 </div>
 <div class="filter-item">
@@ -1178,12 +1203,12 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md) (11 mentions)
+- [Mark A. Liti](/entities/person-mark-liti.md) (11 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Peter A. McCullough](/entities/person-peter-mccullough.md) (11 mentions)
+- [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md) (11 mentions)
 
 </div>
 <div class="filter-item">
@@ -1194,11 +1219,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Senator Mike Lee](/entities/person-senator-mike-lee.md) (11 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Victoria Beckham](/entities/person-victoria-beckham.md) (11 mentions)
 
 </div>
 <div class="filter-item">
@@ -1224,6 +1244,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Eric Trump](/entities/person-eric-trump.md) (10 mentions)
+
+</div>
+<div class="filter-item">
+
+- [James Kaddis](/entities/person-james-kaddis.md) (10 mentions)
 
 </div>
 <div class="filter-item">
@@ -1268,6 +1293,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Victoria Beckham](/entities/person-victoria-beckham.md) (10 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Ahmed Qureshi](/entities/person-ahmed-qureshi.md) (9 mentions)
 
 </div>
@@ -1298,11 +1328,6 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [James Kaddis](/entities/person-james-kaddis.md) (9 mentions)
-
-</div>
-<div class="filter-item">
-
 - [John McCain](/entities/person-john-mccain.md) (9 mentions)
 
 </div>
@@ -1324,11 +1349,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Lila Rose](/entities/person-lila-rose.md) (9 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Marc Anthony](/entities/person-marc-anthony.md) (9 mentions)
 
 </div>
 <div class="filter-item">
@@ -1438,6 +1458,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Anthony Fauci](/entities/person-anthony-fauci.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Ariana Grande](/entities/person-ariana-grande.md) (8 mentions)
 
 </div>
@@ -1459,6 +1484,16 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Dinesh D'Souza](/entities/person-dinesh-d-souza.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Don Lemon](/entities/person-don-lemon.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Edith Montgomery](/entities/person-edith-montgomery.md) (8 mentions)
 
 </div>
 <div class="filter-item">
@@ -1543,11 +1578,6 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Anthony Fauci](/entities/person-anthony-fauci.md) (7 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Bashar al-Assad](/entities/person-bashar-al-assad.md) (7 mentions)
 
 </div>
@@ -1578,22 +1608,12 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Don Lemon](/entities/person-don-lemon.md) (7 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Doug DeGroote](/entities/person-doug-degroote.md) (7 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Drew Desbordes](/entities/person-drew-desbordes.md) (7 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Edith Montgomery](/entities/person-edith-montgomery.md) (7 mentions)
 
 </div>
 <div class="filter-item">
@@ -1774,11 +1794,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Jeffrey Dahmer](/entities/person-jeffrey-dahmer.md) (6 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Jessica Ghawi](/entities/person-jessica-ghawi.md) (6 mentions)
 
 </div>
 <div class="filter-item">
@@ -1978,11 +1993,6 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Corey Comperatore](/entities/person-corey-comperatore.md) (5 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Dennis Prager](/entities/person-dennis-prager.md) (5 mentions)
 
 </div>
@@ -2029,6 +2039,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Jerry Falwell Jr.](/entities/person-jerry-falwell-jr.md) (5 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Jessica Ghawi](/entities/person-jessica-ghawi.md) (5 mentions)
 
 </div>
 <div class="filter-item">
@@ -2158,6 +2173,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Tracy Martin's daughter (identity unverified)](/entities/person-tracy-martins-daughter-identity-unverified.md) (5 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Vanessa Bryant](/entities/person-vanessa-bryant.md) (5 mentions)
 
 </div>
@@ -2254,11 +2274,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [George Soros](/entities/person-george-soros.md) (4 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Gigi Kirk](/entities/person-gigi-kirk.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -2433,11 +2448,6 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Rupert Murdoch](/entities/person-rupert-murdoch.md) (4 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Russell Johnson](/entities/person-russell-johnson.md) (4 mentions)
 
 </div>
@@ -2469,6 +2479,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Ted Bundy](/entities/person-ted-bundy.md) (4 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Thomas G. Martin](/entities/person-thomas-g-martin.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -2579,6 +2594,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Brian Houston](/entities/person-brian-houston.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Cassie Ventura](/entities/person-cassie.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -2883,6 +2903,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Rupert Murdoch](/entities/person-rupert-murdoch.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Saint Joseph](/entities/person-saint-joseph.md) (3 mentions)
 
 </div>
@@ -2929,11 +2954,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Steve Baker](/entities/person-steve-baker.md) (3 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Susan Mary Hamblin](/entities/person-susan-hamblin.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -3163,6 +3183,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Brian Kilmeade](/entities/person-brian-kilmeade.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Brigitte Gabriel](/entities/person-brigitte-gabriel.md) (2 mentions)
 
 </div>
@@ -3178,17 +3203,17 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Cassie Ventura](/entities/person-cassie.md) (2 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Cathy O'Brien](/entities/person-cathy-obrien.md) (2 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Charlie (Whatever Podcast guest; surname unverified)](/entities/person-charlie-whatever-podcast-guest.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Chris Liti](/entities/person-chris-liti.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -3343,6 +3368,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Edna Ennise Richardson](/entities/person-edna-ennise-richardson.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Elaine Wicklund Frantzve](/entities/person-elaine-wicklund-frantzve.md) (2 mentions)
 
 </div>
@@ -3374,6 +3404,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Eric Swalwell](/entities/person-eric-swalwell.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Eric Weinstein](/entities/person-eric-weinstein.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -3903,6 +3938,16 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Saint Moses the Black](/entities/person-saint-moses-the-black.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Saint Thomas More](/entities/person-saint-thomas-more.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Sarah Huckabee Sanders](/entities/person-sarah-huckabee-sanders.md) (2 mentions)
 
 </div>
@@ -3959,6 +4004,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Steve Wynn](/entities/person-steve-wynn.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Susan Mary Hamblin](/entities/person-susan-hamblin.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -4388,11 +4438,6 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Brian Kilmeade](/entities/person-brian-kilmeade.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
 - [Brian Stelter](/entities/person-brian-stelter.md) (1 mention)
 
 </div>
@@ -4424,6 +4469,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Caleb Cunningham](/entities/person-caleb-cunningham.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Cameron Hanes](/entities/person-cameron-hanes.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -4688,6 +4738,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Don Orico (Turning Point USA representative; full-name spelling unverified)](/entities/person-don-orico-turning-point-usa-representative-full-name-spelling-unverified.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Donald Duncan](/entities/person-donald-duncan.md) (1 mention)
 
 </div>
@@ -4764,11 +4819,6 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Eric Clapton](/entities/person-eric-clapton.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
-- [Eric Weinstein](/entities/person-eric-weinstein.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -5013,6 +5063,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Hussein Dheini](/entities/person-hussein-dheini.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Increase Mather](/entities/person-increase-mather.md) (1 mention)
 
 </div>
@@ -5024,6 +5079,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Irina Matlin](/entities/person-irina-matlin.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Irving M. Copi](/entities/person-irving-m-copi.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -5594,6 +5654,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Lucille Talusan](/entities/person-lucille-talusan.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Ludwig van Beethoven](/entities/person-ludwig-van-beethoven.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -6318,17 +6383,12 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Saint Moses the Black](/entities/person-saint-moses-the-black.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
 - [Saint Peter](/entities/person-saint-peter.md) (1 mention)
 
 </div>
 <div class="filter-item">
 
-- [Saint Thomas More](/entities/person-saint-thomas-more.md) (1 mention)
+- [Saint Stephen](/entities/person-saint-stephen.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -6364,6 +6424,11 @@ _1342 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Sara Zaafarani Zenzari](/entities/person-sarah-zafrani.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Sarah Jaffal](/entities/person-sarah-jaffal.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -6523,6 +6588,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Susan Hamblin Bentley](/entities/person-susan-hamblin-bentley.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Susie Breitbart](/entities/person-susie-breitbart.md) (1 mention)
 
 </div>
@@ -6678,6 +6748,11 @@ _1342 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Wally Rashid](/entities/person-wally-rashid.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Walt Disney](/entities/person-walt-disney.md) (1 mention)
 
 </div>
@@ -6796,36 +6871,36 @@ _1342 peoples sorted by most mentioned_
 
 <div class="tab-content tab-content-org">
 
-_998 organizations sorted by most mentioned_
+_1006 organizations sorted by most mentioned_
 
 <div class="filter-item">
 
-- [Turning Point USA](/entities/org-turning-point-usa.md) (2054 mentions)
+- [Turning Point USA](/entities/org-turning-point-usa.md) (2045 mentions)
 
 </div>
 <div class="filter-item">
 
-- [FBI](/entities/org-fbi.md) (705 mentions)
+- [FBI](/entities/org-fbi.md) (711 mentions)
 
 </div>
 <div class="filter-item">
 
-- [American Financing](/entities/org-american-financing.md) (511 mentions)
+- [American Financing](/entities/org-american-financing.md) (512 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Nimi Skincare](/entities/org-nimi-skincare.md) (286 mentions)
+- [Nimi Skincare](/entities/org-nimi-skincare.md) (287 mentions)
 
 </div>
 <div class="filter-item">
 
-- [The Daily Wire](/entities/org-the-daily-wire.md) (266 mentions)
+- [White House](/entities/org-white-house.md) (266 mentions)
 
 </div>
 <div class="filter-item">
 
-- [White House](/entities/org-white-house.md) (264 mentions)
+- [The Daily Wire](/entities/org-the-daily-wire.md) (264 mentions)
 
 </div>
 <div class="filter-item">
@@ -6840,7 +6915,7 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Pure Talk](/entities/org-pure-talk.md) (202 mentions)
+- [Pure Talk](/entities/org-pure-talk.md) (204 mentions)
 
 </div>
 <div class="filter-item">
@@ -6855,22 +6930,22 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Riverbend Ranch](/entities/org-riverbend-ranch.md) (167 mentions)
+- [Riverbend Ranch](/entities/org-riverbend-ranch.md) (169 mentions)
 
 </div>
 <div class="filter-item">
 
-- [YouTube](/entities/org-youtube.md) (154 mentions)
+- [YouTube](/entities/org-youtube.md) (153 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Tax Network USA](/entities/org-tax-network-usa.md) (124 mentions)
+- [Tax Network USA](/entities/org-tax-network-usa.md) (123 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Instagram](/entities/org-instagram.md) (113 mentions)
+- [Instagram](/entities/org-instagram.md) (112 mentions)
 
 </div>
 <div class="filter-item">
@@ -6890,22 +6965,22 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Mossad](/entities/org-mossad.md) (88 mentions)
+- [Mossad](/entities/org-mossad.md) (93 mentions)
 
 </div>
 <div class="filter-item">
 
-- [The Wellness Company](/entities/org-the-wellness-company.md) (85 mentions)
+- [The Wellness Company](/entities/org-the-wellness-company.md) (87 mentions)
+
+</div>
+<div class="filter-item">
+
+- [PDS Debt](/entities/org-pds-debt.md) (85 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Calvary Chapel](/entities/org-calvary-chapel.md) (82 mentions)
-
-</div>
-<div class="filter-item">
-
-- [PDS Debt](/entities/org-pds-debt.md) (80 mentions)
 
 </div>
 <div class="filter-item">
@@ -6935,12 +7010,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [United States Marine Corps](/entities/org-united-states-marine-corps.md) (67 mentions)
+- [United States Department of Defense](/entities/org-us-department-of-defense.md) (69 mentions)
 
 </div>
 <div class="filter-item">
 
-- [United States Department of Defense](/entities/org-us-department-of-defense.md) (66 mentions)
+- [United States Marine Corps](/entities/org-united-states-marine-corps.md) (68 mentions)
 
 </div>
 <div class="filter-item">
@@ -6965,17 +7040,22 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md) (54 mentions)
+
+</div>
+<div class="filter-item">
+
 - [CNN](/entities/org-cnn.md) (54 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (54 mentions)
+- [Ethos](/entities/org-ethos.md) (53 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Bureau of Alcohol, Tobacco, Firearms and Explosives](/entities/org-bureau-of-alcohol-tobacco-firearms-and-explosives.md) (52 mentions)
+- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (53 mentions)
 
 </div>
 <div class="filter-item">
@@ -6985,17 +7065,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Kikoff](/entities/org-kikoff.md) (50 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Ethos](/entities/org-ethos.md) (49 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Losee Center](/entities/org-losee-center.md) (49 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Kikoff](/entities/org-kikoff.md) (47 mentions)
 
 </div>
 <div class="filter-item">
@@ -7045,12 +7120,17 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Amazon](/entities/org-amazon.md) (41 mentions)
+- [United States Pentagon](/entities/org-united-states-pentagon.md) (43 mentions)
 
 </div>
 <div class="filter-item">
 
-- [American Israel Public Affairs Committee](/entities/org-aipac.md) (41 mentions)
+- [American Israel Public Affairs Committee](/entities/org-aipac.md) (42 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Amazon](/entities/org-amazon.md) (41 mentions)
 
 </div>
 <div class="filter-item">
@@ -7060,7 +7140,7 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Hamas](/entities/org-hamas.md) (41 mentions)
+- [Hamas](/entities/org-hamas.md) (40 mentions)
 
 </div>
 <div class="filter-item">
@@ -7070,17 +7150,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [United States Department of Justice](/entities/org-united-states-department-of-justice.md) (40 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Breitbart News](/entities/org-breitbart-news.md) (39 mentions)
-
-</div>
-<div class="filter-item">
-
-- [United States Department of Justice](/entities/org-united-states-department-of-justice.md) (39 mentions)
-
-</div>
-<div class="filter-item">
-
-- [United States Pentagon](/entities/org-united-states-pentagon.md) (39 mentions)
 
 </div>
 <div class="filter-item">
@@ -7110,6 +7185,11 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [X](/entities/org-x-platform.md) (35 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Black Lives Matter](/entities/org-black-lives-matter.md) (34 mentions)
 
 </div>
@@ -7125,7 +7205,7 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [X](/entities/org-x-platform.md) (34 mentions)
+- [United States Congress](/entities/org-united-states-congress.md) (34 mentions)
 
 </div>
 <div class="filter-item">
@@ -7135,12 +7215,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [United States Congress](/entities/org-united-states-congress.md) (33 mentions)
+- [United States Navy](/entities/org-united-states-navy.md) (33 mentions)
 
 </div>
 <div class="filter-item">
 
-- [United States Navy](/entities/org-united-states-navy.md) (33 mentions)
+- [United States Secret Service](/entities/org-united-states-secret-service.md) (33 mentions)
 
 </div>
 <div class="filter-item">
@@ -7155,22 +7235,17 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Better Business Bureau](/entities/org-better-business-bureau.md) (30 mentions)
+
+</div>
+<div class="filter-item">
+
 - [fatty15](/entities/org-fatty15.md) (30 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Salem Media Group](/entities/org-salem-media-group.md) (30 mentions)
-
-</div>
-<div class="filter-item">
-
-- [United States Secret Service](/entities/org-united-states-secret-service.md) (30 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Beekeeper's Naturals](/entities/org-beekeepers-naturals.md) (29 mentions)
 
 </div>
 <div class="filter-item">
@@ -7185,7 +7260,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Better Business Bureau](/entities/org-better-business-bureau.md) (28 mentions)
+- [Zoom Communications](/entities/org-zoom-communications.md) (29 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Beekeeper's Naturals](/entities/org-beekeepers-naturals.md) (28 mentions)
 
 </div>
 <div class="filter-item">
@@ -7200,17 +7280,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Wikipedia](/entities/org-wikipedia.md) (28 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Field of Greens](/entities/org-field-of-greens.md) (26 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Wikipedia](/entities/org-wikipedia.md) (26 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Zoom Communications](/entities/org-zoom-communications.md) (26 mentions)
 
 </div>
 <div class="filter-item">
@@ -7230,12 +7305,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [CBS News](/entities/org-cbs-news.md) (24 mentions)
+- [New York Post](/entities/org-new-york-post.md) (24 mentions)
 
 </div>
 <div class="filter-item">
 
-- [New York Post](/entities/org-new-york-post.md) (24 mentions)
+- [Republican Party](/entities/org-republican-party.md) (24 mentions)
 
 </div>
 <div class="filter-item">
@@ -7245,12 +7320,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [LinkedIn](/entities/org-linkedin.md) (23 mentions)
+- [CBS News](/entities/org-cbs-news.md) (23 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Republican Party](/entities/org-republican-party.md) (23 mentions)
+- [LinkedIn](/entities/org-linkedin.md) (23 mentions)
 
 </div>
 <div class="filter-item">
@@ -7271,11 +7346,6 @@ _998 organizations sorted by most mentioned_
 <div class="filter-item">
 
 - [the federal government](/entities/org-the-federal-government.md) (21 mentions)
-
-</div>
-<div class="filter-item">
-
-- [United States Department of Homeland Security](/entities/org-us-department-homeland-security.md) (21 mentions)
 
 </div>
 <div class="filter-item">
@@ -7301,6 +7371,11 @@ _998 organizations sorted by most mentioned_
 <div class="filter-item">
 
 - [Trustpilot](/entities/org-trustpilot.md) (20 mentions)
+
+</div>
+<div class="filter-item">
+
+- [United States Department of Homeland Security](/entities/org-us-department-homeland-security.md) (20 mentions)
 
 </div>
 <div class="filter-item">
@@ -7365,7 +7440,17 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Miss Arizona USA](/entities/org-miss-arizona-usa.md) (17 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Satys](/entities/org-satys.md) (17 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Uber Technologies](/entities/org-uber-technologies.md) (17 mentions)
 
 </div>
 <div class="filter-item">
@@ -7435,6 +7520,11 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [America's Warrior Partnership](/entities/org-americas-warrior-partnership.md) (14 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Apple](/entities/org-apple.md) (14 mentions)
 
 </div>
@@ -7450,12 +7540,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Miss Arizona USA](/entities/org-miss-arizona-usa.md) (14 mentions)
+- [Perplexity](/entities/org-perplexity.md) (14 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Perplexity](/entities/org-perplexity.md) (14 mentions)
+- [U.S. Department of Veterans Affairs](/entities/org-us-department-of-veterans-affairs.md) (14 mentions)
 
 </div>
 <div class="filter-item">
@@ -7505,27 +7595,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [U.S. Department of Veterans Affairs](/entities/org-us-department-of-veterans-affairs.md) (13 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Uber Technologies](/entities/org-uber-technologies.md) (13 mentions)
-
-</div>
-<div class="filter-item">
-
 - [United States Army Special Forces](/entities/org-us-army-special-forces.md) (13 mentions)
 
 </div>
 <div class="filter-item">
 
 - [ZeroGhost](/entities/org-zeroghost.md) (13 mentions)
-
-</div>
-<div class="filter-item">
-
-- [America's Warrior Partnership](/entities/org-americas-warrior-partnership.md) (12 mentions)
 
 </div>
 <div class="filter-item">
@@ -7655,11 +7730,6 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [HBO](/entities/org-hbo.md) (10 mentions)
-
-</div>
-<div class="filter-item">
-
 - [KAIROS Company](/entities/org-kairos-company.md) (10 mentions)
 
 </div>
@@ -7675,17 +7745,7 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Temple of Set](/entities/org-temple-of-set.md) (10 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Alliance Defending Freedom](/entities/org-alliance-defending-freedom.md) (9 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Church of Satan](/entities/org-church-of-satan.md) (9 mentions)
 
 </div>
 <div class="filter-item">
@@ -7705,6 +7765,16 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [HBO](/entities/org-hbo.md) (9 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Hezbollah](/entities/org-hezbollah.md) (9 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Likud](/entities/org-likud.md) (9 mentions)
 
 </div>
@@ -7720,7 +7790,7 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Stanford University](/entities/org-stanford-university.md) (9 mentions)
+- [Temple of Set](/entities/org-temple-of-set.md) (9 mentions)
 
 </div>
 <div class="filter-item">
@@ -7766,6 +7836,11 @@ _998 organizations sorted by most mentioned_
 <div class="filter-item">
 
 - [CDC](/entities/org-cdc.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Church of Satan](/entities/org-church-of-satan.md) (8 mentions)
 
 </div>
 <div class="filter-item">
@@ -7830,6 +7905,11 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Stanford University](/entities/org-stanford-university.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
 - [The Babylon Bee](/entities/org-babylon-bee.md) (8 mentions)
 
 </div>
@@ -7855,6 +7935,11 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [United States Senate](/entities/org-us-senate.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Universal Studios](/entities/org-universal-studios.md) (8 mentions)
 
 </div>
@@ -7866,6 +7951,11 @@ _998 organizations sorted by most mentioned_
 <div class="filter-item">
 
 - [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Air Force Two](/entities/org-air-force-two.md) (7 mentions)
 
 </div>
 <div class="filter-item">
@@ -7980,11 +8070,6 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [United States Senate](/entities/org-us-senate.md) (7 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Victoria's Secret](/entities/org-victorias-secret.md) (7 mentions)
 
 </div>
@@ -8001,11 +8086,6 @@ _998 organizations sorted by most mentioned_
 <div class="filter-item">
 
 - [23andMe](/entities/org-23andme.md) (6 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Air Force Two](/entities/org-air-force-two.md) (6 mentions)
 
 </div>
 <div class="filter-item">
@@ -8315,11 +8395,6 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Palantir Technologies](/entities/org-palantir-technologies.md) (5 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Raytheon](/entities/org-raytheon.md) (5 mentions)
 
 </div>
@@ -8470,17 +8545,17 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Gold Apollo Co., Ltd.](/entities/org-gold-apollo.md) (4 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Good Samaritan Hospital (Cincinnati)](/entities/org-good-samaritan-hospital-cincinnati.md) (4 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Green Bay Packers](/entities/org-green-bay-packers.md) (4 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Hezbollah](/entities/org-hezbollah.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -8525,12 +8600,22 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Palantir Technologies](/entities/org-palantir-technologies.md) (4 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Paramount](/entities/org-paramount.md) (4 mentions)
 
 </div>
 <div class="filter-item">
 
 - [People's Will](/entities/org-peoples-will.md) (4 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Quest Academy](/entities/org-quest-academy-palatine.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -8770,11 +8855,6 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Haganah](/entities/org-haganah.md) (3 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Havas Media Germany GmbH](/entities/org-havas-media-germany.md) (3 mentions)
 
 </div>
@@ -8821,6 +8901,11 @@ _998 organizations sorted by most mentioned_
 <div class="filter-item">
 
 - [Los Angeles Lakers](/entities/org-los-angeles-lakers.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Loyola Marymount University](/entities/org-loyola-marymount-university.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -9310,7 +9395,7 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Gold Apollo Co., Ltd.](/entities/org-gold-apollo.md) (2 mentions)
+- [Haganah](/entities/org-haganah.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -9580,7 +9665,7 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Quest Academy](/entities/org-quest-academy-palatine.md) (2 mentions)
+- [Reuters](/entities/org-reuters.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -9675,6 +9760,11 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [SureFire Wireline LLC](/entities/org-surefire-wireline.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
 - [T-Mobile US](/entities/org-t-mobile-us.md) (2 mentions)
 
 </div>
@@ -9701,6 +9791,11 @@ _998 organizations sorted by most mentioned_
 <div class="filter-item">
 
 - [The Guardian](/entities/org-the-guardian.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [The Home Depot](/entities/org-the-home-depot.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -10200,6 +10295,11 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Calvin Klein](/entities/org-calvin-klein.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Candace Clips](/entities/org-candace-clips.md) (1 mention)
 
 </div>
@@ -10550,6 +10650,11 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Generation Seven Farms, LLC](/entities/org-generation-seven-farms.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Gilbert High School](/entities/org-gilbert-high-school.md) (1 mention)
 
 </div>
@@ -10725,6 +10830,11 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Kids2Families](/entities/org-kids2families.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [King School](/entities/org-king-school-stamford.md) (1 mention)
 
 </div>
@@ -10810,12 +10920,12 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Loyola Marymount University](/entities/org-loyola-marymount-university.md) (1 mention)
+- [Luftwaffe](/entities/org-luftwaffe.md) (1 mention)
 
 </div>
 <div class="filter-item">
 
-- [Luftwaffe](/entities/org-luftwaffe.md) (1 mention)
+- [Macmillan Publishers](/entities/org-macmillan-publishers.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -10846,6 +10956,11 @@ _998 organizations sorted by most mentioned_
 <div class="filter-item">
 
 - [Marvel Entertainment](/entities/org-marvel-entertainment.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Master Books](/entities/org-master-books.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -11410,6 +11525,11 @@ _998 organizations sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [The CW Network](/entities/org-the-cw-network.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [The Dalton School](/entities/org-dalton-school.md) (1 mention)
 
 </div>
@@ -11426,11 +11546,6 @@ _998 organizations sorted by most mentioned_
 <div class="filter-item">
 
 - [The Hollywood Reporter](/entities/org-the-hollywood-reporter.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
-- [The Home Depot](/entities/org-the-home-depot.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -11793,26 +11908,26 @@ _998 organizations sorted by most mentioned_
 
 <div class="tab-content tab-content-gpe">
 
-_480 places sorted by most mentioned_
+_482 places sorted by most mentioned_
 
 <div class="filter-item">
 
-- [United States](/entities/gpe-united-states.md) (1893 mentions)
+- [United States](/entities/gpe-united-states.md) (1874 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Israel](/entities/gpe-israel.md) (1565 mentions)
+- [Israel](/entities/gpe-israel.md) (1599 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Utah](/entities/gpe-utah.md) (392 mentions)
+- [Utah](/entities/gpe-utah.md) (394 mentions)
 
 </div>
 <div class="filter-item">
 
-- [France](/entities/gpe-france.md) (354 mentions)
+- [France](/entities/gpe-france.md) (357 mentions)
 
 </div>
 <div class="filter-item">
@@ -11827,17 +11942,17 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Egypt](/entities/gpe-egypt.md) (245 mentions)
+- [Egypt](/entities/gpe-egypt.md) (244 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Fort Huachuca](/entities/gpe-fort-huachuca.md) (240 mentions)
+- [Fort Huachuca](/entities/gpe-fort-huachuca.md) (239 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Russia](/entities/gpe-russia.md) (205 mentions)
+- [Russia](/entities/gpe-russia.md) (208 mentions)
 
 </div>
 <div class="filter-item">
@@ -11847,12 +11962,12 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Romania](/entities/gpe-romania.md) (151 mentions)
+- [New York](/entities/gpe-new-york.md) (151 mentions)
 
 </div>
 <div class="filter-item">
 
-- [New York](/entities/gpe-new-york.md) (149 mentions)
+- [Romania](/entities/gpe-romania.md) (151 mentions)
 
 </div>
 <div class="filter-item">
@@ -11862,7 +11977,7 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Hollywood](/entities/gpe-hollywood.md) (120 mentions)
+- [Hollywood](/entities/gpe-hollywood.md) (119 mentions)
 
 </div>
 <div class="filter-item">
@@ -11887,17 +12002,12 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Washington, D.C.](/entities/gpe-washington-d-c.md) (84 mentions)
+- [Washington, D.C.](/entities/gpe-washington-d-c.md) (86 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Ukraine](/entities/gpe-ukraine.md) (80 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Palestine](/entities/gpe-palestine.md) (78 mentions)
+- [Ukraine](/entities/gpe-ukraine.md) (79 mentions)
 
 </div>
 <div class="filter-item">
@@ -11907,7 +12017,12 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md) (74 mentions)
+- [Palestine](/entities/gpe-palestine.md) (75 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Las Vegas, Nevada](/entities/gpe-las-vegas-nevada.md) (73 mentions)
 
 </div>
 <div class="filter-item">
@@ -11922,17 +12037,17 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Salt Lake City](/entities/gpe-salt-lake-city.md) (60 mentions)
+
+</div>
+<div class="filter-item">
+
 - [California](/entities/gpe-california.md) (58 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Salt Lake City](/entities/gpe-salt-lake-city.md) (58 mentions)
-
-</div>
-<div class="filter-item">
-
-- [China](/entities/gpe-china.md) (56 mentions)
+- [China](/entities/gpe-china.md) (55 mentions)
 
 </div>
 <div class="filter-item">
@@ -11947,17 +12062,22 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Aspen, Colorado](/entities/gpe-aspen-colorado.md) (51 mentions)
+- [Aspen, Colorado](/entities/gpe-aspen-colorado.md) (50 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Australia](/entities/gpe-australia.md) (51 mentions)
+- [Australia](/entities/gpe-australia.md) (50 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Europe](/entities/gpe-europe.md) (48 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md) (45 mentions)
 
 </div>
 <div class="filter-item">
@@ -11992,12 +12112,12 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Cairo](/entities/gpe-cairo.md) (38 mentions)
+- [Jerusalem](/entities/gpe-jerusalem.md) (39 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Jerusalem](/entities/gpe-jerusalem.md) (38 mentions)
+- [Cairo](/entities/gpe-cairo.md) (38 mentions)
 
 </div>
 <div class="filter-item">
@@ -12012,17 +12132,17 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md) (37 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Germany](/entities/gpe-germany.md) (33 mentions)
 
 </div>
 <div class="filter-item">
 
 - [London](/entities/gpe-london.md) (32 mentions)
+
+</div>
+<div class="filter-item">
+
+- [The Hamptons](/entities/gpe-the-hamptons.md) (31 mentions)
 
 </div>
 <div class="filter-item">
@@ -12042,11 +12162,6 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [The Hamptons](/entities/gpe-the-hamptons.md) (29 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Tennessee](/entities/gpe-tennessee.md) (28 mentions)
 
 </div>
@@ -12057,7 +12172,22 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Afghanistan](/entities/gpe-afghanistan.md) (25 mentions)
+- [Afghanistan](/entities/gpe-afghanistan.md) (26 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Japan](/entities/gpe-japan.md) (25 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Lebanon](/entities/gpe-lebanon.md) (25 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Los Angeles](/entities/gpe-los-angeles.md) (25 mentions)
 
 </div>
 <div class="filter-item">
@@ -12077,22 +12207,7 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Los Angeles](/entities/gpe-los-angeles.md) (24 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Georgia](/entities/gpe-georgia-us-state.md) (23 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Japan](/entities/gpe-japan.md) (23 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Lebanon](/entities/gpe-lebanon.md) (23 mentions)
 
 </div>
 <div class="filter-item">
@@ -12132,17 +12247,17 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Syria](/entities/gpe-syria.md) (22 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Virginia](/entities/gpe-virginia.md) (22 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Lincoln](/entities/gpe-lincoln.md) (21 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Syria](/entities/gpe-syria.md) (21 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Virginia](/entities/gpe-virginia.md) (21 mentions)
 
 </div>
 <div class="filter-item">
@@ -12192,6 +12307,11 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Maine](/entities/gpe-maine.md) (18 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Miami](/entities/gpe-miami.md) (18 mentions)
 
 </div>
@@ -12218,11 +12338,6 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Connecticut](/entities/gpe-connecticut.md) (16 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Maine](/entities/gpe-maine.md) (16 mentions)
 
 </div>
 <div class="filter-item">
@@ -12262,12 +12377,17 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Tel Aviv](/entities/gpe-tel-aviv.md) (15 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Black Sea](/entities/gpe-black-sea.md) (14 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Tel Aviv](/entities/gpe-tel-aviv.md) (14 mentions)
+- [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md) (14 mentions)
 
 </div>
 <div class="filter-item">
@@ -12278,11 +12398,6 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Chicago](/entities/gpe-chicago.md) (13 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Cincinnati, Ohio](/entities/gpe-cincinnati-ohio.md) (13 mentions)
 
 </div>
 <div class="filter-item">
@@ -12327,6 +12442,11 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Earth](/entities/gpe-earth.md) (11 mentions)
+
+</div>
+<div class="filter-item">
+
 - [England](/entities/gpe-england.md) (11 mentions)
 
 </div>
@@ -12347,12 +12467,17 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Paris](/entities/gpe-paris-france.md) (11 mentions)
+- [Pennsylvania](/entities/gpe-pennsylvania.md) (11 mentions)
 
 </div>
 <div class="filter-item">
 
 - [San Bernardino](/entities/gpe-san-bernardino.md) (11 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Saudi Arabia](/entities/gpe-saudi-arabia.md) (11 mentions)
 
 </div>
 <div class="filter-item">
@@ -12377,7 +12502,7 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Earth](/entities/gpe-earth.md) (10 mentions)
+- [Ireland](/entities/gpe-ireland.md) (10 mentions)
 
 </div>
 <div class="filter-item">
@@ -12402,17 +12527,12 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Saudi Arabia](/entities/gpe-saudi-arabia.md) (10 mentions)
+- [Paris](/entities/gpe-paris-france.md) (10 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Hawaii](/entities/gpe-hawaii.md) (9 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Ireland](/entities/gpe-ireland.md) (9 mentions)
 
 </div>
 <div class="filter-item">
@@ -12497,6 +12617,11 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Morocco](/entities/gpe-morocco.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Poland](/entities/gpe-poland.md) (8 mentions)
 
 </div>
@@ -12507,12 +12632,22 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Switzerland](/entities/gpe-switzerland.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Tucson](/entities/gpe-tucson.md) (8 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Washington](/entities/gpe-washington-state.md) (8 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Aurora, Colorado](/entities/gpe-aurora-colorado.md) (7 mentions)
 
 </div>
 <div class="filter-item">
@@ -12542,22 +12677,12 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Morocco](/entities/gpe-morocco.md) (7 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Moscow](/entities/gpe-moscow.md) (7 mentions)
 
 </div>
 <div class="filter-item">
 
 - [New Jersey](/entities/gpe-new-jersey.md) (7 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Pennsylvania](/entities/gpe-pennsylvania.md) (7 mentions)
 
 </div>
 <div class="filter-item">
@@ -12573,6 +12698,11 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Warner Valley](/entities/gpe-warner-valley.md) (7 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Zion Gate](/entities/gpe-zion-gate.md) (7 mentions)
 
 </div>
 <div class="filter-item">
@@ -12598,6 +12728,11 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Bosnia and Herzegovina](/entities/gpe-bosnia-and-herzegovina.md) (6 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Brooklyn, New York](/entities/gpe-brooklyn-new-york.md) (6 mentions)
 
 </div>
 <div class="filter-item">
@@ -12652,11 +12787,6 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Switzerland](/entities/gpe-switzerland.md) (6 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Washington, D.C.](/entities/gpe-washington-dc.md) (6 mentions)
 
 </div>
@@ -12678,11 +12808,6 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Argentina](/entities/gpe-argentina.md) (5 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Aurora, Colorado](/entities/gpe-aurora-colorado.md) (5 mentions)
 
 </div>
 <div class="filter-item">
@@ -12752,12 +12877,12 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Atlanta, Georgia](/entities/gpe-atlanta-georgia.md) (4 mentions)
+- [Vietnam](/entities/gpe-vietnam.md) (5 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Brooklyn, New York](/entities/gpe-brooklyn-new-york.md) (4 mentions)
+- [Atlanta, Georgia](/entities/gpe-atlanta-georgia.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -12837,16 +12962,6 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Toronto](/entities/gpe-toronto.md) (4 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Vietnam](/entities/gpe-vietnam.md) (4 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Wichita](/entities/gpe-wichita.md) (4 mentions)
 
 </div>
@@ -12878,6 +12993,11 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Boston, Massachusetts](/entities/gpe-boston-massachusetts.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Britain](/entities/gpe-britain.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -12977,6 +13097,11 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Richmond, Virginia](/entities/gpe-richmond-virginia.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
 - [San Diego, California](/entities/gpe-san-diego.md) (3 mentions)
 
 </div>
@@ -12992,11 +13117,6 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Seattle, Washington](/entities/gpe-seattle-washington.md) (3 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Somalia](/entities/gpe-somalia.md) (3 mentions)
 
 </div>
@@ -13008,6 +13128,11 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Tokyo, Japan](/entities/gpe-tokyo-japan.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Toronto](/entities/gpe-toronto.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -13033,6 +13158,11 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [33 Thomas Street](/entities/gpe-33-thomas-street.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [9 East 71st Street](/entities/gpe-9-east-71st-street.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -13088,11 +13218,6 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Brentwood](/entities/gpe-brentwood.md) (2 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Britain](/entities/gpe-britain.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -13202,6 +13327,11 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Minneapolis](/entities/gpe-minneapolis.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Myanmar](/entities/gpe-myanmar.md) (2 mentions)
 
 </div>
@@ -13287,11 +13417,6 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Richmond, Virginia](/entities/gpe-richmond-virginia.md) (2 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Rio de Janeiro](/entities/gpe-rio-de-janeiro.md) (2 mentions)
 
 </div>
@@ -13308,6 +13433,11 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Sazan Island](/entities/gpe-sazan-island.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Seattle, Washington](/entities/gpe-seattle-washington.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -13333,6 +13463,11 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Strait of Gibraltar](/entities/gpe-strait-of-gibraltar.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Taiwan](/entities/gpe-taiwan.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -13388,11 +13523,6 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [301 East 66th Street](/entities/gpe-301-east-66th-street.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
-- [9 East 71st Street](/entities/gpe-9-east-71st-street.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -13747,6 +13877,11 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Kittanning, Pennsylvania](/entities/gpe-kittanning-pennsylvania.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Langley, Virginia](/entities/gpe-langley-virginia.md) (1 mention)
 
 </div>
@@ -13843,11 +13978,6 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Minab](/entities/gpe-minab.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
-- [Minneapolis](/entities/gpe-minneapolis.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -14067,6 +14197,11 @@ _480 places sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Stonehenge](/entities/gpe-stonehenge.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Strait of Malacca](/entities/gpe-strait-of-malacca.md) (1 mention)
 
 </div>
@@ -14078,11 +14213,6 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [São Paulo](/entities/gpe-sao-paulo.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
-- [Taiwan](/entities/gpe-taiwan.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -14178,11 +14308,6 @@ _480 places sorted by most mentioned_
 <div class="filter-item">
 
 - [Yugoslavia](/entities/gpe-yugoslavia.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
-- [Zion Gate](/entities/gpe-zion-gate.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -14314,11 +14439,6 @@ _50 events sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Lavon Affair](/entities/event-lavon-affair.md) (3 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Moon landing](/entities/event-moon-landing.md) (3 mentions)
 
 </div>
@@ -14364,6 +14484,11 @@ _50 events sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Lavon Affair](/entities/event-lavon-affair.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Oklahoma City bombing](/entities/event-oklahoma-city-bombing.md) (2 mentions)
 
 </div>
@@ -14385,6 +14510,11 @@ _50 events sorted by most mentioned_
 <div class="filter-item">
 
 - [Parkland](/entities/event-parkland.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Super Bowl LX](/entities/event-super-bowl-lx.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -14434,11 +14564,6 @@ _50 events sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Super Bowl LX](/entities/event-super-bowl-lx.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
 - [The Believers' Summit](/entities/event-believers-summit.md) (1 mention)
 
 </div>
@@ -14457,36 +14582,36 @@ _50 events sorted by most mentioned_
 
 <div class="tab-content tab-content-concept">
 
-_273 concepts sorted by most mentioned_
+_274 concepts sorted by most mentioned_
 
 <div class="filter-item">
 
-- [God](/entities/concept-god.md) (548 mentions)
+- [God](/entities/concept-god.md) (551 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Zionism](/entities/concept-zionism.md) (342 mentions)
+- [Zionism](/entities/concept-zionism.md) (343 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Christianity](/entities/concept-christianity.md) (251 mentions)
+- [Christianity](/entities/concept-christianity.md) (247 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Catholicism](/entities/concept-catholicism.md) (234 mentions)
+- [Catholicism](/entities/concept-catholicism.md) (231 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Artificial intelligence](/entities/concept-artificial-intelligence.md) (161 mentions)
+- [Artificial intelligence](/entities/concept-artificial-intelligence.md) (159 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Judaism](/entities/concept-judaism.md) (158 mentions)
+- [Judaism](/entities/concept-judaism.md) (156 mentions)
 
 </div>
 <div class="filter-item">
@@ -14496,12 +14621,12 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Antisemitism](/entities/concept-antisemitism.md) (122 mentions)
+- [Antisemitism](/entities/concept-antisemitism.md) (123 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Christians](/entities/concept-christians.md) (115 mentions)
+- [Christians](/entities/concept-christians.md) (113 mentions)
 
 </div>
 <div class="filter-item">
@@ -14511,7 +14636,12 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md) (71 mentions)
+- [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md) (73 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Satan](/entities/concept-satan.md) (70 mentions)
 
 </div>
 <div class="filter-item">
@@ -14521,17 +14651,12 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Satan](/entities/concept-satan.md) (68 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Freemasonry](/entities/concept-freemasonry.md) (61 mentions)
 
 </div>
 <div class="filter-item">
 
-- [Islam](/entities/concept-islam.md) (56 mentions)
+- [Islam](/entities/concept-islam.md) (55 mentions)
 
 </div>
 <div class="filter-item">
@@ -14551,12 +14676,12 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Individual Retirement Arrangement](/entities/concept-individual-retirement-arrangement.md) (43 mentions)
+- [MKUltra](/entities/concept-mkultra.md) (44 mentions)
 
 </div>
 <div class="filter-item">
 
-- [MKUltra](/entities/concept-mkultra.md) (43 mentions)
+- [Individual Retirement Arrangement](/entities/concept-individual-retirement-arrangement.md) (43 mentions)
 
 </div>
 <div class="filter-item">
@@ -14596,6 +14721,11 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [PETN](/entities/concept-petn.md) (28 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Feminism](/entities/concept-feminism.md) (27 mentions)
 
 </div>
@@ -14611,6 +14741,11 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Jewish people](/entities/concept-jewish-people.md) (24 mentions)
+
+</div>
+<div class="filter-item">
+
 - [LGBTQ](/entities/concept-lgbtq.md) (24 mentions)
 
 </div>
@@ -14621,17 +14756,17 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Goyim](/entities/concept-goyim.md) (22 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Palestinians](/entities/concept-palestinians.md) (22 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Pentadecanoic acid](/entities/concept-pentadecanoic-acid.md) (22 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Jewish people](/entities/concept-jewish-people.md) (21 mentions)
 
 </div>
 <div class="filter-item">
@@ -14666,7 +14801,12 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Bolsheviks](/entities/concept-bolsheviks.md) (15 mentions)
+- [Bolsheviks](/entities/concept-bolsheviks.md) (16 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Anti-Israel sentiment](/entities/concept-anti-israel-sentiment.md) (15 mentions)
 
 </div>
 <div class="filter-item">
@@ -14686,6 +14826,11 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Christian Zionism](/entities/concept-christian-zionism.md) (14 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Cryptocurrency](/entities/concept-cryptocurrency.md) (14 mentions)
 
 </div>
@@ -14697,11 +14842,6 @@ _273 concepts sorted by most mentioned_
 <div class="filter-item">
 
 - [Furry fandom](/entities/concept-furry-fandom.md) (14 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Goyim](/entities/concept-goyim.md) (14 mentions)
 
 </div>
 <div class="filter-item">
@@ -14721,17 +14861,7 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [PETN](/entities/concept-petn.md) (11 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Pornography](/entities/concept-pornography.md) (11 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Christian Zionism](/entities/concept-christian-zionism.md) (10 mentions)
 
 </div>
 <div class="filter-item">
@@ -14836,11 +14966,6 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Never Trump movement](/entities/concept-never-trump-movement.md) (8 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Operation Mocking Pastor](/entities/concept-operation-mocking-pastor.md) (8 mentions)
 
 </div>
@@ -14856,7 +14981,7 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Anti-Israel sentiment](/entities/concept-anti-israel-sentiment.md) (7 mentions)
+- [Angus cattle](/entities/concept-angus-cattle.md) (7 mentions)
 
 </div>
 <div class="filter-item">
@@ -14896,17 +15021,22 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [LGBT](/entities/concept-lgbt.md) (7 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Moon Inc.](/entities/concept-moon-inc.md) (7 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Mormon Mafia](/entities/concept-mormon-mafia.md) (7 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Native American peoples](/entities/concept-native-american-peoples.md) (7 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Never Trump movement](/entities/concept-never-trump-movement.md) (7 mentions)
 
 </div>
 <div class="filter-item">
@@ -14952,6 +15082,11 @@ _273 concepts sorted by most mentioned_
 <div class="filter-item">
 
 - [Initial public offering](/entities/concept-initial-public-offering.md) (6 mentions)
+
+</div>
+<div class="filter-item">
+
+- [LGBT](/entities/concept-lgbt.md) (6 mentions)
 
 </div>
 <div class="filter-item">
@@ -15046,17 +15181,17 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Tower of Babel](/entities/concept-tower-of-babel.md) (5 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Year 2000 problem](/entities/concept-y2k-problem.md) (5 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Acrylonitrile Butadiene Styrene](/entities/concept-acrylonitrile-butadiene-styrene.md) (4 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Angus cattle](/entities/concept-angus-cattle.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -15092,6 +15227,11 @@ _273 concepts sorted by most mentioned_
 <div class="filter-item">
 
 - [Federal Firearms License](/entities/concept-federal-firearms-license.md) (4 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Generation Z](/entities/concept-generation-z.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -15136,17 +15276,7 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Propolis](/entities/concept-propolis.md) (4 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Third eye](/entities/concept-third-eye.md) (4 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Tower of Babel](/entities/concept-tower-of-babel.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -15186,7 +15316,7 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Generation Z](/entities/concept-generation-z.md) (3 mentions)
+- [Hasbara](/entities/concept-hasbara.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -15222,6 +15352,11 @@ _273 concepts sorted by most mentioned_
 <div class="filter-item">
 
 - [Orthodox Christianity](/entities/concept-orthodox-christianity.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Propolis](/entities/concept-propolis.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -15331,11 +15466,6 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Hasbara](/entities/concept-hasbara.md) (2 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Hasidic Judaism](/entities/concept-hasidic-judaism.md) (2 mentions)
 
 </div>
@@ -15381,7 +15511,7 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Native American peoples](/entities/concept-native-american-peoples.md) (2 mentions)
+- [Ninth Commandment](/entities/concept-ninth-commandment.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -15691,11 +15821,6 @@ _273 concepts sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Ninth Commandment](/entities/concept-ninth-commandment.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
 - [Operation Warp Widow](/entities/concept-operation-warp-widow.md) (1 mention)
 
 </div>
@@ -15742,6 +15867,11 @@ _273 concepts sorted by most mentioned_
 <div class="filter-item">
 
 - [Renaissance](/entities/concept-renaissance.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Rephan](/entities/concept-rephan.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -16208,7 +16338,7 @@ _17 vehicles sorted by most mentioned_
 
 <div class="tab-content tab-content-work">
 
-_285 works & medias sorted by most mentioned_
+_288 works & medias sorted by most mentioned_
 
 <div class="filter-item">
 
@@ -16222,12 +16352,12 @@ _285 works & medias sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [SMART Equity Loan](/entities/work-smart-equity-loan.md) (85 mentions)
+- [SMART Equity Loan](/entities/work-smart-equity-loan.md) (84 mentions)
 
 </div>
 <div class="filter-item">
 
-- [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md) (51 mentions)
+- [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md) (54 mentions)
 
 </div>
 <div class="filter-item">
@@ -16247,7 +16377,7 @@ _285 works & medias sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [The Matrix](/entities/work-the-matrix.md) (26 mentions)
+- [The Matrix](/entities/work-the-matrix.md) (25 mentions)
 
 </div>
 <div class="filter-item">
@@ -16262,17 +16392,17 @@ _285 works & medias sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [The Truman Show](/entities/work-the-truman-show.md) (18 mentions)
+
+</div>
+<div class="filter-item">
+
 - [MasterPeace](/entities/work-masterpeace-detox.md) (16 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Good Morning America](/entities/work-good-morning-america.md) (15 mentions)
-
-</div>
-<div class="filter-item">
-
-- [The Truman Show](/entities/work-the-truman-show.md) (15 mentions)
 
 </div>
 <div class="filter-item">
@@ -16377,17 +16507,17 @@ _285 works & medias sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Book of Genesis](/entities/work-book-of-genesis.md) (6 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Game of Thrones](/entities/work-game-of-thrones.md) (6 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Harry Potter](/entities/work-harry-potter.md) (6 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Hollywood Babylon](/entities/work-hollywood-babylon.md) (6 mentions)
 
 </div>
 <div class="filter-item">
@@ -16442,6 +16572,11 @@ _285 works & medias sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Hollywood Babylon](/entities/work-hollywood-babylon.md) (5 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Sigmund Freud and the Jewish Mystical Tradition](/entities/work-sigmund-freud-and-the-jewish-mystical-tradition.md) (5 mentions)
 
 </div>
@@ -16463,11 +16598,6 @@ _285 works & medias sorted by most mentioned_
 <div class="filter-item">
 
 - [Wayback Machine](/entities/work-wayback-machine.md) (5 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Book of Genesis](/entities/work-book-of-genesis.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -16527,12 +16657,22 @@ _285 works & medias sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [60 Minutes](/entities/work-60-minutes.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Are You With Me?](/entities/work-are-you-with-me-kouri-richins.md) (3 mentions)
 
 </div>
 <div class="filter-item">
 
 - [ARMRA Colostrum](/entities/work-armra-colostrum.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Belly of the Beast](/entities/work-belly-of-the-beast-tour.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -16678,11 +16818,6 @@ _285 works & medias sorted by most mentioned_
 <div class="filter-item">
 
 - [Bad Hasbara](/entities/work-bad-hasbara.md) (2 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Belly of the Beast](/entities/work-belly-of-the-beast-tour.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -16912,17 +17047,17 @@ _285 works & medias sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [60 Minutes](/entities/work-60-minutes.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
 - [A Grief Observed](/entities/work-a-grief-observed.md) (1 mention)
 
 </div>
 <div class="filter-item">
 
 - [A Shot in the Dark](/entities/work-a-shot-in-the-dark.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Acts of the Apostles](/entities/work-acts-of-the-apostles.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -16977,7 +17112,17 @@ _285 works & medias sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Book of Obadiah](/entities/work-book-of-obadiah.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Book of Proverbs](/entities/work-book-of-proverbs.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Book of Zechariah](/entities/work-book-of-zechariah.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -17644,7 +17789,7 @@ _18 laws & legislations sorted by most mentioned_
 
 <div class="filter-item">
 
-- [Freedom of Information Act](/entities/law-freedom-of-information-act.md) (50 mentions)
+- [Freedom of Information Act](/entities/law-freedom-of-information-act.md) (57 mentions)
 
 </div>
 <div class="filter-item">
@@ -17756,6 +17901,11 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Skylar (show producer; surname unverified)](/entities/anon-src-ChuWo-n49B8-skylar.md) (5 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Brittany Watson (online commenter; identity unverified)](/entities/anon-src-his-JBjlkh8-004.md) (4 mentions)
 
 </div>
@@ -17806,6 +17956,11 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Anonymous Source #2 (Ep A39g5oqB_eM)](/entities/anon-src-A39g5oqB_eM-002.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Anonymous Source #3 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-003.md) (2 mentions)
 
 </div>
@@ -17847,11 +18002,6 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [RØDE microphone shard email tipster (name unstated)](/entities/anon-src-9cuc1yf8pu-rode-email-tipster.md) (2 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Skylar (show producer; surname unverified)](/entities/anon-src-ChuWo-n49B8-skylar.md) (2 mentions)
 
 </div>
 <div class="filter-item">
@@ -17911,6 +18061,11 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Anonymous Source #1 (Ep A39g5oqB_eM)](/entities/anon-src-A39g5oqB_eM-001.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Anonymous Source #1 (Ep aPOyk1i2LOc)](/entities/anon-src-aPOyk1i2LOc-001.md) (1 mention)
 
 </div>
@@ -17921,12 +18076,22 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Anonymous Source #1 (Ep CEF7gQRWYCE)](/entities/anon-src-CEF7gQRWYCE-001.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Anonymous Source #1 (Ep CMcktj3Egfo)](/entities/anon-src-CMcktj3Egfo-001.md) (1 mention)
 
 </div>
 <div class="filter-item">
 
 - [Anonymous Source #1 (Ep d7VsbEIWkP8)](/entities/anon-src-d7VsbEIWkP8-001.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Anonymous Source #1 (Ep DYD_QHMPwqM)](/entities/anon-src-DYD_QHMPwqM-001.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -17947,6 +18112,11 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #1 (Ep i8m_6D4QGmk)](/entities/anon-src-i8m_6D4QGmk-001.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Anonymous Source #1 (Ep LKR94FQ5p3o)](/entities/anon-src-LKR94FQ5p3o-001.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -17992,6 +18162,11 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #1 (Ep X92MllIHDzw)](/entities/anon-src-X92MllIHDzw-001.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Anonymous Source #1 (Ep ZAsV0fHGBiM)](/entities/anon-src-ZAsV0fHGBiM-001.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -18101,12 +18276,22 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Anonymous Source #2 (Ep CEF7gQRWYCE)](/entities/anon-src-CEF7gQRWYCE-002.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Anonymous Source #2 (Ep CMcktj3Egfo)](/entities/anon-src-CMcktj3Egfo-002.md) (1 mention)
 
 </div>
 <div class="filter-item">
 
 - [Anonymous Source #2 (Ep d7VsbEIWkP8)](/entities/anon-src-d7VsbEIWkP8-002.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Anonymous Source #2 (Ep DYD_QHMPwqM)](/entities/anon-src-DYD_QHMPwqM-002.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -18127,6 +18312,11 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #2 (Ep HYn0P-P1wUw)](/entities/anon-src-HYn0P-P1wUw-002.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Anonymous Source #2 (Ep LKR94FQ5p3o)](/entities/anon-src-LKR94FQ5p3o-002.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -18211,6 +18401,11 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Anonymous Source #3 (Ep A39g5oqB_eM)](/entities/anon-src-A39g5oqB_eM-003.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Anonymous Source #3 (Ep aPOyk1i2LOc)](/entities/anon-src-aPOyk1i2LOc-003.md) (1 mention)
 
 </div>
@@ -18236,12 +18431,22 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Anonymous Source #3 (Ep GY6GWceEqtQ)](/entities/anon-src-GY6GWceEqtQ-003.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Anonymous Source #3 (Ep hWTdXHGQ8R4)](/entities/anon-src-hWTdXHGQ8R4-003.md) (1 mention)
 
 </div>
 <div class="filter-item">
 
 - [Anonymous Source #3 (Ep HYn0P-P1wUw)](/entities/anon-src-HYn0P-P1wUw-003.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Anonymous Source #3 (Ep LKR94FQ5p3o)](/entities/anon-src-LKR94FQ5p3o-003.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -18272,6 +18477,11 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #4 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-004.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Anonymous Source #4 (Ep A39g5oqB_eM)](/entities/anon-src-A39g5oqB_eM-004.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -18336,6 +18546,11 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Anonymous Source #5 (Ep hWTdXHGQ8R4)](/entities/anon-src-hWTdXHGQ8R4-005.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
 - [Anonymous Source #5 (Ep OEAHy3SsIiI)](/entities/anon-src-OEAHy3SsIiI-005.md) (1 mention)
 
 </div>
@@ -18367,6 +18582,11 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #6 (Ep G3zdOeHpvS0)](/entities/anon-src-G3zdOeHpvS0-006.md) (1 mention)
+
+</div>
+<div class="filter-item">
+
+- [Anonymous Source #6 (Ep hWTdXHGQ8R4)](/entities/anon-src-hWTdXHGQ8R4-006.md) (1 mention)
 
 </div>
 <div class="filter-item">
@@ -19311,11 +19531,6 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Anonymous Source #1 (Ep A39g5oqB_eM)](/entities/anon-src-A39g5oqB_eM-001.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Anonymous Source #1 (Ep aDlhjfW6hz8)](/entities/anon-src-aDlhjfW6hz8-001.md) (0 mentions)
 
 </div>
@@ -19332,11 +19547,6 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #1 (Ep c5BcKF91iec)](/entities/anon-src-c5BcKF91iec-001.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Anonymous Source #1 (Ep CEF7gQRWYCE)](/entities/anon-src-CEF7gQRWYCE-001.md) (0 mentions)
 
 </div>
 <div class="filter-item">
@@ -19362,11 +19572,6 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #1 (Ep DqGNvi36ol8)](/entities/anon-src-DqGNvi36ol8-001.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Anonymous Source #1 (Ep DYD_QHMPwqM)](/entities/anon-src-DYD_QHMPwqM-001.md) (0 mentions)
 
 </div>
 <div class="filter-item">
@@ -19432,11 +19637,6 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #1 (Ep KpxIBWkNsSs)](/entities/anon-src-KpxIBWkNsSs-001.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Anonymous Source #1 (Ep LKR94FQ5p3o)](/entities/anon-src-LKR94FQ5p3o-001.md) (0 mentions)
 
 </div>
 <div class="filter-item">
@@ -19561,11 +19761,6 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Anonymous Source #1 (Ep ZAsV0fHGBiM)](/entities/anon-src-ZAsV0fHGBiM-001.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Anonymous Source #1 (Ep ZGxnf5cj4Uw)](/entities/anon-src-ZGxnf5cj4Uw-001.md) (0 mentions)
 
 </div>
@@ -19681,22 +19876,12 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Anonymous Source #2 (Ep A39g5oqB_eM)](/entities/anon-src-A39g5oqB_eM-002.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Anonymous Source #2 (Ep aDlhjfW6hz8)](/entities/anon-src-aDlhjfW6hz8-002.md) (0 mentions)
 
 </div>
 <div class="filter-item">
 
 - [Anonymous Source #2 (Ep amqTMimDr0A)](/entities/anon-src-amqTMimDr0A-002.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Anonymous Source #2 (Ep CEF7gQRWYCE)](/entities/anon-src-CEF7gQRWYCE-002.md) (0 mentions)
 
 </div>
 <div class="filter-item">
@@ -19717,11 +19902,6 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #2 (Ep DqGNvi36ol8)](/entities/anon-src-DqGNvi36ol8-002.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Anonymous Source #2 (Ep DYD_QHMPwqM)](/entities/anon-src-DYD_QHMPwqM-002.md) (0 mentions)
 
 </div>
 <div class="filter-item">
@@ -19777,11 +19957,6 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #2 (Ep kaWtDuoY_ns)](/entities/anon-src-kaWtDuoY_ns-002.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Anonymous Source #2 (Ep LKR94FQ5p3o)](/entities/anon-src-LKR94FQ5p3o-002.md) (0 mentions)
 
 </div>
 <div class="filter-item">
@@ -19946,11 +20121,6 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Anonymous Source #3 (Ep A39g5oqB_eM)](/entities/anon-src-A39g5oqB_eM-003.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Anonymous Source #3 (Ep AH1KVKkweUE)](/entities/anon-src-AH1KVKkweUE-003.md) (0 mentions)
 
 </div>
@@ -19986,11 +20156,6 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Anonymous Source #3 (Ep GY6GWceEqtQ)](/entities/anon-src-GY6GWceEqtQ-003.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Anonymous Source #3 (Ep HZvwbfePe7o)](/entities/anon-src-HZvwbfePe7o-003.md) (0 mentions)
 
 </div>
@@ -20002,11 +20167,6 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #3 (Ep k1b1NDCrNFs)](/entities/anon-src-k1b1NDCrNFs-003.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Anonymous Source #3 (Ep LKR94FQ5p3o)](/entities/anon-src-LKR94FQ5p3o-003.md) (0 mentions)
 
 </div>
 <div class="filter-item">
@@ -20101,11 +20261,6 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Anonymous Source #4 (Ep A39g5oqB_eM)](/entities/anon-src-A39g5oqB_eM-004.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Anonymous Source #4 (Ep DEtFh2Ff-58)](/entities/anon-src-DEtFh2Ff-58-004.md) (0 mentions)
 
 </div>
@@ -20181,11 +20336,6 @@ _510 anonymous sources sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Anonymous Source #5 (Ep hWTdXHGQ8R4)](/entities/anon-src-hWTdXHGQ8R4-005.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Anonymous Source #5 (Ep k1b1NDCrNFs)](/entities/anon-src-k1b1NDCrNFs-005.md) (0 mentions)
 
 </div>
@@ -20217,11 +20367,6 @@ _510 anonymous sources sorted by most mentioned_
 <div class="filter-item">
 
 - [Anonymous Source #6 (Ep EtLHqDbxqks)](/entities/anon-src-EtLHqDbxqks-006.md) (0 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Anonymous Source #6 (Ep hWTdXHGQ8R4)](/entities/anon-src-hWTdXHGQ8R4-006.md) (0 mentions)
 
 </div>
 <div class="filter-item">

@@ -1,6 +1,6 @@
 ---
 title: "Bureau of Alcohol, Tobacco, Firearms and Explosives"
-description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 52 mentions"
+description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 54 mentions"
 id: "org-bureau-of-alcohol-tobacco-firearms-and-explosives"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00">2026-03-31 · 00:00:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09">2026-08-14 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-52" style="--pulse-height:43%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 6 mentions" title="2026-04-22 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-36-59" style="--pulse-height:8%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-08-53" style="--pulse-height:14%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-03-59" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-30-10" style="--pulse-height:43%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-11-01" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
@@ -65,6 +66,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-57) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-55-52) | 6 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-36-59) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-08-53) | 2 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-03-59) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-30-10) | 6 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-11-01) | 1 |
@@ -81,7 +83,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -170,6 +172,17 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 
 **[01:04:12](/episodes/ep-h76ZN-xXC6c.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-01-03-59)**
 > "I'm probably now very much on the ATF's list, my Google searches, like how much explosive like. I was like, these Google searches are going to, I have a lot of explaining to do."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:09:30](/episodes/ep-5NQyGuRYbU8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-08-53)**
+> "had illegally taken some explosives from his job. The ATF was apparently investigating for this, investigating him for this."
+
+**[00:09:38](/episodes/ep-5NQyGuRYbU8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-09-38)**
+> "...rtney Feith, who was a former ATF agent, confided to somebody that he had this conf..."
 
 </details>
 
@@ -351,7 +364,26 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Investigated (1)</summary>
+
+- **[Mark A. Liti](/entities/person-mark-liti.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:09:30](/episodes/ep-5NQyGuRYbU8.md#t-00-08-53): “Allegedly, Mark A. Liti had confessed to his longtime high school friend just a week before he died that he had illegally taken some explosives from his job. had illegally taken some explosives from his job. The ATF was apparently investigating for this, investigating him for this.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Mark A. Liti](/entities/person-mark-liti.md)** investigated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:09:30](/episodes/ep-5NQyGuRYbU8.md#t-00-08-53): “Allegedly, Mark A. Liti had confessed to his longtime high school friend just a week before he died that he had illegally taken some explosives from his job. had illegally taken some explosives from his job. The ATF was apparently investigating for this, investigating him for this.”
+
+</details>
 
 - **[Caitlin Oliver](/entities/person-caitlin-oliver.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -390,7 +422,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (21)</strong></summary>
+<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (22)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -409,6 +441,14 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 - [00:19:35](/episodes/ep-Vu6Y24pqhZs.md#t-00-19-16) (Claim) **Government sources supporting the Charlie Kirk investigation (Ep Vu6Y24pqhZs)** (via read message): ["An anonymous government source told Owens that the bomb dog Freya had ..."](/statements/statement-746a1ee9e61e.md)
 
 - [00:20:23](/episodes/ep-Vu6Y24pqhZs.md#t-00-19-54) (Accusation) **Candace Owens**: ["Owens alleged that Freya failed to detect a recently fired weapon in t..."](/statements/statement-d99e0355b974.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:09:30](/episodes/ep-5NQyGuRYbU8.md#t-00-08-53) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens said the ATF was apparently investigating Mark A. Liti f..."](/statements/statement-a74383a15a76.md)
+  - Also about: [Mark A. Liti](/entities/person-mark-liti.md), [PETN](/entities/concept-petn.md)
 
 </details>
 

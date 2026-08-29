@@ -21,8 +21,8 @@ _Type: People_
 Source: [Who Is Tree Paine? 5 Things to Know About Taylor Swift’s Publicist](https://www.usmagazine.com/celebrity-news/news/tree-paine-5-things-to-know-about-taylor-swifts-publicist/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#t-00-25-31">2026-01-21 · 00:25:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#t-00-25-31">2026-01-21 · 00:25:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#t-00-25-23">2026-01-21 · 00:25:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#t-00-25-23">2026-01-21 · 00:25:31</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,15 +33,15 @@ Source: [Who Is Tree Paine? 5 Things to Know About Taylor Swift’s Publicist](h
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#t-00-25-31">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#t-00-25-23">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-25-31" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-25-23" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-25-31) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-25-23) | 1 |
 
 </details>
 </section>
@@ -54,8 +54,8 @@ Source: [Who Is Tree Paine? 5 Things to Know About Taylor Swift’s Publicist](h
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:25:37](/episodes/ep-GY6GWceEqtQ.md#t-00-25-31)**
-> "and then Tree, her agent"
+**[00:25:31](/episodes/ep-GY6GWceEqtQ.md#t-00-25-23)**
+> "You got to give credit where credit is due. She's first class on the Titanic, okay? A lot of time thought it was going to sink, and then Tree (Taylor Swift's agent; surname unverified) is like, nope, cut that front off."
 
 </details>
 
@@ -70,7 +70,7 @@ Source: [Who Is Tree Paine? 5 Things to Know About Taylor Swift’s Publicist](h
 - **[Taylor Swift](/entities/person-taylor-swift.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:40](/episodes/ep-GY6GWceEqtQ.md#t-00-25-31): “Taylor ... Tree, her agent, is like, nope, cut that front off. We're going to save you.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:31](/episodes/ep-GY6GWceEqtQ.md#t-00-25-23): “You got to give credit where credit is due. She's first class on the Titanic, okay? A lot of time thought it was going to sink, and then Tree (Taylor Swift's agent; surname unverified) is like, nope, cut that front off.”
 
 </details>
 
@@ -82,7 +82,7 @@ Source: [Who Is Tree Paine? 5 Things to Know About Taylor Swift’s Publicist](h
 - **[Taylor Swift](/entities/person-taylor-swift.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:40](/episodes/ep-GY6GWceEqtQ.md#t-00-25-31): “Taylor ... Tree, her agent, is like, nope, cut that front off. We're going to save you.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:31](/episodes/ep-GY6GWceEqtQ.md#t-00-25-23): “You got to give credit where credit is due. She's first class on the Titanic, okay? A lot of time thought it was going to sink, and then Tree (Taylor Swift's agent; surname unverified) is like, nope, cut that front off.”
 
 </details>
 

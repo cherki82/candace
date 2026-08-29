@@ -1,17 +1,26 @@
 ---
 title: "Eric Weinstein"
-description: "Eric Weinstein (People) - 1 mention"
+description: "Eric Weinstein (People) - 2 mentions"
 id: "person-eric-weinstein"
 type: "PERSON"
+categories:
+  - "mathematics and public discourse"
+  - "podcasting"
 ---
 
 _Type: People_
 
+**Categories:** mathematics and public discourse, podcasting
+
+**Entity verification:** verified
+> Eric Weinstein's official biography confirms the canonical name and identifies him as a mathematician and host of The Portal podcast.
+Source: [Eric Weinstein — Official Site](https://www.eric-weinstein.com/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-eric-weinstein-t-00-11-30">2025-10-28 · 00:12:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-eric-weinstein-t-00-11-30">2025-10-28 · 00:12:02</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-eric-weinstein-t-00-34-08">2026-01-20 · 00:34:08</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -23,12 +32,14 @@ _Type: People_
 <p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-eric-weinstein-t-00-11-30">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-eric-weinstein-t-00-11-30" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-eric-weinstein-t-00-34-08" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-eric-weinstein-t-00-11-30) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-eric-weinstein-t-00-34-08) | 1 |
 
 </details>
 </section>
@@ -36,7 +47,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+
+**[00:34:08](/episodes/ep-9naMwS0kMBE.md#ent-person-eric-weinstein-t-00-34-08)**
+> "...charlie are walking there and eric weinstein was i don't remember if he was brought with kanye..."
+
+</details>
 
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
-title: "The anonymous email source was deliberately targeted in a ch..."
-description: "\"The anonymous email source was deliberately targeted in a church by Turning Point USA fundraisers because of her wealth.\" — Candace Owens"
+title: "Candace Owens accused Stacy Sheridan, acting at Erika Kirk's..."
+description: "\"Candace Owens accused Stacy Sheridan, acting at Erika Kirk's direction, of targeting the anonymous email source at church because of her wealth.\" — Candace Owens"
 statement_id: "statement-24340c165afd"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> The anonymous email source was deliberately targeted in a church by Turning Point USA fundraisers because of her wealth.
+> Candace Owens accused Stacy Sheridan, acting at Erika Kirk's direction, of targeting the anonymous email source at church because of her wealth.
 
 ## Attribution
 
@@ -31,7 +31,7 @@ type: "accusation"
 **Timestamp:** [00:29:02](/episodes/ep-Wjul6YV6izo.md#t-00-28-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1742);return false;">Play</a>
 
-> That woman was targeted in that church,
+> I knew that Stacy would have only done that if the girl who was writing me this email had a boatload of money. ... Erika told her to do that. Erika gave her permission to do that. ... That woman was targeted in that church,
 
 ## Verification
 

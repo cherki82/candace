@@ -26,7 +26,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <div><span>Episodes</span><strong>30</strong></div>
 <div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,7 +41,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40" style="--pulse-height:20%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-03" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-new-york-city-t-01-02-43" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-52-04" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-52-32" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-new-york-city-t-00-48-34" style="--pulse-height:20%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-city-t-00-17-12" style="--pulse-height:40%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-new-york-city-t-00-26-55" style="--pulse-height:60%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
@@ -76,7 +76,7 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-03) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-new-york-city-t-01-02-43) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-52-04) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-52-32) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-new-york-city-t-00-48-34) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-new-york-city-t-00-17-12) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-new-york-city-t-00-26-55) | 3 |
@@ -353,7 +353,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:52:32](/episodes/ep-GY6GWceEqtQ.md#t-00-52-04)**
+**[00:52:32](/episodes/ep-GY6GWceEqtQ.md#t-00-52-32)**
 > "I met him many moons ago and he's just like, you know, he's a good New York Jew business guy,"
 
 </details>
@@ -530,7 +530,7 @@ Source: [City of New York](https://www.nyc.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about New York City (9)</strong></summary>
+<summary><strong class="section-title">Statements about New York City (10)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>
@@ -596,6 +596,14 @@ Source: [City of New York](https://www.nyc.gov/)
 
 - [00:26:58](/episodes/ep-ti5Fxrvegno.md#t-00-26-55) (Citation) **TikTok Creator (Ep ti5Fxrvegno; name unverified)** (via quoted post): ["A USA TODAY article published shortly after Charlie Kirk's assassinati..."](/statements/statement-4e266040d14a.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [USA TODAY](/entities/org-usa-today.md), [The Corcoran Group](/entities/org-corcoran-group.md)
+
+</details>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+
+- [01:23:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) (Citation) **Bassem Youssef**: ["The New York Times published a claim that tunnels beneath Gaza were lo..."](/statements/statement-99b36b327440.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Gaza](/entities/gpe-gaza.md)
 
 </details>
 

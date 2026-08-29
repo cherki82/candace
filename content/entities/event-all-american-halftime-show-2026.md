@@ -85,7 +85,7 @@ _No relationships extracted yet._
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (8)</summary>
 
-- [00:39:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["The All-American Halftime Show was filmed weeks in advance in Fayettev..."](/statements/statement-eea485e7dbd6.md)
+- [00:39:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-53) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["The All-American Halftime Show was filmed weeks in advance in Fayettev..."](/statements/statement-eea485e7dbd6.md)
   - Also about: [Fayetteville, Georgia](/entities/gpe-fayetteville-georgia.md)
 
 - [00:39:28](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-28) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["Performers at the All-American Halftime Show did three to five takes p..."](/statements/statement-d52f602b5b67.md)

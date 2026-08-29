@@ -28,10 +28,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:16:04](/episodes/ep-QdM9jLwjwLw.md#t-00-15-32) 
+**Timestamp:** [00:16:04](/episodes/ep-QdM9jLwjwLw.md#t-00-16-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(964);return false;">Play</a>
 
-> tell you that the employees that chose to record this and the employees that are still there and upset with the manner in which people were fired are saying that they feel like they were it was like a cult like they
+> tell you that the employees that chose to record this and the employees that are still there and upset with the manner in which people were fired are saying that they feel like they were it was like a cult like they ... Knew something was off. They felt like they were being manipulated, that they were only given Erika (Erika Kirk) as this symbol of you guys need to work harder, right? ... As though Charlie (Charlie Kirk)'s wife was being used to convince employees that it is now a mandate handed to them by God to work harder, to sacrifice themselves, to work longer days because this is their new family.
 
 ## Verification
 

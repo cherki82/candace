@@ -24,7 +24,7 @@ Source: [Nicola Peltz’s Custom Valentino Couture Wedding Dress Was Like 'A Wor
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-valentino-t-00-32-53">2026-01-21 · 00:32:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-valentino-t-00-38-51">2026-01-21 · 00:39:08</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-valentino-t-00-38-49">2026-01-21 · 00:39:08</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -59,8 +59,8 @@ Source: [Nicola Peltz’s Custom Valentino Couture Wedding Dress Was Like 'A Wor
 **[00:32:53](/episodes/ep-GY6GWceEqtQ.md#ent-org-valentino-t-00-32-53)**
 > "wedding dress designed by Valentino Couture"
 
-**[00:39:08](/episodes/ep-GY6GWceEqtQ.md#ent-org-valentino-t-00-38-51)**
-> "...kola he goes on wore a custom valentino hot oh oh yeah this is a little factoid yeah so s..."
+**[00:39:08](/episodes/ep-GY6GWceEqtQ.md#ent-org-valentino-t-00-38-49)**
+> "Faint. Color me shocked. I can't believe it. She sounds like a monster. What kind of mother? Nicola—he goes on—wore a custom Valentino haute couture. Oh, yeah, this is a little factoid. Yeah, so she wore this gown. Okay, he goes on. He writes, the night before our wedding, members of my family told me that Nicola was not blood and not family."
 
 </details>
 

@@ -430,7 +430,7 @@ Source: [Fox News](https://www.foxnews.com/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:35:33](/episodes/ep-xjzb_t5Tk9o.md#ent-org-fox-news-t-00-35-23)**
+**[00:35:32](/episodes/ep-xjzb_t5Tk9o.md#ent-org-fox-news-t-00-35-23)**
 > "Fox News"
 
 </details>
@@ -438,7 +438,7 @@ Source: [Fox News](https://www.foxnews.com/)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:18:52](/episodes/ep-9naMwS0kMBE.md#ent-org-fox-news-t-00-18-46)**
+**[00:18:46](/episodes/ep-9naMwS0kMBE.md#ent-org-fox-news-t-00-18-46)**
 > "used to work for Fox News and obviously went an entirely different differen..."
 
 </details>

@@ -10,7 +10,7 @@ _Type: Anonymous Sources_
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
 <div><span>Mentions</span><strong>0</strong></div>
-<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -29,6 +29,19 @@ _No mentions recorded._
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Anonymous Source #2 (Ep 5NQyGuRYbU8) (1)</strong></summary>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:15:54](/episodes/ep-5NQyGuRYbU8.md#t-00-15-54) [✓] (Claim) ["An unnamed Mossad agent said Mossad could create layered foreign shell companies..."](/statements/statement-c13bbff36114.md)
+  - About: [Mossad](/entities/org-mossad.md), [Israel](/entities/gpe-israel.md), [60 Minutes](/entities/work-60-minutes.md)
+
+</details>
 
 </details>
 

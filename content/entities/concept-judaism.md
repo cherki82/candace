@@ -1,6 +1,6 @@
 ---
 title: "Judaism"
-description: "Judaism (Concepts) - 158 mentions"
+description: "Judaism (Concepts) - 156 mentions"
 id: "concept-judaism"
 type: "CONCEPT"
 aliases:
@@ -23,7 +23,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21">2026-01-12 · 00:22:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12">2026-08-14 · 00:28:34</a></strong></div>
 <div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>158</strong></div>
+<div><span>Mentions</span><strong>156</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,45 +32,45 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11">Candace x Bassem Youssef | Candace Ep 298</a> (24 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-judaism-t-00-02-51">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (23 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21" style="--pulse-height:13%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15" style="--pulse-height:9%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-00" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-40-49" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-23" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-17" style="--pulse-height:9%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-judaism-t-00-38-43" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-judaism-t-00-41-08" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 24 mentions" title="2026-01-29 · 24 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-judaism-t-00-02-51" style="--pulse-height:96%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 23 mentions" title="2026-02-02 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-judaism-t-00-41-08" style="--pulse-height:9%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11" style="--pulse-height:96%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 22 mentions" title="2026-01-29 · 22 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-judaism-t-00-02-51" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 23 mentions" title="2026-02-02 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-judaism-t-00-50-37" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#t-00-25-24" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-concept-judaism-t-00-40-11" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-judaism-t-00-06-20" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-judaism-t-00-29-58" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-12-10" style="--pulse-height:29%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 7 mentions" title="2026-02-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-concept-judaism-t-00-40-11" style="--pulse-height:9%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-concept-judaism-t-00-06-20" style="--pulse-height:9%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-judaism-t-00-29-58" style="--pulse-height:9%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-judaism-t-00-12-10" style="--pulse-height:30%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 7 mentions" title="2026-02-25 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-judaism-t-00-05-15" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-judaism-t-00-29-14" style="--pulse-height:8%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-08-24" style="--pulse-height:46%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 11 mentions" title="2026-03-02 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-judaism-t-00-41-55" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-judaism-t-00-11-29" style="--pulse-height:38%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 9 mentions" title="2026-03-09 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-concept-judaism-t-00-11-33" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-judaism-t-00-29-14" style="--pulse-height:9%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-judaism-t-00-08-24" style="--pulse-height:48%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 11 mentions" title="2026-03-02 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-judaism-t-00-41-55" style="--pulse-height:9%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-judaism-t-00-11-29" style="--pulse-height:39%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 9 mentions" title="2026-03-09 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-concept-judaism-t-00-11-33" style="--pulse-height:9%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-concept-judaism-t-01-01-21" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-judaism-t-00-07-07" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-judaism-t-00-02-24" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 6 mentions" title="2026-04-10 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-judaism-t-00-07-07" style="--pulse-height:13%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-judaism-t-00-02-24" style="--pulse-height:9%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38" style="--pulse-height:26%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 6 mentions" title="2026-04-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-judaism-t-00-18-22" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-concept-judaism-t-00-53-46" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-judaism-t-00-50-26" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37" style="--pulse-height:21%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-judaism-t-02-03-03" style="--pulse-height:12%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-concept-judaism-t-00-53-46" style="--pulse-height:9%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-judaism-t-00-50-26" style="--pulse-height:9%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-judaism-t-00-38-37" style="--pulse-height:22%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 5 mentions" title="2026-04-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-judaism-t-02-03-03" style="--pulse-height:13%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-judaism-t-01-04-10" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-19-58" style="--pulse-height:29%" aria-label="Candace Owens x Ana Kasparian: 7 mentions" title="2026-05-28 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-00" style="--pulse-height:46%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 11 mentions" title="2026-06-09 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-judaism-t-00-39-33" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-judaism-t-00-19-58" style="--pulse-height:30%" aria-label="Candace Owens x Ana Kasparian: 7 mentions" title="2026-05-28 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-concept-judaism-t-00-20-00" style="--pulse-height:48%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 11 mentions" title="2026-06-09 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-judaism-t-00-39-33" style="--pulse-height:9%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-concept-judaism-t-00-41-51" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-judaism-t-00-58-23" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-judaism-t-00-58-23" style="--pulse-height:13%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-judaism-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -82,10 +82,10 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-00) | 4 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-40-49) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-23) | 2 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-17) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-judaism-t-00-38-43) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-concept-judaism-t-00-41-08) | 2 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11) | 24 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11) | 22 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-judaism-t-00-02-51) | 23 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-judaism-t-00-50-37) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#t-00-25-24) | 1 |
@@ -122,7 +122,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (158)</strong></summary>
+<summary><strong class="section-title">Raw mentions (156)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -618,7 +618,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (24 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (22 mentions)</summary>
 
 **[00:16:21](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11)**
 > "this is obviously not Judaism"
@@ -626,22 +626,16 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 **[00:13:16](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-13-07)**
 > "1950-1951, there is a Jewish Israeli author called Avi Shlaim."
 
-**[00:13:23](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-13-07)**
-> "...books about the plight of the Jewish people in Iraq."
-
 **[00:13:27](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-13-07)**
-> "And the plight of the Jewish people in Iraq was not caused by Iraqis."
-
-**[00:13:38](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-13-07)**
 > "...now how to bring all of these Jewish people from the Arab countries. It was easy to br..."
 
 **[00:13:44](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-13-44)**
 > "they didn't, but they like Jewish people in Iraq and in Egypt and Morocco lived the..."
 
-**[00:13:58](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-13-44)**
+**[00:13:51](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-13-44)**
 > "...ive different bomb attacks on Jewish synagogues and Jewish communities."
 
-**[00:16:14](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11)**
+**[00:16:11](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11)**
 > "...because this is obviously not Judaism."
 
 **[00:16:46](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-46)**
@@ -659,7 +653,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 **[00:18:39](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-18-39)**
 > "...he mainstream and a lot of my Jewish friends are feel that they're silenced they're si..."
 
-**[00:21:09](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-21-04)**
+**[00:21:04](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-21-04)**
 > "...rally I don't care if you are Jewish if you are Muslim if you are Christian I mean obv..."
 
 **[00:21:42](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-21-42)**
@@ -680,13 +674,13 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 **[01:33:03](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-01-32-52)**
 > "...e has anything and assaults a Jewish person. Why the words of Kanye West hurt much mor..."
 
-**[01:35:31](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-01-35-25)**
+**[01:35:25](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-01-35-25)**
 > "like, you're Jewish and so you're extra special."
 
-**[01:35:42](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-01-35-25)**
+**[01:35:40](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-01-35-25)**
 > "...k person, a white person or a Jewish person."
 
-**[01:35:49](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-01-35-25)**
+**[01:35:47](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-01-35-25)**
 > "It's Jewish supremacy."
 
 **[01:45:42](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-01-45-42)**
@@ -697,10 +691,10 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:41:18](/episodes/ep-QdM9jLwjwLw.md#ent-concept-judaism-t-00-41-08)**
+**[00:41:08](/episodes/ep-QdM9jLwjwLw.md#ent-concept-judaism-t-00-41-08)**
 > "...she noticed that actually the Jewish community was acting like the supremacist suddenl..."
 
-**[00:41:46](/episodes/ep-QdM9jLwjwLw.md#ent-concept-judaism-t-00-41-46)**
+**[00:41:40](/episodes/ep-QdM9jLwjwLw.md#ent-concept-judaism-t-00-41-40)**
 > "...when she sort of noticed that Jewish people were not behaving correctly and were makin..."
 
 </details>
@@ -716,10 +710,10 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:01:23](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-23)**
+**[00:01:17](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-17)**
 > "...o be clear, it wasn't just by Jewish donors,"
 
-**[00:08:39](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-08-33)**
+**[00:08:39](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-08-29)**
 > "...nvince them to stand with our Jewish brethren?"
 
 </details>
@@ -727,7 +721,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:41:00](/episodes/ep-9naMwS0kMBE.md#t-00-40-49)**
+**[00:40:56](/episodes/ep-9naMwS0kMBE.md#t-00-40-49)**
 > "the world Jewish Congress president Ronald Lauder is involved in T..."
 
 </details>
@@ -901,7 +895,7 @@ _No relationships extracted yet._
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:07:51](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-51) (Accusation) **Anonymous Source #3 (Ep gG4ZoYUjUc8)** (via read message): ["You threatened Jews and Christians with your 30 million followers? Be ..."](/statements/statement-0373cf4aea65.md)
+- [00:07:51](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-44) (Accusation) **Anonymous Source #3 (Ep gG4ZoYUjUc8)** (via read message): ["You threatened Jews and Christians with your 30 million followers? Be ..."](/statements/statement-0373cf4aea65.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Christians](/entities/concept-christians.md)
 
 </details>

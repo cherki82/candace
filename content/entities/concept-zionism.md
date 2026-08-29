@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 342 mentions"
+description: "Zionism (Concepts) - 343 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -25,8 +25,8 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-48-49">2026-08-07 · 00:49:00</a></strong></div>
-<div><span>Episodes</span><strong>79</strong></div>
-<div><span>Mentions</span><strong>342</strong></div>
+<div><span>Episodes</span><strong>80</strong></div>
+<div><span>Mentions</span><strong>343</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -68,8 +68,8 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-45" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-51-56" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31" style="--pulse-height:93%" aria-label="Myron Gaines x Candace Owens: 13 mentions" title="2026-01-16 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-19" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40" style="--pulse-height:43%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 6 mentions" title="2026-01-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-48" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42" style="--pulse-height:43%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 6 mentions" title="2026-01-22 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-20-01" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-zionism-t-00-45-12" style="--pulse-height:29%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-zionism-t-00-08-58" style="--pulse-height:29%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
@@ -104,6 +104,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-zionism-t-00-13-15" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-concept-zionism-t-00-24-54" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-concept-zionism-t-00-17-53" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-concept-zionism-t-00-50-41" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-concept-zionism-t-00-04-55" style="--pulse-height:21%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 3 mentions" title="2026-06-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-zionism-t-00-11-12" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-zionism-t-00-43-16" style="--pulse-height:14%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
@@ -152,8 +153,8 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-45) | 2 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-51-56) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31) | 13 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-19) | 7 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40) | 6 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-48) | 7 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42) | 6 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-20-01) | 14 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-zionism-t-00-45-12) | 4 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-zionism-t-00-08-58) | 4 |
@@ -188,6 +189,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-zionism-t-00-13-15) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-concept-zionism-t-00-24-54) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-concept-zionism-t-00-17-53) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-concept-zionism-t-00-50-41) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-concept-zionism-t-00-04-55) | 3 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-concept-zionism-t-00-11-12) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-zionism-t-00-43-16) | 2 |
@@ -207,7 +209,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (342)</strong></summary>
+<summary><strong class="section-title">Raw mentions (343)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (6 mentions)</summary>
@@ -353,6 +355,14 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 **[00:33:11](/episodes/ep-h76ZN-xXC6c.md#ent-concept-zionism-t-00-32-52)**
 > "... crime. We just have a lot of Zionist tears and insistence."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:50:41](/episodes/ep-5NQyGuRYbU8.md#ent-concept-zionism-t-00-50-41)**
+> "I'm happy to see that. Ali writes Braveheart style. You can't break me speeches and tears don't hit the same when you remember that Erika Kirk totally betrayed Charlie Kirk's legacy to Zionists in a shameless and disgusting way and told severe and suspicious lies."
 
 </details>
 
@@ -779,7 +789,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:37:28](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-zionism-t-00-37-22)**
 > "the issues with Zionism. I have many text messages to that effect."
 
-**[00:38:36](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-zionism-t-00-38-00)**
+**[00:38:36](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-zionism-t-00-38-09)**
 > "Zionists have taken over."
 
 </details>
@@ -865,7 +875,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (4 mentions)</summary>
 
 **[00:45:12](/episodes/ep-Wjul6YV6izo.md#ent-concept-zionism-t-00-45-12)**
-> "it all just feels really fake and ridiculous people are dressed up and they're like knocking down doors christy gnome knocking down doors and she's got long extensions and makeup and like we're back and pam bondi's like and we're here to arrest the people that criticize zionism on college campuses as now we're like going after don lemon because in case you missed the backstory of this don lemon is annoying he's been annoying his entire life and shouldn't you go to prison"
+> "it all just feels really fake and ridiculous people are dressed up and they're like knocking down doors Kristi Noem knocking down doors and she's got long extensions and makeup and like we're back and pam bondi's like and we're here to arrest the people that criticize zionism on college campuses as now we're like going after don lemon because in case you missed the backstory of this don lemon is annoying he's been annoying his entire life and shouldn't you go to prison"
 
 **[00:33:11](/episodes/ep-Wjul6YV6izo.md#ent-concept-zionism-t-00-32-43)**
 > "the Zionist donors,"
@@ -881,13 +891,13 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (14 mentions)</summary>
 
-**[00:20:05](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-20-01)**
+**[00:20:01](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-20-01)**
 > "Like Zionists"
 
 **[00:16:46](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-16-46)**
 > "...e Jewish and stand up against Zionism to learn this because"
 
-**[00:17:49](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-17-42)**
+**[00:17:42](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-17-42)**
 > "lie Zionists they are it is I've never say anything like it to..."
 
 **[00:18:59](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-18-39)**
@@ -902,7 +912,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:25:51](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-25-41)**
 > "...who was evangelical. He was a Zionist."
 
-**[00:26:03](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-25-41)**
+**[00:26:02](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-25-41)**
 > "...egret that I worked inside of Zionist organizations. I regret my ignorance."
 
 **[00:28:56](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-00-28-48)**
@@ -917,7 +927,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[01:09:47](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-01-09-47)**
 > "...d you guys should help me the zionist lobby help me they're palestinians they did it"
 
-**[01:34:16](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-01-34-16)**
+**[01:34:15](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-01-34-15)**
 > "by saw Zionists."
 
 **[01:45:42](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-zionism-t-01-45-42)**
@@ -928,22 +938,22 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (6 mentions)</summary>
 
-**[00:00:47](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40)**
+**[00:00:38](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42)**
 > "...loving, very loving Christian Zionist donor."
 
-**[00:01:28](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40)**
+**[00:01:17](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42)**
 > "but also by Christian Zionist donors."
 
-**[00:01:31](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40)**
+**[00:01:31](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42)**
 > "What is Christian Zionism? We're all wondering, we're having that conversat..."
 
-**[00:06:24](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42)**
+**[00:06:14](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42)**
 > "Zionist, of course."
 
-**[00:07:44](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-07-10)**
+**[00:07:44](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42)**
 > "...re many evangelical Christian Zionists who would never give these people the opportunity..."
 
-**[00:42:26](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-07-10)**
+**[00:42:20](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-05-42)**
 > "Christian Zionism has been put on trial this year, and I'm happy fo..."
 
 </details>
@@ -951,22 +961,22 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (7 mentions)</summary>
 
-**[00:28:50](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-19)**
+**[00:28:48](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-48)**
 > "I am so far now aware of what Zionism is and how much of a cancer it is. And you do bas..."
 
-**[00:29:15](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-29-10)**
+**[00:29:10](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-29-10)**
 > "Zionists can't have any meaningful relationships with anyb..."
 
 **[00:29:29](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-29-29)**
 > "...o know what it is that drives Zionists insane about me it's that I've worked with all of..."
 
-**[00:30:51](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-30-25)**
+**[00:30:50](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-30-25)**
 > "...ts his morning today choosing Zionist violence."
 
-**[00:38:57](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-38-54)**
+**[00:38:54](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-38-54)**
 > "the Zionist culture of flaming your friends."
 
-**[00:42:26](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-42-24)**
+**[00:42:24](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-42-24)**
 > "... flip from America first to a Zionist slave?"
 
 **[01:23:04](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-01-22-58)**
@@ -1795,7 +1805,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1)</summary>
 
-- [00:58:15](/episodes/ep-Wjul6YV6izo.md#t-00-57-51) (Opinion) **Candace Owens**: ["Zionism is an objectively racist philosophy."](/statements/statement-ad5978ae882b.md)
+- [00:58:15](/episodes/ep-Wjul6YV6izo.md#t-00-57-51) (Opinion) **Candace Owens**: ["Candace Owens said she now believes that Zionism is an objectively rac..."](/statements/statement-ad5978ae882b.md)
 
 </details>
 

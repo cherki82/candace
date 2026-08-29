@@ -17,7 +17,7 @@ Source: [Vietnam War | U.S. Army Center of Military History](https://history.arm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-event-vietnam-war-t-00-53-29">2025-11-13 · 00:53:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-57-17">2026-01-29 · 00:57:21</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-57-17">2026-01-29 · 00:57:17</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -53,7 +53,7 @@ Source: [Vietnam War | U.S. Army Center of Military History](https://history.arm
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:57:21](/episodes/ep-xjzb_t5Tk9o.md#t-00-57-17)**
+**[00:57:17](/episodes/ep-xjzb_t5Tk9o.md#t-00-57-17)**
 > "stood against Vietnam"
 
 </details>

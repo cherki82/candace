@@ -28,7 +28,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-bassem-youssef-t-01-17-15">2026-05-28 · 01:17:15</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
-<div><span>Statements by</span><strong>25</strong></div>
+<div><span>Statements by</span><strong>29</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -39,7 +39,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-02-28">Candace x Bassem Youssef | Candace Ep 298</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-bassem-youssef-t-00-33-05" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-08-08" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-07-56" style="--pulse-height:50%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-02-28" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-bassem-youssef-t-00-50-31" style="--pulse-height:75%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-bassem-youssef-t-00-40-04" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -51,7 +51,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-bassem-youssef-t-00-33-05) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-08-08) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-07-56) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-02-28) | 4 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-bassem-youssef-t-00-50-31) | 3 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-bassem-youssef-t-00-40-04) | 1 |
@@ -107,16 +107,16 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
 
-**[00:02:52](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-02-28)**
+**[00:02:50](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-02-28)**
 > "not allowed to have Bassem Youssef on"
 
-**[00:42:52](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-42-49)**
+**[00:42:52](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-00-42-47)**
 > "But this is Bassem (Bassem Youssef) on Piers Morgan,"
 
-**[01:25:18](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-01-25-17)**
+**[01:25:18](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-01-25-18)**
 > "Candace, please tell Bassem (Bassem Youssef) that I loved him in the TV show Lioness as Amroh..."
 
-**[01:48:03](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-01-47-56)**
+**[01:47:56](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bassem-youssef-t-01-47-56)**
 > "it should be Bassem (Bassem Youssef)."
 
 </details>
@@ -124,10 +124,10 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[01:08:14](/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-08-08)**
+**[01:08:11](/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-07-56)**
 > "And Bassem Youssef was a major reason that I woke up and The Daily W..."
 
-**[01:08:25](/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-08-08)**
+**[01:08:23](/episodes/ep-QdM9jLwjwLw.md#ent-person-bassem-youssef-t-01-07-56)**
 > "And so Bassem Youssef is going to be joining me live and we're going to..."
 
 </details>
@@ -158,7 +158,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 - **[Lioness](/entities/work-lioness.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Candace x Bassem Youssef | Candace Ep 298 @ 01:25:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-17): “Candace, please tell Bassem (Bassem Youssef) that I loved him in the TV show Lioness as Amrohi.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:25:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-18): “Candace, please tell Bassem (Bassem Youssef) that I loved him in the TV show Lioness as Amrohi.”
 
 </details>
 
@@ -224,7 +224,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 - **[Lioness](/entities/work-lioness.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Candace x Bassem Youssef | Candace Ep 298 @ 01:25:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-17): “Candace, please tell Bassem (Bassem Youssef) that I loved him in the TV show Lioness as Amrohi.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:25:18](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-18): “Candace, please tell Bassem (Bassem Youssef) that I loved him in the TV show Lioness as Amrohi.”
 
 </details>
 
@@ -265,10 +265,10 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Bassem Youssef (25)</strong></summary>
+<summary><strong class="section-title">Statements by Bassem Youssef (29)</strong></summary>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (25)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (29)</summary>
 
 - [00:03:10](/episodes/ep-xjzb_t5Tk9o.md#t-00-03-10) [○] (Accusation) ["Ben Shapiro is a confident liar who lies easily and speaks quickly so facts cann..."](/statements/statement-5b5bc40c1951.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -279,7 +279,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 - [00:05:47](/episodes/ep-xjzb_t5Tk9o.md#t-00-05-22) [◐] (Claim) ["After fighting the USS Liberty matter for 15 years, Israel paid six million doll..."](/statements/statement-501294768e98.md)
   - About: [USS Liberty](/entities/vehicle-uss-liberty.md), [Israel](/entities/gpe-israel.md)
 
-- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-51) [○] (Accusation) ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video to claim H..."](/statements/statement-316c32dcf384.md)
+- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-07-09) [○] (Accusation) ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video to claim H..."](/statements/statement-316c32dcf384.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hamas](/entities/org-hamas.md), [European Union](/entities/org-european-union.md)
 
 - [00:13:58](/episodes/ep-xjzb_t5Tk9o.md#t-00-13-44) [◐] (Accusation) ["Israel sent a Mossad agent who led four or five bomb attacks on Jewish synagogue..."](/statements/statement-5abf022a7ed7.md)
@@ -324,10 +324,10 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 - [00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04) [◐] (Accusation) ["Peter Thiel, Alex Karp, and Larry Ellison use technology to kill Palestinians an..."](/statements/statement-ae788c4a1be2.md)
   - About: [Peter Thiel](/entities/person-peter-thiel.md), [Alexander Karp](/entities/person-alex-karp.md), [Larry Ellison](/entities/person-larry-ellison.md)
 
-- [00:54:14](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-06) [○] (Prediction) ["As pro-Israel control weakens, the system will become more brutal and a violent ..."](/statements/statement-f41942a6569d.md)
+- [00:54:14](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-05) [○] (Prediction) ["As pro-Israel control weakens, the system will become more brutal and a violent ..."](/statements/statement-f41942a6569d.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
 
-- [00:55:03](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-47) [◐] (Claim) ["Thirty-seven or thirty-eight U.S. states have laws barring boycotts of Israel."](/statements/statement-607cf7642194.md)
+- [00:55:03](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-48) [◐] (Claim) ["Thirty-seven or thirty-eight U.S. states have laws barring boycotts of Israel."](/statements/statement-607cf7642194.md)
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
 
 - [00:55:35](/episodes/ep-xjzb_t5Tk9o.md#t-00-55-35) [✓] (Claim) ["U.S. sanctions against an International Criminal Court judge made him unable to ..."](/statements/statement-c5d5be24691e.md)
@@ -336,11 +336,23 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 - [00:57:32](/episodes/ep-xjzb_t5Tk9o.md#t-00-57-32) [✓] (Claim) ["A Palestinian friend of Bassem Youssef and two companions were shot while he was..."](/statements/statement-dc58e12a62df.md)
   - About: [Palestine](/entities/gpe-palestine.md), [United States](/entities/gpe-united-states.md)
 
+- [01:21:46](/episodes/ep-xjzb_t5Tk9o.md#t-01-21-46) [◐] (Citation) ["Bassem Youssef said Breaking the Silence is a group of former IDF soldiers who d..."](/statements/statement-7bd7a3fccfcd.md)
+  - About: [Breaking the Silence](/entities/org-breaking-the-silence.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Gaza](/entities/gpe-gaza.md)
+
+- [01:23:11](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-11) [○] (Accusation) ["Bassem Youssef claimed that The New York Times editorial team is full of former ..."](/statements/statement-11b5e1a0d224.md)
+  - About: [The New York Times](/entities/org-the-new-york-times.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Mossad](/entities/org-mossad.md)
+
+- [01:23:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) [◐] (Citation) ["The New York Times published a claim that tunnels beneath Gaza were longer than ..."](/statements/statement-99b36b327440.md)
+  - About: [The New York Times](/entities/org-the-new-york-times.md), [Gaza](/entities/gpe-gaza.md), [New York City](/entities/gpe-new-york-city.md)
+
 - [01:23:49](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) [◐] (Accusation) ["The New York Times published a completely fabricated rape story whose named Isra..."](/statements/statement-9d5a06e8c485.md)
   - About: [The New York Times](/entities/org-the-new-york-times.md), [Israel](/entities/gpe-israel.md)
 
 - [01:24:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-24-42) [◐] (Citation) ["Israeli media reported the Hannibal Directive, Israeli soldiers killing Israelis..."](/statements/statement-dffdfa972b19.md)
   - About: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Israel](/entities/gpe-israel.md), [The New York Times](/entities/org-the-new-york-times.md)
+
+- [01:25:06](/episodes/ep-xjzb_t5Tk9o.md#t-01-25-06) [◐] (Accusation) ["Bassem Youssef accused Jake Tapper of discussing what Youssef called 'fake rape ..."](/statements/statement-d5a2d57278ec.md)
+  - About: [Jake Tapper](/entities/person-jake-tapper.md), [Israel](/entities/gpe-israel.md)
 
 - [01:28:15](/episodes/ep-xjzb_t5Tk9o.md#t-01-28-13) [✗] (Claim) ["By Way of Deception was the only book in U.S. history placed under a gag order, ..."](/statements/statement-47bd902c30ba.md)
   - About: [By Way of Deception](/entities/work-by-way-of-deception.md), [United States](/entities/gpe-united-states.md)
@@ -363,7 +375,7 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
 
-- [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-08-08) (Claim) **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked..."](/statements/statement-97b38798c1ab.md)
+- [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-07-56) (Claim) **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked..."](/statements/statement-97b38798c1ab.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>

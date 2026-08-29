@@ -30,7 +30,7 @@ veracity: "mixed"
 **Timestamp:** [01:23:49](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(5029);return false;">Play</a>
 
-> They had like a whole piece about the rape, that rape hoax, which was completely fabricated. There were Israelis that were mentioned in the article that said like that didn't happen.
+> This is the New York Times. ... They had like a whole piece about the rape, that rape hoax, which was completely fabricated. There were Israelis that were mentioned in the article that said like that didn't happen.
 
 ## Verification
 

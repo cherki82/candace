@@ -27,7 +27,7 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -185,6 +185,30 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Accused By (1)</summary>
+
+- **[Dan Patrick](/entities/person-dan-patrick.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... no member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue. ... This was my decision.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:33:02](/episodes/ep-4YgrOhhy708.md#t-00-33-02): “No, I don't. ... I haven't ... heard one thing out of her mouth that I would say is anti-Semitic.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Fired By (2)</summary>
 
 - **[Dan Patrick](/entities/person-dan-patrick.md)**
@@ -216,7 +240,21 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Dan Patrick](/entities/person-dan-patrick.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:35:38](/episodes/ep-hWTdXHGQ8R4.md#t-00-35-12): “Here is how Dan Patrick announced it on X, ... Carrie Prejean Boller has been removed from President Trump (Donald J. Trump)'s Religious Liberty Commission. ... no member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue. ... This was my decision.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:33:02](/episodes/ep-4YgrOhhy708.md#t-00-33-02): “No, I don't. ... I haven't ... heard one thing out of her mouth that I would say is anti-Semitic.”
+
+</details>
 
 - **[Dan Patrick](/entities/person-dan-patrick.md)** fired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -249,10 +287,10 @@ Source: [DOJ: Fifth Hearing of the Religious Liberty Commission transcript](http
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (2)</summary>
 
-- [00:29:46](/episodes/ep-hWTdXHGQ8R4.md#t-00-29-46) [○] (Opinion) ["It is important not to make Islamophobic remarks during a religious-liberty hear..."](/statements/statement-dfaf37811d2a.md)
+- [00:29:46](/episodes/ep-hWTdXHGQ8R4.md#t-00-29-46) [✓] (Opinion) ["It is important not to make Islamophobic remarks during a religious-liberty hear..."](/statements/statement-dfaf37811d2a.md)
   - About: [Islam](/entities/concept-islam.md), [Presidential Religious Liberty Commission](/entities/org-presidential-religious-liberty-commission.md)
 
-- [00:30:13](/episodes/ep-hWTdXHGQ8R4.md#t-00-30-13) [○] (Opinion) ["Catholics do not embrace Zionism, so are all Catholics antisemites according to ..."](/statements/statement-ac1df86796fa.md)
+- [00:30:13](/episodes/ep-hWTdXHGQ8R4.md#t-00-30-13) [✓] (Opinion) ["Catholics do not embrace Zionism, so are all Catholics antisemites according to ..."](/statements/statement-ac1df86796fa.md)
   - About: [Catholicism](/entities/concept-catholicism.md), [Zionism](/entities/concept-zionism.md), [Antisemitism](/entities/concept-antisemitism.md)
 
 </details>

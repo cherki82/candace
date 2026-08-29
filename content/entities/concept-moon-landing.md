@@ -35,17 +35,17 @@ Source: [Moon Missions | NASA Science](https://science.nasa.gov/moon/missions/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-32-17">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-36-32">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-moon-landing-t-00-31-39" style="--pulse-height:25%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-32-17" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-36-32" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-moon-landing-t-00-31-39) | 1 |
-| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-32-17) | 4 |
+| 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-36-32) | 4 |
 
 </details>
 </section>
@@ -58,9 +58,6 @@ Source: [Moon Missions | NASA Science](https://science.nasa.gov/moon/missions/)
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (4 mentions)</summary>
 
-**[00:32:17](/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-32-17)**
-> "...like Skylar in Believe in the Moon Landing,"
-
 **[00:36:32](/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-36-32)**
 > "...way back to my episode on the moon landing and why I don't believe the moon landing happened..."
 
@@ -69,6 +66,9 @@ Source: [Moon Missions | NASA Science](https://science.nasa.gov/moon/missions/)
 
 **[00:37:54](/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-37-17)**
 > "the moon landing can't have happened."
+
+**[00:32:17](/episodes/ep-A39g5oqB_eM.md#ent-concept-moon-landing-t-00-32-17)**
+> "Now it sounds to me like some good old-fashioned government money laundering, but sure, if you are like Skylar (show producer; surname unverified) in Believe in the Moon Landing,"
 
 </details>
 

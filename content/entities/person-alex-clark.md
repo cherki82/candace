@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 64 mentions"
+description: "Alex Clark (People) - 65 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 categories:
@@ -19,8 +19,8 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12">2025-09-22 · 00:57:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40">2026-07-30 · 00:18:40</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>64</strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>65</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
@@ -55,6 +55,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 10 mentions" title="2026-06-09 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-alex-clark-t-00-13-15" style="--pulse-height:20%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-alex-clark-t-00-30-16" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-alex-clark-t-00-48-15" style="--pulse-height:10%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34" style="--pulse-height:10%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40" style="--pulse-height:10%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
@@ -87,6 +88,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-alex-clark-t-00-50-16) | 10 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-alex-clark-t-00-13-15) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-alex-clark-t-00-30-16) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-alex-clark-t-00-48-15) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24) | 1 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40) | 1 |
@@ -97,7 +99,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+<summary><strong class="section-title">Raw mentions (65)</strong></summary>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
@@ -120,6 +122,14 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 **[00:33:59](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34)**
 > "All of them. I mean, Alex had Alex Clark had a hat on like she was going to watch polo."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:48:15](/episodes/ep-5NQyGuRYbU8.md#ent-person-alex-clark-t-00-48-15)**
+> "you gotta you gotta punt a chihuahua for 50 yards we don't want the elderly chihuahuas gonna be fine they have a long life but if it just keeps biting at your ankles like an alex clark if your chihuahua happens to be named alex clark and their whole brand is talking about masculinity and then you know they are suddenly marrying a fairy princess you get the right to call it out like she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans that's like a big component is like her blocking all of her fans who ask"
 
 </details>
 
@@ -473,11 +483,12 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:48:15](/episodes/ep-5NQyGuRYbU8.md#t-00-47-30): “if your chihuahua happens to be named alex clark ... she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans”
 
 </details>
 
@@ -568,11 +579,12 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14): “apparently Alex Clark demanded, ... because I had gone after her for dressing up in boots and standing over the memorial site of Charlie (Charlie Kirk) to pose for what was it the Washington Post,”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:49:02](/episodes/ep-7ERqbYElOfs.md#t-00-49-02): “alex clark she was like she said she was on a plane too and she was like the first thing i thought was like too bad the second thing i thought was maga like it was totally bonkers”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:55:19](/episodes/ep-YeEtS7nix3o.md#t-00-55-16): “Everything about Alex Clark and Alex Clark's life is fraudulent. There is no substance, there is no truth.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:48:15](/episodes/ep-5NQyGuRYbU8.md#t-00-47-30): “if your chihuahua happens to be named alex clark ... she just lies constantly she attacks people she attacks other people's fiancés she attacks her own fans”
 
 </details>
 
@@ -693,7 +705,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
 
-- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark demanded that Seth Dillon call Owens's s..."](/statements/statement-a831f72ad994.md)
+- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark apparently demanded that Seth Dillon cal..."](/statements/statement-a831f72ad994.md)
   - Also about: [Seth Dillon](/entities/person-seth-dillon.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

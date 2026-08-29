@@ -23,23 +23,13 @@ veracity: "true"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
+## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
 **Timestamp:** [00:12:39](/episodes/ep-HYn0P-P1wUw.md#t-00-12-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(759);return false;">Play</a>
 
 > Charlie (Charlie Kirk)'s text messages, that was a pretty big one showing that he was in fact abandoning the pro-Israel cause 48 hours before he was assassinated, despite the fact that everyone lied about that fact.
-
-### 2. Candace x Bassem Youssef | Candace Ep 298
-
-**Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
-**Timestamp:** [00:30:14](/episodes/ep-xjzb_t5Tk9o.md#t-00-30-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1814);return false;">Play</a>
-
-> charlie didn't let him on a show charlie said no to Bibi (Benjamin Netanyahu) net and yahoo when Bibi (Benjamin Netanyahu) wanted to take turning point to the next level charlie said no okay to Bibi (Benjamin Netanyahu) net and yahoo who is a gangster you don't get to tell Bibi (Benjamin Netanyahu) net and yahoo no we all know this and so i i just want people i just want people to know the truth which is that and obviously i release text messages they've left me no choice but to abandon the pro-israel cause
 
 ## Verification
 

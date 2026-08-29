@@ -1,14 +1,14 @@
 ---
 id: "LKR94FQ5p3o"
 title: "Coming soon..."
-description: "Coming soon... - 8 entities, 2 events, 4 factual claims"
+description: "Coming soon... - 11 entities, 2 events, 3 factual claims"
 published: "2026-02-23"
 youtube_url: "https://www.youtube.com/watch?v=LKR94FQ5p3o"
 ---
 
 **Published:** 2026-02-23 | [Watch on YouTube](https://www.youtube.com/watch?v=LKR94FQ5p3o)
 
-**Stats:** 8 entities | 2 events | 4 factual claims
+**Stats:** 11 entities | 2 events | 3 factual claims
 
 ---
 
@@ -114,7 +114,9 @@ youtube_url: "https://www.youtube.com/watch?v=LKR94FQ5p3o"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (8)</strong></summary>
+<summary><strong>Entities Mentioned (11)</strong></summary>
+
+**Anonymous Sources:** [Anonymous Source #1 (Ep LKR94FQ5p3o)](/entities/anon-src-LKR94FQ5p3o-001.md), [Anonymous Source #2 (Ep LKR94FQ5p3o)](/entities/anon-src-LKR94FQ5p3o-002.md), [Anonymous Source #3 (Ep LKR94FQ5p3o)](/entities/anon-src-LKR94FQ5p3o-003.md)
 
 **Places:** [Constanța](/entities/gpe-constanta.md), [Romania](/entities/gpe-romania.md)
 
@@ -131,11 +133,11 @@ youtube_url: "https://www.youtube.com/watch?v=LKR94FQ5p3o"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:00:30](#t-00-00-30) [✓] (Claim) **Anonymous Source #1 (Ep LKR94FQ5p3o)**: ["Erika Kirk has been named the new CEO of Turning Point USA."](/statements/statement-916bcba24c0f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-- [00:00:46](#t-00-00-46) [?] (Claim) **Erika Kirk**: ["We have 50,000-plus hat orders."](/statements/statement-7f561a4b45f5.md)
+- [00:00:46](#t-00-00-46) [○] (Claim) **Erika Kirk**: ["We have 50,000-plus hat orders."](/statements/statement-7f561a4b45f5.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
-- [00:00:49](#t-00-00-49) [◐] (Claim) **Anonymous Source #2 (Ep LKR94FQ5p3o)**: ["Nobody knows why she's out there in a glittering pantsuit in a recreated tent th..."](/statements/statement-142bb554e60f.md)
+- [00:00:49](#t-00-00-49) [◐] (Opinion) **Anonymous Source #2 (Ep LKR94FQ5p3o)**: ["Nobody knows why she's out there in a glittering pantsuit in a recreated tent th..."](/statements/statement-142bb554e60f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:01:02](#t-00-01-02) [?] (Accusation) **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied through th..."](/statements/statement-366f47c962a4.md)
+- [00:01:02](#t-00-01-02) [○] (Accusation) **Anonymous Source #3 (Ep LKR94FQ5p3o)**: ["Zionists, the Prime Minister of Israel (Benjamin Netanyahu), all lied through th..."](/statements/statement-366f47c962a4.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

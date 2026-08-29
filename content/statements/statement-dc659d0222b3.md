@@ -29,7 +29,7 @@ type: "opinion"
 **Timestamp:** [00:33:08](/episodes/ep-4YgrOhhy708.md#t-00-33-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1988);return false;">Play</a>
 
-> I mean, I listen to her daily, ... and ... I haven't ... heard one thing out of her mouth that I would say is anti-Semitic.
+> going back to Candace Owens ... do you think that anything Candace has said is anti-semitic ... No, I don't. ... I mean, I listen to her daily, ... and ... I haven't ... heard one thing out of her mouth that I would say is anti-Semitic.
 
 ## Verification
 

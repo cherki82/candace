@@ -158,7 +158,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (6 mentions)</summary>
 
-**[00:21:09](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-00-21-04)**
+**[00:21:04](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-00-21-04)**
 > "These are Satanists"
 
 **[00:40:27](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-00-40-27)**
@@ -170,7 +170,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 **[01:40:27](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-01-40-27)**
 > "...n allegory i'm saying literal satanists"
 
-**[01:41:10](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-01-41-09)**
+**[01:41:09](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-01-41-09)**
 > "It's like Satanism on steroids."
 
 **[01:41:42](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-01-41-42)**
@@ -181,10 +181,10 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
 
-**[00:17:09](/episodes/ep-9naMwS0kMBE.md#ent-concept-satanism-t-00-16-54)**
+**[00:17:07](/episodes/ep-9naMwS0kMBE.md#ent-concept-satanism-t-00-16-54)**
 > "But when we have actual Satanists that are running psychological operations in our ..."
 
-**[00:44:32](/episodes/ep-9naMwS0kMBE.md#ent-concept-satanism-t-00-44-18)**
+**[00:44:27](/episodes/ep-9naMwS0kMBE.md#ent-concept-satanism-t-00-44-19)**
 > "they are Satanists that we are fighting and they want everything. Th..."
 
 </details>

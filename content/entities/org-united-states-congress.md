@@ -1,6 +1,6 @@
 ---
 title: "United States Congress"
-description: "United States Congress (Organizations) - 33 mentions"
+description: "United States Congress (Organizations) - 34 mentions"
 id: "org-united-states-congress"
 type: "ORG"
 aliases:
@@ -25,8 +25,8 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-united-states-congress-t-00-30-27">2025-09-15 · 00:30:36</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03">2026-08-06 · 01:02:29</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -59,6 +59,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-congress-t-00-11-23" style="--pulse-height:67%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-congress-t-00-05-57" style="--pulse-height:67%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-00-01" style="--pulse-height:67%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-congress-t-00-50-03" style="--pulse-height:33%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -87,6 +88,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-congress-t-00-11-23) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-united-states-congress-t-00-05-57) | 2 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-00-01) | 2 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-congress-t-00-50-03) | 1 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03) | 1 |
 
 </details>
@@ -95,13 +97,21 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
 
 **[01:02:29](/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03)**
 > "We need laws passed in Congress."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:50:24](/episodes/ep-5NQyGuRYbU8.md#ent-org-united-states-congress-t-00-50-03)**
+> "So I'll give you a time frame. Like I will be a dictator that retires. Of course, and I'm willing to hand over the power to another reasonable dictator, but I'm not dealing with Lindsey Graham in Congress."
 
 </details>
 
@@ -198,7 +208,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:00:26](/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-congress-t-01-00-24)**
+**[01:00:24](/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-congress-t-01-00-24)**
 > "Congress and the Senate"
 
 </details>

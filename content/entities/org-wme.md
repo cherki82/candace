@@ -21,7 +21,7 @@ _Type: Organizations_
 Source: [Who am I reaching out to? | WME](https://music.wmeagency.com/Music/find-an-agent)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-wme-t-00-59-55">2026-01-21 · 01:00:28</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-wme-t-00-59-55">2026-01-21 · 01:00:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-wme-t-00-53-45">2026-05-04 · 00:53:50</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -64,7 +64,7 @@ Source: [Who am I reaching out to? | WME](https://music.wmeagency.com/Music/find
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[01:00:28](/episodes/ep-GY6GWceEqtQ.md#ent-org-wme-t-00-59-55)**
+**[01:00:23](/episodes/ep-GY6GWceEqtQ.md#ent-org-wme-t-00-59-55)**
 > "she's basically running WME"
 
 </details>

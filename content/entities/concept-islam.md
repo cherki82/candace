@@ -1,6 +1,6 @@
 ---
 title: "Islam"
-description: "Islam (Concepts) - 56 mentions"
+description: "Islam (Concepts) - 55 mentions"
 id: "concept-islam"
 type: "CONCEPT"
 aliases:
@@ -20,7 +20,7 @@ _Type: Concepts_
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51">2026-01-12 · 00:05:24</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-48-49">2026-08-07 · 00:48:49</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>56</strong></div>
+<div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,24 +29,24 @@ _Type: Concepts_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38">Candace x Bassem Youssef | Candace Ep 298</a> (18 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38">Candace x Bassem Youssef | Candace Ep 298</a> (17 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 18 mentions" title="2026-01-29 · 18 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-islam-t-00-50-31" style="--pulse-height:17%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 17 mentions" title="2026-01-29 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-islam-t-00-50-31" style="--pulse-height:18%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-islam-t-00-38-00" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-islam-t-00-02-20" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-concept-islam-t-00-34-43" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-islam-t-00-29-09" style="--pulse-height:17%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-concept-islam-t-00-34-43" style="--pulse-height:12%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-islam-t-00-29-09" style="--pulse-height:18%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-islam-t-00-59-35" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-20-30" style="--pulse-height:28%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-islam-t-00-20-30" style="--pulse-height:29%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-islam-t-00-06-58" style="--pulse-height:8%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-islam-t-00-34-48" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-islam-t-00-40-00" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-islam-t-00-53-46" style="--pulse-height:17%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-00-38" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 9 mentions" title="2026-05-28 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-44-42" style="--pulse-height:28%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 5 mentions" title="2026-08-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-islam-t-00-53-46" style="--pulse-height:18%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-00-38" style="--pulse-height:53%" aria-label="Candace Owens x Ana Kasparian: 9 mentions" title="2026-05-28 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-44-42" style="--pulse-height:29%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 5 mentions" title="2026-08-07 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,7 +54,7 @@ _Type: Concepts_
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-30) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38) | 18 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38) | 17 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-islam-t-00-50-31) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-islam-t-00-38-00) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-islam-t-00-02-20) | 1 |
@@ -75,7 +75,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+<summary><strong class="section-title">Raw mentions (55)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (5 mentions)</summary>
@@ -251,19 +251,16 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (18 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (17 mentions)</summary>
 
 **[00:27:38](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38)**
-> "threat of Islam"
+> "...s in Gaza anymore like stupid Muslims and that hurt a lot of Muslims seeing that clip t..."
 
 **[00:18:27](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-18-15)**
 > "It is like exactly if Muslims saw people from ISIS and Qaeda suddenly..."
 
-**[00:21:09](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-21-04)**
+**[00:21:04](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-21-04)**
 > "... if you are Jewish if you are Muslim if you are Christian I mean obviously I want you ..."
-
-**[00:27:53](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38)**
-> "...s in Gaza anymore like stupid Muslims and that hurt a lot of Muslims seeing that clip t..."
 
 **[00:28:02](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-28-02)**
 > "...e died he tweeted saying that Islam is the sword the left is using to slit America's ..."
@@ -283,7 +280,7 @@ _Type: Concepts_
 **[00:31:37](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-31-37)**
 > "the airport and no more evil muslims will get you and you're like okay what do i have ..."
 
-**[00:40:26](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-40-26)**
+**[00:40:23](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-40-23)**
 > "They don't care about Muslims dying."
 
 **[00:48:23](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-48-23)**
@@ -292,7 +289,7 @@ _Type: Concepts_
 **[01:07:37](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-01-07-37)**
 > "...e because he's an arab he's a muslim he already"
 
-**[01:36:33](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-01-36-30)**
+**[01:36:30](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-01-36-30)**
 > "...out how stupid Christians and Muslims are and how they use them to fight with each othe..."
 
 **[01:42:19](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-01-42-19)**
@@ -304,7 +301,7 @@ _Type: Concepts_
 **[01:44:10](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-01-44-10)**
 > "was like afraid of every muslim i was just like they did such a good job"
 
-**[01:44:20](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-01-44-14)**
+**[01:44:14](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-01-44-14)**
 > "...to have just be suspicious of Muslims."
 
 </details>

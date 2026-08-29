@@ -21,7 +21,7 @@ _Type: People_
 Source: [Encyclopædia Britannica: Solomon](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Solomon)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-08-46">2026-01-28 · 00:09:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-09-04">2026-01-28 · 00:09:24</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-person-king-solomon-t-00-05-34">2026-06-11 · 00:06:00</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>14</strong></div>
@@ -35,7 +35,7 @@ Source: [Encyclopædia Britannica: Solomon](https://en.wikisource.org/wiki/1911_
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-king-solomon-t-00-11-29">Donald Trump Has Betrayed America. | Candace Ep 308</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-08-46" style="--pulse-height:33%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-09-04" style="--pulse-height:33%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-king-solomon-t-00-35-55" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-solomon-t-00-13-37" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-king-solomon-t-00-11-29" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 6 mentions" title="2026-03-09 · 6 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [Encyclopædia Britannica: Solomon](https://en.wikisource.org/wiki/1911_
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-08-46) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-09-04) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-king-solomon-t-00-35-55) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-king-solomon-t-00-13-37) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-king-solomon-t-00-11-29) | 6 |
@@ -125,10 +125,10 @@ Source: [Encyclopædia Britannica: Solomon](https://en.wikisource.org/wiki/1911_
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:09:25](/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-08-46)**
+**[00:09:24](/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-09-04)**
 > "King Solomon wrote that mankind is to be tested by God."
 
-**[00:09:56](/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-09-30)**
+**[00:09:56](/episodes/ep-QdM9jLwjwLw.md#ent-person-king-solomon-t-00-09-48)**
 > "...hy I'm showing it to you it's King Solomon and it's you know this is what God wants okay"
 
 </details>

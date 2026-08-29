@@ -51,7 +51,7 @@ Source: [UNESCO World Heritage Centre: Baalbek](https://whc.unesco.org/en/list/2
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
 
 **[00:36:25](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-baalbek-t-00-35-55)**
-> "some of these relics like in Baalbek, Lebanon"
+> "Now, I want to show you this. I don't know if you have pulled this in yet, Skylar (show producer; surname unverified), some of these relics, like in Baalbek, Lebanon."
 
 </details>
 

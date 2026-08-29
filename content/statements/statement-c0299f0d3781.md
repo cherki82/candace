@@ -53,4 +53,4 @@ Transcript context at 1655-1675s preserves Laitsch's explicit qualifier: she sai
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

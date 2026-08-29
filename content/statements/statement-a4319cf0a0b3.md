@@ -32,7 +32,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:13:25](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50) 
+**Timestamp:** [00:13:25](/episodes/ep-GY6GWceEqtQ.md#t-00-13-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(805);return false;">Play</a>
 
 > it continues. She has accused a Turning Point USA employee of being intentionally evasive in an effort to clear Erika Kirk's name, specifically as to whether Ms. ... Kirk was at Fort Huachuca in or around an alleged secret meeting that Ms. ... Owens-Farmer has linked to Charlie Kirk's assassination.

@@ -22,7 +22,7 @@ _Type: Concepts_
 Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.cornell.edu/wex/non-disclosure_agreement_%28nda%29)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-08">2026-01-21 · 00:07:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-04">2026-01-21 · 00:07:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-23-09">2026-07-29 · 00:23:39</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
@@ -36,7 +36,7 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-nondisclosure-agreement-t-00-39-28">EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-08" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-04" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-nondisclosure-agreement-t-00-42-06" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-nondisclosure-agreement-t-01-02-47" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-nondisclosure-agreement-t-00-39-28" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 4 mentions" title="2026-07-23 · 4 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-08) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-04) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-nondisclosure-agreement-t-00-42-06) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-nondisclosure-agreement-t-01-02-47) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-nondisclosure-agreement-t-00-39-28) | 4 |
@@ -114,7 +114,7 @@ Source: [non-disclosure agreement (NDA) | Wex | US Law | LII](https://www.law.co
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:07:31](/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-08)**
+**[00:07:28](/episodes/ep-GY6GWceEqtQ.md#ent-concept-nondisclosure-agreement-t-00-07-04)**
 > "there is standard NDA agreements"
 
 </details>

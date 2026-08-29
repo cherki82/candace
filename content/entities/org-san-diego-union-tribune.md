@@ -20,8 +20,8 @@ _Type: Organizations_
 Source: [The San Diego Union-Tribune](https://www.sandiegouniontribune.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-san-diego-union-tribune-t-01-22-12">2026-01-29 · 01:22:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-san-diego-union-tribune-t-01-22-12">2026-01-29 · 01:22:18</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-san-diego-union-tribune-t-01-22-12">2026-01-29 · 01:22:12</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-san-diego-union-tribune-t-01-22-12">2026-01-29 · 01:22:12</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -53,7 +53,7 @@ Source: [The San Diego Union-Tribune](https://www.sandiegouniontribune.com/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:22:18](/episodes/ep-xjzb_t5Tk9o.md#ent-org-san-diego-union-tribune-t-01-22-12)**
+**[01:22:12](/episodes/ep-xjzb_t5Tk9o.md#ent-org-san-diego-union-tribune-t-01-22-12)**
 > "published a notarized statement in San Diego Union Tribune"
 
 </details>

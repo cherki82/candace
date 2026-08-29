@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles"
-description: "Los Angeles (Places) - 24 mentions"
+description: "Los Angeles (Places) - 25 mentions"
 id: "gpe-los-angeles"
 type: "GPE"
 aliases:
@@ -24,8 +24,8 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51">2025-12-17 · 00:46:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-los-angeles-t-00-20-28">2026-07-23 · 00:20:38</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-los-angeles-t-00-20-01" style="--pulse-height:67%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#t-00-33-17" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#t-00-47-30" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-los-angeles-t-01-35-51" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-04-51" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -59,6 +60,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 |---|---|---:|
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-los-angeles-t-00-20-01) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-33-17) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-los-angeles-t-01-35-51) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-04-51) | 1 |
@@ -80,7 +82,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
@@ -194,7 +196,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
 **[01:35:51](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-los-angeles-t-01-35-51)**
-> "... openly. He gives lectures in Los Angeles,"
+> "... openly. He gives lectures in Los Angeles, in New York and just first of all he doesn't cal..."
 
 </details>
 
@@ -202,7 +204,15 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
 **[00:47:30](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30)**
-> "when my family traveled to LA"
+> "Family values public promotion and endorsements above all else. Brand Beckham comes first. Family love is decided by how much you post on social media or how quickly you drop everything to show up and post for a family photo, even if it's at the expense of our professional obligations. We have gone out of our way for years to show up and to support at every fashion show, every party, and every press activity to show our perfect family. But the one time that my wife asked for my mom's support to save displaced dogs during the L.A. fires, my mom refused."
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+
+**[00:33:32](/episodes/ep-9naMwS0kMBE.md#t-00-33-17)**
+> "...are at Peter Thiel's house in LA strangely she never mentioned to me that he was a..."
 
 </details>
 

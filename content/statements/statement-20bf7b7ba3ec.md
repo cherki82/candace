@@ -29,7 +29,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:12:38](/episodes/ep-GY6GWceEqtQ.md#t-00-12-05) 
+**Timestamp:** [00:12:38](/episodes/ep-GY6GWceEqtQ.md#t-00-12-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(758);return false;">Play</a>
 
 > This next sentence sends me, she has claimed to know that there are people at Turning Point USA who are not good people and have suggested that Turning Point USA and TPUSA faith have been infiltrated by military operatives.

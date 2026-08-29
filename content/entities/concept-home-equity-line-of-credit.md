@@ -42,10 +42,10 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-54-16" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-home-equity-line-of-credit-t-01-15-07" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-home-equity-line-of-credit-t-00-40-49" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-home-equity-line-of-credit-t-00-57-10" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-home-equity-line-of-credit-t-00-37-19" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-home-equity-line-of-credit-t-00-57-39" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-home-equity-line-of-credit-t-00-37-16" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-home-equity-line-of-credit-t-00-47-09" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-home-equity-line-of-credit-t-00-57-26" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-home-equity-line-of-credit-t-00-57-16" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-home-equity-line-of-credit-t-00-42-04" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-concept-home-equity-line-of-credit-t-00-37-37" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-concept-home-equity-line-of-credit-t-00-43-01" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
@@ -97,10 +97,10 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-54-16) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-home-equity-line-of-credit-t-01-15-07) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-home-equity-line-of-credit-t-00-40-49) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-home-equity-line-of-credit-t-00-57-10) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-home-equity-line-of-credit-t-00-37-19) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-home-equity-line-of-credit-t-00-57-39) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-home-equity-line-of-credit-t-00-37-16) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-home-equity-line-of-credit-t-00-47-09) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-concept-home-equity-line-of-credit-t-00-57-26) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-concept-home-equity-line-of-credit-t-00-57-16) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-home-equity-line-of-credit-t-00-42-04) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-concept-home-equity-line-of-credit-t-00-37-37) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-concept-home-equity-line-of-credit-t-00-43-01) | 1 |
@@ -456,7 +456,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:42:21](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-home-equity-line-of-credit-t-00-42-04)**
+**[00:42:20](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-home-equity-line-of-credit-t-00-42-04)**
 > "Unlike a HELOC"
 
 </details>
@@ -464,7 +464,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:57:33](/episodes/ep-QdM9jLwjwLw.md#ent-concept-home-equity-line-of-credit-t-00-57-26)**
+**[00:57:30](/episodes/ep-QdM9jLwjwLw.md#ent-concept-home-equity-line-of-credit-t-00-57-16)**
 > "Unlike a HELOC, which can fluctuate with the market,"
 
 </details>
@@ -480,7 +480,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:37:33](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-home-equity-line-of-credit-t-00-37-19)**
+**[00:37:33](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-home-equity-line-of-credit-t-00-37-16)**
 > "Unlike a HELOC, which can fluctuate with the market,"
 
 </details>
@@ -488,7 +488,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:57:39](/episodes/ep-GY6GWceEqtQ.md#ent-concept-home-equity-line-of-credit-t-00-57-10)**
+**[00:57:39](/episodes/ep-GY6GWceEqtQ.md#ent-concept-home-equity-line-of-credit-t-00-57-39)**
 > "Unlike a HELOC"
 
 </details>

@@ -26,10 +26,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:51:28](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3088);return false;">Play</a>
+**Timestamp:** [00:51:25](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3085);return false;">Play</a>
 
-> Management truly believed that they were going to get a bunch of signups to the Daily Wire en masse.
+> Management truly believed that they were going to get a bunch of signups to the Daily Wire en masse. ... The whole world was going to support them and their debt issues would be wiped away.
 
 ## Verification
 

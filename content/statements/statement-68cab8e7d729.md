@@ -49,7 +49,7 @@ NFL records confirm that the NFL, Apple Music, and Roc Nation jointly announced 
 
 - [NFL: Bad Bunny to perform at Super Bowl LX halftime show](https://www.nfl.com/_amp/global-sensation-bad-bunny-to-perform-at-apple-music-super-bowl-lx-halftime-show)
 
-*Verified: 2026-08-16T09:04:17.434948*
+*Verified: 2026-08-29T14:35:05.547162*
 
 ---
 

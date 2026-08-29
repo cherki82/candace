@@ -1,6 +1,6 @@
 ---
 title: "Hamas"
-description: "Hamas (Organizations) - 41 mentions"
+description: "Hamas (Organizations) - 40 mentions"
 id: "org-hamas"
 type: "ORG"
 categories:
@@ -20,7 +20,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57">2025-09-16 · 00:51:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-hamas-t-00-37-00">2026-08-04 · 00:37:00</a></strong></div>
 <div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,25 +29,25 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-51">Candace x Bassem Youssef | Candace Ep 298</a> (11 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-29">Candace x Bassem Youssef | Candace Ep 298</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57" style="--pulse-height:18%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-04-24" style="--pulse-height:18%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-32" style="--pulse-height:18%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-21" style="--pulse-height:45%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-hamas-t-00-04-45" style="--pulse-height:9%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-LATnak75Si0.md#t-00-49-51" style="--pulse-height:9%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-hamas-t-00-29-00" style="--pulse-height:9%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23" style="--pulse-height:18%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-hamas-t-00-12-45" style="--pulse-height:18%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-hamas-t-00-34-41" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-hamas-t-00-44-21" style="--pulse-height:9%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-51" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 11 mentions" title="2026-01-29 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11" style="--pulse-height:9%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22" style="--pulse-height:9%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48" style="--pulse-height:55%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 6 mentions" title="2026-05-19 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40" style="--pulse-height:9%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-hamas-t-00-37-00" style="--pulse-height:9%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#ent-org-hamas-t-00-51-57" style="--pulse-height:20%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 2 mentions" title="2025-09-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-hamas-t-00-04-24" style="--pulse-height:20%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-hamas-t-00-46-32" style="--pulse-height:20%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 2 mentions" title="2025-10-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-org-hamas-t-00-46-21" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 5 mentions" title="2025-10-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-hamas-t-00-04-45" style="--pulse-height:10%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-LATnak75Si0.md#t-00-49-51" style="--pulse-height:10%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-hamas-t-00-29-00" style="--pulse-height:10%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23" style="--pulse-height:20%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-hamas-t-00-12-45" style="--pulse-height:20%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-org-hamas-t-00-34-41" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-hamas-t-00-44-21" style="--pulse-height:10%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-29" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 10 mentions" title="2026-01-29 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11" style="--pulse-height:10%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22" style="--pulse-height:10%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48" style="--pulse-height:60%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 6 mentions" title="2026-05-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-hamas-t-00-12-40" style="--pulse-height:10%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-hamas-t-00-37-00" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,7 +64,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-hamas-t-00-12-45) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-hamas-t-00-34-41) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-hamas-t-00-44-21) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-51) | 11 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-29) | 10 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-hamas-t-00-51-11) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-hamas-t-00-30-22) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-hamas-t-00-07-48) | 6 |
@@ -77,7 +77,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -135,30 +135,27 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (11 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (10 mentions)</summary>
 
-**[00:07:06](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-51)**
+**[00:06:59](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-29)**
 > "He talks a lot about how Hamas..."
 
-**[00:07:09](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-06-51)**
+**[00:07:09](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-07-09)**
 > "...en he brought in a video with hamas and the palestinian authorities in gaza digging o..."
 
-**[00:07:35](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-07-35)**
-> "it has Hamas officials talking over it,"
-
-**[00:43:45](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-43-43)**
+**[00:43:43](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-43-43)**
 > "Hamas has absolutely no control in the West Bank and th..."
 
-**[00:43:56](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-43-43)**
+**[00:43:49](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-43-43)**
 > "no Hamas. Since the occupation of the West Bank,"
 
-**[00:44:04](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-43-43)**
+**[00:44:01](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-43-43)**
 > "no Hamas."
 
-**[00:44:26](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-44-26)**
+**[00:44:21](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-44-21)**
 > "...lling in the West Bank, where Hamas does not exist,"
 
-**[00:44:49](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-44-46)**
+**[00:44:46](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-00-44-46)**
 > "there's no Hamas there. Why are we just killing Palestinians for f..."
 
 **[01:11:58](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-01-11-58)**
@@ -167,7 +164,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 **[01:23:21](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-01-23-21)**
 > "...stem which I didn't know that Hamas were great builders they should come and build th..."
 
-**[01:34:02](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-01-34-00)**
+**[01:34:00](/episodes/ep-xjzb_t5Tk9o.md#ent-org-hamas-t-01-34-00)**
 > "...see what the Palestinian what Hamas did."
 
 </details>
@@ -350,7 +347,7 @@ Source: [International Religious Freedom Reports: Custom Report Excerpts - U.S. 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>
 
-- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-51) (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video ..."](/statements/statement-316c32dcf384.md)
+- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-07-09) (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video ..."](/statements/statement-316c32dcf384.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [European Union](/entities/org-european-union.md), [Palestinian Authority](/entities/org-palestinian-authority.md)
 
 - [00:43:45](/episodes/ep-xjzb_t5Tk9o.md#t-00-43-43) (Claim) **Bassem Youssef** (via quoted speech): ["Hamas has no control in the West Bank, where 37 Palestinian children h..."](/statements/statement-16c93cfbd886.md)

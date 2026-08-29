@@ -17,8 +17,8 @@ _Type: Works & Media_
 Source: [Ecclesiastes | Old Testament | Britannica](https://www.britannica.com/topic/Ecclesiastes-Old-Testament)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-08-46">2026-01-28 · 00:09:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-08-46">2026-01-28 · 00:09:24</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-09-04">2026-01-28 · 00:09:24</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-09-04">2026-01-28 · 00:09:24</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -29,15 +29,15 @@ Source: [Ecclesiastes | Old Testament | Britannica](https://www.britannica.com/t
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-08-46">Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-09-04">Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-08-46" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-09-04" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-08-46) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-09-04) | 1 |
 
 </details>
 </section>
@@ -50,7 +50,7 @@ Source: [Ecclesiastes | Old Testament | Britannica](https://www.britannica.com/t
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:09:24](/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-08-46)**
+**[00:09:24](/episodes/ep-QdM9jLwjwLw.md#ent-work-ecclesiastes-t-00-09-04)**
 > "It reads in Ecclesiastes,"
 
 </details>

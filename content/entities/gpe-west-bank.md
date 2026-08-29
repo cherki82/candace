@@ -25,7 +25,7 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -108,16 +108,16 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
 
-**[00:43:45](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-west-bank-t-00-43-43)**
+**[00:43:43](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-west-bank-t-00-43-43)**
 > "no control in the West Bank"
 
-**[00:43:56](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-west-bank-t-00-43-43)**
+**[00:43:49](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-west-bank-t-00-43-43)**
 > ".... Since the occupation of the West Bank,"
 
-**[00:44:26](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-west-bank-t-00-44-26)**
+**[00:44:21](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-west-bank-t-00-44-21)**
 > "...ou justify the killing in the West Bank, where Hamas does not exist,"
 
-**[01:22:01](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-west-bank-t-01-21-46)**
+**[01:21:46](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-west-bank-t-01-21-46)**
 > "... their operations in Gaza and West Bank and it's been going on for years."
 
 </details>
@@ -140,7 +140,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about West Bank (2)</strong></summary>
+<summary><strong class="section-title">Statements about West Bank (3)</strong></summary>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
@@ -151,10 +151,13 @@ _No relationships extracted yet._
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>
 
 - [00:43:45](/episodes/ep-xjzb_t5Tk9o.md#t-00-43-43) (Claim) **Bassem Youssef** (via quoted speech): ["Hamas has no control in the West Bank, where 37 Palestinian children h..."](/statements/statement-16c93cfbd886.md)
   - Also about: [Hamas](/entities/org-hamas.md), [Palestine](/entities/gpe-palestine.md)
+
+- [01:21:46](/episodes/ep-xjzb_t5Tk9o.md#t-01-21-46) (Citation) **Bassem Youssef**: ["Bassem Youssef said Breaking the Silence is a group of former IDF sold..."](/statements/statement-7bd7a3fccfcd.md)
+  - Also about: [Breaking the Silence](/entities/org-breaking-the-silence.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Gaza](/entities/gpe-gaza.md)
 
 </details>
 

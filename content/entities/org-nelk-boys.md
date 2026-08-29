@@ -66,7 +66,7 @@ Source: [Nelk](https://en.wikipedia.org/wiki/Nelk)
 **[01:20:09](/episodes/ep-xjzb_t5Tk9o.md#ent-org-nelk-boys-t-01-20-09)**
 > "on the Nelk podcast"
 
-**[01:20:20](/episodes/ep-xjzb_t5Tk9o.md#ent-org-nelk-boys-t-01-20-09)**
+**[01:20:19](/episodes/ep-xjzb_t5Tk9o.md#ent-org-nelk-boys-t-01-20-09)**
 > "And I like the Nelk boys."
 
 </details>
@@ -80,9 +80,10 @@ Source: [Nelk](https://en.wikipedia.org/wiki/Nelk)
 <summary>Interviewed (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:06](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “So what did Bibi (Benjamin Netanyahu) do instead? Well, he kept up his schedule with podcasters. He did the Nelk Boys.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:20:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-20-08): “yay for Candace hosting him when he was on the Nelk podcast. ... that was one of the podcasts Bibi (Benjamin Netanyahu) could get on, by the way, which Charlie Kirk said no.”
 
 </details>
 
@@ -92,9 +93,10 @@ Source: [Nelk](https://en.wikipedia.org/wiki/Nelk)
 <summary>Referenced By (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:06](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “So what did Bibi (Benjamin Netanyahu) do instead? Well, he kept up his schedule with podcasters. He did the Nelk Boys.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:20:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-20-08): “yay for Candace hosting him when he was on the Nelk podcast. ... that was one of the podcasts Bibi (Benjamin Netanyahu) could get on, by the way, which Charlie Kirk said no.”
 
 </details>
 

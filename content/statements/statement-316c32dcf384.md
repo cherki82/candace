@@ -30,7 +30,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
-**Timestamp:** [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-51) 
+**Timestamp:** [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-07-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(429);return false;">Play</a>
 
 > uses the aid from the european union to create weapons right that's his old thing and then he brought in a video with hamas and the palestinian authorities in gaza digging out water pipes and say you see these are the water pipes that are put there by the eu and this is hamas extracting them and making weapons from them ... The beauty about this clip, ... that this clip had an Arabic narration, ... it has Hamas officials talking over it, ... and they said that they discovered water pipes inside, like being dug from inside Israel to steal their water. ... So when they discovered it, they dug it out and they used those weapons against Israel. ... So he took like a video knowing exactly what's their narration is, ... and he changed it.

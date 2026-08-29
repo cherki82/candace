@@ -20,7 +20,7 @@ _Type: Vehicles_
 Source: [USHMM: Explosion of the SS Patria](https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1939-1941/explosion-of-the-ss-patria)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-ss-patria-t-00-39-23">2026-01-29 · 00:39:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-ss-patria-t-00-39-23">2026-01-29 · 00:39:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-ss-patria-t-00-39-45">2026-01-29 · 00:39:45</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -56,7 +56,7 @@ Source: [USHMM: Explosion of the SS Patria](https://encyclopedia.ushmm.org/conte
 **[00:39:45](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-ss-patria-t-00-39-45)**
 > "Patria was a ship"
 
-**[00:39:37](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-ss-patria-t-00-39-23)**
+**[00:39:23](/episodes/ep-xjzb_t5Tk9o.md#ent-vehicle-ss-patria-t-00-39-23)**
 > "...ng. Do you know the crisis of Patria?"
 
 </details>

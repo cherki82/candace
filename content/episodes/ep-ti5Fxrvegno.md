@@ -118,7 +118,7 @@ youtube_url: "https://www.youtube.com/watch?v=ti5Fxrvegno"
 ---
 **🎤 Candace Owens**
 
-**<a href="/timestamps/ep-ti5Fxrvegno/t-00-27-56.md" class="timestamp-link">00:27:56</a> <a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1676" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So let me just tell you how God works. I don't actually use <span id="ent-org-tiktok-t-00-27-56"><a href="/entities/org-tiktok.md">TikTok</a></span> that often. And I got this video, I think somebody sent it to me. And I had just arrived at an interesting fact about <span id="ent-person-erika-kirk-t-00-27-56"><a href="/entities/person-erika-kirk.md">Erika</a></span> because, you know, we've been working in the background all this time out of her life and it was about her real estate career. An interesting little tidbit that I can add here on her journey. It just so happens to be, like I said, this came across as I was noticing this inexplicable data points, the story that we are told. And the story that <span id="ent-person-charlie-kirk-t-00-27-56"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> was told, the story that I was told, is that <a href="/entities/person-erika-kirk.md">Erika</a> and <a href="/entities/person-charlie-kirk.md">Charlie Kirk</a> fell in love when he was interviewing her for a job with <span id="ent-org-turning-point-usa-t-00-27-56"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span>. told is that <a href="/entities/person-erika-kirk.md">Erika</a> and <a href="/entities/person-charlie-kirk.md">Charlie Kirk</a> fell in love when he was interviewing her for a job with <a href="/entities/org-turning-point-usa.md">Turning Point USA</a>. ^t-00-27-56
+**<a href="/timestamps/ep-ti5Fxrvegno/t-00-27-56.md" class="timestamp-link">00:27:56</a> <a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1676" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** So let me just tell you how God works. I don't actually use <span id="ent-org-tiktok-t-00-27-56"><a href="/entities/org-tiktok.md">TikTok</a></span> that often. And I got this video, I think somebody sent it to me. And I had just arrived at an interesting fact about <span id="ent-person-erika-kirk-t-00-27-56"><a href="/entities/person-erika-kirk.md">Erika</a></span> because, you know, we've been working in the background all this time out of her life and it was about her real estate career. An interesting little tidbit that I can add here on her journey. It just so happens to be, like I said, this came across as I was noticing this inexplicable data points, the story that we are told. And the story that <span id="ent-person-charlie-kirk-t-00-27-56"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> was told, the story that I was told, is that <a href="/entities/person-erika-kirk.md">Erika</a> and <a href="/entities/person-charlie-kirk.md">Charlie Kirk</a> fell in love when he was interviewing her for a job with <span id="ent-org-turning-point-usa-t-00-27-56"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span>. ^t-00-27-56
 
 **<a href="/timestamps/ep-ti5Fxrvegno/t-00-28-37.md" class="timestamp-link">00:28:37</a> <a href="https://www.youtube.com/watch?v=ti5Fxrvegno&t=1717" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Many people have confirmed this many times over. I'll give you some examples. Here is <span id="ent-person-tyler-bowyer-t-00-28-37"><a href="/entities/person-tyler-bowyer.md">Tyler Bowyer</a></span> discussing this at <span id="ent-person-charlie-kirk-t-00-28-37"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s memorial. ^t-00-28-37
 
@@ -227,7 +227,7 @@ youtube_url: "https://www.youtube.com/watch?v=ti5Fxrvegno"
 - **2025-09-09 18:00**: [Josh Hammer said Charlie Kirk held a Zoom call with him and an Israel-based rabbi.](/events/event-2025-09-09-josh-hammer-said-charlie-kirk-held-a-zoo.md)
 - **2025-09-10**: [Candace Owens said Tracy Martin's daughter had been scheduled to be at UVU but did not attend after Martin said she had a bad feeling.](/events/event-2025-09-10-candace-owens-said-tracy-martins-daughte.md)
 - **2025-09-10**: [Charlie Kirk was assassinated at Utah Valley University.](/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md)
-- **2025-09**: [Candace Owens said Erika Kirk and Andrew Kolvet held a three-way call with Charlie Kirk's surgeon in September 2025.](/events/event-2025-09-candace-owens-said-erika-kirk-and-andrew.md)
+- **2025-09-20**: [Candace Owens said Erika Kirk and Andrew Kolvet conferenced Charlie Kirk's surgeon about their public response.](/events/event-2025-09-20-candace-owens-said-erika-kirk-and-andrew.md)
 - **2025**: [Charlie Kirk convened a Hamptons retreat where attendees held a heated debate about Israel.](/events/event-2025-charlie-kirk-convened-a-hamptons-retreat.md)
 
 </details>
@@ -254,7 +254,7 @@ youtube_url: "https://www.youtube.com/watch?v=ti5Fxrvegno"
 </details>
 
 <details>
-<summary><strong>Statements (35)</strong></summary>
+<summary><strong>Statements (36)</strong></summary>
 
 - [00:01:09](#t-00-00-45) [○] (Opinion) **Candace Owens**: ["Erika Kirk should be taken to a police precinct for questioning."](/statements/statement-76ca6651e83f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -266,21 +266,21 @@ youtube_url: "https://www.youtube.com/watch?v=ti5Fxrvegno"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Pesach Wolicki](/entities/person-pesach-wolicki.md), [Israel](/entities/gpe-israel.md)
 - [00:07:59](#t-00-07-26) [?] (Claim) **Candace Owens**: ["On the night before his death, Charlie Kirk texted Dan Flood and Andrew Kolvet t..."](/statements/statement-c22432e9c7f9.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
-- [00:08:41](#t-00-08-07) [✓] (Claim) **Erika Kirk**: ["Charlie's adrenaline glands were just going off and he could not sleep on the ni..."](/statements/statement-046018931fe7.md)
+- [00:08:41](#t-00-08-07) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said Charlie Kirk was elated and could not sleep the night before his..."](/statements/statement-da66c2c71400.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:12:13](#t-00-12-13) [?] (Accusation) **Candace Owens**: ["What sort of best friend would protect her daughter based on intuition but not c..."](/statements/statement-d04d0bfff82d.md)
   - About: [Tracy Martin](/entities/person-tracy-martin.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:13:11](#t-00-12-58) [○] (Claim) **Candace Owens**: ["Erika Kirk and Andrew Kolvet held the three-way call with Charlie Kirk's surgeon..."](/statements/statement-398e4130e758.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:13:34](#t-00-12-58) [○] (Accusation) **Candace Owens**: ["Erika Kirk lied about Andrew Kolvet and Dr. Lee Trotter going rogue and violatin..."](/statements/statement-2824555a224c.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Lee Trotter](/entities/person-lee-trotter.md)
+- [00:13:34](#t-00-12-58) [✓] (Accusation) **Candace Owens**: ["Candace Owens said Erika Kirk allegedly initiated and participated in the three-..."](/statements/statement-0405ad7119c3.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:14:24](#t-00-14-24) [?] (Accusation) **Candace Owens**: ["Erika Kirk twice lied about Charlie Kirk's message to Dan Flood: first denying i..."](/statements/statement-308b34519eea.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md)
 - [00:14:44](#t-00-14-24) [○] (Claim) **Candace Owens**: ["Erika Kirk attended the Hamptons retreat and was present when Benjamin Netanyahu..."](/statements/statement-114253bc2666.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:15:30](#t-00-15-04) [✓] (Claim) **Candace Owens**: ["Ben Shapiro walked onto the AmericaFest stage immediately after Erika Kirk opene..."](/statements/statement-550b156f883f.md)
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-- [00:16:07](#t-00-15-44) [◐] (Claim) **Candace Owens**: ["Charlie Kirk did not want Benjamin Netanyahu on his radio show and was finished ..."](/statements/statement-c98d86af89d9.md)
+- [00:16:07](#t-00-15-44) [✓] (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk rejected hosting Benjamin Netanyahu on his show ..."](/statements/statement-810751682abb.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
 - [00:16:32](#t-00-16-27) [?] (Claim) **Candace Owens**: ["Benjamin Netanyahu, Erika Kirk, and Ben Shapiro were scheduled to film something..."](/statements/statement-ca0b88460c1c.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Erika Kirk](/entities/person-erika-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -326,5 +326,7 @@ youtube_url: "https://www.youtube.com/watch?v=ti5Fxrvegno"
   - About: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:46:21](#t-00-45-47) [?] (Accusation) **Candace Owens**: ["People are being killed on American soil because foreign nations have an issue w..."](/statements/statement-1b8266b81682.md)
   - About: [United States](/entities/gpe-united-states.md)
+- [00:47:10](#t-00-46-54) [✓] (Promise) **Candace Owens**: ["Candace Owens said she would retire from podcasting if the federal government ad..."](/statements/statement-103fe5bc592b.md)
+  - About: [the federal government](/entities/org-the-federal-government.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

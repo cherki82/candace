@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake City"
-description: "Salt Lake City (Places) - 58 mentions"
+description: "Salt Lake City (Places) - 60 mentions"
 id: "gpe-salt-lake-city"
 type: "GPE"
 categories:
@@ -19,10 +19,10 @@ Source: [SLC.gov](https://www.slc.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53">2025-09-17 · 00:19:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-salt-lake-city-t-01-38-09">2026-08-14 · 01:38:09</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>60</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-salt-lake-city-t-00-17-54" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-salt-lake-city-t-00-54-59" style="--pulse-height:8%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-salt-lake-city-t-00-09-55" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-salt-lake-city-t-00-27-34" style="--pulse-height:17%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-salt-lake-city-t-00-03-49" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-salt-lake-city-t-00-06-18" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-11-36" style="--pulse-height:50%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
@@ -75,6 +76,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-salt-lake-city-t-00-17-54) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-salt-lake-city-t-00-54-59) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-salt-lake-city-t-00-09-55) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-salt-lake-city-t-00-27-34) | 2 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-salt-lake-city-t-00-03-49) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-salt-lake-city-t-00-06-18) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-salt-lake-city-t-00-11-36) | 6 |
@@ -93,7 +95,7 @@ Source: [SLC.gov](https://www.slc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (60)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -222,6 +224,17 @@ Source: [SLC.gov](https://www.slc.gov/)
 
 **[00:04:22](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-salt-lake-city-t-00-03-49)**
 > "...in on a plane that morning to Salt Lake City, that something could have gone horribly wrong."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:27:59](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-salt-lake-city-t-00-27-34)**
+> "I don't know, because journalism, but also because there was this FBI plane, definitively an FBI plane that landed into Salt Lake City, Utah on September 8th. So, you know, Charlie (Charlie Kirk), remember, he first went to Salt Lake City on the morning of the 10th, which I found to be very unusual that he would go there and do that weird restaurant interview, whatever it was, as his final interview."
+
+**[00:28:20](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-salt-lake-city-t-00-28-20)**
+> "...was an FBI plane that went to Salt Lake City, Utah on September 8th. And it's just interesting..."
 
 </details>
 
@@ -404,7 +417,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Salt Lake City (6)</strong></summary>
+<summary><strong class="section-title">Statements about Salt Lake City (8)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
@@ -438,6 +451,17 @@ _No relationships extracted yet._
 
 - [00:12:13](/episodes/ep-X3VKJVJ7cN4.md#t-00-11-36) (Claim) **Candace Owens**: ["Owens said Michael McCoy was also aboard the jet and rented two SUVs i..."](/statements/statement-6fda75c76aee.md)
   - Also about: [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2)</summary>
+
+- [00:27:59](/episodes/ep-5NQyGuRYbU8.md#t-00-27-34) (Claim) **Candace Owens**: ["Candace Owens said an FBI plane landed in Salt Lake City on September ..."](/statements/statement-395c6ab99170.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:28:24](/episodes/ep-5NQyGuRYbU8.md#t-00-28-20) (Claim) **Candace Owens**: ["Candace Owens said the FBI plane left Richmond at 9:50 a.m., reached S..."](/statements/statement-db7072ff5529.md)
+  - Also about: [FBI](/entities/org-fbi.md), [Richmond, Virginia](/entities/gpe-richmond-virginia.md)
 
 </details>
 

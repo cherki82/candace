@@ -29,7 +29,7 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -114,6 +114,18 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 </details>
 
 <details>
+<summary>Has Former Director (1)</summary>
+
+- **[Jack David Solomon](/entities/person-jack-david-solomon.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “He's the former director of the University's Jerusalem Center.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Part Of (1)</summary>
 
 - **[BYU](/entities/org-byu.md)**
@@ -126,7 +138,7 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -139,6 +151,13 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-24-36): “Which is exactly where Andrew Zenger attended school. He lived in Jerusalem, and I'm now going to tell you that BYU, the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another.”
+
+</details>
+
+- **[Jack David Solomon](/entities/person-jack-david-solomon.md)** former director of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “He's the former director of the University's Jerusalem Center.”
 
 </details>
 

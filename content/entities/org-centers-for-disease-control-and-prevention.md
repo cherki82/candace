@@ -121,7 +121,7 @@ Source: [About CDC](https://www.cdc.gov/about/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:20:30](/episodes/ep-gG4ZoYUjUc8.md#ent-org-centers-for-disease-control-and-prevention-t-00-19-55)**
+**[00:20:26](/episodes/ep-gG4ZoYUjUc8.md#ent-org-centers-for-disease-control-and-prevention-t-00-19-55)**
 > "While the CDC remains silent,"
 
 </details>

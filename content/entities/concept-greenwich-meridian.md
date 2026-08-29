@@ -75,7 +75,7 @@ _No relationships extracted yet._
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
-- [00:07:16](/episodes/ep-DYD_QHMPwqM.md#t-00-07-04) (Claim) **Rob Skiba**: ["The Paris prime meridian is referred to in the occult as the devil's l..."](/statements/statement-0179d53166e5.md)
+- [00:07:16](/episodes/ep-DYD_QHMPwqM.md#t-00-07-04) (Claim) **Rob Skiba** (via quoted speech): ["The Paris prime meridian is referred to in the occult as the devil's l..."](/statements/statement-0179d53166e5.md)
   - Also about: [Paris meridian](/entities/concept-paris-meridian.md)
 
 </details>

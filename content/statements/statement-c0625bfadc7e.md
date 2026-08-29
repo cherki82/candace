@@ -1,6 +1,6 @@
 ---
-title: "Turning Point USA fired an employee and everyone associated ..."
-description: "\"Turning Point USA fired an employee and everyone associated with her after finding screenshots of Candace Owens's public timeline on her laptop, even ...\" — Candace Owens"
+title: "According to Candace Owens, Turning Point USA apparently pan..."
+description: "\"According to Candace Owens, Turning Point USA apparently panicked after Andrew Kolvet found screenshots of Owens's public timeline on an employee's la...\" — Candace Owens"
 statement_id: "statement-c0625bfadc7e"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Turning Point USA fired an employee and everyone associated with her after finding screenshots of Candace Owens's public timeline on her laptop, even though she was not Owens's source.
+> According to Candace Owens, Turning Point USA apparently panicked after Andrew Kolvet found screenshots of Owens's public timeline on an employee's laptop, then fired her and everyone associated with her even though she was not Owens's source.
 
 ## Attribution
 

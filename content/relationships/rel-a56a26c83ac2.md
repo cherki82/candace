@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (60 mentions)
+### Evidence (62 mentions)
 
 **[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
 
@@ -44,6 +44,10 @@ object: "person-candace-owens"
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
 - [00:38:47](/episodes/ep-4JxgOclKzqg#t-00-38-47): _I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue_
+
+**[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
+
+- [00:35:54](/episodes/ep-5NQyGuRYbU8#t-00-35-54): _Erika (Erika Kirk) ... Her job is to cry._
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
@@ -152,6 +156,10 @@ object: "person-candace-owens"
 **[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
 
 - [00:40:40](/episodes/ep-Vu6Y24pqhZs#t-00-40-40): _Not interested, not as interested or maybe just honestly doesn't obviously possess the intellect that Charlie (Charlie Kirk) possessed. What did Charlie (Charlie Kirk) find out in his last days?_
+
+**[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
+
+- [00:54:01](/episodes/ep-Wjul6YV6izo#t-00-54-01): _Mrs. Kirk is not just behaving inappropriately. She's behaving suspiciously. ... it is always suspicious to tell a lie._
 
 **[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
 

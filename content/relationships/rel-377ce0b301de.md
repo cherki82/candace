@@ -11,7 +11,11 @@ object: "person-tucker-carlson"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) met with [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
+
+- [00:42:52](/episodes/ep-5NQyGuRYbU8#t-00-42-52): _Tucker (Tucker Carlson) said to us ... He had dinner with Charlie (Charlie Kirk) and Erika (Erika Kirk)_
 
 **[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
 

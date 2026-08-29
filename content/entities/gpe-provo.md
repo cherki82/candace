@@ -51,7 +51,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-provo-t-00-09-20" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-provo-t-00-09-28" style="--pulse-height:28%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-35" style="--pulse-height:11%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-18" style="--pulse-height:11%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11" style="--pulse-height:44%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 8 mentions" title="2026-03-23 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57" style="--pulse-height:39%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 7 mentions" title="2026-03-24 · 7 mentions"><span></span></a>
@@ -88,7 +88,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-provo-t-00-09-20) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-provo-t-00-09-28) | 5 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21) | 3 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-35) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-18) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-provo-t-00-24-40) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-provo-t-00-15-11) | 8 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-provo-t-00-09-57) | 7 |
@@ -380,10 +380,10 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:06:53](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-35)**
+**[00:06:49](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-18)**
 > "...e stepped off of the plane in Provo on September 10th, he."
 
-**[00:07:24](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-07-17)**
+**[00:07:24](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-provo-t-00-06-59)**
 > "...vet) flew in with his wife to Provo."
 
 </details>
@@ -391,7 +391,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (3 mentions)</summary>
 
-**[01:07:48](/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21)**
+**[01:07:46](/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-21)**
 > "...eneral planes that came in to Provo."
 
 **[01:07:56](/episodes/ep-9naMwS0kMBE.md#ent-gpe-provo-t-01-07-56)**

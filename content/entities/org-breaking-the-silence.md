@@ -21,7 +21,7 @@ Source: [Breaking the Silence: The Organization](https://www.breakingthesilence.
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -63,5 +63,18 @@ Source: [Breaking the Silence: The Organization](https://www.breakingthesilence.
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Breaking the Silence (1)</strong></summary>
+
+<details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+
+- [01:21:46](/episodes/ep-xjzb_t5Tk9o.md#t-01-21-46) (Citation) **Bassem Youssef**: ["Bassem Youssef said Breaking the Silence is a group of former IDF sold..."](/statements/statement-7bd7a3fccfcd.md)
+  - Also about: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Gaza](/entities/gpe-gaza.md), [West Bank](/entities/gpe-west-bank.md)
+
+</details>
 
 </details>

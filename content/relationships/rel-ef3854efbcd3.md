@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (18 mentions)
+### Evidence (19 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -68,6 +68,10 @@ object: "org-turning-point-usa"
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
 - [00:17:52](/episodes/ep-UYkXV9mYbT4#t-00-17-52): _Because I think it's pretty clear that the feds are working with Turning Point USA and all evidence points to the fact that the feds are dirty in this case._
+
+**[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
+
+- [00:42:09](/episodes/ep-Wjul6YV6izo#t-00-42-09): _Satan is a liar. We're tracking the Turning Point USA lies._
 
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 

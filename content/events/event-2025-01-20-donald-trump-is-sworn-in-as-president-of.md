@@ -11,10 +11,20 @@ date: "2025-01-20"
 
 > Donald Trump is sworn in as president of the United States
 
-## Mentioned In
+## Mentioned In (2 times)
+
+### 1. A Tale of Two PR Disasters: Blake Lively & Turning Point USA...
 
 **Episode:** [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md)
 **Timestamp:** [00:37:02](/episodes/ep-eMtjzXkQrsU.md#event-event-2025-01-20-donald-trump-is-sworn-in-as-president-of-t-00-37-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2222);return false;">▶️ Play</a>
 
 > January 20th, Donald Trump is sworn in as POTUS. February 5th,
+
+### 2. Candace x Baron Coleman LIVE!! | Candace Ep 293
+
+**Episode:** [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md)
+**Timestamp:** [00:41:26](/episodes/ep-9naMwS0kMBE.md#event-event-2025-01-20-donald-trump-is-sworn-in-as-president-of-t-00-41-15) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2486);return false;">▶️ Play</a>
+
+> we talk about this on the one year anniversary of his installation for Trump, too.

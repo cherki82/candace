@@ -49,7 +49,7 @@ This statement accurately paraphrases the encounter Snow says he had; his later 
 - [Stew Peters Show: Mitch Snow follow-up interview transcript](https://fight.fudgie.org/search/show/st/episode/20260106_Tue_v71qumu)
 - [USNORTHCOM: Joint Task Force-Southern Border established](https://www.northcom.mil/Newsroom/News/Article/Article/4120682/new-joint-task-force-established-to-lead-usnorthcom-efforts-on-southern-border/)
 
-*Verified: 2026-08-16T09:04:59.987195*
+*Verified: 2026-08-29T14:35:05.547203*
 
 ---
 

@@ -158,7 +158,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 - **[Church of Satan](/entities/org-church-of-satan.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... he more. started his own church of satan after he had disagreement about with he was in the church of satan and then he had disagreement ... with the guy who started the Church of Satan because the guy was like well we're saying like Satan as an idea and he was like no I mean like real Satan like this Satan is not an idea this is their great schism the satanic schism and so then”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-34): “that's Aquino, that guy. ... he more. started his own church of satan after he had disagreement about with he was in the church of satan and then he had disagreement ... with the guy who started the Church of Satan because the guy was like well we're saying like Satan as an idea and he was like no I mean like real Satan like this Satan is not an idea this is their great schism the satanic schism and so then”
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:22:08](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58): “in 1969, this guy Aquino joined the Church of Satan. ... In 1975, he left to form his own satanic church”
 
 </details>
@@ -185,7 +185,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 - **[United States Armed Forces](/entities/org-united-states-armed-forces.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-34): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
 
 </details>
 
@@ -233,7 +233,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 - **[Church of Satan](/entities/org-church-of-satan.md)** has former member this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... he more. started his own church of satan after he had disagreement about with he was in the church of satan and then he had disagreement ... with the guy who started the Church of Satan because the guy was like well we're saying like Satan as an idea and he was like no I mean like real Satan like this Satan is not an idea this is their great schism the satanic schism and so then”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-34): “that's Aquino, that guy. ... he more. started his own church of satan after he had disagreement about with he was in the church of satan and then he had disagreement ... with the guy who started the Church of Satan because the guy was like well we're saying like Satan as an idea and he was like no I mean like real Satan like this Satan is not an idea this is their great schism the satanic schism and so then”
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:22:08](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58): “in 1969, this guy Aquino joined the Church of Satan. ... In 1975, he left to form his own satanic church”
 
 </details>
@@ -241,7 +241,7 @@ Source: [Historical Case Studies of Information Operations | Army University Pre
 - **[United States Armed Forces](/entities/org-united-states-armed-forces.md)** hired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-35): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:40:35](/episodes/ep-xjzb_t5Tk9o.md#t-01-40-34): “that's Aquino, that guy. ... And they then the military was like, I like what you're doing there. ... Let's bring you in to run psychological operations.”
 
 </details>
 

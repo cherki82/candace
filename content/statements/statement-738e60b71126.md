@@ -15,9 +15,11 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Tracy Martin](/entities/person-tracy-martin.md) (Guest)
+**Speaker:** [Tracy Martin](/entities/person-tracy-martin.md) (Quoted)
 
-**Delivery:** Made directly
+**Delivery:** Quoted from speech/interview
+**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
+**Original Source:** Tracy Martin video clip played by Candace Owens
 
 ## About
 

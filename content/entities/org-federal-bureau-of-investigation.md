@@ -1,6 +1,6 @@
 ---
 title: "Federal Bureau of Investigation"
-description: "Federal Bureau of Investigation (Organizations) - 54 mentions"
+description: "Federal Bureau of Investigation (Organizations) - 53 mentions"
 id: "org-federal-bureau-of-investigation"
 type: "ORG"
 aliases:
@@ -26,7 +26,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17">2026-01-05 · 00:14:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-22-06">2026-07-20 · 00:22:39</a></strong></div>
 <div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -42,8 +42,8 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-federal-bureau-of-investigation-t-00-42-37" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-06-46" style="--pulse-height:58%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-36-04" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-35-59" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-39" style="--pulse-height:17%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-federal-bureau-of-investigation-t-00-46-05" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-federal-bureau-of-investigation-t-00-14-45" style="--pulse-height:42%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-federal-bureau-of-investigation-t-00-03-40" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -66,8 +66,8 @@ Source: [About - FBI](https://www.fbi.gov/about)
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-federal-bureau-of-investigation-t-00-42-37) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50) | 3 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-06-46) | 7 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-36-04) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40) | 3 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-35-59) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-39) | 2 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-federal-bureau-of-investigation-t-00-46-05) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-federal-bureau-of-investigation-t-00-14-45) | 5 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-federal-bureau-of-investigation-t-00-03-40) | 1 |
@@ -87,7 +87,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (12 mentions)</summary>
@@ -258,23 +258,20 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[00:34:40](/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40)**
+**[00:34:39](/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-39)**
 > "FBI director"
 
-**[00:34:22](/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-19)**
+**[00:34:19](/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-19)**
 > "...eople like the director of an FBI Mr."
-
-**[00:34:40](/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40)**
-> "FBI director"
 
 </details>
 
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:36:06](/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-36-04)**
+**[00:35:59](/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-35-59)**
 > "...u need to listen to this. The FBI has been warning homeowners about a type of real ..."
 
 </details>

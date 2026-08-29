@@ -11,7 +11,7 @@ date: "2025-09-16"
 
 > Erika Kirk held a Zoom call with Turning Point USA employees six days after Charlie Kirk's assassination.
 
-## Mentioned In (8 times)
+## Mentioned In (9 times)
 
 ### 1. Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Cand...
 
@@ -24,7 +24,7 @@ date: "2025-09-16"
 ### 2. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:08:47](/episodes/ep-QdM9jLwjwLw.md#event-event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning-t-00-08-46) 
+**Timestamp:** [00:08:47](/episodes/ep-QdM9jLwjwLw.md#event-event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning-t-00-08-24) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(527);return false;">▶️ Play</a>
 
 > the date is September 16th. This is when Turning Point USA employees are told
@@ -76,3 +76,11 @@ date: "2025-09-16"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(546);return false;">▶️ Play</a>
 
 > She's at the office in the Charlie Kirk building and it is Terrell that is
+
+### 9. Candace x Bassem Youssef | Candace Ep 298
+
+**Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
+**Timestamp:** [00:31:37](/episodes/ep-xjzb_t5Tk9o.md#event-event-2025-09-16-erika-kirk-held-a-zoom-call-with-turning-t-00-31-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1897);return false;">▶️ Play</a>
+
+> part of these these erica calls from five days after her husband died

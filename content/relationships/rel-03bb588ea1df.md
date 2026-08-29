@@ -11,7 +11,11 @@ object: "person-michael-mccoy"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) formerly employed [Michael McCoy](/entities/person-michael-mccoy)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ)**
+
+- [00:23:37](/episodes/ep-mFuno0TuuQQ#t-00-23-37): _So weird, Mikey (former Charlie Kirk intern/assistant; surname unverified) didn't. Went straight from high school, was just Charlie (Charlie Kirk)'s intern assistant and now he's sitting down with board members and discussing how they should invest into restaurants._
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 

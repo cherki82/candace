@@ -1,15 +1,19 @@
 ---
 title: "Anonymous Source #1 (Ep DYD_QHMPwqM)"
-description: "Anonymous Source #1 (Ep DYD_QHMPwqM) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #1 (Ep DYD_QHMPwqM) (Anonymous Sources) - 1 mention"
 id: "anon-src-DYD_QHMPwqM-001"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "anonymous military source"
 ---
 
 _Type: Anonymous Sources_
 
+**Categories:** anonymous military source
+
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,9 +23,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 

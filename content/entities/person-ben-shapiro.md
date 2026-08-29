@@ -1,6 +1,6 @@
 ---
 title: "Ben Shapiro"
-description: "Ben Shapiro (People) - 489 mentions"
+description: "Ben Shapiro (People) - 490 mentions"
 id: "person-ben-shapiro"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-person-ben-shapiro-t-00-30-51">2025-09-24 · 00:31:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ben-shapiro-t-00-49-53">2026-08-21 · 00:50:06</a></strong></div>
-<div><span>Episodes</span><strong>68</strong></div>
-<div><span>Mentions</span><strong>489</strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>490</strong></div>
 <div><span>Statements by</span><strong>21</strong></div>
 <div><span>Statements about</span><strong>108</strong></div>
-<div><span>Relationships</span><strong>94</strong></div>
+<div><span>Relationships</span><strong>96</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -55,11 +55,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-ben-shapiro-t-00-39-38" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-ben-shapiro-t-00-21-25" style="--pulse-height:13%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-27-07" style="--pulse-height:11%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-ben-shapiro-t-00-30-25" style="--pulse-height:9%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-ben-shapiro-t-00-30-25" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-ben-shapiro-t-00-46-53" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-02-28" style="--pulse-height:26%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-ben-shapiro-t-00-12-51" style="--pulse-height:9%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-ben-shapiro-t-00-00-00" style="--pulse-height:17%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 9 mentions" title="2026-02-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-ben-shapiro-t-00-12-51" style="--pulse-height:11%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 6 mentions" title="2026-02-02 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-ben-shapiro-t-00-00-00" style="--pulse-height:15%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 8 mentions" title="2026-02-03 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-ben-shapiro-t-00-38-56" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-ben-shapiro-t-00-31-20" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 4 mentions" title="2026-02-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-ben-shapiro-t-00-32-41" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
@@ -89,6 +89,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-ben-shapiro-t-00-13-15" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-ben-shapiro-t-00-12-07" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-ben-shapiro-t-00-31-31" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 4 mentions" title="2026-06-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-ben-shapiro-t-00-51-51" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-ben-shapiro-t-00-49-20" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-ben-shapiro-t-00-42-01" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-ben-shapiro-t-00-01-22" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
@@ -128,11 +129,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-ben-shapiro-t-00-39-38) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-ben-shapiro-t-00-21-25) | 7 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-27-07) | 6 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-ben-shapiro-t-00-30-25) | 5 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-ben-shapiro-t-00-30-25) | 4 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-ben-shapiro-t-00-46-53) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-02-28) | 14 |
-| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-ben-shapiro-t-00-12-51) | 5 |
-| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-ben-shapiro-t-00-00-00) | 9 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-ben-shapiro-t-00-12-51) | 6 |
+| 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-ben-shapiro-t-00-00-00) | 8 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-ben-shapiro-t-00-38-56) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-ben-shapiro-t-00-31-20) | 4 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-ben-shapiro-t-00-32-41) | 1 |
@@ -162,6 +163,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-ben-shapiro-t-00-13-15) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-ben-shapiro-t-00-12-07) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-ben-shapiro-t-00-31-31) | 4 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-ben-shapiro-t-00-51-51) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-ben-shapiro-t-00-49-20) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-ben-shapiro-t-00-42-01) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-ben-shapiro-t-00-01-22) | 4 |
@@ -184,7 +186,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (489)</strong></summary>
+<summary><strong class="section-title">Raw mentions (490)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -549,6 +551,17 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 **[00:49:20](/episodes/ep-VMNWMXX1vO8.md#ent-person-ben-shapiro-t-00-49-20)**
 > "...wn wife yielding the stage to Ben Shapiro like we were going to allow that."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:51:51](/episodes/ep-5NQyGuRYbU8.md#ent-person-ben-shapiro-t-00-51-51)**
+> "some merch get decked out in candace owens merch the stop anti-cannibalism cup it's working they decrease their attacks every time you buy a cup and someone should buy a cup and gift it to ben shapiro he's the most anti-cannibalist of them all everyone knows i can't even go away he's making up rumors about me he's telling people that that i'm like hanging out with vlad daddy over there in russia and i'm not doing anything i'm in the case of my family i'm just on a panel talking about families i love"
+
+**[00:52:17](/episodes/ep-5NQyGuRYbU8.md#ent-person-ben-shapiro-t-00-52-17)**
+> "... one for yourself get one for ben shapiro um ship it to him if you can that'd be nice yeah ..."
 
 </details>
 
@@ -1094,16 +1107,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (9 mentions)</summary>
+<summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (8 mentions)</summary>
 
 **[00:00:20](/episodes/ep-QRS_hR7NXaQ.md#ent-person-ben-shapiro-t-00-00-00)**
 > "Also, Ben Shapiro watches every single minute of this show."
 
 **[00:37:23](/episodes/ep-QRS_hR7NXaQ.md#ent-person-ben-shapiro-t-00-37-23)**
 > "...hy I am now suddenly enjoying Ben Shapiro clips."
-
-**[00:37:48](/episodes/ep-QRS_hR7NXaQ.md#ent-person-ben-shapiro-t-00-37-23)**
-> "...e writing questions that Ben (Ben Shapiro) wants them to ask so that he could answer and ki..."
 
 **[00:38:00](/episodes/ep-QRS_hR7NXaQ.md#ent-person-ben-shapiro-t-00-37-23)**
 > "that Ben (Ben Shapiro) wants them to ask so that he could answer and ki..."
@@ -1126,7 +1136,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (5 mentions)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (6 mentions)</summary>
 
 **[00:12:51](/episodes/ep-CEF7gQRWYCE.md#ent-person-ben-shapiro-t-00-12-51)**
 > "...uct research independently uh ben shapiro's family ancestors B'nai B'rith okay barry weiss B'..."
@@ -1143,6 +1153,9 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 **[00:58:46](/episodes/ep-CEF7gQRWYCE.md#ent-person-ben-shapiro-t-00-21-12)**
 > "...rate the Dave Smiths from the Ben Shapiros."
 
+**[00:13:43](/episodes/ep-CEF7gQRWYCE.md#ent-person-ben-shapiro-t-00-13-18)**
+> "...to people like Bari Weiss and Ben Shapiro. They can't let these things go because they view..."
+
 </details>
 
 <details>
@@ -1151,7 +1164,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 **[00:02:28](/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-02-28)**
 > "I agree with Ben Shapiro"
 
-**[00:03:05](/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-02-28)**
+**[00:03:03](/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-02-28)**
 > "...got was because you hurt Ben (Ben Shapiro)'s feelings."
 
 **[00:03:09](/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-03-09)**
@@ -1169,7 +1182,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 **[00:04:06](/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-03-46)**
 > "...m very surprised that i heard ben feeling because ben says like that the facts don'..."
 
-**[00:05:00](/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-04-59)**
+**[00:04:59](/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-04-59)**
 > "...three different stories about Ben Shapiro to show how talented he is about changing the fac..."
 
 **[00:05:22](/episodes/ep-xjzb_t5Tk9o.md#ent-person-ben-shapiro-t-00-05-22)**
@@ -1198,13 +1211,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 **[00:47:18](/episodes/ep-QdM9jLwjwLw.md#ent-person-ben-shapiro-t-00-46-53)**
 > "... borrow money personally from Ben Shapiro to make ends meet because he couldn't let go of h..."
 
-**[00:49:39](/episodes/ep-QdM9jLwjwLw.md#ent-person-ben-shapiro-t-00-49-39)**
+**[00:49:37](/episodes/ep-QdM9jLwjwLw.md#ent-person-ben-shapiro-t-00-49-37)**
 > "...gave me the option after Ben (Ben Shapiro) jumped up on a table and accused her of being a ..."
 
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (5 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>
 
 **[00:30:25](/episodes/ep-9naMwS0kMBE.md#ent-person-ben-shapiro-t-00-30-25)**
 > "...uess not she's gone mask down ben shapiro who it's so irrelevant doesn't even matter but yo..."
@@ -1217,9 +1230,6 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 **[00:43:52](/episodes/ep-9naMwS0kMBE.md#ent-person-ben-shapiro-t-00-43-52)**
 > "I didn't vote for Ben Shapiro's foreign policy."
-
-**[00:43:54](/episodes/ep-9naMwS0kMBE.md#ent-person-ben-shapiro-t-00-43-52)**
-> "I don't want Ben Shapiro's foreign policy."
 
 </details>
 
@@ -1999,10 +2009,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Accused (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:19:15](/episodes/ep-k8ueJdPFel4.md#t-00-19-15): “I'll just ask you straight up. Is Candace Owens doing something evil by attacking Erika Kirk?”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:04:34](/episodes/ep-YeEtS7nix3o.md#t-00-04-21): “Candace Owens went to Russia to just do propaganda work on behalf of the Russian regime.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:49:37](/episodes/ep-QdM9jLwjwLw.md#t-00-49-37): “And you know what else was a mistake? If I'm Jeremy Boreing, I would say it was a mistake not to just end things amicably with Candace, especially when she gave me the option after Ben (Ben Shapiro) jumped up on a table and accused her of being a faux sophisticate because she said genocide is always wrong.”
 
 </details>
 
@@ -2144,7 +2155,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <summary>Criticized By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -2157,6 +2168,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:40:10](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-37): “this fan of mine, a small fan of mine, apparently really loves the midget horse and she was pestering her mother to bring back up the midget horse that Ben Shapiro rides around Nashville on.”
 - [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins and the Ben Shapiros”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:51:51](/episodes/ep-5NQyGuRYbU8.md#t-00-51-27): “ben shapiro ... he's making up rumors about me”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:46:24](/episodes/ep-sKuYLNx3iRo.md#t-00-45-51): “But then Ben Shapiro, it's a bizarre talent he has. He thinks that people disagreeing with him is a declaration of war.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:59:56](/episodes/ep-EtLHqDbxqks.md#t-00-59-50): “And then you find out about Ben Shapiro's character and how he operates behind the scenes to stop people just like Megyn Kelly has had that experience recently.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:21:55](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “Ben Shapiro is on the phone receiving updates, but he's totally not involved, guys. Totally not. Just curious about why they're having a going out of sale business.”
@@ -2346,7 +2358,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Interviewed By (2)</summary>
+<summary>Interviewed By (3)</summary>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2360,6 +2372,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00): “writers to peer pressure Charlie to distance from me because of anti-Semitism. Andrew admitted in that same New York Times interview that we just showed you that he effectively forced Charlie to interview Ben a few days before his death.”
+
+</details>
+
+- **[Charlamagne tha God](/entities/person-charlamagne-tha-god.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:06:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-07): “to fire. But here's the thing. I have three different stories about Ben Shapiro to show how talented he is about changing the facts in real time. ... that were killed in that and you can see him as he was debating the kid that he was just making things up it it it was already proven it was already behind the bridge it's the best that's the first one the second time he was on the morning show with uh Charlamagne tha God and Charlamagne tha God asked him does is did israel commit genocide and he started going through this”
 
 </details>
 
@@ -2493,7 +2512,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 <details>
-<summary>Referenced By (47)</summary>
+<summary>Referenced By (48)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -2513,10 +2532,11 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:19:15](/episodes/ep-k8ueJdPFel4.md#t-00-19-15): “I'll just ask you straight up. Is Candace Owens doing something evil by attacking Erika Kirk?”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:04:34](/episodes/ep-YeEtS7nix3o.md#t-00-04-21): “Candace Owens went to Russia to just do propaganda work on behalf of the Russian regime.”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:49:37](/episodes/ep-QdM9jLwjwLw.md#t-00-49-37): “And you know what else was a mistake? If I'm Jeremy Boreing, I would say it was a mistake not to just end things amicably with Candace, especially when she gave me the option after Ben (Ben Shapiro) jumped up on a table and accused her of being a faux sophisticate because she said genocide is always wrong.”
 
 </details>
 
@@ -2535,7 +2555,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:47](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “I am now telling people that Ben Shapiro is my psycho ex-boyfriend because that's what this feels like. None of this is normal.”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:19:19](/episodes/ep-zSKrxIUMNqw.md#t-00-18-44): “Ben (Ben Shapiro)'s a parasite. He's a worm. I meant that.”
@@ -2548,6 +2568,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:40:10](/episodes/ep-1QZ4X6q1DPg.md#t-00-39-37): “this fan of mine, a small fan of mine, apparently really loves the midget horse and she was pestering her mother to bring back up the midget horse that Ben Shapiro rides around Nashville on.”
 - [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins and the Ben Shapiros”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:51:51](/episodes/ep-5NQyGuRYbU8.md#t-00-51-27): “ben shapiro ... he's making up rumors about me”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:46:24](/episodes/ep-sKuYLNx3iRo.md#t-00-45-51): “But then Ben Shapiro, it's a bizarre talent he has. He thinks that people disagreeing with him is a declaration of war.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:59:56](/episodes/ep-EtLHqDbxqks.md#t-00-59-50): “And then you find out about Ben Shapiro's character and how he operates behind the scenes to stop people just like Megyn Kelly has had that experience recently.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:21:55](/episodes/ep-OgRyiOAVtWU.md#t-00-21-55): “Ben Shapiro is on the phone receiving updates, but he's totally not involved, guys. Totally not. Just curious about why they're having a going out of sale business.”
@@ -2768,6 +2789,13 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:19:00](/episodes/ep-eLgD5yUVbko.md#t-00-19-00): “writers to peer pressure Charlie to distance from me because of anti-Semitism. Andrew admitted in that same New York Times interview that we just showed you that he effectively forced Charlie to interview Ben a few days before his death.”
+
+</details>
+
+- **[Charlamagne tha God](/entities/person-charlamagne-tha-god.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:06:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-07): “to fire. But here's the thing. I have three different stories about Ben Shapiro to show how talented he is about changing the facts in real time. ... that were killed in that and you can see him as he was debating the kid that he was just making things up it it it was already proven it was already behind the bridge it's the best that's the first one the second time he was on the morning show with uh Charlamagne tha God and Charlamagne tha God asked him does is did israel commit genocide and he started going through this”
 
 </details>
 
@@ -3191,7 +3219,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 
 - [00:03:10](/episodes/ep-xjzb_t5Tk9o.md#t-00-03-10) (Accusation) **Bassem Youssef**: ["Ben Shapiro is a confident liar who lies easily and speaks quickly so ..."](/statements/statement-5b5bc40c1951.md)
 
-- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-51) (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video ..."](/statements/statement-316c32dcf384.md)
+- [00:07:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-07-09) (Accusation) **Bassem Youssef**: ["Ben Shapiro knowingly changed the meaning of an Arabic-narrated video ..."](/statements/statement-316c32dcf384.md)
   - Also about: [Hamas](/entities/org-hamas.md), [European Union](/entities/org-european-union.md), [Palestinian Authority](/entities/org-palestinian-authority.md)
 
 </details>

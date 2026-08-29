@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 966 mentions"
+description: "Donald J. Trump (People) - 987 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -29,10 +29,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-37-05">2026-08-19 · 00:37:05</a></strong></div>
-<div><span>Episodes</span><strong>130</strong></div>
-<div><span>Mentions</span><strong>966</strong></div>
+<div><span>Episodes</span><strong>131</strong></div>
+<div><span>Mentions</span><strong>987</strong></div>
 <div><span>Statements by</span><strong>37</strong></div>
-<div><span>Statements about</span><strong>226</strong></div>
+<div><span>Statements about</span><strong>233</strong></div>
 <div><span>Relationships</span><strong>153</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -87,8 +87,8 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-51-56" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-39" style="--pulse-height:21%" aria-label="Myron Gaines x Candace Owens: 10 mentions" title="2026-01-16 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-40-49" style="--pulse-height:27%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 13 mentions" title="2026-01-20 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-donald-trump-t-00-01-25" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-donald-trump-t-00-08-33" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-donald-trump-t-00-01-51" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-donald-trump-t-00-08-29" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-donald-trump-t-00-07-54" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-donald-trump-t-00-45-02" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-00-26-32" style="--pulse-height:19%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 9 mentions" title="2026-01-29 · 9 mentions"><span></span></a>
@@ -146,6 +146,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-donald-trump-t-00-00-41" style="--pulse-height:54%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 26 mentions" title="2026-06-10 · 26 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-donald-trump-t-00-07-19" style="--pulse-height:58%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 28 mentions" title="2026-06-11 · 28 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-donald-trump-t-00-02-00" style="--pulse-height:69%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 33 mentions" title="2026-06-13 · 33 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-00-01" style="--pulse-height:44%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 21 mentions" title="2026-06-15 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-donald-trump-t-00-00-35" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 3 mentions" title="2026-06-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-donald-trump-t-00-17-59" style="--pulse-height:12%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 6 mentions" title="2026-06-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-donald-trump-t-00-00-01" style="--pulse-height:38%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 18 mentions" title="2026-06-18 · 18 mentions"><span></span></a>
@@ -222,8 +223,8 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-51-56) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-39) | 10 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-40-49) | 13 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-donald-trump-t-00-01-25) | 2 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-donald-trump-t-00-08-33) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-donald-trump-t-00-01-51) | 2 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-donald-trump-t-00-08-29) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-donald-trump-t-00-07-54) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-donald-trump-t-00-45-02) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-00-26-32) | 9 |
@@ -281,6 +282,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-donald-trump-t-00-00-41) | 26 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-donald-trump-t-00-07-19) | 28 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-donald-trump-t-00-02-00) | 33 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-00-01) | 21 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-donald-trump-t-00-00-35) | 3 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-donald-trump-t-00-17-59) | 6 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-donald-trump-t-00-00-01) | 18 |
@@ -313,7 +315,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (966)</strong></summary>
+<summary><strong class="section-title">Raw mentions (987)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
@@ -782,6 +784,74 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 **[01:07:31](/episodes/ep-h76ZN-xXC6c.md#ent-person-donald-trump-t-01-07-31)**
 > "... connecting all of the Trump (Donald J. Trump) dolls. Trump (Donald J. Trump) just has the best..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (21 mentions)</summary>
+
+**[00:00:14](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-00-01)**
+> "I mean, I was contacted immediately by people who knew the real victim of that evening and it wasn't Donald J. Trump (Donald Trump)."
+
+**[00:02:13](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-01-41)**
+> "...rk) was a friend to President Trump (Donald Trump). They let us know every minute of ..."
+
+**[00:02:44](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-02-44)**
+> "The more we learn about Trump (Donald Trump) getting shot in the assassination ..."
+
+**[00:02:53](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-02-44)**
+> "...for divine providence, Donald Trump will be dead right now."
+
+**[00:02:59](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-02-44)**
+> "...attended, 120 yards away from Trump (Donald Trump)."
+
+**[00:03:19](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-02-44)**
+> "...t himself up. People saw him, Trump (Donald Trump) supporters. Police did nothing. Se..."
+
+**[00:03:43](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-03-29)**
+> "...y wasn't there a call to take Trump (Donald Trump) off stage oh we have a commotion t..."
+
+**[00:04:00](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-04-00)**
+> "... the media that want donald j trump dead and they don't want to get to the bottom of ..."
+
+**[00:05:35](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-05-24)**
+> "... may even include and feature Donald J."
+
+**[00:05:42](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-05-24)**
+> "Trump (Donald Trump) in the story because we have quest..."
+
+**[00:10:38](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-10-16)**
+> "...ened in Butler, Pennsylvania. Trump (Donald Trump) survived an assassination attempt...."
+
+**[00:11:10](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-10-53)**
+> "...the audience to see President Trump (Donald Trump) speak."
+
+**[00:21:42](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-21-09)**
+> "... 2025, just a few weeks after Trump (Donald Trump)'s inauguration into his second pre..."
+
+**[00:21:50](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-21-50)**
+> "... House and presents President Trump (Donald Trump) with a gift, a golden pager, a nod..."
+
+**[00:22:08](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-21-50)**
+> "...s it a threat? Because Donald Trump was not president when the pager operation took p..."
+
+**[00:22:18](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-21-50)**
+> "... would he gift this to Donald Trump? American troops are not involved so far as we kn..."
+
+**[00:22:25](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-21-50)**
+> "... would he gift this to Donald Trump? What is the significance of this? This is not a ..."
+
+**[00:23:26](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-23-13)**
+> "Trump (Donald Trump)'s reaction to it. He's satisfied. ..."
+
+**[00:23:44](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-23-44)**
+> "...Corey Comperatore is not like Trump (Donald Trump). They are not satisfied with the i..."
+
+**[00:47:01](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-46-55)**
+> "... Kolvet both witnessed Donald Trump saying the thing about Miriam Adelson."
+
+**[00:49:45](/episodes/ep-5NQyGuRYbU8.md#ent-person-donald-trump-t-00-49-24)**
+> "...sponsible for you leaving the Trump (Donald Trump) cult as a happy single childless f..."
 
 </details>
 
@@ -2837,7 +2907,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 **[00:48:09](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-00-48-09)**
 > "...ke we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's l..."
 
-**[00:50:54](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-00-50-49)**
+**[00:50:54](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-00-50-48)**
 > "What if Trump (Donald J. Trump) tomorrow decides he's going to run for a third t..."
 
 **[00:54:34](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-00-54-34)**
@@ -2846,10 +2916,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 **[00:58:45](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-00-58-20)**
 > "...past eight years since Trump (Donald J. Trump) got office in 2016."
 
-**[01:12:19](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-01-12-17)**
+**[01:12:17](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-01-12-17)**
 > "...t was for me done with Trump (Donald J. Trump)."
 
-**[01:14:48](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-01-14-46)**
+**[01:14:46](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-01-14-46)**
 > "We haven't even – and Trump (Donald J. Trump) drops the tweet with him hugging the Israeli fla..."
 
 **[01:16:02](/episodes/ep-xjzb_t5Tk9o.md#ent-person-donald-trump-t-01-16-02)**
@@ -2882,7 +2952,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:08:39](/episodes/ep-gG4ZoYUjUc8.md#ent-person-donald-trump-t-00-08-33)**
+**[00:08:39](/episodes/ep-gG4ZoYUjUc8.md#ent-person-donald-trump-t-00-08-29)**
 > "...ung voters to vote for Trump (Donald J. Trump), but you can't convince them to stand with our J..."
 
 </details>
@@ -2890,7 +2960,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
 
-**[00:01:54](/episodes/ep-GY6GWceEqtQ.md#ent-person-donald-trump-t-00-01-25)**
+**[00:01:51](/episodes/ep-GY6GWceEqtQ.md#ent-person-donald-trump-t-00-01-51)**
 > "when Trump called me"
 
 **[00:05:53](/episodes/ep-GY6GWceEqtQ.md#ent-person-donald-trump-t-00-05-45)**
@@ -2901,44 +2971,44 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (13 mentions)</summary>
 
-**[00:40:57](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-40-49)**
-> "Trump,"
-
-**[00:41:00](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-40-49)**
+**[00:40:56](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-40-49)**
 > "... Ronald Lauder is involved in Trump's push for Greenland. Here we go."
 
-**[00:41:28](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-41-15)**
+**[00:41:26](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-41-15)**
 > "Trump has not shown it's interesting we talk about this..."
 
-**[00:41:43](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-41-35)**
+**[00:41:35](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-41-35)**
 > "...And that is so different from Trump one."
 
 **[00:41:49](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-41-35)**
 > "I mean, Trump one was."
 
-**[00:41:57](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-41-35)**
+**[00:41:56](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-41-35)**
 > "...t from from people who fought Trump during the first administration. I mean, genuinel..."
 
-**[00:42:21](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-42-18)**
+**[00:42:17](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-42-17)**
 > "not so that Trump can take Greenland for a donor."
 
-**[00:42:25](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-42-24)**
+**[00:42:24](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-42-24)**
 > "...do you think is going on with Trump?"
 
-**[00:43:35](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-43-24)**
+**[00:43:24](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-43-24)**
 > "...t is not being represented by Trump anymore."
 
 **[00:43:38](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-43-24)**
 > "...e who was a part of the Never Trump movement is now supporting Trump."
-
-**[00:43:42](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-43-24)**
-> "I say Trump became Never Trump."
 
 **[00:44:06](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-43-52)**
 > "And it's not I don't want Trump to fail because that means the United States fail..."
 
 **[00:44:09](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-44-09)**
 > "I don't want Trump to fail. I want Trump to be wildly successful,"
+
+**[00:08:30](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-08-30)**
+> "POTUS."
+
+**[00:08:31](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-08-31)**
+> "at POTUS, at Pontifex. And apparently Miss Arizona USA has..."
 
 </details>
 
@@ -4180,7 +4250,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -4200,6 +4270,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [Candace x Hunter Biden: The Interview @ 00:59:42](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “There's zero interest. That's another thing that just completely for me was like done with Trump whatsoever.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:49:14](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56): “He's a Trojan horse. He has completely let people in to destroy America. ... How can anybody have a defense of Donald J. Trump in this moment?”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:56:19](/episodes/ep-WoXd4oLwd3w.md#t-00-56-05): “President Trump (Donald Trump), please resign if you have any dignity left. He has no dignity left. There's no point. ... And he's just going to do what he's told to do. He has no courage. Forget the digging that he has no, he's a coward.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:23:26](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13): “Trump (Donald Trump)'s reaction to it. He's satisfied. He wants it shut down. That's not how a man would act if it was an assassination attempt against him.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:01:16](/episodes/ep-h76ZN-xXC6c.md#t-00-01-16): “Trump (Donald J. Trump)'s nonchalant approach to investigating Butler, which is like not at all”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:19](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Don't arrive at a debate defending Trump (Donald Trump)'s administration right now, right? And the Iran war.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:52:24](/episodes/ep-a2bZf4fic10.md#t-00-52-24): “If you're going to be the president of the United States and you're going to call someone the most vile person of the year and your options are sitting before you, I mean, that would even be a great time to sell that Tyler Robinson did it.”
@@ -4315,10 +4386,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:02:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27): “I think about this a lot now, very often, mostly in the context of our late mutual friend, Charlie Kirk.”
 - [Candace Owens x Ana Kasparian @ 00:13:55](/episodes/ep-SKNJPul29zU.md#t-00-13-55): “This man is like the reason Donald Trump is in office. He was like brothers with Donald Trump.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:02:13](/episodes/ep-5NQyGuRYbU8.md#t-00-01-41): “Charlie (Charlie Kirk) was a friend to President Trump (Donald Trump).”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05): “I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice.”
 
 </details>
@@ -4364,9 +4436,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Met With (4)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:46](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-46): “And so what led Trump? What, at 79 years old, to sit in there in that situation room when Bibi Netanyahu, who was seated as an equal, ... Trump sat at the side of the table and Bibi (Benjamin Netanyahu) was across from him as an equal in the American situation room.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50): “Bibi (Benjamin Netanyahu) Netanyahu enters the White House and presents President Trump (Donald Trump) with a gift, a golden pager, a nod to the Mossad's pager operation.”
 
 </details>
 
@@ -4815,7 +4888,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -4835,6 +4908,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [Candace x Hunter Biden: The Interview @ 00:59:42](/episodes/ep-Ux1kzgQxkws.md#t-00-59-42): “There's zero interest. That's another thing that just completely for me was like done with Trump whatsoever.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:49:14](/episodes/ep-BxN2-aeMYIs.md#t-00-48-56): “He's a Trojan horse. He has completely let people in to destroy America. ... How can anybody have a defense of Donald J. Trump in this moment?”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:56:19](/episodes/ep-WoXd4oLwd3w.md#t-00-56-05): “President Trump (Donald Trump), please resign if you have any dignity left. He has no dignity left. There's no point. ... And he's just going to do what he's told to do. He has no courage. Forget the digging that he has no, he's a coward.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:23:26](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13): “Trump (Donald Trump)'s reaction to it. He's satisfied. He wants it shut down. That's not how a man would act if it was an assassination attempt against him.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:01:16](/episodes/ep-h76ZN-xXC6c.md#t-00-01-16): “Trump (Donald J. Trump)'s nonchalant approach to investigating Butler, which is like not at all”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:19](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Don't arrive at a debate defending Trump (Donald Trump)'s administration right now, right? And the Iran war.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:52:24](/episodes/ep-a2bZf4fic10.md#t-00-52-24): “If you're going to be the president of the United States and you're going to call someone the most vile person of the year and your options are sitting before you, I mean, that would even be a great time to sell that Tyler Robinson did it.”
@@ -5020,10 +5094,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:02:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27): “I think about this a lot now, very often, mostly in the context of our late mutual friend, Charlie Kirk.”
 - [Candace Owens x Ana Kasparian @ 00:13:55](/episodes/ep-SKNJPul29zU.md#t-00-13-55): “This man is like the reason Donald Trump is in office. He was like brothers with Donald Trump.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:02:13](/episodes/ep-5NQyGuRYbU8.md#t-00-01-41): “Charlie (Charlie Kirk) was a friend to President Trump (Donald Trump).”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05): “I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice.”
 
 </details>
@@ -5067,9 +5142,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** hosted speaker this
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:46](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-46): “And so what led Trump? What, at 79 years old, to sit in there in that situation room when Bibi Netanyahu, who was seated as an equal, ... Trump sat at the side of the table and Bibi (Benjamin Netanyahu) was across from him as an equal in the American situation room.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50): “Bibi (Benjamin Netanyahu) Netanyahu enters the White House and presents President Trump (Donald Trump) with a gift, a golden pager, a nod to the Mossad's pager operation.”
 
 </details>
 
@@ -5413,7 +5489,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (226)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (233)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
@@ -5530,6 +5606,32 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 - [00:37:20](/episodes/ep-G3zdOeHpvS0.md#t-00-37-06) (Claim) **Candace Owens**: ["Owens said Charlie Kirk received a call from President Donald Trump as..."](/statements/statement-98c306699888.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (7)</summary>
+
+- [00:02:27](/episodes/ep-5NQyGuRYbU8.md#t-00-02-27) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk formally rejected the narrative of the..."](/statements/statement-9238347a8ba8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:02:44](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk called the Butler assassination attempt one of the larges..."](/statements/statement-c782f0bec0f2.md)
+  - Also about: [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:02:59](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the Butler shooter had been identified by the Secret..."](/statements/statement-0c6ddd52e5d8.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:03:19](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk accused police and the Secret Service of doing nothing wh..."](/statements/statement-8dbe26d75745.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:04:00](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk accused members of the media of wanting Donald Trump dead..."](/statements/statement-06e2835e08c9.md)
+  - Also about: [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:11:26](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) (Claim) **Candace Owens**: ["Candace Owens said an unknown woman unexpectedly escorted Corey Comper..."](/statements/statement-6079ef812e56.md)
+  - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md), [Butler, Pennsylvania](/entities/gpe-butler-pennsylvania.md)
+
+- [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Claim) **Candace Owens**: ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager..."](/statements/statement-d2fa62164eb6.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [White House](/entities/org-white-house.md), [Mossad](/entities/org-mossad.md)
 
 </details>
 
@@ -6183,7 +6285,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1)</summary>
 
-- [00:24:55](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) (Claim) **Anonymous Source #3 (Ep Wjul6YV6izo)** (via read message): ["Donald Trump had to become personally involved to secure State Farm St..."](/statements/statement-3999c954cfb4.md)
+- [00:24:55](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) (Claim) **Anonymous Source #3 (Ep Wjul6YV6izo)** (via read message): ["Apparently, Donald Trump had to become personally involved to secure S..."](/statements/statement-3999c954cfb4.md)
   - Also about: [State Farm Stadium](/entities/org-state-farm-stadium.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
@@ -6191,8 +6293,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
 
-- [01:39:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-08) (Opinion) **Candace Owens**: ["Candace Owens withdrew her support from Donald Trump over his treatmen..."](/statements/statement-dec0d6bb2431.md)
-  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
+- [01:39:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-08) (Opinion) **Candace Owens**: ["Asked whether she was still 'Team Trump,' Candace Owens answered no an..."](/statements/statement-dec0d6bb2431.md)
 
 </details>
 

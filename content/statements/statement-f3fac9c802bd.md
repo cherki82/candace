@@ -48,7 +48,7 @@ ISRO confirms that the Chandrayaan-3 soft landing was streamed live on YouTube, 
 - [India Today: Chandrayaan-3 drew over 8 million concurrent viewers](https://www.indiatoday.in/science/chandrayaan-3/story/how-isro-made-indias-chandrayaan-3-landing-a-global-event-2442166-2023-09-29)
 - [ISRO: Chandrayaan-3 soft-landing telecast](https://www.isro.gov.in/ISRO_EN/Chandrayaan3SoftLandingMessage.html)
 
-*Verified: 2026-08-16T09:04:18.485089*
+*Verified: 2026-08-29T14:35:05.547193*
 
 ---
 

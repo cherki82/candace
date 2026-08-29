@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 84 mentions"
+description: "Bill Ackman (People) - 86 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40">2025-09-15 · 00:14:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>84</strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>86</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
-<div><span>Relationships</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>26</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -57,6 +57,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-bill-ackman-t-00-21-40" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-bill-ackman-t-00-30-35" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-17-53" style="--pulse-height:16%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-bill-ackman-t-00-40-54" style="--pulse-height:11%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55" style="--pulse-height:16%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-21-52" style="--pulse-height:21%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
@@ -89,6 +90,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-bill-ackman-t-00-21-40) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-bill-ackman-t-00-30-35) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-bill-ackman-t-00-17-53) | 3 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-bill-ackman-t-00-40-54) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55) | 3 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-21-52) | 4 |
@@ -106,7 +108,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+<summary><strong class="section-title">Raw mentions (86)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -180,6 +182,17 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 **[00:40:01](/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47)**
 > "...enjamin Netanyahu did call at Bill Ackman's house. Her reason for Bill Ackman calling was tha..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:41:29](/episodes/ep-5NQyGuRYbU8.md#ent-person-bill-ackman-t-00-40-54)**
+> "She goes with him to the Hamptons and sits across from Bill Ackman at dinner when Bibi (Benjamin Netanyahu) Netanyahu is called."
+
+**[00:42:21](/episodes/ep-5NQyGuRYbU8.md#ent-person-bill-ackman-t-00-42-21)**
+> "...ent to a pro-Israel summit at Bill Ackman's house."
 
 </details>
 
@@ -584,7 +597,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>Met With (2)</summary>
+<summary>Met With (3)</summary>
 
 - **[Seth Dillon](/entities/person-seth-dillon.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -597,6 +610,13 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:08:01](/episodes/ep-sreYYcID-QY.md#t-00-07-29): “We can talk about that trip to the Hamptons.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:41:29](/episodes/ep-5NQyGuRYbU8.md#t-00-40-54): “She goes with him to the Hamptons and sits across from Bill Ackman at dinner”
 
 </details>
 
@@ -615,7 +635,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details>
-<summary>Referenced By (11)</summary>
+<summary>Referenced By (12)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -681,6 +701,13 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** met with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:41:29](/episodes/ep-5NQyGuRYbU8.md#t-00-40-54): “She goes with him to the Hamptons and sits across from Bill Ackman at dinner”
+
+</details>
+
 - **[Israel](/entities/gpe-israel.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -712,7 +739,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bill Ackman (25)</strong></summary>
+<summary><strong class="section-title">Statements about Bill Ackman (26)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -746,6 +773,14 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 - [00:40:01](/episodes/ep-X3VKJVJ7cN4.md#t-00-39-47) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk conceded that Netanyahu called at Bill Ackman's ..."](/statements/statement-01d4db3b682c.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:42:21](/episodes/ep-5NQyGuRYbU8.md#t-00-42-21) (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk was anti-Israel in July before attending..."](/statements/statement-f57f9d2de6a5.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Anti-Israel sentiment](/entities/concept-anti-israel-sentiment.md), [Pro-Israel advocacy](/entities/concept-pro-israel-advocacy.md)
 
 </details>
 

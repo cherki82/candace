@@ -1,6 +1,6 @@
 ---
 title: "The Charlie Kirk Show"
-description: "The Charlie Kirk Show (Works & Media) - 51 mentions"
+description: "The Charlie Kirk Show (Works & Media) - 54 mentions"
 id: "work-the-charlie-kirk-show"
 type: "WORK"
 aliases:
@@ -24,8 +24,8 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17">2025-10-29 · 00:26:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-24-21">2026-08-21 · 00:24:21</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -39,7 +39,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17" style="--pulse-height:17%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 2 mentions" title="2025-10-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-charlie-kirk-show-t-00-02-14" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-work-the-charlie-kirk-show-t-00-02-12" style="--pulse-height:25%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-17" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-04" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-the-charlie-kirk-show-t-00-45-32" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-the-charlie-kirk-show-t-00-02-51" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
@@ -55,6 +55,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-work-the-charlie-kirk-show-t-00-36-58" style="--pulse-height:17%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-42-09" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-work-the-charlie-kirk-show-t-00-31-11" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-work-the-charlie-kirk-show-t-00-31-27" style="--pulse-height:25%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-the-charlie-kirk-show-t-00-01-18" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-work-the-charlie-kirk-show-t-00-45-23" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-work-the-charlie-kirk-show-t-00-53-02" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
@@ -69,7 +70,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-work-the-charlie-kirk-show-t-00-26-17) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-work-the-charlie-kirk-show-t-00-02-14) | 3 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-work-the-charlie-kirk-show-t-00-02-12) | 3 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-17) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-04) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-the-charlie-kirk-show-t-00-45-32) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#t-00-29-18) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-work-the-charlie-kirk-show-t-00-02-51) | 1 |
@@ -85,6 +86,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-work-the-charlie-kirk-show-t-00-36-58) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-work-the-charlie-kirk-show-t-00-42-09) | 2 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-work-the-charlie-kirk-show-t-00-31-11) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-work-the-charlie-kirk-show-t-00-31-27) | 3 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-work-the-charlie-kirk-show-t-00-01-18) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-work-the-charlie-kirk-show-t-00-45-23) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-work-the-charlie-kirk-show-t-00-53-02) | 1 |
@@ -98,7 +100,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -160,6 +162,20 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 
 **[00:01:28](/episodes/ep-3QJqtW_NOSI.md#ent-work-the-charlie-kirk-show-t-00-01-18)**
 > "pre-recorded a Charlie Kirk show episode"
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3 mentions)</summary>
+
+**[00:31:51](/episodes/ep-5NQyGuRYbU8.md#ent-work-the-charlie-kirk-show-t-00-31-27)**
+> "I just want to weigh his reaction to me merely filing an FOIA request and want you to compare it to what you just heard from Charlie (Charlie Kirk) when things don't add up. Here's Blake Neff, the new representative of the Charlie Kirk show."
+
+**[00:32:05](/episodes/ep-5NQyGuRYbU8.md#ent-work-the-charlie-kirk-show-t-00-32-05)**
+> "charlie kirk show really here's what blake neff wrote crashing out ..."
+
+**[00:33:10](/episodes/ep-5NQyGuRYbU8.md#ent-work-the-charlie-kirk-show-t-00-32-45)**
+> "...ed? Why don't you just rename the Charlie Kirk show the Truman Show?"
 
 </details>
 
@@ -334,7 +350,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:14:23](/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-17)**
+**[00:14:16](/episodes/ep-GY6GWceEqtQ.md#ent-work-the-charlie-kirk-show-t-00-14-04)**
 > "people who work for the Charlie Kirk show"
 
 </details>
@@ -596,7 +612,7 @@ Source: [Charlie Kirk’s Friends and Producers on How Turning Point Is Thriving
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
-- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) (Accusation) **Candace Owens**: ["Andrew Kolvet, Michael McCoy, and McCoy's wife met with senior White H..."](/statements/statement-58c3c37a76f1.md)
+- [00:30:24](/episodes/ep-CEF7gQRWYCE.md#t-00-29-56) (Accusation) **Candace Owens**: ["Candace Owens said Andrew Kolvet and, allegedly, Michael McCoy and McC..."](/statements/statement-58c3c37a76f1.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Michael McCoy](/entities/person-michael-mccoy.md), [White House](/entities/org-white-house.md)
 
 </details>

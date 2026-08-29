@@ -94,7 +94,7 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:47:56](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-greenland-t-00-47-40)**
+**[00:47:40](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-greenland-t-00-47-40)**
 > "get Greenland"
 
 </details>
@@ -102,7 +102,7 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>
 
-**[00:41:00](/episodes/ep-9naMwS0kMBE.md#ent-gpe-greenland-t-00-40-49)**
+**[00:40:56](/episodes/ep-9naMwS0kMBE.md#ent-gpe-greenland-t-00-40-49)**
 > "... involved in Trump's push for Greenland. Here we go."
 
 **[00:41:08](/episodes/ep-9naMwS0kMBE.md#ent-gpe-greenland-t-00-40-49)**
@@ -111,7 +111,7 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 **[00:41:11](/episodes/ep-9naMwS0kMBE.md#ent-gpe-greenland-t-00-41-11)**
 > "Why does Greenland like suddenly fetch?"
 
-**[00:42:21](/episodes/ep-9naMwS0kMBE.md#ent-gpe-greenland-t-00-42-18)**
+**[00:42:17](/episodes/ep-9naMwS0kMBE.md#ent-gpe-greenland-t-00-42-17)**
 > "not so that Trump can take Greenland for a donor."
 
 </details>

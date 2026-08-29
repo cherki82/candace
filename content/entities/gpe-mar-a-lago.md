@@ -34,7 +34,7 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 <p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-mar-a-lago-t-00-32-00">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-mar-a-lago-t-00-26-44" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-mar-a-lago-t-00-23-39" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-mar-a-lago-t-00-24-04" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-gpe-mar-a-lago-t-00-32-00" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-mar-a-lago-t-00-04-46" style="--pulse-height:67%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mar-a-lago-t-00-41-22" style="--pulse-height:33%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-mar-a-lago-t-00-26-44) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-mar-a-lago-t-00-23-39) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-mar-a-lago-t-00-24-04) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-gpe-mar-a-lago-t-00-32-00) | 3 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-mar-a-lago-t-00-04-46) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-mar-a-lago-t-00-41-22) | 1 |
@@ -143,7 +143,7 @@ Source: [Mar-a-Lago National Historic Landmark - NPS](https://www.nps.gov/places
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:24:04](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-mar-a-lago-t-00-23-39)**
+**[00:24:04](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-mar-a-lago-t-00-24-04)**
 > "...hey had a huge donor thing at Mar-a-Lago. So everyone's been killing themselves and no one..."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 266 mentions"
+description: "The Daily Wire (Organizations) - 264 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -26,10 +26,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23">2026-08-21 · 00:43:23</a></strong></div>
 <div><span>Episodes</span><strong>62</strong></div>
-<div><span>Mentions</span><strong>266</strong></div>
+<div><span>Mentions</span><strong>264</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>100</strong></div>
-<div><span>Relationships</span><strong>56</strong></div>
+<div><span>Statements about</span><strong>102</strong></div>
+<div><span>Relationships</span><strong>60</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -62,8 +62,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-the-daily-wire-t-00-20-05" style="--pulse-height:11%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-27-07" style="--pulse-height:24%" aria-label="Myron Gaines x Candace Owens: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-the-daily-wire-t-00-29-29" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-00-00" style="--pulse-height:39%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 15 mentions" title="2026-01-28 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-00-01-41" style="--pulse-height:21%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-00-37" style="--pulse-height:37%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 14 mentions" title="2026-01-28 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-00-01-41" style="--pulse-height:18%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 7 mentions" title="2026-01-29 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-the-daily-wire-t-00-38-29" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-daily-wire-t-00-37-23" style="--pulse-height:11%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 4 mentions" title="2026-02-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-the-daily-wire-t-00-32-41" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
@@ -129,8 +129,8 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-the-daily-wire-t-00-20-05) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-27-07) | 9 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-the-daily-wire-t-00-29-29) | 3 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-00-00) | 15 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-00-01-41) | 8 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-00-37) | 14 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-00-01-41) | 7 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-the-daily-wire-t-00-38-29) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-daily-wire-t-00-37-23) | 4 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-the-daily-wire-t-00-32-41) | 1 |
@@ -173,7 +173,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (266)</strong></summary>
+<summary><strong class="section-title">Raw mentions (264)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -774,16 +774,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (8 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (7 mentions)</summary>
 
 **[00:01:46](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-00-01-41)**
 > "fired from Daily Wire"
 
-**[00:09:40](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-00-09-11)**
+**[00:09:38](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-00-09-11)**
 > "And then I got sued by the Daily Wire."
-
-**[00:09:42](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-00-09-11)**
-> "This is after I left Daily Wire."
 
 **[00:10:44](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-00-10-44)**
 > "...y boring being at the helm of the daily wire yeah he sent me that lawsuit on his birthday as a..."
@@ -797,15 +794,15 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 **[01:32:21](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-01-32-21)**
 > "...me about your last episode in The Daily Wire."
 
-**[01:46:40](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-01-46-32)**
+**[01:46:40](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-daily-wire-t-01-46-33)**
 > "... in the belly of the beast in the daily wire"
 
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (15 mentions)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (14 mentions)</summary>
 
-**[00:00:37](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-00-00)**
+**[00:00:37](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-00-37)**
 > "...grieve, the now former CEO of Daily Wire,"
 
 **[00:37:57](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-37-45)**
@@ -814,22 +811,19 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 **[00:38:00](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-37-45)**
 > "And of course, Daily Wire."
 
-**[00:38:01](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-37-45)**
-> "Now, the Daily Wire CEO."
-
 **[00:38:03](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-37-45)**
 > "one day it will Daily Wire is a company in a fair world probably not one day..."
 
-**[00:45:40](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-45-02)**
+**[00:45:37](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-45-02)**
 > "...ut this out because there are Daily Wire employees."
 
-**[00:46:32](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-46-30)**
+**[00:46:30](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-46-24)**
 > "...e true story what happened to the Daily Wire Jeremy Boreing was wanting to live out his boyhoo..."
 
-**[00:47:32](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-46-53)**
+**[00:47:30](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-46-53)**
 > "...rue story of what happened to Daily Wire."
 
-**[00:47:42](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-47-36)**
+**[00:47:42](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-47-35)**
 > "...honest about what happened at the Daily Wire,"
 
 **[00:47:50](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-47-50)**
@@ -841,13 +835,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 **[00:49:00](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-48-57)**
 > "...as people that are working at the Daily Wire and you would think that after taking a hiatus sh..."
 
-**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-50-24)**
+**[00:50:36](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-50-36)**
 > "...surely that will lead to more Daily Wire signups it worked for us once at breitbart i thin..."
 
-**[00:51:28](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-51-07)**
+**[00:51:25](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-00-51-16)**
 > "... to get a bunch of signups to the Daily Wire en masse."
 
-**[01:08:14](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-01-08-08)**
+**[01:08:11](/episodes/ep-QdM9jLwjwLw.md#ent-org-the-daily-wire-t-01-07-56)**
 > "...jor reason that I woke up and The Daily Wire denied my request while I was there to have him o..."
 
 </details>
@@ -861,7 +855,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 **[00:40:49](/episodes/ep-9naMwS0kMBE.md#ent-org-the-daily-wire-t-00-40-49)**
 > "...aught. And as we can see with the Daily Wire,"
 
-**[01:13:16](/episodes/ep-9naMwS0kMBE.md#ent-org-the-daily-wire-t-01-13-00)**
+**[01:13:04](/episodes/ep-9naMwS0kMBE.md#ent-org-the-daily-wire-t-01-13-00)**
 > "Daily Wire,"
 
 </details>
@@ -1419,7 +1413,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Formerly Employed (4)</summary>
+<summary>Formerly Employed (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (20)</summary>
@@ -1448,11 +1442,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, ... Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:01](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “All right, you guys, happy Wednesday. What do I have for you today? A lot. Hook, line and sinker. Jeremy Boreing, former CEO of Daily Wire, goes on the offense against my husband.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “he has been watching every minute of this show since i left the daily wire that was actually Alyssa (Alyssa Cordova)'s job when when um back when Jeremy (Jeremy Boreing) was there they used to keep a file”
 
 </details>
 
@@ -1467,6 +1462,20 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:46:43](/episodes/ep-k1b1NDCrNFs.md#t-00-46-43): “uh he's an accused i should say because it's still going through the courts he's been accused of distributing pornography of pre-pubescent kids in the process of soliciting other minors and again i'm going to say allegedly because he has not been convicted yet but the case is making its way through the courts and perhaps more crucially you should know that this now former employee zachary lewis happens to have worked in the daily wire kids department where they filmed kids shows with kids.”
+
+</details>
+
+- **[Brett Cooper](/entities/person-brett-cooper.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing) ... telling Brett Cooper, then a very young employee of yours ... I think personally that she made the right decision to leave.”
+
+</details>
+
+- **[Alyssa Cordova](/entities/person-alyssa-cordova.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “he has been watching every minute of this show since i left the daily wire that was actually Alyssa (Alyssa Cordova)'s job when when um back when Jeremy (Jeremy Boreing) was there they used to keep a file”
 
 </details>
 
@@ -1534,11 +1543,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Has Former Ceo (1)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
 - [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
 
 </details>
 
@@ -1613,7 +1623,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (28)</summary>
+<summary>Referenced By (30)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1692,11 +1702,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** former CEO of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
 - [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
 
 </details>
 
@@ -1733,11 +1744,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, ... Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:01](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “All right, you guys, happy Wednesday. What do I have for you today? A lot. Hook, line and sinker. Jeremy Boreing, former CEO of Daily Wire, goes on the offense against my husband.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “he has been watching every minute of this show since i left the daily wire that was actually Alyssa (Alyssa Cordova)'s job when when um back when Jeremy (Jeremy Boreing) was there they used to keep a file”
 
 </details>
 
@@ -1752,6 +1764,20 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:46:43](/episodes/ep-k1b1NDCrNFs.md#t-00-46-43): “uh he's an accused i should say because it's still going through the courts he's been accused of distributing pornography of pre-pubescent kids in the process of soliciting other minors and again i'm going to say allegedly because he has not been convicted yet but the case is making its way through the courts and perhaps more crucially you should know that this now former employee zachary lewis happens to have worked in the daily wire kids department where they filmed kids shows with kids.”
+
+</details>
+
+- **[Brett Cooper](/entities/person-brett-cooper.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing) ... telling Brett Cooper, then a very young employee of yours ... I think personally that she made the right decision to leave.”
+
+</details>
+
+- **[Alyssa Cordova](/entities/person-alyssa-cordova.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:41:24](/episodes/ep-QRS_hR7NXaQ.md#t-00-40-59): “he has been watching every minute of this show since i left the daily wire that was actually Alyssa (Alyssa Cordova)'s job when when um back when Jeremy (Jeremy Boreing) was there they used to keep a file”
 
 </details>
 
@@ -1894,7 +1920,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (100)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (102)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
@@ -2113,42 +2139,48 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (12)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (14)</summary>
 
 - [00:39:05](/episodes/ep-QdM9jLwjwLw.md#t-00-39-04) (Opinion) **Jeremy Boreing** (via quoted speech): ["Hiring Candace Owens was probably the biggest mistake of my profession..."](/statements/statement-0862ed4e26eb.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:46:53](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30) (Accusation) **Candace Owens**: ["Owens said she was told Jeremy Boreing spent about $67 million on his ..."](/statements/statement-e105cd32e317.md)
+- [00:46:53](/episodes/ep-QdM9jLwjwLw.md#t-00-46-24) (Accusation) **Candace Owens**: ["Owens said she was told Jeremy Boreing spent about $67 million on his ..."](/statements/statement-e105cd32e317.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md)
 
 - [00:47:18](/episodes/ep-QdM9jLwjwLw.md#t-00-46-53) (Accusation) **Candace Owens**: ["The Daily Wire emptied a savings account and borrowed money personally..."](/statements/statement-ddbe7f83380d.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
 
-- [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-24) (Accusation) **Candace Owens**: ["Owens sarcastically characterized The Daily Wire's decision as a plan ..."](/statements/statement-6470de56359a.md)
+- [00:50:09](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) (Claim) **Candace Owens** (via paraphrase): ["Jeremy Boreing told Owens that The Daily Wire suspected she might have..."](/statements/statement-173c5f852dca.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
+
+- [00:50:36](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) (Accusation) **Candace Owens**: ["Owens sarcastically characterized The Daily Wire's decision as a plan ..."](/statements/statement-6470de56359a.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Antisemitism](/entities/concept-antisemitism.md)
 
-- [00:51:17](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) (Claim) **Candace Owens**: ["Jeremy Boreing personally reviewed Andrew Klavan's first episode attac..."](/statements/statement-a7a27a3b9955.md)
+- [00:51:16](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16) (Claim) **Candace Owens**: ["Jeremy Boreing personally reviewed Andrew Klavan's first episode attac..."](/statements/statement-a7a27a3b9955.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Andrew Klavan](/entities/person-andrew-klavan.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:51:28](/episodes/ep-QdM9jLwjwLw.md#t-00-51-07) (Accusation) **Candace Owens**: ["The Daily Wire's management believed firing me would produce mass subs..."](/statements/statement-6de1995a2afb.md)
+- [00:51:25](/episodes/ep-QdM9jLwjwLw.md#t-00-51-16) (Accusation) **Candace Owens**: ["The Daily Wire's management believed firing me would produce mass subs..."](/statements/statement-6de1995a2afb.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:52:27](/episodes/ep-QdM9jLwjwLw.md#t-00-51-50) (Accusation) **Candace Owens**: ["Jeremy Boreing sent an intern to follow me to a Turning Point USA even..."](/statements/statement-c88afe6fd106.md)
+- [00:52:30](/episodes/ep-QdM9jLwjwLw.md#t-00-51-54) (Accusation) **Candace Owens**: ["Jeremy Boreing sent an intern to follow me to a Turning Point USA even..."](/statements/statement-c88afe6fd106.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:53:15](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) (Accusation) **Candace Owens**: ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that s..."](/statements/statement-f49b5ad7509e.md)
+- [00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) (Accusation) **Candace Owens**: ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that s..."](/statements/statement-f49b5ad7509e.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md)
 
-- [00:54:07](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) (Accusation) **Candace Owens**: ["The Daily Wire offered Brett Cooper's maid of honor a large sum to rep..."](/statements/statement-1910477f2c11.md)
+- [00:54:10](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) (Accusation) **Candace Owens**: ["The Daily Wire offered Brett Cooper's maid of honor a large sum to rep..."](/statements/statement-1910477f2c11.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Brett Cooper](/entities/person-brett-cooper.md)
 
-- [00:55:57](/episodes/ep-QdM9jLwjwLw.md#t-00-55-17) (Claim) **Candace Owens**: ["Jeremy Boreing admitted to me that he had a mental breakdown in Hungar..."](/statements/statement-db0eae515314.md)
+- [00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30) (Accusation) **Candace Owens**: ["The Daily Wire sued Owens for publicly defending Brett Cooper and soug..."](/statements/statement-34eca4708040.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Brett Cooper](/entities/person-brett-cooper.md)
+
+- [00:55:50](/episodes/ep-QdM9jLwjwLw.md#t-00-55-50) (Claim) **Candace Owens**: ["Jeremy Boreing admitted to me that he had a mental breakdown in Hungar..."](/statements/statement-db0eae515314.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Hungary](/entities/gpe-hungary.md)
 
-- [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-58) (Accusation) **Candace Owens** (via paraphrase): ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrup..."](/statements/statement-41320863a4cd.md)
+- [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-39) (Accusation) **Candace Owens** (via paraphrase): ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrup..."](/statements/statement-41320863a4cd.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-08-08) (Claim) **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked..."](/statements/statement-97b38798c1ab.md)
+- [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-07-56) (Claim) **Candace Owens**: ["The Daily Wire denied my request to host Bassem Youssef while I worked..."](/statements/statement-97b38798c1ab.md)
   - Also about: [Bassem Youssef](/entities/person-bassem-youssef.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

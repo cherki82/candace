@@ -3,7 +3,7 @@ title: "Charlie Kirk needed to delay college and start an organizati..."
 description: "\"Charlie Kirk needed to delay college and start an organization to reach young people with his message.\" — Bill Montgomery"
 statement_id: "statement-b5628f2b17f6"
 speaker: "Bill Montgomery"
-type: "factual_claim"
+type: "opinion"
 veracity: "true"
 ---
 
@@ -54,4 +54,4 @@ A detailed profile quotes Montgomery telling the college-bound Kirk that he shou
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Opinion | **Verifiable:** Yes

@@ -33,7 +33,7 @@ type: "factual_claim"
 **Timestamp:** [00:25:11](/episodes/ep-4YgrOhhy708.md#t-00-24-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1511);return false;">Play</a>
 
-> and this I don't have to put in allegedly because I have text messages from September 11th. ... Tracy (Tracy Martin) told friends that her daughter, ... possibly Erika (Erika Kirk)'s assistant, ... was supposed to be at UVU on September 10th, but Tracy (Tracy Martin) had a bad feeling about it. ... Yep. And so she stopped her daughter.
+> Tracy (Tracy Martin) told friends that her daughter, ... was supposed to be at UVU on September 10th, but Tracy (Tracy Martin) had a bad feeling about it. ... Yep. And so she stopped her daughter.
 
 ### 2. Here’s Why It’s Time For The Police To Question Erika Kirk… ...
 

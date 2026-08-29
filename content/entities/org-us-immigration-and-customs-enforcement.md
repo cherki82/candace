@@ -69,13 +69,13 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[00:45:51](/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-42)**
+**[00:45:48](/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-42)**
 > "one of the ICE offices"
 
-**[00:46:01](/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-46-01)**
+**[00:46:00](/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-46-00)**
 > "Why do we have ICE"
 
-**[00:46:06](/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-46-04)**
+**[00:46:04](/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-46-04)**
 > "The ICE is just like a recent, two days ago."
 
 </details>

@@ -318,7 +318,7 @@ Source: [Google — About](https://about.google/)
 > "...sands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
 
 **[00:28:30](/episodes/ep-1hcjQGgvxUY.md#ent-org-google-t-00-28-21)**
-> "...sands of five-star reviews on Google and it holds a five-star rating on Trustpilot."
+> "boasts thousands of five-star reviews on Google, and it holds a five-star rating on Trustpilot."
 
 </details>
 

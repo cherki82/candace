@@ -42,7 +42,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <a href="/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-19-55" style="--pulse-height:11%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-14" style="--pulse-height:28%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 5 mentions" title="2025-11-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04" style="--pulse-height:22%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 4 mentions" title="2025-12-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-23" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-22" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-scottsdale-t-00-26-53" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-scottsdale-t-00-17-08" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-gpe-scottsdale-t-00-31-16" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 2 mentions" title="2026-02-28 · 2 mentions"><span></span></a>
@@ -68,7 +68,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-scottsdale-t-00-19-55) | 2 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-14) | 5 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04) | 4 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-23) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-22) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-scottsdale-t-00-26-53) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-scottsdale-t-00-17-08) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-gpe-scottsdale-t-00-31-16) | 2 |
@@ -360,7 +360,7 @@ Source: [About Scottsdale | City of Scottsdale](https://www.scottsdaleaz.gov/abo
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:13:30](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-23)**
+**[00:13:28](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-scottsdale-t-00-13-22)**
 > "Dad also lives in Scottsdale. Sister,"
 
 </details>

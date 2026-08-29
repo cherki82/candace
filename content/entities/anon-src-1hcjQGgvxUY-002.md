@@ -3,9 +3,14 @@ title: "Anonymous Source #2 (Ep 1hcjQGgvxUY)"
 description: "Anonymous Source #2 (Ep 1hcjQGgvxUY) (Anonymous Sources) - 1 mention"
 id: "anon-src-1hcjQGgvxUY-002"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "embedded TikTok creator"
+  - "identity unverified"
 ---
 
 _Type: Anonymous Sources_
+
+**Categories:** embedded TikTok creator, identity unverified
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>

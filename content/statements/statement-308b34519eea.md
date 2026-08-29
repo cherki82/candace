@@ -39,10 +39,10 @@ veracity: "unverifiable"
 ### 2. REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Canda...
 
 **Episode:** [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md)
-**Timestamp:** [00:23:52](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1432);return false;">Play</a>
+**Timestamp:** [00:23:11](/episodes/ep-DYD_QHMPwqM.md#t-00-23-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1391);return false;">Play</a>
 
-> Number three, even builds upon that lie because then we were told, well, the reason for that is because Dan Flood and Andrew Kolvet messaged him on a third party app and that's why I didn't know that was set for deletion. Well, the reality, as I broke to you all the other day, is that Dan Flood actually messaged him on iMessage.
+> Number two, she told us that Charlie (Charlie Kirk) did not text anyone the night before in fear for his life. That's what she told Glenn Beck. ... Number three, even builds upon that lie because then we were told, well, the reason for that is because Dan Flood and Andrew Kolvet messaged him on a third party app and that's why I didn't know that was set for deletion. Well, the reality, as I broke to you all the other day, is that Dan Flood actually messaged him on iMessage.
 
 ### 3. Here’s Why It’s Time For The Police To Question Erika Kirk… ...
 

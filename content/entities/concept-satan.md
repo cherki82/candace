@@ -1,6 +1,6 @@
 ---
 title: "Satan"
-description: "Satan (Concepts) - 68 mentions"
+description: "Satan (Concepts) - 70 mentions"
 id: "concept-satan"
 type: "CONCEPT"
 aliases:
@@ -25,7 +25,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39">2026-01-14 · 00:31:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-54-39">2026-08-07 · 00:55:15</a></strong></div>
 <div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>68</strong></div>
+<div><span>Mentions</span><strong>70</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,34 +34,34 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00">Candace x Bassem Youssef | Candace Ep 298</a> (11 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00">Candace x Bassem Youssef | Candace Ep 298</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39" style="--pulse-height:18%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38" style="--pulse-height:45%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-22" style="--pulse-height:18%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 11 mentions" title="2026-01-29 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45" style="--pulse-height:73%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 8 mentions" title="2026-01-30 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-00-00" style="--pulse-height:27%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-satan-t-00-17-34" style="--pulse-height:55%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-satan-t-00-07-54" style="--pulse-height:36%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-satan-t-00-37-22" style="--pulse-height:18%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-satan-t-00-48-47" style="--pulse-height:9%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-satan-t-00-02-13" style="--pulse-height:9%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-satan-t-00-06-20" style="--pulse-height:18%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-satan-t-00-59-20" style="--pulse-height:18%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-satan-t-00-49-45" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-concept-satan-t-00-48-35" style="--pulse-height:9%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-satan-t-02-36-29" style="--pulse-height:9%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-satan-t-00-09-03" style="--pulse-height:9%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-satan-t-01-06-01" style="--pulse-height:9%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-satan-t-00-42-34" style="--pulse-height:9%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-satan-t-00-36-33" style="--pulse-height:9%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-satan-t-00-00-59" style="--pulse-height:9%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-satan-t-00-00-00" style="--pulse-height:27%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-satan-t-00-12-57" style="--pulse-height:18%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-satan-t-00-00-42" style="--pulse-height:9%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-satan-t-00-03-17" style="--pulse-height:18%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-52-32" style="--pulse-height:27%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-22" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 10 mentions" title="2026-01-29 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 10 mentions" title="2026-01-30 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-00-00" style="--pulse-height:40%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-satan-t-00-17-34" style="--pulse-height:60%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-satan-t-00-07-54" style="--pulse-height:40%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-satan-t-00-37-22" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-satan-t-00-48-47" style="--pulse-height:10%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-satan-t-00-02-13" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-satan-t-00-06-20" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-concept-satan-t-00-59-20" style="--pulse-height:20%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-satan-t-00-49-45" style="--pulse-height:10%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-concept-satan-t-00-48-35" style="--pulse-height:10%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-concept-satan-t-02-36-29" style="--pulse-height:10%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-satan-t-00-09-03" style="--pulse-height:10%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-satan-t-01-06-01" style="--pulse-height:10%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-satan-t-00-42-34" style="--pulse-height:10%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-satan-t-00-36-33" style="--pulse-height:10%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-satan-t-00-00-59" style="--pulse-height:10%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-satan-t-00-00-00" style="--pulse-height:30%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-satan-t-00-12-57" style="--pulse-height:20%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-satan-t-00-00-42" style="--pulse-height:10%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-satan-t-00-03-17" style="--pulse-height:20%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-52-32" style="--pulse-height:30%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,9 +70,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38) | 5 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-22) | 2 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00) | 11 |
-| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45) | 8 |
-| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-00-00) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00) | 10 |
+| 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45) | 10 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-00-00) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-satan-t-00-17-34) | 6 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-satan-t-00-07-54) | 4 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-satan-t-00-37-22) | 2 |
@@ -100,7 +100,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (68)</strong></summary>
+<summary><strong class="section-title">Raw mentions (70)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (3 mentions)</summary>
@@ -314,7 +314,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (3 mentions)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (4 mentions)</summary>
 
 **[00:00:34](/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-00-00)**
 > "This is the synagogue of Satan. I do not go halfway with defending pedophiles. G..."
@@ -325,10 +325,13 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 **[00:23:19](/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-23-07)**
 > "You see, when your master is Satan, you must constantly shed blood."
 
+**[00:57:03](/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-57-03)**
+> "...literally i feel like we have the devil by the tail i really do and now when they're lyin..."
+
 </details>
 
 <details>
-<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (8 mentions)</summary>
+<summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (10 mentions)</summary>
 
 **[00:00:47](/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45)**
 > "He says I'm Satan because I'm confusing."
@@ -354,15 +357,21 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 **[00:42:27](/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-42-21)**
 > "...me that you're calling people Satan."
 
+**[00:00:45](/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45)**
+> "everything is the devil."
+
+**[00:00:46](/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45)**
+> "Candace Owens is the devil."
+
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (11 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (10 mentions)</summary>
 
 **[01:02:00](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00)**
 > "synagogue of Satan"
 
-**[01:12:42](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-12-17)**
+**[01:12:40](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-12-17)**
 > "...are you team god are you team satan and it's actually kind of shocking how many peopl..."
 
 **[01:12:51](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-12-51)**
@@ -376,9 +385,6 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 **[01:40:38](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-40-38)**
 > "...re. started his own church of satan after he had disagreement about with he was in th..."
-
-**[01:40:44](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-40-38)**
-> "...guy who started the Church of Satan because the guy was like well we're saying like S..."
 
 **[01:40:56](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-40-38)**
 > "...e's actually in the church of satan he's just like a member of"

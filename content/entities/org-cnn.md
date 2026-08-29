@@ -252,13 +252,13 @@ Source: [About CNN](https://www.cnn.com/about)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
 
-**[00:35:35](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-35-23)**
+**[00:35:32](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-35-23)**
 > "CNN"
 
-**[00:52:18](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-52-14)**
+**[00:52:14](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-00-52-14)**
 > "there's no more HBOs or CNN to buy,"
 
-**[01:24:59](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-01-24-42)**
+**[01:24:42](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-01-24-42)**
 > "...hat in New Year's Times about CNN nothing yeah"
 
 **[01:38:00](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cnn-t-01-38-00)**
@@ -269,7 +269,7 @@ Source: [About CNN](https://www.cnn.com/about)
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:18:48](/episodes/ep-9naMwS0kMBE.md#ent-org-cnn-t-00-18-46)**
+**[00:18:46](/episodes/ep-9naMwS0kMBE.md#ent-org-cnn-t-00-18-46)**
 > "...Carlson, who used to work for CNN,"
 
 </details>

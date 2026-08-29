@@ -225,7 +225,7 @@ Source: [Ivanka Trump | Archived White House](https://trumpwhitehouse.archives.g
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (7 mentions)</summary>
 
-**[00:31:08](/episodes/ep-9naMwS0kMBE.md#ent-person-ivanka-trump-t-00-31-07)**
+**[00:31:07](/episodes/ep-9naMwS0kMBE.md#ent-person-ivanka-trump-t-00-31-07)**
 > "...but I also ranted about Jared Ivanka."
 
 **[00:31:20](/episodes/ep-9naMwS0kMBE.md#ent-person-ivanka-trump-t-00-31-07)**

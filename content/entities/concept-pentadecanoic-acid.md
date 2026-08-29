@@ -163,13 +163,13 @@ Source: [Pentadecanoic acid | NIST Chemistry WebBook](https://webbook.nist.gov/c
 **[01:05:16](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-04-44)**
 > "...ably should have. It's called C15."
 
-**[01:05:28](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-05-28)**
+**[01:05:22](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-05-22)**
 > "...esigned to help optimize your C15 levels."
 
-**[01:05:56](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-05-28)**
+**[01:05:44](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-05-22)**
 > "...ats are in fact essential and C15 is one of them."
 
-**[01:06:00](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-05-28)**
+**[01:06:00](/episodes/ep-9naMwS0kMBE.md#ent-concept-pentadecanoic-acid-t-01-05-22)**
 > "...on a mission to optimize your C15 levels to help support your long-term health and ..."
 
 </details>

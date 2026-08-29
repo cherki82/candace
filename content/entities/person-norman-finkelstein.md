@@ -28,7 +28,7 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -104,7 +104,7 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[01:24:03](/episodes/ep-xjzb_t5Tk9o.md#ent-person-norman-finkelstein-t-01-24-01)**
+**[01:24:01](/episodes/ep-xjzb_t5Tk9o.md#ent-person-norman-finkelstein-t-01-24-01)**
 > "Norm Finkelstein"
 
 **[00:38:25](/episodes/ep-xjzb_t5Tk9o.md#ent-person-norman-finkelstein-t-00-38-21)**
@@ -179,26 +179,79 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Interviewed By (1)</summary>
+<summary>Criticized (2)</summary>
 
-- **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I was very excited to sit down and have a conversation... with Norman Finkelstein.”
-- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#t-00-14-30): “when Norm Finkelstein was on our show”
-- [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): “a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show”
-- [Candace x Bassem Youssef | Candace Ep 298 @ 00:38:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-21): “numbers change and i was grateful to sit down with norm finkelstein and i asked him about that question you know because he's like my parents uh one of his parents was in auschwitz and the other parent was i'm blanking on which of the other camps they were in and he said he acknowledges it he's like yeah of course he said my parents told me some people were taking the tattoos off and some people were putting them on you”
-- [Candace Owens x Ana Kasparian @ 01:17:15](/episodes/ep-SKNJPul29zU.md#t-01-17-15): “I love that you're willing to have people like, you know, Norm Finkelstein on.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
+
+</details>
+
+- **[Alan Dershowitz](/entities/person-alan-dershowitz.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Interviewed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+
+- [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I was very excited to sit down and have a conversation... with Norman Finkelstein.”
+- [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#t-00-14-30): “when Norm Finkelstein was on our show”
+- [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): “a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:38:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-21): “numbers change and i was grateful to sit down with norm finkelstein and i asked him about that question you know because he's like my parents uh one of his parents was in auschwitz and the other parent was i'm blanking on which of the other camps they were in and he said he acknowledges it he's like yeah of course he said my parents told me some people were taking the tattoos off and some people were putting them on you”
+- [Candace Owens x Ana Kasparian @ 01:17:15](/episodes/ep-SKNJPul29zU.md#t-01-17-15): “I love that you're willing to have people like, you know, Norm Finkelstein on.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:51](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “We had Norm Finkelstein on this show.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Threatened (2)</summary>
+
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
+
+</details>
+
+- **[Alan Dershowitz](/entities/person-alan-dershowitz.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (5)</summary>
+
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
+
+</details>
+
+- **[Alan Dershowitz](/entities/person-alan-dershowitz.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#t-00-38-57): “I was very excited to sit down and have a conversation... with Norman Finkelstein.”
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:42](/episodes/ep-Qt0VHV-POCg.md#t-00-39-34): “we will be releasing on Friday with Norman Finkelstein...I was able to sit down with him again—this time on my totally owned show.”
@@ -206,6 +259,21 @@ Source: [Candace Owens x Norman Finkelstein | Norman Finkelstein](https://www.no
 - [Myron Gaines x Candace Owens @ 00:33:39](/episodes/ep-2T39-oADLj0.md#t-00-33-39): “a jackass about it was just kind of using humor which is the best tool and being like so what's the equation of how many lives are worth so I'm going okay so I'm supposed to believe these are the evil people but this is how many people and then I had Norm Finkelstein on my show”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:38:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-38-21): “numbers change and i was grateful to sit down with norm finkelstein and i asked him about that question you know because he's like my parents uh one of his parents was in auschwitz and the other parent was i'm blanking on which of the other camps they were in and he said he acknowledges it he's like yeah of course he said my parents told me some people were taking the tattoos off and some people were putting them on you”
 - [Candace Owens x Ana Kasparian @ 01:17:15](/episodes/ep-SKNJPul29zU.md#t-01-17-15): “I love that you're willing to have people like, you know, Norm Finkelstein on.”
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:51](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “We had Norm Finkelstein on this show.”
+
+</details>
+
+- **[Jeffrey Epstein](/entities/person-jeffrey-epstein.md)** threatened by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
+
+</details>
+
+- **[Alan Dershowitz](/entities/person-alan-dershowitz.md)** threatened by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:50:46](/episodes/ep-QRS_hR7NXaQ.md#t-00-50-37): “Epstein and Dershowitz contacted Finkelstein, but he called them pedophiles and threatened to hurt them.”
 
 </details>
 

@@ -537,10 +537,11 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13): “It's very strange. I'll show you this. Seth Dillon, resident liar, Hamptons guy. He writes the main reason Alex Jones was held liable was not that he questioned an official narrative.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:40:31](/episodes/ep-4YgrOhhy708.md#t-00-40-11): “And Seth (Seth Dillon), you just look like a liar.”
 
 </details>
 
@@ -631,10 +632,11 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:43:28](/episodes/ep-OgRyiOAVtWU.md#t-00-43-13): “It's very strange. I'll show you this. Seth Dillon, resident liar, Hamptons guy. He writes the main reason Alex Jones was held liable was not that he questioned an official narrative.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:26:55](/episodes/ep-ds6umq1rHAw.md#t-00-26-36): “I've been morally blackmailed by Seth Dillon, so I know exactly what Charlie Kirk was referring to.”
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:40:31](/episodes/ep-4YgrOhhy708.md#t-00-40-11): “And Seth (Seth Dillon), you just look like a liar.”
 
 </details>
 
@@ -766,7 +768,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>
 
-- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark demanded that Seth Dillon call Owens's s..."](/statements/statement-a831f72ad994.md)
+- [00:50:38](/episodes/ep-1hcjQGgvxUY.md#t-00-50-14) (Accusation) **Candace Owens**: ["Candace Owens says Alex Clark apparently demanded that Seth Dillon cal..."](/statements/statement-a831f72ad994.md)
   - Also about: [Alex Clark](/entities/person-alex-clark.md), [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

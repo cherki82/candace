@@ -1,6 +1,6 @@
 ---
 title: "Tel Aviv"
-description: "Tel Aviv (Places) - 14 mentions"
+description: "Tel Aviv (Places) - 15 mentions"
 id: "gpe-tel-aviv"
 type: "GPE"
 categories:
@@ -20,8 +20,8 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-01-02-48">2025-09-15 · 01:03:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-tel-aviv-t-00-23-45">2026-07-14 · 00:24:00</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -39,6 +39,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-tel-aviv-t-00-38-00" style="--pulse-height:50%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-tel-aviv-t-00-40-46" style="--pulse-height:100%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-05-27" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#t-00-28-48" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-tel-aviv-t-00-23-17" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-tel-aviv-t-00-23-45" style="--pulse-height:50%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
@@ -53,6 +54,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-tel-aviv-t-00-38-00) | 1 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-tel-aviv-t-00-40-46) | 2 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-tel-aviv-t-00-05-27) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-28-48) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-tel-aviv-t-00-23-17) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-tel-aviv-t-00-23-45) | 1 |
 
@@ -62,7 +64,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
@@ -80,6 +82,14 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 
 **[00:25:52](/episodes/ep-IqHsl7d2dos.md#ent-gpe-tel-aviv-t-00-25-41)**
 > "...t, a script that runs back to Tel Aviv."
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+
+**[00:29:07](/episodes/ep-9naMwS0kMBE.md#t-00-28-48)**
+> "Barry Weiss, I think, did some schooling in Tel ... Aviv."
 
 </details>
 

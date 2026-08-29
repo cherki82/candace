@@ -11,7 +11,11 @@ object: "org-quest-academy-palatine"
 
 ## [Charlie Kirk](/entities/person-charlie-kirk) attended [Quest Academy](/entities/org-quest-academy-palatine)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
+
+- [00:29:23](/episodes/ep-A39g5oqB_eM#t-00-29-23): _which obviously in the area where Charlie (Charlie Kirk)'s X-Men school was. The X-Men school, I just like to call it that, was actually called Creative Children's Academy. It opened in 1982 for the academically gifted from preschool up into the eighth grade. In 1999, it changed its name officially to Quest Academy._
 
 **[A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g)**
 

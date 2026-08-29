@@ -1,15 +1,23 @@
 ---
 title: "Anonymous Source #3 (Ep A39g5oqB_eM)"
-description: "Anonymous Source #3 (Ep A39g5oqB_eM) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #3 (Ep A39g5oqB_eM) (Anonymous Sources) - 1 mention"
 id: "anon-src-A39g5oqB_eM-003"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "investigative tip source"
 ---
 
 _Type: Anonymous Sources_
 
+**Categories:** investigative tip source
+
+**Entity verification:** verified
+> Source-scoped tipster whose school-history claim is attributed in the episode; identity remains undisclosed.
+Source: [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](https://www.youtube.com/watch?v=A39g5oqB_eM)
+
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,9 +27,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 

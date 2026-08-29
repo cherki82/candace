@@ -27,7 +27,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md)
-**Timestamp:** [00:55:03](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-47) 
+**Timestamp:** [00:55:03](/episodes/ep-xjzb_t5Tk9o.md#t-00-54-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3303);return false;">Play</a>
 
 > You have 37, ... 38 states that have laws. ... that you cannot boycott Israel,

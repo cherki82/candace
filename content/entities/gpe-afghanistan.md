@@ -1,6 +1,6 @@
 ---
 title: "Afghanistan"
-description: "Afghanistan (Places) - 25 mentions"
+description: "Afghanistan (Places) - 26 mentions"
 id: "gpe-afghanistan"
 type: "GPE"
 categories:
@@ -19,8 +19,8 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50">2025-11-12 · 00:50:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-afghanistan-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,7 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-afghanistan-t-01-04-58" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-afghanistan-t-00-36-08" style="--pulse-height:10%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-afghanistan-t-00-48-04" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-afghanistan-t-00-18-12" style="--pulse-height:10%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-afghanistan-t-00-04-53" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-00-01" style="--pulse-height:60%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 6 mentions" title="2026-03-03 · 6 mentions"><span></span></a>
@@ -49,6 +50,7 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-afghanistan-t-01-04-58) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-afghanistan-t-00-36-08) | 1 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-afghanistan-t-00-48-04) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-afghanistan-t-00-18-12) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-afghanistan-t-00-04-53) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-00-01) | 6 |
@@ -63,7 +65,7 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2 mentions)</summary>
@@ -163,6 +165,14 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 
 **[00:18:23](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-afghanistan-t-00-18-12)**
 > "what was going on in Afghanistan"
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
+
+**[00:48:23](/episodes/ep-9naMwS0kMBE.md#ent-gpe-afghanistan-t-00-48-04)**
+> "...errible. Let's go to war with Afghanistan. It was like, yeah, let's do that. No, it took ye..."
 
 </details>
 

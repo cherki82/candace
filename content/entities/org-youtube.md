@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 154 mentions"
+description: "YouTube (Organizations) - 153 mentions"
 id: "org-youtube"
 type: "ORG"
 categories:
@@ -19,10 +19,10 @@ Source: [About YouTube](https://about.youtube/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-25-30">2026-08-21 · 00:25:41</a></strong></div>
-<div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>154</strong></div>
+<div><span>Episodes</span><strong>70</strong></div>
+<div><span>Mentions</span><strong>153</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>16</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -59,7 +59,7 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-31-13" style="--pulse-height:32%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-youtube-t-00-59-24" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-20-06" style="--pulse-height:26%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-15-50" style="--pulse-height:53%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 10 mentions" title="2026-01-20 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-15-50" style="--pulse-height:37%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-youtube-t-00-47-50" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-youtube-t-01-20-47" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-youtube-t-00-48-23" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -84,6 +84,7 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-youtube-t-00-56-11" style="--pulse-height:11%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-youtube-t-00-55-34" style="--pulse-height:11%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-youtube-t-00-10-14" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-youtube-t-00-19-04" style="--pulse-height:11%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-youtube-t-00-52-12" style="--pulse-height:11%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-youtube-t-00-27-16" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-youtube-t-00-15-42" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
@@ -133,7 +134,7 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-31-13) | 6 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-youtube-t-00-59-24) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-20-06) | 5 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-15-50) | 10 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-15-50) | 7 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-youtube-t-00-47-50) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-youtube-t-01-20-47) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-youtube-t-00-48-23) | 1 |
@@ -158,6 +159,7 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-youtube-t-00-56-11) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-youtube-t-00-55-34) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-youtube-t-00-10-14) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-youtube-t-00-19-04) | 2 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-youtube-t-00-52-12) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-youtube-t-00-27-16) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-youtube-t-00-15-42) | 1 |
@@ -181,7 +183,7 @@ Source: [About YouTube](https://about.youtube/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (154)</strong></summary>
+<summary><strong class="section-title">Raw mentions (153)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -326,6 +328,17 @@ Source: [About YouTube](https://about.youtube/)
 
 **[00:53:32](/episodes/ep-G3zdOeHpvS0.md#ent-org-youtube-t-00-52-57)**
 > "... smaller creator. creators on YouTube, we've named a lot of them, you know, Nisi did gr..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:19:04](/episodes/ep-5NQyGuRYbU8.md#ent-org-youtube-t-00-19-04)**
+> "And so I decided to research and see if there were maybe some random YouTube channels that were dedicated to demonstrating doubling that amount, maybe tripling that amount and seeing what would happen. And ladies and gentlemen, I am not kidding you."
+
+**[00:19:19](/episodes/ep-5NQyGuRYbU8.md#ent-org-youtube-t-00-19-04)**
+> "...deo that I stumbled across on YouTube, just typing in PETN explosive, and it was just."
 
 </details>
 
@@ -637,7 +650,7 @@ Source: [About YouTube](https://about.youtube/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:20:50](/episodes/ep-xjzb_t5Tk9o.md#ent-org-youtube-t-01-20-47)**
+**[01:20:47](/episodes/ep-xjzb_t5Tk9o.md#ent-org-youtube-t-01-20-47)**
 > "channel on YouTube"
 
 </details>
@@ -651,30 +664,21 @@ Source: [About YouTube](https://about.youtube/)
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (10 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (7 mentions)</summary>
 
-**[01:15:55](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-15-50)**
-> "...at just makes for exceptional YouTube content."
-
-**[01:16:00](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-15-50)**
+**[01:15:50](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-15-50)**
 > "...at just makes for exceptional YouTube content."
 
 **[01:16:52](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-16-52)**
 > "...t equal c and then you find a youtube channel classes for free for her at stanford it i..."
 
 **[01:19:05](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-18-50)**
-> "I bet there's YouTube videos."
-
-**[01:19:06](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-18-50)**
-> "We could probably find a YouTube video."
-
-**[01:19:07](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-18-50)**
 > "...e whole introduction to logic YouTube."
 
 **[01:19:15](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-19-15)**
 > "...out was the greatest thing on YouTube I was like you know what thank you yes this is sp..."
 
-**[01:20:08](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-20-03)**
+**[01:20:03](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-20-03)**
 > "...his moment, I have changed my YouTube profile pic to an image of you as bad cop and Can..."
 
 **[01:21:46](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-21-46)**
@@ -1000,7 +1004,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about YouTube (15)</strong></summary>
+<summary><strong class="section-title">Statements about YouTube (16)</strong></summary>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
@@ -1023,6 +1027,14 @@ _No relationships extracted yet._
 
 - [00:49:51](/episodes/ep-3QJqtW_NOSI.md#t-00-49-44) (Claim) **Anonymous Source #2 (Ep 3QJqtW_NOSI)** (via quoted post): ["A YouTube commenter identified as Anna wrote that three of Jeffrey Eps..."](/statements/statement-fe51b1a4a8e1.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Russia](/entities/gpe-russia.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:20:42](/episodes/ep-5NQyGuRYbU8.md#t-00-20-25) (Claim) **Candace Owens**: ["Candace Owens said a test showed that 20 grams of PETN produced an imp..."](/statements/statement-a56b6279c3d6.md)
+  - Also about: [PETN](/entities/concept-petn.md)
 
 </details>
 

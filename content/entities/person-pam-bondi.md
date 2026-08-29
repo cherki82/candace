@@ -182,7 +182,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (4 mentions)</summary>
 
 **[00:44:46](/episodes/ep-Wjul6YV6izo.md#ent-person-pam-bondi-t-00-44-46)**
-> "of course it's funny i'm done done and the idea of donovan being in prison is funny uh but objectively him being put in prison because pam bondi wanted a headline pam bondi can we get the epstein files yes or no like can you actually arrest some of these people in society that are harming children i feel like right now um the doj has become like that show reno 911 is that what it is it's called reno 911 i think it's called reno 911 it just"
+> "of course it's funny i'm done done and the idea of Don Lemon being in prison is funny uh but objectively him being put in prison because pam bondi wanted a headline pam bondi can we get the epstein files yes or no like can you actually arrest some of these people in society that are harming children i feel like right now um the doj has become like that show reno 911 is that what it is it's called reno 911 i think it's called reno 911 it just"
 
 **[00:45:12](/episodes/ep-Wjul6YV6izo.md#ent-person-pam-bondi-t-00-45-12)**
 > "...akeup and like we're back and pam bondi's like and we're here to arrest the people that cri..."

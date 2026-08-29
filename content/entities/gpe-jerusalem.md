@@ -1,6 +1,6 @@
 ---
 title: "Jerusalem"
-description: "Jerusalem (Places) - 38 mentions"
+description: "Jerusalem (Places) - 39 mentions"
 id: "gpe-jerusalem"
 type: "GPE"
 categories:
@@ -20,7 +20,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50">2025-10-08 · 00:05:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,7 +38,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <a href="/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 2 mentions" title="2025-11-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28" style="--pulse-height:38%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 3 mentions" title="2025-11-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-28-48" style="--pulse-height:38%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18" style="--pulse-height:75%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 6 mentions" title="2026-02-25 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-jerusalem-t-00-50-56" style="--pulse-height:12%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-jerusalem-t-00-21-00" style="--pulse-height:12%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
@@ -59,7 +59,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-gpe-jerusalem-t-00-38-23) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-jerusalem-t-00-25-28) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-jerusalem-t-00-34-41) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-28-48) | 3 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-jerusalem-t-00-39-18) | 6 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-jerusalem-t-00-50-56) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-jerusalem-t-00-21-00) | 1 |
@@ -75,7 +75,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -178,13 +178,16 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (3 mentions)</summary>
 
-**[00:29:05](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02)**
+**[00:29:07](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-28-48)**
 > "...e did he do some schooling in Jerusalem?"
 
-**[00:40:59](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-29-02)**
+**[00:40:56](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-28-48)**
 > "Jerusalem Post,"
+
+**[00:29:02](/episodes/ep-9naMwS0kMBE.md#ent-gpe-jerusalem-t-00-28-48)**
+> "...e did he do some schooling in Jerusalem?"
 
 </details>
 

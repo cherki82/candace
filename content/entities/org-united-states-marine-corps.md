@@ -1,6 +1,6 @@
 ---
 title: "United States Marine Corps"
-description: "United States Marine Corps (Organizations) - 67 mentions"
+description: "United States Marine Corps (Organizations) - 68 mentions"
 id: "org-united-states-marine-corps"
 type: "ORG"
 aliases:
@@ -27,7 +27,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-02">2025-09-22 · 00:55:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07">2026-08-14 · 03:04:07</a></strong></div>
 <div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Mentions</span><strong>68</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -47,7 +47,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-marine-corps-t-00-31-23" style="--pulse-height:22%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-marine-corps-t-01-27-19" style="--pulse-height:11%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-states-marine-corps-t-00-12-15" style="--pulse-height:11%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22" style="--pulse-height:22%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-marine-corps-t-00-09-56" style="--pulse-height:44%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-marine-corps-t-00-20-44" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 3 mentions" title="2026-03-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-12-32" style="--pulse-height:44%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 4 mentions" title="2026-03-04 · 4 mentions"><span></span></a>
@@ -80,7 +80,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-marine-corps-t-00-31-23) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-marine-corps-t-01-27-19) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-united-states-marine-corps-t-00-12-15) | 1 |
-| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22) | 1 |
+| 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22) | 2 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-united-states-marine-corps-t-00-09-56) | 4 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-marine-corps-t-00-20-44) | 3 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-united-states-marine-corps-t-00-12-32) | 4 |
@@ -106,7 +106,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (68)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -361,10 +361,13 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details>
-<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>
+<summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (2 mentions)</summary>
 
 **[00:27:32](/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22)**
 > "... recognized birthplace of the Marine Corps."
+
+**[00:27:39](/episodes/ep-ZAsV0fHGBiM.md#ent-org-united-states-marine-corps-t-00-27-22)**
+> "...'re going to keep hearing the Marines coming up throughout this entire story. We're jus..."
 
 </details>
 
@@ -379,7 +382,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:27:35](/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-marine-corps-t-01-27-19)**
+**[01:27:33](/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-marine-corps-t-01-27-19)**
 > "American embassy of the American Marine Corps"
 
 </details>

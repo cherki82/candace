@@ -67,9 +67,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-make-him-a-sandwich-t-00-48-11" style="--pulse-height:25%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-work-make-him-a-sandwich-t-00-51-13" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-work-make-him-a-sandwich-t-00-06-01" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-24-46" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-make-him-a-sandwich-t-00-39-10" style="--pulse-height:25%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-make-him-a-sandwich-t-00-58-10" style="--pulse-height:25%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-25-23" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-make-him-a-sandwich-t-00-39-50" style="--pulse-height:25%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-make-him-a-sandwich-t-00-58-01" style="--pulse-height:25%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-work-make-him-a-sandwich-t-00-50-31" style="--pulse-height:25%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-make-him-a-sandwich-t-00-55-01" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#t-00-44-18" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -126,9 +126,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-make-him-a-sandwich-t-00-48-11) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-work-make-him-a-sandwich-t-00-51-13) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-make-him-a-sandwich-t-00-06-01) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-24-46) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-make-him-a-sandwich-t-00-39-10) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-make-him-a-sandwich-t-00-58-10) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-25-23) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-make-him-a-sandwich-t-00-39-50) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-make-him-a-sandwich-t-00-58-01) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-work-make-him-a-sandwich-t-00-50-31) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-make-him-a-sandwich-t-00-55-01) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#t-00-44-18) | 1 |
@@ -366,7 +366,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:58:10](/episodes/ep-QdM9jLwjwLw.md#ent-work-make-him-a-sandwich-t-00-58-10)**
+**[00:58:05](/episodes/ep-QdM9jLwjwLw.md#ent-work-make-him-a-sandwich-t-00-58-01)**
 > "Make Him a Sandwich and Blackout, both hand-signed by me."
 
 </details>
@@ -374,7 +374,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:39:50](/episodes/ep-gG4ZoYUjUc8.md#ent-work-make-him-a-sandwich-t-00-39-10)**
+**[00:39:50](/episodes/ep-gG4ZoYUjUc8.md#ent-work-make-him-a-sandwich-t-00-39-50)**
 > "It is the hard copies of Make Him a Sandwich and Blackout, both hand signed by me."
 
 </details>
@@ -382,7 +382,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:25:25](/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-24-46)**
+**[00:25:23](/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-25-23)**
 > "my book, Make Him a Sandwich"
 
 </details>
@@ -690,7 +690,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-25-23): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:52:21](/episodes/ep-7ERqbYElOfs.md#t-00-52-21): “Make him a sandwich, which is, I love you guys that are writing me emails about it. It was a really, really fun book to read, I mean to write, and it's taken me like years actually to write it.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 01:04:37](/episodes/ep-eLgD5yUVbko.md#t-01-04-11): “going to be on friday i did not appreciate that we had an open friday and it just made more sense to make it on friday to bump it um so yeah uh that will be on friday to make up for it and thank you guys for your patience um we only have two more meetings for this book so this friday and then one more and we'll be done and then the next book we're going to read is my book so i'm super excited about that make them a sandwich so buy that ahead of time if you guys want to jump in and join the book the book club the next book we're going to read is making a sandwich which i have just been very happy about um i i might be a little biased but i think the author's great and that is uh that's a signed copy you can also buy regular copies on amazon and yeah anyway you guys uh some of your comments let's do did i just read no i just read the comments from yesterday A few before we go.”
@@ -717,7 +717,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-25-23): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:52:21](/episodes/ep-7ERqbYElOfs.md#t-00-52-21): “Make him a sandwich, which is, I love you guys that are writing me emails about it. It was a really, really fun book to read, I mean to write, and it's taken me like years actually to write it.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 01:04:37](/episodes/ep-eLgD5yUVbko.md#t-01-04-11): “going to be on friday i did not appreciate that we had an open friday and it just made more sense to make it on friday to bump it um so yeah uh that will be on friday to make up for it and thank you guys for your patience um we only have two more meetings for this book so this friday and then one more and we'll be done and then the next book we're going to read is my book so i'm super excited about that make them a sandwich so buy that ahead of time if you guys want to jump in and join the book the book club the next book we're going to read is making a sandwich which i have just been very happy about um i i might be a little biased but i think the author's great and that is uh that's a signed copy you can also buy regular copies on amazon and yeah anyway you guys uh some of your comments let's do did i just read no i just read the comments from yesterday A few before we go.”

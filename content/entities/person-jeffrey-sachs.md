@@ -21,8 +21,8 @@ _Type: People_
 Source: [Jeffrey D. Sachs | Center for Sustainable Development](https://csd.columbia.edu/sachs)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-46">2026-01-22 · 00:41:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-46">2026-01-22 · 00:41:46</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-39">2026-01-22 · 00:41:39</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-39">2026-01-22 · 00:41:39</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,15 +33,15 @@ Source: [Jeffrey D. Sachs | Center for Sustainable Development](https://csd.colu
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-46">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-39">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-46" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-39" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-46) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-39) | 1 |
 
 </details>
 </section>
@@ -54,7 +54,7 @@ Source: [Jeffrey D. Sachs | Center for Sustainable Development](https://csd.colu
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:41:46](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-46)**
+**[00:41:39](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-sachs-t-00-41-39)**
 > "...eorge Galloway, Scott Ritter, Jeffrey Sachs, Ryan Grimm, Jeremy Scahill, Amy Goodman."
 
 </details>

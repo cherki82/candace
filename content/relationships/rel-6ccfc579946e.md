@@ -15,7 +15,7 @@ object: "person-nelson-peltz"
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 
-- [00:53:22](/episodes/ep-GY6GWceEqtQ#t-00-53-22): _nelson peltz was not he was also very nice ... the wife as well claudia her mother was really nice_
+- [00:53:22](/episodes/ep-GY6GWceEqtQ#t-00-53-22): _nelson peltz was not he was also very nice so i have nothing bad to say about him uh and the wife as well Claudia (Nicola Peltz's mother; surname unverified) was really nice_
 
 ### Related
 

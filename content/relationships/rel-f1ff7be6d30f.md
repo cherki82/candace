@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (21 mentions)
+### Evidence (25 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -20,6 +20,10 @@ object: "person-erika-kirk"
 **[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
 
 - [00:38:47](/episodes/ep-4JxgOclKzqg#t-00-38-47): _I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue_
+
+**[Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8)**
+
+- [00:43:30](/episodes/ep-5NQyGuRYbU8#t-00-43-30): _She lied to her husband about her viewpoints._
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
@@ -69,9 +73,17 @@ object: "person-erika-kirk"
 
 - [00:21:18](/episodes/ep-QRS_hR7NXaQ#t-00-21-18): _I want to speak about Erika (Erika Kirk)'s alibi on September 10th. And I'm going to put it out there that I do not believe it. I do not believe we are being told told the truth regarding her alibi._
 
+**[Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw)**
+
+- [00:03:02](/episodes/ep-QdM9jLwjwLw#t-00-03-02): _confirmed for a fact that she lied. She lied to my face, actually regarding the superman neck because she blamed that on Andrew Kolvet said that he went rogue that Dr. Lee Trotter also went rogue violated HIPAA that they hopped on the phone and did this without her consent or knowledge_
+
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
 - [00:10:17](/episodes/ep-UYkXV9mYbT4#t-00-10-17): _Erika (Erika Kirk) lied. Erika (Erika Kirk) and Andrew (Andrew Kolvet) colluded. on how to message to the public about this little fact that was never meant to be known to us._
+
+**[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
+
+- [00:54:30](/episodes/ep-Wjul6YV6izo#t-00-54-30): _So why did Erika lie to me? Why are we lying to Candace? Why are you lying to Candace?_
 
 **[Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ)**
 
@@ -84,6 +96,10 @@ object: "person-erika-kirk"
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 
 - [00:41:31](/episodes/ep-ds6umq1rHAw#t-00-41-31): _Erica (Erika Kirk) really is a nun behind the scenes ... What kind of Christian would just say, lie explicitly ... That's not true._
+
+**[VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4)**
+
+- [00:20:30](/episodes/ep-hWTdXHGQ8R4#t-00-20-30): _because they have not been honest in their portrayal about what their relationship was and I will leave it at that this like idea of this amazing godly relationship with that that's that is not accurate and it would not have been relevant if Erika (Erika Kirk) had kept it honest throughout this entire process but she's not she's getting caught in a lot of lies_
 
 **[EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU)**
 

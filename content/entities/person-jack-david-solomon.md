@@ -27,7 +27,7 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>26</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -135,12 +135,60 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 </details>
 
 <details>
+<summary>Attended (1)</summary>
+
+- **[Utah Valley University](/entities/org-utah-valley-university.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39): “He graduated from what is today known as Utah Valley University.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Board Member Of (1)</summary>
 
 - **[Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:10:59](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59): “He helped to build the UVU campus as a board member for UVU Center for Jewish Studies, professor of political science at BYU.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Former Board Member Of (1)</summary>
+
+- **[Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “He also served on the Center for Jewish Studies on the board at UVU.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Former Director Of (1)</summary>
+
+- **[Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “He's the former director of the University's Jerusalem Center.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Married To (1)</summary>
+
+- **[Edna Ennise Richardson](/entities/person-edna-ennise-richardson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:42:24](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-49): “Jack (Jack Solomon) was also previously married to somebody else, which you see there named Edna (Jack Solomon's former wife; surname unverified).”
 
 </details>
 
@@ -217,12 +265,19 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (13)</summary>
 
 - **[United Coin Machine Co.](/entities/org-united-coin.md)** acquired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:46:11](/episodes/ep-ZAsV0fHGBiM.md#t-00-46-04): “Jack (Jack Solomon) gathered more than $5 million to purchase United Coin”
+
+</details>
+
+- **[Utah Valley University](/entities/org-utah-valley-university.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:44:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-44-39): “He graduated from what is today known as Utah Valley University.”
 
 </details>
 
@@ -238,6 +293,13 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “He's the former director of the University's Jerusalem Center.”
+
+</details>
+
+- **[Edna Ennise Richardson](/entities/person-edna-ennise-richardson.md)** formerly married to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:42:24](/episodes/ep-ZAsV0fHGBiM.md#t-00-41-49): “Jack (Jack Solomon) was also previously married to somebody else, which you see there named Edna (Jack Solomon's former wife; surname unverified).”
 
 </details>
 
@@ -266,6 +328,20 @@ Source: [SEC News Digest, February 3, 1986](https://www.sec.gov/news/digest/1986
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: The Ties That Bind | Episode 4 @ 00:10:59](/episodes/ep-jTj9Ip46r4w.md#t-00-10-59): “He helped to build the UVU campus as a board member for UVU Center for Jewish Studies, professor of political science at BYU.”
+
+</details>
+
+- **[Utah Center for Jewish Studies](/entities/org-utah-center-for-jewish-studies.md)** has former board member this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:39](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “He also served on the Center for Jewish Studies on the board at UVU.”
+
+</details>
+
+- **[Brigham Young University Jerusalem Center](/entities/org-brigham-young-university-jerusalem-center.md)** has former director this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:45:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19): “He's the former director of the University's Jerusalem Center.”
 
 </details>
 

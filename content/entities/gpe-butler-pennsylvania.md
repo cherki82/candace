@@ -1,6 +1,6 @@
 ---
 title: "Butler, Pennsylvania"
-description: "Butler, Pennsylvania (Places) - 37 mentions"
+description: "Butler, Pennsylvania (Places) - 45 mentions"
 id: "gpe-butler-pennsylvania"
 type: "GPE"
 aliases:
@@ -23,10 +23,10 @@ Source: [City of Butler](https://cityofbutler.org/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31">2026-01-20 · 00:42:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-butler-pennsylvania-t-00-28-54">2026-07-16 · 00:29:19</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,7 +35,7 @@ Source: [City of Butler](https://cityofbutler.org/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-butler-pennsylvania-t-00-00-00">REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31" style="--pulse-height:18%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31" style="--pulse-height:9%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-butler-pennsylvania-t-00-03-43" style="--pulse-height:9%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-butler-pennsylvania-t-00-34-03" style="--pulse-height:18%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-butler-pennsylvania-t-00-31-04" style="--pulse-height:36%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
@@ -43,6 +43,7 @@ Source: [City of Butler](https://cityofbutler.org/)
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-butler-pennsylvania-t-00-01-44" style="--pulse-height:9%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-butler-pennsylvania-t-01-13-44" style="--pulse-height:18%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-butler-pennsylvania-t-00-00-00" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 11 mentions" title="2026-06-13 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-02-27" style="--pulse-height:82%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 9 mentions" title="2026-06-15 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-butler-pennsylvania-t-00-01-16" style="--pulse-height:55%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 6 mentions" title="2026-06-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-butler-pennsylvania-t-00-49-07" style="--pulse-height:9%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-butler-pennsylvania-t-00-40-48" style="--pulse-height:9%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
@@ -52,7 +53,7 @@ Source: [City of Butler](https://cityofbutler.org/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-butler-pennsylvania-t-00-03-43) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-gpe-butler-pennsylvania-t-00-34-03) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-butler-pennsylvania-t-00-31-04) | 4 |
@@ -60,6 +61,7 @@ Source: [City of Butler](https://cityofbutler.org/)
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-butler-pennsylvania-t-00-01-44) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-butler-pennsylvania-t-01-13-44) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-butler-pennsylvania-t-00-00-00) | 11 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-02-27) | 9 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-butler-pennsylvania-t-00-01-16) | 6 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-butler-pennsylvania-t-00-49-07) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-butler-pennsylvania-t-00-40-48) | 1 |
@@ -71,7 +73,7 @@ Source: [City of Butler](https://cityofbutler.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (5 mentions)</summary>
@@ -129,6 +131,38 @@ Source: [City of Butler](https://cityofbutler.org/)
 
 **[01:06:37](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-butler-pennsylvania-t-01-06-01)**
 > "And so I felt that this Butler thing unexpectedly really compelled me to take a ..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (9 mentions)</summary>
+
+**[00:02:27](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-02-27)**
+> "The Butler, Pennsylvania assassination narrative assassination attempt narrative, if you will. He did not buy it for one second."
+
+**[00:00:01](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-00-01)**
+> "...d have known that bringing up Butler would open such an interesting line of inquiry."
+
+**[00:05:04](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-04-45)**
+> "... basically describe regarding Butler what we have all recognized regarding his assassi..."
+
+**[00:05:24](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-05-24)**
+> "... Kirk), yours assessment that Butler would be one of the darkest chapters of American ..."
+
+**[00:10:38](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-10-16)**
+> "And this happened in Butler, Pennsylvania. Trump (Donald Trump) survived an assassination a..."
+
+**[00:11:10](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-10-53)**
+> "...night of Pennsylvania, of the Butler rally in Pennsylvania, because they didn't, they ..."
+
+**[00:12:17](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-12-01)**
+> "...in. Just two months after the Butler shooting, Corey Comperatore loses his life, and t..."
+
+**[00:21:22](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-21-09)**
+> "...sn't a PETN expert until this Butler situation, speaking with people close to the situ..."
+
+**[00:23:19](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-butler-pennsylvania-t-00-23-13)**
+> "...nyway. Suffice it to say that Butler now fascinates me. Most of all, Dan Bongino's str..."
 
 </details>
 
@@ -234,12 +268,9 @@ Source: [City of Butler](https://cityofbutler.org/)
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
 **[00:42:31](/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31)**
-> "I think it could go back to Butler,"
-
-**[00:42:34](/episodes/ep-9naMwS0kMBE.md#ent-gpe-butler-pennsylvania-t-00-42-31)**
 > "...ely think it could go back to Butler, Pennsylvania. And I don't know if."
 
 </details>
@@ -254,13 +285,48 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Butler, Pennsylvania (10)</strong></summary>
+<summary><strong class="section-title">Statements about Butler, Pennsylvania (20)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
 
 - [00:28:17](/episodes/ep-puuMVxEu5NU.md#t-00-28-10) (Opinion) **Candace Owens**: ["Owens said she had speculated that Corey Comperatore, the sole person ..."](/statements/statement-9429aeb35a27.md)
   - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (10)</summary>
+
+- [00:02:27](/episodes/ep-5NQyGuRYbU8.md#t-00-02-27) (Claim) **Candace Owens**: ["Candace Owens said Charlie Kirk formally rejected the narrative of the..."](/statements/statement-9238347a8ba8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:02:44](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk called the Butler assassination attempt one of the larges..."](/statements/statement-c782f0bec0f2.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:02:59](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said the Butler shooter had been identified by the Secret..."](/statements/statement-0c6ddd52e5d8.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:03:19](/episodes/ep-5NQyGuRYbU8.md#t-00-02-44) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk accused police and the Secret Service of doing nothing wh..."](/statements/statement-8dbe26d75745.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:04:00](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) (Accusation) **Charlie Kirk** (via quoted speech): ["Charlie Kirk accused members of the media of wanting Donald Trump dead..."](/statements/statement-06e2835e08c9.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:04:29](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said no one had been fired or resigned over the Butler as..."](/statements/statement-039fbdeeecc6.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md)
+
+- [00:04:29](/episodes/ep-5NQyGuRYbU8.md#t-00-04-00) (Prediction) **Charlie Kirk** (via quoted speech): ["Charlie Kirk predicted that no one would probably be held accountable ..."](/statements/statement-263553151d32.md)
+  - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md)
+
+- [00:11:26](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) (Claim) **Candace Owens**: ["Candace Owens said an unknown woman unexpectedly escorted Corey Comper..."](/statements/statement-6079ef812e56.md)
+  - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:11:55](/episodes/ep-5NQyGuRYbU8.md#t-00-11-26) (Claim) **Candace Owens**: ["Candace Owens said Corey Comperatore was then shot in the head at the ..."](/statements/statement-a286f1402e98.md)
+  - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md)
+
+- [00:23:44](/episodes/ep-5NQyGuRYbU8.md#t-00-23-13) (Claim) **Anonymous Source #1 (Ep 5NQyGuRYbU8)** (via paraphrase): ["An unnamed authority said Corey Comperatore's widow and family were di..."](/statements/statement-ea615daf7444.md)
+  - Also about: [Corey Comperatore](/entities/person-corey-comperatore.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
-title: "The CIA has done horrible things, murdered people, and parti..."
-description: "\"The CIA has done horrible things, murdered people, and participated in the murder of a sitting U.S. president.\" — Tucker Carlson"
+title: "Tucker Carlson said he thought the CIA had done horrible thi..."
+description: "\"Tucker Carlson said he thought the CIA had done horrible things, murdered people, and participated in the murder of a sitting U.S. president.\" — Tucker Carlson"
 statement_id: "statement-753bec0ddb38"
 speaker: "Tucker Carlson"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> The CIA has done horrible things, murdered people, and participated in the murder of a sitting U.S. president.
+> Tucker Carlson said he thought the CIA had done horrible things, murdered people, and participated in the murder of a sitting U.S. president.
 
 ## Attribution
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md)
-**Timestamp:** [00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-23) 
+**Timestamp:** [00:03:33](/episodes/ep-gG4ZoYUjUc8.md#t-00-03-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(213);return false;">Play</a>
 
 > prohibited me from saying, I think the CIA has done some horrible things, murdered a bunch of people, participated in the murder of a sitting U.S. president. It's got a whole trail of crimes.

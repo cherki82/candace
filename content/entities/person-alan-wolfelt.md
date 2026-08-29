@@ -92,7 +92,7 @@ Source: [Live Well: Slow down grieving, mourning process](https://gazette.com/20
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1)</summary>
 
-- [00:03:53](/episodes/ep-Wjul6YV6izo.md#t-00-03-23) [○] (Opinion) ["Quick judgments about how people are supposed to grieve reflect a mourning-avoid..."](/statements/statement-2cba16c0808e.md)
+- [00:03:53](/episodes/ep-Wjul6YV6izo.md#t-00-03-23) [✓] (Opinion) ["Quick judgments about how people are supposed to grieve reflect a mourning-avoid..."](/statements/statement-2cba16c0808e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

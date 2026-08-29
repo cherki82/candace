@@ -27,10 +27,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [00:44:56](/episodes/ep-QdM9jLwjwLw.md#t-00-44-14) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2696);return false;">Play</a>
+**Timestamp:** [00:44:49](/episodes/ep-QdM9jLwjwLw.md#t-00-44-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2689);return false;">Play</a>
 
-> she's articulating audience capture as a virtue.
+> She's saying, I will say whatever gets the most reward. ... she's articulating audience capture as a virtue.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "The Matrix"
-description: "The Matrix (Works & Media) - 26 mentions"
+description: "The Matrix (Works & Media) - 25 mentions"
 id: "work-the-matrix"
 type: "WORK"
 aliases:
@@ -24,7 +24,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-the-matrix-t-01-03-34">2025-09-15 · 01:03:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11">2026-08-19 · 00:41:28</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,7 +44,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-15" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 5 mentions" title="2025-12-01 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41" style="--pulse-height:80%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 4 mentions" title="2025-12-03 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-matrix-t-00-17-03" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 5 mentions" title="2026-01-14 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-36-30" style="--pulse-height:40%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-37-07" style="--pulse-height:20%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-the-matrix-t-01-30-34" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
@@ -61,7 +61,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-work-the-matrix-t-00-48-15) | 5 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-work-the-matrix-t-00-45-41) | 4 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-the-matrix-t-00-17-03) | 5 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-36-30) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-37-07) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-work-the-matrix-t-01-30-34) | 1 |
 | 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11) | 1 |
 
@@ -71,7 +71,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -90,12 +90,9 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:37:07](/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-36-30)**
-> "...e recognize that we live in a matrix,"
-
-**[00:37:11](/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-37-11)**
+**[00:37:07](/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-37-07)**
 > "like we actually live in a matrix and that matrix is fully glitching."
 
 </details>

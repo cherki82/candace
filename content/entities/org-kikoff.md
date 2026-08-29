@@ -1,6 +1,6 @@
 ---
 title: "Kikoff"
-description: "Kikoff (Organizations) - 50 mentions"
+description: "Kikoff (Organizations) - 47 mentions"
 id: "org-kikoff"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [Kikoff](https://getkikoff.com/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53">2026-01-29 · 01:18:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-kikoff-t-00-30-07">2026-08-11 · 00:30:12</a></strong></div>
 <div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,22 +34,22 @@ Source: [Kikoff](https://getkikoff.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00">Candace x Bassem Youssef | Candace Ep 298</a> (9 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-29-27">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 9 mentions" title="2026-01-29 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-29-27" style="--pulse-height:78%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 7 mentions" title="2026-02-25 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30" style="--pulse-height:56%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 5 mentions" title="2026-03-31 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-kikoff-t-00-38-29" style="--pulse-height:56%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-kikoff-t-00-26-26" style="--pulse-height:67%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 6 mentions" title="2026-05-13 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18" style="--pulse-height:67%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 6 mentions" title="2026-06-22 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27" style="--pulse-height:56%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-kikoff-t-00-28-36" style="--pulse-height:78%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 7 mentions" title="2026-08-11 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00" style="--pulse-height:86%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-29-27" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 7 mentions" title="2026-02-25 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30" style="--pulse-height:71%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 5 mentions" title="2026-03-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-org-kikoff-t-00-38-29" style="--pulse-height:71%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-7FS1tUeSfdE.md#ent-org-kikoff-t-00-26-26" style="--pulse-height:86%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 6 mentions" title="2026-05-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-kikoff-t-00-35-18" style="--pulse-height:86%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 6 mentions" title="2026-06-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-kikoff-t-00-28-27" style="--pulse-height:71%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-kikoff-t-00-28-36" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 7 mentions" title="2026-08-11 · 7 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00) | 9 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00) | 6 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-kikoff-t-00-29-27) | 7 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-kikoff-t-00-34-30) | 5 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-kikoff-t-00-38-29) | 5 |
@@ -64,7 +64,7 @@ Source: [Kikoff](https://getkikoff.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (7 mentions)</summary>
@@ -225,33 +225,24 @@ Source: [Kikoff](https://getkikoff.com/)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (9 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (6 mentions)</summary>
 
 **[01:19:00](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00)**
-> "GetKickoff.com slash Candace"
-
-**[01:18:01](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53)**
-> "That's where Kickoff comes in."
-
-**[01:18:03](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53)**
-> "Kickoff is designed to help you build credit safely and s..."
-
-**[01:18:21](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53)**
-> "Kickoff helps you score big when it comes to credit."
-
-**[01:18:43](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-18-34)**
-> "...e normal price when you go to getkickoff.com slash Candace today."
-
-**[01:18:54](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-18-34)**
-> "That's kickoff without the C."
-
-**[01:18:56](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-18-34)**
-> "So visit getkickoff."
-
-**[01:19:03](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00)**
 > "Offer applies to new Kickoff customers first month only. Subject to approval."
 
-**[01:19:08](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00)**
+**[01:18:01](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53)**
+> "Kickoff is designed to help you build credit safely and s..."
+
+**[01:18:15](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-17-53)**
+> "Kickoff helps you score big when it comes to credit."
+
+**[01:18:43](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-18-33)**
+> "...e normal price when you go to getkickoff.com slash Candace today."
+
+**[01:18:54](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-18-33)**
+> "That's kickoff without the C."
+
+**[01:19:05](/episodes/ep-xjzb_t5Tk9o.md#ent-org-kikoff-t-01-19-00)**
 > "...ary 2023 and January 2024 for Kickoff credit account users who started with a score bel..."
 
 </details>

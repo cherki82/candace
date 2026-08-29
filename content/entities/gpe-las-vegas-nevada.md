@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas, Nevada"
-description: "Las Vegas, Nevada (Places) - 74 mentions"
+description: "Las Vegas, Nevada (Places) - 73 mentions"
 id: "gpe-las-vegas-nevada"
 type: "GPE"
 aliases:
@@ -27,7 +27,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00">2026-08-06 · 00:38:00</a></strong></div>
 <div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -49,7 +49,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-nevada-t-00-39-09" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-nevada-t-00-25-17" style="--pulse-height:20%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-las-vegas-nevada-t-00-56-02" style="--pulse-height:10%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-40" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-39" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-las-vegas-nevada-t-00-46-04" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-14-28" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 10 mentions" title="2026-03-04 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-00-44" style="--pulse-height:30%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
@@ -80,7 +80,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-las-vegas-nevada-t-00-39-09) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-las-vegas-nevada-t-00-25-17) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-las-vegas-nevada-t-00-56-02) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-40) | 5 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-39) | 4 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-las-vegas-nevada-t-00-46-04) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-las-vegas-nevada-t-00-14-28) | 10 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-las-vegas-nevada-t-00-00-44) | 3 |
@@ -102,7 +102,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -280,16 +280,13 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (5 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
 
-**[00:34:40](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-40)**
-> "Las Vegas"
-
-**[00:24:11](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-24-11)**
-> "...e we talking about they built las vegas yeah"
-
-**[00:34:40](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-40)**
+**[00:34:39](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-39)**
 > "Las Vegas with"
+
+**[00:24:09](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-24-09)**
+> "...e we talking about they built las vegas yeah"
 
 **[00:34:56](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-las-vegas-nevada-t-00-34-56)**
 > "i'm but but but oh in las vegas is this where you know the israeli cyber security..."

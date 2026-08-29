@@ -55,7 +55,7 @@ Source: [RENO 911! | Paramount+](https://www.paramountplus.com/shows/reno-911/)
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1 mentions)</summary>
 
 **[00:44:46](/episodes/ep-Wjul6YV6izo.md#ent-work-reno-911-t-00-44-46)**
-> "of course it's funny i'm done done and the idea of donovan being in prison is funny uh but objectively him being put in prison because pam bondi wanted a headline pam bondi can we get the epstein files yes or no like can you actually arrest some of these people in society that are harming children i feel like right now um the doj has become like that show reno 911 is that what it is it's called reno 911 i think it's called reno 911 it just"
+> "of course it's funny i'm done done and the idea of Don Lemon being in prison is funny uh but objectively him being put in prison because pam bondi wanted a headline pam bondi can we get the epstein files yes or no like can you actually arrest some of these people in society that are harming children i feel like right now um the doj has become like that show reno 911 is that what it is it's called reno 911 i think it's called reno 911 it just"
 
 </details>
 

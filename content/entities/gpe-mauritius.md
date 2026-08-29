@@ -16,8 +16,8 @@ _Type: Places_
 Source: [Government of Mauritius](https://govmu.org/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-mauritius-t-00-39-45">2026-01-29 · 00:40:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-mauritius-t-00-39-45">2026-01-29 · 00:40:03</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-mauritius-t-00-39-45">2026-01-29 · 00:39:53</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-mauritius-t-00-39-45">2026-01-29 · 00:39:53</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -49,7 +49,7 @@ Source: [Government of Mauritius](https://govmu.org/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:40:03](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-mauritius-t-00-39-45)**
+**[00:39:53](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-mauritius-t-00-39-45)**
 > "divert it to Mauritius"
 
 </details>

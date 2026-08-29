@@ -121,7 +121,7 @@ _No relationships extracted yet._
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (3)</summary>
 
-- [00:24:55](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) (Claim) **Anonymous Source #3 (Ep Wjul6YV6izo)** (via read message): ["Donald Trump had to become personally involved to secure State Farm St..."](/statements/statement-3999c954cfb4.md)
+- [00:24:55](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) (Claim) **Anonymous Source #3 (Ep Wjul6YV6izo)** (via read message): ["Apparently, Donald Trump had to become personally involved to secure S..."](/statements/statement-3999c954cfb4.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:24:59](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) (Claim) **Anonymous Source #3 (Ep Wjul6YV6izo)** (via read message): ["A large and lucrative RV show was scheduled at State Farm Stadium duri..."](/statements/statement-0e440aece08c.md)

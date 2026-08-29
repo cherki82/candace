@@ -69,7 +69,7 @@ Source: [City of New Braunfels](https://newbraunfels.gov/)
 **[00:13:31](/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-braunfels-texas-t-00-13-31)**
 > "she was in New Braunfels Texas she goes to visit her boyfriend in Toronto ..."
 
-**[00:15:02](/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-braunfels-texas-t-00-14-50)**
+**[00:14:50](/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-braunfels-texas-t-00-14-50)**
 > "...e other thing that aside from New Braunfels,"
 
 **[00:16:07](/episodes/ep-9naMwS0kMBE.md#ent-gpe-new-braunfels-texas-t-00-16-07)**

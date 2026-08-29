@@ -22,8 +22,8 @@ _Type: Places_
 Source: [Fayetteville, GA Official Website](https://www.fayetteville-ga.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-45">2026-02-11 · 00:39:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-45">2026-02-11 · 00:39:12</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-53">2026-02-11 · 00:39:12</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-53">2026-02-11 · 00:39:12</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [Fayetteville, GA Official Website](https://www.fayetteville-ga.gov/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-45">VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-53">VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-45" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-53" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-45) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-53) | 1 |
 
 </details>
 </section>
@@ -55,7 +55,7 @@ Source: [Fayetteville, GA Official Website](https://www.fayetteville-ga.gov/)
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
 
-**[00:39:12](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-45)**
+**[00:39:12](/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-fayetteville-georgia-t-00-38-53)**
 > "... or weeks leading up to it in Fayetteville, Georgia."
 
 </details>
@@ -75,7 +75,7 @@ _No relationships extracted yet._
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
 
-- [00:39:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["The All-American Halftime Show was filmed weeks in advance in Fayettev..."](/statements/statement-eea485e7dbd6.md)
+- [00:39:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-53) (Claim) **Anonymous Source #3 (Ep hWTdXHGQ8R4)** (via read message): ["The All-American Halftime Show was filmed weeks in advance in Fayettev..."](/statements/statement-eea485e7dbd6.md)
   - Also about: [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md)
 
 </details>

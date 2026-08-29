@@ -21,8 +21,8 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>24</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -112,16 +112,16 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (4 mentions)</summary>
 
-**[00:53:15](/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-00-53-11)**
+**[00:53:11](/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-00-53-11)**
 > "...en rank you bizarrely telling Brett Cooper,"
 
 **[00:54:07](/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-00-53-54)**
 > "...d of honor because you wanted Brett Cooper."
 
-**[00:55:07](/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-00-54-35)**
+**[00:55:07](/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-00-54-30)**
 > "...for that, for standing up for Brett Cooper,"
 
-**[01:03:53](/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-01-03-35)**
+**[01:03:50](/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-01-03-50)**
 > "...m trying to pull that move on Brett Cooper like I was I'm good okay my kids will be proud of..."
 
 </details>
@@ -254,6 +254,18 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attacked By (1)</summary>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Now, were I in your shoes, Jeremy (Jeremy Boreing), I might even rank you bizarrely telling Brett Cooper ... you worked behind the scenes through the same demented PR orbit to try to smear her, the friendly pop culture young girl as an anti-Semite”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (2)</summary>
 
 - **[Randy Fine](/entities/person-randy-fine.md)**
@@ -273,12 +285,31 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 </details>
 
 <details>
-<summary>Formerly Worked For (1)</summary>
+<summary>Defended By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30): “And when you sued me for that, for standing up for Brett Cooper, I want you to know that I communicated to my legal team that I would accept that.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Worked For (2)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... I might even rank you bizarrely telling Brett Cooper, ... then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic.”
+
+</details>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing) ... telling Brett Cooper, then a very young employee of yours ... I think personally that she made the right decision to leave.”
 
 </details>
 
@@ -297,7 +328,14 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (7)</summary>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Now, were I in your shoes, Jeremy (Jeremy Boreing), I might even rank you bizarrely telling Brett Cooper ... you worked behind the scenes through the same demented PR orbit to try to smear her, the friendly pop culture young girl as an anti-Semite”
+
+</details>
 
 - **[Randy Fine](/entities/person-randy-fine.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -313,6 +351,13 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30): “And when you sued me for that, for standing up for Brett Cooper, I want you to know that I communicated to my legal team that I would accept that.”
+
+</details>
+
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -324,6 +369,13 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:14](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing), ... I might even rank you bizarrely telling Brett Cooper, ... then a very young employee of yours, just a few weeks before she was slated to get married, sitting her down and telling her that she shouldn't do that because you had big plans and you were going to turn her into a star because you're the magic.”
+
+</details>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11): “Jeremy (Jeremy Boreing) ... telling Brett Cooper, then a very young employee of yours ... I think personally that she made the right decision to leave.”
 
 </details>
 
@@ -413,7 +465,7 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brett Cooper (5)</strong></summary>
+<summary><strong class="section-title">Statements about Brett Cooper (6)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
@@ -435,13 +487,16 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (3)</summary>
 
-- [00:53:15](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) (Accusation) **Candace Owens**: ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that s..."](/statements/statement-f49b5ad7509e.md)
+- [00:53:11](/episodes/ep-QdM9jLwjwLw.md#t-00-53-11) (Accusation) **Candace Owens**: ["Jeremy Boreing told Brett Cooper a few weeks before her wedding that s..."](/statements/statement-f49b5ad7509e.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
-- [00:54:07](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) (Accusation) **Candace Owens**: ["The Daily Wire offered Brett Cooper's maid of honor a large sum to rep..."](/statements/statement-1910477f2c11.md)
+- [00:54:10](/episodes/ep-QdM9jLwjwLw.md#t-00-53-54) (Accusation) **Candace Owens**: ["The Daily Wire offered Brett Cooper's maid of honor a large sum to rep..."](/statements/statement-1910477f2c11.md)
   - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [The Daily Wire](/entities/org-the-daily-wire.md)
+
+- [00:55:07](/episodes/ep-QdM9jLwjwLw.md#t-00-54-30) (Accusation) **Candace Owens**: ["The Daily Wire sued Owens for publicly defending Brett Cooper and soug..."](/statements/statement-34eca4708040.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
 

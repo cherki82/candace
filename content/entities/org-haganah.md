@@ -1,6 +1,6 @@
 ---
 title: "Haganah"
-description: "Haganah (Organizations) - 3 mentions"
+description: "Haganah (Organizations) - 2 mentions"
 id: "org-haganah"
 type: "ORG"
 aliases:
@@ -23,7 +23,7 @@ Source: [Haganah Historical Archives](https://archives.mod.gov.il/sites/HaHagana
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-13-07">2026-01-29 · 00:13:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-39-45">2026-01-29 · 00:39:53</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -32,15 +32,15 @@ Source: [Haganah Historical Archives](https://archives.mod.gov.il/sites/HaHagana
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-13-07">Candace x Bassem Youssef | Candace Ep 298</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-13-07">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-13-07" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-13-07" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-13-07) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-13-07) | 2 |
 
 </details>
 </section>
@@ -48,13 +48,10 @@ Source: [Haganah Historical Archives](https://archives.mod.gov.il/sites/HaHagana
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
-
-**[00:13:07](/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-13-07)**
-> "people from the Haganah gang"
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
 **[00:13:07](/episodes/ep-xjzb_t5Tk9o.md#ent-org-haganah-t-00-13-07)**
 > "...o did it were people from the Haganah gang."

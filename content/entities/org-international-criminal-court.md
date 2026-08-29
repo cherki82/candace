@@ -20,7 +20,7 @@ _Type: Organizations_
 Source: [International Criminal Court: About the Court](https://www.icc-cpi.int/about/the-court)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-international-criminal-court-t-00-55-35">2026-01-29 · 00:55:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-international-criminal-court-t-00-55-35">2026-01-29 · 00:55:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-international-criminal-court-t-00-19-26">2026-03-17 · 00:19:26</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -63,7 +63,7 @@ Source: [International Criminal Court: About the Court](https://www.icc-cpi.int/
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:55:37](/episodes/ep-xjzb_t5Tk9o.md#ent-org-international-criminal-court-t-00-55-35)**
+**[00:55:35](/episodes/ep-xjzb_t5Tk9o.md#ent-org-international-criminal-court-t-00-55-35)**
 > "judges in the ICC"
 
 </details>

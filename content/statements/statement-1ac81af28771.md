@@ -28,10 +28,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:28:08](/episodes/ep-GY6GWceEqtQ.md#t-00-28-08) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1688);return false;">Play</a>
+**Timestamp:** [00:28:05](/episodes/ep-GY6GWceEqtQ.md#t-00-28-05) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1685);return false;">Play</a>
 
-> What we learn when you get into the nitty gritty is that she was on her way to the apartment. But while she was on the way, Blake (Blake Lively) did text her over the script, the scene that she wanted to be replaced. ... And she basically said, when you get here, ... review this. Let's gang gang Justin Baldoni and make him feel pressured exactly as Justin Baldoni.
+> But while she was on the way, Blake (Blake Lively) did text her over the script, the scene that she wanted to be replaced. ... And she basically said, when you get here, review this. Let's gang up on Justin Baldoni and make him feel pressured, exactly as Justin Baldoni ... described it, and she did it. ... And she replied to Blake Lively, and she's like, yeah, yeah, I got you, girl. Let's do this.
 
 ## Verification
 

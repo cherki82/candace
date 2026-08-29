@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 120 mentions"
+description: "Hollywood (Places) - 119 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -25,7 +25,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30">2025-09-18 · 00:12:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42">2026-08-07 · 00:44:51</a></strong></div>
 <div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>120</strong></div>
+<div><span>Mentions</span><strong>119</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -53,7 +53,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-58" style="--pulse-height:13%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-hollywood-t-00-35-50" style="--pulse-height:13%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-24-17" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-23-58" style="--pulse-height:27%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hollywood-t-00-53-11" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-hollywood-t-00-23-07" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
@@ -99,7 +99,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-58) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-hollywood-t-00-35-50) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-24-17) | 5 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-23-58) | 4 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hollywood-t-00-53-11) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11) | 6 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-hollywood-t-00-23-07) | 3 |
@@ -130,7 +130,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (120)</strong></summary>
+<summary><strong class="section-title">Raw mentions (119)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -453,50 +453,47 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (6 mentions)</summary>
 
-**[00:16:32](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11)**
+**[00:16:29](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11)**
 > "founding of Hollywood"
 
-**[00:17:04](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-46)**
+**[00:17:01](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-46)**
 > "And it's basically what Hollywood is,"
 
-**[00:17:41](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-17-41)**
+**[00:17:40](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-17-40)**
 > "in Hollywood."
 
 **[00:48:47](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-48-38)**
 > "...ything else is just noise and Hollywood and manipulation and now it's cracking and now pe..."
 
-**[01:28:36](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-48-38)**
+**[01:28:35](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-48-38)**
 > "there was Hollywood Babylon too,"
 
-**[01:37:01](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-01-36-54)**
-> "...m into school, we can control Hollywood. Yeah,"
+**[01:36:54](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-01-36-54)**
+> "...m into school, we can control Hollywood. Yeah, it's pretty hard to wake up from that spel..."
 
 </details>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:53:46](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hollywood-t-00-53-11)**
+**[00:53:45](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hollywood-t-00-53-11)**
 > "...nly are not supposed to chase Hollywood fame above family."
 
 </details>
 
 <details>
-<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (5 mentions)</summary>
+<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (4 mentions)</summary>
 
-**[00:24:40](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-24-17)**
+**[00:24:37](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-23-58)**
 > "were we ever liking people in Hollywood"
 
-**[01:00:48](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-01-00-37)**
-> "... believe that with tim on the hollywood side of things with those connections along with ..."
+**[01:00:48](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-01-00-30)**
+> "bigger between you and Tim Dillon. I genuinely believe that, with Tim on the Hollywood side of things, with those connections along with your investigative journalism, you two will be the ones to save the world. First off, let's just shout out all of the comedians who have been so brilliant in commenting on culture in a way that makes sense. Tim Dillon is one. Dave Smith is another. They hate the fact that Dave Smith is also a comedian. Yeah, in order to be a good comedian, you kind of have"
 
-**[01:04:11](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-01-04-00)**
-> "It's just Hollywood."
-
-**[01:04:13](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-01-04-00)**
+**[01:04:07](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-01-03-49)**
 > "DC and Hollywood are the same thing."
 
-**[01:04:16](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-01-04-00)**
+**[01:04:16](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-01-03-49)**
 > "People in Hollywood are kind of prettier and they're like uglier in D..."
 
 </details>

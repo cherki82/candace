@@ -28,7 +28,17 @@ veracity: "true"
 - [Freedom of Information Act](/entities/law-freedom-of-information-act.md) (law)
 - [Kash Patel](/entities/person-kash-patel.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Erika Cries…Again. A Mysterious Death In Pennsylvania Reigni...
+
+**Episode:** [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md)
+**Timestamp:** [00:30:37](/episodes/ep-5NQyGuRYbU8.md#t-00-30-08) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1837);return false;">Play</a>
+
+> Please be advised that unusual circumstances apply to the processing of your request. And then we go back to here are what we can deem to be unusual circumstances.
+
+### 2. The FBI Crashes Out. We Examine The Exploding Microphone The...
 
 **Episode:** [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md)
 **Timestamp:** [00:49:51](/episodes/ep-h76ZN-xXC6c.md#t-00-49-08) 

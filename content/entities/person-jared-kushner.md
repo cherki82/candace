@@ -1,18 +1,14 @@
 ---
 title: "Jared Kushner"
-description: "Jared Kushner (People) - 43 mentions"
+description: "Jared Kushner (People) - 40 mentions"
 id: "person-jared-kushner"
 type: "PERSON"
-aliases:
-  - "Jared"
 categories:
   - "Trump administration"
   - "business"
 ---
 
 _Type: People_
-
-**Also known as:** Jared
 
 **Categories:** Trump administration, business
 
@@ -24,7 +20,7 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58">2025-10-09 · 00:47:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jared-kushner-t-00-42-32">2026-06-24 · 00:42:42</a></strong></div>
 <div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -36,9 +32,9 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <p>Highest activity: <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-00-01">EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58" style="--pulse-height:50%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07" style="--pulse-height:88%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#t-00-31-07" style="--pulse-height:88%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06" style="--pulse-height:12%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46" style="--pulse-height:12%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-00-01" style="--pulse-height:100%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 8 mentions" title="2026-03-12 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-jared-kushner-t-00-53-38" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-jared-kushner-t-00-03-25" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
@@ -55,9 +51,9 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58) | 4 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07) | 7 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-31-07) | 7 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06) | 1 |
-| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46) | 4 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jared-kushner-t-00-00-01) | 8 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-jared-kushner-t-00-53-38) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-jared-kushner-t-00-03-25) | 2 |
@@ -75,7 +71,7 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -111,10 +107,10 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 **[00:33:19](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-33-19)**
 > "...ing to people like, you know, Jared Kushner and Bibi (Benjamin Netanyahu) Netanyahu."
 
-**[00:35:41](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-35-15)**
+**[00:35:41](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-33-19)**
 > "...ust swimming and she was like jared"
 
-**[00:35:50](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-35-50)**
+**[00:35:50](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-33-19)**
 > "...should we swim over there and jared turned over to nat rothschild and he was like do ..."
 
 **[00:38:12](/episodes/ep-tXoI0TTKVrs.md#ent-person-jared-kushner-t-00-38-01)**
@@ -128,7 +124,7 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 **[01:11:22](/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-11-13)**
 > "...urse with the maitre d' being Jared Kushner with $4 billion in Saudi money."
 
-**[01:11:58](/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-11-58)**
+**[01:11:58](/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-11-13)**
 > "Jared, it wasn't a joke and that is. That is the And de..."
 
 **[01:13:13](/episodes/ep-Ux1kzgQxkws.md#ent-person-jared-kushner-t-01-12-53)**
@@ -209,26 +205,17 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 </details>
 
 <details>
-<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1 mentions)</summary>
 
 **[00:45:50](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46)**
 > "Howard Lutnick is all over the world with Jared Kushner."
-
-**[00:41:12](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46)**
-> "...is Democratic Representative, Jared Moskowitz, did a really good job recapping"
-
-**[00:41:39](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46)**
-> "Jared Moskowitz."
-
-**[00:45:13](/episodes/ep-1hcjQGgvxUY.md#ent-person-jared-kushner-t-00-45-46)**
-> "...t I'd like to see flip to the Jared Moskowitz section of the binder."
 
 </details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:11:12](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06)**
+**[00:11:06](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jared-kushner-t-00-11-06)**
 > "Jared Kushner"
 
 </details>
@@ -236,25 +223,25 @@ Source: [Remarks by President Trump and Senior Advisor Jared Kushner | Archived 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (7 mentions)</summary>
 
-**[00:31:08](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07)**
+**[00:31:07](/episodes/ep-9naMwS0kMBE.md#t-00-31-07)**
 > "...Kirk, but I also ranted about Jared Ivanka."
 
-**[00:31:20](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07)**
+**[00:31:20](/episodes/ep-9naMwS0kMBE.md#t-00-31-07)**
 > "On the Jared and Ivanka front,"
 
-**[00:31:29](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07)**
+**[00:31:29](/episodes/ep-9naMwS0kMBE.md#t-00-31-07)**
 > "... said he had recently been to Jared and Ivanka's house because they had moved into Mi..."
 
-**[00:31:34](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-31-07)**
+**[00:31:34](/episodes/ep-9naMwS0kMBE.md#t-00-31-07)**
 > "...asked me what I thought about Jared and Ivanka."
 
-**[00:32:00](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-32-00)**
+**[00:32:00](/episodes/ep-9naMwS0kMBE.md#t-00-32-00)**
 > "...weeting I was ranting against Jared and Ivanka and then I hate Charlie Kirk and um he..."
 
-**[00:33:25](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-33-17)**
+**[00:33:25](/episodes/ep-9naMwS0kMBE.md#t-00-33-17)**
 > "...have nothing bad to say about Jared and Ivanka. Like I said to him, they've always be..."
 
-**[00:33:32](/episodes/ep-9naMwS0kMBE.md#ent-person-jared-kushner-t-00-33-17)**
+**[00:33:32](/episodes/ep-9naMwS0kMBE.md#t-00-33-17)**
 > "...upposed to like them but also Jared was running the White House for four years I've s..."
 
 </details>

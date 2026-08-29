@@ -1,6 +1,6 @@
 ---
-title: "Erika Kirk was living in Arizona before her parents divorced..."
-description: "\"Erika Kirk was living in Arizona before her parents divorced in 1998, contrary to the impression that she moved there after the divorce.\" — Candace Owens"
+title: "After attending daycare in Cincinnati in 1992, Erika Kirk mo..."
+description: "\"After attending daycare in Cincinnati in 1992, Erika Kirk moved to Arizona before her parents divorced in 1998, when she was 10.\" — Candace Owens"
 statement_id: "statement-284a8c2d9ea5"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Erika Kirk was living in Arizona before her parents divorced in 1998, contrary to the impression that she moved there after the divorce.
+> After attending daycare in Cincinnati in 1992, Erika Kirk moved to Arizona before her parents divorced in 1998, when she was 10.
 
 ## Attribution
 
@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:50:08](/episodes/ep-ZAsV0fHGBiM.md#t-00-49-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3008);return false;">Play</a>
 
-> I was under the impression maybe you were too, that Erica (Erika Kirk) moved to Arizona after her parents divorced. ... That would put her in Arizona after 1998. ... her parents didn't divorce until she was 10.
+> I was under the impression maybe you were too, that Erica (Erika Kirk) moved to Arizona after her parents divorced. ... That would put her in Arizona after 1998. ... her parents didn't divorce until she was 10. ... Erica (Erika Kirk) was in Cincinnati, ... Ohio for daycare in 1992. ... thereafter she moves to Arizona and she attends a school
 
 ## Verification
 

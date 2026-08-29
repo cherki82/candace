@@ -32,7 +32,7 @@ veracity: "mixed"
 **Timestamp:** [00:25:39](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1539);return false;">Play</a>
 
-> There was no RV show that was on the calendar for this Cardinal Stadium.
+> I went back on Wayback Machine, ... saved screenshots. ... There was no RV show that was on the calendar for this Cardinal Stadium.
 
 ## Verification
 

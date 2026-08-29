@@ -28,7 +28,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:13:40](/episodes/ep-GY6GWceEqtQ.md#t-00-13-34) 
+**Timestamp:** [00:13:40](/episodes/ep-GY6GWceEqtQ.md#t-00-13-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(820);return false;">Play</a>
 
 > Now, I told the truth. I said that I requested this multiple times over weeks and each time. ... But to date, they haven't sent me what I asked for.

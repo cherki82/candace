@@ -1,6 +1,6 @@
 ---
 title: "Laura Loomer"
-description: "Laura Loomer (People) - 141 mentions"
+description: "Laura Loomer (People) - 140 mentions"
 id: "person-laura-loomer"
 type: "PERSON"
 categories:
@@ -19,7 +19,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-person-laura-loomer-t-01-03-56">2025-09-16 · 01:04:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-laura-loomer-t-00-32-40">2026-08-10 · 00:33:10</a></strong></div>
 <div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>141</strong></div>
+<div><span>Mentions</span><strong>140</strong></div>
 <div><span>Statements by</span><strong>21</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>40</strong></div>
@@ -37,7 +37,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-39" style="--pulse-height:18%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45" style="--pulse-height:9%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-laura-loomer-t-00-32-35" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-laura-loomer-t-00-42-56" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-laura-loomer-t-00-00-46" style="--pulse-height:18%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
@@ -79,7 +79,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-laura-loomer-t-01-15-04) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-laura-loomer-t-00-47-39) | 4 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-laura-loomer-t-00-37-59) | 3 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-laura-loomer-t-00-32-35) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-laura-loomer-t-00-42-56) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-laura-loomer-t-00-00-46) | 4 |
@@ -116,7 +116,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (141)</strong></summary>
+<summary><strong class="section-title">Raw mentions (140)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (3 mentions)</summary>
@@ -624,16 +624,13 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
-
-**[01:37:45](/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45)**
-> "Laura Loomer"
-
-**[01:37:24](/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-24)**
-> "... did to tucker's brother they laura loomer by the way they're scraping"
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
 **[01:37:45](/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-45)**
 > "Laura Loomer."
+
+**[01:37:24](/episodes/ep-xjzb_t5Tk9o.md#ent-person-laura-loomer-t-01-37-24)**
+> "... did to tucker's brother they laura loomer by the way they're scraping"
 
 </details>
 
@@ -856,7 +853,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <summary>Criticized (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
@@ -868,6 +865,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:19:26](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-26): “really satisfying to me about being a black girl from the hood being able to like walk into a ritzy bar in Greenwich and leave with the hottest white guy there and basically like ruin the relationship of like the popular white girl this is how she used to speak and for some reason there's a lot of people that are really afraid of this nappy headed black bitch who just has a lot to say but not really a lot to offer so I'm not afraid of Candace Owens”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:52:57](/episodes/ep-WoXd4oLwd3w.md#t-00-52-46): “it also says that Owens mocked Loomer's receipts with a clown emoji and a fake long receipt clip while Loomer called it cringe”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:01:35](/episodes/ep-hWTdXHGQ8R4.md#t-00-01-27): “it is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.”
 
 </details>
 
@@ -1049,7 +1047,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:27:34](/episodes/ep-ja26iltROkM.md#t-00-26-58): “Candace Owens is selling a CIA line of merchandise”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14): “A real live tweet came from Laura Loomer... She's been attacking me nonstop”
@@ -1059,6 +1057,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:19:26](/episodes/ep-qZ8RWfyuewQ.md#t-00-19-26): “really satisfying to me about being a black girl from the hood being able to like walk into a ritzy bar in Greenwich and leave with the hottest white guy there and basically like ruin the relationship of like the popular white girl this is how she used to speak and for some reason there's a lot of people that are really afraid of this nappy headed black bitch who just has a lot to say but not really a lot to offer so I'm not afraid of Candace Owens”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:34:03](/episodes/ep-uC_GjKU8rs8.md#t-00-34-03): “Damn, Candace Oh is having a bad week, almost like she got ambushed. Couldn't have happened to a more wretched B-I-T-C-H.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:52:57](/episodes/ep-WoXd4oLwd3w.md#t-00-52-46): “it also says that Owens mocked Loomer's receipts with a clown emoji and a fake long receipt clip while Loomer called it cringe”
+- [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:01:35](/episodes/ep-hWTdXHGQ8R4.md#t-00-01-27): “it is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.”
 
 </details>
 
@@ -1211,7 +1210,7 @@ Source: [Laura Loomer for Congress: About](https://lauraloomerforcongress.com/ab
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>
 
-- [00:01:35](/episodes/ep-hWTdXHGQ8R4.md#t-00-01-27) [○] (Opinion) ["It is time for Erika Kirk to sue Candace Owens; she has gone too far."](/statements/statement-e6150fb610c9.md)
+- [00:01:35](/episodes/ep-hWTdXHGQ8R4.md#t-00-01-27) [✓] (Opinion) ["It is time for Erika Kirk to sue Candace Owens; she has gone too far."](/statements/statement-e6150fb610c9.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

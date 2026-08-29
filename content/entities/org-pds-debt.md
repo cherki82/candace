@@ -1,6 +1,6 @@
 ---
 title: "PDS Debt"
-description: "PDS Debt (Organizations) - 80 mentions"
+description: "PDS Debt (Organizations) - 85 mentions"
 id: "org-pds-debt"
 type: "ORG"
 aliases:
@@ -23,8 +23,8 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">2025-09-25 · 00:25:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-pds-debt-t-00-27-24">2026-08-19 · 00:27:40</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>80</strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>85</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,36 +33,37 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11">Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11" style="--pulse-height:100%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 4 mentions" title="2025-09-25 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-16" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-pds-debt-t-00-41-58" style="--pulse-height:75%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-pds-debt-t-00-30-57" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-pds-debt-t-00-17-31" style="--pulse-height:75%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-pds-debt-t-00-24-29" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 4 mentions" title="2026-02-10 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 4 mentions" title="2026-02-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57" style="--pulse-height:75%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-pds-debt-t-00-28-37" style="--pulse-height:100%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-pds-debt-t-00-28-11" style="--pulse-height:75%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-25-49" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 4 mentions" title="2026-03-30 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-pds-debt-t-00-29-36" style="--pulse-height:75%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-pds-debt-t-00-33-55" style="--pulse-height:75%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-19-22" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-pds-debt-t-00-28-03" style="--pulse-height:75%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-org-pds-debt-t-00-29-27" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-pds-debt-t-00-26-09" style="--pulse-height:50%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-pds-debt-t-00-29-45" style="--pulse-height:75%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-pds-debt-t-00-27-41" style="--pulse-height:50%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-org-pds-debt-t-00-27-45" style="--pulse-height:25%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-pds-debt-t-00-25-11" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-pds-debt-t-00-33-13" style="--pulse-height:50%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-pds-debt-t-00-52-41" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-9hRcfSrri70.md#ent-org-pds-debt-t-00-26-43" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-pds-debt-t-00-25-11" style="--pulse-height:80%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 4 mentions" title="2025-09-25 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-pds-debt-t-00-37-50" style="--pulse-height:80%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-pds-debt-t-00-27-16" style="--pulse-height:80%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-pds-debt-t-00-34-59" style="--pulse-height:80%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 4 mentions" title="2025-11-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-pds-debt-t-00-48-38" style="--pulse-height:40%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-pds-debt-t-00-41-58" style="--pulse-height:60%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-pds-debt-t-00-30-57" style="--pulse-height:40%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-pds-debt-t-00-17-31" style="--pulse-height:60%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-pds-debt-t-00-24-29" style="--pulse-height:80%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 4 mentions" title="2026-02-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 5 mentions" title="2026-02-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57" style="--pulse-height:60%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 3 mentions" title="2026-02-25 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-pds-debt-t-00-28-37" style="--pulse-height:80%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 4 mentions" title="2026-03-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-pds-debt-t-00-28-11" style="--pulse-height:60%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-pds-debt-t-00-25-49" style="--pulse-height:80%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 4 mentions" title="2026-03-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-pds-debt-t-00-29-36" style="--pulse-height:60%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-pds-debt-t-00-26-26" style="--pulse-height:40%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-pds-debt-t-00-33-55" style="--pulse-height:60%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 3 mentions" title="2026-04-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-pds-debt-t-00-19-22" style="--pulse-height:80%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 4 mentions" title="2026-05-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-pds-debt-t-00-28-03" style="--pulse-height:60%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 3 mentions" title="2026-05-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-org-pds-debt-t-00-29-27" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-pds-debt-t-00-26-09" style="--pulse-height:40%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-pds-debt-t-00-24-19" style="--pulse-height:80%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 4 mentions" title="2026-06-15 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-pds-debt-t-00-29-45" style="--pulse-height:60%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-pds-debt-t-00-27-41" style="--pulse-height:40%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-org-pds-debt-t-00-27-45" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-pds-debt-t-00-25-11" style="--pulse-height:20%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-pds-debt-t-00-33-13" style="--pulse-height:40%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-pds-debt-t-00-52-41" style="--pulse-height:40%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-pds-debt-t-00-26-43" style="--pulse-height:40%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,7 +78,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-pds-debt-t-00-30-57) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-pds-debt-t-00-17-31) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-pds-debt-t-00-24-29) | 4 |
-| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37) | 4 |
+| 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37) | 5 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-pds-debt-t-00-30-57) | 3 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-pds-debt-t-00-28-37) | 4 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-pds-debt-t-00-28-11) | 3 |
@@ -89,6 +90,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-pds-debt-t-00-28-03) | 3 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-pds-debt-t-00-29-27) | 2 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-pds-debt-t-00-26-09) | 2 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-pds-debt-t-00-24-19) | 4 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-pds-debt-t-00-29-45) | 3 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-pds-debt-t-00-27-41) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-pds-debt-t-00-27-45) | 1 |
@@ -103,7 +105,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (80)</strong></summary>
+<summary><strong class="section-title">Raw mentions (85)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
@@ -176,6 +178,23 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 
 **[00:30:12](/episodes/ep-IqHsl7d2dos.md#ent-org-pds-debt-t-00-29-45)**
 > "...credit score that's required. PDS debt is the top rated company in the industry with tho..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (4 mentions)</summary>
+
+**[00:24:33](/episodes/ep-5NQyGuRYbU8.md#ent-org-pds-debt-t-00-24-19)**
+> "If debt is holding you back, PDS debt can most certainly help. Minimum payments aren't designed to get you out of debt. They're designed to keep you stuck."
+
+**[00:24:40](/episodes/ep-5NQyGuRYbU8.md#ent-org-pds-debt-t-00-24-19)**
+> "PDS debt can help you reduce up to half of what you owe on..."
+
+**[00:25:03](/episodes/ep-5NQyGuRYbU8.md#ent-org-pds-debt-t-00-25-03)**
+> "PDS Debt is the top-rated company in the industry with tho..."
+
+**[00:25:09](/episodes/ep-5NQyGuRYbU8.md#ent-org-pds-debt-t-00-25-03)**
+> "...sonalized assessment today at PDS. yes debt.com slash Candace. Again, that's pdsdeb..."
 
 </details>
 
@@ -334,7 +353,7 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 </details>
 
 <details>
-<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (4 mentions)</summary>
+<summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (5 mentions)</summary>
 
 **[00:28:05](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-27-37)**
 > "Also remind you guys about PDS debt because whether you're struggling with credit car..."
@@ -343,10 +362,13 @@ Source: [BBB Business Profile — PDS Debt](https://www.bbb.org/us/ut/eden/profi
 > "PDS debt has custom options to help you get out of debt."
 
 **[00:28:26](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-28-21)**
-> "PDS debt is A plus rated by the Better Business Bureau,"
+> "PDS Debt is A-plus rated"
 
 **[00:28:34](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-28-21)**
 > "PDS has helped hundreds of thousands of people get ou..."
+
+**[00:28:45](/episodes/ep-1hcjQGgvxUY.md#ent-org-pds-debt-t-00-28-21)**
+> "...bt.com/Candace. Again, that's PDS"
 
 </details>
 

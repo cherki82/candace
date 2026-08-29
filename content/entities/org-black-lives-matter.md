@@ -46,7 +46,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-black-lives-matter-t-00-47-39" style="--pulse-height:14%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-black-lives-matter-t-00-48-04" style="--pulse-height:43%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 7 mentions" title="2025-12-12 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-48" style="--pulse-height:86%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 6 mentions" title="2026-01-28 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-47" style="--pulse-height:86%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 6 mentions" title="2026-01-28 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-00-57-00" style="--pulse-height:43%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50" style="--pulse-height:14%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-black-lives-matter-t-00-44-44" style="--pulse-height:14%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
@@ -69,7 +69,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-black-lives-matter-t-00-47-39) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-black-lives-matter-t-00-48-04) | 3 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-black-lives-matter-t-00-37-31) | 7 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-48) | 6 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-47) | 6 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-00-57-00) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-black-lives-matter-t-00-20-50) | 1 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-black-lives-matter-t-00-44-44) | 1 |
@@ -134,7 +134,7 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 **[00:57:17](/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-00-57-17)**
 > "...ountry who, you know, had the BLM rise,"
 
-**[01:35:36](/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-01-35-25)**
+**[01:35:33](/episodes/ep-xjzb_t5Tk9o.md#ent-org-black-lives-matter-t-01-35-25)**
 > "... stand up to my own people on BLM stuff when it was getting ridiculous."
 
 </details>
@@ -142,19 +142,19 @@ Source: [About Black Lives Matter](https://blacklivesmatter.com/about/)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (6 mentions)</summary>
 
-**[00:39:48](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-48)**
+**[00:39:47](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-39-47)**
 > "She was during the BLM movement in America. Some of the content that we ..."
 
 **[00:40:42](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-40-30)**
 > "... that was willing to call out Black Lives Matter,"
 
-**[00:40:50](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-40-30)**
+**[00:40:49](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-40-30)**
 > "...mentary. She talked about how Black Lives Matter had grown into really what it was, was a Black su..."
 
 **[00:40:59](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-40-30)**
 > "... not shifted my viewpoints on BLM and the fact that it was going to ultimately back..."
 
-**[00:43:35](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-43-16)**
+**[00:43:31](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-43-16)**
 > "... use emotional arguments like BLM didn't."
 
 **[00:45:27](/episodes/ep-QdM9jLwjwLw.md#ent-org-black-lives-matter-t-00-45-02)**

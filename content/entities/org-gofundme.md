@@ -16,7 +16,7 @@ _Type: Organizations_
 Source: [How GoFundMe works](https://www.gofundme.com/c/how-it-works)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-gofundme-t-00-20-34">2026-01-21 · 00:20:57</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-gofundme-t-00-20-31">2026-01-21 · 00:20:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-gofundme-t-01-01-30">2026-06-13 · 01:01:41</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
@@ -30,7 +30,7 @@ Source: [How GoFundMe works](https://www.gofundme.com/c/how-it-works)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-gofundme-t-00-34-53">An Open Letter To Erika Kirk | Candace Ep 303</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-gofundme-t-00-20-34" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-gofundme-t-00-20-31" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-gofundme-t-00-34-53" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-gofundme-t-00-38-09" style="--pulse-height:67%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-gofundme-t-00-12-29" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
@@ -40,7 +40,7 @@ Source: [How GoFundMe works](https://www.gofundme.com/c/how-it-works)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-gofundme-t-00-20-34) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-gofundme-t-00-20-31) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-gofundme-t-00-34-53) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-gofundme-t-00-38-09) | 2 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-gofundme-t-00-12-29) | 1 |
@@ -98,7 +98,7 @@ Source: [How GoFundMe works](https://www.gofundme.com/c/how-it-works)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:20:57](/episodes/ep-GY6GWceEqtQ.md#ent-org-gofundme-t-00-20-34)**
+**[00:20:51](/episodes/ep-GY6GWceEqtQ.md#ent-org-gofundme-t-00-20-31)**
 > "start a GoFundMe"
 
 </details>
@@ -126,7 +126,7 @@ _No relationships extracted yet._
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1)</summary>
 
-- [00:20:44](/episodes/ep-GY6GWceEqtQ.md#t-00-20-34) (Promise) **Candace Owens**: ["Candace Owens proposed that Turning Point USA name a price to release ..."](/statements/statement-a3424f537647.md)
+- [00:20:44](/episodes/ep-GY6GWceEqtQ.md#t-00-20-31) (Promise) **Candace Owens**: ["Candace Owens proposed that Turning Point USA name a price to release ..."](/statements/statement-a3424f537647.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

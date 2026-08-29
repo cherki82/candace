@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 548 mentions"
+description: "God (Concepts) - 551 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -22,8 +22,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>104</strong></div>
-<div><span>Mentions</span><strong>548</strong></div>
+<div><span>Episodes</span><strong>105</strong></div>
+<div><span>Mentions</span><strong>551</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -81,8 +81,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-ZZGWo6oDscc.md#t-00-00-31" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-27-39" style="--pulse-height:23%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 7 mentions" title="2026-01-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-56-58" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#t-00-20-31" style="--pulse-height:13%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#t-00-13-59" style="--pulse-height:23%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 7 mentions" title="2026-01-27 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-08-46" style="--pulse-height:53%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 16 mentions" title="2026-01-28 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#t-00-09-04" style="--pulse-height:47%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 14 mentions" title="2026-01-28 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-21-32" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 30 mentions" title="2026-01-29 · 30 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-14-33" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 30 mentions" title="2026-01-30 · 30 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-00-00" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
@@ -190,8 +191,9 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-00-31) | 5 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-27-39) | 7 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-56-58) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-20-31) | 4 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#t-00-13-59) | 7 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-08-46) | 16 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-09-04) | 14 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#t-00-21-32) | 30 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-14-33) | 30 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-00-00-00) | 10 |
@@ -254,7 +256,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (548)</strong></summary>
+<summary><strong class="section-title">Raw mentions (551)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -1432,7 +1434,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (30 mentions)</summary>
 
-**[00:21:34](/episodes/ep-xjzb_t5Tk9o.md#t-00-21-32)**
+**[00:21:32](/episodes/ep-xjzb_t5Tk9o.md#t-00-21-32)**
 > "a man of God"
 
 **[00:04:51](/episodes/ep-xjzb_t5Tk9o.md#t-00-04-51)**
@@ -1441,7 +1443,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 **[00:06:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-07)**
 > "... show with uh Charlamagne tha God and Charlamagne tha God asked him does is did isr..."
 
-**[00:06:29](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-07)**
+**[00:06:29](/episodes/ep-xjzb_t5Tk9o.md#t-00-06-29)**
 > "...n you can see Charlamagne tha God looking at him as like that motherfucker is lying..."
 
 **[00:22:25](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-25)**
@@ -1453,19 +1455,19 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 **[00:25:30](/episodes/ep-xjzb_t5Tk9o.md#t-00-25-30)**
 > "...n in order to be loyal not to God, not to Christ,"
 
-**[00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-25-41)**
+**[00:26:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-09)**
 > "...cause I actually believe that God put me there for a reason because I had to see it..."
 
-**[00:26:36](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-33)**
+**[00:26:33](/episodes/ep-xjzb_t5Tk9o.md#t-00-26-33)**
 > "I mean, you know, God rest his soul and I hope that justice will be ser..."
 
 **[00:32:28](/episodes/ep-xjzb_t5Tk9o.md#t-00-32-28)**
 > "office. oh oh my god i can't i i can't believe the choice of words it'..."
 
-**[00:33:33](/episodes/ep-xjzb_t5Tk9o.md#t-00-33-32)**
+**[00:33:32](/episodes/ep-xjzb_t5Tk9o.md#t-00-33-32)**
 > "...ural and this is because like God is with her and like I mean, even when she said t..."
 
-**[00:34:00](/episodes/ep-xjzb_t5Tk9o.md#t-00-33-32)**
+**[00:33:57](/episodes/ep-xjzb_t5Tk9o.md#t-00-33-32)**
 > "...'re just going to keep saying God wanted this like, no,"
 
 **[00:34:08](/episodes/ep-xjzb_t5Tk9o.md#t-00-33-32)**
@@ -1498,81 +1500,75 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 **[01:06:58](/episodes/ep-xjzb_t5Tk9o.md#t-01-06-58)**
 > "... Marissa thing and so I think God wanted me blinded for that time and I because I c..."
 
-**[01:12:42](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-17)**
+**[01:12:40](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-17)**
 > "...t's why i'm like are you team god are you team satan and it's actually kind of shoc..."
 
 **[01:12:51](/episodes/ep-xjzb_t5Tk9o.md#t-01-12-51)**
 > "away from God and Satan I'm someone I'm a prime example of some..."
 
-**[01:29:49](/episodes/ep-xjzb_t5Tk9o.md#t-01-29-47)**
+**[01:29:47](/episodes/ep-xjzb_t5Tk9o.md#t-01-29-47)**
 > "God's justice and power always win."
 
-**[01:29:55](/episodes/ep-xjzb_t5Tk9o.md#t-01-29-47)**
+**[01:29:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-29-47)**
 > "God bless you."
 
 **[01:39:27](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-19)**
 > "... demonic entity your you your god is satan you guys are Baal worshipers you will co..."
 
-**[01:39:54](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-54)**
+**[01:39:53](/episodes/ep-xjzb_t5Tk9o.md#t-01-39-53)**
 > "god,"
 
-**[01:43:56](/episodes/ep-xjzb_t5Tk9o.md#t-01-43-23)**
+**[01:43:56](/episodes/ep-xjzb_t5Tk9o.md#t-01-43-56)**
 > "oh my God,"
 
-**[01:44:03](/episodes/ep-xjzb_t5Tk9o.md#t-01-43-59)**
+**[01:43:59](/episodes/ep-xjzb_t5Tk9o.md#t-01-43-59)**
 > "And thank God like I was broke before that happened."
 
 </details>
 
 <details>
-<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (16 mentions)</summary>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (14 mentions)</summary>
 
-**[00:09:20](/episodes/ep-QdM9jLwjwLw.md#t-00-08-46)**
+**[00:09:20](/episodes/ep-QdM9jLwjwLw.md#t-00-09-04)**
 > "It's about this is what God has ordained. Here is the letter."
 
-**[00:09:25](/episodes/ep-QdM9jLwjwLw.md#t-00-08-46)**
-> "...at mankind is to be tested by God."
-
-**[00:09:30](/episodes/ep-QdM9jLwjwLw.md#t-00-09-30)**
+**[00:09:24](/episodes/ep-QdM9jLwjwLw.md#t-00-09-04)**
 > "...a test, yet we also know that God has prepared us with everything that we need to o..."
 
-**[00:09:56](/episodes/ep-QdM9jLwjwLw.md#t-00-09-30)**
+**[00:09:56](/episodes/ep-QdM9jLwjwLw.md#t-00-09-48)**
 > "...nd it's you know this is what God wants okay"
 
-**[00:10:41](/episodes/ep-QdM9jLwjwLw.md#t-00-10-12)**
+**[00:10:41](/episodes/ep-QdM9jLwjwLw.md#t-00-10-19)**
 > "Thank God. I'm so happy to hear that. So I'm so happy that ..."
 
 **[00:16:34](/episodes/ep-QdM9jLwjwLw.md#t-00-16-04)**
 > "...w a mandate handed to them by God to work harder,"
 
-**[00:29:35](/episodes/ep-QdM9jLwjwLw.md#t-00-29-34)**
+**[00:29:34](/episodes/ep-QdM9jLwjwLw.md#t-00-29-34)**
 > "God bless you all."
 
 **[00:29:58](/episodes/ep-QdM9jLwjwLw.md#t-00-29-39)**
 > "and god forbid you want to speak out about what you've li..."
 
-**[00:32:55](/episodes/ep-QdM9jLwjwLw.md#t-00-32-55)**
+**[00:32:55](/episodes/ep-QdM9jLwjwLw.md#t-00-32-33)**
 > "That God's mandate means you can't question this. You can'..."
 
 **[00:48:27](/episodes/ep-QdM9jLwjwLw.md#t-00-48-27)**
 > "oh my god."
 
-**[01:02:56](/episodes/ep-QdM9jLwjwLw.md#t-01-02-15)**
+**[01:02:56](/episodes/ep-QdM9jLwjwLw.md#t-01-02-39)**
 > "God bless you, our Joan of Arc."
 
-**[01:04:09](/episodes/ep-QdM9jLwjwLw.md#t-01-03-35)**
+**[01:03:50](/episodes/ep-QdM9jLwjwLw.md#t-01-03-50)**
 > "...zation established and led by God."
 
-**[01:06:19](/episodes/ep-QdM9jLwjwLw.md#t-01-05-39)**
+**[01:06:18](/episodes/ep-QdM9jLwjwLw.md#t-01-05-39)**
 > "that's God."
 
-**[01:06:21](/episodes/ep-QdM9jLwjwLw.md#t-01-05-39)**
+**[01:06:21](/episodes/ep-QdM9jLwjwLw.md#t-01-06-21)**
 > "That's what God mandated."
 
-**[01:06:26](/episodes/ep-QdM9jLwjwLw.md#t-01-06-24)**
-> "...l that it's like that is what God can do in your life and this gets into a larger a..."
-
-**[01:06:44](/episodes/ep-QdM9jLwjwLw.md#t-01-06-24)**
+**[01:06:42](/episodes/ep-QdM9jLwjwLw.md#t-01-06-21)**
 > "that it's like that is what God can do in your life."
 
 </details>
@@ -1600,6 +1596,23 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[00:53:23](/episodes/ep-A39g5oqB_eM.md#t-00-53-06)**
 > "Thank you. God bless you."
+
+</details>
+
+<details>
+<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (4 mentions)</summary>
+
+**[00:21:09](/episodes/ep-GY6GWceEqtQ.md#t-00-20-31)**
+> "There are things that you should value above money in life. My God is not money. Okay. I don't worship money."
+
+**[00:21:16](/episodes/ep-GY6GWceEqtQ.md#t-00-21-16)**
+> "...ot my platform, actually it's God's platform."
+
+**[00:22:49](/episodes/ep-GY6GWceEqtQ.md#t-00-22-41)**
+> "...da that has completely erased God from the conversation."
+
+**[00:50:46](/episodes/ep-GY6GWceEqtQ.md#t-00-50-34)**
+> "...t death and you probably need god um and they they don't deserve that but this is w..."
 
 </details>
 

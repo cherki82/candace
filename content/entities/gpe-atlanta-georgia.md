@@ -22,7 +22,7 @@ _Type: Places_
 Source: [City of Atlanta](https://www.atlantaga.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-atlanta-georgia-t-01-46-57">2026-01-29 · 01:47:06</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-atlanta-georgia-t-01-46-57">2026-01-29 · 01:46:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-atlanta-georgia-t-00-20-42">2026-08-10 · 00:20:55</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -78,7 +78,7 @@ Source: [City of Atlanta](https://www.atlantaga.gov/)
 **[01:47:10](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-atlanta-georgia-t-01-46-57)**
 > "Atlanta"
 
-**[01:47:06](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-atlanta-georgia-t-01-46-57)**
+**[01:46:57](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-atlanta-georgia-t-01-46-57)**
 > "...n Philadelphia, D_C_ Houston, Atlanta."
 
 </details>

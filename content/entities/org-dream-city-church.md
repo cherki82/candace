@@ -23,7 +23,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -134,6 +134,18 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 </details>
 
 <details>
+<summary>Has Pastor (1)</summary>
+
+- **[Luke Barnett](/entities/person-luke-barnett.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:54](/episodes/ep-DYD_QHMPwqM.md#t-00-30-54): “dream city church is coming up a lot people have emailed me about dream city church and about that Pastor Luke (Dream City Church pastor; surname unverified) and his involvement”
+
+</details>
+
+</details>
+
+<details>
 <summary>Hosted Speaker (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -175,7 +187,7 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -188,6 +200,13 @@ Source: [Dream City Church](https://www.dreamcitychurch.us/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:19:11](/episodes/ep-1hcjQGgvxUY.md#t-00-18-57): “Dream City Church runs Phoenix Dream Center.”
+
+</details>
+
+- **[Luke Barnett](/entities/person-luke-barnett.md)** pastor of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:30:54](/episodes/ep-DYD_QHMPwqM.md#t-00-30-54): “dream city church is coming up a lot people have emailed me about dream city church and about that Pastor Luke (Dream City Church pastor; surname unverified) and his involvement”
 
 </details>
 

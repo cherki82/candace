@@ -28,10 +28,10 @@ veracity: "unverifiable"
 ## Source
 
 **Episode:** [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md)
-**Timestamp:** [00:10:00](/episodes/ep-A39g5oqB_eM.md#t-00-09-18) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(600);return false;">Play</a>
+**Timestamp:** [00:09:35](/episodes/ep-A39g5oqB_eM.md#t-00-09-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(575);return false;">Play</a>
 
-> We're not going to mention what restaurant it's at, ... but the McCoys are there, ... Elizabeth, ... Mikey, ... Erika (Erika Kirk), ... and they're in joyous spirits is exactly what the email said of someone who was there. They were in joyous spirits.
+> On the 21st is the public memorial event that is held at State Farm Stadium. And on the 22nd, which I had not mentioned before—I've been building this timeline in the background—there's a private dinner. ... but the McCoys are there, ... Elizabeth (one of the McCoys; full identity unverified), ... Mikey (Michael McCoy), ... Erika (Erika Kirk), ... and they're in joyous spirits is exactly what the email said of someone who was there. They were in joyous spirits.
 
 ## Verification
 

@@ -17,8 +17,8 @@ _Type: People_
 Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm Beach Estate](https://www.vogue.com/article/nicola-peltz-marries-brooklyn-beckham-palm-beach-wedding)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#t-00-42-06">2026-01-21 · 00:42:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#t-00-42-06">2026-01-21 · 00:42:42</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#t-00-42-06">2026-01-21 · 00:42:37</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#t-00-42-06">2026-01-21 · 00:42:37</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -50,7 +50,7 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:42:42](/episodes/ep-GY6GWceEqtQ.md#t-00-42-06)**
+**[00:42:37](/episodes/ep-GY6GWceEqtQ.md#t-00-42-06)**
 > "his brothers, Romeo and Cruz"
 
 </details>
@@ -80,7 +80,7 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1)</summary>
 
-- [00:40:26](/episodes/ep-GY6GWceEqtQ.md#t-00-40-11) (Accusation) **Brooklyn Beckham** (via quoted post): ["Brooklyn Beckham accused his parents of attacking him privately and pu..."](/statements/statement-42da82480941.md)
+- [00:40:26](/episodes/ep-GY6GWceEqtQ.md#t-00-40-09) (Accusation) **Brooklyn Beckham** (via quoted post): ["Brooklyn Beckham accused his parents of attacking him privately and pu..."](/statements/statement-42da82480941.md)
   - Also about: [Victoria Beckham](/entities/person-victoria-beckham.md), [David Beckham](/entities/person-david-beckham.md), [Cruz Beckham](/entities/person-cruz-beckham.md)
 
 </details>

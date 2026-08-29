@@ -1,6 +1,6 @@
 ---
 title: "Dan Bongino"
-description: "Dan Bongino (People) - 46 mentions"
+description: "Dan Bongino (People) - 47 mentions"
 id: "person-dan-bongino"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10">2025-10-06 · 00:38:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32">2026-08-14 · 02:36:32</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -41,6 +41,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 19 mentions" title="2026-06-13 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-dan-bongino-t-00-23-13" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-16" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-dan-bongino-t-00-45-58" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-dan-bongino-t-00-11-41" style="--pulse-height:16%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
@@ -59,6 +60,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-dan-bongino-t-00-52-47) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-dan-bongino-t-00-35-25) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-dan-bongino-t-00-02-16) | 19 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-dan-bongino-t-00-23-13) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-16) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-dan-bongino-t-00-45-58) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-dan-bongino-t-00-11-41) | 3 |
@@ -73,7 +75,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -149,6 +151,14 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 **[00:23:04](/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-56)**
 > "...hat were leaking to them, but Dan Bongino seems to be an obvious one to me when I read the ..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:23:19](/episodes/ep-5NQyGuRYbU8.md#ent-person-dan-bongino-t-00-23-13)**
+> "Anyway. Suffice it to say that Butler now fascinates me. Most of all, Dan Bongino's strange reaction to it."
 
 </details>
 

@@ -44,7 +44,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-08-57" style="--pulse-height:30%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-event-americafest-2025-t-00-22-00" style="--pulse-height:10%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-event-americafest-2025-t-00-51-26" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-event-americafest-2025-t-00-04-08" style="--pulse-height:10%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-event-americafest-2025-t-00-04-04" style="--pulse-height:10%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-05-42" style="--pulse-height:30%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-event-americafest-2025-t-00-18-55" style="--pulse-height:10%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-event-americafest-2025-t-00-31-49" style="--pulse-height:10%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
@@ -66,7 +66,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-08-57) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-event-americafest-2025-t-00-22-00) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-event-americafest-2025-t-00-51-26) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-event-americafest-2025-t-00-04-08) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-event-americafest-2025-t-00-04-04) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-05-42) | 3 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-event-americafest-2025-t-00-18-55) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-event-americafest-2025-t-00-31-49) | 1 |
@@ -176,10 +176,10 @@ Source: [AmericaFest](https://www.amfest.com/)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
 
-**[00:05:58](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-05-42)**
+**[00:05:50](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-05-42)**
 > "...hat he wanted to invite me to AMFest."
 
-**[00:24:04](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-23-39)**
+**[00:24:04](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-24-04)**
 > "They had AMFest. They had a huge donor thing at Mar-a-Lago. So ev..."
 
 **[00:25:50](/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-25-50)**
@@ -190,7 +190,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:04:08](/episodes/ep-GY6GWceEqtQ.md#ent-event-americafest-2025-t-00-04-08)**
+**[00:04:04](/episodes/ep-GY6GWceEqtQ.md#ent-event-americafest-2025-t-00-04-04)**
 > "after AmFest"
 
 </details>
@@ -394,7 +394,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
 
-- [00:18:19](/episodes/ep-A39g5oqB_eM.md#t-00-18-10) (Claim) **Erika Kirk** (via quoted speech): ["Since Charlie Kirk's assassination, Turning Point USA received 100,000..."](/statements/statement-0293d977db0e.md)
+- [00:18:19](/episodes/ep-A39g5oqB_eM.md#t-00-18-10) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk said that since Charlie Kirk's assassination, Turning Point..."](/statements/statement-0293d977db0e.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

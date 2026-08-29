@@ -15,7 +15,7 @@ object: "person-justin-streiff"
 
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
-- [00:22:08](/episodes/ep-A39g5oqB_eM#t-00-22-08): _working with Justin and the executive leadership teams to make sure that all of those plans come into effect 2030 and beyond but I again am so grateful for all of you I'm so proud of all of you you honor my husband so well all of you do and_
+- [00:22:08](/episodes/ep-A39g5oqB_eM#t-00-22-08): _working with Justin (Justin Streiff) and the executive leadership teams to make sure that all of those plans come into effect 2030 and beyond but I again am so grateful for all of you I'm so proud of all of you you honor my husband so well all of you do and_
 
 ### Related
 

@@ -423,7 +423,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:46:12](/episodes/ep-GY6GWceEqtQ.md#ent-person-george-farmer-t-00-45-47)**
+**[00:46:06](/episodes/ep-GY6GWceEqtQ.md#ent-person-george-farmer-t-00-45-47)**
 > "I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband."
 
 </details>

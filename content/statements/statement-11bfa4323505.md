@@ -1,6 +1,6 @@
 ---
-title: "Erika Kirk arranged for 15-year-old Jillian Falcon to have p..."
-description: "\"Erika Kirk arranged for 15-year-old Jillian Falcon to have photographs taken by a male photographer who was Erika's friend.\" — Candace Owens"
+title: "Candace Owens says Jillian Falcon told her that Erika Kirk a..."
+description: "\"Candace Owens says Jillian Falcon told her that Erika Kirk arranged for 15-year-old Falcon to have photographs taken by a male photographer who was Er...\" — Candace Owens"
 statement_id: "statement-11bfa4323505"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Erika Kirk arranged for 15-year-old Jillian Falcon to have photographs taken by a male photographer who was Erika's friend.
+> Candace Owens says Jillian Falcon told her that Erika Kirk arranged for 15-year-old Falcon to have photographs taken by a male photographer who was Erika's friend.
 
 ## Attribution
 

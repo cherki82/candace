@@ -49,7 +49,7 @@ Dillon's sworn first-person testimony states that the room had heated and spirit
 - [DOJ Religious Liberty Commission hearing transcript](https://www.justice.gov/religious-liberty-commission/media/1435436/dl?inline=)
 - [Axios: Dispute over the Hamptons meeting](https://www.axios.com/2025/09/17/charlie-kirk-israel-candace-owens-ackman)
 
-*Verified: 2026-08-16T09:05:57.530353*
+*Verified: 2026-08-29T14:35:05.547224*
 
 ---
 

@@ -25,23 +25,13 @@ veracity: "true"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. An Open Letter To Erika Kirk | Candace Ep 303
+## Source
 
 **Episode:** [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md)
 **Timestamp:** [00:09:57](/episodes/ep-mFuno0TuuQQ.md#t-00-09-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(597);return false;">Play</a>
 
 > which is why it is, it was at least very interesting to me that you told the New York Times, something that most people didn't pay attention to, but you told the New York Times the night before his murder, ... Charlie (Charlie Kirk)'s, and I'm going to quote this, you said that Charlie (Charlie Kirk)'s adrenaline glands were just going off. He couldn't sleep.
-
-### 2. Here’s Why It’s Time For The Police To Question Erika Kirk… ...
-
-**Episode:** [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md)
-**Timestamp:** [00:08:41](/episodes/ep-ti5Fxrvegno.md#t-00-08-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(521);return false;">Play</a>
-
-> And by the way, don't forget, he also apparently had no fears the next day, Erika (Erika Kirk) says. ... But we are also told that he had no fears the next day. Actually, he went to bed and he was just excited. He was elated. He couldn't sleep. because doing college campus events was so brand new to him that he felt like a kid on Christmas morning.
 
 ## Verification
 

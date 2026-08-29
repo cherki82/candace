@@ -39,7 +39,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-48-04" style="--pulse-height:57%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-paramount-tactical-solutions-t-00-27-10" style="--pulse-height:29%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-paramount-tactical-solutions-t-00-47-53" style="--pulse-height:14%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-paramount-tactical-solutions-t-00-05-15" style="--pulse-height:29%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-paramount-tactical-solutions-t-00-05-42" style="--pulse-height:29%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-paramount-tactical-solutions-t-00-01-30" style="--pulse-height:29%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-paramount-tactical-solutions-t-00-20-41" style="--pulse-height:14%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-paramount-tactical-solutions-t-00-03-01" style="--pulse-height:57%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
@@ -62,7 +62,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-48-04) | 4 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-paramount-tactical-solutions-t-00-27-10) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-paramount-tactical-solutions-t-00-47-53) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-paramount-tactical-solutions-t-00-05-15) | 2 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-paramount-tactical-solutions-t-00-05-42) | 2 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-paramount-tactical-solutions-t-00-01-30) | 2 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-paramount-tactical-solutions-t-00-20-41) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-paramount-tactical-solutions-t-00-03-01) | 4 |
@@ -243,10 +243,10 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:05:48](/episodes/ep-QdM9jLwjwLw.md#ent-org-paramount-tactical-solutions-t-00-05-15)**
+**[00:05:42](/episodes/ep-QdM9jLwjwLw.md#ent-org-paramount-tactical-solutions-t-00-05-42)**
 > "Paramount Tactical,"
 
-**[00:06:11](/episodes/ep-QdM9jLwjwLw.md#ent-org-paramount-tactical-solutions-t-00-05-51)**
+**[00:06:08](/episodes/ep-QdM9jLwjwLw.md#ent-org-paramount-tactical-solutions-t-00-05-42)**
 > "they welcomed Paramount Tactical onto Charlie Kirk's podcast show while I was in t..."
 
 </details>
@@ -471,7 +471,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <details>
 <summary>EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 (1)</summary>
 
-- [00:48:19](/episodes/ep-A39g5oqB_eM.md#t-00-47-53) (Accusation) **Candace Owens**: ["Erika Kirk is orchestrating a great deal behind the scenes while keepi..."](/statements/statement-be34b29490b8.md)
+- [00:48:19](/episodes/ep-A39g5oqB_eM.md#t-00-47-53) (Accusation) **Candace Owens**: ["My general opinion is that Erika Kirk is orchestrating a great deal be..."](/statements/statement-be34b29490b8.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>

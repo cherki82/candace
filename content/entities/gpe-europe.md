@@ -257,10 +257,10 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
 
-**[00:12:16](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-europe-t-00-13-07)**
+**[00:12:11](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-europe-t-00-13-07)**
 > "from Europe"
 
-**[00:13:38](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-europe-t-00-13-07)**
+**[00:13:27](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-europe-t-00-13-07)**
 > "...t was easy to bring them from Europe,"
 
 **[00:39:45](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-europe-t-00-39-45)**

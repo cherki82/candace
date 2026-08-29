@@ -70,7 +70,7 @@ _No relationships extracted yet._
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1)</summary>
 
-- [00:12:07](/episodes/ep-CEF7gQRWYCE.md#t-00-12-07) [?] (Accusation) ["Jeffrey Epstein's associates believed their DNA was better than everyone else's."](/statements/statement-68df4b714a92.md)
+- [00:12:07](/episodes/ep-CEF7gQRWYCE.md#t-00-12-07) [?] (Opinion) ["Maria Farmer believed that Jeffrey Epstein's associates thought their DNA was be..."](/statements/statement-68df4b714a92.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </details>

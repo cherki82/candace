@@ -50,7 +50,7 @@ Nielsen's finalized measurement shows the NFL halftime audience averaged 128.2 m
 - [Nielsen: Super Bowl LX audience measurement](https://www.nielsen.com/news-center/2026/super-bowl-lx-2026/)
 - [AP: Bad Bunny and Kid Rock halftime audiences](https://apnews.com/article/bad-bunny-kid-rock-super-bowl-halftime-698c46096a387cfec34e4cc2fba29d82)
 
-*Verified: 2026-08-16T09:06:21.776753*
+*Verified: 2026-08-29T14:35:05.547176*
 
 ---
 

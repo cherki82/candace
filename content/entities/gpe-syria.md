@@ -1,6 +1,6 @@
 ---
 title: "Syria"
-description: "Syria (Places) - 21 mentions"
+description: "Syria (Places) - 22 mentions"
 id: "gpe-syria"
 type: "GPE"
 categories:
@@ -19,11 +19,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05">2025-11-12 · 00:52:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,6 +40,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-syria-t-00-33-38" style="--pulse-height:20%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-syria-t-01-43-55" style="--pulse-height:40%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-syria-t-00-38-24" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-syria-t-00-12-01" style="--pulse-height:20%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-syria-t-00-01-16" style="--pulse-height:20%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19" style="--pulse-height:20%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
@@ -56,6 +57,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-syria-t-00-33-38) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-syria-t-01-43-55) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-syria-t-00-38-24) | 2 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-syria-t-00-12-01) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-syria-t-00-01-16) | 1 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19) | 1 |
 
@@ -65,7 +67,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
@@ -80,6 +82,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:01:16](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-syria-t-00-01-16)**
 > "But it was. It's very interesting to realize all of these connections between potential connections, I should say, between Butler, Trump (Donald J. Trump)'s nonchalant approach to investigating Butler, which is like not at all the Charlie Kirk assassination, potentially the beeper and pager exploding in Lebanon and Syria."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:12:17](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-syria-t-00-12-01)**
+> "Anyway, let's hit fast forward again. Just two months after the Butler shooting, Corey Comperatore loses his life, and then a never-before-seen terror attack is executed with precision, which involves PETN explosives. On September 17th and on September 18th of 2024, there was a massive series of pager explosions across Lebanon and Syria, wounding more than three..."
 
 </details>
 
@@ -190,12 +200,48 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Attacked By (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:12:17](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01): “there was a massive series of pager explosions across Lebanon and Syria ... it was Israel Israel.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Israel](/entities/gpe-israel.md)** attacked this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:12:17](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01): “there was a massive series of pager explosions across Lebanon and Syria ... it was Israel Israel.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Syria (6)</strong></summary>
+<summary><strong class="section-title">Statements about Syria (9)</strong></summary>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3)</summary>
+
+- [00:12:17](/episodes/ep-5NQyGuRYbU8.md#t-00-12-01) (Claim) **Candace Owens**: ["Candace Owens said the September 17-18, 2024 pager explosions across L..."](/statements/statement-4d44c111cb98.md)
+  - Also about: [Lebanon](/entities/gpe-lebanon.md), [PETN](/entities/concept-petn.md)
+
+- [00:13:54](/episodes/ep-5NQyGuRYbU8.md#t-00-13-54) (Claim) **Candace Owens**: ["Candace Owens said the pagers used in the September 2024 attack were r..."](/statements/statement-43958b992678.md)
+  - Also about: [PETN](/entities/concept-petn.md), [Hezbollah](/entities/org-hezbollah.md), [Lebanon](/entities/gpe-lebanon.md)
+
+- [00:14:21](/episodes/ep-5NQyGuRYbU8.md#t-00-14-21) (Claim) **Candace Owens**: ["Candace Owens said Israel carried out the September 2024 pager explosi..."](/statements/statement-ceac50e2b0c0.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Mossad](/entities/org-mossad.md), [Lebanon](/entities/gpe-lebanon.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

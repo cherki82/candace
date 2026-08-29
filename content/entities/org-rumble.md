@@ -160,7 +160,7 @@ Source: [Rumble corporate site](https://corp.rumble.com/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:32:54](/episodes/ep-xjzb_t5Tk9o.md#ent-org-rumble-t-01-32-52)**
+**[01:32:52](/episodes/ep-xjzb_t5Tk9o.md#ent-org-rumble-t-01-32-52)**
 > "exists somewhere at Rumble"
 
 </details>

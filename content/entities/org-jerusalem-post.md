@@ -22,7 +22,7 @@ Source: [The Jerusalem Post | About Us](https://www.jpost.com/landedpages/aboutu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-org-jerusalem-post-t-00-20-31">2025-11-03 · 00:20:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-org-jerusalem-post-t-00-40-49">2026-01-20 · 00:40:59</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-org-jerusalem-post-t-00-40-49">2026-01-20 · 00:40:56</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -56,7 +56,7 @@ Source: [The Jerusalem Post | About Us](https://www.jpost.com/landedpages/aboutu
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:40:59](/episodes/ep-9naMwS0kMBE.md#ent-org-jerusalem-post-t-00-40-49)**
+**[00:40:56](/episodes/ep-9naMwS0kMBE.md#ent-org-jerusalem-post-t-00-40-49)**
 > "Jerusalem Post,"
 
 </details>

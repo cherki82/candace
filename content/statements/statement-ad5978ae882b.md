@@ -1,16 +1,17 @@
 ---
-title: "Zionism is an objectively racist philosophy."
-description: "\"Zionism is an objectively racist philosophy.\" — Candace Owens"
+title: "Candace Owens said she now believes that Zionism is an objec..."
+description: "\"Candace Owens said she now believes that Zionism is an objectively racist philosophy.\" — Candace Owens"
 statement_id: "statement-ad5978ae882b"
 speaker: "Candace Owens"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
-> Zionism is an objectively racist philosophy.
+> Candace Owens said she now believes that Zionism is an objectively racist philosophy.
 
 ## Attribution
 
@@ -32,8 +33,22 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as a self-attribution claim, not as a factual finding about Zionism. The source-scoped transcript records Candace Owens saying that the experience was part of the beginning of the end of her support for Zionism because she now believes it is an objectively racist philosophy. Her primary episode recording and a current external transcript preserve the statement.
+
+**Confidence:** High
+
+**Sources:**
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](https://www.youtube.com/watch?v=Wjul6YV6izo)
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 — Candace Transcript](https://podcasts.happyscribe.com/candace/and-another-one-charlie-s-text-on-september-9th)
+
+*Verified: 2026-08-29T11:25:25.374787*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

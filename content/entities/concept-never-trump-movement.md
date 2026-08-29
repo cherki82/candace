@@ -1,6 +1,6 @@
 ---
 title: "Never Trump movement"
-description: "Never Trump movement (Concepts) - 8 mentions"
+description: "Never Trump movement (Concepts) - 7 mentions"
 id: "concept-never-trump-movement"
 type: "CONCEPT"
 aliases:
@@ -24,7 +24,7 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49">2025-10-30 · 00:32:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-never-trump-movement-t-01-07-16">2026-05-21 · 01:07:27</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,15 +33,15 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49">BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49" style="--pulse-height:50%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-never-trump-movement-t-00-52-34" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-never-trump-movement-t-00-18-05" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-42" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-never-trump-movement-t-00-19-59" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-never-trump-movement-t-01-07-16" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-never-trump-movement-t-00-52-34" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-never-trump-movement-t-00-18-05" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#t-00-28-42" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-never-trump-movement-t-00-19-59" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-never-trump-movement-t-01-07-16" style="--pulse-height:100%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,7 +50,7 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-never-trump-movement-t-00-32-49) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-never-trump-movement-t-00-52-34) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-never-trump-movement-t-00-18-05) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24) | 2 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-28-42) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-never-trump-movement-t-00-19-59) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-never-trump-movement-t-01-07-16) | 1 |
@@ -61,7 +61,7 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
@@ -88,13 +88,10 @@ Source: [Controversy over Tucker Carlson interview reveals conservative movement
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (2 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
 **[00:43:38](/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24)**
 > "...veryone who was a part of the Never Trump movement is now supporting Trump."
-
-**[00:43:42](/episodes/ep-9naMwS0kMBE.md#ent-concept-never-trump-movement-t-00-43-24)**
-> "I say Trump became Never Trump."
 
 </details>
 

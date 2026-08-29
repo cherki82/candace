@@ -119,7 +119,7 @@ Source: [Metropolitan Government of Nashville and Davidson County](https://www.n
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:23:45](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-nashville-tennessee-t-00-23-32)**
+**[00:23:42](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-nashville-tennessee-t-00-23-32)**
 > "...still have major blackouts in Nashville,"
 
 </details>

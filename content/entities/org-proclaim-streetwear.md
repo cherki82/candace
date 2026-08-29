@@ -22,7 +22,7 @@ Source: [USPTO TSDR - PROCLAIM STREETWEAR, Serial 88247646](https://tsdr.uspto.g
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -70,6 +70,18 @@ Source: [USPTO TSDR - PROCLAIM STREETWEAR, Serial 88247646](https://tsdr.uspto.g
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Operated By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:32:07](/episodes/ep-ti5Fxrvegno.md#t-00-31-37): “Erika (Erika Kirk) was working in fashion on this clothing brand, Proclaimed Streetwear. ... she files for a trademark for that fashion brand. So she is both running a fashion brand”
+
+</details>
+
+</details>
+
+<details>
 <summary>Founded By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
@@ -82,7 +94,14 @@ Source: [USPTO TSDR - PROCLAIM STREETWEAR, Serial 88247646](https://tsdr.uspto.g
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** formerly operated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:32:07](/episodes/ep-ti5Fxrvegno.md#t-00-31-37): “Erika (Erika Kirk) was working in fashion on this clothing brand, Proclaimed Streetwear. ... she files for a trademark for that fashion brand. So she is both running a fashion brand”
+
+</details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

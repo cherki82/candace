@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 205 mentions"
+description: "Russia (Places) - 208 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -22,8 +22,8 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52">2026-08-14 · 03:39:52</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>205</strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>208</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -62,6 +62,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-00-44" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 65 mentions" title="2026-06-09 · 65 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-russia-t-00-40-47" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-03" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 13 mentions" title="2026-06-11 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-russia-t-00-51-51" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-14-58" style="--pulse-height:23%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 15 mentions" title="2026-06-16 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-russia-t-00-25-14" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 3 mentions" title="2026-06-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-russia-t-00-49-44" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
@@ -110,6 +111,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-russia-t-00-00-44) | 65 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-russia-t-00-40-47) | 2 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-russia-t-00-40-03) | 13 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-russia-t-00-51-51) | 3 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-00-14-58) | 15 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-russia-t-00-25-14) | 3 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-russia-t-00-49-44) | 2 |
@@ -132,7 +134,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (205)</strong></summary>
+<summary><strong class="section-title">Raw mentions (208)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -377,6 +379,20 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 **[01:13:47](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-russia-t-01-13-39)**
 > "...America, it comes from Mother Russia, the pale of settlement that was there."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3 mentions)</summary>
+
+**[00:51:51](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-russia-t-00-51-51)**
+> "some merch get decked out in candace owens merch the stop anti-cannibalism cup it's working they decrease their attacks every time you buy a cup and someone should buy a cup and gift it to ben shapiro he's the most anti-cannibalist of them all everyone knows i can't even go away he's making up rumors about me he's telling people that that i'm like hanging out with vlad daddy over there in russia and i'm not doing anything i'm in the case of my family i'm just on a panel talking about families i love"
+
+**[00:52:17](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-russia-t-00-52-17)**
+> "...ave a lot of kids and i think russia's great and i liked i liked the the starbucks zarbu..."
+
+**[00:52:46](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-russia-t-00-52-17)**
+> "...d actually we're getting into Russia actually in this next couple of chapters and talk..."
 
 </details>
 

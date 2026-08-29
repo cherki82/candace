@@ -1,6 +1,6 @@
 ---
 title: "Maine"
-description: "Maine (Places) - 16 mentions"
+description: "Maine (Places) - 18 mentions"
 id: "gpe-maine"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-maine-t-00-42-38">2025-11-04 · 00:43:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-maine-t-00-51-25">2026-06-13 · 00:51:58</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-maine-t-00-38-57">2026-06-15 · 00:39:20</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-maine-t-00-45-36" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-maine-t-00-32-40" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-maine-t-00-25-02" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 12 mentions" title="2026-06-13 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-maine-t-00-38-57" style="--pulse-height:17%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-maine-t-00-45-36) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-maine-t-00-32-40) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-maine-t-00-25-02) | 12 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-maine-t-00-38-57) | 2 |
 
 </details>
 </section>
@@ -56,7 +58,18 @@ Source: [Maine.gov](https://www.maine.gov/portal/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:39:11](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-maine-t-00-38-57)**
+> "The devil, you're not just trying to be with your kids. So it was an unrelatable question. You should have said next question. Secondly, after my memory of what happened in Maine."
+
+**[00:39:20](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-maine-t-00-38-57)**
+> "...ear, I was not on vacation in Maine. I just went up for one day because I saw people ..."
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (12 mentions)</summary>

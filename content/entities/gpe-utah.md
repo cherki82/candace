@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 392 mentions"
+description: "Utah (Places) - 394 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -22,8 +22,8 @@ Source: [State of Utah official website](https://utah.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31">2026-08-21 · 00:05:56</a></strong></div>
-<div><span>Episodes</span><strong>86</strong></div>
-<div><span>Mentions</span><strong>392</strong></div>
+<div><span>Episodes</span><strong>87</strong></div>
+<div><span>Mentions</span><strong>394</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
@@ -95,6 +95,7 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-utah-t-00-09-55" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-16" style="--pulse-height:28%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-gpe-utah-t-00-27-34" style="--pulse-height:11%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 2 mentions" title="2026-06-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-utah-t-00-26-03" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-10-25" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 6 mentions" title="2026-06-26 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-utah-t-00-59-12" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
@@ -186,6 +187,7 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-utah-t-00-09-55) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-utah-t-00-09-16) | 5 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37) | 3 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-utah-t-00-27-34) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-utah-t-00-26-03) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-utah-t-00-10-25) | 6 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-utah-t-00-59-12) | 1 |
@@ -218,7 +220,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (392)</strong></summary>
+<summary><strong class="section-title">Raw mentions (394)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -697,6 +699,17 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (2 mentions)</summary>
+
+**[00:27:59](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-utah-t-00-27-34)**
+> "I don't know, because journalism, but also because there was this FBI plane, definitively an FBI plane that landed into Salt Lake City, Utah on September 8th. So, you know, Charlie (Charlie Kirk), remember, he first went to Salt Lake City on the morning of the 10th, which I found to be very unusual that he would go there and do that weird restaurant interview, whatever it was, as his final interview."
+
+**[00:28:20](/episodes/ep-5NQyGuRYbU8.md#ent-gpe-utah-t-00-28-20)**
+> "... that went to Salt Lake City, Utah on September 8th. And it's just interesting."
+
+</details>
+
+<details>
 <summary>Candace Owens x Ana Kasparian (3 mentions)</summary>
 
 **[00:51:51](/episodes/ep-SKNJPul29zU.md#ent-gpe-utah-t-00-51-37)**
@@ -1155,7 +1168,7 @@ Source: [State of Utah official website](https://utah.gov/)
 **[00:13:03](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-utah-t-00-12-40)**
 > "...her actual family with her to Utah is something that just sort of missed at the time..."
 
-**[00:13:17](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-utah-t-00-12-40)**
+**[00:13:11](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-utah-t-00-12-40)**
 > "they all raced to Utah to be with him at the hospital,"
 
 </details>

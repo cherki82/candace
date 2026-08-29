@@ -38,8 +38,8 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-dillon-t-01-00-00" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tim-dillon-t-00-38-25" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-15" style="--pulse-height:11%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-03-29" style="--pulse-height:56%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54" style="--pulse-height:22%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-04-04" style="--pulse-height:67%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 6 mentions" title="2026-01-21 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54" style="--pulse-height:11%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-tim-dillon-t-00-46-57" style="--pulse-height:11%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-tim-dillon-t-00-33-13" style="--pulse-height:22%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-tim-dillon-t-00-14-13" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
@@ -63,8 +63,8 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-dillon-t-01-00-00) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tim-dillon-t-00-38-25) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-15) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-03-29) | 5 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54) | 2 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-04-04) | 6 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-tim-dillon-t-00-46-57) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-tim-dillon-t-00-33-13) | 2 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-tim-dillon-t-00-14-13) | 1 |
@@ -192,33 +192,33 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:38:57](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54)**
-> "Tim Dillon"
-
-**[01:38:57](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54)**
+**[01:38:54](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54)**
 > "I'm telling you, look, Tim Dillon is I'm ripping his."
 
 </details>
 
 <details>
-<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (5 mentions)</summary>
+<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (6 mentions)</summary>
 
-**[00:04:04](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-03-29)**
+**[00:04:04](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-04-04)**
 > "cut here to Tim Dillon"
 
-**[00:04:15](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-04-08)**
+**[00:04:15](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-04-04)**
 > "Remember this, what Tim Dillon said?"
 
-**[00:24:26](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-24-17)**
+**[00:24:16](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-23-58)**
 > "like the Epstein world that Tim Dillon was discussing,"
 
 **[01:01:12](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-01-01-12)**
 > "...iticians so I absolutely love Tim Dillon you should go subscribe to his show I'm constantl..."
 
-**[01:04:07](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-01-04-00)**
+**[01:04:07](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-01-03-49)**
 > "Again, Tim Dillon is right."
+
+**[01:00:48](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-01-00-30)**
+> "bigger between you and Tim Dillon. I genuinely believe that, with Tim on the Hollyw..."
 
 </details>
 
@@ -362,9 +362,10 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <summary>Criticized (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:04:48](/episodes/ep-OEAHy3SsIiI.md#t-00-04-13): “This turning point kind of abomination that the right wing of this country has turned into like a bad reality show.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:04:33](/episodes/ep-GY6GWceEqtQ.md#t-00-04-18): “They want your money. ... They got mad at Candace about. They're like, why are you telling people not to give us money? ... They're just mad that they're not getting money.”
 
 </details>
 
@@ -388,9 +389,10 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:04:48](/episodes/ep-OEAHy3SsIiI.md#t-00-04-13): “This turning point kind of abomination that the right wing of this country has turned into like a bad reality show.”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:04:33](/episodes/ep-GY6GWceEqtQ.md#t-00-04-18): “They want your money. ... They got mad at Candace about. They're like, why are you telling people not to give us money? ... They're just mad that they're not getting money.”
 
 </details>
 

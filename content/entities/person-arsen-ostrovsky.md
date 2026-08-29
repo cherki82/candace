@@ -16,8 +16,8 @@ _Type: People_
 Source: [AP: Bondi Beach attack](https://apnews.com/article/31f711f09f677d0f88091ece25f651c1)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-15-28">2026-01-29 · 00:15:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-15-28">2026-01-29 · 00:15:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-15-28">2026-01-29 · 00:15:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-15-28">2026-01-29 · 00:15:28</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -49,7 +49,7 @@ Source: [AP: Bondi Beach attack](https://apnews.com/article/31f711f09f677d0f8809
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:15:31](/episodes/ep-xjzb_t5Tk9o.md#t-00-15-28)**
+**[00:15:28](/episodes/ep-xjzb_t5Tk9o.md#t-00-15-28)**
 > "uh the Bondi attack I think I gave pictures to one of your producers like our son Ostrovsky who's like one of those trolls on Twitter he happened to be on October 7th a survivor October 7th and then he posted his picture a selfie while he's on the floor and he has blood all over him yeah that's the picture okay which is obvious looks fake"
 
 </details>

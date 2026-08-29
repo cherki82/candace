@@ -1,0 +1,23 @@
+---
+title: "Generation Seven Farms, LLC owned by Lyle Reams"
+description: "Evidence for the relationship: Generation Seven Farms, LLC owned by Lyle Reams"
+relationship_id: "rel-5eb8a4e60cee"
+subject: "org-generation-seven-farms"
+predicate: "owned by"
+object: "person-lyle-reams"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Generation Seven Farms, LLC](/entities/org-generation-seven-farms) owned by [Lyle Reams](/entities/person-lyle-reams)
+
+### Evidence (1 mentions)
+
+**[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
+
+- [00:15:11](/episodes/ep-gG4ZoYUjUc8#t-00-15-11): _There's another business on the same road that is owned by Mr. Lyle Reams and his wife Shelly, which is called Generation 7 Farms._
+
+### Related
+
+- [Generation Seven Farms, LLC](/entities/org-generation-seven-farms)
+- [Lyle Reams](/entities/person-lyle-reams)

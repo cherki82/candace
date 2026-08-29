@@ -11,11 +11,15 @@ object: "person-rob-mccoy"
 
 ## [Calvary Chapel](/entities/org-calvary-chapel) has pastor [Rob McCoy](/entities/person-rob-mccoy)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg)**
 
 - [00:03:00](/episodes/ep-Qt0VHV-POCg#t-00-03-00): _Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith._
+
+**[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
+
+- [00:22:58](/episodes/ep-xjzb_t5Tk9o#t-00-22-58): _And it's incredible to say that is in large part due to the Charlie Kirk assassination and us looking into the story, looking into the pastors that he surrounded himself with. And then we kind of looked into what this Calvary Chapel church was. It's a military operation. I mean, this is literally a CIA operation. ... People like Rob McCoy. who was one of the pastors that purported to be close to Charlie (Charlie Kirk)._
 
 **[What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U)**
 

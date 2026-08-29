@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 511 mentions"
+description: "American Financing (Organizations) - 512 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -24,8 +24,8 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-41">2026-08-21 · 00:58:03</a></strong></div>
-<div><span>Episodes</span><strong>122</strong></div>
-<div><span>Mentions</span><strong>511</strong></div>
+<div><span>Episodes</span><strong>123</strong></div>
+<div><span>Mentions</span><strong>512</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -34,7 +34,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-01-36-05">Candace Owens vs Andrew Wilson: The Great Debate.</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30" style="--pulse-height:50%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 4 mentions" title="2025-09-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-q7f8r-THr84.md#ent-org-american-financing-t-01-08-17" style="--pulse-height:38%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 3 mentions" title="2025-09-16 · 3 mentions"><span></span></a>
@@ -73,11 +73,11 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-american-financing-t-01-14-28" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-10" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-american-financing-t-00-50-31" style="--pulse-height:62%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 8 mentions" title="2026-01-20 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-10" style="--pulse-height:50%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07" style="--pulse-height:75%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-03" style="--pulse-height:50%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-36-41" style="--pulse-height:62%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 5 mentions" title="2026-01-22 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-american-financing-t-00-46-26" style="--pulse-height:50%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-56-45" style="--pulse-height:62%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-56-34" style="--pulse-height:62%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-american-financing-t-00-42-04" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-american-financing-t-00-37-02" style="--pulse-height:50%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 4 mentions" title="2026-01-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-american-financing-t-00-52-44" style="--pulse-height:38%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
@@ -129,6 +129,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-17" style="--pulse-height:62%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 5 mentions" title="2026-06-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-51-57" style="--pulse-height:75%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 6 mentions" title="2026-06-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-american-financing-t-00-35-23" style="--pulse-height:38%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 3 mentions" title="2026-06-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-american-financing-t-00-44-24" style="--pulse-height:38%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-american-financing-t-01-01-53" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-american-financing-t-00-47-51" style="--pulse-height:50%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 4 mentions" title="2026-06-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-american-financing-t-00-50-41" style="--pulse-height:50%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 4 mentions" title="2026-06-22 · 4 mentions"><span></span></a>
@@ -200,11 +201,11 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-american-financing-t-01-14-28) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-10) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-american-financing-t-00-50-31) | 5 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07) | 8 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-10) | 4 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07) | 6 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-03) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-36-41) | 5 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-american-financing-t-00-46-26) | 4 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-56-45) | 5 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-56-34) | 5 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-american-financing-t-00-42-04) | 4 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-american-financing-t-00-37-02) | 4 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-american-financing-t-00-52-44) | 3 |
@@ -256,6 +257,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-american-financing-t-01-10-17) | 5 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-american-financing-t-00-51-57) | 6 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-american-financing-t-00-35-23) | 3 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-american-financing-t-00-44-24) | 3 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-american-financing-t-01-01-53) | 4 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-american-financing-t-00-47-51) | 4 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-american-financing-t-00-50-41) | 4 |
@@ -292,7 +294,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (511)</strong></summary>
+<summary><strong class="section-title">Raw mentions (512)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -793,6 +795,20 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 **[01:02:02](/episodes/ep-h76ZN-xXC6c.md#ent-org-american-financing-t-01-01-53)**
 > "I also want to remind you guys about American financing because in today's uncertain economy, American financing is helping families find a way out of high interest drops."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3 mentions)</summary>
+
+**[00:45:01](/episodes/ep-5NQyGuRYbU8.md#ent-org-american-financing-t-00-44-24)**
+> "Application times may vary and rates may vary as well. Also, I remind you guys about American financing because in today's uncertain economy, American financing is helping."
+
+**[00:45:26](/episodes/ep-5NQyGuRYbU8.md#ent-org-american-financing-t-00-45-09)**
+> "...t is an exhausting cycle, but American Financing understands that. 2026 requires a real strategy, ..."
+
+**[00:45:34](/episodes/ep-5NQyGuRYbU8.md#ent-org-american-financing-t-00-45-34)**
+> "...two mortgage payments so call american financing today at 800-795-1210 again that's 800-795-1210 o..."
 
 </details>
 
@@ -1682,13 +1698,13 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (4 mentions)</summary>
 
-**[00:42:40](/episodes/ep-xjzb_t5Tk9o.md#ent-org-american-financing-t-00-42-04)**
+**[00:42:33](/episodes/ep-xjzb_t5Tk9o.md#ent-org-american-financing-t-00-42-04)**
 > "AmericanFinancing.net"
 
-**[00:41:55](/episodes/ep-xjzb_t5Tk9o.md#ent-org-american-financing-t-00-41-20)**
+**[00:41:52](/episodes/ep-xjzb_t5Tk9o.md#ent-org-american-financing-t-00-41-20)**
 > "Also remind you guys about American financing because between groceries, travel and higher pric..."
 
-**[00:42:07](/episodes/ep-xjzb_t5Tk9o.md#ent-org-american-financing-t-00-42-04)**
+**[00:42:04](/episodes/ep-xjzb_t5Tk9o.md#ent-org-american-financing-t-00-42-04)**
 > "...ve considered reaching out to American financing, but maybe hesitated because you didn't want to g..."
 
 **[00:42:13](/episodes/ep-xjzb_t5Tk9o.md#ent-org-american-financing-t-00-42-04)**
@@ -1699,19 +1715,19 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (5 mentions)</summary>
 
-**[00:57:05](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-56-45)**
+**[00:57:01](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-56-34)**
 > "...ckly want to remind you about American Financing because between groceries,"
 
-**[00:57:21](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-56-45)**
+**[00:57:16](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-57-16)**
 > "maybe reaching out to American Financing,"
 
-**[00:57:26](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-57-26)**
+**[00:57:26](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-57-16)**
 > "Well, that's why American Financing created the Smart Equity Loan. It's a simple, sma..."
 
-**[00:57:51](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-57-26)**
+**[00:57:46](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-57-16)**
 > "That's 800-795-1210 or visit AmericanFinancing.net slash Owens."
 
-**[00:57:57](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-57-26)**
+**[00:57:57](/episodes/ep-QdM9jLwjwLw.md#ent-org-american-financing-t-00-57-16)**
 > "that's AmericanFinancing.net."
 
 </details>
@@ -1739,16 +1755,16 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 **[00:37:05](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-36-41)**
 > "I also remind you guys about American financing because between groceries,"
 
-**[00:37:19](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-37-19)**
+**[00:37:16](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-37-16)**
 > "...ve considered reaching out to American financing, but maybe hesitated because you don't want to gi..."
 
-**[00:37:26](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-37-19)**
+**[00:37:26](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-37-16)**
 > "Well, that's why American financing created the smart equity loan,"
 
-**[00:37:52](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-37-19)**
+**[00:37:45](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-37-16)**
 > "that's 800-795-1210 or visit AmericanFinancing.net slash Owens."
 
-**[00:37:57](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-37-19)**
+**[00:37:57](/episodes/ep-gG4ZoYUjUc8.md#ent-org-american-financing-t-00-37-16)**
 > "It's AmericanFinancing.net slash Owens."
 
 </details>
@@ -1756,31 +1772,28 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (4 mentions)</summary>
 
-**[00:57:22](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-10)**
+**[00:57:16](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-03)**
 > "American Financing"
 
-**[00:57:34](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-10)**
+**[00:57:31](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-03)**
 > "...ve considered reaching out to American Financing, but maybe hesitated because you don't want to gi..."
 
-**[00:57:39](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-10)**
+**[00:57:39](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-39)**
 > "Well, that's why American Financing created the Smart Equity Loan. It's a simple, sma..."
 
-**[00:58:06](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-52)**
+**[00:58:00](/episodes/ep-GY6GWceEqtQ.md#ent-org-american-financing-t-00-57-39)**
 > "that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
 
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (8 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (6 mentions)</summary>
 
-**[01:06:21](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07)**
+**[01:06:16](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07)**
 > "Also remind you guys about American financing because you might be worried about those upcoming..."
 
 **[01:06:27](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07)**
 > "... better time than now to call American financing and to wipe out that debt,"
-
-**[01:06:30](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07)**
-> "To call American Financing and to wipe out that debt,"
 
 **[01:06:36](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-07)**
 > "... the fourth time in December. American Financing can help you access that equity in your home at a..."
@@ -1788,14 +1801,11 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 **[01:06:48](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-48)**
 > "American Financing is saving their customers an average of $800 a mo..."
 
-**[01:07:06](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-48)**
+**[01:07:03](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-48)**
 > "that's 800-795-1210 or visit AmericanFinancing.net slash Owens."
 
 **[01:07:11](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-48)**
 > "AmericanFinancing.net slash Owens."
-
-**[01:07:14](/episodes/ep-9naMwS0kMBE.md#ent-org-american-financing-t-01-06-48)**
-> "American Financing,"
 
 </details>
 
@@ -2434,7 +2444,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -2469,6 +2479,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:40:30](/episodes/ep-ZZGWo6oDscc.md#t-00-40-10): “also reminding you guys about american financing”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:37:16](/episodes/ep-Wjul6YV6izo.md#t-00-37-02): “I'll also remind you guys about American Financing ... my friends at American Financing are helping homeowners pay off that high interest debt at rates in the low fives.”
 
 </details>
 
@@ -2492,7 +2503,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (34)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -2527,6 +2538,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:40:30](/episodes/ep-ZZGWo6oDscc.md#t-00-40-10): “also reminding you guys about american financing”
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:37:16](/episodes/ep-Wjul6YV6izo.md#t-00-37-02): “I'll also remind you guys about American Financing ... my friends at American Financing are helping homeowners pay off that high interest debt at rates in the low fives.”
 
 </details>
 

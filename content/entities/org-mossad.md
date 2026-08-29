@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 88 mentions"
+description: "Mossad (Organizations) - 93 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30">2026-08-11 · 00:50:30</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>88</strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>93</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Statements about</span><strong>37</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -53,8 +53,8 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07" style="--pulse-height:30%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-47" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-31" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-06" style="--pulse-height:10%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-45" style="--pulse-height:10%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07" style="--pulse-height:70%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 7 mentions" title="2026-01-29 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-mossad-t-00-50-31" style="--pulse-height:10%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-mossad-t-00-19-18" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 10 mentions" title="2026-02-02 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-mossad-t-00-27-42" style="--pulse-height:10%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
@@ -65,6 +65,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-mossad-t-00-39-05" style="--pulse-height:20%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-mossad-t-00-23-12" style="--pulse-height:10%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-mossad-t-00-41-28" style="--pulse-height:10%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-org-mossad-t-00-15-00" style="--pulse-height:60%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 6 mentions" title="2026-06-15 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-mossad-t-00-59-50" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-mossad-t-00-54-56" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-23-57" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
@@ -98,8 +99,8 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-47) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-31) | 1 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-06) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07) | 8 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-45) | 1 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07) | 7 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-mossad-t-00-50-31) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-mossad-t-00-19-18) | 10 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-mossad-t-00-27-42) | 1 |
@@ -110,6 +111,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-mossad-t-00-39-05) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-mossad-t-00-23-12) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-mossad-t-00-41-28) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-org-mossad-t-00-15-00) | 6 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-mossad-t-00-59-50) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-mossad-t-00-54-56) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-mossad-t-00-23-57) | 5 |
@@ -127,7 +129,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+<summary><strong class="section-title">Raw mentions (93)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -218,6 +220,29 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 **[00:59:50](/episodes/ep-G3zdOeHpvS0.md#ent-org-mossad-t-00-59-50)**
 > "...ting it well maybe it was the Mossad I know they took credit for that a couple days ag..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (6 mentions)</summary>
+
+**[00:15:36](/episodes/ep-5NQyGuRYbU8.md#ent-org-mossad-t-00-15-00)**
+> "What is known is how proud the Mossad was and is of their ability to infiltrate specifically companies and organizations."
+
+**[00:15:45](/episodes/ep-5NQyGuRYbU8.md#ent-org-mossad-t-00-15-45)**
+> "... let you listen to one of the Mossad agents applauding their abilities to do just that..."
+
+**[00:16:22](/episodes/ep-5NQyGuRYbU8.md#ent-org-mossad-t-00-16-22)**
+> "...were working with people from Mossad?"
+
+**[00:16:31](/episodes/ep-5NQyGuRYbU8.md#ent-org-mossad-t-00-16-31)**
+> "...hat they are working with the Mossad."
+
+**[00:16:35](/episodes/ep-5NQyGuRYbU8.md#ent-org-mossad-t-00-16-35)**
+> "...that they are buying from the Mossad. We make like Truman Show."
+
+**[00:21:50](/episodes/ep-5NQyGuRYbU8.md#ent-org-mossad-t-00-21-50)**
+> "... a golden pager, a nod to the Mossad's pager operation."
 
 </details>
 
@@ -356,21 +381,18 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (8 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (7 mentions)</summary>
 
-**[00:13:32](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07)**
+**[00:13:27](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07)**
 > "Israel and Mossad"
 
-**[00:13:58](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-44)**
+**[00:13:51](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-44)**
 > "Israel sends a Mossad agent and then he leads four to five different bo..."
 
 **[00:15:00](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-15-00)**
 > "...assy in london it was done by mossad and then they nailed they kind of nailed two pale..."
 
-**[00:15:19](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-15-00)**
-> "By two Mossad individuals and they were also like being they pr..."
-
-**[01:27:48](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-01-27-19)**
+**[01:27:40](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-01-27-19)**
 > "And there is a book by a Mossad agent called Viktor Ostrovsky."
 
 **[01:27:54](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-01-27-54)**
@@ -379,7 +401,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 **[01:28:52](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-01-28-44)**
 > "except the Mossad agent who literally came out and said that he was..."
 
-**[01:29:18](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-01-29-18)**
+**[01:29:17](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-01-29-17)**
 > "no evidence he was Mossad"
 
 </details>
@@ -387,7 +409,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:04:47](/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-06)**
+**[00:04:45](/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-45)**
 > "Were you working on behalf of Mossad?"
 
 </details>
@@ -618,9 +640,10 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <summary>Sold To (1)</summary>
 
 - **[Hezbollah](/entities/org-hezbollah.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:25:19](/episodes/ep-IqHsl7d2dos.md#t-00-25-19): “And neither did Hezbollah. ... When they are buying from us, they have zero clue that they are buying from the Mossad. We make like Truman Show.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:16:33](/episodes/ep-5NQyGuRYbU8.md#t-00-16-31): “And neither did Hezbollah. ... When they are buying from us, they have zero clue that they are buying from the Mossad.”
 
 </details>
 
@@ -651,15 +674,17 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 - **[Hezbollah](/entities/org-hezbollah.md)** purchased from this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:25:19](/episodes/ep-IqHsl7d2dos.md#t-00-25-19): “And neither did Hezbollah. ... When they are buying from us, they have zero clue that they are buying from the Mossad. We make like Truman Show.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:16:33](/episodes/ep-5NQyGuRYbU8.md#t-00-16-31): “And neither did Hezbollah. ... When they are buying from us, they have zero clue that they are buying from the Mossad.”
 
 </details>
 
 - **[Gold Apollo Co., Ltd.](/entities/org-gold-apollo.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:16:31](/episodes/ep-5NQyGuRYbU8.md#t-00-16-31): “Gold Apollo had zero clue that they are working with the Mossad.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:25:16](/episodes/ep-IqHsl7d2dos.md#t-00-25-16): “Gold Apollo had zero clue that they are working with the Mossad.”
 
 </details>
@@ -669,7 +694,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (30)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (37)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
@@ -697,6 +722,29 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 - [00:25:16](/episodes/ep-IqHsl7d2dos.md#t-00-25-16) (Claim) **Anonymous Source #3 (Ep IqHsl7d2dos)** (via quoted speech): ["A second former Mossad agent said Gold Apollo did not know it was work..."](/statements/statement-7fc728c017ae.md)
   - Also about: [Gold Apollo Co., Ltd.](/entities/org-gold-apollo.md), [Hezbollah](/entities/org-hezbollah.md), [The Truman Show](/entities/work-the-truman-show.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (6)</summary>
+
+- [00:14:21](/episodes/ep-5NQyGuRYbU8.md#t-00-14-21) (Claim) **Candace Owens**: ["Candace Owens said Israel carried out the September 2024 pager explosi..."](/statements/statement-ceac50e2b0c0.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Lebanon](/entities/gpe-lebanon.md), [Syria](/entities/gpe-syria.md)
+
+- [00:14:49](/episodes/ep-5NQyGuRYbU8.md#t-00-14-21) (Claim) **Candace Owens**: ["Candace Owens said Israel interrupted the pager supply chain by creati..."](/statements/statement-1d838b92918b.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Hezbollah](/entities/org-hezbollah.md)
+
+- [00:15:54](/episodes/ep-5NQyGuRYbU8.md#t-00-15-54) (Claim) **Anonymous Source #2 (Ep 5NQyGuRYbU8)** (via quoted speech): ["An unnamed Mossad agent said Mossad could create layered foreign shell..."](/statements/statement-c13bbff36114.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [60 Minutes](/entities/work-60-minutes.md)
+
+- [00:16:31](/episodes/ep-5NQyGuRYbU8.md#t-00-16-31) (Claim) **Anonymous Source #3 (Ep 5NQyGuRYbU8)** (via quoted speech): ["An unnamed Mossad agent said Gold Apollo had no idea it was working wi..."](/statements/statement-8feef7508ee4.md)
+  - Also about: [Gold Apollo Co., Ltd.](/entities/org-gold-apollo.md), [60 Minutes](/entities/work-60-minutes.md)
+
+- [00:16:42](/episodes/ep-5NQyGuRYbU8.md#t-00-16-35) (Claim) **Anonymous Source #3 (Ep 5NQyGuRYbU8)** (via quoted speech): ["An unnamed Mossad agent said everything in Hezbollah's experience was ..."](/statements/statement-3f6bd62bfa5c.md)
+  - Also about: [Hezbollah](/entities/org-hezbollah.md), [60 Minutes](/entities/work-60-minutes.md)
+
+- [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Claim) **Candace Owens**: ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager..."](/statements/statement-d2fa62164eb6.md)
+  - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md)
 
 </details>
 
@@ -752,13 +800,16 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (4)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (5)</summary>
 
 - [00:13:58](/episodes/ep-xjzb_t5Tk9o.md#t-00-13-44) (Accusation) **Bassem Youssef**: ["Israel sent a Mossad agent who led four or five bomb attacks on Jewish..."](/statements/statement-5abf022a7ed7.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Iraq](/entities/gpe-iraq.md), [Judaism](/entities/concept-judaism.md)
 
 - [00:15:00](/episodes/ep-xjzb_t5Tk9o.md#t-00-15-00) (Accusation) **Bassem Youssef**: ["Two Mossad operatives attacked the Mexican parliament one month after ..."](/statements/statement-fc03702f2775.md)
   - Also about: [Palestine](/entities/gpe-palestine.md)
+
+- [01:23:11](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-11) (Accusation) **Bassem Youssef**: ["Bassem Youssef claimed that The New York Times editorial team is full ..."](/statements/statement-11b5e1a0d224.md)
+  - Also about: [The New York Times](/entities/org-the-new-york-times.md), [Israel Defense Forces](/entities/org-israel-defense-forces.md)
 
 - [01:27:54](/episodes/ep-xjzb_t5Tk9o.md#t-01-27-54) (Citation) **Viktor Ostrovsky** (via quoted document): ["Mossad knew in advance about the 1982 bombing of U.S. Marines in Leban..."](/statements/statement-f57afac0145f.md)
   - Also about: [Viktor Ostrovsky](/entities/person-viktor-ostrovsky.md), [By Way of Deception](/entities/work-by-way-of-deception.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
@@ -771,7 +822,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:04:47](/episodes/ep-gG4ZoYUjUc8.md#t-00-04-06) (Accusation) **Tucker Carlson** (via quoted speech): ["Were you working on behalf of Mossad? Were you running a blackmail ope..."](/statements/statement-3fd22da1a735.md)
+- [00:04:47](/episodes/ep-gG4ZoYUjUc8.md#t-00-04-45) (Accusation) **Tucker Carlson** (via quoted speech): ["Were you working on behalf of Mossad? Were you running a blackmail ope..."](/statements/statement-3fd22da1a735.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Israel](/entities/gpe-israel.md)
 
 </details>

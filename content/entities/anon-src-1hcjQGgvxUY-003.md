@@ -3,9 +3,14 @@ title: "Anonymous Source #3 (Ep 1hcjQGgvxUY)"
 description: "Anonymous Source #3 (Ep 1hcjQGgvxUY) (Anonymous Sources) - 1 mention"
 id: "anon-src-1hcjQGgvxUY-003"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "congressional hearing participant"
+  - "identity unverified"
 ---
 
 _Type: Anonymous Sources_
+
+**Categories:** congressional hearing participant, identity unverified
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>

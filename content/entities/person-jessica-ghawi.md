@@ -1,6 +1,6 @@
 ---
 title: "Jessica Ghawi"
-description: "Jessica Ghawi (People) - 6 mentions"
+description: "Jessica Ghawi (People) - 5 mentions"
 id: "person-jessica-ghawi"
 type: "PERSON"
 aliases:
@@ -21,10 +21,10 @@ _Type: People_
 Source: [Congressional Record memorial for Jessica Ghawi](https://www.congress.gov/112/crec/2012/07/26/CREC-2012-07-26-pt1-PgH5297.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25">2026-01-20 · 00:12:26</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25">2026-01-20 · 00:12:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jessica-ghawi-t-00-54-15">2026-05-13 · 00:54:15</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,16 +33,16 @@ Source: [Congressional Record memorial for Jessica Ghawi](https://www.congress.g
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jessica-ghawi-t-00-54-15" style="--pulse-height:20%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jessica-ghawi-t-00-54-15" style="--pulse-height:25%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25) | 5 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25) | 4 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-jessica-ghawi-t-00-54-15) | 1 |
 
 </details>
@@ -51,7 +51,7 @@ Source: [Congressional Record memorial for Jessica Ghawi](https://www.congress.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 (1 mentions)</summary>
@@ -62,18 +62,15 @@ Source: [Congressional Record memorial for Jessica Ghawi](https://www.congress.g
 </details>
 
 <details>
-<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (5 mentions)</summary>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (4 mentions)</summary>
 
-**[00:12:26](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25)**
-> "And Jessica Ghawi, G-H-A-W-I,"
-
-**[00:12:30](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25)**
+**[00:12:25](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25)**
 > "Jessica Ghawi was in that food court."
 
 **[00:15:06](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-14-50)**
 > "...that is another theme in this Jessica Ghawi, who that's where my eye went to when I looked at..."
 
-**[00:13:10](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25)**
+**[00:13:07](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25)**
 > "And Jessica is unique in that not only is she shot six times, but the person next to her who is."
 
 **[00:13:25](/episodes/ep-9naMwS0kMBE.md#ent-person-jessica-ghawi-t-00-12-25)**

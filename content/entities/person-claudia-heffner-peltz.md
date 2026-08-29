@@ -56,7 +56,7 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
 **[00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22)**
-> "his family heart of gold how much he absolutely loved and adored his family i don't even remember what the context of why he was even giving a toast um or who it was to but that stuck with me and i just went these they seem like really good people and that's not to say that nelson peltz was not he was also very nice so i have nothing bad to say about him uh and the wife as well claudia her mother was really nice do you think your daughter needs to be told no once in her life if you're suffering from anxiety"
+> "his family heart of gold how much he absolutely loved and adored his family i don't even remember what the context of why he was even giving a toast um or who it was to but that stuck with me and i just went these they seem like really good people and that's not to say that nelson peltz was not he was also very nice so i have nothing bad to say about him uh and the wife as well Claudia (Nicola Peltz's mother; surname unverified) was really nice do you think your daughter needs to be told no once in her life if you're suffering from anxiety"
 
 </details>
 
@@ -71,7 +71,7 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 - **[Nelson Peltz](/entities/person-nelson-peltz.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22): “nelson peltz was not he was also very nice ... the wife as well claudia her mother was really nice”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22): “nelson peltz was not he was also very nice so i have nothing bad to say about him uh and the wife as well Claudia (Nicola Peltz's mother; surname unverified) was really nice”
 
 </details>
 
@@ -83,7 +83,7 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 - **[Nicola Peltz](/entities/person-nicola-peltz.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22): “the wife as well claudia her mother was really nice”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22): “the wife as well Claudia (Nicola Peltz's mother; surname unverified) was really nice”
 
 </details>
 
@@ -95,7 +95,7 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 - **[Nicola Peltz](/entities/person-nicola-peltz.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22): “the wife as well claudia her mother was really nice”
+- [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:53:22](/episodes/ep-GY6GWceEqtQ.md#t-00-53-22): “the wife as well Claudia (Nicola Peltz's mother; surname unverified) was really nice”
 
 </details>
 

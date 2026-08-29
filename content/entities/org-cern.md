@@ -136,10 +136,10 @@ _No relationships extracted yet._
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (3)</summary>
 
-- [00:10:52](/episodes/ep-DYD_QHMPwqM.md#t-00-10-16) (Citation) **Rob Skiba**: ["CERN's stated objective was to recreate the Big Bang."](/statements/statement-d2f375812dec.md)
+- [00:10:52](/episodes/ep-DYD_QHMPwqM.md#t-00-10-16) (Citation) **Rob Skiba** (via quoted speech): ["CERN's stated objective was to recreate the Big Bang."](/statements/statement-d2f375812dec.md)
   - Also about: [Big Bang theory](/entities/concept-big-bang-theory.md)
 
-- [00:11:34](/episodes/ep-DYD_QHMPwqM.md#t-00-11-34) (Claim) **Rob Skiba**: ["CERN placed a statue of the Hindu god Shiva outside its entrance."](/statements/statement-bfeb9e46b34f.md)
+- [00:11:34](/episodes/ep-DYD_QHMPwqM.md#t-00-11-34) (Claim) **Rob Skiba** (via quoted speech): ["CERN placed a statue of the Hindu god Shiva outside its entrance."](/statements/statement-bfeb9e46b34f.md)
   - Also about: [Shiva](/entities/concept-shiva.md), [Hinduism](/entities/concept-hinduism.md)
 
 - [00:12:22](/episodes/ep-DYD_QHMPwqM.md#t-00-11-55) (Accusation) **Candace Owens**: ["A video showed people at CERN dressed in robes staging a stabbing ritu..."](/statements/statement-36d347bfc3ae.md)

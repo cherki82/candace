@@ -36,7 +36,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <p>Highest activity: <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-00-42">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-14-14" style="--pulse-height:93%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 13 mentions" title="2026-01-06 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-17-22" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-00-42" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 14 mentions" title="2026-04-21 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 7 mentions" title="2026-06-16 · 7 mentions"><span></span></a>
@@ -48,7 +48,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-14-14) | 13 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-17-22) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-00-42) | 14 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21) | 7 |
@@ -166,7 +166,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:17:22](/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47)**
+**[00:17:22](/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-17-22)**
 > "...s, in the background, that is Terryl Farnsworth,"
 
 </details>

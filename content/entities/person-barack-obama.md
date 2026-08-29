@@ -1,6 +1,6 @@
 ---
 title: "Barack Obama"
-description: "Barack Obama (People) - 20 mentions"
+description: "Barack Obama (People) - 21 mentions"
 id: "person-barack-obama"
 type: "PERSON"
 aliases:
@@ -25,8 +25,8 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45">2025-12-05 · 00:34:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-barack-obama-t-00-06-56">2026-07-22 · 00:07:25</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -39,6 +39,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-barack-obama-t-00-08-02" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-barack-obama-t-00-57-33" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-41-41" style="--pulse-height:75%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-barack-obama-t-00-57-39" style="--pulse-height:25%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-08-54" style="--pulse-height:75%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
@@ -54,6 +55,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 |---|---|---:|
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-barack-obama-t-00-34-45) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-barack-obama-t-00-08-02) | 1 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-barack-obama-t-00-57-33) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-41-41) | 3 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-barack-obama-t-00-57-39) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-barack-obama-t-00-08-54) | 3 |
@@ -69,7 +71,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -159,6 +161,14 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 
 **[00:48:56](/episodes/ep-1hcjQGgvxUY.md#ent-person-barack-obama-t-00-48-47)**
 > "...heaper than it was during the Obama era."
+
+</details>
+
+<details>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>
+
+**[00:57:33](/episodes/ep-CEF7gQRWYCE.md#ent-person-barack-obama-t-00-57-33)**
+> "irl writes the 65 000 hot dog party that obama had in the white house was in the wikileaks files"
 
 </details>
 

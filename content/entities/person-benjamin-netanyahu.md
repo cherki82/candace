@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 400 mentions"
+description: "Benjamin Netanyahu (People) - 405 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -29,11 +29,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-benjamin-netanyahu-t-00-51-43">2026-08-21 · 00:52:19</a></strong></div>
-<div><span>Episodes</span><strong>96</strong></div>
-<div><span>Mentions</span><strong>400</strong></div>
+<div><span>Episodes</span><strong>97</strong></div>
+<div><span>Mentions</span><strong>405</strong></div>
 <div><span>Statements by</span><strong>25</strong></div>
-<div><span>Statements about</span><strong>127</strong></div>
-<div><span>Relationships</span><strong>59</strong></div>
+<div><span>Statements about</span><strong>132</strong></div>
+<div><span>Relationships</span><strong>61</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -81,11 +81,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-28" style="--pulse-height:18%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-benjamin-netanyahu-t-00-42-40" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-benjamin-netanyahu-t-00-25-07" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-36" style="--pulse-height:18%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-43" style="--pulse-height:18%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-17-22" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 14 mentions" title="2026-01-29 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-benjamin-netanyahu-t-00-51-11" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-29-11" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-benjamin-netanyahu-t-00-16-39" style="--pulse-height:25%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 7 mentions" title="2026-02-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-21-12" style="--pulse-height:11%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-benjamin-netanyahu-t-00-16-39" style="--pulse-height:29%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 8 mentions" title="2026-02-05 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-benjamin-netanyahu-t-00-28-49" style="--pulse-height:32%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 9 mentions" title="2026-02-09 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-benjamin-netanyahu-t-00-14-24" style="--pulse-height:21%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 6 mentions" title="2026-02-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-benjamin-netanyahu-t-00-26-58" style="--pulse-height:14%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
@@ -119,6 +119,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-benjamin-netanyahu-t-00-32-35" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-benjamin-netanyahu-t-00-33-19" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-benjamin-netanyahu-t-00-32-58" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-benjamin-netanyahu-t-00-21-50" style="--pulse-height:11%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-benjamin-netanyahu-t-00-28-25" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-benjamin-netanyahu-t-00-08-50" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-benjamin-netanyahu-t-00-42-23" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
@@ -182,11 +183,11 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-28) | 5 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-benjamin-netanyahu-t-00-42-40) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-benjamin-netanyahu-t-00-25-07) | 3 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-36) | 5 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-43) | 5 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-17-22) | 14 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-benjamin-netanyahu-t-00-51-11) | 1 |
-| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-29-11) | 2 |
-| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-benjamin-netanyahu-t-00-16-39) | 7 |
+| 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-21-12) | 3 |
+| 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-benjamin-netanyahu-t-00-16-39) | 8 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-benjamin-netanyahu-t-00-28-49) | 9 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-benjamin-netanyahu-t-00-14-24) | 6 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-benjamin-netanyahu-t-00-26-58) | 4 |
@@ -220,6 +221,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-benjamin-netanyahu-t-00-32-35) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-benjamin-netanyahu-t-00-33-19) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-benjamin-netanyahu-t-00-32-58) | 2 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-benjamin-netanyahu-t-00-21-50) | 3 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-benjamin-netanyahu-t-00-28-25) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-benjamin-netanyahu-t-00-08-50) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-benjamin-netanyahu-t-00-42-23) | 1 |
@@ -245,7 +247,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (400)</strong></summary>
+<summary><strong class="section-title">Raw mentions (405)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -469,6 +471,20 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 **[00:28:37](/episodes/ep-h76ZN-xXC6c.md#ent-person-benjamin-netanyahu-t-00-28-25)**
 > "...s looking at Israel and Bibi (Benjamin Netanyahu) comes out and says they didn't do it. Then there..."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3 mentions)</summary>
+
+**[00:21:50](/episodes/ep-5NQyGuRYbU8.md#ent-person-benjamin-netanyahu-t-00-21-50)**
+> "Bibi (Benjamin Netanyahu) Netanyahu enters the White House and presents President Trump (Donald Trump) with a gift, a golden pager, a nod to the Mossad's pager operation."
+
+**[00:22:48](/episodes/ep-5NQyGuRYbU8.md#ent-person-benjamin-netanyahu-t-00-22-31)**
+> "... with the golden pager, Bibi (Benjamin Netanyahu)? Frankly, it was crass and it was off-putting."
+
+**[00:41:29](/episodes/ep-5NQyGuRYbU8.md#ent-person-benjamin-netanyahu-t-00-40-54)**
+> "...l Ackman at dinner when Bibi (Benjamin Netanyahu) Netanyahu is called."
 
 </details>
 
@@ -1052,7 +1068,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>An Open Letter To Erika Kirk | Candace Ep 303 (7 mentions)</summary>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (8 mentions)</summary>
 
 **[00:16:39](/episodes/ep-mFuno0TuuQQ.md#ent-person-benjamin-netanyahu-t-00-16-39)**
 > "You were there when Bibi (Benjamin Netanyahu) called."
@@ -1075,16 +1091,22 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 **[00:16:30](/episodes/ep-mFuno0TuuQQ.md#ent-person-benjamin-netanyahu-t-00-15-54)**
 > "lying to cover Bibi (Benjamin Netanyahu)'s tracks."
 
+**[00:17:15](/episodes/ep-mFuno0TuuQQ.md#ent-person-benjamin-netanyahu-t-00-16-39)**
+> "...ned. Nobody wanted to address BB calling."
+
 </details>
 
 <details>
-<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (2 mentions)</summary>
+<summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (3 mentions)</summary>
 
-**[00:20:52](/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-29-11)**
+**[00:20:52](/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-21-12)**
 > "...i know it seems weird because Bibi's like always here or whatever and we seem to be ..."
 
 **[00:29:30](/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-29-11)**
 > "... bit he's setting up meetings Bibi Netanyahu who rocks all over it um he's writing e..."
+
+**[00:21:12](/episodes/ep-CEF7gQRWYCE.md#ent-person-benjamin-netanyahu-t-00-21-12)**
+> "...o uh thank you for clarifying benjamin Nicki Minaj also went off in a series of tweets a..."
 
 </details>
 
@@ -1105,10 +1127,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 **[00:19:17](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-19-17)**
 > "...main speaker in our event was benjamin netanyahu accompanied by mariam edelson it's like wait a mi..."
 
-**[00:24:11](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-24-11)**
+**[00:24:09](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-24-09)**
 > "...ship miriam adelson and Bibi (Benjamin Netanyahu) which is wild miriam adelson's money and wealth ..."
 
-**[00:30:08](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-30-08)**
+**[00:30:03](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-30-03)**
 > "... interesting fact. When Bibi (Benjamin Netanyahu) went on a little mini tour and went on everyone'..."
 
 **[00:30:14](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-30-14)**
@@ -1124,9 +1146,6 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > "...ifies me. That file and Bibi (Benjamin Netanyahu) just sits there like and he just freaks out. He'..."
 
 **[01:14:36](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-01-14-26)**
-> "You got Bibi (Benjamin Netanyahu) calling him. Everyone's lying."
-
-**[01:14:38](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-01-14-26)**
 > "...ey're pretending i mean Bibi (Benjamin Netanyahu) going on a press tour immediately after to say"
 
 **[01:16:02](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-01-16-02)**
@@ -1141,24 +1160,27 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 **[01:44:43](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-01-44-43)**
 > "...a buy tiktok that's not Bibi (Benjamin Netanyahu) in control Bibi (Benjamin Netanyahu) in control ..."
 
+**[00:35:11](/episodes/ep-xjzb_t5Tk9o.md#ent-person-benjamin-netanyahu-t-00-34-56)**
+> "... head of the cybersecurity in Netanyahu's office. He comes to Las Vegas and just like, you ..."
+
 </details>
 
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (5 mentions)</summary>
 
-**[00:03:54](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-36)**
+**[00:03:51](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-43)**
 > "...t. She was present when Bibi (Benjamin Netanyahu) called."
 
-**[00:04:14](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-36)**
+**[00:04:12](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-43)**
 > "Andrew Kolvet said that Bibi (Benjamin Netanyahu) offered to fund Turning Point to the next level."
 
-**[00:04:29](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-04-19)**
+**[00:04:29](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-04-25)**
 > "... that was made and that Bibi (Benjamin Netanyahu) was calling about the letter that Charlie (Charl..."
 
-**[00:05:15](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-05-15)**
+**[00:05:15](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-05-05)**
 > "...s Summit did happen yes Bibi (Benjamin Netanyahu) did call and try to work through with Andrew (An..."
 
-**[00:41:37](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-41-08)**
+**[00:41:35](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-41-08)**
 > "...uld flatten a city like Bibi (Benjamin Netanyahu) did to Gaza."
 
 </details>
@@ -1964,14 +1986,27 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02): “Bibi (Benjamin Netanyahu) is your master. Maybe it's Miriam Adelson that lights the fire and Bibi (Benjamin Netanyahu) that makes the shadows on the wall.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:22:48](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31): “What's up with the golden pager, Bibi (Benjamin Netanyahu)? Frankly, it was crass and it was off-putting.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:35:19](/episodes/ep-HZvwbfePe7o.md#t-00-35-08): “Bibi (Benjamin Netanyahu) will be probably in the situation where I'm telling Trump (Donald Trump) who else has to die for the empire of Baal.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:32:53](/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22): “promoting and celebrating people who harm children, protecting people who harm children. We have Bibi (Benjamin Netanyahu) in DC right now and it sickens me.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:50:07](/episodes/ep-9hRcfSrri70.md#t-00-49-45): “Joshua Steves writes, are we ever going to talk about how Bibi (Benjamin Netanyahu) is probably dead? I don't think he is. I think when all that stuff was happening, he was probably hiding and being a coward and using AI.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Debated (1)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:28:56](/episodes/ep-4YgrOhhy708.md#t-00-28-49): “If she had moved to do that after Charlie (Charlie Kirk) beat. Bibi (Benjamin Netanyahu) in a debate and all of his Zionist thugs at the White House”
 
 </details>
 
@@ -2069,9 +2104,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Nelk](/entities/org-nelk-boys.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:06](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “So what did Bibi (Benjamin Netanyahu) do instead? Well, he kept up his schedule with podcasters. He did the Nelk Boys.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:20:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-20-08): “yay for Candace hosting him when he was on the Nelk podcast. ... that was one of the podcasts Bibi (Benjamin Netanyahu) could get on, by the way, which Charlie Kirk said no.”
 
 </details>
 
@@ -2142,9 +2178,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:46](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-46): “And so what led Trump? What, at 79 years old, to sit in there in that situation room when Bibi Netanyahu, who was seated as an equal, ... Trump sat at the side of the table and Bibi (Benjamin Netanyahu) was across from him as an equal in the American situation room.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50): “Bibi (Benjamin Netanyahu) Netanyahu enters the White House and presents President Trump (Donald Trump) with a gift, a golden pager, a nod to the Mossad's pager operation.”
 
 </details>
 
@@ -2204,7 +2241,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Referenced By (30)</summary>
+<summary>Referenced By (31)</summary>
 
 - **[Yair Netanyahu](/entities/person-yair-netanyahu.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -2230,11 +2267,12 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:19:26](/episodes/ep-I0OaY6Gryqk.md#t-00-19-26): “of people that will greet Bibi (Benjamin Netanyahu), who is a literal war criminal, wanted by the ICC in the White House.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02): “Bibi (Benjamin Netanyahu) is your master. Maybe it's Miriam Adelson that lights the fire and Bibi (Benjamin Netanyahu) that makes the shadows on the wall.”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:39](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “While he unflinchingly hosts Bibi (Benjamin Netanyahu) on his platform, while he cheers on a genocide. That's his main issue. His main issue is Israel.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:22:48](/episodes/ep-5NQyGuRYbU8.md#t-00-22-31): “What's up with the golden pager, Bibi (Benjamin Netanyahu)? Frankly, it was crass and it was off-putting.”
 - [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:35:19](/episodes/ep-HZvwbfePe7o.md#t-00-35-08): “Bibi (Benjamin Netanyahu) will be probably in the situation where I'm telling Trump (Donald Trump) who else has to die for the empire of Baal.”
 - [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:32:53](/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22): “promoting and celebrating people who harm children, protecting people who harm children. We have Bibi (Benjamin Netanyahu) in DC right now and it sickens me.”
 - [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:50:07](/episodes/ep-9hRcfSrri70.md#t-00-49-45): “Joshua Steves writes, are we ever going to talk about how Bibi (Benjamin Netanyahu) is probably dead? I don't think he is. I think when all that stuff was happening, he was probably hiding and being a coward and using AI.”
@@ -2252,6 +2290,13 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 @ 00:54:23](/episodes/ep-9k2xrAC0H88.md#t-00-54-08): “They want me and Tucker. You don't want to be name checked with Bibi”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** debated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:28:56](/episodes/ep-4YgrOhhy708.md#t-00-28-49): “If she had moved to do that after Charlie (Charlie Kirk) beat. Bibi (Benjamin Netanyahu) in a debate and all of his Zionist thugs at the White House”
 
 </details>
 
@@ -2337,9 +2382,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Nelk](/entities/org-nelk-boys.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:03:06](/episodes/ep-MhakwJxK-Zk.md#t-00-02-47): “So what did Bibi (Benjamin Netanyahu) do instead? Well, he kept up his schedule with podcasters. He did the Nelk Boys.”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 01:20:08](/episodes/ep-xjzb_t5Tk9o.md#t-01-20-08): “yay for Candace hosting him when he was on the Nelk podcast. ... that was one of the podcasts Bibi (Benjamin Netanyahu) could get on, by the way, which Charlie Kirk said no.”
 
 </details>
 
@@ -2404,9 +2450,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** met with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:46](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-46): “And so what led Trump? What, at 79 years old, to sit in there in that situation room when Bibi Netanyahu, who was seated as an equal, ... Trump sat at the side of the table and Bibi (Benjamin Netanyahu) was across from him as an equal in the American situation room.”
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 @ 00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50): “Bibi (Benjamin Netanyahu) Netanyahu enters the White House and presents President Trump (Donald Trump) with a gift, a golden pager, a nod to the Mossad's pager operation.”
 
 </details>
 
@@ -2556,7 +2603,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Benjamin Netanyahu (127)</strong></summary>
+<summary><strong class="section-title">Statements about Benjamin Netanyahu (132)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
@@ -2602,6 +2649,14 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 
 - [00:42:23](/episodes/ep-X3VKJVJ7cN4.md#t-00-42-23) (Claim) **Andrew Kolvet** (via quoted tweet): ["Kolvet denied that Netanyahu offered to take Turning Point USA to the ..."](/statements/statement-d2c62ee0b38f.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1)</summary>
+
+- [00:21:50](/episodes/ep-5NQyGuRYbU8.md#t-00-21-50) (Claim) **Candace Owens**: ["Candace Owens said Benjamin Netanyahu gave Donald Trump a golden pager..."](/statements/statement-d2fa62164eb6.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [White House](/entities/org-white-house.md), [Mossad](/entities/org-mossad.md)
 
 </details>
 
@@ -2783,7 +2838,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (2)</summary>
+<summary>Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 (3)</summary>
+
+- [00:16:07](/episodes/ep-ti5Fxrvegno.md#t-00-15-44) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Charlie Kirk rejected hosting Benjamin Netanyahu on..."](/statements/statement-810751682abb.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md)
 
 - [00:16:32](/episodes/ep-ti5Fxrvegno.md#t-00-16-27) (Claim) **Candace Owens**: ["Benjamin Netanyahu, Erika Kirk, and Ben Shapiro were scheduled to film..."](/statements/statement-ca0b88460c1c.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Palm Beach, Florida](/entities/gpe-palm-beach-florida.md)
@@ -2814,6 +2872,17 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
+<summary>An Open Letter To Erika Kirk | Candace Ep 303 (2)</summary>
+
+- [00:16:41](/episodes/ep-mFuno0TuuQQ.md#t-00-16-39) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Andrew Kolvet told her that Benjamin Netanyahu offe..."](/statements/statement-f609ed16db52.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:17:51](/episodes/ep-mFuno0TuuQQ.md#t-00-17-23) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said that, according to Andrew Kolvet, Charlie Kirk decl..."](/statements/statement-763344341425.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (1)</summary>
 
 - [00:51:24](/episodes/ep-Wjul6YV6izo.md#t-00-51-11) (Accusation) **Candace Owens**: ["Benjamin Netanyahu funded Hamas."](/statements/statement-2edd56c605e0.md)
@@ -2835,17 +2904,25 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (4)</summary>
 
-- [00:03:54](/episodes/ep-QdM9jLwjwLw.md#t-00-03-36) (Claim) **Candace Owens**: ["Erika Kirk attended the Hamptons retreat and was present when Benjamin..."](/statements/statement-114253bc2666.md)
+- [00:03:54](/episodes/ep-QdM9jLwjwLw.md#t-00-03-43) (Claim) **Candace Owens**: ["Erika Kirk attended the Hamptons retreat and was present when Benjamin..."](/statements/statement-114253bc2666.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:04:14](/episodes/ep-QdM9jLwjwLw.md#t-00-03-36) (Claim) **Candace Owens** (via paraphrase): ["Andrew Kolvet said Benjamin Netanyahu offered to fund Turning Point US..."](/statements/statement-79edb97ebcdb.md)
+- [00:04:14](/episodes/ep-QdM9jLwjwLw.md#t-00-03-43) (Claim) **Candace Owens** (via paraphrase): ["Andrew Kolvet said Benjamin Netanyahu offered to fund Turning Point US..."](/statements/statement-79edb97ebcdb.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:04:19](/episodes/ep-QdM9jLwjwLw.md#t-00-04-19) (Claim) **Candace Owens**: ["Two people unrelated to Andrew Kolvet corroborated his account of Neta..."](/statements/statement-bcb47b271910.md)
+- [00:04:19](/episodes/ep-QdM9jLwjwLw.md#t-00-03-43) (Claim) **Candace Owens**: ["Two people unrelated to Andrew Kolvet corroborated his account of Neta..."](/statements/statement-bcb47b271910.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:04:29](/episodes/ep-QdM9jLwjwLw.md#t-00-04-19) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said Netanyahu made no funding offer and called about Charl..."](/statements/statement-b12d7c13cc68.md)
+- [00:04:29](/episodes/ep-QdM9jLwjwLw.md#t-00-04-25) (Claim) **Candace Owens** (via paraphrase): ["Erika Kirk said Netanyahu made no funding offer and called about Charl..."](/statements/statement-b12d7c13cc68.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
+
+<details>
+<summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1)</summary>
+
+- [00:25:07](/episodes/ep-9naMwS0kMBE.md#t-00-25-07) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet told Candace Owens that Benjamin Netanyahu made Charlie ..."](/statements/statement-2b6a88115260.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

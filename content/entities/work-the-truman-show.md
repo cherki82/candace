@@ -1,6 +1,6 @@
 ---
 title: "The Truman Show"
-description: "The Truman Show (Works & Media) - 15 mentions"
+description: "The Truman Show (Works & Media) - 18 mentions"
 id: "work-the-truman-show"
 type: "WORK"
 aliases:
@@ -23,8 +23,8 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-work-the-truman-show-t-00-37-35">2025-09-30 · 00:37:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-work-the-truman-show-t-00-25-41">2026-06-26 · 00:25:41</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-work-the-truman-show-t-00-00-00" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-the-truman-show-t-00-40-32" style="--pulse-height:33%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-work-the-truman-show-t-00-01-45" style="--pulse-height:33%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-work-the-truman-show-t-00-16-35" style="--pulse-height:100%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 3 mentions" title="2026-06-15 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-work-the-truman-show-t-01-03-18" style="--pulse-height:33%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-the-truman-show-t-00-25-48" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-work-the-truman-show-t-00-25-21" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
@@ -57,6 +58,7 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-work-the-truman-show-t-00-00-00) | 3 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-work-the-truman-show-t-00-40-32) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-work-the-truman-show-t-00-01-45) | 1 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-work-the-truman-show-t-00-16-35) | 3 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-work-the-truman-show-t-01-03-18) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-work-the-truman-show-t-00-25-48) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-work-the-truman-show-t-00-25-21) | 2 |
@@ -67,7 +69,7 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>
@@ -93,6 +95,20 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 
 **[01:03:28](/episodes/ep-h76ZN-xXC6c.md#ent-work-the-truman-show-t-01-03-18)**
 > "to remember why we are doing this day in and day out, that this was these this is the true carrying on of Charlie Kirk's legacy is to not stop asking questions and it just made me go even harder for him and expanding the scope of this investigation and it reminds us that, you know, we're all trying to figure out what happened on that day and that that really is the best way to honor what his legacy is. It certainly isn't happening over at the Truman Show."
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (3 mentions)</summary>
+
+**[00:16:35](/episodes/ep-5NQyGuRYbU8.md#ent-work-the-truman-show-t-00-16-35)**
+> "When they are buying from us, they have zero clue that they are buying from the Mossad. We make like Truman Show."
+
+**[00:16:56](/episodes/ep-5NQyGuRYbU8.md#ent-work-the-truman-show-t-00-16-56)**
+> "Just amazing. We create a Truman Show. We are there with the directors, the actors, the..."
+
+**[00:33:10](/episodes/ep-5NQyGuRYbU8.md#ent-work-the-truman-show-t-00-32-45)**
+> "... rename the Charlie Kirk show the Truman Show?"
 
 </details>
 

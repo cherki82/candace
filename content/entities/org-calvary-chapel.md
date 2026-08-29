@@ -203,7 +203,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[00:23:06](/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-22-52)**
+**[00:22:58](/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-22-52)**
 > "Calvary Chapel church"
 
 **[00:23:34](/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-23-34)**
@@ -503,10 +503,11 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <summary>Has Pastor (2)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl— ... The problem comes in when Rob then decides that Camino should be involved in the Calvary Chapel Church”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:22:58](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52): “And it's incredible to say that is in large part due to the Charlie Kirk assassination and us looking into the story, looking into the pastors that he surrounded himself with. And then we kind of looked into what this Calvary Chapel church was. It's a military operation. I mean, this is literally a CIA operation. ... People like Rob McCoy. who was one of the pastors that purported to be close to Charlie (Charlie Kirk).”
 
 </details>
 
@@ -550,11 +551,12 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 </details>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** pastor of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:03:00](/episodes/ep-Qt0VHV-POCg.md#t-00-02-59): “Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith.”
 - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:11:21](/episodes/ep-yAIb-NuUh_U.md#t-00-11-21): “Despite his conviction, despite having spent years in prison for these crimes, Rob McCoy—the pastor who makes my skin crawl— ... The problem comes in when Rob then decides that Camino should be involved in the Calvary Chapel Church”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:10:12](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-42): “the beliefs and the preferences of Rob McCoy who makes my skin crawl”
+- [Candace x Bassem Youssef | Candace Ep 298 @ 00:22:58](/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52): “And it's incredible to say that is in large part due to the Charlie Kirk assassination and us looking into the story, looking into the pastors that he surrounded himself with. And then we kind of looked into what this Calvary Chapel church was. It's a military operation. I mean, this is literally a CIA operation. ... People like Rob McCoy. who was one of the pastors that purported to be close to Charlie (Charlie Kirk).”
 
 </details>
 

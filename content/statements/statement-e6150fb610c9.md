@@ -4,9 +4,10 @@ description: "\"It is time for Erika Kirk to sue Candace Owens; she has gone too
 statement_id: "statement-e6150fb610c9"
 speaker: "Laura Loomer"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,8 +36,22 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript context shows Candace Owens introducing and reading a Laura Loomer X post. The located Laura Loomer status contains the same two sentences. This verifies the quotation and attribution of Loomer's opinion; it does not assess whether a lawsuit is warranted or whether Owens went too far.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Laura Loomer post on X](https://x.com/LauraLoomer/status/2021432308709065043)
+- [Indexed copy of Laura Loomer's X post](https://mobile.twstalker.com/LauraLoomer/status/2021432308709065043)
+
+*Verified: 2026-08-29T15:31:39.303196*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

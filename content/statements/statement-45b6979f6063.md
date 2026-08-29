@@ -28,7 +28,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46) 
+**Timestamp:** [00:24:46](/episodes/ep-GY6GWceEqtQ.md#t-00-24-42) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1486);return false;">Play</a>
 
 > behave how are we glorifying these people it made us spiritually sick looking at the Justin Baldoni case I couldn't believe it it was just mean girls Blake Lively never told no very bratty wanted some publishing rights because that's what happened and when she was told no you can't take this over she said oh I don't I don't nobody tells me no never been told no my whole life and her and her husband conspired you ... brought in the big guns Taylor Swift and I told you guys another coin in the Candace was right jar I said let me tell you something about Taylor Swift she gonna survive this

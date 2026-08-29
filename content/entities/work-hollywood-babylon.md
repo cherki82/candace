@@ -1,6 +1,6 @@
 ---
 title: "Hollywood Babylon"
-description: "Hollywood Babylon (Works & Media) - 6 mentions"
+description: "Hollywood Babylon (Works & Media) - 5 mentions"
 id: "work-hollywood-babylon"
 type: "WORK"
 categories:
@@ -20,7 +20,7 @@ Source: [Hollywood Babylon | Open Library](https://openlibrary.org/works/OL27455
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#ent-work-hollywood-babylon-t-00-35-50">2026-01-16 · 00:35:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-work-hollywood-babylon-t-00-03-28">2026-07-22 · 00:03:28</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,20 +29,20 @@ Source: [Hollywood Babylon | Open Library](https://openlibrary.org/works/OL27455
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35">Candace x Bassem Youssef | Candace Ep 298</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-X92MllIHDzw.md#ent-work-hollywood-babylon-t-00-35-50">OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-X92MllIHDzw.md#ent-work-hollywood-babylon-t-00-35-50" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-hollywood-babylon-t-00-23-51" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-hollywood-babylon-t-00-01-48" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-work-hollywood-babylon-t-00-03-28" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-work-hollywood-babylon-t-00-35-50" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-work-hollywood-babylon-t-00-23-51" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-hollywood-babylon-t-00-01-48" style="--pulse-height:100%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-work-hollywood-babylon-t-00-03-28" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-work-hollywood-babylon-t-00-35-50) | 1 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35) | 2 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-work-hollywood-babylon-t-00-23-51) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-hollywood-babylon-t-00-01-48) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-work-hollywood-babylon-t-00-03-28) | 1 |
@@ -53,7 +53,7 @@ Source: [Hollywood Babylon | Open Library](https://openlibrary.org/works/OL27455
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -80,12 +80,9 @@ Source: [Hollywood Babylon | Open Library](https://openlibrary.org/works/OL27455
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[01:28:36](/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35)**
-> "Hollywood Babylon"
-
-**[01:28:36](/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35)**
+**[01:28:35](/episodes/ep-xjzb_t5Tk9o.md#ent-work-hollywood-babylon-t-01-28-35)**
 > "there was Hollywood Babylon too,"
 
 </details>

@@ -25,7 +25,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <div><span>Episodes</span><strong>34</strong></div>
 <div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -404,7 +404,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 **[01:23:21](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-new-york-times-t-01-23-21)**
 > "isn't like the New York Times who had proudly published a piece like where they..."
 
-**[01:23:42](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-new-york-times-t-01-23-21)**
+**[01:23:43](/episodes/ep-xjzb_t5Tk9o.md#ent-org-the-new-york-times-t-01-23-21)**
 > "This is the New York Times."
 
 </details>
@@ -667,7 +667,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The New York Times (12)</strong></summary>
+<summary><strong class="section-title">Statements about The New York Times (14)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -719,7 +719,13 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (2)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (4)</summary>
+
+- [01:23:11](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-11) (Accusation) **Bassem Youssef**: ["Bassem Youssef claimed that The New York Times editorial team is full ..."](/statements/statement-11b5e1a0d224.md)
+  - Also about: [Israel Defense Forces](/entities/org-israel-defense-forces.md), [Mossad](/entities/org-mossad.md)
+
+- [01:23:21](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) (Citation) **Bassem Youssef**: ["The New York Times published a claim that tunnels beneath Gaza were lo..."](/statements/statement-99b36b327440.md)
+  - Also about: [Gaza](/entities/gpe-gaza.md), [New York City](/entities/gpe-new-york-city.md)
 
 - [01:23:49](/episodes/ep-xjzb_t5Tk9o.md#t-01-23-21) (Accusation) **Bassem Youssef**: ["The New York Times published a completely fabricated rape story whose ..."](/statements/statement-9d5a06e8c485.md)
   - Also about: [Israel](/entities/gpe-israel.md)

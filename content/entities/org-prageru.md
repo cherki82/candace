@@ -153,10 +153,10 @@ Source: [About PragerU](https://www.prageru.com/about)
 **[00:30:25](/episodes/ep-9naMwS0kMBE.md#ent-org-prageru-t-00-30-25)**
 > "...at's what her new focus is at Prager University which is supposed to be about like educating peop..."
 
-**[00:34:43](/episodes/ep-9naMwS0kMBE.md#ent-org-prageru-t-00-34-30)**
+**[00:34:30](/episodes/ep-9naMwS0kMBE.md#ent-org-prageru-t-00-34-30)**
 > "...m, not exclusively for me, at Prager University."
 
-**[01:13:17](/episodes/ep-9naMwS0kMBE.md#ent-org-prageru-t-01-13-00)**
+**[01:13:04](/episodes/ep-9naMwS0kMBE.md#ent-org-prageru-t-01-13-00)**
 > "Dave Rubin, Prager University."
 
 </details>

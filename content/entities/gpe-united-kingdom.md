@@ -203,7 +203,7 @@ Source: [GOV.UK](https://www.gov.uk/)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
-**[00:56:26](/episodes/ep-xjzb_t5Tk9o.md#t-00-56-16)**
+**[00:56:21](/episodes/ep-xjzb_t5Tk9o.md#t-00-56-16)**
 > "go to the UK"
 
 **[00:56:33](/episodes/ep-xjzb_t5Tk9o.md#t-00-56-16)**

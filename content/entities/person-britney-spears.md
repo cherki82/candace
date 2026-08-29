@@ -93,7 +93,7 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:40:28](/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25)**
+**[00:40:25](/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25)**
 > "...want everybody to end up like Britney Spears and pretending that you had some sort of a mental..."
 
 </details>

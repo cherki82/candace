@@ -20,7 +20,7 @@ _Type: Places_
 Source: [City of Houston](https://www.houstontx.gov/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57">2026-01-29 · 01:47:06</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57">2026-01-29 · 01:46:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-houston-texas-t-00-12-23">2026-06-11 · 00:12:43</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
@@ -99,7 +99,7 @@ Source: [City of Houston](https://www.houstontx.gov/)
 **[01:47:10](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57)**
 > "Houston"
 
-**[01:47:06](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57)**
+**[01:46:57](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-houston-texas-t-01-46-57)**
 > "...onna be in Philadelphia, D_C_ Houston, Atlanta."
 
 </details>

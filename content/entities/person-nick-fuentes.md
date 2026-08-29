@@ -22,7 +22,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <div><span>Episodes</span><strong>21</strong></div>
 <div><span>Mentions</span><strong>95</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,7 +46,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-36" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-nick-fuentes-t-00-34-38" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-50-09" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-04-42" style="--pulse-height:10%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35" style="--pulse-height:8%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
@@ -72,7 +72,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-36) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-nick-fuentes-t-00-34-38) | 5 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14) | 1 |
-| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39) | 1 |
+| 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-50-09) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-04-42) | 3 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-nick-fuentes-t-00-17-35) | 2 |
@@ -142,7 +142,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1 mentions)</summary>
 
-**[00:50:09](/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39)**
+**[00:50:09](/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-50-09)**
 > "...ve been secretly working with Nick Fuentes and Tucker Carlson,"
 
 </details>
@@ -721,7 +721,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nick Fuentes (20)</strong></summary>
+<summary><strong class="section-title">Statements about Nick Fuentes (21)</strong></summary>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
@@ -739,6 +739,14 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 
 - [01:06:15](/episodes/ep-qZ8RWfyuewQ.md#t-01-05-45) (Claim) **Candace Owens**: ["Candace Owens denied meeting Aubrey Laitsch, Nick Fuentes, or David Ax..."](/statements/statement-b68d2c1bd71a.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [George Farmer](/entities/person-george-farmer.md), [Aubrey Laitsch](/entities/person-aubrey-laitsch.md)
+
+</details>
+
+<details>
+<summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (1)</summary>
+
+- [00:50:09](/episodes/ep-QdM9jLwjwLw.md#t-00-50-09) (Claim) **Candace Owens** (via paraphrase): ["Jeremy Boreing told Owens that The Daily Wire suspected she might have..."](/statements/statement-173c5f852dca.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </details>
 

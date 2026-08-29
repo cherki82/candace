@@ -60,7 +60,7 @@ _No relationships extracted yet._
 - [00:28:52](/episodes/ep-gG4ZoYUjUc8.md#t-00-28-52) (Claim) **Anonymous Source #1 (Ep gG4ZoYUjUc8)**: ["The former TPUSA employee had never received a bad review, had no issu..."](/statements/statement-7ce43d15c332.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:31:55](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-15) (Opinion) **Candace Owens**: ["Turning Point USA's firing was legal but immoral."](/statements/statement-93fefe1c1168.md)
+- [00:31:55](/episodes/ep-gG4ZoYUjUc8.md#t-00-31-51) (Opinion) **Candace Owens**: ["Turning Point USA's firing was legal but immoral."](/statements/statement-93fefe1c1168.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

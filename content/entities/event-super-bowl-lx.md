@@ -1,6 +1,6 @@
 ---
 title: "Super Bowl LX"
-description: "Super Bowl LX (Events) - 1 mention"
+description: "Super Bowl LX (Events) - 2 mentions"
 id: "event-super-bowl-lx"
 type: "EVENT"
 categories:
@@ -18,9 +18,9 @@ Source: [NFL: Super Bowl LX Halftime Show](https://www.nfl.com/super-bowl/halfti
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#t-00-00-00">2026-02-09 · 00:00:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-4YgrOhhy708.md#t-00-00-00">2026-02-09 · 00:00:02</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#t-00-37-22">2026-02-11 · 00:37:50</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [NFL: Super Bowl LX Halftime Show](https://www.nfl.com/super-bowl/halfti
 <p>Highest activity: <a href="/episodes/ep-4YgrOhhy708.md#t-00-00-00">Halftime Wars: TPUSA vs The NFL | Candace Ep 304</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-4YgrOhhy708.md#t-00-00-00" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#t-00-37-22" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#t-00-00-00) | 1 |
+| 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#t-00-37-22) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [NFL: Super Bowl LX Halftime Show](https://www.nfl.com/super-bowl/halfti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1 mentions)</summary>
+
+**[00:37:50](/episodes/ep-hWTdXHGQ8R4.md#t-00-37-22)**
+> "I got in a few people reached out to me that were a part of the Super Bowl halftime show."
+
+</details>
 
 <details>
 <summary>Halftime Wars: TPUSA vs The NFL | Candace Ep 304 (1 mentions)</summary>

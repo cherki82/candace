@@ -4,9 +4,10 @@ description: "\"Anti-Zionism is antisemitism.\" — Anonymous Source #1 (Ep hWTd
 statement_id: "statement-2b28118dd5b6"
 speaker: "Anonymous Source #1 (Ep hWTdXHGQ8R4)"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,8 +36,21 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped clip presents this as a quoted answer from the Religious Liberty Commission hearing. The official Justice Department transcript records Carrie Prejean Boller asking whether anti-Zionism is antisemitism and Yitzchok Frankel answering yes at 01:34:25. This verifies the quoted utterance and identifies its speaker; it does not convert the witness's contested definitional opinion into an independently established fact.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Transcript: Fifth Hearing of the Religious Liberty Commission, Parts I and II](https://www.justice.gov/religious-liberty-commission/media/1435436/dl?inline=)
+
+*Verified: 2026-08-29T15:31:39.303201*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

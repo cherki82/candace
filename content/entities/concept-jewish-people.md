@@ -1,6 +1,6 @@
 ---
 title: "Jewish people"
-description: "Jewish people (Concepts) - 21 mentions"
+description: "Jewish people (Concepts) - 24 mentions"
 id: "concept-jewish-people"
 type: "CONCEPT"
 aliases:
@@ -23,8 +23,8 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#t-00-28-18">2026-01-16 · 00:28:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#t-00-05-34">2026-07-22 · 00:05:52</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-28-18" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-44-56" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03" style="--pulse-height:50%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-10-21" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#t-02-35-53" style="--pulse-height:17%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
@@ -52,6 +53,7 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 |---|---|---:|
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-28-18) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-44-56) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03) | 3 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-10-21) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09) | 2 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#t-02-35-53) | 1 |
@@ -67,7 +69,7 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -154,6 +156,20 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 
 **[00:10:45](/episodes/ep-B9TyCs-6o_0.md#t-00-10-21)**
 > "Israel or the Jews had Charlie murdered. Yes. So, which we do not believe, which we do not believe, but we have been accused of trying to, or we're not interested in the truth. The actual fact of the matter is that behind the scenes, we have given everything we know to give, every single piece of information."
+
+</details>
+
+<details>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
+
+**[00:07:35](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-03)**
+> "... the people that trusted you, Jews and Christians, including me, why would you platf..."
+
+**[00:07:56](/episodes/ep-gG4ZoYUjUc8.md#t-00-07-44)**
+> "...disagree with? You threatened Jews and Christians with your 30 million followers?"
+
+**[00:08:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-08-29)**
+> "...), Candace, and the rest. The Jews are under attack. God warns us in the last days."
 
 </details>
 

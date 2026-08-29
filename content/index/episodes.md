@@ -2,7 +2,7 @@
 title: "Episodes"
 ---
 
-_Total episodes: 159_
+_Total episodes: 160_
 
 <div class="page-filter-container">
   <input type="text" class="page-filter" placeholder="Filter episodes..." autocomplete="off">
@@ -78,6 +78,7 @@ _Total episodes: 159_
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md) — Thu, Jun 18
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md) — Wed, Jun 17
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md) — Tue, Jun 16
+- [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md) — Mon, Jun 15
 
 ## Week of Jun 08 - 14, 2026
 

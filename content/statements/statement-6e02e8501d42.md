@@ -4,9 +4,10 @@ description: "\"People who slander Erika Kirk and others, make accusations and l
 statement_id: "statement-6e02e8501d42"
 speaker: "Frank Turek"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,8 +35,22 @@ type: "accusation"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as a statement-attribution claim, not as an empirical determination about spiritual warfare or whether unnamed people actually lied. In the source-scoped transcript, Frank Turek calls the sequence of murder, slander, accusations, lies, and confusion spiritual warfare, then says people slandering Erika and others, making accusations and lies, and stirring confusion without evidence are doing what Satan does. The primary episode recording and current external transcript preserve the passage.
+
+**Confidence:** High
+
+**Sources:**
+
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](https://www.youtube.com/watch?v=Wjul6YV6izo)
+- [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 — Candace Transcript](https://podcasts.happyscribe.com/candace/and-another-one-charlie-s-text-on-september-9th)
+
+*Verified: 2026-08-29T11:25:25.374785*
 
 ---
 
-**Type:** Accusation | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** Yes

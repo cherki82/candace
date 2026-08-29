@@ -1,6 +1,6 @@
 ---
 title: "Zoom Communications"
-description: "Zoom Communications (Organizations) - 26 mentions"
+description: "Zoom Communications (Organizations) - 29 mentions"
 id: "org-zoom-communications"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [About Zoom](https://www.zoom.com/en/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#t-00-00-00">2026-01-28 · 00:00:32</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-14-11">2026-01-22 · 00:14:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#t-00-02-01">2026-08-04 · 00:02:01</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-39-33">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-14-11" style="--pulse-height:60%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#t-00-00-00" style="--pulse-height:40%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-01-30" style="--pulse-height:20%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#t-00-39-33" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
@@ -58,6 +59,7 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-11) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00) | 2 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-01-30) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-00-39-33) | 5 |
@@ -83,7 +85,7 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -245,11 +247,25 @@ Source: [About Zoom](https://www.zoom.com/en/about/)
 <details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (2 mentions)</summary>
 
-**[00:00:32](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00)**
+**[00:00:21](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00)**
 > "which took place, or Zoom call rather,"
 
-**[00:24:05](/episodes/ep-QdM9jLwjwLw.md#t-00-24-04)**
+**[00:24:04](/episodes/ep-QdM9jLwjwLw.md#t-00-24-04)**
 > "I hate Zoom and I realized it."
+
+</details>
+
+<details>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
+
+**[00:14:30](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-11)**
+> "...section, which we're going to zoom in on here, is, let's get in close there because ..."
+
+**[00:32:54](/episodes/ep-gG4ZoYUjUc8.md#t-00-32-34)**
+> "...rson set up this kind of fake Zoom. This employee is part time. It kind of set up th..."
+
+**[00:35:01](/episodes/ep-gG4ZoYUjUc8.md#t-00-34-39)**
+> "...so now are in possession of a Zoom call, which Erika (Erika Kirk) held as the new CE..."
 
 </details>
 

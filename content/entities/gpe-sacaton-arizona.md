@@ -21,8 +21,8 @@ _Type: Places_
 Source: [District 3: Sacaton | Gila River Indian Community](https://www.gilariver.org/index.php/districts/district-3-sacaton)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21">2026-01-22 · 00:13:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21">2026-01-22 · 00:13:21</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55">2026-01-22 · 00:13:21</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55">2026-01-22 · 00:13:21</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,15 +33,15 @@ Source: [District 3: Sacaton | Gila River Indian Community](https://www.gilarive
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21) | 1 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55) | 1 |
 
 </details>
 </section>
@@ -54,7 +54,7 @@ Source: [District 3: Sacaton | Gila River Indian Community](https://www.gilarive
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1 mentions)</summary>
 
-**[00:13:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-13-21)**
+**[00:13:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55)**
 > "Located on a Native American reservation in a town called Saukett in Arizona"
 
 </details>
@@ -70,7 +70,7 @@ Source: [District 3: Sacaton | Gila River Indian Community](https://www.gilarive
 - **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41): “Located on a Native American reservation in a town called Saukett in Arizona, ... the business that they filed is called Desert Spirit Tech, LLC.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55): “Located on a Native American reservation in a town called Saukett in Arizona, ... the business that they filed is called Desert Spirit Tech, LLC.”
 
 </details>
 
@@ -82,7 +82,7 @@ Source: [District 3: Sacaton | Gila River Indian Community](https://www.gilarive
 - **[Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-41): “Located on a Native American reservation in a town called Saukett in Arizona, ... the business that they filed is called Desert Spirit Tech, LLC.”
+- [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:13:20](/episodes/ep-gG4ZoYUjUc8.md#t-00-12-55): “Located on a Native American reservation in a town called Saukett in Arizona, ... the business that they filed is called Desert Spirit Tech, LLC.”
 
 </details>
 
@@ -96,7 +96,7 @@ Source: [District 3: Sacaton | Gila River Indian Community](https://www.gilarive
 <details>
 <summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (1)</summary>
 
-- [00:14:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-05) (Claim) **Candace Owens**: ["The business address listed for Desert Spirit Tek, 26 Rose and Thobie,..."](/statements/statement-0916860698c2.md)
+- [00:14:21](/episodes/ep-gG4ZoYUjUc8.md#t-00-14-11) (Claim) **Candace Owens**: ["The business address listed for Desert Spirit Tek, 26 Rose and Thobie,..."](/statements/statement-0916860698c2.md)
   - Also about: [Desert Spirit Tek, LLC](/entities/org-desert-spirit-tek.md)
 
 </details>

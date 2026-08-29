@@ -27,7 +27,7 @@ Source: [Town of Paradise Valley history](https://www.paradisevalleyaz.gov/Docum
 <div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -93,7 +93,29 @@ Source: [Town of Paradise Valley history](https://www.paradisevalleyaz.gov/Docum
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Location Of (1)</summary>
+
+- **[Tesseract School](/entities/org-tesseract-school.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19): “when these powerful families decided to start the Tesseract School in Arizona, they began with a small school in Paradise Valley first.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Tesseract School](/entities/org-tesseract-school.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19): “when these powerful families decided to start the Tesseract School in Arizona, they began with a small school in Paradise Valley first.”
+
+</details>
+
+</details>
 
 </details>
 

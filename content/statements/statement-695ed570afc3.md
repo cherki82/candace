@@ -27,7 +27,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:07:04](/episodes/ep-GY6GWceEqtQ.md#t-00-06-27) 
+**Timestamp:** [00:07:04](/episodes/ep-GY6GWceEqtQ.md#t-00-07-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(424);return false;">Play</a>
 
 > We've had a contract to speak going back to like what, 2019,

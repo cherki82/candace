@@ -375,9 +375,10 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <summary>Attended By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:20:16](/episodes/ep-KpxIBWkNsSs.md#t-00-19-59): “We never even covered that the whole educational background is made up virtually the entire. I mean, she did receive her master's from Liberty University online.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:32:33](/episodes/ep-ti5Fxrvegno.md#t-00-32-21): “she is both running a fashion brand, getting her master's at Liberty University, getting her real estate license and beginning a career with Corcoran Real Estate”
 
 </details>
 
@@ -492,9 +493,10 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** attended this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:20:16](/episodes/ep-KpxIBWkNsSs.md#t-00-19-59): “We never even covered that the whole educational background is made up virtually the entire. I mean, she did receive her master's from Liberty University online.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:32:33](/episodes/ep-ti5Fxrvegno.md#t-00-32-21): “she is both running a fashion brand, getting her master's at Liberty University, getting her real estate license and beginning a career with Corcoran Real Estate”
 
 </details>
 

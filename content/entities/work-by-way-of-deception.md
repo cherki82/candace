@@ -16,8 +16,8 @@ _Type: Works & Media_
 Source: [By Way of Deception](https://en.wikipedia.org/wiki/By_Way_of_Deception)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-by-way-of-deception-t-01-27-52">2026-01-29 · 01:27:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-by-way-of-deception-t-01-28-13">2026-01-29 · 01:28:15</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-by-way-of-deception-t-01-27-52">2026-01-29 · 01:27:40</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-by-way-of-deception-t-01-28-13">2026-01-29 · 01:28:13</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -49,13 +49,13 @@ Source: [By Way of Deception](https://en.wikipedia.org/wiki/By_Way_of_Deception)
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
 
-**[01:27:48](/episodes/ep-xjzb_t5Tk9o.md#ent-work-by-way-of-deception-t-01-27-52)**
+**[01:27:40](/episodes/ep-xjzb_t5Tk9o.md#ent-work-by-way-of-deception-t-01-27-52)**
 > "It's called By Way of Deception"
 
 **[01:27:52](/episodes/ep-xjzb_t5Tk9o.md#ent-work-by-way-of-deception-t-01-27-52)**
 > "It's called By Way of Deception."
 
-**[01:28:15](/episodes/ep-xjzb_t5Tk9o.md#ent-work-by-way-of-deception-t-01-28-13)**
+**[01:28:13](/episodes/ep-xjzb_t5Tk9o.md#ent-work-by-way-of-deception-t-01-28-13)**
 > "By way of deception was the only book in the history of American lite..."
 
 </details>

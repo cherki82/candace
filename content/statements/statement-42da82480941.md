@@ -32,7 +32,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md)
-**Timestamp:** [00:40:26](/episodes/ep-GY6GWceEqtQ.md#t-00-40-11) 
+**Timestamp:** [00:40:26](/episodes/ep-GY6GWceEqtQ.md#t-00-40-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2426);return false;">Play</a>
 
 > goes on, since the moment that I started standing up for myself with my family, ... I've received endless attacks from my parents, both privately and publicly, that were sent to the press on their orders. ... Even my brothers were sent to attack me on social media before they ultimately blocked me out of nowhere this last summer.

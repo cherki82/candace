@@ -252,9 +252,10 @@ Source: [Arizona State University](https://www.asu.edu/)
 <summary>Attended By (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:17:49](/episodes/ep-KpxIBWkNsSs.md#t-00-17-21): “And when they were trying out for the Great American Race in the video that she submitted, she said that she graduated from ASU magna cum laude.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:35:51](/episodes/ep-ti5Fxrvegno.md#t-00-35-20): “she's got so many universities she went to, is everything online beyond first semester of freshman year? Regis University, we have Loyola Marymount University. We've got Arizona State University. We've got Liberty University.”
 
 </details>
 
@@ -312,9 +313,10 @@ Source: [Arizona State University](https://www.asu.edu/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** attended this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:17:49](/episodes/ep-KpxIBWkNsSs.md#t-00-17-21): “And when they were trying out for the Great American Race in the video that she submitted, she said that she graduated from ASU magna cum laude.”
+- [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:35:51](/episodes/ep-ti5Fxrvegno.md#t-00-35-20): “she's got so many universities she went to, is everything online beyond first semester of freshman year? Regis University, we have Loyola Marymount University. We've got Arizona State University. We've got Liberty University.”
 
 </details>
 

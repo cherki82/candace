@@ -44,7 +44,7 @@ _No relationships extracted yet._
 - [00:24:51](/episodes/ep-Wjul6YV6izo.md#t-00-24-09) [○] (Claim) ["The memorial service for Charlie Kirk was expected to cost approximately $6 mill..."](/statements/statement-0fccae34b72b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:24:55](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) [○] (Claim) ["Donald Trump had to become personally involved to secure State Farm Stadium for ..."](/statements/statement-3999c954cfb4.md)
+- [00:24:55](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) [○] (Claim) ["Apparently, Donald Trump had to become personally involved to secure State Farm ..."](/statements/statement-3999c954cfb4.md)
   - About: [Donald J. Trump](/entities/person-donald-trump.md), [State Farm Stadium](/entities/org-state-farm-stadium.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:24:59](/episodes/ep-Wjul6YV6izo.md#t-00-24-54) [✗] (Claim) ["A large and lucrative RV show was scheduled at State Farm Stadium during the wee..."](/statements/statement-0e440aece08c.md)

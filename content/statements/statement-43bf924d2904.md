@@ -4,9 +4,10 @@ description: "\"Anti-Zionism is antisemitism because denying only the Jewish peo
 statement_id: "statement-43bf924d2904"
 speaker: "Anonymous Source #2 (Ep hWTdXHGQ8R4)"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,8 +37,21 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped clip quotes a hearing witness. The official Justice Department transcript attributes this argument to Rabbi Ari Berman at 01:34:31 and records the anti-Zionism, Jewish self-determination, country-count, double-standard, hypocrisy, and antisemitism language. This verifies the quotation and attribution; the underlying classification remains the witness's definitional opinion.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Transcript: Fifth Hearing of the Religious Liberty Commission, Parts I and II](https://www.justice.gov/religious-liberty-commission/media/1435436/dl?inline=)
+
+*Verified: 2026-08-29T15:31:39.303206*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

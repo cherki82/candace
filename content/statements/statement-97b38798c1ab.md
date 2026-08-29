@@ -29,7 +29,7 @@ type: "factual_claim"
 ### 1. Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace E...
 
 **Episode:** [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md)
-**Timestamp:** [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-08-08) 
+**Timestamp:** [01:08:14](/episodes/ep-QdM9jLwjwLw.md#t-01-07-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4094);return false;">Play</a>
 
 > And Bassem Youssef was a major reason that I woke up and The Daily Wire denied my request while I was there to have him on my show.

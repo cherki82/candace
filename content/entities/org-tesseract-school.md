@@ -28,7 +28,7 @@ Source: [Town of Paradise Valley — Tesseract School special-use record](https:
 <div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -212,6 +212,30 @@ Source: [Town of Paradise Valley — Tesseract School special-use record](https:
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Attended By (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19): “It is that specific school that Erica (Erika Kirk) attended that is virtually impossible to come by many documents regarding.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Based In (1)</summary>
+
+- **[Paradise Valley, Arizona](/entities/gpe-paradise-valley-arizona.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19): “when these powerful families decided to start the Tesseract School in Arizona, they began with a small school in Paradise Valley first.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -280,7 +304,7 @@ Source: [Town of Paradise Valley — Tesseract School special-use record](https:
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[John T. Golle](/entities/person-john-t-golle.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -301,6 +325,13 @@ Source: [Town of Paradise Valley — Tesseract School special-use record](https:
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:05](/episodes/ep-ZAsV0fHGBiM.md#t-00-51-40): “John T. Golle and Jeb Bush went on to Good Morning America to announce the project the schools would come to be known as Tesseract Schools”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:31:37](/episodes/ep-1IY2oD-_xVA.md#t-00-31-31): “Well, I told you already that John T. Golle is the CEO of Tesseract. He does that announcement about it with Jeb Bush, who is supporting charter schools.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:38](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19): “It is that specific school that Erica (Erika Kirk) attended that is virtually impossible to come by many documents regarding.”
 
 </details>
 
@@ -337,6 +368,13 @@ Source: [Town of Paradise Valley — Tesseract School special-use record](https:
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:34:12](/episodes/ep-1IY2oD-_xVA.md#t-00-34-08): “this particular Tesseract in Paradise Valley, which eventually shuttered in 2000 from history. ... I told you already that John Walton, obviously the son of Walmart founder Sam Walton, is a major investor and he also sits on the board.”
+
+</details>
+
+- **[Paradise Valley, Arizona](/entities/gpe-paradise-valley-arizona.md)** location of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:52:31](/episodes/ep-ZAsV0fHGBiM.md#t-00-52-19): “when these powerful families decided to start the Tesseract School in Arizona, they began with a small school in Paradise Valley first.”
 
 </details>
 

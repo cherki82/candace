@@ -167,7 +167,7 @@ Source: [Babylon | UNESCO World Heritage Centre](https://whc.unesco.org/en/list/
 <details>
 <summary>REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 (1)</summary>
 
-- [00:16:23](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba**: ["The United States established 500 military bases and the world's large..."](/statements/statement-0a48e8c11483.md)
+- [00:16:23](/episodes/ep-DYD_QHMPwqM.md#t-00-16-16) (Claim) **Rob Skiba** (via quoted speech): ["The United States established 500 military bases and the world's large..."](/statements/statement-0a48e8c11483.md)
   - Also about: [Iraq](/entities/gpe-iraq.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </details>

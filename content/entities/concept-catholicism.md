@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 234 mentions"
+description: "Catholicism (Concepts) - 231 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -23,7 +23,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-31">2025-10-02 · 00:03:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-concept-catholicism-t-00-42-32">2026-08-18 · 00:43:02</a></strong></div>
 <div><span>Episodes</span><strong>61</strong></div>
-<div><span>Mentions</span><strong>234</strong></div>
+<div><span>Mentions</span><strong>231</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -43,11 +43,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-48-21" style="--pulse-height:12%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-catholicism-t-00-46-23" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-33" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-18" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-33" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 3 mentions" title="2026-01-21 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-12" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-19" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-16" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-15" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-catholicism-t-00-05-01" style="--pulse-height:12%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-catholicism-t-00-16-46" style="--pulse-height:12%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-catholicism-t-00-16-46" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-catholicism-t-00-06-13" style="--pulse-height:72%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 18 mentions" title="2026-01-30 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-catholicism-t-00-08-34" style="--pulse-height:16%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-concept-catholicism-t-00-14-09" style="--pulse-height:20%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 5 mentions" title="2026-02-03 · 5 mentions"><span></span></a>
@@ -109,11 +109,11 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-48-21) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-catholicism-t-00-46-23) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-33) | 1 |
-| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-18) | 1 |
-| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-33) | 3 |
-| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-12) | 3 |
+| 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-19) | 1 |
+| 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-16) | 2 |
+| 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-15) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-catholicism-t-00-05-01) | 3 |
-| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-catholicism-t-00-16-46) | 3 |
+| 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-catholicism-t-00-16-46) | 2 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-catholicism-t-00-06-13) | 18 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-catholicism-t-00-08-34) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-concept-catholicism-t-00-14-09) | 5 |
@@ -168,7 +168,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (234)</strong></summary>
+<summary><strong class="section-title">Raw mentions (231)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -995,7 +995,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > "...s in rome it's the number one catholic answer engine in the world for a reason if you wa..."
 
 **[00:36:53](/episodes/ep-Wjul6YV6izo.md#ent-concept-catholicism-t-00-36-20)**
-> "...iece that I have found in the Catholic faith, you should start here."
+> "depth and the peace that I have found in the Catholic faith, you should start here."
 
 **[00:52:58](/episodes/ep-Wjul6YV6izo.md#ent-concept-catholicism-t-00-52-58)**
 > "...ohn Heinzel writes, JFK was a Catholic and Charlie was at a minimum Catholic-curious."
@@ -1012,16 +1012,13 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (3 mentions)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (2 mentions)</summary>
 
 **[00:17:01](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-catholicism-t-00-16-46)**
 > "work Catholic today"
 
 **[00:41:27](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-catholicism-t-00-41-20)**
 > "It is the number one Catholic answer engine in the world for a reason."
-
-**[00:41:30](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-catholicism-t-00-41-20)**
-> "...eace that I have found in the Catholic faith,"
 
 </details>
 
@@ -1040,37 +1037,31 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 </details>
 
 <details>
-<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (3 mentions)</summary>
+<summary>Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 (2 mentions)</summary>
 
-**[00:19:38](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-12)**
+**[00:19:38](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-15)**
 > "It is the number one Catholic answer engine in the world for a reason."
 
-**[00:19:43](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-12)**
-> "...eace that I have found in the Catholic faith,"
-
-**[00:42:20](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-41-46)**
+**[00:42:20](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-42-20)**
 > "... a disagreement with me. I am Catholic about that at all."
 
 </details>
 
 <details>
-<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (3 mentions)</summary>
+<summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (2 mentions)</summary>
 
-**[00:23:42](/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-33)**
-> "found in the Catholic faith"
-
-**[00:23:39](/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-33)**
+**[00:23:39](/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-16)**
 > "It's the number one Catholic answer engine in the world for a reason."
 
 **[01:04:33](/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-01-04-33)**
-> "...o push me to speak more about catholicism i tell them i'm i'm like a young pup there are so..."
+> "That's not me. No, I want to be considered legitimate. And so, when people try to push me to speak more about Catholicism, I tell them I'm like a young pup. There are so many people who are way better suited, my husband among them, who would never even want to have the platform or have a camera in front of his face. But you could go pursue that with a priest. You know, you don't need influencers to tell you about the Lord. There are priests that you can sit down with and speak to"
 
 </details>
 
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:44:28](/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-18)**
+**[00:44:27](/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-19)**
 > "It's people that in my honest Catholic opinion,"
 
 </details>

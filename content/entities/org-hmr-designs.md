@@ -17,8 +17,8 @@ _Type: Organizations_
 Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm Beach Estate](https://www.vogue.com/article/nicola-peltz-marries-brooklyn-beckham-palm-beach-wedding)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-hmr-designs-t-00-42-06">2026-01-21 · 00:42:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-hmr-designs-t-00-42-06">2026-01-21 · 00:42:27</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-hmr-designs-t-00-42-06">2026-01-21 · 00:42:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-hmr-designs-t-00-42-06">2026-01-21 · 00:42:22</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -50,7 +50,7 @@ Source: [Nicola Peltz Marries Brooklyn Beckham at Her Family’s Oceanfront Palm
 <details>
 <summary>IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 (1 mentions)</summary>
 
-**[00:42:27](/episodes/ep-GY6GWceEqtQ.md#ent-org-hmr-designs-t-00-42-06)**
+**[00:42:22](/episodes/ep-GY6GWceEqtQ.md#ent-org-hmr-designs-t-00-42-06)**
 > "decorated by HMR Designs"
 
 </details>

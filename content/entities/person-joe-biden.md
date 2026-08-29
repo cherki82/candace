@@ -1,6 +1,6 @@
 ---
 title: "Joe Biden"
-description: "Joe Biden (People) - 49 mentions"
+description: "Joe Biden (People) - 50 mentions"
 id: "person-joe-biden"
 type: "PERSON"
 aliases:
@@ -25,8 +25,8 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-biden-t-00-16-13">2025-10-29 · 00:16:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-joe-biden-t-00-40-03">2026-08-07 · 00:40:03</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -50,6 +50,7 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 <a href="/episodes/ep-1QZ4X6q1DPg.md#t-00-00-01" style="--pulse-height:100%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 12 mentions" title="2026-05-18 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-joe-biden-t-00-41-52" style="--pulse-height:83%" aria-label="Candace x Hunter Biden: The Interview: 10 mentions" title="2026-05-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-joe-biden-t-00-43-38" style="--pulse-height:42%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 5 mentions" title="2026-05-26 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5NQyGuRYbU8.md#ent-person-joe-biden-t-00-21-50" style="--pulse-height:8%" aria-label="Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349: 1 mentions" title="2026-06-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-joe-biden-t-00-55-41" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HZvwbfePe7o.md#ent-person-joe-biden-t-00-27-26" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-joe-biden-t-00-38-38" style="--pulse-height:17%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
@@ -71,6 +72,7 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#t-00-00-01) | 12 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-joe-biden-t-00-41-52) | 10 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-joe-biden-t-00-43-38) | 5 |
+| 2026-06-15 | [Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349](/episodes/ep-5NQyGuRYbU8.md#ent-person-joe-biden-t-00-21-50) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-joe-biden-t-00-55-41) | 1 |
 | 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-joe-biden-t-00-27-26) | 1 |
 | 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-joe-biden-t-00-38-38) | 2 |
@@ -81,7 +83,7 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
@@ -107,6 +109,14 @@ Source: [President Joseph R. Biden | Joseph R. Biden Jr. Presidential Library](h
 
 **[00:55:51](/episodes/ep-EtLHqDbxqks.md#ent-person-joe-biden-t-00-55-41)**
 > "That's true. And here's why: when the Biden administration froze hundreds of billions of dollars that belonged to Russia in response to the Russian invasion of Ukraine,"
+
+</details>
+
+<details>
+<summary>Erika Cries…Again. A Mysterious Death In Pennsylvania Reignites Butler Conspiracies. | Ep 349 (1 mentions)</summary>
+
+**[00:22:08](/episodes/ep-5NQyGuRYbU8.md#ent-person-joe-biden-t-00-21-50)**
+> "What is the context of that? Is that like an inside joke? Is it a threat? Because Donald Trump was not president when the pager operation took place. President Biden was."
 
 </details>
 

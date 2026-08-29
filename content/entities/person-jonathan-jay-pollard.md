@@ -29,7 +29,7 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -97,6 +97,18 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[United States Navy](/entities/org-united-states-navy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:20:16](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00): “Jonathan Pollard scandal of 1987, ... when a U.S. Army contractor, who's actually working for the Navy,”
+
+</details>
+
+</details>
+
+<details>
 <summary>Supported By (1)</summary>
 
 - **[Mike Huckabee](/entities/person-mike-huckabee.md)**
@@ -109,7 +121,14 @@ Source: [FBI: Year of the Spy (1985)](https://www.fbi.gov/history/cases-and-crim
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[United States Navy](/entities/org-united-states-navy.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:20:16](/episodes/ep-CEF7gQRWYCE.md#t-00-20-00): “Jonathan Pollard scandal of 1987, ... when a U.S. Army contractor, who's actually working for the Navy,”
+
+</details>
 
 - **[Mike Huckabee](/entities/person-mike-huckabee.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

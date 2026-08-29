@@ -21,8 +21,8 @@ _Type: Events_
 Source: [AP: Father and son gunmen attack Bondi Beach Hanukkah event](https://apnews.com/article/31f711f09f677d0f88091ece25f651c1)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-event-2025-bondi-beach-shooting-t-00-15-28">2026-01-29 · 00:15:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-event-2025-bondi-beach-shooting-t-00-15-28">2026-01-29 · 00:15:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-event-2025-bondi-beach-shooting-t-00-15-28">2026-01-29 · 00:15:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-event-2025-bondi-beach-shooting-t-00-15-28">2026-01-29 · 00:15:28</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -54,7 +54,7 @@ Source: [AP: Father and son gunmen attack Bondi Beach Hanukkah event](https://ap
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>
 
-**[00:15:31](/episodes/ep-xjzb_t5Tk9o.md#ent-event-2025-bondi-beach-shooting-t-00-15-28)**
+**[00:15:28](/episodes/ep-xjzb_t5Tk9o.md#ent-event-2025-bondi-beach-shooting-t-00-15-28)**
 > "the Bondi attack"
 
 </details>

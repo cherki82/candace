@@ -226,7 +226,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 **[00:49:20](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-00-49-20)**
 > "buy TikTok"
 
-**[00:52:16](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-00-49-20)**
+**[00:52:14](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-00-49-20)**
 > "when there's no more TikToks to buy,"
 
 **[00:52:49](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-00-52-49)**
@@ -235,7 +235,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 **[01:38:00](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-01-38-00)**
 > "like taking away your tiktok taking away your CNN and HBO and just like giving..."
 
-**[01:38:17](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-01-38-08)**
+**[01:38:13](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-01-38-08)**
 > "... a bajillionaire and I bought TikTok."
 
 **[01:44:43](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-01-44-43)**

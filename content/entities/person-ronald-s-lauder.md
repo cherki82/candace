@@ -22,8 +22,8 @@ _Type: People_
 Source: [Ronald S. Lauder | World Jewish Congress](https://www.worldjewishcongress.org/en/about/president)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-ronald-s-lauder-t-00-40-49">2026-01-20 · 00:41:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-ronald-s-lauder-t-00-40-49">2026-01-20 · 00:41:00</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-ronald-s-lauder-t-00-40-49">2026-01-20 · 00:40:56</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-person-ronald-s-lauder-t-00-40-49">2026-01-20 · 00:40:56</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -55,7 +55,7 @@ Source: [Ronald S. Lauder | World Jewish Congress](https://www.worldjewishcongre
 <details>
 <summary>Candace x Baron Coleman LIVE!! | Candace Ep 293 (1 mentions)</summary>
 
-**[00:41:00](/episodes/ep-9naMwS0kMBE.md#ent-person-ronald-s-lauder-t-00-40-49)**
+**[00:40:56](/episodes/ep-9naMwS0kMBE.md#ent-person-ronald-s-lauder-t-00-40-49)**
 > "...rld Jewish Congress president Ronald Lauder is involved in Trump's push for Greenland. Here w..."
 
 </details>

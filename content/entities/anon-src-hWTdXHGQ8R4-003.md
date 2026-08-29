@@ -40,7 +40,7 @@ _No relationships extracted yet._
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (7)</summary>
 
-- [00:39:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-45) [◐] (Claim) ["The All-American Halftime Show was filmed weeks in advance in Fayetteville, Geor..."](/statements/statement-eea485e7dbd6.md)
+- [00:39:11](/episodes/ep-hWTdXHGQ8R4.md#t-00-38-53) [◐] (Claim) ["The All-American Halftime Show was filmed weeks in advance in Fayetteville, Geor..."](/statements/statement-eea485e7dbd6.md)
   - About: [The All-American Halftime Show](/entities/event-all-american-halftime-show-2026.md), [Fayetteville, Georgia](/entities/gpe-fayetteville-georgia.md)
 
 - [00:39:28](/episodes/ep-hWTdXHGQ8R4.md#t-00-39-28) [○] (Claim) ["Performers at the All-American Halftime Show did three to five takes per song, e..."](/statements/statement-d52f602b5b67.md)
